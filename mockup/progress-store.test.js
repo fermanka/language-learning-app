@@ -1,0 +1,84 @@
+// Tests for the progress log without a browser, on an in-memory fake folder.
+// Run: node mockup/progress-store.test.js
+const { FolderStore, ProgressLog, fold } = require('./progress-store.js');
+
+class FakeFile {
+  constructor() { this.kind = 'file'; this.data = ''; }
+  async getFile() { const d = this.data; return { size: d.length, text: async () => d }; }
+  async createWritable(opts = {}) {
+    const f = this; let buf = opts.keepExistingData ? f.data : ''; let pos = buf.length;
+    return { seek: async (p) => { pos = p; }, write: async (chunk) => { const s = typeof chunk === 'string' ? chunk : '[binary]'; buf = buf.slice(0, pos) + s; pos = buf.length; }, close: async () => { f.data = buf; } };
+  }
+}
+class FakeDir {
+  constructor() { this.kind = 'directory'; this.map = new Map(); }
+  async getDirectoryHandle(name, o = {}) { if (!this.map.has(name)) { if (!o.create) throw new Error('not found'); this.map.set(name, new FakeDir()); } return this.map.get(name); }
+  async getFileHandle(name, o = {}) { if (!this.map.has(name)) { if (!o.create) throw new Error('not found'); this.map.set(name, new FakeFile()); } return this.map.get(name); }
+  async *entries() { for (const e of this.map.entries()) yield e; }
+}
+
+let bad = 0;
+const t = (name, ok) => { if (!ok) { bad++; console.log('FAIL', name); } };
+
+(async () => {
+  const root = new FakeDir();
+  const store = new FolderStore(root, { device: 'laptop' });
+
+  // append + read back in order, one file per day per device
+  await store.append({ type: 'lesson_done', lesson: 'nl-les-01', t: '2026-09-19T10:00:00.000Z' });
+  await store.append({ type: 'exercise_checked', lesson: 'nl-les-02', exercise: 1, ok: 3, total: 5, t: '2026-09-19T10:05:00.000Z' });
+  await store.append({ type: 'exercise_checked', lesson: 'nl-les-02', exercise: 1, ok: 5, total: 5, t: '2026-09-20T09:00:00.000Z' });
+  const progressDir = await root.getDirectoryHandle('progress');
+  const files = [...progressDir.map.keys()].sort();
+  t('one file per day per device', files.join() === '2026-09-19.laptop.ndjson,2026-09-20.laptop.ndjson');
+  let r = await store.readAll();
+  t('three events read back in time order', r.events.length === 3 && r.events[0].type === 'lesson_done' && r.events[2].ok === 5 && r.bad === 0);
+
+  // append never rewrites: earlier lines stay byte-identical
+  const before = progressDir.map.get('2026-09-19.laptop.ndjson').data;
+  await store.append({ type: 'lesson_done', lesson: 'nl-les-03', t: '2026-09-19T11:00:00.000Z' });
+  const after = progressDir.map.get('2026-09-19.laptop.ndjson').data;
+  t('append-only: old lines unchanged', after.startsWith(before) && after.length > before.length);
+
+  // a damaged line is skipped and counted, the rest survives
+  progressDir.map.get('2026-09-19.laptop.ndjson').data += '{"type":"lesson_done","lesson":"nl-les-9\n';
+  r = await store.readAll();
+  t('damaged line skipped and counted', r.bad === 1 && r.events.length === 4);
+
+  // state is a fold over the events
+  const s = fold(r.events);
+  t('fold: lessons 1 and 3 done', s.lessons['nl-les-01'].done && s.lessons['nl-les-03'].done && !s.lessons['nl-les-02']);
+  t('fold: exercise best/attempts/last', s.exercises['nl-les-02#1'].best === 5 && s.exercises['nl-les-02#1'].attempts === 2 && s.exercises['nl-les-02#1'].last.ok === 5);
+
+  // deleting the derived state loses nothing: a fresh store reads the same log
+  const again = new FolderStore(root, { device: 'laptop' });
+  t('a fresh store sees the same history', (await again.readAll()).events.length === 4);
+
+  // ProgressLog: events recorded before a folder is connected are queued, then written; nothing is lost or doubled
+  const log = new ProgressLog();
+  log.record({ type: 'lesson_done', lesson: 'nl-les-05' });
+  log.record({ type: 'exercise_checked', lesson: 'nl-les-05', exercise: 0, ok: 2, total: 4 });
+  t('unsaved counter before connecting', !log.connected && log.unsaved === 2);
+  const root2 = new FakeDir();
+  await log.attach(new FolderStore(root2));
+  t('queue flushed on connect', log.unsaved === 0 && (await new FolderStore(root2).readAll()).events.length === 2);
+  log.record({ type: 'lesson_done', lesson: 'nl-les-06' });
+  await new Promise((res) => setTimeout(res, 5));
+  t('later events go straight to the folder', (await new FolderStore(root2).readAll()).events.length === 3);
+  t('state from the log', log.state().lessons['nl-les-06'].done && log.state().exercises['nl-les-05#0'].last.ok === 2);
+
+  // a folder that fails to write is reported, not hidden
+  const broken = { readAll: async () => ({ events: [], bad: 0 }), append: async () => { throw new Error('disk full'); } };
+  const log2 = new ProgressLog();
+  await log2.attach(broken);
+  log2.record({ type: 'lesson_done', lesson: 'nl-les-01' });
+  await new Promise((res) => setTimeout(res, 5));
+  t('failed write is counted as unsaved', log2.failures === 1 && log2.unsaved === 1);
+
+  // recording is written into its own folder
+  await store.saveRecording('les-01-2026-09-19.webm', 'blob');
+  t('recording saved under recordings/', (await root.getDirectoryHandle('recordings')).map.has('les-01-2026-09-19.webm'));
+
+  console.log(bad ? `FAILURES: ${bad}` : 'PROGRESS STORE TESTS PASSED');
+  process.exit(bad ? 1 : 0);
+})();
