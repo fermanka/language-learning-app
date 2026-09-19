@@ -230,12 +230,91 @@ if (typeof document === 'undefined') {
     });
   }
 
-  // ---- Cards tab: first step, shows what the deck will be made of
-  function renderCards() {
-    const doneLessons = LESSONS.filter((_, i) => isDone(i));
-    const words = doneLessons.reduce((n, L) => n + L.notes.length, 0);
-    $('cards-count').textContent = doneLessons.length ? `У колоді буде ${words} слів і форм з ${doneLessons.length} пройдених уроків.` : 'Колода з\'явиться, коли ти позначиш перший урок пройденим.';
+  // ---- Cards tab: spaced repetition (FSRS). Card state is replayed from the review log, never stored.
+  const F = window.FSRS, CardsLib = window.Cards;
+  const cardCfg = { newPerDay: 10, sessionCap: 30, shortCap: 15 };
+  const dutchHelpers = { display, pluralText };
+  let session = null; // { left, reviewed, card, revealed, shownAt }
+  const currentDeck = () => CardsLib.buildDeck(LESSONS.filter((_, i) => isDone(i)));
+  const cardStates = () => CardsLib.replay(log.events, F);
+
+  function renderCardsStats() {
+    if (!F) { $('cards-stats').textContent = 'Немає бібліотеки планувальника. Виконай npm install у теці застосунку.'; return; }
+    const s = CardsLib.stats(currentDeck(), cardStates(), log.events, new Date(), cardCfg);
+    $('cards-stats').textContent = s.total
+      ? `Карток у колоді: ${s.total} · на повторення зараз: ${s.due} · нових на сьогодні: ${s.newRoom} · вивчено: ${s.learned}`
+      : 'Колода з\'явиться, коли ти позначиш перший урок пройденим.';
   }
+
+  function startSession(cap) { session = { left: cap, reviewed: 0 }; nextCard(); }
+  function nextCard() {
+    const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, limit: 1 }) : [];
+    session.card = q[0] || null; session.revealed = false; session.shownAt = Date.now();
+    renderStage();
+    if (session.card) { const v = CardsLib.present(session.card, currentDeck().notes.get(session.card.noteId), dutchHelpers); if (v.front.audio) play(v.front.audio); }
+  }
+  function reveal() {
+    session.revealed = true; renderStage();
+    const v = CardsLib.present(session.card, currentDeck().notes.get(session.card.noteId), dutchHelpers);
+    if (v.back.audio) play(v.back.audio);
+  }
+  function rateCard(r) {
+    log.record({ type: 'card_review', card: session.card.id, rating: r, ms: Date.now() - session.shownAt });
+    session.left--; session.reviewed++;
+    nextCard();
+  }
+
+  function renderStage() {
+    const stage = $('cards-stage'); stage.innerHTML = '';
+    renderCardsStats();
+    if (!F) return;
+    const deck = currentDeck();
+    if (!deck.cards.length) return;
+    const box = el('div', 'fc');
+    if (!session) {
+      box.append(el('p', 'meta', 'Не хвилюйся, якщо карток накопичилось багато: за один раз показується не більше ' + cardCfg.sessionCap + ', найстаріші першими.'));
+      const go = el('button', 'btn primary', 'Почати повторення'); go.onclick = () => startSession(cardCfg.sessionCap);
+      const short = el('button', 'btn', `Коротка сесія (${cardCfg.shortCap} карток)`); short.onclick = () => startSession(cardCfg.shortCap);
+      const actions = el('div', 'fc-actions'); actions.append(go, short); box.append(actions);
+      stage.append(box); return;
+    }
+    if (!session.card) {
+      const now = new Date(), states = cardStates();
+      const soon = deck.cards.filter((c) => states.has(c.id) && states.get(c.id).due > now && states.get(c.id).due - now <= 20 * 60000).length;
+      box.append(el('p', null, session.reviewed ? `Готово: переглянуто карток ${session.reviewed}.` : 'На зараз карток немає.'));
+      if (soon) box.append(el('p', 'meta', `Ще ${soon} карток повернуться протягом 20 хвилин.`));
+      const end = el('button', 'btn primary', 'Закрити'); end.onclick = () => { session = null; renderStage(); };
+      const actions = el('div', 'fc-actions'); actions.append(end); box.append(actions);
+      stage.append(box); return;
+    }
+    const c = session.card, note = deck.notes.get(c.noteId), v = CardsLib.present(c, note, dutchHelpers);
+    box.append(el('div', 'fc-count', `Залишилось у сесії: ${session.left}`));
+    const card = el('div', 'fc-card');
+    const side = (s) => { card.append(el('div', 'fc-text', s.text)); if (s.sub) card.append(el('div', 'fc-sub', s.sub)); if (s.audio) card.append(iconBtn(s.audio)); };
+    side(v.front);
+    if (session.revealed) { card.append(el('hr', 'fc-hr')); side(v.back); }
+    box.append(card);
+    if (!session.revealed) {
+      const show = el('button', 'btn primary', 'Показати відповідь (Пробіл)'); show.onclick = reveal;
+      const actions = el('div', 'fc-actions'); actions.append(show); box.append(actions);
+    } else {
+      const now = new Date(), pv = CardsLib.previews(cardStates().get(c.id), now, F), grid = el('div', 'fc-rate');
+      [['Знову', 1], ['Важко', 2], ['Добре', 3], ['Легко', 4]].forEach(([label, r]) => {
+        const rb = el('button', 'btn'); rb.append(el('span', null, `${r} · ${label}`), el('small', null, CardsLib.humanize(pv[r], now))); rb.onclick = () => rateCard(r); grid.append(rb);
+      });
+      box.append(grid);
+    }
+    const stop = el('button', 'btn', 'Завершити сесію'); stop.onclick = () => { session = null; renderStage(); };
+    const tail = el('div', 'fc-actions'); tail.append(stop); box.append(tail);
+    stage.append(box);
+  }
+  if (document.addEventListener) document.addEventListener('keydown', (e) => {
+    if (!session || !session.card || !$('view-cards').classList.contains('active')) return;
+    if (e.target && ['INPUT', 'SELECT', 'TEXTAREA'].includes(e.target.tagName)) return;
+    if (!session.revealed) { if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); reveal(); } }
+    else if (['1', '2', '3', '4'].includes(e.key)) rateCard(Number(e.key));
+    else if (e.key === ' ') { e.preventDefault(); rateCard(3); }
+  });
 
   // ---- Where progress is saved
   const canPick = typeof window.showDirectoryPicker === 'function';
@@ -251,7 +330,7 @@ if (typeof document === 'undefined') {
     box.classList.toggle('warn', warn);
     btn.hidden = !showBtn; btn.textContent = label;
   }
-  log.onChange = () => { renderProgress(); renderStatus(); renderCards(); };
+  log.onChange = () => { renderProgress(); renderStatus(); renderCardsStats(); };
   async function connect(handle) {
     const perm = await handle.requestPermission({ mode: 'readwrite' });
     if (perm !== 'granted') { toast('Доступ до теки не надано.'); return; }
@@ -289,6 +368,7 @@ if (typeof document === 'undefined') {
 
   function show(view) {
     document.querySelectorAll('.view').forEach((v) => v.classList.toggle('active', v.id === 'view-' + view));
+    if (view === 'cards') renderStage();
     document.querySelectorAll('#nav button').forEach((b) => b.classList.toggle('active', b.dataset.view === view));
     window.scrollTo(0, 0);
   }
@@ -336,7 +416,9 @@ if (typeof document === 'undefined') {
   });
   applyTheme();
 
+  window.progressLog = log; // handy for tests
   renderWords();
   renderLesson(0);
   renderStatus();
+  renderCardsStats();
 }

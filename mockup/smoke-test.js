@@ -13,18 +13,20 @@ class El {
   append(...nodes) { nodes.forEach((n) => { const node = typeof n === 'string' ? new Text(n) : n; if (node instanceof El) node.parentNode = this; this.children.push(node); }); }
   after() {}
   remove() { if (this.parentNode) this.parentNode.children = this.parentNode.children.filter((c) => c !== this); }
-  addEventListener() {}
+  addEventListener(type, fn) { (this.listeners = this.listeners || {})[type] = fn; }
   all() { return this.children.flatMap((c) => (c instanceof El ? [c, ...c.all()] : [])); }
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-count', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'upload-btn', 'upload-file', 'upload-note'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'upload-btn', 'upload-file', 'upload-note'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
 global.Audio = class { play() { return Promise.resolve(); } };
 
 window.ProgressStore = require('./progress-store.js');
+window.FSRS = require('ts-fsrs');
+window.Cards = require('./cards.js');
 require('./lesson.js');
 
 let bad = 0;
@@ -78,5 +80,30 @@ t('progress: previous lessons done, last one current', rows.slice(0, N - 1).ever
 t('progress shows exercise results for finished lessons', rows[0].textContent.includes('вправ перевірено'));
 t('words page has every lesson', byId['all-words'].children.filter((e) => e.tag === 'h3').length === N);
 byId['next'].onclick();               // last lesson: must not crash
+// ---- flashcards (every lesson is done at this point, so the deck holds every note twice)
+const deckSize = window.LESSONS.reduce((n, L) => n + L.notes.length, 0) * 2;
+byId['nav'].listeners.click({ target: { dataset: { view: 'cards' } } });   // open the Cards tab
+const stage = () => byId['cards-stage'];
+const press = (label) => {
+  const b = stage().all().find((e) => e.tag === 'button' && e.textContent.includes(label));
+  if (!b) throw new Error('no button: ' + label);
+  b.onclick();
+};
+const reviews = () => window.progressLog.events.filter((e) => e.type === 'card_review');
+t('cards: the stats line shows the whole deck', byId['cards-stats'].textContent.includes('Карток у колоді: ' + deckSize));
+t('cards: new cards are capped at 10 a day', byId['cards-stats'].textContent.includes('нових на сьогодні: 10'));
+press('Почати повторення');
+t('cards: a card is shown with the session counter', stage().textContent.includes('Залишилось у сесії: 30'));
+press('Показати відповідь');
+t('cards: the rating buttons show when the card would return', stage().textContent.includes('1 · Знову') && stage().textContent.includes('4 · Легко') && /хв|дн/.test(stage().textContent));
+press('3 · Добре');
+t('cards: one rating is one appended card_review event', reviews().length === 1 && reviews()[0].rating === 3 && /:nl-ua$/.test(reviews()[0].card));
+t('cards: the session moves on to the next card', stage().textContent.includes('Залишилось у сесії: 29'));
+for (let i = 0; i < 9; i++) { press('Показати відповідь'); press('3 · Добре'); }
+t('cards: after 10 new cards the daily cap ends the session', stage().textContent.includes('Готово: переглянуто карток 10'));
+t('cards: the stats now show no new cards for today', byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
+press('Закрити');
+t('cards: back on the start screen', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Почати повторення')));
+
 console.log(bad ? `FAILURES: ${bad}` : 'SMOKE TEST PASSED');
 process.exit(bad ? 1 : 0);

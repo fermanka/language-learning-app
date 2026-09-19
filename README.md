@@ -9,7 +9,7 @@ Early. What exists today:
 
 - `content/nl/lessons/` - eleven Dutch lessons as JSON (new material, examples, a reading text, exercises with answer keys).
 - `scripts/validate-content.js` - checks every lesson file (structure, permanent ids, answer keys) and audits that a sentence never uses a word that has not been taught yet.
-- `mockup/` - a plain-HTML lesson page (no build step) with audio playback, self-checking exercises, a dark and a light (papyrus) theme, and a progress log.
+- `mockup/` - a plain-HTML lesson page (no build step) with audio playback, self-checking exercises, a dark and a light (papyrus) theme, a progress log, and flashcards with spaced repetition (FSRS).
 - `docs/adr/` - the decisions behind the design (why data lives where it lives, the lesson file format).
 
 There is no server and no account system, on purpose.
@@ -17,10 +17,9 @@ There is no server and no account system, on purpose.
 ## Try the mockup
 
 ```bash
-node scripts/validate-content.js      # check the lessons
-node mockup/build-data.js             # bundles the lesson JSON for the page (file:// pages cannot fetch())
-node mockup/progress-store.test.js    # progress log tests
-node mockup/smoke-test.js             # runs the page code against a fake DOM
+npm install                           # once: installs the spaced-repetition library (ts-fsrs) into node_modules
+npm run build                         # bundles the lesson JSON for the page (file:// pages cannot fetch())
+npm test                              # validates the lessons, then runs the progress, flashcard and page tests
 ```
 
 Then open `mockup/lesson.html` in Chrome or Edge. Audio is not part of this repository: copy
