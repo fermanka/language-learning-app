@@ -1,0 +1,843 @@
+{
+  "id": "nl-les-06",
+  "lang": "nl",
+  "order": 6,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-cd7de530",
+      "type": "function",
+      "lemma": "deze",
+      "ua": "цей, ця (про близьке; з de-словом: deze man, deze kamer; у множині теж: deze huizen)",
+      "audio": "deze.mp3"
+    },
+    {
+      "id": "nl-c8537f30",
+      "type": "function",
+      "lemma": "die",
+      "ua": "той, та (про далеке; з de-словом: die man, die kamer; у множині теж: die huizen)",
+      "audio": "die.mp3"
+    },
+    {
+      "id": "nl-08dd77a6",
+      "type": "function",
+      "lemma": "dat",
+      "ua": "той, та, те (про далеке; з het-словом: dat huis, dat raam); також «то»: Dat is een fiets",
+      "audio": "dat.mp3"
+    },
+    {
+      "id": "nl-ea6535fd",
+      "type": "function",
+      "lemma": "met",
+      "ua": "з, за допомогою (met de bus = автобусом, на автобусі)",
+      "audio": "met.mp3"
+    },
+    {
+      "id": "nl-4bd510d3",
+      "type": "noun",
+      "article": "de",
+      "lemma": "bus",
+      "plural": [
+        "bussen"
+      ],
+      "ua": "автобус",
+      "audio": "de-bus.mp3"
+    },
+    {
+      "id": "nl-4d3905c8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "auto",
+      "plural": [
+        "auto's"
+      ],
+      "ua": "машина, авто",
+      "audio": "de-auto.mp3"
+    },
+    {
+      "id": "nl-77e4c7e8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "taxi",
+      "plural": [
+        "taxi's"
+      ],
+      "ua": "таксі",
+      "audio": "de-taxi.mp3"
+    },
+    {
+      "id": "nl-eb852e19",
+      "type": "noun",
+      "article": "de",
+      "lemma": "fiets",
+      "plural": [
+        "fietsen"
+      ],
+      "ua": "велосипед",
+      "audio": "de-fiets.mp3"
+    },
+    {
+      "id": "nl-17852a81",
+      "type": "function",
+      "lemma": "te voet",
+      "ua": "пішки (вчимо як цілий вираз; de voet = нога, Les 1)",
+      "audio": "te-voet.mp3"
+    },
+    {
+      "id": "nl-3620e264",
+      "type": "verb",
+      "lemma": "lezen",
+      "ua": "читати",
+      "audio": "lezen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "lees",
+          "audio": "ik-lees.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "leest",
+          "audio": "jij-leest.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "leest",
+          "audio": "u-leest.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "leest",
+          "audio": "hij-leest.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "lezen",
+          "audio": "wij-lezen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "lezen",
+          "audio": "jullie-lezen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "lezen",
+          "audio": "zij-lezen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-686a92ad",
+      "type": "verb",
+      "lemma": "drinken",
+      "ua": "пити",
+      "audio": "drinken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "drink",
+          "audio": "ik-drink.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "drinkt",
+          "audio": "jij-drinkt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "drinkt",
+          "audio": "u-drinkt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "drinkt",
+          "audio": "hij-drinkt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "drinken",
+          "audio": "wij-drinken.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "drinken",
+          "audio": "jullie-drinken.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "drinken",
+          "audio": "zij-drinken.mp3"
+        }
+      ]
+    }
+  ],
+  "rule": {
+    "title_ua": "Цей і той: deze, dit, die, dat",
+    "summary_ua": "«Цей» і «той» залежать від слова, яке стоїть після них. З de-словом стоїть deze (цей, ця) або die (той, та). З het-словом стоїть dit (цей, ця, це) або dat (той, та, те). Dit ми знаємо з Les 3, тепер у нього є пара.",
+    "see": "Les 3",
+    "compare": [
+      {
+        "form": "de-слово: deze (цей, ця), die (той, та)",
+        "when_ua": "Іменник з артиклем de: de man, de kamer, de bus. Deze показує на те, що поруч, die на те, що далі.",
+        "examples": [
+          {
+            "nl": "**Deze** man woont hier.",
+            "ua": "Цей чоловік живе тут.",
+            "audio": "les06-example-01.mp3"
+          },
+          {
+            "nl": "**Die** kamer is groot.",
+            "ua": "Та кімната велика.",
+            "audio": "les06-example-02.mp3"
+          },
+          {
+            "nl": "**Deze** man leest een boek.",
+            "ua": "Цей чоловік читає книгу.",
+            "audio": "les06-rule-01.mp3"
+          }
+        ],
+        "note_ua": "В українській три форми: цей, ця, це. У нідерландській для de-слів одна форма: цей чоловік і ця кімната обидва з deze (deze man, deze kamer)."
+      },
+      {
+        "form": "het-слово: dit (цей, це), dat (той, те)",
+        "when_ua": "Іменник з артиклем het: het huis, het raam, het boek. Dit показує на те, що поруч, dat на те, що далі.",
+        "examples": [
+          {
+            "nl": "**Dit** huis is niet groot.",
+            "ua": "Цей дім не великий.",
+            "audio": "les06-example-03.mp3"
+          },
+          {
+            "nl": "**Dat** raam is groot.",
+            "ua": "Те вікно велике.",
+            "audio": "les06-example-04.mp3"
+          },
+          {
+            "nl": "**Dit** boek is groot.",
+            "ua": "Ця книга велика.",
+            "audio": "les06-rule-02.mp3"
+          }
+        ],
+        "note_ua": "Український рід тут не підказка: dit boek = ця книга (жіночий рід), dit raam = це вікно (середній), dit huis = цей дім (чоловічий). Усе це het-слова. Тому іменник вчимо з артиклем, як у Les 1."
+      }
+    ],
+    "points_ua": [
+      "Пара визначається артиклем іменника: de man -> deze man, die man; het huis -> dit huis, dat huis. Близько чи далеко (цей чи той) вирішуєш ти сам.",
+      "Множина завжди йде з de, тому в множині лише deze і die: Deze mannen wonen hier. Однина і множина не збігаються: dit huis, але deze huizen.",
+      "Dit і dat без іменника означають «це» і «то»: Dit is mijn huis (Les 3), Dat is een fiets. Тут форма не залежить від de і het: Dit is de man, Dit is het huis.",
+      "Їхати транспортом: met + de + транспорт: met de bus (автобусом), met de auto (машиною), met de taxi (на таксі), met de fiets (велосипедом). Потяг ти знаєш з Les 5: met de trein. В українській тут орудний відмінок або на + місцевий. У нідерландській відмінків немає, цю роботу робить слово met.",
+      "З будь-яким транспортом підходить gaan: Ik ga met de bus. Zij gaat met de taxi naar huis. Rijden потрібне, коли ти сам керуєш (de auto, de fiets) або коли підмет сам транспорт: De man rijdt met de auto naar het bos. Rijd jij met de fiets? Deze bus rijdt naar het bos. Якщо ти пасажир (de bus, de trein, de taxi), кажи gaan: Ik rijd met de bus прозвучить так, ніби ти водій автобуса.",
+      "Пішки: Wij gaan te voet naar huis або Wij lopen naar huis. Lopen (Les 5) уже значить «іти пішки», тому te voet з ним зазвичай не потрібне. Te voet вчимо як цілий вираз, de voet ти знаєш з Les 1.",
+      "lezen і drinken: ik без закінчення (lees, drink); jij/je, u, hij/zij/het з -t (leest, drinkt); wij, jullie, zij з -en. У формі ik слово lezen пишеться lees: z на кінці слова стає s, а e подвоюється, вимова довгого [е] та сама. У російському «глаз» кінцеве з так само звучить як [с]; в українській так не буває, тому спирайся на російську. Після jij/je -t зникає, як у Les 3: Lees jij dat boek? Drink jij wijn? Після u і hij/zij/het -t лишається: Leest u dat boek? Drinkt hij wijn?"
+    ]
+  },
+  "examples": [
+    {
+      "nl": "Deze man woont hier.",
+      "ua": "Цей чоловік живе тут.",
+      "audio": "les06-example-01.mp3"
+    },
+    {
+      "nl": "Die kamer is groot.",
+      "ua": "Та кімната велика.",
+      "audio": "les06-example-02.mp3"
+    },
+    {
+      "nl": "Dit huis is niet groot.",
+      "ua": "Цей дім не великий.",
+      "audio": "les06-example-03.mp3"
+    },
+    {
+      "nl": "Dat raam is groot.",
+      "ua": "Те вікно велике.",
+      "audio": "les06-example-04.mp3"
+    },
+    {
+      "nl": "Ik ga met de bus.",
+      "ua": "Я їду автобусом.",
+      "audio": "les06-example-05.mp3"
+    },
+    {
+      "nl": "Zij gaat met de taxi naar huis.",
+      "ua": "Вона їде на таксі додому.",
+      "audio": "les06-example-06.mp3"
+    },
+    {
+      "nl": "Deze bus rijdt naar het bos.",
+      "ua": "Цей автобус їде до лісу.",
+      "audio": "les06-example-07.mp3"
+    },
+    {
+      "nl": "De man rijdt met de auto naar het bos.",
+      "ua": "Чоловік їде машиною до лісу.",
+      "audio": "les06-example-08.mp3"
+    },
+    {
+      "nl": "Rijd jij met de fiets?",
+      "ua": "Ти їдеш велосипедом?",
+      "audio": "les06-example-09.mp3"
+    },
+    {
+      "nl": "Wij gaan te voet naar huis.",
+      "ua": "Ми йдемо пішки додому.",
+      "audio": "les06-example-10.mp3"
+    },
+    {
+      "nl": "Wij lopen naar huis.",
+      "ua": "Ми йдемо пішки додому.",
+      "audio": "les06-example-11.mp3"
+    },
+    {
+      "nl": "Ik lees dat boek.",
+      "ua": "Я читаю ту книгу.",
+      "audio": "les06-example-12.mp3"
+    },
+    {
+      "nl": "De man leest een boek in de keuken.",
+      "ua": "Чоловік читає книгу на кухні.",
+      "audio": "les06-example-13.mp3"
+    },
+    {
+      "nl": "Ik drink geen wijn.",
+      "ua": "Я не п'ю вина.",
+      "audio": "les06-example-14.mp3"
+    },
+    {
+      "nl": "Wat drinkt hij?",
+      "ua": "Що він п'є?",
+      "audio": "les06-example-15.mp3"
+    },
+    {
+      "nl": "Ik heb die fiets niet.",
+      "ua": "У мене немає того велосипеда.",
+      "audio": "les06-example-16.mp3"
+    },
+    {
+      "nl": "Heb jij een auto?",
+      "ua": "У тебе є машина?",
+      "audio": "les06-example-17.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Met de bus",
+    "title_ua": "Автобусом",
+    "highlight": [
+      "nl-cd7de530",
+      "nl-c8537f30",
+      "nl-ea6535fd",
+      "nl-4bd510d3",
+      "nl-4d3905c8"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn zoon heeft een auto.",
+        "ua": "У мого сина є машина.",
+        "audio": "les06-reading-01.mp3"
+      },
+      {
+        "nl": "Die auto is groot.",
+        "ua": "Та машина велика.",
+        "audio": "les06-reading-02.mp3"
+      },
+      {
+        "nl": "Hij rijdt met de auto naar het bos.",
+        "ua": "Він їде машиною до лісу.",
+        "audio": "les06-reading-03.mp3"
+      },
+      {
+        "nl": "Ik heb geen auto.",
+        "ua": "У мене немає машини.",
+        "audio": "les06-reading-04.mp3"
+      },
+      {
+        "nl": "Ik ga met de bus.",
+        "ua": "Я їду автобусом.",
+        "audio": "les06-reading-05.mp3"
+      },
+      {
+        "nl": "Ik stap de bus in.",
+        "ua": "Я сідаю в автобус.",
+        "audio": "les06-reading-06.mp3"
+      },
+      {
+        "nl": "Deze bus rijdt een uur.",
+        "ua": "Цей автобус їде годину.",
+        "audio": "les06-reading-07.mp3"
+      },
+      {
+        "nl": "Ik lees een boek.",
+        "ua": "Я читаю книгу.",
+        "audio": "les06-reading-08.mp3"
+      },
+      {
+        "nl": "Nu ben ik in het bos.",
+        "ua": "Зараз я в лісі.",
+        "audio": "les06-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Цей чоловік живе тут.",
+          "cue": "цей (de man); wonen; hier",
+          "accepted": [
+            "Deze man woont hier."
+          ]
+        },
+        {
+          "prompt": "Той дім не великий.",
+          "cue": "той (het huis); zijn; niet groot",
+          "accepted": [
+            "Dat huis is niet groot."
+          ]
+        },
+        {
+          "prompt": "Та кімната велика.",
+          "cue": "та (de kamer); zijn; groot",
+          "accepted": [
+            "Die kamer is groot."
+          ]
+        },
+        {
+          "prompt": "Я їду автобусом.",
+          "cue": "ik + gaan; met de bus",
+          "accepted": [
+            "Ik ga met de bus."
+          ]
+        },
+        {
+          "prompt": "Вона їде на таксі додому.",
+          "cue": "zij (вона) + gaan; met de taxi; naar huis",
+          "accepted": [
+            "Zij gaat met de taxi naar huis.",
+            "Ze gaat met de taxi naar huis."
+          ]
+        },
+        {
+          "prompt": "Чоловік їде машиною до лісу.",
+          "cue": "de man + rijden; met de auto; naar het bos",
+          "accepted": [
+            "De man rijdt met de auto naar het bos.",
+            "De man gaat met de auto naar het bos."
+          ]
+        },
+        {
+          "prompt": "Ми йдемо пішки додому.",
+          "cue": "wij + gaan; te voet; naar huis",
+          "accepted": [
+            "Wij gaan te voet naar huis.",
+            "We gaan te voet naar huis.",
+            "Wij lopen naar huis.",
+            "We lopen naar huis."
+          ]
+        },
+        {
+          "prompt": "Ти їдеш велосипедом?",
+          "cue": "jij + rijden; met de fiets; питання",
+          "accepted": [
+            "Rijd jij met de fiets?",
+            "Rijd je met de fiets?",
+            "Ga jij met de fiets?",
+            "Ga je met de fiets?"
+          ]
+        },
+        {
+          "prompt": "Я читаю ту книгу.",
+          "cue": "ik + lezen; той (het boek)",
+          "accepted": [
+            "Ik lees dat boek."
+          ]
+        },
+        {
+          "prompt": "Чоловік читає книгу на кухні.",
+          "cue": "de man + lezen; een boek; in de keuken",
+          "accepted": [
+            "De man leest een boek in de keuken."
+          ]
+        },
+        {
+          "prompt": "Я не п'ю вина.",
+          "cue": "ik + drinken; wijn, без артикля",
+          "accepted": [
+            "Ik drink geen wijn."
+          ]
+        },
+        {
+          "prompt": "У мене немає цього велосипеда.",
+          "cue": "ik + hebben; цей (de fiets); niet",
+          "accepted": [
+            "Ik heb deze fiets niet."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "deze",
+        "die",
+        "dit",
+        "dat",
+        "met",
+        "te voet",
+        "ga",
+        "gaat",
+        "gaan",
+        "rijd",
+        "rijdt",
+        "leest",
+        "drink",
+        "drinkt",
+        "de bus",
+        "de auto",
+        "de taxi"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ man woont hier.",
+          "hint": "Цей чоловік живе тут.",
+          "accepted": [
+            [
+              "Deze"
+            ]
+          ]
+        },
+        {
+          "text": "___ huis is niet groot.",
+          "hint": "Цей дім не великий.",
+          "accepted": [
+            [
+              "Dit"
+            ]
+          ]
+        },
+        {
+          "text": "___ kamer is groot.",
+          "hint": "Та кімната велика.",
+          "accepted": [
+            [
+              "Die"
+            ]
+          ]
+        },
+        {
+          "text": "___ raam is groot.",
+          "hint": "Те вікно велике.",
+          "accepted": [
+            [
+              "Dat"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ga ___ de bus.",
+          "hint": "Я їду автобусом.",
+          "accepted": [
+            [
+              "met"
+            ]
+          ]
+        },
+        {
+          "text": "Zij gaat met ___ naar huis.",
+          "hint": "Вона їде на таксі додому.",
+          "accepted": [
+            [
+              "de taxi"
+            ]
+          ]
+        },
+        {
+          "text": "De man rijdt met ___ naar het bos.",
+          "hint": "Чоловік їде машиною до лісу.",
+          "accepted": [
+            [
+              "de auto"
+            ]
+          ]
+        },
+        {
+          "text": "Wij gaan ___ naar huis.",
+          "hint": "Ми йдемо пішки додому.",
+          "accepted": [
+            [
+              "te voet"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij met de fiets?",
+          "hint": "Ти їдеш велосипедом?",
+          "accepted": [
+            [
+              "Rijd",
+              "Ga"
+            ]
+          ]
+        },
+        {
+          "text": "De bus ___ naar het bos.",
+          "hint": "Автобус їде до лісу.",
+          "accepted": [
+            [
+              "rijdt",
+              "gaat"
+            ]
+          ]
+        },
+        {
+          "text": "De man ___ een boek.",
+          "hint": "Чоловік читає книгу.",
+          "accepted": [
+            [
+              "leest"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ geen wijn.",
+          "hint": "Я не п'ю вина.",
+          "accepted": [
+            [
+              "drink"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зроби з ствердження питання так/ні",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij rijdt met de auto.",
+          "cue": "-> питання",
+          "accepted": [
+            "Rijd jij met de auto?",
+            "Rijd je met de auto?"
+          ]
+        },
+        {
+          "prompt": "Jij leest dat boek.",
+          "cue": "-> питання",
+          "accepted": [
+            "Lees jij dat boek?",
+            "Lees je dat boek?"
+          ]
+        },
+        {
+          "prompt": "Jij drinkt wijn.",
+          "cue": "-> питання",
+          "accepted": [
+            "Drink jij wijn?",
+            "Drink je wijn?"
+          ]
+        },
+        {
+          "prompt": "U gaat met de bus.",
+          "cue": "-> питання",
+          "accepted": [
+            "Gaat u met de bus?"
+          ]
+        },
+        {
+          "prompt": "Hij leest een boek in de keuken.",
+          "cue": "-> питання",
+          "accepted": [
+            "Leest hij een boek in de keuken?"
+          ]
+        },
+        {
+          "prompt": "Deze bus rijdt naar het bos.",
+          "cue": "-> питання",
+          "accepted": [
+            "Rijdt deze bus naar het bos?"
+          ]
+        },
+        {
+          "prompt": "Zij gaat met de taxi naar huis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Gaat zij met de taxi naar huis?",
+            "Gaat ze met de taxi naar huis?"
+          ]
+        },
+        {
+          "prompt": "Wij gaan te voet naar huis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Gaan wij te voet naar huis?",
+            "Gaan we te voet naar huis?"
+          ]
+        },
+        {
+          "prompt": "Die man drinkt geen wijn.",
+          "cue": "-> питання",
+          "accepted": [
+            "Drinkt die man geen wijn?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ een boek.",
+          "cue": "lezen",
+          "accepted": [
+            "lees"
+          ]
+        },
+        {
+          "text": "Jij ___ een boek.",
+          "cue": "lezen",
+          "accepted": [
+            "leest"
+          ]
+        },
+        {
+          "text": "De man ___ dat boek.",
+          "cue": "lezen",
+          "accepted": [
+            "leest"
+          ]
+        },
+        {
+          "text": "Wij ___ een boek.",
+          "cue": "lezen",
+          "accepted": [
+            "lezen"
+          ]
+        },
+        {
+          "text": "Ik ___ geen wijn.",
+          "cue": "drinken",
+          "accepted": [
+            "drink"
+          ]
+        },
+        {
+          "text": "Jij ___ wijn.",
+          "cue": "drinken",
+          "accepted": [
+            "drinkt"
+          ]
+        },
+        {
+          "text": "Wij ___ geen wijn.",
+          "cue": "drinken",
+          "accepted": [
+            "drinken"
+          ]
+        },
+        {
+          "text": "___ jij wijn?",
+          "cue": "drinken",
+          "accepted": [
+            "Drink"
+          ]
+        },
+        {
+          "text": "___ jij dat boek?",
+          "cue": "lezen",
+          "accepted": [
+            "Lees"
+          ]
+        },
+        {
+          "text": "De bus ___ naar het bos.",
+          "cue": "rijden",
+          "accepted": [
+            "rijdt"
+          ]
+        },
+        {
+          "text": "Hij ___ met de bus naar huis.",
+          "cue": "gaan",
+          "accepted": [
+            "gaat"
+          ]
+        },
+        {
+          "text": "Wij ___ te voet naar huis.",
+          "cue": "gaan",
+          "accepted": [
+            "gaan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай питання з відповіддю. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Wat drink jij?",
+          "answer": "Ik drink wijn."
+        },
+        {
+          "prompt": "Wat lees jij?",
+          "answer": "Ik lees een boek."
+        },
+        {
+          "prompt": "Hoe ga jij naar huis?",
+          "answer": "Ik ga met de bus."
+        },
+        {
+          "prompt": "Wie is dit?",
+          "answer": "Dit is mijn zoon."
+        },
+        {
+          "prompt": "Wat is dat?",
+          "answer": "Dat is een fiets."
+        },
+        {
+          "prompt": "Waar woon jij?",
+          "answer": "Ik woon in het bos."
+        }
+      ],
+      "extra": [
+        "De bus rijdt naar het bos.",
+        "Deze fiets is groot."
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

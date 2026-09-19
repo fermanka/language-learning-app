@@ -1,0 +1,685 @@
+{
+  "id": "nl-les-04",
+  "lang": "nl",
+  "order": 4,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-b7dab043",
+      "type": "verb",
+      "lemma": "opstaan",
+      "ua": "вставати (відокремлюване: op іде в кінець речення)",
+      "audio": "opstaan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "sta op",
+          "audio": "ik-sta-op.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "staat op",
+          "audio": "jij-staat-op.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "staat op",
+          "audio": "u-staat-op.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "staat op",
+          "audio": "hij-staat-op.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "staan op",
+          "audio": "wij-staan-op.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "staan op",
+          "audio": "jullie-staan-op.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "staan op",
+          "audio": "zij-staan-op.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-9c8cb3b8",
+      "type": "verb",
+      "lemma": "opbellen",
+      "ua": "телефонувати, дзвонити комусь (відокремлюване: op іде в кінець речення)",
+      "audio": "opbellen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "bel op",
+          "audio": "ik-bel-op.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "belt op",
+          "audio": "jij-belt-op.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "belt op",
+          "audio": "u-belt-op.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "belt op",
+          "audio": "hij-belt-op.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "bellen op",
+          "audio": "wij-bellen-op.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "bellen op",
+          "audio": "jullie-bellen-op.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "bellen op",
+          "audio": "zij-bellen-op.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-deaed1e5",
+      "type": "noun",
+      "article": "de",
+      "lemma": "dag",
+      "plural": [
+        "dagen"
+      ],
+      "ua": "день",
+      "audio": "de-dag.mp3"
+    },
+    {
+      "id": "nl-832331ee",
+      "type": "noun",
+      "article": "de",
+      "lemma": "week",
+      "plural": [
+        "weken"
+      ],
+      "ua": "тиждень",
+      "audio": "de-week.mp3"
+    },
+    {
+      "id": "nl-d998b653",
+      "type": "function",
+      "lemma": "nu",
+      "ua": "зараз, тепер (у реченні стоїть перед op: Ik sta nu op)",
+      "audio": "nu.mp3"
+    }
+  ],
+  "rule": {
+    "title_ua": "Відокремлювані дієслова: op іде в кінець речення",
+    "summary_ua": "Дієслова opstaan і opbellen складаються з двох частин: змінної (sta, staat, staan; bel, belt, bellen) і частки op (її ще називають префіксом). В інфінітиві це одне слово. У реченні змінна частина стоїть на другому місці, а op іде в самий кінець.",
+    "see": "Les 3",
+    "compare": [
+      {
+        "form": "інфінітив: одне слово",
+        "when_ua": "Так дієслово записане в словнику і так воно називає дію: обидві частини разом.",
+        "examples": [
+          {
+            "nl": "**opstaan**",
+            "ua": "вставати",
+            "audio": "opstaan.mp3"
+          },
+          {
+            "nl": "**opbellen**",
+            "ua": "телефонувати",
+            "audio": "opbellen.mp3"
+          }
+        ],
+        "note_ua": "Тут op ще нікуди не відійшло. Форма змінюється за підметом лише в реченні."
+      },
+      {
+        "form": "особова форма + op в кінці речення",
+        "when_ua": "Коли дієслово змінюється за підметом: змінна частина на другому місці, op у самому кінці. Усе, що між ними (nu, mijn zoon, de man), стоїть всередині.",
+        "examples": [
+          {
+            "nl": "Ik **sta** op.",
+            "ua": "Я встаю.",
+            "audio": "les04-example-01.mp3"
+          },
+          {
+            "nl": "Hij **belt** mijn zoon **op**.",
+            "ua": "Він телефонує моєму синові.",
+            "audio": "les04-example-06.mp3"
+          },
+          {
+            "nl": "Wij **bellen** de man **op**.",
+            "ua": "Ми телефонуємо чоловікові.",
+            "audio": "les04-rule-01.mp3"
+          }
+        ],
+        "note_ua": "В англійській так само працюють phrasal verbs: stand up, call up (I call him up). Для пам'яті: op схоже на up (це лише пам'ятка, не етимологія). В українській префікс ніколи не відривається (встати, зателефонувати), у нідерландській відривається."
+      }
+    ],
+    "points_ua": [
+      "Форми ті самі, що в Les 1-3: ik без закінчення (sta, bel); jij/je, u, hij/zij/het з -t (staat, belt); wij, jullie, zij з -en (staan, bellen). Форма u збігається з jij/je.",
+      "Питання: дієслово на перше місце, op лишається в кінці: Bel jij mijn zoon op? Staat u nu op? Wanneer sta jij op?",
+      "-t після jij/je зникає, як у Les 3: Jij staat op -> Sta jij op? Після u і hij/zij/het -t лишається: Staat u op? Belt hij op?",
+      "В українській «телефонувати синові» ставить іменник у давальному відмінку. У нідерландській відмінків немає: mijn zoon просто стоїть між дієсловом і op: Ik bel mijn zoon op.",
+      "nu теж стоїть всередині, перед op: Ik sta nu op. Hij staat nu op."
+    ]
+  },
+  "examples": [
+    {
+      "nl": "Ik sta op.",
+      "ua": "Я встаю.",
+      "audio": "les04-example-01.mp3"
+    },
+    {
+      "nl": "Jij staat op.",
+      "ua": "Ти встаєш.",
+      "audio": "les04-example-02.mp3"
+    },
+    {
+      "nl": "De zoon staat nu op.",
+      "ua": "Син зараз встає.",
+      "audio": "les04-example-03.mp3"
+    },
+    {
+      "nl": "Wij staan op.",
+      "ua": "Ми встаємо.",
+      "audio": "les04-example-04.mp3"
+    },
+    {
+      "nl": "Ik bel de man op.",
+      "ua": "Я телефоную чоловікові.",
+      "audio": "les04-example-05.mp3"
+    },
+    {
+      "nl": "Hij belt mijn zoon op.",
+      "ua": "Він телефонує моєму синові.",
+      "audio": "les04-example-06.mp3"
+    },
+    {
+      "nl": "Jullie bellen de zonen op.",
+      "ua": "Ви (мн.) телефонуєте синам.",
+      "audio": "les04-example-07.mp3"
+    },
+    {
+      "nl": "Bel jij mijn zoon op?",
+      "ua": "Ти телефонуєш моєму синові?",
+      "audio": "les04-example-08.mp3"
+    },
+    {
+      "nl": "Staat u nu op?",
+      "ua": "Ви (форм.) зараз встаєте?",
+      "audio": "les04-example-09.mp3"
+    },
+    {
+      "nl": "Wanneer sta jij op?",
+      "ua": "Коли ти встаєш?",
+      "audio": "les04-example-10.mp3"
+    },
+    {
+      "nl": "Wanneer bel jij mijn zoon op?",
+      "ua": "Коли ти телефонуєш моєму синові?",
+      "audio": "les04-example-11.mp3"
+    },
+    {
+      "nl": "Ik heb nu geen tijd.",
+      "ua": "У мене зараз немає часу.",
+      "audio": "les04-example-12.mp3"
+    },
+    {
+      "nl": "De week heeft zeven dagen.",
+      "ua": "У тижні сім днів.",
+      "audio": "les04-example-13.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn dag",
+    "title_ua": "Мій день",
+    "highlight": [
+      "nl-deaed1e5",
+      "nl-d998b653"
+    ],
+    "sentences": [
+      {
+        "nl": "Dit is mijn dag.",
+        "ua": "Це мій день.",
+        "audio": "les04-reading-01.mp3"
+      },
+      {
+        "nl": "Ik sta nu op.",
+        "ua": "Я зараз встаю.",
+        "audio": "les04-reading-02.mp3"
+      },
+      {
+        "nl": "Ik ben in de keuken.",
+        "ua": "Я на кухні.",
+        "audio": "les04-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn zoon woont niet hier.",
+        "ua": "Мій син тут не живе.",
+        "audio": "les04-reading-04.mp3"
+      },
+      {
+        "nl": "Ik bel mijn zoon op.",
+        "ua": "Я телефоную моєму синові.",
+        "audio": "les04-reading-05.mp3"
+      },
+      {
+        "nl": "Hij staat nu op.",
+        "ua": "Він зараз встає.",
+        "audio": "les04-reading-06.mp3"
+      },
+      {
+        "nl": "Hij heeft geen tijd.",
+        "ua": "У нього немає часу.",
+        "audio": "les04-reading-07.mp3"
+      },
+      {
+        "nl": "Ik ben niet boos.",
+        "ua": "Я не злий.",
+        "audio": "les04-reading-08.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я встаю.",
+          "cue": "ik + opstaan",
+          "accepted": [
+            "Ik sta op."
+          ]
+        },
+        {
+          "prompt": "Ти встаєш.",
+          "cue": "jij + opstaan",
+          "accepted": [
+            "Jij staat op.",
+            "Je staat op."
+          ]
+        },
+        {
+          "prompt": "Ми зараз встаємо.",
+          "cue": "wij + opstaan; nu",
+          "accepted": [
+            "Wij staan nu op.",
+            "We staan nu op.",
+            "Nu staan wij op.",
+            "Nu staan we op."
+          ]
+        },
+        {
+          "prompt": "Я телефоную чоловікові.",
+          "cue": "ik + opbellen; de man",
+          "accepted": [
+            "Ik bel de man op."
+          ]
+        },
+        {
+          "prompt": "Він телефонує моєму синові.",
+          "cue": "hij + opbellen; mijn zoon",
+          "accepted": [
+            "Hij belt mijn zoon op."
+          ]
+        },
+        {
+          "prompt": "Ви (форм.) телефонуєте моєму синові.",
+          "cue": "u + opbellen; mijn zoon",
+          "accepted": [
+            "U belt mijn zoon op."
+          ]
+        },
+        {
+          "prompt": "Ти телефонуєш моєму синові?",
+          "cue": "jij + opbellen; mijn zoon; питання",
+          "accepted": [
+            "Bel jij mijn zoon op?",
+            "Bel je mijn zoon op?"
+          ]
+        },
+        {
+          "prompt": "Коли ти встаєш?",
+          "cue": "wanneer + opstaan + jij",
+          "accepted": [
+            "Wanneer sta jij op?",
+            "Wanneer sta je op?"
+          ]
+        },
+        {
+          "prompt": "У мене зараз немає часу.",
+          "cue": "ik + hebben; nu; tijd, без артикля",
+          "accepted": [
+            "Ik heb nu geen tijd.",
+            "Nu heb ik geen tijd."
+          ]
+        },
+        {
+          "prompt": "У тижні сім днів.",
+          "cue": "de week + hebben; zeven dagen",
+          "accepted": [
+            "De week heeft zeven dagen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "sta",
+        "staat",
+        "staan",
+        "bel",
+        "belt",
+        "bellen",
+        "op",
+        "nu",
+        "de week",
+        "de dag"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ ___.",
+          "hint": "Я встаю.",
+          "accepted": [
+            [
+              "sta"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ ___.",
+          "hint": "Ти встаєш.",
+          "accepted": [
+            [
+              "staat"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ ___ ___.",
+          "hint": "Ми зараз встаємо.",
+          "accepted": [
+            [
+              "staan"
+            ],
+            [
+              "nu"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ de man ___.",
+          "hint": "Я телефоную чоловікові.",
+          "accepted": [
+            [
+              "bel"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ mijn zoon ___.",
+          "hint": "Він телефонує моєму синові.",
+          "accepted": [
+            [
+              "belt"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ de zonen ___.",
+          "hint": "Ми телефонуємо синам.",
+          "accepted": [
+            [
+              "bellen"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij mijn zoon ___?",
+          "hint": "Ти телефонуєш моєму синові?",
+          "accepted": [
+            [
+              "Bel"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Wanneer ___ jij ___?",
+          "hint": "Коли ти встаєш?",
+          "accepted": [
+            [
+              "sta"
+            ],
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "___ heeft zeven dagen.",
+          "hint": "У тижні сім днів.",
+          "accepted": [
+            [
+              "De week"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ geen tijd.",
+          "hint": "У мене зараз немає часу.",
+          "accepted": [
+            [
+              "nu"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зроби з ствердження питання так/ні",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij staat op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Sta jij op?",
+            "Sta je op?"
+          ]
+        },
+        {
+          "prompt": "Jij belt mijn zoon op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Bel jij mijn zoon op?",
+            "Bel je mijn zoon op?"
+          ]
+        },
+        {
+          "prompt": "U staat nu op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Staat u nu op?"
+          ]
+        },
+        {
+          "prompt": "Hij belt de man op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Belt hij de man op?"
+          ]
+        },
+        {
+          "prompt": "Wij staan op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Staan wij op?",
+            "Staan we op?"
+          ]
+        },
+        {
+          "prompt": "De zoon staat nu op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Staat de zoon nu op?"
+          ]
+        },
+        {
+          "prompt": "Jullie bellen mijn zoon op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Bellen jullie mijn zoon op?"
+          ]
+        },
+        {
+          "prompt": "De man belt de zonen op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Belt de man de zonen op?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ op.",
+          "cue": "opstaan",
+          "accepted": [
+            "sta"
+          ]
+        },
+        {
+          "text": "Jij ___ op.",
+          "cue": "opstaan",
+          "accepted": [
+            "staat"
+          ]
+        },
+        {
+          "text": "De man ___ nu op.",
+          "cue": "opstaan",
+          "accepted": [
+            "staat"
+          ]
+        },
+        {
+          "text": "Wij ___ op.",
+          "cue": "opstaan",
+          "accepted": [
+            "staan"
+          ]
+        },
+        {
+          "text": "De zonen ___ nu op.",
+          "cue": "opstaan",
+          "accepted": [
+            "staan"
+          ]
+        },
+        {
+          "text": "Ik ___ mijn zoon op.",
+          "cue": "opbellen",
+          "accepted": [
+            "bel"
+          ]
+        },
+        {
+          "text": "U ___ de man op.",
+          "cue": "opbellen",
+          "accepted": [
+            "belt"
+          ]
+        },
+        {
+          "text": "Jullie ___ de zonen op.",
+          "cue": "opbellen",
+          "accepted": [
+            "bellen"
+          ]
+        },
+        {
+          "text": "___ jij mijn zoon op?",
+          "cue": "opbellen",
+          "accepted": [
+            "Bel"
+          ]
+        },
+        {
+          "text": "Wanneer ___ jij op?",
+          "cue": "opstaan",
+          "accepted": [
+            "sta"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

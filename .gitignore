@@ -1,0 +1,25 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# The learner's private data must never live in this repo (second layer of defence: the folder is outside it anyway)
+progress/
+recordings/
+lecture-photos/
+language-app-data/
+*.ndjson
+state.json
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Generated or machine-local files
+*.mp3
+*.ogg
+*.wav
+*.webm
+mockup/lessons.data.js
+mockup/audio-paths.local.js

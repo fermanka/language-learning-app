@@ -1,0 +1,163 @@
+{
+  "id": "nl-les-02",
+  "lang": "nl",
+  "order": 2,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-30bd6cb0", "type": "verb", "lemma": "hebben", "ua": "мати",
+      "paradigm": [
+        { "pronoun": "ik", "ua": "я", "form": "heb", "audio": "ik-heb.mp3" },
+        { "pronoun": "jij / je", "ua": "ти", "form": "hebt", "audio": "jij-hebt.mp3" },
+        { "pronoun": "u", "ua": "ви (форм.)", "form": "hebt", "audio": "u-hebt.mp3" },
+        { "pronoun": "hij / zij / het", "ua": "він / вона / воно", "form": "heeft", "audio": "hij-heeft.mp3" },
+        { "pronoun": "wij / we", "ua": "ми", "form": "hebben", "audio": "wij-hebben.mp3" },
+        { "pronoun": "jullie", "ua": "ви (мн.)", "form": "hebben", "audio": "jullie-hebben.mp3" },
+        { "pronoun": "zij / ze", "ua": "вони", "form": "hebben", "audio": "zij-hebben.mp3" }
+      ]
+    },
+    { "id": "nl-2f499132", "type": "numeral", "lemma": "een", "digit": 1, "ua": "1", "audio": "01-een.mp3" },
+    { "id": "nl-bfef889d", "type": "numeral", "lemma": "twee", "digit": 2, "ua": "2", "audio": "02-twee.mp3" },
+    { "id": "nl-197b9100", "type": "numeral", "lemma": "drie", "digit": 3, "ua": "3", "audio": "03-drie.mp3" },
+    { "id": "nl-e8fc7fd6", "type": "numeral", "lemma": "vier", "digit": 4, "ua": "4", "audio": "04-vier.mp3" },
+    { "id": "nl-56172311", "type": "numeral", "lemma": "vijf", "digit": 5, "ua": "5", "audio": "05-vijf.mp3" },
+    { "id": "nl-de692901", "type": "numeral", "lemma": "zes", "digit": 6, "ua": "6", "audio": "06-zes.mp3" },
+    { "id": "nl-502e1368", "type": "numeral", "lemma": "zeven", "digit": 7, "ua": "7", "audio": "07-zeven.mp3" },
+    { "id": "nl-563dd443", "type": "numeral", "lemma": "acht", "digit": 8, "ua": "8", "audio": "08-acht.mp3" },
+    { "id": "nl-ce6a3513", "type": "numeral", "lemma": "negen", "digit": 9, "ua": "9", "audio": "09-negen.mp3" },
+    { "id": "nl-9fc5f57a", "type": "numeral", "lemma": "tien", "digit": 10, "ua": "10", "audio": "10-tien.mp3" },
+    { "id": "nl-7877565e", "type": "function", "lemma": "een", "ua": "неозначений артикль (в українській такого немає)", "audio": "een-boek.mp3", "dictation": false },
+    { "id": "nl-5be07ff3", "type": "function", "lemma": "geen", "ua": "не (перед іменником без артикля або з een)", "audio": "geen.mp3" },
+    { "id": "nl-4a766bfe", "type": "function", "lemma": "niet", "ua": "не (все інше)", "audio": "niet.mp3" },
+    { "id": "nl-18eea0b3", "type": "adjective", "lemma": "groot", "ua": "великий", "audio": "groot.mp3" }
+  ],
+  "rule": {
+    "title_ua": "Заперечення: geen чи niet",
+    "summary_ua": "Коли ми хочемо сказати «не» або «немає», вибираємо geen або niet залежно від того, що саме заперечуємо.",
+    "see": "Les 1",
+    "compare": [
+      {
+        "form": "geen",
+        "when_ua": "іменник неозначений: з een, у множині або речовина без артикля. Geen стоїть замість een або замість відсутнього артикля.",
+        "examples": [
+          { "nl": "Ik heb **geen** boek.", "ua": "У мене немає книги.", "audio": "les02-example-05.mp3" },
+          { "nl": "Wij hebben **geen** boeken.", "ua": "У нас немає книг.", "audio": "les02-rule-02.mp3" },
+          { "nl": "Ik heb **geen** wijn.", "ua": "У мене немає вина.", "audio": "les02-example-07.mp3" }
+        ],
+        "note_ua": "В українській «немає книги» іменник стоїть у родовому відмінку (не «книга»). У нідерландській відмінків немає, цю роботу виконує слово geen."
+      },
+      {
+        "form": "niet",
+        "when_ua": "усе інше: прикметник, місце, означений іменник (de/het).",
+        "examples": [
+          { "nl": "Het huis is **niet** groot.", "ua": "Дім не великий.", "audio": "les02-example-09.mp3" },
+          { "nl": "Ik woon **niet** in het bos.", "ua": "Я не живу в лісі.", "audio": "les02-example-10.mp3" },
+          { "nl": "Ik heb het huis **niet**.", "ua": "У мене немає цього дому.", "audio": "les02-example-11.mp3" }
+        ],
+        "note_ua": "Де стоїть niet: після означеного іменника в кінці речення (het huis niet), перед прикметником або місцем (niet groot, niet in het bos)."
+      }
+    ],
+    "points_ua": [
+      "Іменник як підмет = hij/zij/het: De man heeft, Het huis heeft (не hebt).",
+      "Після числа від двох іменник у множині, без артикля: twee boeken.",
+      "een це і число «1», і артикль. Числівник наголошений, артикль слабкий."
+    ]
+  },
+  "examples": [
+    { "nl": "Ik heb een boek.", "ua": "У мене є книга.", "audio": "les02-example-01.mp3" },
+    { "nl": "Jij hebt een huis.", "ua": "У тебе є дім.", "audio": "les02-example-02.mp3" },
+    { "nl": "De man heeft twee zonen.", "ua": "У чоловіка є двоє синів.", "audio": "les02-example-03.mp3" },
+    { "nl": "Wij hebben drie boeken.", "ua": "У нас є три книги.", "audio": "les02-example-04.mp3" },
+    { "nl": "Ik heb geen boek.", "ua": "У мене немає книги.", "audio": "les02-example-05.mp3" },
+    { "nl": "Jullie hebben geen huis.", "ua": "У вас немає дому.", "audio": "les02-example-06.mp3" },
+    { "nl": "Ik heb geen wijn.", "ua": "У мене немає вина.", "audio": "les02-example-07.mp3" },
+    { "nl": "Het huis heeft geen gas.", "ua": "У домі немає газу.", "audio": "les02-example-08.mp3" },
+    { "nl": "Het huis is niet groot.", "ua": "Дім не великий.", "audio": "les02-example-09.mp3" },
+    { "nl": "Ik woon niet in het bos.", "ua": "Я не живу в лісі.", "audio": "les02-example-10.mp3" },
+    { "nl": "Ik heb het huis niet.", "ua": "У мене немає цього дому.", "audio": "les02-example-11.mp3" }
+  ],
+  "reading": {
+    "title": "De man in het bos",
+    "title_ua": "Чоловік у лісі",
+    "highlight": ["nl-7877565e", "nl-bfef889d", "nl-5be07ff3", "nl-4a766bfe", "nl-18eea0b3"],
+    "sentences": [
+      { "nl": "Ik ben een man.", "ua": "Я чоловік.", "audio": "les02-reading-01.mp3" },
+      { "nl": "Ik woon in het bos.", "ua": "Я живу в лісі.", "audio": "les02-reading-02.mp3" },
+      { "nl": "Ik heb een huis.", "ua": "У мене є дім.", "audio": "les02-reading-03.mp3" },
+      { "nl": "Het is groot.", "ua": "Він (дім) великий.", "audio": "les02-reading-04.mp3" },
+      { "nl": "Ik heb twee zonen.", "ua": "У мене є двоє синів.", "audio": "les02-reading-05.mp3" },
+      { "nl": "De zonen wonen in het huis.", "ua": "Сини живуть у домі.", "audio": "les02-reading-06.mp3" },
+      { "nl": "Het huis heeft geen gas.", "ua": "У домі немає газу.", "audio": "les02-reading-07.mp3" },
+      { "nl": "De zonen zijn boos.", "ua": "Сини злі.", "audio": "les02-reading-08.mp3" },
+      { "nl": "Ik heb wijn.", "ua": "У мене є вино.", "audio": "les02-reading-09.mp3" },
+      { "nl": "Ik ben niet boos.", "ua": "Я не злий.", "audio": "les02-reading-10.mp3" }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        { "example": true, "prompt": "У мене є книга.", "cue": "ik + hebben; een boek", "accepted": ["Ik heb een boek."] },
+        { "prompt": "У тебе є дім.", "cue": "jij + hebben; een huis", "accepted": ["Jij hebt een huis.", "Je hebt een huis."] },
+        { "prompt": "У чоловіка є двоє синів.", "cue": "de man + hebben; twee zonen", "accepted": ["De man heeft twee zonen.", "De man heeft twee zoons."] },
+        { "prompt": "У нас є п'ять книг.", "cue": "wij + hebben; vijf boeken", "accepted": ["Wij hebben vijf boeken.", "We hebben vijf boeken."] },
+        { "prompt": "У мене немає вина.", "cue": "ik + hebben; wijn, без артикля", "accepted": ["Ik heb geen wijn."] },
+        { "prompt": "Дім не великий.", "cue": "het huis + zijn; groot", "accepted": ["Het huis is niet groot."] },
+        { "prompt": "У вас немає книги.", "cue": "jullie + hebben; een boek", "accepted": ["Jullie hebben geen boek."] },
+        { "prompt": "Я не живу в лісі.", "cue": "ik + wonen; in het bos", "accepted": ["Ik woon niet in het bos."] }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": ["heb", "hebt", "heeft", "hebben", "een", "geen", "niet", "groot", "twee", "drie", "jij", "de man", "het bos"],
+      "items": [
+        { "example": true, "text": "Ik ___ ___ boek.", "hint": "У мене є книга.", "accepted": [["heb"], ["een"]] },
+        { "text": "Wij ___ ___ huizen.", "hint": "У нас є три будинки.", "accepted": [["hebben"], ["drie"]] },
+        { "text": "___ ___ ___ zonen.", "hint": "У чоловіка є двоє синів.", "accepted": [["De man"], ["heeft"], ["twee"]] },
+        { "text": "Ik ___ ___ wijn.", "hint": "У мене немає вина.", "accepted": [["heb"], ["geen"]] },
+        { "text": "Het huis is ___ ___.", "hint": "Дім не великий.", "accepted": [["niet"], ["groot"]] },
+        { "text": "___ ___ ___ boek.", "hint": "У тебе немає книги.", "accepted": [["Jij", "Je"], ["hebt"], ["geen"]] },
+        { "text": "Ik woon ___ in ___.", "hint": "Я не живу в лісі.", "accepted": [["niet"], ["het bos"]] },
+        { "text": "Het huis ___ ___ gas.", "hint": "У домі немає газу.", "accepted": [["heeft"], ["geen"]] }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зроби речення заперечним (geen або niet)",
+      "items": [
+        { "example": true, "prompt": "Ik heb een boek.", "cue": "-> заперечення", "accepted": ["Ik heb geen boek."] },
+        { "prompt": "Wij hebben een huis.", "cue": "-> заперечення", "accepted": ["Wij hebben geen huis.", "We hebben geen huis."] },
+        { "prompt": "Het huis is groot.", "cue": "-> заперечення", "accepted": ["Het huis is niet groot."] },
+        { "prompt": "Ik woon in het bos.", "cue": "-> заперечення", "accepted": ["Ik woon niet in het bos."] },
+        { "prompt": "Jij hebt wijn.", "cue": "-> заперечення", "accepted": ["Jij hebt geen wijn.", "Je hebt geen wijn."] },
+        { "prompt": "Ik heb het huis.", "cue": "-> заперечення", "accepted": ["Ik heb het huis niet."] },
+        { "prompt": "De man heeft boeken.", "cue": "-> заперечення", "accepted": ["De man heeft geen boeken."] },
+        { "prompt": "De muizen zijn boos.", "cue": "-> заперечення", "accepted": ["De muizen zijn niet boos."] }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        { "example": true, "text": "Ik ___ een boek.", "cue": "hebben", "accepted": ["heb"] },
+        { "text": "Jij ___ een huis.", "cue": "hebben", "accepted": ["hebt"] },
+        { "text": "De man ___ twee zonen.", "cue": "hebben", "accepted": ["heeft"] },
+        { "text": "Wij ___ drie boeken.", "cue": "hebben", "accepted": ["hebben"] },
+        { "text": "Het huis ___ geen gas.", "cue": "hebben", "accepted": ["heeft"] },
+        { "text": "U ___ niet boos.", "cue": "zijn", "accepted": ["bent"] },
+        { "text": "De muis ___ niet in het huis.", "cue": "wonen", "accepted": ["woont"] },
+        { "text": "Jullie ___ geen wijn.", "cue": "hebben", "accepted": ["hebben"] }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "note_types": ["numeral", "adjective", "function"]
+    }
+  ]
+}

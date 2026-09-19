@@ -1,0 +1,721 @@
+{
+  "id": "nl-les-08",
+  "lang": "nl",
+  "order": 8,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-fe0ca6bd",
+      "type": "noun",
+      "article": "de",
+      "lemma": "appel",
+      "plural": [
+        "appels"
+      ],
+      "ua": "яблуко",
+      "audio": "de-appel.mp3"
+    },
+    {
+      "id": "nl-54bcfc60",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kaas",
+      "plural": [
+        "kazen"
+      ],
+      "ua": "сир (переважно речовина, у загальному значенні без артикля: Ik eet kaas; de kazen = різні сорти сиру, трапляється рідко; s -> z у множині, як huis - huizen)",
+      "audio": "de-kaas.mp3"
+    },
+    {
+      "id": "nl-d3f0a3b0",
+      "type": "noun",
+      "article": "het",
+      "lemma": "ei",
+      "plural": [
+        "eieren"
+      ],
+      "ua": "яйце (множина неправильна: de eieren, як de kinderen)",
+      "audio": "het-ei.mp3"
+    },
+    {
+      "id": "nl-39bde651",
+      "type": "noun",
+      "article": "het",
+      "lemma": "kind",
+      "plural": [
+        "kinderen"
+      ],
+      "ua": "дитина (множина неправильна: de kinderen, а не kinds)",
+      "audio": "het-kind.mp3"
+    },
+    {
+      "id": "nl-8db933da",
+      "type": "verb",
+      "lemma": "kopen",
+      "ua": "купувати, купити (виду в нідерландській немає: одна форма на обидва значення)",
+      "audio": "kopen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "koop",
+          "audio": "ik-koop.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "koopt",
+          "audio": "jij-koopt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "koopt",
+          "audio": "u-koopt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "koopt",
+          "audio": "hij-koopt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "kopen",
+          "audio": "wij-kopen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "kopen",
+          "audio": "jullie-kopen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "kopen",
+          "audio": "zij-kopen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-e0283492",
+      "type": "function",
+      "lemma": "dagelijks",
+      "ua": "щодня (одне слово замість elke dag; форма не змінюється)",
+      "audio": "dagelijks.mp3"
+    }
+  ],
+  "rule": {
+    "title_ua": "Dagelijks: «щодня» одним словом",
+    "summary_ua": "Dagelijks значить «щодня» і стоїть у тому ж місці, що elke dag у Les 7: перед неозначеним об'єктом (без артикля, з een, з geen) і після означеного (de, het, dat, mijn). З модальним дієсловом слово стоїть між модальним і об'єктом, а інфінітив лишається в кінці.",
+    "see": "Les 7",
+    "compare": [
+      {
+        "form": "неозначений об'єкт: dagelijks стоїть перед ним",
+        "when_ua": "Об'єкт без артикля, з een або з geen. Слово про час іде раніше за нього, так само як elk uur і elke dag у Les 7.",
+        "examples": [
+          {
+            "nl": "Wij kopen **dagelijks** eieren.",
+            "ua": "Ми щодня купуємо яйця.",
+            "audio": "les08-example-08.mp3"
+          },
+          {
+            "nl": "Het kind mag **dagelijks** een ei eten.",
+            "ua": "Дитині можна щодня їсти яйце.",
+            "audio": "les08-example-12.mp3"
+          },
+          {
+            "nl": "Ik eet **dagelijks** kaas.",
+            "ua": "Я щодня їм сир.",
+            "audio": "les08-rule-01.mp3"
+          }
+        ],
+        "note_ua": "З модальним дієсловом порядок той самий: підмет, модальне, dagelijks, об'єкт, інфінітив у кінці. Дужка з Les 7 не ламається."
+      },
+      {
+        "form": "означений об'єкт: dagelijks стоїть після нього",
+        "when_ua": "Об'єкт з de, het, dat або mijn часто стоїть перед словом про час, як у Les 7.",
+        "examples": [
+          {
+            "nl": "Ik lees dat boek **dagelijks**.",
+            "ua": "Я читаю ту книгу щодня.",
+            "audio": "les08-rule-02.mp3"
+          },
+          {
+            "nl": "Hij drinkt de melk **dagelijks**.",
+            "ua": "Він п'є те молоко щодня.",
+            "audio": "les08-rule-03.mp3"
+          },
+          {
+            "nl": "Zij koopt de kaas **dagelijks**.",
+            "ua": "Вона щодня купує той сир.",
+            "audio": "les08-rule-04.mp3"
+          }
+        ],
+        "note_ua": "Dagelijks можна винести на перше місце: Dagelijks lees ik dat boek. Тоді дієслово стоїть на другому місці, а підмет після нього (Les 3)."
+      }
+    ],
+    "points_ua": [
+      "Dagelijks і elke dag значать те саме. Elke dag це два слова, і elke залежить від de-слова (Les 7). Dagelijks це одне слово, і воно не змінюється.",
+      "Пиши dagelijks через g. Це слово утворене від dag, яке ти знаєш із Les 4 (de dag). Звук g ти вимовляєш так само, як у Les 1, але на письмі це g, не h. Закінчення -lijks має ij, як tijd.",
+      "Іменник у загальному значенні лишається без артикля, як melk і brood у Les 7: Ik eet kaas. Тому dagelijks eieren, а не dagelijks de eieren."
+    ]
+  },
+  "examples": [
+    {
+      "nl": "Ik heb een appel.",
+      "ua": "У мене є яблуко.",
+      "audio": "les08-example-01.mp3"
+    },
+    {
+      "nl": "Ik heb geen kaas.",
+      "ua": "У мене немає сиру.",
+      "audio": "les08-example-02.mp3"
+    },
+    {
+      "nl": "Zij heeft twee eieren.",
+      "ua": "У неї є два яйця.",
+      "audio": "les08-example-03.mp3"
+    },
+    {
+      "nl": "De man heeft twee kinderen.",
+      "ua": "У чоловіка є двоє дітей.",
+      "audio": "les08-example-04.mp3"
+    },
+    {
+      "nl": "Hoeveel kinderen heeft de man?",
+      "ua": "Скільки дітей у чоловіка?",
+      "audio": "les08-example-05.mp3"
+    },
+    {
+      "nl": "Ik koop een appel.",
+      "ua": "Я купую яблуко.",
+      "audio": "les08-example-06.mp3"
+    },
+    {
+      "nl": "Jij koopt kaas.",
+      "ua": "Ти купуєш сир.",
+      "audio": "les08-example-07.mp3"
+    },
+    {
+      "nl": "Wij kopen dagelijks eieren.",
+      "ua": "Ми щодня купуємо яйця.",
+      "audio": "les08-example-08.mp3"
+    },
+    {
+      "nl": "Kopen jullie appels?",
+      "ua": "Ви (мн.) купуєте яблука?",
+      "audio": "les08-example-09.mp3"
+    },
+    {
+      "nl": "Hoeveel eieren koopt u?",
+      "ua": "Скільки яєць ви (форм.) купуєте?",
+      "audio": "les08-example-10.mp3"
+    },
+    {
+      "nl": "Wij kunnen appels kopen.",
+      "ua": "Ми можемо купити яблука.",
+      "audio": "les08-example-11.mp3"
+    },
+    {
+      "nl": "Het kind mag dagelijks een ei eten.",
+      "ua": "Дитині можна щодня їсти яйце.",
+      "audio": "les08-example-12.mp3"
+    },
+    {
+      "nl": "Het kind mag geen wijn drinken.",
+      "ua": "Дитині не можна пити вино.",
+      "audio": "les08-example-13.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Dagelijks een appel",
+    "title_ua": "Щодня по яблуку",
+    "highlight": [
+      "nl-fe0ca6bd",
+      "nl-39bde651",
+      "nl-e0283492"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn zoon is een kind.",
+        "ua": "Мій син - дитина.",
+        "audio": "les08-reading-01.mp3"
+      },
+      {
+        "nl": "Het kind eet dagelijks een appel.",
+        "ua": "Дитина щодня їсть яблуко.",
+        "audio": "les08-reading-02.mp3"
+      },
+      {
+        "nl": "Nu heb ik geen appels.",
+        "ua": "Зараз у мене немає яблук.",
+        "audio": "les08-reading-03.mp3"
+      },
+      {
+        "nl": "Het kind is boos.",
+        "ua": "Дитина зла.",
+        "audio": "les08-reading-04.mp3"
+      },
+      {
+        "nl": "Ik koop vijf appels.",
+        "ua": "Я купую п'ять яблук.",
+        "audio": "les08-reading-05.mp3"
+      },
+      {
+        "nl": "Nu heeft het kind vijf appels.",
+        "ua": "Тепер у дитини є п'ять яблук.",
+        "audio": "les08-reading-06.mp3"
+      },
+      {
+        "nl": "Het kind is niet boos.",
+        "ua": "Дитина не зла.",
+        "audio": "les08-reading-07.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене є яблуко.",
+          "cue": "ik + hebben; een appel",
+          "accepted": [
+            "Ik heb een appel."
+          ]
+        },
+        {
+          "prompt": "У мене немає сиру.",
+          "cue": "ik + hebben; kaas, без артикля",
+          "accepted": [
+            "Ik heb geen kaas."
+          ]
+        },
+        {
+          "prompt": "У чоловіка є двоє дітей.",
+          "cue": "de man + hebben; twee kinderen",
+          "accepted": [
+            "De man heeft twee kinderen."
+          ]
+        },
+        {
+          "prompt": "У нас є шість яблук.",
+          "cue": "wij + hebben; zes appels",
+          "accepted": [
+            "Wij hebben zes appels.",
+            "We hebben zes appels."
+          ]
+        },
+        {
+          "prompt": "У неї немає яєць.",
+          "cue": "zij (вона) + hebben; eieren, без артикля",
+          "accepted": [
+            "Zij heeft geen eieren.",
+            "Ze heeft geen eieren."
+          ]
+        },
+        {
+          "prompt": "Я купую яблука.",
+          "cue": "ik + kopen; appels, без артикля",
+          "accepted": [
+            "Ik koop appels."
+          ]
+        },
+        {
+          "prompt": "Ти купуєш сир?",
+          "cue": "jij + kopen; kaas, без артикля; питання",
+          "accepted": [
+            "Koop jij kaas?",
+            "Koop je kaas?"
+          ]
+        },
+        {
+          "prompt": "Ми щодня купуємо яйця.",
+          "cue": "wij + kopen; dagelijks; eieren, без артикля",
+          "accepted": [
+            "Wij kopen dagelijks eieren.",
+            "We kopen dagelijks eieren.",
+            "Dagelijks kopen wij eieren.",
+            "Dagelijks kopen we eieren."
+          ]
+        },
+        {
+          "prompt": "Скільки яєць ви (форм.) купуєте?",
+          "cue": "hoeveel eieren + kopen + u",
+          "accepted": [
+            "Hoeveel eieren koopt u?"
+          ]
+        },
+        {
+          "prompt": "Скільки у тебе дітей?",
+          "cue": "hoeveel kinderen + hebben + jij",
+          "accepted": [
+            "Hoeveel kinderen heb jij?",
+            "Hoeveel kinderen heb je?"
+          ]
+        },
+        {
+          "prompt": "Ми можемо купити яблука.",
+          "cue": "wij + kunnen; appels; kopen",
+          "accepted": [
+            "Wij kunnen appels kopen.",
+            "We kunnen appels kopen."
+          ]
+        },
+        {
+          "prompt": "Дитині можна щодня їсти яйце.",
+          "cue": "het kind + mogen; dagelijks; een ei; eten",
+          "accepted": [
+            "Het kind mag dagelijks een ei eten.",
+            "Dagelijks mag het kind een ei eten."
+          ]
+        },
+        {
+          "prompt": "Дитина живе в домі.",
+          "cue": "het kind + wonen; in het huis",
+          "accepted": [
+            "Het kind woont in het huis."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "koop",
+        "koopt",
+        "kopen",
+        "dagelijks",
+        "heeft",
+        "geen",
+        "een",
+        "de",
+        "het",
+        "kinderen",
+        "kaas"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ een appel.",
+          "hint": "Я купую яблуко.",
+          "accepted": [
+            [
+              "koop"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ kaas.",
+          "hint": "Ти купуєш сир.",
+          "accepted": [
+            [
+              "koopt"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ appels.",
+          "hint": "Ми купуємо яблука.",
+          "accepted": [
+            [
+              "kopen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ eieren.",
+          "hint": "У мене немає яєць.",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Het kind ___ een ei.",
+          "hint": "У дитини є яйце.",
+          "accepted": [
+            [
+              "heeft"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft twee ___.",
+          "hint": "У неї є двоє дітей.",
+          "accepted": [
+            [
+              "kinderen"
+            ]
+          ]
+        },
+        {
+          "text": "Wij kopen ___ eieren.",
+          "hint": "Ми щодня купуємо яйця.",
+          "accepted": [
+            [
+              "dagelijks"
+            ]
+          ]
+        },
+        {
+          "text": "___ kind eet dagelijks een appel.",
+          "hint": "Дитина щодня їсть яблуко.",
+          "accepted": [
+            [
+              "Het"
+            ]
+          ]
+        },
+        {
+          "text": "___ kaas is niet groot.",
+          "hint": "Сир не великий.",
+          "accepted": [
+            [
+              "De"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij appels?",
+          "hint": "Ти купуєш яблука?",
+          "accepted": [
+            [
+              "Koop"
+            ]
+          ]
+        },
+        {
+          "text": "Hoeveel eieren ___ u?",
+          "hint": "Скільки яєць ви (форм.) купуєте?",
+          "accepted": [
+            [
+              "koopt"
+            ]
+          ]
+        },
+        {
+          "text": "Wij kunnen appels ___.",
+          "hint": "Ми можемо купити яблука.",
+          "accepted": [
+            [
+              "kopen"
+            ]
+          ]
+        },
+        {
+          "text": "Zij mag ___ een ei eten.",
+          "hint": "Їй можна щодня їсти яйце.",
+          "accepted": [
+            [
+              "dagelijks"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ dagelijks ___.",
+          "hint": "Ми щодня купуємо сир.",
+          "accepted": [
+            [
+              "kopen"
+            ],
+            [
+              "kaas"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зроби з ствердження питання так/ні",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij koopt appels.",
+          "cue": "-> питання",
+          "accepted": [
+            "Koop jij appels?",
+            "Koop je appels?"
+          ]
+        },
+        {
+          "prompt": "Zij koopt kaas.",
+          "cue": "-> питання",
+          "accepted": [
+            "Koopt zij kaas?",
+            "Koopt ze kaas?"
+          ]
+        },
+        {
+          "prompt": "U koopt dagelijks eieren.",
+          "cue": "-> питання",
+          "accepted": [
+            "Koopt u dagelijks eieren?"
+          ]
+        },
+        {
+          "prompt": "Wij kopen een appel.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kopen wij een appel?",
+            "Kopen we een appel?"
+          ]
+        },
+        {
+          "prompt": "Het kind heeft een ei.",
+          "cue": "-> питання",
+          "accepted": [
+            "Heeft het kind een ei?"
+          ]
+        },
+        {
+          "prompt": "Jij wilt dagelijks een ei eten.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wil jij dagelijks een ei eten?",
+            "Wil je dagelijks een ei eten?"
+          ]
+        },
+        {
+          "prompt": "De man wil dagelijks kaas kopen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wil de man dagelijks kaas kopen?"
+          ]
+        },
+        {
+          "prompt": "Wij kunnen eieren kopen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kunnen wij eieren kopen?",
+            "Kunnen we eieren kopen?"
+          ]
+        },
+        {
+          "prompt": "De kinderen kopen appels.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kopen de kinderen appels?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ appels.",
+          "cue": "kopen",
+          "accepted": [
+            "koop"
+          ]
+        },
+        {
+          "text": "Jij ___ kaas.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        },
+        {
+          "text": "De man ___ eieren.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        },
+        {
+          "text": "Wij ___ appels.",
+          "cue": "kopen",
+          "accepted": [
+            "kopen"
+          ]
+        },
+        {
+          "text": "Jullie ___ dagelijks kaas.",
+          "cue": "kopen",
+          "accepted": [
+            "kopen"
+          ]
+        },
+        {
+          "text": "___ jij appels?",
+          "cue": "kopen",
+          "accepted": [
+            "Koop"
+          ]
+        },
+        {
+          "text": "U ___ twee eieren.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        },
+        {
+          "text": "De kinderen ___ dagelijks appels.",
+          "cue": "kopen",
+          "accepted": [
+            "kopen"
+          ]
+        },
+        {
+          "text": "Het kind ___ een appel.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "Hij ___ een ei.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Ik ___ geen eieren.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Het kind ___ dagelijks een ei eten.",
+          "cue": "mogen",
+          "accepted": [
+            "mag"
+          ]
+        },
+        {
+          "text": "Wij ___ dagelijks kaas eten.",
+          "cue": "willen",
+          "accepted": [
+            "willen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "lang": "nl",
+  "name": "Nederlands",
+  "teacher": "marieke",
+  "tts_persona": "marieke",
+  "stt_language": "nl",
+  "note_types": {
+    "noun": {
+      "required": [
+        "article",
+        "lemma",
+        "ua"
+      ],
+      "optional": [
+        "plural",
+        "audio",
+        "plural_only"
+      ]
+    },
+    "adjective": {
+      "required": [
+        "lemma",
+        "ua"
+      ],
+      "optional": [
+        "audio"
+      ]
+    },
+    "verb": {
+      "required": [
+        "lemma",
+        "ua",
+        "paradigm"
+      ],
+      "optional": [
+        "audio"
+      ]
+    },
+    "numeral": {
+      "required": [
+        "lemma",
+        "digit",
+        "ua"
+      ],
+      "optional": [
+        "audio"
+      ]
+    },
+    "function": {
+      "required": [
+        "lemma",
+        "ua"
+      ],
+      "optional": [
+        "audio",
+        "dictation"
+      ]
+    }
+  }
+}

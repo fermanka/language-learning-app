@@ -1,0 +1,1276 @@
+{
+  "id": "nl-les-07",
+  "lang": "nl",
+  "order": 7,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-f5f6bbc1",
+      "type": "verb",
+      "lemma": "kunnen",
+      "ua": "могти, вміти (здатність, можливість; дозвіл виражає mogen)",
+      "audio": "kunnen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kan",
+          "audio": "ik-kan.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "kunt",
+          "audio": "jij-kunt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "kunt",
+          "audio": "u-kunt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "kan",
+          "audio": "hij-kan.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "kunnen",
+          "audio": "wij-kunnen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "kunnen",
+          "audio": "jullie-kunnen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "kunnen",
+          "audio": "zij-kunnen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-2bab92cb",
+      "type": "verb",
+      "lemma": "willen",
+      "ua": "хотіти",
+      "audio": "willen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "wil",
+          "audio": "ik-wil.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "wilt",
+          "audio": "jij-wilt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "wilt",
+          "audio": "u-wilt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "wil",
+          "audio": "hij-wil.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "willen",
+          "audio": "wij-willen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "willen",
+          "audio": "jullie-willen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "willen",
+          "audio": "zij-willen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-7f0ab68c",
+      "type": "verb",
+      "lemma": "moeten",
+      "ua": "мусити, бути зобов'язаним",
+      "audio": "moeten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "moet",
+          "audio": "ik-moet.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "moet",
+          "audio": "jij-moet.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "moet",
+          "audio": "u-moet.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "moet",
+          "audio": "hij-moet.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "moeten",
+          "audio": "wij-moeten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "moeten",
+          "audio": "jullie-moeten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "moeten",
+          "audio": "zij-moeten.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-2219427f",
+      "type": "verb",
+      "lemma": "mogen",
+      "ua": "мати дозвіл, можна (дозвіл; здатність виражає kunnen)",
+      "audio": "mogen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "mag",
+          "audio": "ik-mag.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "mag",
+          "audio": "jij-mag.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "mag",
+          "audio": "u-mag.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "mag",
+          "audio": "hij-mag.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "mogen",
+          "audio": "wij-mogen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "mogen",
+          "audio": "jullie-mogen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "mogen",
+          "audio": "zij-mogen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-5708aeab",
+      "type": "verb",
+      "lemma": "eten",
+      "ua": "їсти",
+      "audio": "eten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "eet",
+          "audio": "ik-eet.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "eet",
+          "audio": "jij-eet.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "eet",
+          "audio": "u-eet.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "eet",
+          "audio": "hij-eet.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "eten",
+          "audio": "wij-eten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "eten",
+          "audio": "jullie-eten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "eten",
+          "audio": "zij-eten.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-80b60958",
+      "type": "verb",
+      "lemma": "zwemmen",
+      "ua": "плавати",
+      "audio": "zwemmen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "zwem",
+          "audio": "ik-zwem.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "zwemt",
+          "audio": "jij-zwemt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "zwemt",
+          "audio": "u-zwemt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "zwemt",
+          "audio": "hij-zwemt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "zwemmen",
+          "audio": "wij-zwemmen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "zwemmen",
+          "audio": "jullie-zwemmen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "zwemmen",
+          "audio": "zij-zwemmen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-2de6d26e",
+      "type": "noun",
+      "article": "het",
+      "lemma": "brood",
+      "plural": [
+        "broden"
+      ],
+      "ua": "хліб (як їжа, у загальному значенні, без артикля: Ik eet brood; de broden = буханки)",
+      "audio": "het-brood.mp3"
+    },
+    {
+      "id": "nl-5559b5ab",
+      "type": "noun",
+      "article": "de",
+      "lemma": "melk",
+      "plural": [],
+      "ua": "молоко (речовина: множини немає; у загальному значенні без артикля: Ik drink melk)",
+      "audio": "de-melk.mp3"
+    },
+    {
+      "id": "nl-2f7f39b8",
+      "type": "noun",
+      "article": "het",
+      "lemma": "water",
+      "plural": [],
+      "ua": "вода (речовина: множини немає; у загальному значенні без артикля: Ik drink water)",
+      "audio": "het-water.mp3"
+    },
+    {
+      "id": "nl-bdef7c94",
+      "type": "function",
+      "lemma": "elk",
+      "ua": "кожен, кожна, кожне (перед het-словом: elk uur = кожну годину; перед de-словом стоїть elke)",
+      "audio": "elk.mp3"
+    },
+    {
+      "id": "nl-addcea26",
+      "type": "function",
+      "lemma": "elke",
+      "ua": "кожен, кожна (перед de-словом: elke dag = кожен день; перед het-словом стоїть elk)",
+      "audio": "elke.mp3"
+    },
+    {
+      "id": "nl-5fc557c0",
+      "type": "numeral",
+      "lemma": "eerste",
+      "digit": 1,
+      "ua": "перший",
+      "audio": "eerste.mp3"
+    },
+    {
+      "id": "nl-37066d01",
+      "type": "numeral",
+      "lemma": "tweede",
+      "digit": 2,
+      "ua": "другий",
+      "audio": "tweede.mp3"
+    },
+    {
+      "id": "nl-3104c290",
+      "type": "numeral",
+      "lemma": "derde",
+      "digit": 3,
+      "ua": "третій",
+      "audio": "derde.mp3"
+    },
+    {
+      "id": "nl-5a9609c8",
+      "type": "numeral",
+      "lemma": "vierde",
+      "digit": 4,
+      "ua": "четвертий",
+      "audio": "vierde.mp3"
+    },
+    {
+      "id": "nl-d75a5357",
+      "type": "numeral",
+      "lemma": "vijfde",
+      "digit": 5,
+      "ua": "п'ятий",
+      "audio": "vijfde.mp3"
+    },
+    {
+      "id": "nl-38b5f325",
+      "type": "numeral",
+      "lemma": "zesde",
+      "digit": 6,
+      "ua": "шостий",
+      "audio": "zesde.mp3"
+    },
+    {
+      "id": "nl-3f7cab7f",
+      "type": "numeral",
+      "lemma": "zevende",
+      "digit": 7,
+      "ua": "сьомий",
+      "audio": "zevende.mp3"
+    },
+    {
+      "id": "nl-6da99e9e",
+      "type": "numeral",
+      "lemma": "achtste",
+      "digit": 8,
+      "ua": "восьмий",
+      "audio": "achtste.mp3"
+    },
+    {
+      "id": "nl-c6dc26f2",
+      "type": "numeral",
+      "lemma": "negende",
+      "digit": 9,
+      "ua": "дев'ятий",
+      "audio": "negende.mp3"
+    },
+    {
+      "id": "nl-449453a7",
+      "type": "numeral",
+      "lemma": "tiende",
+      "digit": 10,
+      "ua": "десятий",
+      "audio": "tiende.mp3"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Іменник без артикля",
+      "summary_ua": "Іменник без артикля цілком нормальний у трьох випадках: множина в загальному значенні (een є лише для однини), речовина в загальному значенні (вино, молоко, вода, хліб) і стійкий вираз (te voet, naar huis). Коли йдеться про конкретну річ, артикль de або het повертається. В українській артиклів немає, тому ця різниця для тебе непомітна, а в нідерландській вона змінює речення.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "без артикля: загальне значення",
+          "when_ua": "Множина (якісь книги) або речовина (вино, молоко, вода, хліб) у загальному значенні, «взагалі». Een тут неможливе: у een немає множини, а речовину не рахують.",
+          "examples": [
+            {
+              "nl": "Ik heb **boeken**.",
+              "ua": "У мене є (якісь) книги.",
+              "audio": "les07-example-07.mp3"
+            },
+            {
+              "nl": "Ik drink **melk**.",
+              "ua": "Я п'ю молоко (взагалі).",
+              "audio": "les07-example-09.mp3"
+            },
+            {
+              "nl": "Ik eet **brood**.",
+              "ua": "Я їм хліб (взагалі).",
+              "audio": "les07-rule-01.mp3"
+            }
+          ],
+          "note_ua": "Українське «я п'ю молоко» і «я п'ю те молоко» звучать однаково, бо артиклів немає. У нідерландській це два різні речення."
+        },
+        {
+          "form": "з de / het: конкретна річ",
+          "when_ua": "Мова про певну річ, яку знають і той, хто говорить, і той, хто слухає: de melk = те молоко, het boek = ту книгу.",
+          "examples": [
+            {
+              "nl": "Ik drink **de** melk.",
+              "ua": "Я п'ю те молоко.",
+              "audio": "les07-example-10.mp3"
+            },
+            {
+              "nl": "Ik lees **het** boek.",
+              "ua": "Я читаю ту книгу.",
+              "audio": "les07-rule-02.mp3"
+            },
+            {
+              "nl": "Ik drink **de** wijn.",
+              "ua": "Я п'ю те вино.",
+              "audio": "les07-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Іменник вчимо з артиклем, як у Les 1: de melk, het water, het brood. Без артикля він стоїть лише в трьох випадках вище."
+        }
+      ],
+      "points_ua": [
+        "Стійкі вирази вчимо цілком: te voet (пішки), naar huis (додому). Порівняй: naar het huis = до того дому. Обидва вислови ти знаєш із Les 5 і Les 6, тут вони лише ілюструють правило.",
+        "Het brood має множину de broden (буханки), але хліб як їжа стоїть без артикля: Ik eet brood. De melk і het water множини не мають, це речовини: Ik drink melk. Ik drink water.",
+        "Заперечення з Les 2 працює так само: geen стоїть замість een або замість відсутнього артикля. Ik heb geen brood. Ik drink geen melk."
+      ]
+    },
+    {
+      "title_ua": "Модальне дієслово + інфінітив у кінці",
+      "summary_ua": "Модальні дієслова kunnen, willen, moeten, mogen стоять на другому місці й змінюються за підметом. Друге дієслово іде в самий кінець речення і стає інфінітивом (з -en), без відмінювання. Таку «дужку» ти вже знаєш із Les 4: Ik sta nu op. Там op стоїть у кінці, тут у кінці інфінітив.",
+      "see": "Les 4",
+      "compare": [
+        {
+          "form": "ствердження: модальне на 2-му місці, інфінітив у кінці",
+          "when_ua": "Змінюється лише модальне дієслово (ik wil, jij wilt, wij willen). Друге дієслово при будь-якому підметі лишається інфінітивом. Усе інше (об'єкт, місце) стоїть між ними.",
+          "examples": [
+            {
+              "nl": "Ik **wil** een boek **lezen**.",
+              "ua": "Я хочу читати книгу.",
+              "audio": "les07-example-01.mp3"
+            },
+            {
+              "nl": "Wij **moeten** naar huis **gaan**.",
+              "ua": "Ми мусимо йти додому.",
+              "audio": "les07-example-02.mp3"
+            },
+            {
+              "nl": "Jij **mag** melk **drinken**.",
+              "ua": "Тобі можна пити молоко.",
+              "audio": "les07-rule-04.mp3"
+            }
+          ],
+          "note_ua": "В українській обидва дієслова стоять поруч: «хочу читати книгу». У нідерландській між ними лишається решта речення: wil een boek lezen."
+        },
+        {
+          "form": "питання: модальне на 1-му місці, інфінітив лишається в кінці",
+          "when_ua": "У питанні модальне дієслово стає першим, підмет іде після нього, а інфінітив нікуди не рухається.",
+          "examples": [
+            {
+              "nl": "**Wil** jij melk **drinken**?",
+              "ua": "Ти хочеш пити молоко?",
+              "audio": "les07-rule-05.mp3"
+            },
+            {
+              "nl": "**Moeten** wij naar huis **gaan**?",
+              "ua": "Ми мусимо йти додому?",
+              "audio": "les07-rule-06.mp3"
+            },
+            {
+              "nl": "**Kan** de man **zwemmen**?",
+              "ua": "Чоловік вміє плавати?",
+              "audio": "les07-example-03.mp3"
+            }
+          ],
+          "note_ua": "-t після jij зникає й тут, як у Les 3: jij wilt -> wil jij. У moet і mag -t немає, тому moet jij, mag jij."
+        }
+      ],
+      "points_ua": [
+        "kunnen значить «могти, вміти» (здатність, можливість), mogen значить «мати дозвіл, можна». Українське «можеш» покриває обидва. Тест: це вміння чи можливість (kunnen) або дозвіл, який дав хтось (mogen)? Hij kan zwemmen = він вміє. Hij mag zwemmen = йому дозволено.",
+        "Форма hij збігається з ik: ik kan, hij kan; ik wil, hij wil. З підметом-іменником пиши wil, не wilt: De man wil water drinken. Wilt і kunt стоять лише після jij та u.",
+        "У moeten і eten основа вже закінчується на -t (moet, eet), тому ще одне -t не додається: jij moet, hij moet, jij eet, hij eet. У mogen для всіх однин одна форма: mag.",
+        "У питанні з jij форма kunt змінюється на kun jij (у розмові часто kan jij). З u форма не змінюється: Kunt u zwemmen?",
+        "Niet стоїть перед інфінітивом у кінці, коли заперечується дія, а geen стоїть перед іменником: Hij kan niet zwemmen. Ik wil geen wijn drinken.",
+        "Відокремлюване дієслово в дужці не розділяється: Ik wil de keuken binnenkomen (не kom ... binnen). Naar тут не потрібне: напрямок уже вбудований у binnenkomen, як у Les 5."
+      ]
+    },
+    {
+      "title_ua": "Час стоїть перед об'єктом",
+      "summary_ua": "Слова про час (elk uur, elke dag, nu) стоять у середині речення, перед неозначеним об'єктом (без артикля, з een або з geen). В українській порядок вільний: «пити воду щогодини» або «щогодини пити воду». У нідерландській час іде раніше за такий об'єкт: Zij moet elk uur water drinken.",
+      "see": "Les 4",
+      "compare": [
+        {
+          "form": "неозначений об'єкт: спершу час",
+          "when_ua": "Об'єкт без артикля, з een або з geen. Слово про час стоїть перед ним.",
+          "examples": [
+            {
+              "nl": "Zij moet **elk uur** water drinken.",
+              "ua": "Вона мусить пити воду щогодини.",
+              "audio": "les07-example-11.mp3"
+            },
+            {
+              "nl": "Ik eet **elke dag** brood.",
+              "ua": "Я щодня їм хліб.",
+              "audio": "les07-example-12.mp3"
+            },
+            {
+              "nl": "Hij leest **nu** een boek.",
+              "ua": "Він зараз читає книгу.",
+              "audio": "les07-rule-07.mp3"
+            }
+          ],
+          "note_ua": "З модальним дієсловом порядок такий: підмет, модальне, час, об'єкт, інфінітив у кінці."
+        },
+        {
+          "form": "означений об'єкт: об'єкт часто раніше за час",
+          "when_ua": "Об'єкт з de, het, dat або mijn часто стоїть перед словом про час. Так само niet у Les 2 стоїть після означеного об'єкта.",
+          "examples": [
+            {
+              "nl": "Ik lees **dat boek** elke dag.",
+              "ua": "Я читаю ту книгу щодня.",
+              "audio": "les07-example-17.mp3"
+            },
+            {
+              "nl": "Zij drinkt **de melk** elk uur.",
+              "ua": "Вона п'є те молоко щогодини.",
+              "audio": "les07-rule-08.mp3"
+            },
+            {
+              "nl": "Hij eet **het brood** elke dag.",
+              "ua": "Він їсть той хліб щодня.",
+              "audio": "les07-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Час можна винести на перше місце: Elke dag lees ik dat boek. Тоді дієслово стоїть на другому місці, а підмет після нього (Les 3)."
+        }
+      ],
+      "points_ua": [
+        "Elk і elke значать «кожен». Elke стоїть перед de-словом (elke dag, elke week), elk перед het-словом (elk uur). Форму вибирає іменник, як у deze і dit (Les 6).",
+        "Час стоїть і перед місцем: Ik drink elke dag melk in de keuken. Місце іде після об'єкта, перед інфінітивом: De man wil brood in het bos eten."
+      ]
+    },
+    {
+      "title_ua": "Основа: голосна подвоюється, приголосна ні",
+      "summary_ua": "Основа дієслова (форма для ik) виходить з інфінітива відкиданням -en, але правопис залежить від складу. У відкритому складі (lo-pen) голосна довга, тому в основі вона подвоюється: loop. У закритому складі (zwem-men) приголосна подвоєна, щоб голосна була короткою, а в основі вона повертається до однієї: zwem.",
+      "see": "Les 1",
+      "compare": [
+        {
+          "form": "відкритий склад: голосна подвоюється",
+          "when_ua": "Довга голосна стоїть наприкінці складу: lo-pen, le-zen, e-ten. У основі довгу голосну пишемо двома буквами: loop, lees, eet.",
+          "examples": [
+            {
+              "nl": "Ik **loop** naar huis.",
+              "ua": "Я йду додому.",
+              "audio": "les07-rule-10.mp3"
+            },
+            {
+              "nl": "Ik **lees** een boek.",
+              "ua": "Я читаю книгу.",
+              "audio": "les07-rule-11.mp3"
+            },
+            {
+              "nl": "Ik **eet** brood.",
+              "ua": "Я їм хліб (взагалі).",
+              "audio": "les07-rule-01.mp3"
+            }
+          ],
+          "note_ua": "Це принцип з Les 1: довгий звук дає дві букви (maan), короткий одну (man). У ik lees літера z стає s (Les 6), вимова довгого [е] та сама."
+        },
+        {
+          "form": "закритий склад: подвоєна приголосна повертається до однієї",
+          "when_ua": "Після короткої голосної в інфінітиві стоять дві однакові приголосні: zwem-men, wil-len. В основі слово вже закінчується приголосною, і однієї букви досить, щоб голосна лишилась короткою: zwem, wil.",
+          "examples": [
+            {
+              "nl": "Ik **zwem** hier.",
+              "ua": "Я плаваю тут.",
+              "audio": "les07-rule-12.mp3"
+            },
+            {
+              "nl": "De man **wil** water drinken.",
+              "ua": "Чоловік хоче пити воду.",
+              "audio": "les07-example-05.mp3"
+            },
+            {
+              "nl": "Jij **zwemt** in het water.",
+              "ua": "Ти плаваєш у воді.",
+              "audio": "les07-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Дзеркальна пара: у lopen одна приголосна й довга голосна, тому в основі голосних дві; у zwemmen дві приголосні й коротка голосна, тому в основі приголосна одна."
+        }
+      ],
+      "points_ua": [
+        "Закінчення ті самі, що раніше: ik без закінчення (zwem), jij/je, u, hij/zij/het з -t (zwemt), wij, jullie, zij з -en (zwemmen). Питання: Zwem jij hier?",
+        "Кінцеве -n у ненаголошеному -en не вимовляється: lopen звучить як «лопе», boeken як «буке», wonen як «воне». Це «е» дуже коротке й нейтральне, як a в англійському about. На письмі n завжди лишається. Так говорять у Нідерландах.",
+        "Порядкові числівники: eerste, tweede, derde, vierde, vijfde, zesde, zevende, achtste, negende, tiende. Здебільшого до числа додають -de: twee - tweede, vier - vierde, vijf - vijfde, zes - zesde, zeven - zevende, negen - negende, tien - tiende. Особливі лише eerste, derde і achtste.",
+        "Перед іменником порядковий числівник має ту саму форму і з de-, і з het-словом: de eerste bus, het derde raam."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik wil een boek lezen.",
+      "ua": "Я хочу читати книгу.",
+      "audio": "les07-example-01.mp3"
+    },
+    {
+      "nl": "Wij moeten naar huis gaan.",
+      "ua": "Ми мусимо йти додому.",
+      "audio": "les07-example-02.mp3"
+    },
+    {
+      "nl": "Kan de man zwemmen?",
+      "ua": "Чоловік вміє плавати?",
+      "audio": "les07-example-03.mp3"
+    },
+    {
+      "nl": "Mag ik de keuken binnenkomen?",
+      "ua": "Мені можна зайти на кухню?",
+      "audio": "les07-example-04.mp3"
+    },
+    {
+      "nl": "De man wil water drinken.",
+      "ua": "Чоловік хоче пити воду.",
+      "audio": "les07-example-05.mp3"
+    },
+    {
+      "nl": "Hij kan niet zwemmen.",
+      "ua": "Він не вміє плавати.",
+      "audio": "les07-example-06.mp3"
+    },
+    {
+      "nl": "Ik heb boeken.",
+      "ua": "У мене є книги.",
+      "audio": "les07-example-07.mp3"
+    },
+    {
+      "nl": "Ik heb geen brood.",
+      "ua": "У мене немає хліба.",
+      "audio": "les07-example-08.mp3"
+    },
+    {
+      "nl": "Ik drink melk.",
+      "ua": "Я п'ю молоко.",
+      "audio": "les07-example-09.mp3"
+    },
+    {
+      "nl": "Ik drink de melk.",
+      "ua": "Я п'ю те молоко.",
+      "audio": "les07-example-10.mp3"
+    },
+    {
+      "nl": "Zij moet elk uur water drinken.",
+      "ua": "Вона мусить пити воду щогодини.",
+      "audio": "les07-example-11.mp3"
+    },
+    {
+      "nl": "Ik eet elke dag brood.",
+      "ua": "Я щодня їм хліб.",
+      "audio": "les07-example-12.mp3"
+    },
+    {
+      "nl": "Wij willen elke week zwemmen.",
+      "ua": "Ми хочемо плавати щотижня.",
+      "audio": "les07-example-13.mp3"
+    },
+    {
+      "nl": "Dit is het eerste huis.",
+      "ua": "Це перший дім.",
+      "audio": "les07-example-14.mp3"
+    },
+    {
+      "nl": "De tweede bus rijdt naar het bos.",
+      "ua": "Другий автобус їде до лісу.",
+      "audio": "les07-example-15.mp3"
+    },
+    {
+      "nl": "Ik ben in de derde kamer.",
+      "ua": "Я в третій кімнаті.",
+      "audio": "les07-example-16.mp3"
+    },
+    {
+      "nl": "Ik lees dat boek elke dag.",
+      "ua": "Я читаю ту книгу щодня.",
+      "audio": "les07-example-17.mp3"
+    },
+    {
+      "nl": "Wat wil jij drinken?",
+      "ua": "Що ти хочеш пити?",
+      "audio": "les07-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn zoon",
+    "title_ua": "Мій син",
+    "highlight": [
+      "nl-2de6d26e",
+      "nl-5559b5ab",
+      "nl-2f7f39b8",
+      "nl-bdef7c94",
+      "nl-addcea26",
+      "nl-5fc557c0"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn zoon woont in het eerste huis.",
+        "ua": "Мій син живе в першому домі.",
+        "audio": "les07-reading-01.mp3"
+      },
+      {
+        "nl": "Hij kan zwemmen.",
+        "ua": "Він вміє плавати.",
+        "audio": "les07-reading-02.mp3"
+      },
+      {
+        "nl": "Hij zwemt elke dag in het water.",
+        "ua": "Він щодня плаває у воді.",
+        "audio": "les07-reading-03.mp3"
+      },
+      {
+        "nl": "Nu wil hij naar huis gaan.",
+        "ua": "Зараз він хоче йти додому.",
+        "audio": "les07-reading-04.mp3"
+      },
+      {
+        "nl": "Hij komt de keuken binnen.",
+        "ua": "Він заходить на кухню.",
+        "audio": "les07-reading-05.mp3"
+      },
+      {
+        "nl": "Hij mag brood eten.",
+        "ua": "Йому можна їсти хліб.",
+        "audio": "les07-reading-06.mp3"
+      },
+      {
+        "nl": "Hij wil melk drinken.",
+        "ua": "Він хоче пити молоко.",
+        "audio": "les07-reading-07.mp3"
+      },
+      {
+        "nl": "Ik heb geen melk.",
+        "ua": "У мене немає молока.",
+        "audio": "les07-reading-08.mp3"
+      },
+      {
+        "nl": "Hij moet elk uur water drinken.",
+        "ua": "Він мусить пити воду щогодини.",
+        "audio": "les07-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я хочу читати книгу.",
+          "cue": "ik + willen; een boek; lezen",
+          "accepted": [
+            "Ik wil een boek lezen."
+          ]
+        },
+        {
+          "prompt": "Ми мусимо йти додому.",
+          "cue": "wij + moeten; naar huis; gaan",
+          "accepted": [
+            "Wij moeten naar huis gaan.",
+            "We moeten naar huis gaan."
+          ]
+        },
+        {
+          "prompt": "Чоловік хоче пити воду.",
+          "cue": "de man + willen; water, без артикля; drinken",
+          "accepted": [
+            "De man wil water drinken."
+          ]
+        },
+        {
+          "prompt": "Мені можна зайти на кухню?",
+          "cue": "ik + mogen; de keuken; binnenkomen; питання",
+          "accepted": [
+            "Mag ik de keuken binnenkomen?"
+          ]
+        },
+        {
+          "prompt": "Чоловік вміє плавати?",
+          "cue": "de man + kunnen; zwemmen; питання",
+          "accepted": [
+            "Kan de man zwemmen?"
+          ]
+        },
+        {
+          "prompt": "Він не вміє плавати.",
+          "cue": "hij + kunnen; niet; zwemmen",
+          "accepted": [
+            "Hij kan niet zwemmen."
+          ]
+        },
+        {
+          "prompt": "Вона мусить пити воду щогодини.",
+          "cue": "zij (вона) + moeten; elk uur; water; drinken",
+          "accepted": [
+            "Zij moet elk uur water drinken.",
+            "Ze moet elk uur water drinken.",
+            "Elk uur moet zij water drinken.",
+            "Elk uur moet ze water drinken."
+          ]
+        },
+        {
+          "prompt": "Я щодня їм хліб.",
+          "cue": "ik + eten; elke dag; brood, без артикля",
+          "accepted": [
+            "Ik eet elke dag brood.",
+            "Elke dag eet ik brood."
+          ]
+        },
+        {
+          "prompt": "Ми хочемо плавати щотижня.",
+          "cue": "wij + willen; elke week; zwemmen",
+          "accepted": [
+            "Wij willen elke week zwemmen.",
+            "We willen elke week zwemmen.",
+            "Elke week willen wij zwemmen.",
+            "Elke week willen we zwemmen."
+          ]
+        },
+        {
+          "prompt": "У мене немає хліба.",
+          "cue": "ik + hebben; brood, без артикля",
+          "accepted": [
+            "Ik heb geen brood."
+          ]
+        },
+        {
+          "prompt": "Другий автобус їде до лісу.",
+          "cue": "de tweede bus + rijden; naar het bos",
+          "accepted": [
+            "De tweede bus rijdt naar het bos.",
+            "De tweede bus gaat naar het bos."
+          ]
+        },
+        {
+          "prompt": "Тобі можна пити молоко.",
+          "cue": "jij + mogen; melk, без артикля; drinken",
+          "accepted": [
+            "Jij mag melk drinken.",
+            "Je mag melk drinken."
+          ]
+        },
+        {
+          "prompt": "Що ти хочеш пити?",
+          "cue": "wat + willen + jij; drinken",
+          "accepted": [
+            "Wat wil jij drinken?",
+            "Wat wil je drinken?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "wil",
+        "wilt",
+        "kan",
+        "kunt",
+        "moet",
+        "mag",
+        "eet",
+        "zwem",
+        "zwemt",
+        "zwemmen",
+        "gaan",
+        "elk",
+        "elke",
+        "eerste",
+        "derde",
+        "de",
+        "brood",
+        "water"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ een boek lezen.",
+          "hint": "Я хочу читати книгу.",
+          "accepted": [
+            [
+              "wil"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ zwemmen.",
+          "hint": "Ти вмієш плавати.",
+          "accepted": [
+            [
+              "kunt",
+              "kan"
+            ]
+          ]
+        },
+        {
+          "text": "De man ___ water drinken.",
+          "hint": "Чоловік хоче пити воду.",
+          "accepted": [
+            [
+              "wil"
+            ]
+          ]
+        },
+        {
+          "text": "Wij moeten naar huis ___.",
+          "hint": "Ми мусимо йти додому.",
+          "accepted": [
+            [
+              "gaan"
+            ]
+          ]
+        },
+        {
+          "text": "Zij moet ___ uur water drinken.",
+          "hint": "Вона мусить пити воду щогодини.",
+          "accepted": [
+            [
+              "elk"
+            ]
+          ]
+        },
+        {
+          "text": "Ik drink ___ dag melk.",
+          "hint": "Я п'ю молоко щодня.",
+          "accepted": [
+            [
+              "elke"
+            ]
+          ]
+        },
+        {
+          "text": "Dit is de ___ dag.",
+          "hint": "Це третій день.",
+          "accepted": [
+            [
+              "derde"
+            ]
+          ]
+        },
+        {
+          "text": "Ik eet ___.",
+          "hint": "Я їм хліб (взагалі).",
+          "accepted": [
+            [
+              "brood"
+            ]
+          ]
+        },
+        {
+          "text": "Ik drink ___ melk.",
+          "hint": "Я п'ю те молоко.",
+          "accepted": [
+            [
+              "de"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ melk drinken.",
+          "hint": "Моєму синові можна пити молоко.",
+          "accepted": [
+            [
+              "mag"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ elke dag brood.",
+          "hint": "Він їсть хліб щодня.",
+          "accepted": [
+            [
+              "eet"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ hier.",
+          "hint": "Я плаваю тут.",
+          "accepted": [
+            [
+              "zwem"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij ___ drinken?",
+          "hint": "Ти хочеш пити воду?",
+          "accepted": [
+            [
+              "Wil"
+            ],
+            [
+              "water"
+            ]
+          ]
+        },
+        {
+          "text": "Wij willen elke week ___.",
+          "hint": "Ми хочемо плавати щотижня.",
+          "accepted": [
+            [
+              "zwemmen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зроби з ствердження питання так/ні",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Hij kan zwemmen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kan hij zwemmen?"
+          ]
+        },
+        {
+          "prompt": "Jij wilt water drinken.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wil jij water drinken?",
+            "Wil je water drinken?"
+          ]
+        },
+        {
+          "prompt": "U moet naar huis gaan.",
+          "cue": "-> питання",
+          "accepted": [
+            "Moet u naar huis gaan?"
+          ]
+        },
+        {
+          "prompt": "Ik mag de keuken binnenkomen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Mag ik de keuken binnenkomen?"
+          ]
+        },
+        {
+          "prompt": "De man wil brood eten.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wil de man brood eten?"
+          ]
+        },
+        {
+          "prompt": "Wij kunnen zwemmen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kunnen wij zwemmen?",
+            "Kunnen we zwemmen?"
+          ]
+        },
+        {
+          "prompt": "Zij moet elk uur water drinken.",
+          "cue": "-> питання",
+          "accepted": [
+            "Moet zij elk uur water drinken?",
+            "Moet ze elk uur water drinken?"
+          ]
+        },
+        {
+          "prompt": "Jij mag melk drinken.",
+          "cue": "-> питання",
+          "accepted": [
+            "Mag jij melk drinken?",
+            "Mag je melk drinken?"
+          ]
+        },
+        {
+          "prompt": "Mijn zoon wil elke dag zwemmen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wil mijn zoon elke dag zwemmen?"
+          ]
+        },
+        {
+          "prompt": "De man kan niet zwemmen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kan de man niet zwemmen?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ zwemmen.",
+          "cue": "kunnen",
+          "accepted": [
+            "kan"
+          ]
+        },
+        {
+          "text": "Jij ___ water drinken.",
+          "cue": "willen",
+          "accepted": [
+            "wilt"
+          ]
+        },
+        {
+          "text": "De man ___ water drinken.",
+          "cue": "willen",
+          "accepted": [
+            "wil"
+          ]
+        },
+        {
+          "text": "Wij ___ naar huis gaan.",
+          "cue": "moeten",
+          "accepted": [
+            "moeten"
+          ]
+        },
+        {
+          "text": "Zij ___ elk uur water drinken.",
+          "cue": "moeten",
+          "accepted": [
+            "moet"
+          ]
+        },
+        {
+          "text": "Jij ___ melk drinken.",
+          "cue": "mogen",
+          "accepted": [
+            "mag"
+          ]
+        },
+        {
+          "text": "Ik ___ elke dag brood.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "Jij ___ brood.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "Wij ___ brood.",
+          "cue": "eten",
+          "accepted": [
+            "eten"
+          ]
+        },
+        {
+          "text": "Ik ___ hier.",
+          "cue": "zwemmen",
+          "accepted": [
+            "zwem"
+          ]
+        },
+        {
+          "text": "Jij ___ in het water.",
+          "cue": "zwemmen",
+          "accepted": [
+            "zwemt"
+          ]
+        },
+        {
+          "text": "___ jij water drinken?",
+          "cue": "willen",
+          "accepted": [
+            "Wil"
+          ]
+        },
+        {
+          "text": "De zonen ___ zwemmen.",
+          "cue": "kunnen",
+          "accepted": [
+            "kunnen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function",
+        "numeral"
+      ]
+    }
+  ]
+}

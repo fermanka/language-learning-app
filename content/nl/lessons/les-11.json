@@ -1,0 +1,1268 @@
+{
+  "id": "nl-les-11",
+  "lang": "nl",
+  "order": 11,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-9b381f5b",
+      "type": "noun",
+      "article": "de",
+      "lemma": "groente",
+      "plural": [
+        "groenten"
+      ],
+      "ua": "овоч (de groenten = овочі). Без артикля groente значить «овочі» як їжа, як water і melk у Les 7: Ik eet groente. У твоєму зошиті виправлення на Wil jij verse groente kopen? правильне: про овочі загалом беремо groente без артикля. Підказка для пам'яті, не переклад: groente схоже на groen «зелений»",
+      "audio": "de-groente.mp3"
+    },
+    {
+      "id": "nl-906deaea",
+      "type": "noun",
+      "article": "de",
+      "lemma": "wortel",
+      "plural": [
+        "wortels"
+      ],
+      "ua": "морква (de wortel = одна морква, de wortels = морква як їжа: Ik koop wortels, як aardappelen у Les 10). Множина wortels, як appels і sinaasappels (Les 8, Les 10). Wortel значить ще й «корінь»: підказка для пам'яті, морква це їстівний корінь",
+      "audio": "de-wortel.mp3"
+    },
+    {
+      "id": "nl-1224ff0e",
+      "type": "noun",
+      "article": "de",
+      "lemma": "druif",
+      "plural": [
+        "druiven"
+      ],
+      "ua": "виноградина, одна ягода (de druiven = виноград як їжа: Zij houdt van druiven, як de aardappelen у Les 10). У твоєму зошиті druif = виноград: українське «виноград» це de druiven, а для однієї ягоди є «виноградина». Множина druiven: f стає v, як s стає z у huis - huizen (Les 1)",
+      "audio": "de-druif.mp3"
+    },
+    {
+      "id": "nl-909b669b",
+      "type": "noun",
+      "article": "het",
+      "lemma": "stukje",
+      "plural": [
+        "stukjes"
+      ],
+      "ua": "шматочок (Hij eet een stukje kaas = він їсть шматочок сиру). Закінчення -je зменшувальне, як -ок у «шматочок»; слова на -je завжди het-слова. Множина stukjes",
+      "audio": "stukje.mp3"
+    },
+    {
+      "id": "nl-47216c1f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "eten",
+      "plural": [],
+      "ua": "їжа, страва (Het eten is lekker = їжа смачна). Пишеться так само, як дієслово eten з Les 7: Wij eten fruit = ми їмо фрукти (дієслово), а het eten (іменник з het). Множини немає, як у water",
+      "audio": "het-eten.mp3"
+    },
+    {
+      "id": "nl-82c5d372",
+      "type": "noun",
+      "article": "het",
+      "lemma": "fruit",
+      "plural": [],
+      "ua": "фрукти (збірно, лише однина: Het fruit is vers = фрукти свіжі). Українською «фрукти» множина, а нідерландською однина, тому після het fruit стоїть is, а не zijn. Множини не вживаємо. Це те саме слово, що англійське fruit",
+      "audio": "fruit.mp3"
+    },
+    {
+      "id": "nl-e537d910",
+      "type": "noun",
+      "article": "het",
+      "lemma": "paar",
+      "plural": [
+        "paren"
+      ],
+      "ua": "пара, двоє (Dit paar woont hier = ця пара живе тут; de paren). Не плутай з een paar (наступне слово, «кілька») і з de peer з Les 10: у paar голосна aa, у peer ee. Множина paren: одна a, як manen у Les 1. Схоже на англійське pair: підказка для пам'яті",
+      "audio": "het-paar.mp3"
+    },
+    {
+      "id": "nl-435eb7c3",
+      "type": "adjective",
+      "lemma": "vers",
+      "ua": "свіжий, свіжа, свіже, свіжі (форма без закінчення: після zijn і перед het-словом з een або без артикля: Deze tomaten zijn vers, een vers ei, vers brood). Українською прикметник змінюється, а після zijn нідерландська форма одна. Схоже на англійське fresh: v - f, як vader - father",
+      "audio": "vers.mp3"
+    },
+    {
+      "id": "nl-f6a8300c",
+      "type": "adjective",
+      "lemma": "verse",
+      "ua": "свіжий (форма з -e: перед de-словом і множиною, а також після het, dit, mijn: een verse wortel, verse kaas, verse tomaten, het verse brood). Пара до vers; правило в картці «Прикметник: -e чи ні»",
+      "audio": "verse.mp3"
+    },
+    {
+      "id": "nl-42316640",
+      "type": "adjective",
+      "lemma": "lekker",
+      "ua": "смачний, смачна, смачне, смачні (про їжу; форма без закінчення: Het eten is lekker, een lekker ei). У твоєму зошиті ця форма записана як «смачно» і підписана «прислівник»: після zijn це прикметник, українською «Їжа смачна»",
+      "audio": "lekker.mp3"
+    },
+    {
+      "id": "nl-3fb615b3",
+      "type": "adjective",
+      "lemma": "lekkere",
+      "ua": "смачний (форма з -e: een lekkere banaan, lekkere druiven). Подвоєне kk уже є в lekker і лишається: голосна коротка, як у zus - zussen (Les 9)",
+      "audio": "lekkere.mp3"
+    },
+    {
+      "id": "nl-2fbc116a",
+      "type": "adjective",
+      "lemma": "zoet",
+      "ua": "солодкий, солодка, солодке, солодкі (форма без закінчення: De druiven zijn zoet, zoet fruit). Схоже на англійське sweet: z - s, як zeven - seven",
+      "audio": "zoet.mp3"
+    },
+    {
+      "id": "nl-6ce8321b",
+      "type": "adjective",
+      "lemma": "zoete",
+      "ua": "солодкий (форма з -e: zoete druiven, een zoete appel). Oe лишається, як у boek - boeken (Les 1)",
+      "audio": "zoete.mp3"
+    },
+    {
+      "id": "nl-55eb232f",
+      "type": "adjective",
+      "lemma": "zuur",
+      "ua": "кислий, кисла, кисле, кислі (форма без закінчення: De appel is zuur, zuur fruit). Схоже на англійське sour: z - s. Голосна uu [yː]: такого звука немає ні в українській, ні в англійській, тому слухай аудіо",
+      "audio": "zuur.mp3"
+    },
+    {
+      "id": "nl-6c0aa670",
+      "type": "adjective",
+      "lemma": "zure",
+      "ua": "кислий (форма з -e: zure appels, een zure appel). Uu стає u в відкритому складі, як aa стає a у maan - manen (Les 1)",
+      "audio": "zure.mp3"
+    },
+    {
+      "id": "nl-1a5f1413",
+      "type": "adjective",
+      "lemma": "grote",
+      "ua": "великий (форма з -e від groot з Les 2: een grote appel, de grote man, het grote huis, grote huizen). Oo стає o, як aa стає a у maan - manen. Без -e лишається groot: Het huis is groot, een groot huis. У твоєму зошиті groot після zijn записано як «велике»: правильно «великий, велика, велике, великі», форма одна",
+      "audio": "grote.mp3"
+    },
+    {
+      "id": "nl-1ad8940b",
+      "type": "function",
+      "lemma": "vandaag",
+      "ua": "сьогодні (Vandaag koop ik fruit = сьогодні я купую фрукти). Складається з van + dag (Les 9, Les 4): підказка для пам'яті",
+      "audio": "vandaag.mp3"
+    },
+    {
+      "id": "nl-50538d11",
+      "type": "function",
+      "lemma": "een paar",
+      "ua": "кілька, декілька (Ik koop een paar peren = я купую кілька груш). Paar тут не змінюється й не бере de або het: een paar peren, а не een paren. Це не het paar (пара)",
+      "audio": "een-paar.mp3"
+    },
+    {
+      "id": "nl-a204d738",
+      "type": "function",
+      "lemma": "dus",
+      "ua": "тому, отже, тож (з'єднує два речення: Ik heb geen brood, dus ik koop brood = у мене немає хліба, тому я купую хліб). Після dus порядок слів звичайний, див. картку «Want і dus»",
+      "audio": "dus.mp3"
+    },
+    {
+      "id": "nl-479a2be8",
+      "type": "function",
+      "lemma": "daarna",
+      "ua": "потім, після цього (Daarna ga ik naar huis = потім я йду додому). Складається з daar (Les 10) + na: підказка для пам'яті",
+      "audio": "daarna.mp3"
+    },
+    {
+      "id": "nl-cec25ed8",
+      "type": "function",
+      "lemma": "alles",
+      "ua": "усе (Ik heb alles = у мене є все). Схоже на англійське all. Після alles дієслово в однині, як українське «усе свіже»: Alles is vers",
+      "audio": "alles.mp3"
+    },
+    {
+      "id": "nl-9f31f6cb",
+      "type": "function",
+      "lemma": "want",
+      "ua": "бо (з'єднує два речення: Ik koop peren, want ze zijn vers = я купую груші, бо вони свіжі). У твоєму зошиті want записано як «бо / тому що»: для want лишай тільки «бо». «Тому що» буде omdat, де дієслово піде в кінець, а після want порядок звичайний",
+      "audio": "want.mp3"
+    },
+    {
+      "id": "nl-01f2d241",
+      "type": "function",
+      "lemma": "ook",
+      "ua": "також, теж (Ik koop ook peren = я також купую груші). Стоїть перед тим, до чого відноситься: Ik heb ook een paar tomaten",
+      "audio": "ook.mp3"
+    },
+    {
+      "id": "nl-9bd0246a",
+      "type": "function",
+      "lemma": "voor",
+      "ua": "три значення. 1) для: Dit fruit is voor de kinderen = ці фрукти для дітей. 2) за в «платити за»: Ik betaal voor de wortels = я плачу за моркву (вчи betalen voor разом, як wachten op у Les 9). 3) перед у часі й у просторі: Voor het eten drink ik water = перед їжею я п'ю воду; voor de deur = перед дверима. Схоже на англійське for і before: v - f, як vader - father",
+      "audio": "voor.mp3"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Прикметник: -e чи ні",
+      "summary_ua": "Правило з твого зошита точне: перед іменником прикметник має -e завжди, крім одного випадку. Лишається розвести два питання. Перше: прикметник стоїть перед іменником чи після zijn? Після zijn -e немає ніколи. Друге, якщо він перед іменником: це het-слово в однині, а перед прикметником een, geen або нічого? Тоді -e немає (een groot huis). У всіх інших випадках -e є (een grote appel, het grote huis, grote huizen).",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "після zijn: без -e",
+          "when_ua": "Прикметник стоїть не перед іменником, а після zijn (is, zijn). Тоді він без -e завжди, і в однині, і в множині. Українською він змінюється (свіжий, свіжа, свіже, свіжі), нідерландською форма одна.",
+          "examples": [
+            {
+              "nl": "Deze tomaten zijn **vers**.",
+              "ua": "Ці помідори свіжі.",
+              "audio": "les11-example-01.mp3"
+            },
+            {
+              "nl": "Het eten is **lekker**.",
+              "ua": "Їжа смачна.",
+              "audio": "les11-example-03.mp3"
+            },
+            {
+              "nl": "De appel is **zuur**.",
+              "ua": "Яблуко кисле.",
+              "audio": "les11-example-07.mp3"
+            }
+          ],
+          "note_ua": "Як De man is groot у твоєму зошиті (groot з Les 2): після is завжди groot, ніколи grote."
+        },
+        {
+          "form": "перед de-словом і перед множиною: -e",
+          "when_ua": "Перед de-словом (з een, з de або без артикля) і перед будь-яким іменником у множині прикметник має -e.",
+          "examples": [
+            {
+              "nl": "Ik koop een **verse** wortel.",
+              "ua": "Я купую свіжу моркву.",
+              "audio": "les11-example-02.mp3"
+            },
+            {
+              "nl": "Zij koopt een **grote** appel.",
+              "ua": "Вона купує велике яблуко.",
+              "audio": "les11-example-10.mp3"
+            },
+            {
+              "nl": "Zij houdt van **zoete** druiven.",
+              "ua": "Вона любить солодкий виноград.",
+              "audio": "les11-example-06.mp3"
+            },
+            {
+              "nl": "Ik eet **verse** kaas.",
+              "ua": "Я їм свіжий сир.",
+              "audio": "les11-rule-01.mp3"
+            }
+          ],
+          "note_ua": "Kaas і melk (Les 8, Les 7) це de-слова, тому й без артикля прикметник перед ними має -e: verse kaas. Так само в твоєму зошиті: de grote man, een grote appel, de grote huizen."
+        },
+        {
+          "form": "het-слово в однині з een, geen або без артикля: без -e",
+          "when_ua": "Це єдиний виняток. Іменник het-слово в однині, а перед прикметником стоїть een, geen або нічого. Тоді -e немає.",
+          "examples": [
+            {
+              "nl": "Ik eet **zuur** fruit.",
+              "ua": "Я їм кислі фрукти.",
+              "audio": "les11-example-08.mp3"
+            },
+            {
+              "nl": "Hij eet een **groot** stukje kaas.",
+              "ua": "Він їсть великий шматочок сиру.",
+              "audio": "les11-example-09.mp3"
+            },
+            {
+              "nl": "Ik heb geen **groot** huis.",
+              "ua": "У мене немає великого дому.",
+              "audio": "les11-example-11.mp3"
+            },
+            {
+              "nl": "Ik eet **vers** brood.",
+              "ua": "Я їм свіжий хліб.",
+              "audio": "les11-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: een grote appel (appel це de-слово) і een groot huis (huis це het-слово). Geen поводиться як een: geen groot huis. Тому de і het вчимо разом зі словом."
+        },
+        {
+          "form": "het-слово в однині з het, dit, mijn: -e",
+          "when_ua": "Коли перед het-словом стоїть het, dit, dat або присвійне слово (mijn, haar, zijn, hun), іменник означений, і прикметник знову має -e.",
+          "examples": [
+            {
+              "nl": "Ik eet het **verse** brood.",
+              "ua": "Я їм той свіжий хліб.",
+              "audio": "les11-rule-03.mp3"
+            },
+            {
+              "nl": "Het **grote** huis is daar.",
+              "ua": "Великий дім там.",
+              "audio": "les11-example-12.mp3"
+            },
+            {
+              "nl": "Dit **verse** brood is lekker.",
+              "ua": "Цей свіжий хліб смачний.",
+              "audio": "les11-rule-04.mp3"
+            },
+            {
+              "nl": "Mijn **grote** ei is hier.",
+              "ua": "Моє велике яйце тут.",
+              "audio": "les11-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Het, dit, dat, mijn, haar, zijn, hun роблять іменник означеним (Les 2, Les 9), а перед означеним іменником -e є завжди. У твоєму зошиті: het grote huis, mijn grote ei."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест з двох питань. Перше: прикметник перед іменником? Ні (після zijn): без -e (Deze tomaten zijn vers). Так: друге питання. Іменник це het-слово в однині, а перед прикметником een, geen або нічого? Так: без -e (een groot ei, vers brood). Ні: -e (een grote appel, het verse brood, verse tomaten).",
+        "Твій запис «завжди -e, крім одного випадку» правильний, і всі п'ять рядків у зошиті точні. Лише рядок «після is» це не виняток із «перед іменником», а окреме питання: там іменника після прикметника немає. Тому тест має два кроки, а не один.",
+        "У рядок з het додай dit і dat, а до винятку додай geen. Het, dit, dat і присвійні слова дають -e (dit verse brood), а een і geen дають нуль (geen groot huis).",
+        "Elk і elke з Les 7 діляться за тим самим принципом: elk перед het-словом, elke перед de-словом. Це ще одна причина вчити іменник разом з артиклем.",
+        "У твоєму зошиті ліва колонка підписана «прислівник», права «прикметник». Обидві колонки це той самий прикметник: ліва форма без закінчення, права з -e. Deze tomaten zijn vers = ці помідори свіжі, тому «свіжо» тут не підходить. Так само groot: Het huis is groot = дім великий, а не «велике».",
+        "Goed і goede з Les 9 працюють так само: een goede vader (de-слово), але een goed kind (het-слово). Тепер goede вже не обмежене de-словами: правило повне.",
+        "Правопис -e іде за правилами Les 1 і Les 7. Groot - grote, zuur - zure (одна голосна у відкритому складі, як maan - manen). Zoet - zoete (oe лишається, як boek - boeken). Vers - verse, lekker - lekkere (приголосні лишаються)."
+      ]
+    },
+    {
+      "title_ua": "Want і dus: бо й тому",
+      "summary_ua": "Want (бо) і dus (тому, отже) з'єднують два речення, як en і maar у Les 10. Вони не займають місця в реченні, тому після них підмет і дієслово стоять як у звичайному реченні. Want веде до причини, dus до наслідку.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "want: причина",
+          "when_ua": "Перше речення каже, що ти робиш, друге пояснює чому. Після want іде підмет, потім дієслово.",
+          "examples": [
+            {
+              "nl": "Ik koop peren, **want** ze zijn vers.",
+              "ua": "Я купую груші, бо вони свіжі.",
+              "audio": "les11-example-16.mp3"
+            },
+            {
+              "nl": "Ik eet druiven, **want** ze zijn zoet.",
+              "ua": "Я їм виноград, бо він солодкий.",
+              "audio": "les11-rule-06.mp3"
+            },
+            {
+              "nl": "Hij eet geen druiven, **want** ze zijn zuur.",
+              "ua": "Він не їсть виноград, бо він кислий.",
+              "audio": "les11-rule-07.mp3"
+            }
+          ],
+          "note_ua": "У твоєму зошиті: Wij gaan naar de winkel, want wij willen verse groente kopen. Порядок правильний: після want підмет wij, потім willen, а kopen лишається в кінці (Les 7)."
+        },
+        {
+          "form": "dus: наслідок",
+          "when_ua": "Перше речення дає підставу, друге наслідок. Після dus іде підмет, потім дієслово.",
+          "examples": [
+            {
+              "nl": "Ik heb geen brood, **dus** ik koop brood.",
+              "ua": "У мене немає хліба, тому я купую хліб.",
+              "audio": "les11-example-15.mp3"
+            },
+            {
+              "nl": "Ze zijn vers, **dus** ik koop peren.",
+              "ua": "Вони свіжі, тому я купую груші.",
+              "audio": "les11-rule-08.mp3"
+            },
+            {
+              "nl": "Ik heb alles, **dus** ik ga naar huis.",
+              "ua": "У мене є все, тому я йду додому.",
+              "audio": "les11-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ik koop peren, want ze zijn vers (груші купую через свіжість) і Ze zijn vers, dus ik koop peren (свіжість веде до покупки). Те саме два факти, але зв'язок обернений."
+        }
+      ],
+      "points_ua": [
+        "Після en, maar, want і dus порядок слів звичайний: підмет, потім дієслово. Ці слова стоять поза реченням і не змінюють його.",
+        "У твоєму зошиті want записано як «бо / тому що». Для want лишай тільки «бо». «Тому що» знадобиться пізніше для omdat, і там порядок інший: дієслово піде в кінець речення. Після want дієслово в кінець не йде: Ik koop peren, want ze zijn vers.",
+        "Dus може стояти й на першому місці, тоді дієслово йде другим: Dus koop ik peren, як після Vaak і Nu у Les 10. Спершу вчи форму з комою: ..., dus ik koop peren."
+      ]
+    },
+    {
+      "title_ua": "Місце vandaag, daarna, ook",
+      "summary_ua": "Vandaag (сьогодні), daarna (потім) і ook (також) стоять там, де у Les 10 стоять altijd і vaak: після підмета й дієслова, перед неозначеним об'єктом. На першому місці вони забирають місце підмета, тому дієслово лишається другим, а підмет іде після нього, як після Nu і Vaak.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "у середині: після підмета й дієслова",
+          "when_ua": "Слово стоїть після дієслова, перед об'єктом без артикля або з een. Інфінітив, якщо він є, лишається в кінці (Les 7).",
+          "examples": [
+            {
+              "nl": "Ik koop **vandaag** groente.",
+              "ua": "Сьогодні я купую овочі.",
+              "audio": "les11-rule-10.mp3"
+            },
+            {
+              "nl": "Ik heb **ook** een paar tomaten.",
+              "ua": "У мене також є кілька помідорів.",
+              "audio": "les11-example-14.mp3"
+            },
+            {
+              "nl": "Ik eet **daarna** vers brood.",
+              "ua": "Потім я їм свіжий хліб.",
+              "audio": "les11-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Ook стоїть перед тим, до чого відноситься: Ik heb ook een paar tomaten. З означеним об'єктом місце слова залежить від змісту (Les 7, Les 10), тому поки що вправляйся з неозначеним."
+        },
+        {
+          "form": "на початку: дієслово друге",
+          "when_ua": "Слово стоїть першим, тому дієслово лишається на другому місці, а підмет іде після нього.",
+          "examples": [
+            {
+              "nl": "**Vandaag** koop ik een paar peren.",
+              "ua": "Сьогодні я купую кілька груш.",
+              "audio": "les11-example-13.mp3"
+            },
+            {
+              "nl": "**Daarna** eet ik vers brood.",
+              "ua": "Потім я їм свіжий хліб.",
+              "audio": "les11-example-17.mp3"
+            },
+            {
+              "nl": "**Vandaag** eet ik verse groente.",
+              "ua": "Сьогодні я їм свіжі овочі.",
+              "audio": "les11-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Vandaag koop ik, а не Vandaag ik koop: це порядок із Les 3 і Les 10. Daarna часто стоїть саме на початку: Daarna ga ik naar huis."
+        }
+      ],
+      "points_ua": [
+        "Vandaag стоїть там, де nu (Les 4) і elke dag (Les 7): Vandaag koop ik fruit, Nu koop ik fruit.",
+        "Alles значить «усе» і працює як об'єкт: Ik heb alles = у мене є все. Дієслово після alles в однині: Alles is vers, як українське «усе свіже».",
+        "Ook не плутай з en. En з'єднує слова й речення (Les 10), ook додає «також»: Ik koop peren en ik koop ook brood."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Deze tomaten zijn vers.",
+      "ua": "Ці помідори свіжі.",
+      "audio": "les11-example-01.mp3"
+    },
+    {
+      "nl": "Ik koop een verse wortel.",
+      "ua": "Я купую свіжу моркву.",
+      "audio": "les11-example-02.mp3"
+    },
+    {
+      "nl": "Het eten is lekker.",
+      "ua": "Їжа смачна.",
+      "audio": "les11-example-03.mp3"
+    },
+    {
+      "nl": "Ik eet een lekkere banaan.",
+      "ua": "Я їм смачний банан.",
+      "audio": "les11-example-04.mp3"
+    },
+    {
+      "nl": "De druiven zijn zoet.",
+      "ua": "Виноград солодкий.",
+      "audio": "les11-example-05.mp3"
+    },
+    {
+      "nl": "Zij houdt van zoete druiven.",
+      "ua": "Вона любить солодкий виноград.",
+      "audio": "les11-example-06.mp3"
+    },
+    {
+      "nl": "De appel is zuur.",
+      "ua": "Яблуко кисле.",
+      "audio": "les11-example-07.mp3"
+    },
+    {
+      "nl": "Ik eet zuur fruit.",
+      "ua": "Я їм кислі фрукти.",
+      "audio": "les11-example-08.mp3"
+    },
+    {
+      "nl": "Hij eet een groot stukje kaas.",
+      "ua": "Він їсть великий шматочок сиру.",
+      "audio": "les11-example-09.mp3"
+    },
+    {
+      "nl": "Zij koopt een grote appel.",
+      "ua": "Вона купує велике яблуко.",
+      "audio": "les11-example-10.mp3"
+    },
+    {
+      "nl": "Ik heb geen groot huis.",
+      "ua": "У мене немає великого дому.",
+      "audio": "les11-example-11.mp3"
+    },
+    {
+      "nl": "Het grote huis is daar.",
+      "ua": "Великий дім там.",
+      "audio": "les11-example-12.mp3"
+    },
+    {
+      "nl": "Vandaag koop ik een paar peren.",
+      "ua": "Сьогодні я купую кілька груш.",
+      "audio": "les11-example-13.mp3"
+    },
+    {
+      "nl": "Ik heb ook een paar tomaten.",
+      "ua": "У мене також є кілька помідорів.",
+      "audio": "les11-example-14.mp3"
+    },
+    {
+      "nl": "Ik heb geen brood, dus ik koop brood.",
+      "ua": "У мене немає хліба, тому я купую хліб.",
+      "audio": "les11-example-15.mp3"
+    },
+    {
+      "nl": "Ik koop peren, want ze zijn vers.",
+      "ua": "Я купую груші, бо вони свіжі.",
+      "audio": "les11-example-16.mp3"
+    },
+    {
+      "nl": "Daarna eet ik vers brood.",
+      "ua": "Потім я їм свіжий хліб.",
+      "audio": "les11-example-17.mp3"
+    },
+    {
+      "nl": "Ik betaal voor de wortels.",
+      "ua": "Я плачу за моркву.",
+      "audio": "les11-example-18.mp3"
+    },
+    {
+      "nl": "Dit fruit is voor de kinderen.",
+      "ua": "Ці фрукти для дітей.",
+      "audio": "les11-example-19.mp3"
+    },
+    {
+      "nl": "Voor het eten drink ik water.",
+      "ua": "Перед їжею я п'ю воду.",
+      "audio": "les11-example-20.mp3"
+    },
+    {
+      "nl": "Dit paar woont hier.",
+      "ua": "Ця пара живе тут.",
+      "audio": "les11-example-21.mp3"
+    },
+    {
+      "nl": "Ik heb alles.",
+      "ua": "У мене є все.",
+      "audio": "les11-example-22.mp3"
+    },
+    {
+      "nl": "Het fruit is vers.",
+      "ua": "Фрукти свіжі.",
+      "audio": "les11-example-23.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Groente en fruit",
+    "title_ua": "Овочі й фрукти",
+    "highlight": [
+      "nl-9b381f5b",
+      "nl-906deaea",
+      "nl-1224ff0e",
+      "nl-909b669b",
+      "nl-47216c1f",
+      "nl-82c5d372",
+      "nl-e537d910",
+      "nl-435eb7c3",
+      "nl-42316640",
+      "nl-6ce8321b",
+      "nl-6c0aa670",
+      "nl-1ad8940b",
+      "nl-50538d11",
+      "nl-a204d738",
+      "nl-479a2be8",
+      "nl-cec25ed8",
+      "nl-9f31f6cb",
+      "nl-01f2d241",
+      "nl-9bd0246a"
+    ],
+    "sentences": [
+      {
+        "nl": "Vandaag ga ik naar de winkel.",
+        "ua": "Сьогодні я йду до магазину.",
+        "audio": "les11-reading-01.mp3"
+      },
+      {
+        "nl": "Ik heb geen wortels, dus ik koop wortels.",
+        "ua": "У мене немає моркви, тому я купую моркву.",
+        "audio": "les11-reading-02.mp3"
+      },
+      {
+        "nl": "Ik koop ook een paar zoete druiven.",
+        "ua": "Я також купую кілька солодких виноградин.",
+        "audio": "les11-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn zoon houdt niet van zure druiven.",
+        "ua": "Мій син не любить кислий виноград.",
+        "audio": "les11-reading-04.mp3"
+      },
+      {
+        "nl": "Ik koop een groot stukje kaas.",
+        "ua": "Я купую великий шматочок сиру.",
+        "audio": "les11-reading-05.mp3"
+      },
+      {
+        "nl": "Ik betaal voor de groente en het fruit.",
+        "ua": "Я плачу за овочі й фрукти.",
+        "audio": "les11-reading-06.mp3"
+      },
+      {
+        "nl": "Daarna ga ik naar huis.",
+        "ua": "Потім я йду додому.",
+        "audio": "les11-reading-07.mp3"
+      },
+      {
+        "nl": "Het eten is lekker, want alles is vers.",
+        "ua": "Їжа смачна, бо все свіже.",
+        "audio": "les11-reading-08.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ці помідори свіжі.",
+          "cue": "deze tomaten + zijn; vers (після zijn без -e)",
+          "accepted": [
+            "Deze tomaten zijn vers."
+          ]
+        },
+        {
+          "prompt": "Я купую свіжу моркву.",
+          "cue": "ik + kopen; een verse wortel",
+          "accepted": [
+            "Ik koop een verse wortel."
+          ]
+        },
+        {
+          "prompt": "Їжа смачна.",
+          "cue": "het eten + zijn; lekker",
+          "accepted": [
+            "Het eten is lekker."
+          ]
+        },
+        {
+          "prompt": "Мама купує смачну моркву.",
+          "cue": "de moeder + kopen; lekkere wortels",
+          "accepted": [
+            "De moeder koopt een lekkere wortel.",
+            "De moeder koopt lekkere wortels."
+          ]
+        },
+        {
+          "prompt": "Вона любить солодкий виноград.",
+          "cue": "zij + houden van; zoete druiven",
+          "accepted": [
+            "Zij houdt van zoete druiven.",
+            "Ze houdt van zoete druiven."
+          ]
+        },
+        {
+          "prompt": "Тато ніколи не купує кислі яблука.",
+          "cue": "de vader + kopen; nooit; zure appels",
+          "accepted": [
+            "De vader koopt nooit zure appels.",
+            "Nooit koopt de vader zure appels."
+          ]
+        },
+        {
+          "prompt": "Ти хочеш купити свіжі овочі?",
+          "cue": "jij + willen; verse groente; kopen; питання",
+          "accepted": [
+            "Wil jij verse groente kopen?",
+            "Wil je verse groente kopen?",
+            "Wil jij verse groenten kopen?",
+            "Wil je verse groenten kopen?"
+          ]
+        },
+        {
+          "prompt": "У мене є велике яйце.",
+          "cue": "ik + hebben; een groot ei",
+          "accepted": [
+            "Ik heb een groot ei."
+          ]
+        },
+        {
+          "prompt": "У нас немає великого дому.",
+          "cue": "wij + hebben; geen; groot huis",
+          "accepted": [
+            "Wij hebben geen groot huis.",
+            "We hebben geen groot huis."
+          ]
+        },
+        {
+          "prompt": "Вона купує велике яблуко.",
+          "cue": "zij + kopen; een grote appel",
+          "accepted": [
+            "Zij koopt een grote appel.",
+            "Ze koopt een grote appel."
+          ]
+        },
+        {
+          "prompt": "Сьогодні я купую кілька груш.",
+          "cue": "vandaag; ik + kopen; een paar peren",
+          "accepted": [
+            "Vandaag koop ik een paar peren.",
+            "Ik koop vandaag een paar peren."
+          ]
+        },
+        {
+          "prompt": "У мене немає хліба, тому я купую хліб.",
+          "cue": "ik + hebben; geen brood; dus; ik + kopen; brood",
+          "accepted": [
+            "Ik heb geen brood, dus ik koop brood.",
+            "Ik heb geen brood dus ik koop brood."
+          ]
+        },
+        {
+          "prompt": "Я купую груші, бо вони свіжі.",
+          "cue": "ik + kopen; peren; want; ze + zijn; vers",
+          "accepted": [
+            "Ik koop peren, want ze zijn vers.",
+            "Ik koop peren, want zij zijn vers.",
+            "Ik koop peren want ze zijn vers.",
+            "Ik koop peren want zij zijn vers."
+          ]
+        },
+        {
+          "prompt": "Потім я їм свіжий хліб.",
+          "cue": "daarna; ik + eten; vers brood",
+          "accepted": [
+            "Daarna eet ik vers brood.",
+            "Ik eet daarna vers brood."
+          ]
+        },
+        {
+          "prompt": "Я плачу за моркву.",
+          "cue": "ik + betalen; voor; de wortels",
+          "accepted": [
+            "Ik betaal voor de wortels.",
+            "Ik betaal voor de wortel."
+          ]
+        },
+        {
+          "prompt": "У мене також є кілька помідорів.",
+          "cue": "ik + hebben; ook; een paar tomaten",
+          "accepted": [
+            "Ik heb ook een paar tomaten."
+          ]
+        },
+        {
+          "prompt": "Ці фрукти для дітей.",
+          "cue": "dit fruit + zijn; voor de kinderen",
+          "accepted": [
+            "Dit fruit is voor de kinderen."
+          ]
+        },
+        {
+          "prompt": "Ця пара живе тут.",
+          "cue": "dit paar + wonen; hier",
+          "accepted": [
+            "Dit paar woont hier."
+          ]
+        },
+        {
+          "prompt": "Сьогодні ми їмо овочі й фрукти.",
+          "cue": "vandaag; wij + eten; groente en fruit",
+          "accepted": [
+            "Vandaag eten wij groente en fruit.",
+            "Vandaag eten we groente en fruit.",
+            "Wij eten vandaag groente en fruit.",
+            "We eten vandaag groente en fruit.",
+            "Vandaag eten wij groenten en fruit.",
+            "Vandaag eten we groenten en fruit."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "vers",
+        "verse",
+        "lekker",
+        "lekkere",
+        "zoet",
+        "zoete",
+        "zuur",
+        "zure",
+        "groot",
+        "grote",
+        "want",
+        "dus",
+        "ook",
+        "voor",
+        "vandaag",
+        "daarna",
+        "alles"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Deze tomaten zijn ___.",
+          "hint": "Ці помідори свіжі.",
+          "accepted": [
+            [
+              "vers"
+            ]
+          ]
+        },
+        {
+          "text": "Ik koop een ___ wortel.",
+          "hint": "Я купую свіжу моркву.",
+          "accepted": [
+            [
+              "verse"
+            ]
+          ]
+        },
+        {
+          "text": "Het eten is ___.",
+          "hint": "Їжа смачна.",
+          "accepted": [
+            [
+              "lekker"
+            ]
+          ]
+        },
+        {
+          "text": "Ik eet een ___ banaan.",
+          "hint": "Я їм смачний банан.",
+          "accepted": [
+            [
+              "lekkere"
+            ]
+          ]
+        },
+        {
+          "text": "De druiven zijn ___.",
+          "hint": "Виноград солодкий.",
+          "accepted": [
+            [
+              "zoet"
+            ]
+          ]
+        },
+        {
+          "text": "Zij houdt van ___ druiven.",
+          "hint": "Вона любить солодкий виноград.",
+          "accepted": [
+            [
+              "zoete"
+            ]
+          ]
+        },
+        {
+          "text": "Ik eet ___ fruit.",
+          "hint": "Я їм кислі фрукти.",
+          "accepted": [
+            [
+              "zuur"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon houdt niet van ___ appels.",
+          "hint": "Мій син не любить кислі яблука.",
+          "accepted": [
+            [
+              "zure"
+            ]
+          ]
+        },
+        {
+          "text": "Zij koopt een ___ appel.",
+          "hint": "Вона купує велике яблуко.",
+          "accepted": [
+            [
+              "grote"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb geen ___ huis.",
+          "hint": "У мене немає великого дому.",
+          "accepted": [
+            [
+              "groot"
+            ]
+          ]
+        },
+        {
+          "text": "Ik eet ___ brood.",
+          "hint": "Я їм свіжий хліб.",
+          "accepted": [
+            [
+              "vers"
+            ]
+          ]
+        },
+        {
+          "text": "Ik eet ___ kaas.",
+          "hint": "Я їм свіжий сир.",
+          "accepted": [
+            [
+              "verse"
+            ]
+          ]
+        },
+        {
+          "text": "Ik eet dit ___ brood.",
+          "hint": "Я їм цей свіжий хліб.",
+          "accepted": [
+            [
+              "verse"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb geen brood, ___ ik koop brood.",
+          "hint": "У мене немає хліба, тому я купую хліб.",
+          "accepted": [
+            [
+              "dus"
+            ]
+          ]
+        },
+        {
+          "text": "Ik koop peren, ___ ze zijn vers.",
+          "hint": "Я купую груші, бо вони свіжі.",
+          "accepted": [
+            [
+              "want"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ een paar tomaten.",
+          "hint": "У мене також є кілька помідорів.",
+          "accepted": [
+            [
+              "ook"
+            ]
+          ]
+        },
+        {
+          "text": "Ik betaal ___ de wortels.",
+          "hint": "Я плачу за моркву.",
+          "accepted": [
+            [
+              "voor"
+            ]
+          ]
+        },
+        {
+          "text": "___ ga ik naar de winkel.",
+          "hint": "Сьогодні я йду до магазину.",
+          "accepted": [
+            [
+              "Vandaag"
+            ]
+          ]
+        },
+        {
+          "text": "___ ga ik naar huis.",
+          "hint": "Потім я йду додому.",
+          "accepted": [
+            [
+              "Daarna"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___.",
+          "hint": "У мене є все.",
+          "accepted": [
+            [
+              "alles"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: додай прикметник у правильній формі, зроби питання, винеси слово на початок або з'єднай речення",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik koop een wortel.",
+          "cue": "-> додай vers",
+          "accepted": [
+            "Ik koop een verse wortel."
+          ]
+        },
+        {
+          "prompt": "Ik koop een ei.",
+          "cue": "-> додай vers",
+          "accepted": [
+            "Ik koop een vers ei."
+          ]
+        },
+        {
+          "prompt": "Zij eet een appel.",
+          "cue": "-> додай zuur",
+          "accepted": [
+            "Zij eet een zure appel.",
+            "Ze eet een zure appel."
+          ]
+        },
+        {
+          "prompt": "Ik eet fruit.",
+          "cue": "-> додай zuur",
+          "accepted": [
+            "Ik eet zuur fruit."
+          ]
+        },
+        {
+          "prompt": "Ik eet het brood.",
+          "cue": "-> додай vers",
+          "accepted": [
+            "Ik eet het verse brood."
+          ]
+        },
+        {
+          "prompt": "Ik eet brood.",
+          "cue": "-> додай vers",
+          "accepted": [
+            "Ik eet vers brood."
+          ]
+        },
+        {
+          "prompt": "Ik eet kaas.",
+          "cue": "-> додай vers",
+          "accepted": [
+            "Ik eet verse kaas."
+          ]
+        },
+        {
+          "prompt": "Ik heb een huis.",
+          "cue": "-> додай groot",
+          "accepted": [
+            "Ik heb een groot huis."
+          ]
+        },
+        {
+          "prompt": "Ik heb een appel.",
+          "cue": "-> додай groot",
+          "accepted": [
+            "Ik heb een grote appel."
+          ]
+        },
+        {
+          "prompt": "Ik koop een grote appel.",
+          "cue": "-> множина (appels)",
+          "accepted": [
+            "Ik koop grote appels."
+          ]
+        },
+        {
+          "prompt": "De tomaat is vers.",
+          "cue": "-> множина",
+          "accepted": [
+            "De tomaten zijn vers."
+          ]
+        },
+        {
+          "prompt": "Het fruit is vers.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is het fruit vers?"
+          ]
+        },
+        {
+          "prompt": "Ik koop peren.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag koop ik peren."
+          ]
+        },
+        {
+          "prompt": "Ik ga naar huis.",
+          "cue": "-> починай з Daarna",
+          "accepted": [
+            "Daarna ga ik naar huis."
+          ]
+        },
+        {
+          "prompt": "Ik koop peren.",
+          "cue": "-> додай ook",
+          "accepted": [
+            "Ik koop ook peren."
+          ]
+        },
+        {
+          "prompt": "Ik heb geen brood. Ik koop brood.",
+          "cue": "-> з'єднай через dus",
+          "accepted": [
+            "Ik heb geen brood, dus ik koop brood.",
+            "Ik heb geen brood dus ik koop brood."
+          ]
+        },
+        {
+          "prompt": "Ik koop peren. Ze zijn vers.",
+          "cue": "-> з'єднай через want",
+          "accepted": [
+            "Ik koop peren, want ze zijn vers.",
+            "Ik koop peren, want zij zijn vers.",
+            "Ik koop peren want ze zijn vers.",
+            "Ik koop peren want zij zijn vers."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ een verse wortel.",
+          "cue": "kopen",
+          "accepted": [
+            "koop"
+          ]
+        },
+        {
+          "text": "De vader ___ een groot stukje kaas.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "Wij ___ vandaag fruit.",
+          "cue": "eten",
+          "accepted": [
+            "eten"
+          ]
+        },
+        {
+          "text": "Jij ___ voor de groente.",
+          "cue": "betalen",
+          "accepted": [
+            "betaalt"
+          ]
+        },
+        {
+          "text": "___ jij verse groente?",
+          "cue": "kopen",
+          "accepted": [
+            "Koop"
+          ]
+        },
+        {
+          "text": "Zij ___ van zoete druiven.",
+          "cue": "houden",
+          "accepted": [
+            "houdt"
+          ]
+        },
+        {
+          "text": "Ik ___ geen groot huis.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ geen zure appels.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "Wij ___ een paar peren.",
+          "cue": "kopen",
+          "accepted": [
+            "kopen"
+          ]
+        },
+        {
+          "text": "Het fruit ___ vers.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "De tomaten ___ vers.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "Ik ___ vandaag naar de winkel.",
+          "cue": "gaan",
+          "accepted": [
+            "ga"
+          ]
+        },
+        {
+          "text": "___ jij alles?",
+          "cue": "hebben",
+          "accepted": [
+            "Heb"
+          ]
+        },
+        {
+          "text": "Jullie ___ voor het fruit.",
+          "cue": "betalen",
+          "accepted": [
+            "betalen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай питання з відповіддю. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Wat eet de vader?",
+          "answer": "De vader eet een groot stukje kaas."
+        },
+        {
+          "prompt": "Wat is vers?",
+          "answer": "Het fruit is vers."
+        },
+        {
+          "prompt": "Hoeveel druiven koop jij?",
+          "answer": "Ik koop een paar druiven."
+        },
+        {
+          "prompt": "Wat koopt zij vandaag?",
+          "answer": "Vandaag koopt zij verse groente."
+        },
+        {
+          "prompt": "Wie houdt niet van zure appels?",
+          "answer": "Mijn zoon houdt niet van zure appels."
+        },
+        {
+          "prompt": "Wat heb jij?",
+          "answer": "Ik heb alles."
+        }
+      ],
+      "extra": [
+        "Ik eet ook een stukje kaas.",
+        "De groente is lekker."
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function",
+        "adjective"
+      ]
+    }
+  ]
+}

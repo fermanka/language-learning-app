@@ -1,0 +1,1333 @@
+{
+  "id": "nl-les-09",
+  "lang": "nl",
+  "order": 9,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-84814eed",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vader",
+      "plural": [
+        "vaders"
+      ],
+      "ua": "батько, тато",
+      "audio": "de-vader.mp3"
+    },
+    {
+      "id": "nl-5ced47a2",
+      "type": "noun",
+      "article": "de",
+      "lemma": "moeder",
+      "plural": [
+        "moeders"
+      ],
+      "ua": "мати, мама",
+      "audio": "de-moeder.mp3"
+    },
+    {
+      "id": "nl-33b918ae",
+      "type": "noun",
+      "article": "de",
+      "lemma": "broer",
+      "plural": [
+        "broers"
+      ],
+      "ua": "брат",
+      "audio": "de-broer.mp3"
+    },
+    {
+      "id": "nl-1bcbb9b0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "zus",
+      "plural": [
+        "zussen"
+      ],
+      "ua": "сестра (множина zussen: голосна коротка, тому s подвоюється, як у man - mannen)",
+      "audio": "de-zus.mp3"
+    },
+    {
+      "id": "nl-50d87793",
+      "type": "noun",
+      "article": "de",
+      "lemma": "familie",
+      "plural": [
+        "families"
+      ],
+      "ua": "сім'я, родина",
+      "audio": "de-familie.mp3"
+    },
+    {
+      "id": "nl-9ed2d276",
+      "type": "noun",
+      "article": "de",
+      "lemma": "dochter",
+      "plural": [
+        "dochters"
+      ],
+      "ua": "донька",
+      "audio": "de-dochter.mp3"
+    },
+    {
+      "id": "nl-185ff735",
+      "type": "function",
+      "lemma": "haar",
+      "ua": "її, свій (власниця вона: haar broer = її брат, свій брат; форма не змінюється, як mijn)",
+      "audio": "haar.mp3"
+    },
+    {
+      "id": "nl-cf2ca6cb",
+      "type": "function",
+      "lemma": "hun",
+      "ua": "їхній, їхня, їхнє, їхні (власників кілька; форма не змінюється: hun huis, hun kinderen)",
+      "audio": "hun.mp3"
+    },
+    {
+      "id": "nl-dffe7324",
+      "type": "function",
+      "lemma": "zijn",
+      "ua": "його, свій (власник він: zijn zus = його сестра, своя сестра). Пишеться так само, як дієслово zijn = бути (Les 1), але стоїть перед іменником",
+      "audio": "zijn.mp3"
+    },
+    {
+      "id": "nl-cbcb88d6",
+      "type": "adjective",
+      "lemma": "goed",
+      "ua": "добрий, хороший (у реченні після дієслова: goed = «добре» або «хороший»: Hij spreekt goed = він добре говорить)",
+      "audio": "goed.mp3"
+    },
+    {
+      "id": "nl-1882924f",
+      "type": "adjective",
+      "lemma": "goede",
+      "ua": "добрий, хороший (форма перед іменником: een goede vader, goede stoelen; поки що лише з de-словами й множиною)",
+      "audio": "goede.mp3"
+    },
+    {
+      "id": "nl-42b800c9",
+      "type": "verb",
+      "lemma": "houden van",
+      "ua": "любити (когось, щось), бути прив'язаним; завжди з van: houden van kaas = любити сир",
+      "audio": "houden-van.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "hou van",
+          "audio": "ik-hou-van.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "houdt van",
+          "audio": "jij-houdt-van.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "houdt van",
+          "audio": "u-houdt-van.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "houdt van",
+          "audio": "hij-houdt-van.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "houden van",
+          "audio": "wij-houden-van.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "houden van",
+          "audio": "jullie-houden-van.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "houden van",
+          "audio": "zij-houden-van.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-c5a8f6ac",
+      "type": "verb",
+      "lemma": "kennen",
+      "ua": "знати (людину, сім'ю; бути з кимось знайомим)",
+      "audio": "kennen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ken",
+          "audio": "ik-ken.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "kent",
+          "audio": "jij-kent.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "kent",
+          "audio": "u-kent.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "kent",
+          "audio": "hij-kent.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "kennen",
+          "audio": "wij-kennen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "kennen",
+          "audio": "jullie-kennen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "kennen",
+          "audio": "zij-kennen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-7b403fe4",
+      "type": "verb",
+      "lemma": "wachten op",
+      "ua": "чекати на (когось, щось); завжди з op",
+      "audio": "wachten-op.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "wacht op",
+          "audio": "ik-wacht-op.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "wacht op",
+          "audio": "jij-wacht-op.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "wacht op",
+          "audio": "u-wacht-op.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "wacht op",
+          "audio": "hij-wacht-op.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "wachten op",
+          "audio": "wij-wachten-op.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "wachten op",
+          "audio": "jullie-wachten-op.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "wachten op",
+          "audio": "zij-wachten-op.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-408d3de9",
+      "type": "verb",
+      "lemma": "denken aan",
+      "ua": "думати про (когось, щось); завжди з aan",
+      "audio": "denken-aan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "denk aan",
+          "audio": "ik-denk-aan.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "denkt aan",
+          "audio": "jij-denkt-aan.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "denkt aan",
+          "audio": "u-denkt-aan.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "denkt aan",
+          "audio": "hij-denkt-aan.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "denken aan",
+          "audio": "wij-denken-aan.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "denken aan",
+          "audio": "jullie-denken-aan.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "denken aan",
+          "audio": "zij-denken-aan.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-cfc2ab0b",
+      "type": "verb",
+      "lemma": "kijken naar",
+      "ua": "дивитися на (когось, щось); завжди з naar",
+      "audio": "kijken-naar.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kijk naar",
+          "audio": "ik-kijk-naar.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "kijkt naar",
+          "audio": "jij-kijkt-naar.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "kijkt naar",
+          "audio": "u-kijkt-naar.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "kijkt naar",
+          "audio": "hij-kijkt-naar.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "kijken naar",
+          "audio": "wij-kijken-naar.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "kijken naar",
+          "audio": "jullie-kijken-naar.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "kijken naar",
+          "audio": "zij-kijken-naar.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-a1c1b0f7",
+      "type": "verb",
+      "lemma": "spreken",
+      "ua": "говорити, розмовляти (з кимось: spreken met)",
+      "audio": "spreken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "spreek",
+          "audio": "ik-spreek.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "spreekt",
+          "audio": "jij-spreekt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "spreekt",
+          "audio": "u-spreekt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "spreekt",
+          "audio": "hij-spreekt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "spreken",
+          "audio": "wij-spreken.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "spreken",
+          "audio": "jullie-spreken.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "spreken",
+          "audio": "zij-spreken.mp3"
+        }
+      ]
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Niet перед інфінітивом, geen перед об'єктом",
+      "summary_ua": "З модальним дієсловом (Les 7) вибір між niet і geen залежить від того, що ти заперечуєш. Якщо саму дію, niet стоїть прямо перед інфінітивом у кінці. Якщо неозначену річ (без артикля або з een), перед нею стоїть geen. Дужка з Les 7 не ламається: модальне дієслово на другому місці, інфінітив у самому кінці.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "niet: заперечується дія",
+          "when_ua": "Niet стоїть безпосередньо перед інфінітивом. Означений об'єкт (de, het, mijn) лишається перед niet, як у Les 2 (Ik heb het huis niet): de appels niet kopen.",
+          "examples": [
+            {
+              "nl": "Mijn broer kan **niet** zwemmen.",
+              "ua": "Мій брат не вміє плавати.",
+              "audio": "les09-example-12.mp3"
+            },
+            {
+              "nl": "Mijn zus wil **niet** lezen.",
+              "ua": "Моя сестра не хоче читати.",
+              "audio": "les09-rule-01.mp3"
+            },
+            {
+              "nl": "De moeder kan de appels **niet** kopen.",
+              "ua": "Мама не може купити ті яблука.",
+              "audio": "les09-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Спитай себе: що я заперечую? Kan niet zwemmen: він не вміє плавати взагалі, заперечується сама дія."
+        },
+        {
+          "form": "geen: заперечується неозначений об'єкт",
+          "when_ua": "Об'єкт без артикля, з een або у множині. Geen стоїть перед ним, а інфінітив лишається в кінці.",
+          "examples": [
+            {
+              "nl": "Mijn broer kan **geen** appels kopen.",
+              "ua": "Мій брат не може купити яблука.",
+              "audio": "les09-example-13.mp3"
+            },
+            {
+              "nl": "Mijn zus wil **geen** kaas eten.",
+              "ua": "Моя сестра не хоче їсти сир.",
+              "audio": "les09-rule-03.mp3"
+            },
+            {
+              "nl": "De vader wil **geen** wijn drinken.",
+              "ua": "Тато не хоче пити вино.",
+              "audio": "les09-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Geen тут стоїть замість een або відсутнього артикля, як у Les 2. Kan geen appels kopen: заперечується саме яблука. В українській обидва речення мають просто «не», а нідерландська змушує вибрати."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест: що стоїть після українського «не»? Дієслово (не вміє плавати): niet перед інфінітивом. Іменник без артикля або з een (не може купити яблука): geen перед ним.",
+        "З означеним об'єктом завжди niet: Zij kan de appels niet kopen, але Zij kan geen appels kopen. Присвійні слова (mijn, haar, zijn, hun) теж роблять іменник означеним: Zij kan haar fiets niet kopen.",
+        "Запис у зошиті «незліченні іменники не мають артиклів взагалі» (wijn, brood, melk, water, kaas) точний лише наполовину. Een вони не мають ніколи, а без de або het стоять лише в загальному значенні (Ik drink water), як у Les 7. Про конкретну річ артикль повертається: Ik drink de melk. Заперечення без артикля теж з geen: Ik heb geen kaas."
+      ]
+    },
+    {
+      "title_ua": "Дієслово + прийменник: houden van, wachten op, denken aan, kijken naar",
+      "summary_ua": "Ці чотири дієслова завжди йдуть з одним постійним прийменником. Прийменник і його об'єкт утворюють одну групу (PP, prepositional phrase = прийменникова група): van kaas, op de trein, aan de familie, naar het kind. Порядок слів такий самий, як з дієсловом zijn і місцем: Mijn moeder is in de keuken.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "ствердження і питання: PP лишається на місці",
+          "when_ua": "У ствердженні: підмет, дієслово, PP. У питанні «так/ні» дієслово й підмет міняються місцями (Les 3), а PP стоїть так само в кінці.",
+          "examples": [
+            {
+              "nl": "Mijn moeder **houdt van kaas**.",
+              "ua": "Моя мама любить сир.",
+              "audio": "les09-rule-05.mp3"
+            },
+            {
+              "nl": "**Houdt** de moeder **van kaas**?",
+              "ua": "Мама любить сир?",
+              "audio": "les09-rule-06.mp3"
+            },
+            {
+              "nl": "**Wacht** de vader **op de zoon**?",
+              "ua": "Тато чекає на сина?",
+              "audio": "les09-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Прийменник стоїть перед своїм об'єктом. Не плутай з opbellen (Les 4): там op частина дієслова й іде в кінець (Hij belt zijn zus op), а в wachten op це прийменник, він лишається перед об'єктом (Hij wacht op zijn zus)."
+        },
+        {
+          "form": "заперечення: niet перед PP",
+          "when_ua": "Niet стоїть прямо перед прийменником. Це той самий принцип, що в першому правилі: niet ставимо перед останньою частиною, перед інфінітивом або перед PP.",
+          "examples": [
+            {
+              "nl": "Mijn moeder houdt **niet** van kaas.",
+              "ua": "Моя мама не любить сир.",
+              "audio": "les09-rule-08.mp3"
+            },
+            {
+              "nl": "De broer denkt **niet** aan kaas.",
+              "ua": "Брат не думає про сир.",
+              "audio": "les09-rule-09.mp3"
+            },
+            {
+              "nl": "Het kind kijkt **niet** naar de moeder.",
+              "ua": "Дитина не дивиться на маму.",
+              "audio": "les09-example-09.mp3"
+            }
+          ],
+          "note_ua": "Порівняй із zijn: Mijn moeder is niet in de keuken. Із houden van так само: houdt niet van kaas."
+        }
+      ],
+      "points_ua": [
+        "Прийменники не збігаються з англійськими й не завжди з українськими: wait FOR = wachten OP, look AT = kijken NAAR, think ABOUT = denken AAN. Українські «чекати на» і «дивитися на» близькі до нідерландських (на відповідає op у wachten і naar у kijken), але «думати про» дає aan, а «любити» в українській взагалі без прийменника, у нідерландській houden van. Вчи дієслово разом із прийменником, як одну формулу.",
+        "Форми ті самі, що в Les 1-8: ik без закінчення, jij/je, u, hij/zij/het з -t, wij, jullie, zij з -en. Прийменник не змінюється й іде після форми: ik wacht op, wij wachten op. У формі ik допустимі обидва написання: ik hou van і ik houd van.",
+        "У wachten основа wacht уже закінчується на -t, тому -t не додається (як moet, eet у Les 7): jij wacht, hij wacht. У питанні -t лишається: Wacht jij op de trein? В інших дієсловах -t після jij зникає, як у Les 3: Kijk jij naar het kind? Denk jij aan de familie? Ken jij mijn zus? Spreek jij goed?",
+        "Kennen (знати людину) і spreken (говорити) постійного прийменника не мають: Ik ken de man. Ik spreek met mijn vader: тут met (Les 6) значить «з» і є звичайним прийменником. Kennen стосується людей, яких ти знаєш; для «знати факт» буде інше дієслово, пізніше."
+      ]
+    },
+    {
+      "title_ua": "Присвійні слова: mijn, haar, zijn, hun",
+      "summary_ua": "Ти знаєш mijn (Les 3). До нього додаються haar (її), zijn (його) і hun (їхній). Усі чотири стоять перед іменником замість артикля й ніколи не змінюються: haar broer, haar zus, haar kinderen. Вибір слова залежить лише від власника (я, вона, він, вони), а не від того, що йому належить.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "haar і zijn: один власник",
+          "when_ua": "Власниця вона: haar. Власник він: zijn. Іменник, який належить (broer, zus, kind), на форму не впливає.",
+          "examples": [
+            {
+              "nl": "Mijn zus houdt van **haar** broer.",
+              "ua": "Моя сестра любить свого брата.",
+              "audio": "les09-example-14.mp3"
+            },
+            {
+              "nl": "Mijn broer houdt van **zijn** zus.",
+              "ua": "Мій брат любить свою сестру.",
+              "audio": "les09-rule-10.mp3"
+            },
+            {
+              "nl": "**Zijn** zus woont hier.",
+              "ua": "Його сестра живе тут.",
+              "audio": "les09-example-15.mp3"
+            }
+          ],
+          "note_ua": "В українській є пара «її брат» (брат іншої жінки) і «свій брат» (брат тієї, що діє). У нідерландській цієї різниці немає: haar broer покриває обидва значення. Тому Mijn zus houdt van haar broer українською звучить «любить свого брата»."
+        },
+        {
+          "form": "hun: власників кілька",
+          "when_ua": "Коли власників кілька (вони), стоїть hun. Форма та сама для будь-якого іменника, в однині чи множині.",
+          "examples": [
+            {
+              "nl": "**Hun** huis is groot.",
+              "ua": "Їхній дім великий.",
+              "audio": "les09-example-16.mp3"
+            },
+            {
+              "nl": "**Hun** vader woont in het huis.",
+              "ua": "Їхній тато живе в домі.",
+              "audio": "les09-rule-11.mp3"
+            },
+            {
+              "nl": "Wij kennen **hun** familie.",
+              "ua": "Ми знаємо їхню сім'ю.",
+              "audio": "les09-rule-12.mp3"
+            }
+          ],
+          "note_ua": "В українській «їхній» узгоджується з іменником (їхній тато, їхня мама, їхнє вікно, їхні діти). У нідерландській hun завжди hun."
+        }
+      ],
+      "points_ua": [
+        "Разом: mijn (мій), haar (її, свій), zijn (його, свій), hun (їхній). Жодне не змінюється й не потребує de або het: haar zus, а не de haar zus.",
+        "Zijn як «його» і zijn як дієслово «бути» (Les 1) пишуться однаково. Відрізняй за місцем: перед іменником zijn значить «його» (Zijn zus woont hier), а дієслово стоїть на другому місці (Wij zijn boos). У реченні Zijn zus is boos перше zijn присвійне, а is дієслово.",
+        "Присвійне слово робить іменник означеним, як de або het. Тому з ним niet стоїть після об'єкта, як у Les 2: Zij heeft haar telefoon niet. Ik ken hun familie niet.",
+        "Українське «свій» не шукай у нідерландській окремим словом: для «свого» стоїть те саме haar, zijn або hun, що й для «її, його, їхнього»."
+      ]
+    },
+    {
+      "title_ua": "Goed і goede: «добре» і «добрий»",
+      "summary_ua": "Goed і goede значать те саме, «добрий, хороший», але стоять у різних місцях. Після дієслова (spreekt goed, is goed) пишемо goed без закінчення. Перед іменником пишемо goede. Зараз тримаємося правила для de-слів і множини: een goede vader, goede stoelen.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "goed: після дієслова",
+          "when_ua": "Goed стоїть після дієслова й не змінюється: як прислівник («добре»: spreekt goed) або як прикметник після is («хороший»: is goed). З модальним дієсловом стоїть перед інфінітивом у кінці.",
+          "examples": [
+            {
+              "nl": "Mijn zus spreekt **goed**.",
+              "ua": "Моя сестра добре говорить.",
+              "audio": "les09-example-10.mp3"
+            },
+            {
+              "nl": "Mijn broer kan **goed** zwemmen.",
+              "ua": "Мій брат добре вміє плавати.",
+              "audio": "les09-rule-13.mp3"
+            },
+            {
+              "nl": "De kaas is **goed**.",
+              "ua": "Сир хороший.",
+              "audio": "les09-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Це та сама поведінка, що в groot у Les 2: Het huis is groot. Після is прикметник без закінчення."
+        },
+        {
+          "form": "goede: перед іменником",
+          "when_ua": "Перед іменником стоїть goede: після een з de-словом (een goede vader) і перед множиною (goede stoelen).",
+          "examples": [
+            {
+              "nl": "Hij is een **goede** vader.",
+              "ua": "Він хороший тато.",
+              "audio": "les09-example-17.mp3"
+            },
+            {
+              "nl": "Zij is een **goede** zus.",
+              "ua": "Вона хороша сестра.",
+              "audio": "les09-rule-15.mp3"
+            },
+            {
+              "nl": "Wij hebben **goede** stoelen.",
+              "ua": "У нас є хороші стільці.",
+              "audio": "les09-rule-16.mp3"
+            }
+          ],
+          "note_ua": "З het-словами вибір інший: een goed kind, а не een goede kind. Цього ми ще не вчимо, тому в цьому уроці goede стоїть лише з de-словами й множиною."
+        }
+      ],
+      "points_ua": [
+        "В українській «добре» і «добрий» це два слова, а в нідерландській один корінь goed: без закінчення після дієслова, з -e перед іменником. Не пиши goed перед de-словом: een goede vader, не een goed vader.",
+        "Не переноси goede на кожен іменник. Із het-словами правило інше (een goed kind), і всі прикметники разом ми розберемо окремим уроком. Поки що goede вживай лише з de-словами (de vader, de moeder, de zus, de dochter, de familie, de broer) і з множиною.",
+        "Goed як прислівник стоїть після дієслова або об'єкта: Mijn moeder kent de familie goed. З модальним дієсловом він іде перед інфінітивом: Hij kan goed zwemmen."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Mijn vader houdt van kaas.",
+      "ua": "Мій тато любить сир.",
+      "audio": "les09-example-01.mp3"
+    },
+    {
+      "nl": "Mijn moeder houdt niet van wijn.",
+      "ua": "Моя мама не любить вино.",
+      "audio": "les09-example-02.mp3"
+    },
+    {
+      "nl": "Houdt de zus van appels?",
+      "ua": "Сестра любить яблука?",
+      "audio": "les09-example-03.mp3"
+    },
+    {
+      "nl": "Ik ken de familie.",
+      "ua": "Я знаю цю сім'ю.",
+      "audio": "les09-example-04.mp3"
+    },
+    {
+      "nl": "Kent u mijn broer?",
+      "ua": "Ви (форм.) знаєте мого брата?",
+      "audio": "les09-example-05.mp3"
+    },
+    {
+      "nl": "De vader wacht op de zoon.",
+      "ua": "Тато чекає на сина.",
+      "audio": "les09-example-06.mp3"
+    },
+    {
+      "nl": "Wacht de dochter op de bus?",
+      "ua": "Донька чекає на автобус?",
+      "audio": "les09-example-07.mp3"
+    },
+    {
+      "nl": "Denkt de moeder aan de dochter?",
+      "ua": "Мама думає про доньку?",
+      "audio": "les09-example-08.mp3"
+    },
+    {
+      "nl": "Het kind kijkt niet naar de moeder.",
+      "ua": "Дитина не дивиться на маму.",
+      "audio": "les09-example-09.mp3"
+    },
+    {
+      "nl": "Mijn zus spreekt goed.",
+      "ua": "Моя сестра добре говорить.",
+      "audio": "les09-example-10.mp3"
+    },
+    {
+      "nl": "Ik spreek met mijn vader.",
+      "ua": "Я розмовляю з моїм татом.",
+      "audio": "les09-example-11.mp3"
+    },
+    {
+      "nl": "Mijn broer kan niet zwemmen.",
+      "ua": "Мій брат не вміє плавати.",
+      "audio": "les09-example-12.mp3"
+    },
+    {
+      "nl": "Mijn broer kan geen appels kopen.",
+      "ua": "Мій брат не може купити яблука.",
+      "audio": "les09-example-13.mp3"
+    },
+    {
+      "nl": "Mijn zus houdt van haar broer.",
+      "ua": "Моя сестра любить свого брата.",
+      "audio": "les09-example-14.mp3"
+    },
+    {
+      "nl": "Zijn zus woont hier.",
+      "ua": "Його сестра живе тут.",
+      "audio": "les09-example-15.mp3"
+    },
+    {
+      "nl": "Hun huis is groot.",
+      "ua": "Їхній дім великий.",
+      "audio": "les09-example-16.mp3"
+    },
+    {
+      "nl": "Hij is een goede vader.",
+      "ua": "Він хороший тато.",
+      "audio": "les09-example-17.mp3"
+    },
+    {
+      "nl": "Ik heb een zus.",
+      "ua": "У мене є сестра.",
+      "audio": "les09-example-18.mp3"
+    },
+    {
+      "nl": "Ik heb geen broer.",
+      "ua": "У мене немає брата.",
+      "audio": "les09-example-19.mp3"
+    },
+    {
+      "nl": "De familie heeft twee dochters.",
+      "ua": "У сім'ї є дві доньки.",
+      "audio": "les09-example-20.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn familie",
+    "title_ua": "Моя сім'я",
+    "highlight": [
+      "nl-84814eed",
+      "nl-5ced47a2",
+      "nl-33b918ae",
+      "nl-1bcbb9b0",
+      "nl-50d87793",
+      "nl-9ed2d276",
+      "nl-185ff735",
+      "nl-dffe7324",
+      "nl-cbcb88d6",
+      "nl-1882924f"
+    ],
+    "sentences": [
+      {
+        "nl": "Dit is mijn familie.",
+        "ua": "Це моя сім'я.",
+        "audio": "les09-reading-01.mp3"
+      },
+      {
+        "nl": "Mijn vader woont in het huis.",
+        "ua": "Мій тато живе в домі.",
+        "audio": "les09-reading-02.mp3"
+      },
+      {
+        "nl": "Mijn moeder houdt van kaas.",
+        "ua": "Моя мама любить сир.",
+        "audio": "les09-reading-03.mp3"
+      },
+      {
+        "nl": "Ik heb een broer.",
+        "ua": "У мене є брат.",
+        "audio": "les09-reading-04.mp3"
+      },
+      {
+        "nl": "Hij kan goed zwemmen.",
+        "ua": "Він добре вміє плавати.",
+        "audio": "les09-reading-05.mp3"
+      },
+      {
+        "nl": "Mijn zus heeft een dochter.",
+        "ua": "У моєї сестри є донька.",
+        "audio": "les09-reading-06.mp3"
+      },
+      {
+        "nl": "Haar dochter kijkt naar de trein.",
+        "ua": "Її донька дивиться на потяг.",
+        "audio": "les09-reading-07.mp3"
+      },
+      {
+        "nl": "Zij wacht op haar vader.",
+        "ua": "Вона чекає на свого тата.",
+        "audio": "les09-reading-08.mp3"
+      },
+      {
+        "nl": "Mijn zus denkt aan de familie.",
+        "ua": "Моя сестра думає про сім'ю.",
+        "audio": "les09-reading-09.mp3"
+      },
+      {
+        "nl": "Wij zijn een goede familie.",
+        "ua": "Ми - хороша сім'я.",
+        "audio": "les09-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій тато любить сир.",
+          "cue": "mijn vader + houden van; kaas, без артикля",
+          "accepted": [
+            "Mijn vader houdt van kaas."
+          ]
+        },
+        {
+          "prompt": "Моя мама не любить вино.",
+          "cue": "mijn moeder + houden van; niet; wijn, без артикля",
+          "accepted": [
+            "Mijn moeder houdt niet van wijn."
+          ]
+        },
+        {
+          "prompt": "Ви (форм.) знаєте мого брата?",
+          "cue": "u + kennen; mijn broer; питання",
+          "accepted": [
+            "Kent u mijn broer?"
+          ]
+        },
+        {
+          "prompt": "Тато чекає на сина.",
+          "cue": "de vader + wachten op; de zoon",
+          "accepted": [
+            "De vader wacht op de zoon."
+          ]
+        },
+        {
+          "prompt": "Мама думає про доньку?",
+          "cue": "de moeder + denken aan; de dochter; питання",
+          "accepted": [
+            "Denkt de moeder aan de dochter?"
+          ]
+        },
+        {
+          "prompt": "Дитина не дивиться на маму.",
+          "cue": "het kind + kijken naar; niet; de moeder",
+          "accepted": [
+            "Het kind kijkt niet naar de moeder."
+          ]
+        },
+        {
+          "prompt": "Моя сестра добре говорить.",
+          "cue": "mijn zus + spreken; goed",
+          "accepted": [
+            "Mijn zus spreekt goed."
+          ]
+        },
+        {
+          "prompt": "Мій брат не вміє плавати.",
+          "cue": "mijn broer + kunnen; niet; zwemmen",
+          "accepted": [
+            "Mijn broer kan niet zwemmen."
+          ]
+        },
+        {
+          "prompt": "Мій брат не може купити яблука.",
+          "cue": "mijn broer + kunnen; geen appels; kopen",
+          "accepted": [
+            "Mijn broer kan geen appels kopen."
+          ]
+        },
+        {
+          "prompt": "Моя сестра любить свого брата.",
+          "cue": "mijn zus + houden van; haar broer",
+          "accepted": [
+            "Mijn zus houdt van haar broer."
+          ]
+        },
+        {
+          "prompt": "У мене є сестра.",
+          "cue": "ik + hebben; een zus",
+          "accepted": [
+            "Ik heb een zus."
+          ]
+        },
+        {
+          "prompt": "У нас немає брата.",
+          "cue": "wij + hebben; broer, без артикля",
+          "accepted": [
+            "Wij hebben geen broer.",
+            "We hebben geen broer."
+          ]
+        },
+        {
+          "prompt": "Їхній тато живе в домі.",
+          "cue": "hun vader + wonen; in het huis",
+          "accepted": [
+            "Hun vader woont in het huis."
+          ]
+        },
+        {
+          "prompt": "Він хороший тато.",
+          "cue": "hij + zijn; een goede vader",
+          "accepted": [
+            "Hij is een goede vader."
+          ]
+        },
+        {
+          "prompt": "Зараз ми чекаємо на потяг.",
+          "cue": "nu; wij + wachten op; de trein",
+          "accepted": [
+            "Nu wachten wij op de trein.",
+            "Nu wachten we op de trein.",
+            "Wij wachten nu op de trein.",
+            "We wachten nu op de trein."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "van",
+        "op",
+        "aan",
+        "naar",
+        "niet",
+        "geen",
+        "haar",
+        "zijn",
+        "hun",
+        "goed",
+        "goede",
+        "houdt",
+        "ken",
+        "wachten"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn vader houdt ___ kaas.",
+          "hint": "Мій тато любить сир.",
+          "accepted": [
+            [
+              "van"
+            ]
+          ]
+        },
+        {
+          "text": "De vader wacht ___ de zoon.",
+          "hint": "Тато чекає на сина.",
+          "accepted": [
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "De moeder denkt ___ de dochter.",
+          "hint": "Мама думає про доньку.",
+          "accepted": [
+            [
+              "aan"
+            ]
+          ]
+        },
+        {
+          "text": "Het kind kijkt ___ de trein.",
+          "hint": "Дитина дивиться на потяг.",
+          "accepted": [
+            [
+              "naar"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder houdt ___ van kaas.",
+          "hint": "Моя мама не любить сир.",
+          "accepted": [
+            [
+              "niet"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer kan ___ appels kopen.",
+          "hint": "Мій брат не може купити яблука.",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer kan ___ zwemmen.",
+          "hint": "Мій брат не вміє плавати.",
+          "accepted": [
+            [
+              "niet"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus houdt van ___ broer.",
+          "hint": "Моя сестра любить свого (не мого) брата.",
+          "accepted": [
+            [
+              "haar"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer houdt van ___ zus.",
+          "hint": "Мій брат любить свою (не мою) сестру.",
+          "accepted": [
+            [
+              "zijn"
+            ]
+          ]
+        },
+        {
+          "text": "___ huis is groot.",
+          "hint": "Їхній дім великий.",
+          "accepted": [
+            [
+              "Hun"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus spreekt ___.",
+          "hint": "Моя сестра добре говорить.",
+          "accepted": [
+            [
+              "goed"
+            ]
+          ]
+        },
+        {
+          "text": "Hij is een ___ vader.",
+          "hint": "Він хороший тато.",
+          "accepted": [
+            [
+              "goede"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij mijn zus?",
+          "hint": "Ти знаєш мою сестру?",
+          "accepted": [
+            [
+              "Ken"
+            ]
+          ]
+        },
+        {
+          "text": "___ de moeder ___ kaas?",
+          "hint": "Мама любить сир?",
+          "accepted": [
+            [
+              "Houdt"
+            ],
+            [
+              "van"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ op de trein.",
+          "hint": "Ми чекаємо на потяг.",
+          "accepted": [
+            [
+              "wachten"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: питання так/ні або заперечення",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Mijn moeder houdt van kaas.",
+          "cue": "-> питання",
+          "accepted": [
+            "Houdt mijn moeder van kaas?"
+          ]
+        },
+        {
+          "prompt": "De vader wacht op de zoon.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wacht de vader op de zoon?"
+          ]
+        },
+        {
+          "prompt": "Het kind kijkt naar de moeder.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Het kind kijkt niet naar de moeder."
+          ]
+        },
+        {
+          "prompt": "Mijn broer denkt aan kaas.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Mijn broer denkt niet aan kaas."
+          ]
+        },
+        {
+          "prompt": "Jij kent mijn zus.",
+          "cue": "-> питання",
+          "accepted": [
+            "Ken jij mijn zus?",
+            "Ken je mijn zus?"
+          ]
+        },
+        {
+          "prompt": "De moeder denkt aan de dochter.",
+          "cue": "-> питання",
+          "accepted": [
+            "Denkt de moeder aan de dochter?"
+          ]
+        },
+        {
+          "prompt": "Mijn broer kan zwemmen.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Mijn broer kan niet zwemmen."
+          ]
+        },
+        {
+          "prompt": "Mijn broer kan appels kopen.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Mijn broer kan geen appels kopen."
+          ]
+        },
+        {
+          "prompt": "Jij kijkt naar de trein.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kijk jij naar de trein?",
+            "Kijk je naar de trein?"
+          ]
+        },
+        {
+          "prompt": "De familie woont in het huis.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "De familie woont niet in het huis."
+          ]
+        },
+        {
+          "prompt": "Wij wachten op de bus.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wachten wij op de bus?",
+            "Wachten we op de bus?"
+          ]
+        },
+        {
+          "prompt": "Zij heeft haar telefoon.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Zij heeft haar telefoon niet.",
+            "Ze heeft haar telefoon niet."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ van kaas.",
+          "cue": "houden",
+          "accepted": [
+            "hou",
+            "houd"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ van wijn.",
+          "cue": "houden",
+          "accepted": [
+            "houdt"
+          ]
+        },
+        {
+          "text": "Wij ___ van appels.",
+          "cue": "houden",
+          "accepted": [
+            "houden"
+          ]
+        },
+        {
+          "text": "Ik ___ mijn zus.",
+          "cue": "kennen",
+          "accepted": [
+            "ken"
+          ]
+        },
+        {
+          "text": "De moeder ___ de familie.",
+          "cue": "kennen",
+          "accepted": [
+            "kent"
+          ]
+        },
+        {
+          "text": "___ jij mijn broer?",
+          "cue": "kennen",
+          "accepted": [
+            "Ken"
+          ]
+        },
+        {
+          "text": "Ik ___ op de bus.",
+          "cue": "wachten",
+          "accepted": [
+            "wacht"
+          ]
+        },
+        {
+          "text": "Jij ___ op de trein.",
+          "cue": "wachten",
+          "accepted": [
+            "wacht"
+          ]
+        },
+        {
+          "text": "De zus ___ aan de familie.",
+          "cue": "denken",
+          "accepted": [
+            "denkt"
+          ]
+        },
+        {
+          "text": "___ jij aan de dochter?",
+          "cue": "denken",
+          "accepted": [
+            "Denk"
+          ]
+        },
+        {
+          "text": "Het kind ___ naar de moeder.",
+          "cue": "kijken",
+          "accepted": [
+            "kijkt"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ goed.",
+          "cue": "spreken",
+          "accepted": [
+            "spreekt"
+          ]
+        },
+        {
+          "text": "Ik ___ met mijn vader.",
+          "cue": "spreken",
+          "accepted": [
+            "spreek"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай питання з відповіддю. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Hoeveel kinderen heeft de familie?",
+          "answer": "De familie heeft twee kinderen."
+        },
+        {
+          "prompt": "Wie wacht op de bus?",
+          "answer": "Mijn zus wacht op de bus."
+        },
+        {
+          "prompt": "Waar is de dochter?",
+          "answer": "De dochter is in de keuken."
+        },
+        {
+          "prompt": "Wat drinkt de zoon?",
+          "answer": "De zoon drinkt melk."
+        },
+        {
+          "prompt": "Houdt de moeder van kaas?",
+          "answer": "De moeder houdt niet van kaas."
+        },
+        {
+          "prompt": "Wie kijkt naar de trein?",
+          "answer": "Het kind kijkt naar de trein."
+        }
+      ],
+      "extra": [
+        "De vader denkt aan de familie.",
+        "Mijn broer spreekt goed."
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function",
+        "adjective"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "id": "nl-les-03",
+  "lang": "nl",
+  "order": 3,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-bb526e19",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kamer",
+      "plural": [
+        "kamers"
+      ],
+      "ua": "кімната",
+      "audio": "de-kamer.mp3"
+    },
+    {
+      "id": "nl-fcffc7f4",
+      "type": "noun",
+      "article": "de",
+      "lemma": "keuken",
+      "plural": [
+        "keukens"
+      ],
+      "ua": "кухня",
+      "audio": "de-keuken.mp3"
+    },
+    {
+      "id": "nl-159613cd",
+      "type": "noun",
+      "article": "de",
+      "lemma": "deur",
+      "plural": [
+        "deuren"
+      ],
+      "ua": "двері (de deur = одні двері, de deuren = кілька дверей)",
+      "audio": "de-deur.mp3"
+    },
+    {
+      "id": "nl-e92cb88a",
+      "type": "noun",
+      "article": "het",
+      "lemma": "raam",
+      "plural": [
+        "ramen"
+      ],
+      "ua": "вікно",
+      "audio": "het-raam.mp3"
+    },
+    {
+      "id": "nl-43b6e65a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tafel",
+      "plural": [
+        "tafels"
+      ],
+      "ua": "стіл",
+      "audio": "de-tafel.mp3"
+    },
+    {
+      "id": "nl-627ca027",
+      "type": "noun",
+      "article": "de",
+      "lemma": "stoel",
+      "plural": [
+        "stoelen"
+      ],
+      "ua": "стілець",
+      "audio": "de-stoel.mp3"
+    },
+    {
+      "id": "nl-395d8ded",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tijd",
+      "plural": [
+        "tijden"
+      ],
+      "ua": "час (часто без артикля: Ik heb geen tijd)",
+      "audio": "de-tijd.mp3"
+    },
+    {
+      "id": "nl-dfd300cb",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kosten",
+      "plural": [],
+      "ua": "витрати (лише множина: de kosten, однини немає; дієслово множини: de kosten zijn)",
+      "audio": "de-kosten.mp3",
+      "plural_only": true
+    },
+    {
+      "id": "nl-80810e0b",
+      "type": "function",
+      "lemma": "wat",
+      "ua": "що",
+      "audio": "wat.mp3"
+    },
+    {
+      "id": "nl-84577e2b",
+      "type": "function",
+      "lemma": "wie",
+      "ua": "хто",
+      "audio": "wie.mp3"
+    },
+    {
+      "id": "nl-9bf5ad23",
+      "type": "function",
+      "lemma": "waar",
+      "ua": "де",
+      "audio": "waar.mp3"
+    },
+    {
+      "id": "nl-76c8a498",
+      "type": "function",
+      "lemma": "wanneer",
+      "ua": "коли (питання про час)",
+      "audio": "wanneer.mp3"
+    },
+    {
+      "id": "nl-dbea2015",
+      "type": "function",
+      "lemma": "hoe",
+      "ua": "як (hoe groot = наскільки великий)",
+      "audio": "hoe.mp3"
+    },
+    {
+      "id": "nl-87d13b92",
+      "type": "function",
+      "lemma": "hoeveel",
+      "ua": "скільки (hoeveel ramen = скільки вікон; іменник у множині, без артикля)",
+      "audio": "hoeveel.mp3"
+    },
+    {
+      "id": "nl-2cd2a8bc",
+      "type": "function",
+      "lemma": "hier",
+      "ua": "тут",
+      "audio": "hier.mp3"
+    },
+    {
+      "id": "nl-92ebb85c",
+      "type": "function",
+      "lemma": "in de buurt van",
+      "ua": "поблизу, біля (вчимо як цілий вираз)",
+      "audio": "in-de-buurt-van.mp3",
+      "dictation": false
+    },
+    {
+      "id": "nl-3bf5b63c",
+      "type": "function",
+      "lemma": "uit",
+      "ua": "з, із (звідки); також «назовні», «вимкнено» (Het gas is uit = газ вимкнено)",
+      "audio": "uit.mp3"
+    },
+    {
+      "id": "nl-3ef79a2d",
+      "type": "function",
+      "lemma": "mijn",
+      "ua": "мій, моя, моє, мої (форма не змінюється)",
+      "audio": "mijn.mp3"
+    },
+    {
+      "id": "nl-d842efeb",
+      "type": "function",
+      "lemma": "dit",
+      "ua": "це (про щось поруч)",
+      "audio": "dit.mp3"
+    }
+  ],
+  "rule": {
+    "title_ua": "Питання: так/ні і питальні слова",
+    "summary_ua": "У ствердженні підмет стоїть перед дієсловом. У питанні «так/ні» дієслово стає перед підметом. З питальним словом: питальне слово, потім дієслово, потім підмет.",
+    "see": "Les 2",
+    "compare": [
+      {
+        "form": "підмет + дієслово (ствердження)",
+        "when_ua": "Звичайне речення: спочатку той, хто діє, потім дієслово.",
+        "examples": [
+          {
+            "nl": "**Jij hebt** een boek.",
+            "ua": "У тебе є книга.",
+            "audio": "les03-rule-01.mp3"
+          },
+          {
+            "nl": "**Jij bent** boos.",
+            "ua": "Ти злий.",
+            "audio": "les03-rule-02.mp3"
+          },
+          {
+            "nl": "**De man woont** hier.",
+            "ua": "Чоловік живе тут.",
+            "audio": "les03-rule-03.mp3"
+          }
+        ],
+        "note_ua": "Тут дієслово має свою звичайну форму: hebt, bent, woont."
+      },
+      {
+        "form": "дієслово + підмет (питання так/ні)",
+        "when_ua": "Питання, на яке відповідають «так» або «ні»: дієслово йде на перше місце, підмет після нього.",
+        "examples": [
+          {
+            "nl": "**Heb jij** een boek?",
+            "ua": "У тебе є книга?",
+            "audio": "les03-example-01.mp3"
+          },
+          {
+            "nl": "**Ben jij** boos?",
+            "ua": "Ти злий?",
+            "audio": "les03-example-02.mp3"
+          },
+          {
+            "nl": "**Woont de man** hier?",
+            "ua": "Чоловік живе тут?",
+            "audio": "les03-rule-04.mp3"
+          }
+        ],
+        "note_ua": "В українській порядок слів у питанні той самий (з «чи» або лише інтонацією). В англійській потрібне do (Do you live here?). У нідерландській нічого не додаємо: просто міняємо місцями дієслово і підмет."
+      }
+    ],
+    "points_ua": [
+      "Кінцеве -t зникає, коли jij/je стоїть відразу після дієслова: Jij hebt -> Heb jij; Jij bent -> Ben jij; Jij woont -> Woon jij.",
+      "В усіх інших випадках -t лишається: Woont u hier? Woont hij hier? Woont de man hier? Heeft het huis een raam?",
+      "Питальне слово + дієслово + підмет: Waar woon jij? Wat heb jij? Waar is de keuken?",
+      "Форму дієслова визначає підмет саме цього речення: Waar is de keuken? (не bent), Hoeveel ramen heeft de kamer? (не hebt, не hebben).",
+      "Hoeveel і іменник стоять на початку разом: Hoeveel stoelen heb jij? Іменник у множині, без артикля."
+    ]
+  },
+  "examples": [
+    {
+      "nl": "Heb jij een boek?",
+      "ua": "У тебе є книга?",
+      "audio": "les03-example-01.mp3"
+    },
+    {
+      "nl": "Ben jij boos?",
+      "ua": "Ти злий?",
+      "audio": "les03-example-02.mp3"
+    },
+    {
+      "nl": "Woon jij hier?",
+      "ua": "Ти живеш тут?",
+      "audio": "les03-example-03.mp3"
+    },
+    {
+      "nl": "Woont u hier?",
+      "ua": "Ви (форм.) живете тут?",
+      "audio": "les03-example-04.mp3"
+    },
+    {
+      "nl": "Waar woon jij?",
+      "ua": "Де ти живеш?",
+      "audio": "les03-example-05.mp3"
+    },
+    {
+      "nl": "Wat heb jij?",
+      "ua": "Що у тебе є?",
+      "audio": "les03-example-06.mp3"
+    },
+    {
+      "nl": "Wie is dit?",
+      "ua": "Хто це?",
+      "audio": "les03-example-07.mp3"
+    },
+    {
+      "nl": "Waar is de keuken?",
+      "ua": "Де кухня?",
+      "audio": "les03-example-08.mp3"
+    },
+    {
+      "nl": "Hoeveel ramen heeft de kamer?",
+      "ua": "Скільки вікон у кімнаті?",
+      "audio": "les03-example-09.mp3"
+    },
+    {
+      "nl": "Wanneer heb jij tijd?",
+      "ua": "Коли у тебе є час?",
+      "audio": "les03-example-10.mp3"
+    },
+    {
+      "nl": "Dit is mijn huis.",
+      "ua": "Це мій дім.",
+      "audio": "les03-example-11.mp3"
+    },
+    {
+      "nl": "Het bos is in de buurt van het huis.",
+      "ua": "Ліс поблизу дому.",
+      "audio": "les03-example-12.mp3"
+    },
+    {
+      "nl": "Wat zijn de kosten?",
+      "ua": "Які витрати?",
+      "audio": "les03-example-13.mp3"
+    },
+    {
+      "nl": "Het gas is uit.",
+      "ua": "Газ вимкнено.",
+      "audio": "les03-example-14.mp3"
+    },
+    {
+      "nl": "Hoe groot is de kamer?",
+      "ua": "Наскільки велика кімната?",
+      "audio": "les03-example-15.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn huis",
+    "title_ua": "Мій дім",
+    "highlight": [
+      "nl-bb526e19",
+      "nl-fcffc7f4",
+      "nl-e92cb88a",
+      "nl-627ca027",
+      "nl-395d8ded",
+      "nl-3ef79a2d",
+      "nl-d842efeb",
+      "nl-87d13b92",
+      "nl-9bf5ad23",
+      "nl-76c8a498",
+      "nl-92ebb85c",
+      "nl-2cd2a8bc"
+    ],
+    "sentences": [
+      {
+        "nl": "Dit is mijn huis.",
+        "ua": "Це мій дім.",
+        "audio": "les03-reading-01.mp3"
+      },
+      {
+        "nl": "Ik woon hier.",
+        "ua": "Я живу тут.",
+        "audio": "les03-reading-02.mp3"
+      },
+      {
+        "nl": "Het huis is in de buurt van het bos.",
+        "ua": "Дім поблизу лісу.",
+        "audio": "les03-reading-03.mp3"
+      },
+      {
+        "nl": "Hoeveel kamers heeft het huis?",
+        "ua": "Скільки кімнат у домі?",
+        "audio": "les03-reading-04.mp3"
+      },
+      {
+        "nl": "Het huis heeft vier kamers.",
+        "ua": "У домі чотири кімнати.",
+        "audio": "les03-reading-05.mp3"
+      },
+      {
+        "nl": "Waar is de keuken?",
+        "ua": "Де кухня?",
+        "audio": "les03-reading-06.mp3"
+      },
+      {
+        "nl": "De keuken is hier.",
+        "ua": "Кухня тут.",
+        "audio": "les03-reading-07.mp3"
+      },
+      {
+        "nl": "De keuken heeft een groot raam.",
+        "ua": "На кухні є велике вікно.",
+        "audio": "les03-reading-08.mp3"
+      },
+      {
+        "nl": "De keuken heeft zes stoelen.",
+        "ua": "На кухні шість стільців.",
+        "audio": "les03-reading-09.mp3"
+      },
+      {
+        "nl": "Wanneer heb jij tijd?",
+        "ua": "Коли у тебе є час?",
+        "audio": "les03-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У тебе є книга?",
+          "cue": "jij + hebben; een boek",
+          "accepted": [
+            "Heb jij een boek?",
+            "Heb je een boek?"
+          ]
+        },
+        {
+          "prompt": "Ти живеш тут?",
+          "cue": "jij + wonen; hier",
+          "accepted": [
+            "Woon jij hier?",
+            "Woon je hier?"
+          ]
+        },
+        {
+          "prompt": "Де ти живеш?",
+          "cue": "waar + wonen + jij",
+          "accepted": [
+            "Waar woon jij?",
+            "Waar woon je?"
+          ]
+        },
+        {
+          "prompt": "Ви (форм.) живете тут?",
+          "cue": "u + wonen; hier",
+          "accepted": [
+            "Woont u hier?"
+          ]
+        },
+        {
+          "prompt": "Де кухня?",
+          "cue": "waar + zijn; de keuken",
+          "accepted": [
+            "Waar is de keuken?"
+          ]
+        },
+        {
+          "prompt": "Скільки вікон у кімнаті?",
+          "cue": "hoeveel ramen + hebben; de kamer",
+          "accepted": [
+            "Hoeveel ramen heeft de kamer?"
+          ]
+        },
+        {
+          "prompt": "Що у тебе є?",
+          "cue": "wat + hebben + jij",
+          "accepted": [
+            "Wat heb jij?",
+            "Wat heb je?"
+          ]
+        },
+        {
+          "prompt": "Дім поблизу лісу.",
+          "cue": "het huis + zijn; in de buurt van; het bos",
+          "accepted": [
+            "Het huis is in de buurt van het bos."
+          ]
+        },
+        {
+          "prompt": "Коли у тебе є час?",
+          "cue": "wanneer + hebben + jij; tijd, без артикля",
+          "accepted": [
+            "Wanneer heb jij tijd?",
+            "Wanneer heb je tijd?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "heb",
+        "hebt",
+        "heeft",
+        "hebben",
+        "ben",
+        "bent",
+        "is",
+        "zijn",
+        "woon",
+        "woont",
+        "wat",
+        "wie",
+        "waar",
+        "wanneer",
+        "hoe",
+        "hoeveel",
+        "jij",
+        "u",
+        "in de buurt van"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ ___ een boek?",
+          "hint": "У тебе є книга?",
+          "accepted": [
+            [
+              "Heb"
+            ],
+            [
+              "jij",
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "___ ___ hier?",
+          "hint": "Ти живеш тут?",
+          "accepted": [
+            [
+              "Woon"
+            ],
+            [
+              "jij",
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "___ ___ hier?",
+          "hint": "Ви (форм.) живете тут?",
+          "accepted": [
+            [
+              "Woont"
+            ],
+            [
+              "u"
+            ]
+          ]
+        },
+        {
+          "text": "___ woon ___?",
+          "hint": "Де ти живеш?",
+          "accepted": [
+            [
+              "Waar"
+            ],
+            [
+              "jij",
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "___ ___ de keuken?",
+          "hint": "Де кухня?",
+          "accepted": [
+            [
+              "Waar"
+            ],
+            [
+              "is"
+            ]
+          ]
+        },
+        {
+          "text": "___ ramen ___ de kamer?",
+          "hint": "Скільки вікон у кімнаті?",
+          "accepted": [
+            [
+              "Hoeveel"
+            ],
+            [
+              "heeft"
+            ]
+          ]
+        },
+        {
+          "text": "___ ___ jij?",
+          "hint": "Що у тебе є?",
+          "accepted": [
+            [
+              "Wat"
+            ],
+            [
+              "heb"
+            ]
+          ]
+        },
+        {
+          "text": "___ ___ jij tijd?",
+          "hint": "Коли у тебе є час?",
+          "accepted": [
+            [
+              "Wanneer"
+            ],
+            [
+              "heb"
+            ]
+          ]
+        },
+        {
+          "text": "Het huis is ___ het bos.",
+          "hint": "Дім поблизу лісу.",
+          "accepted": [
+            [
+              "in de buurt van"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зроби з ствердження питання так/ні",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij hebt een boek.",
+          "cue": "-> питання",
+          "accepted": [
+            "Heb jij een boek?",
+            "Heb je een boek?"
+          ]
+        },
+        {
+          "prompt": "Jij bent boos.",
+          "cue": "-> питання",
+          "accepted": [
+            "Ben jij boos?",
+            "Ben je boos?"
+          ]
+        },
+        {
+          "prompt": "Jij woont in een groot huis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Woon jij in een groot huis?",
+            "Woon je in een groot huis?"
+          ]
+        },
+        {
+          "prompt": "U woont hier.",
+          "cue": "-> питання",
+          "accepted": [
+            "Woont u hier?"
+          ]
+        },
+        {
+          "prompt": "Hij heeft een huis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Heeft hij een huis?"
+          ]
+        },
+        {
+          "prompt": "De keuken is groot.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is de keuken groot?"
+          ]
+        },
+        {
+          "prompt": "Wij hebben twee kamers.",
+          "cue": "-> питання",
+          "accepted": [
+            "Hebben wij twee kamers?",
+            "Hebben we twee kamers?"
+          ]
+        },
+        {
+          "prompt": "Het bos is in de buurt van het huis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is het bos in de buurt van het huis?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "___ jij een boek?",
+          "cue": "hebben",
+          "accepted": [
+            "Heb"
+          ]
+        },
+        {
+          "text": "Jij ___ een boek.",
+          "cue": "hebben",
+          "accepted": [
+            "hebt"
+          ]
+        },
+        {
+          "text": "___ jij boos?",
+          "cue": "zijn",
+          "accepted": [
+            "Ben"
+          ]
+        },
+        {
+          "text": "Waar ___ jij?",
+          "cue": "wonen",
+          "accepted": [
+            "woon"
+          ]
+        },
+        {
+          "text": "___ u hier?",
+          "cue": "wonen",
+          "accepted": [
+            "Woont"
+          ]
+        },
+        {
+          "text": "Waar ___ de keuken?",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Hoeveel ramen ___ de kamer?",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Wanneer ___ u tijd?",
+          "cue": "hebben",
+          "accepted": [
+            "hebt"
+          ]
+        },
+        {
+          "text": "Waar ___ de stoelen?",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

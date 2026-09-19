@@ -1,0 +1,1120 @@
+{
+  "id": "nl-les-10",
+  "lang": "nl",
+  "order": 10,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [
+    "en"
+  ],
+  "notes": [
+    {
+      "id": "nl-8acb1e9c",
+      "type": "noun",
+      "article": "de",
+      "lemma": "banaan",
+      "plural": [
+        "bananen"
+      ],
+      "ua": "банан (множина bananen: у відкритому складі ba-na-nen голосна пишеться однією літерою, як maan - manen у Les 1)",
+      "audio": "de-banaan.mp3"
+    },
+    {
+      "id": "nl-f4140fcc",
+      "type": "noun",
+      "article": "de",
+      "lemma": "sinaasappel",
+      "plural": [
+        "sinaasappels"
+      ],
+      "ua": "апельсин (множина sinaasappels, як appels у Les 8)",
+      "audio": "de-sinaasappel.mp3"
+    },
+    {
+      "id": "nl-2d511c81",
+      "type": "noun",
+      "article": "de",
+      "lemma": "peer",
+      "plural": [
+        "peren"
+      ],
+      "ua": "груша (множина peren: одна e, як manen у Les 1)",
+      "audio": "de-peer.mp3"
+    },
+    {
+      "id": "nl-9004b78d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tomaat",
+      "plural": [
+        "tomaten"
+      ],
+      "ua": "помідор (множина tomaten: одна a, як bananen)",
+      "audio": "de-tomaat.mp3"
+    },
+    {
+      "id": "nl-1a1f806e",
+      "type": "noun",
+      "article": "de",
+      "lemma": "aardappel",
+      "plural": [
+        "aardappelen"
+      ],
+      "ua": "картопля (de aardappel = одна картоплина, de aardappelen = картопля як їжа: Wij eten aardappelen). Множина aardappelen, а не aardappels: sinaasappel і aardappel обидва закінчуються на -appel, але множина в них різна, тому вчи її разом зі словом",
+      "audio": "de-aardappel.mp3"
+    },
+    {
+      "id": "nl-6f821b7c",
+      "type": "noun",
+      "article": "de",
+      "lemma": "winkel",
+      "plural": [
+        "winkels"
+      ],
+      "ua": "магазин, крамниця (in de winkel = у магазині, naar de winkel = до магазину)",
+      "audio": "de-winkel.mp3"
+    },
+    {
+      "id": "nl-d92cdea2",
+      "type": "verb",
+      "lemma": "betalen",
+      "ua": "платити (Zij betaalt in de winkel = вона платить у магазині). Основа betaal: у відкритому складі be-ta-len довга голосна подвоюється, як lopen - loop у Les 7. Наголос на другому складі: be-TA-len",
+      "audio": "betalen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "betaal",
+          "audio": "ik-betaal.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "betaalt",
+          "audio": "jij-betaalt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "betaalt",
+          "audio": "u-betaalt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "betaalt",
+          "audio": "hij-betaalt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "betalen",
+          "audio": "wij-betalen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "betalen",
+          "audio": "jullie-betalen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "betalen",
+          "audio": "zij-betalen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-916df69e",
+      "type": "function",
+      "lemma": "altijd",
+      "ua": "завжди (Ik koop altijd tomaten = я завжди купую помідори)",
+      "audio": "altijd.mp3"
+    },
+    {
+      "id": "nl-fd27c685",
+      "type": "function",
+      "lemma": "nooit",
+      "ua": "ніколи. В українській «ніколи не п'є» має два заперечення, у нідерландській nooit саме є запереченням: niet чи geen поруч не додаємо (De dochter drinkt nooit melk)",
+      "audio": "nooit.mp3"
+    },
+    {
+      "id": "nl-9ce08d91",
+      "type": "function",
+      "lemma": "soms",
+      "ua": "іноді (Soms lopen wij naar de winkel = іноді ми йдемо пішки до магазину)",
+      "audio": "soms.mp3"
+    },
+    {
+      "id": "nl-028467b9",
+      "type": "function",
+      "lemma": "vaak",
+      "ua": "часто (Vaak gaan wij naar de winkel = ми часто йдемо до магазину)",
+      "audio": "vaak.mp3"
+    },
+    {
+      "id": "nl-e4210e92",
+      "type": "function",
+      "lemma": "weer",
+      "ua": "знову (Zij koopt weer tomaten = вона знову купує помідори)",
+      "audio": "weer.mp3"
+    },
+    {
+      "id": "nl-79df292d",
+      "type": "function",
+      "lemma": "graag",
+      "ua": "залюбки, охоче. З дієсловом значить «любить це робити»: Mijn zus eet graag peren = моя сестра любить їсти груші. З іменником «любити» це houden van (Les 9)",
+      "audio": "graag.mp3"
+    },
+    {
+      "id": "nl-5a36233a",
+      "type": "function",
+      "lemma": "daar",
+      "ua": "там (пара до hier з Les 3: hier = тут, daar = там)",
+      "audio": "daar.mp3"
+    },
+    {
+      "id": "nl-00d42f62",
+      "type": "function",
+      "lemma": "snel",
+      "ua": "швидко (Hij eet snel een banaan = він швидко їсть банан). Після is це ще й прикметник «швидкий»: De trein is snel",
+      "audio": "snel.mp3"
+    },
+    {
+      "id": "nl-6ab63b5a",
+      "type": "function",
+      "lemma": "maar",
+      "ua": "але (з'єднує два речення; після maar підмет і дієслово стоять як у звичайному реченні: Ik wil tomaten kopen, maar ik heb geen tijd). Також «тільки, лише»: Ik heb maar twee appels = у мене є лише два яблука",
+      "audio": "maar.mp3"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Інверсія для jij",
+      "summary_ua": "Із Les 3 ти знаєш: -t після jij зникає, коли дієслово стоїть безпосередньо перед jij. Тепер те саме правило для трьох типів речень. Питання-тест: що стоїть перед jij? Нічого (jij відкриває речення): -t лишається (jij koopt). Дієслово: -t зникає (koop jij).",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "jij на першому місці: -t лишається",
+          "when_ua": "Перед jij нічого немає, тому дієслово після нього має повну форму з -t.",
+          "examples": [
+            {
+              "nl": "**Jij kunt** tomaten kopen.",
+              "ua": "Ти можеш купити помідори.",
+              "audio": "les10-rule-01.mp3"
+            },
+            {
+              "nl": "**Jij betaalt** in de winkel.",
+              "ua": "Ти платиш у магазині.",
+              "audio": "les10-rule-02.mp3"
+            },
+            {
+              "nl": "**Jij wilt** een banaan eten.",
+              "ua": "Ти хочеш їсти банан.",
+              "audio": "les10-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Підмет на першому місці, дієслово на другому: jij kunt, jij betaalt, jij wilt."
+        },
+        {
+          "form": "питання так/ні: дієслово перед jij, -t зникає",
+          "when_ua": "У питанні дієслово стоїть на першому місці, jij одразу після нього. Тому -t зникає.",
+          "examples": [
+            {
+              "nl": "**Koop jij** tomaten?",
+              "ua": "Ти купуєш помідори?",
+              "audio": "les10-example-13.mp3"
+            },
+            {
+              "nl": "**Wil jij** een banaan kopen?",
+              "ua": "Ти хочеш купити банан?",
+              "audio": "les10-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Jij koopt -> koop jij, jij wilt -> wil jij, jij betaalt -> betaal jij. З u -t лишається: Betaalt u in de winkel?"
+        },
+        {
+          "form": "питання з питальним словом: слово, дієслово, jij",
+          "when_ua": "Порядок із Les 3: питальне слово, потім дієслово, потім jij. Дієслово знову стоїть прямо перед jij, тому -t зникає.",
+          "examples": [
+            {
+              "nl": "Hoeveel tomaten **koop jij**?",
+              "ua": "Скільки помідорів ти купуєш?",
+              "audio": "les10-example-14.mp3"
+            },
+            {
+              "nl": "Waar **betaal jij**?",
+              "ua": "Де ти платиш?",
+              "audio": "les10-rule-05.mp3"
+            },
+            {
+              "nl": "Wat **wil jij** kopen?",
+              "ua": "Що ти хочеш купити?",
+              "audio": "les10-rule-06.mp3"
+            }
+          ],
+          "note_ua": "У твоєму зошиті: Hoeveel tomaten kun jij kopen? Kunt тут теж втрачає -t: kunt -> kun jij."
+        },
+        {
+          "form": "звичайне речення, де щось стоїть попереду",
+          "when_ua": "Коли на першому місці стоїть не підмет, а інше слово (nu, vaak, daar), дієслово лишається на другому місці, а jij іде після нього. -t знову зникає.",
+          "examples": [
+            {
+              "nl": "Nu **betaal jij** in de winkel.",
+              "ua": "Зараз ти платиш у магазині.",
+              "audio": "les10-example-15.mp3"
+            },
+            {
+              "nl": "Vaak **koop jij** peren.",
+              "ua": "Ти часто купуєш груші.",
+              "audio": "les10-rule-07.mp3"
+            },
+            {
+              "nl": "Daar **wil jij** tomaten kopen.",
+              "ua": "Там ти хочеш купити помідори.",
+              "audio": "les10-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Jij betaalt nu in de winkel (jij першим, -t є) і Nu betaal jij in de winkel (перед jij дієслово, -t немає). Слово на першому місці лише забирає місце підмета, це той самий порядок, що в Les 3 і Les 9 (Nu wacht ik op de bus)."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест: що стоїть безпосередньо ліворуч від jij? Нічого: дієслово після jij лишає -t (Jij koopt tomaten). Дієслово: -t зникає (Koop jij tomaten?). Так вирішується в усіх трьох випадках, і в питаннях, і в реченнях зі словом на початку.",
+        "Три випадки, коли дієслово стоїть перед jij: питання так/ні (Koop jij tomaten?), питання з питальним словом (Hoeveel tomaten koop jij?), звичайне речення зі словом на першому місці (Nu koop jij tomaten).",
+        "Правило тільки для jij і je. Після u, hij, zij, het -t лишається завжди: Betaalt u in de winkel? Betaalt hij daar?",
+        "Основа на -t не змінюється, бо -t уже є в основі: Jij eet, Eet jij aardappelen? Так само moet jij, wacht jij (Les 7, Les 9).",
+        "Не пиши -t між дієсловом і jij: Koop jij, а не Koopt jij. Це найчастіша помилка, бо в українській «ти купуєш» завжди має закінчення."
+      ]
+    },
+    {
+      "title_ua": "Місце прислівників: altijd, nooit, soms, vaak, weer, snel, graag",
+      "summary_ua": "У головному реченні прислівник стоїть після підмета й дієслова: підмет, дієслово, прислівник, об'єкт. З модальним дієсловом: підмет, модальне, прислівник, об'єкт, інфінітив у кінці (Les 7). Це той самий принцип, що з elke dag і dagelijks у Les 7 і Les 8: слово стоїть перед неозначеним об'єктом і після означеного. Якщо прислівник іде на перше місце, дієслово лишається на другому, а підмет іде після нього (Les 3).",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "неозначений об'єкт: прислівник перед ним",
+          "when_ua": "Об'єкт без артикля, з een або множина. Прислівник стоїть раніше за нього, а інфінітив лишається в кінці.",
+          "examples": [
+            {
+              "nl": "Ik koop **altijd** tomaten.",
+              "ua": "Я завжди купую помідори.",
+              "audio": "les10-example-01.mp3"
+            },
+            {
+              "nl": "Wij willen **soms** peren kopen.",
+              "ua": "Ми іноді хочемо купити груші.",
+              "audio": "les10-rule-09.mp3"
+            },
+            {
+              "nl": "De vader eet **vaak** aardappelen.",
+              "ua": "Тато часто їсть картоплю.",
+              "audio": "les10-rule-10.mp3"
+            }
+          ],
+          "note_ua": "З модальним порядок такий: підмет, модальне, прислівник, об'єкт, інфінітив: Wij willen soms peren kopen."
+        },
+        {
+          "form": "означений об'єкт: об'єкт часто перед прислівником",
+          "when_ua": "Об'єкт з de, het, dat або mijn часто стоїть раніше за прислівник, як у Les 7 з elke dag.",
+          "examples": [
+            {
+              "nl": "Ik lees dat boek **altijd**.",
+              "ua": "Я завжди читаю ту книгу.",
+              "audio": "les10-rule-11.mp3"
+            },
+            {
+              "nl": "Zij koopt de peren **vaak**.",
+              "ua": "Вона часто купує ті груші.",
+              "audio": "les10-rule-12.mp3"
+            },
+            {
+              "nl": "Hij eet de banaan **snel**.",
+              "ua": "Він швидко їсть той банан.",
+              "audio": "les10-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Hij eet snel een banaan (een banaan неозначений, snel перед ним) і Hij eet de banaan snel."
+        },
+        {
+          "form": "прислівник на першому місці: дієслово на другому",
+          "when_ua": "Прислівник можна винести на початок. Він забирає місце підмета, тому дієслово лишається на другому місці, а підмет іде після нього.",
+          "examples": [
+            {
+              "nl": "**Soms** lopen wij naar de winkel.",
+              "ua": "Іноді ми йдемо пішки до магазину.",
+              "audio": "les10-example-03.mp3"
+            },
+            {
+              "nl": "**Vaak** gaan wij naar de winkel.",
+              "ua": "Ми часто йдемо до магазину.",
+              "audio": "les10-example-04.mp3"
+            },
+            {
+              "nl": "**Daar** is de winkel.",
+              "ua": "Там магазин.",
+              "audio": "les10-example-05.mp3"
+            }
+          ],
+          "note_ua": "Soms lopen wij, а не Soms wij lopen. Це порядок із Les 3 і Les 9 (Nu wacht ik op de bus)."
+        },
+        {
+          "form": "nooit: без niet і без geen",
+          "when_ua": "Nooit саме означає «ніколи не». Додавати niet або geen не треба.",
+          "examples": [
+            {
+              "nl": "Ik drink **nooit** wijn.",
+              "ua": "Я ніколи не п'ю вино.",
+              "audio": "les10-rule-14.mp3"
+            },
+            {
+              "nl": "De dochter drinkt **nooit** melk.",
+              "ua": "Донька ніколи не п'є молоко.",
+              "audio": "les10-example-02.mp3"
+            },
+            {
+              "nl": "Ik heb **nooit** tijd.",
+              "ua": "У мене ніколи немає часу.",
+              "audio": "les10-rule-15.mp3"
+            }
+          ],
+          "note_ua": "В українській «ніколи не п'є» має два заперечення (ніколи і не). У нідерландській лише одне: nooit. Ik heb nooit tijd, а не Ik heb nooit geen tijd."
+        }
+      ],
+      "points_ua": [
+        "В українській порядок вільний: «завжди купую помідори» і «купую завжди помідори» обидва можливі. У нідерландській прислівник має своє місце: Ik koop altijd tomaten.",
+        "Graag стоїть, як інші прислівники: Mijn zus eet graag peren. З дієсловом graag значить «любить це робити». З іменником «любити» це houden van (Les 9): Mijn zus houdt van peren. Wil graag звучить ввічливіше, ніж wil: De moeder wil graag een peer kopen.",
+        "Snel і weer теж стоять після підмета: Hij eet snel een banaan. Zij koopt weer tomaten. Daar і hier (Les 3) стоять після дієслова (Wij betalen daar) або на першому місці (Daar is de winkel).",
+        "En і maar не займають першого місця й не міняють порядку слів. En з'єднує слова й речення («і»): Heb jij bananen en sinaasappels? Maar з'єднує речення («але»): Ik wil tomaten kopen, maar ik heb geen tijd. Після maar підмет іде перед дієсловом, як у звичайному реченні.",
+        "Із en не повторюй артикль без потреби, коли іменники без артикля: bananen en sinaasappels. Якщо іменники означені, артикль лишається перед кожним: de banaan en de peer."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik koop altijd tomaten.",
+      "ua": "Я завжди купую помідори.",
+      "audio": "les10-example-01.mp3"
+    },
+    {
+      "nl": "De dochter drinkt nooit melk.",
+      "ua": "Донька ніколи не п'є молоко.",
+      "audio": "les10-example-02.mp3"
+    },
+    {
+      "nl": "Soms lopen wij naar de winkel.",
+      "ua": "Іноді ми йдемо пішки до магазину.",
+      "audio": "les10-example-03.mp3"
+    },
+    {
+      "nl": "Vaak gaan wij naar de winkel.",
+      "ua": "Ми часто йдемо до магазину.",
+      "audio": "les10-example-04.mp3"
+    },
+    {
+      "nl": "Daar is de winkel.",
+      "ua": "Там магазин.",
+      "audio": "les10-example-05.mp3"
+    },
+    {
+      "nl": "Zij betaalt in de winkel.",
+      "ua": "Вона платить у магазині.",
+      "audio": "les10-example-06.mp3"
+    },
+    {
+      "nl": "Wij betalen daar.",
+      "ua": "Ми платимо там.",
+      "audio": "les10-example-07.mp3"
+    },
+    {
+      "nl": "Hij eet snel een banaan.",
+      "ua": "Він швидко їсть банан.",
+      "audio": "les10-example-08.mp3"
+    },
+    {
+      "nl": "Mijn zus eet graag peren.",
+      "ua": "Моя сестра любить їсти груші.",
+      "audio": "les10-example-09.mp3"
+    },
+    {
+      "nl": "Zij koopt weer tomaten.",
+      "ua": "Вона знову купує помідори.",
+      "audio": "les10-example-10.mp3"
+    },
+    {
+      "nl": "Heb jij bananen en sinaasappels?",
+      "ua": "У тебе є банани і апельсини?",
+      "audio": "les10-example-11.mp3"
+    },
+    {
+      "nl": "Ik heb geen aardappelen.",
+      "ua": "У мене немає картоплі.",
+      "audio": "les10-example-12.mp3"
+    },
+    {
+      "nl": "Koop jij tomaten?",
+      "ua": "Ти купуєш помідори?",
+      "audio": "les10-example-13.mp3"
+    },
+    {
+      "nl": "Hoeveel tomaten koop jij?",
+      "ua": "Скільки помідорів ти купуєш?",
+      "audio": "les10-example-14.mp3"
+    },
+    {
+      "nl": "Nu betaal jij in de winkel.",
+      "ua": "Зараз ти платиш у магазині.",
+      "audio": "les10-example-15.mp3"
+    },
+    {
+      "nl": "De moeder wil graag een peer kopen.",
+      "ua": "Мама залюбки хоче купити грушу.",
+      "audio": "les10-example-16.mp3"
+    },
+    {
+      "nl": "Ik heb maar twee appels.",
+      "ua": "У мене є лише два яблука.",
+      "audio": "les10-example-17.mp3"
+    },
+    {
+      "nl": "Ik wil tomaten kopen, maar ik heb geen tijd.",
+      "ua": "Я хочу купити помідори, але в мене немає часу.",
+      "audio": "les10-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "In de winkel",
+    "title_ua": "У магазині",
+    "highlight": [
+      "nl-8acb1e9c",
+      "nl-f4140fcc",
+      "nl-2d511c81",
+      "nl-9004b78d",
+      "nl-1a1f806e",
+      "nl-6f821b7c",
+      "nl-916df69e",
+      "nl-fd27c685",
+      "nl-9ce08d91",
+      "nl-028467b9",
+      "nl-e4210e92",
+      "nl-79df292d",
+      "nl-5a36233a",
+      "nl-00d42f62",
+      "nl-6ab63b5a"
+    ],
+    "sentences": [
+      {
+        "nl": "Vaak ga ik naar de winkel.",
+        "ua": "Я часто йду до магазину.",
+        "audio": "les10-reading-01.mp3"
+      },
+      {
+        "nl": "Daar koop ik bananen en sinaasappels.",
+        "ua": "Там я купую банани і апельсини.",
+        "audio": "les10-reading-02.mp3"
+      },
+      {
+        "nl": "Mijn zoon eet graag peren.",
+        "ua": "Мій син любить їсти груші.",
+        "audio": "les10-reading-03.mp3"
+      },
+      {
+        "nl": "Hij eet altijd snel.",
+        "ua": "Він завжди їсть швидко.",
+        "audio": "les10-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn dochter drinkt nooit melk.",
+        "ua": "Моя донька ніколи не п'є молоко.",
+        "audio": "les10-reading-05.mp3"
+      },
+      {
+        "nl": "Zij eet soms aardappelen.",
+        "ua": "Вона іноді їсть картоплю.",
+        "audio": "les10-reading-06.mp3"
+      },
+      {
+        "nl": "Nu koop ik weer tomaten.",
+        "ua": "Зараз я знову купую помідори.",
+        "audio": "les10-reading-07.mp3"
+      },
+      {
+        "nl": "Ik wil peren kopen, maar ik heb geen tijd.",
+        "ua": "Я хочу купити груші, але в мене немає часу.",
+        "audio": "les10-reading-08.mp3"
+      },
+      {
+        "nl": "Ik betaal in de winkel.",
+        "ua": "Я плачу в магазині.",
+        "audio": "les10-reading-09.mp3"
+      },
+      {
+        "nl": "Nu ga ik naar huis.",
+        "ua": "Зараз я йду додому.",
+        "audio": "les10-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я завжди купую помідори.",
+          "cue": "ik + kopen; altijd; tomaten, без артикля",
+          "accepted": [
+            "Ik koop altijd tomaten.",
+            "Altijd koop ik tomaten."
+          ]
+        },
+        {
+          "prompt": "Донька ніколи не п'є молоко.",
+          "cue": "de dochter + drinken; nooit; melk, без артикля",
+          "accepted": [
+            "De dochter drinkt nooit melk.",
+            "Nooit drinkt de dochter melk."
+          ]
+        },
+        {
+          "prompt": "Іноді ми йдемо пішки до магазину.",
+          "cue": "soms; wij + lopen; naar de winkel",
+          "accepted": [
+            "Soms lopen wij naar de winkel.",
+            "Soms lopen we naar de winkel.",
+            "Wij lopen soms naar de winkel.",
+            "We lopen soms naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Вона платить у магазині.",
+          "cue": "zij (вона) + betalen; in de winkel",
+          "accepted": [
+            "Zij betaalt in de winkel.",
+            "Ze betaalt in de winkel."
+          ]
+        },
+        {
+          "prompt": "Ми часто йдемо до магазину.",
+          "cue": "vaak; wij + gaan; naar de winkel",
+          "accepted": [
+            "Vaak gaan wij naar de winkel.",
+            "Vaak gaan we naar de winkel.",
+            "Wij gaan vaak naar de winkel.",
+            "We gaan vaak naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Він швидко їсть банан.",
+          "cue": "hij + eten; snel; een banaan",
+          "accepted": [
+            "Hij eet snel een banaan."
+          ]
+        },
+        {
+          "prompt": "Моя сестра любить їсти груші.",
+          "cue": "mijn zus + eten; graag; peren, без артикля",
+          "accepted": [
+            "Mijn zus eet graag peren."
+          ]
+        },
+        {
+          "prompt": "У тебе є банани і апельсини?",
+          "cue": "jij + hebben; bananen; sinaasappels; питання",
+          "accepted": [
+            "Heb jij bananen en sinaasappels?",
+            "Heb je bananen en sinaasappels?"
+          ]
+        },
+        {
+          "prompt": "Тато знову хоче купити банани.",
+          "cue": "de vader + willen; weer; bananen; kopen",
+          "accepted": [
+            "De vader wil weer bananen kopen."
+          ]
+        },
+        {
+          "prompt": "Ти купуєш помідори?",
+          "cue": "jij + kopen; tomaten; питання",
+          "accepted": [
+            "Koop jij tomaten?",
+            "Koop je tomaten?"
+          ]
+        },
+        {
+          "prompt": "Скільки помідорів ти купуєш?",
+          "cue": "hoeveel tomaten + kopen + jij",
+          "accepted": [
+            "Hoeveel tomaten koop jij?",
+            "Hoeveel tomaten koop je?"
+          ]
+        },
+        {
+          "prompt": "Зараз ти платиш у магазині.",
+          "cue": "nu; jij + betalen; in de winkel",
+          "accepted": [
+            "Nu betaal jij in de winkel.",
+            "Nu betaal je in de winkel.",
+            "Jij betaalt nu in de winkel.",
+            "Je betaalt nu in de winkel."
+          ]
+        },
+        {
+          "prompt": "У мене немає картоплі.",
+          "cue": "ik + hebben; aardappelen, без артикля",
+          "accepted": [
+            "Ik heb geen aardappelen."
+          ]
+        },
+        {
+          "prompt": "У мене є лише два яблука.",
+          "cue": "ik + hebben; maar; twee appels",
+          "accepted": [
+            "Ik heb maar twee appels."
+          ]
+        },
+        {
+          "prompt": "Мама залюбки хоче купити грушу.",
+          "cue": "de moeder + willen; graag; een peer; kopen",
+          "accepted": [
+            "De moeder wil graag een peer kopen."
+          ]
+        },
+        {
+          "prompt": "Я хочу купити помідори, але в мене немає часу.",
+          "cue": "ik + willen; tomaten; kopen; maar; ik + hebben; tijd, без артикля",
+          "accepted": [
+            "Ik wil tomaten kopen, maar ik heb geen tijd.",
+            "Ik wil tomaten kopen maar ik heb geen tijd."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "altijd",
+        "nooit",
+        "soms",
+        "vaak",
+        "weer",
+        "graag",
+        "daar",
+        "snel",
+        "maar",
+        "en",
+        "koop",
+        "betaal",
+        "betaalt",
+        "betalen",
+        "geen"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik koop ___ tomaten.",
+          "hint": "Я завжди купую помідори.",
+          "accepted": [
+            [
+              "altijd"
+            ]
+          ]
+        },
+        {
+          "text": "De dochter drinkt ___ melk.",
+          "hint": "Донька ніколи не п'є молоко.",
+          "accepted": [
+            [
+              "nooit"
+            ]
+          ]
+        },
+        {
+          "text": "___ lopen wij naar de winkel.",
+          "hint": "Іноді ми йдемо пішки до магазину.",
+          "accepted": [
+            [
+              "Soms"
+            ]
+          ]
+        },
+        {
+          "text": "Wij gaan ___ naar de winkel.",
+          "hint": "Ми часто йдемо до магазину.",
+          "accepted": [
+            [
+              "vaak"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ in de winkel.",
+          "hint": "Вона платить у магазині.",
+          "accepted": [
+            [
+              "betaalt"
+            ]
+          ]
+        },
+        {
+          "text": "Hij eet ___ een banaan.",
+          "hint": "Він швидко їсть банан.",
+          "accepted": [
+            [
+              "snel"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus eet ___ peren.",
+          "hint": "Моя сестра любить їсти груші.",
+          "accepted": [
+            [
+              "graag"
+            ]
+          ]
+        },
+        {
+          "text": "Zij koopt ___ tomaten.",
+          "hint": "Вона знову купує помідори.",
+          "accepted": [
+            [
+              "weer"
+            ]
+          ]
+        },
+        {
+          "text": "___ is de winkel.",
+          "hint": "Там магазин.",
+          "accepted": [
+            [
+              "Daar"
+            ]
+          ]
+        },
+        {
+          "text": "Heb jij bananen ___ sinaasappels?",
+          "hint": "У тебе є банани і апельсини?",
+          "accepted": [
+            [
+              "en"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ twee appels.",
+          "hint": "У мене є лише два яблука.",
+          "accepted": [
+            [
+              "maar"
+            ]
+          ]
+        },
+        {
+          "text": "Ik wil peren kopen, ___ ik heb geen tijd.",
+          "hint": "Я хочу купити груші, але в мене немає часу.",
+          "accepted": [
+            [
+              "maar"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij tomaten?",
+          "hint": "Ти купуєш помідори?",
+          "accepted": [
+            [
+              "Koop"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij in de winkel?",
+          "hint": "Ти платиш у магазині?",
+          "accepted": [
+            [
+              "Betaal"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ in de winkel.",
+          "hint": "Ми платимо в магазині.",
+          "accepted": [
+            [
+              "betalen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ aardappelen.",
+          "hint": "У мене немає картоплі.",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: питання, слово на першому місці або додай прислівник",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij koopt tomaten.",
+          "cue": "-> питання",
+          "accepted": [
+            "Koop jij tomaten?",
+            "Koop je tomaten?"
+          ]
+        },
+        {
+          "prompt": "Jij betaalt in de winkel.",
+          "cue": "-> питання",
+          "accepted": [
+            "Betaal jij in de winkel?",
+            "Betaal je in de winkel?"
+          ]
+        },
+        {
+          "prompt": "Jij wilt een banaan kopen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wil jij een banaan kopen?",
+            "Wil je een banaan kopen?"
+          ]
+        },
+        {
+          "prompt": "Jij eet aardappelen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Eet jij aardappelen?",
+            "Eet je aardappelen?"
+          ]
+        },
+        {
+          "prompt": "U betaalt in de winkel.",
+          "cue": "-> питання",
+          "accepted": [
+            "Betaalt u in de winkel?"
+          ]
+        },
+        {
+          "prompt": "Jij koopt tomaten.",
+          "cue": "-> питання з hoeveel",
+          "accepted": [
+            "Hoeveel tomaten koop jij?",
+            "Hoeveel tomaten koop je?"
+          ]
+        },
+        {
+          "prompt": "De man koopt bananen.",
+          "cue": "-> питання з hoeveel",
+          "accepted": [
+            "Hoeveel bananen koopt de man?"
+          ]
+        },
+        {
+          "prompt": "Jij koopt tomaten.",
+          "cue": "-> починай з Nu",
+          "accepted": [
+            "Nu koop jij tomaten.",
+            "Nu koop je tomaten."
+          ]
+        },
+        {
+          "prompt": "Jij betaalt in de winkel.",
+          "cue": "-> починай з Vaak",
+          "accepted": [
+            "Vaak betaal jij in de winkel.",
+            "Vaak betaal je in de winkel."
+          ]
+        },
+        {
+          "prompt": "Jij drinkt water.",
+          "cue": "-> починай з Soms",
+          "accepted": [
+            "Soms drink jij water.",
+            "Soms drink je water."
+          ]
+        },
+        {
+          "prompt": "Ik koop tomaten.",
+          "cue": "-> починай з Daar",
+          "accepted": [
+            "Daar koop ik tomaten."
+          ]
+        },
+        {
+          "prompt": "Wij lopen soms naar de winkel.",
+          "cue": "-> починай з Soms",
+          "accepted": [
+            "Soms lopen wij naar de winkel.",
+            "Soms lopen we naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Zij koopt peren.",
+          "cue": "-> додай altijd",
+          "accepted": [
+            "Zij koopt altijd peren.",
+            "Ze koopt altijd peren."
+          ]
+        },
+        {
+          "prompt": "Ik drink melk.",
+          "cue": "-> додай nooit",
+          "accepted": [
+            "Ik drink nooit melk."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ in de winkel.",
+          "cue": "betalen",
+          "accepted": [
+            "betaal"
+          ]
+        },
+        {
+          "text": "Jij ___ in de winkel.",
+          "cue": "betalen",
+          "accepted": [
+            "betaalt"
+          ]
+        },
+        {
+          "text": "___ jij in de winkel?",
+          "cue": "betalen",
+          "accepted": [
+            "Betaal"
+          ]
+        },
+        {
+          "text": "Zij ___ in de winkel.",
+          "cue": "betalen",
+          "accepted": [
+            "betaalt"
+          ]
+        },
+        {
+          "text": "Wij ___ in de winkel.",
+          "cue": "betalen",
+          "accepted": [
+            "betalen"
+          ]
+        },
+        {
+          "text": "Jullie ___ in de winkel.",
+          "cue": "betalen",
+          "accepted": [
+            "betalen"
+          ]
+        },
+        {
+          "text": "De vader ___ altijd in de winkel.",
+          "cue": "betalen",
+          "accepted": [
+            "betaalt"
+          ]
+        },
+        {
+          "text": "___ u in de winkel?",
+          "cue": "betalen",
+          "accepted": [
+            "Betaalt"
+          ]
+        },
+        {
+          "text": "Wat ___ jij?",
+          "cue": "kopen",
+          "accepted": [
+            "koop"
+          ]
+        },
+        {
+          "text": "Hoeveel peren ___ jij?",
+          "cue": "kopen",
+          "accepted": [
+            "koop"
+          ]
+        },
+        {
+          "text": "Soms ___ jij water.",
+          "cue": "drinken",
+          "accepted": [
+            "drink"
+          ]
+        },
+        {
+          "text": "Jij ___ soms water.",
+          "cue": "drinken",
+          "accepted": [
+            "drinkt"
+          ]
+        },
+        {
+          "text": "Nu ___ jij een banaan.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай питання з відповіддю. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Wat koopt de moeder?",
+          "answer": "De moeder koopt tomaten."
+        },
+        {
+          "prompt": "Waar betaal jij?",
+          "answer": "Ik betaal in de winkel."
+        },
+        {
+          "prompt": "Hoeveel peren koop jij?",
+          "answer": "Ik koop twee peren."
+        },
+        {
+          "prompt": "Drinkt de dochter melk?",
+          "answer": "De dochter drinkt nooit melk."
+        },
+        {
+          "prompt": "Wie eet graag bananen?",
+          "answer": "Mijn zoon eet graag bananen."
+        },
+        {
+          "prompt": "Waar is de winkel?",
+          "answer": "De winkel is daar."
+        }
+      ],
+      "extra": [
+        "De vader eet altijd aardappelen.",
+        "Ik ga snel naar huis."
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

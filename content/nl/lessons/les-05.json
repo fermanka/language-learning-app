@@ -1,0 +1,1045 @@
+{
+  "id": "nl-les-05",
+  "lang": "nl",
+  "order": 5,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-01a5289f",
+      "type": "verb",
+      "lemma": "binnenkomen",
+      "ua": "заходити, входити (відокремлюване: binnen іде в кінець речення)",
+      "audio": "binnenkomen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kom binnen",
+          "audio": "ik-kom-binnen.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "komt binnen",
+          "audio": "jij-komt-binnen.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "komt binnen",
+          "audio": "u-komt-binnen.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "komt binnen",
+          "audio": "hij-komt-binnen.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "komen binnen",
+          "audio": "wij-komen-binnen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "komen binnen",
+          "audio": "jullie-komen-binnen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "komen binnen",
+          "audio": "zij-komen-binnen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-a8e4b686",
+      "type": "noun",
+      "article": "het",
+      "lemma": "uur",
+      "plural": [
+        "uren"
+      ],
+      "ua": "година",
+      "audio": "het-uur.mp3"
+    },
+    {
+      "id": "nl-d6fa8110",
+      "type": "verb",
+      "lemma": "lopen",
+      "ua": "іти пішки, ходити пішки",
+      "audio": "lopen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "loop",
+          "audio": "ik-loop.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "loopt",
+          "audio": "jij-loopt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "loopt",
+          "audio": "u-loopt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "loopt",
+          "audio": "hij-loopt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "lopen",
+          "audio": "wij-lopen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "lopen",
+          "audio": "jullie-lopen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "lopen",
+          "audio": "zij-lopen.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-3ec196a8",
+      "type": "verb",
+      "lemma": "rijden",
+      "ua": "їхати, їздити, керувати (транспортом)",
+      "audio": "rijden.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "rijd",
+          "audio": "ik-rijd.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "rijdt",
+          "audio": "jij-rijdt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "rijdt",
+          "audio": "u-rijdt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "rijdt",
+          "audio": "hij-rijdt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "rijden",
+          "audio": "wij-rijden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "rijden",
+          "audio": "jullie-rijden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "rijden",
+          "audio": "zij-rijden.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-c58575e4",
+      "type": "verb",
+      "lemma": "gaan",
+      "ua": "іти, їхати, рухатися кудись (пішки чи транспортом не уточнює)",
+      "audio": "gaan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ga",
+          "audio": "ik-ga.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "gaat",
+          "audio": "jij-gaat.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "gaat",
+          "audio": "u-gaat.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "gaat",
+          "audio": "hij-gaat.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "gaan",
+          "audio": "wij-gaan.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "gaan",
+          "audio": "jullie-gaan.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "gaan",
+          "audio": "zij-gaan.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-016eae07",
+      "type": "verb",
+      "lemma": "instappen",
+      "ua": "сідати в транспорт, заходити (stappen = ступати; відокремлюване: in іде в кінець речення)",
+      "audio": "instappen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "stap in",
+          "audio": "ik-stap-in.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "stapt in",
+          "audio": "jij-stapt-in.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "stapt in",
+          "audio": "u-stapt-in.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "stapt in",
+          "audio": "hij-stapt-in.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "stappen in",
+          "audio": "wij-stappen-in.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "stappen in",
+          "audio": "jullie-stappen-in.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "stappen in",
+          "audio": "zij-stappen-in.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-f3d96a2c",
+      "type": "verb",
+      "lemma": "oversteken",
+      "ua": "переходити (вулицю тощо) (відокремлюване: over іде в кінець речення)",
+      "audio": "oversteken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "steek over",
+          "audio": "ik-steek-over.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "steekt over",
+          "audio": "jij-steekt-over.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "steekt over",
+          "audio": "u-steekt-over.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "steekt over",
+          "audio": "hij-steekt-over.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "steken over",
+          "audio": "wij-steken-over.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "steken over",
+          "audio": "jullie-steken-over.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "steken over",
+          "audio": "zij-steken-over.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-74d6f7ae",
+      "type": "function",
+      "lemma": "naar",
+      "ua": "до, на (напрямок: куди?; для «де?» є in)",
+      "audio": "naar.mp3"
+    },
+    {
+      "id": "nl-be3ee21a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "straat",
+      "plural": [
+        "straten"
+      ],
+      "ua": "вулиця",
+      "audio": "de-straat.mp3"
+    },
+    {
+      "id": "nl-7332a3ec",
+      "type": "noun",
+      "article": "de",
+      "lemma": "trein",
+      "plural": [
+        "treinen"
+      ],
+      "ua": "потяг",
+      "audio": "de-trein.mp3"
+    },
+    {
+      "id": "nl-914cace7",
+      "type": "function",
+      "lemma": "naar huis",
+      "ua": "додому (без het: naar huis; а naar het huis = до будинку)",
+      "audio": "naar-huis.mp3"
+    },
+    {
+      "id": "nl-dfcfc2b2",
+      "type": "verb",
+      "lemma": "werken",
+      "ua": "працювати, функціонувати (про пристрій теж: De telefoon werkt)",
+      "audio": "werken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "werk",
+          "audio": "ik-werk.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "werkt",
+          "audio": "jij-werkt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "werkt",
+          "audio": "u-werkt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "werkt",
+          "audio": "hij-werkt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "werken",
+          "audio": "wij-werken.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "werken",
+          "audio": "jullie-werken.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "werken",
+          "audio": "zij-werken.mp3"
+        }
+      ]
+    },
+    {
+      "id": "nl-b6405574",
+      "type": "noun",
+      "article": "de",
+      "lemma": "telefoon",
+      "plural": [
+        "telefoons"
+      ],
+      "ua": "телефон",
+      "audio": "de-telefoon.mp3"
+    }
+  ],
+  "rule": {
+    "title_ua": "Де і куди: in та naar",
+    "summary_ua": "У Les 1 ми вчили in: воно відповідає на питання «де?» (Ik woon in het huis). Дієслова руху gaan, lopen, rijden відповідають на питання «куди?», і з ними стоїть naar. Іменник після in і naar той самий і не змінюється.",
+    "see": "Les 1",
+    "compare": [
+      {
+        "form": "in: де? (місце)",
+        "when_ua": "Хтось або щось перебуває на місці: ben, is, woon, woont. Тут стоїть in.",
+        "examples": [
+          {
+            "nl": "Ik ben **in** de keuken.",
+            "ua": "Я на кухні.",
+            "audio": "les05-rule-01.mp3"
+          },
+          {
+            "nl": "Hij is **in** het huis.",
+            "ua": "Він у домі.",
+            "audio": "les05-rule-02.mp3"
+          }
+        ],
+        "note_ua": "В українській «де?» дає в/у/на + місцевий відмінок (на кухні, у домі). У нідерландській відмінків немає: de keuken і het huis не змінюються."
+      },
+      {
+        "form": "naar: куди? (напрямок)",
+        "when_ua": "Хтось рухається до місця: ga, gaat, loopt, rijdt. Тут стоїть naar.",
+        "examples": [
+          {
+            "nl": "Ik ga **naar** de keuken.",
+            "ua": "Я йду на кухню.",
+            "audio": "les05-example-01.mp3"
+          },
+          {
+            "nl": "Hij loopt **naar** het huis.",
+            "ua": "Він іде пішки до будинку.",
+            "audio": "les05-example-04.mp3"
+          },
+          {
+            "nl": "Wij gaan **naar** huis.",
+            "ua": "Ми йдемо додому.",
+            "audio": "les05-example-03.mp3"
+          }
+        ],
+        "note_ua": "В українській «куди?» дає до + родовий (до лісу) або на/в + знахідний (на кухню). У нідерландській іменник той самий, міняється лише службове слово: in de keuken (де), naar de keuken (куди)."
+      }
+    ],
+    "points_ua": [
+      "Разом з naar стоять gaan, lopen, rijden: Ik ga naar de keuken. Hij loopt naar het huis. De man rijdt naar het bos. Питання «куди?» ми ще не вчимо, тому Waar тут означає лише «де?»: Waar is de trein?",
+      "naar huis = додому, без het: Wij gaan naar huis. А naar het huis = до цього будинку: Hij loopt naar het huis. Це два різні вислови.",
+      "В українській є пари іти - ходити, їхати - їздити. У нідерландській такого поділу немає: lopen = іти й ходити пішки, rijden = їхати й їздити, gaan = іти або їхати. Другу форму шукати не треба.",
+      "Дієслова binnenkomen, instappen, oversteken відокремлювані, як opstaan і opbellen у Les 4: змінна частина на другому місці, частка (binnen, in, over) у самому кінці, а іменник між ними: Hij komt het huis binnen. Zij stapt de trein in. Zij steekt de straat over.",
+      "Форми ті самі, що в Les 1-4: ik без закінчення (loop, rijd, ga, werk); jij/je, u, hij/zij/het з -t (loopt, rijdt, gaat, werkt); wij, jullie, zij з -en. У питанні -t після jij/je зникає, як у Les 3: Jij gaat -> Ga jij naar huis? Jij rijdt -> Rijd jij? Після u і hij/zij/het -t лишається: Gaat u naar huis? Rijdt de trein naar het bos? Частка лишається в кінці: Steek jij de straat over?",
+      "werken значить і «працювати» (про людину), і «функціонувати» (про пристрій): Wij werken hier. De telefoon werkt niet."
+    ]
+  },
+  "examples": [
+    {
+      "nl": "Ik ga naar de keuken.",
+      "ua": "Я йду на кухню.",
+      "audio": "les05-example-01.mp3"
+    },
+    {
+      "nl": "Jij gaat naar het bos.",
+      "ua": "Ти йдеш до лісу.",
+      "audio": "les05-example-02.mp3"
+    },
+    {
+      "nl": "Wij gaan naar huis.",
+      "ua": "Ми йдемо додому.",
+      "audio": "les05-example-03.mp3"
+    },
+    {
+      "nl": "Hij loopt naar het huis.",
+      "ua": "Він іде пішки до будинку.",
+      "audio": "les05-example-04.mp3"
+    },
+    {
+      "nl": "De man rijdt naar het bos.",
+      "ua": "Чоловік їде до лісу.",
+      "audio": "les05-example-05.mp3"
+    },
+    {
+      "nl": "Zij stapt de trein in.",
+      "ua": "Вона сідає в потяг.",
+      "audio": "les05-example-06.mp3"
+    },
+    {
+      "nl": "Zij steekt de straat over.",
+      "ua": "Вона переходить вулицю.",
+      "audio": "les05-example-07.mp3"
+    },
+    {
+      "nl": "Nu steek ik de straat over.",
+      "ua": "Зараз я переходжу вулицю.",
+      "audio": "les05-example-08.mp3"
+    },
+    {
+      "nl": "Hij komt het huis binnen.",
+      "ua": "Він заходить у дім.",
+      "audio": "les05-example-09.mp3"
+    },
+    {
+      "nl": "Wie komt het huis binnen?",
+      "ua": "Хто заходить у дім?",
+      "audio": "les05-example-10.mp3"
+    },
+    {
+      "nl": "Waar is de trein?",
+      "ua": "Де потяг?",
+      "audio": "les05-example-11.mp3"
+    },
+    {
+      "nl": "Wanneer gaat u naar huis?",
+      "ua": "Коли ви (форм.) йдете додому?",
+      "audio": "les05-example-12.mp3"
+    },
+    {
+      "nl": "Rijdt de trein naar het bos?",
+      "ua": "Потяг їде до лісу?",
+      "audio": "les05-example-13.mp3"
+    },
+    {
+      "nl": "De telefoon werkt niet.",
+      "ua": "Телефон не працює.",
+      "audio": "les05-example-14.mp3"
+    },
+    {
+      "nl": "Wij werken hier.",
+      "ua": "Ми працюємо тут.",
+      "audio": "les05-example-15.mp3"
+    },
+    {
+      "nl": "Ik heb geen telefoon.",
+      "ua": "У мене немає телефона.",
+      "audio": "les05-example-16.mp3"
+    },
+    {
+      "nl": "Ik heb een uur tijd.",
+      "ua": "У мене є година часу.",
+      "audio": "les05-example-17.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Naar huis",
+    "title_ua": "Додому",
+    "highlight": [
+      "nl-a8e4b686",
+      "nl-74d6f7ae",
+      "nl-be3ee21a",
+      "nl-7332a3ec",
+      "nl-914cace7",
+      "nl-b6405574"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn zoon werkt hier.",
+        "ua": "Мій син працює тут.",
+        "audio": "les05-reading-01.mp3"
+      },
+      {
+        "nl": "Nu gaat hij naar huis.",
+        "ua": "Зараз він іде додому.",
+        "audio": "les05-reading-02.mp3"
+      },
+      {
+        "nl": "Hij steekt de straat over.",
+        "ua": "Він переходить вулицю.",
+        "audio": "les05-reading-03.mp3"
+      },
+      {
+        "nl": "Hij stapt de trein in.",
+        "ua": "Він сідає в потяг.",
+        "audio": "les05-reading-04.mp3"
+      },
+      {
+        "nl": "De trein rijdt een uur naar het bos.",
+        "ua": "Потяг їде годину до лісу.",
+        "audio": "les05-reading-05.mp3"
+      },
+      {
+        "nl": "Mijn zoon woont in het bos.",
+        "ua": "Мій син живе в лісі.",
+        "audio": "les05-reading-06.mp3"
+      },
+      {
+        "nl": "Hij loopt naar het huis.",
+        "ua": "Він іде пішки до будинку.",
+        "audio": "les05-reading-07.mp3"
+      },
+      {
+        "nl": "Hij komt het huis binnen.",
+        "ua": "Він заходить у дім.",
+        "audio": "les05-reading-08.mp3"
+      },
+      {
+        "nl": "Nu bel ik mijn zoon op.",
+        "ua": "Зараз я телефоную моєму синові.",
+        "audio": "les05-reading-09.mp3"
+      },
+      {
+        "nl": "Mijn telefoon werkt niet.",
+        "ua": "Мій телефон не працює.",
+        "audio": "les05-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я йду на кухню.",
+          "cue": "ik + gaan; naar de keuken",
+          "accepted": [
+            "Ik ga naar de keuken."
+          ]
+        },
+        {
+          "prompt": "Ми йдемо додому.",
+          "cue": "wij + gaan; naar huis",
+          "accepted": [
+            "Wij gaan naar huis.",
+            "We gaan naar huis."
+          ]
+        },
+        {
+          "prompt": "Він іде пішки до будинку.",
+          "cue": "hij + lopen; naar het huis",
+          "accepted": [
+            "Hij loopt naar het huis."
+          ]
+        },
+        {
+          "prompt": "Чоловік їде до лісу.",
+          "cue": "de man + rijden; naar het bos",
+          "accepted": [
+            "De man rijdt naar het bos."
+          ]
+        },
+        {
+          "prompt": "Вона сідає в потяг.",
+          "cue": "zij (вона) + instappen; de trein",
+          "accepted": [
+            "Zij stapt de trein in.",
+            "Ze stapt de trein in."
+          ]
+        },
+        {
+          "prompt": "Вона переходить вулицю.",
+          "cue": "zij (вона) + oversteken; de straat",
+          "accepted": [
+            "Zij steekt de straat over.",
+            "Ze steekt de straat over."
+          ]
+        },
+        {
+          "prompt": "Зараз я переходжу вулицю.",
+          "cue": "nu; ik + oversteken; de straat",
+          "accepted": [
+            "Nu steek ik de straat over.",
+            "Ik steek nu de straat over."
+          ]
+        },
+        {
+          "prompt": "Він заходить у дім.",
+          "cue": "hij + binnenkomen; het huis",
+          "accepted": [
+            "Hij komt het huis binnen."
+          ]
+        },
+        {
+          "prompt": "Коли ви (форм.) йдете додому?",
+          "cue": "wanneer + gaan + u; naar huis",
+          "accepted": [
+            "Wanneer gaat u naar huis?"
+          ]
+        },
+        {
+          "prompt": "Телефон не працює.",
+          "cue": "de telefoon + werken; niet",
+          "accepted": [
+            "De telefoon werkt niet."
+          ]
+        },
+        {
+          "prompt": "У мене немає телефона.",
+          "cue": "ik + hebben; telefoon, без артикля",
+          "accepted": [
+            "Ik heb geen telefoon."
+          ]
+        },
+        {
+          "prompt": "У мене є година часу.",
+          "cue": "ik + hebben; een uur; tijd",
+          "accepted": [
+            "Ik heb een uur tijd."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "ga",
+        "gaat",
+        "gaan",
+        "loopt",
+        "rijdt",
+        "naar",
+        "naar huis",
+        "in",
+        "binnen",
+        "over",
+        "de trein",
+        "de straat",
+        "werkt",
+        "werken"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ ___ de keuken.",
+          "hint": "Я йду на кухню.",
+          "accepted": [
+            [
+              "ga"
+            ],
+            [
+              "naar"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ ___ het bos.",
+          "hint": "Ти йдеш до лісу.",
+          "accepted": [
+            [
+              "gaat",
+              "loopt"
+            ],
+            [
+              "naar"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ ___.",
+          "hint": "Ми йдемо додому.",
+          "accepted": [
+            [
+              "gaan"
+            ],
+            [
+              "naar huis"
+            ]
+          ]
+        },
+        {
+          "text": "De man ___ ___ het bos.",
+          "hint": "Чоловік їде до лісу.",
+          "accepted": [
+            [
+              "rijdt",
+              "gaat"
+            ],
+            [
+              "naar"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ ___ het huis.",
+          "hint": "Він іде пішки до будинку.",
+          "accepted": [
+            [
+              "loopt",
+              "gaat"
+            ],
+            [
+              "naar"
+            ]
+          ]
+        },
+        {
+          "text": "Zij stapt ___ in.",
+          "hint": "Вона сідає в потяг.",
+          "accepted": [
+            [
+              "de trein"
+            ]
+          ]
+        },
+        {
+          "text": "Zij steekt ___ ___.",
+          "hint": "Вона переходить вулицю.",
+          "accepted": [
+            [
+              "de straat"
+            ],
+            [
+              "over"
+            ]
+          ]
+        },
+        {
+          "text": "Hij komt het huis ___.",
+          "hint": "Він заходить у дім.",
+          "accepted": [
+            [
+              "binnen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ben ___ de keuken.",
+          "hint": "Я на кухні.",
+          "accepted": [
+            [
+              "in"
+            ]
+          ]
+        },
+        {
+          "text": "De telefoon ___ niet.",
+          "hint": "Телефон не працює.",
+          "accepted": [
+            [
+              "werkt"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ hier.",
+          "hint": "Ми працюємо тут.",
+          "accepted": [
+            [
+              "werken"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зроби з ствердження питання так/ні",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij gaat naar huis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Ga jij naar huis?",
+            "Ga je naar huis?"
+          ]
+        },
+        {
+          "prompt": "Jij loopt naar het bos.",
+          "cue": "-> питання",
+          "accepted": [
+            "Loop jij naar het bos?",
+            "Loop je naar het bos?"
+          ]
+        },
+        {
+          "prompt": "Jij rijdt naar het huis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Rijd jij naar het huis?",
+            "Rijd je naar het huis?"
+          ]
+        },
+        {
+          "prompt": "U werkt hier.",
+          "cue": "-> питання",
+          "accepted": [
+            "Werkt u hier?"
+          ]
+        },
+        {
+          "prompt": "Hij stapt de trein in.",
+          "cue": "-> питання",
+          "accepted": [
+            "Stapt hij de trein in?"
+          ]
+        },
+        {
+          "prompt": "Jij steekt de straat over.",
+          "cue": "-> питання",
+          "accepted": [
+            "Steek jij de straat over?",
+            "Steek je de straat over?"
+          ]
+        },
+        {
+          "prompt": "Wij komen het huis binnen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Komen wij het huis binnen?",
+            "Komen we het huis binnen?"
+          ]
+        },
+        {
+          "prompt": "De trein rijdt naar het bos.",
+          "cue": "-> питання",
+          "accepted": [
+            "Rijdt de trein naar het bos?"
+          ]
+        },
+        {
+          "prompt": "De telefoon werkt.",
+          "cue": "-> питання",
+          "accepted": [
+            "Werkt de telefoon?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ naar huis.",
+          "cue": "gaan",
+          "accepted": [
+            "ga"
+          ]
+        },
+        {
+          "text": "Jij ___ naar de keuken.",
+          "cue": "gaan",
+          "accepted": [
+            "gaat"
+          ]
+        },
+        {
+          "text": "Ik ___ naar het bos.",
+          "cue": "lopen",
+          "accepted": [
+            "loop"
+          ]
+        },
+        {
+          "text": "De man ___ naar huis.",
+          "cue": "rijden",
+          "accepted": [
+            "rijdt"
+          ]
+        },
+        {
+          "text": "Ik ___ de trein in.",
+          "cue": "instappen",
+          "accepted": [
+            "stap"
+          ]
+        },
+        {
+          "text": "De man ___ de straat over.",
+          "cue": "oversteken",
+          "accepted": [
+            "steekt"
+          ]
+        },
+        {
+          "text": "Jullie ___ de straat over.",
+          "cue": "oversteken",
+          "accepted": [
+            "steken"
+          ]
+        },
+        {
+          "text": "Wij ___ het huis binnen.",
+          "cue": "binnenkomen",
+          "accepted": [
+            "komen"
+          ]
+        },
+        {
+          "text": "Hij ___ het huis binnen.",
+          "cue": "binnenkomen",
+          "accepted": [
+            "komt"
+          ]
+        },
+        {
+          "text": "Ik ___ hier.",
+          "cue": "werken",
+          "accepted": [
+            "werk"
+          ]
+        },
+        {
+          "text": "De telefoon ___ niet.",
+          "cue": "werken",
+          "accepted": [
+            "werkt"
+          ]
+        },
+        {
+          "text": "___ jij de trein in?",
+          "cue": "instappen",
+          "accepted": [
+            "Stap"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

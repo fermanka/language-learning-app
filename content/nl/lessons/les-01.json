@@ -1,0 +1,137 @@
+{
+  "id": "nl-les-01",
+  "lang": "nl",
+  "order": 1,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": ["in"],
+  "notes": [
+    { "id": "nl-bb313baf", "type": "noun", "article": "de", "lemma": "man", "plural": ["mannen"], "ua": "чоловік", "audio": "de-man.mp3" },
+    { "id": "nl-57b2fcfc", "type": "noun", "article": "de", "lemma": "maan", "plural": ["manen"], "ua": "місяць (на небі)", "audio": "de-maan.mp3" },
+    { "id": "nl-161e977b", "type": "noun", "article": "het", "lemma": "bos", "plural": ["bossen"], "ua": "ліс", "audio": "het-bos.mp3" },
+    { "id": "nl-b409d183", "type": "adjective", "lemma": "boos", "ua": "злий", "audio": "boos.mp3" },
+    { "id": "nl-ac38e04a", "type": "noun", "article": "de", "lemma": "zon", "plural": ["zonnen"], "ua": "сонце", "audio": "de-zon.mp3" },
+    { "id": "nl-1d40800a", "type": "noun", "article": "de", "lemma": "zoon", "plural": ["zonen", "zoons"], "ua": "син", "audio": "de-zoon.mp3" },
+    { "id": "nl-2d7276bd", "type": "noun", "article": "het", "lemma": "gas", "plural": ["gassen"], "plural_source": "teacher", "ua": "газ", "audio": "het-gas.mp3" },
+    { "id": "nl-90271c18", "type": "noun", "article": "de", "lemma": "lach", "plural": [], "ua": "сміх", "audio": "de-lach.mp3" },
+    { "id": "nl-978eede7", "type": "noun", "article": "het", "lemma": "boek", "plural": ["boeken"], "ua": "книга", "audio": "het-boek.mp3" },
+    { "id": "nl-225de58a", "type": "noun", "article": "de", "lemma": "voet", "plural": ["voeten"], "ua": "нога / стопа", "audio": "de-voet.mp3" },
+    { "id": "nl-ee2520b8", "type": "noun", "article": "het", "lemma": "huis", "plural": ["huizen"], "ua": "дім", "audio": "het-huis.mp3" },
+    { "id": "nl-d0f75b9d", "type": "noun", "article": "de", "lemma": "muis", "plural": ["muizen"], "ua": "миша", "audio": "de-muis.mp3" },
+    { "id": "nl-6e18280b", "type": "noun", "article": "de", "lemma": "wijn", "plural": ["wijnen"], "plural_source": "teacher", "ua": "вино", "audio": "de-wijn.mp3" },
+    {
+      "id": "nl-f65ab411", "type": "verb", "lemma": "zijn", "ua": "бути",
+      "paradigm": [
+        { "pronoun": "ik", "ua": "я", "form": "ben", "audio": "ik-ben.mp3" },
+        { "pronoun": "jij / je", "ua": "ти (неформ.)", "form": "bent", "audio": "jij-bent.mp3" },
+        { "pronoun": "u", "ua": "ви (форм.)", "form": "bent", "audio": "u-bent.mp3" },
+        { "pronoun": "hij / zij / het", "ua": "він / вона / воно", "form": "is", "audio": "hij-is.mp3" },
+        { "pronoun": "wij / we", "ua": "ми", "form": "zijn", "audio": "wij-zijn.mp3" },
+        { "pronoun": "jullie", "ua": "ви (мн.)", "form": "zijn", "audio": "jullie-zijn.mp3" },
+        { "pronoun": "zij / ze", "ua": "вони", "form": "zijn", "audio": "zij-zijn.mp3" }
+      ]
+    },
+    {
+      "id": "nl-88ec3f5c", "type": "verb", "lemma": "wonen", "ua": "жити / мешкати",
+      "paradigm": [
+        { "pronoun": "ik", "ua": "я", "form": "woon", "audio": "ik-woon.mp3" },
+        { "pronoun": "jij / je", "ua": "ти (неформ.)", "form": "woont", "audio": "jij-woont.mp3" },
+        { "pronoun": "u", "ua": "ви (форм.)", "form": "woont", "audio": "u-woont.mp3" },
+        { "pronoun": "hij / zij / het", "ua": "він / вона / воно", "form": "woont", "audio": "hij-woont.mp3" },
+        { "pronoun": "wij / we", "ua": "ми", "form": "wonen", "audio": "wij-wonen.mp3" },
+        { "pronoun": "jullie", "ua": "ви (мн.)", "form": "wonen", "audio": "jullie-wonen.mp3" },
+        { "pronoun": "zij / ze", "ua": "вони", "form": "wonen", "audio": "zij-wonen.mp3" }
+      ]
+    }
+  ],
+  "examples": [
+    { "nl": "Ik ben de man.", "ua": "Я - чоловік.", "audio": "les01-example-01.mp3" },
+    { "nl": "Jij bent de zoon.", "ua": "Ти - син.", "audio": "les01-example-02.mp3" },
+    { "nl": "U bent boos.", "ua": "Ви (форм.) злі.", "audio": "les01-example-03.mp3" },
+    { "nl": "Hij is de zoon.", "ua": "Він - син.", "audio": "les01-example-04.mp3" },
+    { "nl": "Wij zijn de mannen.", "ua": "Ми - чоловіки.", "audio": "les01-example-05.mp3" },
+    { "nl": "Jullie zijn boos.", "ua": "Ви (мн.) злі.", "audio": "les01-example-06.mp3" },
+    { "nl": "Ik woon in het huis.", "ua": "Я живу в домі.", "audio": "les01-example-07.mp3" },
+    { "nl": "De muis woont in het huis.", "ua": "Миша живе в домі.", "audio": "les01-example-08.mp3" },
+    { "nl": "Wij wonen in het bos.", "ua": "Ми живемо в лісі.", "audio": "les01-example-09.mp3" },
+    { "nl": "Het boek is in het huis.", "ua": "Книга - в домі.", "audio": "les01-example-10.mp3" },
+    { "nl": "De boeken zijn in de huizen.", "ua": "Книги - в будинках.", "audio": "les01-example-11.mp3" }
+  ],
+  "reading": {
+    "title": "De muis in de wijn",
+    "title_ua": "Миша у вині",
+    "highlight": ["nl-bb313baf", "nl-1d40800a", "nl-ee2520b8", "nl-161e977b", "nl-d0f75b9d", "nl-6e18280b", "nl-b409d183"],
+    "sentences": [
+      { "nl": "Ik ben de man.", "ua": "Я - чоловік.", "audio": "reading-1.mp3" },
+      { "nl": "Hij is de zoon.", "ua": "Він - син.", "audio": "reading-2.mp3" },
+      { "nl": "Wij wonen in het huis.", "ua": "Ми живемо в домі.", "audio": "reading-3.mp3" },
+      { "nl": "Het huis is in het bos.", "ua": "Дім - у лісі.", "audio": "reading-4.mp3" },
+      { "nl": "De muis woont in het huis.", "ua": "Миша живе в домі.", "audio": "reading-5.mp3" },
+      { "nl": "De muis is in de wijn!", "ua": "Миша - у вині!", "audio": "reading-6.mp3" },
+      { "nl": "Ik ben boos.", "ua": "Я злий.", "audio": "reading-7.mp3" },
+      { "nl": "De zoon is boos.", "ua": "Син злий.", "audio": "reading-8.mp3" },
+      { "nl": "Wij zijn boos.", "ua": "Ми злі.", "audio": "reading-9.mp3" }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади голландською",
+      "items": [
+        { "example": true, "prompt": "Я - чоловік.", "cue": "ik + zijn; de man", "accepted": ["Ik ben de man."] },
+        { "prompt": "Ти - син.", "cue": "jij + zijn; de zoon", "accepted": ["Jij bent de zoon.", "Je bent de zoon."] },
+        { "prompt": "Він злий.", "cue": "hij + zijn", "accepted": ["Hij is boos."] },
+        { "prompt": "Ми живемо в лісі.", "cue": "wij + wonen; in het bos", "accepted": ["Wij wonen in het bos.", "We wonen in het bos."] },
+        { "prompt": "Ви (мн.) злі.", "cue": "jullie + zijn", "accepted": ["Jullie zijn boos."] },
+        { "prompt": "Миша живе в домі.", "cue": "de muis + wonen; in het huis", "accepted": ["De muis woont in het huis."] },
+        { "prompt": "Вони - сини.", "cue": "zij + zijn; de zonen", "accepted": ["Zij zijn de zonen.", "Ze zijn de zonen.", "Zij zijn de zoons.", "Ze zijn de zoons."] }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": ["ben", "bent", "is", "zijn", "woon", "woont", "wonen", "jij", "u", "hij", "wij", "jullie", "de man", "de zoon", "de muis", "de mannen", "het boek", "het huis", "het bos"],
+      "items": [
+        { "example": true, "text": "___ ___ boos.", "hint": "Він злий.", "accepted": [["Hij"], ["is"]] },
+        { "text": "___ ___ de zoon.", "hint": "Ти - син.", "accepted": [["Jij", "Je"], ["bent"]] },
+        { "text": "Wij ___ in ___.", "hint": "Ми живемо в лісі.", "accepted": [["wonen"], ["het bos"]] },
+        { "text": "___ ___ in het huis.", "hint": "Миша живе в домі.", "accepted": [["De muis"], ["woont"]] },
+        { "text": "___ ___ boos.", "hint": "Чоловіки злі.", "accepted": [["De mannen"], ["zijn"]] },
+        { "text": "___ ___ in ___.", "hint": "Книга - в домі.", "accepted": [["Het boek"], ["is"], ["het huis"]] },
+        { "text": "___ ___ boos.", "hint": "Ви (форм.) злі.", "accepted": [["U", "u"], ["bent"]] }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Зміни підмет і дієслово: однина <-> множина",
+      "items": [
+        { "example": true, "prompt": "De man is boos.", "cue": "-> мн.", "accepted": ["De mannen zijn boos."] },
+        { "prompt": "De muis woont in het huis.", "cue": "-> мн.", "accepted": ["De muizen wonen in het huis."] },
+        { "prompt": "Het boek is in het huis.", "cue": "-> мн.", "accepted": ["De boeken zijn in het huis."] },
+        { "prompt": "De zoon woont in het bos.", "cue": "-> мн.", "accepted": ["De zonen wonen in het bos.", "De zoons wonen in het bos."] },
+        { "prompt": "Het huis is in het bos.", "cue": "-> мн.", "accepted": ["De huizen zijn in het bos."] },
+        { "prompt": "De muizen zijn boos.", "cue": "-> одн.", "accepted": ["De muis is boos."] },
+        { "prompt": "De boeken zijn in het huis.", "cue": "-> одн.", "accepted": ["Het boek is in het huis."] }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        { "example": true, "text": "Ik ___ boos.", "cue": "zijn", "accepted": ["ben"] },
+        { "text": "Hij ___ de zoon.", "cue": "zijn", "accepted": ["is"] },
+        { "text": "U ___ in het bos.", "cue": "wonen", "accepted": ["woont"] },
+        { "text": "Ik ___ in het huis.", "cue": "wonen", "accepted": ["woon"] },
+        { "text": "Jij ___ de man.", "cue": "zijn", "accepted": ["bent"] },
+        { "text": "Wij ___ in het huis.", "cue": "wonen", "accepted": ["wonen"] },
+        { "text": "De muizen ___ boos.", "cue": "zijn", "accepted": ["zijn"] }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "note_types": ["noun", "adjective"]
+    }
+  ]
+}
