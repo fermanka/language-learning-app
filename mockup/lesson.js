@@ -175,7 +175,7 @@ if (typeof document === 'undefined') {
           i.parentNode.querySelectorAll('.fix').forEach((f) => f.remove());
           const acc = JSON.parse(i.dataset.acc), good = isAccepted(i.value, acc);
           i.classList.toggle('ok', good); i.classList.toggle('bad', !good);
-          if (good) ok++; else { wrong.push({ n, answer: i.value }); i.after(el('span', 'fix', ` ${acc[0]}`)); }
+          if (good) ok++; else { wrong.push({ n, answer: i.value, expected: acc[0] }); i.after(el('span', 'fix', ` ${acc[0]}`)); }
         });
         res.textContent = `Вірно: ${ok} з ${inputs.length}`; res.classList.add('show');
         log.record({ type: 'exercise_checked', lesson: L.id, exercise: idx, kind: ex.type, ok, total: inputs.length, wrong });
