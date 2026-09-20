@@ -356,5 +356,30 @@ t('different words: the first portion and the extra portion never share a card',
   assert(second.length === 15 && second.every((c) => !first.some((f) => f.id === c.id)), 'fifteen other words');
 });
 
+// ---------------------------------------------------------------- what is on the card matches what is heard
+t('card text: a recording that says more than the word is shown under it (the article "een" = "een boek")', () => {
+  const h = { display: (n) => n.lemma, pluralText: () => '' };
+  const note = { id: 'x', type: 'function', lemma: 'een', ua: 'артикль', audio: 'een-boek.mp3', audio_text: 'een boek' };
+  const fwd = C.present({ dir: 'nl-ua' }, note, h), rev = C.present({ dir: 'ua-nl' }, note, h);
+  assert(fwd.front.text === 'een' && fwd.front.sub.includes('een boek') && fwd.front.audio === 'een-boek.mp3', JSON.stringify(fwd.front));
+  assert(rev.back.sub.includes('een boek'), JSON.stringify(rev.back));
+  const plain = C.present({ dir: 'nl-ua' }, { id: 'y', type: 'noun', article: 'het', lemma: 'huis', ua: 'дім', audio: 'het-huis.mp3' }, h);
+  assert(plain.front.sub === '', 'nothing extra for an ordinary word');
+});
+
+t('card text: two words with the same spelling carry the kind of word on the front', () => {
+  const num = { id: 'n', type: 'numeral', lemma: 'een', ua: '1', audio: '01-een.mp3' };
+  const art = { id: 'a', type: 'function', lemma: 'een', ua: 'артикль', audio: 'een-boek.mp3' };
+  const h = { display: (n) => n.lemma, pluralText: () => '', homonym: (n) => n.lemma === 'een' };
+  assert(C.present({ dir: 'nl-ua' }, num, h).front.sub === 'числівник');
+  assert(C.present({ dir: 'nl-ua' }, art, h).front.sub === 'слово');
+  assert(C.present({ dir: 'nl-ua' }, { id: 'z', type: 'noun', article: 'de', lemma: 'man', ua: 'чоловік' }, { ...h, homonym: () => false }).front.sub === '');
+});
+
+t('the lesson data: every note that has an audio_text says it in the recording that starts with the word', () => {
+  const all = lessons.flatMap((L) => L.notes).filter((n) => n.audio_text);
+  assert(all.length >= 1 && all.every((n) => n.audio_text.toLowerCase().includes(n.lemma.toLowerCase())), 'audio_text must contain the word itself');
+});
+
 console.log(bad ? `FAILURES: ${bad}` : 'CARDS TESTS PASSED');
 process.exit(bad ? 1 : 0);

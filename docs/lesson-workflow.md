@@ -27,3 +27,4 @@ Roles: the **learner** approves plans and studies in the app. The **teacher** (a
 - Ukrainian glosses use the natural form ("у мене є / немає").
 - A matching exercise appears about every third or fourth lesson.
 - Rule cards stay short: a beginner has to read them.
+- What a card shows is what its recording says. If a recording says more than the written word (an article recorded inside a phrase), the note carries `audio_text` with the spoken text and the card shows it under the word. Two notes with the same spelling (a number and an article, a verb and a possessive) are told apart on the card by a label.

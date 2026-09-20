@@ -97,7 +97,7 @@ if (typeof document === 'undefined') {
   function wordRow(n) {
     const li = el('li');
     li.append(el('span', 'nl', display(n)));
-    li.append(el('span', 'meta', [pluralText(n), n.ua].filter(Boolean).join(' - ')));
+    li.append(el('span', 'meta', [pluralText(n), n.ua, n.audio_text && n.audio_text !== display(n) ? `(у записі: ${n.audio_text})` : ''].filter(Boolean).join(' - ')));
     if (n.plural_source === 'teacher') li.append(el('span', 'opt', 'мн. додала викладачка'));
     if (n.audio) li.append(iconBtn(n.audio));
     if (n.explain_ua) li.append(el('div', 'explain', n.explain_ua));
@@ -302,7 +302,12 @@ if (typeof document === 'undefined') {
   // come back reversed right after it. Every direction has its own new-cards-per-day, queue, statistics and schedule.
   let cardDir = 'nl-ua';
   try { if (localStorage.getItem('cardsDir') === 'ua-nl') cardDir = 'ua-nl'; } catch (e) { /* storage may be blocked */ }
-  const dutchHelpers = { display, pluralText };
+  // the same written form in more than one word of the deck (een: number and article; zijn: verb and "his")
+  const homonym = (note) => {
+    const notes = LESSONS.slice(0, frontierIndex(LESSONS, isDone) + 1).flatMap((L) => L.notes);
+    return notes.filter((n) => n.id !== note.id && display(n) === display(note)).length > 0;
+  };
+  const dutchHelpers = { display, pluralText, homonym };
   let session = null; // { left, reviewed, card, revealed, chosen, shownAt }
   // every word of the lessons up to the one the learner is working on (that lesson included), never later ones
   const currentDeck = () => CardsLib.buildDeck(LESSONS.slice(0, frontierIndex(LESSONS, isDone) + 1), { production: cardCfg.production });

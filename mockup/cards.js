@@ -150,11 +150,18 @@
   }
 
   // What to show on a card. `h` = { display, pluralText } from the page (one source of truth for how a word is written).
+  // Two things keep the card honest about what is heard and which word it is:
+  // - note.audio_text: when the recording says more than the written word (the article "een" was recorded as "een boek"),
+  //   the card shows what is said under the word, so text and sound never disagree;
+  // - h.homonym(note): the same written form in more than one note ("een" the number and the article), then the front
+  //   carries the kind of word as a label so the two cards can be told apart.
   function present(card, note, h) {
     const dutch = h.display(note);
     const plural = h.pluralText(note);
-    if (card.dir === 'nl-ua') return { front: { text: dutch, sub: '', audio: note.audio }, back: { text: note.ua, sub: plural, audio: null } };
-    return { front: { text: note.ua, sub: TYPE_LABEL[note.type] || '', audio: null }, back: { text: dutch, sub: plural, audio: note.audio } };
+    const said = note.audio_text && note.audio_text !== dutch ? `у записі: ${note.audio_text}` : '';
+    const kind = h.homonym && h.homonym(note) ? TYPE_LABEL[note.type] || '' : '';
+    if (card.dir === 'nl-ua') return { front: { text: dutch, sub: [kind, said].filter(Boolean).join(' · '), audio: note.audio }, back: { text: note.ua, sub: plural, audio: null } };
+    return { front: { text: note.ua, sub: TYPE_LABEL[note.type] || '', audio: null }, back: { text: dutch, sub: [plural, said].filter(Boolean).join(' · '), audio: note.audio } };
   }
 
   return { cardsFromNote, buildDeck, replay, newToday, moreToday, shownToday, queue, stats, previews, humanize, present, isReview, RATINGS };

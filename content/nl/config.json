@@ -57,6 +57,7 @@
       ],
       "optional": [
         "audio",
+        "audio_text",
         "dictation",
         "explain_ua"
       ]

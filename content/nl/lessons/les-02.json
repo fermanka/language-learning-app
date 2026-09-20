@@ -28,7 +28,7 @@
     { "id": "nl-563dd443", "type": "numeral", "lemma": "acht", "digit": 8, "ua": "8", "audio": "08-acht.mp3" },
     { "id": "nl-ce6a3513", "type": "numeral", "lemma": "negen", "digit": 9, "ua": "9", "audio": "09-negen.mp3" },
     { "id": "nl-9fc5f57a", "type": "numeral", "lemma": "tien", "digit": 10, "ua": "10", "audio": "10-tien.mp3" },
-    { "id": "nl-7877565e", "type": "function", "lemma": "een", "ua": "неозначений артикль (в українській такого немає)", "audio": "een-boek.mp3", "dictation": false },
+    { "id": "nl-7877565e", "type": "function", "lemma": "een", "ua": "неозначений артикль (в українській такого немає)", "audio": "een-boek.mp3", "audio_text": "een boek", "dictation": false },
     { "id": "nl-5be07ff3", "type": "function", "lemma": "geen", "ua": "не (перед іменником без артикля або з een)", "audio": "geen.mp3" },
     { "id": "nl-4a766bfe", "type": "function", "lemma": "niet", "ua": "не (все інше)", "audio": "niet.mp3" },
     { "id": "nl-18eea0b3", "type": "adjective", "lemma": "groot", "ua": "великий", "audio": "groot.mp3" }
