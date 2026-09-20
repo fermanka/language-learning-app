@@ -24,6 +24,8 @@ global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '.
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
 global.Audio = class { play() { return Promise.resolve(); } };
 global.confirm = () => true;
+const storage = new Map();
+global.localStorage = { getItem: (k) => (storage.has(k) ? storage.get(k) : null), setItem: (k, v) => storage.set(k, String(v)) };
 
 window.ProgressStore = require('./progress-store.js');
 window.FSRS = require('ts-fsrs');
@@ -149,6 +151,13 @@ t('reading: with the recording sent the same lesson reaches 100%', rowOf(firstL)
 t('reading: the status line shows it was sent', byId['reading-status'].textContent.includes('запис надіслано'));
 byId['reset'].onclick();
 t('reading: a reset makes the recording count as missing again', !rowOf(firstL).textContent.includes('100%') && byId['reading-status'].textContent.includes('ще не надіслано'));
+
+// ---- the open lesson survives a reload: it is remembered every time the learner moves between lessons
+byId['next'].onclick(); byId['next'].onclick(); byId['prev'].onclick(); byId['prev'].onclick();
+t('the lesson you moved to with Previous is the remembered one', storage.get('currentLesson') === window.LESSONS[0].id);
+byId['next'].onclick();
+t('...and after Next it is the next one', storage.get('currentLesson') === window.LESSONS[1].id);
+byId['prev'].onclick();
 
 console.log(bad ? `FAILURES: ${bad}` : 'SMOKE TEST PASSED');
 process.exit(bad ? 1 : 0);

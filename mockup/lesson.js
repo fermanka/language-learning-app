@@ -46,14 +46,24 @@ function pickDictation(notes, max, rand = Math.random) {
   return max ? pool.slice(0, max) : pool;
 }
 
+// Which lesson to open: the one the learner was on (it survives a page reload); only on the very first visit,
+// when nothing is remembered, the first lesson that is not done yet.
+function startIndex(lessons, rememberedId, isDone) {
+  const at = lessons.findIndex((L) => L.id === rememberedId);
+  if (at !== -1) return at;
+  const first = lessons.findIndex((_, i) => !isDone(i));
+  return first === -1 ? lessons.length - 1 : first;
+}
+
 // Which notes take part in the dictation exercise of a lesson.
 const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio);
 
 if (typeof document === 'undefined') {
-  module.exports = { AUDIO_BASES, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes };
+  module.exports = { AUDIO_BASES, startIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes };
 } else {
   const LESSONS = window.LESSONS;
   let current = 0;
+  let firstVisit = false;   // nothing remembered: the first connected folder decides where to start
   const PS = window.ProgressStore;
   const log = new PS.ProgressLog(); // the progress log: everything the learner does is an appended event
   const isDone = (i) => !!log.state().lessons[LESSONS[i].id];
@@ -211,8 +221,10 @@ if (typeof document === 'undefined') {
     });
   }
 
-  function renderLesson(idx) {
+  const LESSON_KEY = 'currentLesson';   // a per-browser convenience, like the theme: which lesson is open
+  function renderLesson(idx, remember = true) {
     current = idx;
+    if (remember) { firstVisit = false; try { localStorage.setItem(LESSON_KEY, LESSONS[idx].id); } catch (e) { /* storage may be blocked */ } }
     const L = LESSONS[idx];
     ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body'].forEach((id) => { $(id).innerHTML = ''; });
     $('lesson-label').textContent = `Les ${L.order}`;
@@ -377,8 +389,8 @@ if (typeof document === 'undefined') {
     currentHandle = handle;
     await log.attach(new PS.FolderStore(handle, { device: 'laptop' }));
     if (log.badLines) toast(`Пошкоджених рядків у журналі пропущено: ${log.badLines}`);
-    const first = LESSONS.findIndex((_, i) => !isDone(i));
-    renderLesson(first === -1 ? LESSONS.length - 1 : first);   // "Today" = first lesson not marked done
+    renderLesson(firstVisit ? startIndex(LESSONS, null, isDone) : current);   // otherwise stay on the open lesson, only its saved state is loaded
+    firstVisit = false;
   }
   $('pstore-btn').onclick = async () => {
     try {
@@ -472,7 +484,10 @@ if (typeof document === 'undefined') {
 
   window.progressLog = log; // handy for tests
   renderWords();
-  renderLesson(0);
+  let remembered = null;
+  try { remembered = localStorage.getItem(LESSON_KEY); } catch (e) { /* ignore */ }
+  firstVisit = !LESSONS.some((L) => L.id === remembered);
+  renderLesson(startIndex(LESSONS, remembered, () => false), false);   // nothing is known to be done before the folder is connected
   renderStatus();
   renderCardsStats();
 }
