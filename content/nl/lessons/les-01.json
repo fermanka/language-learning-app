@@ -20,7 +20,7 @@
     { "id": "nl-d0f75b9d", "type": "noun", "article": "de", "lemma": "muis", "plural": ["muizen"], "ua": "миша", "audio": "de-muis.mp3" },
     { "id": "nl-6e18280b", "type": "noun", "article": "de", "lemma": "wijn", "plural": ["wijnen"], "plural_source": "teacher", "ua": "вино", "audio": "de-wijn.mp3" },
     {
-      "id": "nl-f65ab411", "type": "verb", "lemma": "zijn", "ua": "бути",
+      "id": "nl-f65ab411", "type": "verb", "lemma": "zijn", "ua": "бути", "audio": "zijn.mp3",
       "paradigm": [
         { "pronoun": "ik", "ua": "я", "form": "ben", "audio": "ik-ben.mp3" },
         { "pronoun": "jij / je", "ua": "ти (неформ.)", "form": "bent", "audio": "jij-bent.mp3" },
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "id": "nl-88ec3f5c", "type": "verb", "lemma": "wonen", "ua": "жити / мешкати",
+      "id": "nl-88ec3f5c", "type": "verb", "lemma": "wonen", "ua": "жити / мешкати", "audio": "wonen.mp3",
       "paradigm": [
         { "pronoun": "ik", "ua": "я", "form": "woon", "audio": "ik-woon.mp3" },
         { "pronoun": "jij / je", "ua": "ти (неформ.)", "form": "woont", "audio": "jij-woont.mp3" },

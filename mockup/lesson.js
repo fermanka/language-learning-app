@@ -64,11 +64,18 @@ function frontierIndex(lessons, isDone) {
   return Math.min(lessons.length - 1, lastDone + 1);
 }
 
+// The flashcard deck: every word up to and including the lesson that is OPEN, but never beyond how far the learner has
+// got. Open Les 1 and the deck is Les 1 only, even if Les 3 is done; open Les 5 while working on Les 5 and it is Les 1-5;
+// peek at Les 9 while working on Les 4 and it stays Les 1-4.
+function deckLastIndex(lessons, isDone, openIndex) {
+  return Math.min(openIndex, frontierIndex(lessons, isDone));
+}
+
 // Which notes take part in the dictation exercise of a lesson.
 const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio);
 
 if (typeof document === 'undefined') {
-  module.exports = { AUDIO_BASES, startIndex, frontierIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes };
+  module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes };
 } else {
   const LESSONS = window.LESSONS;
   let current = 0;
@@ -232,7 +239,9 @@ if (typeof document === 'undefined') {
 
   const LESSON_KEY = 'currentLesson';   // a per-browser convenience, like the theme: which lesson is open
   function renderLesson(idx, remember = true) {
+    const changed = idx !== current;
     current = idx;
+    if (changed && typeof session !== 'undefined' && session) endSession();   // the deck changes with the open lesson
     if (remember) { firstVisit = false; try { localStorage.setItem(LESSON_KEY, LESSONS[idx].id); } catch (e) { /* storage may be blocked */ } }
     const L = LESSONS[idx];
     ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body'].forEach((id) => { $(id).innerHTML = ''; });
@@ -309,8 +318,8 @@ if (typeof document === 'undefined') {
   };
   const dutchHelpers = { display, pluralText, homonym };
   let session = null; // { left, reviewed, card, revealed, chosen, shownAt }
-  // every word of the lessons up to the one the learner is working on (that lesson included), never later ones
-  const currentDeck = () => CardsLib.buildDeck(LESSONS.slice(0, frontierIndex(LESSONS, isDone) + 1), { production: cardCfg.production });
+  // every word of the lessons up to the one that is open (that lesson included), never later ones and never beyond the learner's progress
+  const currentDeck = () => CardsLib.buildDeck(LESSONS.slice(0, deckLastIndex(LESSONS, isDone, current) + 1), { production: cardCfg.production });
   const cardStates = () => CardsLib.replay(log.events, F);
 
   const dirStats = () => CardsLib.stats(currentDeck(), cardStates(), log.events, new Date(), { ...cardCfg, dir: cardDir });

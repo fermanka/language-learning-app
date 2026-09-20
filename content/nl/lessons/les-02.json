@@ -7,7 +7,7 @@
   "service_words": [],
   "notes": [
     {
-      "id": "nl-30bd6cb0", "type": "verb", "lemma": "hebben", "ua": "мати",
+      "id": "nl-30bd6cb0", "type": "verb", "lemma": "hebben", "ua": "мати", "audio": "hebben.mp3",
       "paradigm": [
         { "pronoun": "ik", "ua": "я", "form": "heb", "audio": "ik-heb.mp3" },
         { "pronoun": "jij / je", "ua": "ти", "form": "hebt", "audio": "jij-hebt.mp3" },

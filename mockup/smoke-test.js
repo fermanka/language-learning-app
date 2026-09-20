@@ -151,6 +151,13 @@ press('Показати відповідь'); press('Наступна картк
 t('cards: the extra card is a Dutch -> Ukrainian card, the 16th of the day in this direction', /:nl-ua$/.test(reviews()[reviews().length - 1].card) && reviews().filter((e) => /:nl-ua$/.test(e.card)).length === 16);
 press('Завершити сесію');
 
+// ---- the deck follows the open lesson; a running card session ends when another lesson is opened
+press('Почати повторення');
+t('cards: a session is running', stage().textContent.includes('Залишилось у сесії'));
+byId['prev'].onclick();
+t('cards: opening another lesson ends the running session', !stage().textContent.includes('Залишилось у сесії'));
+byId['next'].onclick();
+
 // ---- saved answers, previous lesson, reset (every lesson is done and the last one is open here)
 const lastL = window.LESSONS[N - 1], evs = () => window.progressLog.events;
 const doneEvents = (id) => evs().filter((e) => e.type === 'lesson_done' && e.lesson === id);
@@ -167,6 +174,9 @@ const restored = byId['b4-body'].children.every((box) => {
 t('a lesson that was worked through comes back with its saved answers and results (dictation included)', restored);
 for (let i = 0; i < N; i++) byId['prev'].onclick();
 t('Previous stops at Les 1 and is hidden there', byId['lesson-label'].textContent === 'Les 1' && byId['prev'].classList.contains('invisible'));
+byId['nav'].listeners.click({ target: { dataset: { view: 'cards' } } });
+t('cards: with Les 1 open the deck holds the words of Les 1 only, although every lesson is done', byId['cards-stats'].textContent.includes('Карток у колоді: ' + window.LESSONS[0].notes.length + ' ') );
+byId['nav'].listeners.click({ target: { dataset: { view: 'today' } } });
 byId['next'].onclick(); t('Previous button shows again after Les 1', !byId['prev'].classList.contains('invisible'));
 byId['prev'].onclick();
 // an attempt logged before answers were stored: the wrong answer is known, a right one is filled from the accepted list
