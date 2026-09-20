@@ -58,6 +58,7 @@ if (typeof document === 'undefined') {
   const log = new PS.ProgressLog(); // the progress log: everything the learner does is an appended event
   const isDone = (i) => !!log.state().lessons[LESSONS[i].id];
   let folderName = '';
+  let currentHandle = null;
   let rate = 1; // playback speed of all audio (1, 0.75 or 0.5)
   try { rate = Number(localStorage.getItem('audioRate')) || 1; } catch (e) { /* storage may be blocked */ }
   const $ = (id) => document.getElementById(id);
@@ -322,7 +323,7 @@ if (typeof document === 'undefined') {
   function renderStatus() {
     const box = $('pstore'), btn = $('pstore-btn');
     let msg, warn = true, showBtn = false, label = 'Підключити теку';
-    if (log.connected && !log.failures) { msg = `збережено в теці «${folderName}» (${log.events.length} подій)`; warn = false; }
+    if (log.connected && !log.failures) { msg = `збережено в теці «${folderName}» (${log.events.length} подій)`; warn = false; showBtn = true; label = 'Змінити теку'; }
     else if (log.connected) { msg = `НЕ вдалося записати ${log.failures} подій, перевір теку`; showBtn = true; label = 'Обрати теку знову'; }
     else if (canPick) { msg = `не зберігається (у пам'яті ${log.events.length} подій)`; showBtn = true; if (rememberedHandle) label = 'Дозволити доступ до теки'; }
     else { msg = 'потрібен Chrome або Edge, щоб зберігати прогрес'; }
@@ -335,6 +336,7 @@ if (typeof document === 'undefined') {
     const perm = await handle.requestPermission({ mode: 'readwrite' });
     if (perm !== 'granted') { toast('Доступ до теки не надано.'); return; }
     folderName = handle.name;
+    currentHandle = handle;
     await log.attach(new PS.FolderStore(handle, { device: 'laptop' }));
     if (log.badLines) toast(`Пошкоджених рядків у журналі пропущено: ${log.badLines}`);
     const first = LESSONS.findIndex((_, i) => !isDone(i));
@@ -342,8 +344,15 @@ if (typeof document === 'undefined') {
   }
   $('pstore-btn').onclick = async () => {
     try {
-      const handle = rememberedHandle || await window.showDirectoryPicker({ mode: 'readwrite' });
-      if (!rememberedHandle) await PS.handleStore.set('dataDir', handle);
+      const switching = log.connected;   // already connected: this button means "change folder"
+      const handle = (!switching && rememberedHandle) || await window.showDirectoryPicker({ mode: 'readwrite' });
+      if (switching && currentHandle && await handle.isSameEntry(currentHandle)) { toast('Ця тека вже підключена.'); return; }
+      if (switching && currentHandle) {
+        const moved = await PS.migrate(currentHandle, handle);   // copies history and recordings, never overwrites
+        toast(`Скопійовано файлів: ${moved.copied}${moved.skipped ? `, пропущено (вже є): ${moved.skipped}` : ''}`);
+      }
+      if (!rememberedHandle || switching) await PS.handleStore.set('dataDir', handle);
+      rememberedHandle = handle;
       await connect(handle);
     } catch (e) { if (e.name !== 'AbortError') toast('Не вдалося підключити теку: ' + e.message); }
   };

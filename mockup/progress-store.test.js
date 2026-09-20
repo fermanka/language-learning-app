@@ -1,13 +1,13 @@
 // Tests for the progress log without a browser, on an in-memory fake folder.
 // Run: node mockup/progress-store.test.js
-const { FolderStore, ProgressLog, fold } = require('./progress-store.js');
+const { FolderStore, ProgressLog, fold, migrate } = require('./progress-store.js');
 
 class FakeFile {
   constructor() { this.kind = 'file'; this.data = ''; }
   async getFile() { const d = this.data; return { size: d.length, text: async () => d }; }
   async createWritable(opts = {}) {
     const f = this; let buf = opts.keepExistingData ? f.data : ''; let pos = buf.length;
-    return { seek: async (p) => { pos = p; }, write: async (chunk) => { const s = typeof chunk === 'string' ? chunk : '[binary]'; buf = buf.slice(0, pos) + s; pos = buf.length; }, close: async () => { f.data = buf; } };
+    return { seek: async (p) => { pos = p; }, write: async (chunk) => { const s = typeof chunk === 'string' ? chunk : (chunk && chunk.text ? await chunk.text() : '[binary]'); buf = buf.slice(0, pos) + s; pos = buf.length; }, close: async () => { f.data = buf; } };
   }
 }
 class FakeDir {
@@ -78,6 +78,31 @@ const t = (name, ok) => { if (!ok) { bad++; console.log('FAIL', name); } };
   // recording is written into its own folder
   await store.saveRecording('les-01-2026-09-19.webm', 'blob');
   t('recording saved under recordings/', (await root.getDirectoryHandle('recordings')).map.has('les-01-2026-09-19.webm'));
+
+  // switching folders: history and recordings are copied, nothing is overwritten
+  const oldRoot = new FakeDir();
+  const oldStore = new FolderStore(oldRoot);
+  await oldStore.append({ type: 'lesson_done', lesson: 'nl-les-01', t: '2026-09-19T10:00:00.000Z' });
+  await oldStore.append({ type: 'lesson_done', lesson: 'nl-les-02', t: '2026-09-20T10:00:00.000Z' });
+  await oldStore.saveRecording('les-01-x.webm', 'voice');
+  const newRoot = new FakeDir();
+  const moved = await migrate(oldRoot, newRoot);
+  t('migrate: both day files and the recording are copied', moved.copied === 3 && moved.skipped === 0);
+  const newEvents = (await new FolderStore(newRoot).readAll()).events;
+  t('migrate: the new folder holds the same history', newEvents.length === 2 && newEvents[1].lesson === 'nl-les-02');
+  const movedRecording = await (await (await newRoot.getDirectoryHandle('recordings')).getFileHandle('les-01-x.webm')).getFile();
+  t('migrate: the recording arrives with its content', (await movedRecording.text()) === 'voice');
+
+  const busyRoot = new FakeDir();
+  const busyStore = new FolderStore(busyRoot);
+  await busyStore.append({ type: 'lesson_done', lesson: 'nl-les-09', t: '2026-09-19T08:00:00.000Z' });   // same day file name as in oldRoot
+  const intoBusy = await migrate(oldRoot, busyRoot);
+  const busyEvents = (await new FolderStore(busyRoot).readAll()).events;
+  t('migrate: a file the target already has is never overwritten', intoBusy.skipped === 1 && intoBusy.copied === 2 && busyEvents.some((e) => e.lesson === 'nl-les-09'));
+  const twice = await migrate(oldRoot, newRoot);
+  t('migrate: running it twice copies nothing new', twice.copied === 0 && twice.skipped === 3);
+  const empty = await migrate(new FakeDir(), new FakeDir());
+  t('migrate: an empty source is fine', empty.copied === 0 && empty.skipped === 0);
 
   console.log(bad ? `FAILURES: ${bad}` : 'PROGRESS STORE TESTS PASSED');
   process.exit(bad ? 1 : 0);

@@ -59,6 +59,29 @@
     }
   }
 
+  // Copies the log and the recordings from one folder to another. Never overwrites: a file the new folder already
+  // has is left alone (and counted), so switching folders can neither lose nor damage history.
+  async function migrate(fromRoot, toRoot) {
+    let copied = 0, skipped = 0;
+    for (const dirName of ['progress', 'recordings']) {
+      let from;
+      try { from = await fromRoot.getDirectoryHandle(dirName); } catch (e) { continue; } // nothing to copy from this folder
+      const to = await toRoot.getDirectoryHandle(dirName, { create: true });
+      const existing = new Set();
+      for await (const [name] of to.entries()) existing.add(name);
+      for await (const [name, handle] of from.entries()) {
+        if (handle.kind !== 'file') continue;
+        if (existing.has(name)) { skipped++; continue; }
+        const file = await handle.getFile();
+        const w = await (await to.getFileHandle(name, { create: true })).createWritable();
+        await w.write(file);
+        await w.close();
+        copied++;
+      }
+    }
+    return { copied, skipped };
+  }
+
   // The current state is derived from the events, never stored as the source of truth.
   function fold(events) {
     const lessons = {};
@@ -132,5 +155,5 @@
     },
   };
 
-  return { FolderStore, ProgressLog, fold, dayOf, handleStore };
+  return { FolderStore, ProgressLog, fold, migrate, dayOf, handleStore };
 });
