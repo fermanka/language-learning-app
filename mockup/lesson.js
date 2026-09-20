@@ -241,17 +241,30 @@ if (typeof document === 'undefined') {
     renderProgress();
   }
 
+  // Reading aloud is part of the practice: show whether the recording has been sent for the open lesson.
+  function renderReadingStatus() {
+    const sent = log.state().readings[LESSONS[current].id];
+    $('reading-status').textContent = sent
+      ? `Читання вголос: запис надіслано (${sent.at.slice(0, 10)}). Можна записати ще раз, якщо хочеш.`
+      : 'Читання вголос: запис ще не надіслано. Це теж частина практики: без нього урок не буде виконаний на 100%. Кнопка «Завантажити запис читання» у розділі «Читання».';
+    $('reading-status').classList.toggle('warn', !sent);
+  }
+
   function renderProgress() {
+    renderReadingStatus();
     const rows = $('progress-rows'); rows.innerHTML = '';
     const state = log.state();
     LESSONS.forEach((L, i) => {
       const tr = el('tr'); const td = el('td'); const b = el('button', 'btn', 'Відкрити');
       b.onclick = () => { renderLesson(i); show('today'); };
       td.append(b);
+      // The practice is the exercises plus reading aloud (the recording sent to the teacher). 100% needs all of it.
       const checked = L.practice.map((_, k) => state.exercises[`${L.id}#${k}`]).filter(Boolean);
-      const pct = checked.length ? Math.round((100 * checked.reduce((s, x) => s + x.last.ok / (x.last.total || 1), 0)) / checked.length) : 0;
+      const readDone = !!state.readings[L.id], parts = L.practice.length + 1;
+      const score = checked.reduce((sum, x) => sum + x.last.ok / (x.last.total || 1), 0) + (readDone ? 1 : 0);
+      const pct = Math.round((100 * score) / parts), count = checked.length + (readDone ? 1 : 0);
       tr.append(el('td', null, `Les ${L.order}`), el('td', null, isDone(i) ? 'пройдено' : i === current ? 'поточний' : 'чекає'),
-        el('td', 'meta', checked.length ? `${checked.length} з ${L.practice.length} вправ перевірено · ${pct}%` : '-'), td);
+        el('td', 'meta', count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone ? '' : ' · немає запису читання'}` : '-'), td);
       rows.append(tr);
     });
   }

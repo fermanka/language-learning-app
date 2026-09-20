@@ -18,7 +18,7 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
@@ -78,7 +78,7 @@ for (let i = 1; i < N; i++) { byId['next'].onclick(); checkLesson(i); }   // Nex
 const rows = byId['progress-rows'].children;
 t('progress lists every lesson', rows.length === N);
 t('progress: previous lessons done, last one current', rows.slice(0, N - 1).every((r) => r.textContent.includes('пройдено')) && rows[N - 1].textContent.includes('поточний'));
-t('progress shows exercise results for finished lessons', rows[0].textContent.includes('вправ перевірено'));
+t('progress shows exercise results for finished lessons', rows[0].textContent.includes('частин практики виконано'));
 t('words page has every lesson', byId['all-words'].children.filter((e) => e.tag === 'h3').length === N);
 byId['next'].onclick();               // last lesson: must not crash
 // ---- flashcards (every lesson is done at this point, so the deck holds every note twice)
@@ -136,6 +136,19 @@ t('reset: the lesson is no longer done', !st.lessons[window.LESSONS[0].id]);
 t('reset: its exercises are blank again', byId['b4-body'].querySelectorAll('[data-acc]').every((x) => x.value === '' && !x.classList.contains('bad')));
 t('reset: other lessons keep their saved answers', !!st.exercises[window.LESSONS[1].id + '#0'] && !!st.lessons[window.LESSONS[1].id]);
 t('reset: the log keeps the old events, nothing is deleted', evs().some((e) => e.type === 'exercise_checked' && e.lesson === window.LESSONS[0].id) && evs().some((e) => e.type === 'lesson_reset'));
+
+// ---- the reading recording is part of the practice: without it a lesson cannot reach 100%
+const firstL = window.LESSONS[0];
+const rowOf = (L) => byId['progress-rows'].children.find((r) => r.textContent.includes(`Les ${L.order}`));
+window.progressLog.record({ type: 'lesson_reset', lesson: firstL.id });
+firstL.practice.forEach((ex, k) => window.progressLog.record({ type: 'exercise_checked', lesson: firstL.id, exercise: k, kind: ex.type, ok: 4, total: 4, wrong: [], answers: [] }));
+t('reading: every exercise perfect but no recording is not 100%', !rowOf(firstL).textContent.includes('100%') && rowOf(firstL).textContent.includes('немає запису читання'));
+t('reading: the open lesson says the recording is still missing', byId['reading-status'].textContent.includes('ще не надіслано'));
+window.progressLog.record({ type: 'recording_saved', lesson: firstL.id, file: 'les-01-x.webm' });
+t('reading: with the recording sent the same lesson reaches 100%', rowOf(firstL).textContent.includes('100%') && !rowOf(firstL).textContent.includes('немає запису читання'));
+t('reading: the status line shows it was sent', byId['reading-status'].textContent.includes('запис надіслано'));
+byId['reset'].onclick();
+t('reading: a reset makes the recording count as missing again', !rowOf(firstL).textContent.includes('100%') && byId['reading-status'].textContent.includes('ще не надіслано'));
 
 console.log(bad ? `FAILURES: ${bad}` : 'SMOKE TEST PASSED');
 process.exit(bad ? 1 : 0);

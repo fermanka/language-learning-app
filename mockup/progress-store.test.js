@@ -118,6 +118,15 @@ const t = (name, ok) => { if (!ok) { bad++; console.log('FAIL', name); } };
   t('reset: a new attempt after it starts from one and keeps its answers', fresh.exercises['nl-les-04#0'].attempts === 1 && fresh.exercises['nl-les-04#0'].last.answers.join('') === 'wxyz');
   t('the last attempt keeps the stored answers', fold(resetEvents.slice(0, 2)).exercises['nl-les-04#0'].last.answers.length === 4);
 
+  // the reading recording is part of the lesson's practice: it is remembered, and forgotten (not deleted) on reset
+  const readEvents = [
+    { type: 'recording_saved', lesson: 'nl-les-06', file: 'les-06-a.webm', t: '2026-09-20T10:00:00.000Z' },
+    { type: 'recording_saved', lesson: 'nl-les-06', file: 'les-06-b.webm', t: '2026-09-20T10:30:00.000Z' },
+  ];
+  t('reading: the latest recording of a lesson is remembered', fold(readEvents).readings['nl-les-06'].file === 'les-06-b.webm' && !fold(readEvents).readings['nl-les-07']);
+  t('reading: a reset forgets the "sent" mark', !fold(readEvents.concat([{ type: 'lesson_reset', lesson: 'nl-les-06', t: '2026-09-20T11:00:00.000Z' }])).readings['nl-les-06']);
+  t('reading: a recording sent after a reset counts again', fold(readEvents.concat([{ type: 'lesson_reset', lesson: 'nl-les-06', t: '2026-09-20T11:00:00.000Z' }, { type: 'recording_saved', lesson: 'nl-les-06', file: 'les-06-c.webm', t: '2026-09-20T12:00:00.000Z' }])).readings['nl-les-06'].file === 'les-06-c.webm');
+
   console.log(bad ? `FAILURES: ${bad}` : 'PROGRESS STORE TESTS PASSED');
   process.exit(bad ? 1 : 0);
 })();
