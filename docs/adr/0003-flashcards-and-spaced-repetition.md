@@ -23,3 +23,8 @@ Status: accepted (decided with the learner: progress saving first, then spaced r
 - Sentence and cloze cards (from the lessons' examples) are not in version 1.
 - The page loads the library from `node_modules`, so `npm install` is needed once after cloning.
 - Phone review is Phase 2 and depends on where the private progress log lives.
+
+## Amendment 2026-09-20 (decided with the learner after using the tab)
+
+- **Recognition cards only, for now.** The reverse card (meaning -> Dutch) is switched off (`production: false` in the page's card settings). Because it became available right after the first review of a word, it came up as the very next card, so the learner saw the same word again straight away. The reverse cards' review history stays in the log, so switching them back on loses nothing.
+- **Flow.** The Dutch word is shown first; Space shows the meaning. The four difficulty buttons (Again, Hard, Good, Easy; keys 1-4) only mark a choice, nothing moves on. **Next card** (Space or Enter) writes one review with the chosen difficulty, or **Easy** when none was chosen. Ending the session keeps a difficulty that was already chosen; a card that was only looked at is not counted. This replaces the earlier "1-4 rates immediately, Space rates Good" (decision 6).
