@@ -62,9 +62,18 @@
   const NEW = 0;
   const isNew = (states, id) => !states.has(id) || states.get(id).state === NEW;
 
-  // Due reviews first (most overdue first), then new cards in lesson order, within the daily and session caps.
+  // A stable "random" order: the same for one card on one day (so a session never reshuffles under the learner),
+  // a different one the next day. No Math.random on purpose: the same log and the same day give the same queue.
+  // FNV-1a for the text, then a murmur3 finaliser so that a change of day reshuffles EVERYTHING (a plain rolling hash
+  // would add the same offset to every card and only rotate the order).
+  const strHash = (str) => { let h = 2166136261; for (let i = 0; i < str.length; i++) { h ^= str.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; };
+  const finish = (h) => { h ^= h >>> 16; h = Math.imul(h, 0x85ebca6b); h ^= h >>> 13; h = Math.imul(h, 0xc2b2ae35); h ^= h >>> 16; return h >>> 0; };
+  const mixKey = (id, now) => finish((strHash(id) ^ Math.imul(strHash(dayKey(now)), 2654435761)) >>> 0);
+
+  // Due reviews first (most overdue first), then new cards, within the daily and session caps.
+  // New cards come in lesson order, or (cfg.mix) mixed across all lessons and word types, verbs among the nouns.
   function queue(deck, states, events, now, cfg) {
-    const { newPerDay = 10, limit = 30 } = cfg || {};
+    const { newPerDay = 10, limit = 30, mix = false } = cfg || {};
     const due = deck.cards
       .filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now)
       .sort((a, b) => states.get(a.id).due - states.get(b.id).due);
@@ -72,8 +81,9 @@
     const fresh = deck.cards
       .filter((c) => isNew(states, c.id))
       // production ("ua-nl") is introduced only after the learner has met the Dutch word ("nl-ua")
-      .filter((c) => c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`))
-      .slice(0, room);
+      .filter((c) => c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`));
+    if (mix) fresh.sort((a, b) => mixKey(a.id, now) - mixKey(b.id, now));
+    fresh.splice(room);
     return [...due, ...fresh].slice(0, Math.max(0, limit));
   }
 

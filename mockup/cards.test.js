@@ -192,5 +192,35 @@ t('deck without production: reverse-card reviews already in the log are ignored,
   assert(s.total === d.cards.length && Number.isFinite(s.due), JSON.stringify(s));
 });
 
+// ---------------------------------------------------------------- mixed order of new cards (verbs among the nouns)
+t('mixed new cards: verbs show up among the first ten, not only after all the nouns', () => {
+  const d = C.buildDeck(lessons.slice(0, 5), { production: false });
+  const noteType = (c) => d.notes.get(c.noteId).type;
+  const firstTen = (mix, day) => C.queue(d, new Map(), [], at(`2026-09-${day}T09:00:00Z`), { limit: 10, newPerDay: 10, mix }).map(noteType);
+  assert(firstTen(false, '20').filter((x) => x === 'verb').length === 0, 'lesson order: Les 1 has no verbs among its first ten notes');
+  const verbDays = ['20', '21', '22', '23', '24'].filter((day) => firstTen(true, day).includes('verb')).length;
+  assert(verbDays >= 4, `mixed: verbs among the first ten on only ${verbDays} of 5 days`);
+});
+
+t('mixed new cards: same order all day, a different one tomorrow, no card twice', () => {
+  const d = C.buildDeck(lessons.slice(0, 5), { production: false });
+  const ids = (iso) => C.queue(d, new Map(), [], at(iso), { limit: 10, newPerDay: 10, mix: true }).map((c) => c.id);
+  const morning = ids('2026-09-20T07:00:00Z'), evening = ids('2026-09-20T20:00:00Z'), tomorrow = ids('2026-09-21T07:00:00Z');
+  assert(morning.join() === evening.join(), 'the order changed during the day');
+  assert(morning.join() !== tomorrow.join(), 'the order is the same tomorrow');
+  assert(new Set(morning).size === 10);
+});
+
+t('mixed new cards: the daily cap and due cards still come first', () => {
+  const d = C.buildDeck(lessons.slice(0, 2), { production: false });
+  const now = at('2026-09-20T09:00:00Z');
+  const first = C.queue(d, new Map(), [], now, { limit: 1, mix: true })[0];
+  const ev = [review(first.id, 3, now.toISOString())];
+  const later = at('2026-09-22T09:00:00Z');                      // two days on, the card is due again
+  const q = C.queue(d, C.replay(ev, F), ev, later, { limit: 30, newPerDay: 10, mix: true });
+  assert(q[0].id === first.id, 'the due card comes before every new one');
+  assert(q.length === 1 + 10, `due + 10 new expected, got ${q.length}`);
+});
+
 console.log(bad ? `FAILURES: ${bad}` : 'CARDS TESTS PASSED');
 process.exit(bad ? 1 : 0);

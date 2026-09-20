@@ -55,11 +55,20 @@ function startIndex(lessons, rememberedId, isDone) {
   return first === -1 ? lessons.length - 1 : first;
 }
 
+// How far the learner has got: the lesson she is working on = the one after the furthest lesson marked done
+// (or the last lesson, or the first when nothing is done). The flashcard deck holds every word up to and including
+// it and nothing after it. Browsing an earlier lesson does not shrink the deck; peeking at a later one does not grow it.
+function frontierIndex(lessons, isDone) {
+  let lastDone = -1;
+  lessons.forEach((_, i) => { if (isDone(i)) lastDone = i; });
+  return Math.min(lessons.length - 1, lastDone + 1);
+}
+
 // Which notes take part in the dictation exercise of a lesson.
 const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio);
 
 if (typeof document === 'undefined') {
-  module.exports = { AUDIO_BASES, startIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes };
+  module.exports = { AUDIO_BASES, startIndex, frontierIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes };
 } else {
   const LESSONS = window.LESSONS;
   let current = 0;
@@ -285,10 +294,12 @@ if (typeof document === 'undefined') {
   const F = window.FSRS, CardsLib = window.Cards;
   // production: false = only "Dutch word -> meaning" cards. The reverse card of a word used to appear right after the first
   // one (the same word again); turn it on later, once the learner asks for it.
-  const cardCfg = { newPerDay: 10, sessionCap: 30, shortCap: 15, production: false };
+  // sessionCap/shortCap: 10-15 cards a time. mix: new cards come mixed across lessons and word types (verbs among the nouns).
+  const cardCfg = { newPerDay: 10, sessionCap: 15, shortCap: 10, production: false, mix: true };
   const dutchHelpers = { display, pluralText };
   let session = null; // { left, reviewed, card, revealed, chosen, shownAt }
-  const currentDeck = () => CardsLib.buildDeck(LESSONS.filter((_, i) => isDone(i)), { production: cardCfg.production });
+  // every word of the lessons up to the one the learner is working on (that lesson included), never later ones
+  const currentDeck = () => CardsLib.buildDeck(LESSONS.slice(0, frontierIndex(LESSONS, isDone) + 1), { production: cardCfg.production });
   const cardStates = () => CardsLib.replay(log.events, F);
 
   function renderCardsStats() {
@@ -301,7 +312,7 @@ if (typeof document === 'undefined') {
 
   function startSession(cap) { session = { left: cap, reviewed: 0 }; nextCard(); }
   function nextCard() {
-    const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, limit: 1 }) : [];
+    const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, limit: 1, mix: cardCfg.mix }) : [];
     session.card = q[0] || null; session.revealed = false; session.chosen = null; session.shownAt = Date.now();
     renderStage();
     if (session.card) { const v = CardsLib.present(session.card, currentDeck().notes.get(session.card.noteId), dutchHelpers); if (v.front.audio) play(v.front.audio); }

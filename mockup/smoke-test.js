@@ -75,6 +75,7 @@ else console.log('audio path check skipped: no mockup/audio-paths.local.js on th
 if (unresolved.length) console.log('unresolved audio:', unresolved.join(', '));
 
 const N = window.LESSONS.length;
+t('cards: on Les 1 with nothing done the deck already holds the words of Les 1 (and no later lesson)', byId['cards-stats'].textContent.includes('Карток у колоді: ' + window.LESSONS[0].notes.length));
 checkLesson(0);
 for (let i = 1; i < N; i++) { byId['next'].onclick(); checkLesson(i); }   // Next lesson > through every lesson
 const rows = byId['progress-rows'].children;
@@ -96,16 +97,16 @@ const reviews = () => window.progressLog.events.filter((e) => e.type === 'card_r
 t('cards: the stats line shows the whole deck', byId['cards-stats'].textContent.includes('Карток у колоді: ' + deckSize));
 t('cards: new cards are capped at 10 a day', byId['cards-stats'].textContent.includes('нових на сьогодні: 10'));
 press('Почати повторення');
-t('cards: a card is shown with the session counter', stage().textContent.includes('Залишилось у сесії: 30'));
+t('cards: a card is shown with the session counter', stage().textContent.includes('Залишилось у сесії: 15'));
 t('cards: the Dutch word comes first, the meaning is hidden until Space', stage().all().some((e) => e.className === 'fc-text') && !stage().all().some((e) => e.className === 'fc-hr'));
 press('Показати відповідь');
 t('cards: the rating buttons show when the card would return', stage().textContent.includes('1 · Знову') && stage().textContent.includes('4 · Легко') && /хв|дн/.test(stage().textContent));
 t('cards: there is a Next card button after the answer is shown', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Наступна картка')));
 press('2 · Важко');
-t('cards: choosing a difficulty does not move on: no event, same card, same counter', reviews().length === 0 && stage().textContent.includes('Залишилось у сесії: 30') && stage().textContent.includes('Обрано: Важко'));
+t('cards: choosing a difficulty does not move on: no event, same card, same counter', reviews().length === 0 && stage().textContent.includes('Залишилось у сесії: 15') && stage().textContent.includes('Обрано: Важко'));
 press('Наступна картка');
 t('cards: Next card writes the chosen difficulty as one card_review event', reviews().length === 1 && reviews()[0].rating === 2 && /:nl-ua$/.test(reviews()[0].card));
-t('cards: the session moves on to the next card', stage().textContent.includes('Залишилось у сесії: 29'));
+t('cards: the session moves on to the next card', stage().textContent.includes('Залишилось у сесії: 14'));
 press('Показати відповідь');
 t('cards: without a choice the card is announced as Easy', stage().textContent.includes('«Легко»'));
 press('Наступна картка');
