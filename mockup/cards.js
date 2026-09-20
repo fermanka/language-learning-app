@@ -95,8 +95,10 @@
     const more = moreToday(events, now, dir);
     const shown = shownToday(events, now, dir);
     const cap = perDay === undefined ? limit : Math.min(limit, Math.max(0, perDay * (1 + more) - shown.count));
+    // A card shown today in this direction is never offered again the same day, even when the scheduler would bring it
+    // back in a few minutes (after "Знову", "Важко" or "Добре" on a new word): every card of the day is a different one.
     const due = cards
-      .filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now)
+      .filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now && !shown.ids.has(c.id))
       .sort((a, b) => states.get(a.id).due - states.get(b.id).due);
     const room = Math.max(0, newPerDay * (1 + more) - newToday(events, now, dir));
     const fresh = cards
@@ -116,7 +118,7 @@
     const cards = deck.cards.filter(inDir(dir));
     const more = moreToday(events, now, dir);
     const shown = shownToday(events, now, dir);
-    const due = cards.filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now).length;
+    const due = cards.filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now && !shown.ids.has(c.id)).length;
     const eligibleNew = cards.filter((c) => isNew(states, c.id) && (c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`))).length;
     const newRoom = Math.min(eligibleNew, Math.max(0, newPerDay * (1 + more) - newToday(events, now, dir)));
     const learned = cards.filter((c) => !isNew(states, c.id) && states.get(c.id).state === 2).length;

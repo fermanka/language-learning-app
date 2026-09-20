@@ -118,15 +118,18 @@ t('queue: the daily cap counts what was already introduced today', () => {
   assert.strictEqual(q.filter((c) => !states.has(c.id)).length, 6, 'only 6 new cards left for today');
 });
 
-t('queue: a card is not due until its interval has passed, then it comes back', () => {
+t('queue: a card is not due until its interval has passed; one shown today waits for tomorrow', () => {
   const d = C.buildDeck(lessons.slice(0, 1));
   const id = d.cards[0].id;
   const events = [review(id, 3, '2026-09-20T09:00:00.000Z')];
   const states = C.replay(events, F);
+  assert(states.get(id).due <= at('2026-09-20T09:11:00Z'), 'the scheduler itself would show it again after ten minutes');
   const early = C.queue(d, states, events, at('2026-09-20T09:05:00Z'), { newPerDay: 0, limit: 50 });
-  const later = C.queue(d, states, events, at('2026-09-20T09:11:00Z'), { newPerDay: 0, limit: 50 });
+  const sameDay = C.queue(d, states, events, at('2026-09-20T09:11:00Z'), { newPerDay: 0, limit: 50 });
+  const nextDay = C.queue(d, states, events, at('2026-09-21T09:00:00Z'), { newPerDay: 0, limit: 50 });
   assert(!early.some((c) => c.id === id), 'not yet due after 5 minutes');
-  assert(later.some((c) => c.id === id), 'due after 11 minutes');
+  assert(!sameDay.some((c) => c.id === id), 'due by the scheduler, but it was shown today, so it waits for tomorrow');
+  assert(nextDay.some((c) => c.id === id), 'offered again the next day');
 });
 
 t('queue: the most overdue card comes first, and the session cap is respected', () => {
@@ -326,6 +329,31 @@ t('want more: spare counts what could still be offered; a malformed cards_more i
   assert(C.moreToday(bad, now, 'nl-ua') === 0, 'no direction / unknown direction does not count');
   const empty = C.stats(d, new Map(), [], now, { newPerDay: 15, perDay: 15, dir: 'nl-ua' });
   assert(empty.spare === d.cards.length && empty.remaining === 15);
+});
+
+// ---------------------------------------------------------------- every card of the day is a different one
+t('different words: a card shown today comes back today neither in the session nor after "Хочу ще"', () => {
+  const d = C.buildDeck(lessons.slice(0, 1), { production: false });
+  const cfg = { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' };
+  const first = d.cards[0];
+  // rated "Знову" at 09:00: the scheduler alone would bring it back at 09:01
+  let ev = [review(first.id, 1, '2026-09-20T09:00:00Z')];
+  assert(C.replay(ev, F).get(first.id).due <= at('2026-09-20T09:05:00Z'), 'precondition: the scheduler would show it again within minutes');
+  assert(!C.queue(d, C.replay(ev, F), ev, at('2026-09-20T09:05:00Z'), cfg).some((c) => c.id === first.id), 'not again in the same session');
+  ev = ev.concat([more('nl-ua', '2026-09-20T09:10:00Z')]);
+  assert(!C.queue(d, C.replay(ev, F), ev, at('2026-09-20T09:15:00Z'), cfg).some((c) => c.id === first.id), 'not in the extra portion either');
+  assert(C.stats(d, C.replay(ev, F), ev, at('2026-09-20T09:15:00Z'), cfg).due === 0, 'and it is not counted as due today');
+  assert(C.queue(d, C.replay(ev, F), ev, at('2026-09-21T09:00:00Z'), cfg).some((c) => c.id === first.id), 'tomorrow it is back');
+});
+
+t('different words: the first portion and the extra portion never share a card', () => {
+  const d = C.buildDeck(lessons.slice(0, 3), { production: false });
+  const cfg = { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' };
+  const first = C.queue(d, new Map(), [], at('2026-09-20T09:00:00Z'), cfg);
+  // every word of the first portion rated "Знову" (they all come due again within a minute)
+  const ev = first.map((c, i) => review(c.id, 1, new Date(at('2026-09-20T09:00:00Z').getTime() + i * 1000).toISOString())).concat([more('nl-ua', '2026-09-20T09:30:00Z')]);
+  const second = C.queue(d, C.replay(ev, F), ev, at('2026-09-20T09:35:00Z'), cfg);
+  assert(second.length === 15 && second.every((c) => !first.some((f) => f.id === c.id)), 'fifteen other words');
 });
 
 console.log(bad ? `FAILURES: ${bad}` : 'CARDS TESTS PASSED');
