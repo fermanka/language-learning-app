@@ -104,6 +104,20 @@ const t = (name, ok) => { if (!ok) { bad++; console.log('FAIL', name); } };
   const empty = await migrate(new FakeDir(), new FakeDir());
   t('migrate: an empty source is fine', empty.copied === 0 && empty.skipped === 0);
 
+  // starting a lesson over: derived state forgets it, the log keeps everything, the next check starts fresh
+  const resetEvents = [
+    { type: 'lesson_done', lesson: 'nl-les-04', t: '2026-09-20T10:00:00.000Z' },
+    { type: 'exercise_checked', lesson: 'nl-les-04', exercise: 0, ok: 3, total: 4, answers: ['a', 'b', 'c', 'd'], t: '2026-09-20T10:01:00.000Z' },
+    { type: 'exercise_checked', lesson: 'nl-les-05', exercise: 0, ok: 2, total: 4, t: '2026-09-20T10:02:00.000Z' },
+    { type: 'lesson_reset', lesson: 'nl-les-04', t: '2026-09-20T11:00:00.000Z' },
+  ];
+  const afterReset = fold(resetEvents);
+  t('reset: the lesson is no longer done and its exercises are gone', !afterReset.lessons['nl-les-04'] && !afterReset.exercises['nl-les-04#0']);
+  t('reset: another lesson is untouched', afterReset.exercises['nl-les-05#0'].last.ok === 2);
+  const fresh = fold(resetEvents.concat([{ type: 'exercise_checked', lesson: 'nl-les-04', exercise: 0, ok: 4, total: 4, answers: ['w', 'x', 'y', 'z'], t: '2026-09-20T12:00:00.000Z' }]));
+  t('reset: a new attempt after it starts from one and keeps its answers', fresh.exercises['nl-les-04#0'].attempts === 1 && fresh.exercises['nl-les-04#0'].last.answers.join('') === 'wxyz');
+  t('the last attempt keeps the stored answers', fold(resetEvents.slice(0, 2)).exercises['nl-les-04#0'].last.answers.length === 4);
+
   console.log(bad ? `FAILURES: ${bad}` : 'PROGRESS STORE TESTS PASSED');
   process.exit(bad ? 1 : 0);
 })();

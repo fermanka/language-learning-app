@@ -46,7 +46,8 @@ function buildDigest(events, lessons, bad = 0) {
   }
   out.push(`Events: ${events.length} (${events[0].t.slice(0, 10)} to ${events[events.length - 1].t.slice(0, 10)}), damaged lines skipped: ${bad}`);
 
-  const done = new Set(events.filter((e) => e.type === 'lesson_done').map((e) => e.lesson));
+  const done = new Set();
+  for (const e of events) { if (e.type === 'lesson_done') done.add(e.lesson); else if (e.type === 'lesson_reset') done.delete(e.lesson); }
   out.push(`Lessons finished: ${lessons.filter((l) => done.has(l.id)).map((l) => 'Les ' + l.order).join(', ') || 'none'}`);
   const notDone = lessons.filter((l) => !done.has(l.id)).map((l) => 'Les ' + l.order);
   if (notDone.length) out.push(`Not finished: ${notDone.join(', ')}`);

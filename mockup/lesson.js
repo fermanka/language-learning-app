@@ -132,6 +132,8 @@ if (typeof document === 'undefined') {
     const root = $('b4-body');
     L.practice.forEach((ex, idx) => {
       const box = el('div', 'ex');
+      const last = (log.state().exercises[`${L.id}#${idx}`] || {}).last; // the learner's latest saved attempt, if any
+      let dictWords = null;
       const h = el('h3'); h.append(el('span', 'badge', String(idx + 1)), document.createTextNode(ex.instruction_ua)); box.append(h);
       const list = ex.type === 'matching' ? el('div', 'match') : el('ol', 'items');
       if (ex.type === 'gaps') { const bank = el('div', 'bank'); ex.bank.forEach((w) => bank.append(el('span', null, w))); box.append(bank); }
@@ -154,7 +156,12 @@ if (typeof document === 'undefined') {
         right.forEach((r) => rightOl.append(el('li', null, r)));
         list.append(left, rightOl);
       } else if (ex.type === 'dictation') {
-        pickDictation(dictationNotes(L, ex), ex.max).forEach((n) => { const li = el('li', 'dict'); li.append(iconBtn(n.audio), input('', [display(n)])); list.append(li); });
+        // the same words come back when the saved attempt is restored; otherwise a fresh random pick
+        const all = dictationNotes(L, ex), byId = new Map(all.map((n) => [n.id, n]));
+        const savedWords = last && last.words ? last.words.map((id) => byId.get(id)) : null;
+        const picked = savedWords && savedWords.every(Boolean) ? savedWords : pickDictation(all, ex.max);
+        dictWords = picked.map((n) => n.id);
+        picked.forEach((n) => { const li = el('li', 'dict'); li.append(iconBtn(n.audio), input('', [display(n)])); list.append(li); });
       } else ex.items.forEach((it) => {
         const li = el('li', it.example ? 'example' : '');
         if (ex.type === 'translate' || ex.type === 'transform') {
@@ -172,8 +179,9 @@ if (typeof document === 'undefined') {
 
       const check = el('button', 'btn', 'Перевірити'), retry = el('button', 'btn', 'Спробувати ще'), res = el('div', 'result');
       let lastChecked = ''; // pressing "check" again with the same answers must not count as a new attempt
-      check.onclick = () => {
-        const inputs = [...list.querySelectorAll('[data-acc]')]; let ok = 0; const wrong = [];
+      const fields = () => [...list.querySelectorAll('[data-acc]')];
+      const grade = () => {
+        const inputs = fields(); let ok = 0; const wrong = [];
         inputs.forEach((i, n) => {
           i.parentNode.querySelectorAll('.fix').forEach((f) => f.remove());
           const acc = JSON.parse(i.dataset.acc), good = isAccepted(i.value, acc);
@@ -181,9 +189,22 @@ if (typeof document === 'undefined') {
           if (good) ok++; else { wrong.push({ n, answer: i.value, expected: acc[0] }); i.after(el('span', 'fix', ` ${acc[0]}`)); }
         });
         res.textContent = `Вірно: ${ok} з ${inputs.length}`; res.classList.add('show');
-        const signature = JSON.stringify(inputs.map((i) => i.value));
-        if (signature !== lastChecked) { lastChecked = signature; log.record({ type: 'exercise_checked', lesson: L.id, exercise: idx, kind: ex.type, ok, total: inputs.length, wrong }); }
+        return { inputs, ok, wrong };
       };
+      check.onclick = () => {
+        const { inputs, ok, wrong } = grade();
+        const answers = inputs.map((i) => i.value), signature = JSON.stringify(answers);
+        if (signature !== lastChecked) { lastChecked = signature; log.record({ type: 'exercise_checked', lesson: L.id, exercise: idx, kind: ex.type, ok, total: inputs.length, wrong, answers, ...(dictWords ? { words: dictWords } : {}) }); }
+      };
+      // Restore the saved attempt, so a lesson that was already worked through looks the same on the next visit.
+      // Attempts logged before answers were stored: the wrong answers are known, a right one is shown as its first accepted form.
+      const saved = fields();
+      const savedAnswers = last && (last.answers || (last.total === saved.length && ex.type !== 'dictation'
+        ? saved.map((f, n) => { const w = (last.wrong || []).find((x) => x.n === n); return w ? w.answer : JSON.parse(f.dataset.acc)[0]; }) : null));
+      if (savedAnswers && savedAnswers.length === saved.length) {
+        saved.forEach((f, n) => { f.value = savedAnswers[n]; });
+        grade(); lastChecked = JSON.stringify(fields().map((i) => i.value));
+      }
       retry.onclick = () => { list.querySelectorAll('[data-acc]').forEach((i) => { i.value = ''; i.classList.remove('ok', 'bad'); }); list.querySelectorAll('.fix').forEach((f) => f.remove()); res.classList.remove('show'); lastChecked = ''; };
       box.append(check, document.createTextNode(' '), retry, res);
       root.append(box);
@@ -195,6 +216,7 @@ if (typeof document === 'undefined') {
     const L = LESSONS[idx];
     ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body'].forEach((id) => { $(id).innerHTML = ''; });
     $('lesson-label').textContent = `Les ${L.order}`;
+    $('prev').classList.toggle('invisible', idx === 0);   // there is no lesson before the first one
     renderRule(L);
     L.notes.filter((n) => n.type === 'verb').forEach((v) => {
       const card = el('div', 'verbcard');
@@ -387,10 +409,17 @@ if (typeof document === 'undefined') {
   $('nav').addEventListener('click', (e) => { if (e.target.dataset.view) show(e.target.dataset.view); });
   document.querySelectorAll('.toggle-tr').forEach((b) => b.onclick = () => document.body.classList.toggle('show-tr'));
   $('next').onclick = () => {
-    log.record({ type: 'lesson_done', lesson: LESSONS[current].id });
-    const next = LESSONS.findIndex((_, i) => i > current && !isDone(i));
-    if (next === -1) { renderProgress(); toast(`Les ${LESSONS[current].order} позначено пройденим. Це останній опублікований урок.`); return; }
-    renderLesson(next); window.scrollTo(0, 0); toast(`Відкрито Les ${LESSONS[next].order}.`);
+    const wasDone = isDone(current);   // a lesson that is already done is not recorded a second time
+    if (!wasDone) log.record({ type: 'lesson_done', lesson: LESSONS[current].id });
+    if (current + 1 >= LESSONS.length) { renderProgress(); toast(wasDone ? 'Це останній опублікований урок.' : `Les ${LESSONS[current].order} позначено пройденим. Це останній опублікований урок.`); return; }
+    renderLesson(current + 1); window.scrollTo(0, 0); toast(`Відкрито Les ${LESSONS[current].order}.`);
+  };
+  $('prev').onclick = () => { if (current > 0) { renderLesson(current - 1); window.scrollTo(0, 0); } };
+  $('reset').onclick = () => {
+    const L = LESSONS[current];
+    if (!confirm(`Скинути прогрес уроку Les ${L.order}? Відповіді у вправах і позначка «пройдено» зникнуть, а картки цього уроку сховаються з колоди, поки ти знову не позначиш урок пройденим. Журнал у теці нічого не втрачає: старі записи там залишаються.`)) return;
+    log.record({ type: 'lesson_reset', lesson: L.id });
+    renderLesson(current); window.scrollTo(0, 0); toast(`Прогрес уроку Les ${L.order} скинуто.`);
   };
   const file = $('upload-file');
   $('upload-btn').onclick = () => file.click();

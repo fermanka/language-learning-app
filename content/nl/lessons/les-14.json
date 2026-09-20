@@ -1,0 +1,759 @@
+{
+  "id": "nl-les-14",
+  "lang": "nl",
+  "order": 14,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-66dfbe81",
+      "type": "noun",
+      "article": "de",
+      "lemma": "ochtend",
+      "plural": [
+        "ochtenden"
+      ],
+      "ua": "ранок",
+      "audio": "de-ochtend.mp3",
+      "explain_ua": "(In de ochtend drink ik koffie = вранці я п'ю каву). Ch це [x], як українське х (Les 1, de lach). Кінцеве d читається як [t]. Вранці кажуть і 's ochtends, це ти почуєш на слух, але вчимо ми in de ochtend"
+    },
+    {
+      "id": "nl-32a6b9e0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "middag",
+      "plural": [
+        "middagen"
+      ],
+      "ua": "пообіддя, середина дня",
+      "audio": "de-middag.mp3",
+      "explain_ua": "(In de middag werk ik = після обіду я працюю). Це час приблизно від 12:00 до 18:00, тому українське «обід» не зовсім те саме. Кінцеве g це [x], як українське х. Подвоєне dd лишається, бо голосна коротка (Les 9, zus - zussen)"
+    },
+    {
+      "id": "nl-843dafee",
+      "type": "noun",
+      "article": "de",
+      "lemma": "avond",
+      "plural": [
+        "avonden"
+      ],
+      "ua": "вечір",
+      "audio": "de-avond.mp3",
+      "explain_ua": "(In de avond lees ik een boek = ввечері я читаю книгу). Кінцеве d читається як [t]: [AA-vont]. Це те саме оглушення, що в російському «хлеб» [хлеп]. В українській так не буває, тому тут спирайся на російську. У множині avonden d знову чути"
+    },
+    {
+      "id": "nl-0de8176a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "nacht",
+      "plural": [
+        "nachten"
+      ],
+      "ua": "ніч",
+      "audio": "de-nacht.mp3",
+      "explain_ua": "(Het is nacht = зараз ніч). Ch це [x], як українське х (Les 1, de lach). Схоже на англійське night: підказка для пам'яті, не переклад"
+    },
+    {
+      "id": "nl-5e387765",
+      "type": "adjective",
+      "lemma": "laat",
+      "ua": "пізно, пізній",
+      "audio": "laat.mp3",
+      "explain_ua": "(Het is laat = вже пізно; Hoe laat is het? = котра година?). Питання Hoe laat is het? вчи цілим: hoe (Les 3) і laat. Форма одна й після is, і біля дієслова. Пара до vroeg. Подвоєне aa у laat це довга голосна [aː], як у de maan (Les 1)"
+    },
+    {
+      "id": "nl-9769f945",
+      "type": "adjective",
+      "lemma": "vroeg",
+      "ua": "рано, ранній",
+      "audio": "vroeg.mp3",
+      "explain_ua": "(Ik sta vroeg op = я рано встаю). Стоїть перед op, як nu в Les 4. Oe це [u], як у de voet (Les 1), кінцеве g це [x]. Форма одна: і «рано», і «ранній»"
+    },
+    {
+      "id": "nl-a95ea833",
+      "type": "function",
+      "lemma": "half",
+      "ua": "пів (half zeven = 6:30)",
+      "audio": "half.mp3",
+      "explain_ua": "(Het is half zeven = зараз пів на сьому, тобто 6:30). Half + наступна година: half zeven це 6:30, а не 7:30. Так само в українському «пів на сьому» й російському «половина седьмого». Слово uur після half не потрібне. Число 11 і 12 будуть у Les 15"
+    },
+    {
+      "id": "nl-0b25c710",
+      "type": "function",
+      "lemma": "om",
+      "ua": "о (om zeven uur = о сьомій)",
+      "audio": "om.mp3",
+      "explain_ua": "(Om zeven uur sta ik op = о сьомій я встаю). Om тільки для точного часу, коли щось відбувається. Не плутай: in zeven uur це «через сім годин», а не «о сьомій». Не плутай і з op (Les 13): op для днів, om для годин"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Hoe laat is het? Het is ... uur / Om ... uur",
+      "summary_ua": "«Зараз сьома» це Het is zeven uur. «О сьомій» це Om zeven uur. Після числа слово uur не змінюється: zeven uur, а не zeven uren. Питання про час: Hoe laat is het?",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Het is ... uur: котра зараз година",
+          "when_ua": "Het + is + число + uur. Числа тільки до 10 (Les 2). Одинадцять і дванадцять будуть у Les 15.",
+          "examples": [
+            {
+              "nl": "**Hoe laat** is het?",
+              "ua": "Котра година?",
+              "audio": "les14-example-01.mp3"
+            },
+            {
+              "nl": "Het is **zeven uur**.",
+              "ua": "Зараз сьома година.",
+              "audio": "les14-example-02.mp3"
+            },
+            {
+              "nl": "Het is **acht uur**.",
+              "ua": "Зараз восьма година.",
+              "audio": "les14-rule-01.mp3"
+            }
+          ],
+          "note_ua": "Hoe laat is het? вчи цілим питанням. Het uur з Les 5 стоїть після числа в однині."
+        },
+        {
+          "form": "Om ... uur: коли щось відбувається",
+          "when_ua": "Om + число + uur відповідає на «о котрій». Коли це на початку, дієслово на другому місці, як після op maandag (Les 13).",
+          "examples": [
+            {
+              "nl": "**Om zeven uur** sta ik op.",
+              "ua": "О сьомій я встаю.",
+              "audio": "les14-example-03.mp3"
+            },
+            {
+              "nl": "**Om half acht** eet ik brood.",
+              "ua": "О пів на восьму я їм хліб.",
+              "audio": "les14-example-05.mp3"
+            },
+            {
+              "nl": "**Om vijf uur** ga ik naar huis.",
+              "ua": "О п'ятій я йду додому.",
+              "audio": "les14-example-07.mp3"
+            }
+          ],
+          "note_ua": "Тільки om: не in zeven uur (це «через сім годин») і не op zeven uur."
+        },
+        {
+          "form": "Hoe laat + дієслово: о котрій",
+          "when_ua": "Питання про час події: Hoe laat, потім дієслово на другому місці і підмет. Відокремлюване op іде в кінець (Les 4).",
+          "examples": [
+            {
+              "nl": "**Hoe laat** sta je op?",
+              "ua": "О котрій ти встаєш?",
+              "audio": "les14-rule-02.mp3"
+            },
+            {
+              "nl": "**Om zeven uur** sta ik op.",
+              "ua": "О сьомій я встаю.",
+              "audio": "les14-example-03.mp3"
+            },
+            {
+              "nl": "**Hoe laat** ga je naar huis?",
+              "ua": "О котрій ти йдеш додому?",
+              "audio": "les14-rule-03.mp3"
+            },
+            {
+              "nl": "**Om vijf uur** ga ik naar huis.",
+              "ua": "О п'ятій я йду додому.",
+              "audio": "les14-example-07.mp3"
+            }
+          ],
+          "note_ua": "Hoe laat is het? і Hoe laat sta je op? це різні питання: перше про зараз, друге про час дії."
+        }
+      ],
+      "points_ua": [
+        "Zeven uur, а не zeven uren: після числа uur лишається в однині.",
+        "Om для години, op для дня: Op maandag sta ik om zeven uur op (Les 13).",
+        "In de ochtend, in de middag, in de avond відповідають на «вранці», «після обіду», «ввечері»."
+      ]
+    },
+    {
+      "title_ua": "Half zeven = 6:30",
+      "summary_ua": "Half + година означає пів години ДО цієї години. Half zeven це 6:30, а не 7:30. Так само в українському «пів на сьому» й російському «половина седьмого».",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Het is half zeven: 6:30",
+          "when_ua": "Half стоїть перед наступною годиною. Half zeven = 6:30, half acht = 7:30, half tien = 9:30.",
+          "examples": [
+            {
+              "nl": "Het is **half zeven**.",
+              "ua": "Зараз пів на сьому: 6:30.",
+              "audio": "les14-example-09.mp3"
+            },
+            {
+              "nl": "Het is **half acht**.",
+              "ua": "Зараз пів на восьму: 7:30.",
+              "audio": "les14-rule-04.mp3"
+            },
+            {
+              "nl": "Het is **half tien**.",
+              "ua": "Зараз пів на десяту: 9:30.",
+              "audio": "les14-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Тут спирайся на українську й російську, вони рахують так само. Англійська підводить: у британській розмовній half seven часто означає 7:30."
+        },
+        {
+          "form": "Om half acht: о пів на восьму",
+          "when_ua": "Om half + наступна година, без uur: half уже містить годину.",
+          "examples": [
+            {
+              "nl": "**Om half acht** eet ik brood.",
+              "ua": "О пів на восьму я їм хліб.",
+              "audio": "les14-example-05.mp3"
+            },
+            {
+              "nl": "**Om half zes** ga ik naar huis.",
+              "ua": "О пів на шосту я йду додому.",
+              "audio": "les14-rule-06.mp3"
+            },
+            {
+              "nl": "**Om half negen** werk ik.",
+              "ua": "О пів на дев'яту я працюю.",
+              "audio": "les14-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Не пиши half zeven uur: uur після half не потрібне."
+        }
+      ],
+      "points_ua": [
+        "Zeven uur це 7:00, half zeven це 6:30, half acht це 7:30.",
+        "Half elf і half twaalf будуть у Les 15, разом із числами 11 і 12."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Hoe laat is het?",
+      "ua": "Котра година?",
+      "audio": "les14-example-01.mp3"
+    },
+    {
+      "nl": "Het is zeven uur.",
+      "ua": "Зараз сьома година.",
+      "audio": "les14-example-02.mp3"
+    },
+    {
+      "nl": "Om zeven uur sta ik op.",
+      "ua": "О сьомій я встаю.",
+      "audio": "les14-example-03.mp3"
+    },
+    {
+      "nl": "In de ochtend drink ik koffie.",
+      "ua": "Вранці я п'ю каву.",
+      "audio": "les14-example-04.mp3"
+    },
+    {
+      "nl": "Om half acht eet ik brood.",
+      "ua": "О пів на восьму я їм хліб.",
+      "audio": "les14-example-05.mp3"
+    },
+    {
+      "nl": "In de middag werk ik.",
+      "ua": "Після обіду я працюю.",
+      "audio": "les14-example-06.mp3"
+    },
+    {
+      "nl": "Om vijf uur ga ik naar huis.",
+      "ua": "О п'ятій я йду додому.",
+      "audio": "les14-example-07.mp3"
+    },
+    {
+      "nl": "In de avond lees ik een boek.",
+      "ua": "Ввечері я читаю книгу.",
+      "audio": "les14-example-08.mp3"
+    },
+    {
+      "nl": "Het is half zeven.",
+      "ua": "Зараз пів на сьому.",
+      "audio": "les14-example-09.mp3"
+    },
+    {
+      "nl": "Om tien uur is het laat.",
+      "ua": "О десятій уже пізно.",
+      "audio": "les14-example-10.mp3"
+    },
+    {
+      "nl": "Ik sta vroeg op.",
+      "ua": "Я рано встаю.",
+      "audio": "les14-example-11.mp3"
+    },
+    {
+      "nl": "Het is nacht.",
+      "ua": "Зараз ніч.",
+      "audio": "les14-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Vroeg of laat?",
+    "title_ua": "Рано чи пізно?",
+    "highlight": [
+      "nl-66dfbe81",
+      "nl-32a6b9e0",
+      "nl-843dafee",
+      "nl-5e387765",
+      "nl-9769f945",
+      "nl-a95ea833",
+      "nl-0b25c710"
+    ],
+    "sentences": [
+      {
+        "nl": "Het is maandag en het is vroeg.",
+        "ua": "Сьогодні понеділок, і ще рано.",
+        "audio": "les14-reading-01.mp3"
+      },
+      {
+        "nl": "Om zeven uur sta ik op.",
+        "ua": "О сьомій я встаю.",
+        "audio": "les14-reading-02.mp3"
+      },
+      {
+        "nl": "In de ochtend drink ik koffie.",
+        "ua": "Вранці я п'ю каву.",
+        "audio": "les14-reading-03.mp3"
+      },
+      {
+        "nl": "Om half acht eet ik brood.",
+        "ua": "О пів на восьму я їм хліб.",
+        "audio": "les14-reading-04.mp3"
+      },
+      {
+        "nl": "In de middag werk ik.",
+        "ua": "Після обіду я працюю.",
+        "audio": "les14-reading-05.mp3"
+      },
+      {
+        "nl": "Om vijf uur ga ik naar huis.",
+        "ua": "О п'ятій я йду додому.",
+        "audio": "les14-reading-06.mp3"
+      },
+      {
+        "nl": "In de avond lees ik een boek.",
+        "ua": "Ввечері я читаю книгу.",
+        "audio": "les14-reading-07.mp3"
+      },
+      {
+        "nl": "Om tien uur is het laat.",
+        "ua": "О десятій уже пізно.",
+        "audio": "les14-reading-08.mp3"
+      },
+      {
+        "nl": "Op maandag sta ik om zeven uur op.",
+        "ua": "У понеділок я встаю о сьомій.",
+        "audio": "les14-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Котра година?",
+          "cue": "hoe laat; het + zijn; питання",
+          "accepted": [
+            "Hoe laat is het?"
+          ]
+        },
+        {
+          "prompt": "Зараз сьома година.",
+          "cue": "het + zijn; zeven uur",
+          "accepted": [
+            "Het is zeven uur."
+          ]
+        },
+        {
+          "prompt": "О сьомій я встаю.",
+          "cue": "om zeven uur; ik + opstaan",
+          "accepted": [
+            "Om zeven uur sta ik op.",
+            "Ik sta om zeven uur op."
+          ]
+        },
+        {
+          "prompt": "Зараз пів на восьму.",
+          "cue": "het + zijn; half acht (7:30)",
+          "accepted": [
+            "Het is half acht."
+          ]
+        },
+        {
+          "prompt": "Вранці я п'ю каву.",
+          "cue": "in de ochtend; ik + drinken; koffie",
+          "accepted": [
+            "In de ochtend drink ik koffie.",
+            "Ik drink in de ochtend koffie."
+          ]
+        },
+        {
+          "prompt": "О пів на дев'яту я їм хліб.",
+          "cue": "om half negen; ik + eten; brood",
+          "accepted": [
+            "Om half negen eet ik brood.",
+            "Ik eet om half negen brood."
+          ]
+        },
+        {
+          "prompt": "У мене немає часу о п'ятій.",
+          "cue": "ik + hebben; geen tijd; om vijf uur",
+          "accepted": [
+            "Ik heb geen tijd om vijf uur.",
+            "Om vijf uur heb ik geen tijd."
+          ]
+        },
+        {
+          "prompt": "О котрій ти встаєш?",
+          "cue": "hoe laat; jij + opstaan; питання",
+          "accepted": [
+            "Hoe laat sta je op?",
+            "Hoe laat sta jij op?"
+          ]
+        },
+        {
+          "prompt": "Ввечері я читаю книгу.",
+          "cue": "in de avond; ik + lezen; een boek",
+          "accepted": [
+            "In de avond lees ik een boek.",
+            "Ik lees in de avond een boek."
+          ]
+        },
+        {
+          "prompt": "О десятій уже пізно.",
+          "cue": "om tien uur; het + zijn; laat",
+          "accepted": [
+            "Om tien uur is het laat."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "hoe",
+        "uur",
+        "om",
+        "in",
+        "half",
+        "ochtend",
+        "middag",
+        "avond",
+        "nacht",
+        "laat",
+        "vroeg",
+        "is"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ laat is het?",
+          "hint": "Котра година?",
+          "accepted": [
+            [
+              "Hoe"
+            ]
+          ]
+        },
+        {
+          "text": "Het is zeven ___.",
+          "hint": "Зараз сьома година.",
+          "accepted": [
+            [
+              "uur"
+            ]
+          ]
+        },
+        {
+          "text": "___ zeven uur sta ik op.",
+          "hint": "О сьомій я встаю.",
+          "accepted": [
+            [
+              "Om"
+            ]
+          ]
+        },
+        {
+          "text": "Het is ___ acht.",
+          "hint": "Зараз пів на восьму.",
+          "accepted": [
+            [
+              "half"
+            ]
+          ]
+        },
+        {
+          "text": "In de ___ drink ik koffie.",
+          "hint": "Вранці я п'ю каву.",
+          "accepted": [
+            [
+              "ochtend"
+            ]
+          ]
+        },
+        {
+          "text": "In de ___ werk ik.",
+          "hint": "Після обіду я працюю.",
+          "accepted": [
+            [
+              "middag"
+            ]
+          ]
+        },
+        {
+          "text": "In de ___ lees ik een boek.",
+          "hint": "Ввечері я читаю книгу.",
+          "accepted": [
+            [
+              "avond"
+            ]
+          ]
+        },
+        {
+          "text": "Om tien uur is het ___.",
+          "hint": "О десятій уже пізно.",
+          "accepted": [
+            [
+              "laat"
+            ]
+          ]
+        },
+        {
+          "text": "Ik sta ___ op.",
+          "hint": "Я рано встаю.",
+          "accepted": [
+            [
+              "vroeg"
+            ]
+          ]
+        },
+        {
+          "text": "Het is ___.",
+          "hint": "Зараз ніч.",
+          "accepted": [
+            [
+              "nacht"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: година на початку, питання, half, vroeg або заперечення",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik sta op.",
+          "cue": "-> починай з Om zeven uur",
+          "accepted": [
+            "Om zeven uur sta ik op.",
+            "Ik sta om zeven uur op."
+          ]
+        },
+        {
+          "prompt": "Ik eet brood.",
+          "cue": "-> починай з Om half acht",
+          "accepted": [
+            "Om half acht eet ik brood."
+          ]
+        },
+        {
+          "prompt": "Ik ga naar huis.",
+          "cue": "-> починай з Om vijf uur",
+          "accepted": [
+            "Om vijf uur ga ik naar huis."
+          ]
+        },
+        {
+          "prompt": "Jij staat om zeven uur op.",
+          "cue": "-> питання з Hoe laat",
+          "accepted": [
+            "Hoe laat sta je op?",
+            "Hoe laat sta jij op?"
+          ]
+        },
+        {
+          "prompt": "Ik werk in de middag.",
+          "cue": "-> починай з In de middag",
+          "accepted": [
+            "In de middag werk ik."
+          ]
+        },
+        {
+          "prompt": "Ik lees een boek.",
+          "cue": "-> починай з In de avond",
+          "accepted": [
+            "In de avond lees ik een boek."
+          ]
+        },
+        {
+          "prompt": "Ik sta op.",
+          "cue": "-> додай vroeg",
+          "accepted": [
+            "Ik sta vroeg op."
+          ]
+        },
+        {
+          "prompt": "Het is acht uur.",
+          "cue": "-> half acht (7:30)",
+          "accepted": [
+            "Het is half acht."
+          ]
+        },
+        {
+          "prompt": "Het is laat.",
+          "cue": "-> vroeg замість laat",
+          "accepted": [
+            "Het is vroeg."
+          ]
+        },
+        {
+          "prompt": "Ik heb tijd om vijf uur.",
+          "cue": "-> заперечення з geen",
+          "accepted": [
+            "Ik heb geen tijd om vijf uur.",
+            "Om vijf uur heb ik geen tijd."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Om zeven uur ___ ik op.",
+          "cue": "opstaan",
+          "accepted": [
+            "sta"
+          ]
+        },
+        {
+          "text": "Om half acht ___ ik brood.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "Om vijf uur ___ ik naar huis.",
+          "cue": "gaan",
+          "accepted": [
+            "ga"
+          ]
+        },
+        {
+          "text": "In de middag ___ mijn moeder.",
+          "cue": "werken",
+          "accepted": [
+            "werkt"
+          ]
+        },
+        {
+          "text": "In de avond ___ wij een boek.",
+          "cue": "lezen",
+          "accepted": [
+            "lezen"
+          ]
+        },
+        {
+          "text": "Hoe laat ___ jij op?",
+          "cue": "opstaan",
+          "accepted": [
+            "sta"
+          ]
+        },
+        {
+          "text": "Hoe laat ___ het?",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "In de ochtend ___ mijn moeder koffie.",
+          "cue": "drinken",
+          "accepted": [
+            "drinkt"
+          ]
+        },
+        {
+          "text": "___ jij om vijf uur naar huis?",
+          "cue": "gaan",
+          "accepted": [
+            "Ga"
+          ]
+        },
+        {
+          "text": "Om tien uur ___ ik geen tijd.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом чи виразом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "ранок",
+          "answer": "de ochtend"
+        },
+        {
+          "prompt": "пообіддя, середина дня",
+          "answer": "de middag"
+        },
+        {
+          "prompt": "вечір",
+          "answer": "de avond"
+        },
+        {
+          "prompt": "ніч",
+          "answer": "de nacht"
+        },
+        {
+          "prompt": "рано",
+          "answer": "vroeg"
+        },
+        {
+          "prompt": "пізно",
+          "answer": "laat"
+        },
+        {
+          "prompt": "6:30",
+          "answer": "half zeven"
+        },
+        {
+          "prompt": "о восьмій",
+          "answer": "om acht uur"
+        }
+      ],
+      "extra": [
+        "half acht",
+        "in acht uur"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "adjective"
+      ]
+    }
+  ]
+}

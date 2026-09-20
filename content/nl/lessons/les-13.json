@@ -1,0 +1,747 @@
+{
+  "id": "nl-les-13",
+  "lang": "nl",
+  "order": 13,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-3af2e25f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "maandag",
+      "plural": [
+        "maandagen"
+      ],
+      "ua": "понеділок",
+      "audio": "de-maandag.mp3",
+      "explain_ua": "(Op maandag werk ik = у понеділок я працюю). Усі сім днів це de-слова, але в реченні артикль майже зникає: op maandag, а не op de maandag, як de tijd у Les 3 (Ik heb geen tijd). Пиши з малої літери, як в українській. Кінцеве g у -dag читається [x], як українське х (Les 1, de lach). Підказка для пам'яті, не етимологія: maandag і de maan (Les 1)"
+    },
+    {
+      "id": "nl-65a2ea98",
+      "type": "noun",
+      "article": "de",
+      "lemma": "dinsdag",
+      "plural": [
+        "dinsdagen"
+      ],
+      "ua": "вівторок",
+      "audio": "de-dinsdag.mp3",
+      "explain_ua": "(Op dinsdag ga ik naar de winkel = у вівторок я йду до магазину). Не плутай з donderdag: у dinsdag два склади (DINS-dag), а в donderdag три"
+    },
+    {
+      "id": "nl-a8badc9a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "woensdag",
+      "plural": [
+        "woensdagen"
+      ],
+      "ua": "середа",
+      "audio": "de-woensdag.mp3",
+      "explain_ua": "(Op woensdag lees ik een boek = у середу я читаю книгу). Oe це [u], як у de voet і het boek (Les 1). Слово пишеться з ns посередині: woens-dag"
+    },
+    {
+      "id": "nl-7e0f4466",
+      "type": "noun",
+      "article": "de",
+      "lemma": "donderdag",
+      "plural": [
+        "donderdagen"
+      ],
+      "ua": "четвер",
+      "audio": "de-donderdag.mp3",
+      "explain_ua": "(Op donderdag wil ik zwemmen = у четвер я хочу плавати). Три склади: DON-der-dag, наголос на першому. Не плутай з dinsdag: там два склади"
+    },
+    {
+      "id": "nl-498fe65c",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vrijdag",
+      "plural": [
+        "vrijdagen"
+      ],
+      "ua": "п'ятниця",
+      "audio": "de-vrijdag.mp3",
+      "explain_ua": "(Op vrijdag bel ik mijn moeder op = у п'ятницю я дзвоню мамі). Ij це той самий звук, що в de wijn і mijn (Les 1): vrij-dag"
+    },
+    {
+      "id": "nl-76abf771",
+      "type": "noun",
+      "article": "de",
+      "lemma": "zaterdag",
+      "plural": [
+        "zaterdagen"
+      ],
+      "ua": "субота",
+      "audio": "de-zaterdag.mp3",
+      "explain_ua": "(Op zaterdag koop ik brood en kaas = у суботу я купую хліб і сир). Три склади: ZA-ter-dag. Літера z на початку це дзвінкий [z], як у de zon і zeven"
+    },
+    {
+      "id": "nl-70371ae8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "zondag",
+      "plural": [
+        "zondagen"
+      ],
+      "ua": "неділя",
+      "audio": "de-zondag.mp3",
+      "explain_ua": "(Op zondag heb ik tijd = у неділю в мене є час). Підказка для пам'яті, не етимологія: zondag і de zon (Les 1)"
+    },
+    {
+      "id": "nl-c989d5ed",
+      "type": "function",
+      "lemma": "morgen",
+      "ua": "завтра",
+      "audio": "morgen.mp3",
+      "explain_ua": "(Morgen is het dinsdag = завтра вівторок). Прислівник «завтра», пара до vandaag (Les 11). Не «ранок»: для «ранок» ми вчимо de ochtend (Les 14). Є ще іменник de morgen, він теж означає ранок (як у goedemorgen), але ми його не вчимо, щоб не плутати"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Op maandag: «у понеділок»",
+      "summary_ua": "«У понеділок» нідерландською це op maandag: op + день, без артикля й без закінчень. День можна поставити в кінець (Ik werk op maandag) або на початок, тоді дієслово йде на друге місце (Op maandag werk ik).",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "Ik werk op maandag: день у кінці",
+          "when_ua": "Звичайний порядок: підмет, дієслово, потім op і день. Так відповідаєш на питання «коли».",
+          "examples": [
+            {
+              "nl": "Ik werk **op maandag**.",
+              "ua": "Я працюю в понеділок.",
+              "audio": "les13-rule-01.mp3"
+            },
+            {
+              "nl": "Ik ga **op dinsdag** naar de winkel.",
+              "ua": "Я йду до магазину у вівторок.",
+              "audio": "les13-rule-02.mp3"
+            },
+            {
+              "nl": "Ik heb geen tijd **op zondag**.",
+              "ua": "У мене немає часу в неділю.",
+              "audio": "les13-rule-03.mp3"
+            }
+          ],
+          "note_ua": "З днями тижня завжди op, а не in. Geen перед tijd це Les 2 і Les 3."
+        },
+        {
+          "form": "Op maandag werk ik: день на початку",
+          "when_ua": "День стоїть першим. Дієслово лишається на другому місці, підмет іде за ним, як після nu (Les 4) і vandaag (Les 11).",
+          "examples": [
+            {
+              "nl": "**Op maandag** werk ik.",
+              "ua": "У понеділок я працюю.",
+              "audio": "les13-example-01.mp3"
+            },
+            {
+              "nl": "**Op dinsdag** ga ik naar de winkel.",
+              "ua": "У вівторок я йду до магазину.",
+              "audio": "les13-example-02.mp3"
+            },
+            {
+              "nl": "**Op zondag** heb ik tijd.",
+              "ua": "У неділю в мене є час.",
+              "audio": "les13-example-07.mp3"
+            }
+          ],
+          "note_ua": "Це те саме речення, що й у першому блоці. Змінився лише порядок слів."
+        },
+        {
+          "form": "Wanneer? Op maandag.",
+          "when_ua": "Питання Wanneer (Les 3) чекає відповіді з op + день.",
+          "examples": [
+            {
+              "nl": "Wanneer werk je?",
+              "ua": "Коли ти працюєш?",
+              "audio": "les13-example-10.mp3"
+            },
+            {
+              "nl": "**Op maandag** werk ik.",
+              "ua": "У понеділок я працюю.",
+              "audio": "les13-example-01.mp3"
+            },
+            {
+              "nl": "Wanneer ga je naar de winkel?",
+              "ua": "Коли ти йдеш до магазину?",
+              "audio": "les13-rule-04.mp3"
+            },
+            {
+              "nl": "**Op dinsdag** ga ik naar de winkel.",
+              "ua": "У вівторок я йду до магазину.",
+              "audio": "les13-example-02.mp3"
+            }
+          ],
+          "note_ua": "У питанні після Wanneer теж дієслово на другому місці, а підмет одразу за ним."
+        }
+      ],
+      "points_ua": [
+        "Не пиши op de maandag. Слово вчимо як de maandag, але в реченні артикля немає.",
+        "Дні тижня пиши з малої літери: maandag, а не Maandag. В англійській навпаки (Monday).",
+        "Після Op maandag дієслово на другому місці: Op maandag werk ik, а не Op maandag ik werk. Це та сама інверсія, що в Les 10.",
+        "У Op vrijdag bel ik mijn moeder op слово op стоїть двічі. Спочатку прийменник «у п'ятницю», а в кінці частка дієслова opbellen (Les 4)."
+      ]
+    },
+    {
+      "title_ua": "Het is maandag",
+      "summary_ua": "Українською «Сьогодні понеділок» без дієслова. Нідерландською дієслово потрібне: Het is maandag. Тут допомагає англійська, а не українська: It is Monday.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "Het is maandag: який зараз день",
+          "when_ua": "Het + is + день, без op і без артикля. Це не «коли відбувається», а «який це день».",
+          "examples": [
+            {
+              "nl": "Het is **maandag**.",
+              "ua": "Понеділок.",
+              "audio": "les13-rule-05.mp3"
+            },
+            {
+              "nl": "Het is **zondag**.",
+              "ua": "Неділя.",
+              "audio": "les13-rule-06.mp3"
+            },
+            {
+              "nl": "Het is **vrijdag**.",
+              "ua": "П'ятниця.",
+              "audio": "les13-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Не пропускай het is: української конструкції без дієслова нідерландською немає."
+        },
+        {
+          "form": "Vandaag / Morgen is het maandag",
+          "when_ua": "Vandaag або morgen на початку. Дієслово is на другому місці, het після нього.",
+          "examples": [
+            {
+              "nl": "**Vandaag** is het maandag.",
+              "ua": "Сьогодні понеділок.",
+              "audio": "les13-example-08.mp3"
+            },
+            {
+              "nl": "**Morgen** is het dinsdag.",
+              "ua": "Завтра вівторок.",
+              "audio": "les13-example-09.mp3"
+            },
+            {
+              "nl": "**Morgen** is het weer maandag.",
+              "ua": "Завтра знову понеділок.",
+              "audio": "les13-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Vandaag і morgen це слова, що ставляться на початок, як nu (Les 4). Weer (Les 10) значить «знову»."
+        },
+        {
+          "form": "Питання і заперечення",
+          "when_ua": "Питання: is іде першим. Заперечення: niet стоїть після дня (Les 2).",
+          "examples": [
+            {
+              "nl": "Is het **maandag**?",
+              "ua": "Це понеділок?",
+              "audio": "les13-rule-09.mp3"
+            },
+            {
+              "nl": "Het is niet **maandag**.",
+              "ua": "Це не понеділок.",
+              "audio": "les13-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Тут niet, а не geen: після is день не має een і не є іменником з артиклем."
+        }
+      ],
+      "points_ua": [
+        "Не пропускай het is: не Vandaag maandag, а Vandaag is het maandag.",
+        "Не став het перед дієсловом: не Vandaag het is maandag. Після Vandaag і Morgen дієслово на другому місці.",
+        "Не плутай два вживання: Op maandag werk ik (коли відбувається) і Het is maandag (який це день)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Op maandag werk ik.",
+      "ua": "У понеділок я працюю.",
+      "audio": "les13-example-01.mp3"
+    },
+    {
+      "nl": "Op dinsdag ga ik naar de winkel.",
+      "ua": "У вівторок я йду до магазину.",
+      "audio": "les13-example-02.mp3"
+    },
+    {
+      "nl": "Op woensdag lees ik een boek.",
+      "ua": "У середу я читаю книгу.",
+      "audio": "les13-example-03.mp3"
+    },
+    {
+      "nl": "Op donderdag wil ik zwemmen.",
+      "ua": "У четвер я хочу плавати.",
+      "audio": "les13-example-04.mp3"
+    },
+    {
+      "nl": "Op vrijdag bel ik mijn moeder op.",
+      "ua": "У п'ятницю я дзвоню мамі.",
+      "audio": "les13-example-05.mp3"
+    },
+    {
+      "nl": "Op zaterdag koop ik brood en kaas.",
+      "ua": "У суботу я купую хліб і сир.",
+      "audio": "les13-example-06.mp3"
+    },
+    {
+      "nl": "Op zondag heb ik tijd.",
+      "ua": "У неділю в мене є час.",
+      "audio": "les13-example-07.mp3"
+    },
+    {
+      "nl": "Vandaag is het maandag.",
+      "ua": "Сьогодні понеділок.",
+      "audio": "les13-example-08.mp3"
+    },
+    {
+      "nl": "Morgen is het dinsdag.",
+      "ua": "Завтра вівторок.",
+      "audio": "les13-example-09.mp3"
+    },
+    {
+      "nl": "Wanneer werk je?",
+      "ua": "Коли ти працюєш?",
+      "audio": "les13-example-10.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn week",
+    "title_ua": "Мій тиждень",
+    "highlight": [
+      "nl-3af2e25f",
+      "nl-65a2ea98",
+      "nl-a8badc9a",
+      "nl-7e0f4466",
+      "nl-498fe65c",
+      "nl-76abf771",
+      "nl-70371ae8",
+      "nl-c989d5ed"
+    ],
+    "sentences": [
+      {
+        "nl": "Dit is mijn week.",
+        "ua": "Це мій тиждень.",
+        "audio": "les13-reading-01.mp3"
+      },
+      {
+        "nl": "Op maandag werk ik.",
+        "ua": "У понеділок я працюю.",
+        "audio": "les13-reading-02.mp3"
+      },
+      {
+        "nl": "Op dinsdag ga ik naar de winkel.",
+        "ua": "У вівторок я йду до магазину.",
+        "audio": "les13-reading-03.mp3"
+      },
+      {
+        "nl": "Op woensdag lees ik een boek.",
+        "ua": "У середу я читаю книгу.",
+        "audio": "les13-reading-04.mp3"
+      },
+      {
+        "nl": "Op donderdag wil ik zwemmen.",
+        "ua": "У четвер я хочу плавати.",
+        "audio": "les13-reading-05.mp3"
+      },
+      {
+        "nl": "Op vrijdag bel ik mijn moeder op.",
+        "ua": "У п'ятницю я дзвоню мамі.",
+        "audio": "les13-reading-06.mp3"
+      },
+      {
+        "nl": "Op zaterdag koop ik brood en kaas.",
+        "ua": "У суботу я купую хліб і сир.",
+        "audio": "les13-reading-07.mp3"
+      },
+      {
+        "nl": "Op zondag heb ik tijd.",
+        "ua": "У неділю в мене є час.",
+        "audio": "les13-reading-08.mp3"
+      },
+      {
+        "nl": "Vandaag is het zondag.",
+        "ua": "Сьогодні неділя.",
+        "audio": "les13-reading-09.mp3"
+      },
+      {
+        "nl": "Morgen is het weer maandag.",
+        "ua": "Завтра знову понеділок.",
+        "audio": "les13-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене немає часу в понеділок.",
+          "cue": "ik + hebben; geen tijd; op maandag",
+          "accepted": [
+            "Ik heb geen tijd op maandag.",
+            "Op maandag heb ik geen tijd."
+          ]
+        },
+        {
+          "prompt": "У вівторок я йду до магазину.",
+          "cue": "op dinsdag; ik + gaan; naar de winkel",
+          "accepted": [
+            "Op dinsdag ga ik naar de winkel.",
+            "Ik ga op dinsdag naar de winkel."
+          ]
+        },
+        {
+          "prompt": "У середу я читаю книгу.",
+          "cue": "op woensdag; ik + lezen; een boek",
+          "accepted": [
+            "Op woensdag lees ik een boek.",
+            "Ik lees op woensdag een boek."
+          ]
+        },
+        {
+          "prompt": "У четвер я хочу плавати.",
+          "cue": "op donderdag; ik + willen; zwemmen (в кінці)",
+          "accepted": [
+            "Op donderdag wil ik zwemmen.",
+            "Ik wil op donderdag zwemmen."
+          ]
+        },
+        {
+          "prompt": "У п'ятницю я дзвоню мамі.",
+          "cue": "op vrijdag; ik + opbellen; mijn moeder",
+          "accepted": [
+            "Op vrijdag bel ik mijn moeder op.",
+            "Ik bel mijn moeder op vrijdag op."
+          ]
+        },
+        {
+          "prompt": "У суботу я купую хліб і сир.",
+          "cue": "op zaterdag; ik + kopen; brood en kaas",
+          "accepted": [
+            "Op zaterdag koop ik brood en kaas.",
+            "Ik koop op zaterdag brood en kaas."
+          ]
+        },
+        {
+          "prompt": "Сьогодні понеділок.",
+          "cue": "vandaag; het + zijn; maandag",
+          "accepted": [
+            "Vandaag is het maandag.",
+            "Het is vandaag maandag."
+          ]
+        },
+        {
+          "prompt": "Завтра вівторок.",
+          "cue": "morgen; het + zijn; dinsdag",
+          "accepted": [
+            "Morgen is het dinsdag.",
+            "Het is morgen dinsdag."
+          ]
+        },
+        {
+          "prompt": "Коли ти йдеш до магазину?",
+          "cue": "wanneer; jij + gaan; naar de winkel; питання",
+          "accepted": [
+            "Wanneer ga je naar de winkel?",
+            "Wanneer ga jij naar de winkel?"
+          ]
+        },
+        {
+          "prompt": "Сьогодні неділя, тому в мене є час.",
+          "cue": "vandaag; het + zijn; zondag; dus; ik + hebben; tijd",
+          "accepted": [
+            "Vandaag is het zondag, dus ik heb tijd.",
+            "Vandaag is het zondag dus ik heb tijd.",
+            "Het is vandaag zondag, dus ik heb tijd."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "op",
+        "is",
+        "het",
+        "morgen",
+        "vandaag",
+        "wanneer",
+        "geen",
+        "dinsdag",
+        "donderdag",
+        "vrijdag",
+        "zaterdag",
+        "zondag"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ maandag werk ik.",
+          "hint": "У понеділок я працюю.",
+          "accepted": [
+            [
+              "Op"
+            ]
+          ]
+        },
+        {
+          "text": "Vandaag ___ het maandag.",
+          "hint": "Сьогодні понеділок.",
+          "accepted": [
+            [
+              "is"
+            ]
+          ]
+        },
+        {
+          "text": "Morgen is ___ dinsdag.",
+          "hint": "Завтра вівторок.",
+          "accepted": [
+            [
+              "het"
+            ]
+          ]
+        },
+        {
+          "text": "___ werk je?",
+          "hint": "Коли ти працюєш?",
+          "accepted": [
+            [
+              "Wanneer"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ tijd op zondag.",
+          "hint": "У мене немає часу в неділю.",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Op ___ bel ik mijn moeder op.",
+          "hint": "У п'ятницю я дзвоню мамі.",
+          "accepted": [
+            [
+              "vrijdag"
+            ]
+          ]
+        },
+        {
+          "text": "Op ___ wil ik zwemmen.",
+          "hint": "У четвер я хочу плавати.",
+          "accepted": [
+            [
+              "donderdag"
+            ]
+          ]
+        },
+        {
+          "text": "Op ___ koop ik brood en kaas.",
+          "hint": "У суботу я купую хліб і сир.",
+          "accepted": [
+            [
+              "zaterdag"
+            ]
+          ]
+        },
+        {
+          "text": "___ is het weer maandag.",
+          "hint": "Завтра знову понеділок.",
+          "accepted": [
+            [
+              "Morgen"
+            ]
+          ]
+        },
+        {
+          "text": "___ is het zondag.",
+          "hint": "Сьогодні неділя.",
+          "accepted": [
+            [
+              "Vandaag"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: слово на початку, питання, заперечення, willen або інший день",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik werk op maandag.",
+          "cue": "-> починай з Op maandag",
+          "accepted": [
+            "Op maandag werk ik."
+          ]
+        },
+        {
+          "prompt": "Ik ga op dinsdag naar de winkel.",
+          "cue": "-> починай з Op dinsdag",
+          "accepted": [
+            "Op dinsdag ga ik naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Jij leest op woensdag een boek.",
+          "cue": "-> питання з Wanneer",
+          "accepted": [
+            "Wanneer lees jij een boek?",
+            "Wanneer lees je een boek?"
+          ]
+        },
+        {
+          "prompt": "Vandaag is het maandag.",
+          "cue": "-> morgen замість vandaag",
+          "accepted": [
+            "Morgen is het maandag."
+          ]
+        },
+        {
+          "prompt": "Ik zwem op donderdag.",
+          "cue": "-> додай willen",
+          "accepted": [
+            "Ik wil op donderdag zwemmen.",
+            "Op donderdag wil ik zwemmen."
+          ]
+        },
+        {
+          "prompt": "Ik heb tijd op zondag.",
+          "cue": "-> заперечення з geen",
+          "accepted": [
+            "Ik heb geen tijd op zondag.",
+            "Op zondag heb ik geen tijd."
+          ]
+        },
+        {
+          "prompt": "Het is maandag.",
+          "cue": "-> заперечення з niet",
+          "accepted": [
+            "Het is niet maandag."
+          ]
+        },
+        {
+          "prompt": "Ik bel mijn moeder op.",
+          "cue": "-> починай з Op vrijdag",
+          "accepted": [
+            "Op vrijdag bel ik mijn moeder op."
+          ]
+        },
+        {
+          "prompt": "Het is dinsdag.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag is het dinsdag."
+          ]
+        },
+        {
+          "prompt": "Maandag is de eerste dag.",
+          "cue": "-> zondag і zevende замість maandag і eerste",
+          "accepted": [
+            "Zondag is de zevende dag."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Op maandag ___ ik.",
+          "cue": "werken",
+          "accepted": [
+            "werk"
+          ]
+        },
+        {
+          "text": "Op dinsdag ___ ik naar de winkel.",
+          "cue": "gaan",
+          "accepted": [
+            "ga"
+          ]
+        },
+        {
+          "text": "Op woensdag ___ jij een boek.",
+          "cue": "lezen",
+          "accepted": [
+            "leest"
+          ]
+        },
+        {
+          "text": "Op donderdag ___ hij zwemmen.",
+          "cue": "willen",
+          "accepted": [
+            "wil"
+          ]
+        },
+        {
+          "text": "Op vrijdag ___ ik mijn moeder op.",
+          "cue": "opbellen",
+          "accepted": [
+            "bel"
+          ]
+        },
+        {
+          "text": "Op zaterdag ___ wij brood en kaas.",
+          "cue": "kopen",
+          "accepted": [
+            "kopen"
+          ]
+        },
+        {
+          "text": "Op zondag ___ ik tijd.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Vandaag ___ het maandag.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Morgen ___ het dinsdag.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "___ jij op zondag?",
+          "cue": "werken",
+          "accepted": [
+            "Werk"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

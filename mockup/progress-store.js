@@ -88,11 +88,16 @@
     const exercises = {};
     for (const e of events) {
       if (e.type === 'lesson_done') lessons[e.lesson] = { done: true, at: e.t };
-      else if (e.type === 'exercise_checked') {
+      else if (e.type === 'lesson_reset') {
+        // the learner started the lesson over: it is no longer done and its exercises are blank again.
+        // The log itself keeps every earlier event; only the derived state forgets them.
+        delete lessons[e.lesson];
+        for (const key of Object.keys(exercises)) if (key.startsWith(`${e.lesson}#`)) delete exercises[key];
+      } else if (e.type === 'exercise_checked') {
         const key = `${e.lesson}#${e.exercise}`;
         const x = exercises[key] || (exercises[key] = { attempts: 0, best: 0 });
         x.attempts++;
-        x.last = { ok: e.ok, total: e.total, at: e.t };
+        x.last = { ok: e.ok, total: e.total, at: e.t, wrong: e.wrong, answers: e.answers, words: e.words };
         x.best = Math.max(x.best, e.ok);
       }
     }

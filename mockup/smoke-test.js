@@ -18,11 +18,12 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'upload-btn', 'upload-file', 'upload-note'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
 global.Audio = class { play() { return Promise.resolve(); } };
+global.confirm = () => true;
 
 window.ProgressStore = require('./progress-store.js');
 window.FSRS = require('ts-fsrs');
@@ -104,6 +105,37 @@ t('cards: after 10 new cards the daily cap ends the session', stage().textConten
 t('cards: the stats now show no new cards for today', byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
 press('Закрити');
 t('cards: back on the start screen', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Почати повторення')));
+
+// ---- saved answers, previous lesson, reset (every lesson is done and the last one is open here)
+const lastL = window.LESSONS[N - 1], evs = () => window.progressLog.events;
+const doneEvents = (id) => evs().filter((e) => e.type === 'lesson_done' && e.lesson === id);
+t('lesson_done is recorded once per lesson', doneEvents(lastL.id).length === 1);
+byId['next'].onclick();
+t('Next on a lesson that is already done does not record it again', doneEvents(lastL.id).length === 1);
+byId['prev'].onclick();
+t('Previous opens the lesson before', byId['lesson-label'].textContent === 'Les ' + window.LESSONS[N - 2].order);
+const restored = byId['b4-body'].children.every((box) => {
+  const inputs = box.querySelectorAll('[data-acc]');
+  const result = box.all().find((e) => e.className === 'result');
+  return inputs.length && inputs.every((x) => x.value === 'xxx' && x.classList.contains('bad')) && result.classList.contains('show') && result.textContent === `Вірно: 0 з ${inputs.length}`;
+});
+t('a lesson that was worked through comes back with its saved answers and results (dictation included)', restored);
+for (let i = 0; i < N; i++) byId['prev'].onclick();
+t('Previous stops at Les 1 and is hidden there', byId['lesson-label'].textContent === 'Les 1' && byId['prev'].classList.contains('invisible'));
+byId['next'].onclick(); t('Previous button shows again after Les 1', !byId['prev'].classList.contains('invisible'));
+byId['prev'].onclick();
+// an attempt logged before answers were stored: the wrong answer is known, a right one is filled from the accepted list
+const firstTotal = byId['b4-body'].children[0].querySelectorAll('[data-acc]').length;
+window.progressLog.record({ type: 'exercise_checked', lesson: window.LESSONS[0].id, exercise: 0, kind: 'translate', ok: firstTotal - 1, total: firstTotal, wrong: [{ n: 0, answer: 'foo', expected: 'x' }] });
+byId['next'].onclick(); byId['prev'].onclick();
+const oldInputs = byId['b4-body'].children[0].querySelectorAll('[data-acc]');
+t('an old attempt without stored answers still restores what it can', oldInputs[0].value === 'foo' && oldInputs[0].classList.contains('bad') && oldInputs[1].classList.contains('ok'));
+byId['reset'].onclick();
+const st = window.progressLog.state();
+t('reset: the lesson is no longer done', !st.lessons[window.LESSONS[0].id]);
+t('reset: its exercises are blank again', byId['b4-body'].querySelectorAll('[data-acc]').every((x) => x.value === '' && !x.classList.contains('bad')));
+t('reset: other lessons keep their saved answers', !!st.exercises[window.LESSONS[1].id + '#0'] && !!st.lessons[window.LESSONS[1].id]);
+t('reset: the log keeps the old events, nothing is deleted', evs().some((e) => e.type === 'exercise_checked' && e.lesson === window.LESSONS[0].id) && evs().some((e) => e.type === 'lesson_reset'));
 
 console.log(bad ? `FAILURES: ${bad}` : 'SMOKE TEST PASSED');
 process.exit(bad ? 1 : 0);
