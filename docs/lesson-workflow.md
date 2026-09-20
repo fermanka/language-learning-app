@@ -11,6 +11,7 @@ Roles: the **learner** approves plans and studies in the app. The **teacher** (a
 5. **Integrate.** The app builder assigns permanent ids and fills the reading highlights, then runs the validator (`npm run validate`). Errors go back to the teacher as an exact list.
 6. **Voice.** Every audio file the lesson refers to must exist; missing files are generated in the teacher's voice.
 7. **Test and publish.** `npm run build`, `npm test`, then commit and push after the pre-push scan (explicit `git add`, staged-diff scan for personal data and local paths, no audio or learner data staged).
+8. **Back up.** Everything the lesson needs that is not in git (drafts, plans, generated audio) is copied to the learner's own private cloud storage, never to this public repository. A lesson is not finished until that copy has run and its file counts match.
 
 ## Rules the validator enforces
 
