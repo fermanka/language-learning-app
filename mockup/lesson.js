@@ -38,12 +38,12 @@ function splitTerms(sentence, notes) {
 // A lesson has no rule card, one (object) or several (array).
 const rulesOf = (lesson) => (Array.isArray(lesson.rule) ? lesson.rule : lesson.rule ? [lesson.rule] : []);
 
-// A dictation can draw a limited number of words per attempt (ex.max). Fisher-Yates on a copy.
+// A dictation always comes in a shuffled order (never the order of the lesson), and can draw a limited
+// number of words per attempt (ex.max). Fisher-Yates on a copy.
 function pickDictation(notes, max, rand = Math.random) {
-  if (!max || notes.length <= max) return notes;
   const pool = notes.slice();
   for (let i = pool.length - 1; i > 0; i--) { const k = Math.floor(rand() * (i + 1)); [pool[i], pool[k]] = [pool[k], pool[i]]; }
-  return pool.slice(0, max);
+  return max ? pool.slice(0, max) : pool;
 }
 
 // Which notes take part in the dictation exercise of a lesson.
