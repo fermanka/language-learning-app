@@ -295,7 +295,9 @@ if (typeof document === 'undefined') {
   // production: false = only "Dutch word -> meaning" cards. The reverse card of a word used to appear right after the first
   // one (the same word again); turn it on later, once the learner asks for it.
   // sessionCap/shortCap: 10-15 cards a time. mix: new cards come mixed across lessons and word types (verbs among the nouns).
-  const cardCfg = { newPerDay: 10, sessionCap: 15, shortCap: 10, production: true, mix: true };
+  // perDay: 15 cards a day in each direction (30 for both); newPerDay is the part of it that may be new words.
+  // "Хочу ще" adds one more portion of the same size for the direction that is open (a cards_more event in the log).
+  const cardCfg = { newPerDay: 15, perDay: 15, sessionCap: 15, shortCap: 10, production: true, mix: true };
   // Two sub-sections: Dutch -> Ukrainian and Ukrainian -> Dutch. A session never leaves its direction, so a word does not
   // come back reversed right after it. Every direction has its own new-cards-per-day, queue, statistics and schedule.
   let cardDir = 'nl-ua';
@@ -306,11 +308,13 @@ if (typeof document === 'undefined') {
   const currentDeck = () => CardsLib.buildDeck(LESSONS.slice(0, frontierIndex(LESSONS, isDone) + 1), { production: cardCfg.production });
   const cardStates = () => CardsLib.replay(log.events, F);
 
+  const dirStats = () => CardsLib.stats(currentDeck(), cardStates(), log.events, new Date(), { ...cardCfg, dir: cardDir });
+
   function renderCardsStats() {
     if (!F) { $('cards-stats').textContent = 'Немає бібліотеки планувальника. Виконай npm install у теці застосунку.'; return; }
-    const s = CardsLib.stats(currentDeck(), cardStates(), log.events, new Date(), { ...cardCfg, dir: cardDir });
+    const s = dirStats();
     $('cards-stats').textContent = s.total
-      ? `Карток у колоді: ${s.total} · на повторення зараз: ${s.due} · нових на сьогодні: ${s.newRoom} · вивчено: ${s.learned}`
+      ? `Карток у колоді: ${s.total} · на повторення зараз: ${s.due} · нових на сьогодні: ${s.newRoom} · вивчено: ${s.learned} · сьогодні показано: ${s.shown} з ${s.allowance}`
       : 'Колода з\'явиться, коли ти позначиш перший урок пройденим.';
   }
 
@@ -325,9 +329,21 @@ if (typeof document === 'undefined') {
   $('cards-dir').addEventListener('click', (e) => { if (e.target.dataset && e.target.dataset.dir) setDir(e.target.dataset.dir); });
   markDir();
 
-  function startSession(cap) { session = { left: cap, reviewed: 0 }; nextCard(); }
+  function startSession(cap) {
+    const left = Math.min(cap, dirStats().remaining);
+    if (left <= 0) { renderStage(); return; }
+    session = { left, reviewed: 0 };
+    nextCard();
+  }
+  // "Хочу ще": one more portion today, in the direction that is open. Only when there is something to show.
+  function wantMore() {
+    if (!dirStats().spare) { toast('У цьому напрямку вже показано всі слова, які є в колоді.'); return; }
+    log.record({ type: 'cards_more', dir: cardDir });
+    startSession(cardCfg.sessionCap);
+  }
+  const moreButton = () => { const b = el('button', 'btn primary', `Хочу ще (+${cardCfg.perDay} карток)`); b.onclick = wantMore; return b; };
   function nextCard() {
-    const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, limit: 1, mix: cardCfg.mix, dir: cardDir }) : [];
+    const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, perDay: cardCfg.perDay, limit: 1, mix: cardCfg.mix, dir: cardDir }) : [];
     session.card = q[0] || null; session.revealed = false; session.chosen = null; session.shownAt = Date.now();
     renderStage();
     if (session.card) { const v = CardsLib.present(session.card, currentDeck().notes.get(session.card.noteId), dutchHelpers); if (v.front.audio) play(v.front.audio); }
@@ -361,10 +377,19 @@ if (typeof document === 'undefined') {
     if (!deck.cards.length) return;
     const box = el('div', 'fc');
     if (!session) {
-      box.append(el('p', 'meta', 'Не хвилюйся, якщо карток накопичилось багато: за один раз показується не більше ' + cardCfg.sessionCap + ', найстаріші першими.'));
+      const st = dirStats();
+      if (st.remaining <= 0) {
+        box.append(el('p', null, `Норму на сьогодні виконано: показано карток ${st.shown}.`));
+        box.append(el('p', 'meta', `Якщо хочеш ще, додам ${cardCfg.perDay} карток у цьому напрямку, разом зі словами, яких сьогодні ще не було.`));
+        const actions = el('div', 'fc-actions'); actions.append(moreButton()); box.append(actions);
+        stage.append(box); return;
+      }
+      box.append(el('p', 'meta', `На день: ${cardCfg.perDay} карток у кожному напрямку, за один раз не більше ${cardCfg.sessionCap}. Найстаріші картки першими.`));
       const go = el('button', 'btn primary', 'Почати повторення'); go.onclick = () => startSession(cardCfg.sessionCap);
       const short = el('button', 'btn', `Коротка сесія (${cardCfg.shortCap} карток)`); short.onclick = () => startSession(cardCfg.shortCap);
-      const actions = el('div', 'fc-actions'); actions.append(go, short); box.append(actions);
+      const actions = el('div', 'fc-actions'); actions.append(go, short);
+      if (st.due + st.newRoom === 0) actions.append(moreButton());   // nothing regular is left: offer the extra words at once
+      box.append(actions);
       stage.append(box); return;
     }
     if (!session.card) {
@@ -373,8 +398,15 @@ if (typeof document === 'undefined') {
       box.append(el('p', null, session.reviewed ? `Готово: переглянуто карток ${session.reviewed}.` : 'На зараз карток немає.'));
       if (!session.reviewed && cardDir === 'ua-nl') box.append(el('p', 'meta', 'Слово потрапляє сюди після першого повторення в розділі «Нідерландська → українська».'));
       if (soon) box.append(el('p', 'meta', `Ще ${soon} карток повернуться протягом 20 хвилин.`));
-      const end = el('button', 'btn primary', 'Закрити'); end.onclick = () => { session = null; renderStage(); };
-      const actions = el('div', 'fc-actions'); actions.append(end); box.append(actions);
+      const st = dirStats();
+      box.append(el('p', 'meta', `Сьогодні в цьому напрямку показано ${st.shown} з ${st.allowance}.${st.remaining <= 0 ? ' Норму виконано.' : ''}`));
+      const end = el('button', 'btn', 'Закрити'); end.onclick = () => { session = null; renderStage(); };
+      const actions = el('div', 'fc-actions'); actions.append(end);
+      if (st.remaining <= 0 || st.due + st.newRoom === 0) {
+        if (st.spare) actions.append(moreButton());
+        else box.append(el('p', 'meta', 'У цьому напрямку сьогодні вже показано всі слова, які є в колоді.'));
+      }
+      box.append(actions);
       stage.append(box); return;
     }
     const c = session.card, note = deck.notes.get(c.noteId), v = CardsLib.present(c, note, dutchHelpers);

@@ -95,7 +95,7 @@ const press = (label) => {
 };
 const reviews = () => window.progressLog.events.filter((e) => e.type === 'card_review');
 t('cards: the stats line shows the whole deck', byId['cards-stats'].textContent.includes('Карток у колоді: ' + deckSize));
-t('cards: new cards are capped at 10 a day', byId['cards-stats'].textContent.includes('нових на сьогодні: 10'));
+t('cards: up to 15 new cards a day in one direction', byId['cards-stats'].textContent.includes('нових на сьогодні: 15') && byId['cards-stats'].textContent.includes('сьогодні показано: 0 з 15'));
 press('Почати повторення');
 t('cards: a card is shown with the session counter', stage().textContent.includes('Залишилось у сесії: 15'));
 t('cards: the Dutch word comes first, the meaning is hidden until Space', stage().all().some((e) => e.className === 'fc-text') && !stage().all().some((e) => e.className === 'fc-hr'));
@@ -116,16 +116,17 @@ t('cards: ending the session keeps a difficulty that was already chosen', review
 press('Почати повторення'); press('Показати відповідь'); press('Завершити сесію');
 t('cards: ending the session does not count a card that was only looked at', reviews().length === 3);
 press('Почати повторення');
-for (let i = 0; i < 7; i++) { press('Показати відповідь'); press('Наступна картка'); }
-t('cards: after 10 new cards the daily cap ends the session', stage().textContent.includes('Готово: переглянуто карток 7') && reviews().length === 10);
-t('cards: the same word never comes back in the session (no reverse cards, ten different cards)', new Set(reviews().map((e) => e.card)).size === 10 && reviews().every((e) => /:nl-ua$/.test(e.card)));
+for (let i = 0; i < 12; i++) { press('Показати відповідь'); press('Наступна картка'); }
+t('cards: after 15 cards the daily allowance of the direction ends the session', stage().textContent.includes('Готово: переглянуто карток 12') && stage().textContent.includes('Норму виконано') && reviews().length === 15);
+t('cards: the same word never comes back in the session (fifteen different cards, all Dutch -> Ukrainian)', new Set(reviews().map((e) => e.card)).size === 15 && reviews().every((e) => /:nl-ua$/.test(e.card)));
+t('cards: the finished screen offers "Хочу ще"', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Хочу ще')));
 t('cards: the stats now show no new cards for today', byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
 press('Закрити');
-t('cards: back on the start screen', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Почати повторення')));
+t('cards: back on the start screen it says today\'s allowance is done', stage().textContent.includes('Норму на сьогодні виконано'));
 
 // ---- two directions: Dutch -> Ukrainian (done above) and Ukrainian -> Dutch, each with its own allowance and schedule
 byId['cards-dir'].listeners.click({ target: { dataset: { dir: 'ua-nl' } } });
-t('cards: the reverse direction has its own statistics, its own daily cap of 10', byId['cards-stats'].textContent.includes('Карток у колоді: ' + deckSize) && byId['cards-stats'].textContent.includes('нових на сьогодні: 10'));
+t('cards: the reverse direction has its own statistics and its own daily 15', byId['cards-stats'].textContent.includes('Карток у колоді: ' + deckSize) && byId['cards-stats'].textContent.includes('нових на сьогодні: 15') && byId['cards-stats'].textContent.includes('сьогодні показано: 0 з 15'));
 t('cards: the choice of direction is remembered', storage.get('cardsDir') === 'ua-nl');
 press('Почати повторення');
 t('cards: in the reverse direction the Ukrainian side comes first (a type label under it)', stage().all().some((e) => e.className === 'fc-sub'));
@@ -136,8 +137,19 @@ t('cards: the reverse card is of a word already seen in the Dutch -> Ukrainian d
 press('Показати відповідь'); press('2 · Важко');
 byId['cards-dir'].listeners.click({ target: { dataset: { dir: 'nl-ua' } } });
 t('cards: switching direction ends the session and keeps the difficulty already chosen', rev().length === 2 && reviews()[reviews().length - 1].rating === 2);
-t('cards: back in Dutch -> Ukrainian the start screen shows and its own cap is still used up', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Почати повторення')) && byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
-t('cards: the ten Dutch -> Ukrainian reviews are untouched by the reverse ones', reviews().filter((e) => /:nl-ua$/.test(e.card)).length === 10);
+t('cards: back in Dutch -> Ukrainian the start screen shows and its own allowance is still used up', stage().textContent.includes('Норму на сьогодні виконано') && byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
+t('cards: the fifteen Dutch -> Ukrainian reviews are untouched by the reverse ones', reviews().filter((e) => /:nl-ua$/.test(e.card)).length === 15);
+
+// ---- "Хочу ще": one more portion of 15 today, in the direction that is open
+const moreEvents = (dir) => window.progressLog.events.filter((e) => e.type === 'cards_more' && e.dir === dir);
+t('cards: with the allowance used up the start screen offers "Хочу ще" and no normal start', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Хочу ще')) && !stage().all().find((e) => e.tag === 'button' && e.textContent === 'Почати повторення'));
+press('Хочу ще');
+t('cards: "Хочу ще" writes one cards_more event for the open direction only', moreEvents('nl-ua').length === 1 && moreEvents('ua-nl').length === 0);
+t('cards: and starts a fresh portion of 15 in the same direction', stage().textContent.includes('Залишилось у сесії: 15'));
+t('cards: the statistics show the widened day (30 for this direction)', byId['cards-stats'].textContent.includes('сьогодні показано: 15 з 30'));
+press('Показати відповідь'); press('Наступна картка');
+t('cards: the extra card is a Dutch -> Ukrainian card, the 16th of the day in this direction', /:nl-ua$/.test(reviews()[reviews().length - 1].card) && reviews().filter((e) => /:nl-ua$/.test(e.card)).length === 16);
+press('Завершити сесію');
 
 // ---- saved answers, previous lesson, reset (every lesson is done and the last one is open here)
 const lastL = window.LESSONS[N - 1], evs = () => window.progressLog.events;

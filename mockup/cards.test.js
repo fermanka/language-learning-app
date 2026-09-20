@@ -260,5 +260,73 @@ t('directions: statistics count the cards of one direction only', () => {
   assert(one.total * 2 === both.total, `${one.total} vs ${both.total}`);
 });
 
+// ---------------------------------------------------------------- 15 a day per direction, and "Хочу ще"
+const dayReviews = (cards, iso0) => cards.map((c, i) => review(c.id, 4, new Date(at(iso0).getTime() + i * 1000).toISOString()));
+const more = (dir, iso) => ({ type: 'cards_more', dir, t: iso });
+
+t('a day: 15 cards a direction, then the queue is empty until more is asked', () => {
+  const d = C.buildDeck(lessons.slice(0, 3));
+  const now = at('2026-09-20T09:00:00Z');
+  const first = C.queue(d, new Map(), [], now, { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  assert(first.length === 15, `first portion: ${first.length}`);
+  const ev = dayReviews(first, '2026-09-20T09:00:00Z');
+  const later = at('2026-09-20T10:00:00Z'), states = C.replay(ev, F);
+  assert(C.queue(d, states, ev, later, { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' }).length === 0, 'nothing more today');
+  const s = C.stats(d, states, ev, later, { newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  assert(s.shown === 15 && s.allowance === 15 && s.remaining === 0 && s.newRoom === 0, JSON.stringify(s));
+  assert(C.queue(d, C.replay(ev, F), ev, at('2026-09-21T09:00:00Z'), { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' }).length > 0, 'a new day starts a new portion');
+});
+
+t('a day: the other direction has its own 15', () => {
+  const d = C.buildDeck(lessons.slice(0, 3));
+  const now = at('2026-09-20T09:00:00Z');
+  const fwd = C.queue(d, new Map(), [], now, { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  const ev = dayReviews(fwd, '2026-09-20T09:00:00Z');
+  const rev = C.queue(d, C.replay(ev, F), ev, at('2026-09-20T10:00:00Z'), { limit: 30, newPerDay: 15, perDay: 15, dir: 'ua-nl' });
+  assert(rev.length === 15 && rev.every((c) => c.dir === 'ua-nl'), `reverse portion: ${rev.length}`);
+});
+
+t('want more: one more portion of 15 in that direction only, and new words continue', () => {
+  const d = C.buildDeck(lessons.slice(0, 3));
+  const now = at('2026-09-20T09:00:00Z');
+  const fwd = C.queue(d, new Map(), [], now, { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  const ev = dayReviews(fwd, '2026-09-20T09:00:00Z').concat([more('nl-ua', '2026-09-20T10:00:00Z')]);
+  const later = at('2026-09-20T10:05:00Z'), states = C.replay(ev, F);
+  const q = C.queue(d, states, ev, later, { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  assert(q.length === 15, `second portion: ${q.length}`);
+  assert(q.every((c) => !fwd.some((f) => f.id === c.id)), 'the extra portion holds words that were not shown today');
+  const s = C.stats(d, states, ev, later, { newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  assert(s.allowance === 30 && s.remaining === 15 && s.more === 1);
+  assert(C.stats(d, states, ev, later, { newPerDay: 15, perDay: 15, dir: 'ua-nl' }).allowance === 15, 'the other direction is not widened');
+  assert(C.queue(d, states, ev, at('2026-09-21T10:00:00Z'), { limit: 30, newPerDay: 15, perDay: 15, dir: 'nl-ua' }).length === 15, 'tomorrow is back to one portion');
+});
+
+t('want more: learned words that were not shown today come back, soonest first, never the ones shown today', () => {
+  const d = C.buildDeck(lessons.slice(0, 1), { production: false });     // 15 words
+  const cardsAll = d.cards;
+  const yesterday = dayReviews(cardsAll, '2026-09-19T09:00:00Z');          // all learned yesterday, none due today
+  const today = at('2026-09-20T09:00:00Z');
+  const cfg = { limit: 30, newPerDay: 0, perDay: 15, dir: 'nl-ua' };
+  assert(C.queue(d, C.replay(yesterday, F), yesterday, today, cfg).length === 0, 'nothing due, nothing new: nothing offered without asking');
+  const ev = yesterday.concat([review(cardsAll[3].id, 4, '2026-09-20T09:30:00Z'), more('nl-ua', '2026-09-20T09:31:00Z')]);
+  const states = C.replay(ev, F), now2 = at('2026-09-20T09:40:00Z');
+  const q = C.queue(d, states, ev, now2, cfg);
+  assert(q.length === cardsAll.length - 1, `expected ${cardsAll.length - 1}, got ${q.length}`);
+  assert(!q.some((c) => c.id === cardsAll[3].id), 'a card already shown today is not offered again');
+  for (let i = 1; i < q.length; i++) assert(states.get(q[i - 1].id).due <= states.get(q[i].id).due, 'soonest due first');
+});
+
+t('want more: spare counts what could still be offered; a malformed cards_more is ignored', () => {
+  const d = C.buildDeck(lessons.slice(0, 1), { production: false });
+  const now = at('2026-09-20T09:00:00Z');
+  const all = dayReviews(d.cards, '2026-09-20T08:00:00Z');                  // everything already shown today
+  const s = C.stats(d, C.replay(all, F), all, now, { newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  assert(s.spare === 0 && s.remaining === 0, JSON.stringify(s));
+  const bad = [{ type: 'cards_more', t: '2026-09-20T08:30:00Z' }, { type: 'cards_more', dir: 'xx', t: '2026-09-20T08:30:00Z' }];
+  assert(C.moreToday(bad, now, 'nl-ua') === 0, 'no direction / unknown direction does not count');
+  const empty = C.stats(d, new Map(), [], now, { newPerDay: 15, perDay: 15, dir: 'nl-ua' });
+  assert(empty.spare === d.cards.length && empty.remaining === 15);
+});
+
 console.log(bad ? `FAILURES: ${bad}` : 'CARDS TESTS PASSED');
 process.exit(bad ? 1 : 0);

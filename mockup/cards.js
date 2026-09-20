@@ -64,6 +64,16 @@
     return n;
   }
 
+  // "Хочу ще": the learner asked for one more portion today in one direction. Counted from the log, never stored.
+  const isMore = (e) => e && e.type === 'cards_more' && (e.dir === 'nl-ua' || e.dir === 'ua-nl') && !Number.isNaN(Date.parse(e.t));
+  const moreToday = (events, now, dir) => (dir ? events.filter((e) => isMore(e) && e.dir === dir && dayKey(new Date(e.t)) === dayKey(now)).length : 0);
+
+  // The reviews done today (in one direction or in all): how many cards were shown, and which ones.
+  function shownToday(events, now, dir) {
+    const list = events.filter((e) => isReview(e) && (!dir || cardDir(e.card) === dir) && dayKey(new Date(e.t)) === dayKey(now));
+    return { count: list.length, ids: new Set(list.map((e) => e.card)) };
+  }
+
   const NEW = 0;
   const isNew = (states, id) => !states.has(id) || states.get(id).state === NEW;
 
@@ -75,32 +85,46 @@
   const finish = (h) => { h ^= h >>> 16; h = Math.imul(h, 0x85ebca6b); h ^= h >>> 13; h = Math.imul(h, 0xc2b2ae35); h ^= h >>> 16; return h >>> 0; };
   const mixKey = (id, now) => finish((strHash(id) ^ Math.imul(strHash(dayKey(now)), 2654435761)) >>> 0);
 
-  // Due reviews first (most overdue first), then new cards, within the daily and session caps.
+  // Order: due reviews (most overdue first), then new cards, then, only after "Хочу ще" today, learned cards that are not
+  // due yet and were not shown today (soonest first). A daily allowance (cfg.perDay cards per direction) ends the day's
+  // portion; every "Хочу ще" adds another portion of the same size and widens the new-cards allowance the same way.
   // New cards come in lesson order, or (cfg.mix) mixed across all lessons and word types, verbs among the nouns.
   function queue(deck, states, events, now, cfg) {
-    const { newPerDay = 10, limit = 30, mix = false, dir } = cfg || {};
+    const { newPerDay = 10, limit = 30, mix = false, dir, perDay } = cfg || {};
     const cards = deck.cards.filter(inDir(dir));
+    const more = moreToday(events, now, dir);
+    const shown = shownToday(events, now, dir);
+    const cap = perDay === undefined ? limit : Math.min(limit, Math.max(0, perDay * (1 + more) - shown.count));
     const due = cards
       .filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now)
       .sort((a, b) => states.get(a.id).due - states.get(b.id).due);
-    const room = Math.max(0, newPerDay - newToday(events, now, dir));
+    const room = Math.max(0, newPerDay * (1 + more) - newToday(events, now, dir));
     const fresh = cards
       .filter((c) => isNew(states, c.id))
       // production ("ua-nl") is introduced only after the learner has met the Dutch word ("nl-ua")
       .filter((c) => c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`));
     if (mix) fresh.sort((a, b) => mixKey(a.id, now) - mixKey(b.id, now));
     fresh.splice(room);
-    return [...due, ...fresh].slice(0, Math.max(0, limit));
+    const extra = more > 0
+      ? cards.filter((c) => !isNew(states, c.id) && states.get(c.id).due > now && !shown.ids.has(c.id)).sort((a, b) => states.get(a.id).due - states.get(b.id).due)
+      : [];
+    return [...due, ...fresh, ...extra].slice(0, Math.max(0, cap));
   }
 
   function stats(deck, states, events, now, cfg) {
-    const { newPerDay = 10, dir } = cfg || {};
+    const { newPerDay = 10, dir, perDay } = cfg || {};
     const cards = deck.cards.filter(inDir(dir));
+    const more = moreToday(events, now, dir);
+    const shown = shownToday(events, now, dir);
     const due = cards.filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now).length;
     const eligibleNew = cards.filter((c) => isNew(states, c.id) && (c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`))).length;
-    const newRoom = Math.min(eligibleNew, Math.max(0, newPerDay - newToday(events, now, dir)));
+    const newRoom = Math.min(eligibleNew, Math.max(0, newPerDay * (1 + more) - newToday(events, now, dir)));
     const learned = cards.filter((c) => !isNew(states, c.id) && states.get(c.id).state === 2).length;
-    return { total: cards.length, due, newRoom, learned };
+    const allowance = perDay === undefined ? null : perDay * (1 + more);
+    const remaining = allowance === null ? null : Math.max(0, allowance - shown.count);
+    // what "Хочу ще" could still offer today: new cards that may be introduced, and learned cards not shown today
+    const spare = cards.filter((c) => (isNew(states, c.id) ? c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`) : !shown.ids.has(c.id))).length;
+    return { total: cards.length, due, newRoom, learned, shown: shown.count, allowance, remaining, more, spare };
   }
 
   // When each of the four answers would bring the card back.
@@ -131,5 +155,5 @@
     return { front: { text: note.ua, sub: TYPE_LABEL[note.type] || '', audio: null }, back: { text: dutch, sub: plural, audio: note.audio } };
   }
 
-  return { cardsFromNote, buildDeck, replay, newToday, queue, stats, previews, humanize, present, isReview, RATINGS };
+  return { cardsFromNote, buildDeck, replay, newToday, moreToday, shownToday, queue, stats, previews, humanize, present, isReview, RATINGS };
 });
