@@ -32,6 +32,7 @@ for (const { file, data: lesson } of lessons) {
     if (!type) { fail(where(`note ${n.id} has unknown type "${n.type}"`)); continue; }
     for (const field of type.required) if (n[field] === undefined || n[field] === '') fail(where(`${n.type} "${n.lemma}" is missing required field "${field}"`));
     if (n.type === 'noun' && !['de', 'het'].includes(n.article)) fail(where(`noun "${n.lemma}" has no de/het article`));
+    if (n.ua && n.ua.length > 80) fail(where(`"${n.lemma}": "ua" is ${n.ua.length} characters. Keep it a short gloss (it is the front of a flashcard) and put the explanation in "explain_ua"`));
   }
   for (const id of lesson.reading.highlight) if (!lesson.notes.some((n) => n.id === id)) fail(where(`reading highlight points at unknown note ${id}`));
 
@@ -86,6 +87,12 @@ for (const { file, data: lesson } of lessons) {
       } else if (ex.type === 'matching') inRange(ex.items.length, 5, 12, label);
       else inRange(ex.items.length, 8, 12, label);
     });
+  }
+
+  // readability nudge (a warning, not an error): long rule text is heavy for a beginner
+  for (const [ri, rule] of (Array.isArray(lesson.rule) ? lesson.rule : lesson.rule ? [lesson.rule] : []).entries()) {
+    const long = (rule.points_ua || []).filter((p) => p.length > 300).length + (rule.summary_ua && rule.summary_ua.length > 300 ? 1 : 0);
+    if (long) console.log(`NOTE ${file}: rule card ${ri + 1} has ${long} passage(s) over 300 characters, consider trimming`);
   }
 
   const unknown = new Map();

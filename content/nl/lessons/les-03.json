@@ -89,9 +89,10 @@
       "article": "de",
       "lemma": "kosten",
       "plural": [],
-      "ua": "витрати (лише множина: de kosten, однини немає; дієслово множини: de kosten zijn)",
+      "ua": "витрати",
       "audio": "de-kosten.mp3",
-      "plural_only": true
+      "plural_only": true,
+      "explain_ua": "(лише множина: de kosten, однини немає; дієслово множини: de kosten zijn)"
     },
     {
       "id": "nl-80810e0b",
@@ -132,8 +133,9 @@
       "id": "nl-87d13b92",
       "type": "function",
       "lemma": "hoeveel",
-      "ua": "скільки (hoeveel ramen = скільки вікон; іменник у множині, без артикля)",
-      "audio": "hoeveel.mp3"
+      "ua": "скільки",
+      "audio": "hoeveel.mp3",
+      "explain_ua": "(hoeveel ramen = скільки вікон; іменник у множині, без артикля)"
     },
     {
       "id": "nl-2cd2a8bc",
@@ -154,8 +156,9 @@
       "id": "nl-3bf5b63c",
       "type": "function",
       "lemma": "uit",
-      "ua": "з, із (звідки); також «назовні», «вимкнено» (Het gas is uit = газ вимкнено)",
-      "audio": "uit.mp3"
+      "ua": "з, із",
+      "audio": "uit.mp3",
+      "explain_ua": "(звідки); також «назовні», «вимкнено» (Het gas is uit = газ вимкнено)"
     },
     {
       "id": "nl-3ef79a2d",

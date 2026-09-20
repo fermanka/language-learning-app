@@ -81,6 +81,7 @@ if (typeof document === 'undefined') {
     li.append(el('span', 'meta', [pluralText(n), n.ua].filter(Boolean).join(' - ')));
     if (n.plural_source === 'teacher') li.append(el('span', 'opt', 'мн. додала викладачка'));
     if (n.audio) li.append(iconBtn(n.audio));
+    if (n.explain_ua) li.append(el('div', 'explain', n.explain_ua));
     return li;
   }
 
@@ -170,6 +171,7 @@ if (typeof document === 'undefined') {
       box.append(list);
 
       const check = el('button', 'btn', 'Перевірити'), retry = el('button', 'btn', 'Спробувати ще'), res = el('div', 'result');
+      let lastChecked = ''; // pressing "check" again with the same answers must not count as a new attempt
       check.onclick = () => {
         const inputs = [...list.querySelectorAll('[data-acc]')]; let ok = 0; const wrong = [];
         inputs.forEach((i, n) => {
@@ -179,9 +181,10 @@ if (typeof document === 'undefined') {
           if (good) ok++; else { wrong.push({ n, answer: i.value, expected: acc[0] }); i.after(el('span', 'fix', ` ${acc[0]}`)); }
         });
         res.textContent = `Вірно: ${ok} з ${inputs.length}`; res.classList.add('show');
-        log.record({ type: 'exercise_checked', lesson: L.id, exercise: idx, kind: ex.type, ok, total: inputs.length, wrong });
+        const signature = JSON.stringify(inputs.map((i) => i.value));
+        if (signature !== lastChecked) { lastChecked = signature; log.record({ type: 'exercise_checked', lesson: L.id, exercise: idx, kind: ex.type, ok, total: inputs.length, wrong }); }
       };
-      retry.onclick = () => { list.querySelectorAll('[data-acc]').forEach((i) => { i.value = ''; i.classList.remove('ok', 'bad'); }); list.querySelectorAll('.fix').forEach((f) => f.remove()); res.classList.remove('show'); };
+      retry.onclick = () => { list.querySelectorAll('[data-acc]').forEach((i) => { i.value = ''; i.classList.remove('ok', 'bad'); }); list.querySelectorAll('.fix').forEach((f) => f.remove()); res.classList.remove('show'); lastChecked = ''; };
       box.append(check, document.createTextNode(' '), retry, res);
       root.append(box);
     });

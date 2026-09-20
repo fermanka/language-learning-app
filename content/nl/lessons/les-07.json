@@ -320,8 +320,9 @@
       "plural": [
         "broden"
       ],
-      "ua": "хліб (як їжа, у загальному значенні, без артикля: Ik eet brood; de broden = буханки)",
-      "audio": "het-brood.mp3"
+      "ua": "хліб",
+      "audio": "het-brood.mp3",
+      "explain_ua": "(як їжа, у загальному значенні, без артикля: Ik eet brood; de broden = буханки)"
     },
     {
       "id": "nl-5559b5ab",
@@ -329,8 +330,9 @@
       "article": "de",
       "lemma": "melk",
       "plural": [],
-      "ua": "молоко (речовина: множини немає; у загальному значенні без артикля: Ik drink melk)",
-      "audio": "de-melk.mp3"
+      "ua": "молоко",
+      "audio": "de-melk.mp3",
+      "explain_ua": "(речовина: множини немає; у загальному значенні без артикля: Ik drink melk)"
     },
     {
       "id": "nl-2f7f39b8",
@@ -338,22 +340,25 @@
       "article": "het",
       "lemma": "water",
       "plural": [],
-      "ua": "вода (речовина: множини немає; у загальному значенні без артикля: Ik drink water)",
-      "audio": "het-water.mp3"
+      "ua": "вода",
+      "audio": "het-water.mp3",
+      "explain_ua": "(речовина: множини немає; у загальному значенні без артикля: Ik drink water)"
     },
     {
       "id": "nl-bdef7c94",
       "type": "function",
       "lemma": "elk",
-      "ua": "кожен, кожна, кожне (перед het-словом: elk uur = кожну годину; перед de-словом стоїть elke)",
-      "audio": "elk.mp3"
+      "ua": "кожен, кожна, кожне",
+      "audio": "elk.mp3",
+      "explain_ua": "(перед het-словом: elk uur = кожну годину; перед de-словом стоїть elke)"
     },
     {
       "id": "nl-addcea26",
       "type": "function",
       "lemma": "elke",
-      "ua": "кожен, кожна (перед de-словом: elke dag = кожен день; перед het-словом стоїть elk)",
-      "audio": "elke.mp3"
+      "ua": "кожен, кожна",
+      "audio": "elke.mp3",
+      "explain_ua": "(перед de-словом: elke dag = кожен день; перед het-словом стоїть elk)"
     },
     {
       "id": "nl-5fc557c0",

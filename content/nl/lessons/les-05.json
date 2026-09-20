@@ -10,7 +10,7 @@
       "id": "nl-01a5289f",
       "type": "verb",
       "lemma": "binnenkomen",
-      "ua": "заходити, входити (відокремлюване: binnen іде в кінець речення)",
+      "ua": "заходити, входити",
       "audio": "binnenkomen.mp3",
       "paradigm": [
         {
@@ -55,7 +55,8 @@
           "form": "komen binnen",
           "audio": "zij-komen-binnen.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(відокремлюване: binnen іде в кінець речення)"
     },
     {
       "id": "nl-a8e4b686",
@@ -174,7 +175,7 @@
       "id": "nl-c58575e4",
       "type": "verb",
       "lemma": "gaan",
-      "ua": "іти, їхати, рухатися кудись (пішки чи транспортом не уточнює)",
+      "ua": "іти, їхати, рухатися кудись",
       "audio": "gaan.mp3",
       "paradigm": [
         {
@@ -219,13 +220,14 @@
           "form": "gaan",
           "audio": "zij-gaan.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(пішки чи транспортом не уточнює)"
     },
     {
       "id": "nl-016eae07",
       "type": "verb",
       "lemma": "instappen",
-      "ua": "сідати в транспорт, заходити (stappen = ступати; відокремлюване: in іде в кінець речення)",
+      "ua": "сідати в транспорт, заходити",
       "audio": "instappen.mp3",
       "paradigm": [
         {
@@ -270,13 +272,14 @@
           "form": "stappen in",
           "audio": "zij-stappen-in.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(stappen = ступати; відокремлюване: in іде в кінець речення)"
     },
     {
       "id": "nl-f3d96a2c",
       "type": "verb",
       "lemma": "oversteken",
-      "ua": "переходити (вулицю тощо) (відокремлюване: over іде в кінець речення)",
+      "ua": "переходити",
       "audio": "oversteken.mp3",
       "paradigm": [
         {
@@ -321,7 +324,8 @@
           "form": "steken over",
           "audio": "zij-steken-over.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(вулицю тощо) (відокремлюване: over іде в кінець речення)"
     },
     {
       "id": "nl-74d6f7ae",
@@ -363,7 +367,7 @@
       "id": "nl-dfcfc2b2",
       "type": "verb",
       "lemma": "werken",
-      "ua": "працювати, функціонувати (про пристрій теж: De telefoon werkt)",
+      "ua": "працювати, функціонувати",
       "audio": "werken.mp3",
       "paradigm": [
         {
@@ -408,7 +412,8 @@
           "form": "werken",
           "audio": "zij-werken.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(про пристрій теж: De telefoon werkt)"
     },
     {
       "id": "nl-b6405574",

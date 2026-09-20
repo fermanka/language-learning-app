@@ -1,0 +1,791 @@
+{
+  "id": "nl-les-12",
+  "lang": "nl",
+  "order": 12,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-134c388a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "koffie",
+      "plural": [
+        "koffies"
+      ],
+      "ua": "кава",
+      "audio": "de-koffie.mp3",
+      "explain_ua": "(Ik drink koffie = я п'ю каву: напій загалом без артикля, як water і melk у Les 7). Одна порція: een koffie = одна кава, de koffies = порції кави (Twee koffies, alsjeblieft = дві кави, будь ласка). Наголос на першому складі: KOF-fie, кінцеве ie це [i]. Схоже на англійське coffee: підказка для пам'яті, не переклад"
+    },
+    {
+      "id": "nl-b16a3033",
+      "type": "noun",
+      "article": "de",
+      "lemma": "thee",
+      "plural": [
+        "theeën",
+        "thees"
+      ],
+      "ua": "чай",
+      "audio": "de-thee.mp3",
+      "explain_ua": "(Zij drinkt thee met melk = вона п'є чай з молоком: напій загалом без артикля). Читається [teː]: th тут звучить як звичайне t, не як англійське th. Множина de theeën або de thees, обидві форми правильні (порції чи сорти чаю); на практиці кажуть een kopje thee, twee kopjes thee. Крапки над ë в theeën показують, що ця літера починає новий склад, а не зливається з ee"
+    },
+    {
+      "id": "nl-9e538019",
+      "type": "noun",
+      "article": "het",
+      "lemma": "kopje",
+      "plural": [
+        "kopjes"
+      ],
+      "ua": "чашка",
+      "audio": "het-kopje.mp3",
+      "explain_ua": "(мала чашка для кави чи чаю: een kopje koffie = чашка кави; het kopje, de kopjes). Закінчення -je зменшувальне, як у stukje (Les 11): слова на -je завжди het-слова. Після kopje напій стоїть без артикля й без закінчень: een kopje thee, twee kopjes koffie. Українською «чашка кави» має родовий відмінок, нідерландською це просто два слова поруч"
+    },
+    {
+      "id": "nl-953d08fe",
+      "type": "noun",
+      "article": "het",
+      "lemma": "glas",
+      "plural": [
+        "glazen"
+      ],
+      "ua": "склянка, келих",
+      "audio": "het-glas.mp3",
+      "explain_ua": "(посудина: een glas water = склянка води, een glas bier = келих пива). Те саме слово значить і «скло» як матеріал. Множина de glazen: s стає z, як у huis - huizen (Les 1). Напій після glas без артикля й без закінчень: twee glazen water"
+    },
+    {
+      "id": "nl-c2a87125",
+      "type": "noun",
+      "article": "het",
+      "lemma": "bier",
+      "plural": [
+        "bieren"
+      ],
+      "ua": "пиво",
+      "audio": "het-bier.mp3",
+      "explain_ua": "(Ik drink geen bier = я не п'ю пива: напій загалом без артикля). Одна порція: een bier = одне пиво, een glas bier = келих пива. Множина de bieren (сорти пива або порції). Голосна ie довга [iː]. Схоже на англійське beer: ie - ee, підказка для пам'яті, не переклад"
+    },
+    {
+      "id": "nl-69e7e41e",
+      "type": "verb",
+      "lemma": "bestellen",
+      "ua": "замовляти",
+      "audio": "bestellen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "bestel",
+          "audio": "ik-bestel.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "bestelt",
+          "audio": "jij-bestelt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "bestelt",
+          "audio": "u-bestelt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "bestelt",
+          "audio": "hij-bestelt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "bestellen",
+          "audio": "wij-bestellen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "bestellen",
+          "audio": "jullie-bestellen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "bestellen",
+          "audio": "zij-bestellen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik bestel een koffie = я замовляю каву). Неділюване дієслово: префікс be- ніколи не відокремлюється, на відміну від op в opstaan (Les 4) і binnen в binnenkomen (Les 5): ik bestel, hij bestelt, а не ik stel be. Як у betalen (Les 10), наголос на другому складі: be-STEL-len. Основа bestel з однією l, інфінітив bestellen з двома: голосна коротка, як zon - zonnen (Les 1)"
+    },
+    {
+      "id": "nl-c8e9bf03",
+      "type": "function",
+      "lemma": "of",
+      "ua": "чи, або",
+      "audio": "of.mp3",
+      "explain_ua": "(Wil je koffie of thee? = ти хочеш каву чи чай?). З'єднує два слова чи два речення й не змінює порядок слів, як en і maar (Les 10). Не плутай з англійським of («з, із»): нідерландське of значить «чи, або». Читається [ɔf]"
+    },
+    {
+      "id": "nl-8295593e",
+      "type": "function",
+      "lemma": "alsjeblieft",
+      "ua": "будь ласка, прошу",
+      "audio": "alsjeblieft.mp3",
+      "explain_ua": "(Een koffie, alsjeblieft = кава, будь ласка). Два вживання: 1) у проханні, як «будь ласка»; 2) коли щось комусь подаєш: Hier is de thee, alsjeblieft = ось чай, прошу. Слово одне, а значення вгадуєш із ситуації. Пишеться разом. Це неформальна форма (до jij, je); формальна alstublieft (до u). Слухай аудіо"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Hebben чи модальне дієслово",
+      "summary_ua": "Після hebben (мати) іде об'єкт: Ik heb geen koffie = у мене немає кави. Після модального дієслова (willen, kunnen, moeten, mogen, Les 7) можливі два варіанти: інфінітив у кінці речення (Ik wil een kopje thee bestellen) або зовсім без інфінітива, коли зміст очевидний (Mag ik een koffie?). Отже, першим питанням до речення буде: чи є тут модальне дієслово?",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "hebben: об'єкт одразу після дієслова",
+          "when_ua": "Підмет, потім heb, hebt, heeft або hebben, потім те, що є в тебе. Другого дієслова немає. Українською «у мене є» і «у мене немає»: нідерландською речення будується від підмета «я» і дієслова «мати», а слів «у мене» немає.",
+          "examples": [
+            {
+              "nl": "Ik heb geen koffie.",
+              "ua": "У мене немає кави.",
+              "audio": "les12-example-01.mp3"
+            },
+            {
+              "nl": "Ik heb een kopje thee.",
+              "ua": "У мене є чашка чаю.",
+              "audio": "les12-example-02.mp3"
+            },
+            {
+              "nl": "Wij hebben een glas bier.",
+              "ua": "У нас є келих пива.",
+              "audio": "les12-example-03.mp3"
+            }
+          ],
+          "note_ua": "Українське «немає кави» має родовий відмінок (кави), а в нідерландській відмінків немає: просто geen перед іменником без артикля (Les 2). Kopje і glas це het-слова, тому een kopje thee, een glas bier."
+        },
+        {
+          "form": "модальне + bestellen: bestellen у кінці",
+          "when_ua": "Модальне дієслово стоїть на другому місці, а bestellen іде в кінець речення, як інфінітив у Les 7. Форма bestellen не змінюється.",
+          "examples": [
+            {
+              "nl": "Ik wil een kopje thee **bestellen**.",
+              "ua": "Я хочу замовити чашку чаю.",
+              "audio": "les12-example-04.mp3"
+            },
+            {
+              "nl": "Wij willen twee kopjes koffie **bestellen**.",
+              "ua": "Ми хочемо замовити дві чашки кави.",
+              "audio": "les12-rule-01.mp3"
+            },
+            {
+              "nl": "Jullie kunnen twee kopjes thee **bestellen**.",
+              "ua": "Ви можете замовити дві чашки чаю.",
+              "audio": "les12-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ik bestel een kopje thee (одне дієслово, bestel на другому місці) і Ik wil een kopje thee bestellen (два дієслова: wil на другому місці, bestellen в кінці). Те саме в Wil jij verse groente kopen? з Les 11."
+        },
+        {
+          "form": "модальне без інфінітива: Mag ik een koffie?",
+          "when_ua": "Коли з ситуації ясно, що йдеться про «мати» або «отримати», модальне дієслово стоїть просто з об'єктом, а інфінітив пропускають. Так замовляють у кафе. Українською так само коротко: «Можна мені каву?» теж без інфінітива.",
+          "examples": [
+            {
+              "nl": "**Mag** ik een koffie?",
+              "ua": "Можна мені каву?",
+              "audio": "les12-example-05.mp3"
+            },
+            {
+              "nl": "**Wil** je koffie of thee?",
+              "ua": "Ти хочеш каву чи чай?",
+              "audio": "les12-example-06.mp3"
+            },
+            {
+              "nl": "**Willen** jullie een glas bier?",
+              "ua": "Ви хочете келих пива?",
+              "audio": "les12-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Mag ik een koffie? = «Можна мені каву?» (mogen дає дозвіл, Les 7). У питанні модальне дієслово йде першим, підмет другим. Тут немає ні hebben, ні bestellen: усе зрозуміло з ситуації."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест. Є модальне дієслово (willen, kunnen, moeten, mogen)? Ні: hebben або інше дієслово стоїть на другому місці, далі об'єкт (Ik heb geen koffie, Ik bestel een koffie). Так, і в реченні є друге дієслово: модальне на другому місці, друге дієслово в кінці (Ik wil een kopje thee bestellen). Так, але друге дієслово пропущене: модальне на другому місці, об'єкт після підмета (Mag ik een koffie?).",
+        "Українське «у мене є / у мене немає» нідерландською це Ik heb / Ik heb geen. Не будуй речення від «у мене»: підмет ik, дієслово hebben.",
+        "Для замовлення Mag ik een koffie? звучить ввічливіше, ніж пряме Ik wil een koffie. Alsjeblieft можна додати в кінці: Mag ik een kopje thee, alsjeblieft?",
+        "Bestellen не відділяється: Ik bestel een koffie, а не Ik stel een koffie be. У Les 4 і Les 5 op і binnen відділялися, префікс be- ні.",
+        "У формі hij модальні дієслова не беруть -t: hij wil, hij kan, hij moet, hij mag. Звичайні дієслова беруть: hij bestelt, hij drinkt, hij koopt. Hebben особливе: hij heeft (Les 2)."
+      ]
+    },
+    {
+      "title_ua": "Артикль: een, de/het чи нічого",
+      "summary_ua": "В українській артиклів немає, тому щоразу питай себе, що ти кажеш про напій. Загалом, як про речовину: без артикля (Ik drink koffie). Одну порцію: een (een koffie) або посудина з een (een kopje thee, een glas bier). Конкретний напій, який ми вже бачимо: de або het (de koffie, het bier).",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "нічого: напій загалом",
+          "when_ua": "Ти говориш про напій як про речовину: п'ю, купую, не п'ю. Артикля немає, як у water і melk (Les 7).",
+          "examples": [
+            {
+              "nl": "Ik drink koffie.",
+              "ua": "Я п'ю каву.",
+              "audio": "les12-rule-04.mp3"
+            },
+            {
+              "nl": "Hij drinkt nooit bier.",
+              "ua": "Він ніколи не п'є пива.",
+              "audio": "les12-rule-05.mp3"
+            },
+            {
+              "nl": "Zij drinkt thee met melk.",
+              "ua": "Вона п'є чай з молоком.",
+              "audio": "les12-example-10.mp3"
+            }
+          ],
+          "note_ua": "Так само, як Ik eet kaas (Les 8): напій чи їжа як речовина йде без артикля. З запереченням бери geen: Ik drink geen koffie (Les 2)."
+        },
+        {
+          "form": "een: одна порція",
+          "when_ua": "Ти називаєш одну порцію: замовляєш, береш, маєш. Een стоїть перед напоєм (een koffie) або перед посудиною (een kopje thee, een glas bier). Напій після посудини лишається без артикля.",
+          "examples": [
+            {
+              "nl": "Een koffie, alsjeblieft.",
+              "ua": "Каву, будь ласка.",
+              "audio": "les12-rule-06.mp3"
+            },
+            {
+              "nl": "Twee koffies, alsjeblieft.",
+              "ua": "Дві кави, будь ласка.",
+              "audio": "les12-rule-07.mp3"
+            },
+            {
+              "nl": "Hij bestelt een glas bier.",
+              "ua": "Він замовляє келих пива.",
+              "audio": "les12-example-09.mp3"
+            }
+          ],
+          "note_ua": "Een koffie це скорочене een kopje koffie: замовляють саме так. Кілька порцій: twee koffies, а з посудиною множину бере посудина, а не напій: twee kopjes koffie, twee glazen bier. Українською «чашка кави» з родовим відмінком, нідерландською просто два слова поруч, без van."
+        },
+        {
+          "form": "de / het: конкретний напій",
+          "when_ua": "Ти говориш про напій, який уже стоїть перед тобою або який усі знають: ця кава, цей чай. Тоді потрібен de або het, і вгадати його не можна: de koffie, de thee, het bier. Учи артикль разом зі словом.",
+          "examples": [
+            {
+              "nl": "De koffie is lekker.",
+              "ua": "Кава смачна.",
+              "audio": "les12-example-08.mp3"
+            },
+            {
+              "nl": "Dit bier is lekker.",
+              "ua": "Це пиво смачне.",
+              "audio": "les12-rule-08.mp3"
+            },
+            {
+              "nl": "Hier is de thee, alsjeblieft.",
+              "ua": "Ось чай, будь ласка.",
+              "audio": "les12-example-07.mp3"
+            }
+          ],
+          "note_ua": "Після is прикметник без -e (Les 11): De koffie is lekker, а не lekkere. Dit стоїть перед het-словом: dit bier."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест з трьох питань. Напій загалом (п'ю, купую, не п'ю)? Без артикля. Одна порція (замовляю, маю)? Een, або посудина: een kopje, een glas. Конкретний, відомий напій (ця кава, той чай)? De або het.",
+        "З прикметником працює правило Les 11: een lekkere koffie (koffie це de-слово, тому -e), een lekker bier (bier це het-слово, тому без -e), een lekker kopje thee (kopje це het-слово, тому без -e).",
+        "Kopje і glas це het-слова з множиною kopjes і glazen: een glas water, twee glazen water; een kopje thee, twee kopjes thee.",
+        "Коли замовляєш, зазвичай називаєш порцію: een koffie, een kopje thee. Коли говориш про звичку чи смак, речовину: Ik drink koffie, Hij drinkt nooit bier. Українською в обох випадках без артикля, тому нідерландською це треба вирішувати щоразу.",
+        "Alsjeblieft ставиться в кінці замовлення (Een koffie, alsjeblieft) і коли щось подаєш (Hier is de thee, alsjeblieft). Слово одне й те саме."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik heb geen koffie.",
+      "ua": "У мене немає кави.",
+      "audio": "les12-example-01.mp3"
+    },
+    {
+      "nl": "Ik heb een kopje thee.",
+      "ua": "У мене є чашка чаю.",
+      "audio": "les12-example-02.mp3"
+    },
+    {
+      "nl": "Wij hebben een glas bier.",
+      "ua": "У нас є келих пива.",
+      "audio": "les12-example-03.mp3"
+    },
+    {
+      "nl": "Ik wil een kopje thee bestellen.",
+      "ua": "Я хочу замовити чашку чаю.",
+      "audio": "les12-example-04.mp3"
+    },
+    {
+      "nl": "Mag ik een koffie?",
+      "ua": "Можна мені каву?",
+      "audio": "les12-example-05.mp3"
+    },
+    {
+      "nl": "Wil je koffie of thee?",
+      "ua": "Ти хочеш каву чи чай?",
+      "audio": "les12-example-06.mp3"
+    },
+    {
+      "nl": "Hier is de thee, alsjeblieft.",
+      "ua": "Ось чай, будь ласка.",
+      "audio": "les12-example-07.mp3"
+    },
+    {
+      "nl": "De koffie is lekker.",
+      "ua": "Кава смачна.",
+      "audio": "les12-example-08.mp3"
+    },
+    {
+      "nl": "Hij bestelt een glas bier.",
+      "ua": "Він замовляє келих пива.",
+      "audio": "les12-example-09.mp3"
+    },
+    {
+      "nl": "Zij drinkt thee met melk.",
+      "ua": "Вона п'є чай з молоком.",
+      "audio": "les12-example-10.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Koffie of thee?",
+    "title_ua": "Кава чи чай?",
+    "highlight": [
+      "nl-134c388a",
+      "nl-b16a3033",
+      "nl-9e538019",
+      "nl-c8e9bf03",
+      "nl-8295593e"
+    ],
+    "sentences": [
+      {
+        "nl": "Vandaag ben ik hier met mijn vader.",
+        "ua": "Сьогодні я тут із татом.",
+        "audio": "les12-reading-01.mp3"
+      },
+      {
+        "nl": "Hij wil koffie of thee.",
+        "ua": "Він хоче каву чи чай.",
+        "audio": "les12-reading-02.mp3"
+      },
+      {
+        "nl": "Hij bestelt een kopje koffie.",
+        "ua": "Він замовляє чашку кави.",
+        "audio": "les12-reading-03.mp3"
+      },
+      {
+        "nl": "Ik drink geen koffie, dus ik bestel thee.",
+        "ua": "Я не п'ю каву, тому я замовляю чай.",
+        "audio": "les12-reading-04.mp3"
+      },
+      {
+        "nl": "Mag ik een kopje thee, alsjeblieft?",
+        "ua": "Можна мені чашку чаю, будь ласка?",
+        "audio": "les12-reading-05.mp3"
+      },
+      {
+        "nl": "De koffie en de thee zijn lekker.",
+        "ua": "Кава й чай смачні.",
+        "audio": "les12-reading-06.mp3"
+      },
+      {
+        "nl": "Daarna betaal ik voor alles.",
+        "ua": "Потім я плачу за все.",
+        "audio": "les12-reading-07.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене немає кави.",
+          "cue": "ik + hebben; geen koffie",
+          "accepted": [
+            "Ik heb geen koffie."
+          ]
+        },
+        {
+          "prompt": "У мене є чашка чаю.",
+          "cue": "ik + hebben; een kopje thee",
+          "accepted": [
+            "Ik heb een kopje thee."
+          ]
+        },
+        {
+          "prompt": "У нас є келих пива.",
+          "cue": "wij + hebben; een glas bier",
+          "accepted": [
+            "Wij hebben een glas bier.",
+            "We hebben een glas bier."
+          ]
+        },
+        {
+          "prompt": "Я хочу замовити чашку чаю.",
+          "cue": "ik + willen; een kopje thee; bestellen (в кінці)",
+          "accepted": [
+            "Ik wil een kopje thee bestellen."
+          ]
+        },
+        {
+          "prompt": "Можна мені каву?",
+          "cue": "mogen; ik; een koffie; питання",
+          "accepted": [
+            "Mag ik een koffie?"
+          ]
+        },
+        {
+          "prompt": "Ти хочеш каву чи чай?",
+          "cue": "jij + willen; koffie of thee; питання",
+          "accepted": [
+            "Wil je koffie of thee?",
+            "Wil jij koffie of thee?"
+          ]
+        },
+        {
+          "prompt": "Мама замовляє чашку кави.",
+          "cue": "de moeder + bestellen; een kopje koffie",
+          "accepted": [
+            "De moeder bestelt een kopje koffie."
+          ]
+        },
+        {
+          "prompt": "Кава смачна.",
+          "cue": "de koffie + zijn; lekker (після zijn без -e)",
+          "accepted": [
+            "De koffie is lekker."
+          ]
+        },
+        {
+          "prompt": "Я не п'ю пиво, тому я замовляю чай.",
+          "cue": "ik + drinken; geen bier; dus; ik + bestellen; thee",
+          "accepted": [
+            "Ik drink geen bier, dus ik bestel thee.",
+            "Ik drink geen bier dus ik bestel thee."
+          ]
+        },
+        {
+          "prompt": "Ми хочемо замовити дві чашки кави.",
+          "cue": "wij + willen; twee kopjes koffie; bestellen (в кінці)",
+          "accepted": [
+            "Wij willen twee kopjes koffie bestellen.",
+            "We willen twee kopjes koffie bestellen."
+          ]
+        },
+        {
+          "prompt": "Ось чай, будь ласка.",
+          "cue": "hier + zijn; de thee; alsjeblieft",
+          "accepted": [
+            "Hier is de thee, alsjeblieft.",
+            "Alsjeblieft, hier is de thee."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "geen",
+        "een",
+        "of",
+        "kopje",
+        "kopjes",
+        "glas",
+        "glazen",
+        "mag",
+        "bestellen",
+        "bestelt",
+        "alsjeblieft"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik heb ___ koffie.",
+          "hint": "У мене немає кави.",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Wil je koffie ___ thee?",
+          "hint": "Ти хочеш каву чи чай?",
+          "accepted": [
+            [
+              "of"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb een ___ thee.",
+          "hint": "У мене є чашка чаю.",
+          "accepted": [
+            [
+              "kopje"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben een ___ bier.",
+          "hint": "У нас є келих пива.",
+          "accepted": [
+            [
+              "glas"
+            ]
+          ]
+        },
+        {
+          "text": "Ik wil een kopje thee ___.",
+          "hint": "Я хочу замовити чашку чаю.",
+          "accepted": [
+            [
+              "bestellen"
+            ]
+          ]
+        },
+        {
+          "text": "___ ik een koffie?",
+          "hint": "Можна мені каву?",
+          "accepted": [
+            [
+              "Mag"
+            ]
+          ]
+        },
+        {
+          "text": "Hier is de thee, ___.",
+          "hint": "Ось чай, будь ласка.",
+          "accepted": [
+            [
+              "alsjeblieft"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ een glas bier.",
+          "hint": "Він замовляє келих пива.",
+          "accepted": [
+            [
+              "bestelt"
+            ]
+          ]
+        },
+        {
+          "text": "Twee ___ koffie, alsjeblieft.",
+          "hint": "Дві чашки кави, будь ласка.",
+          "accepted": [
+            [
+              "kopjes"
+            ]
+          ]
+        },
+        {
+          "text": "Twee ___ water, alsjeblieft.",
+          "hint": "Дві склянки води, будь ласка.",
+          "accepted": [
+            [
+              "glazen"
+            ]
+          ]
+        },
+        {
+          "text": "Hij bestelt ___ koffie.",
+          "hint": "Він замовляє одну каву.",
+          "accepted": [
+            [
+              "een"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: заперечення, модальне дієслово, множина, питання, прикметник, of або слово на початку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik drink koffie.",
+          "cue": "-> заперечення з geen",
+          "accepted": [
+            "Ik drink geen koffie."
+          ]
+        },
+        {
+          "prompt": "Ik bestel een kopje thee.",
+          "cue": "-> додай willen",
+          "accepted": [
+            "Ik wil een kopje thee bestellen."
+          ]
+        },
+        {
+          "prompt": "Wij bestellen twee kopjes koffie.",
+          "cue": "-> додай willen",
+          "accepted": [
+            "Wij willen twee kopjes koffie bestellen.",
+            "We willen twee kopjes koffie bestellen."
+          ]
+        },
+        {
+          "prompt": "Mag ik een kopje thee bestellen?",
+          "cue": "-> пропусти bestellen",
+          "accepted": [
+            "Mag ik een kopje thee?"
+          ]
+        },
+        {
+          "prompt": "Ik heb een kopje thee.",
+          "cue": "-> два (twee)",
+          "accepted": [
+            "Ik heb twee kopjes thee."
+          ]
+        },
+        {
+          "prompt": "Ik heb een glas water.",
+          "cue": "-> два (twee)",
+          "accepted": [
+            "Ik heb twee glazen water."
+          ]
+        },
+        {
+          "prompt": "Hij bestelt een koffie.",
+          "cue": "-> питання",
+          "accepted": [
+            "Bestelt hij een koffie?"
+          ]
+        },
+        {
+          "prompt": "Ik bestel een koffie.",
+          "cue": "-> додай lekker",
+          "accepted": [
+            "Ik bestel een lekkere koffie."
+          ]
+        },
+        {
+          "prompt": "Ik bestel een bier.",
+          "cue": "-> додай lekker",
+          "accepted": [
+            "Ik bestel een lekker bier."
+          ]
+        },
+        {
+          "prompt": "Wil je koffie? Wil je thee?",
+          "cue": "-> одне речення з of",
+          "accepted": [
+            "Wil je koffie of thee?",
+            "Wil jij koffie of thee?"
+          ]
+        },
+        {
+          "prompt": "Ik bestel een glas bier.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag bestel ik een glas bier."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ een kopje thee.",
+          "cue": "bestellen",
+          "accepted": [
+            "bestel"
+          ]
+        },
+        {
+          "text": "Hij ___ een glas bier.",
+          "cue": "bestellen",
+          "accepted": [
+            "bestelt"
+          ]
+        },
+        {
+          "text": "Wij ___ twee kopjes koffie.",
+          "cue": "bestellen",
+          "accepted": [
+            "bestellen"
+          ]
+        },
+        {
+          "text": "Jij ___ geen koffie.",
+          "cue": "hebben",
+          "accepted": [
+            "hebt"
+          ]
+        },
+        {
+          "text": "___ jij koffie of thee?",
+          "cue": "willen",
+          "accepted": [
+            "Wil"
+          ]
+        },
+        {
+          "text": "___ jij een kopje thee?",
+          "cue": "bestellen",
+          "accepted": [
+            "Bestel"
+          ]
+        },
+        {
+          "text": "___ ik een koffie?",
+          "cue": "mogen",
+          "accepted": [
+            "Mag"
+          ]
+        },
+        {
+          "text": "De moeder ___ een glas water.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Wij ___ een kopje thee bestellen.",
+          "cue": "willen",
+          "accepted": [
+            "willen"
+          ]
+        },
+        {
+          "text": "Jullie ___ twee glazen bier.",
+          "cue": "hebben",
+          "accepted": [
+            "hebben"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ koffie of thee.",
+          "cue": "drinken",
+          "accepted": [
+            "drinkt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

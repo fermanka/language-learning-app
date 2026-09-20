@@ -47,8 +47,9 @@
       "plural": [
         "zussen"
       ],
-      "ua": "сестра (множина zussen: голосна коротка, тому s подвоюється, як у man - mannen)",
-      "audio": "de-zus.mp3"
+      "ua": "сестра",
+      "audio": "de-zus.mp3",
+      "explain_ua": "(множина zussen: голосна коротка, тому s подвоюється, як у man - mannen)"
     },
     {
       "id": "nl-50d87793",
@@ -76,42 +77,47 @@
       "id": "nl-185ff735",
       "type": "function",
       "lemma": "haar",
-      "ua": "її, свій (власниця вона: haar broer = її брат, свій брат; форма не змінюється, як mijn)",
-      "audio": "haar.mp3"
+      "ua": "її, свій",
+      "audio": "haar.mp3",
+      "explain_ua": "(власниця вона: haar broer = її брат, свій брат; форма не змінюється, як mijn)"
     },
     {
       "id": "nl-cf2ca6cb",
       "type": "function",
       "lemma": "hun",
-      "ua": "їхній, їхня, їхнє, їхні (власників кілька; форма не змінюється: hun huis, hun kinderen)",
-      "audio": "hun.mp3"
+      "ua": "їхній, їхня, їхнє, їхні",
+      "audio": "hun.mp3",
+      "explain_ua": "(власників кілька; форма не змінюється: hun huis, hun kinderen)"
     },
     {
       "id": "nl-dffe7324",
       "type": "function",
       "lemma": "zijn",
-      "ua": "його, свій (власник він: zijn zus = його сестра, своя сестра). Пишеться так само, як дієслово zijn = бути (Les 1), але стоїть перед іменником",
-      "audio": "zijn.mp3"
+      "ua": "його, свій",
+      "audio": "zijn.mp3",
+      "explain_ua": "(власник він: zijn zus = його сестра, своя сестра). Пишеться так само, як дієслово zijn = бути (Les 1), але стоїть перед іменником"
     },
     {
       "id": "nl-cbcb88d6",
       "type": "adjective",
       "lemma": "goed",
-      "ua": "добрий, хороший (у реченні після дієслова: goed = «добре» або «хороший»: Hij spreekt goed = він добре говорить)",
-      "audio": "goed.mp3"
+      "ua": "добрий, хороший",
+      "audio": "goed.mp3",
+      "explain_ua": "(у реченні після дієслова: goed = «добре» або «хороший»: Hij spreekt goed = він добре говорить)"
     },
     {
       "id": "nl-1882924f",
       "type": "adjective",
       "lemma": "goede",
-      "ua": "добрий, хороший (форма перед іменником: een goede vader, goede stoelen; поки що лише з de-словами й множиною)",
-      "audio": "goede.mp3"
+      "ua": "добрий, хороший",
+      "audio": "goede.mp3",
+      "explain_ua": "(форма перед іменником: een goede vader, goede stoelen; поки що лише з de-словами й множиною)"
     },
     {
       "id": "nl-42b800c9",
       "type": "verb",
       "lemma": "houden van",
-      "ua": "любити (когось, щось), бути прив'язаним; завжди з van: houden van kaas = любити сир",
+      "ua": "любити",
       "audio": "houden-van.mp3",
       "paradigm": [
         {
@@ -156,7 +162,8 @@
           "form": "houden van",
           "audio": "zij-houden-van.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(когось, щось), бути прив'язаним; завжди з van: houden van kaas = любити сир"
     },
     {
       "id": "nl-c5a8f6ac",

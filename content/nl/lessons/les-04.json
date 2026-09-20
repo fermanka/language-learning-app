@@ -61,7 +61,7 @@
       "id": "nl-9c8cb3b8",
       "type": "verb",
       "lemma": "opbellen",
-      "ua": "телефонувати, дзвонити комусь (відокремлюване: op іде в кінець речення)",
+      "ua": "телефонувати, дзвонити комусь",
       "audio": "opbellen.mp3",
       "paradigm": [
         {
@@ -106,7 +106,8 @@
           "form": "bellen op",
           "audio": "zij-bellen-op.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(відокремлюване: op іде в кінець речення)"
     },
     {
       "id": "nl-deaed1e5",

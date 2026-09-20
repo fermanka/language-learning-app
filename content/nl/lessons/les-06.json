@@ -10,22 +10,25 @@
       "id": "nl-cd7de530",
       "type": "function",
       "lemma": "deze",
-      "ua": "цей, ця (про близьке; з de-словом: deze man, deze kamer; у множині теж: deze huizen)",
-      "audio": "deze.mp3"
+      "ua": "цей, ця",
+      "audio": "deze.mp3",
+      "explain_ua": "(про близьке; з de-словом: deze man, deze kamer; у множині теж: deze huizen)"
     },
     {
       "id": "nl-c8537f30",
       "type": "function",
       "lemma": "die",
-      "ua": "той, та (про далеке; з de-словом: die man, die kamer; у множині теж: die huizen)",
-      "audio": "die.mp3"
+      "ua": "той, та",
+      "audio": "die.mp3",
+      "explain_ua": "(про далеке; з de-словом: die man, die kamer; у множині теж: die huizen)"
     },
     {
       "id": "nl-08dd77a6",
       "type": "function",
       "lemma": "dat",
-      "ua": "той, та, те (про далеке; з het-словом: dat huis, dat raam); також «то»: Dat is een fiets",
-      "audio": "dat.mp3"
+      "ua": "той, та, те",
+      "audio": "dat.mp3",
+      "explain_ua": "(про далеке; з het-словом: dat huis, dat raam); також «то»: Dat is een fiets"
     },
     {
       "id": "nl-ea6535fd",

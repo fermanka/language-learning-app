@@ -16,8 +16,9 @@
       "plural": [
         "bananen"
       ],
-      "ua": "банан (множина bananen: у відкритому складі ba-na-nen голосна пишеться однією літерою, як maan - manen у Les 1)",
-      "audio": "de-banaan.mp3"
+      "ua": "банан",
+      "audio": "de-banaan.mp3",
+      "explain_ua": "(множина bananen: у відкритому складі ba-na-nen голосна пишеться однією літерою, як maan - manen у Les 1)"
     },
     {
       "id": "nl-f4140fcc",
@@ -60,8 +61,9 @@
       "plural": [
         "aardappelen"
       ],
-      "ua": "картопля (de aardappel = одна картоплина, de aardappelen = картопля як їжа: Wij eten aardappelen). Множина aardappelen, а не aardappels: sinaasappel і aardappel обидва закінчуються на -appel, але множина в них різна, тому вчи її разом зі словом",
-      "audio": "de-aardappel.mp3"
+      "ua": "картопля",
+      "audio": "de-aardappel.mp3",
+      "explain_ua": "(de aardappel = одна картоплина, de aardappelen = картопля як їжа: Wij eten aardappelen). Множина aardappelen, а не aardappels: sinaasappel і aardappel обидва закінчуються на -appel, але множина в них різна, тому вчи її разом зі словом"
     },
     {
       "id": "nl-6f821b7c",
@@ -71,14 +73,15 @@
       "plural": [
         "winkels"
       ],
-      "ua": "магазин, крамниця (in de winkel = у магазині, naar de winkel = до магазину)",
-      "audio": "de-winkel.mp3"
+      "ua": "магазин, крамниця",
+      "audio": "de-winkel.mp3",
+      "explain_ua": "(in de winkel = у магазині, naar de winkel = до магазину)"
     },
     {
       "id": "nl-d92cdea2",
       "type": "verb",
       "lemma": "betalen",
-      "ua": "платити (Zij betaalt in de winkel = вона платить у магазині). Основа betaal: у відкритому складі be-ta-len довга голосна подвоюється, як lopen - loop у Les 7. Наголос на другому складі: be-TA-len",
+      "ua": "платити",
       "audio": "betalen.mp3",
       "paradigm": [
         {
@@ -123,7 +126,8 @@
           "form": "betalen",
           "audio": "zij-betalen.mp3"
         }
-      ]
+      ],
+      "explain_ua": "(Zij betaalt in de winkel = вона платить у магазині). Основа betaal: у відкритому складі be-ta-len довга голосна подвоюється, як lopen - loop у Les 7. Наголос на другому складі: be-TA-len"
     },
     {
       "id": "nl-916df69e",
@@ -136,22 +140,25 @@
       "id": "nl-fd27c685",
       "type": "function",
       "lemma": "nooit",
-      "ua": "ніколи. В українській «ніколи не п'є» має два заперечення, у нідерландській nooit саме є запереченням: niet чи geen поруч не додаємо (De dochter drinkt nooit melk)",
-      "audio": "nooit.mp3"
+      "ua": "ніколи",
+      "audio": "nooit.mp3",
+      "explain_ua": "В українській «ніколи не п'є» має два заперечення, у нідерландській nooit саме є запереченням: niet чи geen поруч не додаємо (De dochter drinkt nooit melk)"
     },
     {
       "id": "nl-9ce08d91",
       "type": "function",
       "lemma": "soms",
-      "ua": "іноді (Soms lopen wij naar de winkel = іноді ми йдемо пішки до магазину)",
-      "audio": "soms.mp3"
+      "ua": "іноді",
+      "audio": "soms.mp3",
+      "explain_ua": "(Soms lopen wij naar de winkel = іноді ми йдемо пішки до магазину)"
     },
     {
       "id": "nl-028467b9",
       "type": "function",
       "lemma": "vaak",
-      "ua": "часто (Vaak gaan wij naar de winkel = ми часто йдемо до магазину)",
-      "audio": "vaak.mp3"
+      "ua": "часто",
+      "audio": "vaak.mp3",
+      "explain_ua": "(Vaak gaan wij naar de winkel = ми часто йдемо до магазину)"
     },
     {
       "id": "nl-e4210e92",
@@ -164,8 +171,9 @@
       "id": "nl-79df292d",
       "type": "function",
       "lemma": "graag",
-      "ua": "залюбки, охоче. З дієсловом значить «любить це робити»: Mijn zus eet graag peren = моя сестра любить їсти груші. З іменником «любити» це houden van (Les 9)",
-      "audio": "graag.mp3"
+      "ua": "залюбки, охоче",
+      "audio": "graag.mp3",
+      "explain_ua": "З дієсловом значить «любить це робити»: Mijn zus eet graag peren = моя сестра любить їсти груші. З іменником «любити» це houden van (Les 9)"
     },
     {
       "id": "nl-5a36233a",
@@ -178,15 +186,17 @@
       "id": "nl-00d42f62",
       "type": "function",
       "lemma": "snel",
-      "ua": "швидко (Hij eet snel een banaan = він швидко їсть банан). Після is це ще й прикметник «швидкий»: De trein is snel",
-      "audio": "snel.mp3"
+      "ua": "швидко",
+      "audio": "snel.mp3",
+      "explain_ua": "(Hij eet snel een banaan = він швидко їсть банан). Після is це ще й прикметник «швидкий»: De trein is snel"
     },
     {
       "id": "nl-6ab63b5a",
       "type": "function",
       "lemma": "maar",
-      "ua": "але (з'єднує два речення; після maar підмет і дієслово стоять як у звичайному реченні: Ik wil tomaten kopen, maar ik heb geen tijd). Також «тільки, лише»: Ik heb maar twee appels = у мене є лише два яблука",
-      "audio": "maar.mp3"
+      "ua": "але",
+      "audio": "maar.mp3",
+      "explain_ua": "(з'єднує два речення; після maar підмет і дієслово стоять як у звичайному реченні: Ik wil tomaten kopen, maar ik heb geen tijd). Також «тільки, лише»: Ik heb maar twee appels = у мене є лише два яблука"
     }
   ],
   "rule": [

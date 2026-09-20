@@ -14,8 +14,9 @@
       "plural": [
         "groenten"
       ],
-      "ua": "овоч (de groenten = овочі). Без артикля groente значить «овочі» як їжа, як water і melk у Les 7: Ik eet groente. У твоєму зошиті виправлення на Wil jij verse groente kopen? правильне: про овочі загалом беремо groente без артикля. Підказка для пам'яті, не переклад: groente схоже на groen «зелений»",
-      "audio": "de-groente.mp3"
+      "ua": "овоч",
+      "audio": "de-groente.mp3",
+      "explain_ua": "(de groenten = овочі). Без артикля groente значить «овочі» як їжа, як water і melk у Les 7: Ik eet groente. У твоєму зошиті виправлення на Wil jij verse groente kopen? правильне: про овочі загалом беремо groente без артикля. Підказка для пам'яті, не переклад: groente схоже на groen «зелений»"
     },
     {
       "id": "nl-906deaea",
@@ -25,8 +26,9 @@
       "plural": [
         "wortels"
       ],
-      "ua": "морква (de wortel = одна морква, de wortels = морква як їжа: Ik koop wortels, як aardappelen у Les 10). Множина wortels, як appels і sinaasappels (Les 8, Les 10). Wortel значить ще й «корінь»: підказка для пам'яті, морква це їстівний корінь",
-      "audio": "de-wortel.mp3"
+      "ua": "морква",
+      "audio": "de-wortel.mp3",
+      "explain_ua": "(de wortel = одна морква, de wortels = морква як їжа: Ik koop wortels, як aardappelen у Les 10). Множина wortels, як appels і sinaasappels (Les 8, Les 10). Wortel значить ще й «корінь»: підказка для пам'яті, морква це їстівний корінь"
     },
     {
       "id": "nl-1224ff0e",
@@ -36,8 +38,9 @@
       "plural": [
         "druiven"
       ],
-      "ua": "виноградина, одна ягода (de druiven = виноград як їжа: Zij houdt van druiven, як de aardappelen у Les 10). У твоєму зошиті druif = виноград: українське «виноград» це de druiven, а для однієї ягоди є «виноградина». Множина druiven: f стає v, як s стає z у huis - huizen (Les 1)",
-      "audio": "de-druif.mp3"
+      "ua": "виноградина, одна ягода",
+      "audio": "de-druif.mp3",
+      "explain_ua": "(de druiven = виноград як їжа: Zij houdt van druiven, як de aardappelen у Les 10). У твоєму зошиті druif = виноград: українське «виноград» це de druiven, а для однієї ягоди є «виноградина». Множина druiven: f стає v, як s стає z у huis - huizen (Les 1)"
     },
     {
       "id": "nl-909b669b",
@@ -47,8 +50,9 @@
       "plural": [
         "stukjes"
       ],
-      "ua": "шматочок (Hij eet een stukje kaas = він їсть шматочок сиру). Закінчення -je зменшувальне, як -ок у «шматочок»; слова на -je завжди het-слова. Множина stukjes",
-      "audio": "stukje.mp3"
+      "ua": "шматочок",
+      "audio": "stukje.mp3",
+      "explain_ua": "(Hij eet een stukje kaas = він їсть шматочок сиру). Закінчення -je зменшувальне, як -ок у «шматочок»; слова на -je завжди het-слова. Множина stukjes"
     },
     {
       "id": "nl-47216c1f",
@@ -56,8 +60,9 @@
       "article": "het",
       "lemma": "eten",
       "plural": [],
-      "ua": "їжа, страва (Het eten is lekker = їжа смачна). Пишеться так само, як дієслово eten з Les 7: Wij eten fruit = ми їмо фрукти (дієслово), а het eten (іменник з het). Множини немає, як у water",
-      "audio": "het-eten.mp3"
+      "ua": "їжа, страва",
+      "audio": "het-eten.mp3",
+      "explain_ua": "(Het eten is lekker = їжа смачна). Пишеться так само, як дієслово eten з Les 7: Wij eten fruit = ми їмо фрукти (дієслово), а het eten (іменник з het). Множини немає, як у water"
     },
     {
       "id": "nl-82c5d372",
@@ -65,8 +70,9 @@
       "article": "het",
       "lemma": "fruit",
       "plural": [],
-      "ua": "фрукти (збірно, лише однина: Het fruit is vers = фрукти свіжі). Українською «фрукти» множина, а нідерландською однина, тому після het fruit стоїть is, а не zijn. Множини не вживаємо. Це те саме слово, що англійське fruit",
-      "audio": "fruit.mp3"
+      "ua": "фрукти",
+      "audio": "fruit.mp3",
+      "explain_ua": "(збірно, лише однина: Het fruit is vers = фрукти свіжі). Українською «фрукти» множина, а нідерландською однина, тому після het fruit стоїть is, а не zijn. Множини не вживаємо. Це те саме слово, що англійське fruit"
     },
     {
       "id": "nl-e537d910",
@@ -76,127 +82,145 @@
       "plural": [
         "paren"
       ],
-      "ua": "пара, двоє (Dit paar woont hier = ця пара живе тут; de paren). Не плутай з een paar (наступне слово, «кілька») і з de peer з Les 10: у paar голосна aa, у peer ee. Множина paren: одна a, як manen у Les 1. Схоже на англійське pair: підказка для пам'яті",
-      "audio": "het-paar.mp3"
+      "ua": "пара, двоє",
+      "audio": "het-paar.mp3",
+      "explain_ua": "(Dit paar woont hier = ця пара живе тут; de paren). Не плутай з een paar (наступне слово, «кілька») і з de peer з Les 10: у paar голосна aa, у peer ee. Множина paren: одна a, як manen у Les 1. Схоже на англійське pair: підказка для пам'яті"
     },
     {
       "id": "nl-435eb7c3",
       "type": "adjective",
       "lemma": "vers",
-      "ua": "свіжий, свіжа, свіже, свіжі (форма без закінчення: після zijn і перед het-словом з een або без артикля: Deze tomaten zijn vers, een vers ei, vers brood). Українською прикметник змінюється, а після zijn нідерландська форма одна. Схоже на англійське fresh: v - f, як vader - father",
-      "audio": "vers.mp3"
+      "ua": "свіжий, свіжа, свіже, свіжі",
+      "audio": "vers.mp3",
+      "explain_ua": "(форма без закінчення: після zijn і перед het-словом з een або без артикля: Deze tomaten zijn vers, een vers ei, vers brood). Українською прикметник змінюється, а після zijn нідерландська форма одна. Схоже на англійське fresh: v - f, як vader - father"
     },
     {
       "id": "nl-f6a8300c",
       "type": "adjective",
       "lemma": "verse",
-      "ua": "свіжий (форма з -e: перед de-словом і множиною, а також після het, dit, mijn: een verse wortel, verse kaas, verse tomaten, het verse brood). Пара до vers; правило в картці «Прикметник: -e чи ні»",
-      "audio": "verse.mp3"
+      "ua": "свіжий",
+      "audio": "verse.mp3",
+      "explain_ua": "(форма з -e: перед de-словом і множиною, а також після het, dit, mijn: een verse wortel, verse kaas, verse tomaten, het verse brood). Пара до vers; правило в картці «Прикметник: -e чи ні»"
     },
     {
       "id": "nl-42316640",
       "type": "adjective",
       "lemma": "lekker",
-      "ua": "смачний, смачна, смачне, смачні (про їжу; форма без закінчення: Het eten is lekker, een lekker ei). У твоєму зошиті ця форма записана як «смачно» і підписана «прислівник»: після zijn це прикметник, українською «Їжа смачна»",
-      "audio": "lekker.mp3"
+      "ua": "смачний, смачна, смачне, смачні",
+      "audio": "lekker.mp3",
+      "explain_ua": "(про їжу; форма без закінчення: Het eten is lekker, een lekker ei). У твоєму зошиті ця форма записана як «смачно» і підписана «прислівник»: після zijn це прикметник, українською «Їжа смачна»"
     },
     {
       "id": "nl-3fb615b3",
       "type": "adjective",
       "lemma": "lekkere",
-      "ua": "смачний (форма з -e: een lekkere banaan, lekkere druiven). Подвоєне kk уже є в lekker і лишається: голосна коротка, як у zus - zussen (Les 9)",
-      "audio": "lekkere.mp3"
+      "ua": "смачний",
+      "audio": "lekkere.mp3",
+      "explain_ua": "(форма з -e: een lekkere banaan, lekkere druiven). Подвоєне kk уже є в lekker і лишається: голосна коротка, як у zus - zussen (Les 9)"
     },
     {
       "id": "nl-2fbc116a",
       "type": "adjective",
       "lemma": "zoet",
-      "ua": "солодкий, солодка, солодке, солодкі (форма без закінчення: De druiven zijn zoet, zoet fruit). Схоже на англійське sweet: z - s, як zeven - seven",
-      "audio": "zoet.mp3"
+      "ua": "солодкий, солодка, солодке, солодкі",
+      "audio": "zoet.mp3",
+      "explain_ua": "(форма без закінчення: De druiven zijn zoet, zoet fruit). Схоже на англійське sweet: z - s, як zeven - seven"
     },
     {
       "id": "nl-6ce8321b",
       "type": "adjective",
       "lemma": "zoete",
-      "ua": "солодкий (форма з -e: zoete druiven, een zoete appel). Oe лишається, як у boek - boeken (Les 1)",
-      "audio": "zoete.mp3"
+      "ua": "солодкий",
+      "audio": "zoete.mp3",
+      "explain_ua": "(форма з -e: zoete druiven, een zoete appel). Oe лишається, як у boek - boeken (Les 1)"
     },
     {
       "id": "nl-55eb232f",
       "type": "adjective",
       "lemma": "zuur",
-      "ua": "кислий, кисла, кисле, кислі (форма без закінчення: De appel is zuur, zuur fruit). Схоже на англійське sour: z - s. Голосна uu [yː]: такого звука немає ні в українській, ні в англійській, тому слухай аудіо",
-      "audio": "zuur.mp3"
+      "ua": "кислий, кисла, кисле, кислі",
+      "audio": "zuur.mp3",
+      "explain_ua": "(форма без закінчення: De appel is zuur, zuur fruit). Схоже на англійське sour: z - s. Голосна uu [yː]: такого звука немає ні в українській, ні в англійській, тому слухай аудіо"
     },
     {
       "id": "nl-6c0aa670",
       "type": "adjective",
       "lemma": "zure",
-      "ua": "кислий (форма з -e: zure appels, een zure appel). Uu стає u в відкритому складі, як aa стає a у maan - manen (Les 1)",
-      "audio": "zure.mp3"
+      "ua": "кислий",
+      "audio": "zure.mp3",
+      "explain_ua": "(форма з -e: zure appels, een zure appel). Uu стає u в відкритому складі, як aa стає a у maan - manen (Les 1)"
     },
     {
       "id": "nl-1a5f1413",
       "type": "adjective",
       "lemma": "grote",
-      "ua": "великий (форма з -e від groot з Les 2: een grote appel, de grote man, het grote huis, grote huizen). Oo стає o, як aa стає a у maan - manen. Без -e лишається groot: Het huis is groot, een groot huis. У твоєму зошиті groot після zijn записано як «велике»: правильно «великий, велика, велике, великі», форма одна",
-      "audio": "grote.mp3"
+      "ua": "великий",
+      "audio": "grote.mp3",
+      "explain_ua": "(форма з -e від groot з Les 2: een grote appel, de grote man, het grote huis, grote huizen). Oo стає o, як aa стає a у maan - manen. Без -e лишається groot: Het huis is groot, een groot huis. У твоєму зошиті groot після zijn записано як «велике»: правильно «великий, велика, велике, великі», форма одна"
     },
     {
       "id": "nl-1ad8940b",
       "type": "function",
       "lemma": "vandaag",
-      "ua": "сьогодні (Vandaag koop ik fruit = сьогодні я купую фрукти). Складається з van + dag (Les 9, Les 4): підказка для пам'яті",
-      "audio": "vandaag.mp3"
+      "ua": "сьогодні",
+      "audio": "vandaag.mp3",
+      "explain_ua": "(Vandaag koop ik fruit = сьогодні я купую фрукти). Складається з van + dag (Les 9, Les 4): підказка для пам'яті"
     },
     {
       "id": "nl-50538d11",
       "type": "function",
       "lemma": "een paar",
-      "ua": "кілька, декілька (Ik koop een paar peren = я купую кілька груш). Paar тут не змінюється й не бере de або het: een paar peren, а не een paren. Це не het paar (пара)",
-      "audio": "een-paar.mp3"
+      "ua": "кілька, декілька",
+      "audio": "een-paar.mp3",
+      "explain_ua": "(Ik koop een paar peren = я купую кілька груш). Paar тут не змінюється й не бере de або het: een paar peren, а не een paren. Це не het paar (пара)"
     },
     {
       "id": "nl-a204d738",
       "type": "function",
       "lemma": "dus",
-      "ua": "тому, отже, тож (з'єднує два речення: Ik heb geen brood, dus ik koop brood = у мене немає хліба, тому я купую хліб). Після dus порядок слів звичайний, див. картку «Want і dus»",
-      "audio": "dus.mp3"
+      "ua": "тому, отже, тож",
+      "audio": "dus.mp3",
+      "explain_ua": "(з'єднує два речення: Ik heb geen brood, dus ik koop brood = у мене немає хліба, тому я купую хліб). Після dus порядок слів звичайний, див. картку «Want і dus»"
     },
     {
       "id": "nl-479a2be8",
       "type": "function",
       "lemma": "daarna",
-      "ua": "потім, після цього (Daarna ga ik naar huis = потім я йду додому). Складається з daar (Les 10) + na: підказка для пам'яті",
-      "audio": "daarna.mp3"
+      "ua": "потім, після цього",
+      "audio": "daarna.mp3",
+      "explain_ua": "(Daarna ga ik naar huis = потім я йду додому). Складається з daar (Les 10) + na: підказка для пам'яті"
     },
     {
       "id": "nl-cec25ed8",
       "type": "function",
       "lemma": "alles",
-      "ua": "усе (Ik heb alles = у мене є все). Схоже на англійське all. Після alles дієслово в однині, як українське «усе свіже»: Alles is vers",
-      "audio": "alles.mp3"
+      "ua": "усе",
+      "audio": "alles.mp3",
+      "explain_ua": "(Ik heb alles = у мене є все). Схоже на англійське all. Після alles дієслово в однині, як українське «усе свіже»: Alles is vers"
     },
     {
       "id": "nl-9f31f6cb",
       "type": "function",
       "lemma": "want",
-      "ua": "бо (з'єднує два речення: Ik koop peren, want ze zijn vers = я купую груші, бо вони свіжі). У твоєму зошиті want записано як «бо / тому що»: для want лишай тільки «бо». «Тому що» буде omdat, де дієслово піде в кінець, а після want порядок звичайний",
-      "audio": "want.mp3"
+      "ua": "бо",
+      "audio": "want.mp3",
+      "explain_ua": "(з'єднує два речення: Ik koop peren, want ze zijn vers = я купую груші, бо вони свіжі). У твоєму зошиті want записано як «бо / тому що»: для want лишай тільки «бо». «Тому що» буде omdat, де дієслово піде в кінець, а після want порядок звичайний"
     },
     {
       "id": "nl-01f2d241",
       "type": "function",
       "lemma": "ook",
-      "ua": "також, теж (Ik koop ook peren = я також купую груші). Стоїть перед тим, до чого відноситься: Ik heb ook een paar tomaten",
-      "audio": "ook.mp3"
+      "ua": "також, теж",
+      "audio": "ook.mp3",
+      "explain_ua": "(Ik koop ook peren = я також купую груші). Стоїть перед тим, до чого відноситься: Ik heb ook een paar tomaten"
     },
     {
       "id": "nl-9bd0246a",
       "type": "function",
       "lemma": "voor",
-      "ua": "три значення. 1) для: Dit fruit is voor de kinderen = ці фрукти для дітей. 2) за в «платити за»: Ik betaal voor de wortels = я плачу за моркву (вчи betalen voor разом, як wachten op у Les 9). 3) перед у часі й у просторі: Voor het eten drink ik water = перед їжею я п'ю воду; voor de deur = перед дверима. Схоже на англійське for і before: v - f, як vader - father",
-      "audio": "voor.mp3"
+      "ua": "для, за, перед",
+      "audio": "voor.mp3",
+      "explain_ua": "три значення. 1) для: Dit fruit is voor de kinderen = ці фрукти для дітей. 2) за в «платити за»: Ik betaal voor de wortels = я плачу за моркву (вчи betalen voor разом, як wachten op у Les 9). 3) перед у часі й у просторі: Voor het eten drink ik water = перед їжею я п'ю воду; voor de deur = перед дверима. Схоже на англійське for і before: v - f, як vader - father"
     }
   ],
   "rule": [

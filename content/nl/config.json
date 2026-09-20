@@ -14,7 +14,8 @@
       "optional": [
         "plural",
         "audio",
-        "plural_only"
+        "plural_only",
+        "explain_ua"
       ]
     },
     "adjective": {
@@ -23,7 +24,8 @@
         "ua"
       ],
       "optional": [
-        "audio"
+        "audio",
+        "explain_ua"
       ]
     },
     "verb": {
@@ -33,7 +35,8 @@
         "paradigm"
       ],
       "optional": [
-        "audio"
+        "audio",
+        "explain_ua"
       ]
     },
     "numeral": {
@@ -43,7 +46,8 @@
         "ua"
       ],
       "optional": [
-        "audio"
+        "audio",
+        "explain_ua"
       ]
     },
     "function": {
@@ -53,7 +57,8 @@
       ],
       "optional": [
         "audio",
-        "dictation"
+        "dictation",
+        "explain_ua"
       ]
     }
   }
