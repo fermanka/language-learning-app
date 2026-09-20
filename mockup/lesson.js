@@ -283,10 +283,12 @@ if (typeof document === 'undefined') {
 
   // ---- Cards tab: spaced repetition (FSRS). Card state is replayed from the review log, never stored.
   const F = window.FSRS, CardsLib = window.Cards;
-  const cardCfg = { newPerDay: 10, sessionCap: 30, shortCap: 15 };
+  // production: false = only "Dutch word -> meaning" cards. The reverse card of a word used to appear right after the first
+  // one (the same word again); turn it on later, once the learner asks for it.
+  const cardCfg = { newPerDay: 10, sessionCap: 30, shortCap: 15, production: false };
   const dutchHelpers = { display, pluralText };
-  let session = null; // { left, reviewed, card, revealed, shownAt }
-  const currentDeck = () => CardsLib.buildDeck(LESSONS.filter((_, i) => isDone(i)));
+  let session = null; // { left, reviewed, card, revealed, chosen, shownAt }
+  const currentDeck = () => CardsLib.buildDeck(LESSONS.filter((_, i) => isDone(i)), { production: cardCfg.production });
   const cardStates = () => CardsLib.replay(log.events, F);
 
   function renderCardsStats() {
@@ -300,7 +302,7 @@ if (typeof document === 'undefined') {
   function startSession(cap) { session = { left: cap, reviewed: 0 }; nextCard(); }
   function nextCard() {
     const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, limit: 1 }) : [];
-    session.card = q[0] || null; session.revealed = false; session.shownAt = Date.now();
+    session.card = q[0] || null; session.revealed = false; session.chosen = null; session.shownAt = Date.now();
     renderStage();
     if (session.card) { const v = CardsLib.present(session.card, currentDeck().notes.get(session.card.noteId), dutchHelpers); if (v.front.audio) play(v.front.audio); }
   }
@@ -309,10 +311,20 @@ if (typeof document === 'undefined') {
     const v = CardsLib.present(session.card, currentDeck().notes.get(session.card.noteId), dutchHelpers);
     if (v.back.audio) play(v.back.audio);
   }
-  function rateCard(r) {
-    log.record({ type: 'card_review', card: session.card.id, rating: r, ms: Date.now() - session.shownAt });
+  // Choosing a difficulty only marks it; nothing moves on. "Next card" writes the review: the chosen difficulty,
+  // or Easy (4) when none was chosen. One card gives exactly one review event.
+  const EASY = 4;
+  function chooseRating(r) { session.chosen = r; renderStage(); }
+  function record(r) { log.record({ type: 'card_review', card: session.card.id, rating: r, ms: Date.now() - session.shownAt }); }
+  function nextAfterCard() {
+    record(session.chosen || EASY);
     session.left--; session.reviewed++;
     nextCard();
+  }
+  // Ending the session keeps a difficulty that was already chosen; a card that was only looked at is not counted.
+  function endSession() {
+    if (session && session.card && session.revealed && session.chosen) record(session.chosen);
+    session = null; renderStage();
   }
 
   function renderStage() {
@@ -350,12 +362,17 @@ if (typeof document === 'undefined') {
       const actions = el('div', 'fc-actions'); actions.append(show); box.append(actions);
     } else {
       const now = new Date(), pv = CardsLib.previews(cardStates().get(c.id), now, F), grid = el('div', 'fc-rate');
-      [['Знову', 1], ['Важко', 2], ['Добре', 3], ['Легко', 4]].forEach(([label, r]) => {
-        const rb = el('button', 'btn'); rb.append(el('span', null, `${r} · ${label}`), el('small', null, CardsLib.humanize(pv[r], now))); rb.onclick = () => rateCard(r); grid.append(rb);
+      const LABELS = [['Знову', 1], ['Важко', 2], ['Добре', 3], ['Легко', 4]];
+      LABELS.forEach(([label, r]) => {
+        const rb = el('button', session.chosen === r ? 'btn chosen' : 'btn'); rb.append(el('span', null, `${r} · ${label}`), el('small', null, CardsLib.humanize(pv[r], now))); rb.onclick = () => chooseRating(r); grid.append(rb);
       });
       box.append(grid);
+      const chosenLabel = session.chosen ? LABELS.find(([, r]) => r === session.chosen)[0] : null;
+      box.append(el('p', 'meta fc-hint', chosenLabel ? `Обрано: ${chosenLabel}. Можна змінити вибір, далі «Наступна картка».` : 'Не обираєш складність: картка порахується як «Легко».'));
+      const nextBtn = el('button', 'btn primary', 'Наступна картка (Пробіл)'); nextBtn.onclick = nextAfterCard;
+      const nextActions = el('div', 'fc-actions'); nextActions.append(nextBtn); box.append(nextActions);
     }
-    const stop = el('button', 'btn', 'Завершити сесію'); stop.onclick = () => { session = null; renderStage(); };
+    const stop = el('button', 'btn', 'Завершити сесію'); stop.onclick = endSession;
     const tail = el('div', 'fc-actions'); tail.append(stop); box.append(tail);
     stage.append(box);
   }
@@ -363,8 +380,8 @@ if (typeof document === 'undefined') {
     if (!session || !session.card || !$('view-cards').classList.contains('active')) return;
     if (e.target && ['INPUT', 'SELECT', 'TEXTAREA'].includes(e.target.tagName)) return;
     if (!session.revealed) { if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); reveal(); } }
-    else if (['1', '2', '3', '4'].includes(e.key)) rateCard(Number(e.key));
-    else if (e.key === ' ') { e.preventDefault(); rateCard(3); }
+    else if (['1', '2', '3', '4'].includes(e.key)) chooseRating(Number(e.key));   // only marks the difficulty
+    else if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); nextAfterCard(); }
   });
 
   // ---- Where progress is saved

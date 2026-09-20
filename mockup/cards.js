@@ -20,13 +20,16 @@
     ];
   }
 
-  function buildDeck(lessons) {
+  // opts.production === false leaves out the "ua-nl" cards: only "see the Dutch word, recall the meaning" is asked.
+  // Their review history stays in the log, so switching them back on later loses nothing.
+  function buildDeck(lessons, opts = {}) {
+    const production = opts.production !== false;
     const cards = [];
     const notes = new Map();
     for (const lesson of lessons) {
       for (const note of lesson.notes) {
         notes.set(note.id, note);
-        for (const c of cardsFromNote(note)) cards.push({ ...c, lessonId: lesson.id, lessonOrder: lesson.order });
+        for (const c of cardsFromNote(note)) if (production || c.dir === 'nl-ua') cards.push({ ...c, lessonId: lesson.id, lessonOrder: lesson.order });
       }
     }
     return { cards, notes };

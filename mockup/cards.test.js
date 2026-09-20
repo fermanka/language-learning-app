@@ -168,5 +168,29 @@ t('interval labels are human', () => {
   assert.strictEqual(C.humanize(at('2026-09-23T09:00:00Z'), now), '3 дн');
 });
 
+// ---------------------------------------------------------------- production cards switched off
+t('deck without production: one recognition card per note, no reverse cards', () => {
+  const full = C.buildDeck(lessons.slice(0, 2)), lean = C.buildDeck(lessons.slice(0, 2), { production: false });
+  assert(lean.cards.length * 2 === full.cards.length && lean.cards.every((c) => c.dir === 'nl-ua'), `${lean.cards.length} vs ${full.cards.length}`);
+});
+
+t('deck without production: the word just reviewed does not come back as its reverse card', () => {
+  const d = C.buildDeck(lessons.slice(0, 1), { production: false });
+  const now = at('2026-09-20T09:00:00Z');
+  const first = C.queue(d, C.replay([], F), [], now, { limit: 1 })[0];
+  const ev = [review(first.id, 4, now.toISOString())];
+  const next = C.queue(d, C.replay(ev, F), ev, at('2026-09-20T09:00:05Z'), { limit: 1 })[0];
+  assert(next && next.noteId !== first.noteId && next.dir === 'nl-ua', 'the next card must be a different word');
+});
+
+t('deck without production: reverse-card reviews already in the log are ignored, not fatal', () => {
+  const d = C.buildDeck(lessons.slice(0, 1), { production: false });
+  const noteId = d.cards[0].noteId;
+  const ev = [review(`${noteId}:nl-ua`, 3, '2026-09-20T09:00:00Z'), review(`${noteId}:ua-nl`, 3, '2026-09-20T09:01:00Z')];
+  const states = C.replay(ev, F);
+  const s = C.stats(d, states, ev, at('2026-09-21T09:00:00Z'), {});
+  assert(s.total === d.cards.length && Number.isFinite(s.due), JSON.stringify(s));
+});
+
 console.log(bad ? `FAILURES: ${bad}` : 'CARDS TESTS PASSED');
 process.exit(bad ? 1 : 0);

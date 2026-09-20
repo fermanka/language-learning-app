@@ -83,8 +83,8 @@ t('progress: previous lessons done, last one current', rows.slice(0, N - 1).ever
 t('progress shows exercise results for finished lessons', rows[0].textContent.includes('частин практики виконано'));
 t('words page has every lesson', byId['all-words'].children.filter((e) => e.tag === 'h3').length === N);
 byId['next'].onclick();               // last lesson: must not crash
-// ---- flashcards (every lesson is done at this point, so the deck holds every note twice)
-const deckSize = window.LESSONS.reduce((n, L) => n + L.notes.length, 0) * 2;
+// ---- flashcards (every lesson is done at this point, so the deck holds every note once)
+const deckSize = window.LESSONS.reduce((n, L) => n + L.notes.length, 0);   // one card per note: the reverse cards are switched off
 byId['nav'].listeners.click({ target: { dataset: { view: 'cards' } } });   // open the Cards tab
 const stage = () => byId['cards-stage'];
 const press = (label) => {
@@ -97,13 +97,27 @@ t('cards: the stats line shows the whole deck', byId['cards-stats'].textContent.
 t('cards: new cards are capped at 10 a day', byId['cards-stats'].textContent.includes('нових на сьогодні: 10'));
 press('Почати повторення');
 t('cards: a card is shown with the session counter', stage().textContent.includes('Залишилось у сесії: 30'));
+t('cards: the Dutch word comes first, the meaning is hidden until Space', stage().all().some((e) => e.className === 'fc-text') && !stage().all().some((e) => e.className === 'fc-hr'));
 press('Показати відповідь');
 t('cards: the rating buttons show when the card would return', stage().textContent.includes('1 · Знову') && stage().textContent.includes('4 · Легко') && /хв|дн/.test(stage().textContent));
-press('3 · Добре');
-t('cards: one rating is one appended card_review event', reviews().length === 1 && reviews()[0].rating === 3 && /:nl-ua$/.test(reviews()[0].card));
+t('cards: there is a Next card button after the answer is shown', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Наступна картка')));
+press('2 · Важко');
+t('cards: choosing a difficulty does not move on: no event, same card, same counter', reviews().length === 0 && stage().textContent.includes('Залишилось у сесії: 30') && stage().textContent.includes('Обрано: Важко'));
+press('Наступна картка');
+t('cards: Next card writes the chosen difficulty as one card_review event', reviews().length === 1 && reviews()[0].rating === 2 && /:nl-ua$/.test(reviews()[0].card));
 t('cards: the session moves on to the next card', stage().textContent.includes('Залишилось у сесії: 29'));
-for (let i = 0; i < 9; i++) { press('Показати відповідь'); press('3 · Добре'); }
-t('cards: after 10 new cards the daily cap ends the session', stage().textContent.includes('Готово: переглянуто карток 10'));
+press('Показати відповідь');
+t('cards: without a choice the card is announced as Easy', stage().textContent.includes('«Легко»'));
+press('Наступна картка');
+t('cards: Next card without a chosen difficulty counts as Easy', reviews().length === 2 && reviews()[1].rating === 4);
+press('Показати відповідь'); press('1 · Знову'); press('Завершити сесію');
+t('cards: ending the session keeps a difficulty that was already chosen', reviews().length === 3 && reviews()[2].rating === 1);
+press('Почати повторення'); press('Показати відповідь'); press('Завершити сесію');
+t('cards: ending the session does not count a card that was only looked at', reviews().length === 3);
+press('Почати повторення');
+for (let i = 0; i < 7; i++) { press('Показати відповідь'); press('Наступна картка'); }
+t('cards: after 10 new cards the daily cap ends the session', stage().textContent.includes('Готово: переглянуто карток 7') && reviews().length === 10);
+t('cards: the same word never comes back in the session (no reverse cards, ten different cards)', new Set(reviews().map((e) => e.card)).size === 10 && reviews().every((e) => /:nl-ua$/.test(e.card)));
 t('cards: the stats now show no new cards for today', byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
 press('Закрити');
 t('cards: back on the start screen', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Почати повторення')));
