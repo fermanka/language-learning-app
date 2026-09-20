@@ -18,7 +18,7 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
@@ -122,6 +122,22 @@ t('cards: the same word never comes back in the session (no reverse cards, ten d
 t('cards: the stats now show no new cards for today', byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
 press('Закрити');
 t('cards: back on the start screen', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Почати повторення')));
+
+// ---- two directions: Dutch -> Ukrainian (done above) and Ukrainian -> Dutch, each with its own allowance and schedule
+byId['cards-dir'].listeners.click({ target: { dataset: { dir: 'ua-nl' } } });
+t('cards: the reverse direction has its own statistics, its own daily cap of 10', byId['cards-stats'].textContent.includes('Карток у колоді: ' + deckSize) && byId['cards-stats'].textContent.includes('нових на сьогодні: 10'));
+t('cards: the choice of direction is remembered', storage.get('cardsDir') === 'ua-nl');
+press('Почати повторення');
+t('cards: in the reverse direction the Ukrainian side comes first (a type label under it)', stage().all().some((e) => e.className === 'fc-sub'));
+press('Показати відповідь'); press('Наступна картка');
+const rev = () => reviews().filter((e) => /:ua-nl$/.test(e.card));
+t('cards: a reverse review is written to the log as ua-nl', rev().length === 1);
+t('cards: the reverse card is of a word already seen in the Dutch -> Ukrainian direction', reviews().some((e) => e.card === rev()[0].card.replace(':ua-nl', ':nl-ua')));
+press('Показати відповідь'); press('2 · Важко');
+byId['cards-dir'].listeners.click({ target: { dataset: { dir: 'nl-ua' } } });
+t('cards: switching direction ends the session and keeps the difficulty already chosen', rev().length === 2 && reviews()[reviews().length - 1].rating === 2);
+t('cards: back in Dutch -> Ukrainian the start screen shows and its own cap is still used up', !!stage().all().find((e) => e.tag === 'button' && e.textContent.includes('Почати повторення')) && byId['cards-stats'].textContent.includes('нових на сьогодні: 0'));
+t('cards: the ten Dutch -> Ukrainian reviews are untouched by the reverse ones', reviews().filter((e) => /:nl-ua$/.test(e.card)).length === 10);
 
 // ---- saved answers, previous lesson, reset (every lesson is done and the last one is open here)
 const lastL = window.LESSONS[N - 1], evs = () => window.progressLog.events;

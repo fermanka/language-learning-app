@@ -50,10 +50,15 @@
     return states;
   }
 
-  // How many cards were first seen today (for the daily cap on new cards).
-  function newToday(events, now) {
+  // A direction is "nl-ua" (Dutch -> Ukrainian) or "ua-nl" (Ukrainian -> Dutch); no direction = both together.
+  // Each direction has its own daily allowance of new cards, its own queue and its own statistics.
+  const inDir = (dir) => (c) => !dir || c.dir === dir;
+  const cardDir = (id) => id.slice(id.lastIndexOf(':') + 1);
+
+  // How many cards were first seen today (for the daily cap on new cards), in one direction or in all.
+  function newToday(events, now, dir) {
     const first = new Map();
-    events.map((e, i) => ({ e, i })).filter((x) => isReview(x.e)).sort(byTime).forEach(({ e }) => { if (!first.has(e.card)) first.set(e.card, new Date(e.t)); });
+    events.map((e, i) => ({ e, i })).filter((x) => isReview(x.e) && (!dir || cardDir(x.e.card) === dir)).sort(byTime).forEach(({ e }) => { if (!first.has(e.card)) first.set(e.card, new Date(e.t)); });
     let n = 0;
     for (const d of first.values()) if (dayKey(d) === dayKey(now)) n++;
     return n;
@@ -73,12 +78,13 @@
   // Due reviews first (most overdue first), then new cards, within the daily and session caps.
   // New cards come in lesson order, or (cfg.mix) mixed across all lessons and word types, verbs among the nouns.
   function queue(deck, states, events, now, cfg) {
-    const { newPerDay = 10, limit = 30, mix = false } = cfg || {};
-    const due = deck.cards
+    const { newPerDay = 10, limit = 30, mix = false, dir } = cfg || {};
+    const cards = deck.cards.filter(inDir(dir));
+    const due = cards
       .filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now)
       .sort((a, b) => states.get(a.id).due - states.get(b.id).due);
-    const room = Math.max(0, newPerDay - newToday(events, now));
-    const fresh = deck.cards
+    const room = Math.max(0, newPerDay - newToday(events, now, dir));
+    const fresh = cards
       .filter((c) => isNew(states, c.id))
       // production ("ua-nl") is introduced only after the learner has met the Dutch word ("nl-ua")
       .filter((c) => c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`));
@@ -88,12 +94,13 @@
   }
 
   function stats(deck, states, events, now, cfg) {
-    const { newPerDay = 10 } = cfg || {};
-    const due = deck.cards.filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now).length;
-    const eligibleNew = deck.cards.filter((c) => isNew(states, c.id) && (c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`))).length;
-    const newRoom = Math.min(eligibleNew, Math.max(0, newPerDay - newToday(events, now)));
-    const learned = deck.cards.filter((c) => !isNew(states, c.id) && states.get(c.id).state === 2).length;
-    return { total: deck.cards.length, due, newRoom, learned };
+    const { newPerDay = 10, dir } = cfg || {};
+    const cards = deck.cards.filter(inDir(dir));
+    const due = cards.filter((c) => !isNew(states, c.id) && states.get(c.id).due <= now).length;
+    const eligibleNew = cards.filter((c) => isNew(states, c.id) && (c.dir === 'nl-ua' || !isNew(states, `${c.noteId}:nl-ua`))).length;
+    const newRoom = Math.min(eligibleNew, Math.max(0, newPerDay - newToday(events, now, dir)));
+    const learned = cards.filter((c) => !isNew(states, c.id) && states.get(c.id).state === 2).length;
+    return { total: cards.length, due, newRoom, learned };
   }
 
   // When each of the four answers would bring the card back.

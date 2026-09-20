@@ -222,5 +222,43 @@ t('mixed new cards: the daily cap and due cards still come first', () => {
   assert(q.length === 1 + 10, `due + 10 new expected, got ${q.length}`);
 });
 
+// ---------------------------------------------------------------- two directions, each with its own queue and allowance
+t('directions: each direction asks only its own cards', () => {
+  const d = C.buildDeck(lessons.slice(0, 2));
+  const now = at('2026-09-20T09:00:00Z');
+  const a = C.queue(d, new Map(), [], now, { limit: 30, dir: 'nl-ua' }), b = C.queue(d, new Map(), [], now, { limit: 30, dir: 'ua-nl' });
+  assert(a.length > 0 && a.every((c) => c.dir === 'nl-ua'));
+  assert(b.length === 0, 'nothing is asked in the reverse direction before the Dutch word was seen');
+});
+
+t('directions: a word reviewed in Dutch -> Ukrainian becomes available in Ukrainian -> Dutch, not the other way round', () => {
+  const d = C.buildDeck(lessons.slice(0, 1));
+  const now = at('2026-09-20T09:00:00Z');
+  const first = C.queue(d, new Map(), [], now, { limit: 1, dir: 'nl-ua' })[0];
+  const ev = [review(first.id, 4, now.toISOString())];
+  const rev = C.queue(d, C.replay(ev, F), ev, at('2026-09-20T09:00:05Z'), { limit: 30, dir: 'ua-nl' });
+  assert(rev.length === 1 && rev[0].id === `${first.noteId}:ua-nl` && rev[0].dir === 'ua-nl');
+  const fwd = C.queue(d, C.replay(ev, F), ev, at('2026-09-20T09:00:05Z'), { limit: 30, dir: 'nl-ua' });
+  assert(fwd.every((c) => c.noteId !== first.noteId), 'the word does not come back in its own direction');
+});
+
+t('directions: the daily allowance of new cards is counted per direction', () => {
+  const d = C.buildDeck(lessons.slice(0, 3));
+  const now = at('2026-09-20T09:00:00Z');
+  const fwd = C.queue(d, new Map(), [], now, { limit: 10, newPerDay: 10, dir: 'nl-ua' });
+  const ev = fwd.map((c, i) => review(c.id, 4, new Date(now.getTime() + i * 1000).toISOString()));
+  const later = at('2026-09-20T10:00:00Z');
+  assert(C.newToday(ev, later, 'nl-ua') === 10 && C.newToday(ev, later, 'ua-nl') === 0 && C.newToday(ev, later) === 10);
+  assert(C.stats(d, C.replay(ev, F), ev, later, { newPerDay: 10, dir: 'nl-ua' }).newRoom === 0, 'Dutch -> Ukrainian allowance is used up');
+  assert(C.stats(d, C.replay(ev, F), ev, later, { newPerDay: 10, dir: 'ua-nl' }).newRoom === 10, 'Ukrainian -> Dutch has its own 10');
+});
+
+t('directions: statistics count the cards of one direction only', () => {
+  const d = C.buildDeck(lessons.slice(0, 2));
+  const both = C.stats(d, new Map(), [], at('2026-09-20T09:00:00Z'), {});
+  const one = C.stats(d, new Map(), [], at('2026-09-20T09:00:00Z'), { dir: 'nl-ua' });
+  assert(one.total * 2 === both.total, `${one.total} vs ${both.total}`);
+});
+
 console.log(bad ? `FAILURES: ${bad}` : 'CARDS TESTS PASSED');
 process.exit(bad ? 1 : 0);

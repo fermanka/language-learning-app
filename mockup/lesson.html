@@ -105,6 +105,10 @@
   .toolbar button.active { background: var(--accent); color: var(--card); border-color: var(--accent); }
   #reading-status.warn { color: var(--bad); }
   .pstore.warn #pstore-text { color: var(--bad); font-weight: 600; }
+  .dirseg { display: flex; max-width: 540px; margin: 12px auto 10px; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  .dirseg button { flex: 1; font: inherit; background: var(--card); color: var(--ink); border: 0; padding: 9px 6px; cursor: pointer; }
+  .dirseg button + button { border-left: 1px solid var(--line); }
+  .dirseg button.active { background: var(--accent); color: var(--card); font-weight: 600; }
   .fc { max-width: 540px; margin: 18px auto 0; text-align: center; }
   .fc-card { border: 1px solid var(--line); border-radius: 16px; padding: 28px 20px; min-height: 150px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; margin-top: 8px; }
   .fc-text { font-size: 30px; font-weight: 600; line-height: 1.25; }
@@ -204,6 +208,7 @@
 
   <section id="view-cards" class="view">
     <div class="block"><h2><span>Картки</span><span class="dutch">Flitskaarten</span></h2>
+      <div class="dirseg" id="cards-dir"><button data-dir="nl-ua" class="active">Нідерландська → українська</button><button data-dir="ua-nl">Українська → нідерландська</button></div>
       <p class="meta" id="cards-stats" style="margin:0;text-align:center"></p>
       <div id="cards-stage"></div>
     </div>

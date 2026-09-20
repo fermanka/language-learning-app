@@ -295,7 +295,11 @@ if (typeof document === 'undefined') {
   // production: false = only "Dutch word -> meaning" cards. The reverse card of a word used to appear right after the first
   // one (the same word again); turn it on later, once the learner asks for it.
   // sessionCap/shortCap: 10-15 cards a time. mix: new cards come mixed across lessons and word types (verbs among the nouns).
-  const cardCfg = { newPerDay: 10, sessionCap: 15, shortCap: 10, production: false, mix: true };
+  const cardCfg = { newPerDay: 10, sessionCap: 15, shortCap: 10, production: true, mix: true };
+  // Two sub-sections: Dutch -> Ukrainian and Ukrainian -> Dutch. A session never leaves its direction, so a word does not
+  // come back reversed right after it. Every direction has its own new-cards-per-day, queue, statistics and schedule.
+  let cardDir = 'nl-ua';
+  try { if (localStorage.getItem('cardsDir') === 'ua-nl') cardDir = 'ua-nl'; } catch (e) { /* storage may be blocked */ }
   const dutchHelpers = { display, pluralText };
   let session = null; // { left, reviewed, card, revealed, chosen, shownAt }
   // every word of the lessons up to the one the learner is working on (that lesson included), never later ones
@@ -304,15 +308,26 @@ if (typeof document === 'undefined') {
 
   function renderCardsStats() {
     if (!F) { $('cards-stats').textContent = 'Немає бібліотеки планувальника. Виконай npm install у теці застосунку.'; return; }
-    const s = CardsLib.stats(currentDeck(), cardStates(), log.events, new Date(), cardCfg);
+    const s = CardsLib.stats(currentDeck(), cardStates(), log.events, new Date(), { ...cardCfg, dir: cardDir });
     $('cards-stats').textContent = s.total
       ? `Карток у колоді: ${s.total} · на повторення зараз: ${s.due} · нових на сьогодні: ${s.newRoom} · вивчено: ${s.learned}`
       : 'Колода з\'явиться, коли ти позначиш перший урок пройденим.';
   }
 
+  const markDir = () => document.querySelectorAll('#cards-dir button').forEach((b) => b.classList.toggle('active', b.dataset.dir === cardDir));
+  function setDir(d) {
+    if (d === cardDir) return;
+    if (session) endSession();   // leaving a direction ends its session and keeps a difficulty that was already chosen
+    cardDir = d;
+    try { localStorage.setItem('cardsDir', d); } catch (e) { /* ignore */ }
+    markDir(); renderStage();
+  }
+  $('cards-dir').addEventListener('click', (e) => { if (e.target.dataset && e.target.dataset.dir) setDir(e.target.dataset.dir); });
+  markDir();
+
   function startSession(cap) { session = { left: cap, reviewed: 0 }; nextCard(); }
   function nextCard() {
-    const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, limit: 1, mix: cardCfg.mix }) : [];
+    const q = session.left > 0 ? CardsLib.queue(currentDeck(), cardStates(), log.events, new Date(), { newPerDay: cardCfg.newPerDay, limit: 1, mix: cardCfg.mix, dir: cardDir }) : [];
     session.card = q[0] || null; session.revealed = false; session.chosen = null; session.shownAt = Date.now();
     renderStage();
     if (session.card) { const v = CardsLib.present(session.card, currentDeck().notes.get(session.card.noteId), dutchHelpers); if (v.front.audio) play(v.front.audio); }
@@ -356,6 +371,7 @@ if (typeof document === 'undefined') {
       const now = new Date(), states = cardStates();
       const soon = deck.cards.filter((c) => states.has(c.id) && states.get(c.id).due > now && states.get(c.id).due - now <= 20 * 60000).length;
       box.append(el('p', null, session.reviewed ? `Готово: переглянуто карток ${session.reviewed}.` : 'На зараз карток немає.'));
+      if (!session.reviewed && cardDir === 'ua-nl') box.append(el('p', 'meta', 'Слово потрапляє сюди після першого повторення в розділі «Нідерландська → українська».'));
       if (soon) box.append(el('p', 'meta', `Ще ${soon} карток повернуться протягом 20 хвилин.`));
       const end = el('button', 'btn primary', 'Закрити'); end.onclick = () => { session = null; renderStage(); };
       const actions = el('div', 'fc-actions'); actions.append(end); box.append(actions);
