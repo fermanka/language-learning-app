@@ -323,11 +323,10 @@
           ]
         },
         {
-          "prompt": "Ти встаєш.",
-          "cue": "jij + opstaan",
+          "prompt": "Ви (форм.) встаєте.",
+          "cue": "u + opstaan",
           "accepted": [
-            "Jij staat op.",
-            "Je staat op."
+            "U staat op."
           ]
         },
         {
@@ -341,17 +340,17 @@
           ]
         },
         {
-          "prompt": "Я телефоную чоловікові.",
-          "cue": "ik + opbellen; de man",
+          "prompt": "Я телефоную синові.",
+          "cue": "ik + opbellen; de zoon",
           "accepted": [
-            "Ik bel de man op."
+            "Ik bel de zoon op."
           ]
         },
         {
-          "prompt": "Він телефонує моєму синові.",
-          "cue": "hij + opbellen; mijn zoon",
+          "prompt": "Він телефонує чоловікові.",
+          "cue": "hij + opbellen; de man",
           "accepted": [
-            "Hij belt mijn zoon op."
+            "Hij belt de man op."
           ]
         },
         {
@@ -362,34 +361,35 @@
           ]
         },
         {
-          "prompt": "Ти телефонуєш моєму синові?",
-          "cue": "jij + opbellen; mijn zoon; питання",
+          "prompt": "Ти телефонуєш чоловікові?",
+          "cue": "jij + opbellen; de man; питання",
           "accepted": [
-            "Bel jij mijn zoon op?",
-            "Bel je mijn zoon op?"
+            "Bel jij de man op?",
+            "Bel je de man op?"
           ]
         },
         {
-          "prompt": "Коли ти встаєш?",
-          "cue": "wanneer + opstaan + jij",
+          "prompt": "Коли він встає?",
+          "cue": "wanneer + opstaan + hij",
           "accepted": [
-            "Wanneer sta jij op?",
-            "Wanneer sta je op?"
+            "Wanneer staat hij op?"
           ]
         },
         {
-          "prompt": "У мене зараз немає часу.",
-          "cue": "ik + hebben; nu; tijd, без артикля",
+          "prompt": "У нас зараз немає часу.",
+          "cue": "wij + hebben; nu; tijd, без артикля",
           "accepted": [
-            "Ik heb nu geen tijd.",
-            "Nu heb ik geen tijd."
+            "Wij hebben nu geen tijd.",
+            "We hebben nu geen tijd.",
+            "Nu hebben wij geen tijd.",
+            "Nu hebben we geen tijd."
           ]
         },
         {
-          "prompt": "У тижні сім днів.",
-          "cue": "de week + hebben; zeven dagen",
+          "prompt": "Скільки днів у тижні?",
+          "cue": "hoeveel dagen + hebben; de week",
           "accepted": [
-            "De week heeft zeven dagen."
+            "Hoeveel dagen heeft de week?"
           ]
         }
       ]
