@@ -191,7 +191,7 @@ if (typeof document === 'undefined') {
       } else ex.items.forEach((it) => {
         const li = el('li', it.example ? 'example' : '');
         if (ex.type === 'translate' || ex.type === 'transform') {
-          li.append(el('span', null, it.prompt), el('span', 'cue', ` (${it.cue})`));
+          li.append(el('span', null, it.prompt));
           li.append(it.example ? input('wide', null, it.accepted[0]) : input('wide', it.accepted));
         } else if (ex.type === 'gaps') {
           li.append(el('span', 'meta', `${it.hint}  `));
