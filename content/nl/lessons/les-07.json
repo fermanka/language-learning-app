@@ -835,82 +835,85 @@
           ]
         },
         {
-          "prompt": "Ми мусимо йти додому.",
-          "cue": "wij + moeten; naar huis; gaan",
+          "prompt": "Вони мусять йти додому.",
+          "cue": "zij + moeten; naar huis; gaan",
           "accepted": [
-            "Wij moeten naar huis gaan.",
-            "We moeten naar huis gaan."
+            "Zij moeten naar huis gaan.",
+            "Ze moeten naar huis gaan."
           ]
         },
         {
-          "prompt": "Чоловік хоче пити воду.",
-          "cue": "de man + willen; water, без артикля; drinken",
+          "prompt": "Мій син хоче пити воду.",
+          "cue": "mijn zoon + willen; water, без артикля; drinken",
           "accepted": [
-            "De man wil water drinken."
+            "Mijn zoon wil water drinken."
           ]
         },
         {
-          "prompt": "Мені можна зайти на кухню?",
-          "cue": "ik + mogen; de keuken; binnenkomen; питання",
+          "prompt": "Йому можна зайти на кухню?",
+          "cue": "hij + mogen; de keuken; binnenkomen; питання",
           "accepted": [
-            "Mag ik de keuken binnenkomen?"
+            "Mag hij de keuken binnenkomen?"
           ]
         },
         {
-          "prompt": "Чоловік вміє плавати?",
-          "cue": "de man + kunnen; zwemmen; питання",
+          "prompt": "Мій син вміє плавати?",
+          "cue": "mijn zoon + kunnen; zwemmen; питання",
           "accepted": [
-            "Kan de man zwemmen?"
+            "Kan mijn zoon zwemmen?"
           ]
         },
         {
-          "prompt": "Він не вміє плавати.",
-          "cue": "hij + kunnen; niet; zwemmen",
+          "prompt": "Мій син не вміє плавати.",
+          "cue": "mijn zoon + kunnen; niet; zwemmen",
           "accepted": [
-            "Hij kan niet zwemmen."
+            "Mijn zoon kan niet zwemmen."
           ]
         },
         {
-          "prompt": "Вона мусить пити воду щогодини.",
-          "cue": "zij (вона) + moeten; elk uur; water; drinken",
+          "prompt": "Вона мусить пити молоко щогодини.",
+          "cue": "zij (вона) + moeten; elk uur; melk; drinken",
           "accepted": [
-            "Zij moet elk uur water drinken.",
-            "Ze moet elk uur water drinken.",
-            "Elk uur moet zij water drinken.",
-            "Elk uur moet ze water drinken."
+            "Zij moet elk uur melk drinken.",
+            "Ze moet elk uur melk drinken.",
+            "Elk uur moet zij melk drinken.",
+            "Elk uur moet ze melk drinken."
           ]
         },
         {
-          "prompt": "Я щодня їм хліб.",
-          "cue": "ik + eten; elke dag; brood, без артикля",
+          "prompt": "Ми їмо хліб щодня.",
+          "cue": "wij + eten; elke dag; brood, без артикля",
           "accepted": [
-            "Ik eet elke dag brood.",
-            "Elke dag eet ik brood."
+            "Wij eten elke dag brood.",
+            "We eten elke dag brood.",
+            "Elke dag eten wij brood.",
+            "Elke dag eten we brood."
           ]
         },
         {
-          "prompt": "Ми хочемо плавати щотижня.",
-          "cue": "wij + willen; elke week; zwemmen",
+          "prompt": "Вони хочуть плавати щотижня.",
+          "cue": "zij + willen; elke week; zwemmen",
           "accepted": [
-            "Wij willen elke week zwemmen.",
-            "We willen elke week zwemmen.",
-            "Elke week willen wij zwemmen.",
-            "Elke week willen we zwemmen."
+            "Zij willen elke week zwemmen.",
+            "Ze willen elke week zwemmen.",
+            "Elke week willen zij zwemmen.",
+            "Elke week willen ze zwemmen."
           ]
         },
         {
-          "prompt": "У мене немає хліба.",
-          "cue": "ik + hebben; brood, без артикля",
+          "prompt": "У нас немає хліба.",
+          "cue": "wij + hebben; brood, без артикля",
           "accepted": [
-            "Ik heb geen brood."
+            "Wij hebben geen brood.",
+            "We hebben geen brood."
           ]
         },
         {
-          "prompt": "Другий автобус їде до лісу.",
-          "cue": "de tweede bus + rijden; naar het bos",
+          "prompt": "Третій автобус їде додому.",
+          "cue": "de derde bus + rijden; naar huis",
           "accepted": [
-            "De tweede bus rijdt naar het bos.",
-            "De tweede bus gaat naar het bos."
+            "De derde bus rijdt naar huis.",
+            "De derde bus gaat naar huis."
           ]
         },
         {
@@ -922,11 +925,10 @@
           ]
         },
         {
-          "prompt": "Що ти хочеш пити?",
-          "cue": "wat + willen + jij; drinken",
+          "prompt": "Що Ви (форм.) хочете пити?",
+          "cue": "wat + willen + u; drinken",
           "accepted": [
-            "Wat wil jij drinken?",
-            "Wat wil je drinken?"
+            "Wat wilt u drinken?"
           ]
         }
       ]
