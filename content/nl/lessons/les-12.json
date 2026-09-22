@@ -412,40 +412,40 @@
           ]
         },
         {
-          "prompt": "У мене є чашка чаю.",
-          "cue": "ik + hebben; een kopje thee",
+          "prompt": "У нас є чашка кави.",
+          "cue": "wij + hebben; een kopje koffie",
           "accepted": [
-            "Ik heb een kopje thee."
+            "Wij hebben een kopje koffie.",
+            "We hebben een kopje koffie."
           ]
         },
         {
-          "prompt": "У нас є келих пива.",
-          "cue": "wij + hebben; een glas bier",
+          "prompt": "У мого тата є келих пива.",
+          "cue": "mijn vader + hebben; een glas bier",
           "accepted": [
-            "Wij hebben een glas bier.",
-            "We hebben een glas bier."
+            "Mijn vader heeft een glas bier."
           ]
         },
         {
-          "prompt": "Я хочу замовити чашку чаю.",
-          "cue": "ik + willen; een kopje thee; bestellen (в кінці)",
+          "prompt": "Моя мама хоче замовити чашку кави.",
+          "cue": "mijn moeder + willen; een kopje koffie; bestellen (в кінці)",
           "accepted": [
-            "Ik wil een kopje thee bestellen."
+            "Mijn moeder wil een kopje koffie bestellen."
           ]
         },
         {
-          "prompt": "Можна мені каву?",
-          "cue": "mogen; ik; een koffie; питання",
+          "prompt": "Можна мені склянку води?",
+          "cue": "mogen; ik; een glas water; питання",
           "accepted": [
-            "Mag ik een koffie?"
+            "Mag ik een glas water?"
           ]
         },
         {
-          "prompt": "Ти хочеш каву чи чай?",
-          "cue": "jij + willen; koffie of thee; питання",
+          "prompt": "Ти хочеш пиво чи воду?",
+          "cue": "jij + willen; bier of water; питання",
           "accepted": [
-            "Wil je koffie of thee?",
-            "Wil jij koffie of thee?"
+            "Wil je bier of water?",
+            "Wil jij bier of water?"
           ]
         },
         {
@@ -456,10 +456,10 @@
           ]
         },
         {
-          "prompt": "Кава смачна.",
-          "cue": "de koffie + zijn; lekker (після zijn без -e)",
+          "prompt": "Пиво смачне.",
+          "cue": "het bier + zijn; lekker (після zijn без -e)",
           "accepted": [
-            "De koffie is lekker."
+            "Het bier is lekker."
           ]
         },
         {
@@ -479,11 +479,11 @@
           ]
         },
         {
-          "prompt": "Ось чай, будь ласка.",
-          "cue": "hier + zijn; de thee; alsjeblieft",
+          "prompt": "Ось кава, будь ласка.",
+          "cue": "hier + zijn; de koffie; alsjeblieft",
           "accepted": [
-            "Hier is de thee, alsjeblieft.",
-            "Alsjeblieft, hier is de thee."
+            "Hier is de koffie, alsjeblieft.",
+            "Alsjeblieft, hier is de koffie."
           ]
         }
       ]
