@@ -395,63 +395,60 @@
           ]
         },
         {
-          "prompt": "Ти живеш тут?",
-          "cue": "jij + wonen; hier",
+          "prompt": "Ти живеш поблизу лісу?",
+          "cue": "jij + wonen; in de buurt van; het bos",
           "accepted": [
-            "Woon jij hier?",
-            "Woon je hier?"
+            "Woon jij in de buurt van het bos?",
+            "Woon je in de buurt van het bos?"
           ]
         },
         {
-          "prompt": "Де ти живеш?",
-          "cue": "waar + wonen + jij",
+          "prompt": "Де Ви (форм.) живете?",
+          "cue": "waar + wonen + u",
           "accepted": [
-            "Waar woon jij?",
-            "Waar woon je?"
+            "Waar woont u?"
           ]
         },
         {
-          "prompt": "Ви (форм.) живете тут?",
-          "cue": "u + wonen; hier",
+          "prompt": "Ви (форм.) живете в лісі?",
+          "cue": "u + wonen; in het bos",
           "accepted": [
-            "Woont u hier?"
+            "Woont u in het bos?"
           ]
         },
         {
-          "prompt": "Де кухня?",
-          "cue": "waar + zijn; de keuken",
+          "prompt": "Де стіл?",
+          "cue": "waar + zijn; de tafel",
           "accepted": [
-            "Waar is de keuken?"
+            "Waar is de tafel?"
           ]
         },
         {
-          "prompt": "Скільки вікон у кімнаті?",
-          "cue": "hoeveel ramen + hebben; de kamer",
+          "prompt": "Скільки дверей у домі?",
+          "cue": "hoeveel deuren + hebben; het huis",
           "accepted": [
-            "Hoeveel ramen heeft de kamer?"
+            "Hoeveel deuren heeft het huis?"
           ]
         },
         {
-          "prompt": "Що у тебе є?",
-          "cue": "wat + hebben + jij",
+          "prompt": "Що у Вас (форм.) є?",
+          "cue": "wat + hebben + u",
           "accepted": [
-            "Wat heb jij?",
-            "Wat heb je?"
+            "Wat hebt u?"
           ]
         },
         {
-          "prompt": "Дім поблизу лісу.",
-          "cue": "het huis + zijn; in de buurt van; het bos",
+          "prompt": "Мій дім поблизу лісу.",
+          "cue": "mijn huis + zijn; in de buurt van; het bos",
           "accepted": [
-            "Het huis is in de buurt van het bos."
+            "Mijn huis is in de buurt van het bos."
           ]
         },
         {
-          "prompt": "Коли у тебе є час?",
-          "cue": "wanneer + hebben + jij; tijd, без артикля",
+          "prompt": "Коли у Вас (форм.) є час?",
+          "cue": "wanneer + hebben + u; tijd, без артикля",
           "accepted": [
-            "Wanneer heb jij tijd?",
-            "Wanneer heb je tijd?"
+            "Wanneer hebt u tijd?"
           ]
         }
       ]
