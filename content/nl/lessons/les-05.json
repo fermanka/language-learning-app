@@ -646,84 +646,86 @@
           ]
         },
         {
-          "prompt": "Ми йдемо додому.",
-          "cue": "wij + gaan; naar huis",
+          "prompt": "Вони йдуть додому.",
+          "cue": "zij + gaan; naar huis",
           "accepted": [
-            "Wij gaan naar huis.",
-            "We gaan naar huis."
+            "Zij gaan naar huis.",
+            "Ze gaan naar huis."
           ]
         },
         {
-          "prompt": "Він іде пішки до будинку.",
-          "cue": "hij + lopen; naar het huis",
+          "prompt": "Він іде пішки до лісу.",
+          "cue": "hij + lopen; naar het bos",
           "accepted": [
-            "Hij loopt naar het huis."
+            "Hij loopt naar het bos."
           ]
         },
         {
-          "prompt": "Чоловік їде до лісу.",
-          "cue": "de man + rijden; naar het bos",
+          "prompt": "Чоловік їде додому.",
+          "cue": "de man + rijden; naar huis",
           "accepted": [
-            "De man rijdt naar het bos."
+            "De man rijdt naar huis."
           ]
         },
         {
-          "prompt": "Вона сідає в потяг.",
-          "cue": "zij (вона) + instappen; de trein",
+          "prompt": "Ми сідаємо в потяг.",
+          "cue": "wij + instappen; de trein",
           "accepted": [
-            "Zij stapt de trein in.",
-            "Ze stapt de trein in."
+            "Wij stappen de trein in.",
+            "We stappen de trein in."
           ]
         },
         {
-          "prompt": "Вона переходить вулицю.",
-          "cue": "zij (вона) + oversteken; de straat",
+          "prompt": "Ви (мн.) переходите вулицю.",
+          "cue": "jullie + oversteken; de straat",
           "accepted": [
-            "Zij steekt de straat over.",
-            "Ze steekt de straat over."
+            "Jullie steken de straat over."
           ]
         },
         {
-          "prompt": "Зараз я переходжу вулицю.",
-          "cue": "nu; ik + oversteken; de straat",
+          "prompt": "Зараз він переходить вулицю.",
+          "cue": "nu; hij + oversteken; de straat",
           "accepted": [
-            "Nu steek ik de straat over.",
-            "Ik steek nu de straat over."
+            "Nu steekt hij de straat over.",
+            "Hij steekt nu de straat over."
           ]
         },
         {
-          "prompt": "Він заходить у дім.",
-          "cue": "hij + binnenkomen; het huis",
+          "prompt": "Вона заходить у дім.",
+          "cue": "zij (вона) + binnenkomen; het huis",
           "accepted": [
-            "Hij komt het huis binnen."
+            "Zij komt het huis binnen.",
+            "Ze komt het huis binnen."
           ]
         },
         {
-          "prompt": "Коли ви (форм.) йдете додому?",
-          "cue": "wanneer + gaan + u; naar huis",
+          "prompt": "Коли ти йдеш додому?",
+          "cue": "wanneer + gaan + jij; naar huis",
           "accepted": [
-            "Wanneer gaat u naar huis?"
+            "Wanneer ga jij naar huis?",
+            "Wanneer ga je naar huis?"
           ]
         },
         {
-          "prompt": "Телефон не працює.",
-          "cue": "de telefoon + werken; niet",
+          "prompt": "Мій син тут не працює.",
+          "cue": "mijn zoon + werken; hier; niet",
           "accepted": [
-            "De telefoon werkt niet."
+            "Mijn zoon werkt hier niet."
           ]
         },
         {
-          "prompt": "У мене немає телефона.",
-          "cue": "ik + hebben; telefoon, без артикля",
+          "prompt": "У нас немає телефона.",
+          "cue": "wij + hebben; telefoon, без артикля",
           "accepted": [
-            "Ik heb geen telefoon."
+            "Wij hebben geen telefoon.",
+            "We hebben geen telefoon."
           ]
         },
         {
-          "prompt": "У мене є година часу.",
-          "cue": "ik + hebben; een uur; tijd",
+          "prompt": "У нього є година часу.",
+          "cue": "hij + hebben; een uur; tijd",
           "accepted": [
-            "Ik heb een uur tijd."
+            "Hij heeft een uur tijd."
           ]
         }
       ]
