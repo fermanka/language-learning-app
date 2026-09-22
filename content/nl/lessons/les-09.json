@@ -833,73 +833,73 @@
           ]
         },
         {
-          "prompt": "Моя мама не любить вино.",
-          "cue": "mijn moeder + houden van; niet; wijn, без артикля",
+          "prompt": "Мій брат не любить молоко.",
+          "cue": "mijn broer + houden van; niet; melk, без артикля",
           "accepted": [
-            "Mijn moeder houdt niet van wijn."
+            "Mijn broer houdt niet van melk."
           ]
         },
         {
-          "prompt": "Ви (форм.) знаєте мого брата?",
-          "cue": "u + kennen; mijn broer; питання",
+          "prompt": "Ви (форм.) знаєте мою сестру?",
+          "cue": "u + kennen; mijn zus; питання",
           "accepted": [
-            "Kent u mijn broer?"
+            "Kent u mijn zus?"
           ]
         },
         {
-          "prompt": "Тато чекає на сина.",
-          "cue": "de vader + wachten op; de zoon",
+          "prompt": "Мама чекає на доньку.",
+          "cue": "de moeder + wachten op; de dochter",
           "accepted": [
-            "De vader wacht op de zoon."
+            "De moeder wacht op de dochter."
           ]
         },
         {
-          "prompt": "Мама думає про доньку?",
-          "cue": "de moeder + denken aan; de dochter; питання",
+          "prompt": "Тато думає про сина?",
+          "cue": "de vader + denken aan; de zoon; питання",
           "accepted": [
-            "Denkt de moeder aan de dochter?"
+            "Denkt de vader aan de zoon?"
           ]
         },
         {
-          "prompt": "Дитина не дивиться на маму.",
-          "cue": "het kind + kijken naar; niet; de moeder",
+          "prompt": "Дитина не дивиться на тата.",
+          "cue": "het kind + kijken naar; niet; de vader",
           "accepted": [
-            "Het kind kijkt niet naar de moeder."
+            "Het kind kijkt niet naar de vader."
           ]
         },
         {
-          "prompt": "Моя сестра добре говорить.",
-          "cue": "mijn zus + spreken; goed",
+          "prompt": "Моя донька добре говорить.",
+          "cue": "mijn dochter + spreken; goed",
           "accepted": [
-            "Mijn zus spreekt goed."
+            "Mijn dochter spreekt goed."
           ]
         },
         {
-          "prompt": "Мій брат не вміє плавати.",
-          "cue": "mijn broer + kunnen; niet; zwemmen",
+          "prompt": "Моя сестра не вміє плавати.",
+          "cue": "mijn zus + kunnen; niet; zwemmen",
           "accepted": [
-            "Mijn broer kan niet zwemmen."
+            "Mijn zus kan niet zwemmen."
           ]
         },
         {
-          "prompt": "Мій брат не може купити яблука.",
-          "cue": "mijn broer + kunnen; geen appels; kopen",
+          "prompt": "Моя сестра не може купити яйця.",
+          "cue": "mijn zus + kunnen; geen eieren; kopen",
           "accepted": [
-            "Mijn broer kan geen appels kopen."
+            "Mijn zus kan geen eieren kopen."
           ]
         },
         {
-          "prompt": "Моя сестра любить свого брата.",
-          "cue": "mijn zus + houden van; haar broer",
+          "prompt": "Моя донька любить свою маму.",
+          "cue": "mijn dochter + houden van; haar moeder",
           "accepted": [
-            "Mijn zus houdt van haar broer."
+            "Mijn dochter houdt van haar moeder."
           ]
         },
         {
-          "prompt": "У мене є сестра.",
-          "cue": "ik + hebben; een zus",
+          "prompt": "У нього є донька.",
+          "cue": "hij + hebben; een dochter",
           "accepted": [
-            "Ik heb een zus."
+            "Hij heeft een dochter."
           ]
         },
         {
@@ -918,10 +918,11 @@
           ]
         },
         {
-          "prompt": "Він хороший тато.",
-          "cue": "hij + zijn; een goede vader",
+          "prompt": "Вона хороша мама.",
+          "cue": "zij (вона) + zijn; een goede moeder",
           "accepted": [
-            "Hij is een goede vader."
+            "Zij is een goede moeder.",
+            "Ze is een goede moeder."
           ]
         },
         {
