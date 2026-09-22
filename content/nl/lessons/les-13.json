@@ -330,38 +330,38 @@
         "audio": "les13-reading-01.mp3"
       },
       {
-        "nl": "Op maandag werk ik.",
-        "ua": "У понеділок я працюю.",
+        "nl": "Op maandag ga ik naar de winkel.",
+        "ua": "У понеділок я йду до магазину.",
         "audio": "les13-reading-02.mp3"
       },
       {
-        "nl": "Op dinsdag ga ik naar de winkel.",
-        "ua": "У вівторок я йду до магазину.",
+        "nl": "Op dinsdag lees ik een boek.",
+        "ua": "У вівторок я читаю книгу.",
         "audio": "les13-reading-03.mp3"
       },
       {
-        "nl": "Op woensdag lees ik een boek.",
-        "ua": "У середу я читаю книгу.",
+        "nl": "Op woensdag wil ik zwemmen.",
+        "ua": "У середу я хочу плавати.",
         "audio": "les13-reading-04.mp3"
       },
       {
-        "nl": "Op donderdag wil ik zwemmen.",
-        "ua": "У четвер я хочу плавати.",
+        "nl": "Op donderdag bel ik mijn vader op.",
+        "ua": "У четвер я дзвоню татові.",
         "audio": "les13-reading-05.mp3"
       },
       {
-        "nl": "Op vrijdag bel ik mijn moeder op.",
-        "ua": "У п'ятницю я дзвоню мамі.",
+        "nl": "Op vrijdag koop ik brood en kaas.",
+        "ua": "У п'ятницю я купую хліб і сир.",
         "audio": "les13-reading-06.mp3"
       },
       {
-        "nl": "Op zaterdag koop ik brood en kaas.",
-        "ua": "У суботу я купую хліб і сир.",
+        "nl": "Op zaterdag heb ik tijd.",
+        "ua": "У суботу в мене є час.",
         "audio": "les13-reading-07.mp3"
       },
       {
-        "nl": "Op zondag heb ik tijd.",
-        "ua": "У неділю в мене є час.",
+        "nl": "Op zondag werk ik.",
+        "ua": "У неділю я працюю.",
         "audio": "les13-reading-08.mp3"
       },
       {
@@ -391,59 +391,57 @@
           ]
         },
         {
-          "prompt": "У вівторок я йду до магазину.",
-          "cue": "op dinsdag; ik + gaan; naar de winkel",
+          "prompt": "У вівторок моя мама йде до магазину.",
+          "cue": "op dinsdag; mijn moeder + gaan; naar de winkel",
           "accepted": [
-            "Op dinsdag ga ik naar de winkel.",
-            "Ik ga op dinsdag naar de winkel."
+            "Op dinsdag gaat mijn moeder naar de winkel.",
+            "Mijn moeder gaat op dinsdag naar de winkel."
           ]
         },
         {
-          "prompt": "У середу я читаю книгу.",
-          "cue": "op woensdag; ik + lezen; een boek",
+          "prompt": "У середу мій тато читає книгу.",
+          "cue": "op woensdag; mijn vader + lezen; een boek",
           "accepted": [
-            "Op woensdag lees ik een boek.",
-            "Ik lees op woensdag een boek."
+            "Op woensdag leest mijn vader een boek.",
+            "Mijn vader leest op woensdag een boek."
           ]
         },
         {
-          "prompt": "У четвер я хочу плавати.",
-          "cue": "op donderdag; ik + willen; zwemmen (в кінці)",
+          "prompt": "У четвер моя сестра хоче плавати.",
+          "cue": "op donderdag; mijn zus + willen; zwemmen (в кінці)",
           "accepted": [
-            "Op donderdag wil ik zwemmen.",
-            "Ik wil op donderdag zwemmen."
+            "Op donderdag wil mijn zus zwemmen.",
+            "Mijn zus wil op donderdag zwemmen."
           ]
         },
         {
-          "prompt": "У п'ятницю я дзвоню мамі.",
-          "cue": "op vrijdag; ik + opbellen; mijn moeder",
+          "prompt": "У п'ятницю він дзвонить своїй мамі.",
+          "cue": "op vrijdag; hij + opbellen; zijn moeder",
           "accepted": [
-            "Op vrijdag bel ik mijn moeder op.",
-            "Ik bel mijn moeder op vrijdag op."
+            "Op vrijdag belt hij zijn moeder op.",
+            "Hij belt op vrijdag zijn moeder op."
           ]
         },
         {
-          "prompt": "У суботу я купую хліб і сир.",
-          "cue": "op zaterdag; ik + kopen; brood en kaas",
+          "prompt": "У суботу мій тато купує овочі й фрукти.",
+          "cue": "op zaterdag; mijn vader + kopen; groente en fruit",
           "accepted": [
-            "Op zaterdag koop ik brood en kaas.",
-            "Ik koop op zaterdag brood en kaas."
+            "Op zaterdag koopt mijn vader groente en fruit.",
+            "Mijn vader koopt op zaterdag groente en fruit."
           ]
         },
         {
-          "prompt": "Сьогодні понеділок.",
-          "cue": "vandaag; het + zijn; maandag",
+          "prompt": "Сьогодні четвер.",
+          "cue": "vandaag; het + zijn; donderdag",
           "accepted": [
-            "Vandaag is het maandag.",
-            "Het is vandaag maandag."
+            "Vandaag is het donderdag."
           ]
         },
         {
-          "prompt": "Завтра вівторок.",
-          "cue": "morgen; het + zijn; dinsdag",
+          "prompt": "Завтра п'ятниця.",
+          "cue": "morgen; het + zijn; vrijdag",
           "accepted": [
-            "Morgen is het dinsdag.",
-            "Het is morgen dinsdag."
+            "Morgen is het vrijdag."
           ]
         },
         {
@@ -455,12 +453,12 @@
           ]
         },
         {
-          "prompt": "Сьогодні неділя, тому в мене є час.",
-          "cue": "vandaag; het + zijn; zondag; dus; ik + hebben; tijd",
+          "prompt": "Сьогодні субота, тому в мене є час.",
+          "cue": "vandaag; het + zijn; zaterdag; dus; ik + hebben; tijd",
           "accepted": [
-            "Vandaag is het zondag, dus ik heb tijd.",
-            "Vandaag is het zondag dus ik heb tijd.",
-            "Het is vandaag zondag, dus ik heb tijd."
+            "Vandaag is het zaterdag, dus ik heb tijd.",
+            "Vandaag is het zaterdag dus ik heb tijd.",
+            "Het is vandaag zaterdag, dus ik heb tijd."
           ]
         }
       ]
