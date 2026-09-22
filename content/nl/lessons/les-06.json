@@ -417,74 +417,74 @@
           ]
         },
         {
-          "prompt": "Та кімната велика.",
-          "cue": "та (de kamer); zijn; groot",
+          "prompt": "Та кухня велика.",
+          "cue": "та (de keuken); zijn; groot",
           "accepted": [
-            "Die kamer is groot."
+            "Die keuken is groot."
           ]
         },
         {
-          "prompt": "Я їду автобусом.",
-          "cue": "ik + gaan; met de bus",
+          "prompt": "Ми їдемо автобусом.",
+          "cue": "wij + gaan; met de bus",
           "accepted": [
-            "Ik ga met de bus."
+            "Wij gaan met de bus.",
+            "We gaan met de bus."
           ]
         },
         {
-          "prompt": "Вона їде на таксі додому.",
-          "cue": "zij (вона) + gaan; met de taxi; naar huis",
+          "prompt": "Він їде потягом додому.",
+          "cue": "hij + gaan; met de trein; naar huis",
           "accepted": [
-            "Zij gaat met de taxi naar huis.",
-            "Ze gaat met de taxi naar huis."
+            "Hij gaat met de trein naar huis."
           ]
         },
         {
-          "prompt": "Чоловік їде машиною до лісу.",
-          "cue": "de man + rijden; met de auto; naar het bos",
+          "prompt": "Чоловік їде машиною додому.",
+          "cue": "de man + rijden; met de auto; naar huis",
           "accepted": [
-            "De man rijdt met de auto naar het bos.",
-            "De man gaat met de auto naar het bos."
+            "De man rijdt met de auto naar huis.",
+            "De man gaat met de auto naar huis."
           ]
         },
         {
-          "prompt": "Ми йдемо пішки додому.",
-          "cue": "wij + gaan; te voet; naar huis",
+          "prompt": "Вони йдуть пішки додому.",
+          "cue": "zij + gaan; te voet; naar huis",
           "accepted": [
-            "Wij gaan te voet naar huis.",
-            "We gaan te voet naar huis.",
-            "Wij lopen naar huis.",
-            "We lopen naar huis."
+            "Zij gaan te voet naar huis.",
+            "Ze gaan te voet naar huis.",
+            "Zij lopen naar huis.",
+            "Ze lopen naar huis."
           ]
         },
         {
-          "prompt": "Ти їдеш велосипедом?",
-          "cue": "jij + rijden; met de fiets; питання",
+          "prompt": "Ви (форм.) їдете велосипедом?",
+          "cue": "u + rijden; met de fiets; питання",
           "accepted": [
-            "Rijd jij met de fiets?",
-            "Rijd je met de fiets?",
-            "Ga jij met de fiets?",
-            "Ga je met de fiets?"
+            "Rijdt u met de fiets?",
+            "Gaat u met de fiets?"
           ]
         },
         {
-          "prompt": "Я читаю ту книгу.",
-          "cue": "ik + lezen; той (het boek)",
+          "prompt": "Я читаю цю книгу.",
+          "cue": "ik + lezen; цей (het boek)",
           "accepted": [
-            "Ik lees dat boek."
+            "Ik lees dit boek."
           ]
         },
         {
-          "prompt": "Чоловік читає книгу на кухні.",
-          "cue": "de man + lezen; een boek; in de keuken",
+          "prompt": "Вона читає книгу в кімнаті.",
+          "cue": "zij (вона) + lezen; een boek; in de kamer",
           "accepted": [
-            "De man leest een boek in de keuken."
+            "Zij leest een boek in de kamer.",
+            "Ze leest een boek in de kamer."
           ]
         },
         {
-          "prompt": "Я не п'ю вина.",
-          "cue": "ik + drinken; wijn, без артикля",
+          "prompt": "Ми не п'ємо вина.",
+          "cue": "wij + drinken; wijn, без артикля",
           "accepted": [
-            "Ik drink geen wijn."
+            "Wij drinken geen wijn.",
+            "We drinken geen wijn."
           ]
         },
         {
