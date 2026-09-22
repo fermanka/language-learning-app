@@ -580,61 +580,58 @@
           ]
         },
         {
-          "prompt": "Донька ніколи не п'є молоко.",
-          "cue": "de dochter + drinken; nooit; melk, без артикля",
+          "prompt": "Мій син ніколи не п'є молоко.",
+          "cue": "mijn zoon + drinken; nooit; melk, без артикля",
           "accepted": [
-            "De dochter drinkt nooit melk.",
-            "Nooit drinkt de dochter melk."
+            "Mijn zoon drinkt nooit melk."
           ]
         },
         {
-          "prompt": "Іноді ми йдемо пішки до магазину.",
-          "cue": "soms; wij + lopen; naar de winkel",
+          "prompt": "Іноді вони йдуть пішки до магазину.",
+          "cue": "soms; zij + lopen; naar de winkel",
           "accepted": [
-            "Soms lopen wij naar de winkel.",
-            "Soms lopen we naar de winkel.",
-            "Wij lopen soms naar de winkel.",
-            "We lopen soms naar de winkel."
+            "Soms lopen zij naar de winkel.",
+            "Soms lopen ze naar de winkel.",
+            "Zij lopen soms naar de winkel.",
+            "Ze lopen soms naar de winkel."
           ]
         },
         {
-          "prompt": "Вона платить у магазині.",
-          "cue": "zij (вона) + betalen; in de winkel",
+          "prompt": "Мій тато платить у магазині.",
+          "cue": "mijn vader + betalen; in de winkel",
           "accepted": [
-            "Zij betaalt in de winkel.",
-            "Ze betaalt in de winkel."
+            "Mijn vader betaalt in de winkel."
           ]
         },
         {
-          "prompt": "Ми часто йдемо до магазину.",
-          "cue": "vaak; wij + gaan; naar de winkel",
+          "prompt": "Моя мама часто йде до магазину.",
+          "cue": "vaak; mijn moeder + gaan; naar de winkel",
           "accepted": [
-            "Vaak gaan wij naar de winkel.",
-            "Vaak gaan we naar de winkel.",
-            "Wij gaan vaak naar de winkel.",
-            "We gaan vaak naar de winkel."
+            "Vaak gaat mijn moeder naar de winkel.",
+            "Mijn moeder gaat vaak naar de winkel."
           ]
         },
         {
-          "prompt": "Він швидко їсть банан.",
-          "cue": "hij + eten; snel; een banaan",
+          "prompt": "Вона швидко їсть помідор.",
+          "cue": "zij (вона) + eten; snel; een tomaat",
           "accepted": [
-            "Hij eet snel een banaan."
+            "Zij eet snel een tomaat.",
+            "Ze eet snel een tomaat."
           ]
         },
         {
-          "prompt": "Моя сестра любить їсти груші.",
-          "cue": "mijn zus + eten; graag; peren, без артикля",
+          "prompt": "Мій брат любить їсти банани.",
+          "cue": "mijn broer + eten; graag; bananen, без артикля",
           "accepted": [
-            "Mijn zus eet graag peren."
+            "Mijn broer eet graag bananen."
           ]
         },
         {
-          "prompt": "У тебе є банани і апельсини?",
-          "cue": "jij + hebben; bananen; sinaasappels; питання",
+          "prompt": "У тебе є помідори і картопля?",
+          "cue": "jij + hebben; tomaten; aardappelen; питання",
           "accepted": [
-            "Heb jij bananen en sinaasappels?",
-            "Heb je bananen en sinaasappels?"
+            "Heb jij tomaten en aardappelen?",
+            "Heb je tomaten en aardappelen?"
           ]
         },
         {
@@ -645,58 +642,59 @@
           ]
         },
         {
-          "prompt": "Ти купуєш помідори?",
-          "cue": "jij + kopen; tomaten; питання",
+          "prompt": "Ти купуєш груші?",
+          "cue": "jij + kopen; peren; питання",
           "accepted": [
-            "Koop jij tomaten?",
-            "Koop je tomaten?"
+            "Koop jij peren?",
+            "Koop je peren?"
           ]
         },
         {
-          "prompt": "Скільки помідорів ти купуєш?",
-          "cue": "hoeveel tomaten + kopen + jij",
+          "prompt": "Скільки бананів ти купуєш?",
+          "cue": "hoeveel bananen + kopen + jij",
           "accepted": [
-            "Hoeveel tomaten koop jij?",
-            "Hoeveel tomaten koop je?"
+            "Hoeveel bananen koop jij?",
+            "Hoeveel bananen koop je?"
           ]
         },
         {
-          "prompt": "Зараз ти платиш у магазині.",
-          "cue": "nu; jij + betalen; in de winkel",
+          "prompt": "Зараз син платить у магазині.",
+          "cue": "nu; de zoon + betalen; in de winkel",
           "accepted": [
-            "Nu betaal jij in de winkel.",
-            "Nu betaal je in de winkel.",
-            "Jij betaalt nu in de winkel.",
-            "Je betaalt nu in de winkel."
+            "Nu betaalt de zoon in de winkel.",
+            "De zoon betaalt nu in de winkel."
           ]
         },
         {
-          "prompt": "У мене немає картоплі.",
-          "cue": "ik + hebben; aardappelen, без артикля",
+          "prompt": "У нас немає картоплі.",
+          "cue": "wij + hebben; aardappelen, без артикля",
           "accepted": [
-            "Ik heb geen aardappelen."
+            "Wij hebben geen aardappelen.",
+            "We hebben geen aardappelen."
           ]
         },
         {
-          "prompt": "У мене є лише два яблука.",
-          "cue": "ik + hebben; maar; twee appels",
+          "prompt": "У мене є лише три помідори.",
+          "cue": "ik + hebben; maar; drie tomaten",
           "accepted": [
-            "Ik heb maar twee appels."
+            "Ik heb maar drie tomaten."
           ]
         },
         {
-          "prompt": "Мама залюбки хоче купити грушу.",
-          "cue": "de moeder + willen; graag; een peer; kopen",
+          "prompt": "Тато залюбки хоче купити банан.",
+          "cue": "de vader + willen; graag; een banaan; kopen",
           "accepted": [
-            "De moeder wil graag een peer kopen."
+            "De vader wil graag een banaan kopen."
           ]
         },
         {
-          "prompt": "Я хочу купити помідори, але в мене немає часу.",
-          "cue": "ik + willen; tomaten; kopen; maar; ik + hebben; tijd, без артикля",
+          "prompt": "Ми хочемо купити груші, але в нас немає часу.",
+          "cue": "wij + willen; peren; kopen; maar; wij + hebben; tijd, без артикля",
           "accepted": [
-            "Ik wil tomaten kopen, maar ik heb geen tijd.",
-            "Ik wil tomaten kopen maar ik heb geen tijd."
+            "Wij willen peren kopen, maar wij hebben geen tijd.",
+            "We willen peren kopen, maar we hebben geen tijd.",
+            "Wij willen peren kopen maar wij hebben geen tijd.",
+            "We willen peren kopen maar we hebben geen tijd."
           ]
         }
       ]
