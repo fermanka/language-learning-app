@@ -294,17 +294,18 @@
           ]
         },
         {
-          "prompt": "У мене немає сиру.",
-          "cue": "ik + hebben; kaas, без артикля",
+          "prompt": "У нас немає сиру.",
+          "cue": "wij + hebben; kaas, без артикля",
           "accepted": [
-            "Ik heb geen kaas."
+            "Wij hebben geen kaas.",
+            "We hebben geen kaas."
           ]
         },
         {
-          "prompt": "У чоловіка є двоє дітей.",
-          "cue": "de man + hebben; twee kinderen",
+          "prompt": "У чоловіка є троє дітей.",
+          "cue": "de man + hebben; drie kinderen",
           "accepted": [
-            "De man heeft twee kinderen."
+            "De man heeft drie kinderen."
           ]
         },
         {
@@ -339,20 +340,21 @@
           ]
         },
         {
-          "prompt": "Ми щодня купуємо яйця.",
-          "cue": "wij + kopen; dagelijks; eieren, без артикля",
+          "prompt": "Вони щодня купують яйця.",
+          "cue": "zij + kopen; dagelijks; eieren, без артикля",
           "accepted": [
-            "Wij kopen dagelijks eieren.",
-            "We kopen dagelijks eieren.",
-            "Dagelijks kopen wij eieren.",
-            "Dagelijks kopen we eieren."
+            "Zij kopen dagelijks eieren.",
+            "Ze kopen dagelijks eieren.",
+            "Dagelijks kopen zij eieren.",
+            "Dagelijks kopen ze eieren."
           ]
         },
         {
-          "prompt": "Скільки яєць ви (форм.) купуєте?",
-          "cue": "hoeveel eieren + kopen + u",
+          "prompt": "Скільки яєць вона купує?",
+          "cue": "hoeveel eieren + kopen + zij (вона)",
           "accepted": [
-            "Hoeveel eieren koopt u?"
+            "Hoeveel eieren koopt zij?",
+            "Hoeveel eieren koopt ze?"
           ]
         },
         {
@@ -364,19 +366,18 @@
           ]
         },
         {
-          "prompt": "Ми можемо купити яблука.",
-          "cue": "wij + kunnen; appels; kopen",
+          "prompt": "Ви (мн.) можете купити яблука.",
+          "cue": "jullie + kunnen; appels; kopen",
           "accepted": [
-            "Wij kunnen appels kopen.",
-            "We kunnen appels kopen."
+            "Jullie kunnen appels kopen."
           ]
         },
         {
-          "prompt": "Дитині можна щодня їсти яйце.",
-          "cue": "het kind + mogen; dagelijks; een ei; eten",
+          "prompt": "Дитині можна щодня їсти яблуко.",
+          "cue": "het kind + mogen; dagelijks; een appel; eten",
           "accepted": [
-            "Het kind mag dagelijks een ei eten.",
-            "Dagelijks mag het kind een ei eten."
+            "Het kind mag dagelijks een appel eten.",
+            "Dagelijks mag het kind een appel eten."
           ]
         },
         {
