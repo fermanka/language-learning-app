@@ -269,6 +269,7 @@ if (typeof document === 'undefined') {
     renderReading($('b3-text'), L); renderReading($('texts-copy'), L);
     renderPractice(L);
     renderProgress();
+    renderUploadNote();
   }
 
   // Reading aloud is part of the practice: show whether the recording has been sent for the open lesson.
@@ -278,6 +279,16 @@ if (typeof document === 'undefined') {
       ? `Читання вголос: запис надіслано (${sent.at.slice(0, 10)}). Можна записати ще раз, якщо хочеш.`
       : 'Читання вголос: запис ще не надіслано. Це теж частина практики: без нього урок не буде виконаний на 100%. Кнопка «Завантажити запис читання» у розділі «Читання».';
     $('reading-status').classList.toggle('warn', !sent);
+  }
+
+  // The note under the upload button must reflect the OPEN lesson, not whichever lesson was last uploaded --
+  // so it is derived from the log every time the lesson changes, the same way renderReadingStatus is.
+  function renderUploadNote() {
+    const L = LESSONS[current];
+    const sent = log.state().readings[L.id];
+    $('upload-note').textContent = sent
+      ? `Збережено для Les ${L.order}: recordings/${sent.file} (${sent.at.slice(0, 10)}). Скажи Марійке, що запис там.`
+      : 'Файл збережеться лише на цьому ноуті. Марійке перевірить його, коли ти їй скажеш.';
   }
 
   function renderProgress() {
@@ -471,7 +482,7 @@ if (typeof document === 'undefined') {
     box.classList.toggle('warn', warn);
     btn.hidden = !showBtn; btn.textContent = label;
   }
-  log.onChange = () => { renderProgress(); renderStatus(); renderCardsStats(); };
+  log.onChange = () => { renderProgress(); renderStatus(); renderCardsStats(); renderUploadNote(); };
   async function connect(handle) {
     const perm = await handle.requestPermission({ mode: 'readwrite' });
     if (perm !== 'granted') { toast('Доступ до теки не надано.'); return; }
@@ -546,8 +557,7 @@ if (typeof document === 'undefined') {
     const name = `les-${String(L.order).padStart(2, '0')}-${new Date().toISOString().slice(0, 10)}-${f.name}`.replace(/[^\w.\-]+/g, '_');
     try {
       await log.store.saveRecording(name, f);
-      log.record({ type: 'recording_saved', lesson: L.id, file: name });
-      $('upload-note').textContent = `Збережено: recordings/${name}. Скажи Марійке, що запис там.`;
+      log.record({ type: 'recording_saved', lesson: L.id, file: name });   // triggers onChange, which redraws the note
     } catch (e) { $('upload-note').textContent = 'Не вдалося зберегти запис: ' + e.message; }
   };
 

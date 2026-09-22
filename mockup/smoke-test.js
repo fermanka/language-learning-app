@@ -205,6 +205,17 @@ t('reading: the status line shows it was sent', byId['reading-status'].textConte
 byId['reset'].onclick();
 t('reading: a reset makes the recording count as missing again', !rowOf(firstL).textContent.includes('100%') && byId['reading-status'].textContent.includes('ще не надіслано'));
 
+// ---- the upload note must follow the OPEN lesson, never keep showing a file uploaded for a different one
+const secondL = window.LESSONS[1];
+byId['next'].onclick();   // move to secondL, which has no recording yet
+window.progressLog.record({ type: 'recording_saved', lesson: secondL.id, file: 'les-02-y.webm' });
+t('upload note: shows the file just saved for the open lesson', byId['upload-note'].textContent.includes('les-02-y.webm'));
+byId['prev'].onclick();   // back to firstL, which has no recording (it was reset above)
+t('upload note: leaving the lesson drops the other lesson\'s file name', !byId['upload-note'].textContent.includes('les-02-y.webm'));
+byId['next'].onclick();   // reopen secondL
+t('upload note: its own file name is shown again when the lesson reopens', byId['upload-note'].textContent.includes('les-02-y.webm'));
+byId['prev'].onclick();   // back to firstL for the next block
+
 // ---- the open lesson survives a reload: it is remembered every time the learner moves between lessons
 byId['next'].onclick(); byId['next'].onclick(); byId['prev'].onclick(); byId['prev'].onclick();
 t('the lesson you moved to with Previous is the remembered one', storage.get('currentLesson') === window.LESSONS[0].id);
