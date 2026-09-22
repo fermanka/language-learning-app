@@ -654,17 +654,17 @@
           ]
         },
         {
-          "prompt": "Я купую свіжу моркву.",
-          "cue": "ik + kopen; een verse wortel",
+          "prompt": "Я купую свіжий помідор.",
+          "cue": "ik + kopen; een verse tomaat",
           "accepted": [
-            "Ik koop een verse wortel."
+            "Ik koop een verse tomaat."
           ]
         },
         {
-          "prompt": "Їжа смачна.",
-          "cue": "het eten + zijn; lekker",
+          "prompt": "Сир смачний.",
+          "cue": "de kaas + zijn; lekker",
           "accepted": [
-            "Het eten is lekker."
+            "De kaas is lekker."
           ]
         },
         {
@@ -676,11 +676,10 @@
           ]
         },
         {
-          "prompt": "Вона любить солодкий виноград.",
-          "cue": "zij + houden van; zoete druiven",
+          "prompt": "Мій брат любить солодкі яблука.",
+          "cue": "mijn broer + houden van; zoete appels",
           "accepted": [
-            "Zij houdt van zoete druiven.",
-            "Ze houdt van zoete druiven."
+            "Mijn broer houdt van zoete appels."
           ]
         },
         {
@@ -717,74 +716,75 @@
           ]
         },
         {
-          "prompt": "Вона купує велике яблуко.",
-          "cue": "zij + kopen; een grote appel",
+          "prompt": "Він купує великий банан.",
+          "cue": "hij + kopen; een grote banaan",
           "accepted": [
-            "Zij koopt een grote appel.",
-            "Ze koopt een grote appel."
+            "Hij koopt een grote banaan."
           ]
         },
         {
-          "prompt": "Сьогодні я купую кілька груш.",
-          "cue": "vandaag; ik + kopen; een paar peren",
+          "prompt": "Сьогодні моя мама купує кілька помідорів.",
+          "cue": "vandaag; mijn moeder + kopen; een paar tomaten",
           "accepted": [
-            "Vandaag koop ik een paar peren.",
-            "Ik koop vandaag een paar peren."
+            "Vandaag koopt mijn moeder een paar tomaten.",
+            "Mijn moeder koopt vandaag een paar tomaten."
           ]
         },
         {
-          "prompt": "У мене немає хліба, тому я купую хліб.",
-          "cue": "ik + hebben; geen brood; dus; ik + kopen; brood",
+          "prompt": "У нас немає сиру, тому ми купуємо сир.",
+          "cue": "wij + hebben; geen kaas; dus; wij + kopen; kaas",
           "accepted": [
-            "Ik heb geen brood, dus ik koop brood.",
-            "Ik heb geen brood dus ik koop brood."
+            "Wij hebben geen kaas, dus wij kopen kaas.",
+            "We hebben geen kaas, dus we kopen kaas.",
+            "Wij hebben geen kaas dus wij kopen kaas.",
+            "We hebben geen kaas dus we kopen kaas."
           ]
         },
         {
-          "prompt": "Я купую груші, бо вони свіжі.",
-          "cue": "ik + kopen; peren; want; ze + zijn; vers",
+          "prompt": "Я купую помідори, бо вони свіжі.",
+          "cue": "ik + kopen; tomaten; want; ze + zijn; vers",
           "accepted": [
-            "Ik koop peren, want ze zijn vers.",
-            "Ik koop peren, want zij zijn vers.",
-            "Ik koop peren want ze zijn vers.",
-            "Ik koop peren want zij zijn vers."
+            "Ik koop tomaten, want ze zijn vers.",
+            "Ik koop tomaten, want zij zijn vers.",
+            "Ik koop tomaten want ze zijn vers.",
+            "Ik koop tomaten want zij zijn vers."
           ]
         },
         {
-          "prompt": "Потім я їм свіжий хліб.",
-          "cue": "daarna; ik + eten; vers brood",
+          "prompt": "Потім моя сестра їсть свіжий хліб.",
+          "cue": "daarna; mijn zus + eten; vers brood",
           "accepted": [
-            "Daarna eet ik vers brood.",
-            "Ik eet daarna vers brood."
+            "Daarna eet mijn zus vers brood.",
+            "Mijn zus eet daarna vers brood."
           ]
         },
         {
-          "prompt": "Я плачу за моркву.",
-          "cue": "ik + betalen; voor; de wortels",
+          "prompt": "Я плачу за виноград.",
+          "cue": "ik + betalen; voor; de druiven",
           "accepted": [
-            "Ik betaal voor de wortels.",
-            "Ik betaal voor de wortel."
+            "Ik betaal voor de druiven."
           ]
         },
         {
-          "prompt": "У мене також є кілька помідорів.",
-          "cue": "ik + hebben; ook; een paar tomaten",
+          "prompt": "У нас також є кілька груш.",
+          "cue": "wij + hebben; ook; een paar peren",
           "accepted": [
-            "Ik heb ook een paar tomaten."
+            "Wij hebben ook een paar peren.",
+            "We hebben ook een paar peren."
           ]
         },
         {
-          "prompt": "Ці фрукти для дітей.",
-          "cue": "dit fruit + zijn; voor de kinderen",
+          "prompt": "Ці овочі для сім'ї.",
+          "cue": "deze groente + zijn; voor de familie",
           "accepted": [
-            "Dit fruit is voor de kinderen."
+            "Deze groente is voor de familie."
           ]
         },
         {
-          "prompt": "Ця пара живе тут.",
-          "cue": "dit paar + wonen; hier",
+          "prompt": "Ця пара живе там.",
+          "cue": "dit paar + wonen; daar",
           "accepted": [
-            "Dit paar woont hier."
+            "Dit paar woont daar."
           ]
         },
         {
