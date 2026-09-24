@@ -55,7 +55,9 @@ for (const { file, data: lesson } of lessons) {
       const at = `practice[${ei}:${ex.type}].items[${ii}]`;
       if (ex.type === 'matching') {
         if (!item.prompt || !item.answer) fail(where(`${at} needs a prompt and an answer`));
-        sentences.push([at + ' prompt', item.prompt], [at + ' answer', item.answer]);
+        // a prompt with no Latin letters is a Ukrainian gloss, not Dutch text; only Dutch is level-audited
+        if (/[A-Za-z]/.test(item.prompt)) sentences.push([at + ' prompt', item.prompt]);
+        sentences.push([at + ' answer', item.answer]);
         continue;
       }
       if (!item.accepted || !item.accepted.length) fail(where(`${at} has no accepted answers`));
