@@ -1,0 +1,1379 @@
+{
+  "id": "nl-les-23",
+  "lang": "nl",
+  "order": 23,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-42fd2617",
+      "type": "noun",
+      "article": "het",
+      "lemma": "weer",
+      "plural": [],
+      "ua": "погода",
+      "audio": "het-weer.mp3",
+      "explain_ua": "(Het weer is mooi = погода гарна; Wat voor weer is het? = яка погода?). Це інше слово, ніж weer «знову» (Les 10): пишуться однаково, але тут це іменник het-слово. Множини в житті немає. Про погоду з прикметником артикля не ставимо: mooi weer, slecht weer, як water (Les 7). Ee довге [eː], як у thee (Les 12); r чітка"
+    },
+    {
+      "id": "nl-a583ec61",
+      "type": "noun",
+      "article": "de",
+      "lemma": "regen",
+      "plural": [],
+      "ua": "дощ",
+      "audio": "de-regen.mp3",
+      "explain_ua": "(De regen is koud = дощ холодний). Однина, множини в житті немає. Дієслово від нього regenen: Het regent. G це [x], як українське х (Les 1); ee довге [eː]. Англійське rain: підказка для пам'яті"
+    },
+    {
+      "id": "nl-4d80aed1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "sneeuw",
+      "plural": [],
+      "ua": "сніг",
+      "audio": "de-sneeuw.mp3",
+      "explain_ua": "(De sneeuw is wit = сніг білий). Однина, множини в житті немає. Eeuw це довге [eː] і швидке [u], приблизно «снеу»: слухай аудіо. Sn це два звуки, як у «сніг». Англійське snow: підказка для пам'яті"
+    },
+    {
+      "id": "nl-6d1e2324",
+      "type": "noun",
+      "article": "de",
+      "lemma": "wolk",
+      "plural": [
+        "wolken"
+      ],
+      "ua": "хмара",
+      "audio": "de-wolk.mp3",
+      "explain_ua": "(Ik zie veel wolken = я бачу багато хмар). Множина wolken. O коротка [ɔ], як у bos (Les 1). W це [ʋ] (Les 1). Bewolkt це «з хмарами», тобто хмарно"
+    },
+    {
+      "id": "nl-686f90c5",
+      "type": "noun",
+      "article": "de",
+      "lemma": "graad",
+      "plural": [
+        "graden"
+      ],
+      "ua": "градус",
+      "audio": "de-graad.mp3",
+      "explain_ua": "(Het is tien graden = десять градусів). Після числа graden лишається множиною, на відміну від euro (Les 16): tien graden, але tien euro. Aa довге [aː], як у maan (Les 1); d наприкінці читається [t]: тут спирайся на російську, не на українську. G це [x]. Українське «градус» тут підказка для пам'яті, не доказ спорідненості. Множина graden: aa стає a (maan - manen)"
+    },
+    {
+      "id": "nl-6dbaf8b8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "paraplu",
+      "plural": [
+        "paraplu's"
+      ],
+      "ua": "парасолька",
+      "audio": "de-paraplu.mp3",
+      "explain_ua": "(Ik neem een paraplu = я беру парасольку). Множина paraplu's з апострофом: після кінцевої голосної множина з апострофом, як foto's (Les 20). Останнє u це [y], як у uu: такого звука немає ні в українській, ні в англійській, слухай аудіо. Українське «парасолька» тут підказка для пам'яті"
+    },
+    {
+      "id": "nl-e5224083",
+      "type": "noun",
+      "article": "de",
+      "lemma": "lente",
+      "plural": [
+        "lentes"
+      ],
+      "ua": "весна",
+      "audio": "de-lente.mp3",
+      "explain_ua": "(In de lente is het mooi = навесні гарно). Пора року: «навесні» це in de lente. Множина lentes є, але майже не вживається. Ще кажуть het voorjaar (те саме, але ми його не вчимо). E коротка [ɛ], остання e нечітка"
+    },
+    {
+      "id": "nl-e629806f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "zomer",
+      "plural": [
+        "zomers"
+      ],
+      "ua": "літо",
+      "audio": "de-zomer.mp3",
+      "explain_ua": "(In de zomer is het warm = влітку тепло). Множина zomers є, але майже не вживається. Z це [z], як у zon (Les 1); o довге [oː] у відкритому складі: zo-mer. Англійське summer: підказка для пам'яті"
+    },
+    {
+      "id": "nl-ee8d1712",
+      "type": "noun",
+      "article": "de",
+      "lemma": "herfst",
+      "plural": [
+        "herfsten"
+      ],
+      "ua": "осінь",
+      "audio": "de-herfst.mp3",
+      "explain_ua": "(In de herfst regent het vaak = восени часто йде дощ). Множина herfsten майже не вживається. H це [h], а не [x]: легкий видих, як у huis (Les 1). Er коротке, потім fst без голосних. Англійське harvest: підказка для пам'яті"
+    },
+    {
+      "id": "nl-75cbe7b1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "winter",
+      "plural": [
+        "winters"
+      ],
+      "ua": "зима",
+      "audio": "de-winter.mp3",
+      "explain_ua": "(In de winter is het koud = взимку холодно). Множина winters майже не вживається. W це [ʋ], як у wijn (Les 1). Англійське winter: підказка для пам'яті. Українське «зима» тут не допоможе"
+    },
+    {
+      "id": "nl-0023ba9c",
+      "type": "verb",
+      "lemma": "regenen",
+      "ua": "іти (про дощ)",
+      "audio": "regenen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "regen",
+          "audio": "ik-regen.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "regent",
+          "audio": "jij-regent.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "regent",
+          "audio": "u-regent.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "regent",
+          "audio": "hij-regent.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "regenen",
+          "audio": "wij-regenen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "regenen",
+          "audio": "jullie-regenen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "regenen",
+          "audio": "zij-regenen.mp3"
+        }
+      ],
+      "explain_ua": "(Het regent = іде дощ). Живе вживання лише з het: Het regent, Het regent niet, Regent het? Інші рядки таблиці існують лише для повноти: людина не може «регенити». Основа regen + t, як у звичайних дієслів. Українською можна сказати «Іде дощ» без підмета, нідерландською het обов'язкове"
+    },
+    {
+      "id": "nl-02e7404a",
+      "type": "verb",
+      "lemma": "sneeuwen",
+      "ua": "іти (про сніг)",
+      "audio": "sneeuwen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "sneeuw",
+          "audio": "ik-sneeuw.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "sneeuwt",
+          "audio": "jij-sneeuwt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "sneeuwt",
+          "audio": "u-sneeuwt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "sneeuwt",
+          "audio": "hij-sneeuwt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "sneeuwen",
+          "audio": "wij-sneeuwen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "sneeuwen",
+          "audio": "jullie-sneeuwen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "sneeuwen",
+          "audio": "zij-sneeuwen.mp3"
+        }
+      ],
+      "explain_ua": "(Het sneeuwt = іде сніг). Від de sneeuw: основа sneeuw + t. Живе вживання лише з het: Het sneeuwt, Sneeuwt het? Інші рядки таблиці лише для повноти. Eeuw це довге [eː] і швидке [u], слухай аудіо"
+    },
+    {
+      "id": "nl-4aca990d",
+      "type": "verb",
+      "lemma": "waaien",
+      "ua": "віяти (про вітер)",
+      "audio": "waaien.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "waai",
+          "audio": "ik-waai.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "waait",
+          "audio": "jij-waait.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "waait",
+          "audio": "u-waait.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "waait",
+          "audio": "hij-waait.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "waaien",
+          "audio": "wij-waaien.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "waaien",
+          "audio": "jullie-waaien.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "waaien",
+          "audio": "zij-waaien.mp3"
+        }
+      ],
+      "explain_ua": "(Het waait = віє вітер; Het waait buiten = надворі віє вітер). Живе вживання лише з het. Aai це довге [aː] і [j]: «ваєн», слухай аудіо. W це [ʋ], як у wijn (Les 1). Основа waai, тому waait з двома a і i (не «waaït»)"
+    },
+    {
+      "id": "nl-d1900f45",
+      "type": "verb",
+      "lemma": "schijnen",
+      "ua": "світити (про сонце)",
+      "audio": "schijnen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "schijn",
+          "audio": "ik-schijn.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "schijnt",
+          "audio": "jij-schijnt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "schijnt",
+          "audio": "u-schijnt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "schijnt",
+          "audio": "hij-schijnt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "schijnen",
+          "audio": "wij-schijnen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "schijnen",
+          "audio": "jullie-schijnen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "schijnen",
+          "audio": "zij-schijnen.mp3"
+        }
+      ],
+      "explain_ua": "(De zon schijnt = сонце світить). На відміну від regenen, тут є справжній підмет: de zon, а не het. Живе вживання: de zon schijnt. Sch це s + ch, як у school (Les 17); ij це [ɛi], як у mijn (Les 1). Основа schijn + t"
+    },
+    {
+      "id": "nl-3be3dcd9",
+      "type": "adjective",
+      "lemma": "nat",
+      "ua": "мокрий, мокра, мокре, мокрі",
+      "audio": "nat.mp3",
+      "explain_ua": "(форма без закінчення: De jas is nat, een nat T-shirt). A коротка [ɑ], як у man (Les 1). Кінцеве t чітке, без придиху. Het is nat = надворі мокро (після дощу)"
+    },
+    {
+      "id": "nl-68cd47fc",
+      "type": "adjective",
+      "lemma": "natte",
+      "ua": "мокрий",
+      "audio": "natte.mp3",
+      "explain_ua": "(форма з -e: een natte jas, de natte schoenen, natte kleren). Голосна коротка, тому t подвоюється: nat - natte, як wit - witte (Les 21). Пара до nat"
+    },
+    {
+      "id": "nl-eb3958d4",
+      "type": "adjective",
+      "lemma": "droog",
+      "ua": "сухий, суха, сухе, сухі",
+      "audio": "droog.mp3",
+      "explain_ua": "(форма без закінчення: De kleren zijn droog, een droog T-shirt; Het is droog = дощу немає). Oo довге [oː], як у boos (Les 1). G наприкінці це [x], як українське х: droog це «дрох»"
+    },
+    {
+      "id": "nl-2dccc58e",
+      "type": "adjective",
+      "lemma": "droge",
+      "ua": "сухий",
+      "audio": "droge.mp3",
+      "explain_ua": "(форма з -e: een droge trui, de droge sokken, droge kleren). Дві o стають однією: droog - droge, як rood - rode (Les 21). Пара до droog"
+    },
+    {
+      "id": "nl-dd279608",
+      "type": "adjective",
+      "lemma": "zonnig",
+      "ua": "сонячний, сонячна, сонячне, сонячні",
+      "audio": "zonnig.mp3",
+      "explain_ua": "(форма без закінчення: Het is zonnig = сонячно). Від de zon (Les 1) + -ig: як «сонячний» від «сонце». Одна n стає двома: zon - zonnig, бо o коротка. Ig наприкінці нечітке, приблизно «зонех»"
+    },
+    {
+      "id": "nl-f28f0b11",
+      "type": "adjective",
+      "lemma": "zonnige",
+      "ua": "сонячний",
+      "audio": "zonnige.mp3",
+      "explain_ua": "(форма з -e: een zonnige dag, de zonnige dag). Просто zonnig + e. Пара до zonnig"
+    },
+    {
+      "id": "nl-3303ac8c",
+      "type": "adjective",
+      "lemma": "bewolkt",
+      "ua": "хмарний, хмарна, хмарне, хмарні (про небо)",
+      "audio": "bewolkt.mp3",
+      "explain_ua": "(форма без закінчення: Het is bewolkt = хмарно). Складається з be- + wolk (de wolk) + -t: небо «з хмарами». Наголос на wol: be-WOLKT. Be на початку нечітке"
+    },
+    {
+      "id": "nl-46fd05fe",
+      "type": "adjective",
+      "lemma": "bewolkte",
+      "ua": "хмарний",
+      "audio": "bewolkte.mp3",
+      "explain_ua": "(форма з -e: een bewolkte dag, de bewolkte dag). Просто bewolkt + e. Пара до bewolkt"
+    },
+    {
+      "id": "nl-24207625",
+      "type": "function",
+      "lemma": "buiten",
+      "ua": "надворі, на вулиці",
+      "audio": "buiten.mp3",
+      "explain_ua": "(Het is koud buiten = надворі холодно; Ik ga naar buiten = я виходжу надвір). Одне слово для «надворі» і «назовні»: після naar воно значить «надвір». Ui це [œy], як у huis і muis (Les 1): такого звука немає ні в українській, ні в англійській, слухай аудіо. Не змінюється"
+    },
+    {
+      "id": "nl-9455108a",
+      "type": "function",
+      "lemma": "slecht",
+      "ua": "поганий, погано",
+      "audio": "slecht.mp3",
+      "explain_ua": "(Het weer is slecht = погода погана; Het is slecht weer). Протилежність mooi (Les 19) для погоди. Тут лише slecht без -e: slecht weer, Het weer is slecht. Ch це [x], як українське х (Les 1): приблизно «слехт». E коротка [ɛ]"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Het regent: het без предмета",
+      "summary_ua": "Про погоду дієслово потребує het: Het regent. Українською можна «Іде дощ» без підмета, нідерландською підмет обов'язковий. Це не артикль, а «воно».",
+      "see": "Les 13",
+      "compare": [
+        {
+          "form": "Het + regent, sneeuwt, waait",
+          "when_ua": "Дощ, сніг, вітер: підмет завжди het. Про дощ чи сніг ти не питаєш «хто?»: воно просто йде.",
+          "examples": [
+            {
+              "nl": "**Het** regent niet.",
+              "ua": "Дощ не йде.",
+              "audio": "les23-rule-01.mp3"
+            },
+            {
+              "nl": "**Het** sneeuwt soms.",
+              "ua": "Іноді йде сніг.",
+              "audio": "les23-rule-02.mp3"
+            },
+            {
+              "nl": "**Het** waait vandaag.",
+              "ua": "Сьогодні віє вітер.",
+              "audio": "les23-rule-03.mp3"
+            },
+            {
+              "nl": "Regent **het** nu?",
+              "ua": "Зараз іде дощ?",
+              "audio": "les23-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Не Regent. Завжди Het regent."
+        },
+        {
+          "form": "De zon schijnt: тут є справжній підмет",
+          "when_ua": "З сонцем підмет це de zon, а не het.",
+          "examples": [
+            {
+              "nl": "**De zon** schijnt vandaag.",
+              "ua": "Сьогодні світить сонце.",
+              "audio": "les23-rule-05.mp3"
+            },
+            {
+              "nl": "Schijnt **de zon** nu?",
+              "ua": "Зараз світить сонце?",
+              "audio": "les23-rule-06.mp3"
+            },
+            {
+              "nl": "**De zon** schijnt niet.",
+              "ua": "Сонце не світить.",
+              "audio": "les23-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Не Het schijnt: тут підмет de zon."
+        }
+      ],
+      "points_ua": [
+        "Дощ, сніг, вітер: Het regent, Het sneeuwt, Het waait.",
+        "Сонце: De zon schijnt."
+      ]
+    },
+    {
+      "title_ua": "Het is koud: het is + прикметник чи число",
+      "summary_ua": "Стан погоди: Het is + прикметник. Температура: Het is + число + graden. Дієслово is стоїть завжди, навіть коли українською його немає: «Тепло», «Десять градусів».",
+      "see": "Les 13",
+      "compare": [
+        {
+          "form": "Het is + прикметник",
+          "when_ua": "Після is прикметник без -e (як у Les 19 і Les 21).",
+          "examples": [
+            {
+              "nl": "Het is **warm**.",
+              "ua": "Тепло.",
+              "audio": "les23-rule-08.mp3"
+            },
+            {
+              "nl": "Het is **bewolkt**.",
+              "ua": "Хмарно.",
+              "audio": "les23-rule-09.mp3"
+            },
+            {
+              "nl": "Het is **droog**.",
+              "ua": "Сухо.",
+              "audio": "les23-rule-10.mp3"
+            },
+            {
+              "nl": "Het is **zonnig**.",
+              "ua": "Сонячно.",
+              "audio": "les23-rule-11.mp3"
+            },
+            {
+              "nl": "Het is nat **buiten**.",
+              "ua": "Надворі мокро.",
+              "audio": "les23-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Buiten стоїть після прикметника. Не Is warm: het обов'язкове."
+        },
+        {
+          "form": "Het is + число + graden",
+          "when_ua": "Після числа graden лишається множиною, на відміну від euro (Les 16). Питання: Hoeveel graden is het?",
+          "examples": [
+            {
+              "nl": "Het is **vijf graden**.",
+              "ua": "П'ять градусів.",
+              "audio": "les23-rule-13.mp3"
+            },
+            {
+              "nl": "Het is **twintig graden**.",
+              "ua": "Двадцять градусів.",
+              "audio": "les23-rule-14.mp3"
+            },
+            {
+              "nl": "**Hoeveel graden** is het?",
+              "ua": "Скільки градусів?",
+              "audio": "les23-rule-15.mp3"
+            },
+            {
+              "nl": "**Hoe warm** is het buiten?",
+              "ua": "Наскільки тепло надворі?",
+              "audio": "les23-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Tien graden, але tien euro: graden лишається множиною."
+        }
+      ],
+      "points_ua": [
+        "Het is koud. Het is tien graden.",
+        "Питання: Hoeveel graden is het? Hoe warm is het?"
+      ]
+    },
+    {
+      "title_ua": "Het weer, але mooi weer: без артикля",
+      "summary_ua": "Het weer це het-слово. Але з прикметником про погоду артикля немає: mooi weer, slecht weer, як water і melk (Les 7).",
+      "see": "Les 12",
+      "compare": [
+        {
+          "form": "Het weer is ...: з артиклем",
+          "when_ua": "Коли weer підмет, ставимо het: Het weer is slecht.",
+          "examples": [
+            {
+              "nl": "**Het weer** is slecht.",
+              "ua": "Погода погана.",
+              "audio": "les23-rule-17.mp3"
+            },
+            {
+              "nl": "**Het weer** in de stad is mooi.",
+              "ua": "Погода в місті гарна.",
+              "audio": "les23-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Вчи іменник з артиклем: het weer."
+        },
+        {
+          "form": "Het is mooi weer: без артикля",
+          "when_ua": "Прикметник + weer без артикля, коли говоримо про погоду взагалі.",
+          "examples": [
+            {
+              "nl": "Vandaag is het **slecht weer**.",
+              "ua": "Сьогодні погана погода.",
+              "audio": "les23-rule-19.mp3"
+            },
+            {
+              "nl": "Morgen is het **koud weer**.",
+              "ua": "Завтра холодна погода.",
+              "audio": "les23-rule-20.mp3"
+            },
+            {
+              "nl": "Het is **warm weer**.",
+              "ua": "Тепла погода.",
+              "audio": "les23-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Не een mooi weer. Слово weer тут як речовина: mooi weer, slecht weer."
+        }
+      ],
+      "points_ua": [
+        "Het weer is mooi. Het is mooi weer.",
+        "Mooi weer, slecht weer, koud weer: без артикля."
+      ]
+    },
+    {
+      "title_ua": "In de zomer: пори року з in",
+      "summary_ua": "Про пору року кажемо in de + пора: in de zomer. Про день тижня кажемо op: op maandag (Les 13). Усі чотири пори року це de-слова.",
+      "see": "Les 13",
+      "compare": [
+        {
+          "form": "In de lente, zomer, herfst, winter",
+          "when_ua": "Українською «навесні, влітку, восени, взимку» це форма слова. Нідерландською це in de + слово.",
+          "examples": [
+            {
+              "nl": "**In de lente** waait het vaak.",
+              "ua": "Навесні часто віє вітер.",
+              "audio": "les23-rule-22.mp3"
+            },
+            {
+              "nl": "**In de herfst** regent het vaak.",
+              "ua": "Восени часто йде дощ.",
+              "audio": "les23-rule-23.mp3"
+            },
+            {
+              "nl": "**In de zomer** zwem ik veel.",
+              "ua": "Влітку я багато плаваю.",
+              "audio": "les23-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Не op de zomer: пора року це in."
+        },
+        {
+          "form": "Op maandag: день тижня з op",
+          "when_ua": "Для порівняння: день тижня це op, пора року це in.",
+          "examples": [
+            {
+              "nl": "**Op maandag** regent het.",
+              "ua": "У понеділок іде дощ.",
+              "audio": "les23-rule-25.mp3"
+            },
+            {
+              "nl": "**Op zaterdag** schijnt de zon.",
+              "ua": "У суботу світить сонце.",
+              "audio": "les23-rule-26.mp3"
+            }
+          ],
+          "note_ua": "In de winter, але op maandag."
+        }
+      ],
+      "points_ua": [
+        "In de zomer, in de winter: пора року з in de.",
+        "Op maandag: день тижня з op."
+      ]
+    },
+    {
+      "title_ua": "Vandaag regent het: дієслово на другому місці",
+      "summary_ua": "V2 працює й з het: якщо на першому місці час чи місце, het стає після дієслова. Питання теж починається з дієслова.",
+      "see": "Les 17",
+      "compare": [
+        {
+          "form": "Час на першому місці: Vandaag regent het",
+          "when_ua": "Перше місце: vandaag, morgen, nu. Друге: дієслово. Потім het.",
+          "examples": [
+            {
+              "nl": "Morgen **sneeuwt het**.",
+              "ua": "Завтра йде сніг.",
+              "audio": "les23-rule-27.mp3"
+            },
+            {
+              "nl": "Nu **regent het** niet.",
+              "ua": "Зараз дощу немає.",
+              "audio": "les23-rule-28.mp3"
+            },
+            {
+              "nl": "Vandaag **is het** nat.",
+              "ua": "Сьогодні мокро.",
+              "audio": "les23-rule-29.mp3"
+            },
+            {
+              "nl": "**Regent het** vandaag?",
+              "ua": "Сьогодні йде дощ?",
+              "audio": "les23-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Не Vandaag het regent: дієслово завжди на другому місці."
+        },
+        {
+          "form": "Пора чи місце на першому місці",
+          "when_ua": "Те саме правило: In de winter is het koud.",
+          "examples": [
+            {
+              "nl": "In de winter **is het** koud.",
+              "ua": "Взимку холодно.",
+              "audio": "les23-rule-31.mp3"
+            },
+            {
+              "nl": "Buiten **is het** warm.",
+              "ua": "Надворі тепло.",
+              "audio": "les23-rule-32.mp3"
+            },
+            {
+              "nl": "In de zomer **regent het** soms.",
+              "ua": "Влітку іноді йде дощ.",
+              "audio": "les23-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Het завжди прилипає до дієслова праворуч."
+        }
+      ],
+      "points_ua": [
+        "Vandaag regent het. In de winter is het koud.",
+        "Питання: Regent het? Is het koud?"
+      ]
+    },
+    {
+      "title_ua": "Nat - natte, droog - droge: -e чи ні",
+      "summary_ua": "Те саме правило -e, що в Les 19 і Les 21. Після zijn без -e. Перед іменником -e, крім het-слова в однині з een. Зміни в написанні: nat - natte, droog - droge.",
+      "see": "Les 21",
+      "compare": [
+        {
+          "form": "Після is / zijn: без -e",
+          "when_ua": "Прикметник в кінці речення не змінюється.",
+          "examples": [
+            {
+              "nl": "De schoenen zijn **nat**.",
+              "ua": "Туфлі мокрі.",
+              "audio": "les23-rule-34.mp3"
+            },
+            {
+              "nl": "De kleren zijn **droog**.",
+              "ua": "Одяг сухий.",
+              "audio": "les23-rule-35.mp3"
+            }
+          ],
+          "note_ua": "Не De schoenen zijn natte."
+        },
+        {
+          "form": "Перед іменником: natte, droge",
+          "when_ua": "Перед de-словом і множиною -e є. Перед het-словом з een -e немає.",
+          "examples": [
+            {
+              "nl": "Zij draagt **natte** kleren.",
+              "ua": "Вона носить мокрий одяг.",
+              "audio": "les23-rule-36.mp3"
+            },
+            {
+              "nl": "Hij heeft een **droge** trui.",
+              "ua": "У нього є суха кофта.",
+              "audio": "les23-rule-37.mp3"
+            },
+            {
+              "nl": "Ik heb een **nat** T-shirt.",
+              "ua": "У мене мокра футболка.",
+              "audio": "les23-rule-38.mp3"
+            }
+          ],
+          "note_ua": "T-shirt це het-слово, тому een nat, але het natte T-shirt. Nat - natte: t подвоюється (як wit - witte). Droog - droge: дві o стають однією (як rood - rode)."
+        },
+        {
+          "form": "Zonnig - zonnige, bewolkt - bewolkte",
+          "when_ua": "Dag це de-слово, тому перед ним -e.",
+          "examples": [
+            {
+              "nl": "Het is een **zonnige** dag.",
+              "ua": "Це сонячний день.",
+              "audio": "les23-rule-39.mp3"
+            },
+            {
+              "nl": "Het is een **bewolkte** dag.",
+              "ua": "Це хмарний день.",
+              "audio": "les23-rule-40.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Het is zonnig (без -e), Het is een zonnige dag (з -e)."
+        }
+      ],
+      "points_ua": [
+        "Після zijn: nat, droog, zonnig, bewolkt. Перед іменником: natte, droge, zonnige, bewolkte.",
+        "Een nat T-shirt, het natte T-shirt."
+      ]
+    },
+    {
+      "title_ua": "Het regent weer, але het weer",
+      "summary_ua": "Weer це два різні слова, що пишуться однаково. Weer «знову» (Les 10) це прислівник. Het weer «погода» це іменник з het.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "weer = знову",
+          "when_ua": "Прислівник, як altijd і vaak: після дієслова.",
+          "examples": [
+            {
+              "nl": "Het regent **weer**.",
+              "ua": "Знову йде дощ.",
+              "audio": "les23-rule-41.mp3"
+            },
+            {
+              "nl": "Vandaag sneeuwt het **weer**.",
+              "ua": "Сьогодні знову йде сніг.",
+              "audio": "les23-rule-42.mp3"
+            },
+            {
+              "nl": "Het is **weer** koud.",
+              "ua": "Знову холодно.",
+              "audio": "les23-rule-43.mp3"
+            }
+          ],
+          "note_ua": "Het regent weer це не «дощ і погода», а «знову дощ»."
+        },
+        {
+          "form": "het weer = погода",
+          "when_ua": "Іменник з het. Стоїть як підмет чи в питанні.",
+          "examples": [
+            {
+              "nl": "**Het weer** is mooi.",
+              "ua": "Погода гарна.",
+              "audio": "les23-rule-44.mp3"
+            },
+            {
+              "nl": "Hoe is **het weer**?",
+              "ua": "Яка погода?",
+              "audio": "les23-rule-45.mp3"
+            },
+            {
+              "nl": "**Het weer** is **weer** slecht.",
+              "ua": "Погода знову погана.",
+              "audio": "les23-rule-46.mp3"
+            }
+          ],
+          "note_ua": "В останньому реченні є обидва: het weer (погода) і weer (знову)."
+        }
+      ],
+      "points_ua": [
+        "Het regent weer = знову дощ. Het weer is mooi = погода гарна.",
+        "Слово те саме, значення різні: дивись, чи є перед ним het."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Het regent.",
+      "ua": "Іде дощ.",
+      "audio": "les23-example-01.mp3"
+    },
+    {
+      "nl": "Het sneeuwt vandaag.",
+      "ua": "Сьогодні йде сніг.",
+      "audio": "les23-example-02.mp3"
+    },
+    {
+      "nl": "Het waait buiten.",
+      "ua": "Надворі віє вітер.",
+      "audio": "les23-example-03.mp3"
+    },
+    {
+      "nl": "De zon schijnt.",
+      "ua": "Сонце світить.",
+      "audio": "les23-example-04.mp3"
+    },
+    {
+      "nl": "Wat voor weer is het?",
+      "ua": "Яка погода?",
+      "audio": "les23-example-05.mp3"
+    },
+    {
+      "nl": "Het is mooi weer.",
+      "ua": "Гарна погода.",
+      "audio": "les23-example-06.mp3"
+    },
+    {
+      "nl": "Het is koud, dus ik draag een muts.",
+      "ua": "Холодно, тому я ношу шапку.",
+      "audio": "les23-example-07.mp3"
+    },
+    {
+      "nl": "Het is tien graden.",
+      "ua": "Десять градусів.",
+      "audio": "les23-example-08.mp3"
+    },
+    {
+      "nl": "In de zomer is het warm.",
+      "ua": "Влітку тепло.",
+      "audio": "les23-example-09.mp3"
+    },
+    {
+      "nl": "Vandaag regent het, dus ik neem een paraplu.",
+      "ua": "Сьогодні йде дощ, тому я беру парасольку.",
+      "audio": "les23-example-10.mp3"
+    },
+    {
+      "nl": "De jas is nat.",
+      "ua": "Куртка мокра.",
+      "audio": "les23-example-11.mp3"
+    },
+    {
+      "nl": "Ik draag droge sokken.",
+      "ua": "Я ношу сухі шкарпетки.",
+      "audio": "les23-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Het weer in Nederland",
+    "title_ua": "Погода в Нідерландах",
+    "highlight": [
+      "nl-42fd2617",
+      "nl-6d1e2324",
+      "nl-686f90c5",
+      "nl-6dbaf8b8",
+      "nl-e5224083",
+      "nl-e629806f",
+      "nl-ee8d1712",
+      "nl-75cbe7b1",
+      "nl-3be3dcd9",
+      "nl-dd279608",
+      "nl-3303ac8c",
+      "nl-9455108a"
+    ],
+    "sentences": [
+      {
+        "nl": "Het weer in Nederland is vaak slecht.",
+        "ua": "Погода в Нідерландах часто погана.",
+        "audio": "les23-reading-01.mp3"
+      },
+      {
+        "nl": "In de winter is het koud en nat.",
+        "ua": "Взимку холодно й мокро.",
+        "audio": "les23-reading-02.mp3"
+      },
+      {
+        "nl": "In Nederland sneeuwt het niet vaak.",
+        "ua": "У Нідерландах сніг іде не часто.",
+        "audio": "les23-reading-03.mp3"
+      },
+      {
+        "nl": "In de lente is het zonnig of bewolkt.",
+        "ua": "Навесні сонячно або хмарно.",
+        "audio": "les23-reading-04.mp3"
+      },
+      {
+        "nl": "In de zomer is het soms dertig graden.",
+        "ua": "Влітку іноді тридцять градусів.",
+        "audio": "les23-reading-05.mp3"
+      },
+      {
+        "nl": "In de herfst regent het veel.",
+        "ua": "Восени багато дощів.",
+        "audio": "les23-reading-06.mp3"
+      },
+      {
+        "nl": "Het waait ook vaak.",
+        "ua": "Також часто віє вітер.",
+        "audio": "les23-reading-07.mp3"
+      },
+      {
+        "nl": "Ik zie veel wolken, dus ik neem een paraplu.",
+        "ua": "Я бачу багато хмар, тому беру парасольку.",
+        "audio": "les23-reading-08.mp3"
+      },
+      {
+        "nl": "Ik draag een muts, want het is koud.",
+        "ua": "Я ношу шапку, бо холодно.",
+        "audio": "les23-reading-09.mp3"
+      },
+      {
+        "nl": "Wat voor weer is het vandaag?",
+        "ua": "Яка погода сьогодні?",
+        "audio": "les23-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Завтра світить сонце.",
+          "accepted": [
+            "Morgen schijnt de zon.",
+            "De zon schijnt morgen."
+          ]
+        },
+        {
+          "prompt": "Завтра йде дощ.",
+          "accepted": [
+            "Morgen regent het.",
+            "Het regent morgen."
+          ]
+        },
+        {
+          "prompt": "Восени іноді холодно.",
+          "accepted": [
+            "In de herfst is het soms koud.",
+            "Het is soms koud in de herfst."
+          ]
+        },
+        {
+          "prompt": "Сьогодні п'ятнадцять градусів.",
+          "accepted": [
+            "Vandaag is het vijftien graden.",
+            "Het is vandaag vijftien graden."
+          ]
+        },
+        {
+          "prompt": "Я беру парасольку, бо йде дощ.",
+          "accepted": [
+            "Ik neem een paraplu, want het regent.",
+            "Ik neem een paraplu want het regent."
+          ]
+        },
+        {
+          "prompt": "Мій одяг мокрий.",
+          "accepted": [
+            "Mijn kleren zijn nat."
+          ]
+        },
+        {
+          "prompt": "Взимку часто йде сніг.",
+          "accepted": [
+            "In de winter sneeuwt het vaak.",
+            "Het sneeuwt vaak in de winter."
+          ]
+        },
+        {
+          "prompt": "Погода сьогодні погана.",
+          "accepted": [
+            "Het weer is vandaag slecht.",
+            "Vandaag is het weer slecht."
+          ]
+        },
+        {
+          "prompt": "Зараз надворі сонячно.",
+          "accepted": [
+            "Het is nu zonnig buiten.",
+            "Nu is het zonnig buiten.",
+            "Buiten is het nu zonnig.",
+            "Nu is het buiten zonnig.",
+            "Het is buiten nu zonnig."
+          ]
+        },
+        {
+          "prompt": "У понеділок іде сніг.",
+          "accepted": [
+            "Op maandag sneeuwt het.",
+            "Het sneeuwt op maandag."
+          ]
+        },
+        {
+          "prompt": "У неї є нова парасолька.",
+          "accepted": [
+            "Zij heeft een nieuwe paraplu.",
+            "Ze heeft een nieuwe paraplu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: погода, з -e чи без -e, in чи op",
+      "bank": [
+        "regent",
+        "sneeuwt",
+        "waait",
+        "schijnt",
+        "bewolkt",
+        "nat",
+        "natte",
+        "droog",
+        "droge",
+        "graden",
+        "winter",
+        "weer",
+        "buiten",
+        "op",
+        "in"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Het ___ vandaag.",
+          "hint": "Сьогодні йде дощ",
+          "accepted": [
+            [
+              "regent"
+            ]
+          ]
+        },
+        {
+          "text": "De zon ___ nu.",
+          "hint": "Зараз світить сонце",
+          "accepted": [
+            [
+              "schijnt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik zie veel wolken, dus het is ___.",
+          "hint": "Я бачу багато хмар, тому хмарно",
+          "accepted": [
+            [
+              "bewolkt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik draag een ___ jas.",
+          "hint": "суха куртка (de jas)",
+          "accepted": [
+            [
+              "droge"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn sokken zijn ___.",
+          "hint": "Шкарпетки мокрі (після zijn)",
+          "accepted": [
+            [
+              "nat"
+            ]
+          ]
+        },
+        {
+          "text": "___ het buiten?",
+          "hint": "Надворі віє вітер?",
+          "accepted": [
+            [
+              "Waait",
+              "waait"
+            ]
+          ]
+        },
+        {
+          "text": "___ de ___ sneeuwt het vaak.",
+          "hint": "Взимку часто йде сніг",
+          "accepted": [
+            [
+              "In",
+              "in"
+            ],
+            [
+              "winter"
+            ]
+          ]
+        },
+        {
+          "text": "Het is twintig ___.",
+          "hint": "Двадцять градусів",
+          "accepted": [
+            [
+              "graden"
+            ]
+          ]
+        },
+        {
+          "text": "___ zaterdag schijnt de zon.",
+          "hint": "У суботу (день тижня)",
+          "accepted": [
+            [
+              "Op",
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Het ___ niet, dus ik draag geen muts.",
+          "hint": "Сніг не йде, тому я не ношу шапку",
+          "accepted": [
+            [
+              "sneeuwt"
+            ]
+          ]
+        },
+        {
+          "text": "Vandaag is het slecht ___.",
+          "hint": "Сьогодні погана погода (без артикля)",
+          "accepted": [
+            [
+              "weer"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ga naar ___, want de zon schijnt.",
+          "hint": "Я виходжу надвір, бо світить сонце",
+          "accepted": [
+            [
+              "buiten"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: заперечення, питання, порядок слів, -e",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Het regent.",
+          "cue": "-> Het regent niet.",
+          "accepted": [
+            "Het regent niet."
+          ]
+        },
+        {
+          "prompt": "Het sneeuwt.",
+          "cue": "-> постав питання: Sneeuwt het?",
+          "accepted": [
+            "Sneeuwt het?"
+          ]
+        },
+        {
+          "prompt": "Het is koud.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag is het koud."
+          ]
+        },
+        {
+          "prompt": "Het is nat in de herfst.",
+          "cue": "-> починай з In de herfst",
+          "accepted": [
+            "In de herfst is het nat."
+          ]
+        },
+        {
+          "prompt": "De zon schijnt.",
+          "cue": "-> постав питання: Schijnt ...?",
+          "accepted": [
+            "Schijnt de zon?"
+          ]
+        },
+        {
+          "prompt": "Het waait vandaag.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag waait het."
+          ]
+        },
+        {
+          "prompt": "Het is mooi weer.",
+          "cue": "-> Het weer is ...",
+          "accepted": [
+            "Het weer is mooi."
+          ]
+        },
+        {
+          "prompt": "Het weer is slecht.",
+          "cue": "-> Het is ... weer",
+          "accepted": [
+            "Het is slecht weer."
+          ]
+        },
+        {
+          "prompt": "De jas is nat.",
+          "cue": "-> Ik heb een ... jas",
+          "accepted": [
+            "Ik heb een natte jas."
+          ]
+        },
+        {
+          "prompt": "De kleren zijn droog.",
+          "cue": "-> Ik draag ... kleren",
+          "accepted": [
+            "Ik draag droge kleren."
+          ]
+        },
+        {
+          "prompt": "Het regent, dus ik neem een paraplu.",
+          "cue": "-> Ik neem een paraplu, want ...",
+          "accepted": [
+            "Ik neem een paraplu, want het regent.",
+            "Ik neem een paraplu want het regent."
+          ]
+        },
+        {
+          "prompt": "Het is een bewolkte dag.",
+          "cue": "-> De dag is ...",
+          "accepted": [
+            "De dag is bewolkt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Het ___ vandaag.",
+          "cue": "regenen",
+          "accepted": [
+            "regent"
+          ]
+        },
+        {
+          "text": "Het ___ in de winter.",
+          "cue": "sneeuwen",
+          "accepted": [
+            "sneeuwt"
+          ]
+        },
+        {
+          "text": "De zon ___ vandaag niet.",
+          "cue": "schijnen",
+          "accepted": [
+            "schijnt"
+          ]
+        },
+        {
+          "text": "Vandaag ___ het.",
+          "cue": "waaien",
+          "accepted": [
+            "waait"
+          ]
+        },
+        {
+          "text": "Wij ___ een paraplu.",
+          "cue": "nemen",
+          "accepted": [
+            "nemen"
+          ]
+        },
+        {
+          "text": "Ik ___ een warme jas.",
+          "cue": "dragen",
+          "accepted": [
+            "draag"
+          ]
+        },
+        {
+          "text": "___ jij een muts?",
+          "cue": "dragen",
+          "accepted": [
+            "Draag",
+            "draag"
+          ]
+        },
+        {
+          "text": "Zij ___ natte schoenen.",
+          "cue": "dragen",
+          "accepted": [
+            "draagt"
+          ]
+        },
+        {
+          "text": "Wij ___ buiten.",
+          "cue": "lopen",
+          "accepted": [
+            "lopen"
+          ]
+        },
+        {
+          "text": "De kinderen ___ in de zomer.",
+          "cue": "zwemmen",
+          "accepted": [
+            "zwemmen"
+          ]
+        },
+        {
+          "text": "Ik ___ het weer niet mooi.",
+          "cue": "vinden",
+          "accepted": [
+            "vind"
+          ]
+        },
+        {
+          "text": "Hij ___ een nieuwe paraplu.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
