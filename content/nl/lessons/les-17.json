@@ -1,0 +1,956 @@
+{
+  "id": "nl-les-17",
+  "lang": "nl",
+  "order": 17,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-22feed7e",
+      "type": "noun",
+      "article": "het",
+      "lemma": "station",
+      "plural": [
+        "stations"
+      ],
+      "ua": "вокзал, станція",
+      "audio": "het-station.mp3",
+      "explain_ua": "(Het station is in de stad = вокзал у місті). Це і вокзал, і станція (метро, трамвая). Наголос на другому складі: sta-TION, -tion звучить як [sjɔn]. Схоже на українське «станція»: підказка для пам'яті, а не етимологія. Множина de stations, з -s"
+    },
+    {
+      "id": "nl-68d12dd5",
+      "type": "noun",
+      "article": "de",
+      "lemma": "school",
+      "plural": [
+        "scholen"
+      ],
+      "ua": "школа",
+      "audio": "de-school.mp3",
+      "explain_ua": "(De school is naast het park = школа поруч із парком). Sch це [s] + [x], а х таке саме, як в українському «хата» (Les 1). Множина de scholen: oo стає o, бо склад відкритий, як maan - manen (Les 1). Схоже на «школа»: підказка для пам'яті, а не етимологія"
+    },
+    {
+      "id": "nl-b2260250",
+      "type": "noun",
+      "article": "het",
+      "lemma": "park",
+      "plural": [
+        "parken"
+      ],
+      "ua": "парк",
+      "audio": "het-park.mp3",
+      "explain_ua": "(Het park is achter het station = парк за вокзалом). Те саме слово, що й українське «парк», але артикль het, а не de: вчи його з артиклем. Множина de parken"
+    },
+    {
+      "id": "nl-f63db0c0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "supermarkt",
+      "plural": [
+        "supermarkten"
+      ],
+      "ua": "супермаркет",
+      "audio": "de-supermarkt.mp3",
+      "explain_ua": "(De supermarkt is rechts = супермаркет праворуч). Super + markt, схоже на «супермаркет»; markt і англійське market: підказка для пам'яті. Артикль de. Множина de supermarkten"
+    },
+    {
+      "id": "nl-dc623252",
+      "type": "noun",
+      "article": "de",
+      "lemma": "apotheek",
+      "plural": [
+        "apotheken"
+      ],
+      "ua": "аптека",
+      "audio": "de-apotheek.mp3",
+      "explain_ua": "(De apotheek is naast de supermarkt = аптека поруч із супермаркетом). Th тут просто [t], як у thee (Les 12), а не англійське th. Наголос на останньому складі: apo-THEEK. Схоже на «аптека»: підказка для пам'яті. Множина de apotheken: ee стає e"
+    },
+    {
+      "id": "nl-81e1ed1f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "café",
+      "plural": [
+        "cafés"
+      ],
+      "ua": "кафе",
+      "audio": "het-cafe.mp3",
+      "explain_ua": "(Het café is naast de school = кафе поруч зі школою). Артикль het: вчи його разом зі словом, правила тут немає. Наголос на останньому складі: ca-FÉ, é це довге [eː]. Множина de cafés з -s, акцент лишається"
+    },
+    {
+      "id": "nl-ce7eaee3",
+      "type": "noun",
+      "article": "de",
+      "lemma": "stad",
+      "plural": [
+        "steden"
+      ],
+      "ua": "місто",
+      "audio": "de-stad.mp3",
+      "explain_ua": "(Ik woon in de stad = я живу в місті). Множина неправильна: de steden, а стає e (як de kinderen у Les 8, теж особлива). Кінцеве d читається як [t]: [stat]. Це те саме оглушення, що в російському «хлеб» [хлеп] (Les 14, avond): тут спирайся на російську, не на українську"
+    },
+    {
+      "id": "nl-8af80cac",
+      "type": "function",
+      "lemma": "naast",
+      "ua": "поруч із, біля",
+      "audio": "naast.mp3",
+      "explain_ua": "(De school is naast het park = школа поруч із парком). Після naast іменник не змінюється: українською «поруч зі школою» (орудний відмінок), а нідерландською просто naast de school. Не плутай з naar (Les 5, «до»): naast значить «поруч», naar значить «до». Aa це довге [aː], як у maan"
+    },
+    {
+      "id": "nl-0e72239f",
+      "type": "function",
+      "lemma": "achter",
+      "ua": "позаду, за",
+      "audio": "achter.mp3",
+      "explain_ua": "(Het park is achter het station = парк за вокзалом). Ch це [x], як українське х (Les 1). Achter значить «позаду, за» і є парою до voor (Les 11, «перед»). Іменник після achter не змінюється: не «за вокзалом» з закінченням, а achter het station"
+    },
+    {
+      "id": "nl-4ebe4942",
+      "type": "function",
+      "lemma": "links",
+      "ua": "ліворуч, зліва",
+      "audio": "links.mp3",
+      "explain_ua": "(Links is de school = ліворуч школа). Пара до rechts. Links можна поставити на початок речення: тоді дієслово стоїть на другому місці (правило «Links is het park»). Також Het café is links = кафе ліворуч"
+    },
+    {
+      "id": "nl-e0daca98",
+      "type": "function",
+      "lemma": "rechts",
+      "ua": "праворуч, справа",
+      "audio": "rechts.mp3",
+      "explain_ua": "(Rechts is de apotheek = праворуч аптека). Ch це [x], як українське х, а chts читається [xts]. Пара до links. Так само rechts можна поставити на початок: Rechts is het park"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Naast, achter, voor: без відмінків",
+      "summary_ua": "Після naast, achter і voor іменник не змінюється: naast de school, achter het station. Українською тут орудний відмінок («поруч зі школою»), а нідерландською лише артикль і слово.",
+      "see": "Les 1",
+      "compare": [
+        {
+          "form": "Naast: поруч із",
+          "when_ua": "Naast + de чи het + іменник. Слово після naast має таку саму форму, як у словнику.",
+          "examples": [
+            {
+              "nl": "De school is **naast** het park.",
+              "ua": "Школа поруч із парком.",
+              "audio": "les17-example-02.mp3"
+            },
+            {
+              "nl": "Het café is **naast** de school.",
+              "ua": "Кафе поруч зі школою.",
+              "audio": "les17-example-05.mp3"
+            },
+            {
+              "nl": "De bus is **naast** het station.",
+              "ua": "Автобус поруч із вокзалом.",
+              "audio": "les17-rule-01.mp3"
+            }
+          ],
+          "note_ua": "Не плутай naast (поруч) і naar (до, Les 5): на вигляд вони схожі."
+        },
+        {
+          "form": "Achter: позаду, за",
+          "when_ua": "Achter + de чи het + іменник. Українською «за парком» теж з орудним, у нідерландській змін немає.",
+          "examples": [
+            {
+              "nl": "Het park is **achter** het station.",
+              "ua": "Парк за вокзалом.",
+              "audio": "les17-example-03.mp3"
+            },
+            {
+              "nl": "Het café is **achter** de school.",
+              "ua": "Кафе за школою.",
+              "audio": "les17-rule-02.mp3"
+            },
+            {
+              "nl": "De fiets is **achter** de deur.",
+              "ua": "Велосипед за дверима.",
+              "audio": "les17-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Achter пишеться з ch, а ch це [x], як у «хата»."
+        },
+        {
+          "form": "Voor: перед",
+          "when_ua": "Voor (Les 11) значить не лише «для», а й «перед» у просторі.",
+          "examples": [
+            {
+              "nl": "De supermarkt is **voor** het station.",
+              "ua": "Супермаркет перед вокзалом.",
+              "audio": "les17-example-10.mp3"
+            },
+            {
+              "nl": "De taxi is **voor** de school.",
+              "ua": "Таксі перед школою.",
+              "audio": "les17-rule-04.mp3"
+            },
+            {
+              "nl": "De auto is **voor** het huis.",
+              "ua": "Машина перед будинком.",
+              "audio": "les17-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Voor het station це «перед вокзалом», achter het station це «за вокзалом»: пара."
+        },
+        {
+          "form": "In чи naar (Les 5)",
+          "when_ua": "In відповідає на «де?», naar на «куди?». Після обох іменник не змінюється.",
+          "examples": [
+            {
+              "nl": "Ik woon **in** de stad.",
+              "ua": "Я живу в місті.",
+              "audio": "les17-example-09.mp3"
+            },
+            {
+              "nl": "Ik ga **naar** de school.",
+              "ua": "Я йду до школи.",
+              "audio": "les17-example-11.mp3"
+            },
+            {
+              "nl": "Ik ben **in** het park.",
+              "ua": "Я в парку.",
+              "audio": "les17-rule-06.mp3"
+            },
+            {
+              "nl": "Ik loop **naar** het park.",
+              "ua": "Я йду пішки до парку.",
+              "audio": "les17-rule-07.mp3"
+            }
+          ],
+          "note_ua": "«У парку» це in het park, а «до парку» це naar het park."
+        }
+      ],
+      "points_ua": [
+        "Артикль обов'язковий: naast de school, а не naast school.",
+        "Слова місця не міняють порядок слів у простому реченні: підмет, is, місце."
+      ]
+    },
+    {
+      "title_ua": "Links is het park: дієслово на другому місці",
+      "summary_ua": "Коли речення починається з місця, дієслово стоїть на другому місці, а підмет після нього: Links is het park. Українською дієслова може не бути («Ліворуч парк»), а в нідерландській воно потрібне.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "Links, rechts на початку",
+          "when_ua": "Links чи rechts, потім is, потім підмет. Дієслово завжди друге.",
+          "examples": [
+            {
+              "nl": "**Links** is de school.",
+              "ua": "Ліворуч школа.",
+              "audio": "les17-example-06.mp3"
+            },
+            {
+              "nl": "**Rechts** is de apotheek.",
+              "ua": "Праворуч аптека.",
+              "audio": "les17-example-07.mp3"
+            },
+            {
+              "nl": "**Rechts** is het park.",
+              "ua": "Праворуч парк.",
+              "audio": "les17-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Не Links de school і не Links de school is: після links одразу is."
+        },
+        {
+          "form": "Naast, achter, voor на початку",
+          "when_ua": "Прийменник з іменником рахується одним елементом і стоїть першим, дієслово одразу за ним.",
+          "examples": [
+            {
+              "nl": "**Naast de school** is het café.",
+              "ua": "Поруч зі школою кафе.",
+              "audio": "les17-rule-09.mp3"
+            },
+            {
+              "nl": "**Achter het station** is het park.",
+              "ua": "За вокзалом парк.",
+              "audio": "les17-rule-10.mp3"
+            },
+            {
+              "nl": "**Voor het station** is de supermarkt.",
+              "ua": "Перед вокзалом супермаркет.",
+              "audio": "les17-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Три слова naast de school це одне місце: Naast de school + is + het café."
+        },
+        {
+          "form": "Hier, daar (Les 10)",
+          "when_ua": "Hier і daar теж означають місце. На початку діє те саме правило.",
+          "examples": [
+            {
+              "nl": "**Hier** is de apotheek.",
+              "ua": "Тут аптека.",
+              "audio": "les17-rule-12.mp3"
+            },
+            {
+              "nl": "**Daar** is het station.",
+              "ua": "Там вокзал.",
+              "audio": "les17-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Hier is de apotheek значить «ось аптека»."
+        },
+        {
+          "form": "Підмет першим теж правильно",
+          "when_ua": "Можна почати з підмета: значення те саме, дієслово знову друге.",
+          "examples": [
+            {
+              "nl": "De school is **links**.",
+              "ua": "Школа ліворуч.",
+              "audio": "les17-rule-14.mp3"
+            },
+            {
+              "nl": "Het café is **rechts**.",
+              "ua": "Кафе праворуч.",
+              "audio": "les17-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Обидва порядки правильні, лише is має стояти на другому місці."
+        }
+      ],
+      "points_ua": [
+        "Українське «Ліворуч школа» без дієслова не перекладай слово в слово: додай is.",
+        "Не став підмет перед is, коли речення починається з місця: не Links de school is."
+      ]
+    },
+    {
+      "title_ua": "Множина: scholen, steden, cafés",
+      "summary_ua": "Більшість цих слів мають множину на -en: parken, apotheken, supermarkten. Але de school стає de scholen, de stad стає de steden (неправильна множина), а het café і het station беруть -s.",
+      "see": "Les 8",
+      "compare": [
+        {
+          "form": "Звичайне -en",
+          "when_ua": "Park, apotheek, supermarkt, school: додай -en. У apotheek і school голосна в написанні скорочується: apotheken, scholen (як maan - manen, Les 1).",
+          "examples": [
+            {
+              "nl": "De stad heeft twee **parken**.",
+              "ua": "У місті два парки.",
+              "audio": "les17-rule-16.mp3"
+            },
+            {
+              "nl": "De stad heeft vier **apotheken**.",
+              "ua": "У місті чотири аптеки.",
+              "audio": "les17-rule-17.mp3"
+            },
+            {
+              "nl": "De stad heeft twaalf **scholen**.",
+              "ua": "У місті дванадцять шкіл.",
+              "audio": "les17-example-12.mp3"
+            }
+          ],
+          "note_ua": "Після числа артикля немає: twaalf scholen (Les 2)."
+        },
+        {
+          "form": "Неправильна: stad - steden",
+          "when_ua": "Не stads: голосна змінюється, а стає e. Це особлива множина, як kinderen (Les 8).",
+          "examples": [
+            {
+              "nl": "Dit zijn twee **steden**.",
+              "ua": "Це два міста.",
+              "audio": "les17-rule-18.mp3"
+            },
+            {
+              "nl": "Ik woon in een grote **stad**.",
+              "ua": "Я живу у великому місті (однина).",
+              "audio": "les17-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Слово stad вчи парою: de stad - de steden."
+        },
+        {
+          "form": "-s: café, station",
+          "when_ua": "Het café і het station беруть -s: cafés, stations. Акцент у cafés лишається.",
+          "examples": [
+            {
+              "nl": "De stad heeft drie **cafés**.",
+              "ua": "У місті три кафе.",
+              "audio": "les17-rule-20.mp3"
+            },
+            {
+              "nl": "De stad heeft twee **stations**.",
+              "ua": "У місті два вокзали.",
+              "audio": "les17-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Тут лише -s, а не -en."
+        }
+      ],
+      "points_ua": [
+        "Три слова вчи парою: de school - de scholen, de stad - de steden, het café - de cafés.",
+        "Після числа артикля немає: twee parken, а не twee de parken."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Het station is in de stad.",
+      "ua": "Вокзал у місті.",
+      "audio": "les17-example-01.mp3"
+    },
+    {
+      "nl": "De school is naast het park.",
+      "ua": "Школа поруч із парком.",
+      "audio": "les17-example-02.mp3"
+    },
+    {
+      "nl": "Het park is achter het station.",
+      "ua": "Парк за вокзалом.",
+      "audio": "les17-example-03.mp3"
+    },
+    {
+      "nl": "De apotheek is naast de supermarkt.",
+      "ua": "Аптека поруч із супермаркетом.",
+      "audio": "les17-example-04.mp3"
+    },
+    {
+      "nl": "Het café is naast de school.",
+      "ua": "Кафе поруч зі школою.",
+      "audio": "les17-example-05.mp3"
+    },
+    {
+      "nl": "Links is de school.",
+      "ua": "Ліворуч школа.",
+      "audio": "les17-example-06.mp3"
+    },
+    {
+      "nl": "Rechts is de apotheek.",
+      "ua": "Праворуч аптека.",
+      "audio": "les17-example-07.mp3"
+    },
+    {
+      "nl": "Waar is het station?",
+      "ua": "Де вокзал?",
+      "audio": "les17-example-08.mp3"
+    },
+    {
+      "nl": "Ik woon in de stad.",
+      "ua": "Я живу в місті.",
+      "audio": "les17-example-09.mp3"
+    },
+    {
+      "nl": "De supermarkt is voor het station.",
+      "ua": "Супермаркет перед вокзалом.",
+      "audio": "les17-example-10.mp3"
+    },
+    {
+      "nl": "Ik ga naar de school.",
+      "ua": "Я йду до школи.",
+      "audio": "les17-example-11.mp3"
+    },
+    {
+      "nl": "De stad heeft twaalf scholen.",
+      "ua": "У місті дванадцять шкіл.",
+      "audio": "les17-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Waar is het station?",
+    "title_ua": "Де вокзал?",
+    "highlight": [
+      "nl-22feed7e",
+      "nl-68d12dd5",
+      "nl-b2260250",
+      "nl-f63db0c0",
+      "nl-dc623252",
+      "nl-81e1ed1f",
+      "nl-ce7eaee3",
+      "nl-8af80cac",
+      "nl-0e72239f",
+      "nl-4ebe4942",
+      "nl-e0daca98"
+    ],
+    "sentences": [
+      {
+        "nl": "Hallo! Ik ben in de stad.",
+        "ua": "Питає: Добрий день! Я в місті.",
+        "audio": "les17-reading-01.mp3"
+      },
+      {
+        "nl": "Waar is het station?",
+        "ua": "Питає: Де вокзал?",
+        "audio": "les17-reading-02.mp3"
+      },
+      {
+        "nl": "Het station is achter het park.",
+        "ua": "Відповідає: Вокзал за парком.",
+        "audio": "les17-reading-03.mp3"
+      },
+      {
+        "nl": "En waar is de supermarkt?",
+        "ua": "Питає: А де супермаркет?",
+        "audio": "les17-reading-04.mp3"
+      },
+      {
+        "nl": "De supermarkt is naast de school.",
+        "ua": "Відповідає: Супермаркет поруч зі школою.",
+        "audio": "les17-reading-05.mp3"
+      },
+      {
+        "nl": "Waar is de apotheek?",
+        "ua": "Питає: Де аптека?",
+        "audio": "les17-reading-06.mp3"
+      },
+      {
+        "nl": "De apotheek is rechts.",
+        "ua": "Відповідає: Аптека праворуч.",
+        "audio": "les17-reading-07.mp3"
+      },
+      {
+        "nl": "En het café?",
+        "ua": "Питає: А кафе?",
+        "audio": "les17-reading-08.mp3"
+      },
+      {
+        "nl": "Links is het café.",
+        "ua": "Відповідає: Ліворуч кафе.",
+        "audio": "les17-reading-09.mp3"
+      },
+      {
+        "nl": "Bedankt! Tot ziens!",
+        "ua": "Питає: Дякую! До побачення!",
+        "audio": "les17-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Де школа?",
+          "cue": "waar; zijn; de school",
+          "accepted": [
+            "Waar is de school?"
+          ]
+        },
+        {
+          "prompt": "Кафе поруч із супермаркетом.",
+          "cue": "het café; zijn; naast de supermarkt",
+          "accepted": [
+            "Het café is naast de supermarkt.",
+            "Naast de supermarkt is het café."
+          ]
+        },
+        {
+          "prompt": "Аптека за вокзалом.",
+          "cue": "de apotheek; zijn; achter het station",
+          "accepted": [
+            "De apotheek is achter het station.",
+            "Achter het station is de apotheek."
+          ]
+        },
+        {
+          "prompt": "Супермаркет ліворуч.",
+          "cue": "de supermarkt; zijn; links",
+          "accepted": [
+            "De supermarkt is links.",
+            "Links is de supermarkt."
+          ]
+        },
+        {
+          "prompt": "Вокзал праворуч.",
+          "cue": "het station; zijn; rechts",
+          "accepted": [
+            "Het station is rechts.",
+            "Rechts is het station."
+          ]
+        },
+        {
+          "prompt": "Мій брат живе в цьому місті.",
+          "cue": "mijn broer; wonen; deze stad",
+          "accepted": [
+            "Mijn broer woont in deze stad.",
+            "Mijn broer woont in de stad."
+          ]
+        },
+        {
+          "prompt": "Ми йдемо пішки до парку.",
+          "cue": "wij; lopen of gaan; naar het park",
+          "accepted": [
+            "Wij lopen naar het park.",
+            "We lopen naar het park.",
+            "Wij gaan naar het park.",
+            "We gaan naar het park."
+          ]
+        },
+        {
+          "prompt": "Місто має шість шкіл.",
+          "cue": "de stad; hebben; zes scholen",
+          "accepted": [
+            "De stad heeft zes scholen."
+          ]
+        },
+        {
+          "prompt": "У кафе кава коштує три євро.",
+          "cue": "in het café; kosten; de koffie; drie euro",
+          "accepted": [
+            "In het café kost de koffie drie euro.",
+            "In het café kost koffie drie euro.",
+            "De koffie kost drie euro in het café."
+          ]
+        },
+        {
+          "prompt": "Ця школа велика.",
+          "cue": "deze school; zijn; groot",
+          "accepted": [
+            "Deze school is groot."
+          ]
+        },
+        {
+          "prompt": "Мої діти в парку.",
+          "cue": "mijn kinderen; zijn; in het park",
+          "accepted": [
+            "Mijn kinderen zijn in het park."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "station",
+        "school",
+        "park",
+        "supermarkt",
+        "apotheek",
+        "café",
+        "stad",
+        "naast",
+        "achter",
+        "links",
+        "rechts"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ga met de trein naar het ___.",
+          "hint": "Я їду потягом до вокзалу.",
+          "accepted": [
+            [
+              "station"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon gaat naar de ___.",
+          "hint": "Мій син іде до школи.",
+          "accepted": [
+            [
+              "school"
+            ]
+          ]
+        },
+        {
+          "text": "Zij loopt in het ___.",
+          "hint": "Вона гуляє в парку.",
+          "accepted": [
+            [
+              "park"
+            ]
+          ]
+        },
+        {
+          "text": "Ik koop brood in de ___.",
+          "hint": "Я купую хліб у супермаркеті.",
+          "accepted": [
+            [
+              "supermarkt"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder gaat naar de ___.",
+          "hint": "Моя мама йде до аптеки.",
+          "accepted": [
+            [
+              "apotheek"
+            ]
+          ]
+        },
+        {
+          "text": "Wij drinken koffie in het ___.",
+          "hint": "Ми п'ємо каву в кафе.",
+          "accepted": [
+            [
+              "café"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vader werkt in de ___.",
+          "hint": "Мій тато працює в місті.",
+          "accepted": [
+            [
+              "stad"
+            ]
+          ]
+        },
+        {
+          "text": "De bus is ___ het station.",
+          "hint": "Автобус поруч із вокзалом.",
+          "accepted": [
+            [
+              "naast"
+            ]
+          ]
+        },
+        {
+          "text": "Het park is ___ de school.",
+          "hint": "Парк за школою.",
+          "accepted": [
+            [
+              "achter"
+            ]
+          ]
+        },
+        {
+          "text": "___ is de school.",
+          "hint": "Ліворуч школа.",
+          "accepted": [
+            [
+              "Links"
+            ]
+          ]
+        },
+        {
+          "text": "De apotheek is ___.",
+          "hint": "Аптека праворуч.",
+          "accepted": [
+            [
+              "rechts"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: множина, інше слово, питання, заперечення чи слово на початку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "De school is groot.",
+          "cue": "-> множина (de scholen)",
+          "accepted": [
+            "De scholen zijn groot."
+          ]
+        },
+        {
+          "prompt": "De stad is groot.",
+          "cue": "-> множина (de steden)",
+          "accepted": [
+            "De steden zijn groot."
+          ]
+        },
+        {
+          "prompt": "Het café is goedkoop.",
+          "cue": "-> множина (de cafés)",
+          "accepted": [
+            "De cafés zijn goedkoop."
+          ]
+        },
+        {
+          "prompt": "De apotheek is links.",
+          "cue": "-> rechts замість links",
+          "accepted": [
+            "De apotheek is rechts."
+          ]
+        },
+        {
+          "prompt": "De school is naast het park.",
+          "cue": "-> починай з Naast het park",
+          "accepted": [
+            "Naast het park is de school."
+          ]
+        },
+        {
+          "prompt": "Het station is links.",
+          "cue": "-> починай з Links",
+          "accepted": [
+            "Links is het station."
+          ]
+        },
+        {
+          "prompt": "Het park is achter de school.",
+          "cue": "-> питання з Waar",
+          "accepted": [
+            "Waar is het park?"
+          ]
+        },
+        {
+          "prompt": "De taxi is achter de bus.",
+          "cue": "-> voor замість achter",
+          "accepted": [
+            "De taxi is voor de bus."
+          ]
+        },
+        {
+          "prompt": "De stad heeft een station.",
+          "cue": "-> заперечення з geen",
+          "accepted": [
+            "De stad heeft geen station."
+          ]
+        },
+        {
+          "prompt": "Ik ga naar het station.",
+          "cue": "-> починай з Nu",
+          "accepted": [
+            "Nu ga ik naar het station."
+          ]
+        },
+        {
+          "prompt": "Ik loop naar de school.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag loop ik naar de school."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Het café ___ rechts.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Ik ___ naar de school.",
+          "cue": "gaan",
+          "accepted": [
+            "ga"
+          ]
+        },
+        {
+          "text": "Zij ___ naar het park.",
+          "cue": "lopen",
+          "accepted": [
+            "loopt"
+          ]
+        },
+        {
+          "text": "Wij ___ in de stad.",
+          "cue": "wonen",
+          "accepted": [
+            "wonen"
+          ]
+        },
+        {
+          "text": "De stad ___ een groot park.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ naar het station.",
+          "cue": "rijden",
+          "accepted": [
+            "rijdt"
+          ]
+        },
+        {
+          "text": "Ik ___ op de bus naast het station.",
+          "cue": "wachten",
+          "accepted": [
+            "wacht"
+          ]
+        },
+        {
+          "text": "___ jij brood in de supermarkt?",
+          "cue": "kopen",
+          "accepted": [
+            "Koop"
+          ]
+        },
+        {
+          "text": "Mijn moeder ___ in de apotheek.",
+          "cue": "werken",
+          "accepted": [
+            "werkt"
+          ]
+        },
+        {
+          "text": "Wij ___ vijf euro in het café.",
+          "cue": "betalen",
+          "accepted": [
+            "betalen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом чи виразом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "вокзал, станція",
+          "answer": "het station"
+        },
+        {
+          "prompt": "17",
+          "answer": "zeventien"
+        },
+        {
+          "prompt": "80",
+          "answer": "tachtig"
+        },
+        {
+          "prompt": "годинник (настінний)",
+          "answer": "de klok"
+        },
+        {
+          "prompt": "чверть",
+          "answer": "het kwart"
+        },
+        {
+          "prompt": "дорогий",
+          "answer": "duur"
+        },
+        {
+          "prompt": "дешевий",
+          "answer": "goedkoop"
+        },
+        {
+          "prompt": "місто",
+          "answer": "de stad"
+        },
+        {
+          "prompt": "поруч із",
+          "answer": "naast"
+        },
+        {
+          "prompt": "позаду, за",
+          "answer": "achter"
+        }
+      ],
+      "extra": [
+        "de prijs",
+        "voor"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}
