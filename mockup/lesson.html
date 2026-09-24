@@ -30,6 +30,7 @@
   nav { display: flex; gap: 20px; }
   nav button { background: none; border: 0; padding: 4px 0; font: inherit; color: var(--muted); cursor: pointer; border-bottom: 2px solid transparent; }
   nav button:hover { color: var(--ink); }
+  header.bottom-bar { margin-top: 16px; }
   nav button.active { color: var(--ink); border-bottom-color: var(--accent); }
 
   .view { display: none; margin-top: 16px; }
@@ -264,6 +265,17 @@
       <p class="meta">Прогрес записується в теку, яку ти обрала (поза репозиторієм застосунку). Це журнал подій: старі записи не змінюються.</p>
     </div>
   </section>
+
+  <header class="bottom-bar">
+    <div class="lang"><span>Мова</span><span class="pill">Nederlands · Marieke</span></div>
+    <nav class="nav-bottom">
+      <button data-view="today" class="active">Сьогодні</button>
+      <button data-view="cards">Картки</button>
+      <button data-view="texts">Тексти</button>
+      <button data-view="words">Слова</button>
+      <button data-view="progress">Прогрес</button>
+    </nav>
+  </header>
 </div>
 <div id="toast"></div>
 

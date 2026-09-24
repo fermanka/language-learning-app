@@ -552,10 +552,12 @@ if (typeof document === 'undefined') {
   function show(view) {
     document.querySelectorAll('.view').forEach((v) => v.classList.toggle('active', v.id === 'view-' + view));
     if (view === 'cards') renderStage();
-    document.querySelectorAll('#nav button').forEach((b) => b.classList.toggle('active', b.dataset.view === view));
+    document.querySelectorAll('nav button').forEach((b) => b.classList.toggle('active', b.dataset.view === view));
     window.scrollTo(0, 0);
   }
-  $('nav').addEventListener('click', (e) => { if (e.target.dataset.view) show(e.target.dataset.view); });
+  const onNav = (e) => { if (e.target.dataset.view) show(e.target.dataset.view); };
+  $('nav').addEventListener('click', onNav);
+  document.querySelectorAll('.nav-bottom').forEach((n) => n.addEventListener('click', onNav));   // the same bar repeated at the bottom of the page
   document.querySelectorAll('.toggle-tr').forEach((b) => b.onclick = () => document.body.classList.toggle('show-tr'));
   $('next').onclick = () => {
     const wasDone = isDone(current);   // a lesson that is already done is not recorded a second time
