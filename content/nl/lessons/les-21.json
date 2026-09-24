@@ -1,0 +1,1292 @@
+{
+  "id": "nl-les-21",
+  "lang": "nl",
+  "order": 21,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-52c4aad6",
+      "type": "adjective",
+      "lemma": "rood",
+      "ua": "червоний, червона, червоне, червоні",
+      "audio": "rood.mp3",
+      "explain_ua": "(форма без закінчення: De jas is rood, een rood T-shirt). Oo довге [oː], як у boos (Les 1). Кінцеве d читається [t], як у oud (Les 19): тут спирайся на російську, не на українську. Схоже на англійське red: підказка для пам'яті"
+    },
+    {
+      "id": "nl-04db8313",
+      "type": "adjective",
+      "lemma": "rode",
+      "ua": "червоний",
+      "audio": "rode.mp3",
+      "explain_ua": "(форма з -e: een rode jas, de rode jas, het rode T-shirt, rode sokken). Тепер d стоїть між голосними й читається як [d]: ro-de. Дві o стають однією, як maan - manen (Les 1). Правило -e в картці «Een rode jas, een rood T-shirt». Пара до rood"
+    },
+    {
+      "id": "nl-3a946eab",
+      "type": "adjective",
+      "lemma": "blauw",
+      "ua": "синій, синя, синє, сині (і блакитний)",
+      "audio": "blauw.mp3",
+      "explain_ua": "(форма без закінчення: De broek is blauw, een blauw T-shirt). Auw це дифтонг [ɑu], як ou в oud (Les 19): приблизно «блау». Одне слово і для «синього», і для «блакитного». Схоже на англійське blue: підказка для пам'яті"
+    },
+    {
+      "id": "nl-a68752ee",
+      "type": "adjective",
+      "lemma": "blauwe",
+      "ua": "синій, блакитний",
+      "audio": "blauwe.mp3",
+      "explain_ua": "(форма з -e: een blauwe broek, de blauwe jas, blauwe schoenen). Просто blauw + e: blau-we. Пара до blauw"
+    },
+    {
+      "id": "nl-7a08a472",
+      "type": "adjective",
+      "lemma": "groen",
+      "ua": "зелений, зелена, зелене, зелені",
+      "audio": "groen.mp3",
+      "explain_ua": "(форма без закінчення: De sjaal is groen, een groen T-shirt). G як у gas (Les 1): це вже твоє українське г/х. Oe це [u], як у boek (Les 1): приблизно «грун». Схоже на англійське green: підказка для пам'яті"
+    },
+    {
+      "id": "nl-1559ecdb",
+      "type": "adjective",
+      "lemma": "groene",
+      "ua": "зелений",
+      "audio": "groene.mp3",
+      "explain_ua": "(форма з -e: een groene trui, het groene T-shirt, groene schoenen). Просто groen + e. Oe лишається як є: groen - groene, не «grone». Пара до groen"
+    },
+    {
+      "id": "nl-3314c198",
+      "type": "adjective",
+      "lemma": "geel",
+      "ua": "жовтий, жовта, жовте, жовті",
+      "audio": "geel.mp3",
+      "explain_ua": "(форма без закінчення: De muts is geel, een geel T-shirt). Ee довге [eː], як у thee (Les 12). G як у groen. Схоже на англійське yellow: підказка для пам'яті"
+    },
+    {
+      "id": "nl-5daf87db",
+      "type": "adjective",
+      "lemma": "gele",
+      "ua": "жовтий",
+      "audio": "gele.mp3",
+      "explain_ua": "(форма з -e: een gele sjaal, de gele jas, gele sokken). Дві e стають однією: geel - gele, бо голосна тепер у відкритому складі (maan - manen, Les 1). Не «geele». Пара до geel"
+    },
+    {
+      "id": "nl-bef0c6d4",
+      "type": "adjective",
+      "lemma": "zwart",
+      "ua": "чорний, чорна, чорне, чорні",
+      "audio": "zwart.mp3",
+      "explain_ua": "(форма без закінчення: De jas is zwart, een zwart T-shirt). Zw це два звуки: z [z], як у zon (Les 1), і w, як у wijn (Les 1). Кінцеве t чітке, без придиху"
+    },
+    {
+      "id": "nl-59d05be2",
+      "type": "adjective",
+      "lemma": "zwarte",
+      "ua": "чорний",
+      "audio": "zwarte.mp3",
+      "explain_ua": "(форма з -e: een zwarte broek, de zwarte muts, zwarte schoenen). Просто zwart + e. T не подвоюється: перед ним уже стоїть r. Пара до zwart"
+    },
+    {
+      "id": "nl-d9be609d",
+      "type": "adjective",
+      "lemma": "wit",
+      "ua": "білий, біла, біле, білі",
+      "audio": "wit.mp3",
+      "explain_ua": "(форма без закінчення: De rok is wit, een wit T-shirt). I коротка, як у kind (Les 8). Схоже на англійське white: підказка для пам'яті"
+    },
+    {
+      "id": "nl-426e316d",
+      "type": "adjective",
+      "lemma": "witte",
+      "ua": "білий",
+      "audio": "witte.mp3",
+      "explain_ua": "(форма з -e: een witte muts, de witte jurk, witte schoenen). Голосна коротка, тому t подвоюється: wit - witte. Одна t зробила б i довгою. Пара до wit"
+    },
+    {
+      "id": "nl-de1e06f5",
+      "type": "adjective",
+      "lemma": "grijs",
+      "ua": "сірий, сіра, сіре, сірі",
+      "audio": "grijs.mp3",
+      "explain_ua": "(форма без закінчення: De trui is grijs, een grijs T-shirt). Ij це [ɛi], як у mijn і wijn (Les 1). Схоже на англійське grey: підказка для пам'яті"
+    },
+    {
+      "id": "nl-26c15a1c",
+      "type": "adjective",
+      "lemma": "grijze",
+      "ua": "сірий",
+      "audio": "grijze.mp3",
+      "explain_ua": "(форма з -e: een grijze rok, de grijze trui, grijze sokken). S між голосними стає z: grijs - grijze. Так пишеться і так читається. Пара до grijs"
+    },
+    {
+      "id": "nl-c23122e5",
+      "type": "adjective",
+      "lemma": "bruin",
+      "ua": "коричневий, коричнева, коричневе, коричневі",
+      "audio": "bruin.mp3",
+      "explain_ua": "(форма без закінчення: De sjaal is bruin, een bruin T-shirt). Ui це [œy], як у huis і muis (Les 1): такого звука немає ні в українській, ні в англійській, слухай аудіо. Схоже на англійське brown: підказка для пам'яті"
+    },
+    {
+      "id": "nl-45f048a4",
+      "type": "adjective",
+      "lemma": "bruine",
+      "ua": "коричневий",
+      "audio": "bruine.mp3",
+      "explain_ua": "(форма з -e: een bruine jas, de bruine schoenen, bruine sokken). Просто bruin + e. Пара до bruin"
+    },
+    {
+      "id": "nl-7c70581f",
+      "type": "adjective",
+      "lemma": "oranje",
+      "ua": "помаранчевий, оранжевий (не змінюється)",
+      "audio": "oranje.mp3",
+      "explain_ua": "(не змінюється: Het T-shirt is oranje, een oranje jas, de oranje sjaal). Слово вже закінчується на -e, тому нового -e не додаємо: форма одна скрізь. Приблизно «оранье», слухай аудіо. Схоже на англійське orange: підказка для пам'яті"
+    },
+    {
+      "id": "nl-181fe48d",
+      "type": "adjective",
+      "lemma": "roze",
+      "ua": "рожевий, рожева (не змінюється)",
+      "audio": "roze.mp3",
+      "explain_ua": "(не змінюється: De trui is roze, een roze jas, de roze muts). Слово вже закінчується на -e: форма одна скрізь, як oranje. Z це [z], остання e нечітка. Українське «рожевий» тут підказка для пам'яті, не доказ спорідненості"
+    },
+    {
+      "id": "nl-5026d9e8",
+      "type": "adjective",
+      "lemma": "paars",
+      "ua": "фіолетовий, фіолетова, фіолетове, фіолетові",
+      "audio": "paars.mp3",
+      "explain_ua": "(форма без закінчення: De rok is paars, een paars T-shirt). Aa довге [aː], як у maan (Les 1). Українське «пурпурний» тут підказка для пам'яті, не етимологія"
+    },
+    {
+      "id": "nl-d681499e",
+      "type": "adjective",
+      "lemma": "paarse",
+      "ua": "фіолетовий",
+      "audio": "paarse.mp3",
+      "explain_ua": "(форма з -e: een paarse sjaal, de paarse jurk, paarse sokken). S тут не стає z: paars - paarse, не «paarze». Це просто треба запам'ятати, на відміну від grijs - grijze. Пара до paars"
+    },
+    {
+      "id": "nl-ae7dd786",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kleur",
+      "plural": [
+        "kleuren"
+      ],
+      "ua": "колір",
+      "audio": "de-kleur.mp3",
+      "explain_ua": "(Welke kleur heeft de jas? = якого кольору куртка?). Eu це [øː], як у leuk (Les 19). R наприкінці чітка. Схоже на англійське colour: підказка для пам'яті"
+    },
+    {
+      "id": "nl-ca549a2a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "broek",
+      "plural": [
+        "broeken"
+      ],
+      "ua": "штани, брюки (одні штани)",
+      "audio": "de-broek.mp3",
+      "explain_ua": "(Mijn broek is blauw = мої штани сині). Українське «штани» лише множина, а нідерландською одні штани це однина: de broek. Кілька пар: de broeken. Oe [u], як у boek (Les 1). Не плутай: de broek і het boek"
+    },
+    {
+      "id": "nl-3fd992b0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "jas",
+      "plural": [
+        "jassen"
+      ],
+      "ua": "куртка, пальто (верхній одяг)",
+      "audio": "de-jas.mp3",
+      "explain_ua": "(Ik draag een jas = я ношу куртку). Jas це верхній одяг: куртка, пальто. J як українське й, як у jong (Les 19). Множина jassen: після короткої a літера s подвоюється, як t у witte"
+    },
+    {
+      "id": "nl-318986b8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "jurk",
+      "plural": [
+        "jurken"
+      ],
+      "ua": "сукня",
+      "audio": "de-jurk.mp3",
+      "explain_ua": "(De jurk is blauw = сукня синя). J як й. U коротка [ʏ]: такого звука немає ні в українській, ні в англійській, слухай аудіо"
+    },
+    {
+      "id": "nl-cdb580c6",
+      "type": "noun",
+      "article": "de",
+      "lemma": "rok",
+      "plural": [
+        "rokken"
+      ],
+      "ua": "спідниця",
+      "audio": "de-rok.mp3",
+      "explain_ua": "(De rok is grijs = спідниця сіра). O коротка [ɔ], як у bos (Les 1). Множина rokken: k подвоюється після короткої голосної"
+    },
+    {
+      "id": "nl-d3111065",
+      "type": "noun",
+      "article": "het",
+      "lemma": "T-shirt",
+      "plural": [
+        "T-shirts"
+      ],
+      "ua": "футболка",
+      "audio": "het-t-shirt.mp3",
+      "explain_ua": "(Het T-shirt is wit = футболка біла). Слово з англійської: T-shirt пишеться з великою T і дефісом. Het-слово: een wit T-shirt, але het witte T-shirt. Множина T-shirts: просто -s, як appels (Les 8)"
+    },
+    {
+      "id": "nl-6cf05a11",
+      "type": "noun",
+      "article": "de",
+      "lemma": "trui",
+      "plural": [
+        "truien"
+      ],
+      "ua": "светр, джемпер, кофта",
+      "audio": "de-trui.mp3",
+      "explain_ua": "(De trui is grijs = светр сірий). Ui це [œy], як у huis і muis (Les 1). Множина truien. Trui це в'язаний одяг, що надягається через голову"
+    },
+    {
+      "id": "nl-8e5ffc2b",
+      "type": "noun",
+      "article": "de",
+      "lemma": "schoen",
+      "plural": [
+        "schoenen"
+      ],
+      "ua": "туфля, черевик (одна штука)",
+      "audio": "de-schoen.mp3",
+      "explain_ua": "(Ik draag zwarte schoenen = я ношу чорні туфлі). De schoen це одна туфля; пара це de schoenen, і зазвичай говорять саме про пару. Sch це s + ch, як у school (Les 17). Oe [u], як у boek"
+    },
+    {
+      "id": "nl-b2c0f1e9",
+      "type": "noun",
+      "article": "de",
+      "lemma": "sok",
+      "plural": [
+        "sokken"
+      ],
+      "ua": "шкарпетка",
+      "audio": "de-sok.mp3",
+      "explain_ua": "(Mijn sokken zijn bruin = мої шкарпетки коричневі). Одна шкарпетка de sok, множина sokken (k подвоюється). Схоже на англійське sock: підказка для пам'яті"
+    },
+    {
+      "id": "nl-d9cf9dfa",
+      "type": "noun",
+      "article": "de",
+      "lemma": "muts",
+      "plural": [
+        "mutsen"
+      ],
+      "ua": "шапка",
+      "audio": "de-muts.mp3",
+      "explain_ua": "(De muts is paars = шапка фіолетова). U коротка [ʏ], як у jurk. Ts наприкінці як українська ц. Множина mutsen"
+    },
+    {
+      "id": "nl-40cbefb8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "sjaal",
+      "plural": [
+        "sjaals"
+      ],
+      "ua": "шарф, шаль",
+      "audio": "de-sjaal.mp3",
+      "explain_ua": "(De sjaal is geel = шарф жовтий). Sj це один звук [ʃ], як українська ш. Aa довге [aː], як у maan (Les 1). Множина sjaals: просто -s. Українське «шаль» тут підказка для пам'яті"
+    },
+    {
+      "id": "nl-d7bcd773",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kleren",
+      "plural": [],
+      "ua": "одяг",
+      "audio": "de-kleren.mp3",
+      "plural_only": true,
+      "explain_ua": "(De kleren zijn nieuw = одяг новий). Лише множина: одяг нідерландською це de kleren, однини немає. Дієслово множини: de kleren zijn. Одну річ називають конкретно: een jas, een rok, een trui"
+    },
+    {
+      "id": "nl-cd43ae7c",
+      "type": "noun",
+      "article": "de",
+      "lemma": "handschoen",
+      "plural": [
+        "handschoenen"
+      ],
+      "ua": "рукавичка",
+      "audio": "de-handschoen.mp3",
+      "explain_ua": "(Hij koopt warme handschoenen = він купує теплі рукавички). Слово складене: hand + schoen, тобто «туфля для руки». Схоже на англійське hand: підказка для пам'яті. Множина handschoenen"
+    },
+    {
+      "id": "nl-efe81298",
+      "type": "noun",
+      "article": "de",
+      "lemma": "laars",
+      "plural": [
+        "laarzen"
+      ],
+      "ua": "чобіт",
+      "audio": "de-laars.mp3",
+      "explain_ua": "(Ik vind deze laarzen heel mooi = мені дуже подобаються ці чоботи). Aa довге [aː]. Множина неправильна для ока: laarzen, s стає z, як у grijs - grijze. Одна laars, пара laarzen"
+    },
+    {
+      "id": "nl-ff0aa7a6",
+      "type": "verb",
+      "lemma": "dragen",
+      "ua": "носити (одяг); нести",
+      "audio": "dragen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "draag",
+          "audio": "ik-draag.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "draagt",
+          "audio": "jij-draagt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "draagt",
+          "audio": "u-draagt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "draagt",
+          "audio": "hij-draagt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "dragen",
+          "audio": "wij-dragen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "dragen",
+          "audio": "jullie-dragen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "dragen",
+          "audio": "zij-dragen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik draag een rode jas = я ношу червону куртку; на мені червона куртка). Dragen значить «мати на собі» і «нести»: тут вчимо одяг. Одне слово для «ношу взагалі» і «на мені зараз»: Ik draag een jas значить і те, і те. «Одягнути» (дія) це інше слово, його ще не вчимо. Основа draag з двома a, в інфінітиві a одна (dragen): правило з Les 7. У jij/hij/u draagt. Після jij у питанні t зникає: Draag jij een muts? Так само vind jij (Les 19)"
+    },
+    {
+      "id": "nl-13d47df3",
+      "type": "function",
+      "lemma": "welke",
+      "ua": "який, яка, які (питання)",
+      "audio": "welke.mp3",
+      "explain_ua": "(Welke kleur heeft de jas? = якого кольору куртка? Welke jas vind je mooi? = яку куртку ти вважаєш гарною?). Питальне слово перед іменником. Welke стоїть перед de-словом і перед множиною; перед het-словом стоїть welk. Kleur це de-слово, тому завжди welke kleur. Та сама пара, що elk - elke (Les 7). Остання e нечітка"
+    },
+    {
+      "id": "nl-20dad47a",
+      "type": "function",
+      "lemma": "welk",
+      "ua": "який, яке (питання; перед het-словом)",
+      "audio": "welk.mp3",
+      "explain_ua": "(Welk T-shirt koop je? = яку футболку ти купуєш? Welk kind draagt een muts?). Пара до welke: welk стоїть перед het-словом в однині (het T-shirt, het kind, het huis). Перед kleur welk не стоїть: kleur це de-слово, тому welke kleur. Як elk - elke (Les 7)"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "De jas is rood: після zijn без -e",
+      "summary_ua": "Колір це прикметник. Після is чи zijn він без закінчення, як nieuw у Les 19: De jas is rood. Українською колір змінюється (чорний, чорна, чорні), нідерландською форма одна.",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "Після is / zijn: без -e",
+          "when_ua": "Колір стоїть у кінці речення після zijn. Форма не залежить ні від de/het, ні від однини й множини.",
+          "examples": [
+            {
+              "nl": "De schoenen zijn **zwart**.",
+              "ua": "Туфлі чорні.",
+              "audio": "les21-rule-01.mp3"
+            },
+            {
+              "nl": "Mijn broek is **blauw**.",
+              "ua": "Мої штани сині.",
+              "audio": "les21-rule-02.mp3"
+            },
+            {
+              "nl": "De sjaal is **bruin**.",
+              "ua": "Шарф коричневий.",
+              "audio": "les21-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не De sjaal is bruine: після zijn -e немає."
+        }
+      ],
+      "points_ua": [
+        "Після is / zijn: rood, blauw, groen, geel, zwart, wit, grijs, bruin, paars, без -e.",
+        "Одне слово на всі роди й числа."
+      ]
+    },
+    {
+      "title_ua": "Een rode jas, een rood T-shirt: -e чи ні",
+      "summary_ua": "Те саме правило -e, що в Les 11 і Les 19, тепер з кольорами. Перед іменником -e є, крім het-слова в однині з een (чи без артикля).",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "De-слово і множина: -e",
+          "when_ua": "Перед de-словом (з een, de чи без артикля) і перед множиною прикметник має -e.",
+          "examples": [
+            {
+              "nl": "Ik koop een **blauwe** broek.",
+              "ua": "Я купую сині штани.",
+              "audio": "les21-rule-04.mp3"
+            },
+            {
+              "nl": "Zij heeft de **groene** jas.",
+              "ua": "У неї є зелена куртка.",
+              "audio": "les21-rule-05.mp3"
+            },
+            {
+              "nl": "Wij zien **bruine** schoenen.",
+              "ua": "Ми бачимо коричневі туфлі.",
+              "audio": "les21-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Broek, jas це de-слова, schoenen це множина."
+        },
+        {
+          "form": "Het-слово з een: без -e",
+          "when_ua": "Het-слово в однині, а перед прикметником стоїть een: -e немає.",
+          "examples": [
+            {
+              "nl": "Ik heb een **blauw** T-shirt.",
+              "ua": "У мене є синя футболка.",
+              "audio": "les21-rule-07.mp3"
+            },
+            {
+              "nl": "Hij koopt een **zwart** T-shirt.",
+              "ua": "Він купує чорну футболку.",
+              "audio": "les21-rule-08.mp3"
+            }
+          ],
+          "note_ua": "T-shirt це het-слово. Тому вчи іменник з артиклем."
+        },
+        {
+          "form": "Het-слово з het, mijn, dit: -e",
+          "when_ua": "Перед het, mijn, dit чи deze іменник означений, і -e знову є.",
+          "examples": [
+            {
+              "nl": "Ik vind het **blauwe** T-shirt mooi.",
+              "ua": "Я вважаю футболку гарною.",
+              "audio": "les21-rule-09.mp3"
+            },
+            {
+              "nl": "Mijn **zwarte** T-shirt is oud.",
+              "ua": "Моя чорна футболка стара.",
+              "audio": "les21-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: een rood T-shirt, het rode T-shirt. Een rode jas, de rode jas."
+        }
+      ],
+      "points_ua": [
+        "Тест: після zijn? Без -e. Перед іменником: het-слово в однині з een? Без -e. Інакше -e.",
+        "Een rode jas, de rode jas, rode jassen. Een rood T-shirt, het rode T-shirt."
+      ]
+    },
+    {
+      "title_ua": "Wit - witte, grijs - grijze: зміни в написанні",
+      "summary_ua": "Коли додаємо -e, у трьох групах слів змінюється написання: geel - gele, wit - witte, grijs - grijze. Решта просто + e: blauwe, groene, zwarte, bruine.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Дві голосні стають однією: rood - rode, geel - gele",
+          "when_ua": "Довга голосна у відкритому складі пишеться однією літерою, як maan - manen (Les 1).",
+          "examples": [
+            {
+              "nl": "Zij draagt een **gele** sjaal.",
+              "ua": "Вона носить жовтий шарф.",
+              "audio": "les21-rule-11.mp3"
+            },
+            {
+              "nl": "Hij heeft **rode** sokken.",
+              "ua": "У нього є червоні шкарпетки.",
+              "audio": "les21-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Не rood-e і не geel-e: rode, gele."
+        },
+        {
+          "form": "Приголосна подвоюється: wit - witte",
+          "when_ua": "Голосна коротка, тому t подвоюється. Одна t зробила б i довгою.",
+          "examples": [
+            {
+              "nl": "Zij koopt een **witte** muts.",
+              "ua": "Вона купує білу шапку.",
+              "audio": "les21-rule-13.mp3"
+            },
+            {
+              "nl": "De **witte** jurk is duur.",
+              "ua": "Біла сукня дорога.",
+              "audio": "les21-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Правило довжини голосної з Les 7 працює й тут."
+        },
+        {
+          "form": "S і z: grijs - grijze, paars - paarse",
+          "when_ua": "У grijs літера s між голосними стає z. У paars s лишається s. Вчи ці дві пари як є.",
+          "examples": [
+            {
+              "nl": "De **grijze** trui is duur.",
+              "ua": "Сірий светр дорогий.",
+              "audio": "les21-rule-15.mp3"
+            },
+            {
+              "nl": "Ik vind de **paarse** sjaal leuk.",
+              "ua": "Мені подобається фіолетовий шарф.",
+              "audio": "les21-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Не paarze. Так само з z пишеться laars - laarzen."
+        }
+      ],
+      "points_ua": [
+        "rood - rode, geel - gele; wit - witte; grijs - grijze; paars - paarse.",
+        "Blauwe, groene, zwarte, bruine: просто + e."
+      ]
+    },
+    {
+      "title_ua": "Roze і oranje: без -e",
+      "summary_ua": "Roze й oranje вже закінчуються на -e, тому не змінюються ніколи: ні перед de-словом, ні перед het-словом, ні після zijn.",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "Roze, oranje: одна форма",
+          "when_ua": "Тут ти не думаєш про -e: форма завжди та сама.",
+          "examples": [
+            {
+              "nl": "Ik heb een **roze** trui.",
+              "ua": "У мене є рожевий светр.",
+              "audio": "les21-rule-17.mp3"
+            },
+            {
+              "nl": "Zij koopt een **oranje** jas.",
+              "ua": "Вона купує помаранчеву куртку.",
+              "audio": "les21-rule-18.mp3"
+            },
+            {
+              "nl": "Het **oranje** T-shirt is oud.",
+              "ua": "Помаранчева футболка стара.",
+              "audio": "les21-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Het oranje T-shirt, не het oranjee T-shirt: після het інші кольори мають -e, ці ні."
+        }
+      ],
+      "points_ua": [
+        "Roze, oranje: без змін, ніколи.",
+        "Це єдині кольори цього уроку, де -e не додаємо взагалі."
+      ]
+    },
+    {
+      "title_ua": "Welke kleur? Wat voor kleur?",
+      "summary_ua": "Про колір можна спитати двома способами: Welke kleur ...? і Wat voor kleur ...?. Обидва значать «якого кольору». Дієслово стоїть на другому місці, як завжди (V2).",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Welke kleur heeft ...?",
+          "when_ua": "Kleur це de-слово, тому завжди welke kleur. Після нього heeft (одна річ) чи hebben (кілька).",
+          "examples": [
+            {
+              "nl": "**Welke kleur** heeft de sjaal?",
+              "ua": "Якого кольору шарф?",
+              "audio": "les21-rule-20.mp3"
+            },
+            {
+              "nl": "**Welke kleur** hebben de schoenen?",
+              "ua": "Якого кольору туфлі?",
+              "audio": "les21-rule-21.mp3"
+            },
+            {
+              "nl": "De sjaal is **geel**.",
+              "ua": "Шарф жовтий.",
+              "audio": "les21-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Не welk kleur: kleur це de-слово."
+        },
+        {
+          "form": "Wat voor kleur heeft ...?",
+          "when_ua": "Wat voor приблизно «що за». Wat voor kleur це одна група слів на першому місці, потім дієслово.",
+          "examples": [
+            {
+              "nl": "**Wat voor kleur** heeft de muts?",
+              "ua": "Якого кольору шапка?",
+              "audio": "les21-rule-23.mp3"
+            },
+            {
+              "nl": "**Wat voor kleur** heeft de broek?",
+              "ua": "Якого кольору штани?",
+              "audio": "les21-rule-24.mp3"
+            },
+            {
+              "nl": "De muts is **paars**.",
+              "ua": "Шапка фіолетова.",
+              "audio": "les21-rule-25.mp3"
+            }
+          ],
+          "note_ua": "У розмові обидва питання звучать нормально. Відповідь та сама: De muts is paars."
+        }
+      ],
+      "points_ua": [
+        "Welke kleur heeft de sjaal? = Wat voor kleur heeft de sjaal?",
+        "Відповідь: De sjaal is geel (після is без -e)."
+      ]
+    },
+    {
+      "title_ua": "Welke чи welk: «який» перед іменником",
+      "summary_ua": "Welke стоїть перед de-словом і перед множиною. Welk стоїть перед het-словом в однині. Це та сама пара, що elke - elk у Les 7.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Welke: de-слова і множина",
+          "when_ua": "Jas, schoen, kleur це de-слова: welke. Множина теж welke.",
+          "examples": [
+            {
+              "nl": "**Welke** jas is nieuw?",
+              "ua": "Яка куртка нова?",
+              "audio": "les21-rule-26.mp3"
+            },
+            {
+              "nl": "**Welke** schoenen koop je?",
+              "ua": "Які туфлі ти купуєш?",
+              "audio": "les21-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Welke kleur завжди з e."
+        },
+        {
+          "form": "Welk: het-слова в однині",
+          "when_ua": "T-shirt, kind, huis це het-слова: welk, без e.",
+          "examples": [
+            {
+              "nl": "**Welk** T-shirt koop je?",
+              "ua": "Яку футболку ти купуєш?",
+              "audio": "les21-rule-28.mp3"
+            },
+            {
+              "nl": "**Welk** kind draagt een muts?",
+              "ua": "Яка дитина носить шапку?",
+              "audio": "les21-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Тому вчи іменник з артиклем: het T-shirt, отже welk T-shirt."
+        }
+      ],
+      "points_ua": [
+        "De-слово чи множина: welke. Het-слово в однині: welk.",
+        "Kleur це de-слово: welke kleur."
+      ]
+    },
+    {
+      "title_ua": "Dragen: носити; de kleren: одяг",
+      "summary_ua": "Dragen значить «носити», «мати на собі». Основа draag, у jij/hij/u draagt. De kleren це одяг лише у множині.",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "Ik draag, hij draagt, wij dragen",
+          "when_ua": "Як у інших дієслів: ik без закінчення, jij/hij з -t, wij/jullie/zij з -en. Після jij у питанні t зникає.",
+          "examples": [
+            {
+              "nl": "Ik **draag** een sjaal.",
+              "ua": "Я ношу шарф.",
+              "audio": "les21-rule-30.mp3"
+            },
+            {
+              "nl": "Zij **draagt** een trui.",
+              "ua": "Вона носить светр.",
+              "audio": "les21-rule-31.mp3"
+            },
+            {
+              "nl": "**Draag** jij een muts?",
+              "ua": "Ти носиш шапку?",
+              "audio": "les21-rule-32.mp3"
+            },
+            {
+              "nl": "Wij **dragen** warme kleren.",
+              "ua": "Ми носимо теплий одяг.",
+              "audio": "les21-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Draag jij, а не draagt jij (як vind jij у Les 19). Часу «зараз» окремого немає: Ik draag значить і «ношу», і «на мені зараз»."
+        },
+        {
+          "form": "De kleren: лише множина",
+          "when_ua": "Одягу в однині немає. Дієслово множини: de kleren zijn. Одну річ називай конкретно: een jas, een rok.",
+          "examples": [
+            {
+              "nl": "Ik koop nieuwe **kleren**.",
+              "ua": "Я купую новий одяг.",
+              "audio": "les21-rule-34.mp3"
+            },
+            {
+              "nl": "De **kleren** zijn duur.",
+              "ua": "Одяг дорогий.",
+              "audio": "les21-rule-35.mp3"
+            }
+          ],
+          "note_ua": "Перед множиною прикметник з -e: nieuwe kleren."
+        }
+      ],
+      "points_ua": [
+        "Ik draag, jij draagt, hij draagt, wij dragen. Після jij у питанні: draag jij.",
+        "De kleren: лише множина, de kleren zijn."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik draag een rode jas.",
+      "ua": "Я ношу червону куртку.",
+      "audio": "les21-example-01.mp3"
+    },
+    {
+      "nl": "De jas is rood.",
+      "ua": "Куртка червона.",
+      "audio": "les21-example-02.mp3"
+    },
+    {
+      "nl": "Zij draagt de rode jas.",
+      "ua": "Вона носить ту червону куртку.",
+      "audio": "les21-example-03.mp3"
+    },
+    {
+      "nl": "Hij heeft een rood T-shirt.",
+      "ua": "У нього є червона футболка.",
+      "audio": "les21-example-04.mp3"
+    },
+    {
+      "nl": "Het rode T-shirt is nieuw.",
+      "ua": "Червона футболка нова.",
+      "audio": "les21-example-05.mp3"
+    },
+    {
+      "nl": "Welke kleur heeft de jurk?",
+      "ua": "Якого кольору сукня?",
+      "audio": "les21-example-06.mp3"
+    },
+    {
+      "nl": "Wat voor kleur heeft het T-shirt?",
+      "ua": "Якого кольору футболка?",
+      "audio": "les21-example-07.mp3"
+    },
+    {
+      "nl": "Ik vind de witte rok mooi.",
+      "ua": "Мені здається спідниця гарною.",
+      "audio": "les21-example-08.mp3"
+    },
+    {
+      "nl": "Wij hebben grijze schoenen.",
+      "ua": "У нас є сірі туфлі.",
+      "audio": "les21-example-09.mp3"
+    },
+    {
+      "nl": "Welk T-shirt vind je mooi?",
+      "ua": "Яку футболку ти вважаєш гарною?",
+      "audio": "les21-example-10.mp3"
+    },
+    {
+      "nl": "Zij draagt een roze muts.",
+      "ua": "Вона носить рожеву шапку.",
+      "audio": "les21-example-11.mp3"
+    },
+    {
+      "nl": "De kleren zijn nieuw.",
+      "ua": "Одяг новий.",
+      "audio": "les21-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wat draagt mijn zus?",
+    "title_ua": "Що носить моя сестра?",
+    "highlight": [
+      "nl-04db8313",
+      "nl-1559ecdb",
+      "nl-3314c198",
+      "nl-5daf87db",
+      "nl-59d05be2",
+      "nl-426e316d",
+      "nl-de1e06f5",
+      "nl-26c15a1c",
+      "nl-45f048a4",
+      "nl-7c70581f",
+      "nl-181fe48d",
+      "nl-5026d9e8",
+      "nl-ca549a2a",
+      "nl-3fd992b0",
+      "nl-d3111065",
+      "nl-6cf05a11",
+      "nl-8e5ffc2b",
+      "nl-b2c0f1e9",
+      "nl-d9cf9dfa",
+      "nl-40cbefb8"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn zus draagt vandaag een rode jas.",
+        "ua": "Моя сестра сьогодні носить червону куртку.",
+        "audio": "les21-reading-01.mp3"
+      },
+      {
+        "nl": "Ik vind de jas heel mooi.",
+        "ua": "Я вважаю куртку дуже гарною.",
+        "audio": "les21-reading-02.mp3"
+      },
+      {
+        "nl": "Zij draagt ook een zwarte broek en witte schoenen.",
+        "ua": "Вона носить також чорні штани й білі туфлі.",
+        "audio": "les21-reading-03.mp3"
+      },
+      {
+        "nl": "Haar muts is paars en haar sjaal is geel.",
+        "ua": "Її шапка фіолетова, а шарф жовтий.",
+        "audio": "les21-reading-04.mp3"
+      },
+      {
+        "nl": "De gele sjaal is oud, maar leuk.",
+        "ua": "Жовтий шарф старий, але класний.",
+        "audio": "les21-reading-05.mp3"
+      },
+      {
+        "nl": "Zij heeft ook een grijs T-shirt.",
+        "ua": "У неї є також сіра футболка.",
+        "audio": "les21-reading-06.mp3"
+      },
+      {
+        "nl": "Het grijze T-shirt is nieuw.",
+        "ua": "Сіра футболка нова.",
+        "audio": "les21-reading-07.mp3"
+      },
+      {
+        "nl": "Ik draag een groene trui en bruine schoenen.",
+        "ua": "Я ношу зелений светр і коричневі туфлі.",
+        "audio": "les21-reading-08.mp3"
+      },
+      {
+        "nl": "Mijn sokken zijn roze en oranje.",
+        "ua": "Мої шкарпетки рожеві й помаранчеві.",
+        "audio": "les21-reading-09.mp3"
+      },
+      {
+        "nl": "Wat draag jij vandaag?",
+        "ua": "А що носиш ти сьогодні?",
+        "audio": "les21-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Моя куртка чорна.",
+          "accepted": [
+            "Mijn jas is zwart."
+          ]
+        },
+        {
+          "prompt": "Я купую білу футболку.",
+          "accepted": [
+            "Ik koop een wit T-shirt."
+          ]
+        },
+        {
+          "prompt": "У неї є сіра спідниця.",
+          "accepted": [
+            "Zij heeft een grijze rok.",
+            "Ze heeft een grijze rok."
+          ]
+        },
+        {
+          "prompt": "Якого кольору светр?",
+          "accepted": [
+            "Welke kleur heeft de trui?",
+            "Wat voor kleur heeft de trui?"
+          ]
+        },
+        {
+          "prompt": "Ми носимо чорні куртки.",
+          "accepted": [
+            "Wij dragen zwarte jassen.",
+            "We dragen zwarte jassen."
+          ]
+        },
+        {
+          "prompt": "Яку куртку ти вважаєш гарною?",
+          "accepted": [
+            "Welke jas vind je mooi?",
+            "Welke jas vind jij mooi?"
+          ]
+        },
+        {
+          "prompt": "Якого кольору спідниця?",
+          "accepted": [
+            "Welke kleur heeft de rok?",
+            "Wat voor kleur heeft de rok?"
+          ]
+        },
+        {
+          "prompt": "Мої шкарпетки коричневі.",
+          "accepted": [
+            "Mijn sokken zijn bruin."
+          ]
+        },
+        {
+          "prompt": "Вона носить синю сукню.",
+          "accepted": [
+            "Zij draagt een blauwe jurk.",
+            "Ze draagt een blauwe jurk."
+          ]
+        },
+        {
+          "prompt": "Він купує теплі рукавички.",
+          "accepted": [
+            "Hij koopt warme handschoenen."
+          ]
+        },
+        {
+          "prompt": "Мені дуже подобаються ці чоботи.",
+          "accepted": [
+            "Ik vind deze laarzen heel mooi.",
+            "Ik vind deze laarzen heel leuk."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: з -e чи без -e, welke чи welk",
+      "bank": [
+        "rood",
+        "rode",
+        "wit",
+        "witte",
+        "grijs",
+        "grijze",
+        "blauw",
+        "blauwe",
+        "roze",
+        "welke",
+        "welk",
+        "wat"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "De jas is ___.",
+          "hint": "Куртка червона (після is -e немає)",
+          "accepted": [
+            [
+              "rood"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb een ___ jas.",
+          "hint": "червона куртка (de jas)",
+          "accepted": [
+            [
+              "rode"
+            ]
+          ]
+        },
+        {
+          "text": "Zij koopt een ___ T-shirt.",
+          "hint": "біла футболка (het T-shirt після een)",
+          "accepted": [
+            [
+              "wit"
+            ]
+          ]
+        },
+        {
+          "text": "Ik zie het ___ T-shirt.",
+          "hint": "синя футболка (het T-shirt після het)",
+          "accepted": [
+            [
+              "blauwe"
+            ]
+          ]
+        },
+        {
+          "text": "De sokken zijn ___.",
+          "hint": "Шкарпетки сірі (після zijn)",
+          "accepted": [
+            [
+              "grijs"
+            ]
+          ]
+        },
+        {
+          "text": "Zij draagt een ___ jurk.",
+          "hint": "рожева сукня (roze не змінюється)",
+          "accepted": [
+            [
+              "roze"
+            ]
+          ]
+        },
+        {
+          "text": "Ik koop ___ schoenen.",
+          "hint": "білі туфлі (множина без артикля)",
+          "accepted": [
+            [
+              "witte"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ trui is duur.",
+          "hint": "сірий светр (de trui)",
+          "accepted": [
+            [
+              "grijze"
+            ]
+          ]
+        },
+        {
+          "text": "___ kleur heeft de muts?",
+          "hint": "Якого кольору шапка? (kleur це de-слово)",
+          "accepted": [
+            [
+              "Welke",
+              "welke"
+            ]
+          ]
+        },
+        {
+          "text": "___ T-shirt is nieuw?",
+          "hint": "Яка футболка нова? (het T-shirt)",
+          "accepted": [
+            [
+              "Welk",
+              "welk"
+            ]
+          ]
+        },
+        {
+          "text": "___ voor kleur heeft de jurk?",
+          "hint": "Якого кольору сукня?",
+          "accepted": [
+            [
+              "Wat",
+              "wat"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ jas is warm.",
+          "hint": "моя синя куртка (de jas)",
+          "accepted": [
+            [
+              "blauwe"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: een -> de / het, X is ... -> Het is een ..., Welke -> Wat voor",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik zie een rode jas.",
+          "cue": "-> Ik zie de ... jas",
+          "accepted": [
+            "Ik zie de rode jas."
+          ]
+        },
+        {
+          "prompt": "Ik zie een wit T-shirt.",
+          "cue": "-> Ik zie het ... T-shirt",
+          "accepted": [
+            "Ik zie het witte T-shirt."
+          ]
+        },
+        {
+          "prompt": "Zij koopt een grijze rok.",
+          "cue": "-> Zij koopt de ... rok",
+          "accepted": [
+            "Zij koopt de grijze rok.",
+            "Ze koopt de grijze rok."
+          ]
+        },
+        {
+          "prompt": "De jurk is blauw.",
+          "cue": "-> Het is een ... jurk",
+          "accepted": [
+            "Het is een blauwe jurk."
+          ]
+        },
+        {
+          "prompt": "Het T-shirt is groen.",
+          "cue": "-> Het is een ... T-shirt",
+          "accepted": [
+            "Het is een groen T-shirt."
+          ]
+        },
+        {
+          "prompt": "Het is een roze trui.",
+          "cue": "-> De trui is ...",
+          "accepted": [
+            "De trui is roze."
+          ]
+        },
+        {
+          "prompt": "Het is een bruine sjaal.",
+          "cue": "-> De sjaal is ...",
+          "accepted": [
+            "De sjaal is bruin."
+          ]
+        },
+        {
+          "prompt": "Welke kleur heeft de jas?",
+          "cue": "-> Wat voor kleur ...?",
+          "accepted": [
+            "Wat voor kleur heeft de jas?"
+          ]
+        },
+        {
+          "prompt": "Wat voor kleur hebben de laarzen?",
+          "cue": "-> Welke kleur ...?",
+          "accepted": [
+            "Welke kleur hebben de laarzen?"
+          ]
+        },
+        {
+          "prompt": "Ik draag een roze jas.",
+          "cue": "-> починай з Hij",
+          "accepted": [
+            "Hij draagt een roze jas."
+          ]
+        },
+        {
+          "prompt": "Jij draagt een trui.",
+          "cue": "-> постав питання: Draag jij ...?",
+          "accepted": [
+            "Draag jij een trui?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ een rode muts.",
+          "cue": "dragen",
+          "accepted": [
+            "draag"
+          ]
+        },
+        {
+          "text": "Hij ___ een grijze jas.",
+          "cue": "dragen",
+          "accepted": [
+            "draagt"
+          ]
+        },
+        {
+          "text": "___ jij een sjaal?",
+          "cue": "dragen",
+          "accepted": [
+            "Draag",
+            "draag"
+          ]
+        },
+        {
+          "text": "Wij ___ zwarte schoenen.",
+          "cue": "dragen",
+          "accepted": [
+            "dragen"
+          ]
+        },
+        {
+          "text": "De kinderen ___ een muts.",
+          "cue": "dragen",
+          "accepted": [
+            "dragen"
+          ]
+        },
+        {
+          "text": "Mijn moeder ___ een groene jurk.",
+          "cue": "dragen",
+          "accepted": [
+            "draagt"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ bruine laarzen.",
+          "cue": "dragen",
+          "accepted": [
+            "draagt"
+          ]
+        },
+        {
+          "text": "Wat ___ hij vandaag?",
+          "cue": "dragen",
+          "accepted": [
+            "draagt"
+          ]
+        },
+        {
+          "text": "Jullie ___ mooie kleren.",
+          "cue": "dragen",
+          "accepted": [
+            "dragen"
+          ]
+        },
+        {
+          "text": "Ik ___ het T-shirt niet mooi.",
+          "cue": "vinden",
+          "accepted": [
+            "vind"
+          ]
+        },
+        {
+          "text": "Hij ___ een blauwe broek.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
