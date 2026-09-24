@@ -591,15 +591,25 @@ if (typeof document === 'undefined') {
     renderStatus();
   })();
 
+  // The words of ONE lesson at a time: a grid of "Les N" buttons on top, the words of the chosen lesson below.
+  // Which lesson is chosen is only remembered while the page is open; it starts on the newest lesson.
+  let wordsLesson = LESSONS.length - 1;
   function renderWords() {
     const root = $('all-words'); root.innerHTML = '';
-    LESSONS.forEach((L) => {
-      root.append(el('h3', 'sub', `Les ${L.order}`));
-      const ul = el('ul', 'words');
-      L.notes.filter((n) => n.type !== 'verb').forEach((n) => ul.append(wordRow(n)));
-      L.notes.filter((n) => n.type === 'verb').forEach((v) => { const li = el('li'); li.append(el('span', 'nl', v.lemma), el('span', 'meta', `${v.ua} - ${[...new Set(v.paradigm.map((r) => r.form))].join(', ')}`)); ul.append(li); });
-      root.append(ul);
+    const grid = el('div', 'lesson-grid');
+    LESSONS.forEach((L, i) => {
+      const b = el('button', 'lesson-chip' + (i === wordsLesson ? ' active' : ''), `Les ${L.order}`);
+      b.setAttribute('aria-pressed', String(i === wordsLesson));
+      b.onclick = () => { wordsLesson = i; renderWords(); };
+      grid.append(b);
     });
+    root.append(grid);
+    const L = LESSONS[wordsLesson];
+    root.append(el('h3', 'sub', `Les ${L.order}`));
+    const ul = el('ul', 'words');
+    L.notes.filter((n) => n.type !== 'verb').forEach((n) => ul.append(wordRow(n)));
+    L.notes.filter((n) => n.type === 'verb').forEach((v) => { const li = el('li'); li.append(el('span', 'nl', v.lemma), el('span', 'meta', `${v.ua} - ${[...new Set(v.paradigm.map((r) => r.form))].join(', ')}`)); ul.append(li); });
+    root.append(ul);
   }
 
   function show(view) {

@@ -76,6 +76,12 @@
   button.btn:hover { border-color: var(--accent); }
   button.btn.primary { background: var(--accent); color: var(--card); border-color: var(--accent); }
 
+  .lesson-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(84px, 1fr)); gap: 10px; margin: 16px 0 6px; }
+  button.lesson-chip { font: inherit; font-weight: 600; background: var(--pill); color: var(--accent); border: 1px solid var(--line); border-bottom-width: 3px; border-radius: 10px; padding: 8px 4px; cursor: pointer; transition: transform .05s; }
+  button.lesson-chip:hover { border-color: var(--accent); }
+  button.lesson-chip:active { transform: translateY(1px); border-bottom-width: 2px; }
+  button.lesson-chip.active { background: var(--accent); color: var(--card); border-color: var(--accent); }
+
   .ex { margin-top: 22px; }
   .ex h3 { margin: 0 0 8px; font-size: 15px; }
   .badge { display: inline-block; background: var(--accent); color: var(--card); border-radius: 4px; padding: 0 8px; margin-right: 8px; font-weight: 700; }
@@ -254,7 +260,7 @@
 
   <section id="view-words" class="view">
     <div class="block"><h2><span>Слова</span><span class="dutch">Woorden</span></h2>
-      <p class="meta" style="margin:0;text-align:center">Усі нові слова з розділів «Нове» і «Читання». Список збирається автоматично з уроків, окремо ніде не зберігається.</p>
+      <p class="meta" style="margin:0;text-align:center">Обери урок, щоб побачити його нові слова. Список збирається автоматично з уроків, окремо ніде не зберігається.</p>
       <div id="all-words"></div>
     </div>
   </section>

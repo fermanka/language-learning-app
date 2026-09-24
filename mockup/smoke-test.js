@@ -12,6 +12,7 @@ class El {
   get textContent() { return this._text + this.children.map((c) => c.textContent).join(''); }
   append(...nodes) { nodes.forEach((n) => { const node = typeof n === 'string' ? new Text(n) : n; if (node instanceof El) node.parentNode = this; this.children.push(node); }); }
   after() {}
+  setAttribute() {}
   remove() { if (this.parentNode) this.parentNode.children = this.parentNode.children.filter((c) => c !== this); }
   addEventListener(type, fn) { (this.listeners = this.listeners || {})[type] = fn; }
   all() { return this.children.flatMap((c) => (c instanceof El ? [c, ...c.all()] : [])); }
@@ -91,7 +92,15 @@ const rows = byId['progress-rows'].children;
 t('progress lists every lesson', rows.length === N);
 t('progress: previous lessons done, last one current', rows.slice(0, N - 1).every((r) => r.textContent.includes('пройдено')) && rows[N - 1].textContent.includes('поточний'));
 t('progress shows exercise results for finished lessons', rows[0].textContent.includes('частин практики виконано'));
-t('words page has every lesson', byId['all-words'].children.filter((e) => e.tag === 'h3').length === N);
+const chips = () => byId['all-words'].all().filter((e) => e.className.split(' ').includes('lesson-chip'));
+const wordsHeading = () => byId['all-words'].children.filter((e) => e.tag === 'h3').map((e) => e.textContent).join();
+const wordCount = () => byId['all-words'].children.filter((e) => e.tag === 'ul').reduce((n, ul) => n + ul.children.length, 0);
+t('words page: one button per lesson, labelled Les N', chips().length === N && chips().every((c, i) => c.textContent === `Les ${window.LESSONS[i].order}`));
+t('words page: it starts on the newest lesson, only that one is active', wordsHeading() === `Les ${window.LESSONS[N - 1].order}` && chips().filter((c) => c.className.includes('active')).length === 1 && chips()[N - 1].className.includes('active'));
+t('words page: only the words of the chosen lesson are listed', wordCount() === window.LESSONS[N - 1].notes.length);
+chips()[0].onclick();
+t('words page: choosing a lesson shows that lesson and marks its button', wordsHeading() === `Les ${window.LESSONS[0].order}` && wordCount() === window.LESSONS[0].notes.length && chips()[0].className.includes('active') && !chips()[N - 1].className.includes('active'));
+chips()[N - 1].onclick();
 byId['next'].onclick();               // last lesson: must not crash
 // ---- flashcards (every lesson is done at this point, so the deck holds every note once)
 const deckSize = window.LESSONS.reduce((n, L) => n + L.notes.length, 0);   // one card per note: the reverse cards are switched off
