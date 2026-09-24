@@ -1,0 +1,1130 @@
+{
+  "id": "nl-les-22",
+  "lang": "nl",
+  "order": 22,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [
+    "wees"
+  ],
+  "notes": [
+    {
+      "id": "nl-43d3ca7f",
+      "type": "verb",
+      "lemma": "nemen",
+      "ua": "брати; сісти на (автобус); повернути на (вулицю)",
+      "audio": "nemen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "neem",
+          "audio": "ik-neem.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "neemt",
+          "audio": "jij-neemt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "neemt",
+          "audio": "u-neemt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "neemt",
+          "audio": "hij-neemt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "nemen",
+          "audio": "wij-nemen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "nemen",
+          "audio": "jullie-nemen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "nemen",
+          "audio": "zij-nemen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik neem de bus = я їду автобусом; Neem de eerste straat links = поверни на першу вулицю ліворуч). Nemen це «брати». У розмові про дорогу це й «їхати» (neem de bus), і «повернути» (neem de tweede straat). Основа neem: ee подвоюється, бо склад ne-men відкритий (Les 7). Ik neem, jij neemt, wij nemen. Після jij у питанні t зникає: Neem jij de bus? Ee довге [eː], як у heel (Les 19). Форма neem це й наказ: Neem de bus!"
+    },
+    {
+      "id": "nl-0d810aab",
+      "type": "verb",
+      "lemma": "stoppen",
+      "ua": "зупинятися, зупиняти",
+      "audio": "stoppen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "stop",
+          "audio": "ik-stop.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "stopt",
+          "audio": "jij-stopt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "stopt",
+          "audio": "u-stopt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "stopt",
+          "audio": "hij-stopt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "stoppen",
+          "audio": "wij-stoppen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "stoppen",
+          "audio": "jullie-stoppen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "stoppen",
+          "audio": "zij-stoppen.mp3"
+        }
+      ],
+      "explain_ua": "(Stop hier! = зупинись тут; Kunt u hier stoppen? = чи можете Ви тут зупинитися?). Stoppen це і «зупинитися» (автобус, таксі), і «зупинити». Основа stop: у інфінітиві p подвоюється, щоб o лишилась короткою, як zwem-men (Les 7); в основі одна p. Ik stop, jij stopt, wij stoppen. Схоже на англійське stop: підказка для пам'яті"
+    },
+    {
+      "id": "nl-8f4a0d95",
+      "type": "noun",
+      "article": "de",
+      "lemma": "hoek",
+      "plural": [
+        "hoeken"
+      ],
+      "ua": "ріг, кут",
+      "audio": "de-hoek.mp3",
+      "explain_ua": "(De apotheek is op de hoek = аптека на розі). Hoek це кут (у кімнаті) і ріг вулиці. Вчи вираз op de hoek = на розі. Множина hoeken. Oe це [u], як у boek (Les 1): звучить приблизно «гук». Кінцеве k чітке, без придиху"
+    },
+    {
+      "id": "nl-bd47d17f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "kruispunt",
+      "plural": [
+        "kruispunten"
+      ],
+      "ua": "перехрестя",
+      "audio": "het-kruispunt.mp3",
+      "explain_ua": "(Ik ben op het kruispunt = я на перехресті). Слово складається з двох: kruis (хрест) і punt (точка), тобто місце, де дороги перетинаються. Het-слово, множина kruispunten. Ui це дифтонг [œy], як у huis (Les 1): kruis звучить приблизно «крьойс». Наголос на першому складі"
+    },
+    {
+      "id": "nl-7253625e",
+      "type": "noun",
+      "article": "de",
+      "lemma": "brug",
+      "plural": [
+        "bruggen"
+      ],
+      "ua": "міст",
+      "audio": "de-brug.mp3",
+      "explain_ua": "(Steek de brug over = перейди міст). U тут коротке [ʏ], звука з таким округленням губ немає в українській: губи як для «у», а язик як для «і». Кінцеве g це [x], як х у gas (Les 1). Множина bruggen: g подвоюється, щоб u лишалась короткою, як у zwem-men (Les 7)"
+    },
+    {
+      "id": "nl-34a325c3",
+      "type": "noun",
+      "article": "de",
+      "lemma": "weg",
+      "plural": [
+        "wegen"
+      ],
+      "ua": "дорога, шлях",
+      "audio": "de-weg.mp3",
+      "explain_ua": "(Waar is de weg naar het station? = де дорога до вокзалу?). Weg це дорога, шлях. Множина wegen. У однині e коротке [ɛ] і g це [x], у множині склад відкривається й e довге: те саме правило, що man і manen (Les 1). Не плутай з weer (Les 10): weer це «знову»"
+    },
+    {
+      "id": "nl-0ec4495a",
+      "type": "function",
+      "lemma": "rechtdoor",
+      "ua": "прямо (не повертаючи)",
+      "audio": "rechtdoor.mp3",
+      "explain_ua": "(Ga rechtdoor = іди прямо). Пишеться одним словом. Це рух: іти далі без повороту. Не плутай з rechts (Les 17): rechts це де щось стоїть (Rechts is het park), а rechtdoor це куди йти. Ch це [x], як х у хата, oo довге [oː], як у boos (Les 1)"
+    },
+    {
+      "id": "nl-88efd7c6",
+      "type": "function",
+      "lemma": "rechtsaf",
+      "ua": "праворуч (поворот)",
+      "audio": "rechtsaf.mp3",
+      "explain_ua": "(Ga rechtsaf = поверни праворуч). Пишеться одним словом, з дієсловом руху: gaan rechtsaf. Пара rechts і rechtsaf: rechts це місце (Rechts is het café, Les 17), rechtsaf це поворот у русі. Наголос на -af: rechts-AF"
+    },
+    {
+      "id": "nl-d456f048",
+      "type": "function",
+      "lemma": "linksaf",
+      "ua": "ліворуч (поворот)",
+      "audio": "linksaf.mp3",
+      "explain_ua": "(Ga linksaf = поверни ліворуч). Пара до rechtsaf, теж одним словом. Links це місце (Links is het park, Les 17), linksaf це поворот у русі. Наголос на -af: links-AF"
+    },
+    {
+      "id": "nl-fa2bba8c",
+      "type": "function",
+      "lemma": "pardon",
+      "ua": "перепрошую (щоб звернутися)",
+      "audio": "pardon.mp3",
+      "explain_ua": "(Pardon, waar is de apotheek? = перепрошую, де аптека?). Pardon кажуть, щоб звернутися до незнайомця або коли зачепив когось. Одне слово, форма не змінюється. Схоже на українське «пардон»: слово міжнародне, це підказка для пам'яті"
+    },
+    {
+      "id": "nl-2aed87ed",
+      "type": "function",
+      "lemma": "alstublieft",
+      "ua": "будь ласка (ввічливо, до u)",
+      "audio": "alstublieft.mp3",
+      "explain_ua": "(Kunt u hier stoppen, alstublieft? = чи можете Ви тут зупинитися, будь ласка?). Alstublieft це пара до alsjeblieft (Les 12): alsjeblieft для jij, alstublieft для u. Значення те саме: прохання й «ось, візьміть», коли щось подаєш. Пишеться одним словом. Alstublieft стоїть після u або в кінці речення. Ie довге [i], як у ziet (Les 19)"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Наказ: основа без -t і без займенника",
+      "summary_ua": "Наказ у нідерландській це форма ik без займенника: Ga! Kom! Neem! Займенник jij і закінчення -t зникають, лишається основа. Для jij і jullie форма однакова.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "Jij: основа, без -t",
+          "when_ua": "Візьми форму ik і прибери займенник. Jij neemt de trein → Neem de trein!",
+          "examples": [
+            {
+              "nl": "**Neem** de trein.",
+              "ua": "Їдь потягом.",
+              "audio": "les22-rule-01.mp3"
+            },
+            {
+              "nl": "**Loop** naar het station.",
+              "ua": "Іди пішки до вокзалу.",
+              "audio": "les22-rule-02.mp3"
+            },
+            {
+              "nl": "**Kom** hier.",
+              "ua": "Іди сюди.",
+              "audio": "les22-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не Jij neemt! і не Neemt! Слова jij немає, -t немає. Так само в питанні: Neem jij de trein? (Les 10)."
+        },
+        {
+          "form": "Jullie: та сама форма",
+          "when_ua": "Для кількох людей форма не змінюється: жодного закінчення -en.",
+          "examples": [
+            {
+              "nl": "**Kom** hier, kinderen.",
+              "ua": "Ідіть сюди, діти.",
+              "audio": "les22-rule-04.mp3"
+            },
+            {
+              "nl": "**Wacht** hier, kinderen.",
+              "ua": "Зачекайте тут, діти.",
+              "audio": "les22-rule-05.mp3"
+            }
+          ],
+          "note_ua": "В українській «іди» і «ідіть» різні. У нідерландській для jij і jullie одне слово."
+        }
+      ],
+      "points_ua": [
+        "Наказ = форма ik без ik: Ga! Kom! Neem! Stop!",
+        "Jij і jullie: та сама форма, без займенника."
+      ]
+    },
+    {
+      "title_ua": "Відокремлюване дієслово: префікс у кінці",
+      "summary_ua": "Як у Les 4: префікс іде в кінець. У наказі так само: дієслово першим, об'єкт, потім префікс. Не Stap in de bus, а Stap de bus in.",
+      "see": "Les 4",
+      "compare": [
+        {
+          "form": "Дієслово, об'єкт, префікс",
+          "when_ua": "Instappen, binnenkomen, oversteken, opbellen: префікс стоїть останнім.",
+          "examples": [
+            {
+              "nl": "**Stap** de bus **in**.",
+              "ua": "Сідай в автобус.",
+              "audio": "les22-rule-06.mp3"
+            },
+            {
+              "nl": "**Kom** de kamer **binnen**.",
+              "ua": "Заходь у кімнату.",
+              "audio": "les22-rule-07.mp3"
+            },
+            {
+              "nl": "**Bel** mijn zus **op**.",
+              "ua": "Подзвони моїй сестрі.",
+              "audio": "les22-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Між дієсловом і префіксом стоїть решта речення. Без об'єкта: Kom binnen! Stap in!"
+        }
+      ],
+      "points_ua": [
+        "Префікс (op, in, over, binnen) завжди в кінці наказу.",
+        "Об'єкт стоїть перед префіксом: Stap de bus in."
+      ]
+    },
+    {
+      "title_ua": "Заперечення: niet і geen",
+      "summary_ua": "Правило з Les 2 те саме. Niet стоїть після означеного об'єкта чи перед прислівником, geen перед іменником без артикля чи з een.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Niet",
+          "when_ua": "Niet після означеного об'єкта (de trein), перед прислівником чи напрямком (rechtsaf).",
+          "examples": [
+            {
+              "nl": "Neem de trein **niet**.",
+              "ua": "Не їдь потягом.",
+              "audio": "les22-rule-09.mp3"
+            },
+            {
+              "nl": "Ga **niet** rechtsaf.",
+              "ua": "Не повертай праворуч.",
+              "audio": "les22-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Відокремлюване: об'єкт, потім niet, потім префікс: Steek de straat niet over (Les 4)."
+        },
+        {
+          "form": "Geen",
+          "when_ua": "Geen перед іменником без артикля: brood, wijn, kaas.",
+          "examples": [
+            {
+              "nl": "Koop **geen** wijn.",
+              "ua": "Не купуй вина.",
+              "audio": "les22-rule-11.mp3"
+            },
+            {
+              "nl": "Eet **geen** brood.",
+              "ua": "Не їж хліба.",
+              "audio": "les22-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Geen замінює артикль і одразу стоїть перед іменником: не Koop niet wijn."
+        }
+      ],
+      "points_ua": [
+        "Заперечення додається до наказу, порядок слів той самий.",
+        "Definite object або напрямок: niet. Іменник без артикля: geen."
+      ]
+    },
+    {
+      "title_ua": "Ga і doe: короткі форми (і wees)",
+      "summary_ua": "Gaan і doen в наказі це форми ik: Ga! Doe! Не Gaan! і не Doen! Дієслово zijn має форму wees, але ми вчимо лише одну фразу з нею.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "Ga! Doe!",
+          "when_ua": "Як ik ga і ik doe: без -n і без -t.",
+          "examples": [
+            {
+              "nl": "**Ga** naar de winkel.",
+              "ua": "Іди до магазину.",
+              "audio": "les22-rule-13.mp3"
+            },
+            {
+              "nl": "**Doe** boodschappen in de stad.",
+              "ua": "Роби покупки в місті.",
+              "audio": "les22-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Ga і doe це те саме правило, що для kom і neem, просто основи короткі."
+        },
+        {
+          "form": "Wees: лише одна фраза",
+          "when_ua": "Наказ від zijn це wees. Вчимо тільки цю фразу.",
+          "examples": [
+            {
+              "nl": "**Wees** niet te laat.",
+              "ua": "Не спізнюйся.",
+              "audio": "les22-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Буквально: не будь занадто пізно. Інші фрази з wees поки не потрібні."
+        }
+      ],
+      "points_ua": [
+        "Ga! Doe! Ця форма збігається з ik ga, ik doe.",
+        "Wees: тільки у фразі Wees niet te laat!"
+      ]
+    },
+    {
+      "title_ua": "Nu не стоїть першим у наказі",
+      "summary_ua": "Наказ починається з дієслова. Слова nu, hier, daarna стоять після нього. Nu ga ik ... це вже розповідь із займенником (порядок з Les 4).",
+      "see": "Les 4",
+      "compare": [
+        {
+          "form": "Наказ: дієслово першим",
+          "when_ua": "Nu, hier, daarna йдуть після дієслова.",
+          "examples": [
+            {
+              "nl": "Kom **nu** binnen.",
+              "ua": "Заходь зараз.",
+              "audio": "les22-rule-16.mp3"
+            },
+            {
+              "nl": "Ga **hier** rechtsaf.",
+              "ua": "Поверни тут праворуч.",
+              "audio": "les22-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Початок з Nu для наказу ми не використовуємо. Час стоїть перед об'єктом (Les 7): Ga nu naar huis."
+        },
+        {
+          "form": "Розповідь: Nu + дієслово + займенник",
+          "when_ua": "Є займенник, то це не наказ, а розповідь: після nu дієслово, потім підмет.",
+          "examples": [
+            {
+              "nl": "**Nu** ga ik linksaf.",
+              "ua": "Тепер я повертаю ліворуч.",
+              "audio": "les22-rule-18.mp3"
+            },
+            {
+              "nl": "**Nu** gaat zij rechtdoor.",
+              "ua": "Тепер вона йде прямо.",
+              "audio": "les22-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ga nu linksaf (наказ) і Nu ga ik linksaf (розповідь)."
+        }
+      ],
+      "points_ua": [
+        "Наказ: дієслово, потім nu, hier, daarna.",
+        "Nu першим це розповідь із займенником."
+      ]
+    },
+    {
+      "title_ua": "Порядкові: de eerste straat, het eerste huis",
+      "summary_ua": "Eerste, tweede, derde вже закінчуються на -e (Les 7). Додатково -e не додаємо, і перед het-словом теж: het eerste huis.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Порядкове + вулиця чи будинок",
+          "when_ua": "Порядкове завжди з -e, і перед de-, і перед het-словом.",
+          "examples": [
+            {
+              "nl": "Neem de **derde** straat rechts.",
+              "ua": "Поверни на третю вулицю праворуч.",
+              "audio": "les22-rule-20.mp3"
+            },
+            {
+              "nl": "Het **tweede** huis is de apotheek.",
+              "ua": "Другий будинок це аптека.",
+              "audio": "les22-rule-21.mp3"
+            },
+            {
+              "nl": "Neem de **vierde** straat links.",
+              "ua": "Поверни на четверту вулицю ліворуч.",
+              "audio": "les22-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Не de eerst straat, не het eerst huis: -e вже є в слові. Це не те, що rood і rode (Les 21)."
+        },
+        {
+          "form": "Напрямок після вулиці",
+          "when_ua": "Links і rechts (Les 17) стоять після вулиці. Для руху є rechtsaf, linksaf.",
+          "examples": [
+            {
+              "nl": "Neem de **tweede** straat rechts.",
+              "ua": "Поверни на другу вулицю праворуч.",
+              "audio": "les22-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Rechts і links описують вулицю, rechtsaf і linksaf описують поворот: Ga rechtsaf."
+        }
+      ],
+      "points_ua": [
+        "Eerste, tweede, derde, vierde: без змін для de і het.",
+        "Neem de tweede straat links: порядкове перед іменником."
+      ]
+    },
+    {
+      "title_ua": "Ввічливо до u: Kunt u ..., alstublieft?",
+      "summary_ua": "Для u окремого наказу немає. Ввічливо просимо так: Kunt u ..., alstublieft? Форми Neemt u ... і Gaat u ... це ввічливі речення, схожі на наказ: їх розпізнаємо, самі говоримо через Kunt u.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Kunt u ..., alstublieft?",
+          "when_ua": "Kunt u і інфінітив у кінці (Les 7), alstublieft для ввічливості. Так просимо незнайомця.",
+          "examples": [
+            {
+              "nl": "**Kunt u** hier **betalen**, alstublieft?",
+              "ua": "Чи можете Ви тут заплатити, будь ласка?",
+              "audio": "les22-rule-24.mp3"
+            },
+            {
+              "nl": "**Kunt u** mijn zoon **opbellen**, alstublieft?",
+              "ua": "Чи можете Ви подзвонити моєму синові, будь ласка?",
+              "audio": "les22-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Відокремлюване дієслово в кінці ціле: opbellen (Les 7). Alstublieft стоїть після u чи в кінці."
+        },
+        {
+          "form": "Neemt u ... / Gaat u ...",
+          "when_ua": "Це ввічлива інструкція: форма u і займенник u лишається. Це не справжній наказ, ми його розпізнаємо.",
+          "examples": [
+            {
+              "nl": "**Neemt** u de bus.",
+              "ua": "Їдьте автобусом.",
+              "audio": "les22-rule-26.mp3"
+            },
+            {
+              "nl": "**Gaat** u hier linksaf.",
+              "ua": "Поверніть тут ліворуч.",
+              "audio": "les22-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Neem de bus (jij, справжній наказ) і Neemt u de bus (u, ввічливе речення). Незнайомцю кажи Kunt u ..."
+        }
+      ],
+      "points_ua": [
+        "Незнайомцю (u): Kunt u ..., alstublieft?",
+        "Neemt u ... і Gaat u ...: розпізнаємо, це не справжній наказ."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ga rechtdoor!",
+      "ua": "Іди прямо!",
+      "audio": "les22-example-01.mp3"
+    },
+    {
+      "nl": "Ga daarna rechtsaf.",
+      "ua": "Потім поверни праворуч.",
+      "audio": "les22-example-02.mp3"
+    },
+    {
+      "nl": "Neem de eerste straat links.",
+      "ua": "Поверни на першу вулицю ліворуч.",
+      "audio": "les22-example-03.mp3"
+    },
+    {
+      "nl": "Steek de straat over.",
+      "ua": "Перейди вулицю.",
+      "audio": "les22-example-04.mp3"
+    },
+    {
+      "nl": "Kom binnen!",
+      "ua": "Заходь!",
+      "audio": "les22-example-05.mp3"
+    },
+    {
+      "nl": "Steek de straat niet over!",
+      "ua": "Не переходь вулицю!",
+      "audio": "les22-example-06.mp3"
+    },
+    {
+      "nl": "Neem geen taxi.",
+      "ua": "Не бери таксі.",
+      "audio": "les22-example-07.mp3"
+    },
+    {
+      "nl": "Doe het nu!",
+      "ua": "Зроби це зараз!",
+      "audio": "les22-example-08.mp3"
+    },
+    {
+      "nl": "Pardon, waar is de weg naar het station?",
+      "ua": "Перепрошую, де дорога до вокзалу?",
+      "audio": "les22-example-09.mp3"
+    },
+    {
+      "nl": "Kunt u hier stoppen, alstublieft?",
+      "ua": "Чи можете Ви тут зупинитися, будь ласка?",
+      "audio": "les22-example-10.mp3"
+    },
+    {
+      "nl": "Neemt u de tweede straat links.",
+      "ua": "Поверніть на другу вулицю ліворуч.",
+      "audio": "les22-example-11.mp3"
+    },
+    {
+      "nl": "Ga nu naar huis!",
+      "ua": "Іди зараз додому!",
+      "audio": "les22-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Pardon, waar is de apotheek?",
+    "title_ua": "Перепрошую, де аптека?",
+    "highlight": [
+      "nl-8f4a0d95",
+      "nl-bd47d17f",
+      "nl-7253625e",
+      "nl-34a325c3",
+      "nl-0ec4495a",
+      "nl-d456f048",
+      "nl-fa2bba8c"
+    ],
+    "sentences": [
+      {
+        "nl": "Pardon, weet u de weg naar de apotheek?",
+        "ua": "Питає: Перепрошую, Ви знаєте дорогу до аптеки?",
+        "audio": "les22-reading-01.mp3"
+      },
+      {
+        "nl": "Gaat u rechtdoor.",
+        "ua": "Відповідає: Ідіть прямо.",
+        "audio": "les22-reading-02.mp3"
+      },
+      {
+        "nl": "Neemt u daarna de tweede straat rechts.",
+        "ua": "Відповідає: Потім поверніть на другу вулицю праворуч.",
+        "audio": "les22-reading-03.mp3"
+      },
+      {
+        "nl": "De apotheek is op de hoek.",
+        "ua": "Відповідає: Аптека на розі.",
+        "audio": "les22-reading-04.mp3"
+      },
+      {
+        "nl": "Bedankt!",
+        "ua": "Питає: Дякую!",
+        "audio": "les22-reading-05.mp3"
+      },
+      {
+        "nl": "Hallo! Waar ben je nu?",
+        "ua": "По телефону, питає: Привіт! Де ти зараз?",
+        "audio": "les22-reading-06.mp3"
+      },
+      {
+        "nl": "Ik ben op het kruispunt.",
+        "ua": "Відповідає: Я на перехресті.",
+        "audio": "les22-reading-07.mp3"
+      },
+      {
+        "nl": "Ga linksaf.",
+        "ua": "Питає: Іди ліворуч.",
+        "audio": "les22-reading-08.mp3"
+      },
+      {
+        "nl": "Steek daarna de brug over.",
+        "ua": "Питає: Потім перейди міст.",
+        "audio": "les22-reading-09.mp3"
+      },
+      {
+        "nl": "Ik zie de apotheek!",
+        "ua": "Відповідає: Я бачу аптеку!",
+        "audio": "les22-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Іди додому.",
+          "accepted": [
+            "Ga naar huis.",
+            "Ga naar huis!"
+          ]
+        },
+        {
+          "prompt": "Їдь автобусом.",
+          "accepted": [
+            "Neem de bus.",
+            "Neem de bus!",
+            "Ga met de bus.",
+            "Ga met de bus!"
+          ]
+        },
+        {
+          "prompt": "Поверни праворуч.",
+          "accepted": [
+            "Ga rechtsaf.",
+            "Ga rechtsaf!"
+          ]
+        },
+        {
+          "prompt": "Не купуй хліб.",
+          "accepted": [
+            "Koop geen brood.",
+            "Koop geen brood!"
+          ]
+        },
+        {
+          "prompt": "Вставайте, діти.",
+          "accepted": [
+            "Sta op, kinderen.",
+            "Sta op, kinderen!"
+          ]
+        },
+        {
+          "prompt": "Подзвони до школи.",
+          "accepted": [
+            "Bel de school op.",
+            "Bel de school op!"
+          ]
+        },
+        {
+          "prompt": "Не їдь занадто швидко.",
+          "accepted": [
+            "Rijd niet te snel.",
+            "Rijd niet te snel!"
+          ]
+        },
+        {
+          "prompt": "Перейди міст.",
+          "accepted": [
+            "Steek de brug over.",
+            "Steek de brug over!"
+          ]
+        },
+        {
+          "prompt": "Ви можете тут, будь ласка, зачекати?",
+          "accepted": [
+            "Kunt u hier alstublieft wachten?",
+            "Kunt u hier wachten, alstublieft?",
+            "Kunt u alstublieft hier wachten?"
+          ]
+        },
+        {
+          "prompt": "Іди до аптеки.",
+          "accepted": [
+            "Ga naar de apotheek.",
+            "Ga naar de apotheek!"
+          ]
+        },
+        {
+          "prompt": "Не роби цього.",
+          "accepted": [
+            "Doe het niet.",
+            "Doe het niet!",
+            "Doe dat niet.",
+            "Doe dat niet!"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово",
+      "bank": [
+        "kom",
+        "ga",
+        "doe",
+        "neem",
+        "neemt",
+        "stap",
+        "over",
+        "niet",
+        "geen",
+        "links",
+        "linksaf",
+        "rechtsaf",
+        "stoppen"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ hier!",
+          "hint": "Іди сюди",
+          "accepted": [
+            [
+              "Kom",
+              "kom"
+            ]
+          ]
+        },
+        {
+          "text": "___ rechtdoor.",
+          "hint": "Іди прямо",
+          "accepted": [
+            [
+              "Ga",
+              "ga"
+            ]
+          ]
+        },
+        {
+          "text": "Ga ___.",
+          "hint": "Поверни ліворуч (рух)",
+          "accepted": [
+            [
+              "linksaf"
+            ]
+          ]
+        },
+        {
+          "text": "Neem de derde straat ___.",
+          "hint": "Поверни на третю вулицю ліворуч",
+          "accepted": [
+            [
+              "links"
+            ]
+          ]
+        },
+        {
+          "text": "Steek de straat ___.",
+          "hint": "Перейди вулицю",
+          "accepted": [
+            [
+              "over"
+            ]
+          ]
+        },
+        {
+          "text": "___ de bus in!",
+          "hint": "Сідай в автобус",
+          "accepted": [
+            [
+              "Stap",
+              "stap"
+            ]
+          ]
+        },
+        {
+          "text": "Koop ___ brood.",
+          "hint": "Не купуй хліб",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Steek de brug ___ over.",
+          "hint": "Не переходь міст",
+          "accepted": [
+            [
+              "niet"
+            ]
+          ]
+        },
+        {
+          "text": "___ het niet!",
+          "hint": "Не роби цього",
+          "accepted": [
+            [
+              "Doe",
+              "doe"
+            ]
+          ]
+        },
+        {
+          "text": "___ de trein.",
+          "hint": "Їдь потягом",
+          "accepted": [
+            [
+              "Neem",
+              "neem"
+            ]
+          ]
+        },
+        {
+          "text": "___ u de tweede straat rechts.",
+          "hint": "Ввічливо: Ви поверніть (u)",
+          "accepted": [
+            [
+              "Neemt",
+              "neemt"
+            ]
+          ]
+        },
+        {
+          "text": "Kunt u hier ___, alstublieft?",
+          "hint": "Чи можете Ви тут зупинитися",
+          "accepted": [
+            [
+              "stoppen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij gaat linksaf.",
+          "cue": "-> наказ",
+          "accepted": [
+            "Ga linksaf!",
+            "Ga linksaf."
+          ]
+        },
+        {
+          "prompt": "Jij neemt de brug.",
+          "cue": "-> наказ",
+          "accepted": [
+            "Neem de brug!",
+            "Neem de brug."
+          ]
+        },
+        {
+          "prompt": "Jij komt binnen.",
+          "cue": "-> наказ",
+          "accepted": [
+            "Kom binnen!",
+            "Kom binnen."
+          ]
+        },
+        {
+          "prompt": "Jullie steken de straat over.",
+          "cue": "-> наказ",
+          "accepted": [
+            "Steek de straat over!",
+            "Steek de straat over."
+          ]
+        },
+        {
+          "prompt": "Nu ga jij rechtsaf.",
+          "cue": "-> наказ (nu після дієслова)",
+          "accepted": [
+            "Ga nu rechtsaf!",
+            "Ga nu rechtsaf."
+          ]
+        },
+        {
+          "prompt": "Neem de bus.",
+          "cue": "-> заборона (niet)",
+          "accepted": [
+            "Neem de bus niet!",
+            "Neem de bus niet."
+          ]
+        },
+        {
+          "prompt": "Koop brood.",
+          "cue": "-> заборона (geen)",
+          "accepted": [
+            "Koop geen brood!",
+            "Koop geen brood."
+          ]
+        },
+        {
+          "prompt": "Ga rechtsaf.",
+          "cue": "-> заборона (niet)",
+          "accepted": [
+            "Ga niet rechtsaf!",
+            "Ga niet rechtsaf."
+          ]
+        },
+        {
+          "prompt": "Ga niet rechtdoor!",
+          "cue": "-> без niet",
+          "accepted": [
+            "Ga rechtdoor!",
+            "Ga rechtdoor."
+          ]
+        },
+        {
+          "prompt": "Ga rechtdoor!",
+          "cue": "-> речення з jij",
+          "accepted": [
+            "Jij gaat rechtdoor.",
+            "Je gaat rechtdoor."
+          ]
+        },
+        {
+          "prompt": "Stap in!",
+          "cue": "-> речення з jij",
+          "accepted": [
+            "Jij stapt in.",
+            "Je stapt in."
+          ]
+        },
+        {
+          "prompt": "Eet geen kaas!",
+          "cue": "-> без geen",
+          "accepted": [
+            "Eet kaas!",
+            "Eet kaas."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "___ de bus.",
+          "cue": "nemen",
+          "accepted": [
+            "Neem",
+            "neem"
+          ]
+        },
+        {
+          "text": "___ hier.",
+          "cue": "komen",
+          "accepted": [
+            "Kom",
+            "kom"
+          ]
+        },
+        {
+          "text": "___ naar de winkel.",
+          "cue": "gaan",
+          "accepted": [
+            "Ga",
+            "ga"
+          ]
+        },
+        {
+          "text": "___ het niet.",
+          "cue": "doen",
+          "accepted": [
+            "Doe",
+            "doe"
+          ]
+        },
+        {
+          "text": "___ de straat niet over.",
+          "cue": "oversteken",
+          "accepted": [
+            "Steek",
+            "steek"
+          ]
+        },
+        {
+          "text": "___ hier niet!",
+          "cue": "stoppen",
+          "accepted": [
+            "Stop",
+            "stop"
+          ]
+        },
+        {
+          "text": "___ geen taxi!",
+          "cue": "nemen",
+          "accepted": [
+            "Neem",
+            "neem"
+          ]
+        },
+        {
+          "text": "___ binnen, kinderen.",
+          "cue": "binnenkomen",
+          "accepted": [
+            "Kom",
+            "kom"
+          ]
+        },
+        {
+          "text": "___ niet te snel.",
+          "cue": "rijden",
+          "accepted": [
+            "Rijd",
+            "rijd"
+          ]
+        },
+        {
+          "text": "___ u de eerste straat links.",
+          "cue": "nemen (u)",
+          "accepted": [
+            "Neemt",
+            "neemt"
+          ]
+        },
+        {
+          "text": "___ u rechtdoor.",
+          "cue": "gaan (u)",
+          "accepted": [
+            "Gaat",
+            "gaat"
+          ]
+        },
+        {
+          "text": "___ de bus in.",
+          "cue": "instappen",
+          "accepted": [
+            "Stap",
+            "stap"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом чи виразом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "перехрестя",
+          "answer": "het kruispunt"
+        },
+        {
+          "prompt": "міст",
+          "answer": "de brug"
+        },
+        {
+          "prompt": "ріг, кут",
+          "answer": "de hoek"
+        },
+        {
+          "prompt": "дорога, шлях",
+          "answer": "de weg"
+        },
+        {
+          "prompt": "прямо (не повертаючи)",
+          "answer": "rechtdoor"
+        },
+        {
+          "prompt": "праворуч (поворот)",
+          "answer": "rechtsaf"
+        },
+        {
+          "prompt": "ліворуч (поворот)",
+          "answer": "linksaf"
+        },
+        {
+          "prompt": "перепрошую (щоб звернутися)",
+          "answer": "pardon"
+        },
+        {
+          "prompt": "будь ласка (ввічливо, зі «ви»)",
+          "answer": "alstublieft"
+        },
+        {
+          "prompt": "зупинятися, зупиняти",
+          "answer": "stoppen"
+        }
+      ],
+      "extra": [
+        "links",
+        "de straat"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}
