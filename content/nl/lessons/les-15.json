@@ -1,0 +1,990 @@
+{
+  "id": "nl-les-15",
+  "lang": "nl",
+  "order": 15,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-6ba2d94e",
+      "type": "numeral",
+      "lemma": "elf",
+      "digit": 11,
+      "ua": "11",
+      "audio": "11-elf.mp3",
+      "explain_ua": "(Ik heb elf boeken = у мене одинадцять книг). Elf не складається з tien: це окреме слово, як і twaalf. В англійській так само (eleven, twelve): це підказка для пам'яті, а не етимологія. Після числа іменник у множині й без артикля (Les 2)"
+    },
+    {
+      "id": "nl-b6414030",
+      "type": "numeral",
+      "lemma": "twaalf",
+      "digit": 12,
+      "ua": "12",
+      "audio": "12-twaalf.mp3",
+      "explain_ua": "(Het is twaalf uur = зараз дванадцята година). Aa це довга голосна [aː], як у laat (Les 14), w це [ʋ], кінцеве f це [f]. Twaalf uur це 12:00, опівдні або опівночі: за потреби додай in de middag чи in de nacht (Les 14)"
+    },
+    {
+      "id": "nl-84e50cc3",
+      "type": "numeral",
+      "lemma": "dertien",
+      "digit": 13,
+      "ua": "13",
+      "audio": "13-dertien.mp3",
+      "explain_ua": "(Wij hebben dertien stoelen = у нас тринадцять стільців). Число + tien, як в українському «три-надцять». Але перша частина der-, а не drie-: пиши dertien, не drietien. Підказка для пам'яті: d ~ th, тож dertien ~ thirteen"
+    },
+    {
+      "id": "nl-aec66f2e",
+      "type": "numeral",
+      "lemma": "veertien",
+      "digit": 14,
+      "ua": "14",
+      "audio": "14-veertien.mp3",
+      "explain_ua": "(De kamer heeft veertien stoelen = у кімнаті чотирнадцять стільців). Vier + tien, але пишемо veertien з подвоєним ee: голосна довга, як у de peer (Les 10). Не пиши viertien"
+    },
+    {
+      "id": "nl-a3124a78",
+      "type": "numeral",
+      "lemma": "vijftien",
+      "digit": 15,
+      "ua": "15",
+      "audio": "15-vijftien.mp3",
+      "explain_ua": "(Zij heeft vijftien appels = у неї п'ятнадцять яблук). Vijf + tien: f лишається, тож vijftien. Ij це [ɛi], як у de wijn (Les 1)"
+    },
+    {
+      "id": "nl-6e268400",
+      "type": "numeral",
+      "lemma": "zestien",
+      "digit": 16,
+      "ua": "16",
+      "audio": "16-zestien.mp3",
+      "explain_ua": "(Zestien kinderen wachten = шістнадцять дітей чекають). Zes + tien, пишемо zestien: одне s, далі tien. Не плутай зі zeventien: дивись на початок, zes- чи zeven-"
+    },
+    {
+      "id": "nl-b47b4765",
+      "type": "numeral",
+      "lemma": "zeventien",
+      "digit": 17,
+      "ua": "17",
+      "audio": "17-zeventien.mp3",
+      "explain_ua": "(Ik koop zeventien peren = я купую сімнадцять груш). Zeven + tien, слова просто склеєні. Підказка для пам'яті: z ~ s, v ~ f, як zeven ~ seven, тож zeventien ~ seventeen"
+    },
+    {
+      "id": "nl-a0c2990a",
+      "type": "numeral",
+      "lemma": "achttien",
+      "digit": 18,
+      "ua": "18",
+      "audio": "18-achttien.mp3",
+      "explain_ua": "(Achttien kinderen wachten = вісімнадцять дітей чекають). Acht + tien: пишемо achttien з двома t, бо кожне слово зберігає своє t. Ch це [x], як українське х (Les 1, de lach)"
+    },
+    {
+      "id": "nl-ad3e3b45",
+      "type": "numeral",
+      "lemma": "negentien",
+      "digit": 19,
+      "ua": "19",
+      "audio": "19-negentien.mp3",
+      "explain_ua": "(Ik koop negentien eieren = я купую дев'ятнадцять яєць). Negen + tien: слова просто склеєні, negentien. G це [x], як українське х (Les 1). Число 13-19 закінчуються на -tien"
+    },
+    {
+      "id": "nl-df3e5d00",
+      "type": "numeral",
+      "lemma": "twintig",
+      "digit": 20,
+      "ua": "20",
+      "audio": "20-twintig.mp3",
+      "explain_ua": "(De kamer heeft twintig stoelen = у кімнаті двадцять стільців). Twintig не утворюється з tien: суфікс -tig означає «десятки», як -ty в англійському (twenty). W це [ʋ]"
+    },
+    {
+      "id": "nl-8f153d61",
+      "type": "numeral",
+      "lemma": "dertig",
+      "digit": 30,
+      "ua": "30",
+      "audio": "30-dertig.mp3",
+      "explain_ua": "(Ik heb dertig boeken = у мене тридцять книг). Der- як у dertien, далі -tig. Підказка для пам'яті: d ~ th, тож dertig ~ thirty"
+    },
+    {
+      "id": "nl-14dce229",
+      "type": "numeral",
+      "lemma": "veertig",
+      "digit": 40,
+      "ua": "40",
+      "audio": "40-veertig.mp3",
+      "explain_ua": "(Het huis heeft veertig ramen = у домі сорок вікон). Veer- як у veertien, далі -tig. Не пиши viertig"
+    },
+    {
+      "id": "nl-29716117",
+      "type": "numeral",
+      "lemma": "vijftig",
+      "digit": 50,
+      "ua": "50",
+      "audio": "50-vijftig.mp3",
+      "explain_ua": "(Mijn moeder heeft vijftig boeken = у моєї мами п'ятдесят книг). Vijf + -tig, f лишається. Ij це [ɛi], як у de wijn (Les 1)"
+    },
+    {
+      "id": "nl-f71573da",
+      "type": "numeral",
+      "lemma": "zestig",
+      "digit": 60,
+      "ua": "60",
+      "audio": "60-zestig.mp3",
+      "explain_ua": "(Mijn broer heeft zestig boeken = у мого брата шістдесят книг). Zes + -tig. Не плутай зі zeventig"
+    },
+    {
+      "id": "nl-e19aa65e",
+      "type": "numeral",
+      "lemma": "zeventig",
+      "digit": 70,
+      "ua": "70",
+      "audio": "70-zeventig.mp3",
+      "explain_ua": "(De man heeft zeventig boeken = у чоловіка сімдесят книг). Zeven + -tig: слова просто склеєні"
+    },
+    {
+      "id": "nl-9b03bce2",
+      "type": "numeral",
+      "lemma": "tachtig",
+      "digit": 80,
+      "ua": "80",
+      "audio": "80-tachtig.mp3",
+      "explain_ua": "(De vader heeft tachtig eieren = у тата вісімдесят яєць). Пастка: спереду додається t. Пиши tachtig, не achtig і не achttig. Ch це [x], як українське х (Les 1, de lach)"
+    },
+    {
+      "id": "nl-659b6790",
+      "type": "numeral",
+      "lemma": "negentig",
+      "digit": 90,
+      "ua": "90",
+      "audio": "90-negentig.mp3",
+      "explain_ua": "(Zij heeft negentig appels = у неї дев'яносто яблук). Negen + -tig: слова просто склеєні. G це [x], як українське х"
+    },
+    {
+      "id": "nl-952aa280",
+      "type": "numeral",
+      "lemma": "honderd",
+      "digit": 100,
+      "ua": "100",
+      "audio": "100-honderd.mp3",
+      "explain_ua": "(Mijn vader heeft honderd boeken = у мого тата сто книг). Кінцеве d читається як [t]: [ХОН-дерт]. Це те саме оглушення, що в російському «хлеб» [хлеп], як у de avond (Les 14). Після honderd іменник у множині й без артикля"
+    },
+    {
+      "id": "nl-b97f6ed9",
+      "type": "numeral",
+      "lemma": "eenentwintig",
+      "digit": 21,
+      "ua": "21",
+      "audio": "21-eenentwintig.mp3",
+      "explain_ua": "(Zij koopt eenentwintig appels = вона купує двадцять одне яблуко). Одиниці + en + десятки, все разом в одне слово: een + en + twintig. Порядок зворотний до українського «двадцять один»: спочатку «один», потім «двадцять». Так само в німецькому"
+    },
+    {
+      "id": "nl-dc3f8fb5",
+      "type": "numeral",
+      "lemma": "tweeëntwintig",
+      "digit": 22,
+      "ua": "22",
+      "audio": "22-tweeentwintig.mp3",
+      "explain_ua": "(Ik heb tweeëntwintig boeken = у мене двадцять дві книги). Twee + en + twintig. Дві крапки на ë ставимо тільки після twee і drie (tweeëntwintig, drieëndertig): вони показують, що ee і en читаються окремо. Після інших чисел крапок немає"
+    },
+    {
+      "id": "nl-61dcb5f8",
+      "type": "numeral",
+      "lemma": "vijfendertig",
+      "digit": 35,
+      "ua": "35",
+      "audio": "35-vijfendertig.mp3",
+      "explain_ua": "(Wij hebben vijfendertig stoelen = у нас тридцять п'ять стільців). Vijf + en + dertig. Після vijf крапок немає. Складене число пишемо разом, в одне слово"
+    },
+    {
+      "id": "nl-c37d981b",
+      "type": "numeral",
+      "lemma": "negenennegentig",
+      "digit": 99,
+      "ua": "99",
+      "audio": "99-negenennegentig.mp3",
+      "explain_ua": "(negenennegentig = 99). Negen + en + negentig: крапок немає, бо en іде після n, а не після голосної. Найбільше число до honderd. Вчи як зразок: одиниці + en + десятки"
+    },
+    {
+      "id": "nl-61dfa575",
+      "type": "noun",
+      "article": "de",
+      "lemma": "klok",
+      "plural": [
+        "klokken"
+      ],
+      "ua": "годинник (настінний, у кімнаті), дзвін",
+      "audio": "de-klok.mp3",
+      "explain_ua": "(De klok is in de keuken = годинник на кухні). Klok це годинник на стіні, у кімнаті чи на вежі, а також дзвін. Множина klokken: коротка o, тому k подвоюється (як man - mannen, Les 1). Сам час, година, це het uur (Les 5), а не de klok"
+    },
+    {
+      "id": "nl-3a91a1f0",
+      "type": "noun",
+      "article": "het",
+      "lemma": "kwart",
+      "plural": [
+        "kwarten"
+      ],
+      "ua": "чверть (kwart over = 15 хвилин після)",
+      "audio": "het-kwart.mp3",
+      "explain_ua": "(Het is kwart over vijf = 5:15). Kwart це чверть години, 15 хвилин. У часі стоїть без артикля: kwart over, kwart voor. Kw читається [kʋ], w це [ʋ]"
+    },
+    {
+      "id": "nl-e853d817",
+      "type": "function",
+      "lemma": "over",
+      "ua": "після (tien over vijf = 5:10)",
+      "audio": "over.mp3",
+      "explain_ua": "(Het is tien over vijf = 5:10). В часі over значить «після»: 10 хвилин після п'ятої. Стоїть перед годиною, від якої рахуємо. Не плутай з half: half vijf це 4:30. Пізніше побачиш ще over een uur = через годину"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "11-19: elf, twaalf, а далі число + tien",
+      "summary_ua": "Elf (11) і twaalf (12) вчимо окремо. Від 13 до 19 число + tien: dertien, veertien ... negentien. Так само в українському «три-надцять»: число плюс «-надцять».",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "elf, twaalf: окремі слова",
+          "when_ua": "Не утворюються від tien. Після числа іменник у множині, без артикля (Les 2).",
+          "examples": [
+            {
+              "nl": "Het is **elf** uur.",
+              "ua": "Зараз одинадцята година.",
+              "audio": "les15-example-01.mp3"
+            },
+            {
+              "nl": "Ik heb **twaalf** eieren.",
+              "ua": "У мене дванадцять яєць.",
+              "audio": "les15-example-04.mp3"
+            },
+            {
+              "nl": "Zij heeft **elf** boeken.",
+              "ua": "У неї одинадцять книг.",
+              "audio": "les15-rule-01.mp3"
+            }
+          ],
+          "note_ua": "Uur після числа лишається в однині: elf uur, не elf uren (Les 14)."
+        },
+        {
+          "form": "13-19: число + tien",
+          "when_ua": "Спочатку одиниці, потім tien: der-tien, veer-tien, vijf-tien, zes-tien, zeven-tien, acht-tien, negen-tien.",
+          "examples": [
+            {
+              "nl": "Wij hebben **dertien** stoelen.",
+              "ua": "У нас тринадцять стільців.",
+              "audio": "les15-example-06.mp3"
+            },
+            {
+              "nl": "De kamer heeft **veertien** stoelen.",
+              "ua": "У кімнаті чотирнадцять стільців.",
+              "audio": "les15-rule-02.mp3"
+            },
+            {
+              "nl": "Hij koopt **negentien** eieren.",
+              "ua": "Він купує дев'ятнадцять яєць.",
+              "audio": "les15-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Пиши dertien (не drietien), veertien (ee), achttien (два t). Zestien і zeventien схожі: дивись на початок."
+        }
+      ],
+      "points_ua": [
+        "Elf і twaalf, як в англійському eleven і twelve, окремі слова: їх вчимо напам'ять.",
+        "Від 13 до 19 у нідерландській одиниці стоять першими, як в українській: dertien це «три-на-десять»."
+      ]
+    },
+    {
+      "title_ua": "20-100 і складені числа: eenentwintig",
+      "summary_ua": "Десятки: twintig, dertig, veertig, vijftig, zestig, zeventig, tachtig, negentig, honderd. Складене число: одиниці + en + десятки, разом: eenentwintig. Спочатку «один», потім «двадцять».",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Десятки: -tig",
+          "when_ua": "Закінчення -tig, як -ty в англійському (twenty, thirty). Сто це honderd.",
+          "examples": [
+            {
+              "nl": "De kamer heeft **twintig** stoelen.",
+              "ua": "У кімнаті двадцять стільців.",
+              "audio": "les15-rule-04.mp3"
+            },
+            {
+              "nl": "Het huis heeft **veertig** ramen.",
+              "ua": "У домі сорок вікон.",
+              "audio": "les15-rule-05.mp3"
+            },
+            {
+              "nl": "Mijn vader heeft **honderd** boeken.",
+              "ua": "У мого тата сто книг.",
+              "audio": "les15-example-07.mp3"
+            }
+          ],
+          "note_ua": "Пиши tachtig (з t на початку), не achtig. Після числа іменник у множині, без артикля."
+        },
+        {
+          "form": "Складені числа: одиниці + en + десятки",
+          "when_ua": "Одне слово, порядок зворотний до українського «двадцять один»: een-en-twintig.",
+          "examples": [
+            {
+              "nl": "Zij koopt **eenentwintig** appels.",
+              "ua": "Вона купує двадцять одне яблуко.",
+              "audio": "les15-example-12.mp3"
+            },
+            {
+              "nl": "Ik heb **tweeëntwintig** boeken.",
+              "ua": "У мене двадцять дві книги.",
+              "audio": "les15-rule-06.mp3"
+            },
+            {
+              "nl": "Wij hebben **vijfendertig** stoelen.",
+              "ua": "У нас тридцять п'ять стільців.",
+              "audio": "les15-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Крапки на ë тільки після twee і drie: tweeëntwintig, drieëndertig. Після інших чисел без крапок: vijfendertig, negenennegentig."
+        }
+      ],
+      "points_ua": [
+        "Українська, російська й англійська кажуть «двадцять один» (twenty-one). Нідерландська, як німецька, навпаки: eenentwintig, «один-і-двадцять».",
+        "Складене число пишемо разом: не een en twintig, а eenentwintig."
+      ]
+    },
+    {
+      "title_ua": "Half elf, half twaalf, half een",
+      "summary_ua": "Half + наступна година, як у Les 14. Half elf це 10:30, half twaalf це 11:30, half een це 12:30. Пастка: een це «1», але half een це 12:30, не 1:30.",
+      "see": "Les 14",
+      "compare": [
+        {
+          "form": "Half elf = 10:30, half twaalf = 11:30",
+          "when_ua": "Half бере наступну годину: пів години ДО одинадцятої це half elf.",
+          "examples": [
+            {
+              "nl": "Het is **half elf**.",
+              "ua": "Зараз пів на одинадцяту: 10:30.",
+              "audio": "les15-rule-08.mp3"
+            },
+            {
+              "nl": "Het is **half twaalf**.",
+              "ua": "Зараз пів на дванадцяту: 11:30.",
+              "audio": "les15-example-02.mp3"
+            },
+            {
+              "nl": "Om **half elf** ga ik naar huis.",
+              "ua": "О пів на одинадцяту я йду додому.",
+              "audio": "les15-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Українське «пів на одинадцяту» і російське «половина одиннадцатого» рахують так само."
+        },
+        {
+          "form": "Half een = 12:30",
+          "when_ua": "Пів години ДО першої: перед першою стоїть дванадцята. Half twee це вже 1:30.",
+          "examples": [
+            {
+              "nl": "Het is **half een**.",
+              "ua": "Зараз пів на першу: 12:30.",
+              "audio": "les15-example-03.mp3"
+            },
+            {
+              "nl": "Om **half een** eet ik brood.",
+              "ua": "О пів на першу я їм хліб.",
+              "audio": "les15-rule-10.mp3"
+            },
+            {
+              "nl": "Ik werk om **half een**.",
+              "ua": "Я працюю о пів на першу.",
+              "audio": "les15-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Half een пишуть і з акцентом: half één. Це та сама година. Twaalf uur це 12:00."
+        }
+      ],
+      "points_ua": [
+        "Half elf 10:30, half twaalf 11:30, half een 12:30, half twee 1:30.",
+        "Half uur не потрібне: не half elf uur, а просто half elf (Les 14)."
+      ]
+    },
+    {
+      "title_ua": "Хвилини: kwart, over, voor",
+      "summary_ua": "Рахуй від найближчої опори: цілої години або half. Over це «після», voor це «перед». Kwart over vijf 5:15, kwart voor zes 5:45, tien over vijf 5:10, tien voor half zes 5:20.",
+      "see": "Les 14",
+      "compare": [
+        {
+          "form": "Over / voor + година",
+          "when_ua": "Vijf, tien, kwart over: після цілої години. Vijf, tien, kwart voor: перед наступною цілою годиною.",
+          "examples": [
+            {
+              "nl": "Het is **kwart over** vijf.",
+              "ua": "Зараз 5:15.",
+              "audio": "les15-example-08.mp3"
+            },
+            {
+              "nl": "Het is **kwart voor** zes.",
+              "ua": "Зараз 5:45.",
+              "audio": "les15-example-09.mp3"
+            },
+            {
+              "nl": "Het is **tien over** acht.",
+              "ua": "Зараз 8:10.",
+              "audio": "les15-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Kwart over vijf бере ПОПЕРЕДНЮ годину (vijf). Українське «чверть на шосту» це теж 5:15, але воно називає наступну годину. Не копіюй її."
+        },
+        {
+          "form": "Tien voor half / tien over half",
+          "when_ua": "Друга опора це half. 5:20 це 10 хвилин ДО half zes, 5:40 це 10 хвилин ПІСЛЯ half zes.",
+          "examples": [
+            {
+              "nl": "Het is **tien voor half** zes.",
+              "ua": "Зараз 5:20.",
+              "audio": "les15-example-10.mp3"
+            },
+            {
+              "nl": "Het is **vijf voor half** zes.",
+              "ua": "Зараз 5:25.",
+              "audio": "les15-rule-13.mp3"
+            },
+            {
+              "nl": "Het is **tien over half** zes.",
+              "ua": "Зараз 5:40.",
+              "audio": "les15-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Тут назва години завжди наступна, як у half zes: 5:20, 5:25, 5:35, 5:40 усі про zes."
+        },
+        {
+          "form": "У розкладі: 24-годинна форма",
+          "when_ua": "Число + uur (+ хвилини): vijftien uur це 15:00, zeventien uur dertig це 17:30.",
+          "examples": [
+            {
+              "nl": "De trein rijdt om **vijftien uur**.",
+              "ua": "Потяг їде о 15:00.",
+              "audio": "les15-rule-15.mp3"
+            },
+            {
+              "nl": "Om **zeventien uur dertig** rijdt de bus.",
+              "ua": "О 17:30 їде автобус.",
+              "audio": "les15-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Так пишуть і кажуть у розкладах. У розмові частіше half zes, kwart over vijf."
+        }
+      ],
+      "points_ua": [
+        "Voor тут те саме слово, що «перед» у Les 11: tien voor vijf це «десять перед п'ятою» (4:50).",
+        "Om лишається: Om kwart over vijf sta ik op. Дієслово на другому місці, як завжди (Les 13, 14)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Het is elf uur.",
+      "ua": "Зараз одинадцята година.",
+      "audio": "les15-example-01.mp3"
+    },
+    {
+      "nl": "Het is half twaalf.",
+      "ua": "Зараз пів на дванадцяту: 11:30.",
+      "audio": "les15-example-02.mp3"
+    },
+    {
+      "nl": "Het is half een.",
+      "ua": "Зараз пів на першу: 12:30.",
+      "audio": "les15-example-03.mp3"
+    },
+    {
+      "nl": "Ik heb twaalf eieren.",
+      "ua": "У мене дванадцять яєць.",
+      "audio": "les15-example-04.mp3"
+    },
+    {
+      "nl": "De klok is in de keuken.",
+      "ua": "Годинник на кухні.",
+      "audio": "les15-example-05.mp3"
+    },
+    {
+      "nl": "Wij hebben dertien stoelen.",
+      "ua": "У нас тринадцять стільців.",
+      "audio": "les15-example-06.mp3"
+    },
+    {
+      "nl": "Mijn vader heeft honderd boeken.",
+      "ua": "У мого тата сто книг.",
+      "audio": "les15-example-07.mp3"
+    },
+    {
+      "nl": "Het is kwart over vijf.",
+      "ua": "Зараз 5:15.",
+      "audio": "les15-example-08.mp3"
+    },
+    {
+      "nl": "Het is kwart voor zes.",
+      "ua": "Зараз 5:45.",
+      "audio": "les15-example-09.mp3"
+    },
+    {
+      "nl": "Het is tien voor half zes.",
+      "ua": "Зараз 5:20.",
+      "audio": "les15-example-10.mp3"
+    },
+    {
+      "nl": "Om tien over vijf sta ik op.",
+      "ua": "О 5:10 я встаю.",
+      "audio": "les15-example-11.mp3"
+    },
+    {
+      "nl": "Zij koopt eenentwintig appels.",
+      "ua": "Вона купує двадцять одне яблуко.",
+      "audio": "les15-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Op de klok",
+    "title_ua": "На годиннику",
+    "highlight": [
+      "nl-6ba2d94e",
+      "nl-b6414030",
+      "nl-a0c2990a",
+      "nl-df3e5d00",
+      "nl-61dfa575",
+      "nl-3a91a1f0",
+      "nl-e853d817"
+    ],
+    "sentences": [
+      {
+        "nl": "Het is zaterdag.",
+        "ua": "Сьогодні субота.",
+        "audio": "les15-reading-01.mp3"
+      },
+      {
+        "nl": "Om half elf sta ik op.",
+        "ua": "О пів на одинадцяту я встаю.",
+        "audio": "les15-reading-02.mp3"
+      },
+      {
+        "nl": "Om kwart voor elf drink ik koffie.",
+        "ua": "О 10:45 я п'ю каву.",
+        "audio": "les15-reading-03.mp3"
+      },
+      {
+        "nl": "Om twaalf uur eet ik brood.",
+        "ua": "О дванадцятій я їм хліб.",
+        "audio": "les15-reading-04.mp3"
+      },
+      {
+        "nl": "Om kwart over een lees ik een boek.",
+        "ua": "О 1:15 я читаю книгу.",
+        "audio": "les15-reading-05.mp3"
+      },
+      {
+        "nl": "Daarna koop ik twintig appels in de winkel.",
+        "ua": "Потім я купую двадцять яблук у магазині.",
+        "audio": "les15-reading-06.mp3"
+      },
+      {
+        "nl": "Om tien voor vijf ga ik naar huis.",
+        "ua": "О 4:50 я йду додому.",
+        "audio": "les15-reading-07.mp3"
+      },
+      {
+        "nl": "Achttien kinderen wachten op de bus.",
+        "ua": "Вісімнадцять дітей чекають на автобус.",
+        "audio": "les15-reading-08.mp3"
+      },
+      {
+        "nl": "Op de klok is het vijf uur.",
+        "ua": "На годиннику п'ята година.",
+        "audio": "les15-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Зараз дванадцята година.",
+          "cue": "het + zijn; twaalf uur",
+          "accepted": [
+            "Het is twaalf uur."
+          ]
+        },
+        {
+          "prompt": "О пів на одинадцяту я п'ю чай.",
+          "cue": "om half elf; ik + drinken; thee",
+          "accepted": [
+            "Om half elf drink ik thee.",
+            "Ik drink om half elf thee."
+          ]
+        },
+        {
+          "prompt": "Зараз 2:15.",
+          "cue": "het + zijn; kwart over twee",
+          "accepted": [
+            "Het is kwart over twee."
+          ]
+        },
+        {
+          "prompt": "О 8:45 я йду додому.",
+          "cue": "om kwart voor negen; ik + gaan; naar huis",
+          "accepted": [
+            "Om kwart voor negen ga ik naar huis.",
+            "Ik ga om kwart voor negen naar huis."
+          ]
+        },
+        {
+          "prompt": "Зараз 9:20.",
+          "cue": "het + zijn; tien voor half tien",
+          "accepted": [
+            "Het is tien voor half tien.",
+            "Het is twintig over negen."
+          ]
+        },
+        {
+          "prompt": "О 12:30 я п'ю каву.",
+          "cue": "om half een; ik + drinken; koffie",
+          "accepted": [
+            "Om half een drink ik koffie.",
+            "Ik drink om half een koffie."
+          ]
+        },
+        {
+          "prompt": "У мене сімнадцять книг.",
+          "cue": "ik + hebben; zeventien; boeken",
+          "accepted": [
+            "Ik heb zeventien boeken."
+          ]
+        },
+        {
+          "prompt": "У нас чотирнадцять стільців.",
+          "cue": "wij + hebben; veertien; stoelen",
+          "accepted": [
+            "Wij hebben veertien stoelen.",
+            "We hebben veertien stoelen."
+          ]
+        },
+        {
+          "prompt": "У мого брата шістдесят книг.",
+          "cue": "mijn broer + hebben; zestig; boeken",
+          "accepted": [
+            "Mijn broer heeft zestig boeken."
+          ]
+        },
+        {
+          "prompt": "О 6:10 я встаю.",
+          "cue": "om tien over zes; ik + opstaan",
+          "accepted": [
+            "Om tien over zes sta ik op.",
+            "Ik sta om tien over zes op."
+          ]
+        },
+        {
+          "prompt": "У неї тридцять п'ять яєць.",
+          "cue": "zij + hebben; vijfendertig; eieren",
+          "accepted": [
+            "Zij heeft vijfendertig eieren.",
+            "Ze heeft vijfendertig eieren."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "elf",
+        "twaalf",
+        "kwart",
+        "over",
+        "voor",
+        "half",
+        "een",
+        "uur",
+        "twintig",
+        "dertig",
+        "negentig",
+        "klok"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik heb ___ eieren.",
+          "hint": "У мене одинадцять яєць.",
+          "accepted": [
+            [
+              "elf"
+            ]
+          ]
+        },
+        {
+          "text": "Het is ___ over drie.",
+          "hint": "Зараз 3:15.",
+          "accepted": [
+            [
+              "kwart"
+            ]
+          ]
+        },
+        {
+          "text": "Het is kwart ___ vier.",
+          "hint": "Зараз 3:45.",
+          "accepted": [
+            [
+              "voor"
+            ]
+          ]
+        },
+        {
+          "text": "Het is tien ___ negen.",
+          "hint": "Зараз 9:10.",
+          "accepted": [
+            [
+              "over"
+            ]
+          ]
+        },
+        {
+          "text": "Het is tien ___ twee.",
+          "hint": "Зараз 1:50.",
+          "accepted": [
+            [
+              "voor"
+            ]
+          ]
+        },
+        {
+          "text": "Het is tien voor ___ negen.",
+          "hint": "Зараз 8:20.",
+          "accepted": [
+            [
+              "half"
+            ]
+          ]
+        },
+        {
+          "text": "Om half ___ ga ik naar huis.",
+          "hint": "О 12:30 я йду додому.",
+          "accepted": [
+            [
+              "een"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben ___ stoelen.",
+          "hint": "У нас двадцять стільців.",
+          "accepted": [
+            [
+              "twintig"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft ___ eieren.",
+          "hint": "У неї дев'яносто яєць.",
+          "accepted": [
+            [
+              "negentig"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ is in de kamer.",
+          "hint": "Годинник у кімнаті.",
+          "accepted": [
+            [
+              "klok"
+            ]
+          ]
+        },
+        {
+          "text": "Het is vijftien ___.",
+          "hint": "Зараз 15:00 (як у розкладі).",
+          "accepted": [
+            [
+              "uur"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: інша година, half, питання, заперечення чи множина",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Het is negen uur.",
+          "cue": "-> half tien (9:30)",
+          "accepted": [
+            "Het is half tien."
+          ]
+        },
+        {
+          "prompt": "Ik sta om elf uur op.",
+          "cue": "-> 11:30",
+          "accepted": [
+            "Ik sta om half twaalf op.",
+            "Om half twaalf sta ik op."
+          ]
+        },
+        {
+          "prompt": "Het is tien over vijf.",
+          "cue": "-> 4:50",
+          "accepted": [
+            "Het is tien voor vijf."
+          ]
+        },
+        {
+          "prompt": "Het is kwart over acht.",
+          "cue": "-> 8:45",
+          "accepted": [
+            "Het is kwart voor negen."
+          ]
+        },
+        {
+          "prompt": "Ik heb elf boeken.",
+          "cue": "-> 15",
+          "accepted": [
+            "Ik heb vijftien boeken."
+          ]
+        },
+        {
+          "prompt": "Ik heb veertien appels.",
+          "cue": "-> питання з Hoeveel ... jij",
+          "accepted": [
+            "Hoeveel appels heb jij?",
+            "Hoeveel appels heb je?"
+          ]
+        },
+        {
+          "prompt": "Ik heb tijd om half een.",
+          "cue": "-> заперечення з geen",
+          "accepted": [
+            "Ik heb geen tijd om half een.",
+            "Om half een heb ik geen tijd."
+          ]
+        },
+        {
+          "prompt": "Ik ga naar huis.",
+          "cue": "-> починай з Om kwart over zeven",
+          "accepted": [
+            "Om kwart over zeven ga ik naar huis."
+          ]
+        },
+        {
+          "prompt": "De klok is in de kamer.",
+          "cue": "-> meervoud",
+          "accepted": [
+            "De klokken zijn in de kamer."
+          ]
+        },
+        {
+          "prompt": "Om half twaalf wacht ik op de bus.",
+          "cue": "-> 12:30",
+          "accepted": [
+            "Om half een wacht ik op de bus."
+          ]
+        },
+        {
+          "prompt": "Jij staat om half acht op.",
+          "cue": "-> питання з Hoe laat",
+          "accepted": [
+            "Hoe laat sta je op?",
+            "Hoe laat sta jij op?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Om elf uur ___ ik op.",
+          "cue": "opstaan",
+          "accepted": [
+            "sta"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ vijftien appels.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Om kwart over twee ___ ik brood.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "___ jij om tien voor zeven naar huis?",
+          "cue": "gaan",
+          "accepted": [
+            "Ga"
+          ]
+        },
+        {
+          "text": "Wij ___ dertig appels in de winkel.",
+          "cue": "kopen",
+          "accepted": [
+            "kopen"
+          ]
+        },
+        {
+          "text": "De klokken ___ in de keuken.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "Om kwart voor vijf ___ hij een boek.",
+          "cue": "lezen",
+          "accepted": [
+            "leest"
+          ]
+        },
+        {
+          "text": "Zestien kinderen ___ op de trein.",
+          "cue": "wachten op",
+          "accepted": [
+            "wachten"
+          ]
+        },
+        {
+          "text": "Om half acht ___ de bus.",
+          "cue": "rijden",
+          "accepted": [
+            "rijdt"
+          ]
+        },
+        {
+          "text": "Om tien over negen ___ mijn moeder.",
+          "cue": "werken",
+          "accepted": [
+            "werkt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "numeral"
+      ]
+    }
+  ]
+}
