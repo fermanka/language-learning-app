@@ -147,9 +147,52 @@
   #toast { position: fixed; bottom: 20px; left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg);
            padding: 8px 16px; border-radius: 10px; font-size: 14px; opacity: 0; pointer-events: none; transition: opacity .2s; max-width: 90vw; }
   #toast.show { opacity: 1; }
+
+  /* Decoration: the flag and the coat of arms of Amsterdam in the empty side margins. Only where the margins are wide
+     enough (a phone or a narrow window shows nothing), never in the way of a click. Each sits in the middle of its margin. */
+  .side { display: none; position: fixed; top: 130px; pointer-events: none; }
+  .side svg { display: block; width: 100%; height: auto; filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .35)); }
+  @media (min-width: 1180px) {
+    .side { display: block; }
+    .side.left { width: 140px; left: calc((100vw - 860px) / 4 - 70px); }
+    .side.right { width: 112px; right: calc((100vw - 860px) / 4 - 56px); }
+  }
 </style>
 </head>
 <body>
+<!-- Flag of Amsterdam: red - black - red, three white St Andrew's crosses on the black band. Drawn here, not a downloaded file. -->
+<aside class="side left" aria-hidden="true">
+  <svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+    <rect width="300" height="200" fill="#d6222b"/>
+    <rect y="66.7" width="300" height="66.6" fill="#111"/>
+    <g stroke="#fff" stroke-width="12" stroke-linecap="butt" fill="none">
+      <path d="M40 73 L92 127 M92 73 L40 127" transform="translate(-6 0)"/>
+      <path d="M124 73 L176 127 M176 73 L124 127"/>
+      <path d="M208 73 L260 127 M260 73 L208 127" transform="translate(6 0)"/>
+    </g>
+  </svg>
+</aside>
+<!-- Coat of arms of Amsterdam, simplified: red shield, black band with three white saltires, imperial crown (no lion supporters). -->
+<aside class="side right" aria-hidden="true">
+  <svg viewBox="0 -10 120 170" xmlns="http://www.w3.org/2000/svg">
+    <defs><clipPath id="shield"><path d="M10 26 H110 V82 C110 114 84 134 60 146 C36 134 10 114 10 82 Z"/></clipPath></defs>
+    <path d="M10 26 H110 V82 C110 114 84 134 60 146 C36 134 10 114 10 82 Z" fill="#d6222b"/>
+    <g clip-path="url(#shield)">
+      <rect x="42" y="26" width="36" height="130" fill="#111"/>
+      <g stroke="#fff" stroke-width="6.5" fill="none">
+        <path d="M47 33 L73 59 M73 33 L47 59"/>
+        <path d="M47 67 L73 93 M73 67 L47 93"/>
+        <path d="M47 101 L73 127 M73 101 L47 127"/>
+      </g>
+    </g>
+    <path d="M10 26 H110 V82 C110 114 84 134 60 146 C36 134 10 114 10 82 Z" fill="none" stroke="#c9a227" stroke-width="3"/>
+    <g fill="#e0b73a" stroke="#8a6d12" stroke-width="1.2" stroke-linejoin="round">
+      <path d="M30 26 L30 12 L43 19 L60 8 L77 19 L90 12 L90 26 Z"/>
+      <circle cx="30" cy="10" r="3"/><circle cx="90" cy="10" r="3"/><circle cx="60" cy="6" r="3"/>
+      <path d="M60 5 V-8 M54.5 -4 H65.5" fill="none" stroke-width="2.6"/>
+    </g>
+  </svg>
+</aside>
 <div class="wrap">
   <div class="banner">МАКЕТ з реальними уроками Les 1-11. Слова з твого зошита, речення й вправи від Марійке.</div>
 
