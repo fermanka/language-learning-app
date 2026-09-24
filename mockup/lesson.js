@@ -196,7 +196,9 @@ if (typeof document === 'undefined') {
       } else ex.items.forEach((it) => {
         const li = el('li', it.example ? 'example' : '');
         if (ex.type === 'translate' || ex.type === 'transform') {
+          // translate shows the prompt only (the cue would give the answer away); in transform the cue IS the task ("-> питання")
           li.append(el('span', null, it.prompt));
+          if (ex.type === 'transform') li.append(el('span', 'cue', ` (${it.cue})`));
           li.append(it.example ? input('wide', null, it.accepted[0]) : input('wide', it.accepted));
         } else if (ex.type === 'gaps') {
           li.append(el('span', 'meta', `${it.hint}  `));

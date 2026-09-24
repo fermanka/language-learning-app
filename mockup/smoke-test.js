@@ -47,6 +47,13 @@ function checkLesson(idx) {
 
   const exercises = byId['b4-body'].children;
   t(`lesson ${L.order}: ${L.practice.length} exercises rendered`, exercises.length === L.practice.length);
+  // cue on screen: transform and verbform need it (it is the task); translate must not show it (it gives the answer away)
+  L.practice.forEach((ex, i) => {
+    if (!['translate', 'transform', 'verbform'].includes(ex.type)) return;
+    const cues = exercises[i].all().filter((e) => e.className === 'cue').length;
+    const expected = ex.type === 'translate' ? 0 : ex.items.length;
+    t(`lesson ${L.order} ex ${i + 1} (${ex.type}): ${expected} cues shown`, cues === expected);
+  });
   exercises.forEach((box, i) => {
     const inputs = box.querySelectorAll('[data-acc]');
     const [check, retry] = buttons(box, 'Перевірити').concat(buttons(box, 'Спробувати ще'));
