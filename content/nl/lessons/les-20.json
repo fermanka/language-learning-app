@@ -1,0 +1,1003 @@
+{
+  "id": "nl-les-20",
+  "lang": "nl",
+  "order": 20,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-ebd9b00c",
+      "type": "verb",
+      "lemma": "doen",
+      "ua": "робити (діяти, займатися)",
+      "audio": "doen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "doe",
+          "audio": "ik-doe.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "doet",
+          "audio": "jij-doet.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "doet",
+          "audio": "u-doet.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "doet",
+          "audio": "hij-doet.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "doen",
+          "audio": "wij-doen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "doen",
+          "audio": "jullie-doen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "doen",
+          "audio": "zij-doen.mp3"
+        }
+      ],
+      "explain_ua": "(Wat doe je? = що ти робиш?; Ik doe boodschappen = я роблю покупки). Doen це «робити» як дія чи заняття: те, чим займаєшся. Коли створюєш щось нове (суп, фото), кажуть maken: картка «Doen чи maken». Ik doe, jij doet, wij doen. Після jij у питанні t зникає: Doe jij het? Так само vind jij (Les 19). Oe це [u], як у boek (Les 1): звучить приблизно «дун». Схоже на англійське do: підказка для пам'яті"
+    },
+    {
+      "id": "nl-4764d9f9",
+      "type": "verb",
+      "lemma": "maken",
+      "ua": "робити, виготовляти, створювати",
+      "audio": "maken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "maak",
+          "audio": "ik-maak.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "maakt",
+          "audio": "jij-maakt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "maakt",
+          "audio": "u-maakt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "maakt",
+          "audio": "hij-maakt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "maken",
+          "audio": "wij-maken.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "maken",
+          "audio": "jullie-maken.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "maken",
+          "audio": "zij-maken.mp3"
+        }
+      ],
+      "explain_ua": "(Ik maak soep = я роблю суп; Zij maakt een foto = вона робить фото; Hij maakt een fout = він робить помилку). Maken це «робити» як створити результат, якого раніше не було. Основа maak: голосна a подвоюється, бо склад відкритий (Les 7). Ik maak, jij maakt, wij maken. Після jij у питанні t зникає: Maak jij soep? Схоже на англійське make: підказка для пам'яті"
+    },
+    {
+      "id": "nl-f073497e",
+      "type": "verb",
+      "lemma": "weten",
+      "ua": "знати (факт, відповідь)",
+      "audio": "weten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "weet",
+          "audio": "ik-weet.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "weet",
+          "audio": "jij-weet.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "weet",
+          "audio": "u-weet.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "weet",
+          "audio": "hij-weet.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "weten",
+          "audio": "wij-weten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "weten",
+          "audio": "jullie-weten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "weten",
+          "audio": "zij-weten.mp3"
+        }
+      ],
+      "explain_ua": "(Ik weet het niet = я цього не знаю; Weet je de prijs? = ти знаєш ціну?). Weten це «знати» факт чи відповідь. Людину чи місце знають через kennen (Les 9): картка «Kennen чи weten». Основа weet вже закінчується на t, тому в jij і hij другого t немає, як eet у Les 7: ik weet, jij weet, hij weet, wij weten. У питанні теж Weet jij het? Ee довге [eː], як у heel (Les 19)"
+    },
+    {
+      "id": "nl-421c44d1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "fout",
+      "plural": [
+        "fouten"
+      ],
+      "ua": "помилка",
+      "audio": "de-fout.mp3",
+      "explain_ua": "(Ik maak een fout = я роблю помилку). Помилку «роблять» через maken, не doen: een fout maken. Ou це дифтонг [ɑu], як у oud (Les 19): звучить приблизно «фаут». Схоже на англійське fault: підказка для пам'яті"
+    },
+    {
+      "id": "nl-c7c9c99b",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vraag",
+      "plural": [
+        "vragen"
+      ],
+      "ua": "питання",
+      "audio": "de-vraag.mp3",
+      "explain_ua": "(Ik heb een vraag = у мене є питання). Vraag це питання, яке ставлять (не «проблема»). Aa довге [aː], g це [x], як у gas (Les 1). У множині vragen g м'якша, але теж зі звуком х/г"
+    },
+    {
+      "id": "nl-94af29bc",
+      "type": "noun",
+      "article": "het",
+      "lemma": "werk",
+      "plural": [],
+      "ua": "робота",
+      "audio": "het-werk.mp3",
+      "explain_ua": "(Ik heb veel werk = у мене багато роботи). Het werk це те, що роблять, і місце, де роблять. Множини в повсякденній мові немає: veel werk. Не плутай з werken (Les 5): werken це дієслово «працювати», het werk це іменник. Множина werken є лише для «творів» (мистецтва), тут вона не потрібна. У загальному значенні без артикля: Ik heb werk"
+    },
+    {
+      "id": "nl-2eb3e7e5",
+      "type": "noun",
+      "article": "de",
+      "lemma": "foto",
+      "plural": [
+        "foto's"
+      ],
+      "ua": "фото, світлина",
+      "audio": "de-foto.mp3",
+      "explain_ua": "(Ik maak een foto = я роблю фото). Множина foto's з апострофом, як auto's (Les 6): після довгої o без апострофа читалося б інакше. Фото «роблять» через maken: een foto maken. Наголос на першому складі: FO-to, обидві o довгі. Слово схоже на українське «фото»: це підказка, слово міжнародне"
+    },
+    {
+      "id": "nl-073191d0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "soep",
+      "plural": [],
+      "ua": "суп",
+      "audio": "de-soep.mp3",
+      "explain_ua": "(Ik maak soep = я роблю суп; Zij eet soep = вона їсть суп). Це страва як речовина, як water і melk (Les 7): у загальному значенні без артикля: Ik eet soep. Множина soepen є (різні супи), але рідко. Oe це [u], як у boek: звучить майже як українське «суп» (підказка для пам'яті). Кінцеве p чітке, без придиху"
+    },
+    {
+      "id": "nl-dc7e9d13",
+      "type": "function",
+      "lemma": "veel",
+      "ua": "багато",
+      "audio": "veel.mp3",
+      "explain_ua": "(Ik heb veel werk = у мене багато роботи; veel fouten = багато помилок). Форма одна для однини й множини, не змінюється. Після veel артикля немає, як після hoeveel (Les 3) і чисел (Les 2): veel fouten, а не veel de fouten. Стоїть перед іменником. Ee довге [eː], як у heel (Les 19)"
+    },
+    {
+      "id": "nl-edbb8eed",
+      "type": "function",
+      "lemma": "boodschappen doen",
+      "ua": "робити покупки (за продуктами)",
+      "audio": "boodschappen-doen.mp3",
+      "explain_ua": "(Ik doe boodschappen = я йду по продукти, роблю покупки). Вчи як цілий вираз, як een paar (Les 11). Boodschappen завжди множина й без артикля, дієслово doen, не maken. Це щоденні покупки їжі й потрібного; одну річ купують через kopen (Les 8). Sch це два звуки, [s] і [x] (х як у Les 1)"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Doen чи maken: «робити» двома словами",
+      "summary_ua": "Українське «робити» нідерландською розпадається на два слова, як в англійській do і make. Doen це діяти, займатися. Maken це створити щось нове.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "Doen: дія, заняття",
+          "when_ua": "Doen про те, чим займаєшся: boodschappen, werk. Питання Wat doe je? = що ти робиш?",
+          "examples": [
+            {
+              "nl": "Wat **doen** de kinderen?",
+              "ua": "Що роблять діти?",
+              "audio": "les20-rule-01.mp3"
+            },
+            {
+              "nl": "Wij **doen** boodschappen in de stad.",
+              "ua": "Ми робимо покупки в місті.",
+              "audio": "les20-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Boodschappen doen завжди так: не boodschappen maken. Після jij у питанні t зникає: Doe jij het?"
+        },
+        {
+          "form": "Maken: створити результат",
+          "when_ua": "Maken коли з'являється щось нове: суп, фото, помилка.",
+          "examples": [
+            {
+              "nl": "Mijn moeder **maakt** soep.",
+              "ua": "Моя мама робить суп.",
+              "audio": "les20-rule-03.mp3"
+            },
+            {
+              "nl": "Ik **maak** een foto van de trein.",
+              "ua": "Я роблю фото потяга.",
+              "audio": "les20-rule-04.mp3"
+            },
+            {
+              "nl": "Hij **maakt** een fout.",
+              "ua": "Він робить помилку.",
+              "audio": "les20-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Een fout maken, een foto maken: українською теж «робити», але нідерландською doen тут не підходить."
+        }
+      ],
+      "points_ua": [
+        "Дія, заняття: doen (boodschappen doen). Створити: maken (soep, foto, fout).",
+        "Ik doe, hij doet, wij doen. Ik maak, hij maakt, wij maken."
+      ]
+    },
+    {
+      "title_ua": "Kennen чи weten: «знати» двома словами",
+      "summary_ua": "І українська, і англійська мають одне слово «знати» (know), а нідерландська два. Kennen це знати людину чи місце. Weten це знати факт чи відповідь.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Kennen: людина, місце",
+          "when_ua": "Kennen коли ти знайомий з людиною, містом, школою (Les 9).",
+          "examples": [
+            {
+              "nl": "**Ken** je de school?",
+              "ua": "Ти знаєш цю школу?",
+              "audio": "les20-rule-06.mp3"
+            },
+            {
+              "nl": "Zij **kent** mijn zus.",
+              "ua": "Вона знає мою сестру.",
+              "audio": "les20-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Ik ken, hij kent, wij kennen. Після jij у питанні t зникає: Ken jij het café?"
+        },
+        {
+          "form": "Weten: факт, відповідь",
+          "when_ua": "Weten коли знаєш інформацію: ціну, відповідь, ім'я як факт.",
+          "examples": [
+            {
+              "nl": "Ik **weet** de prijs.",
+              "ua": "Я знаю ціну.",
+              "audio": "les20-rule-08.mp3"
+            },
+            {
+              "nl": "**Weet** je het?",
+              "ua": "Ти це знаєш?",
+              "audio": "les20-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Jij weet, а не jij weett: основа вже закінчується на t, як eet (Les 7). У питанні теж Weet jij het?"
+        }
+      ],
+      "points_ua": [
+        "Людина, місце: kennen. Факт, відповідь: weten.",
+        "Ik weet, jij weet, hij weet, wij weten: у однині форма одна."
+      ]
+    },
+    {
+      "title_ua": "Ik weet het niet: niet в кінці",
+      "summary_ua": "Het це означений об'єкт, тому niet стоїть після нього (правило з Les 2). Українське «не знаю» ставить «не» перед дієсловом, нідерландська кінець.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Niet після означеного об'єкта",
+          "when_ua": "Het, de man, de prijs це означені об'єкти: niet стоїть у кінці.",
+          "examples": [
+            {
+              "nl": "Ik **weet** het **niet**.",
+              "ua": "Я цього не знаю.",
+              "audio": "les20-example-07.mp3"
+            },
+            {
+              "nl": "Hij **kent** de school **niet**.",
+              "ua": "Він не знає цієї школи.",
+              "audio": "les20-rule-10.mp3"
+            },
+            {
+              "nl": "Wij **weten** de prijs **niet**.",
+              "ua": "Ми не знаємо ціни.",
+              "audio": "les20-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Не Ik niet weet het: niet не перед дієсловом."
+        },
+        {
+          "form": "Geen: перед неозначеним іменником",
+          "when_ua": "Geen стоїть перед іменником, коли артикля немає або був би een (Les 2).",
+          "examples": [
+            {
+              "nl": "Ik heb **geen** vragen.",
+              "ua": "У мене немає питань.",
+              "audio": "les20-rule-12.mp3"
+            },
+            {
+              "nl": "Zij maakt **geen** fouten.",
+              "ua": "Вона не робить помилок.",
+              "audio": "les20-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ik weet het niet, але Ik heb geen vragen."
+        }
+      ],
+      "points_ua": [
+        "Het чи de + іменник: niet в кінці. Іменник без артикля чи з een: geen.",
+        "Ik weet het niet. Ik ken de man niet."
+      ]
+    },
+    {
+      "title_ua": "Veel fouten: без артикля",
+      "summary_ua": "Veel значить «багато» й не змінюється. Після veel артикля немає, як після hoeveel і чисел: veel fouten, veel werk, а не veel de fouten.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Veel + множина",
+          "when_ua": "Veel перед множиною: іменник у множині, артикля немає.",
+          "examples": [
+            {
+              "nl": "Wij kopen **veel** appels.",
+              "ua": "Ми купуємо багато яблук.",
+              "audio": "les20-rule-14.mp3"
+            },
+            {
+              "nl": "De kinderen maken **veel** foto's.",
+              "ua": "Діти роблять багато фото.",
+              "audio": "les20-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Як у twee eieren (Les 8): число чи «багато», і артикля немає."
+        },
+        {
+          "form": "Veel + речовина чи іменник без множини",
+          "when_ua": "Werk, soep, water не мають звичайної множини: veel лишається, форма та сама.",
+          "examples": [
+            {
+              "nl": "Hij drinkt **veel** water.",
+              "ua": "Він п'є багато води.",
+              "audio": "les20-rule-16.mp3"
+            },
+            {
+              "nl": "Wij eten **veel** soep.",
+              "ua": "Ми їмо багато супу.",
+              "audio": "les20-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Українське «багато» вимагає родового відмінка (багато води), нідерландська просто veel water."
+        }
+      ],
+      "points_ua": [
+        "Veel + іменник, без de чи het: veel fouten, veel werk.",
+        "Veel не змінюється ні в однині, ні в множині."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Wat doet hij vandaag?",
+      "ua": "Що він робить сьогодні?",
+      "audio": "les20-example-01.mp3"
+    },
+    {
+      "nl": "Ik doe boodschappen in de supermarkt.",
+      "ua": "Я роблю покупки в супермаркеті.",
+      "audio": "les20-example-02.mp3"
+    },
+    {
+      "nl": "Zij maakt soep voor de kinderen.",
+      "ua": "Вона робить суп для дітей.",
+      "audio": "les20-example-03.mp3"
+    },
+    {
+      "nl": "Wij maken een foto van het park.",
+      "ua": "Ми робимо фото парку.",
+      "audio": "les20-example-04.mp3"
+    },
+    {
+      "nl": "Ik maak vaak fouten.",
+      "ua": "Я часто роблю помилки.",
+      "audio": "les20-example-05.mp3"
+    },
+    {
+      "nl": "Ik ken de man niet.",
+      "ua": "Я не знаю цього чоловіка.",
+      "audio": "les20-example-06.mp3"
+    },
+    {
+      "nl": "Ik weet het niet.",
+      "ua": "Я цього не знаю.",
+      "audio": "les20-example-07.mp3"
+    },
+    {
+      "nl": "Weet jij de naam?",
+      "ua": "Ти знаєш ім'я?",
+      "audio": "les20-example-08.mp3"
+    },
+    {
+      "nl": "Zij heeft veel werk.",
+      "ua": "У неї багато роботи.",
+      "audio": "les20-example-09.mp3"
+    },
+    {
+      "nl": "Hij heeft veel vragen.",
+      "ua": "У нього багато питань.",
+      "audio": "les20-example-10.mp3"
+    },
+    {
+      "nl": "Zij kent de stad goed.",
+      "ua": "Вона добре знає місто.",
+      "audio": "les20-example-11.mp3"
+    },
+    {
+      "nl": "Hij doet zijn werk.",
+      "ua": "Він робить свою роботу.",
+      "audio": "les20-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wat doe je vandaag?",
+    "title_ua": "Що ти робиш сьогодні?",
+    "highlight": [
+      "nl-94af29bc",
+      "nl-073191d0",
+      "nl-dc7e9d13"
+    ],
+    "sentences": [
+      {
+        "nl": "Wat doe je vandaag?",
+        "ua": "Питає: Що ти робиш сьогодні?",
+        "audio": "les20-reading-01.mp3"
+      },
+      {
+        "nl": "Ik heb veel werk.",
+        "ua": "Відповідає: У мене багато роботи.",
+        "audio": "les20-reading-02.mp3"
+      },
+      {
+        "nl": "Daarna doe ik boodschappen.",
+        "ua": "Відповідає: Потім я роблю покупки.",
+        "audio": "les20-reading-03.mp3"
+      },
+      {
+        "nl": "Wat koop je?",
+        "ua": "Питає: Що ти купуєш?",
+        "audio": "les20-reading-04.mp3"
+      },
+      {
+        "nl": "Ik koop groente, kaas en brood.",
+        "ua": "Відповідає: Я купую овочі, сир і хліб.",
+        "audio": "les20-reading-05.mp3"
+      },
+      {
+        "nl": "Ik maak ook soep voor de kinderen.",
+        "ua": "Відповідає: Я також роблю суп для дітей.",
+        "audio": "les20-reading-06.mp3"
+      },
+      {
+        "nl": "Maar ik ken de stad niet goed.",
+        "ua": "Відповідає: Але я не дуже добре знаю місто.",
+        "audio": "les20-reading-07.mp3"
+      },
+      {
+        "nl": "Ik weet het!",
+        "ua": "Питає: Я знаю!",
+        "audio": "les20-reading-08.mp3"
+      },
+      {
+        "nl": "De supermarkt is naast het station.",
+        "ua": "Питає: Супермаркет поруч із вокзалом.",
+        "audio": "les20-reading-09.mp3"
+      },
+      {
+        "nl": "Bedankt!",
+        "ua": "Відповідає: Дякую!",
+        "audio": "les20-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я роблю суп.",
+          "accepted": [
+            "Ik maak soep."
+          ]
+        },
+        {
+          "prompt": "Що ти робиш завтра?",
+          "accepted": [
+            "Wat doe je morgen?",
+            "Wat doe jij morgen?"
+          ]
+        },
+        {
+          "prompt": "Вона робить багато помилок.",
+          "accepted": [
+            "Zij maakt veel fouten.",
+            "Ze maakt veel fouten."
+          ]
+        },
+        {
+          "prompt": "Я не знаю цього магазину.",
+          "accepted": [
+            "Ik ken de winkel niet.",
+            "Ik ken deze winkel niet.",
+            "Ik ken die winkel niet."
+          ]
+        },
+        {
+          "prompt": "Ти знаєш ціну?",
+          "accepted": [
+            "Weet jij de prijs?",
+            "Weet je de prijs?"
+          ]
+        },
+        {
+          "prompt": "Мій тато має багато роботи.",
+          "accepted": [
+            "Mijn vader heeft veel werk."
+          ]
+        },
+        {
+          "prompt": "Ми цього не знаємо.",
+          "accepted": [
+            "Wij weten het niet.",
+            "We weten het niet."
+          ]
+        },
+        {
+          "prompt": "Моя мама робить покупки.",
+          "accepted": [
+            "Mijn moeder doet boodschappen."
+          ]
+        },
+        {
+          "prompt": "Я знаю це місто.",
+          "accepted": [
+            "Ik ken de stad.",
+            "Ik ken deze stad.",
+            "Ik ken die stad."
+          ]
+        },
+        {
+          "prompt": "У тебе є питання?",
+          "accepted": [
+            "Heb jij een vraag?",
+            "Heb je een vraag?"
+          ]
+        },
+        {
+          "prompt": "Ми робимо фото школи.",
+          "accepted": [
+            "Wij maken een foto van de school.",
+            "We maken een foto van de school."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: doen чи maken, kennen чи weten",
+      "bank": [
+        "doe",
+        "doet",
+        "doen",
+        "maak",
+        "maakt",
+        "maken",
+        "ken",
+        "kent",
+        "weet",
+        "weten",
+        "veel"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ boodschappen.",
+          "hint": "Я роблю покупки (заняття)",
+          "accepted": [
+            [
+              "doe"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ soep.",
+          "hint": "Він робить суп (створює)",
+          "accepted": [
+            [
+              "maakt"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ een foto.",
+          "hint": "Ми робимо фото (створюємо)",
+          "accepted": [
+            [
+              "maken"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ veel fouten.",
+          "hint": "Я роблю багато помилок",
+          "accepted": [
+            [
+              "maak"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ de man niet.",
+          "hint": "Я не знаю цього чоловіка (людину)",
+          "accepted": [
+            [
+              "ken"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ het niet.",
+          "hint": "Я цього не знаю (факт)",
+          "accepted": [
+            [
+              "weet"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij de naam?",
+          "hint": "Ти знаєш ім'я? (факт)",
+          "accepted": [
+            [
+              "Weet",
+              "weet"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus ___ de stad goed.",
+          "hint": "Моя сестра добре знає місто (місце)",
+          "accepted": [
+            [
+              "kent"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ het niet.",
+          "hint": "Ми цього не знаємо (факт)",
+          "accepted": [
+            [
+              "weten"
+            ]
+          ]
+        },
+        {
+          "text": "Wat ___ hij vandaag?",
+          "hint": "Що він робить сьогодні?",
+          "accepted": [
+            [
+              "doet"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ hun werk.",
+          "hint": "Вони виконують свою роботу (вони)",
+          "accepted": [
+            [
+              "doen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ werk.",
+          "hint": "У мене багато роботи",
+          "accepted": [
+            [
+              "veel"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik doe boodschappen.",
+          "cue": "-> починай з Nu",
+          "accepted": [
+            "Nu doe ik boodschappen."
+          ]
+        },
+        {
+          "prompt": "Zij maakt soep.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag maakt zij soep.",
+            "Vandaag maakt ze soep."
+          ]
+        },
+        {
+          "prompt": "Ik weet het.",
+          "cue": "-> додай niet",
+          "accepted": [
+            "Ik weet het niet."
+          ]
+        },
+        {
+          "prompt": "Ik ken de man.",
+          "cue": "-> додай niet",
+          "accepted": [
+            "Ik ken de man niet."
+          ]
+        },
+        {
+          "prompt": "Hij maakt een fout.",
+          "cue": "-> Hij maakt veel ...",
+          "accepted": [
+            "Hij maakt veel fouten."
+          ]
+        },
+        {
+          "prompt": "Ik heb een vraag.",
+          "cue": "-> Ik heb veel ...",
+          "accepted": [
+            "Ik heb veel vragen."
+          ]
+        },
+        {
+          "prompt": "Jij weet het.",
+          "cue": "-> питання: Weet ...",
+          "accepted": [
+            "Weet jij het?",
+            "Weet je het?"
+          ]
+        },
+        {
+          "prompt": "Jij doet boodschappen.",
+          "cue": "-> питання: Doe ...",
+          "accepted": [
+            "Doe jij boodschappen?",
+            "Doe je boodschappen?"
+          ]
+        },
+        {
+          "prompt": "Ik maak een foto.",
+          "cue": "-> починай з Wij",
+          "accepted": [
+            "Wij maken een foto.",
+            "We maken een foto."
+          ]
+        },
+        {
+          "prompt": "Ik weet het niet.",
+          "cue": "-> починай з Hij",
+          "accepted": [
+            "Hij weet het niet."
+          ]
+        },
+        {
+          "prompt": "Hij kent de stad.",
+          "cue": "-> починай з Wij",
+          "accepted": [
+            "Wij kennen de stad.",
+            "We kennen de stad."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ mijn werk.",
+          "cue": "doen",
+          "accepted": [
+            "doe"
+          ]
+        },
+        {
+          "text": "Hij ___ zijn werk.",
+          "cue": "doen",
+          "accepted": [
+            "doet"
+          ]
+        },
+        {
+          "text": "___ jij boodschappen?",
+          "cue": "doen",
+          "accepted": [
+            "Doe",
+            "doe"
+          ]
+        },
+        {
+          "text": "Wij ___ boodschappen in de stad.",
+          "cue": "doen",
+          "accepted": [
+            "doen"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ een foto.",
+          "cue": "maken",
+          "accepted": [
+            "maakt"
+          ]
+        },
+        {
+          "text": "Ik ___ soep voor de kinderen.",
+          "cue": "maken",
+          "accepted": [
+            "maak"
+          ]
+        },
+        {
+          "text": "Wat ___ jij hier?",
+          "cue": "doen",
+          "accepted": [
+            "doe"
+          ]
+        },
+        {
+          "text": "Jij ___ het niet.",
+          "cue": "weten",
+          "accepted": [
+            "weet"
+          ]
+        },
+        {
+          "text": "___ hij de naam?",
+          "cue": "weten",
+          "accepted": [
+            "Weet",
+            "weet"
+          ]
+        },
+        {
+          "text": "De kinderen ___ het niet.",
+          "cue": "weten",
+          "accepted": [
+            "weten"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ de man niet.",
+          "cue": "kennen",
+          "accepted": [
+            "kent"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом чи виразом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "помилка",
+          "answer": "de fout"
+        },
+        {
+          "prompt": "питання",
+          "answer": "de vraag"
+        },
+        {
+          "prompt": "робота",
+          "answer": "het werk"
+        },
+        {
+          "prompt": "суп",
+          "answer": "de soep"
+        },
+        {
+          "prompt": "багато",
+          "answer": "veel"
+        },
+        {
+          "prompt": "робити покупки",
+          "answer": "boodschappen doen"
+        },
+        {
+          "prompt": "робити (займатися чимось)",
+          "answer": "doen"
+        },
+        {
+          "prompt": "робити (створювати, виготовляти)",
+          "answer": "maken"
+        },
+        {
+          "prompt": "знати (факт, відповідь)",
+          "answer": "weten"
+        },
+        {
+          "prompt": "знати (людину, місце)",
+          "answer": "kennen"
+        }
+      ],
+      "extra": [
+        "het geld",
+        "vinden"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}
