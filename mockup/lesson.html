@@ -86,6 +86,8 @@
   .cue { color: var(--muted); }
   input[type=text] { font: inherit; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 4px 10px; width: 130px; }
   input[type=text].wide { width: 100%; max-width: 480px; display: block; margin-top: 6px; }
+  textarea.story { font: inherit; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; width: 100%; box-sizing: border-box; display: block; margin-top: 8px; }
+  button.btn:disabled { opacity: .5; cursor: not-allowed; }
   input.ok { border-color: var(--ok); background: var(--okbg); }
   input.bad { border-color: var(--bad); background: var(--badbg); }
   .fix { color: var(--bad); font-weight: 600; }
@@ -230,6 +232,7 @@
       <h2><span>Практика</span><span class="dutch">Oefenen</span></h2>
       <div id="b4-body"></div>
       <div id="b5-extra"></div>
+      <div id="b6-story"></div>
       <p class="meta" id="reading-status"></p>
     </div>
 
@@ -285,6 +288,7 @@
 <script src="progress-store.js"></script>
 <script src="cards.js"></script>
 <script src="extra-practice.js"></script>
+<script src="story.js"></script>
 <script src="lesson.js"></script>
 </body>
 </html>

@@ -262,6 +262,58 @@ if (typeof document === 'undefined') {
     }).catch((e) => { if (LESSONS[current].id === L.id) note(`Не вдалося прочитати додаткову практику: ${e.message}`, 'meta warn'); });
   }
 
+  // The teacher's writing task for the open lesson (stories/<lang>/les-NN.json). Optional like the extra practice: it does not count
+  // towards the lesson's 100%, and the block only appears when the teacher has written a topic. There is no automatic marking:
+  // the text is saved as a file for the teacher (written/), who checks the mistakes and how well it hangs together.
+  const DRAFT_KEY = (id) => `storyDraft:${id}`;   // an unsent draft is a per-browser convenience, like the theme
+  function renderStory(L) {
+    const box = $('b6-story'); box.innerHTML = '';
+    if (!log.store || !log.store.readStory) return;
+    const note = (text, cls) => { box.innerHTML = ''; box.append(el('h3', 'sub', 'Історія'), el('p', cls || 'meta', text)); };
+    log.store.readStory(L.id).then((res) => {
+      if (LESSONS[current].id !== L.id || !res) return;   // the learner moved to another lesson, or there is no topic file
+      if (res.error) { note(`Файл завдання з історією не вдалося прочитати: ${res.error}`, 'meta warn'); return; }
+      const v = window.Story.validateStory(res.data, L.id);
+      if (v.errors.length) { note(`Файл завдання з історією має помилки, скажи Марійке: ${v.errors.slice(0, 3).join('; ')}`, 'meta warn'); return; }
+      const d = res.data;
+      box.innerHTML = '';
+      box.append(el('h3', 'sub', 'Історія'));
+      const ex = el('div', 'ex');
+      const title = el('h3'); title.append(el('span', 'badge', '✎'), document.createTextNode(d.topic_ua + (d.topic_nl ? ` (${d.topic_nl})` : '')));
+      ex.append(title);
+      ex.append(el('p', 'meta', d.note_ua || `Напиши зв'язну історію: щонайменше ${d.min_sentences} речень. Марійке перевірить помилки і зв'язність.`));
+      if (d.targets_ua) { const ul = el('ul', 'meta'); d.targets_ua.forEach((t) => ul.append(el('li', null, t))); ex.append(ul); }
+      const area = el('textarea', 'story'); area.rows = 8;
+      try { area.value = localStorage.getItem(DRAFT_KEY(L.id)) || ''; } catch (e) { /* storage may be blocked */ }
+      const counter = el('p', 'meta'), status = el('p', 'meta');
+      const send = el('button', 'btn primary', 'Надіслати Марійке');
+      const refresh = () => {
+        const n = window.Story.countSentences(area.value);
+        counter.textContent = `Речень: ${n} з ${d.min_sentences}`;
+        send.disabled = n < d.min_sentences;
+      };
+      const sentBefore = log.state().stories[L.id];
+      status.textContent = sentBefore ? `Надіслано ${sentBefore.at.slice(0, 10)} (${sentBefore.sentences} речень): written/${sentBefore.file}. Скажи Марійке. Можна написати нову версію і надіслати ще раз.` : '';
+      area.addEventListener('input', () => { refresh(); try { localStorage.setItem(DRAFT_KEY(L.id), area.value); } catch (e) { /* ignore */ } });
+      send.onclick = async () => {
+        const text = area.value.trim(), n = window.Story.countSentences(text);
+        if (n < d.min_sentences) return;
+        if (!log.store) { status.textContent = 'Спочатку підключи теку з прогресом (угорі), тоді історію буде збережено.'; return; }
+        const stamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
+        const name = `${L.id}.${stamp}.txt`;
+        try {
+          await log.store.saveWritten(name, `${d.topic_ua}${d.topic_nl ? ` (${d.topic_nl})` : ''}\n\n${text}\n`);
+          log.record({ type: 'story_submitted', lesson: L.id, file: name, sentences: n });
+          status.textContent = `Надіслано (${n} речень): written/${name}. Скажи Марійке, що історія там.`;
+          try { localStorage.removeItem(DRAFT_KEY(L.id)); } catch (e) { /* ignore */ }
+        } catch (e) { status.textContent = 'Не вдалося зберегти історію: ' + e.message + '. Текст лишається в полі, нічого не втрачено.'; }
+      };
+      refresh();
+      ex.append(area, counter, send, status);
+      box.append(ex);
+    }).catch((e) => { if (LESSONS[current].id === L.id) note(`Не вдалося прочитати завдання з історією: ${e.message}`, 'meta warn'); });
+  }
+
   const LESSON_KEY = 'currentLesson';   // a per-browser convenience, like the theme: which lesson is open
   function renderLesson(idx, remember = true) {
     const changed = idx !== current;
@@ -269,7 +321,7 @@ if (typeof document === 'undefined') {
     if (changed && typeof session !== 'undefined' && session) endSession();   // the deck changes with the open lesson
     if (remember) { firstVisit = false; try { localStorage.setItem(LESSON_KEY, LESSONS[idx].id); } catch (e) { /* storage may be blocked */ } }
     const L = LESSONS[idx];
-    ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body', 'b5-extra'].forEach((id) => { $(id).innerHTML = ''; });
+    ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body', 'b5-extra', 'b6-story'].forEach((id) => { $(id).innerHTML = ''; });
     $('lesson-label').textContent = `Les ${L.order}`;
     $('prev').classList.toggle('invisible', idx === 0);   // there is no lesson before the first one
     renderRule(L);
@@ -294,6 +346,7 @@ if (typeof document === 'undefined') {
     renderReading($('b3-text'), L); renderReading($('texts-copy'), L);
     renderPractice(L);
     renderExtra(L);
+    renderStory(L);
     renderProgress();
     renderUploadNote();
   }

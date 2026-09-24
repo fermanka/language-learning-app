@@ -16,6 +16,12 @@
     return m ? { lang: m[1], file: `${m[2]}.json` } : null;
   }
 
+  // nl-les-11 -> stories/nl/les-11.json
+  function storyLocation(lessonId) {
+    const m = /^([a-z]{2})-(les-\d+)$/.exec(lessonId || '');
+    return m ? { lang: m[1], file: `${m[2]}.json` } : null;
+  }
+
   // Uses only the small part of the File System Access API that a fake folder can also offer.
   class FolderStore {
     constructor(rootDir, opts = {}) {
@@ -72,6 +78,32 @@
       try { return { data: JSON.parse(text) }; } catch (e) { return { error: `the file is not valid JSON (${e.message})` }; }
     }
 
+    // The teacher's topic for one lesson: stories/<lang>/les-NN.json in the learner's folder. Read-only, same answers as readExtra.
+    async readStory(lessonId) {
+      const at = storyLocation(lessonId);
+      if (!at) return null;
+      let file;
+      try {
+        const dir = await (await this.root.getDirectoryHandle('stories')).getDirectoryHandle(at.lang);
+        file = await dir.getFileHandle(at.file);
+      } catch (e) {
+        if (e && e.name === 'NotFoundError') return null;
+        throw e;
+      }
+      const text = await (await file.getFile()).text();
+      try { return { data: JSON.parse(text) }; } catch (e) { return { error: `the file is not valid JSON (${e.message})` }; }
+    }
+
+    // What the learner wrote: one new text file per sending in written/ (never overwritten), for the teacher to read.
+    async saveWritten(name, text) {
+      const dir = await this._dir('written');
+      const fh = await dir.getFileHandle(name, { create: true });
+      const w = await fh.createWritable();
+      await w.write(text);
+      await w.close();
+      return name;
+    }
+
     async saveRecording(name, blob) {
       const dir = await this._dir('recordings');
       const fh = await dir.getFileHandle(name, { create: true });
@@ -109,6 +141,7 @@
   function fold(events) {
     const lessons = {};
     const exercises = {};
+    const stories = {};    // lesson id -> the latest story the learner sent for it
     const readings = {};   // lesson id -> the latest reading recording sent for it
     for (const e of events) {
       if (e.type === 'lesson_done') lessons[e.lesson] = { done: true, at: e.t };
@@ -118,7 +151,8 @@
         delete lessons[e.lesson];
         for (const key of Object.keys(exercises)) if (key.startsWith(`${e.lesson}#`)) delete exercises[key];
         delete readings[e.lesson];   // the recording file itself stays in the folder, only the "sent" mark is forgotten
-      } else if (e.type === 'recording_saved') readings[e.lesson] = { file: e.file, at: e.t };
+      } else if (e.type === 'story_submitted') stories[e.lesson] = { file: e.file, sentences: e.sentences, at: e.t };
+      else if (e.type === 'recording_saved') readings[e.lesson] = { file: e.file, at: e.t };
       else if (e.type === 'exercise_checked') {
         const key = `${e.lesson}#${e.exercise}`;
         const x = exercises[key] || (exercises[key] = { attempts: 0, best: 0 });
@@ -127,7 +161,7 @@
         x.best = Math.max(x.best, e.ok);
       }
     }
-    return { lessons, exercises, readings };
+    return { lessons, exercises, readings, stories };
   }
 
   // How far a lesson is: its exercises (each counts by the share of right answers in the latest attempt) plus reading aloud

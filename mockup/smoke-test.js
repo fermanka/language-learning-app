@@ -18,19 +18,20 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra', 'b6-story'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
 global.Audio = class { play() { return Promise.resolve(); } };
 global.confirm = () => true;
 const storage = new Map();
-global.localStorage = { getItem: (k) => (storage.has(k) ? storage.get(k) : null), setItem: (k, v) => storage.set(k, String(v)) };
+global.localStorage = { getItem: (k) => (storage.has(k) ? storage.get(k) : null), setItem: (k, v) => storage.set(k, String(v)), removeItem: (k) => storage.delete(k) };
 
 window.ProgressStore = require('./progress-store.js');
 window.FSRS = require('ts-fsrs');
 window.Cards = require('./cards.js');
 window.ExtraPractice = require('./extra-practice.js');
+window.Story = require('./story.js');
 require('./lesson.js');
 
 let bad = 0;
@@ -260,6 +261,43 @@ byId['prev'].onclick();
   served = () => ({ error: 'the file is not valid JSON' });
   byId['next'].onclick(); await flush();
   t('extra: an unreadable file is reported', extraBox().textContent.includes('не вдалося прочитати'));
+  window.progressLog.store = null;
+
+  // ---- free writing: the teacher's topic is read from the folder, the text is saved for her as a file, nothing is marked
+  const storySample = require('../docs/story-example/stories/nl/les-11.json');
+  const storyBox = () => byId['b6-story'];
+  const saved = [];
+  let storyServed = (id) => ({ data: { ...storySample, lesson: id } });
+  window.progressLog.store = { readStory: async (id) => storyServed(id), saveWritten: async (name, text) => { saved.push({ name, text }); return name; } };
+  byId['prev'].onclick(); await flush();   // the extra-practice checks above ended on Les 2: back to Les 1
+  const area = () => storyBox().all().find((e) => e.tag === 'textarea');
+  const sendBtn = () => buttons(storyBox(), 'Надіслати Марійке')[0];
+  t('story: the topic block appears with the topic and a text field', storyBox().textContent.includes('Історія') && storyBox().textContent.includes(storySample.topic_ua) && !!area());
+  t('story: the checklist of targets is shown', storySample.targets_ua.every((x) => storyBox().textContent.includes(x)));
+  t('story: sending is blocked below the minimum', sendBtn().disabled === true && storyBox().textContent.includes(`Речень: 0 з ${storySample.min_sentences}`));
+  area().value = 'Ik eet kaas. Het is lekker.'; area().listeners.input();
+  t('story: the counter follows what she types', storyBox().textContent.includes(`Речень: 2 з ${storySample.min_sentences}`) && sendBtn().disabled === true);
+  t('story: the unsent draft is remembered in the browser', storage.get(`storyDraft:${window.LESSONS[0].id}`) === area().value);
+  area().value = 'Ik eet kaas. Het is lekker. Ik koop kaas. Ik heb geen brood. Dus eet ik kaas.'; area().listeners.input();
+  const storyRow = () => byId['progress-rows'].children[0].textContent;
+  const storyRowBefore = storyRow();
+  t('story: enough sentences unlock the button', sendBtn().disabled === false);
+  await sendBtn().onclick(); await flush();
+  t('story: the text is saved as a file with the topic on top', saved.length === 1 && saved[0].text.startsWith(storySample.topic_ua) && saved[0].text.includes('Dus eet ik kaas.'));
+  t('story: the sending is logged with its file and the number of sentences', window.progressLog.events.some((e) => e.type === 'story_submitted' && e.lesson === window.LESSONS[0].id && e.file === saved[0].name && e.sentences === 5));
+  t('story: writing does not change the lesson percentage', storyRow() === storyRowBefore);
+  t('story: the draft is cleared after sending', !storage.get(`storyDraft:${window.LESSONS[0].id}`));
+  byId['next'].onclick(); byId['prev'].onclick(); await flush();
+  t('story: reopening shows that it was sent', storyBox().textContent.includes('Надіслано') && storyBox().textContent.includes(saved[0].name));
+  storyServed = () => null;
+  byId['next'].onclick(); await flush();
+  t('story: no file for a lesson means no block at all', storyBox().children.length === 0);
+  storyServed = () => ({ data: { lesson: 'nl-les-99', topic_ua: 'x', min_sentences: 5 } });
+  byId['prev'].onclick(); await flush();
+  t('story: a broken file is reported, not rendered', storyBox().textContent.includes('має помилки') && !area());
+  storyServed = () => ({ error: 'the file is not valid JSON' });
+  byId['next'].onclick(); await flush();
+  t('story: an unreadable file is reported', storyBox().textContent.includes('не вдалося прочитати'));
   window.progressLog.store = null;
 
   console.log(bad ? `FAILURES: ${bad}` : 'SMOKE TEST PASSED');

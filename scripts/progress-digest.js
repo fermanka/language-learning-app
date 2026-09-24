@@ -116,6 +116,8 @@ function buildDigest(events, lessons, bad = 0) {
 
   const recs = events.filter((e) => e.type === 'recording_saved');
   out.push('', '## Reading recordings', '', recs.length ? recs.map((r) => `- ${r.t.slice(0, 10)} Les ${byId.get(r.lesson)?.order ?? '?'}: ${r.file}`).join('\n') : 'None saved.');
+  const stories = events.filter((e) => e.type === 'story_submitted');
+  out.push('', '## Written stories (free writing; read the files in written/ next to progress/)', '', stories.length ? stories.map((r) => `- ${r.t.slice(0, 10)} Les ${byId.get(r.lesson)?.order ?? '?'}: written/${r.file} (${r.sentences} sentences)`).join('\n') : 'None sent.');
   return out.join('\n') + '\n';
 }
 
