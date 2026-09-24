@@ -324,10 +324,7 @@ if (typeof document === 'undefined') {
       b.onclick = () => { renderLesson(i); show('today'); };
       td.append(b);
       // The practice is the exercises plus reading aloud (the recording sent to the teacher). 100% needs all of it.
-      const checked = L.practice.map((_, k) => state.exercises[`${L.id}#${k}`]).filter(Boolean);
-      const readDone = !!state.readings[L.id], parts = L.practice.length + 1;
-      const score = checked.reduce((sum, x) => sum + x.last.ok / (x.last.total || 1), 0) + (readDone ? 1 : 0);
-      const pct = Math.round((100 * score) / parts), count = checked.length + (readDone ? 1 : 0);
+      const { pct, count, parts, readDone } = PS.lessonProgress(L, state);
       tr.append(el('td', null, `Les ${L.order}`), el('td', null, isDone(i) ? 'пройдено' : i === current ? 'поточний' : 'чекає'),
         el('td', 'meta', count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone ? '' : ' · немає запису читання'}` : '-'), td);
       rows.append(tr);

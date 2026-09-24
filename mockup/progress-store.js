@@ -130,6 +130,16 @@
     return { lessons, exercises, readings };
   }
 
+  // How far a lesson is: its exercises (each counts by the share of right answers in the latest attempt) plus reading aloud
+  // (the recording sent to the teacher). 100% needs all of it. The page and the "extra practice needed" check both use this,
+  // so they can never disagree about what 100% means. Extra-practice exercises are not part of it.
+  function lessonProgress(lesson, state) {
+    const checked = lesson.practice.map((_, k) => state.exercises[`${lesson.id}#${k}`]).filter(Boolean);
+    const readDone = !!state.readings[lesson.id], parts = lesson.practice.length + 1;
+    const score = checked.reduce((sum, x) => sum + x.last.ok / (x.last.total || 1), 0) + (readDone ? 1 : 0);
+    return { pct: Math.round((100 * score) / parts), count: checked.length + (readDone ? 1 : 0), parts, readDone };
+  }
+
   // Keeps events in memory, queues them until a folder is connected, and never hides a failed write.
   class ProgressLog {
     constructor(opts = {}) {
@@ -186,5 +196,5 @@
     },
   };
 
-  return { FolderStore, ProgressLog, fold, migrate, dayOf, handleStore, extraLocation };
+  return { FolderStore, ProgressLog, fold, migrate, dayOf, handleStore, extraLocation, lessonProgress };
 });

@@ -22,3 +22,9 @@ The teacher used to wait for the results of the learner's earlier lessons before
 - Extra practice exists only on the machine that holds the private folder. For phone review (Phase 2) it belongs to the open question of where private data lives.
 - Resetting a lesson also blanks the saved answers of its extra exercises on screen (the log keeps them), because the reset clears every exercise of that lesson.
 - The teacher's agent instructions do not yet describe this workflow; until they do, the format document `docs/extra-practice-format.md` is what she is pointed at.
+
+## Amendment 2026-09-24: when a set is written
+
+- **Trigger.** When lesson N reaches 100% (all its exercises at full marks in the latest attempt, plus the reading recording), the extra-practice set for lesson N+1 can be written from the learner's fresh results. Sets exist from Les 5 on, so the first trigger is Les 4 at 100%.
+- **`npm run extra:needed`** (`scripts/extra-needed.js`) lists the lessons waiting for a set. It uses the same `lessonProgress()` function as the page, so "100%" means one thing in both places.
+- **Semi-automatic on purpose.** The page is static and cannot start the teacher, and a scheduled job writing learner-facing content unseen was judged premature. The check runs at the start of the learner's assistant session; the assistant reports what is needed and asks before the teacher is asked to write.
