@@ -1,0 +1,1149 @@
+{
+  "id": "nl-les-19",
+  "lang": "nl",
+  "order": 19,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-1527d30d",
+      "type": "adjective",
+      "lemma": "nieuw",
+      "ua": "новий, нова, нове, нові",
+      "audio": "nieuw.mp3",
+      "explain_ua": "(форма без закінчення: Het huis is nieuw, een nieuw huis). Після zijn і перед het-словом з een чи без артикля. Схоже на англійське new: підказка для пам'яті. Пиши -ieuw: n-i-e-u-w, на слух приблизно «ніу»"
+    },
+    {
+      "id": "nl-12c4c2bc",
+      "type": "adjective",
+      "lemma": "nieuwe",
+      "ua": "новий",
+      "audio": "nieuwe.mp3",
+      "explain_ua": "(форма з -e: een nieuwe auto, het nieuwe huis, nieuwe stoelen). Просто nieuw + e. Пара до nieuw; правило в картці «Прикметник: -e чи ні»"
+    },
+    {
+      "id": "nl-67ef1e40",
+      "type": "adjective",
+      "lemma": "oud",
+      "ua": "старий, стара, старе, старі",
+      "audio": "oud.mp3",
+      "explain_ua": "(форма без закінчення: Het huis is oud, een oud huis). Кінцеве d читається [t]: [ɑut], як російське «хлеб» (Les 14): тут спирайся на російську, не на українську. Схоже на англійське old: підказка для пам'яті"
+    },
+    {
+      "id": "nl-3a6c4278",
+      "type": "adjective",
+      "lemma": "oude",
+      "ua": "старий",
+      "audio": "oude.mp3",
+      "explain_ua": "(форма з -e: een oude auto, mijn oude huis, oude stoelen). Тепер d стоїть між голосними й читається як [d]: ou-de. Пара до oud"
+    },
+    {
+      "id": "nl-00f83ce1",
+      "type": "adjective",
+      "lemma": "klein",
+      "ua": "маленький, маленька, маленьке, маленькі",
+      "audio": "klein.mp3",
+      "explain_ua": "(форма без закінчення: Mijn huis is klein, een klein huis). Протилежність до groot (Les 2). Ei це дифтонг [ɛi], як у het ei (Les 8)"
+    },
+    {
+      "id": "nl-f4a9ad65",
+      "type": "adjective",
+      "lemma": "kleine",
+      "ua": "маленький",
+      "audio": "kleine.mp3",
+      "explain_ua": "(форма з -e: een kleine kamer, het kleine kind, kleine kamers). Просто klein + e. Пара до klein"
+    },
+    {
+      "id": "nl-2863e431",
+      "type": "adjective",
+      "lemma": "mooi",
+      "ua": "гарний, гарна, гарне, гарні",
+      "audio": "mooi.mp3",
+      "explain_ua": "(форма без закінчення: De stad is mooi = місто гарне; een mooi park). Про вигляд: дім, місто, кімната. Oo довге [oː], як у boos (Les 1), далі i. Схожого слова в англійській немає: вчи як нове"
+    },
+    {
+      "id": "nl-7ee1e7c2",
+      "type": "adjective",
+      "lemma": "mooie",
+      "ua": "гарний",
+      "audio": "mooie.mp3",
+      "explain_ua": "(форма з -e: een mooie stad, het mooie park, mooie kamers). Просто mooi + e. Пара до mooi"
+    },
+    {
+      "id": "nl-274b38a8",
+      "type": "adjective",
+      "lemma": "leuk",
+      "ua": "класний, приємний, цікавий",
+      "audio": "leuk.mp3",
+      "explain_ua": "(форма без закінчення: Het café is leuk = кафе класне; Ik vind het leuk = мені подобається). Leuk про те, що приємно чи весело: café, school, dag. Про вигляд є mooi. Eu це [øː]: такого звука немає ні в українській, ні в англійській; скажи «е» з округленими губами, слухай аудіо"
+    },
+    {
+      "id": "nl-e86856ea",
+      "type": "adjective",
+      "lemma": "leuke",
+      "ua": "класний, приємний",
+      "audio": "leuke.mp3",
+      "explain_ua": "(форма з -e: een leuke school, het leuke café, leuke kinderen). Просто leuk + e. Пара до leuk"
+    },
+    {
+      "id": "nl-92c48ac0",
+      "type": "adjective",
+      "lemma": "jong",
+      "ua": "молодий, молода, молоде, молоді",
+      "audio": "jong.mp3",
+      "explain_ua": "(форма без закінчення: Het kind is jong, een jong kind). J це [j], як українське «й»: «йонг». Ng це один звук [ŋ], як у Engels (Les 18). Схоже на англійське young: підказка для пам'яті"
+    },
+    {
+      "id": "nl-cb32be87",
+      "type": "adjective",
+      "lemma": "jonge",
+      "ua": "молодий",
+      "audio": "jonge.mp3",
+      "explain_ua": "(форма з -e: een jonge moeder, de jonge kinderen). Просто jong + e. Ng лишається одним звуком: jon-ge. Пара до jong"
+    },
+    {
+      "id": "nl-d490bb37",
+      "type": "adjective",
+      "lemma": "lang",
+      "ua": "довгий; високий (про людину)",
+      "audio": "lang.mp3",
+      "explain_ua": "(De week is lang = тиждень довгий; Mijn vader is lang = мій тато високий). Одне слово для двох українських: «довгий» і «високий» про людину. Українське «високий» про людину тут не підходить: кажуть lang. Схоже на англійське long: підказка для пам'яті. Ng як у jong"
+    },
+    {
+      "id": "nl-e2345f5f",
+      "type": "adjective",
+      "lemma": "lange",
+      "ua": "довгий, високий",
+      "audio": "lange.mp3",
+      "explain_ua": "(форма з -e: een lange week, mijn lange zus, de lange man). Просто lang + e. Пара до lang"
+    },
+    {
+      "id": "nl-e58443c1",
+      "type": "adjective",
+      "lemma": "warm",
+      "ua": "теплий, тепла, тепле, теплі",
+      "audio": "warm.mp3",
+      "explain_ua": "(форма без закінчення: De koffie is warm, warm water). Схоже на англійське warm: підказка для пам'яті. Про температуру речі: кава, вода, кімната"
+    },
+    {
+      "id": "nl-5296ad52",
+      "type": "adjective",
+      "lemma": "warme",
+      "ua": "теплий",
+      "audio": "warme.mp3",
+      "explain_ua": "(форма з -e: warme koffie, een warme kamer, de warme melk). Warm water лишається без -e: water це het-слово без артикля. Пара до warm"
+    },
+    {
+      "id": "nl-e5ed1971",
+      "type": "adjective",
+      "lemma": "koud",
+      "ua": "холодний, холодна, холодне, холодні",
+      "audio": "koud.mp3",
+      "explain_ua": "(форма без закінчення: Het water is koud, koud bier). Кінцеве d читається [t], як у oud: тут спирайся на російську. Схоже на англійське cold: підказка для пам'яті"
+    },
+    {
+      "id": "nl-ca5a3c70",
+      "type": "adjective",
+      "lemma": "koude",
+      "ua": "холодний",
+      "audio": "koude.mp3",
+      "explain_ua": "(форма з -e: koude melk, een koude kamer, het koude water). Koud bier лишається без -e: bier це het-слово без артикля. Пара до koud"
+    },
+    {
+      "id": "nl-15a0ef1f",
+      "type": "function",
+      "lemma": "heel",
+      "ua": "дуже",
+      "audio": "heel.mp3",
+      "explain_ua": "(Het huis is heel mooi = дім дуже гарний). Стоїть перед прикметником, форма одна. Нейтральне «дуже»: heel mooi це добре. Ee довге [eː], як у thee (Les 12). Перед іменником -e у прикметника за звичайним правилом: een heel mooie stad. Не плутай з te"
+    },
+    {
+      "id": "nl-d3cc1695",
+      "type": "function",
+      "lemma": "te",
+      "ua": "занадто",
+      "audio": "te.mp3",
+      "explain_ua": "(Het huis is te duur = дім занадто дорогий). Стоїть перед прикметником і значить «занадто, більше ніж треба»: це майже завжди мінус. Te voet (Les 6) вчили як цілий вираз, це інше te. Голосна нечітка, майже «те»"
+    },
+    {
+      "id": "nl-53e9ddff",
+      "type": "verb",
+      "lemma": "vinden",
+      "ua": "вважати, знаходити (leuk vinden = подобатися)",
+      "audio": "vinden.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "vind",
+          "audio": "ik-vind.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "vindt",
+          "audio": "jij-vindt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "vindt",
+          "audio": "u-vindt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "vindt",
+          "audio": "hij-vindt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "vinden",
+          "audio": "wij-vinden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "vinden",
+          "audio": "jullie-vinden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "vinden",
+          "audio": "zij-vinden.mp3"
+        }
+      ],
+      "explain_ua": "(Ik vind het huis mooi = я вважаю дім гарним; Hoe vind je het huis? = як тобі дім?). Vinden значить «знаходити» і «вважати»: тут вчимо друге, думку. Основа vind, у jij/hij/u vindt. Після jij у питанні t зникає: Vind jij het mooi? Так само heet і komt (Les 18). Схоже на англійське find: v - f, як vader - father. Кінцеве d в ik vind читається [t], як у oud: спирайся на російську"
+    },
+    {
+      "id": "nl-1fdb1f18",
+      "type": "verb",
+      "lemma": "zien",
+      "ua": "бачити",
+      "audio": "zien.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "zie",
+          "audio": "ik-zie.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "ziet",
+          "audio": "jij-ziet.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "ziet",
+          "audio": "u-ziet.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "ziet",
+          "audio": "hij-ziet.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "zien",
+          "audio": "wij-zien.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "zien",
+          "audio": "jullie-zien.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "zien",
+          "audio": "zij-zien.mp3"
+        }
+      ],
+      "explain_ua": "(Ik zie het huis = я бачу дім; Ik zie de bus niet = я не бачу автобуса). Zien це «бачити»: річ потрапила в око. Дивитися навмисне це kijken naar (Les 9). Основа zie, у jij/hij/u ziet. Після jij у питанні t зникає: Zie jij de bus? Ie це довге [i], одна голосна. Схоже на англійське see: z - s, як zeven - seven (підказка для пам'яті)"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Ik vind het huis mooi: прикметник в кінці",
+      "summary_ua": "Vinden + що оцінюємо + прикметник в кінці: Ik vind het huis mooi. Прикметник тут стоїть без закінчення, відмінків немає. Українське «вважаю дім гарним» (орудний відмінок) нідерландською просто mooi.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "Vinden + іменник + прикметник",
+          "when_ua": "Порядок: підмет, vind(t), що оцінюємо, прикметник. Прикметник без -e і без змін.",
+          "examples": [
+            {
+              "nl": "Ik **vind** het huis mooi.",
+              "ua": "Я вважаю дім гарним.",
+              "audio": "les19-example-01.mp3"
+            },
+            {
+              "nl": "Zij **vindt** de school groot.",
+              "ua": "Вона вважає школу великою.",
+              "audio": "les19-rule-01.mp3"
+            },
+            {
+              "nl": "Wij **vinden** de koffie lekker.",
+              "ua": "Ми вважаємо каву смачною.",
+              "audio": "les19-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Не Ik vind het huis mooie: у кінці речення -e немає."
+        },
+        {
+          "form": "Hoe vind je ...?",
+          "when_ua": "Питання «як тобі ...?»: Hoe, потім vind, потім підмет, потім що оцінюємо. Після jij t зникає.",
+          "examples": [
+            {
+              "nl": "Hoe **vind** je het café?",
+              "ua": "Як тобі кафе?",
+              "audio": "les19-rule-03.mp3"
+            },
+            {
+              "nl": "Hoe **vindt** hij de stad?",
+              "ua": "Як йому місто?",
+              "audio": "les19-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Vind jij, а не vindt jij, як heet jij (Les 18)."
+        }
+      ],
+      "points_ua": [
+        "Ik vind, hij vindt, wij vinden. Після jij у питанні: vind jij.",
+        "Прикметник в кінці без -e: Ik vind het huis mooi."
+      ]
+    },
+    {
+      "title_ua": "Houden van, vinden, leuk vinden",
+      "summary_ua": "Houden van це «любити» (людину, річ, їжу). Vinden це «вважати» (думка). Leuk vinden це «подобатися». Не плутай: Ik hou van mijn zus, але Ik vind het park leuk.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Houden van: любити",
+          "when_ua": "Сильніше почуття. Van завжди стоїть разом з houden (Les 9).",
+          "examples": [
+            {
+              "nl": "Ik **hou van** mijn zus.",
+              "ua": "Я люблю свою сестру.",
+              "audio": "les19-rule-05.mp3"
+            },
+            {
+              "nl": "Zij **houdt van** kaas.",
+              "ua": "Вона любить сир.",
+              "audio": "les19-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Houden van це і про людей, і про їжу."
+        },
+        {
+          "form": "Vinden: вважати",
+          "when_ua": "Vinden виражає думку про щось: яке воно.",
+          "examples": [
+            {
+              "nl": "Ik **vind** de appel zuur.",
+              "ua": "Я вважаю, що яблуко кисле.",
+              "audio": "les19-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Vinden сам по собі не значить «любити»."
+        },
+        {
+          "form": "Leuk vinden: подобатися",
+          "when_ua": "Vinden + leuk на кінці значить «мені подобається». Те, що подобається, стоїть між vinden і leuk.",
+          "examples": [
+            {
+              "nl": "Ik **vind** het park **leuk**.",
+              "ua": "Мені подобається парк.",
+              "audio": "les19-rule-08.mp3"
+            },
+            {
+              "nl": "Wij **vinden** Nederlands **leuk**.",
+              "ua": "Нам подобається нідерландська.",
+              "audio": "les19-rule-09.mp3"
+            },
+            {
+              "nl": "Zij **vindt** de winkel niet **leuk**.",
+              "ua": "Їй не подобається магазин.",
+              "audio": "les19-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Ik vind het leuk це слабше за Ik hou van. Українського «мені» тут немає: підмет ik."
+        }
+      ],
+      "points_ua": [
+        "Любити (людину, їжу): houden van.",
+        "Подобається: leuk vinden. Думка: vinden + прикметник."
+      ]
+    },
+    {
+      "title_ua": "Heel і te: «дуже» і «занадто»",
+      "summary_ua": "Heel і te стоять перед прикметником. Heel значить «дуже» (це добре чи нейтрально). Te значить «занадто» (це вже забагато).",
+      "see": "Les 16",
+      "compare": [
+        {
+          "form": "heel + прикметник: дуже",
+          "when_ua": "Heel підсилює прикметник. Форма прикметника не змінюється.",
+          "examples": [
+            {
+              "nl": "Het huis is **heel** mooi.",
+              "ua": "Дім дуже гарний.",
+              "audio": "les19-rule-11.mp3"
+            },
+            {
+              "nl": "De kamer is **heel** klein.",
+              "ua": "Кімната дуже маленька.",
+              "audio": "les19-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Heel це не «увесь»: перед прикметником воно значить «дуже»."
+        },
+        {
+          "form": "te + прикметник: занадто",
+          "when_ua": "Te показує, що більше, ніж треба. Найчастіше це скарга.",
+          "examples": [
+            {
+              "nl": "De koffie is **te** warm.",
+              "ua": "Кава занадто гаряча.",
+              "audio": "les19-rule-13.mp3"
+            },
+            {
+              "nl": "Het huis is **te** duur.",
+              "ua": "Дім занадто дорогий.",
+              "audio": "les19-rule-14.mp3"
+            },
+            {
+              "nl": "Het is **te** laat.",
+              "ua": "Вже занадто пізно.",
+              "audio": "les19-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Te не значить «дуже»: het huis is te duur = дім дорожчий, ніж я можу."
+        }
+      ],
+      "points_ua": [
+        "Heel мало «дуже»: heel mooi. Te мало «занадто»: te duur.",
+        "Після heel і te прикметник іде за тим самим правилом -e, що й без них."
+      ]
+    },
+    {
+      "title_ua": "Прикметник: -e чи ні (повторення)",
+      "summary_ua": "Те саме правило, що в Les 11, з новими словами. Після zijn -e немає. Перед іменником -e є, крім het-слова в однині з een, geen або без артикля: een klein huis, але het kleine huis.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "Після zijn: без -e",
+          "when_ua": "Прикметник після is чи zijn завжди без -e.",
+          "examples": [
+            {
+              "nl": "Het huis is **nieuw**.",
+              "ua": "Дім новий.",
+              "audio": "les19-rule-16.mp3"
+            },
+            {
+              "nl": "De kamers zijn **klein**.",
+              "ua": "Кімнати маленькі.",
+              "audio": "les19-rule-17.mp3"
+            },
+            {
+              "nl": "De kinderen zijn **jong**.",
+              "ua": "Діти молоді.",
+              "audio": "les19-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Українською змінюється (новий, нова, нове), нідерландською форма одна."
+        },
+        {
+          "form": "Перед de-словом і множиною: -e",
+          "when_ua": "Перед de-словом (з een, de чи без артикля) і перед множиною -e є.",
+          "examples": [
+            {
+              "nl": "Wij hebben een **nieuwe** auto.",
+              "ua": "У нас є нова машина.",
+              "audio": "les19-rule-19.mp3"
+            },
+            {
+              "nl": "Ik zie de **kleine** kamer.",
+              "ua": "Я бачу маленьку кімнату.",
+              "audio": "les19-rule-20.mp3"
+            },
+            {
+              "nl": "Zij koopt **oude** stoelen.",
+              "ua": "Вона купує старі стільці.",
+              "audio": "les19-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Auto і kamer це de-слова, stoelen це множина."
+        },
+        {
+          "form": "Het-слово з een або без артикля: без -e",
+          "when_ua": "Найважчий випадок: het-слово в однині, а перед прикметником een, geen або нічого.",
+          "examples": [
+            {
+              "nl": "Wij hebben een **klein** huis.",
+              "ua": "У нас є маленький дім.",
+              "audio": "les19-rule-22.mp3"
+            },
+            {
+              "nl": "Ik zie een **oud** café.",
+              "ua": "Я бачу старе кафе.",
+              "audio": "les19-rule-23.mp3"
+            },
+            {
+              "nl": "Hij heeft een **jong** kind.",
+              "ua": "У нього є мала дитина.",
+              "audio": "les19-rule-24.mp3"
+            },
+            {
+              "nl": "Ik drink **warm** water.",
+              "ua": "Я п'ю теплу воду.",
+              "audio": "les19-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Huis, café, kind, water це het-слова. Тому вчи іменник з артиклем."
+        },
+        {
+          "form": "Het-слово з het, mijn, dit: -e",
+          "when_ua": "Перед het, dit, dat чи mijn іменник означений, і -e знову є.",
+          "examples": [
+            {
+              "nl": "Ik zie het **kleine** huis.",
+              "ua": "Я бачу маленький дім.",
+              "audio": "les19-rule-26.mp3"
+            },
+            {
+              "nl": "Mijn **oude** huis is groot.",
+              "ua": "Мій старий дім великий.",
+              "audio": "les19-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: een klein huis, але het kleine huis."
+        }
+      ],
+      "points_ua": [
+        "Тест: після zijn? Без -e. Перед іменником: het-слово в однині з een, geen чи без артикля? Без -e. Інакше -e.",
+        "Een klein huis, het kleine huis. Een kleine kamer, de kleine kamer."
+      ]
+    },
+    {
+      "title_ua": "Lang: довгий і високий",
+      "summary_ua": "Lang значить і «довгий», і «високий» про людину. Українське «високий» про людину нідерландською не працює: кажуть lang.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Lang про час і речі",
+          "when_ua": "Тиждень, день, вулиця: lang значить «довгий».",
+          "examples": [
+            {
+              "nl": "De week is **lang**.",
+              "ua": "Тиждень довгий.",
+              "audio": "les19-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Після zijn без -e: is lang."
+        },
+        {
+          "form": "Lang про людину",
+          "when_ua": "Про зріст людини теж lang.",
+          "examples": [
+            {
+              "nl": "Mijn vader is **lang**.",
+              "ua": "Мій тато високий.",
+              "audio": "les19-example-10.mp3"
+            },
+            {
+              "nl": "Zij heeft een **lange** zus.",
+              "ua": "У неї є висока сестра.",
+              "audio": "les19-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Перед de-словом lange, з -e: een lange zus."
+        }
+      ],
+      "points_ua": [
+        "Довгий і високий (про людину): lang.",
+        "Перед de-словом lange, після zijn lang."
+      ]
+    },
+    {
+      "title_ua": "Zien і kijken naar",
+      "summary_ua": "Zien значить «бачити»: річ сама потрапила в око. Kijken naar значить «дивитися на»: ти дивишся навмисне. Naar завжди стоїть після kijken (Les 9).",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Zien: бачити",
+          "when_ua": "Без прийменника: zien + що.",
+          "examples": [
+            {
+              "nl": "Ik **zie** de bus.",
+              "ua": "Я бачу автобус.",
+              "audio": "les19-rule-30.mp3"
+            },
+            {
+              "nl": "**Zie** je het station?",
+              "ua": "Ти бачиш вокзал?",
+              "audio": "les19-rule-31.mp3"
+            },
+            {
+              "nl": "Hij **ziet** de kinderen niet.",
+              "ua": "Він не бачить дітей.",
+              "audio": "les19-rule-32.mp3"
+            }
+          ],
+          "note_ua": "Zie je, а не ziet je: після jij у питанні t зникає."
+        },
+        {
+          "form": "Kijken naar: дивитися на",
+          "when_ua": "Kijken завжди з naar: kijk naar + що.",
+          "examples": [
+            {
+              "nl": "Ik **kijk naar** de klok.",
+              "ua": "Я дивлюся на годинник.",
+              "audio": "les19-rule-33.mp3"
+            },
+            {
+              "nl": "Zij **kijken naar** de nieuwe auto.",
+              "ua": "Вони дивляться на нову машину.",
+              "audio": "les19-rule-34.mp3"
+            }
+          ],
+          "note_ua": "Не Ik kijk de klok: без naar не буває."
+        }
+      ],
+      "points_ua": [
+        "Бачити: zien, без прийменника. Дивитися: kijken naar.",
+        "Ik zie, hij ziet, wij zien. Після jij: zie jij."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik vind het huis mooi.",
+      "ua": "Я вважаю дім гарним.",
+      "audio": "les19-example-01.mp3"
+    },
+    {
+      "nl": "Mijn huis is klein, maar mooi.",
+      "ua": "Мій дім маленький, але гарний.",
+      "audio": "les19-example-02.mp3"
+    },
+    {
+      "nl": "Wij hebben een nieuw huis.",
+      "ua": "У нас є новий дім.",
+      "audio": "les19-example-03.mp3"
+    },
+    {
+      "nl": "Het nieuwe huis is heel groot.",
+      "ua": "Новий дім дуже великий.",
+      "audio": "les19-example-04.mp3"
+    },
+    {
+      "nl": "Hij vindt de stad leuk.",
+      "ua": "Йому подобається місто.",
+      "audio": "les19-example-05.mp3"
+    },
+    {
+      "nl": "Deze kamer is te klein.",
+      "ua": "Ця кімната занадто мала.",
+      "audio": "les19-example-06.mp3"
+    },
+    {
+      "nl": "Ik zie een oude auto.",
+      "ua": "Я бачу стару машину.",
+      "audio": "les19-example-07.mp3"
+    },
+    {
+      "nl": "Zij kijkt naar het kleine kind.",
+      "ua": "Вона дивиться на маленьку дитину.",
+      "audio": "les19-example-08.mp3"
+    },
+    {
+      "nl": "Het kind is jong.",
+      "ua": "Дитина мала.",
+      "audio": "les19-example-09.mp3"
+    },
+    {
+      "nl": "Mijn vader is lang.",
+      "ua": "Мій тато високий.",
+      "audio": "les19-example-10.mp3"
+    },
+    {
+      "nl": "Ik drink warme koffie.",
+      "ua": "Я п'ю теплу каву.",
+      "audio": "les19-example-11.mp3"
+    },
+    {
+      "nl": "Het water is te koud.",
+      "ua": "Вода занадто холодна.",
+      "audio": "les19-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Een nieuw huis?",
+    "title_ua": "Новий дім?",
+    "highlight": [
+      "nl-1527d30d",
+      "nl-12c4c2bc",
+      "nl-67ef1e40",
+      "nl-3a6c4278",
+      "nl-00f83ce1",
+      "nl-2863e431",
+      "nl-274b38a8",
+      "nl-5296ad52",
+      "nl-15a0ef1f",
+      "nl-d3cc1695"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn huis is oud en klein.",
+        "ua": "Мій дім старий і маленький.",
+        "audio": "les19-reading-01.mp3"
+      },
+      {
+        "nl": "Ik vind het huis niet mooi.",
+        "ua": "Я вважаю, що дім негарний.",
+        "audio": "les19-reading-02.mp3"
+      },
+      {
+        "nl": "De keuken is te klein.",
+        "ua": "Кухня занадто мала.",
+        "audio": "les19-reading-03.mp3"
+      },
+      {
+        "nl": "Maar ik heb een warme kamer.",
+        "ua": "Але в мене є тепла кімната.",
+        "audio": "les19-reading-04.mp3"
+      },
+      {
+        "nl": "Ik zie een nieuw huis in de stad.",
+        "ua": "Я бачу новий дім у місті.",
+        "audio": "les19-reading-05.mp3"
+      },
+      {
+        "nl": "Het nieuwe huis is heel mooi.",
+        "ua": "Новий дім дуже гарний.",
+        "audio": "les19-reading-06.mp3"
+      },
+      {
+        "nl": "De kamers zijn groot en de keuken is leuk.",
+        "ua": "Кімнати великі, а кухня класна.",
+        "audio": "les19-reading-07.mp3"
+      },
+      {
+        "nl": "Maar dit huis is te duur.",
+        "ua": "Але цей дім занадто дорогий.",
+        "audio": "les19-reading-08.mp3"
+      },
+      {
+        "nl": "Ik kijk naar mijn oude huis.",
+        "ua": "Я дивлюся на свій старий дім.",
+        "audio": "les19-reading-09.mp3"
+      },
+      {
+        "nl": "Ik hou van mijn oude huis.",
+        "ua": "Я люблю свій старий дім.",
+        "audio": "les19-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій дім новий.",
+          "accepted": [
+            "Mijn huis is nieuw."
+          ]
+        },
+        {
+          "prompt": "Я вважаю кухню маленькою.",
+          "accepted": [
+            "Ik vind de keuken klein."
+          ]
+        },
+        {
+          "prompt": "Вона любить свою сестру.",
+          "accepted": [
+            "Zij houdt van haar zus.",
+            "Ze houdt van haar zus."
+          ]
+        },
+        {
+          "prompt": "Ця кава занадто холодна.",
+          "accepted": [
+            "Deze koffie is te koud."
+          ]
+        },
+        {
+          "prompt": "Ми бачимо нове кафе.",
+          "accepted": [
+            "Wij zien het nieuwe café.",
+            "Wij zien het nieuwe cafe.",
+            "We zien het nieuwe café.",
+            "We zien het nieuwe cafe."
+          ]
+        },
+        {
+          "prompt": "Мені подобається школа.",
+          "accepted": [
+            "Ik vind de school leuk."
+          ]
+        },
+        {
+          "prompt": "Мій брат високий.",
+          "accepted": [
+            "Mijn broer is lang."
+          ]
+        },
+        {
+          "prompt": "У мого тата є стара машина.",
+          "accepted": [
+            "Mijn vader heeft een oude auto."
+          ]
+        },
+        {
+          "prompt": "Ти бачиш той потяг?",
+          "accepted": [
+            "Zie jij die trein?",
+            "Zie je die trein?"
+          ]
+        },
+        {
+          "prompt": "Вона дуже молода.",
+          "accepted": [
+            "Zij is heel jong.",
+            "Ze is heel jong."
+          ]
+        },
+        {
+          "prompt": "Я п'ю холодне пиво.",
+          "accepted": [
+            "Ik drink koud bier."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: з -e чи без -e",
+      "bank": [
+        "nieuw",
+        "nieuwe",
+        "oud",
+        "oude",
+        "klein",
+        "kleine",
+        "mooi",
+        "mooie",
+        "leuk",
+        "leuke",
+        "heel",
+        "te"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Het huis is ___.",
+          "hint": "Дім новий (після is -e немає)",
+          "accepted": [
+            [
+              "nieuw"
+            ]
+          ]
+        },
+        {
+          "text": "Ik zie een ___ kamer.",
+          "hint": "маленька кімната (de kamer)",
+          "accepted": [
+            [
+              "kleine"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben een ___ huis.",
+          "hint": "старий дім (het huis після een)",
+          "accepted": [
+            [
+              "oud"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ auto is groot.",
+          "hint": "моя стара машина (de auto)",
+          "accepted": [
+            [
+              "oude"
+            ]
+          ]
+        },
+        {
+          "text": "De stad is ___.",
+          "hint": "Місто гарне (після is)",
+          "accepted": [
+            [
+              "mooi"
+            ]
+          ]
+        },
+        {
+          "text": "Zij woont in een ___ stad.",
+          "hint": "у гарному місті (de stad)",
+          "accepted": [
+            [
+              "mooie"
+            ]
+          ]
+        },
+        {
+          "text": "Het café is ___.",
+          "hint": "Кафе класне (після is)",
+          "accepted": [
+            [
+              "leuk"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ken een ___ school.",
+          "hint": "класна школа (de school)",
+          "accepted": [
+            [
+              "leuke"
+            ]
+          ]
+        },
+        {
+          "text": "De kamer is ___ klein.",
+          "hint": "Кімната занадто мала",
+          "accepted": [
+            [
+              "te"
+            ]
+          ]
+        },
+        {
+          "text": "Het huis is ___ mooi.",
+          "hint": "Дім дуже гарний",
+          "accepted": [
+            [
+              "heel"
+            ]
+          ]
+        },
+        {
+          "text": "Ik zie het ___ station.",
+          "hint": "новий вокзал (het station після het)",
+          "accepted": [
+            [
+              "nieuwe"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn kamer is ___, maar leuk.",
+          "hint": "Моя кімната маленька, але класна",
+          "accepted": [
+            [
+              "klein"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: з «X is ...» на «Het is een ... X» і назад, або почни з Ik vind",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Het huis is oud.",
+          "cue": "-> Het is een ... huis",
+          "accepted": [
+            "Het is een oud huis."
+          ]
+        },
+        {
+          "prompt": "De auto is nieuw.",
+          "cue": "-> Het is een ... auto",
+          "accepted": [
+            "Het is een nieuwe auto."
+          ]
+        },
+        {
+          "prompt": "Het café is leuk.",
+          "cue": "-> Het is een ... café",
+          "accepted": [
+            "Het is een leuk café.",
+            "Het is een leuk cafe."
+          ]
+        },
+        {
+          "prompt": "De stad is mooi.",
+          "cue": "-> Het is een ... stad",
+          "accepted": [
+            "Het is een mooie stad."
+          ]
+        },
+        {
+          "prompt": "Het is een klein kind.",
+          "cue": "-> Het kind is ...",
+          "accepted": [
+            "Het kind is klein."
+          ]
+        },
+        {
+          "prompt": "Het is een warme kamer.",
+          "cue": "-> De kamer is ...",
+          "accepted": [
+            "De kamer is warm."
+          ]
+        },
+        {
+          "prompt": "Het is een jonge moeder.",
+          "cue": "-> De moeder is ...",
+          "accepted": [
+            "De moeder is jong."
+          ]
+        },
+        {
+          "prompt": "Het huis is mooi.",
+          "cue": "-> починай з Ik vind",
+          "accepted": [
+            "Ik vind het huis mooi."
+          ]
+        },
+        {
+          "prompt": "De keuken is te klein.",
+          "cue": "-> починай з Ik vind",
+          "accepted": [
+            "Ik vind de keuken te klein."
+          ]
+        },
+        {
+          "prompt": "Ik vind het park leuk.",
+          "cue": "-> починай з Hij",
+          "accepted": [
+            "Hij vindt het park leuk."
+          ]
+        },
+        {
+          "prompt": "Ik zie een oud huis.",
+          "cue": "-> Ik zie het ... huis",
+          "accepted": [
+            "Ik zie het oude huis."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ het huis mooi.",
+          "cue": "vinden",
+          "accepted": [
+            "vind"
+          ]
+        },
+        {
+          "text": "Hij ___ de kamer te klein.",
+          "cue": "vinden",
+          "accepted": [
+            "vindt"
+          ]
+        },
+        {
+          "text": "___ jij het park leuk?",
+          "cue": "vinden",
+          "accepted": [
+            "Vind",
+            "vind"
+          ]
+        },
+        {
+          "text": "Wij ___ de winkel te duur.",
+          "cue": "vinden",
+          "accepted": [
+            "vinden"
+          ]
+        },
+        {
+          "text": "De kinderen ___ het café leuk.",
+          "cue": "vinden",
+          "accepted": [
+            "vinden"
+          ]
+        },
+        {
+          "text": "Hoe ___ jij de stad?",
+          "cue": "vinden",
+          "accepted": [
+            "vind"
+          ]
+        },
+        {
+          "text": "Ik ___ de trein.",
+          "cue": "zien",
+          "accepted": [
+            "zie"
+          ]
+        },
+        {
+          "text": "___ jij de bus?",
+          "cue": "zien",
+          "accepted": [
+            "Zie",
+            "zie"
+          ]
+        },
+        {
+          "text": "Hij ___ het station niet.",
+          "cue": "zien",
+          "accepted": [
+            "ziet"
+          ]
+        },
+        {
+          "text": "Mijn moeder ___ de kinderen.",
+          "cue": "zien",
+          "accepted": [
+            "ziet"
+          ]
+        },
+        {
+          "text": "Hij ___ naar het kleine kind.",
+          "cue": "kijken",
+          "accepted": [
+            "kijkt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
