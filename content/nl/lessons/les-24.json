@@ -1,0 +1,1107 @@
+{
+  "id": "nl-les-24",
+  "lang": "nl",
+  "order": 24,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-4f1e5a36",
+      "type": "function",
+      "lemma": "er",
+      "ua": "є (існує); не «там»: «там» це daar",
+      "audio": "er.mp3",
+      "explain_ua": "(Er is een park in de stad = у місті є парк). Тут er не значить «там». Це слово без власного значення: воно відкриває речення про те, що щось є, як українське «є». «Там» це daar (Les 10), «тут» це hier (Les 3). Er говорять тихо, без наголосу. Е коротке [ɛ], як у weg (Les 22), і r. Сьогодні вчимо лише це значення: «є, існує». Пізніше er матиме ще інші ролі, але не тепер"
+    },
+    {
+      "id": "nl-6a19f562",
+      "type": "noun",
+      "article": "het",
+      "lemma": "museum",
+      "plural": [
+        "musea",
+        "museums"
+      ],
+      "ua": "музей",
+      "audio": "het-museum.mp3",
+      "explain_ua": "(Er is een museum naast het station = поруч із вокзалом є музей). Het-слово. Множина двох видів, обидва правильні за словником: musea і museums. Вчи одну, musea, а museums впізнавай. U тут [y], як у het uur (Les 5): губи для «у», язик для «і». Наголос на другому складі: mu-ZE-um. Схоже на українське «музей»: підказка для пам'яті, не етимологія"
+    },
+    {
+      "id": "nl-f78add29",
+      "type": "noun",
+      "article": "het",
+      "lemma": "ziekenhuis",
+      "plural": [
+        "ziekenhuizen"
+      ],
+      "ua": "лікарня",
+      "audio": "het-ziekenhuis.mp3",
+      "explain_ua": "(Het ziekenhuis is groot = лікарня велика). Слово з частин: ziek (хворий) + en + huis (дім, Les 1): «дім для хворих». Het-слово, бо het huis. Множина ziekenhuizen: як huis і huizen, s стає z між голосними. Ui це дифтонг [œy], як у huis. Ie у ziek довге [i], як у ziet (Les 19)"
+    },
+    {
+      "id": "nl-18b45401",
+      "type": "noun",
+      "article": "de",
+      "lemma": "bibliotheek",
+      "plural": [
+        "bibliotheken"
+      ],
+      "ua": "бібліотека",
+      "audio": "de-bibliotheek.mp3",
+      "explain_ua": "(De bibliotheek is naast het plein = бібліотека поруч із площею). De-слово. Множина bibliotheken. Th тут це просто [t], не англійське th: як у thee (Les 12). Наголос на останньому складі: biblio-THEEK, ee довге [eː]. Нагадує «бібліотека»: підказка для пам'яті. Довге слово, вчи його по частинах: bi-bli-o-theek",
+      "dictation": false
+    },
+    {
+      "id": "nl-314e3830",
+      "type": "noun",
+      "article": "de",
+      "lemma": "markt",
+      "plural": [
+        "markten"
+      ],
+      "ua": "ринок (де торгують)",
+      "audio": "de-markt.mp3",
+      "explain_ua": "(Er is een markt op het plein = на площі є ринок). De-слово. Множина markten. Не плутай з de supermarkt (Les 17): supermarkt це магазин, markt це ринок під відкритим небом. A коротке [ɑ], кінець -rkt вимовляй чітко, всі три приголосні"
+    },
+    {
+      "id": "nl-87c030db",
+      "type": "noun",
+      "article": "het",
+      "lemma": "plein",
+      "plural": [
+        "pleinen"
+      ],
+      "ua": "площа (у місті)",
+      "audio": "het-plein.mp3",
+      "explain_ua": "(Het plein is groot = площа велика). Het-слово. Множина pleinen. Кажуть op het plein = на площі (з op, бо це відкрите місце), а не in het plein. Ei звучить як у het ei (Les 8) і як ij у mijn (Les 1): [ɛi]"
+    },
+    {
+      "id": "nl-5a2ff901",
+      "type": "noun",
+      "article": "de",
+      "lemma": "boom",
+      "plural": [
+        "bomen"
+      ],
+      "ua": "дерево",
+      "audio": "de-boom.mp3",
+      "explain_ua": "(Er is een boom in de tuin = у саду є дерево). De-слово. Множина bomen: одне o, бо склад bo-men відкритий, те саме правило, що maan і manen (Les 1). Oo довге [oː], як у boos (Les 1). Не плутай bomen (дерева) з boeken (книги, Les 1)"
+    },
+    {
+      "id": "nl-cd0d66d2",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tuin",
+      "plural": [
+        "tuinen"
+      ],
+      "ua": "сад (біля дому)",
+      "audio": "de-tuin.mp3",
+      "explain_ua": "(Er is een tuin achter het huis = за будинком є сад). De-слово. Множина tuinen. Tuin це сад чи садок біля дому; великий міський парк це het park (Les 17). Ui це дифтонг [œy], як у huis (Les 1)"
+    },
+    {
+      "id": "nl-9a164f5d",
+      "type": "noun",
+      "article": "het",
+      "lemma": "restaurant",
+      "plural": [
+        "restaurants"
+      ],
+      "ua": "ресторан",
+      "audio": "het-restaurant.mp3",
+      "explain_ua": "(Er is een restaurant op het plein = на площі є ресторан). Het-слово. Множина restaurants: додаємо -s, як cafés (Les 17) і appels (Les 8). Au тут звучить як «о», бо слово прийшло з французької; наголос на останньому складі: restau-RANT. Нагадує «ресторан»: підказка для пам'яті"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Er is een ..., er zijn ...: щось є",
+      "summary_ua": "Щоб сказати, що щось є, нідерландська починає з er: Er is een park. Er тут не «там», воно відкриває речення, як українське «є». Далі стоїть те, що є.",
+      "see": "Les 17",
+      "compare": [
+        {
+          "form": "Er is + een + однина",
+          "when_ua": "Одна нова річ: Er is, потім een і іменник в однині.",
+          "examples": [
+            {
+              "nl": "**Er is** een tuin achter het huis.",
+              "ua": "За будинком є сад.",
+              "audio": "les24-rule-01.mp3"
+            },
+            {
+              "nl": "**Er is** een school in de straat.",
+              "ua": "На вулиці є школа.",
+              "audio": "les24-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з українським «є»: у нідерландській це два слова, er is."
+        },
+        {
+          "form": "Er zijn + множина без артикля",
+          "when_ua": "Кілька речей: Er zijn і множина. Артикля немає. Так само після числа, veel і een paar.",
+          "examples": [
+            {
+              "nl": "**Er zijn** bomen in de tuin.",
+              "ua": "У саду є дерева.",
+              "audio": "les24-rule-03.mp3"
+            },
+            {
+              "nl": "**Er zijn** drie cafés in de straat.",
+              "ua": "На вулиці є три кафе.",
+              "audio": "les24-rule-04.mp3"
+            },
+            {
+              "nl": "**Er zijn** een paar restaurants op het plein.",
+              "ua": "На площі є кілька ресторанів.",
+              "audio": "les24-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Не Er zijn de bomen і не Er zijn drie de cafés: після числа й veel артикля немає (Les 20)."
+        },
+        {
+          "form": "Er is + речовина без артикля",
+          "when_ua": "Вода, кава, хліб (Les 7): Er is, потім іменник без een.",
+          "examples": [
+            {
+              "nl": "**Er is** water in de keuken.",
+              "ua": "У кухні є вода.",
+              "audio": "les24-rule-06.mp3"
+            },
+            {
+              "nl": "**Er is** brood op de tafel.",
+              "ua": "На столі є хліб.",
+              "audio": "les24-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Те саме правило, що Ik drink water (Les 7): для речовини een не потрібен."
+        }
+      ],
+      "points_ua": [
+        "Er is een ... для однієї речі, er zijn ... для кількох.",
+        "Після er zijn, числа, veel, een paar: без артикля. Речовина теж без артикля."
+      ]
+    },
+    {
+      "title_ua": "Дієслово погоджується з тим, що є",
+      "summary_ua": "Er не змінюється ніколи. Дієслово дивиться не на er, а на те, що є: одне тягне is, кілька тягнуть zijn.",
+      "see": "Les 1",
+      "compare": [
+        {
+          "form": "Одна річ: is",
+          "when_ua": "Те, що є, стоїть в однині: Er is.",
+          "examples": [
+            {
+              "nl": "**Er is** een restaurant op het plein.",
+              "ua": "На площі є ресторан.",
+              "audio": "les24-rule-08.mp3"
+            },
+            {
+              "nl": "**Er is** een kind in de tuin.",
+              "ua": "У саду є дитина.",
+              "audio": "les24-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Одна річ, тож is."
+        },
+        {
+          "form": "Кілька речей: zijn",
+          "when_ua": "Те, що є, стоїть у множині: Er zijn.",
+          "examples": [
+            {
+              "nl": "**Er zijn** twee restaurants op het plein.",
+              "ua": "На площі є два ресторани.",
+              "audio": "les24-rule-10.mp3"
+            },
+            {
+              "nl": "**Er zijn** kinderen in de tuin.",
+              "ua": "У саду є діти.",
+              "audio": "les24-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Не Er is twee restaurants і не Er zijn een restaurant. Дивись на те, що є, а не на er."
+        }
+      ],
+      "points_ua": [
+        "Er стоїть однаково, змінюється лише is чи zijn.",
+        "Одне: is. Кілька: zijn."
+      ]
+    },
+    {
+      "title_ua": "Er це не «там»: daar, hier і het",
+      "summary_ua": "Er у цьому значенні не вказує на місце. «Там» це daar (Les 10), «тут» це hier (Les 3): їх кажуть, показуючи на щось відоме. Погода це не er, а het (Les 23).",
+      "see": "Les 23",
+      "compare": [
+        {
+          "form": "Daar, hier: місце",
+          "when_ua": "Daar і hier показують місце, де стоїть відома річ.",
+          "examples": [
+            {
+              "nl": "**Daar** is het park.",
+              "ua": "Там парк.",
+              "audio": "les24-rule-12.mp3"
+            },
+            {
+              "nl": "**Hier** is de bibliotheek.",
+              "ua": "Тут бібліотека.",
+              "audio": "les24-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Daar is het park: я показую конкретний парк. Er is een park: я лише кажу, що парк у місті є."
+        },
+        {
+          "form": "Het: погода",
+          "when_ua": "У розмові про погоду підмет це het, не er (Les 23).",
+          "examples": [
+            {
+              "nl": "**Het** is koud in de stad.",
+              "ua": "У місті холодно.",
+              "audio": "les24-rule-14.mp3"
+            },
+            {
+              "nl": "**Het** regent in de tuin.",
+              "ua": "У саду йде дощ.",
+              "audio": "les24-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Не Er is koud і не Er regent. Er потрібне для речей, які є: park, museum, boom."
+        }
+      ],
+      "points_ua": [
+        "Er is een park: «є парк». Daar is het park: «там парк».",
+        "Погода: Het is koud, не Er is koud."
+      ]
+    },
+    {
+      "title_ua": "Питання й відповіді: Is er ...? Zijn er ...?",
+      "summary_ua": "Питання будуємо як у Les 3: дієслово першим, потім er, потім те, що є. У відповіді er лишається.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Is er ...? / Zijn er ...?",
+          "when_ua": "Дієслово, er, потім те, що є. Одне: Is er. Кілька: Zijn er.",
+          "examples": [
+            {
+              "nl": "**Is er** een supermarkt in de straat?",
+              "ua": "Чи є на вулиці супермаркет?",
+              "audio": "les24-rule-16.mp3"
+            },
+            {
+              "nl": "**Zijn er** bomen op het plein?",
+              "ua": "Чи є на площі дерева?",
+              "audio": "les24-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Порядок: дієслово, er, предмет. Не Er is een supermarkt?"
+        },
+        {
+          "form": "Ja, er is ... / Nee, er is geen ...",
+          "when_ua": "Відповідь повторює er: так само Er is ..., або Er is geen ...",
+          "examples": [
+            {
+              "nl": "Ja, **er is** een markt op het plein.",
+              "ua": "Так, на площі є ринок.",
+              "audio": "les24-rule-18.mp3"
+            },
+            {
+              "nl": "Nee, **er is geen** markt in de stad.",
+              "ua": "Ні, у місті немає ринку.",
+              "audio": "les24-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Ja і nee не міняють порядок слів після себе (Les 18)."
+        },
+        {
+          "form": "Wat is er ...?",
+          "when_ua": "Wat (Les 3), потім is, потім er: питання «що є».",
+          "examples": [
+            {
+              "nl": "**Wat is er** in de tuin?",
+              "ua": "Що є в саду?",
+              "audio": "les24-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Відповідь: Er is een boom. Тут лише питання про те, що є в місці."
+        }
+      ],
+      "points_ua": [
+        "Питання: Is er een ...? Zijn er ...?",
+        "Відповідь: Ja, er is ... / Nee, er is geen ..."
+      ]
+    },
+    {
+      "title_ua": "Заперечення: лише geen",
+      "summary_ua": "Коли чогось немає, кажемо er is geen ... чи er zijn geen ... Це те саме geen, що в Les 2: воно стоїть замість een і перед іменником. Не niet.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Er is geen + однина",
+          "when_ua": "Нічого немає: geen замість een.",
+          "examples": [
+            {
+              "nl": "**Er is geen** bibliotheek op het plein.",
+              "ua": "На площі немає бібліотеки.",
+              "audio": "les24-rule-21.mp3"
+            },
+            {
+              "nl": "**Er is geen** tuin achter het huis.",
+              "ua": "За будинком немає саду.",
+              "audio": "les24-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Порівняй українське «немає»: у нідерландській це er is geen."
+        },
+        {
+          "form": "Er zijn geen + множина, geen + речовина",
+          "when_ua": "Множина й речовина: geen без артикля.",
+          "examples": [
+            {
+              "nl": "**Er zijn geen** bomen in de straat.",
+              "ua": "На вулиці немає дерев.",
+              "audio": "les24-rule-23.mp3"
+            },
+            {
+              "nl": "**Er is geen** melk in de keuken.",
+              "ua": "У кухні немає молока.",
+              "audio": "les24-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Не Er is niet een park і не Er zijn niet bomen. Тут завжди geen."
+        }
+      ],
+      "points_ua": [
+        "Що є, того немає: er is geen ..., er zijn geen ...",
+        "Не niet, а geen."
+      ]
+    },
+    {
+      "title_ua": "Місце першим: In de stad is er een park",
+      "summary_ua": "Це та сама інверсія, що в Les 17: місце попереду, дієслово рівно на другому місці. Er іде одразу після дієслова, потім те, що є.",
+      "see": "Les 17",
+      "compare": [
+        {
+          "form": "Er першим",
+          "when_ua": "Звичайний порядок: Er, дієслово, те, що є, потім місце.",
+          "examples": [
+            {
+              "nl": "**Er is** een café naast de bibliotheek.",
+              "ua": "Поруч із бібліотекою є кафе.",
+              "audio": "les24-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Місце в кінці."
+        },
+        {
+          "form": "Місце першим: дієслово, er, предмет",
+          "when_ua": "Місце стоїть попереду, за ним дієслово, потім er.",
+          "examples": [
+            {
+              "nl": "Achter het huis **is er** een tuin.",
+              "ua": "За будинком є сад.",
+              "audio": "les24-rule-26.mp3"
+            },
+            {
+              "nl": "Naast het station **zijn er** twee restaurants.",
+              "ua": "Поруч із вокзалом є два ресторани.",
+              "audio": "les24-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Дієслово завжди друге (Les 4). Не Achter het huis er is een tuin."
+        },
+        {
+          "form": "Ти також почуєш: без er",
+          "when_ua": "Після місця er часто зникає. Так кажуть нідерландці. Ми це лише розпізнаємо, самі кажемо з er.",
+          "examples": [
+            {
+              "nl": "In de stad **is** een park.",
+              "ua": "У місті є парк.",
+              "audio": "les24-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Тільки для розпізнавання: вправ на це немає. Вчи In de stad is er een park."
+        }
+      ],
+      "points_ua": [
+        "Місце першим: дієслово, потім er, потім предмет.",
+        "Без er після місця ти почуєш, але сам кажи з er."
+      ]
+    },
+    {
+      "title_ua": "Коли er не потрібне: річ відома",
+      "summary_ua": "Er вводить нову річ: een, geen, множину, речовину. Коли річ уже відома (de, het, mijn), er не потрібне: порядок звичайний.",
+      "see": "Les 17",
+      "compare": [
+        {
+          "form": "Нова річ: er",
+          "when_ua": "Уперше згадуєш: Er is een ...",
+          "examples": [
+            {
+              "nl": "**Er is** een school naast het park.",
+              "ua": "Поруч із парком є школа.",
+              "audio": "les24-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Тут школа нова для слухача."
+        },
+        {
+          "form": "Відома річ: без er",
+          "when_ua": "Вдруге, чи коли слухач знає, про що мова: de чи het, підмет, is, місце.",
+          "examples": [
+            {
+              "nl": "De school **is** naast het park.",
+              "ua": "Школа поруч із парком.",
+              "audio": "les24-rule-30.mp3"
+            },
+            {
+              "nl": "Mijn huis **is** achter de bibliotheek.",
+              "ua": "Мій будинок за бібліотекою.",
+              "audio": "les24-rule-31.mp3"
+            },
+            {
+              "nl": "Waar is de markt?",
+              "ua": "Де ринок?",
+              "audio": "les24-rule-32.mp3"
+            },
+            {
+              "nl": "De markt **is** op het plein.",
+              "ua": "Ринок на площі.",
+              "audio": "les24-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Пара: Er is een school naast het park (нова) стає De school is naast het park (відома). Не Er is de school."
+        }
+      ],
+      "points_ua": [
+        "Перша згадка: Er is een ... Друга: De ... is ...",
+        "Після de, het, mijn: без er."
+      ]
+    },
+    {
+      "title_ua": "Heeft теж працює: De stad heeft een park",
+      "summary_ua": "Те саме можна сказати з heeft (Les 2): місто «має» парк. Обидва способи правильні. Heeft працює, коли місце стає підметом.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "De stad heeft ... = Er is ... in de stad",
+          "when_ua": "Місце як підмет: heeft. Місце в кінці: er is.",
+          "examples": [
+            {
+              "nl": "De stad **heeft** een museum.",
+              "ua": "У місті є музей.",
+              "audio": "les24-rule-34.mp3"
+            },
+            {
+              "nl": "**Er is** een museum in de stad.",
+              "ua": "У місті є музей.",
+              "audio": "les24-rule-35.mp3"
+            },
+            {
+              "nl": "De tuin **heeft** vier bomen.",
+              "ua": "У саду є чотири дерева.",
+              "audio": "les24-rule-36.mp3"
+            },
+            {
+              "nl": "Het plein **heeft** een markt.",
+              "ua": "На площі є ринок.",
+              "audio": "les24-rule-37.mp3"
+            }
+          ],
+          "note_ua": "Значення однакове. Дієслово погоджується з підметом: de stad heeft, de steden hebben."
+        }
+      ],
+      "points_ua": [
+        "De stad heeft een park = Er is een park in de stad.",
+        "Er is для будь-якого місця, heeft коли місце це підмет."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Er is een park in de stad.",
+      "ua": "У місті є парк.",
+      "audio": "les24-example-01.mp3"
+    },
+    {
+      "nl": "Er zijn twee scholen in de stad.",
+      "ua": "У місті є дві школи.",
+      "audio": "les24-example-02.mp3"
+    },
+    {
+      "nl": "Er is een museum naast het station.",
+      "ua": "Поруч із вокзалом є музей.",
+      "audio": "les24-example-03.mp3"
+    },
+    {
+      "nl": "Is er een bibliotheek in de stad?",
+      "ua": "Чи є в місті бібліотека?",
+      "audio": "les24-example-04.mp3"
+    },
+    {
+      "nl": "Ja, er is een bibliotheek naast het plein.",
+      "ua": "Так, поруч із площею є бібліотека.",
+      "audio": "les24-example-05.mp3"
+    },
+    {
+      "nl": "Nee, er is geen ziekenhuis in de stad.",
+      "ua": "Ні, у місті немає лікарні.",
+      "audio": "les24-example-06.mp3"
+    },
+    {
+      "nl": "Zijn er restaurants in de stad?",
+      "ua": "Чи є в місті ресторани?",
+      "audio": "les24-example-07.mp3"
+    },
+    {
+      "nl": "Er zijn veel bomen in de tuin.",
+      "ua": "У саду багато дерев.",
+      "audio": "les24-example-08.mp3"
+    },
+    {
+      "nl": "Op het plein is er een markt.",
+      "ua": "На площі є ринок.",
+      "audio": "les24-example-09.mp3"
+    },
+    {
+      "nl": "Er is koffie in de keuken.",
+      "ua": "У кухні є кава.",
+      "audio": "les24-example-10.mp3"
+    },
+    {
+      "nl": "De stad heeft een groot park.",
+      "ua": "У місті є великий парк.",
+      "audio": "les24-example-11.mp3"
+    },
+    {
+      "nl": "Wat is er in de stad?",
+      "ua": "Що є в місті?",
+      "audio": "les24-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn stad",
+    "title_ua": "Моє місто",
+    "highlight": [
+      "nl-4f1e5a36",
+      "nl-f78add29",
+      "nl-18b45401",
+      "nl-314e3830",
+      "nl-87c030db",
+      "nl-5a2ff901"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn stad is klein, maar mooi.",
+        "ua": "Моє місто маленьке, але гарне.",
+        "audio": "les24-reading-01.mp3"
+      },
+      {
+        "nl": "In mijn stad is er een park.",
+        "ua": "У моєму місті є парк.",
+        "audio": "les24-reading-02.mp3"
+      },
+      {
+        "nl": "Het park is heel groot.",
+        "ua": "Парк дуже великий.",
+        "audio": "les24-reading-03.mp3"
+      },
+      {
+        "nl": "Er zijn veel bomen in het park.",
+        "ua": "У парку багато дерев.",
+        "audio": "les24-reading-04.mp3"
+      },
+      {
+        "nl": "Naast het park is er een school.",
+        "ua": "Поруч із парком є школа.",
+        "audio": "les24-reading-05.mp3"
+      },
+      {
+        "nl": "Er is ook een bibliotheek op het plein.",
+        "ua": "Є також бібліотека на площі.",
+        "audio": "les24-reading-06.mp3"
+      },
+      {
+        "nl": "De bibliotheek is nieuw.",
+        "ua": "Бібліотека нова.",
+        "audio": "les24-reading-07.mp3"
+      },
+      {
+        "nl": "Er is geen ziekenhuis in mijn stad.",
+        "ua": "У моєму місті немає лікарні.",
+        "audio": "les24-reading-08.mp3"
+      },
+      {
+        "nl": "Mijn stad heeft ook een markt.",
+        "ua": "У моєму місті є також ринок.",
+        "audio": "les24-reading-09.mp3"
+      },
+      {
+        "nl": "Ik hou van de markt.",
+        "ua": "Я люблю ринок.",
+        "audio": "les24-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У кухні є стіл.",
+          "accepted": [
+            "Er is een tafel in de keuken.",
+            "In de keuken is er een tafel.",
+            "De keuken heeft een tafel."
+          ]
+        },
+        {
+          "prompt": "У саду є дерево.",
+          "accepted": [
+            "Er is een boom in de tuin.",
+            "In de tuin is er een boom.",
+            "De tuin heeft een boom."
+          ]
+        },
+        {
+          "prompt": "На вулиці є два кафе.",
+          "accepted": [
+            "Er zijn twee cafés in de straat.",
+            "In de straat zijn er twee cafés."
+          ]
+        },
+        {
+          "prompt": "У місті немає музею.",
+          "accepted": [
+            "Er is geen museum in de stad.",
+            "In de stad is er geen museum."
+          ]
+        },
+        {
+          "prompt": "Чи є в саду дерева?",
+          "accepted": [
+            "Zijn er bomen in de tuin?"
+          ]
+        },
+        {
+          "prompt": "Чи є на площі ресторан?",
+          "accepted": [
+            "Is er een restaurant op het plein?"
+          ]
+        },
+        {
+          "prompt": "Так, у місті є лікарня.",
+          "accepted": [
+            "Ja, er is een ziekenhuis in de stad.",
+            "Ja, in de stad is er een ziekenhuis."
+          ]
+        },
+        {
+          "prompt": "У кімнаті немає дверей.",
+          "accepted": [
+            "Er zijn geen deuren in de kamer.",
+            "In de kamer zijn er geen deuren."
+          ]
+        },
+        {
+          "prompt": "Поруч зі школою є парк.",
+          "accepted": [
+            "Naast de school is er een park.",
+            "Er is een park naast de school."
+          ]
+        },
+        {
+          "prompt": "Школа поруч із вокзалом. (мова про відому школу)",
+          "accepted": [
+            "De school is naast het station."
+          ]
+        },
+        {
+          "prompt": "У моєму місті є ринок.",
+          "accepted": [
+            "Mijn stad heeft een markt.",
+            "Er is een markt in mijn stad.",
+            "In mijn stad is er een markt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово",
+      "bank": [
+        "er",
+        "is",
+        "zijn",
+        "geen",
+        "het",
+        "niet",
+        "heeft"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ ___ een café naast het station.",
+          "hint": "Поруч із вокзалом є кафе",
+          "accepted": [
+            [
+              "Er",
+              "er"
+            ],
+            [
+              "is"
+            ]
+          ]
+        },
+        {
+          "text": "___ zijn drie bomen op het plein.",
+          "hint": "На площі є три дерева",
+          "accepted": [
+            [
+              "Er",
+              "er"
+            ]
+          ]
+        },
+        {
+          "text": "Er ___ een markt op het plein.",
+          "hint": "На площі є ринок",
+          "accepted": [
+            [
+              "is"
+            ]
+          ]
+        },
+        {
+          "text": "Er ___ veel tuinen in de stad.",
+          "hint": "У місті багато садів",
+          "accepted": [
+            [
+              "zijn"
+            ]
+          ]
+        },
+        {
+          "text": "___ er een ziekenhuis in de stad?",
+          "hint": "Чи є в місті лікарня?",
+          "accepted": [
+            [
+              "Is",
+              "is"
+            ]
+          ]
+        },
+        {
+          "text": "___ er restaurants op het plein?",
+          "hint": "Чи є на площі ресторани?",
+          "accepted": [
+            [
+              "Zijn",
+              "zijn"
+            ]
+          ]
+        },
+        {
+          "text": "Er is ___ museum in de stad.",
+          "hint": "У місті немає музею",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Er zijn ___ bomen in de straat.",
+          "hint": "На вулиці немає дерев",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Er is ___ koffie in de keuken.",
+          "hint": "У кухні немає кави",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "De bibliotheek ___ op het plein.",
+          "hint": "Бібліотека (відома) на площі",
+          "accepted": [
+            [
+              "is"
+            ]
+          ]
+        },
+        {
+          "text": "___ regent vandaag in de stad.",
+          "hint": "Сьогодні в місті йде дощ",
+          "accepted": [
+            [
+              "Het",
+              "het"
+            ]
+          ]
+        },
+        {
+          "text": "In de tuin ___ er een boom.",
+          "hint": "У саду є дерево",
+          "accepted": [
+            [
+              "is"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "De stad heeft een park.",
+          "cue": "-> er is (місце в кінці)",
+          "accepted": [
+            "Er is een park in de stad."
+          ]
+        },
+        {
+          "prompt": "De stad heeft een markt.",
+          "cue": "-> er is (місце в кінці)",
+          "accepted": [
+            "Er is een markt in de stad."
+          ]
+        },
+        {
+          "prompt": "De keuken heeft een raam.",
+          "cue": "-> er is (місце в кінці)",
+          "accepted": [
+            "Er is een raam in de keuken."
+          ]
+        },
+        {
+          "prompt": "Er is een school in de stad.",
+          "cue": "-> heeft",
+          "accepted": [
+            "De stad heeft een school."
+          ]
+        },
+        {
+          "prompt": "Er zijn bomen in het park.",
+          "cue": "-> heeft",
+          "accepted": [
+            "Het park heeft bomen."
+          ]
+        },
+        {
+          "prompt": "Er is een park.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is er een park?"
+          ]
+        },
+        {
+          "prompt": "Er zijn restaurants op het plein.",
+          "cue": "-> питання",
+          "accepted": [
+            "Zijn er restaurants op het plein?"
+          ]
+        },
+        {
+          "prompt": "Er is een park in de stad.",
+          "cue": "-> місце першим (з er)",
+          "accepted": [
+            "In de stad is er een park."
+          ]
+        },
+        {
+          "prompt": "Er zijn twee restaurants op het plein.",
+          "cue": "-> місце першим (з er)",
+          "accepted": [
+            "Op het plein zijn er twee restaurants."
+          ]
+        },
+        {
+          "prompt": "Er is een bibliotheek in de straat.",
+          "cue": "-> заперечення (geen)",
+          "accepted": [
+            "Er is geen bibliotheek in de straat."
+          ]
+        },
+        {
+          "prompt": "Er zijn bomen in de tuin.",
+          "cue": "-> заперечення (geen)",
+          "accepted": [
+            "Er zijn geen bomen in de tuin."
+          ]
+        },
+        {
+          "prompt": "Er is een school naast het park.",
+          "cue": "-> відома річ (de school)",
+          "accepted": [
+            "De school is naast het park."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Er ___ een café op het plein.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Er ___ twee cafés op het plein.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "___ er een supermarkt in de straat?",
+          "cue": "zijn",
+          "accepted": [
+            "Is",
+            "is"
+          ]
+        },
+        {
+          "text": "___ er bomen in de tuin?",
+          "cue": "zijn",
+          "accepted": [
+            "Zijn",
+            "zijn"
+          ]
+        },
+        {
+          "text": "De stad ___ een park.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Het park ___ veel bomen.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "In de stad ___ er een museum.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Op het plein ___ er drie restaurants.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "Er ___ geen kinderen in de tuin.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "Er ___ geen water in de keuken.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "De school ___ naast de bibliotheek.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "___ er koffie in de keuken?",
+          "cue": "zijn",
+          "accepted": [
+            "Is",
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "музей",
+          "answer": "het museum"
+        },
+        {
+          "prompt": "лікарня",
+          "answer": "het ziekenhuis"
+        },
+        {
+          "prompt": "бібліотека",
+          "answer": "de bibliotheek"
+        },
+        {
+          "prompt": "ринок (де торгують)",
+          "answer": "de markt"
+        },
+        {
+          "prompt": "площа (у місті)",
+          "answer": "het plein"
+        },
+        {
+          "prompt": "дерево",
+          "answer": "de boom"
+        },
+        {
+          "prompt": "сад (біля дому)",
+          "answer": "de tuin"
+        },
+        {
+          "prompt": "ресторан",
+          "answer": "het restaurant"
+        },
+        {
+          "prompt": "там (показую на місце)",
+          "answer": "daar"
+        },
+        {
+          "prompt": "є, існує (нова річ; не «там»)",
+          "answer": "er"
+        }
+      ],
+      "extra": [
+        "het park",
+        "de school"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}
