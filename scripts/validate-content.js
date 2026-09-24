@@ -98,7 +98,10 @@ for (const { file, data: lesson } of lessons) {
   }
 
   const unknown = new Map();
-  for (const [at, text] of sentences) for (const t of tokens(text)) if (!known.has(t)) (unknown.get(t) || unknown.set(t, []).get(t)).push(at);
+  // A word typed without its diaeresis (Oekraine for Oekraïne) is accepted as an answer, so it counts as known too.
+  const fold = (t) => t.normalize('NFD').replace(/[̀-ͯ]/g, '');
+  const knownFolded = new Set([...known].map(fold));
+  for (const [at, text] of sentences) for (const t of tokens(text)) if (!known.has(t) && !knownFolded.has(fold(t))) (unknown.get(t) || unknown.set(t, []).get(t)).push(at);
   console.log(`${file}: ${lesson.notes.length} notes, ${lesson.examples.length} examples, ${lesson.reading.sentences.length} reading sentences, ${lesson.practice.length} exercises${lesson.rule ? ', rule card' : ''}`);
   if (unknown.size) {
     console.log("WARNING words outside the vocabulary learned so far:");

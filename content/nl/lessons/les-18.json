@@ -1,0 +1,1105 @@
+{
+  "id": "nl-les-18",
+  "lang": "nl",
+  "order": 18,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-71db8229",
+      "type": "verb",
+      "lemma": "komen",
+      "ua": "приходити; komen uit = бути родом з",
+      "audio": "komen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kom",
+          "audio": "ik-kom.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "komt",
+          "audio": "jij-komt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "komt",
+          "audio": "u-komt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "komt",
+          "audio": "hij-komt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "komen",
+          "audio": "wij-komen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "komen",
+          "audio": "jullie-komen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "komen",
+          "audio": "zij-komen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik kom uit Nederland = я родом з Нідерландів). Komen значить «приходити», а komen uit + країна значить «бути родом з»: українського «бути» тут немає. Основа kom з короткою o, хоч в інфінітиві o довга: пиши kom, а не koom (правило Les 7 про подвоєння голосної тут не діє). Після jij у питанні t зникає: Waar kom jij vandaan? Це те саме дієслово, що в binnenkomen (Les 5)."
+    },
+    {
+      "id": "nl-06d248e7",
+      "type": "verb",
+      "lemma": "heten",
+      "ua": "називатися (Hoe heet je? = як тебе звати?)",
+      "audio": "heten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heet",
+          "audio": "ik-heet.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "heet",
+          "audio": "jij-heet.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "heet",
+          "audio": "u-heet.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "heet",
+          "audio": "hij-heet.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "heten",
+          "audio": "wij-heten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "heten",
+          "audio": "jullie-heten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "heten",
+          "audio": "zij-heten.mp3"
+        }
+      ],
+      "explain_ua": "(Hoe heet je? = як тебе звати?). Українське «мене звати» не має підмета «я»: нідерландською просто ik heet, «я називаюся». Основа heet уже закінчується на t, тому jij heet і hij heet без другого t, як eet у Les 7 і kost у Les 16. Ee довге, як у thee (Les 12). Не плутай heet (heten) і heeft (hebben, Les 2): Hij heet ... і Hij heeft een boek."
+    },
+    {
+      "id": "nl-4cdf7b65",
+      "type": "function",
+      "lemma": "vandaan",
+      "ua": "звідки (у виразі Waar ... vandaan?)",
+      "audio": "vandaan.mp3",
+      "explain_ua": "(Waar kom je vandaan? = звідки ти?). Waar саме значить «де» (Les 3), але разом з vandaan в кінці речення виходить «звідки». Vandaan стоїть далеко від waar, наприкінці: Waar komt hij vandaan? Aa довге, наголос на останньому складі: van-DAAN."
+    },
+    {
+      "id": "nl-bc8d67c6",
+      "type": "function",
+      "lemma": "ja",
+      "ua": "так",
+      "audio": "ja.mp3",
+      "explain_ua": "(Ja, ik woon in Nederland = так, я живу в Нідерландах). Звучить майже як українське «я», але значить «так»: підказка для пам'яті, а не етимологія. A довга, як у maan (Les 1). Ja стоїть перед реченням, після нього кома, а порядок слів у реченні не змінюється."
+    },
+    {
+      "id": "nl-aeb4719b",
+      "type": "function",
+      "lemma": "nee",
+      "ua": "ні",
+      "audio": "nee.mp3",
+      "explain_ua": "(Nee, ik heb geen tijd = ні, у мене немає часу). Ee довге [eː], як у thee (Les 12). Nee не замінює niet чи geen: після Nee, у реченні заперечення лишається (Les 2)."
+    },
+    {
+      "id": "nl-70490a90",
+      "type": "function",
+      "lemma": "goedemorgen",
+      "ua": "доброго ранку!",
+      "audio": "goedemorgen.mp3",
+      "explain_ua": "(Goedemorgen! = доброго ранку!). Goed (Les 9) + morgen. Тут morgen значить «ранок», а окремо morgen це «завтра» (Les 13). Привітання каже morgen, а не ochtend (Les 14). Кажуть приблизно до полудня. Пиши разом."
+    },
+    {
+      "id": "nl-2153f472",
+      "type": "function",
+      "lemma": "goedemiddag",
+      "ua": "добрий день! (після полудня)",
+      "audio": "goedemiddag.mp3",
+      "explain_ua": "(Goedemiddag! = добрий день!). Goede + de middag (Les 14). Кажуть приблизно від полудня до вечора. Пиши разом, з -e- посередині."
+    },
+    {
+      "id": "nl-1fd0079d",
+      "type": "function",
+      "lemma": "goedenavond",
+      "ua": "добрий вечір!",
+      "audio": "goedenavond.mp3",
+      "explain_ua": "(Goedenavond! = добрий вечір!). Goeden + de avond (Les 14). Тут пишеться -n-: goedenavond, а не goedeavond. Кінцеве d у avond читається [t], як російське «хлеб» (Les 14): тут спирайся на російську, не на українську."
+    },
+    {
+      "id": "nl-d2ef1be8",
+      "type": "function",
+      "lemma": "goedenacht",
+      "ua": "на добраніч!",
+      "audio": "goedenacht.mp3",
+      "explain_ua": "(Goedenacht, mijn zoon! = на добраніч, сину!). Це не привітання при зустрічі: goedenacht кажуть, коли йдуть спати або розходяться пізно ввечері. Ch це [x], як українське х (Les 1). Пиши разом, з -n-, як goedenavond."
+    },
+    {
+      "id": "nl-fed18fc3",
+      "type": "noun",
+      "article": "de",
+      "lemma": "naam",
+      "plural": [
+        "namen"
+      ],
+      "ua": "ім'я, назва",
+      "audio": "de-naam.mp3",
+      "explain_ua": "(Ik ken de naam niet = я не знаю цього імені). Артикль de. Множина de namen: aa стає a, бо склад відкритий, як maan - manen (Les 1). Naam значить і ім'я людини, і назву чогось."
+    },
+    {
+      "id": "nl-02bc2299",
+      "type": "function",
+      "lemma": "Nederland",
+      "ua": "Нідерланди (країна)",
+      "audio": "nederland.mp3",
+      "explain_ua": "(Ik woon in Nederland = я живу в Нідерландах). Назва країни без артикля: in Nederland, а не in de Nederland. Українською «Нідерланди» у множині, нідерландською Nederland в однині. Наголос на першому складі: NE-der-land. Кінцеве d читається [t]: це те саме оглушення, що в російському «хлеб» (Les 14): тут спирайся на російську. Пиши з великої літери."
+    },
+    {
+      "id": "nl-513d8401",
+      "type": "function",
+      "lemma": "Oekraïne",
+      "ua": "Україна (країна)",
+      "audio": "oekraine.mp3",
+      "dictation": false,
+      "explain_ua": "(Ik kom uit Oekraïne = я родом з України). Назва країни без артикля: uit Oekraïne (форма de Oekraïne застаріла). Oe це [u], як у boek (Les 1). Дві крапки над ï показують, що a та i читаються окремо: kra-ï, не як ai. Схоже на «Україна»: підказка для пам'яті. Пиши з великої літери."
+    },
+    {
+      "id": "nl-da2bc98f",
+      "type": "function",
+      "lemma": "Kroatië",
+      "ua": "Хорватія (країна)",
+      "audio": "kroatie.mp3",
+      "dictation": false,
+      "explain_ua": "(Wij komen uit Kroatië = ми родом з Хорватії). Назва країни без артикля: in Kroatië, naar Kroatië. Дві крапки над ë показують, що i та e читаються окремо: Kroa-ti-ë, так само як у Oekraïne. Схоже на «Хорватія»: підказка для пам'яті. Пиши з великої літери."
+    },
+    {
+      "id": "nl-54a757d4",
+      "type": "function",
+      "lemma": "Nederlands",
+      "ua": "нідерландська (мова)",
+      "audio": "nederlands.mp3",
+      "explain_ua": "(Ik spreek Nederlands = я розмовляю нідерландською). Назва мови без артикля: spreken + мова. Так само Oekraïens, Russisch, Engels. Пиши з великої літери. Закінчення -ds звучить як [ts]. Це слово також значить «нідерландський»."
+    },
+    {
+      "id": "nl-c162d64e",
+      "type": "function",
+      "lemma": "Oekraïens",
+      "ua": "українська (мова)",
+      "audio": "oekrainens.mp3",
+      "dictation": false,
+      "explain_ua": "(Mijn zoon spreekt Oekraïens = мій син розмовляє українською). Мова без артикля, з великої літери. Та сама крапка над ï, що в Oekraïne: oe-kra-ï-ens. Це також «український»."
+    },
+    {
+      "id": "nl-f749b1f0",
+      "type": "function",
+      "lemma": "Russisch",
+      "ua": "російська (мова)",
+      "audio": "russisch.mp3",
+      "explain_ua": "(Ik spreek geen Russisch = я не розмовляю російською). U коротка [ʏ], як у bus (Les 6): такого звуку немає ні в українській, ні в російській. Закінчення -isch звучить як [is]. Мова без артикля, з великої літери; після geen теж без артикля."
+    },
+    {
+      "id": "nl-88d61c4b",
+      "type": "function",
+      "lemma": "Engels",
+      "ua": "англійська (мова)",
+      "audio": "engels.mp3",
+      "explain_ua": "(Wij spreken Engels = ми розмовляємо англійською). Ng це один звук [ŋ], як в англійському sing, без окремого g. Англійське English і нідерландське Engels схожі: підказка для пам'яті. Мова без артикля, з великої літери."
+    },
+    {
+      "id": "nl-f835d820",
+      "type": "function",
+      "lemma": "een beetje",
+      "ua": "трохи, небагато",
+      "audio": "een-beetje.mp3",
+      "explain_ua": "(Ik spreek een beetje Engels = я трохи розмовляю англійською). Вчи як цілий вираз, як een paar (Les 11). Закінчення -je як у kopje (Les 12). Після een beetje артикля перед мовою чи речовиною немає: een beetje Nederlands, een beetje water. Ee довге."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Komen: kom, а не koom",
+      "summary_ua": "Komen значить «приходити», а komen uit + країна значить «бути родом з». Основа пишеться kom з однією m і без подвоєння o, хоч в інфінітиві o довга.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Kom, komt, komen",
+          "when_ua": "Ik kom, jij komt, hij komt, wij komen. Голосна o одна: kom, а не koom.",
+          "examples": [
+            {
+              "nl": "Ik **kom** uit Nederland.",
+              "ua": "Я родом з Нідерландів.",
+              "audio": "les18-example-03.mp3"
+            },
+            {
+              "nl": "Zij **komt** uit Kroatië.",
+              "ua": "Вона родом з Хорватії.",
+              "audio": "les18-rule-01.mp3"
+            },
+            {
+              "nl": "Wij **komen** uit Kroatië.",
+              "ua": "Ми родом з Хорватії.",
+              "audio": "les18-example-05.mp3"
+            }
+          ],
+          "note_ua": "Не koom і не komm: в однині kom, komt."
+        },
+        {
+          "form": "Waar ... vandaan?",
+          "when_ua": "Waar на початку, vandaan в кінці: «звідки?». Дієслово стоїть перед підметом, а jij без t (Les 10).",
+          "examples": [
+            {
+              "nl": "Waar **komt** hij vandaan?",
+              "ua": "Звідки він?",
+              "audio": "les18-example-04.mp3"
+            },
+            {
+              "nl": "Waar **kom** jij vandaan?",
+              "ua": "Звідки ти?",
+              "audio": "les18-rule-02.mp3"
+            },
+            {
+              "nl": "Waar **komen** jullie vandaan?",
+              "ua": "Звідки ви?",
+              "audio": "les18-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Після jij t зникає: kom jij, а не komt jij."
+        },
+        {
+          "form": "Komen: приходити",
+          "when_ua": "Komen значить і просто «приходити», не лише «бути родом».",
+          "examples": [
+            {
+              "nl": "De trein **komt** om vijf uur.",
+              "ua": "Потяг приходить о п'ятій.",
+              "audio": "les18-rule-04.mp3"
+            },
+            {
+              "nl": "Mijn zus **komt** om zeven uur.",
+              "ua": "Моя сестра приходить о сьомій.",
+              "audio": "les18-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Це те саме дієслово, що в binnenkomen (Les 5)."
+        }
+      ],
+      "points_ua": [
+        "Kom, komt, komen: одна o, одна m.",
+        "Komen uit + країна без артикля: Ik kom uit Nederland."
+      ]
+    },
+    {
+      "title_ua": "Heten: jij heet, без другого t",
+      "summary_ua": "Heten значить «називатися»: Hoe heet je? Основа heet уже закінчується на t, тому jij heet і hij heet без ще одного t, як eet у Les 7.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Hoe heet ...?",
+          "when_ua": "Hoe, потім heet, потім підмет. Українське «тебе звати» нідерландською стає підметом: jij heet.",
+          "examples": [
+            {
+              "nl": "Goedemorgen! Hoe **heet** u?",
+              "ua": "Доброго ранку! Як вас звати?",
+              "audio": "les18-example-01.mp3"
+            },
+            {
+              "nl": "Hoe **heet** je?",
+              "ua": "Як тебе звати?",
+              "audio": "les18-rule-06.mp3"
+            },
+            {
+              "nl": "Hoe **heet** de moeder?",
+              "ua": "Як звати маму?",
+              "audio": "les18-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Hoe heet je? і Hoe heet jij? значать те саме: je коротше."
+        },
+        {
+          "form": "Heet чи heten",
+          "when_ua": "Один підмет: heet. Кілька людей: heten.",
+          "examples": [
+            {
+              "nl": "Hoe **heten** jullie?",
+              "ua": "Як вас звати?",
+              "audio": "les18-rule-08.mp3"
+            },
+            {
+              "nl": "Hoe **heten** de kinderen?",
+              "ua": "Як звати дітей?",
+              "audio": "les18-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Jullie і de kinderen це кілька людей, тому heten."
+        },
+        {
+          "form": "Heet чи heeft",
+          "when_ua": "Heet це «називається» (heten), а heeft це «має» (hebben, Les 2). Слова схожі, значення різні.",
+          "examples": [
+            {
+              "nl": "Hoe **heet** de zoon?",
+              "ua": "Як звати сина?",
+              "audio": "les18-rule-10.mp3"
+            },
+            {
+              "nl": "De zoon **heeft** een boek.",
+              "ua": "У сина є книга.",
+              "audio": "les18-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Heet без f і з довгим ee, heeft з f."
+        }
+      ],
+      "points_ua": [
+        "Jij heet, hij heet: не heett.",
+        "Heet (називається) і heeft (має) не плутай."
+      ]
+    },
+    {
+      "title_ua": "Ja, nee: порядок слів не змінюється",
+      "summary_ua": "Ja і nee стоять перед реченням, після них кома. Речення після коми звичайне: підмет, дієслово. Ja і nee не рахуються першим елементом, тому дієслово не перескакує.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Ja, + речення",
+          "when_ua": "Після Ja, речення таке саме, як було б без Ja: підмет, дієслово, решта.",
+          "examples": [
+            {
+              "nl": "Ja, ik woon in Nederland.",
+              "ua": "Так, я живу в Нідерландах.",
+              "audio": "les18-example-09.mp3"
+            },
+            {
+              "nl": "Ja, ik spreek Engels.",
+              "ua": "Так, я розмовляю англійською.",
+              "audio": "les18-rule-12.mp3"
+            },
+            {
+              "nl": "Ja, zij komt uit Oekraïne.",
+              "ua": "Так, вона родом з України.",
+              "audio": "les18-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Не Ja, woon ik: після коми підмет стоїть перед дієсловом."
+        },
+        {
+          "form": "Nee, + niet чи geen",
+          "when_ua": "Nee не замінює заперечення. У реченні після Nee, лишається niet або geen (Les 2).",
+          "examples": [
+            {
+              "nl": "Nee, ik spreek geen Russisch.",
+              "ua": "Ні, я не розмовляю російською.",
+              "audio": "les18-example-10.mp3"
+            },
+            {
+              "nl": "Nee, ik woon niet in Nederland.",
+              "ua": "Ні, я не живу в Нідерландах.",
+              "audio": "les18-rule-14.mp3"
+            },
+            {
+              "nl": "Nee, hij komt niet uit Kroatië.",
+              "ua": "Ні, він не родом з Хорватії.",
+              "audio": "les18-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Geen стоїть перед іменником без артикля: geen Russisch. Niet стоїть у решті випадків."
+        }
+      ],
+      "points_ua": [
+        "Ja, ik ...: підмет і дієслово після коми як завжди.",
+        "Nee, ik ... niet/geen: слово Nee не замінює заперечення."
+      ]
+    },
+    {
+      "title_ua": "Без артикля: країни й мови",
+      "summary_ua": "Назви країн і мов у таких реченнях стоять без артикля: Ik woon in Nederland. Ik spreek Nederlands. Так само без артикля wijn, brood і naar huis.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Країни",
+          "when_ua": "Після in, uit, naar країна стоїть без de чи het.",
+          "examples": [
+            {
+              "nl": "Ik woon in **Kroatië**.",
+              "ua": "Я живу в Хорватії.",
+              "audio": "les18-rule-16.mp3"
+            },
+            {
+              "nl": "Wij gaan naar **Nederland**.",
+              "ua": "Ми їдемо до Нідерландів.",
+              "audio": "les18-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Не in de Nederland і не uit de Oekraïne: без артикля."
+        },
+        {
+          "form": "Мови",
+          "when_ua": "Після spreken мова стоїть без артикля, з великої літери.",
+          "examples": [
+            {
+              "nl": "Ik spreek **Nederlands**.",
+              "ua": "Я розмовляю нідерландською.",
+              "audio": "les18-rule-18.mp3"
+            },
+            {
+              "nl": "Wij spreken **Engels**.",
+              "ua": "Ми розмовляємо англійською.",
+              "audio": "les18-rule-19.mp3"
+            },
+            {
+              "nl": "Mijn zoon spreekt **Oekraïens**.",
+              "ua": "Мій син розмовляє українською.",
+              "audio": "les18-example-12.mp3"
+            }
+          ],
+          "note_ua": "З een beetje теж без артикля: een beetje Engels."
+        },
+        {
+          "form": "Так само wijn, brood, naar huis",
+          "when_ua": "Ці слова ти вже знаєш: речовина і фіксований вираз теж без артикля.",
+          "examples": [
+            {
+              "nl": "Ik drink **wijn**.",
+              "ua": "Я п'ю вино.",
+              "audio": "les18-rule-20.mp3"
+            },
+            {
+              "nl": "Wij eten **brood**.",
+              "ua": "Ми їмо хліб.",
+              "audio": "les18-rule-21.mp3"
+            },
+            {
+              "nl": "Ik ga **naar huis**.",
+              "ua": "Я йду додому.",
+              "audio": "les18-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Це не одиничні винятки, а окремі групи: країни, мови, речовини, naar huis."
+        }
+      ],
+      "points_ua": [
+        "Країни й мови: без de і het.",
+        "Разом з wijn, brood, naar huis це законні винятки з правила «іменник з артиклем»."
+      ]
+    },
+    {
+      "title_ua": "Привітання: morgen, middag, avond, nacht",
+      "summary_ua": "Goede + час доби: goedemorgen (ранок), goedemiddag (після полудня), goedenavond (вечір), goedenacht (на добраніч). Слова de middag, de avond, de nacht ти знаєш з Les 14.",
+      "see": "Les 14",
+      "compare": [
+        {
+          "form": "Goedemorgen, goedemiddag, goedenavond",
+          "when_ua": "Так вітаються при зустрічі. Межі приблизні: ранок до полудня, після полудня до вечора.",
+          "examples": [
+            {
+              "nl": "**Goedemorgen**! Het is acht uur.",
+              "ua": "Доброго ранку! Восьма година.",
+              "audio": "les18-rule-23.mp3"
+            },
+            {
+              "nl": "**Goedemiddag**! Het is drie uur.",
+              "ua": "Добрий день! Третя година.",
+              "audio": "les18-rule-24.mp3"
+            },
+            {
+              "nl": "**Goedenavond**! Het is negen uur.",
+              "ua": "Добрий вечір! Дев'ята година.",
+              "audio": "les18-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Morgen у goedemorgen це «ранок», а окремо morgen це «завтра» (Les 13)."
+        },
+        {
+          "form": "Goedenacht",
+          "when_ua": "Goedenacht це не «добрий вечір», а прощання перед сном або пізно ввечері.",
+          "examples": [
+            {
+              "nl": "**Goedenacht**, mijn zoon!",
+              "ua": "На добраніч, сину!",
+              "audio": "les18-example-08.mp3"
+            },
+            {
+              "nl": "**Goedenacht**! Het is elf uur.",
+              "ua": "На добраніч! Одинадцята година.",
+              "audio": "les18-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Goedenavond вітання, а goedenacht прощання."
+        }
+      ],
+      "points_ua": [
+        "Пиши разом: goedemorgen, goedemiddag, goedenavond, goedenacht.",
+        "Перед morgen і middag пишеться -e-, перед avond і nacht пишеться -en-."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Goedemorgen! Hoe heet u?",
+      "ua": "Доброго ранку! Як вас звати?",
+      "audio": "les18-example-01.mp3"
+    },
+    {
+      "nl": "Ik ken de naam niet.",
+      "ua": "Я не знаю цього імені.",
+      "audio": "les18-example-02.mp3"
+    },
+    {
+      "nl": "Ik kom uit Nederland.",
+      "ua": "Я родом з Нідерландів.",
+      "audio": "les18-example-03.mp3"
+    },
+    {
+      "nl": "Waar komt hij vandaan?",
+      "ua": "Звідки він?",
+      "audio": "les18-example-04.mp3"
+    },
+    {
+      "nl": "Wij komen uit Kroatië.",
+      "ua": "Ми родом з Хорватії.",
+      "audio": "les18-example-05.mp3"
+    },
+    {
+      "nl": "Goedemiddag! Waar is het café?",
+      "ua": "Добрий день! Де кафе?",
+      "audio": "les18-example-06.mp3"
+    },
+    {
+      "nl": "Goedenavond! Ik ga naar het station.",
+      "ua": "Добрий вечір! Я йду до вокзалу.",
+      "audio": "les18-example-07.mp3"
+    },
+    {
+      "nl": "Goedenacht, mijn zoon!",
+      "ua": "На добраніч, сину!",
+      "audio": "les18-example-08.mp3"
+    },
+    {
+      "nl": "Ja, ik woon in Nederland.",
+      "ua": "Так, я живу в Нідерландах.",
+      "audio": "les18-example-09.mp3"
+    },
+    {
+      "nl": "Nee, ik spreek geen Russisch.",
+      "ua": "Ні, я не розмовляю російською.",
+      "audio": "les18-example-10.mp3"
+    },
+    {
+      "nl": "Ik spreek een beetje Engels.",
+      "ua": "Я трохи розмовляю англійською.",
+      "audio": "les18-example-11.mp3"
+    },
+    {
+      "nl": "Mijn zoon spreekt Oekraïens.",
+      "ua": "Мій син розмовляє українською.",
+      "audio": "les18-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Hoe heet je?",
+    "title_ua": "Як тебе звати?",
+    "highlight": [
+      "nl-4cdf7b65",
+      "nl-bc8d67c6",
+      "nl-aeb4719b",
+      "nl-70490a90",
+      "nl-02bc2299",
+      "nl-513d8401",
+      "nl-da2bc98f",
+      "nl-54a757d4",
+      "nl-f749b1f0",
+      "nl-88d61c4b",
+      "nl-f835d820"
+    ],
+    "sentences": [
+      {
+        "nl": "Goedemorgen! Hoe heet je?",
+        "ua": "Питає: Доброго ранку! Як тебе звати?",
+        "audio": "les18-reading-01.mp3"
+      },
+      {
+        "nl": "Goedemorgen! Ik heet ... En jij?",
+        "ua": "Відповідає: Доброго ранку! Мене звати ... А тебе?",
+        "audio": "les18-reading-02.mp3"
+      },
+      {
+        "nl": "Ik heet ... Waar kom je vandaan?",
+        "ua": "Питає: Мене звати ... Звідки ти?",
+        "audio": "les18-reading-03.mp3"
+      },
+      {
+        "nl": "Ik kom uit Oekraïne.",
+        "ua": "Відповідає: Я родом з України.",
+        "audio": "les18-reading-04.mp3"
+      },
+      {
+        "nl": "Spreek je Nederlands?",
+        "ua": "Питає: Ти розмовляєш нідерландською?",
+        "audio": "les18-reading-05.mp3"
+      },
+      {
+        "nl": "Ja, ik spreek een beetje Nederlands.",
+        "ua": "Відповідає: Так, я трохи розмовляю нідерландською.",
+        "audio": "les18-reading-06.mp3"
+      },
+      {
+        "nl": "Spreek je ook Engels?",
+        "ua": "Питає: Ти розмовляєш і англійською?",
+        "audio": "les18-reading-07.mp3"
+      },
+      {
+        "nl": "Ja, ik spreek Engels en Russisch.",
+        "ua": "Відповідає: Так, я розмовляю англійською і російською.",
+        "audio": "les18-reading-08.mp3"
+      },
+      {
+        "nl": "Woon je in Nederland?",
+        "ua": "Питає: Ти живеш у Нідерландах?",
+        "audio": "les18-reading-09.mp3"
+      },
+      {
+        "nl": "Nee, ik woon in Kroatië.",
+        "ua": "Відповідає: Ні, я живу в Хорватії.",
+        "audio": "les18-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Добрий вечір! Де школа?",
+          "accepted": [
+            "Goedenavond! Waar is de school?"
+          ]
+        },
+        {
+          "prompt": "Мій брат родом з Хорватії.",
+          "accepted": [
+            "Mijn broer komt uit Kroatië.",
+            "Mijn broer komt uit Kroatie."
+          ]
+        },
+        {
+          "prompt": "Звідки вони?",
+          "accepted": [
+            "Waar komen zij vandaan?",
+            "Waar komen ze vandaan?"
+          ]
+        },
+        {
+          "prompt": "Так, я трохи розмовляю російською.",
+          "accepted": [
+            "Ja, ik spreek een beetje Russisch."
+          ]
+        },
+        {
+          "prompt": "Ні, вона не розмовляє англійською.",
+          "accepted": [
+            "Nee, zij spreekt geen Engels.",
+            "Nee, ze spreekt geen Engels."
+          ]
+        },
+        {
+          "prompt": "Мої діти живуть у Нідерландах.",
+          "accepted": [
+            "Mijn kinderen wonen in Nederland."
+          ]
+        },
+        {
+          "prompt": "Добрий день! Скільки коштує кава?",
+          "accepted": [
+            "Goedemiddag! Hoeveel kost de koffie?",
+            "Goedemiddag! Wat kost de koffie?"
+          ]
+        },
+        {
+          "prompt": "Я не знаю їхніх імен.",
+          "accepted": [
+            "Ik ken hun namen niet."
+          ]
+        },
+        {
+          "prompt": "На добраніч! Ми йдемо додому.",
+          "accepted": [
+            "Goedenacht! Wij gaan naar huis.",
+            "Goedenacht! We gaan naar huis.",
+            "Goedenacht! Wij lopen naar huis.",
+            "Goedenacht! We lopen naar huis."
+          ]
+        },
+        {
+          "prompt": "Ти живеш в Україні?",
+          "accepted": [
+            "Woon jij in Oekraïne?",
+            "Woon je in Oekraïne?",
+            "Woon jij in Oekraine?",
+            "Woon je in Oekraine?"
+          ]
+        },
+        {
+          "prompt": "Ні, я не працюю в Нідерландах.",
+          "accepted": [
+            "Nee, ik werk niet in Nederland."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "goedemorgen",
+        "goedemiddag",
+        "goedenavond",
+        "goedenacht",
+        "kom",
+        "komt",
+        "komen",
+        "vandaan",
+        "heet",
+        "heten",
+        "ja",
+        "nee"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Het is zeven uur. ___!",
+          "hint": "Сьома ранку: доброго ранку!",
+          "accepted": [
+            [
+              "goedemorgen",
+              "Goedemorgen"
+            ]
+          ]
+        },
+        {
+          "text": "Het is vier uur. ___!",
+          "hint": "Четверта по обіді: добрий день!",
+          "accepted": [
+            [
+              "goedemiddag",
+              "Goedemiddag"
+            ]
+          ]
+        },
+        {
+          "text": "Het is acht uur. ___!",
+          "hint": "Восьма вечора: добрий вечір!",
+          "accepted": [
+            [
+              "goedenavond",
+              "Goedenavond"
+            ]
+          ]
+        },
+        {
+          "text": "Het is twaalf uur. ___, mijn zoon!",
+          "hint": "Північ, час спати: на добраніч, сину!",
+          "accepted": [
+            [
+              "goedenacht",
+              "Goedenacht"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ uit Oekraïne.",
+          "hint": "Я родом з України.",
+          "accepted": [
+            [
+              "kom"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vader ___ uit Nederland.",
+          "hint": "Мій тато родом з Нідерландів.",
+          "accepted": [
+            [
+              "komt"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer en zus ___ uit Kroatië.",
+          "hint": "Мої брат і сестра родом з Хорватії.",
+          "accepted": [
+            [
+              "komen"
+            ]
+          ]
+        },
+        {
+          "text": "Waar komen de kinderen ___?",
+          "hint": "Звідки діти?",
+          "accepted": [
+            [
+              "vandaan"
+            ]
+          ]
+        },
+        {
+          "text": "Hoe ___ de broer?",
+          "hint": "Як звати брата?",
+          "accepted": [
+            [
+              "heet"
+            ]
+          ]
+        },
+        {
+          "text": "Hoe ___ hun kinderen?",
+          "hint": "Як звати їхніх дітей?",
+          "accepted": [
+            [
+              "heten"
+            ]
+          ]
+        },
+        {
+          "text": "___, ik werk in de stad.",
+          "hint": "Так, я працюю в місті.",
+          "accepted": [
+            [
+              "ja",
+              "Ja"
+            ]
+          ]
+        },
+        {
+          "text": "___, ik heb geen tijd.",
+          "hint": "Ні, у мене немає часу.",
+          "accepted": [
+            [
+              "nee",
+              "Nee"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: відповідь з Ja чи Nee, питання, заперечення, множина чи слово на початку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Werkt hij in de stad?",
+          "cue": "-> відповідь з Ja,",
+          "accepted": [
+            "Ja, hij werkt in de stad."
+          ]
+        },
+        {
+          "prompt": "Komt zij uit Nederland?",
+          "cue": "-> відповідь з Nee, niet",
+          "accepted": [
+            "Nee, zij komt niet uit Nederland.",
+            "Nee, ze komt niet uit Nederland."
+          ]
+        },
+        {
+          "prompt": "Spreekt de man Russisch?",
+          "cue": "-> відповідь з Ja,",
+          "accepted": [
+            "Ja, de man spreekt Russisch.",
+            "Ja, hij spreekt Russisch."
+          ]
+        },
+        {
+          "prompt": "Heb je een boek?",
+          "cue": "-> відповідь з Nee, geen",
+          "accepted": [
+            "Nee, ik heb geen boek."
+          ]
+        },
+        {
+          "prompt": "Kom jij uit Kroatië?",
+          "cue": "-> відповідь з Ja,",
+          "accepted": [
+            "Ja, ik kom uit Kroatië.",
+            "Ja, ik kom uit Kroatie."
+          ]
+        },
+        {
+          "prompt": "Woont de zus in Nederland?",
+          "cue": "-> відповідь з Nee, niet",
+          "accepted": [
+            "Nee, de zus woont niet in Nederland.",
+            "Nee, zij woont niet in Nederland.",
+            "Nee, ze woont niet in Nederland."
+          ]
+        },
+        {
+          "prompt": "Spreken jullie Engels?",
+          "cue": "-> відповідь з Nee, geen",
+          "accepted": [
+            "Nee, wij spreken geen Engels.",
+            "Nee, we spreken geen Engels."
+          ]
+        },
+        {
+          "prompt": "Zij komen uit Nederland.",
+          "cue": "-> питання Waar ... vandaan?",
+          "accepted": [
+            "Waar komen zij vandaan?",
+            "Waar komen ze vandaan?"
+          ]
+        },
+        {
+          "prompt": "Ik spreek een beetje Nederlands.",
+          "cue": "-> заперечення з geen",
+          "accepted": [
+            "Ik spreek geen Nederlands."
+          ]
+        },
+        {
+          "prompt": "De naam is groot.",
+          "cue": "-> множина (de namen)",
+          "accepted": [
+            "De namen zijn groot."
+          ]
+        },
+        {
+          "prompt": "Hij woont in Nederland.",
+          "cue": "-> починай з Nu",
+          "accepted": [
+            "Nu woont hij in Nederland."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Hij ___ uit Nederland.",
+          "cue": "komen",
+          "accepted": [
+            "komt"
+          ]
+        },
+        {
+          "text": "Ik ___ uit Kroatië.",
+          "cue": "komen",
+          "accepted": [
+            "kom"
+          ]
+        },
+        {
+          "text": "___ jij uit Oekraïne?",
+          "cue": "komen",
+          "accepted": [
+            "Kom",
+            "kom"
+          ]
+        },
+        {
+          "text": "Wij ___ uit Nederland.",
+          "cue": "komen",
+          "accepted": [
+            "komen"
+          ]
+        },
+        {
+          "text": "Hoe ___ jij?",
+          "cue": "heten",
+          "accepted": [
+            "heet"
+          ]
+        },
+        {
+          "text": "Hoe ___ hij?",
+          "cue": "heten",
+          "accepted": [
+            "heet"
+          ]
+        },
+        {
+          "text": "Hoe ___ de vader en de moeder?",
+          "cue": "heten",
+          "accepted": [
+            "heten"
+          ]
+        },
+        {
+          "text": "Ik ___ een beetje Russisch.",
+          "cue": "spreken",
+          "accepted": [
+            "spreek"
+          ]
+        },
+        {
+          "text": "___ jij Nederlands?",
+          "cue": "spreken",
+          "accepted": [
+            "Spreek",
+            "spreek"
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ Engels.",
+          "cue": "spreken",
+          "accepted": [
+            "spreekt"
+          ]
+        },
+        {
+          "text": "De kinderen ___ in Nederland.",
+          "cue": "wonen",
+          "accepted": [
+            "wonen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}
