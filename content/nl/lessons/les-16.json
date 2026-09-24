@@ -1,0 +1,911 @@
+{
+  "id": "nl-les-16",
+  "lang": "nl",
+  "order": 16,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-90b155e0",
+      "type": "verb",
+      "lemma": "kosten",
+      "ua": "коштувати",
+      "audio": "kosten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kost",
+          "audio": "ik-kost.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "kost",
+          "audio": "jij-kost.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "kost",
+          "audio": "u-kost.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "kost",
+          "audio": "hij-kost.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "kosten",
+          "audio": "wij-kosten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "kosten",
+          "audio": "jullie-kosten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "kosten",
+          "audio": "zij-kosten.mp3"
+        }
+      ],
+      "explain_ua": "(Het brood kost twee euro = хліб коштує два євро). Це те саме слово, що de kosten (Les 3, «витрати»), але тут дієслово. Форма залежить від підмета: De appel kost, De appels kosten. Основа kost уже закінчується на t, тому jij kost і hij kost без ще одного -t, як eet у Les 7. Wat kost het? і Hoeveel kost het? обидва значать «скільки це коштує?»"
+    },
+    {
+      "id": "nl-53d03575",
+      "type": "noun",
+      "article": "de",
+      "lemma": "euro",
+      "plural": [
+        "euro's"
+      ],
+      "ua": "євро",
+      "audio": "de-euro.mp3",
+      "explain_ua": "(Het brood kost twee euro = хліб коштує два євро). Після числа euro лишається в однині: vijf euro, а не vijf euro's. Euro's це самі монети чи купюри (drie losse euro's). Eu це [øː]: такого звука немає в українській, скажи «е» і округли губи, як для «о»"
+    },
+    {
+      "id": "nl-28f23ac1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "cent",
+      "plural": [
+        "centen"
+      ],
+      "ua": "цент (євроцент)",
+      "audio": "de-cent.mp3",
+      "explain_ua": "(Het ei kost tachtig cent = яйце коштує вісімдесят центів). Після числа cent лишається в однині: vijftig cent, а не vijftig centen. Centen це самі монетки. C перед e це [s], як у слові «цент»: [сент]. Слова eurocent не треба: з euro вже ясно, що йдеться про центи"
+    },
+    {
+      "id": "nl-d59959eb",
+      "type": "noun",
+      "article": "de",
+      "lemma": "prijs",
+      "plural": [
+        "prijzen"
+      ],
+      "ua": "ціна",
+      "audio": "de-prijs.mp3",
+      "explain_ua": "(De prijs is negentien euro = ціна дев'ятнадцять євро). Множина de prijzen: s стає z, як у huis - huizen (Les 1). Ij це [ɛi], як у de wijn. Про річ кажемо duur (De kaas is duur), а про саму ціну зазвичай інше слово, яке вивчимо пізніше: тут duur з prijs не сполучаємо"
+    },
+    {
+      "id": "nl-95e27aa4",
+      "type": "noun",
+      "article": "het",
+      "lemma": "geld",
+      "plural": [],
+      "ua": "гроші",
+      "audio": "het-geld.mp3",
+      "explain_ua": "(Ik heb geen geld = у мене немає грошей). Het geld це однина: українське «гроші» множина, нідерландське однина, тому Het geld is hier, а не zijn. Коли йдеться про гроші загалом, артикля немає, як у water і melk (Les 7). Англійське money теж однина: підказка для пам'яті. У повсякденній мові множини немає. G це [x], як українське х (Les 1)"
+    },
+    {
+      "id": "nl-64d205c0",
+      "type": "adjective",
+      "lemma": "duur",
+      "ua": "дорогий, дорога, дороге, дорогі",
+      "audio": "duur.mp3",
+      "explain_ua": "(De kaas is duur = сир дорогий). Після is чи zijn без -e, як lekker у Les 11. Uu це [y]: такого звука немає в українській, скажи «і» і округли губи, як для «у». Duur описує річ, яка коштує багато: de kaas, het brood"
+    },
+    {
+      "id": "nl-33ac4b7c",
+      "type": "adjective",
+      "lemma": "dure",
+      "ua": "дорогий",
+      "audio": "dure.mp3",
+      "explain_ua": "(форма з -e: een dure kaas, dure appels, het dure brood). Uu стає u, як aa стає a у maan - manen (Les 1): du-re. Без -e лишається duur лише після een перед het-словом: een duur brood. Пара до duur; правило в картці «Geld, duur, goedkoop»"
+    },
+    {
+      "id": "nl-cae75d1e",
+      "type": "adjective",
+      "lemma": "goedkoop",
+      "ua": "дешевий, дешева, дешеве, дешеві",
+      "audio": "goedkoop.mp3",
+      "explain_ua": "(De appels zijn goedkoop = яблука дешеві). Після zijn без -e. Складається з goed (Les 9) і koop, як у kopen (Les 8): підказка для пам'яті, а не етимологія. Oe це [u], як у boek, oo це довге [oː], як у groot"
+    },
+    {
+      "id": "nl-2c040b2c",
+      "type": "adjective",
+      "lemma": "goedkope",
+      "ua": "дешевий",
+      "audio": "goedkope.mp3",
+      "explain_ua": "(форма з -e: een goedkope kaas, goedkope appels, het goedkope brood). Oo стає o: goed-ko-pe, як groot - grote (Les 11). Без -e лишається goedkoop лише після een перед het-словом: een goedkoop brood. Пара до goedkoop"
+    },
+    {
+      "id": "nl-a44d8731",
+      "type": "function",
+      "lemma": "hallo",
+      "ua": "привіт, добрий день",
+      "audio": "hallo.mp3",
+      "explain_ua": "(Hallo, wat mag het zijn? = добрий день, що бажаєте?). Вітання в будь-який час дня, у магазині теж. Наголос на другому складі: ha-LLO. Це слово ти й скажеш, коли заходиш і бачиш продавця"
+    },
+    {
+      "id": "nl-1e9d7f8e",
+      "type": "function",
+      "lemma": "bedankt",
+      "ua": "дякую",
+      "audio": "bedankt.mp3",
+      "explain_ua": "(Bedankt voor de koffie = дякую за каву). Звичайне «дякую», підходить і в магазині. Voor тут значить «за» (Les 11): bedankt voor + за що. Ввічливіша форма з u існує, але її вчимо пізніше. Наголос на другому складі: be-DANKT"
+    },
+    {
+      "id": "nl-d9d82379",
+      "type": "function",
+      "lemma": "tot ziens",
+      "ua": "до побачення",
+      "audio": "tot-ziens.mp3",
+      "explain_ua": "(Tot ziens! = до побачення). Стале вітання з двох слів, пишеться окремо; вчимо його цілком. Tot значить «до». Ie це довге [i], як у bier (Les 12)"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Kosten: kost чи kosten",
+      "summary_ua": "Wat kost het? значить «скільки це коштує?». Форма залежить від підмета, а не від ціни: одна річ kost, кілька речей kosten. Питати можна двома способами: з Wat або з Hoeveel.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Одна річ: kost",
+          "when_ua": "Підмет в однині (de kaas, het brood, het): kost. Основа kost уже закінчується на t, тому jij, u, hij: kost, без ще одного -t (як eet, Les 7).",
+          "examples": [
+            {
+              "nl": "Wat **kost** de kaas?",
+              "ua": "Скільки коштує сир?",
+              "audio": "les16-example-01.mp3"
+            },
+            {
+              "nl": "De kaas **kost** vijftien euro.",
+              "ua": "Сир коштує п'ятнадцять євро.",
+              "audio": "les16-example-02.mp3"
+            },
+            {
+              "nl": "Wat **kost** het?",
+              "ua": "Скільки це коштує?",
+              "audio": "les16-rule-01.mp3"
+            }
+          ],
+          "note_ua": "Wat kost het? дослівно «що коштує це». Українською питання починається зі «скільки», а нідерландською з wat чи hoeveel: обидва правильні."
+        },
+        {
+          "form": "Кілька речей: kosten",
+          "when_ua": "Підмет у множині (de appels, de peren): kosten. Число в ціні (drie euro) на дієслово не впливає.",
+          "examples": [
+            {
+              "nl": "De appels **kosten** drie euro.",
+              "ua": "Яблука коштують три євро.",
+              "audio": "les16-example-03.mp3"
+            },
+            {
+              "nl": "Wat **kosten** de peren?",
+              "ua": "Скільки коштують груші?",
+              "audio": "les16-rule-02.mp3"
+            },
+            {
+              "nl": "De peren **kosten** vier euro.",
+              "ua": "Груші коштують чотири євро.",
+              "audio": "les16-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Дивись на підмет, а не на суму: не De peren kost, хоча ціна одна."
+        },
+        {
+          "form": "Hoeveel kost / kosten",
+          "when_ua": "Hoeveel (Les 3) стоїть першим, далі kost чи kosten за підметом.",
+          "examples": [
+            {
+              "nl": "**Hoeveel kost** het brood?",
+              "ua": "Скільки коштує хліб?",
+              "audio": "les16-rule-04.mp3"
+            },
+            {
+              "nl": "**Hoeveel kosten** de eieren?",
+              "ua": "Скільки коштують яйця?",
+              "audio": "les16-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Українське «скільки коштує» це Hoeveel kost, а «скільки коштують» це Hoeveel kosten."
+        }
+      ],
+      "points_ua": [
+        "Kosten (дієслово) пишеться так само, як de kosten (Les 3, «витрати»). Різниця в реченні: de kosten іменник з артиклем, а в Het brood kost дієслово.",
+        "Ціна стоїть після дієслова без жодного слова між ними: De kaas kost twaalf euro."
+      ]
+    },
+    {
+      "title_ua": "Euro і cent: після числа однина",
+      "summary_ua": "Після числа euro і cent лишаються в однині: vijf euro, vijftig cent. Ціну кажуть так: спершу euro, потім cent: twee euro vijftig це € 2,50. Ціле число без cent: vijftien euro.",
+      "see": "Les 15",
+      "compare": [
+        {
+          "form": "Після числа: euro, cent",
+          "when_ua": "Не vijf euro's і не vijftig centen. Euro's і centen це самі монети (drie losse euro's, три монети по одному євро). У сумі завжди однина.",
+          "examples": [
+            {
+              "nl": "Dat is vijftig **cent**.",
+              "ua": "Це п'ятдесят центів.",
+              "audio": "les16-example-05.mp3"
+            },
+            {
+              "nl": "De prijs is negentien **euro**.",
+              "ua": "Ціна дев'ятнадцять євро.",
+              "audio": "les16-example-06.mp3"
+            },
+            {
+              "nl": "Ik betaal vijf **euro**.",
+              "ua": "Я плачу п'ять євро.",
+              "audio": "les16-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Так само однина після uur: elf uur (Les 14, Les 15). Слово міри чи грошей після числа не множиться."
+        },
+        {
+          "form": "Euro і cent разом: twee euro vijftig",
+          "when_ua": "Спершу euro, потім cent, без слова «і» і без слова cent наприкінці: twee euro vijftig це 2,50.",
+          "examples": [
+            {
+              "nl": "De koffie kost **twee euro vijftig**.",
+              "ua": "Кава коштує 2,50.",
+              "audio": "les16-rule-07.mp3"
+            },
+            {
+              "nl": "De peer kost **een euro vijfendertig**.",
+              "ua": "Груша коштує 1,35.",
+              "audio": "les16-rule-08.mp3"
+            },
+            {
+              "nl": "De kaas kost **twaalf euro negenennegentig**.",
+              "ua": "Сир коштує 12,99.",
+              "audio": "les16-rule-09.mp3"
+            }
+          ],
+          "note_ua": "У цифрах кома, як в українській: € 2,50. Складені числа з Les 15 (vijfendertig, negenennegentig) підходять і для центів."
+        },
+        {
+          "form": "Менше за одне євро: лише cent",
+          "when_ua": "Коли euro немає, кажемо лише cent: tachtig cent це 0,80.",
+          "examples": [
+            {
+              "nl": "Het ei kost **tachtig cent**.",
+              "ua": "Яйце коштує 80 центів.",
+              "audio": "les16-rule-10.mp3"
+            },
+            {
+              "nl": "De banaan kost **vijfendertig cent**.",
+              "ua": "Банан коштує 35 центів.",
+              "audio": "les16-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: een euro vijfendertig (1,35) і vijfendertig cent (0,35). Een тут число «один» (Les 2)."
+        }
+      ],
+      "points_ua": [
+        "Не перекладай «п'ятдесят центів» слово в слово наприкінці суми: кажемо просто twee euro vijftig.",
+        "Інші складені числа, як 28 чи 47, ми ще не вчили: у цьому уроці ціни лише з чисел Les 15."
+      ]
+    },
+    {
+      "title_ua": "Geld, duur, goedkoop",
+      "summary_ua": "Het geld це однина: Ik heb geen geld, без артикля, коли гроші загалом. Duur і goedkoop після zijn лишаються без -e. Перед іменником -e: een dure kaas, goedkope appels.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "Het geld: однина, без артикля",
+          "when_ua": "Українське «гроші» множина, нідерландське het geld однина: Het geld is hier, а не zijn. Про гроші загалом (є, немає) без артикля, як water і melk (Les 7).",
+          "examples": [
+            {
+              "nl": "Ik heb geen **geld**.",
+              "ua": "У мене немає грошей.",
+              "audio": "les16-example-07.mp3"
+            },
+            {
+              "nl": "Mijn zoon heeft **geld**.",
+              "ua": "У мого сина є гроші.",
+              "audio": "les16-rule-12.mp3"
+            },
+            {
+              "nl": "Het **geld** is hier.",
+              "ua": "Гроші тут.",
+              "audio": "les16-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Англійське money теж однина: підказка для пам'яті."
+        },
+        {
+          "form": "Після zijn: duur, goedkoop",
+          "when_ua": "Прикметник після is чи zijn без -e, як lekker у Les 11. Для кількох речей теж без -e.",
+          "examples": [
+            {
+              "nl": "De kaas is **duur**.",
+              "ua": "Сир дорогий.",
+              "audio": "les16-example-08.mp3"
+            },
+            {
+              "nl": "De bananen zijn **goedkoop**.",
+              "ua": "Банани дешеві.",
+              "audio": "les16-example-09.mp3"
+            },
+            {
+              "nl": "Het brood is **goedkoop**.",
+              "ua": "Хліб дешевий.",
+              "audio": "les16-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Duur і goedkoop описують річ: De kaas is duur."
+        },
+        {
+          "form": "Перед іменником: dure, goedkope",
+          "when_ua": "Перед de-словом і перед множиною додаємо -e: uu стає u, oo стає o. Перед het-словом після een -e немає: een duur brood.",
+          "examples": [
+            {
+              "nl": "Dit is een **dure** kaas.",
+              "ua": "Це дорогий сир.",
+              "audio": "les16-example-10.mp3"
+            },
+            {
+              "nl": "Dit is een **duur** brood.",
+              "ua": "Це дорогий хліб.",
+              "audio": "les16-rule-15.mp3"
+            },
+            {
+              "nl": "Ik koop **goedkope** appels.",
+              "ua": "Я купую дешеві яблука.",
+              "audio": "les16-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Так само, як groot - grote у Les 11. Het brood це het-слово: een duur brood, але het dure brood."
+        }
+      ],
+      "points_ua": [
+        "Правило -e з Les 11 не змінилося: -e лише перед іменником, після zijn ніколи.",
+        "Goedkoop це goed + koop (як у kopen, Les 8): підказка для пам'яті, а не етимологія."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Wat kost de kaas?",
+      "ua": "Скільки коштує сир?",
+      "audio": "les16-example-01.mp3"
+    },
+    {
+      "nl": "De kaas kost vijftien euro.",
+      "ua": "Сир коштує п'ятнадцять євро.",
+      "audio": "les16-example-02.mp3"
+    },
+    {
+      "nl": "De appels kosten drie euro.",
+      "ua": "Яблука коштують три євро.",
+      "audio": "les16-example-03.mp3"
+    },
+    {
+      "nl": "Het brood kost drie euro twintig.",
+      "ua": "Хліб коштує три євро двадцять.",
+      "audio": "les16-example-04.mp3"
+    },
+    {
+      "nl": "Dat is vijftig cent.",
+      "ua": "Це п'ятдесят центів.",
+      "audio": "les16-example-05.mp3"
+    },
+    {
+      "nl": "De prijs is negentien euro.",
+      "ua": "Ціна дев'ятнадцять євро.",
+      "audio": "les16-example-06.mp3"
+    },
+    {
+      "nl": "Ik heb geen geld.",
+      "ua": "У мене немає грошей.",
+      "audio": "les16-example-07.mp3"
+    },
+    {
+      "nl": "De kaas is duur.",
+      "ua": "Сир дорогий.",
+      "audio": "les16-example-08.mp3"
+    },
+    {
+      "nl": "De bananen zijn goedkoop.",
+      "ua": "Банани дешеві.",
+      "audio": "les16-example-09.mp3"
+    },
+    {
+      "nl": "Dit is een dure kaas.",
+      "ua": "Це дорогий сир.",
+      "audio": "les16-example-10.mp3"
+    },
+    {
+      "nl": "Bedankt voor de koffie.",
+      "ua": "Дякую за каву.",
+      "audio": "les16-example-11.mp3"
+    },
+    {
+      "nl": "Hallo, ik ben in de winkel.",
+      "ua": "Добрий день, я в магазині.",
+      "audio": "les16-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wat kost het?",
+    "title_ua": "Скільки це коштує?",
+    "highlight": [
+      "nl-53d03575",
+      "nl-95e27aa4",
+      "nl-64d205c0",
+      "nl-cae75d1e",
+      "nl-a44d8731",
+      "nl-1e9d7f8e",
+      "nl-d9d82379"
+    ],
+    "sentences": [
+      {
+        "nl": "Hallo! Wat mag het zijn?",
+        "ua": "Продавець: Добрий день! Що бажаєте?",
+        "audio": "les16-reading-01.mp3"
+      },
+      {
+        "nl": "Ik wil graag twee appels.",
+        "ua": "Покупець: Мені, будь ласка, два яблука.",
+        "audio": "les16-reading-02.mp3"
+      },
+      {
+        "nl": "Dat is twee euro vijftig.",
+        "ua": "Продавець: Це два євро п'ятдесят.",
+        "audio": "les16-reading-03.mp3"
+      },
+      {
+        "nl": "En wat kost de kaas?",
+        "ua": "Покупець: А скільки коштує сир?",
+        "audio": "les16-reading-04.mp3"
+      },
+      {
+        "nl": "De kaas kost twaalf euro.",
+        "ua": "Продавець: Сир коштує дванадцять євро.",
+        "audio": "les16-reading-05.mp3"
+      },
+      {
+        "nl": "Dat is duur! Ik heb geen geld voor de kaas.",
+        "ua": "Покупець: Це дорого! У мене немає грошей на сир.",
+        "audio": "les16-reading-06.mp3"
+      },
+      {
+        "nl": "Maar de appels zijn goedkoop.",
+        "ua": "Продавець: Але яблука дешеві.",
+        "audio": "les16-reading-07.mp3"
+      },
+      {
+        "nl": "Ik betaal twee euro vijftig.",
+        "ua": "Покупець: Я плачу два євро п'ятдесят.",
+        "audio": "les16-reading-08.mp3"
+      },
+      {
+        "nl": "Bedankt!",
+        "ua": "Продавець: Дякую!",
+        "audio": "les16-reading-09.mp3"
+      },
+      {
+        "nl": "Tot ziens!",
+        "ua": "Покупець: До побачення!",
+        "audio": "les16-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Хліб коштує два євро.",
+          "cue": "het brood; kosten; twee euro",
+          "accepted": [
+            "Het brood kost twee euro."
+          ]
+        },
+        {
+          "prompt": "Скільки коштує молоко? (конкретне молоко, яке ти бачиш)",
+          "cue": "wat of hoeveel; kosten; de melk",
+          "accepted": [
+            "Wat kost de melk?",
+            "Hoeveel kost de melk?"
+          ]
+        },
+        {
+          "prompt": "Помідор коштує сорок центів. (один конкретний помідор)",
+          "cue": "de tomaat; kosten; veertig cent",
+          "accepted": [
+            "De tomaat kost veertig cent."
+          ]
+        },
+        {
+          "prompt": "Сир коштує два євро вісімдесят. (конкретний сир)",
+          "cue": "de kaas; kosten; twee euro tachtig",
+          "accepted": [
+            "De kaas kost twee euro tachtig."
+          ]
+        },
+        {
+          "prompt": "Скільки коштують банани? (конкретні банани, які ти бачиш)",
+          "cue": "wat of hoeveel; kosten; de bananen",
+          "accepted": [
+            "Wat kosten de bananen?",
+            "Hoeveel kosten de bananen?"
+          ]
+        },
+        {
+          "prompt": "Це дев'ятнадцять євро.",
+          "cue": "dat + zijn; negentien euro",
+          "accepted": [
+            "Dat is negentien euro."
+          ]
+        },
+        {
+          "prompt": "У мого тата немає грошей.",
+          "cue": "mijn vader; hebben; geen geld",
+          "accepted": [
+            "Mijn vader heeft geen geld."
+          ]
+        },
+        {
+          "prompt": "Ця груша дорога.",
+          "cue": "deze peer; zijn; duur",
+          "accepted": [
+            "Deze peer is duur."
+          ]
+        },
+        {
+          "prompt": "Ці яблука дешеві.",
+          "cue": "deze appels; zijn; goedkoop",
+          "accepted": [
+            "Deze appels zijn goedkoop.",
+            "De appels zijn goedkoop."
+          ]
+        },
+        {
+          "prompt": "Ми купуємо один дорогий хліб.",
+          "cue": "wij; kopen; een duur brood",
+          "accepted": [
+            "Wij kopen een duur brood.",
+            "We kopen een duur brood."
+          ]
+        },
+        {
+          "prompt": "Ми купуємо дешеві груші. (кілька груш, без артикля)",
+          "cue": "wij; kopen; goedkope peren",
+          "accepted": [
+            "Wij kopen goedkope peren.",
+            "We kopen goedkope peren."
+          ]
+        },
+        {
+          "prompt": "Дякую за хліб.",
+          "cue": "bedankt; voor het brood",
+          "accepted": [
+            "Bedankt voor het brood."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "kost",
+        "kosten",
+        "euro",
+        "cent",
+        "prijs",
+        "geld",
+        "duur",
+        "dure",
+        "goedkoop",
+        "goedkope",
+        "bedankt"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Wat ___ de kaas?",
+          "hint": "Скільки коштує сир?",
+          "accepted": [
+            [
+              "kost"
+            ]
+          ]
+        },
+        {
+          "text": "De appels ___ vier euro.",
+          "hint": "Яблука коштують чотири євро.",
+          "accepted": [
+            [
+              "kosten"
+            ]
+          ]
+        },
+        {
+          "text": "Het brood kost twee ___.",
+          "hint": "Хліб коштує два євро.",
+          "accepted": [
+            [
+              "euro"
+            ]
+          ]
+        },
+        {
+          "text": "Het ei kost vijftig ___.",
+          "hint": "Яйце коштує п'ятдесят центів.",
+          "accepted": [
+            [
+              "cent"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ is twaalf euro.",
+          "hint": "Ціна дванадцять євро.",
+          "accepted": [
+            [
+              "prijs"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder heeft geen ___.",
+          "hint": "У моєї мами немає грошей.",
+          "accepted": [
+            [
+              "geld"
+            ]
+          ]
+        },
+        {
+          "text": "De kaas is ___.",
+          "hint": "Сир дорогий.",
+          "accepted": [
+            [
+              "duur"
+            ]
+          ]
+        },
+        {
+          "text": "Zij koopt een ___ kaas.",
+          "hint": "Вона купує дорогий сир.",
+          "accepted": [
+            [
+              "dure"
+            ]
+          ]
+        },
+        {
+          "text": "De peren zijn ___.",
+          "hint": "Груші дешеві.",
+          "accepted": [
+            [
+              "goedkoop"
+            ]
+          ]
+        },
+        {
+          "text": "Wij kopen ___ appels.",
+          "hint": "Ми купуємо дешеві яблука.",
+          "accepted": [
+            [
+              "goedkope"
+            ]
+          ]
+        },
+        {
+          "text": "___ voor het brood!",
+          "hint": "Дякую за хліб!",
+          "accepted": [
+            [
+              "bedankt"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: питання, множина, інше слово, заперечення чи слово на початку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Het brood kost twee euro.",
+          "cue": "-> питання з Wat kost",
+          "accepted": [
+            "Wat kost het brood?"
+          ]
+        },
+        {
+          "prompt": "De tomaat kost vier euro.",
+          "cue": "-> множина (de tomaten)",
+          "accepted": [
+            "De tomaten kosten vier euro."
+          ]
+        },
+        {
+          "prompt": "De kaas is duur.",
+          "cue": "-> goedkoop замість duur",
+          "accepted": [
+            "De kaas is goedkoop."
+          ]
+        },
+        {
+          "prompt": "Ik heb geld.",
+          "cue": "-> заперечення з geen",
+          "accepted": [
+            "Ik heb geen geld."
+          ]
+        },
+        {
+          "prompt": "Dit is een goedkope tomaat.",
+          "cue": "-> duur замість goedkoop",
+          "accepted": [
+            "Dit is een dure tomaat."
+          ]
+        },
+        {
+          "prompt": "Dit is een goedkoop ei.",
+          "cue": "-> duur замість goedkoop",
+          "accepted": [
+            "Dit is een duur ei."
+          ]
+        },
+        {
+          "prompt": "De appels kosten drie euro.",
+          "cue": "-> питання з Hoeveel",
+          "accepted": [
+            "Hoeveel kosten de appels?"
+          ]
+        },
+        {
+          "prompt": "Het brood kost vier euro.",
+          "cue": "-> 4,20 (додай twintig)",
+          "accepted": [
+            "Het brood kost vier euro twintig."
+          ]
+        },
+        {
+          "prompt": "Ik betaal drie euro vijftig.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag betaal ik drie euro vijftig."
+          ]
+        },
+        {
+          "prompt": "De kaas kost twaalf euro.",
+          "cue": "-> починай з In de winkel",
+          "accepted": [
+            "In de winkel kost de kaas twaalf euro."
+          ]
+        },
+        {
+          "prompt": "Wij betalen vijf euro.",
+          "cue": "-> jij",
+          "accepted": [
+            "Jij betaalt vijf euro.",
+            "Je betaalt vijf euro."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Het brood ___ vier euro.",
+          "cue": "kosten",
+          "accepted": [
+            "kost"
+          ]
+        },
+        {
+          "text": "De appels ___ twee euro.",
+          "cue": "kosten",
+          "accepted": [
+            "kosten"
+          ]
+        },
+        {
+          "text": "Ik ___ graag twee appels.",
+          "cue": "willen",
+          "accepted": [
+            "wil"
+          ]
+        },
+        {
+          "text": "Jij ___ vijf euro.",
+          "cue": "betalen",
+          "accepted": [
+            "betaalt"
+          ]
+        },
+        {
+          "text": "___ jij de kaas?",
+          "cue": "kopen",
+          "accepted": [
+            "Koop"
+          ]
+        },
+        {
+          "text": "Wij ___ geen geld.",
+          "cue": "hebben",
+          "accepted": [
+            "hebben"
+          ]
+        },
+        {
+          "text": "De kaas ___ duur.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Hoeveel ___ de eieren?",
+          "cue": "kosten",
+          "accepted": [
+            "kosten"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ een koffie.",
+          "cue": "bestellen",
+          "accepted": [
+            "bestelt"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ goedkope appels.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        },
+        {
+          "text": "Wij ___ twee koffies.",
+          "cue": "bestellen",
+          "accepted": [
+            "bestellen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
