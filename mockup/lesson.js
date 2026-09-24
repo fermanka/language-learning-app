@@ -155,12 +155,17 @@ if (typeof document === 'undefined') {
   const input = (cls, accepted, value) => { const i = el('input'); i.type = 'text'; i.autocomplete = 'off'; i.spellcheck = false; if (cls) i.className = cls; if (value != null) { i.value = value; i.readOnly = true; } else i.dataset.acc = JSON.stringify(accepted); return i; };
 
   function renderPractice(L) {
-    const root = $('b4-body');
-    L.practice.forEach((ex, idx) => {
+    L.practice.forEach((ex, idx) => renderExercise($('b4-body'), L, ex, idx, idx + 1));
+  }
+
+  // exKey: the number of a lesson exercise, or "x:<id>" for the teacher's extra practice (it is what the log stores)
+  function renderExercise(root, L, ex, exKey, badge) {
+    {
+      const idx = exKey;
       const box = el('div', 'ex');
       const last = (log.state().exercises[`${L.id}#${idx}`] || {}).last; // the learner's latest saved attempt, if any
       let dictWords = null;
-      const h = el('h3'); h.append(el('span', 'badge', String(idx + 1)), document.createTextNode(ex.instruction_ua)); box.append(h);
+      const h = el('h3'); h.append(el('span', 'badge', String(badge)), document.createTextNode(ex.instruction_ua)); box.append(h);
       const list = ex.type === 'matching' ? el('div', 'match') : el('ol', 'items');
       if (ex.type === 'gaps') { const bank = el('div', 'bank'); ex.bank.forEach((w) => bank.append(el('span', null, w))); box.append(bank); }
 
@@ -234,7 +239,25 @@ if (typeof document === 'undefined') {
       retry.onclick = () => { list.querySelectorAll('[data-acc]').forEach((i) => { i.value = ''; i.classList.remove('ok', 'bad'); }); list.querySelectorAll('.fix').forEach((f) => f.remove()); res.classList.remove('show'); lastChecked = ''; };
       box.append(check, document.createTextNode(' '), retry, res);
       root.append(box);
-    });
+    }
+  }
+
+  // The teacher's extra practice for the open lesson, read from the connected folder (extra/<lang>/les-NN.json).
+  // It never counts towards the lesson's 100%: the block is optional and only appears when the teacher has written a set.
+  function renderExtra(L) {
+    const box = $('b5-extra'); box.innerHTML = '';
+    if (!log.store || !log.store.readExtra) return;
+    const note = (text, cls) => { box.innerHTML = ''; box.append(el('h3', 'sub', 'Додаткова практика'), el('p', cls || 'meta', text)); };
+    log.store.readExtra(L.id).then((res) => {
+      if (LESSONS[current].id !== L.id || !res) return;   // the learner moved to another lesson, or there is no file
+      if (res.error) { note(`Файл додаткової практики не вдалося прочитати: ${res.error}`, 'meta warn'); return; }
+      const v = window.ExtraPractice.validateExtra(res.data, L.id);
+      if (v.errors.length) { note(`Файл додаткової практики має помилки, скажи Марійке: ${v.errors.slice(0, 3).join('; ')}`, 'meta warn'); return; }
+      box.innerHTML = '';
+      box.append(el('h3', 'sub', 'Додаткова практика'));
+      if (res.data.note_ua) box.append(el('p', 'meta', res.data.note_ua));
+      v.exercises.forEach((ex, i) => renderExercise(box, L, ex, `x:${ex.id}`, i + 1));
+    }).catch((e) => { if (LESSONS[current].id === L.id) note(`Не вдалося прочитати додаткову практику: ${e.message}`, 'meta warn'); });
   }
 
   const LESSON_KEY = 'currentLesson';   // a per-browser convenience, like the theme: which lesson is open
@@ -244,7 +267,7 @@ if (typeof document === 'undefined') {
     if (changed && typeof session !== 'undefined' && session) endSession();   // the deck changes with the open lesson
     if (remember) { firstVisit = false; try { localStorage.setItem(LESSON_KEY, LESSONS[idx].id); } catch (e) { /* storage may be blocked */ } }
     const L = LESSONS[idx];
-    ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body'].forEach((id) => { $(id).innerHTML = ''; });
+    ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body', 'b5-extra'].forEach((id) => { $(id).innerHTML = ''; });
     $('lesson-label').textContent = `Les ${L.order}`;
     $('prev').classList.toggle('invisible', idx === 0);   // there is no lesson before the first one
     renderRule(L);
@@ -268,6 +291,7 @@ if (typeof document === 'undefined') {
     $('reading-title').textContent = $('reading-title-2').textContent = `${L.reading.title} (${L.reading.title_ua})`;
     renderReading($('b3-text'), L); renderReading($('texts-copy'), L);
     renderPractice(L);
+    renderExtra(L);
     renderProgress();
     renderUploadNote();
   }

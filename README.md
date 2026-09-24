@@ -11,6 +11,7 @@ Early. What exists today:
 - `scripts/validate-content.js` - checks every lesson file (structure, permanent ids, answer keys) and audits that a sentence never uses a word that has not been taught yet.
 - `mockup/` - a plain-HTML lesson page (no build step) with audio playback, self-checking exercises, a dark and a light (papyrus) theme, a progress log, and flashcards with spaced repetition (FSRS).
 - `docs/adr/` - the decisions behind the design (why data lives where it lives, the lesson file format).
+- `mockup/extra-practice.js` + `docs/extra-practice-format.md` - the optional "Додаткова практика" block at the end of a lesson's practice: exercises the teacher writes for one learner into that learner's private data folder (`extra/<lang>/les-NN.json`). The page only reads them; check a file with `npm run validate:extra -- <data folder>`.
 
 There is no server and no account system, on purpose.
 
@@ -28,7 +29,7 @@ Then open `mockup/lesson.html` in Chrome or Edge. Audio is not part of this repo
 ## Privacy: code and content are public, the learner's data is not
 
 - Lessons are content written by the teacher. They live in `content/` and are public.
-- Everything about the learner (progress, answers, recordings, notes, photos of notes) is **never** committed here.
+- Everything about the learner (progress, answers, recordings, notes, photos of notes, the extra practice built from her mistakes) is **never** committed here.
   The app writes progress to a folder the learner picks, outside this repository, as an append-only log
   (one JSON event per line, one file per day per device). `.gitignore` also blocks those paths as a second layer.
 - Audio files are generated or supplied separately and are not committed either.

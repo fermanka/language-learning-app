@@ -18,7 +18,7 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
@@ -30,6 +30,7 @@ global.localStorage = { getItem: (k) => (storage.has(k) ? storage.get(k) : null)
 window.ProgressStore = require('./progress-store.js');
 window.FSRS = require('ts-fsrs');
 window.Cards = require('./cards.js');
+window.ExtraPractice = require('./extra-practice.js');
 require('./lesson.js');
 
 let bad = 0;
@@ -223,5 +224,37 @@ byId['next'].onclick();
 t('...and after Next it is the next one', storage.get('currentLesson') === window.LESSONS[1].id);
 byId['prev'].onclick();
 
-console.log(bad ? `FAILURES: ${bad}` : 'SMOKE TEST PASSED');
-process.exit(bad ? 1 : 0);
+// ---- extra practice: the teacher's personalised set, read from the learner's folder (stubbed here)
+(async () => {
+  const flush = () => new Promise((r) => setTimeout(r, 0));
+  const sample = require('../docs/extra-practice-example/extra/nl/les-05.json');
+  const L0 = window.LESSONS[0];
+  const extraBox = () => byId['b5-extra'];
+  const exBoxes = () => extraBox().children.filter((c) => c.className === 'ex');
+  let served = (id) => ({ data: { ...sample, lesson: id } });
+  window.progressLog.store = { readExtra: async (id) => served(id) };
+  byId['next'].onclick(); byId['prev'].onclick(); await flush();   // reopen Les 1 with a folder connected
+  t('extra: the block appears under the practice, after the lesson exercises', extraBox().textContent.includes('Додаткова практика') && exBoxes().length === sample.exercises.length && byId['b4-body'].children.length === L0.practice.length);
+  const rowText = () => byId['progress-rows'].children[0].textContent;   // the row of Les 1
+  const rowBefore = rowText();
+  const first = exBoxes()[0], inputs = first.querySelectorAll('[data-acc]');
+  inputs.forEach((inp) => { inp.value = JSON.parse(inp.dataset.acc)[0]; });
+  buttons(first, 'Перевірити')[0].onclick();
+  t('extra: an answer is logged under the extra exercise id', window.progressLog.events.some((e) => e.type === 'exercise_checked' && e.lesson === L0.id && e.exercise === `x:${sample.exercises[0].id}` && e.ok === inputs.length));
+  t('extra: answering an extra exercise does not change the lesson percentage', rowText() === rowBefore);
+  byId['next'].onclick(); byId['prev'].onclick(); await flush();
+  t('extra: the saved answer is restored when the lesson reopens', exBoxes()[0].querySelectorAll('[data-acc]').every((i) => i.classList.contains('ok')));
+  served = () => null;
+  byId['next'].onclick(); await flush();
+  t('extra: no file for a lesson means no block at all', extraBox().children.length === 0);
+  served = (id) => ({ data: { lesson: 'nl-les-99', exercises: [] } });
+  byId['prev'].onclick(); await flush();
+  t('extra: a broken file is reported, not rendered', extraBox().textContent.includes('має помилки') && exBoxes().length === 0);
+  served = () => ({ error: 'the file is not valid JSON' });
+  byId['next'].onclick(); await flush();
+  t('extra: an unreadable file is reported', extraBox().textContent.includes('не вдалося прочитати'));
+  window.progressLog.store = null;
+
+  console.log(bad ? `FAILURES: ${bad}` : 'SMOKE TEST PASSED');
+  process.exit(bad ? 1 : 0);
+})();

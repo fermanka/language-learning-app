@@ -1,0 +1,150 @@
+{
+  "lesson": "nl-les-05",
+  "note_ua": "Приклад формату. Це не урок: речення взято з Les 1 лише щоб показати структуру файлу.",
+  "exercises": [
+    {
+      "id": "demo-translate",
+      "type": "translate",
+      "instruction_ua": "Переклади голландською",
+      "items": [
+        {
+          "prompt": "Ти - син.",
+          "cue": "jij + zijn; de zoon",
+          "accepted": [
+            "Jij bent de zoon.",
+            "Je bent de zoon."
+          ]
+        },
+        {
+          "prompt": "Він злий.",
+          "cue": "hij + zijn",
+          "accepted": [
+            "Hij is boos."
+          ]
+        },
+        {
+          "prompt": "Ми живемо в лісі.",
+          "cue": "wij + wonen; in het bos",
+          "accepted": [
+            "Wij wonen in het bos.",
+            "We wonen in het bos."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo-gaps",
+      "type": "gaps",
+      "instruction_ua": "Встав пропущені слова",
+      "bank": [
+        "ben",
+        "bent",
+        "is",
+        "zijn",
+        "woon",
+        "woont",
+        "wonen",
+        "jij",
+        "u",
+        "hij",
+        "wij",
+        "jullie",
+        "de man",
+        "de zoon",
+        "de muis",
+        "de mannen",
+        "het boek",
+        "het huis",
+        "het bos"
+      ],
+      "items": [
+        {
+          "text": "___ ___ de zoon.",
+          "hint": "Ти - син.",
+          "accepted": [
+            [
+              "Jij",
+              "Je"
+            ],
+            [
+              "bent"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ in ___.",
+          "hint": "Ми живемо в лісі.",
+          "accepted": [
+            [
+              "wonen"
+            ],
+            [
+              "het bos"
+            ]
+          ]
+        },
+        {
+          "text": "___ ___ in het huis.",
+          "hint": "Миша живе в домі.",
+          "accepted": [
+            [
+              "De muis"
+            ],
+            [
+              "woont"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo-transform",
+      "type": "transform",
+      "instruction_ua": "Зміни підмет і дієслово: однина <-> множина",
+      "items": [
+        {
+          "prompt": "De muis woont in het huis.",
+          "cue": "-> мн.",
+          "accepted": [
+            "De muizen wonen in het huis."
+          ]
+        },
+        {
+          "prompt": "Het boek is in het huis.",
+          "cue": "-> мн.",
+          "accepted": [
+            "De boeken zijn in het huis."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demo-verbform",
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "text": "Hij ___ de zoon.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "U ___ in het bos.",
+          "cue": "wonen",
+          "accepted": [
+            "woont"
+          ]
+        },
+        {
+          "text": "Ik ___ in het huis.",
+          "cue": "wonen",
+          "accepted": [
+            "woon"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,9 @@ const path = require('path');
 const F = require('ts-fsrs');
 const Cards = require('../mockup/cards.js');
 
+// A lesson exercise is a number (shown 1-based); the teacher's extra practice is "x:<id>".
+const exLabel = (ex) => (typeof ex === 'string' ? 'extra ' + ex.slice(2) : ex + 1);
+const exOrder = (ex) => (typeof ex === 'string' ? 1000 : ex);
 const display = (n) => (n.type === 'noun' ? `${n.article} ${n.lemma}` : n.lemma);
 const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio);
 
@@ -64,8 +67,8 @@ function buildDigest(events, lessons, bad = 0) {
   if (!perEx.size) out.push('None yet.');
   else {
     out.push('| Lesson | Exercise | Type | Attempts | Last | Best |', '|---|---|---|---|---|---|');
-    for (const x of [...perEx.values()].sort((a, b) => (byId.get(a.lesson)?.order || 0) - (byId.get(b.lesson)?.order || 0) || a.exercise - b.exercise)) {
-      out.push(`| Les ${byId.get(x.lesson)?.order ?? '?'} | ${x.exercise + 1} | ${x.kind} | ${x.attempts} | ${x.last.ok}/${x.last.total} | ${x.best}/${x.last.total} |`);
+    for (const x of [...perEx.values()].sort((a, b) => (byId.get(a.lesson)?.order || 0) - (byId.get(b.lesson)?.order || 0) || exOrder(a.exercise) - exOrder(b.exercise) || String(a.exercise).localeCompare(String(b.exercise)))) {
+      out.push(`| Les ${byId.get(x.lesson)?.order ?? '?'} | ${exLabel(x.exercise)} | ${x.kind} | ${x.attempts} | ${x.last.ok}/${x.last.total} | ${x.best}/${x.last.total} |`);
     }
   }
 
@@ -73,7 +76,7 @@ function buildDigest(events, lessons, bad = 0) {
   const missed = new Map();
   for (const e of checks) {
     const lesson = byId.get(e.lesson);
-    const fields = lesson && lesson.practice[e.exercise] ? fieldsOf(lesson, lesson.practice[e.exercise]) : [];
+    const fields = lesson && typeof e.exercise === 'number' && lesson.practice[e.exercise] ? fieldsOf(lesson, lesson.practice[e.exercise]) : [];
     for (const w of e.wrong || []) {
       const field = fields[w.n];
       const expected = w.expected ?? (field && field.expected);
@@ -86,7 +89,7 @@ function buildDigest(events, lessons, bad = 0) {
   out.push('', '## Most missed items', '');
   if (!missed.size) out.push('None yet.');
   for (const m of [...missed.values()].sort((a, b) => b.count - a.count).slice(0, 15)) {
-    out.push(`- Les ${m.lesson}, exercise ${m.exercise + 1} (${m.kind}): expected "${m.expected}", missed ${m.count}x${m.label ? `; item: ${m.label}` : ''}${m.typed.size ? `; typed: ${[...m.typed].map((s) => `"${s}"`).join(', ')}` : ''}`);
+    out.push(`- Les ${m.lesson}, exercise ${exLabel(m.exercise)} (${m.kind}): expected "${m.expected}", missed ${m.count}x${m.label ? `; item: ${m.label}` : ''}${m.typed.size ? `; typed: ${[...m.typed].map((s) => `"${s}"`).join(', ')}` : ''}`);
   }
 
   // flashcards

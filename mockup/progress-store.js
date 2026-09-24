@@ -10,6 +10,12 @@
   const pad = (n) => String(n).padStart(2, '0');
   const dayOf = (d) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
 
+  // nl-les-05 -> extra/nl/les-05.json
+  function extraLocation(lessonId) {
+    const m = /^([a-z]{2})-(les-\d+)$/.exec(lessonId || '');
+    return m ? { lang: m[1], file: `${m[2]}.json` } : null;
+  }
+
   // Uses only the small part of the File System Access API that a fake folder can also offer.
   class FolderStore {
     constructor(rootDir, opts = {}) {
@@ -47,6 +53,23 @@
       }
       events.sort((a, b) => (a.t < b.t ? -1 : a.t > b.t ? 1 : 0));
       return { events, bad };
+    }
+
+    // The teacher's extra practice for one lesson: extra/<lang>/les-NN.json in the learner's folder. Read-only.
+    // null = no file (normal); { error } = the file is there but unreadable; { data } = parsed JSON.
+    async readExtra(lessonId) {
+      const at = extraLocation(lessonId);
+      if (!at) return null;
+      let file;
+      try {
+        const dir = await (await this.root.getDirectoryHandle('extra')).getDirectoryHandle(at.lang);
+        file = await dir.getFileHandle(at.file);
+      } catch (e) {
+        if (e && e.name === 'NotFoundError') return null;
+        throw e;
+      }
+      const text = await (await file.getFile()).text();
+      try { return { data: JSON.parse(text) }; } catch (e) { return { error: `the file is not valid JSON (${e.message})` }; }
     }
 
     async saveRecording(name, blob) {
@@ -163,5 +186,5 @@
     },
   };
 
-  return { FolderStore, ProgressLog, fold, migrate, dayOf, handleStore };
+  return { FolderStore, ProgressLog, fold, migrate, dayOf, handleStore, extraLocation };
 });
