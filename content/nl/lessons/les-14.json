@@ -84,7 +84,7 @@
       "lemma": "om",
       "ua": "о (om zeven uur = о сьомій)",
       "audio": "om.mp3",
-      "explain_ua": "(Om zeven uur sta ik op = о сьомій я встаю). Om тільки для точного часу, коли щось відбувається. Не плутай: in zeven uur це «через сім годин», а не «о сьомій». Не плутай і з op (Les 13): op для днів, om для годин"
+      "explain_ua": "(Om zeven uur sta ik op = о сьомій я встаю). Om тільки для точного часу, коли щось відбувається. Не плутай: in zeven uur це «за сім годин», а «через сім годин» це over zeven uur; жоден з цих виразів не значить «о сьомій». Не плутай і з op (Les 13): op для днів, om для годин"
     }
   ],
   "rule": [
@@ -135,7 +135,7 @@
               "audio": "les14-example-07.mp3"
             }
           ],
-          "note_ua": "Тільки om: не in zeven uur (це «через сім годин») і не op zeven uur."
+          "note_ua": "Тільки om: не in zeven uur (це «за сім годин») і не op zeven uur."
         },
         {
           "form": "Hoe laat + дієслово: о котрій",
