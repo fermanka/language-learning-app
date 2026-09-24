@@ -559,6 +559,10 @@ if (typeof document === 'undefined') {
   document.querySelectorAll('.toggle-tr').forEach((b) => b.onclick = () => document.body.classList.toggle('show-tr'));
   $('next').onclick = () => {
     const wasDone = isDone(current);   // a lesson that is already done is not recorded a second time
+    if (!wasDone) {   // this button doubles as "mark as done": ask first when the practice is not finished, so a lesson opened just to look is not marked by accident
+      const { pct } = PS.lessonProgress(LESSONS[current], log.state());
+      if (pct < 100 && !confirm(`У Les ${LESSONS[current].order} практика виконана лише на ${pct}%. Позначити урок пройденим і йти далі? Якщо ти лише дивилась урок, натисни «Скасувати».`)) return;
+    }
     if (!wasDone) log.record({ type: 'lesson_done', lesson: LESSONS[current].id });
     if (current + 1 >= LESSONS.length) { renderProgress(); toast(wasDone ? 'Це останній опублікований урок.' : `Les ${LESSONS[current].order} позначено пройденим. Це останній опублікований урок.`); return; }
     renderLesson(current + 1); window.scrollTo(0, 0); toast(`Відкрито Les ${LESSONS[current].order}.`);
