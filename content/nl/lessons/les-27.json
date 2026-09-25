@@ -1,0 +1,1231 @@
+{
+  "id": "nl-les-27",
+  "lang": "nl",
+  "order": 27,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-93d1a944",
+      "type": "function",
+      "lemma": "vroeger",
+      "ua": "раніше, колись (у минулому)",
+      "audio": "vroeger.mp3",
+      "explain_ua": "(Vroeger woonde ik in een klein huis = раніше я жила в маленькому будинку). Vroeger це «раніше, колись»: про період або звичку в давнішому минулому. Пара до toen (Les 26): toen це один момент («тоді»), vroeger це давніший час («раніше»). Не плутай з vroeg (Les 14) = рано. Слова пов'язані: vroeger це порівняльний ступінь від vroeg («раніше» = «більш рано»); порівняльний ступінь вчимо пізніше, тут це лише підказка для пам'яті. Форма не змінюється. Стоїть першим (тоді дієслово друге: Vroeger woonde ik ...) або після підмета (Ik woonde vroeger ...). Vr це [vr]; oe це [u], як у boek (Les 1); g це [x], як х у хата; -er слабке «ер»; наголос на першому складі: приблизно «вру-хер»"
+    },
+    {
+      "id": "nl-08127529",
+      "type": "noun",
+      "article": "de",
+      "lemma": "muziek",
+      "plural": [],
+      "ua": "музика",
+      "audio": "de-muziek.mp3",
+      "explain_ua": "(Ik luister naar muziek = я слухаю музику; De muziek is mooi = музика гарна). Слово ти вже знаєш: музика, music. Множини в muziek немає (як у het water, Les 7): це слово лише в однині. Музика взагалі, без уточнення, стоїть без артикля (Ik luister naar muziek); конкретна музика з de (naar de muziek). Наголос на другому складі: mu-ZIEK. U в mu- це [y], як uu в het uur (Les 5): губи як для «у», а язик як для «і»; ie це [i], як у ziek (Les 26): приблизно «мюзік»"
+    },
+    {
+      "id": "nl-5adbea8f",
+      "type": "verb",
+      "lemma": "woonde / woonden",
+      "ua": "жив, жила, жили (wonen у минулому)",
+      "audio": "woonde-woonden.mp3",
+      "audio_text": "woonde / woonden",
+      "dictation": false,
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "woonde",
+          "audio": "ik-woonde.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "woonde",
+          "audio": "jij-woonde.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "woonde",
+          "audio": "u-woonde.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "woonde",
+          "audio": "hij-woonde.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "woonden",
+          "audio": "wij-woonden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "woonden",
+          "audio": "jullie-woonden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "woonden",
+          "audio": "zij-woonden.mp3"
+        }
+      ],
+      "explain_ua": "(Ik woonde in Nederland = я жила в Нідерландах; Wij woonden in de stad = ми жили в місті). Це wonen (Les 1) у минулому: woonde (ik, jij, u, hij, zij, het) і woonden (wij, jullie, zij). Основа woon; літера n перед -en не входить до 't kofschip, тож -de. Закінчення -t немає: jij woonde, не jij woondt. Це форма-зразок для решти уроку: усі правильні дієслова в минулому будуються так само. Oo довге [oː], як у boos (Les 1); w це [ʋ] (Les 1): приблизно «вон-де»"
+    },
+    {
+      "id": "nl-17421493",
+      "type": "verb",
+      "lemma": "leren",
+      "ua": "вчити, вивчати, вчитися",
+      "audio": "leren.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "leerde",
+          "audio": "ik-leerde.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "leerde",
+          "audio": "jij-leerde.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "leerde",
+          "audio": "u-leerde.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "leerde",
+          "audio": "hij-leerde.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "leerden",
+          "audio": "wij-leerden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "leerden",
+          "audio": "jullie-leerden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "leerden",
+          "audio": "zij-leerden.mp3"
+        },
+        {
+          "pronoun": "ik",
+          "ua": "я (теперішній час)",
+          "form": "leer",
+          "audio": "ik-leer.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно (теперішній час)",
+          "form": "leert",
+          "audio": "hij-leert.mp3"
+        }
+      ],
+      "explain_ua": "(Ik leer Nederlands = я вчу нідерландську; Wij leerden Nederlands = ми вчили нідерландську). Таблиця показує минулий час; теперішній: ik leer, jij leert, hij leert, wij leren. Основа leer: голосна лишається подвоєною, як у loop (Les 7), і в минулому теж: leerde. Літера r перед -en не входить до 't kofschip, тож -de: leerde, leerden. Nederlands, Engels, Russisch без артикля (Les 18). Ee довге [eː], як у de peer (Les 10): приблизно «лер-де»"
+    },
+    {
+      "id": "nl-60148038",
+      "type": "verb",
+      "lemma": "luisteren",
+      "ua": "слухати (навмисно; luisteren naar)",
+      "audio": "luisteren.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "luisterde",
+          "audio": "ik-luisterde.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "luisterde",
+          "audio": "jij-luisterde.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "luisterde",
+          "audio": "u-luisterde.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "luisterde",
+          "audio": "hij-luisterde.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "luisterden",
+          "audio": "wij-luisterden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "luisterden",
+          "audio": "jullie-luisterden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "luisterden",
+          "audio": "zij-luisterden.mp3"
+        },
+        {
+          "pronoun": "ik",
+          "ua": "я (теперішній час)",
+          "form": "luister",
+          "audio": "ik-luister.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно (теперішній час)",
+          "form": "luistert",
+          "audio": "hij-luistert.mp3"
+        }
+      ],
+      "explain_ua": "(Ik luister naar muziek = я слухаю музику; Zij luisterde naar de moeder = вона слухала маму). Таблиця показує минулий час; теперішній: ik luister, jij luistert, hij luistert, wij luisteren. Luisteren це «слухати» навмисно і завжди з naar: luisteren naar, як kijken naar (Les 9). Не плутай з horen («чути»): є окрема картка. Основа luister; літера r перед -en не входить до 't kofschip, тож -de: luisterde, luisterden. Ui це [œy], як у huis (Les 1); наголос на першому складі: приблизно «льойстерен»"
+    },
+    {
+      "id": "nl-3e460ac1",
+      "type": "verb",
+      "lemma": "horen",
+      "ua": "чути (без наміру)",
+      "audio": "horen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "hoorde",
+          "audio": "ik-hoorde.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "hoorde",
+          "audio": "jij-hoorde.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "hoorde",
+          "audio": "u-hoorde.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "hoorde",
+          "audio": "hij-hoorde.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "hoorden",
+          "audio": "wij-hoorden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "hoorden",
+          "audio": "jullie-hoorden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "hoorden",
+          "audio": "zij-hoorden.mp3"
+        },
+        {
+          "pronoun": "ik",
+          "ua": "я (теперішній час)",
+          "form": "hoor",
+          "audio": "ik-hoor.mp3"
+        }
+      ],
+      "explain_ua": "(Ik hoor de trein = я чую потяг; Wij hoorden de regen = ми чули дощ). Таблиця показує минулий час; теперішній: ik hoor, jij hoort, hij hoort, wij horen. Horen це «чути»: звук сам доходить до тебе, без naar. Основа hoor: oo подвоюється, як у loop (Les 7), і лишається в минулому: hoorde. Літера r перед -en не входить до 't kofschip, тож -de. Oo довге [oː], як у boos (Les 1); h це легкий видих, як українське г, не х: приблизно «гор-де»"
+    },
+    {
+      "id": "nl-89a56a14",
+      "type": "verb",
+      "lemma": "spelen",
+      "ua": "грати, гратися",
+      "audio": "spelen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "speelde",
+          "audio": "ik-speelde.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "speelde",
+          "audio": "jij-speelde.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "speelde",
+          "audio": "u-speelde.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "speelde",
+          "audio": "hij-speelde.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "speelden",
+          "audio": "wij-speelden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "speelden",
+          "audio": "jullie-speelden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "speelden",
+          "audio": "zij-speelden.mp3"
+        }
+      ],
+      "explain_ua": "(De kinderen spelen in het park = діти граються в парку; Ik speelde in de tuin = я гралася в саду). Таблиця показує минулий час; теперішній: ik speel, jij speelt, hij speelt, wij spelen. Spelen це «грати»: діти граються, люди грають у гру. Основа speel: ee лишається подвоєним, як у leerde. Літера l перед -en не входить до 't kofschip, тож -de: speelde, speelden. Sp це [sp]; ee довге [eː]: приблизно «спел-де»"
+    },
+    {
+      "id": "nl-8fe2a81c",
+      "type": "verb",
+      "lemma": "fietsen",
+      "ua": "їздити на велосипеді",
+      "audio": "fietsen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "fietste",
+          "audio": "ik-fietste.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "fietste",
+          "audio": "jij-fietste.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "fietste",
+          "audio": "u-fietste.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "fietste",
+          "audio": "hij-fietste.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "fietsten",
+          "audio": "wij-fietsten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "fietsten",
+          "audio": "jullie-fietsten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "fietsten",
+          "audio": "zij-fietsten.mp3"
+        }
+      ],
+      "explain_ua": "(Ik fiets naar school = я їду до школи на велосипеді; Zij fietste naar het station = вона їхала на велосипеді до вокзалу). Таблиця показує минулий час; теперішній: ik fiets, jij fietst, hij fietst, wij fietsen. Fietsen це «їздити на велосипеді»: одне слово замість rijden met de fiets (Les 5, Les 6). Схоже на de fiets (Les 6): підказка для пам'яті. Літера s перед -en входить до 't kofschip, тож -te: fietste, fietsten. Не fietsde. Ie це [i], ts це [ts], як «ц»: приблизно «фіц-те»"
+    },
+    {
+      "id": "nl-0ca957a9",
+      "type": "verb",
+      "lemma": "lachen",
+      "ua": "сміятися",
+      "audio": "lachen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "lachte",
+          "audio": "ik-lachte.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "lachte",
+          "audio": "jij-lachte.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "lachte",
+          "audio": "u-lachte.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "lachte",
+          "audio": "hij-lachte.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "lachten",
+          "audio": "wij-lachten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "lachten",
+          "audio": "jullie-lachten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "lachten",
+          "audio": "zij-lachten.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (теперішній час)",
+          "form": "lacht",
+          "audio": "jij-lacht.mp3"
+        }
+      ],
+      "explain_ua": "(Wij lachen veel = ми багато сміємося; Hij lachte niet = він не сміявся). Таблиця показує минулий час; теперішній: ik lach, jij lacht, hij lacht, wij lachen. Іменник de lach = сміх (Les 1): та сама основа, тож слово знайоме. Літери ch перед -en входять до 't kofschip, тож -te: lachte, lachten. Не lachde. Ch це [x], як х у хата (Les 1): приблизно «лах-те»"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Минулий час: -de і -den",
+      "summary_ua": "Правильні дієслова в минулому: основа + -de для однини (ik, jij, u, hij, zij, het) і основа + -den для множини (wij, jullie, zij). Основа це інфінітив без -en. Закінчення -t немає, як у was і had (Les 26).",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Однина: основа + -de",
+          "when_ua": "ik, jij, u, hij, zij, het: одна форма для всіх, як was і had.",
+          "examples": [
+            {
+              "nl": "Ik **woonde** in Nederland.",
+              "ua": "Я жила в Нідерландах.",
+              "audio": "les27-rule-01.mp3"
+            },
+            {
+              "nl": "Jij **leerde** Engels.",
+              "ua": "Ти вчила англійську.",
+              "audio": "les27-rule-02.mp3"
+            },
+            {
+              "nl": "De zoon **speelde** in het bos.",
+              "ua": "Син грався в лісі.",
+              "audio": "les27-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не jij woondt і не hij leerdt: закінчення -t немає. Основа лишається такою, як у теперішньому часі: leer, speel, hoor (голосна подвоєна, Les 7)."
+        },
+        {
+          "form": "Множина: основа + -den",
+          "when_ua": "wij, jullie, zij та іменник у множині: одна форма, до основи додай -den.",
+          "examples": [
+            {
+              "nl": "Wij **woonden** in Kroatië.",
+              "ua": "Ми жили в Хорватії.",
+              "audio": "les27-rule-04.mp3"
+            },
+            {
+              "nl": "Jullie **leerden** veel.",
+              "ua": "Ви багато вчили.",
+              "audio": "les27-rule-05.mp3"
+            },
+            {
+              "nl": "De mannen **hoorden** de trein.",
+              "ua": "Чоловіки чули потяг.",
+              "audio": "les27-rule-06.mp3"
+            }
+          ],
+          "note_ua": "De man woonde, De mannen woonden: підмет-іменник у множині теж -den. Zij woonde це «вона жила», zij woonden це «вони жили»: закінчення показує, хто."
+        }
+      ],
+      "points_ua": [
+        "Однина: основа + -de. Множина: основа + -den.",
+        "Без закінчення -t: jij woonde."
+      ]
+    },
+    {
+      "title_ua": "'t kofschip: -de чи -te",
+      "summary_ua": "Подивись на літеру перед -en в інфінітиві. Якщо це t, k, f, s, ch або p, закінчення -te (однина) і -ten (множина). В усіх інших випадках -de і -den. Запам'ятай слово 't kofschip: t, k, f, s, ch, p.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "-te / -ten: t, k, f, s, ch, p",
+          "when_ua": "Основа закінчується на один із цих звуків: fiets (s), lach (ch). Тоді -te, -ten.",
+          "examples": [
+            {
+              "nl": "De man **fietste** naar het station.",
+              "ua": "Чоловік їхав на велосипеді до вокзалу.",
+              "audio": "les27-rule-07.mp3"
+            },
+            {
+              "nl": "Mijn zus **lachte** in de kamer.",
+              "ua": "Моя сестра сміялася в кімнаті.",
+              "audio": "les27-rule-08.mp3"
+            },
+            {
+              "nl": "Zij **fietsten** met hun moeder.",
+              "ua": "Вони їхали на велосипедах зі своєю мамою.",
+              "audio": "les27-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Не fietsde і не lachde: після t, k, f, s, ch, p завжди -te. Не всі дієслова правильні: kopen, lezen, drinken мають інші минулі форми (kocht, las, dronk), їх вчимо пізніше; не вгадуй koopte."
+        },
+        {
+          "form": "-de / -den: усі інші літери",
+          "when_ua": "Основа закінчується на n, r, l чи іншу літеру поза 't kofschip: woon, luister, speel, hoor, leer.",
+          "examples": [
+            {
+              "nl": "Ik **speelde** met mijn broer.",
+              "ua": "Я гралася з братом.",
+              "audio": "les27-rule-10.mp3"
+            },
+            {
+              "nl": "Zij **hoorden** de bus.",
+              "ua": "Вони чули автобус.",
+              "audio": "les27-rule-11.mp3"
+            },
+            {
+              "nl": "Het kind **luisterde** naar de moeder.",
+              "ua": "Дитина слухала маму.",
+              "audio": "les27-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Це правило знадобиться ще раз: у voltooid tijd (heeft gewoond, heeft gefietst) те саме 't kofschip обирає -d чи -t. Це буде в одному з наступних уроків, поки лише запам'ятай слово."
+        }
+      ],
+      "points_ua": [
+        "'t kofschip: t, k, f, s, ch, p дають -te / -ten.",
+        "Усі інші літери дають -de / -den."
+      ]
+    },
+    {
+      "title_ua": "Luisteren чи horen",
+      "summary_ua": "Luisteren це «слухати»: ти слухаєш навмисно, і завжди з naar. Horen це «чути»: звук сам доходить до тебе, і naar немає. Так само в англійській (listen to / hear) і в українській (слухати / чути).",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "Luisteren naar: слухати",
+          "when_ua": "Ти вирішуєш слухати: музику, маму, дощ. Завжди naar.",
+          "examples": [
+            {
+              "nl": "Ik luister vaak **naar** muziek.",
+              "ua": "Я часто слухаю музику.",
+              "audio": "les27-rule-13.mp3"
+            },
+            {
+              "nl": "De dochter luisterde **naar** haar vader.",
+              "ua": "Донька слухала свого тата.",
+              "audio": "les27-rule-14.mp3"
+            },
+            {
+              "nl": "Luister je **naar** de muziek?",
+              "ua": "Ти слухаєш музику?",
+              "audio": "les27-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Luisteren завжди з naar, як kijken naar (Les 9): не luisteren de muziek. Luister je ...?: -t зникає після je, як у Les 10."
+        },
+        {
+          "form": "Horen: чути",
+          "when_ua": "Ти не вирішуєш: звук просто доходить до тебе. Без naar.",
+          "examples": [
+            {
+              "nl": "Ik **hoor** de bus.",
+              "ua": "Я чую автобус.",
+              "audio": "les27-rule-16.mp3"
+            },
+            {
+              "nl": "**Hoor** je de muziek?",
+              "ua": "Ти чуєш музику?",
+              "audio": "les27-rule-17.mp3"
+            },
+            {
+              "nl": "Gisteren **hoorde** ik de regen.",
+              "ua": "Вчора я чула дощ.",
+              "audio": "les27-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Не horen naar: після horen прийменника немає. Hoor je ...?: -t зникає, як у luister je ...?"
+        },
+        {
+          "form": "Один звук, два слова",
+          "when_ua": "Luisteren це намір, horen це результат. Можна luisteren і не horen.",
+          "examples": [
+            {
+              "nl": "Ik **luister naar** de regen.",
+              "ua": "Я слухаю дощ (навмисно).",
+              "audio": "les27-rule-19.mp3"
+            },
+            {
+              "nl": "Ik **hoor** de regen.",
+              "ua": "Я чую дощ (він сам чутно).",
+              "audio": "les27-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Не Ik hoor naar de regen і не Ik luister de regen: обидва неправильні."
+        }
+      ],
+      "points_ua": [
+        "Luisteren naar: слухати навмисно.",
+        "Horen: чути, без naar."
+      ]
+    },
+    {
+      "title_ua": "Vroeger, gisteren першим: дієслово друге",
+      "summary_ua": "Правило те саме, що в Les 26: коли час стоїть першим, дієслово йде одразу за ним, а підмет після нього. Питання: дієслово першим. Заперечення: niet, як у Les 2. Закінчення -t немає.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Час першим: дієслово, потім підмет",
+          "when_ua": "Vroeger, gisteren, toen, vorig jaar: дієслово завжди на другому місці.",
+          "examples": [
+            {
+              "nl": "Vroeger **fietste** ik naar het werk.",
+              "ua": "Раніше я їздила на велосипеді на роботу.",
+              "audio": "les27-rule-21.mp3"
+            },
+            {
+              "nl": "Gisteren **luisterde** hij naar muziek.",
+              "ua": "Вчора він слухав музику.",
+              "audio": "les27-rule-22.mp3"
+            },
+            {
+              "nl": "Vorig jaar **leerden** wij Nederlands.",
+              "ua": "Торік ми вчили нідерландську.",
+              "audio": "les27-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Не Vroeger ik fietste. Так само, як Gisteren was ik moe (Les 26)."
+        },
+        {
+          "form": "Питання і заперечення",
+          "when_ua": "Питання: дієслово першим, без -t. Заперечення: niet стоїть за правилами Les 2.",
+          "examples": [
+            {
+              "nl": "**Woonde** jij vroeger in een grote stad?",
+              "ua": "Ти раніше жив у великому місті?",
+              "audio": "les27-rule-24.mp3"
+            },
+            {
+              "nl": "**Luisterden** jullie naar de muziek?",
+              "ua": "Ви слухали музику?",
+              "audio": "les27-rule-25.mp3"
+            },
+            {
+              "nl": "Zij **hoorde** de auto **niet**.",
+              "ua": "Вона не чула машину.",
+              "audio": "les27-rule-26.mp3"
+            },
+            {
+              "nl": "Wij **fietsten** gisteren **niet**.",
+              "ua": "Вчора ми не їздили на велосипедах.",
+              "audio": "les27-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Не Woondt jij?: після woonde t не з'являється. Niet стоїть після певного об'єкта (de auto niet) і в кінці, коли інших слів немає (gisteren niet)."
+        }
+      ],
+      "points_ua": [
+        "Vroeger, gisteren, toen першим: дієслово друге.",
+        "Woonde jij ...? Zij hoorde de auto niet."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik woonde vroeger in een klein huis.",
+      "ua": "Раніше я жила в маленькому будинку.",
+      "audio": "les27-example-01.mp3"
+    },
+    {
+      "nl": "Vroeger speelde ik in de tuin.",
+      "ua": "Раніше я гралася в саду.",
+      "audio": "les27-example-02.mp3"
+    },
+    {
+      "nl": "Wij woonden vroeger in de stad.",
+      "ua": "Раніше ми жили в місті.",
+      "audio": "les27-example-03.mp3"
+    },
+    {
+      "nl": "Zij fietste elke dag naar school.",
+      "ua": "Вона щодня їздила на велосипеді до школи.",
+      "audio": "les27-example-04.mp3"
+    },
+    {
+      "nl": "Hij lachte veel.",
+      "ua": "Він багато сміявся.",
+      "audio": "les27-example-05.mp3"
+    },
+    {
+      "nl": "De kinderen speelden in het park.",
+      "ua": "Діти гралися в парку.",
+      "audio": "les27-example-06.mp3"
+    },
+    {
+      "nl": "Ik luisterde naar de muziek.",
+      "ua": "Я слухала музику.",
+      "audio": "les27-example-07.mp3"
+    },
+    {
+      "nl": "Ik hoorde muziek in de kamer.",
+      "ua": "Я чула музику в кімнаті.",
+      "audio": "les27-example-08.mp3"
+    },
+    {
+      "nl": "Jij leerde Nederlands.",
+      "ua": "Ти вчила нідерландську.",
+      "audio": "les27-example-09.mp3"
+    },
+    {
+      "nl": "Zij lachten niet.",
+      "ua": "Вони не сміялися.",
+      "audio": "les27-example-10.mp3"
+    },
+    {
+      "nl": "Waar woonde jij vroeger?",
+      "ua": "Де ти жила раніше?",
+      "audio": "les27-example-11.mp3"
+    },
+    {
+      "nl": "Wij fietsten naar de winkel.",
+      "ua": "Ми їздили на велосипедах до магазину.",
+      "audio": "les27-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Vroeger",
+    "title_ua": "Раніше",
+    "highlight": [
+      "nl-93d1a944",
+      "nl-08127529"
+    ],
+    "sentences": [
+      {
+        "nl": "Vroeger woonden wij in een oud huis.",
+        "ua": "Раніше ми жили в старому будинку.",
+        "audio": "les27-reading-01.mp3"
+      },
+      {
+        "nl": "Het huis had een grote tuin.",
+        "ua": "У будинку був великий сад.",
+        "audio": "les27-reading-02.mp3"
+      },
+      {
+        "nl": "Ik speelde daar elke dag.",
+        "ua": "Я гралася там щодня.",
+        "audio": "les27-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn zus fietste naar school.",
+        "ua": "Моя сестра їздила до школи на велосипеді.",
+        "audio": "les27-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn broer luisterde naar muziek.",
+        "ua": "Мій брат слухав музику.",
+        "audio": "les27-reading-05.mp3"
+      },
+      {
+        "nl": "Ik hoorde de muziek in de tuin.",
+        "ua": "Я чула музику в саду.",
+        "audio": "les27-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn vader was vaak moe.",
+        "ua": "Мій тато часто був утомлений.",
+        "audio": "les27-reading-07.mp3"
+      },
+      {
+        "nl": "Wij lachten veel in de keuken.",
+        "ua": "Ми багато сміялися на кухні.",
+        "audio": "les27-reading-08.mp3"
+      },
+      {
+        "nl": "Nu woon ik in een grote stad.",
+        "ua": "Тепер я живу у великому місті.",
+        "audio": "les27-reading-09.mp3"
+      },
+      {
+        "nl": "Nu leer ik Nederlands.",
+        "ua": "Тепер я вчу нідерландську.",
+        "audio": "les27-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ми жили біля школи.",
+          "accepted": [
+            "Wij woonden naast de school.",
+            "We woonden naast de school."
+          ]
+        },
+        {
+          "prompt": "Мій тато слухав музику в машині.",
+          "accepted": [
+            "Mijn vader luisterde naar muziek in de auto.",
+            "Mijn vader luisterde naar de muziek in de auto.",
+            "Mijn vader luisterde in de auto naar muziek.",
+            "Mijn vader luisterde in de auto naar de muziek."
+          ]
+        },
+        {
+          "prompt": "Діти чули дощ.",
+          "accepted": [
+            "De kinderen hoorden de regen.",
+            "De kinderen hoorden regen."
+          ]
+        },
+        {
+          "prompt": "Вчора ми багато сміялися.",
+          "accepted": [
+            "Gisteren lachten wij veel.",
+            "Gisteren lachten we veel.",
+            "Wij lachten gisteren veel.",
+            "We lachten gisteren veel."
+          ]
+        },
+        {
+          "prompt": "Моя дочка їздила на велосипеді до бібліотеки.",
+          "accepted": [
+            "Mijn dochter fietste naar de bibliotheek."
+          ]
+        },
+        {
+          "prompt": "Мій брат щодня вчив російську.",
+          "accepted": [
+            "Mijn broer leerde dagelijks Russisch.",
+            "Mijn broer leerde elke dag Russisch.",
+            "Mijn broer leerde Russisch dagelijks.",
+            "Mijn broer leerde Russisch elke dag."
+          ]
+        },
+        {
+          "prompt": "Раніше вони жили в Україні.",
+          "accepted": [
+            "Vroeger woonden zij in Oekraïne.",
+            "Vroeger woonden ze in Oekraïne.",
+            "Zij woonden vroeger in Oekraïne.",
+            "Ze woonden vroeger in Oekraïne."
+          ]
+        },
+        {
+          "prompt": "Чи ти слухала музику вчора?",
+          "accepted": [
+            "Luisterde je gisteren naar muziek?",
+            "Luisterde jij gisteren naar muziek?",
+            "Luisterde je gisteren naar de muziek?",
+            "Luisterde jij gisteren naar de muziek?"
+          ]
+        },
+        {
+          "prompt": "Я не чула телефон.",
+          "accepted": [
+            "Ik hoorde de telefoon niet."
+          ]
+        },
+        {
+          "prompt": "Де діти гралися вчора?",
+          "accepted": [
+            "Waar speelden de kinderen gisteren?"
+          ]
+        },
+        {
+          "prompt": "Вона не жила в цьому місті.",
+          "accepted": [
+            "Zij woonde niet in deze stad.",
+            "Ze woonde niet in deze stad."
+          ]
+        },
+        {
+          "prompt": "Вона слухала, але не чула питання.",
+          "accepted": [
+            "Zij luisterde, maar zij hoorde de vraag niet.",
+            "Ze luisterde, maar ze hoorde de vraag niet.",
+            "Zij luisterde, maar hoorde de vraag niet.",
+            "Ze luisterde, maar hoorde de vraag niet."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово",
+      "bank": [
+        "woonde",
+        "woonden",
+        "leerde",
+        "leerden",
+        "luisterde",
+        "luisterden",
+        "hoorde",
+        "hoorden",
+        "speelden",
+        "fietste",
+        "fietsten",
+        "lachte",
+        "lachten",
+        "vroeger"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ vroeger in Kroatië.",
+          "hint": "Раніше я жила в Хорватії",
+          "accepted": [
+            [
+              "woonde"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ naar de muziek.",
+          "hint": "Ми слухали музику",
+          "accepted": [
+            [
+              "luisterden"
+            ]
+          ]
+        },
+        {
+          "text": "De kinderen ___ in de keuken.",
+          "hint": "Діти гралися на кухні",
+          "accepted": [
+            [
+              "speelden"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus ___ naar de school.",
+          "hint": "Моя сестра їхала на велосипеді до школи",
+          "accepted": [
+            [
+              "fietste"
+            ]
+          ]
+        },
+        {
+          "text": "De moeder ___ niet.",
+          "hint": "Мама не сміялася",
+          "accepted": [
+            [
+              "lachte"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer ___ de deur niet.",
+          "hint": "Мій брат не чув двері",
+          "accepted": [
+            [
+              "hoorde"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ gisteren Engels.",
+          "hint": "Ти вчора вчила англійську",
+          "accepted": [
+            [
+              "leerde"
+            ]
+          ]
+        },
+        {
+          "text": "___ woonde ik in een groot huis.",
+          "hint": "Раніше я жила у великому будинку",
+          "accepted": [
+            [
+              "Vroeger",
+              "vroeger"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ niet naar de muziek.",
+          "hint": "Вона не слухала музику",
+          "accepted": [
+            [
+              "luisterde"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ in de stad.",
+          "hint": "Ми жили в місті",
+          "accepted": [
+            [
+              "woonden"
+            ]
+          ]
+        },
+        {
+          "text": "De broer en de zus ___ naar school.",
+          "hint": "Брат і сестра їхали на велосипедах до школи",
+          "accepted": [
+            [
+              "fietsten"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ gisteren niet.",
+          "hint": "Вчора ми не сміялися",
+          "accepted": [
+            [
+              "lachten"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik woon in de stad.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Ik woonde in de stad."
+          ]
+        },
+        {
+          "prompt": "Zij leert Nederlands.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Zij leerde Nederlands.",
+            "Ze leerde Nederlands."
+          ]
+        },
+        {
+          "prompt": "De kinderen spelen in de tuin.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "De kinderen speelden in de tuin."
+          ]
+        },
+        {
+          "prompt": "Wij fietsen naar school.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Wij fietsten naar school.",
+            "We fietsten naar school."
+          ]
+        },
+        {
+          "prompt": "Hij luistert naar muziek.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Hij luisterde naar muziek."
+          ]
+        },
+        {
+          "prompt": "Ik hoor de trein.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Ik hoorde de trein."
+          ]
+        },
+        {
+          "prompt": "Jij lacht veel.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Jij lachte veel.",
+            "Je lachte veel."
+          ]
+        },
+        {
+          "prompt": "Wij wonen in een groot huis.",
+          "cue": "-> минулий час, vroeger першим",
+          "accepted": [
+            "Vroeger woonden wij in een groot huis.",
+            "Vroeger woonden we in een groot huis."
+          ]
+        },
+        {
+          "prompt": "Ik fiets naar de winkel.",
+          "cue": "-> минулий час, vroeger першим",
+          "accepted": [
+            "Vroeger fietste ik naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Jij woonde in Nederland.",
+          "cue": "-> питання в минулому часі",
+          "accepted": [
+            "Woonde jij in Nederland?",
+            "Woonde je in Nederland?"
+          ]
+        },
+        {
+          "prompt": "Zij luisterden naar de muziek.",
+          "cue": "-> заперечення (niet)",
+          "accepted": [
+            "Zij luisterden niet naar de muziek.",
+            "Ze luisterden niet naar de muziek."
+          ]
+        },
+        {
+          "prompt": "Wij hoorden de bus.",
+          "cue": "-> заперечення (niet)",
+          "accepted": [
+            "Wij hoorden de bus niet.",
+            "We hoorden de bus niet."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ vroeger in Nederland.",
+          "cue": "wonen (минулий час)",
+          "accepted": [
+            "woonde"
+          ]
+        },
+        {
+          "text": "Wij ___ vorig jaar Nederlands.",
+          "cue": "leren (минулий час)",
+          "accepted": [
+            "leerden"
+          ]
+        },
+        {
+          "text": "Jij ___ naar de muziek.",
+          "cue": "luisteren (минулий час)",
+          "accepted": [
+            "luisterde"
+          ]
+        },
+        {
+          "text": "De kinderen ___ de trein.",
+          "cue": "horen (минулий час)",
+          "accepted": [
+            "hoorden"
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ in de tuin.",
+          "cue": "spelen (минулий час)",
+          "accepted": [
+            "speelde"
+          ]
+        },
+        {
+          "text": "De vader ___ naar het park.",
+          "cue": "fietsen (минулий час)",
+          "accepted": [
+            "fietste"
+          ]
+        },
+        {
+          "text": "Hij ___ niet.",
+          "cue": "lachen (минулий час)",
+          "accepted": [
+            "lachte"
+          ]
+        },
+        {
+          "text": "Jullie ___ gisteren naar muziek.",
+          "cue": "luisteren (минулий час)",
+          "accepted": [
+            "luisterden"
+          ]
+        },
+        {
+          "text": "___ jij vroeger in het huis?",
+          "cue": "wonen (минулий час)",
+          "accepted": [
+            "Woonde",
+            "woonde"
+          ]
+        },
+        {
+          "text": "Ik ___ de vraag niet.",
+          "cue": "horen (минулий час)",
+          "accepted": [
+            "hoorde"
+          ]
+        },
+        {
+          "text": "De mannen ___ veel.",
+          "cue": "lachen (минулий час)",
+          "accepted": [
+            "lachten"
+          ]
+        },
+        {
+          "text": "Wij ___ elke dag.",
+          "cue": "fietsen (минулий час)",
+          "accepted": [
+            "fietsten"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb",
+        "function"
+      ]
+    }
+  ]
+}
