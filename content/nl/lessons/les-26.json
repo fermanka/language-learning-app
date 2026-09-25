@@ -20,7 +20,7 @@
       "lemma": "vorige / vorig",
       "ua": "минулий (vorige week = минулого тижня)",
       "audio": "vorige-vorig.mp3",
-      "audio_text": "vorige, vorig",
+      "audio_text": "vorige / vorig",
       "dictation": false,
       "explain_ua": "(Vorige week was ik ziek = минулого тижня я була хвора; Vorig jaar was ik in Nederland = минулого року я була в Нідерландах). Vorige і vorig це одне слово в двох формах: перед de-словом vorige (vorige week, vorige maand), перед het-словом vorig (vorig jaar). Те саме правило, що elk і elke (Les 7). Без in і без op: vorige week вже значить «минулого тижня», відмінків немає. O довге [oː], як у boos (Les 1); g це [x], як х"
     },
@@ -86,7 +86,7 @@
       "lemma": "was / waren",
       "ua": "був, була, було, були (zijn у минулому)",
       "audio": "was-waren.mp3",
-      "audio_text": "was, waren",
+      "audio_text": "was / waren",
       "paradigm": [
         {
           "pronoun": "ik",
@@ -139,7 +139,7 @@
       "lemma": "had / hadden",
       "ua": "мав, мала, мало, мали (hebben у минулому)",
       "audio": "had-hadden.mp3",
-      "audio_text": "had, hadden",
+      "audio_text": "had / hadden",
       "paradigm": [
         {
           "pronoun": "ik",
