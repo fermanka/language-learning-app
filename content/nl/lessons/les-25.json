@@ -1,0 +1,1226 @@
+{
+  "id": "nl-les-25",
+  "lang": "nl",
+  "order": 25,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [
+    "bij"
+  ],
+  "notes": [
+    {
+      "id": "nl-54acceb9",
+      "type": "noun",
+      "article": "het",
+      "lemma": "ontbijt",
+      "plural": [
+        "ontbijten"
+      ],
+      "ua": "сніданок",
+      "audio": "het-ontbijt.mp3",
+      "explain_ua": "(Het ontbijt is lekker = сніданок смачний; Bij het ontbijt drink ik sap = на сніданок я п'ю сік). Множина ontbijten є, але майже не вживається. Ij це [ɛi], як у mijn (Les 1); наголос на -bijt: ont-BIJT. Слово het, а не de: просто вчи разом з артиклем. Сніданок їдять «bij» (при, під час) сніданку: bij het ontbijt"
+    },
+    {
+      "id": "nl-30707dc9",
+      "type": "noun",
+      "article": "de",
+      "lemma": "lunch",
+      "plural": [
+        "lunches"
+      ],
+      "ua": "обід (легкий, серед дня)",
+      "audio": "de-lunch.mp3",
+      "explain_ua": "(Wat eten wij bij de lunch? = що ми їмо на обід?). Це легкий обід серед дня, зазвичай бутерброд чи суп. Множина lunches. Слухай аудіо: u коротка, кінець читається як «нш». Англійське lunch: підказка для пам'яті (слово прийшло з англійської)"
+    },
+    {
+      "id": "nl-a6614dac",
+      "type": "noun",
+      "article": "het",
+      "lemma": "avondeten",
+      "plural": [],
+      "ua": "вечеря",
+      "audio": "het-avondeten.mp3",
+      "explain_ua": "(Het avondeten is warm = вечеря тепла). Складається з de avond (Les 14) + het eten (Les 11). Складене слово бере рід останньої частини, тому het avondeten. Множини в житті немає. Наголос на a: A-vond-e-ten"
+    },
+    {
+      "id": "nl-7f352d66",
+      "type": "function",
+      "lemma": "honger hebben",
+      "ua": "бути голодним, хотіти їсти",
+      "audio": "honger-hebben.mp3",
+      "dictation": false,
+      "explain_ua": "(Ik heb honger = я голодний; Heb jij honger? = ти голодний?). Українською «я голодний» це прикметник, нідерландською «я маю голод»: hebben, а не zijn. Не Ik ben honger. Honger тут без артикля, як naar huis (Les 5). Заперечення з geen (Les 2): Ik heb geen honger. O коротка [ɔ], як у bos (Les 1)"
+    },
+    {
+      "id": "nl-902478df",
+      "type": "function",
+      "lemma": "dorst hebben",
+      "ua": "хотіти пити",
+      "audio": "dorst-hebben.mp3",
+      "dictation": false,
+      "explain_ua": "(Ik heb dorst = я хочу пити; Hij heeft geen dorst = він не хоче пити). Те саме, що з honger: hebben, а не zijn, і без артикля. Не Ik ben dorst. O коротка [ɔ], далі rst без голосних"
+    },
+    {
+      "id": "nl-f080732f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "vlees",
+      "plural": [],
+      "ua": "м'ясо",
+      "audio": "het-vlees.mp3",
+      "explain_ua": "(Het vlees smaakt goed = м'ясо смачне; Ik eet vlees = я їм м'ясо). Множини в житті немає, як het brood (Les 7): загалом без артикля, Ik eet vlees. Ee довге [eː], як у thee (Les 12)"
+    },
+    {
+      "id": "nl-38b5ee7a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kip",
+      "plural": [
+        "kippen"
+      ],
+      "ua": "курка, курятина",
+      "audio": "de-kip.mp3",
+      "explain_ua": "(Mijn vader kookt kip = тато готує курятину; De kippen zijn groot = кури великі). Одне слово і для птаха, і для м'яса. Як їжа це загальне слово без артикля: Ik eet kip. Множина kippen: голосна коротка, тому p подвоюється (як zwemmen, Les 7). I коротка [ɪ]"
+    },
+    {
+      "id": "nl-5e0a1e8d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vis",
+      "plural": [
+        "vissen"
+      ],
+      "ua": "риба",
+      "audio": "de-vis.mp3",
+      "explain_ua": "(Mijn moeder kookt vis = мама готує рибу; De vissen zijn groot = риби великі). Як їжа це загальне слово без артикля: Ik eet vis. Множина vissen: голосна коротка, тому s подвоюється: vis - vissen. Англійське fish: підказка для пам'яті. I коротка [ɪ]"
+    },
+    {
+      "id": "nl-f9b37f3d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "boter",
+      "plural": [],
+      "ua": "масло (вершкове)",
+      "audio": "de-boter.mp3",
+      "explain_ua": "(Ik eet een boterham met boter = я їм бутерброд з маслом). Множини в житті немає, загалом без артикля: met boter. O довге [oː] у відкритому складі: bo-ter. Англійське butter: підказка для пам'яті"
+    },
+    {
+      "id": "nl-5f91d332",
+      "type": "noun",
+      "article": "de",
+      "lemma": "rijst",
+      "plural": [],
+      "ua": "рис",
+      "audio": "de-rijst.mp3",
+      "explain_ua": "(Wij eten rijst = ми їмо рис). Множини в житті немає, загалом без артикля: rijst, як water. Ij це [ɛi], як у mijn (Les 1). Далі два приголосні st без голосної між ними"
+    },
+    {
+      "id": "nl-66ff178d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "boterham",
+      "plural": [
+        "boterhammen"
+      ],
+      "ua": "бутерброд, скибка хліба",
+      "audio": "de-boterham.mp3",
+      "explain_ua": "(Ik eet twee boterhammen = я їм два бутерброди). Скибка хліба, зазвичай з маслом, сиром чи іншим. Множина boterhammen: голосна коротка, тому m подвоюється: boterham - boterhammen (як vis - vissen). Три склади: bo-ter-ham. Не плутай з het broodje: то булочка"
+    },
+    {
+      "id": "nl-32523bb5",
+      "type": "noun",
+      "article": "het",
+      "lemma": "broodje",
+      "plural": [
+        "broodjes"
+      ],
+      "ua": "булочка, бутерброд із булочки",
+      "audio": "het-broodje.mp3",
+      "explain_ua": "(Ik eet een broodje met kaas = я їм булочку з сиром). Це het brood (Les 7) + -je: маленька булочка. Кінцівка -je завжди het, множина -jes: broodjes. Так само het stukje (Les 11) від stuk. Oo довге [oː], як у boos (Les 1); -je звучить приблизно «є», слухай аудіо"
+    },
+    {
+      "id": "nl-326d1cd0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "aardbei",
+      "plural": [
+        "aardbeien"
+      ],
+      "ua": "полуниця",
+      "audio": "de-aardbei.mp3",
+      "explain_ua": "(Ik hou van verse aardbeien = я люблю свіжу полуницю). Множина aardbeien. Aa довге [aː], як у maan (Les 1); d наприкінці складу читається [t]: тут спирайся на російську, не на українську. Ei це [ɛi], як ij у mijn"
+    },
+    {
+      "id": "nl-161fb57d",
+      "type": "noun",
+      "article": "het",
+      "lemma": "sap",
+      "plural": [
+        "sappen"
+      ],
+      "ua": "сік",
+      "audio": "het-sap.mp3",
+      "explain_ua": "(Ik drink een glas sap = я п'ю склянку соку). Сік з фруктів чи овочів. Як мірне слово: een glas sap, без van. Загалом без артикля: Ik drink sap, як water. Множина sappen майже не вживається. A коротка [ɑ], як у man (Les 1)"
+    },
+    {
+      "id": "nl-247147cd",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kilo",
+      "plural": [
+        "kilo's"
+      ],
+      "ua": "кілограм",
+      "audio": "de-kilo.mp3",
+      "explain_ua": "(Ik koop een kilo tomaten = я купую кілограм помідорів). Після числа kilo лишається в однині: twee kilo tomaten. Множина kilo's з апострофом, як foto's (Les 20). Наступне слово стоїть без van: een kilo appels. Слухай аудіо: голосні довгі, наголос на першому складі"
+    },
+    {
+      "id": "nl-bbf4f94e",
+      "type": "noun",
+      "article": "de",
+      "lemma": "fles",
+      "plural": [
+        "flessen"
+      ],
+      "ua": "пляшка",
+      "audio": "de-fles.mp3",
+      "explain_ua": "(Hij koopt een fles wijn = він купує пляшку вина; Zij koopt twee flessen melk = вона купує дві пляшки молока). Після числа множина flessen (на відміну від kilo). Голосна коротка, тому s подвоюється: fles - flessen. E коротка [ɛ], fl це два звуки. Наступне слово без van"
+    },
+    {
+      "id": "nl-358b846f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "stuk",
+      "plural": [
+        "stukken"
+      ],
+      "ua": "шматок",
+      "audio": "het-stuk.mp3",
+      "explain_ua": "(Ik eet een stuk kaas = я їм шматок сиру; twee stukken kaas). Het stukje (Les 11) це маленький stuk: шматочок. Множина stukken: голосна коротка, тому k подвоюється. U коротка [ʏ], як у bus (Les 6). Наступне слово без van: een stuk brood"
+    },
+    {
+      "id": "nl-986be4db",
+      "type": "adjective",
+      "lemma": "zout",
+      "ua": "солоний, солона, солоне, солоні",
+      "audio": "zout.mp3",
+      "explain_ua": "(форма без закінчення: De soep is zout, De soep smaakt zout, een zout broodje). Ou це [ɑu], як у koud (Les 19). Є ще іменник het zout (сіль), але тут лише прикметник. Англійське salt: z ↔ s, як zeven / seven: підказка для пам'яті"
+    },
+    {
+      "id": "nl-d29891f4",
+      "type": "adjective",
+      "lemma": "zoute",
+      "ua": "солоний",
+      "audio": "zoute.mp3",
+      "dictation": false,
+      "explain_ua": "(форма з -e: een zoute kaas, de zoute soep, zoute vis). Просто zout + e, написання не змінюється. Пара до zout"
+    },
+    {
+      "id": "nl-693b5457",
+      "type": "verb",
+      "lemma": "koken",
+      "ua": "варити, готувати їжу",
+      "audio": "koken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kook",
+          "audio": "ik-kook.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "kookt",
+          "audio": "jij-kookt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "kookt",
+          "audio": "u-kookt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "kookt",
+          "audio": "hij-kookt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "koken",
+          "audio": "wij-koken.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "koken",
+          "audio": "jullie-koken.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "koken",
+          "audio": "zij-koken.mp3"
+        }
+      ],
+      "explain_ua": "(Mijn moeder kookt rijst = мама варить рис; Ik kook = я готую). Одне дієслово і для «варити», і для «готувати їжу». Ko-ken має довге o у відкритому складі, тому основа kook, як koop від kopen (Les 8). Під час інверсії з jij -t зникає: Kook jij? Англійське cook: підказка для пам'яті"
+    },
+    {
+      "id": "nl-ac884703",
+      "type": "verb",
+      "lemma": "smaken",
+      "ua": "мати смак, смакувати",
+      "audio": "smaken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "smaak",
+          "audio": "ik-smaak.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "smaakt",
+          "audio": "jij-smaakt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "smaakt",
+          "audio": "u-smaakt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "smaakt",
+          "audio": "hij-smaakt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "smaken",
+          "audio": "wij-smaken.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "smaken",
+          "audio": "jullie-smaken.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "smaken",
+          "audio": "zij-smaken.mp3"
+        }
+      ],
+      "explain_ua": "(De soep smaakt zout = суп солоний на смак; Het smaakt goed = це смачно). Живе вживання: підмет це їжа, тобто hij / zij / het і wij / zij (мн.): De vis smaakt goed, De aardbeien smaken zoet. Після smaken прикметник стоїть без -e. Основа smaak, як maak від maken (Les 20). Українське «смак» схоже: підказка для пам'яті, не доказ споріднення"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Een kilo appels, een fles water: без van",
+      "summary_ua": "Мірне слово (kilo, fles, stuk) і те, що міряємо, стоять поруч. Без прийменника і без артикля: een kilo appels, een fles water, een stuk kaas. Українською друге слово в родовому відмінку («пляшка води»), нідерландською відмінків немає.",
+      "see": "Les 12",
+      "compare": [
+        {
+          "form": "Een kilo / een fles / een stuk + що міряємо",
+          "when_ua": "Мірне слово, потім одразу продукт. Не ставимо van і не ставимо de / het перед продуктом.",
+          "examples": [
+            {
+              "nl": "Ik koop **een kilo** appels.",
+              "ua": "Я купую кілограм яблук.",
+              "audio": "les25-rule-01.mp3"
+            },
+            {
+              "nl": "Hij koopt **een fles** wijn.",
+              "ua": "Він купує пляшку вина.",
+              "audio": "les25-rule-02.mp3"
+            },
+            {
+              "nl": "Zij eet **een stuk** brood.",
+              "ua": "Вона їсть шматок хліба.",
+              "audio": "les25-rule-03.mp3"
+            },
+            {
+              "nl": "Wij drinken **een fles** water.",
+              "ua": "Ми п'ємо пляшку води.",
+              "audio": "les25-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Не een kilo van appels. Продукт стоїть без артикля: een fles wijn, а не een fles de wijn."
+        },
+        {
+          "form": "Twee kilo, twee flessen, twee stukken",
+          "when_ua": "Після числа kilo лишається в однині. Fles і stuk мають звичайну множину: flessen, stukken.",
+          "examples": [
+            {
+              "nl": "Ik koop **twee kilo** aardbeien.",
+              "ua": "Я купую два кілограми полуниць.",
+              "audio": "les25-rule-05.mp3"
+            },
+            {
+              "nl": "Zij koopt **twee flessen** melk.",
+              "ua": "Вона купує дві пляшки молока.",
+              "audio": "les25-rule-06.mp3"
+            },
+            {
+              "nl": "Hij eet **twee stukken** kaas.",
+              "ua": "Він їсть два шматки сиру.",
+              "audio": "les25-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Twee kilo, але twee flessen і twee stukken. Kilo's з апострофом є без числа."
+        }
+      ],
+      "points_ua": [
+        "Een kilo appels, een fles water, een stuk kaas: без van.",
+        "Twee kilo (однина), але twee flessen, twee stukken."
+      ]
+    },
+    {
+      "title_ua": "Het broodje: -je це завжди het",
+      "summary_ua": "Мале слово з -je завжди het: het broodje, het stukje. Множина -jes. Складене слово бере рід останньої частини: het avondeten (het eten), het ziekenhuis (het huis), de supermarkt (de markt). Українське -чк- / -ик схоже за змістом.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "brood - broodje, stuk - stukje",
+          "when_ua": "З -je слово стає меншим і завжди het. Множина broodjes.",
+          "examples": [
+            {
+              "nl": "**Het broodje** is lekker.",
+              "ua": "Булочка смачна.",
+              "audio": "les25-rule-08.mp3"
+            },
+            {
+              "nl": "Ik eet **twee broodjes**.",
+              "ua": "Я їм дві булочки.",
+              "audio": "les25-rule-09.mp3"
+            },
+            {
+              "nl": "**Het stukje** kaas is klein.",
+              "ua": "Шматочок сиру маленький.",
+              "audio": "les25-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Het brood, het broodje: обидва het. Не de broodje."
+        },
+        {
+          "form": "Складне слово: рід останньої частини",
+          "when_ua": "Дивись на останню частину слова: avond + eten, ziek + huis, super + markt.",
+          "examples": [
+            {
+              "nl": "**Het avondeten** is warm.",
+              "ua": "Вечеря тепла.",
+              "audio": "les25-rule-11.mp3"
+            },
+            {
+              "nl": "**Het ziekenhuis** is groot.",
+              "ua": "Лікарня велика.",
+              "audio": "les25-rule-12.mp3"
+            },
+            {
+              "nl": "**De supermarkt** is nieuw.",
+              "ua": "Супермаркет новий.",
+              "audio": "les25-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Het eten - het avondeten, het huis - het ziekenhuis, de markt - de supermarkt."
+        }
+      ],
+      "points_ua": [
+        "-je = het: het broodje, de broodjes.",
+        "Складне слово: рід останньої частини."
+      ]
+    },
+    {
+      "title_ua": "Ik heb honger: hebben, а не zijn",
+      "summary_ua": "Українською «я голодний» це прикметник. Нідерландською «я маю голод»: ik heb honger. Zijn тут не працює. Honger і dorst без артикля.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Honger hebben, dorst hebben",
+          "when_ua": "Завжди hebben: ik heb, jij hebt, hij heeft, wij hebben. У питанні jij втрачає -t: Heb jij honger?",
+          "examples": [
+            {
+              "nl": "**Heb** jij honger?",
+              "ua": "Ти хочеш їсти?",
+              "audio": "les25-rule-14.mp3"
+            },
+            {
+              "nl": "Mijn zus **heeft** dorst.",
+              "ua": "Моя сестра хоче пити.",
+              "audio": "les25-rule-15.mp3"
+            },
+            {
+              "nl": "Wij **hebben** honger.",
+              "ua": "Ми голодні.",
+              "audio": "les25-rule-16.mp3"
+            },
+            {
+              "nl": "De kinderen **hebben** dorst.",
+              "ua": "Діти хочуть пити.",
+              "audio": "les25-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Не Ik ben honger. Не de honger: слово стоїть без артикля."
+        },
+        {
+          "form": "Заперечення: geen honger, geen dorst",
+          "when_ua": "Honger і dorst це іменники, тому заперечення з geen (Les 2), а не niet.",
+          "examples": [
+            {
+              "nl": "Ik heb **geen** honger.",
+              "ua": "Я не голодний.",
+              "audio": "les25-rule-18.mp3"
+            },
+            {
+              "nl": "Hij heeft **geen** dorst.",
+              "ua": "Він не хоче пити.",
+              "audio": "les25-rule-19.mp3"
+            },
+            {
+              "nl": "Heb je **geen** honger?",
+              "ua": "Ти не голодний?",
+              "audio": "les25-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb niet honger."
+        }
+      ],
+      "points_ua": [
+        "Ik heb honger, ik heb dorst: hebben, не zijn.",
+        "Ik heb geen honger: geen, без артикля."
+      ]
+    },
+    {
+      "title_ua": "De soep smaakt zout: smaken + прикметник без -e",
+      "summary_ua": "Smaken значить «мати смак». Після нього прикметник стоїть без -e, як після zijn: De soep smaakt zout. Питання: Hoe smaakt ...? Підмет це їжа, тому smaakt (одна страва) і smaken (кілька).",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "Їжа + smaakt + прикметник",
+          "when_ua": "Прикметник стоїть після smaakt, без закінчення -e.",
+          "examples": [
+            {
+              "nl": "De soep **smaakt** zout.",
+              "ua": "Суп солоний на смак.",
+              "audio": "les25-rule-21.mp3"
+            },
+            {
+              "nl": "De aardbei **smaakt** zoet.",
+              "ua": "Полуниця солодка на смак.",
+              "audio": "les25-rule-22.mp3"
+            },
+            {
+              "nl": "Het sap **smaakt** zuur.",
+              "ua": "Сік кислий на смак.",
+              "audio": "les25-rule-23.mp3"
+            },
+            {
+              "nl": "De kip **smaakt** lekker.",
+              "ua": "Курка смачна.",
+              "audio": "les25-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Не De soep smaakt zoute. Прикметник тут як після is."
+        },
+        {
+          "form": "Питання і заперечення",
+          "when_ua": "Питання починається з дієслова (інверсія). Заперечення: niet стоїть перед прикметником.",
+          "examples": [
+            {
+              "nl": "**Hoe smaakt** de vis?",
+              "ua": "Яка на смак риба?",
+              "audio": "les25-rule-25.mp3"
+            },
+            {
+              "nl": "**Smaakt** de rijst goed?",
+              "ua": "Рис смачний?",
+              "audio": "les25-rule-26.mp3"
+            },
+            {
+              "nl": "De soep smaakt **niet** lekker.",
+              "ua": "Суп не смачний.",
+              "audio": "les25-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Одна страва: smaakt. Кілька страв: De aardbeien smaken zoet."
+        }
+      ],
+      "points_ua": [
+        "De soep smaakt zout: прикметник без -e.",
+        "Hoe smaakt de vis? Smaakt de rijst goed?"
+      ]
+    },
+    {
+      "title_ua": "Zout - zoute: -e чи ні (повторення)",
+      "summary_ua": "У цьому уроці лише одне нове прикметник: zout (і zoute). Тому картка повторює правило, яке ти вже знаєш, на словах zout, lekker, vers. Після is без -e. Перед de-словом і множиною -e. Перед het-словом з een без -e.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "Після is: без -e (heel і te перед ним)",
+          "when_ua": "Прикметник стоїть в кінці речення і не змінюється. Перед ним можна поставити heel «дуже» або te «занадто».",
+          "examples": [
+            {
+              "nl": "Het broodje is **zout**.",
+              "ua": "Булочка солона.",
+              "audio": "les25-rule-28.mp3"
+            },
+            {
+              "nl": "De vis is **heel** vers.",
+              "ua": "Риба дуже свіжа.",
+              "audio": "les25-rule-29.mp3"
+            },
+            {
+              "nl": "De kaas is **te** zout.",
+              "ua": "Сир надто солоний.",
+              "audio": "les25-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Не Het broodje is zoute."
+        },
+        {
+          "form": "Перед іменником: zoute чи zout",
+          "when_ua": "Перед de-словом і множиною -e. Перед het-словом з een -e немає, але після het / dit -e є.",
+          "examples": [
+            {
+              "nl": "Ik eet een **zoute** kaas.",
+              "ua": "Я їм солоний сир.",
+              "audio": "les25-rule-31.mp3"
+            },
+            {
+              "nl": "Ik koop een **zout** broodje.",
+              "ua": "Я купую солону булочку.",
+              "audio": "les25-rule-32.mp3"
+            },
+            {
+              "nl": "Het **zoute** broodje is lekker.",
+              "ua": "Солона булочка смачна.",
+              "audio": "les25-rule-33.mp3"
+            },
+            {
+              "nl": "Wij eten **verse** vis.",
+              "ua": "Ми їмо свіжу рибу.",
+              "audio": "les25-rule-34.mp3"
+            }
+          ],
+          "note_ua": "Broodje це het-слово: een zout broodje, але het zoute broodje. Vis це de-слово, тому й без артикля -e є: verse vis."
+        }
+      ],
+      "points_ua": [
+        "Після is: zout. Перед іменником: zoute (de-слово, множина), een zout broodje (het-слово).",
+        "Heel і te стоять перед прикметником: heel vers, te zout."
+      ]
+    },
+    {
+      "title_ua": "Bij het ontbijt, Mag ik ..., Ik wil graag ...",
+      "summary_ua": "Про час їжі кажемо bij het ontbijt, bij de lunch, bij het avondeten («на сніданок, на обід, на вечерю»). Замовляти чи просити ввічливо: Mag ik ...? і Ik wil graag ...",
+      "see": "Les 12",
+      "compare": [
+        {
+          "form": "Bij + прийом їжі",
+          "when_ua": "Bij значить «при, під час». Якщо bij-частина стоїть першою, дієслово одразу за нею (V2, Les 17).",
+          "examples": [
+            {
+              "nl": "**Bij het avondeten** drinken wij water.",
+              "ua": "На вечерю ми п'ємо воду.",
+              "audio": "les25-rule-35.mp3"
+            },
+            {
+              "nl": "**Bij de lunch** eet mijn moeder soep.",
+              "ua": "На обід мама їсть суп.",
+              "audio": "les25-rule-36.mp3"
+            },
+            {
+              "nl": "Ik drink koffie **bij het ontbijt**.",
+              "ua": "Я п'ю каву на сніданок.",
+              "audio": "les25-rule-37.mp3"
+            }
+          ],
+          "note_ua": "Bij het ontbijt (het-слово), bij de lunch (de-слово). Не op het ontbijt."
+        },
+        {
+          "form": "Mag ik ...? Ik wil graag ...",
+          "when_ua": "Ввічливе прохання: Mag ik + що хочеш. Або Ik wil graag + що хочеш. Alsjeblieft (Les 12) можна додати в кінці.",
+          "examples": [
+            {
+              "nl": "**Mag ik** een kopje thee?",
+              "ua": "Можна мені чашку чаю?",
+              "audio": "les25-rule-38.mp3"
+            },
+            {
+              "nl": "**Ik wil graag** een broodje met kaas.",
+              "ua": "Мені б хотілося булочку з сиром.",
+              "audio": "les25-rule-39.mp3"
+            },
+            {
+              "nl": "**Mag ik** een glas sap, alsjeblieft?",
+              "ua": "Можна мені склянку соку, будь ласка?",
+              "audio": "les25-rule-40.mp3"
+            }
+          ],
+          "note_ua": "Graag стоїть після дієслова і перед об'єктом (Les 10). Не Ik graag wil."
+        }
+      ],
+      "points_ua": [
+        "Bij het ontbijt, bij de lunch, bij het avondeten.",
+        "Mag ik een kopje thee? Ik wil graag een broodje."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik heb honger.",
+      "ua": "Я голодний.",
+      "audio": "les25-example-01.mp3"
+    },
+    {
+      "nl": "Heb jij dorst?",
+      "ua": "Ти хочеш пити?",
+      "audio": "les25-example-02.mp3"
+    },
+    {
+      "nl": "Mijn vader kookt kip met rijst.",
+      "ua": "Мій тато готує курку з рисом.",
+      "audio": "les25-example-03.mp3"
+    },
+    {
+      "nl": "Ik koop een kilo tomaten.",
+      "ua": "Я купую кілограм помідорів.",
+      "audio": "les25-example-04.mp3"
+    },
+    {
+      "nl": "Zij koopt een fles melk.",
+      "ua": "Вона купує пляшку молока.",
+      "audio": "les25-example-05.mp3"
+    },
+    {
+      "nl": "Hij eet een stuk kaas.",
+      "ua": "Він їсть шматок сиру.",
+      "audio": "les25-example-06.mp3"
+    },
+    {
+      "nl": "Wat eten wij bij de lunch?",
+      "ua": "Що ми їмо на обід?",
+      "audio": "les25-example-07.mp3"
+    },
+    {
+      "nl": "Bij het ontbijt drink ik sap.",
+      "ua": "На сніданок я п'ю сік.",
+      "audio": "les25-example-08.mp3"
+    },
+    {
+      "nl": "Het vlees smaakt goed.",
+      "ua": "М'ясо смачне.",
+      "audio": "les25-example-09.mp3"
+    },
+    {
+      "nl": "De soep is te zout.",
+      "ua": "Суп надто солоний.",
+      "audio": "les25-example-10.mp3"
+    },
+    {
+      "nl": "Mag ik een broodje met boter?",
+      "ua": "Можна мені булочку з маслом?",
+      "audio": "les25-example-11.mp3"
+    },
+    {
+      "nl": "Ik hou van verse aardbeien.",
+      "ua": "Я люблю свіжу полуницю.",
+      "audio": "les25-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wat eten wij vandaag?",
+    "title_ua": "Що ми їмо сьогодні?",
+    "highlight": [
+      "nl-54acceb9",
+      "nl-30707dc9",
+      "nl-a6614dac",
+      "nl-5e0a1e8d",
+      "nl-f9b37f3d",
+      "nl-5f91d332",
+      "nl-66ff178d",
+      "nl-32523bb5",
+      "nl-326d1cd0",
+      "nl-161fb57d",
+      "nl-986be4db"
+    ],
+    "sentences": [
+      {
+        "nl": "Het ontbijt is om zeven uur.",
+        "ua": "Сніданок о сьомій.",
+        "audio": "les25-reading-01.mp3"
+      },
+      {
+        "nl": "Ik eet een boterham met boter en kaas.",
+        "ua": "Я їм бутерброд з маслом і сиром.",
+        "audio": "les25-reading-02.mp3"
+      },
+      {
+        "nl": "Om twaalf uur heb ik honger.",
+        "ua": "О дванадцятій я голодний.",
+        "audio": "les25-reading-03.mp3"
+      },
+      {
+        "nl": "Bij de lunch eet ik een broodje.",
+        "ua": "На обід я їм булочку.",
+        "audio": "les25-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn broer heeft dorst, dus hij drinkt sap.",
+        "ua": "Мій брат хоче пити, тому п'є сік.",
+        "audio": "les25-reading-05.mp3"
+      },
+      {
+        "nl": "Het avondeten is om zes uur.",
+        "ua": "Вечеря о шостій.",
+        "audio": "les25-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn moeder kookt vis met rijst.",
+        "ua": "Моя мама готує рибу з рисом.",
+        "audio": "les25-reading-07.mp3"
+      },
+      {
+        "nl": "De vis smaakt lekker, maar de rijst smaakt zout.",
+        "ua": "Риба смачна, але рис солоний.",
+        "audio": "les25-reading-08.mp3"
+      },
+      {
+        "nl": "Daarna eten wij verse aardbeien.",
+        "ua": "Потім ми їмо свіжу полуницю.",
+        "audio": "les25-reading-09.mp3"
+      },
+      {
+        "nl": "Wat eten wij morgen?",
+        "ua": "Що ми їмо завтра?",
+        "audio": "les25-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат хоче пити.",
+          "accepted": [
+            "Mijn broer heeft dorst."
+          ]
+        },
+        {
+          "prompt": "Я купую пляшку води.",
+          "accepted": [
+            "Ik koop een fles water."
+          ]
+        },
+        {
+          "prompt": "Мама варить рис.",
+          "accepted": [
+            "Mijn moeder kookt rijst.",
+            "Mijn moeder kookt de rijst."
+          ]
+        },
+        {
+          "prompt": "Ми їмо дві булочки.",
+          "accepted": [
+            "Wij eten twee broodjes.",
+            "We eten twee broodjes."
+          ]
+        },
+        {
+          "prompt": "Рис надто солоний.",
+          "accepted": [
+            "De rijst is te zout."
+          ]
+        },
+        {
+          "prompt": "Риба смачна на смак.",
+          "accepted": [
+            "De vis smaakt lekker.",
+            "De vis smaakt goed."
+          ]
+        },
+        {
+          "prompt": "Ви голодні? (ввічливо, до одного)",
+          "accepted": [
+            "Hebt u honger?",
+            "Heeft u honger?"
+          ]
+        },
+        {
+          "prompt": "Мій тато купує кілограм помідорів.",
+          "accepted": [
+            "Mijn vader koopt een kilo tomaten."
+          ]
+        },
+        {
+          "prompt": "На сніданок ми їмо хліб із сиром.",
+          "accepted": [
+            "Bij het ontbijt eten wij brood met kaas.",
+            "Bij het ontbijt eten we brood met kaas.",
+            "Wij eten brood met kaas bij het ontbijt.",
+            "We eten brood met kaas bij het ontbijt."
+          ]
+        },
+        {
+          "prompt": "Вона не голодна.",
+          "accepted": [
+            "Zij heeft geen honger.",
+            "Ze heeft geen honger."
+          ]
+        },
+        {
+          "prompt": "Полуниці кислі на смак.",
+          "accepted": [
+            "De aardbeien smaken zuur."
+          ]
+        },
+        {
+          "prompt": "Можна мені шматок сиру?",
+          "accepted": [
+            "Mag ik een stuk kaas?",
+            "Mag ik een stuk kaas, alsjeblieft?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: мірне слово, het чи de, zout чи zoute, hebben",
+      "bank": [
+        "honger",
+        "dorst",
+        "kilo",
+        "fles",
+        "stuk",
+        "zout",
+        "zoute",
+        "het",
+        "de",
+        "bij",
+        "broodjes",
+        "heeft",
+        "kookt"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik heb ___.",
+          "hint": "Я голодний",
+          "accepted": [
+            [
+              "honger"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft ___.",
+          "hint": "Вона хоче пити",
+          "accepted": [
+            [
+              "dorst"
+            ]
+          ]
+        },
+        {
+          "text": "Zij koopt een ___ bananen.",
+          "hint": "кілограм бананів",
+          "accepted": [
+            [
+              "kilo"
+            ]
+          ]
+        },
+        {
+          "text": "Hij drinkt een ___ water.",
+          "hint": "пляшку води",
+          "accepted": [
+            [
+              "fles"
+            ]
+          ]
+        },
+        {
+          "text": "Wij eten een ___ vlees.",
+          "hint": "шматок м'яса",
+          "accepted": [
+            [
+              "stuk"
+            ]
+          ]
+        },
+        {
+          "text": "De soep smaakt ___.",
+          "hint": "Суп солоний на смак (без -e)",
+          "accepted": [
+            [
+              "zout"
+            ]
+          ]
+        },
+        {
+          "text": "Ik eet een ___ kaas.",
+          "hint": "солоний сир (de kaas, з -e)",
+          "accepted": [
+            [
+              "zoute"
+            ]
+          ]
+        },
+        {
+          "text": "___ avondeten is lekker.",
+          "hint": "Вечеря смачна (het чи de?)",
+          "accepted": [
+            [
+              "Het",
+              "het"
+            ]
+          ]
+        },
+        {
+          "text": "___ de lunch eet ik soep.",
+          "hint": "На обід (bij)",
+          "accepted": [
+            [
+              "Bij",
+              "bij"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus koopt drie ___.",
+          "hint": "три булочки",
+          "accepted": [
+            [
+              "broodjes"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer ___ geen honger.",
+          "hint": "Мій брат не голодний",
+          "accepted": [
+            [
+              "heeft"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vader ___ vis.",
+          "hint": "Тато варить рибу",
+          "accepted": [
+            [
+              "kookt"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: множина, verkleinwoord (-je), заперечення, питання",
+      "items": [
+        {
+          "example": true,
+          "prompt": "De vis is groot.",
+          "cue": "-> meervoud: De ... zijn groot.",
+          "accepted": [
+            "De vissen zijn groot."
+          ]
+        },
+        {
+          "prompt": "De kip is lekker.",
+          "cue": "-> meervoud: De ... zijn lekker.",
+          "accepted": [
+            "De kippen zijn lekker."
+          ]
+        },
+        {
+          "prompt": "De boterham is vers.",
+          "cue": "-> meervoud: De ... zijn vers.",
+          "accepted": [
+            "De boterhammen zijn vers."
+          ]
+        },
+        {
+          "prompt": "Het brood is vers.",
+          "cue": "-> kleiner (-je): Het ... is vers.",
+          "accepted": [
+            "Het broodje is vers."
+          ]
+        },
+        {
+          "prompt": "Ik eet een boterham.",
+          "cue": "-> Ik eet twee ...",
+          "accepted": [
+            "Ik eet twee boterhammen."
+          ]
+        },
+        {
+          "prompt": "Hij koopt een fles water.",
+          "cue": "-> Hij koopt twee ... water.",
+          "accepted": [
+            "Hij koopt twee flessen water."
+          ]
+        },
+        {
+          "prompt": "Wij kopen een kilo appels.",
+          "cue": "-> Wij kopen twee ... appels.",
+          "accepted": [
+            "Wij kopen twee kilo appels.",
+            "We kopen twee kilo appels."
+          ]
+        },
+        {
+          "prompt": "Wij hebben dorst.",
+          "cue": "-> ontkenning: Wij hebben ... dorst.",
+          "accepted": [
+            "Wij hebben geen dorst.",
+            "We hebben geen dorst."
+          ]
+        },
+        {
+          "prompt": "De soep smaakt zout.",
+          "cue": "-> постав питання: Smaakt ...?",
+          "accepted": [
+            "Smaakt de soep zout?"
+          ]
+        },
+        {
+          "prompt": "De vis is vers.",
+          "cue": "-> Ik koop ... vis.",
+          "accepted": [
+            "Ik koop verse vis."
+          ]
+        },
+        {
+          "prompt": "Het broodje is zout.",
+          "cue": "-> Ik eet een ... broodje.",
+          "accepted": [
+            "Ik eet een zout broodje."
+          ]
+        },
+        {
+          "prompt": "Bij het ontbijt eet ik brood.",
+          "cue": "-> починай з Ik",
+          "accepted": [
+            "Ik eet brood bij het ontbijt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ rijst.",
+          "cue": "koken",
+          "accepted": [
+            "kook"
+          ]
+        },
+        {
+          "text": "Wij ___ vis met rijst.",
+          "cue": "koken",
+          "accepted": [
+            "koken"
+          ]
+        },
+        {
+          "text": "___ jij kip?",
+          "cue": "koken",
+          "accepted": [
+            "Kook",
+            "kook"
+          ]
+        },
+        {
+          "text": "De soep ___ zout.",
+          "cue": "smaken",
+          "accepted": [
+            "smaakt"
+          ]
+        },
+        {
+          "text": "De aardbeien ___ zoet.",
+          "cue": "smaken",
+          "accepted": [
+            "smaken"
+          ]
+        },
+        {
+          "text": "___ het vlees goed?",
+          "cue": "smaken",
+          "accepted": [
+            "Smaakt",
+            "smaakt"
+          ]
+        },
+        {
+          "text": "Ik ___ een kilo bananen.",
+          "cue": "kopen",
+          "accepted": [
+            "koop"
+          ]
+        },
+        {
+          "text": "Hij ___ een glas sap.",
+          "cue": "drinken",
+          "accepted": [
+            "drinkt"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ een broodje.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "___ jij honger?",
+          "cue": "hebben",
+          "accepted": [
+            "Heb",
+            "heb"
+          ]
+        },
+        {
+          "text": "Wij ___ dorst.",
+          "cue": "hebben",
+          "accepted": [
+            "hebben"
+          ]
+        },
+        {
+          "text": "Ik ___ van kip met rijst.",
+          "cue": "houden",
+          "accepted": [
+            "hou"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
