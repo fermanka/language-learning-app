@@ -1,0 +1,1189 @@
+{
+  "id": "nl-les-26",
+  "lang": "nl",
+  "order": 26,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-402ddfb0",
+      "type": "function",
+      "lemma": "gisteren",
+      "ua": "вчора",
+      "audio": "gisteren.mp3",
+      "explain_ua": "(Gisteren was ik thuis = вчора я була вдома). Gisteren це «вчора»: пара до vandaag (Les 11) і morgen (Les 13). Одне слово, форма не змінюється. G це [x], як х у хата; наголос на першому складі: приблизно «хістерен». Схоже на англійське yesterday (g ↔ y): підказка для пам'яті, не правило"
+    },
+    {
+      "id": "nl-c7e9a280",
+      "type": "function",
+      "lemma": "vorige / vorig",
+      "ua": "минулий (vorige week = минулого тижня)",
+      "audio": "vorige-vorig.mp3",
+      "audio_text": "vorige, vorig",
+      "dictation": false,
+      "explain_ua": "(Vorige week was ik ziek = минулого тижня я була хвора; Vorig jaar was ik in Nederland = минулого року я була в Нідерландах). Vorige і vorig це одне слово в двох формах: перед de-словом vorige (vorige week, vorige maand), перед het-словом vorig (vorig jaar). Те саме правило, що elk і elke (Les 7). Без in і без op: vorige week вже значить «минулого тижня», відмінків немає. O довге [oː], як у boos (Les 1); g це [x], як х"
+    },
+    {
+      "id": "nl-6069fd2f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "jaar",
+      "plural": [
+        "jaren"
+      ],
+      "ua": "рік",
+      "audio": "het-jaar.mp3",
+      "explain_ua": "(Vorig jaar was ik in Kroatië = минулого року я була в Хорватії). Het-слово, множина jaren: aa стає a у відкритому складі, як maan і manen (Les 1). J це [j], як й у слові «йод», не «дж»; aa довге [aː], як у maan: приблизно «йар». Після числа jaar лишається в однині: twee jaar (за словником woorden.org)"
+    },
+    {
+      "id": "nl-db57a9f1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "maand",
+      "plural": [
+        "maanden"
+      ],
+      "ua": "місяць (календарний)",
+      "audio": "de-maand.mp3",
+      "explain_ua": "(Vorige maand was ik ziek = минулого місяця я була хвора). Українське «місяць» це і місяць на небі, і місяць у календарі. У нідерландській два слова: de maan (Les 1) на небі, de maand у календарі. Множина maanden. Кінцеве d читається як [t]: maand звучить «мант». У російській так само (хлеб звучить «хлеп»), в українській ні. Aa довге, як у maan. Схоже на maan: підказка для пам'яті"
+    },
+    {
+      "id": "nl-202b5d83",
+      "type": "function",
+      "lemma": "toen",
+      "ua": "тоді (у минулому)",
+      "audio": "toen.mp3",
+      "explain_ua": "(Toen was het koud = тоді було холодно; Ik had toen geen tijd = тоді в мене не було часу). Toen це «тоді, у той час», тільки про минуле. Не плутай: nu = зараз (Les 4), daarna = потім (Les 11), toen = тоді, у той момент минулого. У цьому уроці toen лише окреме слово: стоїть першим (тоді дієслово друге: Toen was ik ziek) або після дієслова, як nu. Toen як сполучник у підрядному реченні (з дієсловом у кінці) вчимо пізніше. Oe це [u], як у boek (Les 1): приблизно «тун»"
+    },
+    {
+      "id": "nl-84468b39",
+      "type": "function",
+      "lemma": "thuis",
+      "ua": "вдома",
+      "audio": "thuis.mp3",
+      "explain_ua": "(Ik ben thuis = я вдома; Ik ga naar huis = я йду додому). Thuis відповідає на питання «де?», naar huis на питання «куди?» (Les 5). Артикля немає, і не буває ні in thuis, ні naar thuis. Не плутай з het huis (будинок як будівля). Ui це [œy], як у huis (Les 1): приблизно «тьойс». Th читається просто як t"
+    },
+    {
+      "id": "nl-3168deff",
+      "type": "adjective",
+      "lemma": "moe",
+      "ua": "втомлений, втомлена, втомлене, втомлені",
+      "audio": "moe.mp3",
+      "explain_ua": "(Ik ben moe = я втомлена; Ik was heel moe = я була дуже втомлена). Одна форма для будь-якого роду й числа. У цьому уроці вчимо moe лише після zijn і was, без іменника. З heel і te (Les 19): heel moe, te moe. Oe це [u], як у boek (Les 1): «му»"
+    },
+    {
+      "id": "nl-5874e6cc",
+      "type": "adjective",
+      "lemma": "ziek",
+      "ua": "хворий, хвора, хворе, хворі",
+      "audio": "ziek.mp3",
+      "explain_ua": "(Zij is ziek = вона хвора; Hij was ziek = він був хворий). Одна форма для будь-якого роду й числа; вчимо лише після zijn і was, без іменника. Слово вже було в het ziekenhuis (Les 24): «дім для хворих», підказка для пам'яті. Ie це [i], як у ziet (Les 19): приблизно «зік»"
+    },
+    {
+      "id": "nl-0c43adda",
+      "type": "verb",
+      "lemma": "was / waren",
+      "ua": "був, була, було, були (zijn у минулому)",
+      "audio": "was-waren.mp3",
+      "audio_text": "was, waren",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "was",
+          "audio": "ik-was.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "was",
+          "audio": "jij-was.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "was",
+          "audio": "u-was.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "was",
+          "audio": "hij-was.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "waren",
+          "audio": "wij-waren.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "waren",
+          "audio": "jullie-waren.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "waren",
+          "audio": "zij-waren.mp3"
+        }
+      ],
+      "explain_ua": "(Ik was thuis = я була вдома; Wij waren in de stad = ми були в місті). Це zijn (Les 1) у минулому. Лише дві форми: was (ik, jij, u, hij, zij, het) і waren (wij, jullie, zij). Закінчення -t немає: jij was, не jij wast. Рід не міняє форму: was це і «був», і «була», і «було». Іменник у множині: waren (De mannen waren thuis). W це [ʋ] (Les 1). У was a коротка [ɑ], як у man; у waren склад відкритий і a довга [aː], як у maan. Інші дієслова в минулому вчимо пізніше"
+    },
+    {
+      "id": "nl-6808acfe",
+      "type": "verb",
+      "lemma": "had / hadden",
+      "ua": "мав, мала, мало, мали (hebben у минулому)",
+      "audio": "had-hadden.mp3",
+      "audio_text": "had, hadden",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "had",
+          "audio": "ik-had.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "had",
+          "audio": "jij-had.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "had",
+          "audio": "u-had.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "had",
+          "audio": "hij-had.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "hadden",
+          "audio": "wij-hadden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "hadden",
+          "audio": "jullie-hadden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "hadden",
+          "audio": "zij-hadden.mp3"
+        }
+      ],
+      "explain_ua": "(Ik had honger = я була голодна; Wij hadden een groot huis = у нас був великий будинок). Це hebben (Les 2) у минулому: had (ik, jij, u, hij, zij, het) і hadden (wij, jullie, zij). Закінчення -t немає: jij had, не jij hadt. Кінцеве d у had читається як [t]: «хат»; у російській так само (хлеб звучить «хлеп»), в українській ні. У hadden подвоєне dd, щоб a лишалась короткою, як у zwem-men (Les 7). H це легкий видих, як українське г, не х"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Was і waren: zijn у минулому",
+      "summary_ua": "У минулому zijn має лише дві форми: was для однини (ik, jij, u, hij, zij, het) і waren для множини (wij, jullie, zij). Закінчення -t немає.",
+      "see": "Les 1",
+      "compare": [
+        {
+          "form": "Was: ik, jij, u, hij, zij, het",
+          "when_ua": "Одна форма для однини й для всіх родів.",
+          "examples": [
+            {
+              "nl": "Ik **was** in de keuken.",
+              "ua": "Я була на кухні.",
+              "audio": "les26-rule-01.mp3"
+            },
+            {
+              "nl": "Jij **was** in de tuin.",
+              "ua": "Ти був у саду.",
+              "audio": "les26-rule-02.mp3"
+            },
+            {
+              "nl": "De zoon **was** in het park.",
+              "ua": "Син був у парку.",
+              "audio": "les26-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не jij wast. В українській був, була, було, у нідерландській завжди was."
+        },
+        {
+          "form": "Waren: wij, jullie, zij",
+          "when_ua": "Одна форма для множини, як zijn у теперішньому (wij zijn).",
+          "examples": [
+            {
+              "nl": "Wij **waren** in de winkel.",
+              "ua": "Ми були в магазині.",
+              "audio": "les26-rule-04.mp3"
+            },
+            {
+              "nl": "Jullie **waren** in de stad.",
+              "ua": "Ви були в місті.",
+              "audio": "les26-rule-05.mp3"
+            },
+            {
+              "nl": "De mannen **waren** in het bos.",
+              "ua": "Чоловіки були в лісі.",
+              "audio": "les26-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Підмет-іменник у множині теж waren: De man was, De mannen waren. Zij може бути «вона» (zij was) і «вони» (zij waren)."
+        }
+      ],
+      "points_ua": [
+        "Was: ik, jij, u, hij, zij, het. Waren: wij, jullie, zij.",
+        "Без закінчення -t: jij was."
+      ]
+    },
+    {
+      "title_ua": "Had і hadden: hebben у минулому",
+      "summary_ua": "Hebben у минулому теж має дві форми: had для однини і hadden для множини. Правило те саме, що для was і waren.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Had: ik, jij, u, hij, zij, het",
+          "when_ua": "Одна форма для однини. Heeft і hebt з теперішнього часу зникають.",
+          "examples": [
+            {
+              "nl": "Ik **had** een broer.",
+              "ua": "У мене був брат.",
+              "audio": "les26-rule-07.mp3"
+            },
+            {
+              "nl": "Jij **had** een nieuwe jas.",
+              "ua": "У тебе була нова куртка.",
+              "audio": "les26-rule-08.mp3"
+            },
+            {
+              "nl": "De vader **had** dorst.",
+              "ua": "Тато хотів пити.",
+              "audio": "les26-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Не jij hadt. Honger hebben і dorst hebben (Les 25) теж мають had: Ik had honger."
+        },
+        {
+          "form": "Hadden: wij, jullie, zij",
+          "when_ua": "Одна форма для множини. Іменник у множині теж hadden.",
+          "examples": [
+            {
+              "nl": "Wij **hadden** een groot huis.",
+              "ua": "У нас був великий будинок.",
+              "audio": "les26-rule-10.mp3"
+            },
+            {
+              "nl": "Jullie **hadden** veel werk.",
+              "ua": "У вас було багато роботи.",
+              "audio": "les26-rule-11.mp3"
+            },
+            {
+              "nl": "De kinderen **hadden** honger.",
+              "ua": "Діти були голодні.",
+              "audio": "les26-rule-12.mp3"
+            }
+          ],
+          "note_ua": "De vader had, De kinderen hadden: дієслово погоджується з підметом, як у теперішньому часі."
+        }
+      ],
+      "points_ua": [
+        "Had: ik, jij, u, hij, zij, het. Hadden: wij, jullie, zij.",
+        "Без закінчення -t: jij had."
+      ]
+    },
+    {
+      "title_ua": "Gisteren першим: дієслово друге",
+      "summary_ua": "Порядок слів той самий, що з vandaag і nu: коли час стоїть першим, дієслово йде одразу за ним, а підмет після нього. Gisteren was ik moe, не Gisteren ik was moe.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "Час першим: дієслово, потім підмет",
+          "when_ua": "Gisteren, vorige week, vorig jaar, toen: дієслово завжди на другому місці.",
+          "examples": [
+            {
+              "nl": "Gisteren **was** ik in de stad.",
+              "ua": "Вчора я була в місті.",
+              "audio": "les26-rule-13.mp3"
+            },
+            {
+              "nl": "Vorige week **hadden** wij veel werk.",
+              "ua": "Минулого тижня в нас було багато роботи.",
+              "audio": "les26-rule-14.mp3"
+            },
+            {
+              "nl": "Toen **was** hij ziek.",
+              "ua": "Тоді він був хворий.",
+              "audio": "les26-rule-15.mp3"
+            },
+            {
+              "nl": "Vorig jaar **waren** wij in Kroatië.",
+              "ua": "Минулого року ми були в Хорватії.",
+              "audio": "les26-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Не Gisteren ik was. Так само, як Vandaag regent het (Les 23)."
+        },
+        {
+          "form": "Підмет першим: час після дієслова",
+          "when_ua": "Якщо речення починається з підмета, час стоїть після дієслова.",
+          "examples": [
+            {
+              "nl": "Ik **was** gisteren in de stad.",
+              "ua": "Я вчора була в місті.",
+              "audio": "les26-rule-17.mp3"
+            },
+            {
+              "nl": "Hij **was** toen ziek.",
+              "ua": "Він тоді був хворий.",
+              "audio": "les26-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Обидва порядки правильні: різниця лише в тому, що ти ставиш першим. Час перед іншими деталями (Les 7)."
+        }
+      ],
+      "points_ua": [
+        "Gisteren, vorige week, toen першим: дієслово друге.",
+        "Не Gisteren ik was: дієслово одразу після часу."
+      ]
+    },
+    {
+      "title_ua": "Питання і заперечення в минулому",
+      "summary_ua": "Питання: дієслово першим, як у Les 3. Заперечення: niet чи geen, як у Les 2. Закінчення -t немає, тож Was jij, Had je.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Питання: дієслово першим",
+          "when_ua": "Yes/no: Was ... ? Waren ... ? Had ... ? Питальне слово (waar) стоїть ще раніше.",
+          "examples": [
+            {
+              "nl": "**Was** jij gisteren moe?",
+              "ua": "Ти вчора була втомлена?",
+              "audio": "les26-rule-19.mp3"
+            },
+            {
+              "nl": "**Waren** jullie vorige week thuis?",
+              "ua": "Ви минулого тижня були вдома?",
+              "audio": "les26-rule-20.mp3"
+            },
+            {
+              "nl": "**Had** je gisteren tijd?",
+              "ua": "У тебе вчора був час?",
+              "audio": "les26-rule-21.mp3"
+            },
+            {
+              "nl": "Waar **waren** jullie vorig jaar?",
+              "ua": "Де ви були минулого року?",
+              "audio": "les26-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Не Wast jij? і не Hadt je?: після was і had t не з'являється."
+        },
+        {
+          "form": "Заперечення: niet і geen",
+          "when_ua": "Niet перед прикметником чи місцем. Geen перед іменником без артикля або з een.",
+          "examples": [
+            {
+              "nl": "Ik **was** **niet** moe.",
+              "ua": "Я не була втомлена.",
+              "audio": "les26-rule-23.mp3"
+            },
+            {
+              "nl": "Hij was gisteren **niet** thuis.",
+              "ua": "Вчора його не було вдома.",
+              "audio": "les26-rule-24.mp3"
+            },
+            {
+              "nl": "Wij hadden **geen** honger.",
+              "ua": "Ми не були голодні.",
+              "audio": "les26-rule-25.mp3"
+            },
+            {
+              "nl": "Zij had **geen** paraplu.",
+              "ua": "У неї не було парасольки.",
+              "audio": "les26-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Правило з Les 2 не змінилося: was + niet, had + geen перед іменником."
+        }
+      ],
+      "points_ua": [
+        "Питання: Was jij ...? Waren jullie ...? Had je ...?",
+        "Ik was niet moe, але Ik had geen tijd."
+      ]
+    },
+    {
+      "title_ua": "Het was, er was, er waren",
+      "summary_ua": "Погода й стан у минулому: Het was koud. Існування в минулому: Er was een café, Er waren twee cafés. Дієслово погоджується з тим, що було.",
+      "see": "Les 24",
+      "compare": [
+        {
+          "form": "Het was: погода, стан",
+          "when_ua": "Het без предмета, як у Les 23; було холодно, було сонячно.",
+          "examples": [
+            {
+              "nl": "Het **was** koud.",
+              "ua": "Було холодно.",
+              "audio": "les26-rule-27.mp3"
+            },
+            {
+              "nl": "Gisteren **was** het zonnig.",
+              "ua": "Вчора було сонячно.",
+              "audio": "les26-rule-28.mp3"
+            },
+            {
+              "nl": "Het **was** mooi weer.",
+              "ua": "Була гарна погода.",
+              "audio": "les26-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Het = «воно» без значення, як у Het regent. Mooi weer без артикля (Les 23)."
+        },
+        {
+          "form": "Er was / er waren: щось було",
+          "when_ua": "Як Er is / Er zijn (Les 24): однина was, множина waren, за тим, що було.",
+          "examples": [
+            {
+              "nl": "**Er was** een café in de straat.",
+              "ua": "На вулиці було кафе.",
+              "audio": "les26-rule-30.mp3"
+            },
+            {
+              "nl": "**Er waren** veel kinderen in het park.",
+              "ua": "У парку було багато дітей.",
+              "audio": "les26-rule-31.mp3"
+            },
+            {
+              "nl": "**Er waren** geen scholen.",
+              "ua": "Шкіл не було.",
+              "audio": "les26-rule-32.mp3"
+            }
+          ],
+          "note_ua": "Er was een café, але Er waren twee cafés: дієслово слідує за тим, що було, а не за er."
+        }
+      ],
+      "points_ua": [
+        "Het was koud: het без значення.",
+        "Er was + однина, Er waren + множина."
+      ]
+    },
+    {
+      "title_ua": "Vorige week, vorig jaar",
+      "summary_ua": "Vorige стоїть перед de-словом, vorig перед het-словом. Це те саме правило, що elk і elke (Les 7). Ніяких in чи op не треба.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Vorige + de-слово",
+          "when_ua": "De week, de maand, de zaterdag, de zomer: vorige.",
+          "examples": [
+            {
+              "nl": "**Vorige** week was ik ziek.",
+              "ua": "Минулого тижня я була хвора.",
+              "audio": "les26-rule-33.mp3"
+            },
+            {
+              "nl": "**Vorige** maand waren wij thuis.",
+              "ua": "Минулого місяця ми були вдома.",
+              "audio": "les26-rule-34.mp3"
+            },
+            {
+              "nl": "**Vorige** zaterdag was het koud.",
+              "ua": "Минулої суботи було холодно.",
+              "audio": "les26-rule-35.mp3"
+            }
+          ],
+          "note_ua": "Vorige week вже значить «минулого тижня»: не in vorige week і не op vorige zaterdag."
+        },
+        {
+          "form": "Vorig + het-слово",
+          "when_ua": "У цьому уроці het-слово це лише het jaar: vorig jaar.",
+          "examples": [
+            {
+              "nl": "**Vorig** jaar was ik in Nederland.",
+              "ua": "Минулого року я була в Нідерландах.",
+              "audio": "les26-rule-36.mp3"
+            },
+            {
+              "nl": "**Vorig** jaar hadden wij veel regen.",
+              "ua": "Минулого року в нас було багато дощу.",
+              "audio": "les26-rule-37.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: elk uur, elke dag (Les 7). Vorig jaar, vorige week."
+        }
+      ],
+      "points_ua": [
+        "Vorige перед de-словом, vorig перед het-словом.",
+        "Без in і без op: vorige week = минулого тижня."
+      ]
+    },
+    {
+      "title_ua": "Thuis чи naar huis",
+      "summary_ua": "Thuis це «де?»: я вдома. Naar huis це «куди?»: я йду додому. Як in і naar у Les 5. Обидва без артикля.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "Thuis: де?",
+          "when_ua": "Місце, де ти вже є. З zijn, was, waren.",
+          "examples": [
+            {
+              "nl": "Ik ben nu **thuis**.",
+              "ua": "Я зараз вдома.",
+              "audio": "les26-rule-38.mp3"
+            },
+            {
+              "nl": "Zij is vandaag **thuis**.",
+              "ua": "Вона сьогодні вдома.",
+              "audio": "les26-rule-39.mp3"
+            },
+            {
+              "nl": "**Thuis** is het warm.",
+              "ua": "Вдома тепло.",
+              "audio": "les26-rule-40.mp3"
+            }
+          ],
+          "note_ua": "Thuis без in і без артикля: не in thuis, не in het thuis."
+        },
+        {
+          "form": "Naar huis: куди?",
+          "when_ua": "Рух додому: gaan, lopen, rijden + naar huis.",
+          "examples": [
+            {
+              "nl": "Ik ga nu **naar huis**.",
+              "ua": "Я йду зараз додому.",
+              "audio": "les26-rule-41.mp3"
+            },
+            {
+              "nl": "Zij gaat vandaag **naar huis**.",
+              "ua": "Вона сьогодні йде додому.",
+              "audio": "les26-rule-42.mp3"
+            },
+            {
+              "nl": "De kinderen gaan **naar huis**.",
+              "ua": "Діти йдуть додому.",
+              "audio": "les26-rule-43.mp3"
+            }
+          ],
+          "note_ua": "Naar huis без het (Les 5). Naar het huis значить «до будинку», до будівлі."
+        }
+      ],
+      "points_ua": [
+        "Thuis: де я. Naar huis: куди я йду.",
+        "Обидва без артикля."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik was gisteren thuis.",
+      "ua": "Вчора я була вдома.",
+      "audio": "les26-example-01.mp3"
+    },
+    {
+      "nl": "Gisteren was ik moe.",
+      "ua": "Вчора я була втомлена.",
+      "audio": "les26-example-02.mp3"
+    },
+    {
+      "nl": "Wij waren gisteren in de stad.",
+      "ua": "Вчора ми були в місті.",
+      "audio": "les26-example-03.mp3"
+    },
+    {
+      "nl": "Zij was ziek.",
+      "ua": "Вона була хвора.",
+      "audio": "les26-example-04.mp3"
+    },
+    {
+      "nl": "Ik had gisteren geen tijd.",
+      "ua": "Вчора в мене не було часу.",
+      "audio": "les26-example-05.mp3"
+    },
+    {
+      "nl": "Hij had honger.",
+      "ua": "Він був голодний.",
+      "audio": "les26-example-06.mp3"
+    },
+    {
+      "nl": "Vorige week waren de kinderen ziek.",
+      "ua": "Минулого тижня діти були хворі.",
+      "audio": "les26-example-07.mp3"
+    },
+    {
+      "nl": "Vorig jaar had ik een klein huis.",
+      "ua": "Минулого року в мене був маленький будинок.",
+      "audio": "les26-example-08.mp3"
+    },
+    {
+      "nl": "Toen was het koud.",
+      "ua": "Тоді було холодно.",
+      "audio": "les26-example-09.mp3"
+    },
+    {
+      "nl": "Waar was je gisteren?",
+      "ua": "Де ти вчора був?",
+      "audio": "les26-example-10.mp3"
+    },
+    {
+      "nl": "Was jij vorige maand thuis?",
+      "ua": "Ти минулого місяця був удома?",
+      "audio": "les26-example-11.mp3"
+    },
+    {
+      "nl": "Er was een park naast de school.",
+      "ua": "Біля школи був парк.",
+      "audio": "les26-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Gisteren",
+    "title_ua": "Вчора",
+    "highlight": [
+      "nl-402ddfb0",
+      "nl-202b5d83",
+      "nl-84468b39",
+      "nl-3168deff",
+      "nl-5874e6cc"
+    ],
+    "sentences": [
+      {
+        "nl": "Gisteren was ik thuis.",
+        "ua": "Вчора я була вдома.",
+        "audio": "les26-reading-01.mp3"
+      },
+      {
+        "nl": "Ik was moe, want ik had veel werk.",
+        "ua": "Я була втомлена, бо в мене було багато роботи.",
+        "audio": "les26-reading-02.mp3"
+      },
+      {
+        "nl": "Vorige week was ik ziek.",
+        "ua": "Минулого тижня я була хвора.",
+        "audio": "les26-reading-03.mp3"
+      },
+      {
+        "nl": "Toen had ik geen tijd.",
+        "ua": "Тоді в мене не було часу.",
+        "audio": "les26-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn zus was ook thuis.",
+        "ua": "Моя сестра теж була вдома.",
+        "audio": "les26-reading-05.mp3"
+      },
+      {
+        "nl": "Zij had honger en dorst.",
+        "ua": "Вона була голодна й хотіла пити.",
+        "audio": "les26-reading-06.mp3"
+      },
+      {
+        "nl": "Wij hadden brood en kaas.",
+        "ua": "У нас були хліб і сир.",
+        "audio": "les26-reading-07.mp3"
+      },
+      {
+        "nl": "Het was koud, dus wij waren in de keuken.",
+        "ua": "Було холодно, тому ми були на кухні.",
+        "audio": "les26-reading-08.mp3"
+      },
+      {
+        "nl": "Vandaag ben ik niet moe.",
+        "ua": "Сьогодні я не втомлена.",
+        "audio": "les26-reading-09.mp3"
+      },
+      {
+        "nl": "Nu heb ik ook tijd.",
+        "ua": "Тепер у мене теж є час.",
+        "audio": "les26-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я була в магазині.",
+          "accepted": [
+            "Ik was in de winkel."
+          ]
+        },
+        {
+          "prompt": "Ти був удома.",
+          "accepted": [
+            "Jij was thuis.",
+            "Je was thuis."
+          ]
+        },
+        {
+          "prompt": "Вони були хворі.",
+          "accepted": [
+            "Zij waren ziek.",
+            "Ze waren ziek."
+          ]
+        },
+        {
+          "prompt": "Вчора ми були вдома.",
+          "accepted": [
+            "Gisteren waren wij thuis.",
+            "Gisteren waren we thuis.",
+            "Wij waren gisteren thuis.",
+            "We waren gisteren thuis."
+          ]
+        },
+        {
+          "prompt": "Вчора в мене не було грошей.",
+          "accepted": [
+            "Ik had gisteren geen geld.",
+            "Gisteren had ik geen geld."
+          ]
+        },
+        {
+          "prompt": "Минулого року вона була в Україні.",
+          "accepted": [
+            "Vorig jaar was zij in Oekraïne.",
+            "Vorig jaar was ze in Oekraïne.",
+            "Zij was vorig jaar in Oekraïne.",
+            "Ze was vorig jaar in Oekraïne."
+          ]
+        },
+        {
+          "prompt": "Минулого тижня діти були в парку.",
+          "accepted": [
+            "Vorige week waren de kinderen in het park.",
+            "De kinderen waren vorige week in het park."
+          ]
+        },
+        {
+          "prompt": "Чи ви (мн.) були вчора в кафе?",
+          "accepted": [
+            "Waren jullie gisteren in het café?",
+            "Waren jullie gisteren in een café?"
+          ]
+        },
+        {
+          "prompt": "Де ти була минулого місяця?",
+          "accepted": [
+            "Waar was je vorige maand?",
+            "Waar was jij vorige maand?"
+          ]
+        },
+        {
+          "prompt": "Вона не була вдома.",
+          "accepted": [
+            "Zij was niet thuis.",
+            "Ze was niet thuis."
+          ]
+        },
+        {
+          "prompt": "Тоді в нас був маленький сад.",
+          "accepted": [
+            "Toen hadden wij een kleine tuin.",
+            "Toen hadden we een kleine tuin.",
+            "Wij hadden toen een kleine tuin.",
+            "We hadden toen een kleine tuin."
+          ]
+        },
+        {
+          "prompt": "Чи Ви (ввічливо) були вчора вдома?",
+          "accepted": [
+            "Was u gisteren thuis?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово",
+      "bank": [
+        "was",
+        "waren",
+        "had",
+        "hadden",
+        "vorig",
+        "vorige",
+        "gisteren",
+        "toen",
+        "thuis",
+        "huis",
+        "niet",
+        "geen"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ gisteren moe.",
+          "hint": "Я була вчора втомлена",
+          "accepted": [
+            [
+              "was"
+            ]
+          ]
+        },
+        {
+          "text": "De kinderen ___ vorige week thuis.",
+          "hint": "Діти були минулого тижня вдома",
+          "accepted": [
+            [
+              "waren"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ veel werk.",
+          "hint": "У нас було багато роботи",
+          "accepted": [
+            [
+              "hadden"
+            ]
+          ]
+        },
+        {
+          "text": "___ jaar was ik in Nederland.",
+          "hint": "Минулого року я була в Нідерландах",
+          "accepted": [
+            [
+              "Vorig",
+              "vorig"
+            ]
+          ]
+        },
+        {
+          "text": "___ week was ik ziek.",
+          "hint": "Минулого тижня я була хвора",
+          "accepted": [
+            [
+              "Vorige",
+              "vorige"
+            ]
+          ]
+        },
+        {
+          "text": "___ was ik in de stad.",
+          "hint": "Вчора я була в місті",
+          "accepted": [
+            [
+              "Gisteren",
+              "gisteren"
+            ]
+          ]
+        },
+        {
+          "text": "Ik was gisteren ___.",
+          "hint": "Я була вчора вдома",
+          "accepted": [
+            [
+              "thuis"
+            ]
+          ]
+        },
+        {
+          "text": "Wij gaan om zeven uur naar ___.",
+          "hint": "Ми йдемо о сьомій додому",
+          "accepted": [
+            [
+              "huis"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ honger.",
+          "hint": "Він був голодний",
+          "accepted": [
+            [
+              "had"
+            ]
+          ]
+        },
+        {
+          "text": "Zij was ___ moe.",
+          "hint": "Вона не була втомлена",
+          "accepted": [
+            [
+              "niet"
+            ]
+          ]
+        },
+        {
+          "text": "Zij hadden ___ tijd.",
+          "hint": "У них не було часу",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "___ was het koud, nu is het warm.",
+          "hint": "Тоді було холодно, тепер тепло",
+          "accepted": [
+            [
+              "Toen",
+              "toen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik ben thuis.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Ik was thuis."
+          ]
+        },
+        {
+          "prompt": "De mannen zijn moe.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "De mannen waren moe."
+          ]
+        },
+        {
+          "prompt": "De moeder heeft honger.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "De moeder had honger."
+          ]
+        },
+        {
+          "prompt": "Wij hebben veel werk.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Wij hadden veel werk.",
+            "We hadden veel werk."
+          ]
+        },
+        {
+          "prompt": "Ik ben ziek.",
+          "cue": "-> минулий час, gisteren першим",
+          "accepted": [
+            "Gisteren was ik ziek."
+          ]
+        },
+        {
+          "prompt": "Wij hebben tijd.",
+          "cue": "-> минулий час, gisteren першим",
+          "accepted": [
+            "Gisteren hadden wij tijd.",
+            "Gisteren hadden we tijd."
+          ]
+        },
+        {
+          "prompt": "Jij bent thuis.",
+          "cue": "-> питання в минулому часі",
+          "accepted": [
+            "Was jij thuis?",
+            "Was je thuis?"
+          ]
+        },
+        {
+          "prompt": "Jullie hebben honger.",
+          "cue": "-> питання в минулому часі",
+          "accepted": [
+            "Hadden jullie honger?"
+          ]
+        },
+        {
+          "prompt": "Zij was ziek.",
+          "cue": "-> заперечення (niet)",
+          "accepted": [
+            "Zij was niet ziek.",
+            "Ze was niet ziek."
+          ]
+        },
+        {
+          "prompt": "Wij hadden tijd.",
+          "cue": "-> заперечення (geen)",
+          "accepted": [
+            "Wij hadden geen tijd.",
+            "We hadden geen tijd."
+          ]
+        },
+        {
+          "prompt": "Wij waren thuis.",
+          "cue": "-> почни з vorige week",
+          "accepted": [
+            "Vorige week waren wij thuis.",
+            "Vorige week waren we thuis."
+          ]
+        },
+        {
+          "prompt": "Het was koud.",
+          "cue": "-> теперішній час",
+          "accepted": [
+            "Het is koud."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ gisteren thuis.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "was"
+          ]
+        },
+        {
+          "text": "Wij ___ gisteren moe.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "waren"
+          ]
+        },
+        {
+          "text": "Jij ___ vorige week ziek.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "was"
+          ]
+        },
+        {
+          "text": "De moeder ___ gisteren thuis.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "was"
+          ]
+        },
+        {
+          "text": "De kinderen ___ vorige maand ziek.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "waren"
+          ]
+        },
+        {
+          "text": "Ik ___ gisteren honger.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "had"
+          ]
+        },
+        {
+          "text": "Wij ___ vorig jaar een groot huis.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "hadden"
+          ]
+        },
+        {
+          "text": "De vader ___ geen tijd.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "had"
+          ]
+        },
+        {
+          "text": "De mannen ___ geen geld.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "hadden"
+          ]
+        },
+        {
+          "text": "Waar ___ jij gisteren?",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "was"
+          ]
+        },
+        {
+          "text": "___ jullie vorige week ziek?",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "Waren",
+            "waren"
+          ]
+        },
+        {
+          "text": "___ u gisteren tijd?",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "Had",
+            "had"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом чи виразом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "вчора",
+          "answer": "gisteren"
+        },
+        {
+          "prompt": "минулого року",
+          "answer": "vorig jaar"
+        },
+        {
+          "prompt": "минулого тижня",
+          "answer": "vorige week"
+        },
+        {
+          "prompt": "тоді (у минулому)",
+          "answer": "toen"
+        },
+        {
+          "prompt": "удома",
+          "answer": "thuis"
+        },
+        {
+          "prompt": "втомлений",
+          "answer": "moe"
+        },
+        {
+          "prompt": "хворий",
+          "answer": "ziek"
+        },
+        {
+          "prompt": "рік",
+          "answer": "het jaar"
+        },
+        {
+          "prompt": "місяць (календарний)",
+          "answer": "de maand"
+        },
+        {
+          "prompt": "завтра",
+          "answer": "morgen"
+        }
+      ],
+      "extra": [
+        "nu",
+        "naar huis"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
