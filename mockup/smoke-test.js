@@ -19,7 +19,7 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra', 'b6-story'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'check-box', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra', 'b6-story'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
@@ -27,6 +27,10 @@ global.Audio = class { play() { return Promise.resolve(); } };
 global.confirm = () => true;
 const storage = new Map();
 global.localStorage = { getItem: (k) => (storage.has(k) ? storage.get(k) : null), setItem: (k, v) => storage.set(k, String(v)), removeItem: (k) => storage.delete(k) };
+
+// two synthetic "check" flags (a noun in the first lesson, a verb in the first lesson that has one), to test the "?" marks
+window.LESSONS[0].notes.find((n) => n.type === 'noun').check = 'TEST-NOUN reason';
+window.LESSONS.find((L) => L.notes.some((n) => n.type === 'verb')).notes.find((n) => n.type === 'verb').check = 'TEST-VERB reason';
 
 window.ProgressStore = require('./progress-store.js');
 window.FSRS = require('ts-fsrs');
@@ -45,6 +49,8 @@ function checkLesson(idx) {
   t(`lesson ${L.order}: rule card ${L.rule ? 'present' : 'absent'}`, (byId['b1-rule'].children.length > 0) === !!L.rule);
   t(`lesson ${L.order}: every example has an audio button`, byId['b2-list'].children.every((li) => li.all().some((e) => e.className === 'icon')));
   t(`lesson ${L.order}: reading terms highlighted`, byId['b3-text'].all().some((e) => e.className === 'term'));
+  const marks = byId['b1-words'].all().concat(byId['b1-verbs'].all()).filter((e) => e.className === 'qmark');
+  t(`lesson ${L.order}: one "?" per flagged word (${L.notes.filter((n) => n.check).length})`, marks.length === L.notes.filter((n) => n.check).length);
   t(`lesson ${L.order}: service line hidden iff no service words`, byId['b1-service-line'].hidden === !(L.service_words || []).length);
 
   const exercises = byId['b4-body'].children;
@@ -100,6 +106,22 @@ t('words page: it starts on the newest lesson, only that one is active', wordsHe
 t('words page: only the words of the chosen lesson are listed', wordCount() === window.LESSONS[N - 1].notes.length);
 chips()[0].onclick();
 t('words page: choosing a lesson shows that lesson and marks its button', wordsHeading() === `Les ${window.LESSONS[0].order}` && wordCount() === window.LESSONS[0].notes.length && chips()[0].className.includes('active') && !chips()[N - 1].className.includes('active'));
+// the "?" marks on the Words page: one per flagged word of the chosen lesson, a click shows the reason
+const qmarks = () => byId['all-words'].all().filter((e) => e.className === 'qmark');
+const reasons = () => byId['all-words'].all().filter((e) => e.className.split(' ').includes('check-note'));
+window.LESSONS.forEach((L, i) => { chips()[i].onclick(); t(`words page Les ${L.order}: one "?" per flagged word`, qmarks().length === L.notes.filter((n) => n.check).length && reasons().length === qmarks().length); });
+chips()[0].onclick();
+t('words page: a reason is hidden until the "?" is clicked, then shown, then hidden again', reasons()[0].hidden === true && (qmarks()[0].onclick(), reasons()[0].hidden === false) && reasons()[0].textContent.includes('TEST-NOUN reason') && (qmarks()[0].onclick(), reasons()[0].hidden === true));
+// the list at the bottom of the Words page
+const flaggedAll = window.LESSONS.flatMap((L) => L.notes.filter((n) => n.check));
+const openBtn = byId['check-box'].all().find((e) => e.tag === 'button');
+const checkPanel = byId['check-box'].all().find((e) => e.className === 'check-panel');
+t('check list: the button shows how many words are marked', !!openBtn && openBtn.textContent.includes(`(${flaggedAll.length})`) && flaggedAll.length === 2);
+t('check list: it starts closed', checkPanel.hidden === true);
+openBtn.onclick();
+t('check list: the button opens it and every reason is in it', checkPanel.hidden === false && flaggedAll.every((n) => checkPanel.textContent.includes(n.check)));
+openBtn.onclick();
+t('check list: the button closes it again', checkPanel.hidden === true);
 chips()[N - 1].onclick();
 byId['next'].onclick();               // last lesson: must not crash
 // ---- flashcards (every lesson is done at this point, so the deck holds every note once)

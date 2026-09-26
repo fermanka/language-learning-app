@@ -43,6 +43,12 @@
   .meta { color: var(--muted); }
   .explain { flex-basis: 100%; color: var(--muted); font-size: 13px; line-height: 1.45; margin: -2px 0 6px; }
   .opt { color: var(--muted); font-size: 12px; margin-left: 8px; }
+  /* a word the teacher could not verify: a small amber "?" (same amber as a new word), a click shows the reason */
+  button.qmark { flex: none; font: inherit; font-size: 12px; font-weight: 700; line-height: 1; width: 20px; height: 20px; padding: 0; border-radius: 50%; cursor: pointer; background: var(--new); color: var(--new-ink); border: 1px solid var(--new-ink); }
+  button.qmark:hover { filter: brightness(1.15); }
+  .check-note { color: var(--new-ink); }
+  button.check-open { display: block; margin: 16px auto 0; }
+  .check-panel { margin-top: 12px; }
 
   .verbcard { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin: 12px auto 0; width: fit-content; min-width: 300px; max-width: 100%; }
   .verbcard .rule-title { text-align: center; }
@@ -262,6 +268,7 @@
     <div class="block"><h2><span>Слова</span><span class="dutch">Woorden</span></h2>
       <p class="meta" style="margin:0;text-align:center">Обери урок, щоб побачити його нові слова. Список збирається автоматично з уроків, окремо ніде не зберігається.</p>
       <div id="all-words"></div>
+      <div id="check-box"></div>
     </div>
   </section>
 

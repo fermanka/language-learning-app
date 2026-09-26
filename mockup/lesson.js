@@ -74,8 +74,12 @@ function deckLastIndex(lessons, isDone, openIndex) {
 // Which notes take part in the dictation exercise of a lesson.
 const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio);
 
+// Words the teacher could not verify: a note with a "check" field (the reason) is shown with a "?" and listed
+// on the Words page, so a native speaker can be asked about them. Result: [{ order, note }] in lesson order.
+const flaggedNotes = (lessons) => lessons.flatMap((L) => L.notes.filter((n) => n.check).map((note) => ({ order: L.order, note })));
+
 if (typeof document === 'undefined') {
-  module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes };
+  module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes, flaggedNotes };
 } else {
   const LESSONS = window.LESSONS;
   let current = 0;
@@ -101,13 +105,26 @@ if (typeof document === 'undefined') {
   }
   const iconBtn = (file) => { const b = el('button', 'icon'); b.title = 'Озвучка'; b.innerHTML = SPEAKER; b.onclick = () => play(file); return b; };
 
+  // A small "?" next to a word the teacher could not verify; a click shows why. Returns the button and the (hidden) reason.
+  function checkMark(n) {
+    const note = el('div', 'explain check-note', `Перевірити з носієм: ${n.check}`); note.hidden = true;
+    const btn = el('button', 'qmark', '?'); btn.type = 'button';
+    btn.title = 'Не підтверджено: покажи носію мови. Натисни, щоб побачити чому.';
+    btn.setAttribute('aria-label', `Перевірити з носієм: ${n.check}`);
+    btn.onclick = () => { note.hidden = !note.hidden; };
+    return { btn, note };
+  }
+
   function wordRow(n) {
     const li = el('li');
     li.append(el('span', 'nl', display(n)));
+    const mark = n.check ? checkMark(n) : null;
+    if (mark) li.append(mark.btn);
     li.append(el('span', 'meta', [pluralText(n), n.ua, n.audio_text && n.audio_text !== display(n) ? `(у записі: ${n.audio_text})` : ''].filter(Boolean).join(' - ')));
     if (n.plural_source === 'teacher') li.append(el('span', 'opt', 'мн. додала викладачка'));
     if (n.audio) li.append(iconBtn(n.audio));
     if (n.explain_ua) li.append(el('div', 'explain', n.explain_ua));
+    if (mark) li.append(mark.note);
     return li;
   }
 
@@ -327,7 +344,9 @@ if (typeof document === 'undefined') {
     renderRule(L);
     L.notes.filter((n) => n.type === 'verb').forEach((v) => {
       const card = el('div', 'verbcard');
-      card.append(el('div', 'rule-title', `${v.lemma} (${v.ua})`));
+      const title = el('div', 'rule-title', `${v.lemma} (${v.ua})`);
+      card.append(title);
+      if (v.check) { const mark = checkMark(v); title.append(document.createTextNode(' '), mark.btn); card.append(mark.note); }
       const tbl = el('table', 'paradigm');
       v.paradigm.forEach((r) => {
         const tr = el('tr');
@@ -608,8 +627,37 @@ if (typeof document === 'undefined') {
     root.append(el('h3', 'sub', `Les ${L.order}`));
     const ul = el('ul', 'words');
     L.notes.filter((n) => n.type !== 'verb').forEach((n) => ul.append(wordRow(n)));
-    L.notes.filter((n) => n.type === 'verb').forEach((v) => { const li = el('li'); li.append(el('span', 'nl', v.lemma), el('span', 'meta', `${v.ua} - ${[...new Set(v.paradigm.map((r) => r.form))].join(', ')}`)); ul.append(li); });
+    L.notes.filter((n) => n.type === 'verb').forEach((v) => {
+      const li = el('li');
+      li.append(el('span', 'nl', v.lemma));
+      const mark = v.check ? checkMark(v) : null;
+      if (mark) li.append(mark.btn);
+      li.append(el('span', 'meta', `${v.ua} - ${[...new Set(v.paradigm.map((r) => r.form))].join(', ')}`));
+      if (mark) li.append(mark.note);
+      ul.append(li);
+    });
     root.append(ul);
+  }
+
+  // Bottom of the Words page: one "?" button that opens a list of every word marked for a native speaker, with the comments.
+  // The list is the same for every lesson, so it is built once. No marked words: nothing is shown.
+  function renderCheckList() {
+    const root = $('check-box'); root.innerHTML = '';
+    const flagged = flaggedNotes(LESSONS);
+    if (!flagged.length) return;
+    const btn = el('button', 'btn check-open', `? Слова для перевірки (${flagged.length})`);
+    btn.type = 'button'; btn.setAttribute('aria-expanded', 'false');
+    const panel = el('div', 'check-panel'); panel.hidden = true;
+    panel.append(el('p', 'meta', 'Ці слова й форми ще не підтверджені. Їх варто показати людині, яка знає нідерландську.'));
+    let order = null, ul = null;
+    flagged.forEach(({ order: o, note }) => {
+      if (o !== order) { order = o; panel.append(el('h3', 'sub', `Les ${o}`)); ul = el('ul', 'words'); panel.append(ul); }
+      const li = el('li');
+      li.append(el('span', 'nl', display(note)), el('span', 'meta', note.ua), el('div', 'explain', note.check));
+      ul.append(li);
+    });
+    btn.onclick = () => { panel.hidden = !panel.hidden; btn.setAttribute('aria-expanded', String(!panel.hidden)); };
+    root.append(btn, panel);
   }
 
   function show(view) {
@@ -676,6 +724,7 @@ if (typeof document === 'undefined') {
 
   window.progressLog = log; // handy for tests
   renderWords();
+  renderCheckList();
   let remembered = null;
   try { remembered = localStorage.getItem(LESSON_KEY); } catch (e) { /* ignore */ }
   firstVisit = !LESSONS.some((L) => L.id === remembered);

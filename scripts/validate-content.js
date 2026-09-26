@@ -33,6 +33,7 @@ for (const { file, data: lesson } of lessons) {
     if (!type) { fail(where(`note ${n.id} has unknown type "${n.type}"`)); continue; }
     for (const field of type.required) if (n[field] === undefined || n[field] === '') fail(where(`${n.type} "${n.lemma}" is missing required field "${field}"`));
     if (n.type === 'noun' && !['de', 'het'].includes(n.article)) fail(where(`noun "${n.lemma}" has no de/het article`));
+    if (n.check !== undefined && (typeof n.check !== 'string' || !n.check.trim() || n.check.length > 240)) fail(where(`"${n.lemma}": "check" must be a short reason (1-240 characters) for asking a native speaker`));
     if (n.ua && n.ua.length > 80) fail(where(`"${n.lemma}": "ua" is ${n.ua.length} characters. Keep it a short gloss (it is the front of a flashcard) and put the explanation in "explain_ua"`));
   }
   for (const id of lesson.reading.highlight) if (!lesson.notes.some((n) => n.id === id)) fail(where(`reading highlight points at unknown note ${id}`));

@@ -18,6 +18,7 @@ Roles: the **learner** approves plans and studies in the app. The **teacher** (a
 - Permanent, unique note ids; required fields per note type (`content/<lang>/config.json`); nouns carry `de` or `het`.
 - A sentence may only use words taught in this lesson or an earlier one (cumulative level audit); `service_words` declares little words in advance.
 - `ua` is a short gloss (at most 80 characters); longer explanations go in `explain_ua`.
+- Optional `check` on a note: a short Ukrainian reason (1-240 characters) why the word, form or usage could not be verified. The page shows a small "?" next to the word (a click shows the reason) and lists every marked word under the "?" button at the bottom of the Words page, for a native speaker to look at. The teacher removes the field once someone has confirmed the word. Not shown on flashcards.
 - Every exercise item has accepted answers; gaps and answer groups agree.
 - From lesson 12: 8-12 examples, 8-12 items per exercise, at most 12 words per dictation attempt.
 
