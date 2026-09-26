@@ -1,0 +1,1244 @@
+{
+  "id": "nl-les-34",
+  "lang": "nl",
+  "order": 34,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [
+    "al"
+  ],
+  "notes": [
+    {
+      "id": "nl-ef19bb30",
+      "type": "verb",
+      "lemma": "gegaan",
+      "ua": "пішов, поїхав, ходив (gaan у voltooid tijd; з zijn)",
+      "audio": "gegaan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben gegaan",
+          "audio": "ik-ben-gegaan.mp3"
+        }
+      ],
+      "explain_ua": "(Ik ben naar het station gegaan = я пішла на вокзал; De kinderen zijn naar bed gegaan = діти пішли спати). Це gaan (Les 5) у voltooid tijd, і це перше дієслово з zijn замість hebben: ben / bent / is / zijn + gegaan (форми zijn з Les 1). Gaan веде з одного місця в інше, тому zijn: Ik ben gegaan, а не Ik heb gegaan. Дієприкметник неправильний, його вчимо як окреме слово: ge- + gaan. Так само fietsen (Les 32): без напрямку Ik heb gefietst (hebben), з напрямком Ik ben naar het station gefietst (zijn); пара розібрана в першій картці. Ge- це слабкий склад [ɣə], g як х у хата (Les 1); aa довге [aː], як у maan (Les 1); наголос на другому складі: ge-GAAN, приблизно «хе-ГАН»",
+      "check": "Що fietsen з напрямком (naar ...) бере zijn, а без напрямку hebben, з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-103fb81f",
+      "type": "verb",
+      "lemma": "gekomen",
+      "ua": "прийшов, приїхав (komen у voltooid tijd; з zijn)",
+      "audio": "gekomen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben gekomen",
+          "audio": "ik-ben-gekomen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik ben uit Oekraïne gekomen = я приїхала з України; Mijn vader is om zes uur gekomen = тато прийшов о шостій). Це komen (Les 18) у voltooid tijd: ben / is / zijn + gekomen. Komen це рух до місця, тому zijn. Дієприкметник: ge- + komen, основа не змінюється, лише додається ge-, а -en лишається. Порівняй aankomen (нижче): там ge- стоїть усередині слова. Ge- слабкий [ɣə]; o довге [oː]; наголос на другому складі: ge-KO-men, приблизно «хе-КО-мен»"
+    },
+    {
+      "id": "nl-26601b53",
+      "type": "verb",
+      "lemma": "gebleven",
+      "ua": "залишився, лишився (blijven у voltooid tijd; з zijn)",
+      "audio": "gebleven.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben gebleven",
+          "audio": "ik-ben-gebleven.mp3"
+        }
+      ],
+      "explain_ua": "(Wij zijn thuis gebleven = ми залишилися вдома; Zij is in bed gebleven = вона залишилася в ліжку). Це blijven (Les 28) у voltooid tijd: ben / is / zijn + gebleven. Blijven не про рух, але теж бере zijn: це виняток, який просто запам'ятай разом з zijn - geweest. Не Ik heb gebleven. Дієприкметник неправильний: ij в основі стає e, а -en лишається: blijven - gebleven. Ge- [ɣə]; e довге [eː]; наголос на другому складі: ge-BLE-ven, приблизно «хе-БЛЕ-вен»"
+    },
+    {
+      "id": "nl-420a6722",
+      "type": "verb",
+      "lemma": "geweest",
+      "ua": "був, побував (zijn у voltooid tijd; з zijn)",
+      "audio": "geweest.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben geweest",
+          "audio": "ik-ben-geweest.mp3"
+        }
+      ],
+      "explain_ua": "(Ik ben in Kroatië geweest = я була (побувала) в Хорватії; Zij zijn in Nederland geweest = вони були в Нідерландах). Це zijn (Les 1) у voltooid tijd: ben / is / zijn + geweest. Zijn бере zijn: Ik ben geweest, а не Ik heb geweest. Geweest каже, що ти десь побувала. Для простого стану в минулому лишається was / waren (Les 26): Gisteren was ik moe. Ee довге [eː], як у de peer (Les 10); w це [ʋ]; наголос на другому складі: ge-WEEST, приблизно «хе-ВЕСТ»"
+    },
+    {
+      "id": "nl-37fce1ee",
+      "type": "verb",
+      "lemma": "aangekomen",
+      "ua": "прибув (aankomen у voltooid tijd; з zijn)",
+      "audio": "aangekomen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben aangekomen",
+          "audio": "ik-ben-aangekomen.mp3"
+        }
+      ],
+      "explain_ua": "(De bus is om vijf uur aangekomen = автобус прибув о п'ятій; Wij zijn in de stad aangekomen = ми прибули в місто). Це aankomen (Les 33) у voltooid tijd: ben / is / zijn + aangekomen. Aankomen це рух до місця, тому zijn. Відокремлюване: ge- стоїть усередині слова, між префіксом і основою: aan + ge + komen = aangekomen, одне слово. Порівняй теперішній час: De bus komt om vijf uur aan, де aan у кінці. Aa довге [aː], як у maan (Les 1); наголос на префіксі: AAN-ge-ko-men, приблизно «АН-хе-ко-мен»"
+    },
+    {
+      "id": "nl-2cf659f4",
+      "type": "verb",
+      "lemma": "vertrokken",
+      "ua": "вирушив, відправився (vertrekken у voltooid tijd; з zijn)",
+      "audio": "vertrokken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben vertrokken",
+          "audio": "ik-ben-vertrokken.mp3"
+        }
+      ],
+      "explain_ua": "(Het vliegtuig is om zeven uur vertrokken = літак відлетів о сьомій; Wij zijn gisteren vertrokken = ми вирушили вчора). Це vertrekken (Les 33) у voltooid tijd: ben / is / zijn + vertrokken. Vertrekken це рух від місця, тому zijn. Ver- неділиме, тому ge- не додаємо (докладніше в картці про be- і ver-). Дієприкметник неправильний: e в основі стає o, а -en лишається: vertrekken - vertrokken. Наголос на основі, як в інфінітиві: ver-TROK-ken, приблизно «фер-ТРО-кен»; o коротка [ɔ]"
+    },
+    {
+      "id": "nl-b60e9cbd",
+      "type": "verb",
+      "lemma": "opgestaan",
+      "ua": "встав (opstaan у voltooid tijd; з zijn)",
+      "audio": "opgestaan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben opgestaan",
+          "audio": "ik-ben-opgestaan.mp3"
+        }
+      ],
+      "explain_ua": "(Ik ben om zeven uur opgestaan = я встала о сьомій; De kinderen zijn laat opgestaan = діти пізно встали). Це opstaan (Les 4) у voltooid tijd: ben / is / zijn + opgestaan. Opstaan це зміна стану (лежала, а тепер стою), тому zijn. Відокремлюване: op + ge + staan = opgestaan, одне слово, ge- усередині. Порівняй теперішній час: Ik sta om zeven uur op. Aa довге [aː]; наголос на префіксі: OP-ge-staan, приблизно «ОП-хе-стан»"
+    },
+    {
+      "id": "nl-71cd22f1",
+      "type": "verb",
+      "lemma": "uitgestapt",
+      "ua": "вийшов з транспорту (uitstappen у voltooid tijd; з zijn)",
+      "audio": "uitgestapt.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben uitgestapt",
+          "audio": "ik-ben-uitgestapt.mp3"
+        }
+      ],
+      "explain_ua": "(Ik ben hier uitgestapt = я вийшла тут; Zij is in de stad uitgestapt = вона вийшла в місті). Це uitstappen (Les 33) у voltooid tijd: ben / is / zijn + uitgestapt. Uitstappen це рух з транспорту назовні, тому zijn, а не hebben. Відокремлюване: uit + ge + stap + t. Основа stap закінчується на p, а p входить до 't kofschip (Les 27), тому -t. Це правильне дієслово: форма будується за правилом, як gewerkt (Les 32), лише ge- усередині. Ui це [œy], як у huis (Les 1); наголос на префіксі: UIT-ge-stapt, приблизно «ЛЬОЙТ-хе-стапт»"
+    },
+    {
+      "id": "nl-5566c20d",
+      "type": "verb",
+      "lemma": "overgestapt",
+      "ua": "пересів (overstappen у voltooid tijd; з zijn)",
+      "audio": "overgestapt.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ben overgestapt",
+          "audio": "ik-ben-overgestapt.mp3"
+        }
+      ],
+      "explain_ua": "(Wij zijn hier overgestapt = ми пересіли тут; Ik ben in de stad op de tram overgestapt = я пересіла в місті на трамвай). Це overstappen (Les 33) у voltooid tijd: ben / is / zijn + overgestapt. Як uitgestapt: over + ge + stap + t, з zijn, а -t за 't kofschip. Місце стоїть перед дієприкметником, а новий транспорт з op: overgestapt op de tram. Не плутай з oversteken (Les 5): це інше дієслово, його дієприкметник ми тут не вчимо. O довге [oː]; наголос на префіксі: OVER-ge-stapt, приблизно «ОВЕР-хе-стапт»"
+    },
+    {
+      "id": "nl-49ab8884",
+      "type": "verb",
+      "lemma": "gegeten",
+      "ua": "їв, з'їв (eten у voltooid tijd; неправильне)",
+      "audio": "gegeten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gegeten",
+          "audio": "ik-heb-gegeten.mp3"
+        }
+      ],
+      "explain_ua": "(Wij hebben soep gegeten = ми їли суп; Mijn zoon heeft kip gegeten = мій син їв курку). Це eten (Les 7) у voltooid tijd: heb / heeft / hebben + gegeten. Їсти це не рух, тому hebben. Дієприкметник неправильний і має два g підряд: ge- + eten = gegeten. Це не друкарська помилка, бо eten починається на e. Вчи його як окреме слово. Схоже на англійське eaten: gegeten ↔ eaten, підказка для пам'яті, не правило. Ge- [ɣə]; e довге [eː] в обох складах; наголос на другому складі: ge-GE-ten, приблизно «хе-ХЕ-тен»"
+    },
+    {
+      "id": "nl-0e11a24d",
+      "type": "verb",
+      "lemma": "gedronken",
+      "ua": "пив, випив (drinken у voltooid tijd; неправильне)",
+      "audio": "gedronken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gedronken",
+          "audio": "ik-heb-gedronken.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb koffie gedronken = я випила каву; De kinderen hebben melk gedronken = діти пили молоко). Це drinken (Les 6) у voltooid tijd: heb / heeft / hebben + gedronken. Дієприкметник неправильний: i в основі стає o, а -en лишається: drinken - gedronken. Не gedrinkt: 't kofschip тут не працює. Схоже на англійське drunk: gedronken ↔ drunk, підказка для пам'яті, не правило. Ge- [ɣə]; o коротка [ɔ]; наголос на другому складі: ge-DRON-ken, приблизно «хе-ДРОН-кен»"
+    },
+    {
+      "id": "nl-0c484f07",
+      "type": "verb",
+      "lemma": "gelezen",
+      "ua": "читав, прочитав (lezen у voltooid tijd; неправильне)",
+      "audio": "gelezen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gelezen",
+          "audio": "ik-heb-gelezen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb een boek gelezen = я прочитала книгу; Zij heeft veel gelezen = вона багато читала). Це lezen (Les 6) у voltooid tijd: heb / heeft / hebben + gelezen. Дієприкметник неправильний: без -t і без -d, -en лишається: ge- + lezen. Не gelezd. Порівняй Ik lees (Les 6): у lees ee, а в gelezen e довге в відкритому складі, як maan - manen (Les 1). Ge- [ɣə]; z це [z]; наголос на другому складі: ge-LE-zen, приблизно «хе-ЛЕ-зен»"
+    },
+    {
+      "id": "nl-e38ea7c6",
+      "type": "verb",
+      "lemma": "gezien",
+      "ua": "бачив, побачив (zien у voltooid tijd; неправильне)",
+      "audio": "gezien.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gezien",
+          "audio": "ik-heb-gezien.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb een foto gezien = я бачила фото; Wij hebben het vliegtuig gezien = ми бачили літак). Це zien (Les 19) у voltooid tijd: heb / heeft / hebben + gezien. Дієприкметник неправильний і короткий: ge- + zien, без -t, -d і без зайвого -en. Схоже на англійське seen: gezien ↔ seen, підказка для пам'яті, не правило. Ge- [ɣə]; ie це [i]; z це [z]; наголос на другому складі: ge-ZIEN, приблизно «хе-ЗІН»"
+    },
+    {
+      "id": "nl-ed84fd01",
+      "type": "verb",
+      "lemma": "gedaan",
+      "ua": "робив, зробив (doen у voltooid tijd; коротке неправильне)",
+      "audio": "gedaan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gedaan",
+          "audio": "ik-heb-gedaan.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb boodschappen gedaan = я зробила покупки; Wij hebben veel gedaan = ми багато зробили). Це doen (Les 20) у voltooid tijd: heb / heeft / hebben + gedaan. Дієприкметник неправильний і короткий: oe стає aa, -en немає. Boodschappen doen (Les 20) дає boodschappen gedaan. Gedaan римується з gegaan (вище), але допоміжні різні: Ik ben gegaan, а Ik heb gedaan, бо doen не рух. Aa довге [aː], як у maan (Les 1); наголос на другому складі: ge-DAAN, приблизно «хе-ДАН»"
+    },
+    {
+      "id": "nl-86db3c70",
+      "type": "verb",
+      "lemma": "genomen",
+      "ua": "взяв, сів на (nemen у voltooid tijd; неправильне)",
+      "audio": "genomen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb genomen",
+          "audio": "ik-heb-genomen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb de bus genomen = я поїхала автобусом (буквально: взяла автобус); Wij hebben de tram genomen = ми поїхали трамваєм). Це nemen (Les 22) у voltooid tijd: heb / heeft / hebben + genomen. Nemen це «взяти», а не рух, тому hebben: Ik heb de trein genomen, але сам рух Ik ben gegaan. Дієприкметник неправильний: e в основі стає o, а -en лишається: nemen - genomen. Ge- [ɣə]; o довге [oː]; наголос на другому складі: ge-NO-men, приблизно «хе-НО-мен»"
+    },
+    {
+      "id": "nl-72ba2bff",
+      "type": "verb",
+      "lemma": "gevonden",
+      "ua": "знайшов, вважав (vinden у voltooid tijd; неправильне)",
+      "audio": "gevonden.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gevonden",
+          "audio": "ik-heb-gevonden.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb mijn sleutel gevonden = я знайшла свій ключ; Wij hebben het huis leuk gevonden = нам сподобався будинок). Це vinden (Les 19) у voltooid tijd: heb / heeft / hebben + gevonden. Vinden це і «знайти», і «вважати» (leuk vinden, Les 19): дієприкметник один. Він неправильний: i стає o, -en лишається: vinden - gevonden. Ge- [ɣə]; o коротка [ɔ]; d перед -en звучить як [d]; наголос на другому складі: ge-VON-den, приблизно «хе-ВОН-ден»",
+      "check": "Правопис gevonden з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-848bdcb5",
+      "type": "verb",
+      "lemma": "geslapen",
+      "ua": "спав (slapen у voltooid tijd; неправильне)",
+      "audio": "geslapen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb geslapen",
+          "audio": "ik-heb-geslapen.mp3"
+        }
+      ],
+      "explain_ua": "(De baby heeft goed geslapen = немовля добре спало; Ik heb niet geslapen = я не спала). Це slapen (Les 28) у voltooid tijd: heb / heeft / hebben + geslapen. Спати це стан, а не рух, тому hebben. Дієприкметник неправильний: без -t і без -d, -en лишається: ge- + slapen. A довге [aː] у відкритому складі, як maan - manen (Les 1). Ge- [ɣə]; sl це два звуки поспіль; наголос на другому складі: ge-SLA-pen, приблизно «хе-СЛА-пен»",
+      "check": "Правопис geslapen з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-00e89a17",
+      "type": "verb",
+      "lemma": "gehad",
+      "ua": "мав, мала (hebben у voltooid tijd; коротке неправильне)",
+      "audio": "gehad.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gehad",
+          "audio": "ik-heb-gehad.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb honger gehad = я була голодна; Mijn opa heeft pijn gehad = дідусь мав біль). Це hebben (Les 2) у voltooid tijd: heb / heeft / hebben + gehad. Hebben тут стоїть двічі: перше heb допоміжне, gehad дієприкметник. Він неправильний і короткий: ge- + had (had з Les 26). Ge- [ɣə]; a коротка [ɑ]; кінцеве -d звучить як [t], як у російському «хлеб» (тут спирайся на російську, не на українську), але пишемо d; наголос на другому складі: ge-HAD, приблизно «хе-ХАТ»"
+    },
+    {
+      "id": "nl-37661869",
+      "type": "verb",
+      "lemma": "gesproken",
+      "ua": "говорив, розмовляв (spreken у voltooid tijd; неправильне)",
+      "audio": "gesproken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gesproken",
+          "audio": "ik-heb-gesproken.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb met mijn vader gesproken = я розмовляла з батьком; Wij hebben Russisch gesproken = ми говорили російською). Це spreken (Les 9) у voltooid tijd: heb / heeft / hebben + gesproken. Spreken met (Les 9): met mijn vader стоїть між heb і gesproken. Дієприкметник неправильний: e стає o, а -en лишається: spreken - gesproken. Схоже на англійське spoken: gesproken ↔ spoken, підказка для пам'яті, не правило. Ge- [ɣə]; sp це [sp]; o довге [oː]; наголос на другому складі: ge-SPRO-ken, приблизно «хе-СПРО-кен»",
+      "check": "Правопис gesproken з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-270d79d4",
+      "type": "verb",
+      "lemma": "betaald",
+      "ua": "заплатив, платив (betalen у voltooid tijd)",
+      "audio": "betaald.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb betaald",
+          "audio": "ik-heb-betaald.mp3"
+        }
+      ],
+      "explain_ua": "(Mijn vader heeft de koffie betaald = тато заплатив за каву; Ik heb twee euro betaald = я заплатила два євро). Це betalen (Les 10) у voltooid tijd: heb / heeft / hebben + betaald. Слово починається на be-, тому ge- не додаємо (картка про be- і ver-). Це правильне дієслово: основа betaal закінчується на l, а l не входить до 't kofschip, тому -d: betaal + d = betaald. Aa лишається подвоєною, як в основі. Кінцеве -d звучить як [t], як у російському «хлеб», але пишемо d. Наголос на другому складі: be-TAALD, приблизно «бе-ТАЛТ»"
+    },
+    {
+      "id": "nl-d4b6d210",
+      "type": "verb",
+      "lemma": "besteld",
+      "ua": "замовив (bestellen у voltooid tijd)",
+      "audio": "besteld.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb besteld",
+          "audio": "ik-heb-besteld.mp3"
+        }
+      ],
+      "explain_ua": "(Zij heeft een glas melk besteld = вона замовила склянку молока; Ik heb een thee besteld = я замовила чай). Це bestellen (Les 12) у voltooid tijd: heb / heeft / hebben + besteld. Be- на початку, тому без ge-. Основа bestel закінчується на l, l не входить до 't kofschip, тому -d: besteld. В інфінітиві дві l (bestellen), бо e коротка, а в основі й дієприкметнику одна l. Кінцеве -d звучить як [t]; наголос на другому складі: be-STELD, приблизно «бе-СТЕЛТ»"
+    },
+    {
+      "id": "nl-e59b1302",
+      "type": "verb",
+      "lemma": "geparkeerd",
+      "ua": "припаркував (parkeren у voltooid tijd)",
+      "audio": "geparkeerd.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb geparkeerd",
+          "audio": "ik-heb-geparkeerd.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb de auto hier geparkeerd = я припаркувала тут машину; Wij hebben op de parkeerplaats geparkeerd = ми припаркувалися на парковці). Це parkeren (Les 33) у voltooid tijd: heb / heeft / hebben + geparkeerd. Пастка: наголос падає на другий склад (par-KEE-ren), і здається, що ge- зайве, як у be- і ver-. Але par- не префікс, тому ge- є: ge + parkeer + d = geparkeerd. Основа parkeer закінчується на r, а r не входить до 't kofschip, тому -d. Кінцеве -d звучить як [t]; ee довге [eː]; наголос на третьому складі: ge-par-KEERD, приблизно «хе-пар-КЕРТ»",
+      "check": "Що parkeren має ge- (geparkeerd), з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-f21317f0",
+      "type": "verb",
+      "lemma": "opgebeld",
+      "ua": "подзвонив (opbellen у voltooid tijd; з hebben)",
+      "audio": "opgebeld.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb opgebeld",
+          "audio": "ik-heb-opgebeld.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb mijn moeder opgebeld = я подзвонила мамі; Zij heeft haar vriendin opgebeld = вона подзвонила подрузі). Це opbellen (Les 4) у voltooid tijd: heb / heeft / hebben + opgebeld. Відокремлюване, тому ge- усередині: op + ge + bel + d. Не всі відокремлювані беруть zijn: opbellen це не рух, тому hebben, на відміну від opstaan: Ik heb opgebeld, але Ik ben opgestaan. Основа bel закінчується на l, l не входить до 't kofschip, тому -d: opgebeld. Кінцеве -d звучить як [t]; e коротка [ɛ]; наголос на префіксі: OP-ge-beld, приблизно «ОП-хе-бельт»"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Zijn чи hebben: рух і зміна",
+      "summary_ua": "У voltooid tijd майже всі дієслова беруть hebben (Les 32). Дієслова руху й зміни беруть zijn: gaan, komen, vertrekken, aankomen, opstaan, uitstappen, overstappen. Разом з ними zijn і blijven теж беруть zijn: ben geweest, ben gebleven. Правило: якщо хтось переміщується з місця в місце або змінює стан (лежала, а тепер стою), то zijn; усе інше hebben. Англійська тут не допоможе: там завжди have, а нідерландська каже буквально «я є пішла». В українській допоміжного дієслова немає зовсім, тому вибір hebben чи zijn це нова навичка: вчи допоміжне разом із дієприкметником, ben gegaan, heb gegeten.",
+      "see": "Les 32",
+      "compare": [
+        {
+          "form": "Рух і зміна: zijn",
+          "when_ua": "Gaan, komen, vertrekken, aankomen, opstaan, uitstappen, overstappen: ben / is / zijn + дієприкметник.",
+          "examples": [
+            {
+              "nl": "Zij **is** in de stad **aangekomen**.",
+              "ua": "Вона прибула в місто.",
+              "audio": "les34-rule-01.mp3"
+            },
+            {
+              "nl": "Mijn zoon **is** naar het station **gegaan**.",
+              "ua": "Мій син пішов на вокзал.",
+              "audio": "les34-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb gegaan і не Zij heeft aangekomen. Zijn ще беруть geweest і gebleven, хоча це не рух."
+        },
+        {
+          "form": "Решта: hebben, як у Les 32",
+          "when_ua": "Їсти, пити, читати, бачити, говорити, платити: heb / heeft / hebben. Тут немає руху.",
+          "examples": [
+            {
+              "nl": "Wij **hebben** thee **gedronken**.",
+              "ua": "Ми пили чай.",
+              "audio": "les34-rule-03.mp3"
+            },
+            {
+              "nl": "Ik **heb** in de keuken **gegeten**.",
+              "ua": "Я їла на кухні.",
+              "audio": "les34-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Правильне чи неправильне дієслово, від цього допоміжне не залежить. Воно залежить від змісту: рух чи зміна це zijn, усе інше hebben."
+        },
+        {
+          "form": "Fietsen: без напрямку hebben, з напрямком zijn",
+          "when_ua": "Fietsen (Les 27, gefietst у Les 32) без напрямку бере hebben, як у Les 32. Коли названо, куди їдеш (naar ...), береться zijn.",
+          "examples": [
+            {
+              "nl": "Ik **heb** **gefietst**.",
+              "ua": "Я їздила на велосипеді.",
+              "audio": "les34-rule-05.mp3"
+            },
+            {
+              "nl": "Ik **ben** naar het station **gefietst**.",
+              "ua": "Я доїхала на велосипеді до вокзалу.",
+              "audio": "les34-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Той самий gefietst, але два допоміжних. Це те, що ми відклали в Les 32. Не всі дієслова руху поводяться однаково, тому вчимо їх по одному, не вгадуй."
+        }
+      ],
+      "points_ua": [
+        "Рух чи зміна: zijn (ben gegaan, is aangekomen).",
+        "Решта: hebben (heb gegeten). Fietsen: без напрямку hebben, з напрямком zijn."
+      ]
+    },
+    {
+      "title_ua": "Ge- усередині: opgestaan, aangekomen, opgebeld",
+      "summary_ua": "У відокремлюваних дієсловах (Les 4, Les 33) префікс лишається на початку, а ge- вставляється між префіксом і основою: op + ge + staan = opgestaan, aan + ge + komen = aangekomen, op + ge + bel + d = opgebeld. Дієприкметник пишеться одним словом. У теперішньому часі префікс іде в кінець (Ik stap uit), а в voltooid tijd він стоїть усередині слова (Ik ben uitgestapt).",
+      "see": "Les 4",
+      "compare": [
+        {
+          "form": "Префікс + ge- + основа",
+          "when_ua": "Ge- завжди між префіксом і основою, ніколи на початку слова.",
+          "examples": [
+            {
+              "nl": "Mijn vader **is** om zes uur **opgestaan**.",
+              "ua": "Мій тато встав о шостій.",
+              "audio": "les34-rule-07.mp3"
+            },
+            {
+              "nl": "Ik **heb** mijn zus **opgebeld**.",
+              "ua": "Я подзвонила сестрі.",
+              "audio": "les34-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Не geopstaan: ge- не стоїть на початку відокремлюваного дієслова. Допоміжне різне: opstaan бере zijn (зміна стану), opbellen бере hebben (немає руху)."
+        },
+        {
+          "form": "Теперішній час і voltooid tijd",
+          "when_ua": "У теперішньому часі префікс у кінці двома словами, у voltooid tijd префікс усередині одного слова.",
+          "examples": [
+            {
+              "nl": "Ik **stap** hier **uit**.",
+              "ua": "Я виходжу тут.",
+              "audio": "les34-rule-09.mp3"
+            },
+            {
+              "nl": "Ik **ben** hier **uitgestapt**.",
+              "ua": "Я вийшла тут.",
+              "audio": "les34-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Uit це окреме слово в кінці, а uitgestapt одне слово. Дієприкметник лишається в кінці речення. Так само Ik stap hier over і Ik ben hier overgestapt."
+        }
+      ],
+      "points_ua": [
+        "Op + ge + staan = opgestaan: ge- усередині.",
+        "Ik stap uit (префікс у кінці), але Ik ben uitgestapt (усередині)."
+      ]
+    },
+    {
+      "title_ua": "Без ge-: be-, ver- і пастка geparkeerd",
+      "summary_ua": "Дієслова з неділимими префіксами be- і ver- (так само ge-, але таких у нас ще немає) не отримують ge-: betalen - betaald, bestellen - besteld, vertrekken - vertrokken. Це ті самі префікси, що не відокремлюються (Les 33: De trein vertrekt). Пастка: parkeren теж має наголос на другому складі (par-KEE-ren), і здається, що ge- зайве. Але par- не префікс, тому ge- є: geparkeerd. Дивись на початок слова, а не на наголос.",
+      "see": "Les 33",
+      "compare": [
+        {
+          "form": "Be-, ver-: без ge-",
+          "when_ua": "Дієслово починається на be- або ver-: дієприкметник без ge-.",
+          "examples": [
+            {
+              "nl": "Ik **heb** in de winkel **betaald**.",
+              "ua": "Я заплатила в магазині.",
+              "audio": "les34-rule-11.mp3"
+            },
+            {
+              "nl": "Mijn ouders **zijn** vroeg **vertrokken**.",
+              "ua": "Мої батьки вирушили рано.",
+              "audio": "les34-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Не gebetaald і не gevertrokken. Ver- не відділяється (Les 33), тому слово ціле й ge- не потрібне."
+        },
+        {
+          "form": "Parkeren: ge- є",
+          "when_ua": "Par- це не префікс: ge- додається, хоча наголос на другому складі.",
+          "examples": [
+            {
+              "nl": "Mijn vader **heeft** de auto achter het huis **geparkeerd**.",
+              "ua": "Мій тато припаркував машину за будинком.",
+              "audio": "les34-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Не parkeerd. Порівняй besteld (без ge-, бо be-) і geparkeerd (з ge-): різниця в початку слова, а не в наголосі."
+        }
+      ],
+      "points_ua": [
+        "Be- і ver-: без ge- (betaald, besteld, vertrokken).",
+        "Parkeren: ge- є (geparkeerd)."
+      ]
+    },
+    {
+      "title_ua": "Неправильні дієприкметники: -en і нова голосна",
+      "summary_ua": "Багато найчастіших дієслів неправильні, як kopen - gekocht і lachen - gelachen (Les 32): дієприкметник не будується за 't kofschip. Такі дієприкметники закінчуються на -en, і часто в основі змінюється голосна: drinken - gedronken, vinden - gevonden, spreken - gesproken, nemen - genomen. Вивести їх правилом не вийде: вчи разом з інфінітивом, парою. Англійська допомагає: gegeten ↔ eaten, gedronken ↔ drunk, gesproken ↔ spoken, gezien ↔ seen (підказка для пам'яті, не правило).",
+      "see": "Les 32",
+      "compare": [
+        {
+          "form": "Змінюється голосна: gevonden, gesproken",
+          "when_ua": "-en у кінці, голосна основи змінюється. Допоміжне hebben.",
+          "examples": [
+            {
+              "nl": "Mijn vader **heeft** de telefoon **gevonden**.",
+              "ua": "Мій тато знайшов телефон.",
+              "audio": "les34-rule-14.mp3"
+            },
+            {
+              "nl": "Zij **heeft** met haar opa **gesproken**.",
+              "ua": "Вона розмовляла зі своїм дідусем.",
+              "audio": "les34-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Не gevindt і не gedrinkt: 't kofschip тут не діє. Порівняй: drinken - gedronken (i стає o), spreken - gesproken (e стає o)."
+        },
+        {
+          "form": "Голосна не змінюється: gelezen, geslapen, gegeten",
+          "when_ua": "Іноді неправильність лише в закінченні: -en замість -t чи -d.",
+          "examples": [
+            {
+              "nl": "Ik **heb** tien uur **geslapen**.",
+              "ua": "Я спала десять годин.",
+              "audio": "les34-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Не gelezd і не geslaapt: -en у кінці. Так само Ik heb het boek gelezen."
+        }
+      ],
+      "points_ua": [
+        "Неправильні: -en у кінці, часто нова голосна (drinken - gedronken).",
+        "Вчи інфінітив і дієприкметник парою."
+      ]
+    },
+    {
+      "title_ua": "Gehad, geweest, gedaan: три короткі",
+      "summary_ua": "Три найчастіші дієслова мають короткі неправильні дієприкметники: hebben - gehad, zijn - geweest, doen - gedaan. Допоміжне різне: geweest береться з zijn (Ik ben geweest), а gehad і gedaan з hebben. Для простого стану в минулому, як і раніше, кажуть was, waren, had, hadden (Les 26): Gisteren was ik moe. Ben geweest каже, що ти десь побувала. Heb gehad каже, що ти мала (голод, час, роботу). Gegaan і gedaan римуються, але допоміжні різні: ben gegaan, heb gedaan.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Geweest: з zijn",
+          "when_ua": "Побувати десь: zijn + geweest.",
+          "examples": [
+            {
+              "nl": "Wij **zijn** in de stad **geweest**.",
+              "ua": "Ми були в місті.",
+              "audio": "les34-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Не Wij hebben geweest. Was (Les 26) для стану, ben geweest для «побувала»."
+        },
+        {
+          "form": "Gehad, gedaan: з hebben",
+          "when_ua": "Мати і робити: heb / heeft / hebben + gehad чи gedaan.",
+          "examples": [
+            {
+              "nl": "Zij **heeft** veel werk **gehad**.",
+              "ua": "Вона мала багато роботи.",
+              "audio": "les34-rule-18.mp3"
+            },
+            {
+              "nl": "Wat **heb** jij vandaag **gedaan**?",
+              "ua": "Що ти сьогодні робила?",
+              "audio": "les34-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Gedaan римується з gegaan (zijn), але doen не рух, тому hebben."
+        }
+      ],
+      "points_ua": [
+        "Hebben - gehad, zijn - geweest, doen - gedaan.",
+        "Ben geweest (zijn), heb gehad, heb gedaan (hebben)."
+      ]
+    },
+    {
+      "title_ua": "Рамка, час першим, питання і al",
+      "summary_ua": "Рамка з Les 32 працює й з zijn: zijn або hebben на другому місці, дієприкметник у самому кінці, а час, місце й об'єкт між ними. Коли час стоїть першим, допоміжне йде одразу за ним, а підмет після нього (V2, Les 26). Питання: допоміжне першим. Al це «вже»: Heb je al gegeten? Al не змінюється й стоїть перед дієприкметником: Ja, ik heb al gegeten.",
+      "see": "Les 32",
+      "compare": [
+        {
+          "form": "Час першим: допоміжне друге, підмет третій",
+          "when_ua": "Gisteren, vorige week, om acht uur: далі zijn / hebben, потім підмет.",
+          "examples": [
+            {
+              "nl": "Gisteren **ben** ik thuis **gebleven**.",
+              "ua": "Вчора я залишилася вдома.",
+              "audio": "les34-rule-20.mp3"
+            },
+            {
+              "nl": "Vorige week **zijn** wij in Nederland **geweest**.",
+              "ua": "Минулого тижня ми були в Нідерландах.",
+              "audio": "les34-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Між допоміжним і підметом нічого не стоїть: не Gisteren ik ben thuis gebleven. Дієприкметник лишається в кінці."
+        },
+        {
+          "form": "Питання: допоміжне першим",
+          "when_ua": "Так/ні: zijn / hebben, підмет, ..., дієприкметник. З питальним словом: слово, допоміжне, підмет, дієприкметник.",
+          "examples": [
+            {
+              "nl": "**Ben** jij naar het station **gegaan**?",
+              "ua": "Ти пішла на вокзал?",
+              "audio": "les34-rule-22.mp3"
+            },
+            {
+              "nl": "**Hebben** jullie al **gegeten**?",
+              "ua": "Ви вже їли?",
+              "audio": "les34-rule-23.mp3"
+            },
+            {
+              "nl": "Waar **ben** je **geweest**?",
+              "ua": "Де ти була?",
+              "audio": "les34-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Після jij -t зникає: Ben jij (не Bent jij), Heb jij (Les 10). Al це нове службове слово: «вже». Воно однакове для всіх осіб і стоїть перед дієприкметником."
+        }
+      ],
+      "points_ua": [
+        "Gisteren ben ik gebleven: допоміжне друге, підмет третій.",
+        "Ben jij ...? Heb je al gegeten? Al = вже."
+      ]
+    },
+    {
+      "title_ua": "Niet і geen: з zijn теж",
+      "summary_ua": "Заперечення працює так само, як у Les 32: niet стоїть перед дієприкметником, geen перед іменником без артикля (Les 2). З zijn-дієсловами теж niet перед дієприкметником. Geen лише перед іменником: не Ik ben geen gekomen. Nooit («ніколи») стоїть там, де й niet: Ik ben nooit in Kroatië geweest.",
+      "see": "Les 32",
+      "compare": [
+        {
+          "form": "Niet: перед дієприкметником",
+          "when_ua": "Niet стоїть перед дієприкметником, після часу чи місця, якщо вони є.",
+          "examples": [
+            {
+              "nl": "De bus **is niet aangekomen**.",
+              "ua": "Автобус не прибув.",
+              "audio": "les34-rule-25.mp3"
+            },
+            {
+              "nl": "Ik **ben** gisteren **niet gekomen**.",
+              "ua": "Я вчора не прийшла.",
+              "audio": "les34-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Як у Les 32: Ik heb de trein niet gehoord. Дієприкметник лишається в самому кінці."
+        },
+        {
+          "form": "Geen: перед іменником",
+          "when_ua": "Geen стоїть перед іменником без артикля, дієприкметник у кінці.",
+          "examples": [
+            {
+              "nl": "Wij **hebben geen** tijd **gehad**.",
+              "ua": "У нас не було часу.",
+              "audio": "les34-rule-27.mp3"
+            },
+            {
+              "nl": "Zij **heeft geen** koffie **besteld**.",
+              "ua": "Вона не замовила кави.",
+              "audio": "les34-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Не Wij hebben niet tijd gehad: перед іменником без артикля стоїть geen."
+        }
+      ],
+      "points_ua": [
+        "Niet перед дієприкметником: is niet aangekomen.",
+        "Geen перед іменником: heb geen tijd gehad."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "De kinderen zijn gisteren gekomen.",
+      "ua": "Діти прийшли вчора.",
+      "audio": "les34-example-01.mp3"
+    },
+    {
+      "nl": "Mijn opa is in Nederland gebleven.",
+      "ua": "Мій дідусь залишився в Нідерландах.",
+      "audio": "les34-example-02.mp3"
+    },
+    {
+      "nl": "Wij zijn om acht uur vertrokken.",
+      "ua": "Ми вирушили о восьмій.",
+      "audio": "les34-example-03.mp3"
+    },
+    {
+      "nl": "Het vliegtuig is in Kroatië aangekomen.",
+      "ua": "Літак прибув до Хорватії.",
+      "audio": "les34-example-04.mp3"
+    },
+    {
+      "nl": "Wij hebben rijst en kip gegeten.",
+      "ua": "Ми їли рис і курку.",
+      "audio": "les34-example-05.mp3"
+    },
+    {
+      "nl": "Zij heeft veel water gedronken.",
+      "ua": "Вона випила багато води.",
+      "audio": "les34-example-06.mp3"
+    },
+    {
+      "nl": "Heb je al gegeten?",
+      "ua": "Ти вже їла?",
+      "audio": "les34-example-07.mp3"
+    },
+    {
+      "nl": "Zij heeft haar vader opgebeld.",
+      "ua": "Вона подзвонила своєму батькові.",
+      "audio": "les34-example-08.mp3"
+    },
+    {
+      "nl": "Wat hebben jullie gezien?",
+      "ua": "Що ви бачили?",
+      "audio": "les34-example-09.mp3"
+    },
+    {
+      "nl": "Mijn ouders zijn in Nederland geweest.",
+      "ua": "Мої батьки були в Нідерландах.",
+      "audio": "les34-example-10.mp3"
+    },
+    {
+      "nl": "Mijn broer heeft in het park gefietst.",
+      "ua": "Мій брат їздив на велосипеді в парку.",
+      "audio": "les34-example-11.mp3"
+    },
+    {
+      "nl": "Mijn zus is naar haar vriendin gefietst.",
+      "ua": "Моя сестра поїхала на велосипеді до своєї подруги.",
+      "audio": "les34-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wij zijn aangekomen",
+    "title_ua": "Ми прибули",
+    "highlight": [],
+    "sentences": [
+      {
+        "nl": "Gisteren zijn wij vroeg opgestaan.",
+        "ua": "Вчора ми рано встали.",
+        "audio": "les34-reading-01.mp3"
+      },
+      {
+        "nl": "Wij zijn naar het station gegaan.",
+        "ua": "Ми пішли на вокзал.",
+        "audio": "les34-reading-02.mp3"
+      },
+      {
+        "nl": "Wij hebben op het perron gewacht.",
+        "ua": "Ми чекали на платформі.",
+        "audio": "les34-reading-03.mp3"
+      },
+      {
+        "nl": "De trein is om acht uur vertrokken.",
+        "ua": "Поїзд відправився о восьмій.",
+        "audio": "les34-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn zoon heeft een boterham gegeten.",
+        "ua": "Мій син з'їв бутерброд.",
+        "audio": "les34-reading-05.mp3"
+      },
+      {
+        "nl": "In de stad zijn wij overgestapt op de metro.",
+        "ua": "У місті ми пересіли на метро.",
+        "audio": "les34-reading-06.mp3"
+      },
+      {
+        "nl": "Daarna zijn wij uitgestapt.",
+        "ua": "Потім ми вийшли.",
+        "audio": "les34-reading-07.mp3"
+      },
+      {
+        "nl": "Op het vliegveld heb ik koffie besteld en betaald.",
+        "ua": "В аеропорту я замовила каву й заплатила.",
+        "audio": "les34-reading-08.mp3"
+      },
+      {
+        "nl": "Het vliegtuig heeft vertraging gehad.",
+        "ua": "Літак мав затримку.",
+        "audio": "les34-reading-09.mp3"
+      },
+      {
+        "nl": "Het was een lange reis, maar wij zijn aangekomen.",
+        "ua": "Це була довга подорож, але ми прибули.",
+        "audio": "les34-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат вчора приїхав.",
+          "accepted": [
+            "Mijn broer is gisteren aangekomen.",
+            "Gisteren is mijn broer aangekomen."
+          ]
+        },
+        {
+          "prompt": "Ми пішли до аеропорту.",
+          "accepted": [
+            "Wij zijn naar het vliegveld gegaan.",
+            "We zijn naar het vliegveld gegaan."
+          ]
+        },
+        {
+          "prompt": "Я випила чай.",
+          "accepted": [
+            "Ik heb thee gedronken."
+          ]
+        },
+        {
+          "prompt": "Ти вже читала цю книгу?",
+          "accepted": [
+            "Heb jij dit boek al gelezen?",
+            "Heb je dit boek al gelezen?"
+          ]
+        },
+        {
+          "prompt": "Мій тато не спав.",
+          "accepted": [
+            "Mijn vader heeft niet geslapen."
+          ]
+        },
+        {
+          "prompt": "Вони знайшли свій ключ.",
+          "accepted": [
+            "Zij hebben hun sleutel gevonden.",
+            "Ze hebben hun sleutel gevonden."
+          ]
+        },
+        {
+          "prompt": "Я розмовляла з моєю мамою.",
+          "accepted": [
+            "Ik heb met mijn moeder gesproken."
+          ]
+        },
+        {
+          "prompt": "Ми заплатили п'ять євро.",
+          "accepted": [
+            "Wij hebben vijf euro betaald.",
+            "We hebben vijf euro betaald."
+          ]
+        },
+        {
+          "prompt": "Мій брат замовив суп.",
+          "accepted": [
+            "Mijn broer heeft soep besteld."
+          ]
+        },
+        {
+          "prompt": "Ми припаркувалися за вокзалом.",
+          "accepted": [
+            "Wij hebben achter het station geparkeerd.",
+            "We hebben achter het station geparkeerd.",
+            "Achter het station hebben wij geparkeerd.",
+            "Achter het station hebben we geparkeerd."
+          ]
+        },
+        {
+          "prompt": "Мій син сьогодні пізно встав.",
+          "accepted": [
+            "Mijn zoon is vandaag laat opgestaan.",
+            "Vandaag is mijn zoon laat opgestaan."
+          ]
+        },
+        {
+          "prompt": "Я ніколи не була в Нідерландах.",
+          "accepted": [
+            "Ik ben nooit in Nederland geweest."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: допоміжне дієслово або дієприкметник",
+      "bank": [
+        "ben",
+        "heeft",
+        "zijn",
+        "bent",
+        "is",
+        "hebben",
+        "opgebeld",
+        "overgestapt",
+        "besteld",
+        "geslapen",
+        "gevonden",
+        "gedaan"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ gisteren naar het station gegaan.",
+          "hint": "Я вчора пішла на вокзал",
+          "accepted": [
+            [
+              "ben"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder ___ in de keuken gegeten.",
+          "hint": "Моя мама їла на кухні",
+          "accepted": [
+            [
+              "heeft"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ouders ___ in Nederland gebleven.",
+          "hint": "Мої батьки залишилися в Нідерландах",
+          "accepted": [
+            [
+              "zijn"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ vroeg opgestaan.",
+          "hint": "Ти рано встала",
+          "accepted": [
+            [
+              "bent"
+            ]
+          ]
+        },
+        {
+          "text": "De trein ___ om zes uur vertrokken.",
+          "hint": "Поїзд відправився о шостій",
+          "accepted": [
+            [
+              "is"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ de bus genomen.",
+          "hint": "Ми поїхали автобусом",
+          "accepted": [
+            [
+              "hebben"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus heeft haar moeder ___.",
+          "hint": "Моя сестра подзвонила своїй мамі",
+          "accepted": [
+            [
+              "opgebeld"
+            ]
+          ]
+        },
+        {
+          "text": "Wij zijn in de stad ___.",
+          "hint": "Ми пересіли в місті",
+          "accepted": [
+            [
+              "overgestapt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb geen koffie ___.",
+          "hint": "Я не замовила кави",
+          "accepted": [
+            [
+              "besteld"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn opa heeft goed ___.",
+          "hint": "Мій дідусь добре спав",
+          "accepted": [
+            [
+              "geslapen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb mijn sleutel niet ___.",
+          "hint": "Я не знайшла свого ключа",
+          "accepted": [
+            [
+              "gevonden"
+            ]
+          ]
+        },
+        {
+          "text": "Wat heb je vandaag ___?",
+          "hint": "Що ти сьогодні робила?",
+          "accepted": [
+            [
+              "gedaan"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Mijn zoon staat om zeven uur op.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Mijn zoon is om zeven uur opgestaan."
+          ]
+        },
+        {
+          "prompt": "Wij gaan naar het station.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Wij zijn naar het station gegaan.",
+            "We zijn naar het station gegaan."
+          ]
+        },
+        {
+          "prompt": "De trein komt om vijf uur aan.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "De trein is om vijf uur aangekomen."
+          ]
+        },
+        {
+          "prompt": "Ik eet een boterham.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Ik heb een boterham gegeten."
+          ]
+        },
+        {
+          "prompt": "Zij drinkt water.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Zij heeft water gedronken.",
+            "Ze heeft water gedronken."
+          ]
+        },
+        {
+          "prompt": "Wij nemen de metro.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Wij hebben de metro genomen.",
+            "We hebben de metro genomen."
+          ]
+        },
+        {
+          "prompt": "Ik bel mijn vader op.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Ik heb mijn vader opgebeld."
+          ]
+        },
+        {
+          "prompt": "Mijn moeder stapt hier uit.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Mijn moeder is hier uitgestapt."
+          ]
+        },
+        {
+          "prompt": "Jij bent vroeg opgestaan.",
+          "cue": "-> питання",
+          "accepted": [
+            "Ben jij vroeg opgestaan?",
+            "Ben je vroeg opgestaan?"
+          ]
+        },
+        {
+          "prompt": "Wij zijn gisteren vertrokken.",
+          "cue": "-> заперечення (niet)",
+          "accepted": [
+            "Wij zijn gisteren niet vertrokken.",
+            "We zijn gisteren niet vertrokken."
+          ]
+        },
+        {
+          "prompt": "Ik heb koffie besteld.",
+          "cue": "-> заперечення (geen)",
+          "accepted": [
+            "Ik heb geen koffie besteld."
+          ]
+        },
+        {
+          "prompt": "Ik ben gisteren gekomen.",
+          "cue": "-> gisteren першим",
+          "accepted": [
+            "Gisteren ben ik gekomen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ben naar Nederland ___.",
+          "cue": "komen (дієприкметник)",
+          "accepted": [
+            "gekomen"
+          ]
+        },
+        {
+          "text": "Wij zijn in de stad ___.",
+          "cue": "blijven (дієприкметник)",
+          "accepted": [
+            "gebleven"
+          ]
+        },
+        {
+          "text": "Mijn moeder heeft een boek ___.",
+          "cue": "lezen (дієприкметник)",
+          "accepted": [
+            "gelezen"
+          ]
+        },
+        {
+          "text": "Wij hebben de boot ___.",
+          "cue": "zien (дієприкметник)",
+          "accepted": [
+            "gezien"
+          ]
+        },
+        {
+          "text": "Ik heb mijn auto hier ___.",
+          "cue": "parkeren (дієприкметник)",
+          "accepted": [
+            "geparkeerd"
+          ]
+        },
+        {
+          "text": "Mijn vader heeft het kaartje ___.",
+          "cue": "betalen (дієприкметник)",
+          "accepted": [
+            "betaald"
+          ]
+        },
+        {
+          "text": "Zij heeft veel Nederlands ___.",
+          "cue": "spreken (дієприкметник)",
+          "accepted": [
+            "gesproken"
+          ]
+        },
+        {
+          "text": "Ik heb de tram ___.",
+          "cue": "nemen (дієприкметник)",
+          "accepted": [
+            "genomen"
+          ]
+        },
+        {
+          "text": "Mijn zus is vorige week in Nederland ___.",
+          "cue": "zijn (дієприкметник)",
+          "accepted": [
+            "geweest"
+          ]
+        },
+        {
+          "text": "Mijn zoon heeft dorst ___.",
+          "cue": "hebben (дієприкметник)",
+          "accepted": [
+            "gehad"
+          ]
+        },
+        {
+          "text": "Jij ___ vroeg vertrokken.",
+          "cue": "zijn (теперішній час)",
+          "accepted": [
+            "bent"
+          ]
+        },
+        {
+          "text": "___ jij al gegeten?",
+          "cue": "hebben (теперішній час)",
+          "accepted": [
+            "Heb",
+            "heb"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши дієприкметник",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "verb"
+      ]
+    }
+  ]
+}
