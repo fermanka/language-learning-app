@@ -1,0 +1,1134 @@
+{
+  "id": "nl-les-36",
+  "lang": "nl",
+  "order": 36,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [
+    "aan"
+  ],
+  "notes": [
+    {
+      "id": "nl-9fea2294",
+      "type": "function",
+      "lemma": "mij / me",
+      "ua": "мене, мені (ik, коли це об'єкт)",
+      "audio": "mij-me.mp3",
+      "audio_text": "mij / me",
+      "dictation": false,
+      "explain_ua": "(Hij ziet mij = він бачить мене; Kunt u me helpen? = чи можете ви мені допомогти?). Mij і me це ik, коли я не підмет, а об'єкт: «мене», «мені». Українською різні форми (мене, мені, мною), нідерландською одна: відмінків немає. Mij наголошене, для контрасту: Hij ziet mij, niet jou. Me ненаголошене, звичайне в розмові: Hij helpt me. Обидві форми правильні. Після прийменника на початку вчи mij: Hij wacht op mij. Не плутай з mijn (Les 3) «мій»: mij це «мене», mijn це «мій». Ij це [ɛi], як у mijn і wijn (Les 1): mij звучить [mɛi]; me коротке, зі слабкою голосною: приблизно «ме»",
+      "check": "Слабку вимову me [mə] і пораду mij після прийменника словник не підтвердив, це мої знання."
+    },
+    {
+      "id": "nl-a7b40741",
+      "type": "function",
+      "lemma": "jou / je",
+      "ua": "тебе, тобі (jij, коли це об'єкт)",
+      "audio": "jou-je.mp3",
+      "audio_text": "jou / je",
+      "dictation": false,
+      "explain_ua": "(Ik zie jou = я бачу тебе; Ik hoor je niet = я тебе не чую). Jou і je це jij, коли ти не підмет, а об'єкт: «тебе», «тобі». Jou наголошене, для контрасту: Ik zie jou, niet hem. Je ненаголошене, звичайне: Ik hoor je. Слово je ти вже знаєш як підмет: Je ziet me. Тож je буває і підметом, і об'єктом; різницю дають місце й форма дієслова: Je ziet me (ziet з -t, бо підмет jij), але Ik zie je (підмет ik). Українською тебе, тобі, тобою, нідерландською одна форма. Ou це [ɑu], як у koud (Les 19): jou звучить [jɑu], приблизно «йау»",
+      "check": "Що je це слабка форма jou, словник не пояснив (лише дав je як синонім); це мої знання."
+    },
+    {
+      "id": "nl-a4f2f69b",
+      "type": "function",
+      "lemma": "hem",
+      "ua": "його, йому (hij; про de-слова теж)",
+      "audio": "hem.mp3",
+      "explain_ua": "(Ik zie hem = я бачу його; Ik help hem = я допомагаю йому). Hem це hij, коли це об'єкт: «його» і «йому». Українською форм кілька (його, йому, ним), нідерландською одна. Hem про чоловіка й хлопця, а також про річ, якщо її слово de-слово: Waar is de trein? Ik zie hem niet. Навіть коли українське слово жіночого роду: de fles (пляшка, «її») теж hem. Рід береться з нідерландського слова й артикля, не з українського (картка про речі). Не плутай з haar: haar лише про жінку чи дівчину. H це легкий видих, як українське г, не х; e коротка [ɛ]: приблизно «хем»",
+      "check": "Спрощення: про всі de-слова hem; у Фландрії й у письмі про жіночі слова буває haar. З власних знань, не перевірено."
+    },
+    {
+      "id": "nl-d6a94860",
+      "type": "function",
+      "lemma": "ons",
+      "ua": "нас, нам (wij, коли це об'єкт)",
+      "audio": "ons.mp3",
+      "explain_ua": "(Hij helpt ons = він допомагає нам; Zij ziet ons niet = вона нас не бачить). Ons це wij, коли це об'єкт: «нас», «нам». Одна форма замість нас, нам, нами. Слабкої форми, як we, немає: завжди ons. Jullie і u не змінюються: Ik zie jullie, Ik help u. Ons має ще одне значення, «наш» (присвійне): його вчимо пізніше разом з іншими присвійними, тут не вживай. O коротка [ɔ], як у dokter (Les 35); s наприкінці глухе: приблизно «онс»",
+      "check": "Вимову [ɔns] і друге значення ons = «наш» з власних знань, словник не перевірено."
+    },
+    {
+      "id": "nl-e526abed",
+      "type": "function",
+      "lemma": "hen / ze",
+      "ua": "їх, їм (zij, вони, коли це об'єкт)",
+      "audio": "hen-ze.mp3",
+      "audio_text": "hen / ze",
+      "dictation": false,
+      "explain_ua": "(Ik zie ze = я бачу їх; Wij wachten op hen = ми чекаємо на них). Це zij (вони), коли це об'єкт: «їх», «їм». Дві форми. Ze ненаголошене й головне: Ik zie ze, Ik ken ze niet; про людей і про речі (Ik koop ze = я купую їх, про de appels). Hen наголошене, лише про людей, і ми вживаємо його після прийменника: op hen, aan hen, met hen. Слово ze ти вже знаєш як підмет «вони»: Ze zien me. Тут ze це «їх»: різницю дають місце й дієслово (Ze zien me = вони бачать мене, Ik zie ze = я бачу їх). Українською їх, їм, ними, нідерландською hen чи ze. У писемній мові hen трапляється й без прийменника (Ik zie hen), але ze простіше: вчи ze. Hen [hɛn]: h легкий видих, e коротка [ɛ], як у hem",
+      "check": "Спрощення: hen буває й прямим об'єктом (словник: «hen onze huissleutel gegeven»); ze після прийменника чути в розмові, це мої знання."
+    },
+    {
+      "id": "nl-431776ea",
+      "type": "verb",
+      "lemma": "geven",
+      "ua": "давати, дати",
+      "audio": "geven.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "geef",
+          "audio": "ik-geef.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "geeft",
+          "audio": "jij-geeft.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "geeft",
+          "audio": "u-geeft.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "geeft",
+          "audio": "hij-geeft.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "geven",
+          "audio": "wij-geven.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "geven",
+          "audio": "jullie-geven.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "geven",
+          "audio": "zij-geven.mp3"
+        }
+      ],
+      "explain_ua": "(Ik geef hem een boek = я даю йому книгу; Hij geeft het boek aan haar = він дає книгу їй). Geven це «давати, дати». Українською «дати комусь щось»: кому (давальний) і що (знахідний). Нідерландська має два способи: людина перед річчю без прийменника (Ik geef hem het boek) або річ, потім aan і людина (Ik geef het boek aan hem). Таблиця показує теперішній час: ik geef, jij geeft, hij geeft, wij geven. Основа geef: склад ge-ven відкритий, тому ee, а v наприкінці стає f: дзвінкий звук у кінці глухне, як у російському «хлеб» [хлеп]; українська так не робить, тому тут спирайся на російську (так само blijf, Les 28). Jij geeft з -t; після jij у питанні -t зникає: Wat geef jij hem? Схоже на англійське give: підказка для пам'яті. G це [x], як х у хата (Les 1); e довге [eː]; наголос на першому складі: приблизно «ХЕ-вен»",
+      "check": "Форми geef, geeft, geven з власних знань (словник: основа geef, gaf, heeft gegeven). Що «aan hem» стоїть після речі, теж мої знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Форми об'єкта: mij, jou, hem, haar, ons",
+      "summary_ua": "Підмет (я, ти, він) змінюється, коли стає об'єктом (мене, тебе, його): ik - mij / me, jij - jou / je, hij - hem, zij - haar, het - het, wij - ons, jullie - jullie, u - u, zij (вони) - hen / ze. Не змінюються het, jullie, u.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Однина: mij, jou, hem, haar",
+          "when_ua": "Об'єкт стоїть після дієслова; форма залежить від того, про кого мова.",
+          "examples": [
+            {
+              "nl": "Hij ziet **mij**.",
+              "ua": "Він бачить мене.",
+              "audio": "les36-rule-01.mp3"
+            },
+            {
+              "nl": "Ik zie **jou**.",
+              "ua": "Я бачу тебе.",
+              "audio": "les36-rule-02.mp3"
+            },
+            {
+              "nl": "Wij kennen **hem**.",
+              "ua": "Ми знаємо його.",
+              "audio": "les36-rule-03.mp3"
+            },
+            {
+              "nl": "Ik ken **haar** niet.",
+              "ua": "Я її не знаю.",
+              "audio": "les36-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Підмет ik, об'єкт mij: Ik zie hem, але Hij ziet mij. Haar ти знаєш з Les 9 як «її» присвійне; тут те саме слово в новій ролі (картка 7)."
+        },
+        {
+          "form": "Множина й ввічливе: ons, jullie, u",
+          "when_ua": "Ons нове. Jullie і u не змінюються.",
+          "examples": [
+            {
+              "nl": "Zij helpt **ons**.",
+              "ua": "Вона допомагає нам.",
+              "audio": "les36-rule-05.mp3"
+            },
+            {
+              "nl": "Ik zie **jullie**.",
+              "ua": "Я бачу вас.",
+              "audio": "les36-rule-06.mp3"
+            },
+            {
+              "nl": "Kan ik **u** helpen?",
+              "ua": "Чи можу я вам допомогти?",
+              "audio": "les36-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Jullie zien me, Ik zie jullie: слово те саме. Так само u. Hen і ze (вони) в наступній картці."
+        }
+      ],
+      "points_ua": [
+        "Ik - mij / me, jij - jou / je, hij - hem, zij - haar, wij - ons.",
+        "Het, jullie, u не змінюються."
+      ]
+    },
+    {
+      "title_ua": "Mij чи me: наголошена й ненаголошена форма",
+      "summary_ua": "Три займенники мають дві форми: mij / me, jou / je, hen / ze. Ненаголошені me, je, ze звичайні в розмові. Наголошені mij, jou, hen потрібні для контрасту або після прийменника. Hem, haar, ons однакові завжди.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "Звичайно: me, je, ze",
+          "when_ua": "Коли нічого не підкреслюєш.",
+          "examples": [
+            {
+              "nl": "Hij helpt **me**.",
+              "ua": "Він допомагає мені.",
+              "audio": "les36-rule-08.mp3"
+            },
+            {
+              "nl": "Ik hoor **je** niet.",
+              "ua": "Я тебе не чую.",
+              "audio": "les36-rule-09.mp3"
+            },
+            {
+              "nl": "Ik ken **ze** niet.",
+              "ua": "Я їх не знаю.",
+              "audio": "les36-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Це форми за замовчуванням. Вимовляй їх слабко: me майже «ме»."
+        },
+        {
+          "form": "Контраст: mij, jou",
+          "when_ua": "Коли протиставляєш: «саме мене, а не тебе».",
+          "examples": [
+            {
+              "nl": "Hij ziet **mij**, niet jou.",
+              "ua": "Він бачить мене, а не тебе.",
+              "audio": "les36-rule-11.mp3"
+            },
+            {
+              "nl": "Ik zie **jou**, niet hem.",
+              "ua": "Я бачу тебе, а не його.",
+              "audio": "les36-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Наголос падає на слово, яке ти протиставляєш. Так само в українській: бачить МЕНЕ, а не тебе."
+        },
+        {
+          "form": "Je: підмет чи об'єкт",
+          "when_ua": "Слово je буває і підметом, і об'єктом.",
+          "examples": [
+            {
+              "nl": "**Je** ziet me.",
+              "ua": "Ти бачиш мене.",
+              "audio": "les36-rule-13.mp3"
+            },
+            {
+              "nl": "Ik zie **je**.",
+              "ua": "Я бачу тебе.",
+              "audio": "les36-rule-14.mp3"
+            }
+          ],
+          "note_ua": "У Je ziet me дієслово ziet з -t: підмет jij. У Ik zie je підмет ik, дієслово zie. Форма дієслова показує, хто підмет."
+        }
+      ],
+      "points_ua": [
+        "Звичайно: me, je, ze.",
+        "Контраст: mij, jou.",
+        "Je: підмет чи об'єкт, дивись на дієслово."
+      ]
+    },
+    {
+      "title_ua": "Один об'єкт замість відмінків",
+      "summary_ua": "Українською об'єкт має різні форми: бачу його, допомагаю йому, даю йому. Нідерландською форма одна: Ik zie hem, Ik help hem, Ik geef hem een boek. Відмінків немає. Коли об'єктів двоє, є два способи.",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "Знахідний і давальний: одна форма",
+          "when_ua": "Zien і helpen беруть об'єкт без прийменника.",
+          "examples": [
+            {
+              "nl": "Zij ziet **ons** niet.",
+              "ua": "Вона нас не бачить.",
+              "audio": "les36-rule-15.mp3"
+            },
+            {
+              "nl": "Ik help **hem**.",
+              "ua": "Я допомагаю йому.",
+              "audio": "les36-rule-16.mp3"
+            },
+            {
+              "nl": "Wij helpen **haar**.",
+              "ua": "Ми допомагаємо їй.",
+              "audio": "les36-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Українське «йому, їй» після helpen це просто hem, haar (Les 28). Ні відмінка, ні прийменника."
+        },
+        {
+          "form": "Ik vind hem leuk",
+          "when_ua": "Той, хто подобається, це об'єкт.",
+          "examples": [
+            {
+              "nl": "Ik vind **hem** leuk.",
+              "ua": "Він мені подобається.",
+              "audio": "les36-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Українською той, хто подобається, підмет (він), а «мені» давальний. Нідерландською навпаки: ik підмет, hem об'єкт. Дослівно «я вважаю його симпатичним» (Les 19)."
+        },
+        {
+          "form": "Два об'єкти: людина перед річчю",
+          "when_ua": "Спочатку людина, потім річ. Прийменника немає.",
+          "examples": [
+            {
+              "nl": "Ik geef **hem** een boek.",
+              "ua": "Я даю йому книгу.",
+              "audio": "les36-rule-19.mp3"
+            },
+            {
+              "nl": "Hij geeft **mij** het brood.",
+              "ua": "Він дає мені хліб.",
+              "audio": "les36-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Людина стоїть перед річчю: Ik geef hem een boek. Це порядок як в українській («дав йому книгу»)."
+        },
+        {
+          "form": "Або річ, потім aan + людина",
+          "when_ua": "Aan це нове маленьке слово: «кому».",
+          "examples": [
+            {
+              "nl": "Ik geef het boek **aan hem**.",
+              "ua": "Я даю книгу йому.",
+              "audio": "les36-rule-21.mp3"
+            },
+            {
+              "nl": "Zij geeft de kaas **aan mij**.",
+              "ua": "Вона дає сир мені.",
+              "audio": "les36-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Після aan людина в тій самій формі: aan hem, aan mij. Обидва способи правильні. Зазвичай не кажуть Ik geef aan hem het boek: aan + людина йде після речі."
+        }
+      ],
+      "points_ua": [
+        "Одна форма: Ik zie hem, Ik help hem.",
+        "Ik geef hem een boek або Ik geef het boek aan hem."
+      ]
+    },
+    {
+      "title_ua": "Після прийменника: op hem, naar haar, van hen",
+      "summary_ua": "Після прийменника про людей стоїть та сама форма об'єкта: op mij, naar hem, van haar, voor ons, met hen. Про речі так не роблять: назви річ іменником (op de bus). Інший спосіб для речей вчимо пізніше.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Прийменник + mij, jou, hem, haar",
+          "when_ua": "Дієслова з прийменником з Les 9: wachten op, denken aan, houden van, kijken naar.",
+          "examples": [
+            {
+              "nl": "Hij wacht op **mij**.",
+              "ua": "Він чекає на мене.",
+              "audio": "les36-rule-23.mp3"
+            },
+            {
+              "nl": "Ik denk aan **jou**.",
+              "ua": "Я думаю про тебе.",
+              "audio": "les36-rule-24.mp3"
+            },
+            {
+              "nl": "Zij houdt van **hem**.",
+              "ua": "Вона любить його.",
+              "audio": "les36-rule-25.mp3"
+            },
+            {
+              "nl": "Ik kijk naar **haar**.",
+              "ua": "Я дивлюся на неї.",
+              "audio": "les36-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Прийменник той самий, що в Les 9, після нього форма об'єкта. Після прийменника на початку кажи mij і jou, наголошені форми."
+        },
+        {
+          "form": "Прийменник + ons, hen",
+          "when_ua": "Hen лише після прийменника й лише про людей.",
+          "examples": [
+            {
+              "nl": "Het cadeau is voor **ons**.",
+              "ua": "Подарунок для нас.",
+              "audio": "les36-rule-27.mp3"
+            },
+            {
+              "nl": "Wij wachten op **hen**.",
+              "ua": "Ми чекаємо на них.",
+              "audio": "les36-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Op hen, met hen, van hen. Без прийменника про людей кажи ze: Ik ken ze niet."
+        },
+        {
+          "form": "Про речі: іменник",
+          "when_ua": "Після прийменника про річ ставимо іменник, не займенник.",
+          "examples": [
+            {
+              "nl": "Ik wacht op de bus.",
+              "ua": "Я чекаю на автобус.",
+              "audio": "les36-rule-29.mp3"
+            },
+            {
+              "nl": "Wij kijken naar het station.",
+              "ua": "Ми дивимося на вокзал.",
+              "audio": "les36-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Не Ik wacht op hem про автобус: після прийменника hem означає чоловіка. Для речей інший спосіб, його вчимо пізніше; поки що назви річ."
+        }
+      ],
+      "points_ua": [
+        "Прийменник + форма об'єкта: op mij, naar hem, voor ons.",
+        "Hen лише після прийменника, лише про людей.",
+        "Про речі: назви іменник."
+      ]
+    },
+    {
+      "title_ua": "Про речі: hem, het, ze",
+      "summary_ua": "Замість речі: de-слово це hem, het-слово це het, множина це ze. Це рід нідерландського слова, а не українського: de fles (пляшка, «вона») це hem, het brood (хліб, «він») це het. Haar про речі не кажемо: haar лише про жінку.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "De-слово: hem",
+          "when_ua": "Артикль de: hem, хоч би яким був рід українського слова.",
+          "examples": [
+            {
+              "nl": "De fles is groot. Ik neem **hem**.",
+              "ua": "Пляшка велика. Я беру її.",
+              "audio": "les36-rule-31.mp3"
+            },
+            {
+              "nl": "Waar is de jas? Ik zie **hem** niet.",
+              "ua": "Де куртка? Я її не бачу.",
+              "audio": "les36-rule-32.mp3"
+            }
+          ],
+          "note_ua": "Українською пляшка й куртка жіночого роду («її»), але нідерландською de-слово це hem. Дивись на артикль, не на український рід."
+        },
+        {
+          "form": "Het-слово: het",
+          "when_ua": "Артикль het: het.",
+          "examples": [
+            {
+              "nl": "Het brood is vers. Ik eet **het**.",
+              "ua": "Хліб свіжий. Я їм його.",
+              "audio": "les36-rule-33.mp3"
+            },
+            {
+              "nl": "Waar is het boek? Ik zie **het** niet.",
+              "ua": "Де книга? Я її не бачу.",
+              "audio": "les36-rule-34.mp3"
+            }
+          ],
+          "note_ua": "Хліб чоловічого роду, книга жіночого, але обидва het-слова: het. Тому слова вчимо з артиклем."
+        },
+        {
+          "form": "Множина: ze",
+          "when_ua": "Кілька речей: ze, які б слова не були.",
+          "examples": [
+            {
+              "nl": "De appels zijn vers. Ik koop **ze**.",
+              "ua": "Яблука свіжі. Я купую їх.",
+              "audio": "les36-rule-35.mp3"
+            },
+            {
+              "nl": "Waar zijn de sleutels? Ik zie **ze** niet.",
+              "ua": "Де ключі? Я їх не бачу.",
+              "audio": "les36-rule-36.mp3"
+            }
+          ],
+          "note_ua": "Ze це і про речі, і про людей (Ik ken ze niet). У множині рід не має значення."
+        }
+      ],
+      "points_ua": [
+        "De-слово: hem. Het-слово: het. Множина: ze.",
+        "Рід береться з нідерландського слова, не з українського.",
+        "Haar лише про жінку."
+      ]
+    },
+    {
+      "title_ua": "Порядок слів: займенник одразу після дієслова",
+      "summary_ua": "Займенник-об'єкт стоїть якомога ближче до дієслова: перед словом часу, перед niet, перед інфінітивом, перед відокремлюваною частиною і перед дієприкметником. Іменник-об'єкт іде далі: Ik eet vandaag een appel (Les 7), але Ik spreek hem morgen.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Перед часом і niet",
+          "when_ua": "Дієслово, потім займенник, потім слово часу, потім niet.",
+          "examples": [
+            {
+              "nl": "Ik spreek **hem** morgen.",
+              "ua": "Я поговорю з ним завтра.",
+              "audio": "les36-rule-37.mp3"
+            },
+            {
+              "nl": "Ik zie **hem** vandaag niet.",
+              "ua": "Я його сьогодні не бачу.",
+              "audio": "les36-rule-38.mp3"
+            }
+          ],
+          "note_ua": "Не Ik spreek morgen hem. Займенник стоїть відразу за дієсловом, слово часу далі. Іменник-об'єкт у Les 7 стояв після слова часу; займенник іде перед ним."
+        },
+        {
+          "form": "Модальне: займенник перед інфінітивом",
+          "when_ua": "Модальне друге, займенник, потім інфінітив у кінці.",
+          "examples": [
+            {
+              "nl": "Ik wil **hem** helpen.",
+              "ua": "Я хочу йому допомогти.",
+              "audio": "les36-rule-39.mp3"
+            },
+            {
+              "nl": "Wij moeten **haar** opbellen.",
+              "ua": "Ми мусимо їй подзвонити.",
+              "audio": "les36-rule-40.mp3"
+            },
+            {
+              "nl": "Kunt u **me** morgen helpen?",
+              "ua": "Чи можете ви мені завтра допомогти?",
+              "audio": "les36-rule-41.mp3"
+            }
+          ],
+          "note_ua": "Інфінітив у кінці лишається цілим: opbellen (Les 33). Займенник і слово часу стоять між модальним і інфінітивом."
+        },
+        {
+          "form": "Відокремлюване: займенник перед op",
+          "when_ua": "Op іде в кінець (Les 4), займенник стоїть за дієсловом.",
+          "examples": [
+            {
+              "nl": "Ik bel **hem** op.",
+              "ua": "Я дзвоню йому.",
+              "audio": "les36-rule-42.mp3"
+            },
+            {
+              "nl": "Hij belt **mij** morgen op.",
+              "ua": "Він подзвонить мені завтра.",
+              "audio": "les36-rule-43.mp3"
+            }
+          ],
+          "note_ua": "Порядок: дієслово, займенник, слово часу, op останнім. Не Ik bel op hem."
+        },
+        {
+          "form": "Perfect: між heb і дієприкметником",
+          "when_ua": "Heb чи heeft друге, дієприкметник у кінці (Les 32), займенник і час між ними.",
+          "examples": [
+            {
+              "nl": "Wij hebben **haar** gehoord.",
+              "ua": "Ми її почули.",
+              "audio": "les36-rule-44.mp3"
+            },
+            {
+              "nl": "Ik heb **je** gisteren opgebeld.",
+              "ua": "Я вчора тобі подзвонила.",
+              "audio": "les36-rule-45.mp3"
+            }
+          ],
+          "note_ua": "Так само з іншими дієприкметниками з Les 34: Ik heb hem gezien, Wij hebben ze besteld, Zij heeft hem genomen. Займенник завжди перед дієприкметником."
+        }
+      ],
+      "points_ua": [
+        "Дієслово, займенник, час, niet.",
+        "Ik wil hem helpen; Ik bel hem op.",
+        "Ik heb hem gezien: займенник перед дієприкметником."
+      ]
+    },
+    {
+      "title_ua": "Haar: три різні слова",
+      "summary_ua": "Haar пишеться однаково в трьох словах: 1) «її», об'єкт (Ik zie haar), 2) «її», присвійне перед іменником (haar moeder, Les 9), 3) het haar, «волосся» (Les 30). Українською 1 і 2 теж «її», тут збігається. Різницю дає місце: об'єкт стоїть сам, присвійне перед іменником.",
+      "see": "Les 30",
+      "compare": [
+        {
+          "form": "Haar: об'єкт чи присвійне",
+          "when_ua": "Сам по собі це об'єкт. Перед іменником це присвійне.",
+          "examples": [
+            {
+              "nl": "Ik zie **haar**.",
+              "ua": "Я бачу її.",
+              "audio": "les36-rule-46.mp3"
+            },
+            {
+              "nl": "Ik zie **haar** moeder.",
+              "ua": "Я бачу її маму.",
+              "audio": "les36-rule-47.mp3"
+            },
+            {
+              "nl": "**Haar** broer helpt me.",
+              "ua": "Її брат допомагає мені.",
+              "audio": "les36-rule-48.mp3"
+            }
+          ],
+          "note_ua": "У Ik zie haar слово стоїть саме: це об'єкт «її». У haar moeder воно перед іменником: це «її» присвійне. Haar завжди про жінку, не про річ."
+        },
+        {
+          "form": "Het haar: волосся",
+          "when_ua": "Третє слово: іменник het haar, «волосся» (Les 30).",
+          "examples": [
+            {
+              "nl": "**Haar** haar is lang.",
+              "ua": "Її волосся довге.",
+              "audio": "les36-rule-49.mp3"
+            }
+          ],
+          "note_ua": "Перше haar присвійне, друге це het haar, волосся. Слова однакові на письмі й на слух, тому вчи їх за місцем у реченні."
+        }
+      ],
+      "points_ua": [
+        "Haar: об'єкт, присвійне і het haar.",
+        "Дивись на місце: сам чи перед іменником."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Kunt u mij helpen?",
+      "ua": "Чи можете ви мені допомогти?",
+      "audio": "les36-example-01.mp3"
+    },
+    {
+      "nl": "Ik help u graag.",
+      "ua": "Я залюбки вам допоможу.",
+      "audio": "les36-example-02.mp3"
+    },
+    {
+      "nl": "Zij belt ons vandaag op.",
+      "ua": "Вона подзвонить нам сьогодні.",
+      "audio": "les36-example-03.mp3"
+    },
+    {
+      "nl": "Ken je hem?",
+      "ua": "Ти його знаєш?",
+      "audio": "les36-example-04.mp3"
+    },
+    {
+      "nl": "Ik geef haar een cadeau.",
+      "ua": "Я даю їй подарунок.",
+      "audio": "les36-example-05.mp3"
+    },
+    {
+      "nl": "Hij wacht op ons.",
+      "ua": "Він чекає на нас.",
+      "audio": "les36-example-06.mp3"
+    },
+    {
+      "nl": "Wij kijken naar jullie.",
+      "ua": "Ми дивимося на вас.",
+      "audio": "les36-example-07.mp3"
+    },
+    {
+      "nl": "Waar is de trein? Ik zie hem niet.",
+      "ua": "Де потяг? Я його не бачу.",
+      "audio": "les36-example-08.mp3"
+    },
+    {
+      "nl": "Waar is het kaartje? Ik heb het.",
+      "ua": "Де квиток? Він у мене.",
+      "audio": "les36-example-09.mp3"
+    },
+    {
+      "nl": "Heb je haar gezien?",
+      "ua": "Ти її бачив?",
+      "audio": "les36-example-10.mp3"
+    },
+    {
+      "nl": "Dit boek is voor jou.",
+      "ua": "Ця книга для тебе.",
+      "audio": "les36-example-11.mp3"
+    },
+    {
+      "nl": "Zij denkt vaak aan mij.",
+      "ua": "Вона часто думає про мене.",
+      "audio": "les36-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn broer komt",
+    "title_ua": "Мій брат приїжджає",
+    "highlight": [
+      "nl-a4f2f69b"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn moeder belt me vaak op.",
+        "ua": "Моя мама часто мені дзвонить.",
+        "audio": "les36-reading-01.mp3"
+      },
+      {
+        "nl": "Ik hoor haar graag.",
+        "ua": "Мені приємно її чути.",
+        "audio": "les36-reading-02.mp3"
+      },
+      {
+        "nl": "Mijn broer woont niet hier.",
+        "ua": "Мій брат живе не тут.",
+        "audio": "les36-reading-03.mp3"
+      },
+      {
+        "nl": "Ik zie hem niet vaak.",
+        "ua": "Я бачу його нечасто.",
+        "audio": "les36-reading-04.mp3"
+      },
+      {
+        "nl": "Vandaag komt hij met de trein.",
+        "ua": "Сьогодні він приїжджає потягом.",
+        "audio": "les36-reading-05.mp3"
+      },
+      {
+        "nl": "Ik wacht op hem in het café.",
+        "ua": "Я чекаю на нього в кафе.",
+        "audio": "les36-reading-06.mp3"
+      },
+      {
+        "nl": "Hij kent de stad niet, dus ik help hem.",
+        "ua": "Він не знає міста, тож я йому допомагаю.",
+        "audio": "les36-reading-07.mp3"
+      },
+      {
+        "nl": "Ik geef hem koffie en een broodje.",
+        "ua": "Я даю йому каву і булочку.",
+        "audio": "les36-reading-08.mp3"
+      },
+      {
+        "nl": "Hij geeft me een cadeau voor mijn moeder.",
+        "ua": "Він дає мені подарунок для моєї мами.",
+        "audio": "les36-reading-09.mp3"
+      },
+      {
+        "nl": "Ik vind hem heel leuk.",
+        "ua": "Він мені дуже подобається.",
+        "audio": "les36-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат допомагає нам.",
+          "accepted": [
+            "Mijn broer helpt ons."
+          ]
+        },
+        {
+          "prompt": "Ти мене чуєш?",
+          "accepted": [
+            "Hoor je me?",
+            "Hoor je mij?",
+            "Hoor jij me?",
+            "Hoor jij mij?"
+          ]
+        },
+        {
+          "prompt": "Я даю їй яблуко.",
+          "accepted": [
+            "Ik geef haar een appel.",
+            "Ik geef een appel aan haar."
+          ]
+        },
+        {
+          "prompt": "Він чекає на неї.",
+          "accepted": [
+            "Hij wacht op haar."
+          ]
+        },
+        {
+          "prompt": "Ми його сьогодні не бачимо.",
+          "accepted": [
+            "Wij zien hem vandaag niet.",
+            "We zien hem vandaag niet."
+          ]
+        },
+        {
+          "prompt": "Я хочу вам допомогти.",
+          "accepted": [
+            "Ik wil u helpen."
+          ]
+        },
+        {
+          "prompt": "Моя мама зателефонує мені завтра.",
+          "accepted": [
+            "Mijn moeder belt me morgen op.",
+            "Mijn moeder belt mij morgen op.",
+            "Morgen belt mijn moeder me op.",
+            "Morgen belt mijn moeder mij op."
+          ]
+        },
+        {
+          "prompt": "Я купую цей хліб для нього.",
+          "accepted": [
+            "Ik koop dit brood voor hem."
+          ]
+        },
+        {
+          "prompt": "Сукня гарна. Я її купую.",
+          "accepted": [
+            "De jurk is mooi. Ik koop hem."
+          ]
+        },
+        {
+          "prompt": "Вони думають про нас.",
+          "accepted": [
+            "Zij denken aan ons.",
+            "Ze denken aan ons."
+          ]
+        },
+        {
+          "prompt": "Ми їх не знаємо.",
+          "accepted": [
+            "Wij kennen ze niet.",
+            "We kennen ze niet.",
+            "Wij kennen hen niet.",
+            "We kennen hen niet."
+          ]
+        },
+        {
+          "prompt": "Вчора я його бачила.",
+          "accepted": [
+            "Gisteren heb ik hem gezien.",
+            "Ik heb hem gisteren gezien."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "me",
+        "mij",
+        "jou",
+        "je",
+        "hem",
+        "haar",
+        "het",
+        "ons",
+        "ze",
+        "hen",
+        "aan",
+        "geeft"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Hij ziet ___ niet.",
+          "hint": "Він мене не бачить",
+          "accepted": [
+            [
+              "me",
+              "mij"
+            ]
+          ]
+        },
+        {
+          "text": "Ik help ___.",
+          "hint": "Я допомагаю йому",
+          "accepted": [
+            [
+              "hem"
+            ]
+          ]
+        },
+        {
+          "text": "Wij wachten op ___.",
+          "hint": "Ми чекаємо на неї",
+          "accepted": [
+            [
+              "haar"
+            ]
+          ]
+        },
+        {
+          "text": "Waar is het glas? Ik zie ___ niet.",
+          "hint": "Де склянка? Я її не бачу",
+          "accepted": [
+            [
+              "het"
+            ]
+          ]
+        },
+        {
+          "text": "Zij geven ___ een boek.",
+          "hint": "Вони дають нам книгу",
+          "accepted": [
+            [
+              "ons"
+            ]
+          ]
+        },
+        {
+          "text": "Waar zijn de fietsen? Ik zie ___ niet.",
+          "hint": "Де велосипеди? Я їх не бачу",
+          "accepted": [
+            [
+              "ze"
+            ]
+          ]
+        },
+        {
+          "text": "Zij denkt aan ___.",
+          "hint": "Вона думає про них (людей)",
+          "accepted": [
+            [
+              "hen"
+            ]
+          ]
+        },
+        {
+          "text": "Wij geven het brood ___ haar.",
+          "hint": "Ми даємо хліб їй",
+          "accepted": [
+            [
+              "aan"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ mij een appel.",
+          "hint": "Він дає мені яблуко",
+          "accepted": [
+            [
+              "geeft"
+            ]
+          ]
+        },
+        {
+          "text": "Ik hoor ___, niet hem.",
+          "hint": "Я чую саме тебе, а не його",
+          "accepted": [
+            [
+              "jou"
+            ]
+          ]
+        },
+        {
+          "text": "Zij helpt ___, niet hem.",
+          "hint": "Вона допомагає саме мені, а не йому",
+          "accepted": [
+            [
+              "mij"
+            ]
+          ]
+        },
+        {
+          "text": "Ik bel ___ morgen op.",
+          "hint": "Я подзвоню тобі завтра",
+          "accepted": [
+            [
+              "je",
+              "jou"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Заміни іменник займенником, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik help mijn moeder.",
+          "cue": "-> заміни іменник займенником: Ik help ...",
+          "accepted": [
+            "Ik help haar."
+          ]
+        },
+        {
+          "prompt": "Wij hebben de man gezien.",
+          "cue": "-> заміни іменник займенником: Wij hebben ... gezien.",
+          "accepted": [
+            "Wij hebben hem gezien.",
+            "We hebben hem gezien."
+          ]
+        },
+        {
+          "prompt": "Ik zie de fles.",
+          "cue": "-> заміни іменник (de-слово): Ik zie ...",
+          "accepted": [
+            "Ik zie hem."
+          ]
+        },
+        {
+          "prompt": "Hij leest het boek.",
+          "cue": "-> заміни іменник (het-слово): Hij leest ...",
+          "accepted": [
+            "Hij leest het."
+          ]
+        },
+        {
+          "prompt": "Zij koopt de appels.",
+          "cue": "-> заміни іменник (множина): Zij koopt ...",
+          "accepted": [
+            "Zij koopt ze.",
+            "Ze koopt ze."
+          ]
+        },
+        {
+          "prompt": "Ik wacht op mijn vriend.",
+          "cue": "-> заміни людину: Ik wacht op ...",
+          "accepted": [
+            "Ik wacht op hem."
+          ]
+        },
+        {
+          "prompt": "Wij denken aan de kinderen.",
+          "cue": "-> заміни людей: Wij denken aan ...",
+          "accepted": [
+            "Wij denken aan hen.",
+            "We denken aan hen."
+          ]
+        },
+        {
+          "prompt": "Hij geeft mijn zus een boek.",
+          "cue": "-> заміни людину: Hij geeft ... een boek.",
+          "accepted": [
+            "Hij geeft haar een boek."
+          ]
+        },
+        {
+          "prompt": "Ik geef het brood aan mijn vader.",
+          "cue": "-> заміни людину (двома способами): aan ... of ... перед het brood",
+          "accepted": [
+            "Ik geef het brood aan hem.",
+            "Ik geef hem het brood."
+          ]
+        },
+        {
+          "prompt": "Ik spreek mijn opa morgen.",
+          "cue": "-> заміни іменник: займенник перед morgen",
+          "accepted": [
+            "Ik spreek hem morgen."
+          ]
+        },
+        {
+          "prompt": "Ik wil mijn zus helpen.",
+          "cue": "-> заміни іменник займенником: Ik wil ... helpen.",
+          "accepted": [
+            "Ik wil haar helpen."
+          ]
+        },
+        {
+          "prompt": "Ik bel mijn vader op.",
+          "cue": "-> заміни іменник: займенник перед op",
+          "accepted": [
+            "Ik bel hem op."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ hem koffie.",
+          "cue": "geven",
+          "accepted": [
+            "geef"
+          ]
+        },
+        {
+          "text": "Hij ___ mij een boek.",
+          "cue": "geven",
+          "accepted": [
+            "geeft"
+          ]
+        },
+        {
+          "text": "Wij ___ haar een cadeau.",
+          "cue": "geven",
+          "accepted": [
+            "geven"
+          ]
+        },
+        {
+          "text": "Wat ___ jij hem?",
+          "cue": "geven",
+          "accepted": [
+            "geef"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ ons niet.",
+          "cue": "zien",
+          "accepted": [
+            "ziet"
+          ]
+        },
+        {
+          "text": "Ik ___ jullie niet.",
+          "cue": "horen",
+          "accepted": [
+            "hoor"
+          ]
+        },
+        {
+          "text": "Hij ___ haar goed.",
+          "cue": "kennen",
+          "accepted": [
+            "kent"
+          ]
+        },
+        {
+          "text": "Wij ___ u graag.",
+          "cue": "helpen",
+          "accepted": [
+            "helpen"
+          ]
+        },
+        {
+          "text": "Ik ___ op hem.",
+          "cue": "wachten",
+          "accepted": [
+            "wacht"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ naar mij.",
+          "cue": "kijken",
+          "accepted": [
+            "kijkt"
+          ]
+        },
+        {
+          "text": "Hij ___ mij morgen op.",
+          "cue": "opbellen",
+          "accepted": [
+            "belt"
+          ]
+        },
+        {
+          "text": "Ik ___ van jou.",
+          "cue": "houden",
+          "accepted": [
+            "hou",
+            "houd"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "function",
+        "verb"
+      ]
+    }
+  ]
+}
