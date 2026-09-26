@@ -54,6 +54,8 @@ function checkLesson(idx) {
   // a lesson whose notes are all verbs (Les 32) highlights nothing in the reading, and must still render
   t(`lesson ${L.order}: reading terms highlighted iff the lesson lists highlights`, byId['b3-text'].all().some((e) => e.className === 'term') === (L.reading.highlight.length > 0));
   const marks = byId['b1-words'].all().concat(byId['b1-verbs'].all()).filter((e) => e.className === 'qmark');
+  const verbNotes = L.notes.filter((n) => n.type === 'verb');
+  t(`lesson ${L.order}: each verb card shows the verb, and its explanation on a separate line`, byId['b1-verbs'].children.length === verbNotes.length && byId['b1-verbs'].children.every((card, k) => card.children[0].className === 'rule-title' && card.all().some((e) => e.className === 'vgloss' && e.textContent === `(${verbNotes[k].ua})`)));
   t(`lesson ${L.order}: one "?" per flagged word (${L.notes.filter((n) => n.check).length})`, marks.length === L.notes.filter((n) => n.check).length);
   t(`lesson ${L.order}: service line hidden iff no service words`, byId['b1-service-line'].hidden === !(L.service_words || []).length);
 

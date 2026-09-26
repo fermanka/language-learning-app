@@ -346,9 +346,11 @@ if (typeof document === 'undefined') {
     renderRule(L);
     L.notes.filter((n) => n.type === 'verb').forEach((v) => {
       const card = el('div', 'verbcard');
-      const title = el('div', 'rule-title', `${v.lemma} (${v.ua})`);
+      // The verb on the first line, its explanation on its own line below: a long explanation never widens the card.
+      const title = el('div', 'rule-title', v.lemma);
       card.append(title);
       if (v.check) { const mark = checkMark(v); title.append(document.createTextNode(' '), mark.btn); card.append(mark.note); }
+      if (v.ua) card.append(el('div', 'vgloss', `(${v.ua})`));
       const tbl = el('table', 'paradigm');
       v.paradigm.forEach((r) => {
         const tr = el('tr');

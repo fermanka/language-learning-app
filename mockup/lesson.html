@@ -101,6 +101,16 @@
 
   .verbcard { border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; margin: 12px auto 0; width: fit-content; min-width: 300px; max-width: 100%; }
   .verbcard .rule-title { text-align: center; }
+  /* verb tables of a lesson: two side by side (one alone in the last row is centred), a bit smaller so two fit; one column on a narrow window */
+  #b1-verbs { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 16px; margin-top: 12px; }
+  #b1-verbs .verbcard { margin: 0; width: 100%; min-width: 0; }
+  #b1-verbs .verbcard:last-child:nth-child(odd) { grid-column: 1 / -1; width: calc(50% - 8px); justify-self: center; }
+  .verbcard .vgloss { text-align: center; font-size: 13px; color: var(--muted); line-height: 1.35; margin: -2px 0 6px; }
+  #b1-verbs .paradigm { width: 100%; }
+  #b1-verbs .paradigm td { padding-right: 6px; }
+  #b1-verbs .paradigm td.nl { font-size: 16px; min-width: 0; }
+  #b1-verbs .paradigm td.meta { font-size: 12px; }
+  @media (max-width: 1010px) { #b1-verbs { grid-template-columns: 1fr; } #b1-verbs .verbcard:last-child:nth-child(odd) { grid-column: auto; width: 100%; } }
   .rule-title { font-size: 18px; font-weight: 600; margin-bottom: 6px; }
   .paradigm { border-collapse: collapse; width: auto; margin: 0 auto; }
   .paradigm td { padding: 3px 8px 3px 0; vertical-align: middle; }
