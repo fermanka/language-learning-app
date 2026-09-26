@@ -23,6 +23,8 @@ function splitTerms(sentence, notes) {
   const map = new Map();
   notes.forEach((n) => surfaces(n).forEach((s) => map.set(s.toLowerCase(), n)));
   const keys = [...map.keys()].sort((a, b) => b.length - a.length).map((k) => k.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  // No terms to find (a lesson whose notes are all verbs highlights nothing): an empty pattern would match the empty string forever.
+  if (!keys.length) return sentence ? [{ text: sentence }] : [];
   const re = new RegExp(`(?<![\\p{L}])(${keys.join('|')})(?![\\p{L}])`, 'giu');
   const out = [];
   let last = 0, m;

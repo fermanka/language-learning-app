@@ -48,7 +48,8 @@ function checkLesson(idx) {
   t(`lesson ${L.order}: label`, byId['lesson-label'].textContent === `Les ${L.order}`);
   t(`lesson ${L.order}: rule card ${L.rule ? 'present' : 'absent'}`, (byId['b1-rule'].children.length > 0) === !!L.rule);
   t(`lesson ${L.order}: every example has an audio button`, byId['b2-list'].children.every((li) => li.all().some((e) => e.className === 'icon')));
-  t(`lesson ${L.order}: reading terms highlighted`, byId['b3-text'].all().some((e) => e.className === 'term'));
+  // a lesson whose notes are all verbs (Les 32) highlights nothing in the reading, and must still render
+  t(`lesson ${L.order}: reading terms highlighted iff the lesson lists highlights`, byId['b3-text'].all().some((e) => e.className === 'term') === (L.reading.highlight.length > 0));
   const marks = byId['b1-words'].all().concat(byId['b1-verbs'].all()).filter((e) => e.className === 'qmark');
   t(`lesson ${L.order}: one "?" per flagged word (${L.notes.filter((n) => n.check).length})`, marks.length === L.notes.filter((n) => n.check).length);
   t(`lesson ${L.order}: service line hidden iff no service words`, byId['b1-service-line'].hidden === !(L.service_words || []).length);
