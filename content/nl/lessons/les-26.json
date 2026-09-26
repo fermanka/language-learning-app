@@ -54,7 +54,8 @@
       "lemma": "toen",
       "ua": "тоді (у минулому)",
       "audio": "toen.mp3",
-      "explain_ua": "(Toen was het koud = тоді було холодно; Ik had toen geen tijd = тоді в мене не було часу). Toen це «тоді, у той час», тільки про минуле. Не плутай: nu = зараз (Les 4), daarna = потім (Les 11), toen = тоді, у той момент минулого. У цьому уроці toen лише окреме слово: стоїть першим (тоді дієслово друге: Toen was ik ziek) або після дієслова, як nu. Toen як сполучник у підрядному реченні (з дієсловом у кінці) вчимо пізніше. Oe це [u], як у boek (Les 1): приблизно «тун»"
+      "explain_ua": "(Toen was het koud = тоді було холодно; Ik had toen geen tijd = тоді в мене не було часу). Toen це «тоді, у той час», тільки про минуле. Не плутай: nu = зараз (Les 4), daarna = потім (Les 11), toen = тоді, у той момент минулого. У цьому уроці toen лише окреме слово: стоїть першим (тоді дієслово друге: Toen was ik ziek) або після дієслова, як nu. Toen як сполучник у підрядному реченні (з дієсловом у кінці) вчимо пізніше. Oe це [u], як у boek (Les 1): приблизно «тун»",
+      "check": "Чи toen як окреме прислівник у реченнях на кшталт «Toen was ik moe» природне, не перевірено."
     },
     {
       "id": "nl-84468b39",
@@ -131,7 +132,8 @@
           "audio": "zij-waren.mp3"
         }
       ],
-      "explain_ua": "(Ik was thuis = я була вдома; Wij waren in de stad = ми були в місті). Це zijn (Les 1) у минулому. Лише дві форми: was (ik, jij, u, hij, zij, het) і waren (wij, jullie, zij). Закінчення -t немає: jij was, не jij wast. Рід не міняє форму: was це і «був», і «була», і «було». Іменник у множині: waren (De mannen waren thuis). W це [ʋ] (Les 1). У was a коротка [ɑ], як у man; у waren склад відкритий і a довга [aː], як у maan. Інші дієслова в минулому вчимо пізніше"
+      "explain_ua": "(Ik was thuis = я була вдома; Wij waren in de stad = ми були в місті). Це zijn (Les 1) у минулому. Лише дві форми: was (ik, jij, u, hij, zij, het) і waren (wij, jullie, zij). Закінчення -t немає: jij was, не jij wast. Рід не міняє форму: was це і «був», і «була», і «було». Іменник у множині: waren (De mannen waren thuis). W це [ʋ] (Les 1). У was a коротка [ɑ], як у man; у waren склад відкритий і a довга [aː], як у maan. Інші дієслова в минулому вчимо пізніше",
+      "check": "Форми waren та u was не підтверджені словником (сторінка показала лише was)."
     },
     {
       "id": "nl-6808acfe",
@@ -184,7 +186,8 @@
           "audio": "zij-hadden.mp3"
         }
       ],
-      "explain_ua": "(Ik had honger = я була голодна; Wij hadden een groot huis = у нас був великий будинок). Це hebben (Les 2) у минулому: had (ik, jij, u, hij, zij, het) і hadden (wij, jullie, zij). Закінчення -t немає: jij had, не jij hadt. Кінцеве d у had читається як [t]: «хат»; у російській так само (хлеб звучить «хлеп»), в українській ні. У hadden подвоєне dd, щоб a лишалась короткою, як у zwem-men (Les 7). H це легкий видих, як українське г, не х"
+      "explain_ua": "(Ik had honger = я була голодна; Wij hadden een groot huis = у нас був великий будинок). Це hebben (Les 2) у минулому: had (ik, jij, u, hij, zij, het) і hadden (wij, jullie, zij). Закінчення -t немає: jij had, не jij hadt. Кінцеве d у had читається як [t]: «хат»; у російській так само (хлеб звучить «хлеп»), в українській ні. У hadden подвоєне dd, щоб a лишалась короткою, як у zwem-men (Les 7). H це легкий видих, як українське г, не х",
+      "check": "Форми hadden та u had не підтверджені словником (сторінка показала лише had)."
     }
   ],
   "rule": [

@@ -176,7 +176,8 @@
       ],
       "ua": "колір",
       "audio": "de-kleur.mp3",
-      "explain_ua": "(Welke kleur heeft de jas? = якого кольору куртка?). Eu це [øː], як у leuk (Les 19). R наприкінці чітка. Схоже на англійське colour: підказка для пам'яті"
+      "explain_ua": "(Welke kleur heeft de jas? = якого кольору куртка?). Eu це [øː], як у leuk (Les 19). R наприкінці чітка. Схоже на англійське colour: підказка для пам'яті",
+      "check": "Чи Welke kleur? і Wat voor kleur? однаково природні й взаємозамінні, не підтверджено."
     },
     {
       "id": "nl-ca549a2a",

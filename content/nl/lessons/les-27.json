@@ -22,7 +22,8 @@
       "plural": [],
       "ua": "музика",
       "audio": "de-muziek.mp3",
-      "explain_ua": "(Ik luister naar muziek = я слухаю музику; De muziek is mooi = музика гарна). Слово ти вже знаєш: музика, music. Множини в muziek немає (як у het water, Les 7): це слово лише в однині. Музика взагалі, без уточнення, стоїть без артикля (Ik luister naar muziek); конкретна музика з de (naar de muziek). Наголос на другому складі: mu-ZIEK. U в mu- це [y], як uu в het uur (Les 5): губи як для «у», а язик як для «і»; ie це [i], як у ziek (Les 26): приблизно «мюзік»"
+      "explain_ua": "(Ik luister naar muziek = я слухаю музику; De muziek is mooi = музика гарна). Слово ти вже знаєш: музика, music. Множини в muziek немає (як у het water, Les 7): це слово лише в однині. Музика взагалі, без уточнення, стоїть без артикля (Ik luister naar muziek); конкретна музика з de (naar de muziek). Наголос на другому складі: mu-ZIEK. U в mu- це [y], як uu в het uur (Les 5): губи як для «у», а язик як для «і»; ie це [i], як у ziek (Les 26): приблизно «мюзік»",
+      "check": "Що в muziek немає множини, первинним словником не підтверджено; вимова [y] у mu-ZIEK з власних знань."
     },
     {
       "id": "nl-5adbea8f",
@@ -140,7 +141,8 @@
           "audio": "hij-leert.mp3"
         }
       ],
-      "explain_ua": "(Ik leer Nederlands = я вчу нідерландську; Wij leerden Nederlands = ми вчили нідерландську). Таблиця показує минулий час; теперішній: ik leer, jij leert, hij leert, wij leren. Основа leer: голосна лишається подвоєною, як у loop (Les 7), і в минулому теж: leerde. Літера r перед -en не входить до 't kofschip, тож -de: leerde, leerden. Nederlands, Engels, Russisch без артикля (Les 18). Ee довге [eː], як у de peer (Les 10): приблизно «лер-де»"
+      "explain_ua": "(Ik leer Nederlands = я вчу нідерландську; Wij leerden Nederlands = ми вчили нідерландську). Таблиця показує минулий час; теперішній: ik leer, jij leert, hij leert, wij leren. Основа leer: голосна лишається подвоєною, як у loop (Les 7), і в минулому теж: leerde. Літера r перед -en не входить до 't kofschip, тож -de: leerde, leerden. Nederlands, Engels, Russisch без артикля (Les 18). Ee довге [eː], як у de peer (Les 10): приблизно «лер-де»",
+      "check": "Чи leren правильно подано як «вчити, вивчати, вчитися» (і «навчати когось»), у словнику не перевірено."
     },
     {
       "id": "nl-60148038",

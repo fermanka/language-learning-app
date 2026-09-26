@@ -112,7 +112,8 @@
           "audio": "zij-wilden.mp3"
         }
       ],
-      "explain_ua": "(Ik wilde slapen = я хотіла спати; Wij wilden thuis blijven = ми хотіли залишитися вдома). Це willen (Les 7) у минулому: wilde (ik, jij, u, hij, zij, het) і wilden (wij, jullie, zij). Це майже як woonde і woonden (Les 27): основа wil і -de, -den. Закінчення -t немає: jij wilde, не jij wildt. Форма одна для всіх родів: я хотів і я хотіла це ik wilde. W це [ʋ] (Les 1); i коротке [ɪ], ближче до «и»: приблизно «вил-де» і «вил-ден»"
+      "explain_ua": "(Ik wilde slapen = я хотіла спати; Wij wilden thuis blijven = ми хотіли залишитися вдома). Це willen (Les 7) у минулому: wilde (ik, jij, u, hij, zij, het) і wilden (wij, jullie, zij). Це майже як woonde і woonden (Les 27): основа wil і -de, -den. Закінчення -t немає: jij wilde, не jij wildt. Форма одна для всіх родів: я хотів і я хотіла це ik wilde. W це [ʋ] (Les 1); i коротке [ɪ], ближче до «и»: приблизно «вил-де» і «вил-ден»",
+      "check": "Форму wilden і згадку про wou/wouden у правилі словник не підтвердив, це мої власні знання."
     },
     {
       "id": "nl-7464637e",
@@ -220,7 +221,8 @@
           "audio": "zij-mochten.mp3"
         }
       ],
-      "explain_ua": "(Ik mocht niet slapen = мені не можна було спати; De kinderen mochten buiten spelen = дітям було можна гратися надворі). Це mogen (Les 7) у минулому: mocht (ik, jij, u, hij, zij, het) і mochten (wij, jullie, zij). Mocht це дозвіл: хтось дозволив або правило дозволяло. Українське «можна було» це mocht. Здатність чи змога це kon (є окрема картка). У формі jij mocht уже є t, другого немає. O коротке [ɔ]; ch це [x], як х у хата (Les 1): приблизно «мохт» і «мох-тен»"
+      "explain_ua": "(Ik mocht niet slapen = мені не можна було спати; De kinderen mochten buiten spelen = дітям було можна гратися надворі). Це mogen (Les 7) у минулому: mocht (ik, jij, u, hij, zij, het) і mochten (wij, jullie, zij). Mocht це дозвіл: хтось дозволив або правило дозволяло. Українське «можна було» це mocht. Здатність чи змога це kon (є окрема картка). У формі jij mocht уже є t, другого немає. O коротке [ɔ]; ch це [x], як х у хата (Les 1): приблизно «мохт» і «мох-тен»",
+      "check": "Розподіл kon = змога, mocht = дозвіл це спрощення; словник дає для kunnen й значення «дозвіл»."
     },
     {
       "id": "nl-b5ccc8cd",
@@ -412,7 +414,8 @@
       ],
       "ua": "відпустка, канікули",
       "audio": "de-vakantie.mp3",
-      "explain_ua": "(Wij hadden een lange vakantie = у нас була довга відпустка; De vakanties waren leuk = відпустки були класні). Vakantie це «відпустка» дорослих і «канікули» дітей: одне слово. Множина vakanties (-s). Схоже на англійське vacation: підказка для пам'яті. Відпустка взагалі, як час без роботи, стоїть без артикля після had і hadden (Ik had vakantie = у мене була відпустка); одна конкретна відпустка з een або de (een lange vakantie, de vakantie). Наголос на другому складі; tie звучить як «сі»: va-KAN-tie, приблизно «ва-КАН-сі»"
+      "explain_ua": "(Wij hadden een lange vakantie = у нас була довга відпустка; De vakanties waren leuk = відпустки були класні). Vakantie це «відпустка» дорослих і «канікули» дітей: одне слово. Множина vakanties (-s). Схоже на англійське vacation: підказка для пам'яті. Відпустка взагалі, як час без роботи, стоїть без артикля після had і hadden (Ik had vakantie = у мене була відпустка); одна конкретна відпустка з een або de (een lange vakantie, de vakantie). Наголос на другому складі; tie звучить як «сі»: va-KAN-tie, приблизно «ва-КАН-сі»",
+      "check": "Вислів vakantie hebben/hadden без артикля словник не підтвердив (там op vakantie gaan, vakantie nemen)."
     }
   ],
   "rule": [
