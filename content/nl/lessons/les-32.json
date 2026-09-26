@@ -1,0 +1,1111 @@
+{
+  "id": "nl-les-32",
+  "lang": "nl",
+  "order": 32,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-cbd9f517",
+      "type": "verb",
+      "lemma": "gewerkt",
+      "ua": "працював, попрацював (werken у voltooid tijd)",
+      "audio": "gewerkt.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gewerkt",
+          "audio": "ik-heb-gewerkt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "heeft gewerkt",
+          "audio": "hij-heeft-gewerkt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "hebben gewerkt",
+          "audio": "wij-hebben-gewerkt.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb gewerkt = я працювала; Zij heeft veel gewerkt = вона багато працювала). Це werken (Les 5) у voltooid tijd (перфект: минуле з двох частин): heb / heeft + gewerkt. Таблиця показує три особи: змінюється лише hebben (heb, heeft, hebben), а gewerkt однакове для всіх. Це форма-зразок для решти уроку. Будується так: ge- + основа werk + -t. Основа закінчується на k, а k входить до 't kofschip (Les 27), тому -t. Нідерландська не розрізняє вид: gewerkt це і «працювала», і «попрацювала». Ge- це слабкий склад [ɣə], де g як х у хата (Les 1); наголос на основі: ge-WERKT, приблизно «хе-ВЕРКТ»",
+      "check": "Форму gewerkt утворено за правилом 't kofschip з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-82cdb24e",
+      "type": "verb",
+      "lemma": "gewoond",
+      "ua": "жив, прожив (wonen у voltooid tijd)",
+      "audio": "gewoond.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gewoond",
+          "audio": "ik-heb-gewoond.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb in Nederland gewoond = я жила в Нідерландах; Wij hebben in de stad gewoond = ми жили в місті). Це wonen (Les 1) у voltooid tijd: heb / heeft + gewoond. Основа woon закінчується на n, а n не входить до 't kofschip, тому -d: ge- + woon + -d. Перевір себе Les 27: woonden з d, отже gewoond з d. Кінцеве -d у gewoond звучить як [t], як у російському «хлеб» (тут спирайся на російську, не на українську), але пишемо d. Woonde (Les 27) і heb gewoond обидві правильні: див. останню картку. Oo довге [oː], як у boos (Les 1); w це [ʋ]; наголос на основі: ge-WOOND, приблизно «хе-ВОНТ»",
+      "check": "Форму gewoond з власних знань, не перевірено; опис різниці voltooid tijd і woonde (картка 7) спрощений і не перевірений."
+    },
+    {
+      "id": "nl-6feb9add",
+      "type": "verb",
+      "lemma": "gemaakt",
+      "ua": "зробив, робив (maken у voltooid tijd)",
+      "audio": "gemaakt.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gemaakt",
+          "audio": "ik-heb-gemaakt.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb een fout gemaakt = я зробила помилку; Wij hebben een taart gemaakt = ми зробили торт). Це maken (Les 20) у voltooid tijd: heb / heeft + gemaakt. Основа maak закінчується на k, а k входить до 't kofschip, тому -t: ge- + maak + -t. Не gemaakd. Aa лишається подвоєною, як в основі maak (Les 20). Aa довге [aː], як у maan (Les 1); наголос на основі: ge-MAAKT, приблизно «хе-МАКТ»",
+      "check": "Форму gemaakt утворено за правилом 't kofschip з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-e1586b19",
+      "type": "verb",
+      "lemma": "gekookt",
+      "ua": "варив, готував (koken у voltooid tijd)",
+      "audio": "gekookt.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gekookt",
+          "audio": "ik-heb-gekookt.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb soep gekookt = я зварила суп; Zij heeft gekookt = вона готувала). Це koken (Les 25) у voltooid tijd: heb / heeft + gekookt. Основа kook закінчується на k, а k входить до 't kofschip, тому -t: ge- + kook + -t. Не gekookd. Oo лишається подвоєним, як в основі kook (Les 25). Oo довге [oː], як у boos (Les 1); наголос на основі: ge-KOOKT, приблизно «хе-КОКТ»",
+      "check": "Форму gekookt утворено за правилом 't kofschip з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-dfd7d509",
+      "type": "verb",
+      "lemma": "geleerd",
+      "ua": "вчив, вивчив (leren у voltooid tijd)",
+      "audio": "geleerd.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb geleerd",
+          "audio": "ik-heb-geleerd.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb Nederlands geleerd = я вчила нідерландську; Zij heeft veel geleerd = вона багато вчила). Це leren (Les 27) у voltooid tijd: heb / heeft + geleerd. Основа leer закінчується на r, а r не входить до 't kofschip, тому -d: ge- + leer + -d. Перевір себе Les 27: leerden з d, отже geleerd з d. Кінцеве -d звучить як [t], як у російському «хлеб» (тут спирайся на російську), але пишемо d. Ee довге [eː], як у de peer (Les 10); наголос на основі: ge-LEERD, приблизно «хе-ЛЕРТ»",
+      "check": "Форму geleerd утворено за правилом 't kofschip з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-2c295511",
+      "type": "verb",
+      "lemma": "geluisterd",
+      "ua": "слухав, послухав (luisteren у voltooid tijd)",
+      "audio": "geluisterd.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb geluisterd",
+          "audio": "ik-heb-geluisterd.mp3"
+        }
+      ],
+      "explain_ua": "(Zij heeft naar muziek geluisterd = вона слухала музику). Це luisteren (Les 27) у voltooid tijd: heb / heeft + geluisterd. Luisteren завжди з naar, тому naar muziek стоїть між heeft і geluisterd. Основа luister закінчується на r, а r не входить до 't kofschip, тому -d: ge- + luister + -d. Кінцеве -d звучить як [t], як у російському «хлеб», але пишемо d. Ui це [œy], як у huis (Les 1); наголос на luis: ge-LUIS-terd, приблизно «хе-ЛЬОЙС-терт»"
+    },
+    {
+      "id": "nl-5d370773",
+      "type": "verb",
+      "lemma": "gehoord",
+      "ua": "чув, почув (horen у voltooid tijd)",
+      "audio": "gehoord.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gehoord",
+          "audio": "ik-heb-gehoord.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb de trein gehoord = я почула потяг; Wij hebben de regen gehoord = ми чули дощ). Це horen (Les 27) у voltooid tijd: heb / heeft + gehoord. Основа hoor закінчується на r, а r не входить до 't kofschip, тому -d: ge- + hoor + -d. Oo лишається подвоєним, як в основі hoor (Les 27). Кінцеве -d звучить як [t], як у російському «хлеб», але пишемо d. Oo довге [oː]; h це легкий видих, як українське г (Les 27); наголос на основі: ge-HOORD, приблизно «хе-ГОРТ»",
+      "check": "Форму gehoord утворено за правилом 't kofschip з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-faf9ab65",
+      "type": "verb",
+      "lemma": "gespeeld",
+      "ua": "грав, грався (spelen у voltooid tijd)",
+      "audio": "gespeeld.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gespeeld",
+          "audio": "ik-heb-gespeeld.mp3"
+        }
+      ],
+      "explain_ua": "(De kinderen hebben in de tuin gespeeld = діти гралися в саду; Ik heb gespeeld = я гралася). Це spelen (Les 27) у voltooid tijd: heb / heeft + gespeeld. Основа speel закінчується на l, а l не входить до 't kofschip, тому -d: ge- + speel + -d. Ee лишається подвоєним, як в основі speel (Les 27). Кінцеве -d звучить як [t], як у російському «хлеб», але пишемо d. Sp це [sp]; ee довге [eː]; наголос на основі: ge-SPEELD, приблизно «хе-СПЕЛТ»",
+      "check": "Форму gespeeld утворено за правилом 't kofschip з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-c3cdb26d",
+      "type": "verb",
+      "lemma": "gefietst",
+      "ua": "їздив на велосипеді (fietsen у voltooid tijd)",
+      "audio": "gefietst.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gefietst",
+          "audio": "ik-heb-gefietst.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb gefietst = я їздила на велосипеді; Wij hebben in het park gefietst = ми їздили на велосипедах у парку). Це fietsen (Les 27) у voltooid tijd, тут лише без напрямку (місце на кшталт in het park, а не naar ...): з напрямком дієслово бере інше допоміжне, про це пізніше. Основа fiets закінчується на s, а s входить до 't kofschip, тому -t: ge- + fiets + -t. Ie це [i]; ts це [ts], як «ц»; наголос на основі: ge-FIETST, приблизно «хе-ФІЦТ»",
+      "check": "Що fietsen з напрямком (naar ...) бере zijn, а не hebben, з власних знань, не перевірено; тому в уроці лише без напрямку."
+    },
+    {
+      "id": "nl-f1a880df",
+      "type": "verb",
+      "lemma": "gewacht",
+      "ua": "чекав на (wachten op у voltooid tijd)",
+      "audio": "gewacht.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gewacht",
+          "audio": "ik-heb-gewacht.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb op de bus gewacht = я чекала на автобус; Zij heeft op haar vriendin gewacht = вона чекала на подругу). Це wachten op (Les 9) у voltooid tijd, і op лишається: op de bus стоїть між heb і gewacht. Основа wacht уже закінчується на t, тому нового -t не додаємо: ge- + wacht = gewacht. Не gewachtt. Ch це [x], як х у хата (Les 1); наголос на основі: ge-WACHT, приблизно «хе-ВАХТ»",
+      "check": "Що op de bus стоїть перед gewacht (звичайний порядок), з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-60f97922",
+      "type": "verb",
+      "lemma": "gekocht",
+      "ua": "купив, купував (kopen у voltooid tijd; виняток)",
+      "audio": "gekocht.mp3",
+      "dictation": false,
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gekocht",
+          "audio": "ik-heb-gekocht.mp3"
+        }
+      ],
+      "explain_ua": "(Ik heb brood gekocht = я купила хліб; Zij hebben appels gekocht = вони купили яблука). Це kopen (Les 8) у voltooid tijd, але виняток: не gekoopt, а gekocht. Це нове слово, яке вчимо окремо (див. картку про винятки): правило -t / -d тут не працює, бо основа змінюється. Ch це [x], як х у хата (Les 1); o коротка [ɔ]; наголос на основі: ge-KOCHT, приблизно «хе-КОХТ»"
+    },
+    {
+      "id": "nl-3a35849e",
+      "type": "verb",
+      "lemma": "gelachen",
+      "ua": "сміявся, засміявся (lachen у voltooid tijd; виняток)",
+      "audio": "gelachen.mp3",
+      "dictation": false,
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "heb gelachen",
+          "audio": "ik-heb-gelachen.mp3"
+        }
+      ],
+      "explain_ua": "(Wij hebben veel gelachen = ми багато сміялися; Hij heeft niet gelachen = він не сміявся). Це lachen (Les 27) у voltooid tijd, але виняток: не gelacht, а gelachen, з -en у кінці, як в інфінітиві. Це нове слово, яке вчимо окремо (див. картку про винятки). Ch це [x], як х у хата (Les 1); a коротка [ɑ], як у man (Les 1); наголос на основі: ge-LACH-en, приблизно «хе-ЛАХ-ен»"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Voltooid tijd: hebben + gewerkt",
+      "summary_ua": "Voltooid tijd (перфект) це минуле з двох частин: hebben на другому місці й дієприкметник (voltooid deelwoord) у кінці: Ik heb gewerkt. Як англійське I have worked. Змінюється лише hebben (heb, hebt, heeft, hebben, Les 2), а дієприкметник однаковий для всіх. У цьому уроці всі дієслова беруть hebben. Кілька дієслів беруть zijn: про них Les 34.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Hebben змінюється, дієприкметник ні",
+          "when_ua": "Hebben стоїть на другому місці й погоджується з підметом. Дієприкметник стоїть у кінці й лишається тим самим.",
+          "examples": [
+            {
+              "nl": "Ik **heb** **gespeeld**.",
+              "ua": "Я гралася.",
+              "audio": "les32-rule-01.mp3"
+            },
+            {
+              "nl": "Hij **heeft** **gespeeld**.",
+              "ua": "Він грався.",
+              "audio": "les32-rule-02.mp3"
+            },
+            {
+              "nl": "Wij **hebben** **gespeeld**.",
+              "ua": "Ми гралися.",
+              "audio": "les32-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не Ik hebben gespeeld і не Hij heb gespeeld: hebben погоджується з підметом, як завжди (Les 2). Hebt лише після jij: Jij hebt gespeeld."
+        },
+        {
+          "form": "Немає виду: один час, два переклади",
+          "when_ua": "Українська розрізняє «робила» і «зробила» (вид). Нідерландська не розрізняє: heb gemaakt може бути і те, і те.",
+          "examples": [
+            {
+              "nl": "Ik **heb** een boterham **gemaakt**.",
+              "ua": "Я зробила бутерброд (або: робила бутерброд).",
+              "audio": "les32-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Не шукай нідерландську пару до «робила» і «зробила»: форма одна. Що саме мається на увазі, видно з речення й контексту."
+        }
+      ],
+      "points_ua": [
+        "Hebben змінюється: heb, hebt, heeft, hebben. Дієприкметник ні.",
+        "У цьому уроці лише hebben. Про zijn: Les 34."
+      ]
+    },
+    {
+      "title_ua": "Ge- + основа + -t чи -d: 't kofschip",
+      "summary_ua": "Дієприкметник правильних дієслів: ge- + основа + -t або -d. Основа це інфінітив без -en. Яка літера, каже 't kofschip з Les 27: основа на t, k, f, s, ch, p дає -t, усі інші літери дають -d. Перевірка: якщо в минулому було woonden (з d), то gewoond (з d); якщо fietsten, то gefietst.",
+      "see": "Les 27",
+      "compare": [
+        {
+          "form": "-t: werk, maak, kook, fiets, wacht",
+          "when_ua": "Основа на k, s, ch, t (літери з 't kofschip): ge- + основа + -t. Якщо основа вже на t, -t не додаємо: wacht - gewacht.",
+          "examples": [
+            {
+              "nl": "Wij **hebben** in de keuken **gekookt**.",
+              "ua": "Ми готували на кухні.",
+              "audio": "les32-rule-05.mp3"
+            },
+            {
+              "nl": "Zij **heeft** op haar vriendin **gewacht**.",
+              "ua": "Вона чекала на свою подругу.",
+              "audio": "les32-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Не gekookd і не gewachtt. Ge- це слабкий склад, g як х у хата (Les 1); наголос на основі: ge-KOOKT."
+        },
+        {
+          "form": "-d: woon, leer, luister, hoor, speel",
+          "when_ua": "Основа на n, r, l або іншу літеру поза 't kofschip: ge- + основа + -d.",
+          "examples": [
+            {
+              "nl": "Ik **heb** in de stad **gewoond**.",
+              "ua": "Я жила в місті.",
+              "audio": "les32-rule-07.mp3"
+            },
+            {
+              "nl": "Jij **hebt** Engels **geleerd**.",
+              "ua": "Ти вчила англійську.",
+              "audio": "les32-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Кінцеве -d звучить як [t], як у російському «хлеб» (тут спирайся на російську, не на українську), але пишемо d: gewoond, не gewoont. Не всі дієслова мають ge-: про це пізніше, не вгадуй."
+        }
+      ],
+      "points_ua": [
+        "Ge- + основа + -t (t, k, f, s, ch, p) або -d (усе інше).",
+        "Перевір: woonden - gewoond, fietsten - gefietst."
+      ]
+    },
+    {
+      "title_ua": "Рамка: hebben друге, дієприкметник у кінці",
+      "summary_ua": "Voltooid tijd це рамка (verb bracket, Les 7): hebben стоїть на другому місці, дієприкметник у самому кінці, а все інше стоїть між ними: час, місце, об'єкт. Так само працюють модальне дієслово з інфінітивом (Les 7) і відокремлюване дієслово (Les 4): друга частина йде в кінець.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Усе інше між hebben і дієприкметником",
+          "when_ua": "Час, місце, об'єкт: усе це стоїть між двома частинами рамки.",
+          "examples": [
+            {
+              "nl": "Wij **hebben** vandaag thuis een taart **gemaakt**.",
+              "ua": "Сьогодні вдома ми зробили торт.",
+              "audio": "les32-rule-09.mp3"
+            },
+            {
+              "nl": "Ik **heb** gisteren op school Nederlands **geleerd**.",
+              "ua": "Вчора в школі я вчила нідерландську.",
+              "audio": "les32-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Звичайний порядок: місце перед дієприкметником. Не Ik heb gewoond in de stad і не Ik heb geleerd Nederlands. Українською порядок вільний, нідерландською ні."
+        },
+        {
+          "form": "Wachten op: op теж між ними",
+          "when_ua": "Op з wachten op (Les 9) лишається, і op + іменник стоїть перед дієприкметником.",
+          "examples": [
+            {
+              "nl": "Ik **heb** op mijn vader **gewacht**.",
+              "ua": "Я чекала на тата.",
+              "audio": "les32-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Звичайно так: op mijn vader стоїть перед gewacht, а не після нього. Так само naar muziek geluisterd."
+        }
+      ],
+      "points_ua": [
+        "Hebben друге, дієприкметник у кінці, усе інше між ними.",
+        "Op mijn vader gewacht: op перед дієприкметником."
+      ]
+    },
+    {
+      "title_ua": "Ik wil werken чи Ik heb gewerkt",
+      "summary_ua": "У кінці речення можуть стояти два різні типи слів. Після модального дієслова (wil, kan, moet, Les 7) стоїть інфінітив: werken. Після hebben у voltooid tijd стоїть дієприкметник: gewerkt. Місце те саме, форма інша.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Модальне + інфінітив: werken",
+          "when_ua": "Wil, kan, moet, mag + інфінітив без ge-.",
+          "examples": [
+            {
+              "nl": "Ik **wil** **werken**.",
+              "ua": "Я хочу працювати.",
+              "audio": "les32-rule-12.mp3"
+            },
+            {
+              "nl": "Wij **willen** **fietsen**.",
+              "ua": "Ми хочемо їздити на велосипедах.",
+              "audio": "les32-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Як англійське I want to work і українське «хочу працювати»: тут рідна мова допомагає."
+        },
+        {
+          "form": "Hebben + дієприкметник: gewerkt",
+          "when_ua": "Heb, heeft, hebben + дієприкметник з ge-.",
+          "examples": [
+            {
+              "nl": "Ik **heb** **gewerkt**.",
+              "ua": "Я працювала.",
+              "audio": "les32-rule-14.mp3"
+            },
+            {
+              "nl": "Wij **hebben** **gefietst**.",
+              "ua": "Ми їздили на велосипедах.",
+              "audio": "les32-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Як англійське I have worked. Не Ik heb werken і не Ik wil gewerkt: після модального інфінітив, після hebben дієприкметник (так само помилка Ik had niet werken у Les 28)."
+        }
+      ],
+      "points_ua": [
+        "Wil / kan / moet + інфінітив: Ik wil werken.",
+        "Heb / heeft / hebben + дієприкметник: Ik heb gewerkt."
+      ]
+    },
+    {
+      "title_ua": "Gisteren heb ik gewerkt: інверсія, питання, niet і geen",
+      "summary_ua": "Коли час стоїть першим, hebben іде одразу за ним, а підмет після нього (V2, Les 26). Питання: hebben першим. Заперечення: niet стоїть перед дієприкметником, geen перед іменником без артикля. Дієприкметник усюди лишається в кінці.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Час першим: hebben друге, підмет третій",
+          "when_ua": "Vandaag, gisteren, vorige week, op zaterdag: далі hebben, потім підмет.",
+          "examples": [
+            {
+              "nl": "Vandaag **heb** ik soep **gekookt**.",
+              "ua": "Сьогодні я варила суп.",
+              "audio": "les32-rule-16.mp3"
+            },
+            {
+              "nl": "Op zaterdag **hebben** wij **gewerkt**.",
+              "ua": "У суботу ми працювали.",
+              "audio": "les32-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Не Vandaag ik heb soep gekookt. Між hebben і підметом нічого не стоїть: не Vandaag heb snel ik. Це той самий V2, що в Les 26."
+        },
+        {
+          "form": "Питання: hebben першим",
+          "when_ua": "Так/ні: hebben, підмет, ..., дієприкметник. З питальним словом: wat, hebben, підмет, дієприкметник.",
+          "examples": [
+            {
+              "nl": "**Heb** jij gisteren **gewerkt**?",
+              "ua": "Ти вчора працювала?",
+              "audio": "les32-rule-18.mp3"
+            },
+            {
+              "nl": "Wat **hebben** jullie **gemaakt**?",
+              "ua": "Що ви зробили?",
+              "audio": "les32-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Після jij -t зникає: Heb jij, не Hebt jij (як у Les 10). Дієприкметник лишається в кінці питання."
+        },
+        {
+          "form": "Niet і geen",
+          "when_ua": "Niet стоїть перед дієприкметником (після певного об'єкта). Geen стоїть перед іменником без артикля.",
+          "examples": [
+            {
+              "nl": "Ik **heb** de trein **niet** gehoord.",
+              "ua": "Я не почула потяг.",
+              "audio": "les32-rule-20.mp3"
+            },
+            {
+              "nl": "Wij **hebben** gisteren **niet** gewerkt.",
+              "ua": "Вчора ми не працювали.",
+              "audio": "les32-rule-21.mp3"
+            },
+            {
+              "nl": "Zij **heeft geen** foto gemaakt.",
+              "ua": "Вона не зробила жодного фото.",
+              "audio": "les32-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb niet soep gekookt: перед іменником без артикля стоїть geen (Les 2). Niet стоїть за певним об'єктом, але перед дієприкметником: de trein niet gehoord."
+        }
+      ],
+      "points_ua": [
+        "Gisteren heb ik gewerkt: hebben друге, підмет третій.",
+        "Heb jij gewerkt? Niet перед дієприкметником, geen перед іменником."
+      ]
+    },
+    {
+      "title_ua": "Gekocht і gelachen: два винятки",
+      "summary_ua": "Не всі дієприкметники будуються за правилом ge- + основа + -t / -d. Kopen і lachen мають власні форми: gekocht і gelachen. Їх просто вчимо як окремі слова, а не виводимо з правила. Інші винятки прийдуть пізніше, по одному.",
+      "see": "Les 8",
+      "compare": [
+        {
+          "form": "Kopen: gekocht",
+          "when_ua": "Не gekoopt. У gekocht змінюється основа: p стає ch.",
+          "examples": [
+            {
+              "nl": "Mijn moeder **heeft** kaas **gekocht**.",
+              "ua": "Моя мама купила сир.",
+              "audio": "les32-rule-23.mp3"
+            },
+            {
+              "nl": "Zij **hebben** appels **gekocht**.",
+              "ua": "Вони купили яблука.",
+              "audio": "les32-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Ch це [x], як х у хата (Les 1); o коротка. Ge-KOCHT, приблизно «хе-КОХТ». Ти вже бачила, що kopen не правильне дієслово (Les 27: не koopte)."
+        },
+        {
+          "form": "Lachen: gelachen",
+          "when_ua": "Не gelacht. Дієприкметник закінчується на -en, як інфінітив.",
+          "examples": [
+            {
+              "nl": "De kinderen **hebben** **gelachen**.",
+              "ua": "Діти сміялися.",
+              "audio": "les32-rule-25.mp3"
+            },
+            {
+              "nl": "Hij **heeft** niet **gelachen**.",
+              "ua": "Він не сміявся.",
+              "audio": "les32-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Gelachen не змінюється: hij heeft gelachen, wij hebben gelachen. Порядок той самий: hebben друге, дієприкметник у кінці, niet перед ним."
+        }
+      ],
+      "points_ua": [
+        "Kopen: gekocht, не gekoopt.",
+        "Lachen: gelachen, не gelacht."
+      ]
+    },
+    {
+      "title_ua": "Voltooid tijd чи woonde?",
+      "summary_ua": "У нідерландській два минулі часи: voltooid tijd (heb gewoond) і простий минулий (woonde, Les 27). Грубе правило: про подію, що сталася, у розмові кажуть voltooid tijd; was, had, kon, wilde лишаються простими. Це спрощення: у справжній мові вибір залежить від контексту, часто підходять обидві форми.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Was, had, kon: простий минулий",
+          "when_ua": "Zijn, hebben і модальні дієслова майже завжди в простому минулому: was, had, kon, wilde (Les 26, Les 28).",
+          "examples": [
+            {
+              "nl": "Gisteren **was** ik moe.",
+              "ua": "Вчора я була втомлена.",
+              "audio": "les32-rule-27.mp3"
+            },
+            {
+              "nl": "Wij **hadden** geen tijd.",
+              "ua": "У нас не було часу.",
+              "audio": "les32-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Тут voltooid tijd майже не використовують: кажуть was, had, kon."
+        },
+        {
+          "form": "Подія, що сталася: voltooid tijd",
+          "when_ua": "Про те, що сталося вчора, минулого тижня чи в суботу, у розмові кажуть voltooid tijd.",
+          "examples": [
+            {
+              "nl": "Gisteren **heb** ik veel **gewerkt**.",
+              "ua": "Вчора я багато працювала.",
+              "audio": "les32-rule-29.mp3"
+            },
+            {
+              "nl": "Vorige week **hebben** wij Nederlands **geleerd**.",
+              "ua": "Минулого тижня ми вчили нідерландську.",
+              "audio": "les32-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Увага, англійська тут заважає: I have worked не сполучається з yesterday, а нідерландське Gisteren heb ik gewerkt цілком нормальне. Не перекладай voltooid tijd механічно з англійської."
+        },
+        {
+          "form": "Vroeger woonde ik чи Ik heb gewoond",
+          "when_ua": "Обидві форми правильні. Woonde добре про давній стан чи звичку (vroeger, Les 27); heb gewoond про факт у житті.",
+          "examples": [
+            {
+              "nl": "Vroeger **woonde** ik in Kroatië.",
+              "ua": "Раніше я жила в Хорватії.",
+              "audio": "les32-rule-31.mp3"
+            },
+            {
+              "nl": "Ik **heb** in Kroatië **gewoond**.",
+              "ua": "Я жила в Хорватії.",
+              "audio": "les32-rule-32.mp3"
+            }
+          ],
+          "note_ua": "Різниця тонка й залежить від ситуації; на цьому етапі досить знати, що обидві існують і обидві природні. З часом відчуєш, коли яка."
+        }
+      ],
+      "points_ua": [
+        "Was, had, kon: простий минулий.",
+        "Подія в розмові: heb gewerkt. Обидві форми правильні."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik heb gisteren gewerkt.",
+      "ua": "Я вчора працювала.",
+      "audio": "les32-example-01.mp3"
+    },
+    {
+      "nl": "Wij hebben in Nederland gewoond.",
+      "ua": "Ми жили в Нідерландах.",
+      "audio": "les32-example-02.mp3"
+    },
+    {
+      "nl": "Zij heeft naar muziek geluisterd.",
+      "ua": "Вона слухала музику.",
+      "audio": "les32-example-03.mp3"
+    },
+    {
+      "nl": "Ik heb de trein gehoord.",
+      "ua": "Я почула потяг.",
+      "audio": "les32-example-04.mp3"
+    },
+    {
+      "nl": "De kinderen hebben in de tuin gespeeld.",
+      "ua": "Діти гралися в саду.",
+      "audio": "les32-example-05.mp3"
+    },
+    {
+      "nl": "Mijn vader heeft soep gekookt.",
+      "ua": "Мій тато зварив суп.",
+      "audio": "les32-example-06.mp3"
+    },
+    {
+      "nl": "Heb jij Nederlands geleerd?",
+      "ua": "Ти вчила нідерландську?",
+      "audio": "les32-example-07.mp3"
+    },
+    {
+      "nl": "Wij hebben op de trein gewacht.",
+      "ua": "Ми чекали на потяг.",
+      "audio": "les32-example-08.mp3"
+    },
+    {
+      "nl": "Zij heeft een foto gemaakt.",
+      "ua": "Вона зробила фото.",
+      "audio": "les32-example-09.mp3"
+    },
+    {
+      "nl": "Gisteren heb ik brood gekocht.",
+      "ua": "Вчора я купила хліб.",
+      "audio": "les32-example-10.mp3"
+    },
+    {
+      "nl": "Wij hebben veel gelachen.",
+      "ua": "Ми багато сміялися.",
+      "audio": "les32-example-11.mp3"
+    },
+    {
+      "nl": "Hij heeft in het park gefietst.",
+      "ua": "Він їздив на велосипеді в парку.",
+      "audio": "les32-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Een lange zaterdag",
+    "title_ua": "Довга субота",
+    "highlight": [],
+    "sentences": [
+      {
+        "nl": "Zaterdag was een lange dag.",
+        "ua": "Субота була довгим днем.",
+        "audio": "les32-reading-01.mp3"
+      },
+      {
+        "nl": "Ik heb in de winkel gewerkt.",
+        "ua": "Я працювала в магазині.",
+        "audio": "les32-reading-02.mp3"
+      },
+      {
+        "nl": "Daarna heb ik kaas gekocht.",
+        "ua": "Потім я купила сир.",
+        "audio": "les32-reading-03.mp3"
+      },
+      {
+        "nl": "Ik heb op de bus gewacht.",
+        "ua": "Я чекала на автобус.",
+        "audio": "les32-reading-04.mp3"
+      },
+      {
+        "nl": "In de bus heb ik naar muziek geluisterd.",
+        "ua": "В автобусі я слухала музику.",
+        "audio": "les32-reading-05.mp3"
+      },
+      {
+        "nl": "Thuis heeft mijn zus rijst gekookt.",
+        "ua": "Вдома моя сестра варила рис.",
+        "audio": "les32-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn broer heeft Engels geleerd.",
+        "ua": "Мій брат вчив англійську.",
+        "audio": "les32-reading-07.mp3"
+      },
+      {
+        "nl": "Mijn zus en ik hebben veel gelachen.",
+        "ua": "Ми з сестрою багато сміялися.",
+        "audio": "les32-reading-08.mp3"
+      },
+      {
+        "nl": "Ik heb de kinderen in de tuin gehoord.",
+        "ua": "Я чула дітей у саду.",
+        "audio": "les32-reading-09.mp3"
+      },
+      {
+        "nl": "Ik heb niet gefietst, want ik was moe.",
+        "ua": "Я не їздила на велосипеді, бо була втомлена.",
+        "audio": "les32-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат вчора працював.",
+          "accepted": [
+            "Mijn broer heeft gisteren gewerkt.",
+            "Gisteren heeft mijn broer gewerkt."
+          ]
+        },
+        {
+          "prompt": "Мої батьки жили в Україні.",
+          "accepted": [
+            "Mijn ouders hebben in Oekraïne gewoond."
+          ]
+        },
+        {
+          "prompt": "Я слухала маму.",
+          "accepted": [
+            "Ik heb naar mijn moeder geluisterd."
+          ]
+        },
+        {
+          "prompt": "Ти чула телефон?",
+          "accepted": [
+            "Heb jij de telefoon gehoord?",
+            "Heb je de telefoon gehoord?"
+          ]
+        },
+        {
+          "prompt": "Мій син грався в парку.",
+          "accepted": [
+            "Mijn zoon heeft in het park gespeeld."
+          ]
+        },
+        {
+          "prompt": "Ми не варили суп.",
+          "accepted": [
+            "Wij hebben geen soep gekookt.",
+            "We hebben geen soep gekookt."
+          ]
+        },
+        {
+          "prompt": "Ми вчили російську.",
+          "accepted": [
+            "Wij hebben Russisch geleerd.",
+            "We hebben Russisch geleerd."
+          ]
+        },
+        {
+          "prompt": "Вони чекали на маму.",
+          "accepted": [
+            "Zij hebben op hun moeder gewacht.",
+            "Ze hebben op hun moeder gewacht."
+          ]
+        },
+        {
+          "prompt": "Мій дідусь зробив помилку.",
+          "accepted": [
+            "Mijn opa heeft een fout gemaakt."
+          ]
+        },
+        {
+          "prompt": "Я не почула машину.",
+          "accepted": [
+            "Ik heb de auto niet gehoord."
+          ]
+        },
+        {
+          "prompt": "Діти вчора їздили на велосипедах.",
+          "accepted": [
+            "De kinderen hebben gisteren gefietst.",
+            "Gisteren hebben de kinderen gefietst."
+          ]
+        },
+        {
+          "prompt": "Ти вчора не працювала.",
+          "accepted": [
+            "Jij hebt gisteren niet gewerkt.",
+            "Je hebt gisteren niet gewerkt.",
+            "Gisteren heb jij niet gewerkt.",
+            "Gisteren heb je niet gewerkt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: hebben або дієприкметник",
+      "bank": [
+        "heb",
+        "hebt",
+        "heeft",
+        "hebben",
+        "gewerkt",
+        "gewoond",
+        "geluisterd",
+        "gekookt",
+        "gespeeld",
+        "gehoord",
+        "gewacht",
+        "gefietst"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ gisteren gewerkt.",
+          "hint": "Я вчора працювала",
+          "accepted": [
+            [
+              "heb"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder ___ in de winkel gewerkt.",
+          "hint": "Моя мама працювала в магазині",
+          "accepted": [
+            [
+              "heeft"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ouders ___ in de stad gewoond.",
+          "hint": "Мої батьки жили в місті",
+          "accepted": [
+            [
+              "hebben"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ Nederlands geleerd.",
+          "hint": "Ти вчила нідерландську",
+          "accepted": [
+            [
+              "hebt"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus heeft in Kroatië ___.",
+          "hint": "Моя сестра жила в Хорватії",
+          "accepted": [
+            [
+              "gewoond"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer heeft naar de muziek ___.",
+          "hint": "Мій брат слухав музику",
+          "accepted": [
+            [
+              "geluisterd"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vader heeft rijst ___.",
+          "hint": "Мій тато зварив рис",
+          "accepted": [
+            [
+              "gekookt"
+            ]
+          ]
+        },
+        {
+          "text": "De kinderen hebben in het bos ___.",
+          "hint": "Діти гралися в лісі",
+          "accepted": [
+            [
+              "gespeeld"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft de bus niet ___.",
+          "hint": "Вона не почула автобус",
+          "accepted": [
+            [
+              "gehoord"
+            ]
+          ]
+        },
+        {
+          "text": "De kinderen hebben op hun vader ___.",
+          "hint": "Діти чекали на свого тата",
+          "accepted": [
+            [
+              "gewacht"
+            ]
+          ]
+        },
+        {
+          "text": "Jullie hebben vandaag veel ___.",
+          "hint": "Сьогодні ви багато їздили на велосипедах",
+          "accepted": [
+            [
+              "gefietst"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn opa heeft veel ___.",
+          "hint": "Мій дідусь багато працював",
+          "accepted": [
+            [
+              "gewerkt"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik werk in de keuken.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Ik heb in de keuken gewerkt."
+          ]
+        },
+        {
+          "prompt": "Wij wonen in de stad.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Wij hebben in de stad gewoond.",
+            "We hebben in de stad gewoond."
+          ]
+        },
+        {
+          "prompt": "Ik leer Nederlands.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Ik heb Nederlands geleerd."
+          ]
+        },
+        {
+          "prompt": "Hij luistert naar de moeder.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Hij heeft naar de moeder geluisterd."
+          ]
+        },
+        {
+          "prompt": "Ik hoor de kinderen.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Ik heb de kinderen gehoord."
+          ]
+        },
+        {
+          "prompt": "De kinderen spelen in de kamer.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "De kinderen hebben in de kamer gespeeld."
+          ]
+        },
+        {
+          "prompt": "Wij maken een taart.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Wij hebben een taart gemaakt.",
+            "We hebben een taart gemaakt."
+          ]
+        },
+        {
+          "prompt": "Wij fietsen veel.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Wij hebben veel gefietst.",
+            "We hebben veel gefietst."
+          ]
+        },
+        {
+          "prompt": "Ik werk veel.",
+          "cue": "-> voltooid tijd, gisteren першим",
+          "accepted": [
+            "Gisteren heb ik veel gewerkt."
+          ]
+        },
+        {
+          "prompt": "Jij hebt gewerkt.",
+          "cue": "-> питання",
+          "accepted": [
+            "Heb jij gewerkt?",
+            "Heb je gewerkt?"
+          ]
+        },
+        {
+          "prompt": "Ik heb de bus gehoord.",
+          "cue": "-> заперечення (niet)",
+          "accepted": [
+            "Ik heb de bus niet gehoord."
+          ]
+        },
+        {
+          "prompt": "Zij heeft soep gekookt.",
+          "cue": "-> заперечення (geen)",
+          "accepted": [
+            "Zij heeft geen soep gekookt.",
+            "Ze heeft geen soep gekookt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik heb vroeger in Nederland ___.",
+          "cue": "wonen (дієприкметник)",
+          "accepted": [
+            "gewoond"
+          ]
+        },
+        {
+          "text": "Wij hebben gisteren ___.",
+          "cue": "werken (дієприкметник)",
+          "accepted": [
+            "gewerkt"
+          ]
+        },
+        {
+          "text": "Zij heeft veel Nederlands ___.",
+          "cue": "leren (дієприкметник)",
+          "accepted": [
+            "geleerd"
+          ]
+        },
+        {
+          "text": "De kinderen hebben naar muziek ___.",
+          "cue": "luisteren (дієприкметник)",
+          "accepted": [
+            "geluisterd"
+          ]
+        },
+        {
+          "text": "Ik heb de telefoon niet ___.",
+          "cue": "horen (дієприкметник)",
+          "accepted": [
+            "gehoord"
+          ]
+        },
+        {
+          "text": "Mijn zoon heeft in de tuin ___.",
+          "cue": "spelen (дієприкметник)",
+          "accepted": [
+            "gespeeld"
+          ]
+        },
+        {
+          "text": "Wij hebben in het park ___.",
+          "cue": "fietsen (дієприкметник)",
+          "accepted": [
+            "gefietst"
+          ]
+        },
+        {
+          "text": "Mijn vader heeft kip ___.",
+          "cue": "koken (дієприкметник)",
+          "accepted": [
+            "gekookt"
+          ]
+        },
+        {
+          "text": "Jullie hebben een fout ___.",
+          "cue": "maken (дієприкметник)",
+          "accepted": [
+            "gemaakt"
+          ]
+        },
+        {
+          "text": "Ik heb op de trein ___.",
+          "cue": "wachten (дієприкметник)",
+          "accepted": [
+            "gewacht"
+          ]
+        },
+        {
+          "text": "Jij ___ naar muziek geluisterd.",
+          "cue": "hebben (теперішній час)",
+          "accepted": [
+            "hebt"
+          ]
+        },
+        {
+          "text": "___ jij gisteren in de winkel gewerkt?",
+          "cue": "hebben (теперішній час)",
+          "accepted": [
+            "Heb",
+            "heb"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши дієприкметник",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "verb"
+      ]
+    }
+  ]
+}
