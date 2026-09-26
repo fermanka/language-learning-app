@@ -116,7 +116,7 @@ t('words page: a reason is hidden until the "?" is clicked, then shown, then hid
 const flaggedAll = window.LESSONS.flatMap((L) => L.notes.filter((n) => n.check));
 const openBtn = byId['check-box'].all().find((e) => e.tag === 'button');
 const checkPanel = byId['check-box'].all().find((e) => e.className === 'check-panel');
-t('check list: the button shows how many words are marked', !!openBtn && openBtn.textContent.includes(`(${flaggedAll.length})`) && flaggedAll.length === 2);
+t('check list: the button shows how many words are marked', !!openBtn && openBtn.textContent.includes(`(${flaggedAll.length})`) && flaggedAll.some((n) => n.check === 'TEST-NOUN reason') && flaggedAll.some((n) => n.check === 'TEST-VERB reason'));
 t('check list: it starts closed', checkPanel.hidden === true);
 openBtn.onclick();
 t('check list: the button opens it and every reason is in it', checkPanel.hidden === false && flaggedAll.every((n) => checkPanel.textContent.includes(n.check)));
