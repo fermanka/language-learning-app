@@ -1,0 +1,1205 @@
+{
+  "id": "nl-les-28",
+  "lang": "nl",
+  "order": 28,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-17be8941",
+      "type": "verb",
+      "lemma": "kon / konden",
+      "ua": "міг, могла, могли (kunnen у минулому)",
+      "audio": "kon-konden.mp3",
+      "audio_text": "kon / konden",
+      "dictation": false,
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kon",
+          "audio": "ik-kon.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "kon",
+          "audio": "jij-kon.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "kon",
+          "audio": "u-kon.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "kon",
+          "audio": "hij-kon.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "konden",
+          "audio": "wij-konden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "konden",
+          "audio": "jullie-konden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "konden",
+          "audio": "zij-konden.mp3"
+        }
+      ],
+      "explain_ua": "(Ik kon niet slapen = я не могла спати; Wij konden niet slapen = ми не могли спати). Це kunnen (Les 7) у минулому: kon (ik, jij, u, hij, zij, het) і konden (wij, jullie, zij). Теперішній час ти вже знаєш (kan, kunt, kunnen), тепер до нього додалися kon і konden. Закінчення -t немає: jij kon, не jij kont. Форма одна для всіх родів: українське «міг» і «могла» це однаково ik kon. Kon це здатність або змога (я вмію, я маю змогу); дозвіл виражає mocht (є окрема картка). Форму треба запам'ятати: u в kunnen стає o в kon, за правилом це не вивести. O коротке [ɔ]; k без придиху, як у слов'янських мовах: приблизно «кон» і «кон-ден»"
+    },
+    {
+      "id": "nl-f7be866d",
+      "type": "verb",
+      "lemma": "wilde / wilden",
+      "ua": "хотів, хотіла, хотіли (willen у минулому)",
+      "audio": "wilde-wilden.mp3",
+      "audio_text": "wilde / wilden",
+      "dictation": false,
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "wilde",
+          "audio": "ik-wilde.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "wilde",
+          "audio": "jij-wilde.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "wilde",
+          "audio": "u-wilde.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "wilde",
+          "audio": "hij-wilde.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "wilden",
+          "audio": "wij-wilden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "wilden",
+          "audio": "jullie-wilden.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "wilden",
+          "audio": "zij-wilden.mp3"
+        }
+      ],
+      "explain_ua": "(Ik wilde slapen = я хотіла спати; Wij wilden thuis blijven = ми хотіли залишитися вдома). Це willen (Les 7) у минулому: wilde (ik, jij, u, hij, zij, het) і wilden (wij, jullie, zij). Це майже як woonde і woonden (Les 27): основа wil і -de, -den. Закінчення -t немає: jij wilde, не jij wildt. Форма одна для всіх родів: я хотів і я хотіла це ik wilde. W це [ʋ] (Les 1); i коротке [ɪ], ближче до «и»: приблизно «вил-де» і «вил-ден»"
+    },
+    {
+      "id": "nl-7464637e",
+      "type": "verb",
+      "lemma": "moest / moesten",
+      "ua": "мусив, мусила, мусили (moeten у минулому)",
+      "audio": "moest-moesten.mp3",
+      "audio_text": "moest / moesten",
+      "dictation": false,
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "moest",
+          "audio": "ik-moest.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "moest",
+          "audio": "jij-moest.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "moest",
+          "audio": "u-moest.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "moest",
+          "audio": "hij-moest.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "moesten",
+          "audio": "wij-moesten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "moesten",
+          "audio": "jullie-moesten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "moesten",
+          "audio": "zij-moesten.mp3"
+        }
+      ],
+      "explain_ua": "(Ik moest werken = я мусила працювати; Wij moesten vroeg opstaan = ми мусили рано вставати). Це moeten (Les 7) у минулому: moest (ik, jij, u, hij, zij, het) і moesten (wij, jullie, zij). Форма jij moest без другого -t: закінчення -t немає. Так само перекладай англійське «had to»: I had to work це Ik moest werken (не Ik had ...: є окрема картка). Oe це [u], як у boek (Les 1); st наприкінці: приблизно «муст» і «мус-тен»"
+    },
+    {
+      "id": "nl-c3aee76e",
+      "type": "verb",
+      "lemma": "mocht / mochten",
+      "ua": "мав дозвіл, можна було (mogen у минулому)",
+      "audio": "mocht-mochten.mp3",
+      "audio_text": "mocht / mochten",
+      "dictation": false,
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "mocht",
+          "audio": "ik-mocht.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "mocht",
+          "audio": "jij-mocht.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "mocht",
+          "audio": "u-mocht.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "mocht",
+          "audio": "hij-mocht.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "mochten",
+          "audio": "wij-mochten.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "mochten",
+          "audio": "jullie-mochten.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "mochten",
+          "audio": "zij-mochten.mp3"
+        }
+      ],
+      "explain_ua": "(Ik mocht niet slapen = мені не можна було спати; De kinderen mochten buiten spelen = дітям було можна гратися надворі). Це mogen (Les 7) у минулому: mocht (ik, jij, u, hij, zij, het) і mochten (wij, jullie, zij). Mocht це дозвіл: хтось дозволив або правило дозволяло. Українське «можна було» це mocht. Здатність чи змога це kon (є окрема картка). У формі jij mocht уже є t, другого немає. O коротке [ɔ]; ch це [x], як х у хата (Les 1): приблизно «мохт» і «мох-тен»"
+    },
+    {
+      "id": "nl-b5ccc8cd",
+      "type": "verb",
+      "lemma": "slapen",
+      "ua": "спати",
+      "audio": "slapen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "slaap",
+          "audio": "ik-slaap.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "slaapt",
+          "audio": "jij-slaapt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "slaapt",
+          "audio": "u-slaapt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "slaapt",
+          "audio": "hij-slaapt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "slapen",
+          "audio": "wij-slapen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "slapen",
+          "audio": "jullie-slapen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "slapen",
+          "audio": "zij-slapen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik kon niet slapen = я не могла спати; Het kind mocht slapen = дитині можна було спати). Slapen це «спати». Таблиця показує теперішній час: ik slaap, jij slaapt, hij slaapt, wij slapen; у формі slaap голосна подвоюється, як у loop (Les 7). У реченнях цього уроку слово лише як інфінітив після модального дієслова: він стоїть у кінці (Ik wilde slapen). Схоже на англійське sleep: підказка для пам'яті. A довге [aː], бо склад відкритий (sla-pen), як maan і manen (Les 1); sl це [sl]; наголос на першому складі: приблизно «сла-пен»"
+    },
+    {
+      "id": "nl-cde6411e",
+      "type": "verb",
+      "lemma": "helpen",
+      "ua": "допомагати, допомогти",
+      "audio": "helpen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "help",
+          "audio": "ik-help.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "helpt",
+          "audio": "jij-helpt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "helpt",
+          "audio": "u-helpt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "helpt",
+          "audio": "hij-helpt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "helpen",
+          "audio": "wij-helpen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "helpen",
+          "audio": "jullie-helpen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "helpen",
+          "audio": "zij-helpen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik wilde mijn moeder helpen = я хотіла допомогти мамі; Hij kon de man niet helpen = він не міг допомогти чоловікові). Helpen це «допомагати». Українське слово вимагає давального відмінка (мамі, чоловікові); нідерландське просто іменник, без відмінка і без прийменника: de man helpen. Відмінків у нідерландській немає. Таблиця показує теперішній час: ik help, jij helpt, hij helpt, wij helpen. У реченнях цього уроку слово лише як інфінітив після модального дієслова: він у кінці. Схоже на англійське help: підказка для пам'яті. E коротке [ɛ], бо склад закритий (hel-pen); h це легкий видих, як українське г, не х: приблизно «хел-пен»"
+    },
+    {
+      "id": "nl-9e3ddc37",
+      "type": "verb",
+      "lemma": "blijven",
+      "ua": "залишатися, лишатися",
+      "audio": "blijven.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "blijf",
+          "audio": "ik-blijf.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "blijft",
+          "audio": "jij-blijft.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "blijft",
+          "audio": "u-blijft.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "blijft",
+          "audio": "hij-blijft.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "blijven",
+          "audio": "wij-blijven.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "blijven",
+          "audio": "jullie-blijven.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "blijven",
+          "audio": "zij-blijven.mp3"
+        }
+      ],
+      "explain_ua": "(Ik moest thuis blijven = я мусила залишитися вдома; Zij wilden in Nederland blijven = вони хотіли залишитися в Нідерландах). Blijven це «залишатися, лишатися» на місці: thuis blijven, in de stad blijven. Місце йде перед blijven, як naar huis перед gaan. Таблиця показує теперішній час: ik blijf, jij blijft, hij blijft, wij blijven. У формах blijf і blijft кінцеве v пишеться f, бо в кінці складу дзвінкий звук глухне: як у російській «хлеб» [хлеп] (в українській так не буває, тут вказуємо на російську). У реченнях цього уроку слово лише як інфінітив після модального дієслова: він у кінці. Ij це [ɛi], як у wijn (Les 1); v між голосними м'яке [v]; наголос на першому складі: приблизно «блей-вен»"
+    },
+    {
+      "id": "nl-fc971a43",
+      "type": "function",
+      "lemma": "helaas",
+      "ua": "на жаль",
+      "audio": "helaas.mp3",
+      "explain_ua": "(Helaas kon ik niet komen = на жаль, я не могла прийти). Helaas це «на жаль»: коментар до всього речення. Форма не змінюється. Ми вчимо його на першому місці, і тоді дієслово одразу за ним, а потім підмет: Helaas kon ik niet komen. Не Helaas ik kon: так само, як після gisteren і vroeger (Les 27). H це легкий видих; aa довге [aː]; наголос на другому складі: he-LAAS, приблизно «хе-ЛАС»"
+    },
+    {
+      "id": "nl-ef8a22be",
+      "type": "function",
+      "lemma": "misschien",
+      "ua": "можливо, може",
+      "audio": "misschien.mp3",
+      "explain_ua": "(Misschien was de man ziek = можливо, чоловік був хворий). Misschien це «можливо»: ти не певна. Форма не змінюється. Стоїть першим, і тоді дієслово одразу за ним, потім підмет: Misschien wilde hij thuis blijven. Не Misschien hij wilde. Українське «може» це і дієслово (він може прийти = hij kan komen), і слово «можливо». У нідерландській це два різні слова: kan і misschien. Sch у misschien це [sx]: s і потім [x], як х у хата (Les 1); ie це [i]; наголос на другому складі: приблизно «міс-ХІН»"
+    },
+    {
+      "id": "nl-4e883508",
+      "type": "function",
+      "lemma": "eindelijk",
+      "ua": "нарешті",
+      "audio": "eindelijk.mp3",
+      "explain_ua": "(Eindelijk had ik vakantie = нарешті в мене була відпустка). Eindelijk це «нарешті»: ти довго чекала, і ось. Форма не змінюється. Стоїть першим, і тоді дієслово одразу за ним: Eindelijk mocht ik slapen. Слово пов'язане з eind = кінець: підказка для пам'яті, як англійське end. Ei це [ɛi], як у het ei (Les 8); -lijk наприкінці слабке «лек»; наголос на першому складі: приблизно «ЕЙН-де-лек»"
+    },
+    {
+      "id": "nl-5fe705f2",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vakantie",
+      "plural": [
+        "vakanties"
+      ],
+      "ua": "відпустка, канікули",
+      "audio": "de-vakantie.mp3",
+      "explain_ua": "(Wij hadden een lange vakantie = у нас була довга відпустка; De vakanties waren leuk = відпустки були класні). Vakantie це «відпустка» дорослих і «канікули» дітей: одне слово. Множина vakanties (-s). Схоже на англійське vacation: підказка для пам'яті. Відпустка взагалі, як час без роботи, стоїть без артикля після had і hadden (Ik had vakantie = у мене була відпустка); одна конкретна відпустка з een або de (een lange vakantie, de vakantie). Наголос на другому складі; tie звучить як «сі»: va-KAN-tie, приблизно «ва-КАН-сі»"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Kon, wilde, moest, mocht: модальні в минулому",
+      "summary_ua": "Модальні дієслова з Les 7 мають минулий час: kunnen це kon / konden, willen це wilde / wilden, moeten це moest / moesten, mogen це mocht / mochten. Однина (ik, jij, u, hij, zij, het) має одну форму, множина (wij, jullie, zij) ще одну. Закінчення -t немає. Ці форми треба вивчити, як was і had (Les 26).",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Однина: kon, wilde, moest, mocht",
+          "when_ua": "ik, jij, u, hij, zij, het: одна форма для всіх, як was і had (Les 26).",
+          "examples": [
+            {
+              "nl": "Ik **wilde** koffie drinken.",
+              "ua": "Я хотіла пити каву.",
+              "audio": "les28-rule-01.mp3"
+            },
+            {
+              "nl": "Hij **moest** werken.",
+              "ua": "Він мусив працювати.",
+              "audio": "les28-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Не jij kont і не jij wildt: закінчення -t немає. Українське «міг» і «могла» це однаково ik kon: роду немає. Ще одне: у розмові ти також почуєш wou замість wilde і wouden замість wilden. Це те саме слово. Ми його не вчимо і не вправляємося з ним, просто знай, що воно є."
+        },
+        {
+          "form": "Множина: konden, wilden, moesten, mochten",
+          "when_ua": "wij, jullie, zij та іменник у множині: ще одна форма, з -en наприкінці.",
+          "examples": [
+            {
+              "nl": "Wij **konden** niet slapen.",
+              "ua": "Ми не могли спати.",
+              "audio": "les28-rule-03.mp3"
+            },
+            {
+              "nl": "De kinderen **mochten** niet buiten spelen.",
+              "ua": "Дітям не можна було гратися надворі.",
+              "audio": "les28-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Zij kon це «вона могла», zij konden це «вони могли»: закінчення показує, хто. De man kon, De mannen konden: підмет-іменник у множині теж дає форму на -en."
+        }
+      ],
+      "points_ua": [
+        "kon / konden, wilde / wilden, moest / moesten, mocht / mochten.",
+        "Без -t: jij kon, jij mocht."
+      ]
+    },
+    {
+      "title_ua": "Kon чи mocht: змога і дозвіл",
+      "summary_ua": "Українське «не міг» може означати і «не було змоги», і «не дозволяли». Нідерландська ділить це на два слова: kon це здатність або змога, mocht це дозвіл або правило. Так само, як kunnen і mogen у теперішньому (Les 7).",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Kon: змога, вміння",
+          "when_ua": "Ти не мала змоги: не вміла, була хвора, не було часу.",
+          "examples": [
+            {
+              "nl": "Ik **kon** niet zwemmen.",
+              "ua": "Я не вміла плавати.",
+              "audio": "les28-rule-05.mp3"
+            },
+            {
+              "nl": "Zij **kon** goed fietsen.",
+              "ua": "Вона добре вміла їздити на велосипеді.",
+              "audio": "les28-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Питання до себе: чи була в мене змога? Тоді kon."
+        },
+        {
+          "form": "Mocht: дозвіл, правило",
+          "when_ua": "Хтось або щось забороняло чи дозволяло: правило, мама, лікар.",
+          "examples": [
+            {
+              "nl": "Ik **mocht** niet zwemmen.",
+              "ua": "Мені не можна було плавати.",
+              "audio": "les28-rule-07.mp3"
+            },
+            {
+              "nl": "Wij **mochten** niet in de tuin spelen.",
+              "ua": "Нам не можна було гратися в саду.",
+              "audio": "les28-rule-08.mp3"
+            },
+            {
+              "nl": "Hij **mocht** geen bier drinken.",
+              "ua": "Йому не можна було пити пиво.",
+              "audio": "les28-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Українське «можна було» це mocht. Ik kon niet zwemmen це «я не вміла», Ik mocht niet zwemmen це «мені заборонили». Питання до себе: чи хтось не дозволяв? Тоді mocht. Це головна різниця; у розмові kunnen іноді вживають і про дозвіл, але тобі поки що потрібне саме просте розрізнення."
+        }
+      ],
+      "points_ua": [
+        "Kon: змога, вміння.",
+        "Mocht: дозвіл, правило."
+      ]
+    },
+    {
+      "title_ua": "Модальне друге, інфінітив у кінці: у минулому так само",
+      "summary_ua": "Нічого нового: модальне дієслово в минулому стоїть на другому місці, а інфінітив іде в кінець речення (Les 7). Niet стоїть перед інфінітивом або після певного об'єкта. Коли час стоїть першим, дієслово одразу за ним, а потім підмет.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Ствердження: модальне друге, інфінітив у кінці",
+          "when_ua": "Усе інше стоїть між модальним і інфінітивом.",
+          "examples": [
+            {
+              "nl": "Zij **wilde** de man **helpen**.",
+              "ua": "Вона хотіла допомогти чоловікові.",
+              "audio": "les28-rule-10.mp3"
+            },
+            {
+              "nl": "Wij **moesten** vroeg **opstaan**.",
+              "ua": "Ми мусили рано вставати.",
+              "audio": "les28-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Відокремлюване дієслово в кінці лишається цілим: opstaan, не op окремо (Les 4, Les 7). Так само як Ik wil vroeg opstaan."
+        },
+        {
+          "form": "Час першим: модальне, потім підмет",
+          "when_ua": "Gisteren, vorige week, vroeger: дієслово одразу за ними.",
+          "examples": [
+            {
+              "nl": "Gisteren **kon** ik niet **werken**.",
+              "ua": "Вчора я не могла працювати.",
+              "audio": "les28-rule-12.mp3"
+            },
+            {
+              "nl": "Vorige week **moest** zij thuis **blijven**.",
+              "ua": "Минулого тижня вона мусила залишитися вдома.",
+              "audio": "les28-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Не Gisteren ik kon niet werken. Так само, як Gisteren was ik moe (Les 26). Інфінітив (werken, blijven) лишається в кінці."
+        },
+        {
+          "form": "Питання: модальне першим",
+          "when_ua": "Дієслово першим, підмет після нього, інфінітив у кінці.",
+          "examples": [
+            {
+              "nl": "**Kon** jij gisteren **slapen**?",
+              "ua": "Ти могла вчора спати?",
+              "audio": "les28-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Не Kont jij?: закінчення -t немає в минулому."
+        },
+        {
+          "form": "Maar: два речення",
+          "when_ua": "Maar (Les 10) з'єднує два речення, і кожне має свій звичайний порядок: підмет, потім дієслово.",
+          "examples": [
+            {
+              "nl": "Zij wilde komen, **maar** zij mocht niet.",
+              "ua": "Вона хотіла прийти, але їй не можна було.",
+              "audio": "les28-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Не Maar mocht zij niet. Після mocht niet інфінітив можна не повторювати, бо ясно, про що мова. Так і звучить назва уроку: Ik wilde, maar ik kon niet."
+        }
+      ],
+      "points_ua": [
+        "Модальне друге, інфінітив у кінці: Gisteren kon ik niet werken.",
+        "Maar: підмет, потім дієслово, як завжди."
+      ]
+    },
+    {
+      "title_ua": "Helaas, misschien, eindelijk: дієслово друге",
+      "summary_ua": "Helaas (на жаль), misschien (можливо) і eindelijk (нарешті) на початку речення працюють як gisteren і vroeger: дієслово одразу за ними, потім підмет. Слово на початку це одне «місце», і дієслово завжди друге.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Helaas, misschien: дієслово друге",
+          "when_ua": "Слово-коментар стоїть першим, дієслово одразу за ним.",
+          "examples": [
+            {
+              "nl": "**Helaas** moest ik werken.",
+              "ua": "На жаль, я мусила працювати.",
+              "audio": "les28-rule-16.mp3"
+            },
+            {
+              "nl": "**Misschien** wilde hij thuis blijven.",
+              "ua": "Можливо, він хотів залишитися вдома.",
+              "audio": "les28-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Не Helaas ik moest werken. Українське «на жаль, я мусила» лишає підмет першим; нідерландська міняє порядок."
+        },
+        {
+          "form": "Eindelijk: те саме",
+          "when_ua": "Eindelijk теж стоїть першим, і дієслово за ним.",
+          "examples": [
+            {
+              "nl": "**Eindelijk** hadden wij vakantie.",
+              "ua": "Нарешті в нас була відпустка.",
+              "audio": "les28-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Vakantie без артикля після hadden: це відпустка взагалі, а не одна конкретна. Конкретна: een lange vakantie, de vakantie."
+        },
+        {
+          "form": "Misschien і теперішній час",
+          "when_ua": "Порядок той самий, у будь-якому часі.",
+          "examples": [
+            {
+              "nl": "**Misschien** kan hij morgen komen.",
+              "ua": "Можливо, він зможе прийти завтра.",
+              "audio": "les28-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Українське «може» це і дієслово (він може), і «можливо». У нідерландській це kan і misschien: два різні слова."
+        }
+      ],
+      "points_ua": [
+        "Helaas, misschien, eindelijk першими: дієслово друге.",
+        "Не Helaas ik moest."
+      ]
+    },
+    {
+      "title_ua": "Ik had niet werken: помилка",
+      "summary_ua": "Had (Les 26) це hebben: «мала, було в мене». Воно не модальне і не стоїть з інфінітивом. Щоб сказати «не могла працювати» чи «мусила працювати», потрібні kon і moest.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Неправильно і правильно",
+          "when_ua": "Ik had niet werken: НЕПРАВИЛЬНО. Ik kon niet werken: правильно («не могла працювати»).",
+          "examples": [
+            {
+              "nl": "Ik **kon** niet werken.",
+              "ua": "Я не могла працювати.",
+              "audio": "les28-rule-20.mp3"
+            },
+            {
+              "nl": "Ik **moest** werken.",
+              "ua": "Я мусила працювати.",
+              "audio": "les28-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Англійське «I had to work» перекладай Ik moest werken, а не Ik had werken. Інфінітив у кінці після kon, wilde, moest, mocht: це модальні дієслова; had так не працює."
+        },
+        {
+          "form": "Had лише з іменником",
+          "when_ua": "Had значить «мала»: після нього стоїть річ, а не дієслово.",
+          "examples": [
+            {
+              "nl": "Ik **had** geen tijd.",
+              "ua": "У мене не було часу.",
+              "audio": "les28-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Had + іменник: Ik had een auto, Ik had geen tijd. Had + інфінітив не існує."
+        }
+      ],
+      "points_ua": [
+        "Had + іменник. Kon / moest + інфінітив.",
+        "Не Ik had niet werken."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Vorige zomer hadden wij vakantie in Kroatië.",
+      "ua": "Минулого літа в нас була відпустка в Хорватії.",
+      "audio": "les28-example-01.mp3"
+    },
+    {
+      "nl": "De vakanties waren leuk.",
+      "ua": "Відпустки були класні.",
+      "audio": "les28-example-02.mp3"
+    },
+    {
+      "nl": "Ik wilde slapen, maar ik kon niet.",
+      "ua": "Я хотіла спати, але не могла.",
+      "audio": "les28-example-03.mp3"
+    },
+    {
+      "nl": "Gisteren moest ik thuis blijven.",
+      "ua": "Вчора я мусила залишитися вдома.",
+      "audio": "les28-example-04.mp3"
+    },
+    {
+      "nl": "Helaas kon mijn zus niet komen.",
+      "ua": "На жаль, моя сестра не могла прийти.",
+      "audio": "les28-example-05.mp3"
+    },
+    {
+      "nl": "Misschien was de man ziek.",
+      "ua": "Можливо, чоловік був хворий.",
+      "audio": "les28-example-06.mp3"
+    },
+    {
+      "nl": "Eindelijk mocht het kind slapen.",
+      "ua": "Нарешті дитині можна було спати.",
+      "audio": "les28-example-07.mp3"
+    },
+    {
+      "nl": "De kinderen wilden buiten spelen.",
+      "ua": "Діти хотіли гратися надворі.",
+      "audio": "les28-example-08.mp3"
+    },
+    {
+      "nl": "Hij kon zijn moeder niet helpen.",
+      "ua": "Він не міг допомогти своїй мамі.",
+      "audio": "les28-example-09.mp3"
+    },
+    {
+      "nl": "Vorig jaar hadden wij twee vakanties.",
+      "ua": "Торік у нас було дві відпустки.",
+      "audio": "les28-example-10.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Vakantie",
+    "title_ua": "Відпустка",
+    "highlight": [
+      "nl-fc971a43",
+      "nl-ef8a22be",
+      "nl-4e883508",
+      "nl-5fe705f2"
+    ],
+    "sentences": [
+      {
+        "nl": "Vorige week had ik vakantie in Kroatië.",
+        "ua": "Минулого тижня в мене була відпустка в Хорватії.",
+        "audio": "les28-reading-01.mp3"
+      },
+      {
+        "nl": "De vakantie was mooi.",
+        "ua": "Відпустка була гарна.",
+        "audio": "les28-reading-02.mp3"
+      },
+      {
+        "nl": "Eindelijk kon ik goed slapen.",
+        "ua": "Нарешті я могла добре спати.",
+        "audio": "les28-reading-03.mp3"
+      },
+      {
+        "nl": "Ik wilde daar blijven.",
+        "ua": "Я хотіла там залишитися.",
+        "audio": "les28-reading-04.mp3"
+      },
+      {
+        "nl": "Maar mijn zus was ziek.",
+        "ua": "Але моя сестра була хвора.",
+        "audio": "les28-reading-05.mp3"
+      },
+      {
+        "nl": "Ik moest naar huis gaan.",
+        "ua": "Я мусила їхати додому.",
+        "audio": "les28-reading-06.mp3"
+      },
+      {
+        "nl": "Helaas kon ik niet blijven.",
+        "ua": "На жаль, я не могла залишитися.",
+        "audio": "les28-reading-07.mp3"
+      },
+      {
+        "nl": "Misschien kan ik weer komen.",
+        "ua": "Можливо, я знову зможу приїхати.",
+        "audio": "les28-reading-08.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат хотів працювати.",
+          "accepted": [
+            "Mijn broer wilde werken."
+          ]
+        },
+        {
+          "prompt": "Вчора вона не могла прийти.",
+          "accepted": [
+            "Gisteren kon zij niet komen.",
+            "Gisteren kon ze niet komen.",
+            "Zij kon gisteren niet komen.",
+            "Ze kon gisteren niet komen."
+          ]
+        },
+        {
+          "prompt": "Діти мусили йти додому.",
+          "accepted": [
+            "De kinderen moesten naar huis gaan.",
+            "De kinderen moesten naar huis lopen."
+          ]
+        },
+        {
+          "prompt": "На жаль, у нас не було відпустки.",
+          "accepted": [
+            "Helaas hadden wij geen vakantie.",
+            "Helaas hadden we geen vakantie."
+          ]
+        },
+        {
+          "prompt": "Можливо, вона була вдома.",
+          "accepted": [
+            "Misschien was zij thuis.",
+            "Misschien was ze thuis."
+          ]
+        },
+        {
+          "prompt": "Нарешті ми могли їздити на велосипеді.",
+          "accepted": [
+            "Eindelijk konden wij fietsen.",
+            "Eindelijk konden we fietsen."
+          ]
+        },
+        {
+          "prompt": "Мені не дозволяли їсти сир.",
+          "accepted": [
+            "Ik mocht geen kaas eten."
+          ]
+        },
+        {
+          "prompt": "Мій тато хотів допомогти моїй сестрі.",
+          "accepted": [
+            "Mijn vader wilde mijn zus helpen."
+          ]
+        },
+        {
+          "prompt": "Чи ти могла спати в потязі?",
+          "accepted": [
+            "Kon je in de trein slapen?",
+            "Kon jij in de trein slapen?"
+          ]
+        },
+        {
+          "prompt": "Вчора я мусила робити покупки.",
+          "accepted": [
+            "Gisteren moest ik boodschappen doen.",
+            "Ik moest gisteren boodschappen doen."
+          ]
+        },
+        {
+          "prompt": "Вони хотіли залишитися в Нідерландах, але не могли.",
+          "accepted": [
+            "Zij wilden in Nederland blijven, maar zij konden niet.",
+            "Ze wilden in Nederland blijven, maar ze konden niet.",
+            "Zij wilden in Nederland blijven, maar konden niet.",
+            "Ze wilden in Nederland blijven, maar konden niet."
+          ]
+        },
+        {
+          "prompt": "Моя відпустка була довга.",
+          "accepted": [
+            "Mijn vakantie was lang."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово",
+      "bank": [
+        "kon",
+        "konden",
+        "wilde",
+        "wilden",
+        "moest",
+        "moesten",
+        "mocht",
+        "mochten",
+        "helaas",
+        "misschien",
+        "eindelijk",
+        "vakantie"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Vorig jaar ___ ik in Kroatië blijven.",
+          "hint": "Торік я хотіла залишитися в Хорватії",
+          "accepted": [
+            [
+              "wilde"
+            ]
+          ]
+        },
+        {
+          "text": "De kinderen ___ niet slapen.",
+          "hint": "Діти не могли спати",
+          "accepted": [
+            [
+              "konden"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ niet buiten spelen.",
+          "hint": "Моєму синові не можна було гратися надворі",
+          "accepted": [
+            [
+              "mocht"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ vroeg opstaan.",
+          "hint": "Я мусила рано вставати",
+          "accepted": [
+            [
+              "moest"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ thuis blijven.",
+          "hint": "Ми хотіли залишитися вдома",
+          "accepted": [
+            [
+              "wilden"
+            ]
+          ]
+        },
+        {
+          "text": "___ had ik vakantie.",
+          "hint": "Нарешті в мене була відпустка",
+          "accepted": [
+            [
+              "Eindelijk",
+              "eindelijk"
+            ]
+          ]
+        },
+        {
+          "text": "___ was mijn broer thuis.",
+          "hint": "Можливо, мій брат був удома",
+          "accepted": [
+            [
+              "Misschien",
+              "misschien"
+            ]
+          ]
+        },
+        {
+          "text": "___ moest ik naar huis lopen.",
+          "hint": "На жаль, я мусила йти додому пішки",
+          "accepted": [
+            [
+              "Helaas",
+              "helaas"
+            ]
+          ]
+        },
+        {
+          "text": "De vader en de moeder ___ werken.",
+          "hint": "Тато й мама мусили працювати",
+          "accepted": [
+            [
+              "moesten"
+            ]
+          ]
+        },
+        {
+          "text": "Jullie ___ geen koffie drinken.",
+          "hint": "Вам не дозволяли пити каву",
+          "accepted": [
+            [
+              "mochten"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus ___ goed zwemmen.",
+          "hint": "Моя сестра добре вміла плавати",
+          "accepted": [
+            [
+              "kon"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hadden een lange ___.",
+          "hint": "У нас була довга відпустка",
+          "accepted": [
+            [
+              "vakantie"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik kan niet slapen.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Ik kon niet slapen."
+          ]
+        },
+        {
+          "prompt": "Hij wil thuis blijven.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Hij wilde thuis blijven."
+          ]
+        },
+        {
+          "prompt": "Wij moeten koffie kopen.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Wij moesten koffie kopen.",
+            "We moesten koffie kopen."
+          ]
+        },
+        {
+          "prompt": "De kinderen mogen niet in de keuken eten.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "De kinderen mochten niet in de keuken eten."
+          ]
+        },
+        {
+          "prompt": "Zij kunnen de trein nemen.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Zij konden de trein nemen.",
+            "Ze konden de trein nemen."
+          ]
+        },
+        {
+          "prompt": "Ik wil mijn moeder helpen.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Ik wilde mijn moeder helpen."
+          ]
+        },
+        {
+          "prompt": "Jij moet werken.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Jij moest werken.",
+            "Je moest werken."
+          ]
+        },
+        {
+          "prompt": "Ik kan niet komen.",
+          "cue": "-> минулий час, gisteren першим",
+          "accepted": [
+            "Gisteren kon ik niet komen."
+          ]
+        },
+        {
+          "prompt": "Zij mag slapen.",
+          "cue": "-> минулий час, eindelijk першим",
+          "accepted": [
+            "Eindelijk mocht zij slapen.",
+            "Eindelijk mocht ze slapen."
+          ]
+        },
+        {
+          "prompt": "Wij kunnen niet komen.",
+          "cue": "-> минулий час, helaas першим",
+          "accepted": [
+            "Helaas konden wij niet komen.",
+            "Helaas konden we niet komen."
+          ]
+        },
+        {
+          "prompt": "Hij kon werken.",
+          "cue": "-> питання в минулому часі",
+          "accepted": [
+            "Kon hij werken?"
+          ]
+        },
+        {
+          "prompt": "Wij mochten koffie drinken.",
+          "cue": "-> заперечення (geen)",
+          "accepted": [
+            "Wij mochten geen koffie drinken.",
+            "We mochten geen koffie drinken."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ gisteren niet slapen.",
+          "cue": "kunnen (минулий час)",
+          "accepted": [
+            "kon"
+          ]
+        },
+        {
+          "text": "Wij ___ vorig jaar in Kroatië blijven.",
+          "cue": "willen (минулий час)",
+          "accepted": [
+            "wilden"
+          ]
+        },
+        {
+          "text": "De man ___ werken.",
+          "cue": "moeten (минулий час)",
+          "accepted": [
+            "moest"
+          ]
+        },
+        {
+          "text": "Het kind ___ niet in de keuken eten.",
+          "cue": "mogen (минулий час)",
+          "accepted": [
+            "mocht"
+          ]
+        },
+        {
+          "text": "Jij ___ niet komen.",
+          "cue": "kunnen (минулий час)",
+          "accepted": [
+            "kon"
+          ]
+        },
+        {
+          "text": "Jullie ___ thuis blijven.",
+          "cue": "moeten (минулий час)",
+          "accepted": [
+            "moesten"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ de vader helpen.",
+          "cue": "willen (минулий час)",
+          "accepted": [
+            "wilde"
+          ]
+        },
+        {
+          "text": "___ jij gisteren slapen?",
+          "cue": "kunnen (минулий час)",
+          "accepted": [
+            "Kon",
+            "kon"
+          ]
+        },
+        {
+          "text": "Helaas ___ wij niet werken.",
+          "cue": "mogen (минулий час)",
+          "accepted": [
+            "mochten"
+          ]
+        },
+        {
+          "text": "Misschien ___ de kinderen slapen.",
+          "cue": "willen (минулий час)",
+          "accepted": [
+            "wilden"
+          ]
+        },
+        {
+          "text": "Eindelijk ___ ik naar huis gaan.",
+          "cue": "mogen (минулий час)",
+          "accepted": [
+            "mocht"
+          ]
+        },
+        {
+          "text": "Wij ___ boodschappen doen.",
+          "cue": "moeten (минулий час)",
+          "accepted": [
+            "moesten"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb",
+        "function"
+      ]
+    }
+  ]
+}
