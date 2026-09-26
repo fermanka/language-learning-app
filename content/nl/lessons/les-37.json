@@ -1,0 +1,1224 @@
+{
+  "id": "nl-les-37",
+  "lang": "nl",
+  "order": 37,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-edd75c89",
+      "type": "noun",
+      "article": "de",
+      "lemma": "huisarts",
+      "plural": [
+        "huisartsen"
+      ],
+      "ua": "сімейний лікар, лікарка (до кого йдуть першим)",
+      "audio": "de-huisarts.mp3",
+      "explain_ua": "(Ik ga naar de huisarts = я йду до сімейного лікаря; De huisarts geeft haar een recept = сімейний лікар дає їй рецепт). Huisarts це сімейний лікар: до нього йдуть першим, коли щось болить. Слово складається з huis (Les 1) і arts (Les 35): «домашній лікар»; це підказка для пам'яті. Слово одне для чоловіка й жінки, як arts. De dokter (Les 35) це звичайне слово для будь-якого лікаря, а huisarts точніше. Множина huisartsen, як artsen (Les 35). Ui це [œy], як у huis (Les 1); ts наприкінці це [ts], як українське «ц». Наголос на першому складі. Про спеціаліста чи лікарню зазвичай спершу йдуть до huisarts, а він направляє далі",
+      "check": "Що до спеціаліста чи лікарні спершу йдуть до huisarts, це з моїх знань, не перевірено."
+    },
+    {
+      "id": "nl-01caad32",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tandarts",
+      "plural": [
+        "tandartsen"
+      ],
+      "ua": "стоматолог, стоматологиня (зубний лікар)",
+      "audio": "de-tandarts.mp3",
+      "explain_ua": "(Ik heb een afspraak bij de tandarts = у мене запис до стоматолога; De tandarts kijkt naar mijn tand = стоматолог дивиться на мій зуб). Tandarts це зубний лікар, стоматолог. Слово складається з tand (Les 30) і arts (Les 35): «зубний лікар»; це підказка для пам'яті. Одне слово для чоловіка й жінки. Множина tandartsen, як artsen. Кінцеве d у tand звучить [t] (tand - tanden, Les 30): тут спирайся на російську, не на українську. A коротка [ɑ], як у man (Les 1); ts це [ts], як «ц». Наголос на першому складі",
+      "check": "Що d у складі tand в слові tandarts звучить як [t], я знаю з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-c646a13f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "afspraak",
+      "plural": [
+        "afspraken"
+      ],
+      "ua": "запис (до лікаря), домовленість про зустріч",
+      "audio": "de-afspraak.mp3",
+      "explain_ua": "(Ik heb een afspraak = у мене є запис (зустріч); Mijn afspraak is om half drie = мій запис о пів на третю). Afspraak це домовленість про час і місце: запис до лікаря, зустріч з другом. Українською «запис до лікаря» і «домовленість» різні слова, нідерландською одне. Множина afspraken: aa у відкритому складі стає a, як maan - manen (Les 1). Aa довге [aː]; sp без придиху, як у слов'янських мовах. Про запис кажуть een afspraak hebben («мати запис») і een afspraak maken (наступна картка з виразом)"
+    },
+    {
+      "id": "nl-b508f8aa",
+      "type": "noun",
+      "article": "de",
+      "lemma": "wachtkamer",
+      "plural": [
+        "wachtkamers"
+      ],
+      "ua": "зал очікування (у лікаря)",
+      "audio": "de-wachtkamer.mp3",
+      "explain_ua": "(Ik wacht in de wachtkamer = я чекаю в залі очікування; De wachtkamer is klein = зал очікування маленький). Wachtkamer це кімната, де чекають свого лікаря. Слово складається з wacht (wachten, Les 9) і kamer (Les 3): «кімната очікування»; це підказка для пам'яті. Множина wachtkamers: слово на -er бере -s, як dokter - dokters (Les 35). W це [ʋ], м'якше за українське «в»; ch це [x], як х у хата (Les 1). Наголос на першому складі: WACHT-ka-mer"
+    },
+    {
+      "id": "nl-06a588f6",
+      "type": "noun",
+      "article": "het",
+      "lemma": "recept",
+      "plural": [
+        "recepten"
+      ],
+      "ua": "рецепт (лікаря або кулінарний)",
+      "audio": "het-recept.mp3",
+      "explain_ua": "(Ik heb een recept = у мене є рецепт; De dokter geeft mij een recept = лікар дає мені рецепт). Recept це і рецепт від лікаря, і рецепт страви (наприклад, soep). Слово схоже на «рецепт»: підказка для пам'яті. Het-слово: een klein recept, без -e (Les 11). Множина recepten. C тут це [s], а не [k]; перша e слабка. З рецептом йдуть до de apotheek (Les 17)",
+      "check": "Наголос re-CEPT на другому складі я знаю з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-b1f14419",
+      "type": "noun",
+      "article": "het",
+      "lemma": "medicijn",
+      "plural": [
+        "medicijnen"
+      ],
+      "ua": "ліки, препарат (одні ліки)",
+      "audio": "het-medicijn.mp3",
+      "explain_ua": "(Ik neem een medicijn = я приймаю ліки; De medicijnen zijn duur = ліки дорогі). Het-слово. Українське «ліки» існує лише у множині, а нідерландська має однину: een medicijn це один препарат, кілька це medicijnen. Слово схоже на «медицина»: підказка для пам'яті. Het-слово: een goed medicijn, без -e (Les 11), але het goede medicijn. Множина medicijnen. Ij це [ɛi], як у mijn (Les 1); c тут це [s]. Наголос на останньому складі: me-di-CIJN. Ліки купують у de apotheek (Les 17)",
+      "check": "Наголос me-di-CIJN на останньому складі я знаю з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-2528e668",
+      "type": "noun",
+      "article": "de",
+      "lemma": "koorts",
+      "plural": [
+        "koortsen"
+      ],
+      "ua": "жар, підвищена температура",
+      "audio": "de-koorts.mp3",
+      "explain_ua": "(Ik heb koorts = у мене температура; Zij heeft geen koorts = у неї немає температури). Koorts це жар, підвищена температура тіла. Після hebben стоїть без артикля, як pijn (Les 30) і honger (Les 25): не Ik heb een koorts. Заперечення з geen (Les 2). Множина koortsen є (словник: eén koorts, twee koortsen), але в розмові вона потрібна рідко. Oo довге [oː], як у boos (Les 1); далі r і ts звучать окремо: koorts. Наголос на цьому єдиному складі"
+    },
+    {
+      "id": "nl-42fef338",
+      "type": "noun",
+      "article": "de",
+      "lemma": "verkoudheid",
+      "plural": [
+        "verkoudheden"
+      ],
+      "ua": "застуда",
+      "audio": "de-verkoudheid.mp3",
+      "explain_ua": "(Ik heb een verkoudheid = у мене застуда; Zij heeft een verkoudheid = у неї застуда). Verkoudheid це застуда як стан, іменник. Слово має всередині koud (Les 19): підказка для пам'яті. Слова на -heid завжди de-слова, як українські слова на «-ість» завжди жіночого роду: це теж підказка для пам'яті. Множина verkoudheden: d наприкінці читається [t], а в множині d чути, як hand - handen (Les 30): тут спирайся на російську. Ou це [ɑu], як у koud; ei в -heid це [ɛi], те саме, що ij (Les 1). Частіше кажуть Ik ben verkouden (прикметник, окреме слово)",
+      "check": "Що verkoudheid стоїть з een, а koorts і griep без артикля, з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-d959016e",
+      "type": "noun",
+      "article": "de",
+      "lemma": "griep",
+      "plural": [
+        "griepen"
+      ],
+      "ua": "грип",
+      "audio": "de-griep.mp3",
+      "explain_ua": "(Ik heb griep = у мене грип; Zij heeft griep en koorts = у неї грип і температура). Griep це грип. Після hebben без артикля, як koorts: не Ik heb een griep. Множина griepen у словниках є, але в розмові її майже не чути. G це [x], як х у хата (Les 1); ie це [i], як у ziek (Les 26); p наприкінці без придиху, як у слов'янських мовах",
+      "check": "Множину griepen я знайшла лише в пошуку, woorden.org її не дає."
+    },
+    {
+      "id": "nl-82448560",
+      "type": "noun",
+      "article": "de",
+      "lemma": "pijnstiller",
+      "plural": [
+        "pijnstillers"
+      ],
+      "ua": "знеболювальне",
+      "audio": "de-pijnstiller.mp3",
+      "explain_ua": "(Ik neem een pijnstiller = я приймаю знеболювальне; Ik koop pijnstillers bij de apotheek = я купую знеболювальні в аптеці). Pijnstiller це ліки від болю. Слово складається з pijn (Les 30) і stiller (від дієслова stillen «вгамовувати»; окремо не вчимо): «те, що вгамовує біль». Це підказка для пам'яті. Множина pijnstillers: слово на -er бере -s, як dokter - dokters (Les 35). Ij це [ɛi], як у mijn (Les 1); i коротка [ɪ]. Наголос на першому складі: PIJN-stil-ler",
+      "check": "Що stiller походить від stillen «вгамовувати», з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-07c7060f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "zorgverzekering",
+      "plural": [
+        "zorgverzekeringen"
+      ],
+      "ua": "медична страховка",
+      "audio": "de-zorgverzekering.mp3",
+      "explain_ua": "(Ik heb een zorgverzekering = у мене є медична страховка; Heeft u een zorgverzekering? = чи є у вас медична страховка?). Zorgverzekering це медична страховка. Довге слово з двох частин: zorg «догляд, турбота» і verzekering «страхування». Вчи його цілим. Множина zorgverzekeringen. Z це [z]; g наприкінці частини zorg це [x], як х у хата (Les 1). Ng це один носовий звук [ŋ], як у tong (Les 30). Наголос на першому складі: ZORG-ver-ze-ke-ring",
+      "check": "Значення частин zorg «догляд» і verzekering «страхування» з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-95a3701d",
+      "type": "adjective",
+      "lemma": "verkouden",
+      "ua": "застуджений, застуджена, застуджене, застуджені",
+      "audio": "verkouden.mp3",
+      "explain_ua": "(Ik ben verkouden = я застуджена; Mijn zoon is verkouden = мій син застуджений). Verkouden це прикметник: «застуджений». Українською кажуть «я застудилася» (дієсловом) або «я застуджена». Нідерландською лише zijn + verkouden: не Ik heb verkouden. Після zijn без -e (Les 21). Слово має всередині koud (Les 19): підказка для пам'яті. Ou це [ɑu], як у koud; ver- і -en слабкі. Наголос на другому складі: ver-KOU-den. Іменник до нього це de verkoudheid"
+    },
+    {
+      "id": "nl-a91aa017",
+      "type": "adjective",
+      "lemma": "misselijk",
+      "ua": "з нудотою (мене нудить)",
+      "audio": "misselijk.mp3",
+      "explain_ua": "(Ik ben misselijk = мене нудить; Hij is misselijk = його нудить). Misselijk це прикметник: «з нудотою». Українською «мене нудить» це безособове речення: «мене» в знахідному, підмета немає. Нідерландською звичайний підмет: Ik ben misselijk, буквально «я нудотна», як Ik ben moe (Les 26). Після zijn без -e (Les 21). Кінцівка -lijk слабка, приблизно «лек». Ss це один звук [s]; i коротка [ɪ], як у lip (Les 30). Наголос на першому складі: MIS-se-lijk",
+      "check": "Вимову кінцівки -lijk як [lək] я знаю з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-f6808b51",
+      "type": "adjective",
+      "lemma": "gezond",
+      "ua": "здоровий, здорова, здорове, здорові",
+      "audio": "gezond.mp3",
+      "explain_ua": "(Ik ben gezond = я здорова; Wij eten gezond = ми їмо здорово, здорову їжу). Gezond це протилежність до ziek (Les 26). Про їжу й спосіб життя теж gezond: Wij eten gezond, буквально «ми їмо здорово». Після zijn без -e (Les 21). G це [x], як х у хата (Les 1). Кінцеве d читається [t]: gezond звучить «гезонт», тут спирайся на російську. O коротка [ɔ], як у bos (Les 1); z це [z]. Наголос на другому складі: ge-ZOND"
+    },
+    {
+      "id": "nl-5f7788ee",
+      "type": "adjective",
+      "lemma": "beter",
+      "ua": "кращий, краще (від goed); одужалий",
+      "audio": "beter.mp3",
+      "explain_ua": "(Het gaat beter = стає краще; Ben je weer beter? = тобі вже краще?). Beter це «краще»: форма від goed (Les 9). Форма неправильна: не gooder. Порівняння взагалі ми ще не вчили, тому вчимо beter як окреме слово. Про здоров'я: Ik ben beter = я одужала, мені краще. У цих реченнях слово не змінюється. Схоже на англійське better: підказка для пам'яті. Ee у першому складі довге [eː], як у thee (Les 12); -er слабке. Наголос на першому складі: BE-ter"
+    },
+    {
+      "id": "nl-f7f6bcc2",
+      "type": "verb",
+      "lemma": "hoesten",
+      "ua": "кашляти",
+      "audio": "hoesten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "hoest",
+          "audio": "ik-hoest.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "hoest",
+          "audio": "jij-hoest.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "hoest",
+          "audio": "hij-hoest.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "hoesten",
+          "audio": "wij-hoesten.mp3"
+        }
+      ],
+      "explain_ua": "(Ik hoest veel = я багато кашляю; Hij hoest niet = він не кашляє). Hoesten це «кашляти». Таблиця показує теперішній час: ik hoest, hij hoest, wij hoesten. Основа hoest уже закінчується на -t, тому ще одного -t немає: hij hoest, jij hoest, u hoest, як hij wacht (Les 9). У питанні теж hoest: Hoest jij veel? Українською «кашляти» і «кашлянути» це два види; нідерландською такого поділу немає: Ik hoest покриває обидва. Oe це [u], як у boek (Les 1); наголос на першому складі: HOEST"
+    },
+    {
+      "id": "nl-428b165a",
+      "type": "verb",
+      "lemma": "rusten",
+      "ua": "відпочивати (щоб одужати, набратися сил)",
+      "audio": "rusten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "rust",
+          "audio": "ik-rust.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "rust",
+          "audio": "jij-rust.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "rust",
+          "audio": "hij-rust.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "rusten",
+          "audio": "wij-rusten.mp3"
+        }
+      ],
+      "explain_ua": "(Ik rust vandaag = я сьогодні відпочиваю; U moet rusten = вам треба відпочивати). Rusten це відпочивати, щоб одужати чи набратися сил: лежати, не працювати. Не плутай зі slapen (Les 28) «спати». Відпустка це de vakantie (Les 28), не rusten. Таблиця показує теперішній час. Основа rust уже закінчується на -t: hij rust, jij rust, без ще одного -t, як hoest; wij rusten. Після moeten інфінітив rusten стоїть у кінці (Les 7). Літера u в rust це [ʏ], коротка, як у bus (Les 6), а не українське «у». Наголос на першому складі: RUS-ten"
+    },
+    {
+      "id": "nl-cffb5b20",
+      "type": "verb",
+      "lemma": "voelen",
+      "ua": "відчувати (біль, дотик)",
+      "audio": "voelen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "voel",
+          "audio": "ik-voel.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "voelt",
+          "audio": "jij-voelt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "voelt",
+          "audio": "u-voelt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "voelt",
+          "audio": "hij-voelt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "voelen",
+          "audio": "wij-voelen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik voel niets = я нічого не відчуваю; Voelt u iets? = чи ви щось відчуваєте?). Voelen це «відчувати»: біль (Ik voel pijn in mijn rug), дотик, чи взагалі нічого. Таблиця показує теперішній час: ik voel, jij voelt, hij voelt, wij voelen. У питанні з jij -t зникає: Voel jij iets?, а з u лишається: Voelt u iets? (як geef jij - geeft u, Les 36). Обережно: «я почуваюся хворою» це не Ik voel ziek. Там потрібне ще одне слово (зворотне дієслово), його вчимо пізніше. Поки кажи Ik ben ziek. Англійське feel: підказка для пам'яті. Oe це [u], як у boek (Les 1). Наголос на першому складі: VOE-len",
+      "check": "Що Ik voel ziek без me неправильно, з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-ed86a3ae",
+      "type": "function",
+      "lemma": "nog",
+      "ua": "ще, все ще (nog niet = ще не; nog een = ще один)",
+      "audio": "nog.mp3",
+      "explain_ua": "(Heb je nog pijn? = чи в тебе ще болить?; Zij is nog niet beter = вона ще не одужала). Nog це «ще»: щось триває й ще не закінчилося. Три шаблони. 1) nog + слово: Zij heeft nog koorts. 2) nog niet, nog geen = ще не, ще немає: Ik heb nog geen recept. 3) nog een = ще один: Wil je nog een kopje thee? Не плутай з al (Les 34) «вже»: Is zij al beter? Nee, nog niet. Al питає про «вже», nog у відповіді значить «ще ні». Nog стоїть після дієслова й підмета, перед niet, geen, прикметником чи іменником. Heeft u nog een vraag? = чи є у вас ще питання? Форма не змінюється. O коротка [ɔ], як у ons (Les 36); g наприкінці це [x], як х у хата: приблизно «нох»"
+    },
+    {
+      "id": "nl-6ab07e10",
+      "type": "function",
+      "lemma": "iets",
+      "ua": "щось",
+      "audio": "iets.mp3",
+      "explain_ua": "(Ik zie iets = я щось бачу; Wil je iets drinken? = хочеш щось випити?). Iets це «щось» одним словом. Воно не змінюється й не має артикля. Пара до niets «нічого». Iets стоїть там, де стояв би об'єкт: Voelt u iets? Ik zie iets. Ie це [i], як у ziek (Les 26); ts це [ts], як українське «ц»: приблизно «іц»"
+    },
+    {
+      "id": "nl-18e9cb89",
+      "type": "function",
+      "lemma": "niets",
+      "ua": "нічого (без другого заперечення)",
+      "audio": "niets.mp3",
+      "explain_ua": "(Ik zie niets = я нічого не бачу; Zij voelt niets in haar been = вона нічого не відчуває в нозі). Niets це «нічого». Увага: українською два заперечення, «нічого не бачу». Нідерландською лише одне: Ik zie niets, а не Ik zie niets niet. Niets уже саме заперечення, niet не додаємо. Три слова із заперечним значенням: niet заперечує дію (Ik zie hem niet), geen стоїть перед іменником (Ik zie geen dokter), niets це «нічого» замість іменника (Ik zie niets). Мінімальна пара: niet [nit] і niets [nits]: слухай аудіо обох слів підряд. Ie це [i]; ts це [ts], як «ц»"
+    },
+    {
+      "id": "nl-1dabe4a1",
+      "type": "function",
+      "lemma": "Hoe gaat het met u?",
+      "ua": "Як ви себе почуваєте? (Як ваші справи?)",
+      "audio": "hoe-gaat-het-met-u.mp3",
+      "dictation": false,
+      "explain_ua": "(Hoe gaat het met u? = як ви себе почуваєте?; Het gaat goed, bedankt = добре, дякую). Це цілий вираз, вчи його цілим. Дослівно «як іде це з вами». Українське «як ви себе почуваєте» має слово «себе»; нідерландською зворотного слова немає. Замість u можна mij, je, hem, haar (Les 36): Hoe gaat het met haar? Відповіді: Het gaat goed, Het gaat niet goed, Het gaat beter. Без met питання не працює. До лікаря чи незнайомої людини кажи u, до друга чи родича je"
+    },
+    {
+      "id": "nl-3ea85b23",
+      "type": "function",
+      "lemma": "een afspraak maken",
+      "ua": "записатися на прийом, домовитися про зустріч",
+      "audio": "een-afspraak-maken.mp3",
+      "dictation": false,
+      "explain_ua": "(Ik wil een afspraak maken = я хочу записатися на прийом; Mijn broer maakt een afspraak bij de huisarts = мій брат записується до сімейного лікаря). Це цілий вираз: maken (Les 20) + een afspraak, дослівно «зробити запис». Українське «записатися» зворотне; нідерландською є maken й об'єкт een afspraak, і ніякого «-ся». Де: bij de huisarts (Les 35). Коли: om + година (Les 14), op + день (Les 13): op maandag om tien uur. Мати запис: een afspraak hebben"
+    },
+    {
+      "id": "nl-2897f012",
+      "type": "function",
+      "lemma": "Wat kan ik voor u doen?",
+      "ua": "Чим я можу вам допомогти?",
+      "audio": "wat-kan-ik-voor-u-doen.mp3",
+      "dictation": false,
+      "explain_ua": "(Wat kan ik voor u doen? = чим я можу вам допомогти?; Kan ik u helpen? = чи можу я вам допомогти?). Це цілий вираз, його чуєш у лікаря, в аптеці, в магазині. Дослівно «що можу я для вас зробити». Kan друге, інфінітив doen у кінці (Les 7). Українською «допомогти», нідерландською тут doen (Les 20). Kan ik u helpen? (Les 36) значить майже те саме. До друга: Wat kan ik voor je doen? Відповідь: Ik wil een afspraak maken"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Ik heb koorts, Ik ben verkouden: hebben чи zijn",
+      "summary_ua": "Симптоми діляться на два типи. Іменник (koorts, griep, pijn): hebben і без артикля: Ik heb koorts. Прикметник (verkouden, misselijk, ziek, moe): zijn: Ik ben verkouden. Українською теж: «у мене температура» (іменник) і «я застуджена» (прикметник). Тож обирай за типом слова.",
+      "see": "Les 30",
+      "compare": [
+        {
+          "form": "Hebben + іменник: без артикля",
+          "when_ua": "Koorts, griep, pijn (Les 30) стоять після hebben без een і без de.",
+          "examples": [
+            {
+              "nl": "Ik **heb koorts**.",
+              "ua": "У мене температура.",
+              "audio": "les37-rule-01.mp3"
+            },
+            {
+              "nl": "Mijn zoon **heeft griep**.",
+              "ua": "У мого сина грип.",
+              "audio": "les37-rule-02.mp3"
+            },
+            {
+              "nl": "Zij heeft **geen koorts**.",
+              "ua": "У неї немає температури.",
+              "audio": "les37-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb een koorts. Заперечення з geen (Les 2): Ik heb geen koorts, як Ik heb geen pijn (Les 30)."
+        },
+        {
+          "form": "Zijn + прикметник",
+          "when_ua": "Verkouden, misselijk, ziek, moe (Les 26) стоять після zijn, без -e (Les 21).",
+          "examples": [
+            {
+              "nl": "Hij is **misselijk**.",
+              "ua": "Його нудить.",
+              "audio": "les37-rule-04.mp3"
+            },
+            {
+              "nl": "Ben je **verkouden**?",
+              "ua": "Ти застуджений?",
+              "audio": "les37-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb verkouden і не Ik ben koorts. Koorts, griep, pijn: hebben. Verkouden, misselijk, ziek, moe: zijn."
+        }
+      ],
+      "points_ua": [
+        "Ik heb koorts: hebben + іменник, без артикля.",
+        "Ik ben verkouden: zijn + прикметник."
+      ]
+    },
+    {
+      "title_ua": "Nog: ще, ще не, ще один",
+      "summary_ua": "Nog це «ще»: щось триває. Nog niet і nog geen це «ще не» і «ще немає». Nog een це «ще один». Al (Les 34) це «вже», nog це «ще»: Is zij al beter? Nee, nog niet.",
+      "see": "Les 34",
+      "compare": [
+        {
+          "form": "Nog: ще",
+          "when_ua": "Nog стоїть після дієслова й підмета, перед прикметником, іменником, niet і geen.",
+          "examples": [
+            {
+              "nl": "Zij heeft **nog** koorts.",
+              "ua": "У неї ще температура.",
+              "audio": "les37-rule-06.mp3"
+            },
+            {
+              "nl": "Mijn opa is **nog** ziek.",
+              "ua": "Мій дідусь ще хворий.",
+              "audio": "les37-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Nog це «ще» в часі, не «також»: «також» це ook (Les 11)."
+        },
+        {
+          "form": "Nog niet, nog geen: ще не",
+          "when_ua": "Nog + niet чи geen: ще не, ще немає. Так відповідають на питання з al.",
+          "examples": [
+            {
+              "nl": "Is zij al beter? Nee, **nog niet**.",
+              "ua": "Вона вже одужала? Ні, ще ні.",
+              "audio": "les37-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Nog niet це не «ніколи»: «ніколи» це nooit (Les 10). Nog niet значить «ще ні, але буде»."
+        },
+        {
+          "form": "Nog een: ще один",
+          "when_ua": "Nog + een + іменник: ще один, ще одна.",
+          "examples": [
+            {
+              "nl": "Wil je **nog een** kopje thee?",
+              "ua": "Хочеш ще чашку чаю?",
+              "audio": "les37-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Nog een kopje, nog een appel: слово een лишається, nog стоїть перед ним."
+        }
+      ],
+      "points_ua": [
+        "Nog = ще: Heb je nog pijn?",
+        "Nog niet = ще не; al = вже.",
+        "Nog een = ще один."
+      ]
+    },
+    {
+      "title_ua": "Iets і niets: щось і нічого",
+      "summary_ua": "Iets це «щось», niets це «нічого». Українською «нічого не»: два заперечення. Нідерландською одне: Ik zie niets, не Ik zie niets niet. Iets і niets це одні слова, без артикля, вони не змінюються.",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Iets і niets: пара",
+          "when_ua": "Iets: щось є. Niets: нічого немає. Слова стоять там, де стояв би об'єкт.",
+          "examples": [
+            {
+              "nl": "Ik zie **iets**.",
+              "ua": "Я щось бачу.",
+              "audio": "les37-rule-10.mp3"
+            },
+            {
+              "nl": "Ik zie **niets**.",
+              "ua": "Я нічого не бачу.",
+              "audio": "les37-rule-11.mp3"
+            },
+            {
+              "nl": "Wil je **iets** drinken?",
+              "ua": "Хочеш щось випити?",
+              "audio": "les37-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Iets і niets стоять після дієслова, як об'єкт. Інфінітив лишається в кінці: Wil je iets drinken?"
+        },
+        {
+          "form": "Niets без niet",
+          "when_ua": "Niets це вже заперечення. Другого заперечення немає.",
+          "examples": [
+            {
+              "nl": "Ik hoor **niets**.",
+              "ua": "Я нічого не чую.",
+              "audio": "les37-rule-13.mp3"
+            },
+            {
+              "nl": "Zij eet **niets**.",
+              "ua": "Вона нічого не їсть.",
+              "audio": "les37-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Не Ik hoor niets niet. Порівняй: Ik weet het niet (Les 20), але Ik weet niets. Geen (Les 2) стоїть перед іменником: Ik hoor geen muziek."
+        }
+      ],
+      "points_ua": [
+        "Iets = щось, niets = нічого.",
+        "Ik zie niets: одне заперечення."
+      ]
+    },
+    {
+      "title_ua": "Hoe gaat het met u?: самопочуття",
+      "summary_ua": "Про самопочуття питають Hoe gaat het met + хто. Дослівно «як іде це з...». Українське «як ви себе почуваєте» має «себе», нідерландською цього слова немає. Після met стоїть форма об'єкта (Les 36): met mij, met je, met hem, met haar, met u. Відповідь: Het gaat goed, Het gaat niet goed, Het gaat beter.",
+      "see": "Les 36",
+      "compare": [
+        {
+          "form": "Питання: Hoe gaat het met ...?",
+          "when_ua": "Het (Les 23), gaat, потім met і хто. До лікаря чи незнайомої людини кажи u.",
+          "examples": [
+            {
+              "nl": "Hoe gaat het **met haar**?",
+              "ua": "Як вона себе почуває?",
+              "audio": "les37-rule-15.mp3"
+            },
+            {
+              "nl": "Hoe gaat het **met je**?",
+              "ua": "Як ти?",
+              "audio": "les37-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Не Hoe gaat het u? і не Hoe gaat u? Слово met обов'язкове."
+        },
+        {
+          "form": "Відповідь: Het gaat ...",
+          "when_ua": "Het gaat + goed, niet goed, beter. Хто стоїть після met. Можна почати з met: тоді дієслово друге.",
+          "examples": [
+            {
+              "nl": "Het gaat **niet goed** met mijn opa.",
+              "ua": "Мій дідусь почувається не дуже добре.",
+              "audio": "les37-rule-17.mp3"
+            },
+            {
+              "nl": "Met hem gaat het **beter**.",
+              "ua": "Йому краще.",
+              "audio": "les37-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Met hem gaat het beter: дієслово gaat друге (Les 17), підмет het стоїть після нього."
+        }
+      ],
+      "points_ua": [
+        "Hoe gaat het met + хто?",
+        "Het gaat goed, niet goed, beter."
+      ]
+    },
+    {
+      "title_ua": "Een afspraak: bij, naar, om, op",
+      "summary_ua": "Een afspraak maken це «записатися». Де: bij de huisarts (Les 35). Куди: naar de huisarts. Коли: om + година (Les 14), op + день (Les 13). Мати запис: een afspraak hebben.",
+      "see": "Les 35",
+      "compare": [
+        {
+          "form": "Bij чи naar",
+          "when_ua": "Bij відповідає на «де?» (я вже в лікаря), naar на «куди?» (я йду до лікаря).",
+          "examples": [
+            {
+              "nl": "Ik ben **bij** de huisarts.",
+              "ua": "Я в сімейного лікаря.",
+              "audio": "les37-rule-19.mp3"
+            },
+            {
+              "nl": "Ik ga **naar** de huisarts.",
+              "ua": "Я йду до сімейного лікаря.",
+              "audio": "les37-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Українською «до лікаря» і «у лікаря» теж різні. Bij de kapper і naar de kapper (Les 35) працюють так само."
+        },
+        {
+          "form": "Een afspraak hebben; коли",
+          "when_ua": "Heeft u een afspraak? Година: om + година. День: op + день, перед годиною.",
+          "examples": [
+            {
+              "nl": "**Heeft u een afspraak**?",
+              "ua": "Чи є у вас запис?",
+              "audio": "les37-rule-21.mp3"
+            },
+            {
+              "nl": "Kunt u morgen **om drie uur** komen?",
+              "ua": "Чи можете ви прийти завтра о третій?",
+              "audio": "les37-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Op maandag om tien uur: спочатку день, потім година. Kunt u ...? це ввічливе питання (Les 22)."
+        }
+      ],
+      "points_ua": [
+        "Ik ben bij de huisarts, Ik ga naar de huisarts.",
+        "Om + година, op + день."
+      ]
+    },
+    {
+      "title_ua": "U moet rusten: порада лікаря",
+      "summary_ua": "Лікар радить через moeten (Les 7) і u: U moet rusten. Інфінітив стоїть у кінці. Кілька порад: U moet rusten en veel water drinken. Про себе: Ik moet rusten. Форма moet однакова для ik, u, hij.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "U moet + інфінітив",
+          "when_ua": "Moet друге, інфінітив у кінці. Слово часу й об'єкт стоять між ними.",
+          "examples": [
+            {
+              "nl": "U moet veel water **drinken**.",
+              "ua": "Вам треба пити багато води.",
+              "audio": "les37-rule-23.mp3"
+            },
+            {
+              "nl": "U moet in bed **blijven**.",
+              "ua": "Вам треба залишатися в ліжку.",
+              "audio": "les37-rule-24.mp3"
+            },
+            {
+              "nl": "U moet elke dag een medicijn **nemen**.",
+              "ua": "Вам треба щодня приймати ліки.",
+              "audio": "les37-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Kunt u rusten? і U moet rusten не те саме: kunnen це «можете», moeten це «мусите» (Les 7). Лікар каже moet."
+        },
+        {
+          "form": "Про себе: Ik moet ...",
+          "when_ua": "Ik moet, hij moet, u moet: та сама форма.",
+          "examples": [
+            {
+              "nl": "Ik moet vandaag **rusten**.",
+              "ua": "Мені сьогодні треба відпочивати.",
+              "audio": "les37-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Слово часу vandaag стоїть перед інфінітивом (Les 7)."
+        }
+      ],
+      "points_ua": [
+        "U moet rusten: moet друге, інфінітив у кінці.",
+        "Moeten = мусити, kunnen = могти."
+      ]
+    },
+    {
+      "title_ua": "Множина: afspraken, recepten, huisartsen, wachtkamers",
+      "summary_ua": "Afspraak - afspraken: aa стає a, як maan - manen (Les 1). Recept - recepten, medicijn - medicijnen: просто -en. Huisarts - huisartsen і tandarts - tandartsen, як arts - artsen (Les 35). Wachtkamer - wachtkamers і pijnstiller - pijnstillers: -er бере -s, як dokter - dokters (Les 35).",
+      "see": "Les 35",
+      "compare": [
+        {
+          "form": "-en",
+          "when_ua": "Afspraken, recepten, medicijnen, huisartsen, tandartsen.",
+          "examples": [
+            {
+              "nl": "De huisarts heeft veel **afspraken**.",
+              "ua": "У сімейного лікаря багато записів.",
+              "audio": "les37-rule-27.mp3"
+            },
+            {
+              "nl": "Ik heb twee **recepten**.",
+              "ua": "У мене два рецепти.",
+              "audio": "les37-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Aa у відкритому складі стає a: afspraak - afspraken, не afspraaken."
+        },
+        {
+          "form": "-s чи -en",
+          "when_ua": "-er бере -s: wachtkamers. Слова на -arts беруть -en.",
+          "examples": [
+            {
+              "nl": "Er zijn twee **tandartsen** in de stad.",
+              "ua": "У місті двоє стоматологів.",
+              "audio": "les37-rule-29.mp3"
+            },
+            {
+              "nl": "De **wachtkamers** zijn klein.",
+              "ua": "Зали очікування маленькі.",
+              "audio": "les37-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Verkoudheid - verkoudheden: d стає чутним, як hand - handen (Les 30)."
+        }
+      ],
+      "points_ua": [
+        "Afspraak - afspraken, recept - recepten.",
+        "Huisarts - huisartsen, wachtkamer - wachtkamers."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik heb koorts.",
+      "ua": "У мене температура.",
+      "audio": "les37-example-01.mp3"
+    },
+    {
+      "nl": "Ik ben verkouden.",
+      "ua": "Я застуджена.",
+      "audio": "les37-example-02.mp3"
+    },
+    {
+      "nl": "Ik wil een afspraak maken.",
+      "ua": "Я хочу записатися на прийом.",
+      "audio": "les37-example-03.mp3"
+    },
+    {
+      "nl": "Hoe gaat het met u?",
+      "ua": "Як ви себе почуваєте?",
+      "audio": "les37-example-04.mp3"
+    },
+    {
+      "nl": "Heb je nog pijn?",
+      "ua": "Тебе ще болить?",
+      "audio": "les37-example-05.mp3"
+    },
+    {
+      "nl": "Ik voel niets.",
+      "ua": "Я нічого не відчуваю.",
+      "audio": "les37-example-06.mp3"
+    },
+    {
+      "nl": "Voelt u iets?",
+      "ua": "Чи ви щось відчуваєте?",
+      "audio": "les37-example-07.mp3"
+    },
+    {
+      "nl": "U moet rusten.",
+      "ua": "Вам треба відпочивати.",
+      "audio": "les37-example-08.mp3"
+    },
+    {
+      "nl": "De huisarts geeft mij een recept.",
+      "ua": "Сімейний лікар дає мені рецепт.",
+      "audio": "les37-example-09.mp3"
+    },
+    {
+      "nl": "Ik koop het medicijn bij de apotheek.",
+      "ua": "Я купую ліки в аптеці.",
+      "audio": "les37-example-10.mp3"
+    },
+    {
+      "nl": "Mijn afspraak bij de tandarts is om half drie.",
+      "ua": "Мій запис до стоматолога о пів на третю.",
+      "audio": "les37-example-11.mp3"
+    },
+    {
+      "nl": "Wij wachten in de wachtkamer.",
+      "ua": "Ми чекаємо в залі очікування.",
+      "audio": "les37-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Bij de huisarts",
+    "title_ua": "У сімейного лікаря",
+    "highlight": [
+      "nl-edd75c89",
+      "nl-c646a13f",
+      "nl-b508f8aa",
+      "nl-06a588f6",
+      "nl-b1f14419",
+      "nl-2528e668",
+      "nl-5f7788ee",
+      "nl-1dabe4a1"
+    ],
+    "sentences": [
+      {
+        "nl": "Ik ben ziek en moe.",
+        "ua": "Я хвора і втомлена.",
+        "audio": "les37-reading-01.mp3"
+      },
+      {
+        "nl": "Ik heb koorts en ik hoest veel.",
+        "ua": "У мене температура, і я багато кашляю.",
+        "audio": "les37-reading-02.mp3"
+      },
+      {
+        "nl": "Ik bel de dokter op en ik maak een afspraak.",
+        "ua": "Я дзвоню лікареві й записуюся на прийом.",
+        "audio": "les37-reading-03.mp3"
+      },
+      {
+        "nl": "Ik wacht een uur in de wachtkamer.",
+        "ua": "Я чекаю годину в залі очікування.",
+        "audio": "les37-reading-04.mp3"
+      },
+      {
+        "nl": "Daarna ben ik bij de huisarts.",
+        "ua": "Потім я в сімейного лікаря.",
+        "audio": "les37-reading-05.mp3"
+      },
+      {
+        "nl": "Hoe gaat het met u?",
+        "ua": "Як ви себе почуваєте? (питає лікар)",
+        "audio": "les37-reading-06.mp3"
+      },
+      {
+        "nl": "Het gaat niet goed: ik heb pijn in mijn keel.",
+        "ua": "Не дуже добре: у мене болить горло.",
+        "audio": "les37-reading-07.mp3"
+      },
+      {
+        "nl": "U moet rusten en veel water drinken.",
+        "ua": "Вам треба відпочивати й пити багато води. (каже лікар)",
+        "audio": "les37-reading-08.mp3"
+      },
+      {
+        "nl": "De dokter geeft me een recept.",
+        "ua": "Лікар дає мені рецепт.",
+        "audio": "les37-reading-09.mp3"
+      },
+      {
+        "nl": "Ik koop het medicijn bij de apotheek en nu gaat het beter.",
+        "ua": "Я купую ліки в аптеці, і тепер мені краще.",
+        "audio": "les37-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мені треба до стоматолога.",
+          "accepted": [
+            "Ik moet naar de tandarts.",
+            "Ik moet naar de tandarts gaan."
+          ]
+        },
+        {
+          "prompt": "У мого брата температура.",
+          "accepted": [
+            "Mijn broer heeft koorts."
+          ]
+        },
+        {
+          "prompt": "Вона застуджена.",
+          "accepted": [
+            "Zij is verkouden.",
+            "Ze is verkouden."
+          ]
+        },
+        {
+          "prompt": "Чи вона ще хвора?",
+          "accepted": [
+            "Is zij nog ziek?",
+            "Is ze nog ziek?"
+          ]
+        },
+        {
+          "prompt": "Ми нічого не бачимо.",
+          "accepted": [
+            "Wij zien niets.",
+            "We zien niets."
+          ]
+        },
+        {
+          "prompt": "Чи ти щось бачиш?",
+          "accepted": [
+            "Zie je iets?",
+            "Zie jij iets?"
+          ]
+        },
+        {
+          "prompt": "Мій брат записується до сімейного лікаря.",
+          "accepted": [
+            "Mijn broer maakt een afspraak bij de huisarts."
+          ]
+        },
+        {
+          "prompt": "Мій тато дає їй ліки.",
+          "accepted": [
+            "Mijn vader geeft haar een medicijn.",
+            "Mijn vader geeft haar medicijnen."
+          ]
+        },
+        {
+          "prompt": "Як він почувається?",
+          "accepted": [
+            "Hoe gaat het met hem?"
+          ]
+        },
+        {
+          "prompt": "Моя мама ще чекає на сімейного лікаря.",
+          "accepted": [
+            "Mijn moeder wacht nog op de huisarts."
+          ]
+        },
+        {
+          "prompt": "У мене немає медичної страховки.",
+          "accepted": [
+            "Ik heb geen zorgverzekering."
+          ]
+        },
+        {
+          "prompt": "Вчора в мене була температура, а сьогодні мені краще.",
+          "accepted": [
+            "Gisteren had ik koorts, maar vandaag gaat het beter.",
+            "Gisteren had ik koorts, maar het gaat vandaag beter."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "koorts",
+        "verkouden",
+        "nog",
+        "niets",
+        "afspraak",
+        "recept",
+        "iets",
+        "beter",
+        "geen",
+        "huisarts",
+        "rusten",
+        "wachtkamer"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn zoon heeft ___.",
+          "hint": "У мого сина температура",
+          "accepted": [
+            [
+              "koorts"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ben ___ en ik hoest.",
+          "hint": "Я застуджена й кашляю",
+          "accepted": [
+            [
+              "verkouden"
+            ]
+          ]
+        },
+        {
+          "text": "Heeft hij ___ pijn?",
+          "hint": "Чи в нього ще болить?",
+          "accepted": [
+            [
+              "nog"
+            ]
+          ]
+        },
+        {
+          "text": "Zij voelt ___ in haar been.",
+          "hint": "Вона нічого не відчуває в нозі",
+          "accepted": [
+            [
+              "niets"
+            ]
+          ]
+        },
+        {
+          "text": "Ik maak een ___ bij de tandarts.",
+          "hint": "Я записуюся до стоматолога",
+          "accepted": [
+            [
+              "afspraak"
+            ]
+          ]
+        },
+        {
+          "text": "De huisarts geeft haar een ___.",
+          "hint": "Лікар дає їй рецепт",
+          "accepted": [
+            [
+              "recept"
+            ]
+          ]
+        },
+        {
+          "text": "Wil je ___ eten?",
+          "hint": "Хочеш щось з'їсти?",
+          "accepted": [
+            [
+              "iets"
+            ]
+          ]
+        },
+        {
+          "text": "Vandaag gaat het ___.",
+          "hint": "Сьогодні мені краще",
+          "accepted": [
+            [
+              "beter"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ koorts.",
+          "hint": "У мене немає температури",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Wij wachten op de ___.",
+          "hint": "Ми чекаємо на сімейного лікаря",
+          "accepted": [
+            [
+              "huisarts"
+            ]
+          ]
+        },
+        {
+          "text": "Zij moet ___.",
+          "hint": "Їй треба відпочивати",
+          "accepted": [
+            [
+              "rusten"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ is groot en warm.",
+          "hint": "Зал очікування великий і теплий",
+          "accepted": [
+            [
+              "wachtkamer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik heb pijn.",
+          "cue": "-> заперечення: Ik heb ... pijn.",
+          "accepted": [
+            "Ik heb geen pijn."
+          ]
+        },
+        {
+          "prompt": "Zij ziet iets.",
+          "cue": "-> заперечення: Zij ziet ...",
+          "accepted": [
+            "Zij ziet niets.",
+            "Ze ziet niets."
+          ]
+        },
+        {
+          "prompt": "Zij heeft koorts.",
+          "cue": "-> питання: Heeft ... koorts?",
+          "accepted": [
+            "Heeft zij koorts?",
+            "Heeft ze koorts?"
+          ]
+        },
+        {
+          "prompt": "Zij is ziek.",
+          "cue": "-> додай nog: Zij is ... ziek.",
+          "accepted": [
+            "Zij is nog ziek.",
+            "Ze is nog ziek."
+          ]
+        },
+        {
+          "prompt": "Hij is niet ziek.",
+          "cue": "-> додай nog: Hij is ... niet ziek.",
+          "accepted": [
+            "Hij is nog niet ziek."
+          ]
+        },
+        {
+          "prompt": "Ik wil de huisarts spreken.",
+          "cue": "-> починай з Morgen",
+          "accepted": [
+            "Morgen wil ik de huisarts spreken."
+          ]
+        },
+        {
+          "prompt": "De afspraak is om drie uur.",
+          "cue": "-> множина: De ... zijn om drie uur.",
+          "accepted": [
+            "De afspraken zijn om drie uur."
+          ]
+        },
+        {
+          "prompt": "De huisarts is jong.",
+          "cue": "-> множина: De ... zijn jong.",
+          "accepted": [
+            "De huisartsen zijn jong."
+          ]
+        },
+        {
+          "prompt": "Ik hoest veel.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag hoest ik veel."
+          ]
+        },
+        {
+          "prompt": "Ik hoest niet.",
+          "cue": "-> заміни ik на jij: ... hoest niet.",
+          "accepted": [
+            "Jij hoest niet.",
+            "Je hoest niet."
+          ]
+        },
+        {
+          "prompt": "Ik heb koorts.",
+          "cue": "-> починай з Gisteren, hebben у минулому: Gisteren ... ik koorts.",
+          "accepted": [
+            "Gisteren had ik koorts."
+          ]
+        },
+        {
+          "prompt": "Mijn zoon is verkouden.",
+          "cue": "-> минулий час: Mijn zoon ... verkouden.",
+          "accepted": [
+            "Mijn zoon was verkouden."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ veel.",
+          "cue": "hoesten",
+          "accepted": [
+            "hoest"
+          ]
+        },
+        {
+          "text": "Hij ___ niet.",
+          "cue": "hoesten",
+          "accepted": [
+            "hoest"
+          ]
+        },
+        {
+          "text": "Wij ___ vandaag.",
+          "cue": "hoesten",
+          "accepted": [
+            "hoesten"
+          ]
+        },
+        {
+          "text": "___ jij veel?",
+          "cue": "hoesten",
+          "accepted": [
+            "Hoest",
+            "hoest"
+          ]
+        },
+        {
+          "text": "Ik ___ vandaag.",
+          "cue": "rusten",
+          "accepted": [
+            "rust"
+          ]
+        },
+        {
+          "text": "Wij ___ in bed.",
+          "cue": "rusten",
+          "accepted": [
+            "rusten"
+          ]
+        },
+        {
+          "text": "Ik ___ niets.",
+          "cue": "voelen",
+          "accepted": [
+            "voel"
+          ]
+        },
+        {
+          "text": "___ u iets?",
+          "cue": "voelen",
+          "accepted": [
+            "Voelt",
+            "voelt"
+          ]
+        },
+        {
+          "text": "___ jij iets?",
+          "cue": "voelen",
+          "accepted": [
+            "Voel",
+            "voel"
+          ]
+        },
+        {
+          "text": "Zij ___ pijn in haar rug.",
+          "cue": "voelen",
+          "accepted": [
+            "voelt"
+          ]
+        },
+        {
+          "text": "Mijn broer ___ koorts.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Ik ___ het medicijn elke dag.",
+          "cue": "nemen",
+          "accepted": [
+            "neem"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "verb",
+        "function"
+      ]
+    }
+  ]
+}
