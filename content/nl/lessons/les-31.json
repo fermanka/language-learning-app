@@ -1,0 +1,1354 @@
+{
+  "id": "nl-les-31",
+  "lang": "nl",
+  "order": 31,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-6bc638cb",
+      "type": "noun",
+      "article": "de",
+      "lemma": "slaapkamer",
+      "plural": [
+        "slaapkamers"
+      ],
+      "ua": "спальня",
+      "audio": "de-slaapkamer.mp3",
+      "explain_ua": "(In de slaapkamer staat een bed = у спальні стоїть ліжко). Складене слово: slaap (від slapen, Les 28: ik slaap) і de kamer (Les 3). Рід і множина беруться від останньої частини: de kamer, тому de slaapkamer, de slaapkamers. Aa довге [aː], як у maan (Les 1); наголос на першому складі: SLAAP-ka-mer"
+    },
+    {
+      "id": "nl-008e330b",
+      "type": "noun",
+      "article": "de",
+      "lemma": "badkamer",
+      "plural": [
+        "badkamers"
+      ],
+      "ua": "ванна кімната",
+      "audio": "de-badkamer.mp3",
+      "explain_ua": "(De badkamer is klein = ванна кімната маленька). Складене слово: bad (ванна; окремо його не вчимо) і de kamer (Les 3). Bad схоже на англійське bath: d ↔ th, як drie / three: підказка для пам'яті. Кінцеве d у bad читається [t], як у російському «хлеб» (тут спирайся на російську, не на українську); у badkamer d теж глухе, перед k. Наголос на першому складі: BAD-ka-mer"
+    },
+    {
+      "id": "nl-26d56e15",
+      "type": "noun",
+      "article": "de",
+      "lemma": "woonkamer",
+      "plural": [
+        "woonkamers"
+      ],
+      "ua": "вітальня",
+      "audio": "de-woonkamer.mp3",
+      "explain_ua": "(Wij lezen in de woonkamer = ми читаємо у вітальні). Складене слово: woon (від wonen, Les 1: ik woon) і de kamer (Les 3). Це кімната, де сім'я проводить день: вітальня. Слово de kamer саме теж може означати вітальню. Oo довге [oː], як у boos (Les 1); наголос на першому складі: WOON-ka-mer"
+    },
+    {
+      "id": "nl-443f3d23",
+      "type": "noun",
+      "article": "het",
+      "lemma": "toilet",
+      "plural": [
+        "toiletten"
+      ],
+      "ua": "туалет",
+      "audio": "het-toilet.mp3",
+      "explain_ua": "(Het toilet is naast de badkamer = туалет поруч із ванною кімнатою). Het-слово. Множина toiletten: e коротка, тому t подвоюється, як bed - bedden. Слово французьке: toi це [twa], наголос на останньому складі: toi-LET, приблизно «туа-ЛЕТ»; e коротка [ɛ]"
+    },
+    {
+      "id": "nl-a25ab0d0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "gang",
+      "plural": [
+        "gangen"
+      ],
+      "ua": "коридор, передпокій",
+      "audio": "de-gang.mp3",
+      "explain_ua": "(Mijn jas is in de gang = моя куртка в коридорі). Gang це коридор або передпокій у квартирі чи будинку. Схоже на gaan (Les 5): підказка для пам'яті, коридор це місце, де ходять. Множина gangen. G на початку це той самий гортанний звук, що в gisteren (Les 26), як х у хата; ng це один звук [ŋ], як н у «банк», тому в gangen g не подвоюється"
+    },
+    {
+      "id": "nl-ec94bc8c",
+      "type": "noun",
+      "article": "de",
+      "lemma": "trap",
+      "plural": [
+        "trappen"
+      ],
+      "ua": "сходи (de trap = одні сходи)",
+      "audio": "de-trap.mp3",
+      "explain_ua": "(De trap is heel lang = сходи дуже довгі). Українське «сходи» це множина, а нідерландське de trap однина: одні сходи, як de broek (Les 21) це одні штани. Кілька сходів це de trappen. Множина trappen: a коротка, тому p подвоюється, як bed - bedden. A коротка [ɑ], як у man (Les 1); tr без придиху, як у слов'янських мовах"
+    },
+    {
+      "id": "nl-7a84e39a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "verdieping",
+      "plural": [
+        "verdiepingen"
+      ],
+      "ua": "поверх (будинку)",
+      "audio": "de-verdieping.mp3",
+      "explain_ua": "(Mijn oom woont op de tweede verdieping = мій дядько живе на третьому поверсі за нашим рахунком). Verdieping це поверх будинку. Рахунок інший, ніж в Україні: поверх на рівні землі не рахується (для нього є окреме слово, ми його ще не вчимо), тому eerste verdieping це наш «другий поверх». Порядкові числа ти вже знаєш (Les 7). Не плутай з de vloer: vloer це підлога під ногами. Ie це [i]; ng це [ŋ]; наголос на другому складі: ver-DIE-ping",
+      "check": "Нумерацію поверхів (eerste verdieping = наш другий поверх) і наголос ver-DIE-ping словник не підтвердив."
+    },
+    {
+      "id": "nl-d0b96e06",
+      "type": "noun",
+      "article": "de",
+      "lemma": "zolder",
+      "plural": [
+        "zolders"
+      ],
+      "ua": "горище",
+      "audio": "de-zolder.mp3",
+      "explain_ua": "(Mijn opa is op zolder = мій дідусь на горищі). Горище: там часто кімната або склад. Кажуть op zolder без артикля, як naar huis (Les 5) і thuis (Les 26). Множина zolders (-s). O коротка [ɔ]; наголос на першому складі: ZOL-der"
+    },
+    {
+      "id": "nl-7c4f441a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kelder",
+      "plural": [
+        "kelders"
+      ],
+      "ua": "підвал, погріб",
+      "audio": "de-kelder.mp3",
+      "explain_ua": "(De wasmachine staat in de kelder = пральна машина стоїть у підвалі). Множина kelders (-s). Схоже на англійське cellar: підказка для пам'яті. E коротка [ɛ]; наголос на першому складі: KEL-der",
+      "check": "Артикль de і множину kelders з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-e0454ec3",
+      "type": "noun",
+      "article": "het",
+      "lemma": "dak",
+      "plural": [
+        "daken"
+      ],
+      "ua": "дах",
+      "audio": "het-dak.mp3",
+      "explain_ua": "(Het huis heeft een groot dak = у будинку великий дах). Het-слово. У однині a коротка [ɑ], а в множині daken вона стає довгою [aː] і пишеться одна a: як dag - dagen (Les 4). Наголос на першому складі",
+      "check": "Множину daken і довгу [aː] у ній з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-2efbdb0a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "muur",
+      "plural": [
+        "muren"
+      ],
+      "ua": "стіна (будинку, кімнати)",
+      "audio": "de-muur.mp3",
+      "explain_ua": "(De muur is wit = стіна біла). Множина muren: uu стає u у відкритому складі, звук той самий. Uu це довге [y], як у uur і juni (Les 29): губи круглі, як для «у», а язик спереду, як для «і». Не «му-р» з українським «у»",
+      "check": "Множину muren і чи muur про стіну кімнати теж (є ще wand) у словнику не перевірено."
+    },
+    {
+      "id": "nl-1acdcbf5",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vloer",
+      "plural": [
+        "vloeren"
+      ],
+      "ua": "підлога",
+      "audio": "de-vloer.mp3",
+      "explain_ua": "(De vloer is koud = підлога холодна). Множина vloeren. Схоже на англійське floor: v ↔ f, oe ↔ oo (як vader / father, boek / book): підказка для пам'яті. Vloer це підлога, по якій ходиш; поверх будинку це de verdieping. Oe це [u], як у boek (Les 1); vl це два звуки поспіль, [v] і [l]"
+    },
+    {
+      "id": "nl-6f048b60",
+      "type": "noun",
+      "article": "de",
+      "lemma": "lamp",
+      "plural": [
+        "lampen"
+      ],
+      "ua": "лампа",
+      "audio": "de-lamp.mp3",
+      "explain_ua": "(De lamp staat naast het bed = лампа стоїть біля ліжка). Слово збігається з українським «лампа»: підказка для пам'яті. Множина lampen. A коротка [ɑ], як у man (Les 1); mp читаються разом. Лампа, що стоїть на столі чи на підлозі, staat; лампа на стелі це інше дієслово, ми його ще не вчимо"
+    },
+    {
+      "id": "nl-b0ce18fd",
+      "type": "noun",
+      "article": "het",
+      "lemma": "bed",
+      "plural": [
+        "bedden"
+      ],
+      "ua": "ліжко",
+      "audio": "het-bed.mp3",
+      "explain_ua": "(Mijn bed is groot = моє ліжко велике; Ik ga naar bed = я йду спати). Het-слово. Множина bedden: e коротка, тому d подвоюється, як vis - vissen (Les 25). Схоже на англійське bed: підказка для пам'яті. Кінцеве d у bed читається [t], як у російському «хлеб» (тут спирайся на російську); у bedden d звучить [d]. Вирази in bed (у ліжку) і naar bed (спати) мають місце без артикля, як naar huis (Les 5)",
+      "check": "Вирази in bed, naar bed без артикля з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-c383b1f7",
+      "type": "noun",
+      "article": "de",
+      "lemma": "bank",
+      "plural": [
+        "banken"
+      ],
+      "ua": "диван; банк",
+      "audio": "de-bank.mp3",
+      "explain_ua": "(De bank staat in de woonkamer = диван стоїть у вітальні; Ik ga naar de bank = я йду до банку). Слово одне, значень два: диван і банк (фінансова установа). Обидва de-слова, множина однакова: de banken. Яке значення, видно з речення: staat в кімнаті це диван. A коротка [ɑ], як у man (Les 1); nk читається як у українському «банк»"
+    },
+    {
+      "id": "nl-699bb879",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kast",
+      "plural": [
+        "kasten"
+      ],
+      "ua": "шафа, шафка",
+      "audio": "de-kast.mp3",
+      "explain_ua": "(De kast is groot = шафа велика). Kast це шафа для речей чи посуду. Множина kasten: a коротка, але t не подвоюється, бо після s уже стоїть t. A коротка [ɑ], як у man (Les 1). Є частиною слова de koelkast (нижче)"
+    },
+    {
+      "id": "nl-23c733eb",
+      "type": "noun",
+      "article": "de",
+      "lemma": "spiegel",
+      "plural": [
+        "spiegels"
+      ],
+      "ua": "дзеркало",
+      "audio": "de-spiegel.mp3",
+      "explain_ua": "(De spiegel is mooi = дзеркало гарне). Множина spiegels: після -el множина на -s, як de appel - de appels (Les 8). Дзеркало на стіні зазвичай hangt (висить): це нове дієслово, ми його ще не вчимо, тому в реченнях цього уроку is. Ie це [i]; g усередині слова це той самий гортанний звук, що в gisteren (Les 26); наголос на першому складі: SPIE-gel, -el слабке",
+      "check": "Чи природно тут is замість hangt (висить), і наголос SPIE-gel, не перевірено."
+    },
+    {
+      "id": "nl-0c73a9fb",
+      "type": "noun",
+      "article": "de",
+      "lemma": "sleutel",
+      "plural": [
+        "sleutels"
+      ],
+      "ua": "ключ",
+      "audio": "de-sleutel.mp3",
+      "explain_ua": "(Waar is mijn sleutel? = де мій ключ?). Ключ від дверей чи квартири. Множина sleutels (-s, як de appels). Eu це [øː], як у de deur (Les 3): губи як для «о», язик як для «е». Sl це два звуки поспіль. Наголос на першому складі: SLEU-tel, -el слабке"
+    },
+    {
+      "id": "nl-e45ae629",
+      "type": "noun",
+      "article": "de",
+      "lemma": "televisie",
+      "plural": [
+        "televisies"
+      ],
+      "ua": "телевізор, телебачення",
+      "audio": "de-televisie.mp3",
+      "explain_ua": "(De televisie is nieuw = телевізор новий). Слово означає і сам апарат, і телебачення. Схоже на українське «телевізор»: підказка для пам'яті. Множина televisies. S між голосними це [z], тому -sie звучить як «зі»; наголос на третьому складі: te-le-VI-sie",
+      "check": "Наголос te-le-VI-sie і множину televisies з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-80719062",
+      "type": "noun",
+      "article": "de",
+      "lemma": "koelkast",
+      "plural": [
+        "koelkasten"
+      ],
+      "ua": "холодильник",
+      "audio": "de-koelkast.mp3",
+      "explain_ua": "(De melk staat in de koelkast = молоко стоїть у холодильнику). Складене слово: koel (прохолодний; окремо не вчимо, схоже на англійське cool: підказка для пам'яті) і de kast. Рід і множина від останньої частини: de kast, тому de koelkast, de koelkasten. Oe це [u], як у boek (Les 1); наголос на першому складі: KOEL-kast"
+    },
+    {
+      "id": "nl-f4fa3202",
+      "type": "noun",
+      "article": "de",
+      "lemma": "wasmachine",
+      "plural": [
+        "wasmachines"
+      ],
+      "ua": "пральна машина",
+      "audio": "de-wasmachine.mp3",
+      "explain_ua": "(De wasmachine is oud = пральна машина стара). Складене слово: was (прання) і de machine. Was тут не «був» з Les 26, а інше слово, окремо його не вчимо. Рід і множина від останньої частини: de machine, тому de wasmachine, de wasmachines. Ch у machine це [ʃ], як «ш» (слово французьке), не [x] як у gisteren; наголос на першому складі: WAS-ma-shi-ne",
+      "check": "Вимова ch = [ʃ] і наголос WAS-ma-shi-ne з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-022a8068",
+      "type": "noun",
+      "article": "de",
+      "lemma": "douche",
+      "plural": [
+        "douches"
+      ],
+      "ua": "душ",
+      "audio": "de-douche.mp3",
+      "explain_ua": "(Ik neem een douche = я приймаю душ; De douche is nieuw = душ новий). Вираз een douche nemen це «прийняти душ»; nemen ти знаєш з Les 22. Слово французьке: ou тут [u], а не [ɑu] як у koud (Les 19), ch це [ʃ]: приблизно «душ». Множина douches. Наголос на першому складі",
+      "check": "Вимова [duʃ] (ou = [u], ch = [ʃ]) і зворот een douche nemen з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-d3e86060",
+      "type": "noun",
+      "article": "het",
+      "lemma": "balkon",
+      "plural": [
+        "balkons"
+      ],
+      "ua": "балкон",
+      "audio": "het-balkon.mp3",
+      "explain_ua": "(Het appartement heeft een klein balkon = у квартирі маленький балкон). Слово збігається з українським «балкон»: підказка для пам'яті. Het-слово, тому een klein balkon без -e (Les 11). Множина balkons (-s). O коротка [ɔ]; наголос на другому складі: bal-KON",
+      "check": "Множину balkons і наголос bal-KON з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-4331ad76",
+      "type": "noun",
+      "article": "het",
+      "lemma": "appartement",
+      "plural": [
+        "appartementen"
+      ],
+      "ua": "квартира",
+      "audio": "het-appartement.mp3",
+      "explain_ua": "(Mijn oom heeft een groot appartement = у мого дядька велика квартира). Het-слово, тому een groot appartement без -e (Les 11). Множина appartementen. Квартира це het appartement, а будинок це het huis (Les 1). Пишеться pp і одне m, вимовляється один [p]. Наголос на останньому складі: ap-par-te-MENT"
+    },
+    {
+      "id": "nl-f6abc56e",
+      "type": "verb",
+      "lemma": "staan",
+      "ua": "стояти",
+      "audio": "staan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "sta",
+          "audio": "ik-sta.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "staat",
+          "audio": "jij-staat.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "staat",
+          "audio": "u-staat.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "staat",
+          "audio": "hij-staat.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "staan",
+          "audio": "wij-staan.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "staan",
+          "audio": "jullie-staan.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "staan",
+          "audio": "zij-staan.mp3"
+        }
+      ],
+      "explain_ua": "(De stoel staat naast de tafel = стілець стоїть біля стола; Wij staan in de gang = ми стоїмо в коридорі). Staan це «стояти»: так кажуть про те, що стоїть на ніжках, на дні або вертикально: ліжко, диван, шафа, лампа, холодильник, телевізор. Українське «стоїть» працює так само, тому тут рідна мова допомагає. Про місце речей нідерландська любить staan і liggen там, де англійська каже просто is: Waar staat het bed? Таблиця показує теперішній час: ik sta, jij staat, hij staat, wij staan. Форма sta та сама, що в opstaan (Les 4: ik sta op). Aa у staat і staan довге [aː], як у maan (Les 1); у формі sta одна a, бо склад відкритий"
+    },
+    {
+      "id": "nl-879ab73a",
+      "type": "verb",
+      "lemma": "liggen",
+      "ua": "лежати",
+      "audio": "liggen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "lig",
+          "audio": "ik-lig.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "ligt",
+          "audio": "jij-ligt.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "ligt",
+          "audio": "u-ligt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "ligt",
+          "audio": "hij-ligt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "liggen",
+          "audio": "wij-liggen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (мн.)",
+          "form": "liggen",
+          "audio": "jullie-liggen.mp3"
+        },
+        {
+          "pronoun": "zij / ze",
+          "ua": "вони",
+          "form": "liggen",
+          "audio": "zij-liggen.mp3"
+        }
+      ],
+      "explain_ua": "(Het boek ligt op de tafel = книга лежить на столі; De baby ligt in bed = немовля лежить у ліжку). Liggen це «лежати»: так кажуть про те, що лежить плашмя: ключ, книга, куртка, немовля. Українське «лежить» працює так само. Таблиця показує теперішній час: ik lig, jij ligt, hij ligt, wij liggen. У liggen g подвоюється, бо i коротка [ɪ], як у vis - vissen (Les 25). Про сад, парк і вулицю теж кажуть liggen: De tuin ligt achter het huis. У lig і ligt g це [x], як х у хата (Les 1); наголос на першому складі",
+      "check": "Що сад і парк теж liggen (а будинок staat), у словнику не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Staan en liggen: «стоїть» і «лежить»",
+      "summary_ua": "Українською «ліжко стоїть, ключ лежить»: нідерландська мислить так само. Те, що стоїть, це staan; те, що лежить, це liggen. Про місце речей ці два дієслова звучать природніше, ніж is.",
+      "see": "Les 24",
+      "compare": [
+        {
+          "form": "Staan: стоїть",
+          "when_ua": "Те, що стоїть: ліжко, диван, шафа, лампа, холодильник, телевізор.",
+          "examples": [
+            {
+              "nl": "Het **bed** **staat** in de kamer.",
+              "ua": "Ліжко стоїть у кімнаті.",
+              "audio": "les31-rule-01.mp3"
+            },
+            {
+              "nl": "De **lamp** **staat** naast de bank.",
+              "ua": "Лампа стоїть біля дивана.",
+              "audio": "les31-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Українське «стоїть» працює так само: тут рідна мова допомагає. Порядок звичайний: підмет, дієслово, місце."
+        },
+        {
+          "form": "Liggen: лежить",
+          "when_ua": "Те, що лежить плашмя: ключ, книга, куртка, немовля.",
+          "examples": [
+            {
+              "nl": "De **sleutel** **ligt** op de tafel.",
+              "ua": "Ключ лежить на столі.",
+              "audio": "les31-rule-03.mp3"
+            },
+            {
+              "nl": "De **boeken** **liggen** op de bank.",
+              "ua": "Книги лежать на дивані.",
+              "audio": "les31-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Один предмет ligt, кілька liggen: дієслово погоджується з підметом, як у Les 24. Якщо не певна, спитай себе українською: стоїть чи лежить? Нідерландська обирає так само."
+        }
+      ],
+      "points_ua": [
+        "Het bed staat, de sleutel ligt.",
+        "Один предмет ligt, кілька liggen."
+      ]
+    },
+    {
+      "title_ua": "Waar staat het bed? Waar ligt de sleutel?",
+      "summary_ua": "Питання про місце: waar, потім дієслово, потім підмет. Відповідь може починатися з місця: тоді дієслово знову одразу за ним (V2).",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Питання з waar",
+          "when_ua": "Waar (Les 3), дієслово, підмет. Дієслово погоджується з підметом: staat чи staan, ligt чи liggen.",
+          "examples": [
+            {
+              "nl": "**Waar staat** de televisie?",
+              "ua": "Де стоїть телевізор?",
+              "audio": "les31-rule-05.mp3"
+            },
+            {
+              "nl": "**Waar liggen** mijn sleutels?",
+              "ua": "Де лежать мої ключі?",
+              "audio": "les31-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Не Waar de televisie staat? і не Waar staan de televisie?: de televisie однина, тому staat. Як Waar is de deur? (Les 3)."
+        },
+        {
+          "form": "Місце першим: дієслово друге",
+          "when_ua": "Місце може стояти першим: дієслово одразу за ним, потім підмет, як Links is het park (Les 17).",
+          "examples": [
+            {
+              "nl": "**Naast het raam** staat de bank.",
+              "ua": "Біля вікна стоїть диван.",
+              "audio": "les31-rule-07.mp3"
+            },
+            {
+              "nl": "**Op de tafel** liggen mijn sleutels.",
+              "ua": "На столі лежать мої ключі.",
+              "audio": "les31-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Не Naast het raam de bank staat. Дієслово завжди друге, а підмет після нього. Українською порядок вільний, нідерландською ні."
+        }
+      ],
+      "points_ua": [
+        "Waar staat / ligt + підмет.",
+        "Місце першим: дієслово друге."
+      ]
+    },
+    {
+      "title_ua": "Er staat een bed: er + staan / liggen",
+      "summary_ua": "З Les 24 ти знаєш Er is een park. Замість is можна сказати, як річ розташована: Er staat een bed in de kamer, Er ligt een boek op de bank. Er тут лише «є»: це не «там» (daar).",
+      "see": "Les 24",
+      "compare": [
+        {
+          "form": "Er + staat / ligt: нова річ",
+          "when_ua": "Річ нова: een, twee, geen. Тоді er, потім staat чи ligt.",
+          "examples": [
+            {
+              "nl": "**Er staat** een bed in de slaapkamer.",
+              "ua": "У спальні стоїть ліжко.",
+              "audio": "les31-rule-09.mp3"
+            },
+            {
+              "nl": "**Er staan** twee stoelen in de keuken.",
+              "ua": "У кухні стоять два стільці.",
+              "audio": "les31-rule-10.mp3"
+            },
+            {
+              "nl": "**Er ligt** een boek op de bank.",
+              "ua": "На дивані лежить книга.",
+              "audio": "les31-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Дієслово погоджується з тим, що стоїть: Er staat een bed, Er staan twee bedden. Як Er is een park, Er zijn twee parken (Les 24)."
+        },
+        {
+          "form": "Відоме без er, нове з er",
+          "when_ua": "Коли річ уже відома (de, het, mijn), er не потрібне. Коли нова (een, число), потрібне er.",
+          "examples": [
+            {
+              "nl": "**De lamp** staat op de tafel.",
+              "ua": "Лампа стоїть на столі.",
+              "audio": "les31-rule-12.mp3"
+            },
+            {
+              "nl": "**Er staat** een lamp op de tafel.",
+              "ua": "На столі стоїть лампа.",
+              "audio": "les31-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Українською обидва речення схожі, а нідерландська розрізняє відоме й нове за допомогою er і артикля. Заперечення лише з geen: Er staat geen lamp op de tafel."
+        }
+      ],
+      "points_ua": [
+        "Er staat een bed: нове, з een.",
+        "Het bed staat: відоме, без er."
+      ]
+    },
+    {
+      "title_ua": "In чи op: всередині і зверху",
+      "summary_ua": "Українське «в» і «на» це in і op. In: всередині (in de kast, in de koelkast). Op: на поверхні чи на відкритому місці (op de tafel, op het dak). Naast і achter (Les 17) працюють так само, без відмінків.",
+      "see": "Les 17",
+      "compare": [
+        {
+          "form": "In: всередині; op: зверху",
+          "when_ua": "In для речей усередині. Op для речей на поверхні.",
+          "examples": [
+            {
+              "nl": "De melk staat **in** de koelkast.",
+              "ua": "Молоко стоїть у холодильнику.",
+              "audio": "les31-rule-14.mp3"
+            },
+            {
+              "nl": "Het glas staat **op** de tafel.",
+              "ua": "Склянка стоїть на столі.",
+              "audio": "les31-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Як in de kamer і op het plein (Les 24). Не in de tafel: стіл має поверхню, тому op."
+        },
+        {
+          "form": "Naast, achter",
+          "when_ua": "Біля і позаду: naast en achter (Les 17). Після них іменник не змінюється.",
+          "examples": [
+            {
+              "nl": "De bank staat **naast** de kast.",
+              "ua": "Диван стоїть біля шафи.",
+              "audio": "les31-rule-16.mp3"
+            },
+            {
+              "nl": "De schoenen liggen **achter** de deur.",
+              "ua": "Туфлі лежать за дверима.",
+              "audio": "les31-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Українські «біля», «за» мають відмінки, нідерландські naast, achter ні: de deur лишається de deur."
+        }
+      ],
+      "points_ua": [
+        "In: всередині. Op: зверху.",
+        "Naast, achter: без відмінків."
+      ]
+    },
+    {
+      "title_ua": "In bed, op zolder, naar bed: без артикля",
+      "summary_ua": "Кілька виразів стоять без артикля: in bed, naar bed, op zolder. Як naar huis (Les 5) і thuis (Les 26). Конкретне ліжко має артикль: het bed.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "In bed, op zolder",
+          "when_ua": "Загальне «у ліжку», «на горищі»: без артикля.",
+          "examples": [
+            {
+              "nl": "Ik **lig in bed**.",
+              "ua": "Я лежу в ліжку.",
+              "audio": "les31-rule-18.mp3"
+            },
+            {
+              "nl": "De kinderen slapen **op zolder**.",
+              "ua": "Діти сплять на горищі.",
+              "audio": "les31-rule-19.mp3"
+            }
+          ],
+          "note_ua": "In het bed кажуть про одне певне ліжко. Загальне «лежати в ліжку» це in bed."
+        },
+        {
+          "form": "Naar bed",
+          "when_ua": "Naar bed gaan це «лягати спати».",
+          "examples": [
+            {
+              "nl": "Ik ga **naar bed**.",
+              "ua": "Я йду спати.",
+              "audio": "les31-rule-20.mp3"
+            },
+            {
+              "nl": "De baby gaat **naar bed**.",
+              "ua": "Немовля лягає спати.",
+              "audio": "les31-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Як naar huis gaan (Les 5). Naar het bed gaan значить іти до самого ліжка, а не спати."
+        }
+      ],
+      "points_ua": [
+        "In bed, naar bed, op zolder: без артикля.",
+        "Het bed: конкретне ліжко."
+      ]
+    },
+    {
+      "title_ua": "De eerste verdieping: поверхи",
+      "summary_ua": "Поверхи: op de eerste verdieping. Порядкові числа з Les 7: eerste, tweede, derde. Рахунок зсунутий: поверх на рівні землі не рахується, тому eerste verdieping це наш «другий поверх».",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Op de ... verdieping",
+          "when_ua": "Op + de + порядкове число + verdieping.",
+          "examples": [
+            {
+              "nl": "Wij wonen **op de eerste verdieping**.",
+              "ua": "Ми живемо на другому поверсі (за нашим рахунком).",
+              "audio": "les31-rule-22.mp3"
+            },
+            {
+              "nl": "Mijn oma woont **op de derde verdieping**.",
+              "ua": "Моя бабуся живе на четвертому поверсі (за нашим рахунком).",
+              "audio": "les31-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Нідерландське число на одиницю менше, ніж українське. Рівень землі має окреме слово, ми його ще не вчимо."
+        }
+      ],
+      "points_ua": [
+        "Op de eerste verdieping = наш другий поверх.",
+        "Нідерландське число на одиницю менше."
+      ]
+    },
+    {
+      "title_ua": "Складені слова: рід за останньою частиною",
+      "summary_ua": "Slaapkamer, badkamer, woonkamer складаються з двох слів. Рід і множина за останньою частиною: de kamer, тому de slaapkamer, de slaapkamers. Так само de koelkast, de wasmachine.",
+      "see": "Les 25",
+      "compare": [
+        {
+          "form": "De kamer: slaapkamer, badkamer, woonkamer",
+          "when_ua": "Остання частина kamer (Les 3) дає de і множину -s.",
+          "examples": [
+            {
+              "nl": "Wij hebben twee **slaapkamers**.",
+              "ua": "У нас дві спальні.",
+              "audio": "les31-rule-24.mp3"
+            },
+            {
+              "nl": "De **woonkamer** is groot.",
+              "ua": "Вітальня велика.",
+              "audio": "les31-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Не het slaapkamer: kamer це de-слово, і складене слово теж. Так само het avondeten і het broodje (Les 25): рід за останньою частиною."
+        },
+        {
+          "form": "De kast, de machine",
+          "when_ua": "Koelkast бере рід і множину від kast, wasmachine від machine.",
+          "examples": [
+            {
+              "nl": "De **koelkast** en de **wasmachine** zijn nieuw.",
+              "ua": "Холодильник і пральна машина нові.",
+              "audio": "les31-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Множина: de koelkasten, de wasmachines. Складене слово не має свого окремого роду, лише роду останньої частини."
+        }
+      ],
+      "points_ua": [
+        "Рід за останньою частиною: de kamer, de slaapkamer.",
+        "De koelkast, de wasmachine."
+      ]
+    },
+    {
+      "title_ua": "Множина: bedden, trappen, daken, sleutels",
+      "summary_ua": "Короткий склад: приголосна подвоюється, як vis - vissen (Les 25): bed - bedden, trap - trappen, toilet - toiletten. У dak - daken голосна довга. Слова на -el беруть -s: sleutel - sleutels.",
+      "see": "Les 25",
+      "compare": [
+        {
+          "form": "bed - bedden, trap - trappen",
+          "when_ua": "Коротка голосна перед приголосною: приголосна подвоюється (bedden, trappen, toiletten).",
+          "examples": [
+            {
+              "nl": "Wij hebben twee **bedden**.",
+              "ua": "У нас два ліжка.",
+              "audio": "les31-rule-27.mp3"
+            },
+            {
+              "nl": "Het huis heeft twee **trappen**.",
+              "ua": "У будинку двоє сходів.",
+              "audio": "les31-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Так пишеться, щоб голосна лишилася короткою. Gangen і banken не подвоюються: після ng і nk уже є дві приголосні."
+        },
+        {
+          "form": "dak - daken, sleutel - sleutels",
+          "when_ua": "У daken a стає довгою [aː], пишемо одну a. Слова на -el беруть -s.",
+          "examples": [
+            {
+              "nl": "De **daken** zijn nat.",
+              "ua": "Дахи мокрі.",
+              "audio": "les31-rule-29.mp3"
+            },
+            {
+              "nl": "Mijn **sleutels** liggen in de kast.",
+              "ua": "Мої ключі лежать у шафі.",
+              "audio": "les31-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Як dag - dagen (Les 4) і maan - manen (Les 1). Так само spiegel - spiegels, zolder - zolders."
+        }
+      ],
+      "points_ua": [
+        "Bed - bedden, trap - trappen: приголосна подвоюється.",
+        "Dak - daken, sleutel - sleutels."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Het appartement heeft twee slaapkamers en een badkamer.",
+      "ua": "У квартирі дві спальні й ванна кімната.",
+      "audio": "les31-example-01.mp3"
+    },
+    {
+      "nl": "De gang is lang, maar de badkamer is klein.",
+      "ua": "Коридор довгий, але ванна кімната маленька.",
+      "audio": "les31-example-02.mp3"
+    },
+    {
+      "nl": "De televisie staat in de woonkamer.",
+      "ua": "Телевізор стоїть у вітальні.",
+      "audio": "les31-example-03.mp3"
+    },
+    {
+      "nl": "Waar staat de wasmachine?",
+      "ua": "Де стоїть пральна машина?",
+      "audio": "les31-example-04.mp3"
+    },
+    {
+      "nl": "Er staat een stoel op het balkon.",
+      "ua": "На балконі стоїть стілець.",
+      "audio": "les31-example-05.mp3"
+    },
+    {
+      "nl": "Ik neem een douche in de badkamer.",
+      "ua": "Я приймаю душ у ванній кімнаті.",
+      "audio": "les31-example-06.mp3"
+    },
+    {
+      "nl": "De spiegel is naast de deur.",
+      "ua": "Дзеркало біля дверей.",
+      "audio": "les31-example-07.mp3"
+    },
+    {
+      "nl": "De baby ligt op de bank.",
+      "ua": "Немовля лежить на дивані.",
+      "audio": "les31-example-08.mp3"
+    },
+    {
+      "nl": "De kleren liggen op het bed.",
+      "ua": "Одяг лежить на ліжку.",
+      "audio": "les31-example-09.mp3"
+    },
+    {
+      "nl": "Mijn sleutel ligt in de gang.",
+      "ua": "Мій ключ лежить у коридорі.",
+      "audio": "les31-example-10.mp3"
+    },
+    {
+      "nl": "Het appartement is op de tweede verdieping.",
+      "ua": "Квартира на третьому поверсі (за нашим рахунком).",
+      "audio": "les31-example-11.mp3"
+    },
+    {
+      "nl": "In de kelder is het koud.",
+      "ua": "У підвалі холодно.",
+      "audio": "les31-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn appartement",
+    "title_ua": "Моя квартира",
+    "highlight": [
+      "nl-6bc638cb",
+      "nl-008e330b",
+      "nl-26d56e15",
+      "nl-a25ab0d0",
+      "nl-6f048b60",
+      "nl-b0ce18fd",
+      "nl-c383b1f7",
+      "nl-0c73a9fb",
+      "nl-e45ae629",
+      "nl-f4fa3202",
+      "nl-022a8068",
+      "nl-d3e86060",
+      "nl-4331ad76"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn appartement is klein, maar mooi.",
+        "ua": "Моя квартира маленька, але гарна.",
+        "audio": "les31-reading-01.mp3"
+      },
+      {
+        "nl": "Er is een woonkamer met een balkon.",
+        "ua": "Є вітальня з балконом.",
+        "audio": "les31-reading-02.mp3"
+      },
+      {
+        "nl": "In de woonkamer staat er een grote bank.",
+        "ua": "У вітальні стоїть великий диван.",
+        "audio": "les31-reading-03.mp3"
+      },
+      {
+        "nl": "De televisie staat naast het raam.",
+        "ua": "Телевізор стоїть біля вікна.",
+        "audio": "les31-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn bed staat in de slaapkamer.",
+        "ua": "Моє ліжко стоїть у спальні.",
+        "audio": "les31-reading-05.mp3"
+      },
+      {
+        "nl": "Naast het bed staat er een lamp.",
+        "ua": "Біля ліжка стоїть лампа.",
+        "audio": "les31-reading-06.mp3"
+      },
+      {
+        "nl": "De sleutels liggen altijd in de gang.",
+        "ua": "Ключі завжди лежать у коридорі.",
+        "audio": "les31-reading-07.mp3"
+      },
+      {
+        "nl": "De badkamer is klein, maar er is een douche.",
+        "ua": "Ванна кімната маленька, але є душ.",
+        "audio": "les31-reading-08.mp3"
+      },
+      {
+        "nl": "De wasmachine staat in de badkamer.",
+        "ua": "Пральна машина стоїть у ванній кімнаті.",
+        "audio": "les31-reading-09.mp3"
+      },
+      {
+        "nl": "Ik vind mijn appartement leuk.",
+        "ua": "Мені подобається моя квартира.",
+        "audio": "les31-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Стілець стоїть біля ліжка.",
+          "accepted": [
+            "De stoel staat naast het bed."
+          ]
+        },
+        {
+          "prompt": "Де лежить мій ключ?",
+          "accepted": [
+            "Waar ligt mijn sleutel?"
+          ]
+        },
+        {
+          "prompt": "Холодильник стоїть у кухні.",
+          "accepted": [
+            "De koelkast staat in de keuken."
+          ]
+        },
+        {
+          "prompt": "У кімнаті стоять два ліжка.",
+          "accepted": [
+            "In de kamer staan twee bedden.",
+            "In de kamer staan er twee bedden.",
+            "Er staan twee bedden in de kamer."
+          ]
+        },
+        {
+          "prompt": "Мої туфлі лежать біля дивана.",
+          "accepted": [
+            "Mijn schoenen liggen naast de bank."
+          ]
+        },
+        {
+          "prompt": "Діти сплять у спальні.",
+          "accepted": [
+            "De kinderen slapen in de slaapkamer."
+          ]
+        },
+        {
+          "prompt": "Ми живемо в маленькій квартирі.",
+          "accepted": [
+            "Wij wonen in een klein appartement.",
+            "We wonen in een klein appartement."
+          ]
+        },
+        {
+          "prompt": "Стіна біла, а підлога сіра.",
+          "accepted": [
+            "De muur is wit en de vloer is grijs.",
+            "De muur is wit, maar de vloer is grijs."
+          ]
+        },
+        {
+          "prompt": "У ванній кімнаті немає дзеркала.",
+          "accepted": [
+            "Er is geen spiegel in de badkamer.",
+            "In de badkamer is er geen spiegel.",
+            "In de badkamer is geen spiegel."
+          ]
+        },
+        {
+          "prompt": "Мій тато йде спати.",
+          "accepted": [
+            "Mijn vader gaat naar bed."
+          ]
+        },
+        {
+          "prompt": "На столі лежить книга.",
+          "accepted": [
+            "Er ligt een boek op de tafel.",
+            "Op de tafel ligt er een boek.",
+            "Op de tafel ligt een boek."
+          ]
+        },
+        {
+          "prompt": "Телевізор не стоїть у спальні.",
+          "accepted": [
+            "De televisie staat niet in de slaapkamer."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: staat чи staan, ligt чи liggen, in, op, naast чи achter",
+      "bank": [
+        "staat",
+        "staan",
+        "ligt",
+        "liggen",
+        "sta",
+        "er",
+        "in",
+        "op",
+        "naast",
+        "achter",
+        "spiegel",
+        "slaapkamer"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "De bank ___ in de woonkamer.",
+          "hint": "Диван стоїть у вітальні",
+          "accepted": [
+            [
+              "staat"
+            ]
+          ]
+        },
+        {
+          "text": "De sleutels ___ op de tafel.",
+          "hint": "Ключі лежать на столі",
+          "accepted": [
+            [
+              "liggen"
+            ]
+          ]
+        },
+        {
+          "text": "Er ___ drie lampen in de kamer.",
+          "hint": "У кімнаті стоять три лампи",
+          "accepted": [
+            [
+              "staan"
+            ]
+          ]
+        },
+        {
+          "text": "___ staat een kast in de kamer.",
+          "hint": "У кімнаті стоїть шафа",
+          "accepted": [
+            [
+              "Er",
+              "er"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ in de gang.",
+          "hint": "Я стою в коридорі",
+          "accepted": [
+            [
+              "sta"
+            ]
+          ]
+        },
+        {
+          "text": "De baby ligt ___ bed.",
+          "hint": "Немовля лежить у ліжку",
+          "accepted": [
+            [
+              "in"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn opa slaapt ___ zolder.",
+          "hint": "Мій дідусь спить на горищі",
+          "accepted": [
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "De stoel staat ___ de tafel.",
+          "hint": "Стілець стоїть біля стола",
+          "accepted": [
+            [
+              "naast"
+            ]
+          ]
+        },
+        {
+          "text": "De auto staat ___ het huis.",
+          "hint": "Машина стоїть за будинком",
+          "accepted": [
+            [
+              "achter"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ is in de badkamer.",
+          "hint": "Дзеркало у ванній кімнаті",
+          "accepted": [
+            [
+              "spiegel"
+            ]
+          ]
+        },
+        {
+          "text": "In de ___ slapen de kinderen.",
+          "hint": "У спальні сплять діти",
+          "accepted": [
+            [
+              "slaapkamer"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus ___ in bed.",
+          "hint": "Моя сестра лежить у ліжку",
+          "accepted": [
+            [
+              "ligt"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "De kast staat hier.",
+          "cue": "-> множина: De ... staan hier.",
+          "accepted": [
+            "De kasten staan hier."
+          ]
+        },
+        {
+          "prompt": "De bank staat daar.",
+          "cue": "-> множина: De ... staan daar.",
+          "accepted": [
+            "De banken staan daar."
+          ]
+        },
+        {
+          "prompt": "Het bed staat hier.",
+          "cue": "-> множина: De ... staan hier.",
+          "accepted": [
+            "De bedden staan hier."
+          ]
+        },
+        {
+          "prompt": "De trap is oud.",
+          "cue": "-> множина: De ... zijn oud.",
+          "accepted": [
+            "De trappen zijn oud."
+          ]
+        },
+        {
+          "prompt": "De spiegel is groot.",
+          "cue": "-> множина: De ... zijn groot.",
+          "accepted": [
+            "De spiegels zijn groot."
+          ]
+        },
+        {
+          "prompt": "Het dak is oud.",
+          "cue": "-> множина: De ... zijn oud.",
+          "accepted": [
+            "De daken zijn oud."
+          ]
+        },
+        {
+          "prompt": "De muur is oud.",
+          "cue": "-> множина: De ... zijn oud.",
+          "accepted": [
+            "De muren zijn oud."
+          ]
+        },
+        {
+          "prompt": "De koelkast is groot.",
+          "cue": "-> множина: De ... zijn groot.",
+          "accepted": [
+            "De koelkasten zijn groot."
+          ]
+        },
+        {
+          "prompt": "Het balkon is klein.",
+          "cue": "-> множина: De ... zijn klein.",
+          "accepted": [
+            "De balkons zijn klein."
+          ]
+        },
+        {
+          "prompt": "Het appartement is groot.",
+          "cue": "-> множина: De ... zijn groot.",
+          "accepted": [
+            "De appartementen zijn groot."
+          ]
+        },
+        {
+          "prompt": "De stoel staat in de gang.",
+          "cue": "-> з er: Er staat een ... in de gang.",
+          "accepted": [
+            "Er staat een stoel in de gang."
+          ]
+        },
+        {
+          "prompt": "Het boek ligt op de bank.",
+          "cue": "-> починай з Op de bank",
+          "accepted": [
+            "Op de bank ligt het boek."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "De koelkast ___ naast de kast.",
+          "cue": "staan",
+          "accepted": [
+            "staat"
+          ]
+        },
+        {
+          "text": "De schoenen ___ in de gang.",
+          "cue": "liggen",
+          "accepted": [
+            "liggen"
+          ]
+        },
+        {
+          "text": "Ik ___ op de trap.",
+          "cue": "staan",
+          "accepted": [
+            "sta"
+          ]
+        },
+        {
+          "text": "De baby ___ op het bed.",
+          "cue": "liggen",
+          "accepted": [
+            "ligt"
+          ]
+        },
+        {
+          "text": "Er ___ vier stoelen in de keuken.",
+          "cue": "staan",
+          "accepted": [
+            "staan"
+          ]
+        },
+        {
+          "text": "Er ___ een jas op de stoel.",
+          "cue": "liggen",
+          "accepted": [
+            "ligt"
+          ]
+        },
+        {
+          "text": "Jullie ___ in de woonkamer.",
+          "cue": "staan",
+          "accepted": [
+            "staan"
+          ]
+        },
+        {
+          "text": "Mijn ouders ___ in bed.",
+          "cue": "liggen",
+          "accepted": [
+            "liggen"
+          ]
+        },
+        {
+          "text": "___ het toilet naast de badkamer?",
+          "cue": "zijn",
+          "accepted": [
+            "Is",
+            "is"
+          ]
+        },
+        {
+          "text": "Mijn broer ___ in de slaapkamer.",
+          "cue": "slapen",
+          "accepted": [
+            "slaapt"
+          ]
+        },
+        {
+          "text": "Mijn opa ___ in een groot appartement.",
+          "cue": "wonen",
+          "accepted": [
+            "woont"
+          ]
+        },
+        {
+          "text": "Ik ___ een douche.",
+          "cue": "nemen",
+          "accepted": [
+            "neem"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "сходи",
+          "answer": "de trap"
+        },
+        {
+          "prompt": "горище",
+          "answer": "de zolder"
+        },
+        {
+          "prompt": "підвал",
+          "answer": "de kelder"
+        },
+        {
+          "prompt": "дах",
+          "answer": "het dak"
+        },
+        {
+          "prompt": "підлога",
+          "answer": "de vloer"
+        },
+        {
+          "prompt": "стіна",
+          "answer": "de muur"
+        },
+        {
+          "prompt": "ключ",
+          "answer": "de sleutel"
+        },
+        {
+          "prompt": "дзеркало",
+          "answer": "de spiegel"
+        },
+        {
+          "prompt": "холодильник",
+          "answer": "de koelkast"
+        },
+        {
+          "prompt": "пральна машина",
+          "answer": "de wasmachine"
+        }
+      ],
+      "extra": [
+        "de badkamer",
+        "de douche"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb"
+      ]
+    }
+  ]
+}
