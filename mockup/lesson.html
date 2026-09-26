@@ -46,6 +46,25 @@
   /* a word the teacher could not verify: a small amber "?" (same amber as a new word), a click shows the reason */
   button.qmark { flex: none; font: inherit; font-size: 12px; font-weight: 700; line-height: 1; width: 20px; height: 20px; padding: 0; border-radius: 50%; cursor: pointer; background: var(--new); color: var(--new-ink); border: 1px solid var(--new-ink); }
   button.qmark:hover { filter: brightness(1.15); }
+  /* tenses tab: the table of one verb, tenses that are not learned yet are greyed out */
+  .tenses-scroll { overflow-x: auto; margin-top: 12px; }
+  table.tenses { border-collapse: collapse; width: 100%; min-width: 760px; }
+  table.tenses th, table.tenses td { border-bottom: 1px solid var(--line); padding: 8px 8px; text-align: left; vertical-align: top; }
+  table.tenses th { font-weight: 600; color: var(--muted); font-size: 13px; }
+  table.tenses td.tense-name { min-width: 190px; }
+  table.tenses .tn-nl { font-weight: 600; }
+  table.tenses .tn-meta { color: var(--muted); font-size: 12px; line-height: 1.4; }
+  table.tenses td.cell { font-size: 15px; font-weight: 600; white-space: nowrap; }
+  table.tenses tr.later { opacity: .5; }
+  table.tenses tr.later .tn-meta.later-note { font-style: italic; }
+  .tenses-tools { display: flex; justify-content: flex-end; align-items: center; flex-wrap: wrap; gap: 8px 14px; margin-top: 18px; }
+  .tenses-tools label { display: flex; align-items: center; gap: 8px; color: var(--muted); }
+  .tenses-tools input { font: inherit; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); width: 180px; }
+  .tenses-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tenses-chips button { font: inherit; font-size: 14px; background: var(--pill); color: var(--accent); border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; cursor: pointer; }
+  .tenses-chips button:hover { border-color: var(--accent); }
+  .tenses-chips button.active { background: var(--accent); color: var(--card); border-color: var(--accent); }
+  .tenses-msg { text-align: right; margin: 8px 0 0; }
   .check-note { color: var(--new-ink); }
   button.check-open { display: block; margin: 16px auto 0; }
   .check-panel { margin-top: 12px; }
@@ -203,6 +222,7 @@
       <button data-view="cards">Картки</button>
       <button data-view="texts">Тексти</button>
       <button data-view="words">Слова</button>
+      <button data-view="tenses" hidden>Часи</button>
       <button data-view="progress">Прогрес</button>
     </nav>
   </header>
@@ -272,6 +292,22 @@
     </div>
   </section>
 
+  <section id="view-tenses" class="view">
+    <div class="block"><h2><span>Часи</span><span class="dutch">Tijden</span></h2>
+      <p class="meta" id="tenses-intro" style="margin:0;text-align:center"></p>
+      <h3 class="sub" id="tenses-title"></h3>
+      <div id="tenses-check"></div>
+      <div class="tenses-scroll"><table class="tenses" id="tenses-table"></table></div>
+      <ul class="points" id="tenses-points"></ul>
+      <div class="tenses-tools">
+        <div class="tenses-chips" id="tenses-chips"></div>
+        <label>Дієслово <input type="text" id="tenses-input" list="tenses-verbs" autocomplete="off" spellcheck="false" placeholder="інфінітив"></label>
+        <datalist id="tenses-verbs"></datalist>
+      </div>
+      <p class="meta tenses-msg" id="tenses-msg" hidden></p>
+    </div>
+  </section>
+
   <section id="view-progress" class="view">
     <div class="block"><h2><span>Прогрес</span><span class="dutch">Voortgang</span></h2>
       <table class="list">
@@ -289,6 +325,7 @@
       <button data-view="cards">Картки</button>
       <button data-view="texts">Тексти</button>
       <button data-view="words">Слова</button>
+      <button data-view="tenses" hidden>Часи</button>
       <button data-view="progress">Прогрес</button>
     </nav>
   </header>
@@ -297,11 +334,13 @@
 
 <script src="audio-paths.local.js"></script>
 <script src="lessons.data.js"></script>
+<script src="tenses.data.js"></script>
 <script src="../node_modules/ts-fsrs/dist/index.umd.js"></script>
 <script src="progress-store.js"></script>
 <script src="cards.js"></script>
 <script src="extra-practice.js"></script>
 <script src="story.js"></script>
+<script src="tenses.js"></script>
 <script src="lesson.js"></script>
 </body>
 </html>

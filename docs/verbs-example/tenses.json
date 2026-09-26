@@ -1,0 +1,46 @@
+{
+  "intro_ua": "EXAMPLE ONLY: the teacher's real text goes here. Dutch names eight tenses, but only two of them are simple forms.",
+  "points_ua": [
+    "EXAMPLE ONLY: one short point, for example how Dutch differs from Ukrainian."
+  ],
+  "persons": [
+    { "id": "ik", "label": "ik" },
+    { "id": "jij", "label": "jij / je" },
+    { "id": "hij", "label": "hij / zij / het" },
+    { "id": "wij", "label": "wij / we" },
+    { "id": "jullie", "label": "jullie" },
+    { "id": "zij", "label": "zij / ze" }
+  ],
+  "aux": {
+    "hebben": {
+      "inf": "hebben",
+      "present": { "ik": "heb", "jij": "hebt", "hij": "heeft", "wij": "hebben", "jullie": "hebben", "zij": "hebben" },
+      "past": { "ik": "had", "jij": "had", "hij": "had", "wij": "hadden", "jullie": "hadden", "zij": "hadden" }
+    },
+    "zijn": {
+      "inf": "zijn",
+      "present": { "ik": "ben", "jij": "bent", "hij": "is", "wij": "zijn", "jullie": "zijn", "zij": "zijn" },
+      "past": { "ik": "was", "jij": "was", "hij": "was", "wij": "waren", "jullie": "waren", "zij": "waren" }
+    },
+    "gaan": {
+      "inf": "gaan",
+      "present": { "ik": "ga", "jij": "gaat", "hij": "gaat", "wij": "gaan", "jullie": "gaan", "zij": "gaan" },
+      "past": { "ik": "ging", "jij": "ging", "hij": "ging", "wij": "gingen", "jullie": "gingen", "zij": "gingen" }
+    },
+    "zullen": {
+      "inf": "zullen",
+      "present": { "ik": "zal", "jij": "zult", "hij": "zal", "wij": "zullen", "jullie": "zullen", "zij": "zullen" },
+      "past": { "ik": "zou", "jij": "zou", "hij": "zou", "wij": "zouden", "jullie": "zouden", "zij": "zouden" }
+    }
+  },
+  "tenses": [
+    { "id": "ott", "name_nl": "onvoltooid tegenwoordige tijd", "abbr": "o.t.t.", "name_ua": "теперішній", "template": "{verb.present} {prefix}", "formula_ua": "EXAMPLE: stem + endings", "freq_ua": "дуже часто", "since_lesson": 1 },
+    { "id": "ovt", "name_nl": "onvoltooid verleden tijd", "abbr": "o.v.t.", "name_ua": "простий минулий", "template": "{verb.past} {prefix}", "formula_ua": "EXAMPLE: stem + -de/-te(n)", "freq_ua": "часто", "since_lesson": 26 },
+    { "id": "vtt", "name_nl": "voltooid tegenwoordige tijd", "abbr": "v.t.t.", "name_ua": "перфект", "template": "{aux.present} {ptc}", "formula_ua": "EXAMPLE: hebben/zijn + participle", "freq_ua": "дуже часто в розмові", "since_lesson": 32 },
+    { "id": "vvt", "name_nl": "voltooid verleden tijd", "abbr": "v.v.t.", "name_ua": "давноминулий", "template": "{aux.past} {ptc}", "formula_ua": "EXAMPLE: had/was + participle", "freq_ua": "помірно", "since_lesson": null },
+    { "id": "ottt", "name_nl": "onvoltooid tegenwoordige toekomende tijd", "abbr": "o.t.t.t.", "name_ua": "майбутній", "template": "{gaan.present} {inf}", "formula_ua": "EXAMPLE: gaan + infinitive", "freq_ua": "дуже часто", "since_lesson": null },
+    { "id": "ovtt", "name_nl": "onvoltooid verleden toekomende tijd", "abbr": "o.v.t.t.", "name_ua": "умовний", "template": "{zullen.past} {inf}", "formula_ua": "EXAMPLE: zou + infinitive", "freq_ua": "часто", "since_lesson": null },
+    { "id": "vttt", "name_nl": "voltooid tegenwoordige toekomende tijd", "abbr": "v.t.t.t.", "name_ua": "майбутнє доконане", "template": "{zullen.present} {ptc} {aux.inf}", "formula_ua": "EXAMPLE: zullen + participle + hebben/zijn", "freq_ua": "рідко", "since_lesson": null },
+    { "id": "vvtt", "name_nl": "voltooid verleden toekomende tijd", "abbr": "v.v.t.t.", "name_ua": "умовний у минулому", "template": "{zullen.past} {ptc} {aux.inf}", "formula_ua": "EXAMPLE: zou + participle + hebben/zijn", "freq_ua": "рідко", "since_lesson": null }
+  ]
+}

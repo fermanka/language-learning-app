@@ -1,0 +1,43 @@
+{
+  "default": "werken",
+  "chips": ["gaan", "eten", "opstaan"],
+  "verbs": [
+    {
+      "inf": "werken",
+      "ua": "працювати",
+      "aux": "hebben",
+      "present": { "ik": "werk", "jij": "werkt", "hij": "werkt", "wij": "werken", "jullie": "werken", "zij": "werken" },
+      "past": { "ik": "werkte", "jij": "werkte", "hij": "werkte", "wij": "werkten", "jullie": "werkten", "zij": "werkten" },
+      "ptc": "gewerkt",
+      "prefix": ""
+    },
+    {
+      "inf": "gaan",
+      "ua": "йти, їхати",
+      "aux": "zijn",
+      "present": { "ik": "ga", "jij": "gaat", "hij": "gaat", "wij": "gaan", "jullie": "gaan", "zij": "gaan" },
+      "past": { "ik": "ging", "jij": "ging", "hij": "ging", "wij": "gingen", "jullie": "gingen", "zij": "gingen" },
+      "ptc": "gegaan",
+      "prefix": ""
+    },
+    {
+      "inf": "eten",
+      "ua": "їсти",
+      "aux": "hebben",
+      "present": { "ik": "eet", "jij": "eet", "hij": "eet", "wij": "eten", "jullie": "eten", "zij": "eten" },
+      "past": { "ik": "at", "jij": "at", "hij": "at", "wij": "aten", "jullie": "aten", "zij": "aten" },
+      "ptc": "gegeten",
+      "prefix": "",
+      "check": "EXAMPLE ONLY: a reason shown as a small question mark next to the verb."
+    },
+    {
+      "inf": "opstaan",
+      "ua": "вставати",
+      "aux": "zijn",
+      "present": { "ik": "sta", "jij": "staat", "hij": "staat", "wij": "staan", "jullie": "staan", "zij": "staan" },
+      "past": { "ik": "stond", "jij": "stond", "hij": "stond", "wij": "stonden", "jullie": "stonden", "zij": "stonden" },
+      "ptc": "opgestaan",
+      "prefix": "op"
+    }
+  ]
+}

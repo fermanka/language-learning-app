@@ -662,9 +662,63 @@ if (typeof document === 'undefined') {
     root.append(btn, panel);
   }
 
+  // ---- Tenses tab: the table of ONE verb, composed from the teacher's tenses.json + verbs.json (docs/tenses-format.md).
+  // Only verbs from her list can be looked up; the page never guesses a form. No data, or bad data: the tab stays hidden.
+  const TN = window.Tenses, TENSES = window.TENSES, VERBS = window.VERBS;
+  let tensesVerb = null;
+  const lessonDoneByOrder = (n) => { const i = LESSONS.findIndex((L) => L.order === n); return i !== -1 && isDone(i); };
+
+  function renderTenses() {
+    const verb = tensesVerb;
+    const title = $('tenses-title'); title.innerHTML = ''; title.append(document.createTextNode(`${verb.inf} (${verb.ua})`));
+    const chk = $('tenses-check'); chk.innerHTML = '';
+    if (verb.check) { const mark = checkMark(verb); title.append(document.createTextNode(' '), mark.btn); chk.append(mark.note); }
+    const table = $('tenses-table'); table.innerHTML = '';
+    const head = el('tr'); head.append(el('th', null, 'Час'));
+    TENSES.persons.forEach((p) => head.append(el('th', null, p.label)));
+    table.append(head);
+    TN.conjugate(TENSES, verb).forEach(({ tense, cells }) => {
+      const learned = TN.learned(tense, lessonDoneByOrder);
+      const tr = el('tr', learned ? '' : 'later');
+      const name = el('td', 'tense-name');
+      name.append(el('div', 'tn-nl', tense.name_ua), el('div', 'tn-meta', [tense.name_nl + (tense.abbr ? ` (${tense.abbr})` : ''), tense.formula_ua, tense.freq_ua].filter(Boolean).join(' · ')));
+      name.append(el('div', 'tn-meta later-note', learned ? `Les ${tense.since_lesson}` : tense.since_lesson === null ? 'пізніше' : `пізніше (Les ${tense.since_lesson})`));
+      tr.append(name);
+      TN.PERSONS.forEach((p) => tr.append(el('td', 'cell', cells[p])));
+      table.append(tr);
+    });
+    document.querySelectorAll('#tenses-chips button').forEach((b) => b.classList.toggle('active', b.textContent === verb.inf));
+  }
+
+  function chooseVerb(text) {
+    const msg = $('tenses-msg');
+    if (!text.trim()) { msg.hidden = true; return; }
+    const v = TN.findVerb(VERBS, text);
+    if (!v) { msg.textContent = `Дієслова «${text.trim()}» ще немає в списку Марійке. Таблиця показує лише слова, які вона підготувала.`; msg.hidden = false; return; }
+    msg.hidden = true; tensesVerb = v; renderTenses();
+  }
+
+  function initTenses() {
+    $('tenses-intro').textContent = TENSES.intro_ua;
+    (TENSES.points_ua || []).forEach((p) => $('tenses-points').append(el('li', null, p)));
+    VERBS.verbs.forEach((v) => { const o = el('option'); o.value = v.inf; o.label = v.ua; $('tenses-verbs').append(o); });
+    const input = $('tenses-input');
+    (VERBS.chips || []).forEach((c) => { const b = el('button', null, c); b.type = 'button'; b.onclick = () => { input.value = c; chooseVerb(c); }; $('tenses-chips').append(b); });
+    input.addEventListener('input', () => chooseVerb(input.value));
+    tensesVerb = TN.findVerb(VERBS, VERBS.default);
+    document.querySelectorAll('button[data-view="tenses"]').forEach((b) => { b.hidden = false; });
+    renderTenses();
+  }
+  if (TN && TENSES && VERBS) {
+    const res = TN.validate(TENSES, VERBS);
+    if (res.errors.length) console.warn('The tenses tab stays hidden, the data files have errors:\n' + res.errors.join('\n'));
+    else initTenses();
+  }
+
   function show(view) {
     document.querySelectorAll('.view').forEach((v) => v.classList.toggle('active', v.id === 'view-' + view));
     if (view === 'cards') renderStage();
+    if (view === 'tenses' && tensesVerb) renderTenses();   // a lesson done since the last visit un-greys its tense
     document.querySelectorAll('nav button').forEach((b) => b.classList.toggle('active', b.dataset.view === view));
     window.scrollTo(0, 0);
   }

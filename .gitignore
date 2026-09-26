@@ -22,4 +22,5 @@ state.json
 *.wav
 *.webm
 mockup/lessons.data.js
+mockup/tenses.data.js
 mockup/audio-paths.local.js

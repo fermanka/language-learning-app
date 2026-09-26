@@ -6,8 +6,9 @@
   "scripts": {
     "validate": "node scripts/validate-content.js",
     "build": "node mockup/build-data.js",
-    "test": "node scripts/validate-content.js && node mockup/progress-store.test.js && node mockup/cards.test.js && node mockup/dictation.test.js && node mockup/start-lesson.test.js && node mockup/extra-practice.test.js && node mockup/story.test.js && node mockup/check-flag.test.js && node mockup/split-terms.test.js && node scripts/validate-story.js docs/story-example && node scripts/validate-extra.js docs/extra-practice-example && node scripts/progress-digest.test.js && node scripts/extra-needed.test.js && node mockup/smoke-test.js",
+    "test": "node scripts/validate-content.js && node mockup/progress-store.test.js && node mockup/cards.test.js && node mockup/dictation.test.js && node mockup/start-lesson.test.js && node mockup/extra-practice.test.js && node mockup/story.test.js && node mockup/check-flag.test.js && node mockup/split-terms.test.js && node mockup/tenses.test.js && node scripts/validate-verbs.js docs/verbs-example && node scripts/validate-verbs.js content/nl --optional && node scripts/validate-story.js docs/story-example && node scripts/validate-extra.js docs/extra-practice-example && node scripts/progress-digest.test.js && node scripts/extra-needed.test.js && node mockup/smoke-test.js",
     "digest": "node scripts/progress-digest.js",
+    "validate:verbs": "node scripts/validate-verbs.js",
     "validate:extra": "node scripts/validate-extra.js",
     "validate:story": "node scripts/validate-story.js",
     "extra:needed": "node scripts/extra-needed.js"

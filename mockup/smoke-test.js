@@ -19,7 +19,7 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'check-box', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra', 'b6-story'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'check-box', 'tenses-intro', 'tenses-title', 'tenses-check', 'tenses-table', 'tenses-points', 'tenses-chips', 'tenses-input', 'tenses-verbs', 'tenses-msg', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra', 'b6-story'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
@@ -37,6 +37,9 @@ window.FSRS = require('ts-fsrs');
 window.Cards = require('./cards.js');
 window.ExtraPractice = require('./extra-practice.js');
 window.Story = require('./story.js');
+window.Tenses = require('./tenses.js');   // the tenses tab, tested with the example data (the real files are written by the teacher)
+window.TENSES = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'docs', 'verbs-example', 'tenses.json'), 'utf8'));
+window.VERBS = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'docs', 'verbs-example', 'verbs.json'), 'utf8'));
 require('./lesson.js');
 
 let bad = 0;
@@ -125,6 +128,30 @@ openBtn.onclick();
 t('check list: the button closes it again', checkPanel.hidden === true);
 chips()[N - 1].onclick();
 byId['next'].onclick();               // last lesson: must not crash
+// ---- tenses tab (all lessons are done at this point)
+const tRows = () => byId['tenses-table'].children.slice(1);   // the first row is the header
+const cellsOf = (tr) => tr.children.slice(1).map((c) => c.textContent);
+byId['nav'].listeners.click({ target: { dataset: { view: 'tenses' } } });   // open the Tenses tab
+t('tenses: the default verb is shown', byId['tenses-title'].textContent.startsWith('werken'));
+t('tenses: one header row and one row per tense', byId['tenses-table'].children.length === 1 + window.TENSES.tenses.length);
+t('tenses: the header lists the six persons', byId['tenses-table'].children[0].children.slice(1).map((c) => c.textContent).join() === window.TENSES.persons.map((p) => p.label).join());
+t('tenses: a tense is greyed out when it is not taught yet and normal when its lesson is done', tRows().every((tr, i) => tr.className.split(' ').includes('later') === (window.TENSES.tenses[i].since_lesson === null)));
+t('tenses: the perfect row of the default verb', cellsOf(tRows()[2]).join() === 'heb gewerkt,hebt gewerkt,heeft gewerkt,hebben gewerkt,hebben gewerkt,hebben gewerkt');
+t('tenses: the intro and the quick buttons are filled', byId['tenses-intro'].textContent === window.TENSES.intro_ua && byId['tenses-chips'].children.map((b) => b.textContent).join() === 'gaan,eten,opstaan' && byId['tenses-verbs'].children.length === window.VERBS.verbs.length);
+const typeVerb = (v) => { byId['tenses-input'].value = v; byId['tenses-input'].listeners.input(); };
+typeVerb('gaan');
+t('tenses: typing a verb of the list rebuilds the table', byId['tenses-title'].textContent.startsWith('gaan') && cellsOf(tRows()[2])[0] === 'ben gegaan' && byId['tenses-msg'].hidden === true);
+typeVerb('zwemmen');
+t('tenses: a verb that is not in the list is refused and the table stays', byId['tenses-msg'].hidden === false && byId['tenses-msg'].textContent.includes('zwemmen') && byId['tenses-title'].textContent.startsWith('gaan'));
+typeVerb('');
+t('tenses: an empty field clears the message', byId['tenses-msg'].hidden === true);
+byId['tenses-chips'].children.find((b) => b.textContent === 'opstaan').onclick();
+t('tenses: a quick button fills the field and shows the verb', byId['tenses-input'].value === 'opstaan' && byId['tenses-title'].textContent.startsWith('opstaan') && cellsOf(tRows()[0])[0] === 'sta op' && cellsOf(tRows()[2])[0] === 'ben opgestaan');
+typeVerb('eten');
+t('tenses: a verb with a check reason shows a "?" and a hidden reason', byId['tenses-title'].all().some((e) => e.className === 'qmark') && byId['tenses-check'].all().some((e) => e.className.split(' ').includes('check-note') && e.hidden === true));
+typeVerb('gaan');
+t('tenses: a verb without a check reason shows no "?"', !byId['tenses-title'].all().some((e) => e.className === 'qmark') && byId['tenses-check'].children.length === 0);
+
 // ---- flashcards (every lesson is done at this point, so the deck holds every note once)
 const deckSize = window.LESSONS.reduce((n, L) => n + L.notes.length, 0);   // one card per note: the reverse cards are switched off
 byId['nav'].listeners.click({ target: { dataset: { view: 'cards' } } });   // open the Cards tab
