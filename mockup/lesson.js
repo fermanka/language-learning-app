@@ -673,6 +673,15 @@ if (typeof document === 'undefined') {
   const saveTensesOff = () => { try { localStorage.setItem(TENSES_OFF_KEY, JSON.stringify([...tensesOff])); } catch (e) { /* ignore */ } };
   const lessonDoneByOrder =(n) => { const i = LESSONS.findIndex((L) => L.order === n); return i !== -1 && isDone(i); };
 
+  // A verb group of more than two words (zal gewerkt hebben) goes on two lines, the last word alone: the columns stay narrow.
+  // The text stays whole (a space before the line break), so copying or reading it gives the normal phrase.
+  function tenseCell(text) {
+    const td = el('td', 'cell'), w = text.split(' ');
+    if (w.length > 2) td.append(document.createTextNode(w.slice(0, -1).join(' ') + ' '), el('br'), document.createTextNode(w[w.length - 1]));
+    else td.textContent = text;
+    return td;
+  }
+
   function renderTenses() {
     const verb = tensesVerb;
     const title = $('tenses-title'); title.innerHTML = ''; title.append(document.createTextNode(`${verb.inf} (${verb.ua})`));
@@ -695,7 +704,7 @@ if (typeof document === 'undefined') {
       name.append(el('div', 'tn-nl', tense.name_ua), el('div', 'tn-meta', [tense.name_nl + (tense.abbr ? ` (${tense.abbr})` : ''), tense.formula_ua, tense.freq_ua].filter(Boolean).join(' · ')));
       name.append(el('div', 'tn-meta later-note', learned ? `Les ${tense.since_lesson}` : tense.since_lesson === null ? 'пізніше' : `пізніше (Les ${tense.since_lesson})`));
       tr.append(name);
-      TN.PERSONS.forEach((p) => tr.append(el('td', 'cell', cells[p])));
+      TN.PERSONS.forEach((p) => tr.append(tenseCell(cells[p])));
       table.append(tr);
     });
     document.querySelectorAll('#tenses-chips button').forEach((b) => b.classList.toggle('active', b.textContent === verb.inf));

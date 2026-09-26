@@ -137,6 +137,8 @@ t('tenses: one header row and one row per tense', byId['tenses-table'].children.
 t('tenses: the header lists the six persons', byId['tenses-table'].children[0].children.slice(2).map((c) => c.textContent).join() === window.TENSES.persons.map((p) => p.label).join());
 t('tenses: a tense is greyed out when it is not taught yet and normal when its lesson is done', tRows().every((tr, i) => tr.className.split(' ').includes('later') === (window.TENSES.tenses[i].since_lesson === null)));
 t('tenses: the perfect row of the default verb', cellsOf(tRows()[2]).join() === 'heb gewerkt,hebt gewerkt,heeft gewerkt,hebben gewerkt,hebben gewerkt,hebben gewerkt');
+t('tenses: a verb group of more than two words goes on two lines and the text stays whole', tRows()[6].children[2].children.some((c) => c.tag === 'br') && cellsOf(tRows()[6])[0] === 'zal gewerkt hebben');
+t('tenses: a verb group of two words stays on one line', !tRows()[2].children[2].children.some((c) => c.tag === 'br') && cellsOf(tRows()[2])[0] === 'heb gewerkt');
 t('tenses: the intro and the quick buttons are filled', byId['tenses-intro'].textContent === window.TENSES.intro_ua && byId['tenses-chips'].children.map((b) => b.textContent).join() === 'gaan,eten,opstaan' && byId['tenses-verbs'].children.length === window.VERBS.verbs.length);
 const typeVerb = (v) => { byId['tenses-input'].value = v; byId['tenses-input'].listeners.input(); };
 typeVerb('gaan');
