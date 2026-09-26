@@ -12,7 +12,7 @@ let errors = 0;
 const fail = (msg) => { errors++; console.error('ERROR ', msg); };
 
 // A curly apostrophe (opa’s, typed on a phone or pasted from Word) counts as the straight one.
-const tokens = (s) => s.replace(/\*\*/g, '').toLowerCase().replace(/’/g, "'").replace(/[.,!?()\/]/g, ' ').split(/\s+/).filter((t) => t && !/^_+$/.test(t) && t !== '-' && t !== '->');
+const tokens = (s) => s.replace(/\*\*/g, '').toLowerCase().replace(/’/g, "'").replace(/[.,!?:;()\/]/g, ' ').split(/\s+/).filter((t) => t && !/^_+$/.test(t) && t !== '-' && t !== '->');
 
 const lessons = fs.readdirSync(lessonsDir).filter((f) => f.endsWith('.json')).sort().map((file) => {
   try { return { file, data: JSON.parse(fs.readFileSync(path.join(lessonsDir, file), 'utf8')) }; }
