@@ -1,0 +1,1268 @@
+{
+  "id": "nl-les-35",
+  "lang": "nl",
+  "order": 35,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-8c8901ed",
+      "type": "noun",
+      "article": "de",
+      "lemma": "leraar",
+      "plural": [
+        "leraren"
+      ],
+      "ua": "вчитель, вчителька (одне слово)",
+      "audio": "de-leraar.mp3",
+      "explain_ua": "(Ik ben leraar = я вчителька; Mijn oma was leraar = моя бабуся була вчителькою). Leraar це вчитель і вчителька: слово одне і для чоловіка, і для жінки. Існує й жіноча форма lerares, але нею користуються дедалі менше; вчи саме leraar. Множина leraren: aa у відкритому складі стає a, звук той самий, як maan - manen (Les 1). Слово пов'язане з leren (Les 27): підказка для пам'яті. Ee у першому складі довге [eː], як у de thee (Les 12); aa довге [aː]; наголос на першому складі: LEE-raar",
+      "check": "Що форма lerares виходить з ужитку, словник не підтвердив (сама форма в ньому є)."
+    },
+    {
+      "id": "nl-7a54cae0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "dokter",
+      "plural": [
+        "dokters"
+      ],
+      "ua": "лікар, лікарка (звичайне слово)",
+      "audio": "de-dokter.mp3",
+      "explain_ua": "(Mijn vader is dokter = мій тато лікар). Dokter це звичайне слово для лікаря, одне і для чоловіка, і для жінки. Схоже на англійське doctor: підказка для пам'яті. Множина dokters (-s): слова на -er беруть -s, як слова на -el (de appel - de appels, Les 8). O коротка [ɔ]; k без придиху, як у слов'янських мовах; наголос на першому складі: DOK-ter"
+    },
+    {
+      "id": "nl-f40216d6",
+      "type": "noun",
+      "article": "de",
+      "lemma": "arts",
+      "plural": [
+        "artsen"
+      ],
+      "ua": "лікар, лікарка (професійне слово)",
+      "audio": "de-arts.mp3",
+      "explain_ua": "(Mijn moeder is arts = моя мама лікарка). Arts це теж лікар, одне слово і для чоловіка, і для жінки. Значення те саме, що в dokter; arts звучить більш «фахово», dokter це звичайне слово в розмові. Множина artsen (-en). Ts це [ts], як українське «ц»: приблизно «арц»; a коротка [ɑ], як у man (Les 1); наголос на першому складі",
+      "check": "Різницю arts і dokter за стилем з власних знань, словник не перевірено."
+    },
+    {
+      "id": "nl-7691924a",
+      "type": "noun",
+      "article": "de",
+      "lemma": "verpleegkundige",
+      "plural": [
+        "verpleegkundigen"
+      ],
+      "ua": "медсестра, медбрат (одне слово)",
+      "audio": "de-verpleegkundige.mp3",
+      "explain_ua": "(Mijn zus is verpleegkundige = моя сестра медсестра). Verpleegkundige це і медсестра, і медбрат: слово одне для чоловіка й жінки (словник це підтверджує). Українською два різних слова, нідерландською одне. Множина verpleegkundigen: до -e додаємо -n. Довге слово, вчи його цілим. Ee довге [eː], як у de thee (Les 12); u коротка [ʏ]: губи круглі, звук між «и» і «ю»; кінцеве g у pleeg це [x], як х у хата (Les 1). Наголос на третьому складі: ver-pleeg-KUN-di-ge"
+    },
+    {
+      "id": "nl-22b184ae",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kok",
+      "plural": [
+        "koks"
+      ],
+      "ua": "кухар, кухарка (одне слово)",
+      "audio": "de-kok.mp3",
+      "explain_ua": "(Zij is kok in een restaurant = вона кухарка в ресторані). Kok це кухар і кухарка: слово одне для чоловіка й жінки. Пов'язане з koken (Les 25): kok це людина, яка готує; підказка для пам'яті. Множина koks (-s), не koken: koken це дієслово. O коротка [ɔ], як у dokter; k без придиху; одне слово, наголос на ньому: KOK"
+    },
+    {
+      "id": "nl-78b841c5",
+      "type": "noun",
+      "article": "de",
+      "lemma": "bakker",
+      "plural": [
+        "bakkers"
+      ],
+      "ua": "пекар (і пекарня)",
+      "audio": "de-bakker.mp3",
+      "explain_ua": "(De bakker maakt brood = пекар робить хліб; Ik koop brood bij de bakker = я купую хліб у пекаря). Bakker це пекар. Водночас так називають і саму пекарню: bij de bakker дослівно «у пекаря». Множина bakkers (-s). A коротка [ɑ], як у man (Les 1), тому k подвоюється, як bed - bedden (Les 31); наголос на першому складі: BAK-ker",
+      "check": "Що bij de bakker і naar de bakker означає пекарню, з власних знань, словник не перевірено."
+    },
+    {
+      "id": "nl-f17145ed",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kapper",
+      "plural": [
+        "kappers"
+      ],
+      "ua": "перукар (і перукарня)",
+      "audio": "de-kapper.mp3",
+      "explain_ua": "(Ik ga naar de kapper = я йду до перукаря). Kapper це перукар, який стриже волосся (het haar, Les 30). Як de bakker, слово означає і людину, і її салон: naar de kapper. Українською «піти до перукаря» працює так само. Множина kappers (-s). A коротка [ɑ], тому p подвоюється; наголос на першому складі: KAP-per",
+      "check": "Що naar de kapper означає «до перукарні», з власних знань, словник не перевірено."
+    },
+    {
+      "id": "nl-ac80cb03",
+      "type": "noun",
+      "article": "de",
+      "lemma": "boer",
+      "plural": [
+        "boeren"
+      ],
+      "ua": "фермер",
+      "audio": "de-boer.mp3",
+      "explain_ua": "(Mijn opa was boer = мій дідусь був фермером). Boer це той, хто працює на фермі: фермер. Одне слово для чоловіка й жінки. Множина boeren (-en). Oe це [u], як у boek (Les 1): не «бор», а «бур»; наголос на першому складі"
+    },
+    {
+      "id": "nl-3001a9d3",
+      "type": "noun",
+      "article": "de",
+      "lemma": "chauffeur",
+      "plural": [
+        "chauffeurs"
+      ],
+      "ua": "водій, шофер",
+      "audio": "de-chauffeur.mp3",
+      "explain_ua": "(Mijn vader is chauffeur = мій тато водій). Chauffeur це професійний водій: вантажівки, автобуса, таксі. Слово французьке, схоже на «шофер»: підказка для пам'яті. Одне слово для чоловіка й жінки. Множина chauffeurs (-s). Ch це [ʃ], як «ш» (не [x], як у gisteren); au тут [o], не [ɑu] як у koud (Les 19); eu це [øː], як у de deur (Les 3). Наголос на останньому складі: приблизно «шо-ФЕР» з округленими губами",
+      "check": "Вимову [ʃoˈføːr] і множину chauffeurs з власних знань, словник не перевірено."
+    },
+    {
+      "id": "nl-e0b09b12",
+      "type": "noun",
+      "article": "de",
+      "lemma": "agent",
+      "plural": [
+        "agenten"
+      ],
+      "ua": "поліцейський",
+      "audio": "de-agent.mp3",
+      "explain_ua": "(Mijn broer is agent = мій брат поліцейський). Agent це поліцейський, який працює на вулиці. Повне слово de politieagent, окремо ми його не вчимо. Одне слово для чоловіка й жінки. Множина agenten (-en). G це гортанний [x], як х у хата (Les 1); e коротка [ɛ]; наголос на другому складі: a-GENT"
+    },
+    {
+      "id": "nl-47f7ad28",
+      "type": "noun",
+      "article": "de",
+      "lemma": "student",
+      "plural": [
+        "studenten"
+      ],
+      "ua": "студент, студентка",
+      "audio": "de-student.mp3",
+      "explain_ua": "(Mijn broer is student = мій брат студент). Слово збігається з українським «студент»: підказка для пам'яті. Одне слово для студента й студентки. Це той, хто навчається в університеті чи коледжі; школяр це інше слово, ми його ще не вчимо. Множина studenten (-en). U у першому складі це [y], як у juni (Les 29): губи круглі, язик спереду, не «сту» з українським «у». Наголос на другому складі: stu-DENT",
+      "check": "Вимову stu-DENT з [y] у першому складі з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-b0b9b086",
+      "type": "noun",
+      "article": "de",
+      "lemma": "baas",
+      "plural": [
+        "bazen"
+      ],
+      "ua": "начальник, бос",
+      "audio": "de-baas.mp3",
+      "explain_ua": "(Mijn baas is heel leuk = мій начальник дуже приємний). Baas це начальник, бос: той, кому ти підпорядкована на роботі. Одне слово для чоловіка й жінки. Множина bazen: s між голосними стає z, як huis - huizen (Les 1), а aa у відкритому складі стає a, як maan - manen (Les 1). Aa довге [aː]; кінцеве s глухе [s]; наголос на першому складі"
+    },
+    {
+      "id": "nl-81dddfb8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "directeur",
+      "plural": [
+        "directeuren"
+      ],
+      "ua": "директор, директорка",
+      "audio": "de-directeur.mp3",
+      "explain_ua": "(De directeur heeft een groot kantoor = директор має великий офіс). Слово французьке, збігається з «директор»: підказка для пам'яті. Одне слово для чоловіка й жінки. Множина directeuren; трапляється й directeurs, вчи directeuren. Eu це [øː], як у de deur (Les 3); наголос на останньому складі: di-rek-TEUR",
+      "check": "Множину directeuren (є й directeurs) словник показав нечітко."
+    },
+    {
+      "id": "nl-01bf72b1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "ingenieur",
+      "plural": [
+        "ingenieurs"
+      ],
+      "ua": "інженер, інженерка",
+      "audio": "de-ingenieur.mp3",
+      "explain_ua": "(Mijn oom is ingenieur = мій дядько інженер). Слово схоже на «інженер»: підказка для пам'яті. Одне слово для чоловіка й жінки. Множина ingenieurs (-s). Ing тут звучить [ɪn], а g посередині це «ж» [ʒ], як у слові «жур»: приблизно «ін-же-НЬОР»; eu це [øː], як у de deur (Les 3). Наголос на останньому складі: in-ge-NIEUR",
+      "check": "Вимову [ɪnʒəˈnjør] і множину ingenieurs з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-f587fab8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "advocaat",
+      "plural": [
+        "advocaten"
+      ],
+      "ua": "адвокат, адвокатка",
+      "audio": "de-advocaat.mp3",
+      "explain_ua": "(Mijn zus is advocaat = моя сестра адвокатка). Слово збігається з «адвокат»: підказка для пам'яті. Одне слово для чоловіка й жінки. Множина advocaten: aa у відкритому складі стає a, як maan - manen (Les 1). C читається [k]; aa довге [aː]; наголос на останньому складі: ad-vo-CAAT"
+    },
+    {
+      "id": "nl-d3f71297",
+      "type": "noun",
+      "article": "de",
+      "lemma": "schilder",
+      "plural": [
+        "schilders"
+      ],
+      "ua": "маляр; художник",
+      "audio": "de-schilder.mp3",
+      "explain_ua": "(Mijn oom is schilder = мій дядько маляр). Schilder це і маляр, який фарбує стіни, і художник, який пише картини. Що саме, видно з речення; у цьому уроці ми маємо на увазі маляра. Одне слово для чоловіка й жінки. Множина schilders (-s). Sch це [sx]: s і потім [x], як х у хата, так само в misschien (Les 28). І коротка [ɪ]; наголос на першому складі: SCHIL-der",
+      "check": "Що schilder це і маляр, і художник, з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-9c12361f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "monteur",
+      "plural": [
+        "monteurs"
+      ],
+      "ua": "монтер, механік",
+      "audio": "de-monteur.mp3",
+      "explain_ua": "(Mijn broer werkt als monteur = мій брат працює монтером). Monteur це фахівець, який монтує й ремонтує: наприклад, механік в автосервісі. Схоже на «монтер»: підказка для пам'яті. Одне слово для чоловіка й жінки. Множина monteurs (-s). Eu це [øː], як у de deur (Les 3); наголос на останньому складі: mon-TEUR",
+      "check": "Значення (монтер, механік) і множину monteurs з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-9b3befb1",
+      "type": "noun",
+      "article": "het",
+      "lemma": "beroep",
+      "plural": [
+        "beroepen"
+      ],
+      "ua": "професія, фах",
+      "audio": "het-beroep.mp3",
+      "explain_ua": "(Wat ben jij van beroep? = ким ти працюєш?, дослівно «що ти за професією»; Mijn beroep is leuk = моя професія цікава). Beroep це професія, фах. Het-слово. Множина beroepen (-en). Не плутай з het werk (Les 20): werk це робота, зайнятість, а beroep це фах. Про професію після zijn без een: Ik ben leraar; лише з прикметником een повертається: Ik ben een goede leraar. Oe це [u], як у boek (Les 1); be- слабке; наголос на другому складі: be-ROEP",
+      "check": "Що з прикметником een повертається (een goede kok), з власних знань; словник показав лише kok без een."
+    },
+    {
+      "id": "nl-0702d62c",
+      "type": "noun",
+      "article": "het",
+      "lemma": "bedrijf",
+      "plural": [
+        "bedrijven"
+      ],
+      "ua": "компанія, фірма",
+      "audio": "het-bedrijf.mp3",
+      "explain_ua": "(Ik werk bij een bedrijf = я працюю в компанії). Bedrijf це компанія, фірма, підприємство. Het-слово, тому een groot bedrijf без -e (Les 11). Множина bedrijven: кінцеве f стає v між голосними, як s стає z у huis - huizen (Les 1). Werken bij een bedrijf: bij тут означає «у» (місце роботи як організації). Це нове вживання bij: у Les 25 було лише bij het ontbijt, «під час». Ij це [ɛi], як у mijn (Les 1); наголос на другому складі: be-DRIJF",
+      "check": "Що bij веде до компанії, а in до будівлі (bij een bedrijf, in een fabriek), з власних знань, словник не показав."
+    },
+    {
+      "id": "nl-468cb575",
+      "type": "noun",
+      "article": "het",
+      "lemma": "kantoor",
+      "plural": [
+        "kantoren"
+      ],
+      "ua": "офіс, контора",
+      "audio": "het-kantoor.mp3",
+      "explain_ua": "(Het kantoor is groot = офіс великий; Ik ga naar kantoor = я йду на роботу в офіс). Kantoor це офіс, контора. Het-слово: een groot kantoor без -e (Les 11). Множина kantoren: oo у відкритому складі стає o, звук той самий, як boot - boten (Les 33). Про робоче місце загалом кажуть op kantoor і naar kantoor без артикля, як naar huis (Les 5) і op zolder (Les 31). Схоже на «контора»: підказка для пам'яті, не етимологія. Oo довге [oː]; a коротка [ɑ]; наголос на другому складі: kan-TOOR",
+      "check": "Вираз op kantoor без артикля і наголос kan-TOOR з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-e7b5c1c2",
+      "type": "noun",
+      "article": "de",
+      "lemma": "fabriek",
+      "plural": [
+        "fabrieken"
+      ],
+      "ua": "фабрика, завод",
+      "audio": "de-fabriek.mp3",
+      "explain_ua": "(Mijn vader werkt in een fabriek = мій тато працює на фабриці). Слово схоже на «фабрика»: підказка для пам'яті. Множина fabrieken (-en). Ie це [i]; кінцеве k [k] без придиху, як у слов'янських мовах. Наголос на другому складі: fa-BRIEK"
+    },
+    {
+      "id": "nl-4bf2d63d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "collega",
+      "plural": [
+        "collega's"
+      ],
+      "ua": "колега (одне слово)",
+      "audio": "de-collega.mp3",
+      "explain_ua": "(Ik heb leuke collega's = у мене приємні колеги). Слово схоже на «колега»: підказка для пам'яті. Одне слово для колеги й колежанки. Множина collega's з апострофом, бо слово закінчується на голосну, як opa's і oma's (Les 29). Ll пишемо подвійне, читаємо один [l]; e довге [eː]; g це гортанний [x], як х у хата (Les 1). Наголос на другому складі: col-LE-ga"
+    },
+    {
+      "id": "nl-4eb71e93",
+      "type": "function",
+      "lemma": "als",
+      "ua": "у ролі, як (werken als)",
+      "audio": "als.mp3",
+      "explain_ua": "(Ik werk als kok = я працюю кухарем, дослівно «як кухар»). Als тут значить «у ролі, як»: werken als kok, werken als arts. Після als професія без артикля: als kok, не als een kok. Форма не змінюється. Als має й інші значення (наприклад «якщо»), їх вчимо пізніше. Не плутай з of (Les 12) «чи, або». A коротка [ɑ], як у man (Les 1); s глухе: приблизно «алс»"
+    },
+    {
+      "id": "nl-685d788b",
+      "type": "verb",
+      "lemma": "studeren",
+      "ua": "навчатися (у виші), бути студентом",
+      "audio": "studeren.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "studeer",
+          "audio": "ik-studeer.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "studeert",
+          "audio": "hij-studeert.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "studeren",
+          "audio": "wij-studeren.mp3"
+        }
+      ],
+      "explain_ua": "(Ik studeer in Nederland = я навчаюся в Нідерландах; Mijn broer studeert = мій брат навчається). Studeren це «навчатися» у виші, університеті чи коледжі, бути студентом. Не плутай з leren (Les 27): leren це вчити щось, вчитися загалом. Схоже на «студіювати»: підказка для пам'яті. Таблиця показує теперішній час: ik studeer, hij studeert, wij studeren. В основі studeer ee довге, і пишемо подвійне ee, бо в stu-de-ren склад відкритий, як у parkeer (Les 33). Дієприкметник тут не вчимо: він працює, як у parkeren (Les 34). U це [y], як у juni (Les 29); наголос на другому складі: stu-DEE-ren",
+      "check": "Що studeren це навчання у виші, а не в школі, з власних знань, не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Ik ben leraar: без een",
+      "summary_ua": "Після zijn професія стоїть без артикля: Ik ben leraar, Mijn moeder is dokter. Так само, як країни й мови в Les 18. Українською артиклів немає, тому тут просто не додавай een. Коли є прикметник, een повертається.",
+      "see": "Les 18",
+      "compare": [
+        {
+          "form": "Zijn + професія: без een",
+          "when_ua": "Професія стоїть без een і без de: одне слово.",
+          "examples": [
+            {
+              "nl": "Mijn moeder is **dokter**.",
+              "ua": "Моя мама лікарка.",
+              "audio": "les35-rule-01.mp3"
+            },
+            {
+              "nl": "Mijn oom is **schilder**.",
+              "ua": "Мій дядько маляр.",
+              "audio": "les35-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Звичайно кажуть Ik ben leraar, без een. Так само, як Ik woon in Nederland (Les 18): країна без артикля."
+        },
+        {
+          "form": "З прикметником: een goede kok",
+          "when_ua": "Коли професію описує прикметник, артикль een повертається, а прикметник має -e (de-слово, Les 11).",
+          "examples": [
+            {
+              "nl": "Mijn vader is een **goede** kok.",
+              "ua": "Мій тато добрий кухар.",
+              "audio": "les35-rule-03.mp3"
+            },
+            {
+              "nl": "Zij is een **goede** arts.",
+              "ua": "Вона добра лікарка.",
+              "audio": "les35-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Hij is kok, але Hij is een goede kok. Прикметник має -e, бо kok і arts це de-слова."
+        },
+        {
+          "form": "Заперечення: geen",
+          "when_ua": "Заперечення до професії це geen (Les 2), а не niet.",
+          "examples": [
+            {
+              "nl": "Ik ben **geen** leraar.",
+              "ua": "Я не вчителька.",
+              "audio": "les35-rule-05.mp3"
+            },
+            {
+              "nl": "Mijn zus is **geen** kok.",
+              "ua": "Моя сестра не кухарка.",
+              "audio": "les35-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Не Ik ben niet leraar. Geen стоїть перед іменником без артикля або з een (Les 2)."
+        }
+      ],
+      "points_ua": [
+        "Ik ben leraar: без een.",
+        "Een goede kok: з прикметником een повертається.",
+        "Ik ben geen leraar."
+      ]
+    },
+    {
+      "title_ua": "Ik werk als kok: werken als",
+      "summary_ua": "Werken als + професія: Ik werk als kok = я працюю кухарем. Als тут значить «у ролі», а не «якщо» (це інше вживання, пізніше). Після als без артикля, як після zijn. Ik werk als kok і Ik ben kok значать майже те саме.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "Werken als: у ролі",
+          "when_ua": "Werken, als, професія без артикля.",
+          "examples": [
+            {
+              "nl": "Mijn vader werkt **als chauffeur**.",
+              "ua": "Мій тато працює водієм.",
+              "audio": "les35-rule-07.mp3"
+            },
+            {
+              "nl": "Ik werk **als kapper**.",
+              "ua": "Я працюю перукаркою.",
+              "audio": "les35-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Werken це дієслово з Les 5, не het werk (Les 20). Не Ik werk kok і не Ik werk als een kok."
+        },
+        {
+          "form": "Спочатку ким, потім де",
+          "when_ua": "Після als і професії стоїть місце: in + місце.",
+          "examples": [
+            {
+              "nl": "Zij werkt **als arts** in het ziekenhuis.",
+              "ua": "Вона працює лікаркою в лікарні.",
+              "audio": "les35-rule-09.mp3"
+            },
+            {
+              "nl": "Mijn broer werkt **als monteur** in de stad.",
+              "ua": "Мій брат працює монтером у місті.",
+              "audio": "les35-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Порядок: підмет, werkt, als + професія, потім in + місце. Дієслово друге, як завжди."
+        }
+      ],
+      "points_ua": [
+        "Werken als + професія: без een.",
+        "Спочатку ким, потім де."
+      ]
+    },
+    {
+      "title_ua": "Ik werk bij een bedrijf: bij",
+      "summary_ua": "У Les 25 bij було «під час»: bij het ontbijt. Тут bij нове: «у» організації або в когось: werken bij een bedrijf, bij een bank; brood kopen bij de bakker. Для будівлі частіше in: in een fabriek.",
+      "see": "Les 25",
+      "compare": [
+        {
+          "form": "Werken bij + компанія",
+          "when_ua": "Bij + een чи de + компанія, де ти працюєш.",
+          "examples": [
+            {
+              "nl": "Ik werk **bij een bedrijf**.",
+              "ua": "Я працюю в компанії.",
+              "audio": "les35-rule-11.mp3"
+            },
+            {
+              "nl": "Mijn vader werkt **bij een groot bedrijf**.",
+              "ua": "Мій тато працює у великій компанії.",
+              "audio": "les35-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Het bedrijf це het-слово: een groot bedrijf без -e (Les 11)."
+        },
+        {
+          "form": "Bij de bakker, naar de kapper",
+          "when_ua": "De bakker і de kapper це і людина, і її пекарня чи салон.",
+          "examples": [
+            {
+              "nl": "Wij kopen brood **bij de bakker**.",
+              "ua": "Ми купуємо хліб у пекаря.",
+              "audio": "les35-rule-13.mp3"
+            },
+            {
+              "nl": "Ik ga **naar de kapper**.",
+              "ua": "Я йду до перукаря.",
+              "audio": "les35-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Bij de bakker це «у пекаря», naar de kapper це «до перукаря». Українською «піти до перукаря» працює так само."
+        },
+        {
+          "form": "In чи bij",
+          "when_ua": "In для будівлі, bij для організації.",
+          "examples": [
+            {
+              "nl": "Zij werkt **in een fabriek**.",
+              "ua": "Вона працює на фабриці.",
+              "audio": "les35-rule-15.mp3"
+            },
+            {
+              "nl": "Zij werkt **bij een bank**.",
+              "ua": "Вона працює в банку.",
+              "audio": "les35-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Часто підходять обидва слова. На початку тримайся простого: bij + компанія, in + місце."
+        }
+      ],
+      "points_ua": [
+        "Bij een bedrijf, bij een bank: організація.",
+        "Bij de bakker, naar de kapper.",
+        "In een fabriek: місце."
+      ]
+    },
+    {
+      "title_ua": "Wat ben jij van beroep?",
+      "summary_ua": "Про професію питають: Wat ben jij van beroep? Дослівно «що ти за професією». Про іншого: Wat is zijn beroep? Відповідь: Ik ben ..., без een. Van beroep можна поставити першим: тоді дієслово друге (V2), як у Les 17.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Питання про професію",
+          "when_ua": "Wat (Les 3), дієслово, підмет, van beroep. Про іншу людину: Wat is + zijn чи haar + beroep.",
+          "examples": [
+            {
+              "nl": "**Wat is** zijn **beroep**?",
+              "ua": "Яка в нього професія?",
+              "audio": "les35-rule-17.mp3"
+            },
+            {
+              "nl": "**Wat is** haar **beroep**?",
+              "ua": "Яка в неї професія?",
+              "audio": "les35-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Відповідь: Hij is chauffeur, Zij is arts. Wat ben jij van beroep? питає про тебе; Wat is zijn beroep? про нього."
+        },
+        {
+          "form": "Van beroep першим",
+          "when_ua": "Van beroep може стояти першим. Тоді дієслово одразу за ним, потім підмет.",
+          "examples": [
+            {
+              "nl": "**Van beroep** ben ik leraar.",
+              "ua": "За професією я вчителька.",
+              "audio": "les35-rule-19.mp3"
+            },
+            {
+              "nl": "**Van beroep** is mijn vader boer.",
+              "ua": "За професією мій тато фермер.",
+              "audio": "les35-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Не Van beroep ik ben. Дієслово завжди друге: як Links is het park (Les 17)."
+        }
+      ],
+      "points_ua": [
+        "Wat ben jij van beroep?",
+        "Van beroep ben ik ...: дієслово друге."
+      ]
+    },
+    {
+      "title_ua": "Одне слово для чоловіка й жінки; de чи het",
+      "summary_ua": "Українською вчитель і вчителька, лікар і лікарка. Нідерландською для більшості цих професій одне слово: leraar, dokter, kok, chauffeur, collega. Слово не змінюється, коли жінка говорить про себе. Назви людей у цьому уроці це de-слова; het-слова лише het beroep, het bedrijf, het kantoor.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "Одне слово для обох",
+          "when_ua": "Chauffeur, kok, verpleegkundige: те саме слово про чоловіка й про жінку.",
+          "examples": [
+            {
+              "nl": "Mijn moeder is **chauffeur**.",
+              "ua": "Моя мама водійка.",
+              "audio": "les35-rule-21.mp3"
+            },
+            {
+              "nl": "Mijn vader is **verpleegkundige**.",
+              "ua": "Мій тато медбрат.",
+              "audio": "les35-rule-22.mp3"
+            },
+            {
+              "nl": "Mijn oma was **kok**.",
+              "ua": "Моя бабуся була кухаркою.",
+              "audio": "les35-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Verpleegkundige це і медсестра, і медбрат: українською два слова, нідерландською одне."
+        },
+        {
+          "form": "De чи het",
+          "when_ua": "Люди це de. З місцями й організаціями слідкуй за артиклем: het beroep, het bedrijf, het kantoor, але de fabriek.",
+          "examples": [
+            {
+              "nl": "De **directeur** heeft een groot **kantoor**.",
+              "ua": "Директор має великий офіс.",
+              "audio": "les35-rule-24.mp3"
+            },
+            {
+              "nl": "Mijn **baas** heeft een nieuw **bedrijf**.",
+              "ua": "У мого начальника нова компанія.",
+              "audio": "les35-rule-25.mp3"
+            }
+          ],
+          "note_ua": "De directeur, але een groot kantoor: het-слово, тому без -e (Les 11). Вчи артикль разом зі словом."
+        }
+      ],
+      "points_ua": [
+        "Leraar, dokter, kok: для чоловіка й жінки.",
+        "Het beroep, het bedrijf, het kantoor; de fabriek."
+      ]
+    },
+    {
+      "title_ua": "Множина: dokters, artsen, bazen, bedrijven",
+      "summary_ua": "Найчастіше -s або -en. -s: dokters, kappers, chauffeurs, collega's. -en: leraren, artsen, boeren, agenten, studenten, verpleegkundigen, fabrieken. Три слова міняють літеру: baas - bazen, bedrijf - bedrijven, kantoor - kantoren.",
+      "see": "Les 33",
+      "compare": [
+        {
+          "form": "-s чи -en",
+          "when_ua": "Слова на -er і -eur найчастіше беруть -s. Решта найчастіше -en. Слова на голосну беруть 's.",
+          "examples": [
+            {
+              "nl": "Er zijn veel **dokters** in de stad.",
+              "ua": "У місті багато лікарів.",
+              "audio": "les35-rule-26.mp3"
+            },
+            {
+              "nl": "Wij hebben twee **leraren**.",
+              "ua": "У нас двоє вчителів.",
+              "audio": "les35-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Collega's з апострофом, як opa's і oma's (Les 29). Це найчастіша закономірність, а не закон: directeuren і directeurs."
+        },
+        {
+          "form": "Змінюється літера",
+          "when_ua": "Baas - bazen, bedrijf - bedrijven, kantoor - kantoren.",
+          "examples": [
+            {
+              "nl": "Het **bedrijf** heeft drie **kantoren**.",
+              "ua": "У компанії три офіси.",
+              "audio": "les35-rule-28.mp3"
+            },
+            {
+              "nl": "De **bazen** werken op kantoor.",
+              "ua": "Начальники працюють в офісі.",
+              "audio": "les35-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Bedrijf - bedrijven: f стає v, як huis - huizen (Les 1). Baas - bazen: aa стає a, s стає z. Kantoor - kantoren: oo стає o, як boot - boten (Les 33)."
+        }
+      ],
+      "points_ua": [
+        "Dokters, kappers: -s. Leraren, artsen: -en.",
+        "Baas - bazen, bedrijf - bedrijven, kantoor - kantoren."
+      ]
+    },
+    {
+      "title_ua": "Vroeger was ik ...: was чи heb gewerkt",
+      "summary_ua": "Про минулу роботу є два шляхи, обидва вже знайомі. Was (Les 26) з vroeger: Vroeger was mijn vader boer. Voltooid tijd (Les 32): Ik heb bij een bank gewerkt. Час першим: дієслово друге.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Was + професія",
+          "when_ua": "Vroeger (Les 27) першим, потім was, потім підмет. Nu значить «тепер».",
+          "examples": [
+            {
+              "nl": "**Vroeger was** mijn vader boer.",
+              "ua": "Раніше мій тато був фермером.",
+              "audio": "les35-rule-30.mp3"
+            },
+            {
+              "nl": "**Vroeger was** ik student, maar **nu ben** ik leraar.",
+              "ua": "Раніше я була студенткою, а тепер я вчителька.",
+              "audio": "les35-rule-31.mp3"
+            }
+          ],
+          "note_ua": "Не Vroeger ik was. Було: was (ik, hij), waren (wij). Тепер: ben, is, zijn."
+        },
+        {
+          "form": "Heb gewerkt: рамка",
+          "when_ua": "Heb чи heeft друге, gewerkt у кінці, місце між ними (Les 32).",
+          "examples": [
+            {
+              "nl": "Ik **heb** bij een bank **gewerkt**.",
+              "ua": "Я працювала в банку.",
+              "audio": "les35-rule-32.mp3"
+            },
+            {
+              "nl": "Mijn opa **heeft** in een fabriek **gewerkt**.",
+              "ua": "Мій дідусь працював на фабриці.",
+              "audio": "les35-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Werkt це «працює зараз», gewerkt це «працював». Місце стоїть між heb і gewerkt."
+        }
+      ],
+      "points_ua": [
+        "Vroeger was ...; nu ben ...",
+        "Ik heb bij ... gewerkt."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik ben leraar.",
+      "ua": "Я вчителька.",
+      "audio": "les35-example-01.mp3"
+    },
+    {
+      "nl": "Mijn vader is dokter.",
+      "ua": "Мій тато лікар.",
+      "audio": "les35-example-02.mp3"
+    },
+    {
+      "nl": "Mijn moeder werkt als arts.",
+      "ua": "Моя мама працює лікаркою.",
+      "audio": "les35-example-03.mp3"
+    },
+    {
+      "nl": "Wat ben jij van beroep?",
+      "ua": "Ким ти працюєш? (Яка в тебе професія?)",
+      "audio": "les35-example-04.mp3"
+    },
+    {
+      "nl": "Mijn zus werkt bij een bank.",
+      "ua": "Моя сестра працює в банку.",
+      "audio": "les35-example-05.mp3"
+    },
+    {
+      "nl": "Mijn broer is agent.",
+      "ua": "Мій брат поліцейський.",
+      "audio": "les35-example-06.mp3"
+    },
+    {
+      "nl": "Mijn opa was boer.",
+      "ua": "Мій дідусь був фермером.",
+      "audio": "les35-example-07.mp3"
+    },
+    {
+      "nl": "De bakker maakt brood.",
+      "ua": "Пекар робить хліб.",
+      "audio": "les35-example-08.mp3"
+    },
+    {
+      "nl": "De kok werkt in een restaurant.",
+      "ua": "Кухар працює в ресторані.",
+      "audio": "les35-example-09.mp3"
+    },
+    {
+      "nl": "Mijn zoon studeert in de stad.",
+      "ua": "Мій син навчається в місті.",
+      "audio": "les35-example-10.mp3"
+    },
+    {
+      "nl": "Mijn baas is heel leuk.",
+      "ua": "Мій начальник дуже приємний.",
+      "audio": "les35-example-11.mp3"
+    },
+    {
+      "nl": "Ik heb leuke collega's.",
+      "ua": "У мене приємні колеги.",
+      "audio": "les35-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn familie werkt",
+    "title_ua": "Моя родина працює",
+    "highlight": [
+      "nl-8c8901ed",
+      "nl-7691924a",
+      "nl-f17145ed",
+      "nl-ac80cb03",
+      "nl-3001a9d3",
+      "nl-9b3befb1",
+      "nl-0702d62c"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn familie werkt veel.",
+        "ua": "Моя родина багато працює.",
+        "audio": "les35-reading-01.mp3"
+      },
+      {
+        "nl": "Mijn vader is chauffeur.",
+        "ua": "Мій тато водій.",
+        "audio": "les35-reading-02.mp3"
+      },
+      {
+        "nl": "Hij rijdt met een grote vrachtwagen.",
+        "ua": "Він їздить на великій вантажівці.",
+        "audio": "les35-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn moeder is verpleegkundige in het ziekenhuis.",
+        "ua": "Моя мама медсестра в лікарні.",
+        "audio": "les35-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn zus is kapper en mijn broer studeert.",
+        "ua": "Моя сестра перукарка, а мій брат навчається.",
+        "audio": "les35-reading-05.mp3"
+      },
+      {
+        "nl": "Mijn oom werkt bij een bedrijf.",
+        "ua": "Мій дядько працює в компанії.",
+        "audio": "les35-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn opa was vroeger boer.",
+        "ua": "Мій дідусь раніше був фермером.",
+        "audio": "les35-reading-07.mp3"
+      },
+      {
+        "nl": "Nu is hij oud en hij werkt niet.",
+        "ua": "Тепер він старий і не працює.",
+        "audio": "les35-reading-08.mp3"
+      },
+      {
+        "nl": "Ik ben leraar in de stad.",
+        "ua": "Я вчителька в місті.",
+        "audio": "les35-reading-09.mp3"
+      },
+      {
+        "nl": "Ik vind mijn beroep heel leuk.",
+        "ua": "Мені дуже подобається моя професія.",
+        "audio": "les35-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат лікар.",
+          "accepted": [
+            "Mijn broer is dokter.",
+            "Mijn broer is arts."
+          ]
+        },
+        {
+          "prompt": "Я працюю кухарем.",
+          "accepted": [
+            "Ik werk als kok."
+          ]
+        },
+        {
+          "prompt": "Моя бабуся була вчителькою.",
+          "accepted": [
+            "Mijn oma was leraar."
+          ]
+        },
+        {
+          "prompt": "Мої батьки працюють у компанії.",
+          "accepted": [
+            "Mijn ouders werken bij een bedrijf."
+          ]
+        },
+        {
+          "prompt": "Мій брат не студент.",
+          "accepted": [
+            "Mijn broer is geen student."
+          ]
+        },
+        {
+          "prompt": "У лікарні працює багато лікарів.",
+          "accepted": [
+            "In het ziekenhuis werken veel dokters.",
+            "In het ziekenhuis werken veel artsen."
+          ]
+        },
+        {
+          "prompt": "У мого начальника нова машина.",
+          "accepted": [
+            "Mijn baas heeft een nieuwe auto."
+          ]
+        },
+        {
+          "prompt": "У мене двоє колег.",
+          "accepted": [
+            "Ik heb twee collega's."
+          ]
+        },
+        {
+          "prompt": "Діти йдуть до пекаря.",
+          "accepted": [
+            "De kinderen gaan naar de bakker."
+          ]
+        },
+        {
+          "prompt": "Мій брат раніше був поліцейським.",
+          "accepted": [
+            "Mijn broer was vroeger agent.",
+            "Vroeger was mijn broer agent."
+          ]
+        },
+        {
+          "prompt": "Я працювала на фабриці.",
+          "accepted": [
+            "Ik heb in een fabriek gewerkt.",
+            "Ik heb bij een fabriek gewerkt."
+          ]
+        },
+        {
+          "prompt": "Мій брат навчається в Нідерландах.",
+          "accepted": [
+            "Mijn broer studeert in Nederland."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: als, bij, geen, een або слово з цього уроку",
+      "bank": [
+        "leraar",
+        "als",
+        "bij",
+        "geen",
+        "een",
+        "studeert",
+        "beroep",
+        "collega's",
+        "arts",
+        "kantoren",
+        "boer",
+        "kapper",
+        "bazen"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ben ___.",
+          "hint": "Я вчителька",
+          "accepted": [
+            [
+              "leraar"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vader werkt ___ chauffeur.",
+          "hint": "Мій тато працює водієм",
+          "accepted": [
+            [
+              "als"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus werkt ___ een bedrijf.",
+          "hint": "Моя сестра працює в компанії",
+          "accepted": [
+            [
+              "bij"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ben ___ dokter.",
+          "hint": "Я не лікарка",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Hij is ___ goede kok.",
+          "hint": "Він добрий кухар",
+          "accepted": [
+            [
+              "een"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer ___ in de stad.",
+          "hint": "Мій брат навчається в місті",
+          "accepted": [
+            [
+              "studeert"
+            ]
+          ]
+        },
+        {
+          "text": "Wat ben jij van ___?",
+          "hint": "Ким ти працюєш? (яка в тебе професія)",
+          "accepted": [
+            [
+              "beroep"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb leuke ___.",
+          "hint": "У мене приємні колеги",
+          "accepted": [
+            [
+              "collega's"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder is ___ in het ziekenhuis.",
+          "hint": "Моя мама лікарка в лікарні",
+          "accepted": [
+            [
+              "arts",
+              "dokter"
+            ]
+          ]
+        },
+        {
+          "text": "Er zijn drie ___ in de stad.",
+          "hint": "У місті три офіси",
+          "accepted": [
+            [
+              "kantoren"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn opa was ___.",
+          "hint": "Мій дідусь був фермером",
+          "accepted": [
+            [
+              "boer"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ga naar de ___.",
+          "hint": "Я йду до перукаря",
+          "accepted": [
+            [
+              "kapper"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "De kapper is jong.",
+          "cue": "-> множина: De ... zijn jong.",
+          "accepted": [
+            "De kappers zijn jong."
+          ]
+        },
+        {
+          "prompt": "De leraar is oud.",
+          "cue": "-> множина: De ... zijn oud.",
+          "accepted": [
+            "De leraren zijn oud."
+          ]
+        },
+        {
+          "prompt": "De baas is leuk.",
+          "cue": "-> множина: De ... zijn leuk.",
+          "accepted": [
+            "De bazen zijn leuk."
+          ]
+        },
+        {
+          "prompt": "Het bedrijf is groot.",
+          "cue": "-> множина: De ... zijn groot.",
+          "accepted": [
+            "De bedrijven zijn groot."
+          ]
+        },
+        {
+          "prompt": "Het kantoor is klein.",
+          "cue": "-> множина: De ... zijn klein.",
+          "accepted": [
+            "De kantoren zijn klein."
+          ]
+        },
+        {
+          "prompt": "De arts is jong.",
+          "cue": "-> множина: De ... zijn jong.",
+          "accepted": [
+            "De artsen zijn jong."
+          ]
+        },
+        {
+          "prompt": "De collega is leuk.",
+          "cue": "-> множина: De ... zijn leuk.",
+          "accepted": [
+            "De collega's zijn leuk."
+          ]
+        },
+        {
+          "prompt": "Mijn vader is kok.",
+          "cue": "-> заперечення: Mijn vader is geen ...",
+          "accepted": [
+            "Mijn vader is geen kok."
+          ]
+        },
+        {
+          "prompt": "Mijn moeder is kok.",
+          "cue": "-> з прикметником: Mijn moeder is een goede ...",
+          "accepted": [
+            "Mijn moeder is een goede kok."
+          ]
+        },
+        {
+          "prompt": "Ik ben kok.",
+          "cue": "-> з werken: Ik werk als ...",
+          "accepted": [
+            "Ik werk als kok."
+          ]
+        },
+        {
+          "prompt": "Mijn vader is dokter.",
+          "cue": "-> починай з Vroeger",
+          "accepted": [
+            "Vroeger was mijn vader dokter."
+          ]
+        },
+        {
+          "prompt": "Mijn zus werkt bij een bedrijf.",
+          "cue": "-> voltooid tijd: Mijn zus heeft ... gewerkt.",
+          "accepted": [
+            "Mijn zus heeft bij een bedrijf gewerkt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn vader ___ als chauffeur.",
+          "cue": "werken",
+          "accepted": [
+            "werkt"
+          ]
+        },
+        {
+          "text": "Ik ___ leraar.",
+          "cue": "zijn",
+          "accepted": [
+            "ben"
+          ]
+        },
+        {
+          "text": "Mijn moeder ___ arts.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Wij ___ bij een bedrijf.",
+          "cue": "werken",
+          "accepted": [
+            "werken"
+          ]
+        },
+        {
+          "text": "Mijn broer ___ in de stad.",
+          "cue": "studeren",
+          "accepted": [
+            "studeert"
+          ]
+        },
+        {
+          "text": "Ik ___ in Nederland.",
+          "cue": "studeren",
+          "accepted": [
+            "studeer"
+          ]
+        },
+        {
+          "text": "Wij ___ studenten.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "De baas ___ een groot kantoor.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Wat ___ hij van beroep?",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Zij ___ naar de kapper.",
+          "cue": "gaan",
+          "accepted": [
+            "gaat"
+          ]
+        },
+        {
+          "text": "Ik ___ brood bij de bakker.",
+          "cue": "kopen",
+          "accepted": [
+            "koop"
+          ]
+        },
+        {
+          "text": "De kok ___ de soep.",
+          "cue": "maken",
+          "accepted": [
+            "maakt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "вчитель",
+          "answer": "de leraar"
+        },
+        {
+          "prompt": "кухар",
+          "answer": "de kok"
+        },
+        {
+          "prompt": "перукар",
+          "answer": "de kapper"
+        },
+        {
+          "prompt": "фермер",
+          "answer": "de boer"
+        },
+        {
+          "prompt": "начальник",
+          "answer": "de baas"
+        },
+        {
+          "prompt": "адвокат",
+          "answer": "de advocaat"
+        },
+        {
+          "prompt": "фабрика",
+          "answer": "de fabriek"
+        },
+        {
+          "prompt": "офіс",
+          "answer": "het kantoor"
+        },
+        {
+          "prompt": "компанія",
+          "answer": "het bedrijf"
+        },
+        {
+          "prompt": "професія",
+          "answer": "het beroep"
+        }
+      ],
+      "extra": [
+        "de dokter",
+        "de student"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb"
+      ]
+    }
+  ]
+}
