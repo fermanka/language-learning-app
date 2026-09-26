@@ -1,0 +1,1127 @@
+{
+  "id": "nl-les-30",
+  "lang": "nl",
+  "order": 30,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-a3d02af9",
+      "type": "noun",
+      "article": "het",
+      "lemma": "hoofd",
+      "plural": [
+        "hoofden"
+      ],
+      "ua": "голова",
+      "audio": "het-hoofd.mp3",
+      "explain_ua": "(Mijn hoofd doet pijn = у мене болить голова; Het hoofd is groot = голова велика). Het-слово. Множина hoofden. Oo довге [oː]. Кінцеве d читається [t]: hoofd звучить «хофт», а в множині hoofden d чути, як vriend - vrienden (Les 29). Тут спирайся на російську, не на українську. H це просто видих, майже як українське г, лише легше. Англійське head: підказка для пам'яті"
+    },
+    {
+      "id": "nl-b72ab0f0",
+      "type": "noun",
+      "article": "het",
+      "lemma": "haar",
+      "plural": [
+        "haren"
+      ],
+      "ua": "волосся",
+      "audio": "het-haar.mp3",
+      "explain_ua": "(Zij heeft lang haar = у неї довге волосся; Zijn haar is nat = його волосся мокре). Het-слово. В однині це збірне слово без артикля: lang haar. Множина haren це окремі волосини, її майже не вживають. Слово haar «її» (Les 9) пишеться й звучить так само: Haar haar is zwart = її волосся чорне. Перед haar без артикля прикметник без -e (zwart haar), а після het -e є (het zwarte haar). Aa довге [aː], як у maan (Les 1). Англійське hair: підказка для пам'яті",
+      "check": "Woorden.org показав de haar, а я знаю лише het haar. Артикль треба перевірити; множина haren там є."
+    },
+    {
+      "id": "nl-d46988a7",
+      "type": "noun",
+      "article": "het",
+      "lemma": "gezicht",
+      "plural": [
+        "gezichten"
+      ],
+      "ua": "обличчя",
+      "audio": "het-gezicht.mp3",
+      "explain_ua": "(Haar gezicht is mooi = її обличчя гарне; Zijn gezicht is nat = його обличчя мокре). Het-слово. Множина gezichten. Наголос на -zicht: ge-ZICHT, а перший склад ge- слабкий. G і ch тут той самий звук [x], як х у хата (Les 26). I коротка [ɪ]"
+    },
+    {
+      "id": "nl-24fca682",
+      "type": "noun",
+      "article": "het",
+      "lemma": "oog",
+      "plural": [
+        "ogen"
+      ],
+      "ua": "око",
+      "audio": "het-oog.mp3",
+      "explain_ua": "(Zij heeft blauwe ogen = у неї сині очі; Mijn oog doet pijn = у мене болить око). Het-слово. Множина ogen: подвоєна голосна стає однією, як maan - manen (Les 1). Oo довге [oː]; g наприкінці це [x], як х у хата. Не плутай з het oor: oog це око, oor це вухо. Вчи їх парою"
+    },
+    {
+      "id": "nl-6132fa68",
+      "type": "noun",
+      "article": "het",
+      "lemma": "oor",
+      "plural": [
+        "oren"
+      ],
+      "ua": "вухо",
+      "audio": "het-oor.mp3",
+      "explain_ua": "(Mijn oren zijn koud = мої вуха холодні; Zijn oor doet pijn = у нього болить вухо). Het-слово. Множина oren, як oog - ogen. Oo довге [oː], як у boos (Les 1). Англійське ear: підказка для пам'яті"
+    },
+    {
+      "id": "nl-d3e886e9",
+      "type": "noun",
+      "article": "de",
+      "lemma": "neus",
+      "plural": [
+        "neuzen"
+      ],
+      "ua": "ніс",
+      "audio": "de-neus.mp3",
+      "explain_ua": "(Mijn neus is koud = мій ніс холодний; De baby heeft een kleine neus = у немовляти маленький ніс). Множина neuzen: s між голосними стає z, як huis - huizen (Les 1). Eu це [øː], як у leuk (Les 19): губи круглі, а язик спереду, як для «е». Англійське nose: підказка для пам'яті",
+      "check": "Множину neuzen (s стає z) і вимову eu [øː] я знаю з власних знань, у словнику не перевірила."
+    },
+    {
+      "id": "nl-3c3d39d7",
+      "type": "noun",
+      "article": "de",
+      "lemma": "mond",
+      "plural": [
+        "monden"
+      ],
+      "ua": "рот",
+      "audio": "de-mond.mp3",
+      "explain_ua": "(Zijn mond is groot = його рот великий; De baby heeft een kleine mond = у немовляти маленький рот). Множина monden. O коротка [ɔ], як у bos (Les 1). Кінцеве d читається [t]: mond звучить «монт», а в monden d чути, як hand - handen. Спирайся на російську. Англійське mouth: підказка для пам'яті"
+    },
+    {
+      "id": "nl-f6a7c39d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tand",
+      "plural": [
+        "tanden"
+      ],
+      "ua": "зуб",
+      "audio": "de-tand.mp3",
+      "explain_ua": "(Mijn tand doet pijn = у мене болить зуб; De baby heeft vier tanden = у немовляти чотири зуби). Множина tanden: після короткої a вже стоять два приголосні (nd), тому нічого не подвоюється. Кінцеве d читається [t]: tand звучить «тант», а в tanden d чути. A коротка [ɑ], як у man (Les 1)"
+    },
+    {
+      "id": "nl-4c995270",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tong",
+      "plural": [
+        "tongen"
+      ],
+      "ua": "язик (у роті)",
+      "audio": "de-tong.mp3",
+      "explain_ua": "(Mijn tong doet pijn = у мене болить язик; Zijn tong is nat = його язик мокрий). Це язик у роті. Мову (Nederlands, Engels) так не називають. Множина tongen. Ng це один носовий звук [ŋ], як «нк» у слові «банк» без к: не «н» і «г» окремо. O коротка [ɔ], як у bos (Les 1). Англійське tongue: підказка для пам'яті"
+    },
+    {
+      "id": "nl-d24b9269",
+      "type": "noun",
+      "article": "de",
+      "lemma": "lip",
+      "plural": [
+        "lippen"
+      ],
+      "ua": "губа",
+      "audio": "de-lip.mp3",
+      "explain_ua": "(Haar lippen zijn rood = її губи червоні; Zijn lip doet pijn = у нього болить губа). Множина lippen: голосна коротка, тому p подвоюється, як vis - vissen (Les 25). I коротка [ɪ]. Англійське lip: підказка для пам'яті"
+    },
+    {
+      "id": "nl-4b782a54",
+      "type": "noun",
+      "article": "de",
+      "lemma": "keel",
+      "plural": [
+        "kelen"
+      ],
+      "ua": "горло",
+      "audio": "de-keel.mp3",
+      "explain_ua": "(Mijn keel doet pijn = у мене болить горло; Ik heb pijn in mijn keel = у мене болить у горлі). Keel це горло всередині. Шия ззовні це de nek. Множина kelen: подвоєна голосна стає однією, як maan - manen (Les 1). Ee довге [eː], як у thee (Les 12)"
+    },
+    {
+      "id": "nl-43fa14b8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "nek",
+      "plural": [
+        "nekken"
+      ],
+      "ua": "шия (ззаду)",
+      "audio": "de-nek.mp3",
+      "explain_ua": "(Mijn nek doet pijn = у мене болить шия; Hij heeft pijn in zijn nek = у нього болить шия). Nek це шия, особливо ззаду. Горло всередині це de keel. Множина nekken: голосна коротка, тому k подвоюється, як lip - lippen. E коротка [ɛ], як у fles (Les 25). Англійське neck: підказка для пам'яті"
+    },
+    {
+      "id": "nl-a48ea960",
+      "type": "noun",
+      "article": "de",
+      "lemma": "arm",
+      "plural": [
+        "armen"
+      ],
+      "ua": "рука (від плеча до кисті)",
+      "audio": "de-arm.mp3",
+      "explain_ua": "(Zijn arm doet pijn = у нього болить рука; Zij heeft twee armen = у неї дві руки). Arm це вся рука від плеча до кисті. Кисть це de hand. Українське «рука» покриває обидва слова, нідерландська має два. Множина armen. A коротка [ɑ], як у man (Les 1); r і m звучать окремо. Англійське arm: підказка для пам'яті"
+    },
+    {
+      "id": "nl-80830a69",
+      "type": "noun",
+      "article": "de",
+      "lemma": "hand",
+      "plural": [
+        "handen"
+      ],
+      "ua": "рука (кисть, долоня)",
+      "audio": "de-hand.mp3",
+      "explain_ua": "(Mijn hand is koud = моя рука холодна; Zij heeft twee handen = у неї дві руки). Hand це кисть, від зап'ястя до пальців. Вся рука до плеча це de arm. Множина handen. A коротка [ɑ], як у man (Les 1). Кінцеве d читається [t]: hand звучить «хант», а в handen d чути. Спирайся на російську. Слово hand є в de handschoen (Les 21): hand + schoen, «взуття для руки». Англійське hand: підказка для пам'яті"
+    },
+    {
+      "id": "nl-f2261ffd",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vinger",
+      "plural": [
+        "vingers"
+      ],
+      "ua": "палець (на руці)",
+      "audio": "de-vinger.mp3",
+      "explain_ua": "(Ik heb tien vingers = у мене десять пальців на руках; De baby heeft kleine vingers = у немовляти маленькі пальці). Палець на руці. Палець на нозі це de teen. Множина vingers: слово закінчується на -er, тому просто -s. V ↔ f, як vriend / friend (Les 29): англійське finger, підказка для пам'яті. Ng це один носовий звук [ŋ], як у tong"
+    },
+    {
+      "id": "nl-7f31c96c",
+      "type": "noun",
+      "article": "het",
+      "lemma": "been",
+      "plural": [
+        "benen"
+      ],
+      "ua": "нога (від стегна до ступні)",
+      "audio": "het-been.mp3",
+      "explain_ua": "(Mijn benen doen pijn = у мене болять ноги; Zij heeft lange benen = у неї довгі ноги). Been це нога від стегна до ступні. Ступня це de voet (Les 1). Українське «нога» покриває обидва слова, нідерландська має два. Увага: het been це не «кістка». Кістка це het bot: це слово лише для порівняння, ми його не вчимо. Множина benen: подвоєна голосна стає однією, як maan - manen. Ee довге [eː], як у thee (Les 12)",
+      "check": "Слово het bot (кістка) я згадала з пам'яті, у словнику не перевірила."
+    },
+    {
+      "id": "nl-f2c22a03",
+      "type": "noun",
+      "article": "de",
+      "lemma": "knie",
+      "plural": [
+        "knieën"
+      ],
+      "ua": "коліно",
+      "audio": "de-knie.mp3",
+      "explain_ua": "(Mijn knie doet pijn = у мене болить коліно; Mijn knieën zijn koud = мої коліна холодні). Множина knieën: дві крапки на другому e, щоб ie не читалося як один звук. K на початку звучить: kn - обидві літери, на відміну від англійського knee, де k мовчить. Ie це [i], як у ziek (Les 26). Англійське knee: підказка для пам'яті"
+    },
+    {
+      "id": "nl-c7088c4b",
+      "type": "noun",
+      "article": "de",
+      "lemma": "teen",
+      "plural": [
+        "tenen"
+      ],
+      "ua": "палець на нозі",
+      "audio": "de-teen.mp3",
+      "explain_ua": "(Ik heb tien tenen = у мене десять пальців на ногах; Mijn teen doet pijn = у мене болить палець на нозі). Палець на нозі. Палець на руці це de vinger. Множина tenen: подвоєна голосна стає однією, як maan - manen (Les 1). Не плутай з tien (Les 2): teen [teːn] з довгим ee, tien [tin] з ie. Слухай аудіо обох слів підряд"
+    },
+    {
+      "id": "nl-d1cc25d1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "rug",
+      "plural": [
+        "ruggen"
+      ],
+      "ua": "спина",
+      "audio": "de-rug.mp3",
+      "explain_ua": "(Mijn rug doet pijn = у мене болить спина; Hij heeft pijn in zijn rug = у нього болить спина). Множина ruggen: голосна коротка, тому g подвоюється, як lip - lippen. U коротка [ʏ], як у bus (Les 6), не українське «у». G наприкінці це [x], як х у хата"
+    },
+    {
+      "id": "nl-a454644f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "buik",
+      "plural": [
+        "buiken"
+      ],
+      "ua": "живіт",
+      "audio": "de-buik.mp3",
+      "explain_ua": "(Mijn buik doet pijn = у мене болить живіт; Zij heeft pijn in haar buik = у неї болить живіт). Множина buiken. Ui це [œy], як у huis (Les 1). Не «бук»: «бук» це boek [buk] (Les 1). Мінімальна пара: buik і boek. Слухай аудіо обох слів підряд"
+    },
+    {
+      "id": "nl-ec5c5f11",
+      "type": "noun",
+      "article": "het",
+      "lemma": "hart",
+      "plural": [
+        "harten"
+      ],
+      "ua": "серце",
+      "audio": "het-hart.mp3",
+      "explain_ua": "(Mijn hart doet pijn = у мене болить серце; Het hart is klein = серце маленьке). Het-слово. Множина harten. A коротка [ɑ], r і t звучать окремо: har-t. Не плутай з haar (Les 9): haar [haːr] з довгим aa, hart [hɑrt] з короткою a. Англійське heart: підказка для пам'яті"
+    },
+    {
+      "id": "nl-eaa83156",
+      "type": "noun",
+      "article": "de",
+      "lemma": "schouder",
+      "plural": [
+        "schouders"
+      ],
+      "ua": "плече",
+      "audio": "de-schouder.mp3",
+      "explain_ua": "(Mijn schouders doen pijn = у мене болять плечі; Zijn schouder is nat = його плече мокре). Множина schouders: слово закінчується на -er, тому просто -s, як vinger - vingers. Sch це [sx]: s і х поспіль, як у de school (Les 17). Ou це [ɑu], як у koud (Les 19). Англійське shoulder: підказка для пам'яті"
+    },
+    {
+      "id": "nl-d743beef",
+      "type": "noun",
+      "article": "het",
+      "lemma": "lichaam",
+      "plural": [
+        "lichamen"
+      ],
+      "ua": "тіло",
+      "audio": "het-lichaam.mp3",
+      "explain_ua": "(Mijn lichaam is moe = моє тіло втомлене; Mijn lichaam doet pijn = у мене болить усе тіло). Het-слово. Множина lichamen. Наголос на першому складі: LICH-aam, а -aam слабке, слухай аудіо. Ch це [x], як х у хата. Це слово для всього тіла разом: hoofd, armen, benen, rug, buik"
+    },
+    {
+      "id": "nl-ab68447e",
+      "type": "noun",
+      "article": "de",
+      "lemma": "pijn",
+      "plural": [
+        "pijnen"
+      ],
+      "ua": "біль",
+      "audio": "de-pijn.mp3",
+      "explain_ua": "(Ik heb pijn = у мене болить; Ik heb geen pijn = у мене нічого не болить). Загалом в однині й без артикля: pijn hebben, pijn doen, як honger hebben (Les 25). Множина pijnen є, але її майже не вживають. Ij це [ɛi], як у mijn (Les 1) і rijst (Les 25). Це de-слово"
+    },
+    {
+      "id": "nl-06481374",
+      "type": "function",
+      "lemma": "pijn doen",
+      "ua": "боліти (буквально: робити біль)",
+      "audio": "pijn-doen.mp3",
+      "dictation": false,
+      "explain_ua": "(Mijn hoofd doet pijn = у мене болить голова; Mijn benen doen pijn = у мене болять ноги). Нідерландською немає окремого дієслова «боліти»: кажуть «моя голова робить біль», тобто doen (Les 20) + pijn. Підмет це частина тіла, тому doet, коли вона одна (mijn hoofd doet), і doen, коли їх кілька (mijn benen doen). Українське «болить / болять» теж змінюється за числом, тож різниця в іншому: тут є doen + pijn, а перед частиною тіла стоїть mijn, а не «у мене». Pijn стоїть у кінці, після doet: не Mijn hoofd pijn doet. Питання: Doet het pijn? Заперечення з geen: Het doet geen pijn. Є й другий спосіб: Ik heb pijn in mijn hoofd (hebben + pijn)"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Mijn hoofd doet pijn: doen + pijn",
+      "summary_ua": "Українською «болить голова». Нідерландською окремого дієслова «боліти» немає: кажуть «моя голова робить біль»: Mijn hoofd doet pijn. Дієслово doen (Les 20) слухає частину тіла: один hoofd - doet, кілька benen - doen. Українське «болить / болять» теж змінюється за числом, тож різниця в іншому: тут є doen + pijn, а перед частиною тіла стоїть mijn, а не «у мене».",
+      "see": "Les 20",
+      "compare": [
+        {
+          "form": "Одна частина тіла: doet pijn",
+          "when_ua": "Підмет це частина тіла (mijn nek), дієслово як для hij / zij / het: doet. Pijn стоїть після нього, в кінці.",
+          "examples": [
+            {
+              "nl": "Mijn **nek doet pijn**.",
+              "ua": "У мене болить шия.",
+              "audio": "les30-rule-01.mp3"
+            },
+            {
+              "nl": "Zijn **arm doet pijn**.",
+              "ua": "У нього болить рука.",
+              "audio": "les30-rule-02.mp3"
+            },
+            {
+              "nl": "Haar hoofd **doet** ook **pijn**.",
+              "ua": "Її голова теж болить.",
+              "audio": "les30-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не Mijn nek pijn doet. Перед частиною тіла звичайно mijn, zijn, haar (Les 9), а не de."
+        },
+        {
+          "form": "Кілька частин тіла: doen pijn",
+          "when_ua": "Підмет у множині (mijn ogen), тому doen. Питання починається з дієслова.",
+          "examples": [
+            {
+              "nl": "Mijn **ogen doen pijn**.",
+              "ua": "У мене болять очі.",
+              "audio": "les30-rule-04.mp3"
+            },
+            {
+              "nl": "**Doen** haar benen **pijn**?",
+              "ua": "Чи болять її ноги?",
+              "audio": "les30-rule-05.mp3"
+            },
+            {
+              "nl": "Zijn schouders **doen** ook **pijn**.",
+              "ua": "Його плечі теж болять.",
+              "audio": "les30-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Одна: doet. Кілька: doen. Дієслово слухає частину тіла, а не «мене»."
+        }
+      ],
+      "points_ua": [
+        "Mijn hoofd doet pijn, mijn benen doen pijn.",
+        "Pijn стоїть у кінці: doet pijn."
+      ]
+    },
+    {
+      "title_ua": "Ik heb pijn in mijn rug: hebben + pijn",
+      "summary_ua": "Другий спосіб: hebben + pijn, як Ik heb honger (Les 25). Pijn без артикля. Де болить: in + mijn, zijn, haar + частина тіла. Заперечення з geen, бо pijn це іменник.",
+      "see": "Les 25",
+      "compare": [
+        {
+          "form": "Pijn hebben + in + частина тіла",
+          "when_ua": "Підмет це людина: ik heb, hij heeft. Питання про місце: Waar heb je pijn?",
+          "examples": [
+            {
+              "nl": "Hij **heeft pijn in** zijn hand.",
+              "ua": "У нього болить рука.",
+              "audio": "les30-rule-07.mp3"
+            },
+            {
+              "nl": "Ik **heb pijn in** mijn keel.",
+              "ua": "У мене болить горло.",
+              "audio": "les30-rule-08.mp3"
+            },
+            {
+              "nl": "Zij **heeft pijn in** haar buik.",
+              "ua": "У неї болить живіт.",
+              "audio": "les30-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb de pijn. Частина тіла з mijn, zijn, haar: in mijn keel, а не in de keel."
+        },
+        {
+          "form": "Geen pijn, veel pijn",
+          "when_ua": "Geen (Les 2) і veel (Les 20) стоять перед pijn без артикля.",
+          "examples": [
+            {
+              "nl": "Ik heb **geen pijn**.",
+              "ua": "У мене нічого не болить.",
+              "audio": "les30-rule-10.mp3"
+            },
+            {
+              "nl": "Mijn hand doet **geen pijn**.",
+              "ua": "Моя рука не болить.",
+              "audio": "les30-rule-11.mp3"
+            },
+            {
+              "nl": "Heb je **veel pijn**?",
+              "ua": "Тобі дуже болить?",
+              "audio": "les30-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb niet pijn: pijn це іменник, тому geen (Les 25). Так само з doen: Het doet geen pijn."
+        }
+      ],
+      "points_ua": [
+        "Ik heb pijn in mijn rug: людина + hebben.",
+        "Ik heb geen pijn: geen, а не niet."
+      ]
+    },
+    {
+      "title_ua": "Haar haar: два різних слова",
+      "summary_ua": "Het haar це волосся. Воно пишеться й звучить так само, як haar «її» (Les 9). Значення видно з місця в реченні: Haar haar is zwart = її волосся чорне. Волосся в однині стоїть без артикля: zwart haar, lang haar. Множина haren майже не вживається.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Het haar (волосся) і haar (її)",
+          "when_ua": "Перше haar це «її», друге це het haar. Дивись на порядок слів.",
+          "examples": [
+            {
+              "nl": "**Haar haar** is zwart.",
+              "ua": "Її волосся чорне.",
+              "audio": "les30-rule-13.mp3"
+            },
+            {
+              "nl": "Ik vind **haar haar** mooi.",
+              "ua": "Мені подобається її волосся.",
+              "audio": "les30-rule-14.mp3"
+            },
+            {
+              "nl": "**Zijn haar** is nat.",
+              "ua": "Його волосся мокре.",
+              "audio": "les30-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Haar haar: «її волосся». Zijn haar: «його волосся». Слово haar без присвійного значення це завжди волосся."
+        },
+        {
+          "form": "Zwart haar, het zwarte haar",
+          "when_ua": "Haar це het-слово: без артикля прикметник без -e, після het -e є.",
+          "examples": [
+            {
+              "nl": "Mijn vader heeft **bruin haar**.",
+              "ua": "У мого тата каштанове волосся.",
+              "audio": "les30-rule-16.mp3"
+            },
+            {
+              "nl": "Zij heeft **lang haar**.",
+              "ua": "У неї довге волосся.",
+              "audio": "les30-rule-17.mp3"
+            },
+            {
+              "nl": "**Het zwarte haar** is nat.",
+              "ua": "Чорне волосся мокре.",
+              "audio": "les30-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Як een zout broodje, але het zoute broodje (Les 25). Перед haar без артикля -e немає."
+        }
+      ],
+      "points_ua": [
+        "Haar haar is zwart: її волосся.",
+        "Bruin haar, але het zwarte haar."
+      ]
+    },
+    {
+      "title_ua": "Множина: ogen, kelen, lippen, knieën",
+      "summary_ua": "Множина частин тіла працює як у Les 1 і Les 25. Довга голосна стає однією літерою: oog - ogen, oor - oren, keel - kelen, teen - tenen, been - benen (як maan - manen). Коротка голосна подвоює приголосну: lip - lippen, nek - nekken, rug - ruggen (як vis - vissen). Далі -en (hand - handen, arm - armen, tand - tanden) і -s (vinger - vingers, schouder - schouders). Особлива: knie - knieën.",
+      "see": "Les 1",
+      "compare": [
+        {
+          "form": "Довга голосна: одна літера",
+          "when_ua": "Oog, oor, keel, teen, been: у множині перед -en лишається одна голосна.",
+          "examples": [
+            {
+              "nl": "Ik heb twee **ogen** en twee **oren**.",
+              "ua": "У мене два ока й два вуха.",
+              "audio": "les30-rule-19.mp3"
+            },
+            {
+              "nl": "Haar **tenen** zijn koud.",
+              "ua": "Її пальці на ногах холодні.",
+              "audio": "les30-rule-20.mp3"
+            },
+            {
+              "nl": "Mijn **benen** zijn lang.",
+              "ua": "Мої ноги довгі.",
+              "audio": "les30-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Не oogen, не keelen, не teenen. Як maan - manen (Les 1)."
+        },
+        {
+          "form": "Коротка голосна і особливі",
+          "when_ua": "Lip - lippen, nek - nekken, rug - ruggen: приголосна подвоюється. Vinger - vingers: лише -s. Knie - knieën з двома крапками.",
+          "examples": [
+            {
+              "nl": "Haar **lippen** zijn rood.",
+              "ua": "Її губи червоні.",
+              "audio": "les30-rule-22.mp3"
+            },
+            {
+              "nl": "Mijn opa heeft oude **knieën**.",
+              "ua": "У мого дідуся старі коліна.",
+              "audio": "les30-rule-23.mp3"
+            },
+            {
+              "nl": "De baby heeft kleine **vingers**.",
+              "ua": "У немовляти маленькі пальці.",
+              "audio": "les30-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Lip - lippen, як vis - vissen (Les 25). Vinger - vingers і schouder - schouders: -er + s, без -en."
+        }
+      ],
+      "points_ua": [
+        "Oog - ogen, keel - kelen: одна голосна.",
+        "Lip - lippen, knie - knieën, vinger - vingers."
+      ]
+    },
+    {
+      "title_ua": "Звуки: hand [t], buik, knie",
+      "summary_ua": "Три пастки. По-перше, кінцеве d читається [t]: hand, mond, tand, hoofd. По-друге, ui в buik це не oe в boek. По-третє, в knie звучать обидві літери, k і n.",
+      "see": "Les 29",
+      "compare": [
+        {
+          "form": "Кінцеве d = [t]",
+          "when_ua": "Як у vriend (Les 29): наприкінці слова d глухе, а в множині d чути: hand - handen. Спирайся на російську, не на українську.",
+          "examples": [
+            {
+              "nl": "Zijn **mond** is groot.",
+              "ua": "Його рот великий.",
+              "audio": "les30-rule-25.mp3"
+            },
+            {
+              "nl": "Mijn **tand** doet pijn.",
+              "ua": "У мене болить зуб.",
+              "audio": "les30-rule-26.mp3"
+            },
+            {
+              "nl": "De baby heeft een klein **hoofd**.",
+              "ua": "У немовляти маленька голова.",
+              "audio": "les30-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Hand [hant] - handen [handen]. Пиши d, бо в множині d: mond - monden, tand - tanden, hoofd - hoofden."
+        },
+        {
+          "form": "Buik і boek; knie",
+          "when_ua": "Buik [bœyk] з ui, як huis (Les 1). Boek [buk] з oe. У knie k звучить: [kni].",
+          "examples": [
+            {
+              "nl": "Het **boek** is leuk, maar mijn **buik** doet pijn.",
+              "ua": "Книга класна, але в мене болить живіт.",
+              "audio": "les30-rule-28.mp3"
+            },
+            {
+              "nl": "Mijn **knie** doet pijn.",
+              "ua": "У мене болить коліно.",
+              "audio": "les30-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Не «бук» у buik. В англійському knee k мовчить, у нідерландському knie k звучить."
+        }
+      ],
+      "points_ua": [
+        "Hand, mond, tand: d читається [t], у handen [d].",
+        "Buik і boek різні. Knie: k звучить."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Mijn hoofd doet pijn.",
+      "ua": "У мене болить голова.",
+      "audio": "les30-example-01.mp3"
+    },
+    {
+      "nl": "Mijn benen doen pijn.",
+      "ua": "У мене болять ноги.",
+      "audio": "les30-example-02.mp3"
+    },
+    {
+      "nl": "Waar heb je pijn?",
+      "ua": "Де в тебе болить?",
+      "audio": "les30-example-03.mp3"
+    },
+    {
+      "nl": "Ik heb pijn in mijn rug.",
+      "ua": "У мене болить спина.",
+      "audio": "les30-example-04.mp3"
+    },
+    {
+      "nl": "Doet het pijn?",
+      "ua": "Боляче?",
+      "audio": "les30-example-05.mp3"
+    },
+    {
+      "nl": "Hier doet het pijn.",
+      "ua": "Ось тут болить.",
+      "audio": "les30-example-06.mp3"
+    },
+    {
+      "nl": "Zij heeft blauwe ogen en zwart haar.",
+      "ua": "У неї сині очі й чорне волосся.",
+      "audio": "les30-example-07.mp3"
+    },
+    {
+      "nl": "Mijn opa heeft grijs haar.",
+      "ua": "У мого дідуся сиве волосся.",
+      "audio": "les30-example-08.mp3"
+    },
+    {
+      "nl": "Mijn handen zijn koud.",
+      "ua": "Мої руки холодні.",
+      "audio": "les30-example-09.mp3"
+    },
+    {
+      "nl": "Ik heb tien vingers en tien tenen.",
+      "ua": "У мене десять пальців на руках і десять на ногах.",
+      "audio": "les30-example-10.mp3"
+    },
+    {
+      "nl": "Mijn keel doet pijn, dus ik kan niet spreken.",
+      "ua": "У мене болить горло, тому я не можу говорити.",
+      "audio": "les30-example-11.mp3"
+    },
+    {
+      "nl": "Gisteren had ik pijn in mijn buik.",
+      "ua": "Вчора в мене болів живіт.",
+      "audio": "les30-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn opa heeft pijn",
+    "title_ua": "У мого дідуся болить",
+    "highlight": [
+      "nl-a3d02af9",
+      "nl-80830a69",
+      "nl-7f31c96c",
+      "nl-d1cc25d1",
+      "nl-ab68447e"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn opa is oud en moe.",
+        "ua": "Мій дідусь старий і втомлений.",
+        "audio": "les30-reading-01.mp3"
+      },
+      {
+        "nl": "Vandaag doet zijn rug pijn.",
+        "ua": "Сьогодні в нього болить спина.",
+        "audio": "les30-reading-02.mp3"
+      },
+      {
+        "nl": "Zijn benen doen ook pijn.",
+        "ua": "Ноги в нього теж болять.",
+        "audio": "les30-reading-03.mp3"
+      },
+      {
+        "nl": "Hij kan niet lopen.",
+        "ua": "Він не може ходити.",
+        "audio": "les30-reading-04.mp3"
+      },
+      {
+        "nl": "Zijn hand is heel koud.",
+        "ua": "Його рука дуже холодна.",
+        "audio": "les30-reading-05.mp3"
+      },
+      {
+        "nl": "Mijn oma is niet ziek en zij heeft geen pijn.",
+        "ua": "Моя бабуся не хвора, і в неї нічого не болить.",
+        "audio": "les30-reading-06.mp3"
+      },
+      {
+        "nl": "Wij gaan naar het ziekenhuis.",
+        "ua": "Ми йдемо до лікарні.",
+        "audio": "les30-reading-07.mp3"
+      },
+      {
+        "nl": "Wij zijn ook moe, want mijn opa is ziek.",
+        "ua": "Ми теж втомлені, бо мій дідусь хворий.",
+        "audio": "les30-reading-08.mp3"
+      },
+      {
+        "nl": "Mijn hoofd doet ook pijn.",
+        "ua": "У мене теж болить голова.",
+        "audio": "les30-reading-09.mp3"
+      },
+      {
+        "nl": "Morgen is alles weer goed.",
+        "ua": "Завтра все знову буде добре.",
+        "audio": "les30-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене болять коліна.",
+          "accepted": [
+            "Mijn knieën doen pijn."
+          ]
+        },
+        {
+          "prompt": "Мій ніс холодний.",
+          "accepted": [
+            "Mijn neus is koud."
+          ]
+        },
+        {
+          "prompt": "Чи болить у неї голова?",
+          "accepted": [
+            "Doet haar hoofd pijn?",
+            "Heeft zij pijn in haar hoofd?",
+            "Heeft ze pijn in haar hoofd?"
+          ]
+        },
+        {
+          "prompt": "У нього зелені очі.",
+          "accepted": [
+            "Hij heeft groene ogen."
+          ]
+        },
+        {
+          "prompt": "Мій брат не може ходити, бо в нього болить нога.",
+          "accepted": [
+            "Mijn broer kan niet lopen, want zijn been doet pijn.",
+            "Mijn broer kan niet lopen, want hij heeft pijn in zijn been."
+          ]
+        },
+        {
+          "prompt": "У неї не болить горло.",
+          "accepted": [
+            "Haar keel doet geen pijn.",
+            "Zij heeft geen pijn in haar keel.",
+            "Ze heeft geen pijn in haar keel."
+          ]
+        },
+        {
+          "prompt": "У мого дядька великі руки.",
+          "accepted": [
+            "Mijn oom heeft grote handen."
+          ]
+        },
+        {
+          "prompt": "Мої плечі й моя спина болять.",
+          "accepted": [
+            "Mijn schouders en mijn rug doen pijn.",
+            "Mijn rug en mijn schouders doen pijn."
+          ]
+        },
+        {
+          "prompt": "Вона не може спати, бо в неї болить живіт.",
+          "accepted": [
+            "Zij kan niet slapen, want haar buik doet pijn.",
+            "Ze kan niet slapen, want haar buik doet pijn.",
+            "Zij kan niet slapen, want zij heeft pijn in haar buik.",
+            "Ze kan niet slapen, want ze heeft pijn in haar buik."
+          ]
+        },
+        {
+          "prompt": "Моє тіло втомлене.",
+          "accepted": [
+            "Mijn lichaam is moe."
+          ]
+        },
+        {
+          "prompt": "Що болить?",
+          "accepted": [
+            "Wat doet pijn?"
+          ]
+        },
+        {
+          "prompt": "У дитини чотири зуби.",
+          "accepted": [
+            "Het kind heeft vier tanden."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: doet чи doen, множина, het чи de",
+      "bank": [
+        "doet",
+        "doen",
+        "in",
+        "ogen",
+        "tenen",
+        "pijn",
+        "knieën",
+        "haar",
+        "het",
+        "de",
+        "tand",
+        "vingers",
+        "handen"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn oor ___ pijn.",
+          "hint": "У мене болить вухо",
+          "accepted": [
+            [
+              "doet"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn benen ___ pijn.",
+          "hint": "У мене болять ноги",
+          "accepted": [
+            [
+              "doen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb pijn ___ mijn rug.",
+          "hint": "У мене болить у спині",
+          "accepted": [
+            [
+              "in"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft twee ___.",
+          "hint": "У неї два ока",
+          "accepted": [
+            [
+              "ogen"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ doen pijn.",
+          "hint": "Мої пальці на ногах болять",
+          "accepted": [
+            [
+              "tenen"
+            ]
+          ]
+        },
+        {
+          "text": "Hij heeft geen ___.",
+          "hint": "У нього нічого не болить",
+          "accepted": [
+            [
+              "pijn"
+            ]
+          ]
+        },
+        {
+          "text": "De baby heeft twee kleine ___.",
+          "hint": "У немовляти два маленьких коліна",
+          "accepted": [
+            [
+              "knieën",
+              "knieen"
+            ]
+          ]
+        },
+        {
+          "text": "___ haar rug pijn?",
+          "hint": "Чи болить її спина?",
+          "accepted": [
+            [
+              "Doet",
+              "doet"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft lang ___.",
+          "hint": "У неї довге волосся",
+          "accepted": [
+            [
+              "haar"
+            ]
+          ]
+        },
+        {
+          "text": "___ gezicht is nat.",
+          "hint": "Обличчя мокре (het чи de?)",
+          "accepted": [
+            [
+              "Het",
+              "het"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ doet pijn, dus ik kan niet eten.",
+          "hint": "Мій зуб болить, тому я не можу їсти",
+          "accepted": [
+            [
+              "tand"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb tien ___.",
+          "hint": "У мене десять пальців на руках",
+          "accepted": [
+            [
+              "vingers"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Mijn oor doet pijn.",
+          "cue": "-> множина: Mijn ... doen pijn.",
+          "accepted": [
+            "Mijn oren doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn hand doet pijn.",
+          "cue": "-> множина: Mijn ... doen pijn.",
+          "accepted": [
+            "Mijn handen doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn knie doet pijn.",
+          "cue": "-> множина: Mijn ... doen pijn.",
+          "accepted": [
+            "Mijn knieën doen pijn.",
+            "Mijn knieen doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn teen doet pijn.",
+          "cue": "-> множина: Mijn ... doen pijn.",
+          "accepted": [
+            "Mijn tenen doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn vinger doet pijn.",
+          "cue": "-> множина: Mijn ... doen pijn.",
+          "accepted": [
+            "Mijn vingers doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn tand doet pijn.",
+          "cue": "-> множина: Mijn ... doen pijn.",
+          "accepted": [
+            "Mijn tanden doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn lip doet pijn.",
+          "cue": "-> множина: Mijn ... doen pijn.",
+          "accepted": [
+            "Mijn lippen doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn benen doen pijn.",
+          "cue": "-> однина: Mijn ... doet pijn.",
+          "accepted": [
+            "Mijn been doet pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn rug doet pijn.",
+          "cue": "-> питання: Doet ...?",
+          "accepted": [
+            "Doet mijn rug pijn?"
+          ]
+        },
+        {
+          "prompt": "Mijn nek doet pijn.",
+          "cue": "-> заперечення: Mijn nek doet ... pijn.",
+          "accepted": [
+            "Mijn nek doet geen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn schouder doet pijn.",
+          "cue": "-> Ik heb ...",
+          "accepted": [
+            "Ik heb pijn in mijn schouder."
+          ]
+        },
+        {
+          "prompt": "Mijn buik doet pijn.",
+          "cue": "-> починай з Vandaag",
+          "accepted": [
+            "Vandaag doet mijn buik pijn."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn oor ___ pijn.",
+          "cue": "doen",
+          "accepted": [
+            "doet"
+          ]
+        },
+        {
+          "text": "Mijn handen ___ pijn.",
+          "cue": "doen",
+          "accepted": [
+            "doen"
+          ]
+        },
+        {
+          "text": "Ik ___ pijn in mijn nek.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Zij ___ geen pijn.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "___ jij pijn?",
+          "cue": "hebben",
+          "accepted": [
+            "Heb",
+            "heb"
+          ]
+        },
+        {
+          "text": "___ mijn arm pijn?",
+          "cue": "doen",
+          "accepted": [
+            "Doet",
+            "doet"
+          ]
+        },
+        {
+          "text": "___ zijn schouders pijn?",
+          "cue": "doen",
+          "accepted": [
+            "Doen",
+            "doen"
+          ]
+        },
+        {
+          "text": "Mijn oma ___ pijn in haar rug.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Mijn opa ___ niet lopen.",
+          "cue": "kunnen",
+          "accepted": [
+            "kan"
+          ]
+        },
+        {
+          "text": "Mijn opa ___ vandaag ziek.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Gisteren ___ ik pijn in mijn hand.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "had"
+          ]
+        },
+        {
+          "text": "Vorige week ___ wij geen pijn.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "hadden"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
