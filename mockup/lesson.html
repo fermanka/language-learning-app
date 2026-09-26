@@ -20,7 +20,8 @@
   }
   * { box-sizing: border-box; }
   body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 system-ui, sans-serif; }
-  .wrap { max-width: 1000px; margin: 0 auto; padding: 16px; }
+  :root { --page-w: 1000px; }   /* the width of the page; the flag and the coat of arms are placed from it, so change it here only */
+  .wrap { max-width: var(--page-w); margin: 0 auto; padding: 16px; }
   .banner { font-size: 13px; color: var(--muted); text-align: center; margin-bottom: 10px; }
 
   header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px 16px;
@@ -196,10 +197,12 @@
      enough (a phone or a narrow window shows nothing), never in the way of a click. Each sits in the middle of its margin. */
   .side { display: none; position: fixed; top: 110px; pointer-events: none; }
   .side svg, .side img { display: block; width: 100%; height: auto; filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .35)); }
-  @media (min-width: 1400px) {
+  /* Each one is centred in its side margin: a margin is (window - page) / 2 wide, so its middle is a quarter of (window - page) from
+     the window edge; translateX moves the decoration by half of ITS OWN width, whatever that is. Smaller windows get a smaller picture. */
+  @media (min-width: 1300px) {
     .side { display: block; }
-    .side.left { width: 186px; left: calc((100% - 860px) / 4 - 93px); }
-    .side.right { width: 230px; right: calc((100% - 860px) / 4 - 115px); }
+    .side.left { width: min(186px, calc((100% - var(--page-w)) / 2 - 40px)); left: calc((100% - var(--page-w)) / 4); transform: translateX(-50%); }
+    .side.right { width: min(230px, calc((100% - var(--page-w)) / 2 - 40px)); right: calc((100% - var(--page-w)) / 4); transform: translateX(50%); }
   }
 </style>
 </head>
