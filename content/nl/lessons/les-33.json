@@ -1,0 +1,1255 @@
+{
+  "id": "nl-les-33",
+  "lang": "nl",
+  "order": 33,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-26706c8b",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tram",
+      "plural": [
+        "trams"
+      ],
+      "ua": "трамвай",
+      "audio": "de-tram.mp3",
+      "explain_ua": "(De tram is nieuw = трамвай новий; Wij nemen de tram = ми їдемо трамваєм). Слово схоже на українське «трамвай»: підказка для пам'яті. Множина trams (-s). Tr без придиху, як у слов'янських мовах; a коротка [ɑ], як у man (Les 1). Транспорт, яким їдеш, стоїть після met: met de tram (Les 6)"
+    },
+    {
+      "id": "nl-83e10a20",
+      "type": "noun",
+      "article": "de",
+      "lemma": "metro",
+      "plural": [
+        "metro's"
+      ],
+      "ua": "метро",
+      "audio": "de-metro.mp3",
+      "explain_ua": "(Wij nemen de metro = ми їдемо метро; De metro is snel = метро швидке). Слово збігається з українським «метро»: підказка для пам'яті. Множина metro's з апострофом: слово закінчується на голосну, як opa's, oma's (Les 29). E довга [eː], o в кінці довга [oː]; наголос на першому складі: ME-tro",
+      "check": "Множину metro's з апострофом і наголос ME-tro з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-1c8f700f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "vliegtuig",
+      "plural": [
+        "vliegtuigen"
+      ],
+      "ua": "літак",
+      "audio": "het-vliegtuig.mp3",
+      "explain_ua": "(Het vliegtuig is groot = літак великий; Het vliegtuig vertrekt om zeven uur = літак вилітає о сьомій). Складене слово: vlieg (від vliegen, нижче: ik vlieg) і tuig (окремо не вчимо). Це het-слово: вчи разом з артиклем. Множина vliegtuigen. Ie це [i]; ui це [œy], той самий звук, що в huis (Les 1): губи круглі, не «уй». G у vlieg це гортанний [x], як х у хата, а не h. Наголос на першому складі: VLIEG-tuig"
+    },
+    {
+      "id": "nl-3c99ff52",
+      "type": "noun",
+      "article": "het",
+      "lemma": "vliegveld",
+      "plural": [
+        "vliegvelden"
+      ],
+      "ua": "аеропорт",
+      "audio": "het-vliegveld.mp3",
+      "explain_ua": "(Het vliegveld is groot = аеропорт великий; Wij gaan naar het vliegveld = ми їдемо до аеропорту). Складене слово: vlieg (vliegen, нижче) і veld (поле; окремо не вчимо). Рід за останньою частиною: het vliegveld. Множина vliegvelden. Є ще слово luchthaven (теж «аеропорт»), його не вчимо. Кінцеве d у veld читається [t], як у російському «хлеб» (тут спирайся на російську, не на українську): [fɛlt]; у vliegvelden d звучить [d]. Наголос на першому складі: VLIEG-veld"
+    },
+    {
+      "id": "nl-59d579de",
+      "type": "noun",
+      "article": "de",
+      "lemma": "boot",
+      "plural": [
+        "boten"
+      ],
+      "ua": "човен, судно",
+      "audio": "de-boot.mp3",
+      "explain_ua": "(Wij reizen met de boot = ми подорожуємо на кораблі; De boot is klein = човен маленький). Boot це човен, катер чи судно на воді. Схоже на англійське boat: oo ↔ oa, підказка для пам'яті. Множина boten: oo стає o у відкритому складі, звук той самий довгий [oː], як maan - manen (Les 1). Oo це [oː], як у boos (Les 1)",
+      "check": "Чи boot природно про великий корабель чи пором, а не лише човен, не перевірено."
+    },
+    {
+      "id": "nl-e3932cf3",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vrachtwagen",
+      "plural": [
+        "vrachtwagens"
+      ],
+      "ua": "вантажівка",
+      "audio": "de-vrachtwagen.mp3",
+      "explain_ua": "(De vrachtwagen is groot = вантажівка велика; De vrachtwagen rijdt op de snelweg = вантажівка їде по автостраді). Складене слово: vracht (вантаж; окремо не вчимо) і wagen (окремо не вчимо). Множина vrachtwagens: -s, бо слово закінчується на -en. Ch у vracht це [x], як х у хата; vr це два звуки поспіль, [v] і [r]; w це [ʋ], не українське «в». Наголос на першому складі: VRACHT-wa-gen"
+    },
+    {
+      "id": "nl-4960f644",
+      "type": "noun",
+      "article": "de",
+      "lemma": "halte",
+      "plural": [
+        "haltes"
+      ],
+      "ua": "зупинка (автобуса, трамвая)",
+      "audio": "de-halte.mp3",
+      "explain_ua": "(Waar is de halte? = де зупинка?; De tram stopt hier = трамвай зупиняється тут). Halte це зупинка автобуса чи трамвая; про вокзал кажуть het station (Les 17). Множина haltes (-s, бо слово закінчується на -e). H на початку це легкий видих [h], не гортанне «х»: не «халте». Наголос на першому складі: HAL-te; -e в кінці слабка [ə]",
+      "check": "Артикль de, множину haltes і наголос HAL-te з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-37b5f634",
+      "type": "noun",
+      "article": "het",
+      "lemma": "perron",
+      "plural": [
+        "perrons"
+      ],
+      "ua": "платформа (на вокзалі)",
+      "audio": "het-perron.mp3",
+      "explain_ua": "(Wij staan op het perron = ми стоїмо на платформі). Perron це підвищення біля колії, де чекають на поїзд. Кажуть op het perron: op для відкритого місця (Les 31). Слово французьке, схоже на російське «перрон» і українське «перон»: підказка для пам'яті. Множина perrons (-s). O коротка [ɔ]; n звичайне [n], не носове, як у французькій; наголос на останньому складі: pe-RON"
+    },
+    {
+      "id": "nl-b4af2e33",
+      "type": "noun",
+      "article": "het",
+      "lemma": "kaartje",
+      "plural": [
+        "kaartjes"
+      ],
+      "ua": "квиток",
+      "audio": "het-kaartje.mp3",
+      "explain_ua": "(Het kaartje kost drie euro = квиток коштує три євро). Kaartje це квиток (на проїзд, на подію). Слово складається з kaart (картка; окремо не вчимо) і -je: як het kopje (Les 12), het broodje (Les 25). Усі слова на -je це het-слова. Множина kaartjes (-s). Aa довге [aː], як у maan (Les 1); -tje читається м'яко, приблизно «тьє»: KAAR-tje",
+      "check": "Вимову -tje (м'яко, приблизно «тьє») і множину kaartjes з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-800cc3e6",
+      "type": "noun",
+      "article": "de",
+      "lemma": "reis",
+      "plural": [
+        "reizen"
+      ],
+      "ua": "подорож, поїздка",
+      "audio": "de-reis.mp3",
+      "explain_ua": "(De reis is lang = подорож довга; Goede reis! = щасливої дороги!). Множина reizen: у reis кінцеве s, а між голосними z, як huis - huizen (Les 1). Ei це [ɛi], той самий звук, що ij у mijn (Les 1). Ik reis (я подорожую) пишеться так само, як de reis: це різні слова, іменник і форма дієслова reizen (нижче), а який з них, видно з речення",
+      "check": "Артикль de, множину reizen і вираз Goede reis! з власних знань, словник їх не показав."
+    },
+    {
+      "id": "nl-e29dcbbb",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vertraging",
+      "plural": [
+        "vertragingen"
+      ],
+      "ua": "затримка, запізнення (транспорту)",
+      "audio": "de-vertraging.mp3",
+      "explain_ua": "(De trein heeft vertraging = поїзд запізнюється, буквально «має затримку»). У цьому звороті vertraging стоїть без артикля, як honger hebben (Les 25) і pijn hebben (Les 30): це один із небагатьох випадків, коли іменник без артикля. Заперечення: geen vertraging (Les 2). Слова на -ing це de-слова, як de verdieping (Les 31); множина vertragingen. Ng це один звук [ŋ], як у gang (Les 31). Наголос на другому складі: ver-TRA-ging; ver- слабке",
+      "check": "Зворот vertraging hebben без артикля, множину і наголос ver-TRA-ging з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-e34c82d1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "file",
+      "plural": [
+        "files"
+      ],
+      "ua": "затор (на дорозі)",
+      "audio": "de-file.mp3",
+      "explain_ua": "(Wij staan in de file = ми стоїмо в заторі). File це затор, колона машин на дорозі. Кажуть in de file staan: staan (Les 31), бо машини стоять, і in, бо ти «всередині» затору. Множина files. I довге [i]; наголос на першому складі: FI-le; -e в кінці слабка [ə]",
+      "check": "Артикль de, множину files і зворот in de file staan з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-4b7ce845",
+      "type": "noun",
+      "article": "de",
+      "lemma": "snelweg",
+      "plural": [
+        "snelwegen"
+      ],
+      "ua": "автострада",
+      "audio": "de-snelweg.mp3",
+      "explain_ua": "(De snelweg is lang = автострада довга). Складене слово: snel (швидко, Les 10) і de weg (дорога, Les 22). Рід і множина за останньою частиною: de weg - de wegen, тому de snelweg - de snelwegen. У wegen e довга [eː], а в weg коротка [ɛ]: як dag - dagen (Les 4) і dak - daken (Les 31). Кажуть op de snelweg, як op het plein (Les 24). Наголос на першому складі: SNEL-weg; w це [ʋ]",
+      "check": "Множину snelwegen і наголос SNEL-weg з власних знань, у словнику не перевірено."
+    },
+    {
+      "id": "nl-6ba978ec",
+      "type": "noun",
+      "article": "de",
+      "lemma": "parkeerplaats",
+      "plural": [
+        "parkeerplaatsen"
+      ],
+      "ua": "парковка, місце для машини",
+      "audio": "de-parkeerplaats.mp3",
+      "explain_ua": "(Er is een parkeerplaats achter het station = за вокзалом є парковка). Складене слово: parkeer (від parkeren, нижче) і plaats (місце; окремо не вчимо). Рід і множина за останньою частиною: de plaats - de plaatsen, тому de parkeerplaats - de parkeerplaatsen. Ee довге [eː], як у de thee (Les 12); aa довге [aː], як у maan (Les 1). Наголос на другому складі: par-KEER-plaats"
+    },
+    {
+      "id": "nl-e7036947",
+      "type": "verb",
+      "lemma": "reizen",
+      "ua": "подорожувати",
+      "audio": "reizen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "reis",
+          "audio": "ik-reis.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "reist",
+          "audio": "hij-reist.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "reizen",
+          "audio": "wij-reizen.mp3"
+        }
+      ],
+      "explain_ua": "(Wij reizen naar Kroatië = ми подорожуємо до Хорватії; Ik reis met de trein = я подорожую поїздом). Reizen це «подорожувати, їхати в дорогу»: слово про саму подорож, а не про спосіб. Спосіб називаємо з met: met de trein. В основі z на кінці пишемо s, як lees у lezen (Les 6): ik reis, hij reist, але wij reizen. Ik reis виглядає як de reis (вище): який це слово, видно з речення. Ei це [ɛi], як ij у mijn (Les 1); наголос на першому складі: REI-zen",
+      "check": "Форми reis, reist (z на кінці основи як s) з власних знань, словник їх не показав."
+    },
+    {
+      "id": "nl-86d33f31",
+      "type": "verb",
+      "lemma": "vliegen",
+      "ua": "летіти, літати",
+      "audio": "vliegen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "vlieg",
+          "audio": "ik-vlieg.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "vliegt",
+          "audio": "hij-vliegt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "vliegen",
+          "audio": "wij-vliegen.mp3"
+        }
+      ],
+      "explain_ua": "(Wij vliegen naar Kroatië = ми летимо до Хорватії; Zij vliegt naar Oekraïne = вона летить до України). Vliegen це і «летіти», і «літати»: українська розрізняє ці два дієслова, нідерландська має одне, як rijden (Les 5) це і «їхати», і «їздити». Напрямок видно з контексту. Схоже на англійське fly: v ↔ f, як vader / father (Les 9): підказка для пам'яті. G у vlieg і vliegt це [x], як х у хата, а не h; у vliegen g це той самий гортанний звук, що в gisteren (Les 26). Ie це [i]; наголос на першому складі: VLIE-gen"
+    },
+    {
+      "id": "nl-0cad95a2",
+      "type": "verb",
+      "lemma": "uitstappen",
+      "ua": "виходити (з транспорту)",
+      "audio": "uitstappen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "stap uit",
+          "audio": "ik-stap-uit.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "stapt uit",
+          "audio": "hij-stapt-uit.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "stappen uit",
+          "audio": "wij-stappen-uit.mp3"
+        }
+      ],
+      "explain_ua": "(Ik stap hier uit = я виходжу тут; Wij stappen uit = ми виходимо). Uitstappen це «виходити з поїзда, автобуса, трамвая». Пара до instappen (Les 5): in це «зайти», uit це «вийти». Відокремлюване: uit іде в кінець речення, як in в Ik stap in. Основа stap, як в instappen: не плутай зі steek в oversteken (Les 5). Ui це [œy], як у huis (Les 1); наголос на префіксі: UIT-stap-pen"
+    },
+    {
+      "id": "nl-6bf36ea6",
+      "type": "verb",
+      "lemma": "overstappen",
+      "ua": "пересідати (на інший транспорт)",
+      "audio": "overstappen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "stap over",
+          "audio": "ik-stap-over.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "stapt over",
+          "audio": "hij-stapt-over.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "stappen over",
+          "audio": "wij-stappen-over.mp3"
+        }
+      ],
+      "explain_ua": "(Wij stappen in de stad over = ми пересідаємо в місті). Overstappen це «пересісти» з одного транспорту на інший. Відокремлюване: over іде в кінець речення, а місце стоїть перед ним: Ik stap in de stad over. Новий транспорт називаємо після over з op: over op de metro. Основа stap, як в instappen і uitstappen; не плутай з oversteken (Les 5): stappen змінює транспорт, steken переходить вулицю. O довге [oː]; наголос на префіксі: OVER-stap-pen"
+    },
+    {
+      "id": "nl-7eeb5f55",
+      "type": "verb",
+      "lemma": "aankomen",
+      "ua": "прибувати",
+      "audio": "aankomen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kom aan",
+          "audio": "ik-kom-aan.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "komt aan",
+          "audio": "hij-komt-aan.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "komen aan",
+          "audio": "wij-komen-aan.mp3"
+        }
+      ],
+      "explain_ua": "(De trein komt om drie uur aan = поїзд прибуває о третій). Aankomen це «прибувати, приїжджати до місця призначення». Складається з aan і komen (Les 18), як binnenkomen (Les 5). Відокремлюване: aan іде в кінець речення: De trein komt aan, Komt de trein aan? Aa довге [aː], як у maan (Les 1); наголос на префіксі: AAN-ko-men. Пара до vertrekken (нижче): прибуття й відправлення"
+    },
+    {
+      "id": "nl-1174c5af",
+      "type": "verb",
+      "lemma": "vertrekken",
+      "ua": "відправлятися, вирушати",
+      "audio": "vertrekken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "vertrek",
+          "audio": "ik-vertrek.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "vertrekt",
+          "audio": "hij-vertrekt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "vertrekken",
+          "audio": "wij-vertrekken.mp3"
+        }
+      ],
+      "explain_ua": "(De trein vertrekt om acht uur = поїзд відправляється о восьмій). Vertrekken це «відправлятися, вирушати». Це дієслово НЕ відокремлюване: ver- не відділяється й не йде в кінець, дієслово лишається цілим: De trein vertrekt. Так само be- у betalen (Les 10) і bestellen (Les 12). Наголос не на префіксі, а на основі: ver-TREK-ken, на відміну від AAN-komen. В основі одна k (vertrek), а в інфінітиві дві: vertrekken, бо e коротка, як bed - bedden (Les 31)"
+    },
+    {
+      "id": "nl-991e7ceb",
+      "type": "verb",
+      "lemma": "parkeren",
+      "ua": "паркувати, паркуватися",
+      "audio": "parkeren.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "parkeer",
+          "audio": "ik-parkeer.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "parkeert",
+          "audio": "hij-parkeert.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "parkeren",
+          "audio": "wij-parkeren.mp3"
+        }
+      ],
+      "explain_ua": "(Ik parkeer de auto hier = я паркую машину тут; Mag ik hier parkeren? = чи можна тут припаркуватися?). Parkeren це і «паркувати», і «паркуватися»: слово те саме з об'єктом і без нього. Схоже на «паркувати»: підказка для пам'яті. Основа parkeer: ee довге [eː], і в основі пишемо ee, бо в par-ke-ren склад відкритий, як lees у lezen (Les 6). Наголос на другому складі: par-KEE-ren"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Aankomen, uitstappen, overstappen: префікс у кінці",
+      "summary_ua": "Ці три дієслова відокремлюються, як opstaan (Les 4) і instappen (Les 5): змінюється перша частина, а префікс aan, uit або over іде в кінець речення. Українською такого немає, тому одразу думай про дві частини: komt ... aan, stap ... uit, stap ... over.",
+      "see": "Les 4",
+      "compare": [
+        {
+          "form": "Aankomen: De trein komt aan",
+          "when_ua": "Дієслово стоїть на другому місці, префікс aan у самому кінці. Час і місце стоять між ними.",
+          "examples": [
+            {
+              "nl": "De tram **komt** om vier uur **aan**.",
+              "ua": "Трамвай прибуває о четвертій.",
+              "audio": "les33-rule-01.mp3"
+            },
+            {
+              "nl": "**Komt** de bus om acht uur **aan**?",
+              "ua": "Автобус прибуває о восьмій?",
+              "audio": "les33-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Як Zij komt binnen (Les 5): komen і префікс. У питанні дієслово стоїть першим, а aan усе одно в кінці."
+        },
+        {
+          "form": "Uitstappen, overstappen: місце перед префіксом",
+          "when_ua": "Місце (hier, in de stad) стоїть перед префіксом, а префікс у кінці.",
+          "examples": [
+            {
+              "nl": "Mijn zus **stapt** hier **uit**.",
+              "ua": "Моя сестра виходить тут.",
+              "audio": "les33-rule-03.mp3"
+            },
+            {
+              "nl": "Zij **stapt** in de stad **over**.",
+              "ua": "Вона пересідає в місті.",
+              "audio": "les33-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Не Ik uitstap hier. Дієслово друге, а uit наприкінці, як in в Ik stap in (Les 5)."
+        }
+      ],
+      "points_ua": [
+        "Komt ... aan, stapt ... uit, stapt ... over.",
+        "Префікс у кінці, як op в Ik sta op (Les 4)."
+      ]
+    },
+    {
+      "title_ua": "Vertrekken: не відокремлюється",
+      "summary_ua": "Vertrekken за змістом пара до aankomen (відправлятися і прибувати), але граматика інша: ver- не відділяється. Дієслово лишається цілим: De trein vertrekt. Так само be- у betalen (Les 10) і bestellen (Les 12).",
+      "see": "Les 12",
+      "compare": [
+        {
+          "form": "Vertrekken: ціле слово",
+          "when_ua": "Vertrekt стоїть на другому місці й нічого не відкидає в кінець.",
+          "examples": [
+            {
+              "nl": "De trein **vertrekt** om acht uur.",
+              "ua": "Поїзд відправляється о восьмій.",
+              "audio": "les33-rule-05.mp3"
+            },
+            {
+              "nl": "De trein **komt** om negen uur **aan**.",
+              "ua": "Поїзд прибуває о дев'ятій.",
+              "audio": "les33-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: vertrekt це одне слово, а komt ... aan це два. Не De trein trekt ver."
+        },
+        {
+          "form": "Be- і ver-: теж цілі",
+          "when_ua": "Початок be- або ver- не відділяється. Відділяються префікси на кшталт aan, uit, over, op, in.",
+          "examples": [
+            {
+              "nl": "Wij **bestellen** koffie.",
+              "ua": "Ми замовляємо каву.",
+              "audio": "les33-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Так само Wij betalen hier. Різницю легко почути: у aankomen наголос на префіксі (AAN-komen), у vertrekken на основі (ver-TREK-ken)."
+        }
+      ],
+      "points_ua": [
+        "Aankomen відділяється, vertrekken ні.",
+        "Be- і ver- не відділяються."
+      ]
+    },
+    {
+      "title_ua": "Модальне дієслово + інфінітив: слово ціле",
+      "summary_ua": "Після moeten, willen, mogen, kunnen (Les 7) друге дієслово стоїть у кінці цілим інфінітивом: overstappen, uitstappen, parkeren. Тут слово не розділяється: воно розділяється лише тоді, коли саме змінюється за особою.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Willen, moeten + інфінітив",
+          "when_ua": "Модальне на другому місці, інфінітив у кінці цілим словом.",
+          "examples": [
+            {
+              "nl": "Ik **wil** hier **uitstappen**.",
+              "ua": "Я хочу вийти тут.",
+              "audio": "les33-rule-08.mp3"
+            },
+            {
+              "nl": "**Moet** ik hier **overstappen**?",
+              "ua": "Мені тут треба пересісти?",
+              "audio": "les33-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Як Ik wil werken (Les 7). Порівняй: Ik stap hier uit (два слова) і Ik wil hier uitstappen (одне слово в кінці)."
+        },
+        {
+          "form": "Mogen: чи можна?",
+          "when_ua": "Mag ik ...? це «чи можна мені ...?» (Les 7).",
+          "examples": [
+            {
+              "nl": "**Mag** ik hier **parkeren**?",
+              "ua": "Чи можна мені тут припаркуватися?",
+              "audio": "les33-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Niet стоїть перед інфінітивом (Les 9): Ik mag hier niet parkeren."
+        }
+      ],
+      "points_ua": [
+        "Ik wil uitstappen: слово ціле в кінці.",
+        "Mag ik hier parkeren? = чи можна?"
+      ]
+    },
+    {
+      "title_ua": "Overstappen чи oversteken",
+      "summary_ua": "Два схожі дієслова з різним змістом: overstappen це пересісти на інший транспорт, oversteken (Les 5) це перейти вулицю, міст, дорогу. Обидва відокремлюються, over іде в кінець. Різниця в основі: stap чи steek.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "Overstappen: пересісти",
+          "when_ua": "Місце перед over, а новий транспорт після over з op.",
+          "examples": [
+            {
+              "nl": "Hier **stap** ik **over** op de tram.",
+              "ua": "Тут я пересідаю на трамвай.",
+              "audio": "les33-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Основа stap, як в instappen і uitstappen. Op + новий транспорт: over op de tram."
+        },
+        {
+          "form": "Oversteken: перейти",
+          "when_ua": "Після steek стоїть те, що переходимо: de straat, de brug, de weg.",
+          "examples": [
+            {
+              "nl": "Zij **steekt** de brug **over**.",
+              "ua": "Вона переходить міст.",
+              "audio": "les33-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Основа steek. Не Ik stap de straat over: вулицю переходять, а не пересідають."
+        }
+      ],
+      "points_ua": [
+        "Overstappen op de tram, oversteken de brug.",
+        "Stap чи steek: два різних дієслова."
+      ]
+    },
+    {
+      "title_ua": "Vertraging hebben, in de file staan",
+      "summary_ua": "Два вирази про труднощі в дорозі. Vertraging hebben стоїть без артикля, як honger hebben (Les 25) і pijn hebben (Les 30). In de file staan має артикль de і дієслово staan (Les 31).",
+      "see": "Les 25",
+      "compare": [
+        {
+          "form": "Vertraging hebben: без артикля",
+          "when_ua": "Hebben і vertraging без артикля. Для заперечення geen.",
+          "examples": [
+            {
+              "nl": "Het vliegtuig **heeft** veel **vertraging**.",
+              "ua": "Літак дуже запізнюється.",
+              "audio": "les33-rule-13.mp3"
+            },
+            {
+              "nl": "De tram **heeft geen vertraging**.",
+              "ua": "Трамвай не запізнюється.",
+              "audio": "les33-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Іменник без артикля тут виняток, як у honger hebben. Не De trein heeft de vertraging: у цьому звороті артикля немає."
+        },
+        {
+          "form": "In de file staan: з артиклем",
+          "when_ua": "In de file: артикль de не випускай. Дієслово staan, бо машини стоять.",
+          "examples": [
+            {
+              "nl": "De vrachtwagen **staat in de file**.",
+              "ua": "Вантажівка стоїть у заторі.",
+              "audio": "les33-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Кажуть staan (Les 31): як про ліжко, так і про машини в заторі."
+        }
+      ],
+      "points_ua": [
+        "Vertraging hebben: без артикля.",
+        "In de file staan: з de."
+      ]
+    },
+    {
+      "title_ua": "Складені слова і множина: vliegveld, snelweg, trams",
+      "summary_ua": "Рід складеного слова за останньою частиною (Les 31): het veld, тому het vliegveld; de weg, тому de snelweg. Множина: після -e, -en, -je найчастіше -s (haltes, vrachtwagens, kaartjes); запозичені слова теж часто -s (trams, perrons, metro's); решта -en (vliegtuigen, snelwegen, reizen).",
+      "see": "Les 31",
+      "compare": [
+        {
+          "form": "Рід за останньою частиною",
+          "when_ua": "Не вгадуй рід складеного слова: дивись на останню частину.",
+          "examples": [
+            {
+              "nl": "Het **vliegveld** is groot.",
+              "ua": "Аеропорт великий.",
+              "audio": "les33-rule-16.mp3"
+            },
+            {
+              "nl": "De **snelweg** is lang.",
+              "ua": "Автострада довга.",
+              "audio": "les33-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Het vliegveld (het veld), de snelweg (de weg), de parkeerplaats (de plaats), de vrachtwagen (de wagen). Не het snelweg."
+        },
+        {
+          "form": "Множина: -s чи -en",
+          "when_ua": "Дивись на кінець слова: -e, -en, -je дають -s; запозичені слова часто -s; більшість інших -en.",
+          "examples": [
+            {
+              "nl": "De **trams** zijn nieuw.",
+              "ua": "Трамваї нові.",
+              "audio": "les33-rule-18.mp3"
+            },
+            {
+              "nl": "Ik koop twee **kaartjes**.",
+              "ua": "Я купую два квитки.",
+              "audio": "les33-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Metro's з апострофом, як opa's (Les 29). Boot - boten: oo стає o, звук той самий, як maan - manen (Les 1). Weg - wegen: коротка e стає довгою, як dag - dagen (Les 4)."
+        }
+      ],
+      "points_ua": [
+        "Рід за останньою частиною.",
+        "Trams, haltes, kaartjes: -s; vliegtuigen, boten: -en."
+      ]
+    },
+    {
+      "title_ua": "Met, op, in: транспорт і місце",
+      "summary_ua": "Транспорт, яким їдеш, стоїть після met (Les 6): met de tram, met de boot. Місце: op для відкритого місця чи поверхні (op het perron, op de snelweg), in для того, що всередині (in het vliegtuig, in de file), як у Les 31.",
+      "see": "Les 6",
+      "compare": [
+        {
+          "form": "Met: чим їдеш",
+          "when_ua": "Met + de або het + транспорт. Дієслово може бути будь-яке: reizen, gaan, rijden.",
+          "examples": [
+            {
+              "nl": "Ik **reis met de tram**.",
+              "ua": "Я подорожую трамваєм.",
+              "audio": "les33-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Як met de bus (Les 6). Не in de tram, коли йдеться про спосіб поїздки."
+        },
+        {
+          "form": "Op чи in: де ти",
+          "when_ua": "Op: відкрите місце, поверхня. In: усередині.",
+          "examples": [
+            {
+              "nl": "Mijn zus staat **op het perron**.",
+              "ua": "Моя сестра стоїть на платформі.",
+              "audio": "les33-rule-21.mp3"
+            },
+            {
+              "nl": "**In het vliegtuig** is het koud.",
+              "ua": "У літаку холодно.",
+              "audio": "les33-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Op het perron, op de snelweg, op het vliegveld, але in het vliegtuig, in de tram."
+        }
+      ],
+      "points_ua": [
+        "Met de tram, met het vliegtuig.",
+        "Op het perron, in het vliegtuig."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "De trein komt om drie uur aan.",
+      "ua": "Поїзд прибуває о третій.",
+      "audio": "les33-example-01.mp3"
+    },
+    {
+      "nl": "Wanneer vertrekt de bus?",
+      "ua": "Коли відправляється автобус?",
+      "audio": "les33-example-02.mp3"
+    },
+    {
+      "nl": "Ik stap hier uit.",
+      "ua": "Я виходжу тут.",
+      "audio": "les33-example-03.mp3"
+    },
+    {
+      "nl": "Wij moeten in de stad overstappen.",
+      "ua": "Нам треба пересісти в місті.",
+      "audio": "les33-example-04.mp3"
+    },
+    {
+      "nl": "Het vliegtuig vertrekt om zeven uur.",
+      "ua": "Літак вилітає о сьомій.",
+      "audio": "les33-example-05.mp3"
+    },
+    {
+      "nl": "Wij reizen met de boot naar Kroatië.",
+      "ua": "Ми подорожуємо на кораблі до Хорватії.",
+      "audio": "les33-example-06.mp3"
+    },
+    {
+      "nl": "Waar is de halte?",
+      "ua": "Де зупинка?",
+      "audio": "les33-example-07.mp3"
+    },
+    {
+      "nl": "Het kaartje kost drie euro.",
+      "ua": "Квиток коштує три євро.",
+      "audio": "les33-example-08.mp3"
+    },
+    {
+      "nl": "De vrachtwagen staat op de snelweg.",
+      "ua": "Вантажівка стоїть на автостраді.",
+      "audio": "les33-example-09.mp3"
+    },
+    {
+      "nl": "Wij staan in de file.",
+      "ua": "Ми стоїмо в заторі.",
+      "audio": "les33-example-10.mp3"
+    },
+    {
+      "nl": "Er is een parkeerplaats achter het station.",
+      "ua": "За вокзалом є парковка.",
+      "audio": "les33-example-11.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Naar Kroatië",
+    "title_ua": "До Хорватії",
+    "highlight": [
+      "nl-83e10a20",
+      "nl-1c8f700f",
+      "nl-3c99ff52",
+      "nl-37b5f634",
+      "nl-800cc3e6",
+      "nl-e29dcbbb"
+    ],
+    "sentences": [
+      {
+        "nl": "Vandaag reizen wij naar Kroatië.",
+        "ua": "Сьогодні ми подорожуємо до Хорватії.",
+        "audio": "les33-reading-01.mp3"
+      },
+      {
+        "nl": "Wij nemen de trein naar het vliegveld.",
+        "ua": "Ми їдемо поїздом до аеропорту.",
+        "audio": "les33-reading-02.mp3"
+      },
+      {
+        "nl": "Wij staan op het perron en wachten op de trein.",
+        "ua": "Ми стоїмо на платформі й чекаємо на поїзд.",
+        "audio": "les33-reading-03.mp3"
+      },
+      {
+        "nl": "De trein heeft vertraging.",
+        "ua": "Поїзд запізнюється.",
+        "audio": "les33-reading-04.mp3"
+      },
+      {
+        "nl": "Om half negen komt de trein aan.",
+        "ua": "О пів на дев'яту поїзд прибуває.",
+        "audio": "les33-reading-05.mp3"
+      },
+      {
+        "nl": "Wij stappen in.",
+        "ua": "Ми сідаємо в поїзд.",
+        "audio": "les33-reading-06.mp3"
+      },
+      {
+        "nl": "In de stad stappen wij over op de metro.",
+        "ua": "У місті ми пересідаємо на метро.",
+        "audio": "les33-reading-07.mp3"
+      },
+      {
+        "nl": "De metro rijdt snel naar het vliegveld.",
+        "ua": "Метро швидко їде до аеропорту.",
+        "audio": "les33-reading-08.mp3"
+      },
+      {
+        "nl": "Om twaalf uur vertrekt het vliegtuig.",
+        "ua": "О дванадцятій вилітає літак.",
+        "audio": "les33-reading-09.mp3"
+      },
+      {
+        "nl": "Het is een lange reis, maar mijn kinderen vinden het leuk.",
+        "ua": "Це довга подорож, але моїм дітям це подобається.",
+        "audio": "les33-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат летить завтра.",
+          "accepted": [
+            "Mijn broer vliegt morgen.",
+            "Morgen vliegt mijn broer."
+          ]
+        },
+        {
+          "prompt": "Ми пересідаємо тут.",
+          "accepted": [
+            "Wij stappen hier over.",
+            "We stappen hier over."
+          ]
+        },
+        {
+          "prompt": "Поїзд прибуває о пів на п'яту.",
+          "accepted": [
+            "De trein komt om half vijf aan.",
+            "Om half vijf komt de trein aan."
+          ]
+        },
+        {
+          "prompt": "Автобус не відправляється.",
+          "accepted": [
+            "De bus vertrekt niet."
+          ]
+        },
+        {
+          "prompt": "Мої батьки подорожують до Нідерландів.",
+          "accepted": [
+            "Mijn ouders reizen naar Nederland."
+          ]
+        },
+        {
+          "prompt": "Мій тато паркує машину тут.",
+          "accepted": [
+            "Mijn vader parkeert de auto hier.",
+            "Mijn vader parkeert hier de auto."
+          ]
+        },
+        {
+          "prompt": "Мій квиток дорогий.",
+          "accepted": [
+            "Mijn kaartje is duur."
+          ]
+        },
+        {
+          "prompt": "Мама купує три квитки.",
+          "accepted": [
+            "Mijn moeder koopt drie kaartjes.",
+            "De moeder koopt drie kaartjes."
+          ]
+        },
+        {
+          "prompt": "Де мені виходити?",
+          "accepted": [
+            "Waar moet ik uitstappen?"
+          ]
+        },
+        {
+          "prompt": "Ми маємо затримку.",
+          "accepted": [
+            "Wij hebben vertraging.",
+            "We hebben vertraging."
+          ]
+        },
+        {
+          "prompt": "Я не можу тут паркуватися.",
+          "accepted": [
+            "Ik kan hier niet parkeren.",
+            "Hier kan ik niet parkeren."
+          ]
+        },
+        {
+          "prompt": "Ми летимо до України.",
+          "accepted": [
+            "Wij vliegen naar Oekraïne.",
+            "We vliegen naar Oekraïne."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: префікс, дієслово чи іменник із цього уроку",
+      "bank": [
+        "aan",
+        "uit",
+        "over",
+        "in",
+        "op",
+        "met",
+        "komt",
+        "vertrekt",
+        "vliegt",
+        "vertraging",
+        "file",
+        "kaartje",
+        "snelweg"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "De trein komt om tien uur ___.",
+          "hint": "Поїзд прибуває о десятій",
+          "accepted": [
+            [
+              "aan"
+            ]
+          ]
+        },
+        {
+          "text": "Ik stap hier ___.",
+          "hint": "Я виходжу тут",
+          "accepted": [
+            [
+              "uit"
+            ]
+          ]
+        },
+        {
+          "text": "Wij stappen in de stad ___.",
+          "hint": "Ми пересідаємо в місті",
+          "accepted": [
+            [
+              "over"
+            ]
+          ]
+        },
+        {
+          "text": "De tram ___ om vijf uur.",
+          "hint": "Трамвай відправляється о п'ятій",
+          "accepted": [
+            [
+              "vertrekt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik sta ___ het perron.",
+          "hint": "Я стою на платформі",
+          "accepted": [
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Zij reist ___ de boot.",
+          "hint": "Вона подорожує на човні",
+          "accepted": [
+            [
+              "met"
+            ]
+          ]
+        },
+        {
+          "text": "De bus heeft ___.",
+          "hint": "Автобус запізнюється",
+          "accepted": [
+            [
+              "vertraging"
+            ]
+          ]
+        },
+        {
+          "text": "Wij staan in de ___.",
+          "hint": "Ми стоїмо в заторі",
+          "accepted": [
+            [
+              "file"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ kost drie euro.",
+          "hint": "Мій квиток коштує три євро",
+          "accepted": [
+            [
+              "kaartje"
+            ]
+          ]
+        },
+        {
+          "text": "___ de tram om zes uur aan?",
+          "hint": "Трамвай прибуває о шостій?",
+          "accepted": [
+            [
+              "Komt",
+              "komt"
+            ]
+          ]
+        },
+        {
+          "text": "De vrachtwagen rijdt op de ___.",
+          "hint": "Вантажівка їде по автостраді",
+          "accepted": [
+            [
+              "snelweg"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus ___ naar Kroatië.",
+          "hint": "Моя сестра летить до Хорватії",
+          "accepted": [
+            [
+              "vliegt"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "De tram is nieuw.",
+          "cue": "-> множина: De ... zijn nieuw.",
+          "accepted": [
+            "De trams zijn nieuw."
+          ]
+        },
+        {
+          "prompt": "Het vliegtuig is groot.",
+          "cue": "-> множина: De ... zijn groot.",
+          "accepted": [
+            "De vliegtuigen zijn groot."
+          ]
+        },
+        {
+          "prompt": "Het perron is lang.",
+          "cue": "-> множина: De ... zijn lang.",
+          "accepted": [
+            "De perrons zijn lang."
+          ]
+        },
+        {
+          "prompt": "Het kaartje is goedkoop.",
+          "cue": "-> множина: De ... zijn goedkoop.",
+          "accepted": [
+            "De kaartjes zijn goedkoop."
+          ]
+        },
+        {
+          "prompt": "De snelweg is oud.",
+          "cue": "-> множина: De ... zijn oud.",
+          "accepted": [
+            "De snelwegen zijn oud."
+          ]
+        },
+        {
+          "prompt": "De halte is klein.",
+          "cue": "-> множина: De ... zijn klein.",
+          "accepted": [
+            "De haltes zijn klein."
+          ]
+        },
+        {
+          "prompt": "De boot is mooi.",
+          "cue": "-> множина: De ... zijn mooi.",
+          "accepted": [
+            "De boten zijn mooi."
+          ]
+        },
+        {
+          "prompt": "De vrachtwagen is oud.",
+          "cue": "-> множина: De ... zijn oud.",
+          "accepted": [
+            "De vrachtwagens zijn oud."
+          ]
+        },
+        {
+          "prompt": "De trein komt om vier uur aan.",
+          "cue": "-> питання: Komt de trein ...?",
+          "accepted": [
+            "Komt de trein om vier uur aan?"
+          ]
+        },
+        {
+          "prompt": "De bus vertrekt om zes uur.",
+          "cue": "-> питання про час: Wanneer ...?",
+          "accepted": [
+            "Wanneer vertrekt de bus?"
+          ]
+        },
+        {
+          "prompt": "Ik stap hier over.",
+          "cue": "-> починай з Hier",
+          "accepted": [
+            "Hier stap ik over."
+          ]
+        },
+        {
+          "prompt": "De bus heeft vertraging.",
+          "cue": "-> заперечення: De bus heeft geen ...",
+          "accepted": [
+            "De bus heeft geen vertraging."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі (у відокремлюваних лише першу частину)",
+      "items": [
+        {
+          "example": true,
+          "text": "De trein ___ om acht uur aan.",
+          "cue": "aankomen",
+          "accepted": [
+            "komt"
+          ]
+        },
+        {
+          "text": "Ik ___ hier uit.",
+          "cue": "uitstappen",
+          "accepted": [
+            "stap"
+          ]
+        },
+        {
+          "text": "Wij ___ in de stad over.",
+          "cue": "overstappen",
+          "accepted": [
+            "stappen"
+          ]
+        },
+        {
+          "text": "Het vliegtuig ___ om twee uur.",
+          "cue": "vertrekken",
+          "accepted": [
+            "vertrekt"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ naar Oekraïne.",
+          "cue": "vliegen",
+          "accepted": [
+            "vliegt"
+          ]
+        },
+        {
+          "text": "Ik ___ met de tram.",
+          "cue": "reizen",
+          "accepted": [
+            "reis"
+          ]
+        },
+        {
+          "text": "Wij ___ de auto hier.",
+          "cue": "parkeren",
+          "accepted": [
+            "parkeren"
+          ]
+        },
+        {
+          "text": "De bus ___ om vijf uur aan.",
+          "cue": "aankomen",
+          "accepted": [
+            "komt"
+          ]
+        },
+        {
+          "text": "Wij ___ naar Kroatië.",
+          "cue": "vliegen",
+          "accepted": [
+            "vliegen"
+          ]
+        },
+        {
+          "text": "Ik ___ om zeven uur.",
+          "cue": "vertrekken",
+          "accepted": [
+            "vertrek"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ hier uit.",
+          "cue": "uitstappen",
+          "accepted": [
+            "stapt"
+          ]
+        },
+        {
+          "text": "___ het vliegtuig om zes uur aan?",
+          "cue": "aankomen",
+          "accepted": [
+            "Komt",
+            "komt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "літак",
+          "answer": "het vliegtuig"
+        },
+        {
+          "prompt": "аеропорт",
+          "answer": "het vliegveld"
+        },
+        {
+          "prompt": "платформа",
+          "answer": "het perron"
+        },
+        {
+          "prompt": "квиток",
+          "answer": "het kaartje"
+        },
+        {
+          "prompt": "затор",
+          "answer": "de file"
+        },
+        {
+          "prompt": "автострада",
+          "answer": "de snelweg"
+        },
+        {
+          "prompt": "вантажівка",
+          "answer": "de vrachtwagen"
+        },
+        {
+          "prompt": "зупинка",
+          "answer": "de halte"
+        },
+        {
+          "prompt": "затримка",
+          "answer": "de vertraging"
+        },
+        {
+          "prompt": "парковка",
+          "answer": "de parkeerplaats"
+        }
+      ],
+      "extra": [
+        "de boot",
+        "de metro"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb"
+      ]
+    }
+  ]
+}
