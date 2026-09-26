@@ -130,11 +130,11 @@ chips()[N - 1].onclick();
 byId['next'].onclick();               // last lesson: must not crash
 // ---- tenses tab (all lessons are done at this point)
 const tRows = () => byId['tenses-table'].children.slice(1);   // the first row is the header
-const cellsOf = (tr) => tr.children.slice(1).map((c) => c.textContent);
+const cellsOf = (tr) => tr.children.slice(2).map((c) => c.textContent);   // the first cell is the tick box, the second the tense name
 byId['nav'].listeners.click({ target: { dataset: { view: 'tenses' } } });   // open the Tenses tab
 t('tenses: the default verb is shown', byId['tenses-title'].textContent.startsWith('werken'));
 t('tenses: one header row and one row per tense', byId['tenses-table'].children.length === 1 + window.TENSES.tenses.length);
-t('tenses: the header lists the six persons', byId['tenses-table'].children[0].children.slice(1).map((c) => c.textContent).join() === window.TENSES.persons.map((p) => p.label).join());
+t('tenses: the header lists the six persons', byId['tenses-table'].children[0].children.slice(2).map((c) => c.textContent).join() === window.TENSES.persons.map((p) => p.label).join());
 t('tenses: a tense is greyed out when it is not taught yet and normal when its lesson is done', tRows().every((tr, i) => tr.className.split(' ').includes('later') === (window.TENSES.tenses[i].since_lesson === null)));
 t('tenses: the perfect row of the default verb', cellsOf(tRows()[2]).join() === 'heb gewerkt,hebt gewerkt,heeft gewerkt,hebben gewerkt,hebben gewerkt,hebben gewerkt');
 t('tenses: the intro and the quick buttons are filled', byId['tenses-intro'].textContent === window.TENSES.intro_ua && byId['tenses-chips'].children.map((b) => b.textContent).join() === 'gaan,eten,opstaan' && byId['tenses-verbs'].children.length === window.VERBS.verbs.length);
@@ -151,6 +151,17 @@ typeVerb('eten');
 t('tenses: a verb with a check reason shows a "?" and a hidden reason', byId['tenses-title'].all().some((e) => e.className === 'qmark') && byId['tenses-check'].all().some((e) => e.className.split(' ').includes('check-note') && e.hidden === true));
 typeVerb('gaan');
 t('tenses: a verb without a check reason shows no "?"', !byId['tenses-title'].all().some((e) => e.className === 'qmark') && byId['tenses-check'].children.length === 0);
+
+const tick = (i) => tRows()[i].children[0].children[0];
+t('tenses: every tense has a tick box, all ticked at first, and no tense is folded', tRows().every((tr, i) => tick(i).type === 'checkbox' && tick(i).checked === true) && tRows().every((tr) => !tr.className.split(' ').includes('off')));
+tick(1).checked = false; tick(1).onchange();
+t('tenses: unticking folds that tense (only the name stays) and remembers it', tRows()[1].className.split(' ').includes('off') && !tRows()[0].className.split(' ').includes('off') && localStorage.getItem('tensesHidden') === JSON.stringify([window.TENSES.tenses[1].id]));
+typeVerb('werken');
+t('tenses: a folded tense stays folded and unticked when another verb is chosen', tRows()[1].className.split(' ').includes('off') && tick(1).checked === false && tick(0).checked === true);
+tick(3).checked = false; tick(3).onchange();
+t('tenses: several tenses can be folded, and a tense that is greyed keeps both marks', tRows()[3].className.split(' ').includes('off') && tRows()[3].className.split(' ').includes('later') && JSON.parse(localStorage.getItem('tensesHidden')).length === 2);
+tick(1).checked = true; tick(1).onchange(); tick(3).checked = true; tick(3).onchange();
+t('tenses: ticking again shows the tense and forgets the choice', tRows().every((tr) => !tr.className.split(' ').includes('off')) && localStorage.getItem('tensesHidden') === '[]');
 
 // ---- flashcards (every lesson is done at this point, so the deck holds every note once)
 const deckSize = window.LESSONS.reduce((n, L) => n + L.notes.length, 0);   // one card per note: the reverse cards are switched off

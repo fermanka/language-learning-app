@@ -55,11 +55,21 @@
   table.tenses .tn-nl { font-weight: 600; }
   table.tenses .tn-meta { color: var(--muted); font-size: 12px; line-height: 1.4; }
   table.tenses td.cell { font-size: 15px; font-weight: 600; white-space: nowrap; }
+  table.tenses td.tense-check { width: 26px; padding-right: 0; }
+  table.tenses td.tense-check input { width: 18px; height: 18px; margin: 2px 0 0; accent-color: var(--accent); cursor: pointer; }
+  table.tenses tr.off td.cell { visibility: hidden; }
+  table.tenses tr.off .tn-meta { display: none; }
+  table.tenses tr.off .tn-nl { font-weight: 400; color: var(--muted); }
   table.tenses tr.later { opacity: .5; }
   table.tenses tr.later .tn-meta.later-note { font-style: italic; }
   .tenses-tools { display: flex; justify-content: flex-end; align-items: center; flex-wrap: wrap; gap: 8px 14px; margin-top: 18px; }
   .tenses-tools label { display: flex; align-items: center; gap: 8px; color: var(--muted); }
-  .tenses-tools input { font: inherit; padding: 6px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); width: 180px; }
+  .tenses-tools input[type=text] { font: inherit; padding: 6px 30px 6px 10px; border: 1px solid var(--line); border-radius: 8px; background-color: var(--card); color: var(--ink); width: 190px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23a09e97' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 10px center; background-size: 12px 8px; }
+  :root[data-theme="light"] .tenses-tools input[type=text] { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%236a5b42' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+  /* the browser's own list arrow sits lower than the text: hide it (the click area stays) and draw the arrow above, centred */
+  .tenses-tools input[type=text]::-webkit-calendar-picker-indicator { opacity: 0; margin: 0; padding: 0; width: 30px; height: 100%; cursor: pointer; }
   .tenses-chips { display: flex; gap: 6px; flex-wrap: wrap; }
   .tenses-chips button { font: inherit; font-size: 14px; background: var(--pill); color: var(--accent); border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; cursor: pointer; }
   .tenses-chips button:hover { border-color: var(--accent); }

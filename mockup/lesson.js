@@ -666,7 +666,12 @@ if (typeof document === 'undefined') {
   // Only verbs from her list can be looked up; the page never guesses a form. No data, or bad data: the tab stays hidden.
   const TN = window.Tenses, TENSES = window.TENSES, VERBS = window.VERBS;
   let tensesVerb = null;
-  const lessonDoneByOrder = (n) => { const i = LESSONS.findIndex((L) => L.order === n); return i !== -1 && isDone(i); };
+  // A tense the learner unticked is folded into one line (only its name stays, so it can be ticked again). The choice is remembered.
+  const TENSES_OFF_KEY = 'tensesHidden';
+  let tensesOff = new Set();
+  try { tensesOff = new Set(JSON.parse(localStorage.getItem(TENSES_OFF_KEY) || '[]')); } catch (e) { /* storage blocked or damaged: all tenses shown */ }
+  const saveTensesOff = () => { try { localStorage.setItem(TENSES_OFF_KEY, JSON.stringify([...tensesOff])); } catch (e) { /* ignore */ } };
+  const lessonDoneByOrder =(n) => { const i = LESSONS.findIndex((L) => L.order === n); return i !== -1 && isDone(i); };
 
   function renderTenses() {
     const verb = tensesVerb;
@@ -674,12 +679,18 @@ if (typeof document === 'undefined') {
     const chk = $('tenses-check'); chk.innerHTML = '';
     if (verb.check) { const mark = checkMark(verb); title.append(document.createTextNode(' '), mark.btn); chk.append(mark.note); }
     const table = $('tenses-table'); table.innerHTML = '';
-    const head = el('tr'); head.append(el('th', null, 'Час'));
+    const head = el('tr'); head.append(el('th', null, ''), el('th', null, 'Час'));
     TENSES.persons.forEach((p) => head.append(el('th', null, p.label)));
     table.append(head);
     TN.conjugate(TENSES, verb).forEach(({ tense, cells }) => {
       const learned = TN.learned(tense, lessonDoneByOrder);
-      const tr = el('tr', learned ? '' : 'later');
+      const classes = () => [learned ? '' : 'later', tensesOff.has(tense.id) ? 'off' : ''].filter(Boolean).join(' ');
+      const tr = el('tr', classes());
+      const tick = el('td', 'tense-check'), cb = el('input');
+      cb.type = 'checkbox'; cb.checked = !tensesOff.has(tense.id);
+      cb.title = 'Показати або сховати цей час'; cb.setAttribute('aria-label', `Показати час: ${tense.name_ua}`);
+      cb.onchange = () => { if (cb.checked) tensesOff.delete(tense.id); else tensesOff.add(tense.id); saveTensesOff(); tr.className = classes(); };
+      tick.append(cb); tr.append(tick);
       const name = el('td', 'tense-name');
       name.append(el('div', 'tn-nl', tense.name_ua), el('div', 'tn-meta', [tense.name_nl + (tense.abbr ? ` (${tense.abbr})` : ''), tense.formula_ua, tense.freq_ua].filter(Boolean).join(' · ')));
       name.append(el('div', 'tn-meta later-note', learned ? `Les ${tense.since_lesson}` : tense.since_lesson === null ? 'пізніше' : `пізніше (Les ${tense.since_lesson})`));
