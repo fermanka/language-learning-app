@@ -19,7 +19,7 @@ class El {
   querySelectorAll(sel) { return this.all().filter((e) => (sel === 'input[data-acc]' || sel === '[data-acc]' ? e.dataset.acc !== undefined : sel.startsWith('.') ? e.className.split(' ').includes(sel.slice(1)) : false)); }
 }
 const byId = {};
-const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'all-words', 'check-box', 'tenses-intro', 'tenses-title', 'tenses-check', 'tenses-table', 'tenses-points', 'tenses-chips', 'tenses-input', 'tenses-verbs', 'tenses-msg', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra', 'b6-story'];
+const ids = ['pstore', 'pstore-text', 'pstore-btn', 'cards-stats', 'cards-stage', 'cards-dir', 'nav', 'toast', 'lesson-label', 'b1-rule', 'b1-verbs', 'b1-words', 'b1-service', 'b1-service-line', 'b2-list', 'reading-title', 'reading-title-2', 'b3-text', 'texts-copy', 'b4-body', 'progress-rows', 'progress-nav', 'all-words', 'check-box', 'tenses-intro', 'tenses-title', 'tenses-check', 'tenses-table', 'tenses-points', 'tenses-chips', 'tenses-input', 'tenses-verbs', 'tenses-msg', 'next', 'prev', 'reset', 'upload-btn', 'upload-file', 'upload-note', 'reading-status', 'b5-extra', 'b6-story'];
 ids.forEach((id) => { byId[id] = new El('div'); });
 global.window = { scrollTo() {}, LESSONS: fs.readdirSync(path.join(__dirname, '..', 'content', 'nl', 'lessons')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'content', 'nl', 'lessons', f), 'utf8'))) };
 global.document = { getElementById: (id) => { if (!byId[id]) throw new Error('page is missing element #' + id); return byId[id]; }, createElement: (t) => new El(t), createTextNode: (t) => new Text(t), querySelectorAll: () => [], body: new El('body'), documentElement: { setAttribute() {} } };
@@ -98,10 +98,24 @@ const N = window.LESSONS.length;
 t('cards: on Les 1 with nothing done the deck already holds the words of Les 1 (and no later lesson)', byId['cards-stats'].textContent.includes('Карток у колоді: ' + window.LESSONS[0].notes.length));
 checkLesson(0);
 for (let i = 1; i < N; i++) { byId['next'].onclick(); checkLesson(i); }   // Next lesson > through every lesson
-const rows = byId['progress-rows'].children;
-t('progress lists every lesson', rows.length === N);
-t('progress: previous lessons done, last one current', rows.slice(0, N - 1).every((r) => r.textContent.includes('пройдено')) && rows[N - 1].textContent.includes('поточний'));
-t('progress shows exercise results for finished lessons', rows[0].textContent.includes('частин практики виконано'));
+// ---- progress tab: two columns, one page of 24 lessons at a time, "Назад / Далі" under the list
+const PAGE = 24, pages = Math.ceil(N / PAGE), pageOf = (i) => Math.floor(i / PAGE);
+const progRows = () => byId['progress-rows'].children;
+const navBtn = (label) => byId['progress-nav'].all().find((e) => e.tag === 'button' && e.textContent === label);
+byId['nav'].listeners.click({ target: { dataset: { view: 'progress' } } });   // opening the tab shows the page of the open lesson
+const lastPageLen = N - pageOf(N - 1) * PAGE;
+t('progress: it opens on the page of the open lesson (the last one here), which is the current one', progRows().length === lastPageLen && progRows()[lastPageLen - 1].textContent.includes(`Les ${window.LESSONS[N - 1].order}`) && progRows()[lastPageLen - 1].textContent.includes('поточний'));
+t('progress: the lessons before it on the same page are done', progRows().slice(0, lastPageLen - 1).every((r) => r.textContent.includes('пройдено')));
+const seen = [];
+for (let p = pageOf(N - 1); p >= 0; p--) { seen.unshift(...progRows().map((r) => r.textContent.match(/Les (\d+)/)[1])); if (p > 0) navBtn('Назад').onclick(); }   // walk back to the first page
+t('progress: every lesson appears exactly once over the pages, in order', seen.length === N && seen.join() === window.LESSONS.map((L) => String(L.order)).join());
+t('progress: on the first page "Назад" is disabled and "Далі" works', pages < 2 || (navBtn('Назад').disabled === true && navBtn('Далі').disabled === false));
+t('progress: a full page holds ' + PAGE + ' lessons and the page number is shown', pages < 2 || (progRows().length === PAGE && byId['progress-nav'].textContent.includes(`1 з ${pages}`)));
+if (pages > 1) navBtn('Далі').onclick();
+t('progress: "Далі" opens the next page and "Назад" is enabled again', pages < 2 || (byId['progress-nav'].textContent.includes(`2 з ${pages}`) && navBtn('Назад').disabled === false));
+if (pages > 1) navBtn('Назад').onclick();   // back to the first page for the tests below
+t('progress shows exercise results for finished lessons', /\d+\/\d+ · \d+%/.test(progRows()[0].textContent));
+t('progress: a lesson row has a progress bar and an open button', progRows()[0].all().some((e) => e.className === 'pbar') && progRows()[0].all().some((e) => e.tag === 'button' && e.className.includes('open')));
 const chips = () => byId['all-words'].all().filter((e) => e.className.split(' ').includes('lesson-chip'));
 const wordsHeading = () => byId['all-words'].children.filter((e) => e.tag === 'h3').map((e) => e.textContent).join();
 const wordCount = () => byId['all-words'].children.filter((e) => e.tag === 'ul').reduce((n, ul) => n + ul.children.length, 0);
@@ -278,10 +292,10 @@ const firstL = window.LESSONS[0];
 const rowOf = (L) => byId['progress-rows'].children.find((r) => r.textContent.includes(`Les ${L.order}`));
 window.progressLog.record({ type: 'lesson_reset', lesson: firstL.id });
 firstL.practice.forEach((ex, k) => window.progressLog.record({ type: 'exercise_checked', lesson: firstL.id, exercise: k, kind: ex.type, ok: 4, total: 4, wrong: [], answers: [] }));
-t('reading: every exercise perfect but no recording is not 100%', !rowOf(firstL).textContent.includes('100%') && rowOf(firstL).textContent.includes('немає запису читання'));
+t('reading: every exercise perfect but no recording is not 100%', !rowOf(firstL).textContent.includes('100%') && rowOf(firstL).textContent.includes('без запису'));
 t('reading: the open lesson says the recording is still missing', byId['reading-status'].textContent.includes('ще не надіслано'));
 window.progressLog.record({ type: 'recording_saved', lesson: firstL.id, file: 'les-01-x.webm' });
-t('reading: with the recording sent the same lesson reaches 100%', rowOf(firstL).textContent.includes('100%') && !rowOf(firstL).textContent.includes('немає запису читання'));
+t('reading: with the recording sent the same lesson reaches 100%', rowOf(firstL).textContent.includes('100%') && !rowOf(firstL).textContent.includes('без запису'));
 t('reading: the status line shows it was sent', byId['reading-status'].textContent.includes('запис надіслано'));
 byId['reset'].onclick();
 t('reading: a reset makes the recording count as missing again', !rowOf(firstL).textContent.includes('100%') && byId['reading-status'].textContent.includes('ще не надіслано'));

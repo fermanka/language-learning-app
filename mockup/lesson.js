@@ -391,20 +391,47 @@ if (typeof document === 'undefined') {
       : 'Файл збережеться лише на цьому ноуті. Марійке перевірить його, коли ти їй скажеш.';
   }
 
+  // The Progress tab: the lessons in two columns (12 in each), one page of 24 at a time, "Назад / Далі" under the list.
+  // It opens on the page of the open lesson; the chosen page is kept while the log changes.
+  const PROGRESS_PAGE = 24;
+  let progressPage = null;
+  const chevron = (dir) => {
+    const s = el('span', 'chev');
+    s.innerHTML = `<svg viewBox="0 0 8 12" width="8" height="12" aria-hidden="true"><path d="${dir === 'left' ? 'M6.5 1.5L2 6l4.5 4.5' : 'M1.5 1.5L6 6l-4.5 4.5'}" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+    return s;
+  };
   function renderProgress() {
     renderReadingStatus();
-    const rows = $('progress-rows'); rows.innerHTML = '';
+    const grid = $('progress-rows'); grid.innerHTML = '';
     const state = log.state();
-    LESSONS.forEach((L, i) => {
-      const tr = el('tr'); const td = el('td'); const b = el('button', 'btn', 'Відкрити');
-      b.onclick = () => { renderLesson(i); show('today'); };
-      td.append(b);
+    const pages = Math.max(1, Math.ceil(LESSONS.length / PROGRESS_PAGE));
+    if (progressPage === null) progressPage = Math.floor(current / PROGRESS_PAGE);
+    progressPage = Math.min(Math.max(progressPage, 0), pages - 1);
+    const first = progressPage * PROGRESS_PAGE, shown = LESSONS.slice(first, first + PROGRESS_PAGE);
+    grid.setAttribute('style', `grid-template-rows: repeat(${Math.ceil(shown.length / 2)}, auto)`);   // the two columns hold the same number of lessons (or one more on the left)
+    shown.forEach((L, k) => {
+      const i = first + k, done = isDone(i), cur = i === current;
       // The practice is the exercises plus reading aloud (the recording sent to the teacher). 100% needs all of it.
       const { pct, count, parts, readDone } = PS.lessonProgress(L, state);
-      tr.append(el('td', null, `Les ${L.order}`), el('td', null, isDone(i) ? 'пройдено' : i === current ? 'поточний' : 'чекає'),
-        el('td', 'meta', count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone ? '' : ' · немає запису читання'}` : '-'), td);
-      rows.append(tr);
+      const row = el('div', 'prow' + (done ? ' done' : cur ? ' cur' : ''));
+      row.title = count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone ? '' : ' · немає запису читання'}` : '';
+      const bar = el('span', 'pbar'), fill = el('i'); fill.setAttribute('style', `width:${count ? pct : 0}%`); bar.append(fill);
+      const open = el('button', 'btn open'); open.append(chevron('right')); open.title = `Відкрити Les ${L.order}`; open.setAttribute('aria-label', `Відкрити Les ${L.order}`);
+      open.onclick = () => { renderLesson(i); show('today'); };
+      row.append(el('span', 'pl', `Les ${L.order}`), el('span', 'pst', done ? 'пройдено' : cur ? 'поточний' : 'чекає'), bar, el('span', 'pn', count ? `${count}/${parts} · ${pct}%` : '-'));
+      if (count && !readDone) row.append(el('span', 'pnr', 'без запису'));
+      row.append(open);
+      grid.append(row);
     });
+    const nav = $('progress-nav'); nav.innerHTML = '';
+    if (pages > 1) {
+      const back = el('button', 'btn pg'), more = el('button', 'btn pg');
+      back.append(chevron('left'), document.createTextNode('Назад')); back.disabled = progressPage === 0;
+      more.append(document.createTextNode('Далі'), chevron('right')); more.disabled = progressPage === pages - 1;
+      back.onclick = () => { progressPage--; renderProgress(); };
+      more.onclick = () => { progressPage++; renderProgress(); };
+      nav.append(back, el('span', 'pgn', `${progressPage + 1} з ${pages}`), more);
+    }
   }
 
   // ---- Cards tab: spaced repetition (FSRS). Card state is replayed from the review log, never stored.
@@ -739,6 +766,7 @@ if (typeof document === 'undefined') {
     document.querySelectorAll('.view').forEach((v) => v.classList.toggle('active', v.id === 'view-' + view));
     if (view === 'cards') renderStage();
     if (view === 'tenses' && tensesVerb) renderTenses();   // a lesson done since the last visit un-greys its tense
+    if (view === 'progress') { progressPage = Math.floor(current / PROGRESS_PAGE); renderProgress(); }   // opens on the page of the open lesson
     document.querySelectorAll('nav button').forEach((b) => b.classList.toggle('active', b.dataset.view === view));
     window.scrollTo(0, 0);
   }
