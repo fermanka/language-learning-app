@@ -1,0 +1,48 @@
+{
+  "intro_ua": "У нідерландській є вісім часів, але лише два з них прості (одне слово: Ik werk, Ik werkte), решта складаються з допоміжного дієслова та ще одного слова. До рівня B1 потрібні чотири: теперішній, простий минулий, перфект і майбутній з gaan. Окремого тривалого часу, як англійське I am working, немає: Ik werk значить і «я працюю», і «я зараз працюю».",
+  "points_ua": [
+    "Виду (доконаного і недоконаного) немає: Ik las значить і «читав», і «прочитав», різницю показує контекст.",
+    "Рід у минулому не змінюється: Ik was значить і «я був», і «я була».",
+    "Теперішній час служить і для найближчого майбутнього (Morgen werk ik) і для того, що триває досі: Ik woon hier al vijf jaar значить «я живу тут уже п'ять років»."
+  ],
+  "persons": [
+    { "id": "ik", "label": "ik" },
+    { "id": "jij", "label": "jij / je" },
+    { "id": "hij", "label": "hij / zij / het" },
+    { "id": "wij", "label": "wij / we" },
+    { "id": "jullie", "label": "jullie" },
+    { "id": "zij", "label": "zij / ze" }
+  ],
+  "aux": {
+    "hebben": {
+      "inf": "hebben",
+      "present": { "ik": "heb", "jij": "hebt", "hij": "heeft", "wij": "hebben", "jullie": "hebben", "zij": "hebben" },
+      "past": { "ik": "had", "jij": "had", "hij": "had", "wij": "hadden", "jullie": "hadden", "zij": "hadden" }
+    },
+    "zijn": {
+      "inf": "zijn",
+      "present": { "ik": "ben", "jij": "bent", "hij": "is", "wij": "zijn", "jullie": "zijn", "zij": "zijn" },
+      "past": { "ik": "was", "jij": "was", "hij": "was", "wij": "waren", "jullie": "waren", "zij": "waren" }
+    },
+    "gaan": {
+      "inf": "gaan",
+      "present": { "ik": "ga", "jij": "gaat", "hij": "gaat", "wij": "gaan", "jullie": "gaan", "zij": "gaan" },
+      "past": { "ik": "ging", "jij": "ging", "hij": "ging", "wij": "gingen", "jullie": "gingen", "zij": "gingen" }
+    },
+    "zullen": {
+      "inf": "zullen",
+      "present": { "ik": "zal", "jij": "zult", "hij": "zal", "wij": "zullen", "jullie": "zullen", "zij": "zullen" },
+      "past": { "ik": "zou", "jij": "zou", "hij": "zou", "wij": "zouden", "jullie": "zouden", "zij": "zouden" }
+    }
+  },
+  "tenses": [
+    { "id": "ott", "name_nl": "onvoltooid tegenwoordige tijd", "abbr": "o.t.t.", "name_ua": "теперішній", "template": "{verb.present} {prefix}", "formula_ua": "основа + закінчення (ik werk, hij werkt, wij werken)", "freq_ua": "дуже часто, це основний час розмови", "since_lesson": 1 },
+    { "id": "ovt", "name_nl": "onvoltooid verleden tijd", "abbr": "o.v.t.", "name_ua": "простий минулий", "template": "{verb.past} {prefix}", "formula_ua": "основа + -te(n) / -de(n), або неправильна форма (was, ging)", "freq_ua": "часто в розповіді й на письмі; у розмові найчастіше was, had, kon, wilde", "since_lesson": 26 },
+    { "id": "vtt", "name_nl": "voltooid tegenwoordige tijd", "abbr": "v.t.t.", "name_ua": "перфект", "template": "{aux.present} {ptc}", "formula_ua": "hebben / zijn + дієприкметник (ge-...)", "freq_ua": "дуже часто в розмові", "since_lesson": 32 },
+    { "id": "vvt", "name_nl": "voltooid verleden tijd", "abbr": "v.v.t.", "name_ua": "давноминулий", "template": "{aux.past} {ptc}", "formula_ua": "had / was + дієприкметник", "freq_ua": "помірно: про те, що сталося до іншої події в минулому", "since_lesson": null },
+    { "id": "ottt", "name_nl": "onvoltooid tegenwoordige toekomende tijd", "abbr": "o.t.t.t.", "name_ua": "майбутній", "template": "{gaan.present} {inf}", "formula_ua": "gaan + інфінітив у кінці (також zullen + інфінітив)", "freq_ua": "дуже часто", "since_lesson": null },
+    { "id": "ovtt", "name_nl": "onvoltooid verleden toekomende tijd", "abbr": "o.v.t.t.", "name_ua": "умовний", "template": "{zullen.past} {inf}", "formula_ua": "zou + інфінітив у кінці", "freq_ua": "часто: ввічливі прохання, побажання, «якби»", "since_lesson": null },
+    { "id": "vttt", "name_nl": "voltooid tegenwoordige toekomende tijd", "abbr": "v.t.t.t.", "name_ua": "майбутнє доконане", "template": "{zullen.present} {ptc} {aux.inf}", "formula_ua": "zullen + дієприкметник + hebben / zijn", "freq_ua": "рідко", "since_lesson": null },
+    { "id": "vvtt", "name_nl": "voltooid verleden toekomende tijd", "abbr": "v.v.t.t.", "name_ua": "умовний у минулому", "template": "{zullen.past} {ptc} {aux.inf}", "formula_ua": "zou + дієприкметник + hebben / zijn", "freq_ua": "рідко", "since_lesson": null }
+  ]
+}
