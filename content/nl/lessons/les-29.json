@@ -1,0 +1,1173 @@
+{
+  "id": "nl-les-29",
+  "lang": "nl",
+  "order": 29,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-b35133e4",
+      "type": "function",
+      "lemma": "januari",
+      "ua": "січень",
+      "audio": "januari.mp3",
+      "explain_ua": "(In januari is het koud = у січні холодно). Усі 12 місяців нідерландською пишуться з малої літери й стоять без артикля: in januari, in mei. Українські назви (січень, лютий) слов'янські й тут не допоможуть, а російські (январь, февраль, март) майже збігаються з нідерландськими: спирайся на російську. Слово латинського походження, як англійське January: підказка для пам'яті. Наголос на -A-: ja-nu-A-ri; j це [j], як й у «йод»; u це [y], звук з juni (див. нижче)"
+    },
+    {
+      "id": "nl-5f02151b",
+      "type": "function",
+      "lemma": "februari",
+      "ua": "лютий",
+      "audio": "februari.mp3",
+      "explain_ua": "(Februari is ook koud = лютий теж холодний). Російське февраль і англійське February: підказка для пам'яті. Наголос на -A-: fe-bru-A-ri. U тут теж [y], як у juni"
+    },
+    {
+      "id": "nl-abcef872",
+      "type": "function",
+      "lemma": "maart",
+      "ua": "березень",
+      "audio": "maart.mp3",
+      "explain_ua": "(In maart is het nat = у березні мокро). Російське март і англійське March: підказка для пам'яті. Aa довге [aː], як у maan (Les 1). Не плутай з de maand (Les 26), місяць у календарі: maand звучить «мант», maart звучить «март»"
+    },
+    {
+      "id": "nl-acd034f9",
+      "type": "function",
+      "lemma": "april",
+      "ua": "квітень",
+      "audio": "april.mp3",
+      "explain_ua": "(April is een leuke maand = квітень це приємний місяць). Російське апрель і англійське April: підказка для пам'яті. Наголос на другому складі: a-PRIL. I коротка [ɪ], як у vis (Les 25)"
+    },
+    {
+      "id": "nl-14f5d598",
+      "type": "function",
+      "lemma": "mei",
+      "ua": "травень",
+      "audio": "mei.mp3",
+      "explain_ua": "(In mei is het mooi weer = у травні гарна погода). Російське май і англійське May: підказка для пам'яті. Ei це [ɛi], як у het ei (Les 8) і ij у mijn (Les 1): mei звучить приблизно «мей». Слово з одного складу"
+    },
+    {
+      "id": "nl-68d02bcd",
+      "type": "function",
+      "lemma": "juni",
+      "ua": "червень",
+      "audio": "juni.mp3",
+      "explain_ua": "(In juni is het warm = у червні тепло). Ju це [jy]: j як й у «йод», а u це [y], звук, якого немає в українській (його вже було в het uur, Les 5). Підказка: скажи українське «і» і, не рухаючи язика, округли губи, як для «у»: вийде [y]. Не «ю» (юні): в українському «ю» звучить [u], а тут [y]. Для порівняння: vuur [vyːr] (вогонь; лише для звуку, слово не вчимо) і voor [voːr] (Les 11). У voor губи круглі, а язик далеко назад; у vuur язик спереду, як для «і». Російське июнь і англійське June: підказка для пам'яті. Наголос на першому складі: JU-ni"
+    },
+    {
+      "id": "nl-22c11f7e",
+      "type": "function",
+      "lemma": "juli",
+      "ua": "липень",
+      "audio": "juli.mp3",
+      "explain_ua": "(Juli is heel warm = липень дуже теплий). Той самий звук [y], що в juni: не «у» і не «ю». Різниця між juni і juli лише в n і l: слухай аудіо обох слів підряд. Російське июль і англійське July: підказка для пам'яті"
+    },
+    {
+      "id": "nl-ae9f8307",
+      "type": "function",
+      "lemma": "augustus",
+      "ua": "серпень",
+      "audio": "augustus.mp3",
+      "explain_ua": "(Augustus is de achtste maand = серпень це восьмий місяць). Російське август і англійське August: підказка для пам'яті. Au це [ɑu], як у koud (Les 19) і zout (Les 25). Наголос на другому складі: au-GUS-tus. G це той самий звук, що в gisteren (Les 26): [x], як х у хата"
+    },
+    {
+      "id": "nl-5e8ec24e",
+      "type": "function",
+      "lemma": "september",
+      "ua": "вересень",
+      "audio": "september.mp3",
+      "explain_ua": "(In september is het niet koud = у вересні не холодно). Російське сентябрь і англійське September: підказка для пам'яті. Наголос на другому складі: sep-TEM-ber. E коротка [ɛ], як у fles (Les 25); останній склад -ber слабкий"
+    },
+    {
+      "id": "nl-f96be2d9",
+      "type": "function",
+      "lemma": "oktober",
+      "ua": "жовтень",
+      "audio": "oktober.mp3",
+      "explain_ua": "(In oktober is het koud = у жовтні холодно). Російське октябрь і англійське October: підказка для пам'яті. Пишеться з k, не з c: oktober. Наголос на другому складі: ok-TO-ber; o довге [oː] у відкритому складі, як у boter (Les 25)"
+    },
+    {
+      "id": "nl-aa4ce692",
+      "type": "function",
+      "lemma": "november",
+      "ua": "листопад",
+      "audio": "november.mp3",
+      "explain_ua": "(In november regent het = у листопаді йде дощ). Російське ноябрь і англійське November: підказка для пам'яті. Наголос на другому складі: no-VEM-ber. E коротка [ɛ], як у september"
+    },
+    {
+      "id": "nl-b13e040c",
+      "type": "function",
+      "lemma": "december",
+      "ua": "грудень",
+      "audio": "december.mp3",
+      "explain_ua": "(In december sneeuwt het = у грудні йде сніг). Російське декабрь і англійське December: підказка для пам'яті. C тут читається як [s]: de-CEM-ber, наголос на другому складі"
+    },
+    {
+      "id": "nl-c2c1de49",
+      "type": "noun",
+      "article": "de",
+      "lemma": "opa",
+      "plural": [
+        "opa's"
+      ],
+      "ua": "дідусь",
+      "audio": "de-opa.mp3",
+      "explain_ua": "(Mijn opa is oud = мій дідусь старий; Wij hebben twee opa's = у нас два дідусі). Множина opa's з апострофом, як auto's (Les 6): слово закінчується на голосну -a. O довге [oː] у відкритому складі: o-pa, наголос на першому складі"
+    },
+    {
+      "id": "nl-624d1a70",
+      "type": "noun",
+      "article": "de",
+      "lemma": "oma",
+      "plural": [
+        "oma's"
+      ],
+      "ua": "бабуся",
+      "audio": "de-oma.mp3",
+      "explain_ua": "(Mijn oma woont in de stad = моя бабуся живе в місті; Ik heb twee oma's = у мене дві бабусі). Пара до de opa. Множина oma's з апострофом, як opa's і auto's. Часто кажуть разом: opa en oma. O довге [oː]: o-ma"
+    },
+    {
+      "id": "nl-b1702ec6",
+      "type": "noun",
+      "article": "de",
+      "lemma": "ouders",
+      "plural": [],
+      "ua": "батьки",
+      "audio": "de-ouders.mp3",
+      "plural_only": true,
+      "explain_ua": "(Mijn ouders werken = мої батьки працюють). Лише множина: de ouders, як de kleren (Les 21); дієслово множини: mijn ouders zijn. Ouders це vader en moeder (Les 9) разом. Один з батьків це de ouder, але це слово тобі поки не потрібне. Ou це [ɑu], як у koud (Les 19); наголос на першому складі: OU-ders"
+    },
+    {
+      "id": "nl-1ed895cf",
+      "type": "noun",
+      "article": "de",
+      "lemma": "oom",
+      "plural": [
+        "ooms"
+      ],
+      "ua": "дядько",
+      "audio": "de-oom.mp3",
+      "explain_ua": "(Mijn oom is heel lang = мій дядько дуже високий; Zij heeft twee ooms = у неї два дядьки). Дядько: брат мами чи тата. Oo довге [oː], як у boos (Les 1). Множина ooms: просто -s, як tantes"
+    },
+    {
+      "id": "nl-0cefe08d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tante",
+      "plural": [
+        "tantes"
+      ],
+      "ua": "тітка",
+      "audio": "de-tante.mp3",
+      "explain_ua": "(Mijn tante werkt in de stad = моя тітка працює в місті). Пара до de oom. Множина tantes. A коротка [ɑ], як у man (Les 1); кінцеве -e слабке, слухай аудіо"
+    },
+    {
+      "id": "nl-1977fd8d",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vrouw",
+      "plural": [
+        "vrouwen"
+      ],
+      "ua": "жінка; дружина",
+      "audio": "de-vrouw.mp3",
+      "explain_ua": "(Die vrouw is mijn tante = та жінка моя тітка; Mijn vrouw is thuis = моя дружина вдома). Пара до de man (Les 1). Vrouw значить «жінка» і «дружина», так само як de man значить «чоловік» і «муж». Ou це [ɑu], як у koud (Les 19); vr це два звуки поспіль, [v] і [r]. Множина vrouwen"
+    },
+    {
+      "id": "nl-4e231884",
+      "type": "noun",
+      "article": "de",
+      "lemma": "baby",
+      "plural": [
+        "baby's"
+      ],
+      "ua": "немовля",
+      "audio": "de-baby.mp3",
+      "explain_ua": "(De baby is klein = немовля маленьке; Zij heeft twee baby's = у неї двоє немовлят). Слово прийшло з англійської baby, але множина нідерландська: baby's з апострофом, не babies і не babys. Читай по-нідерландськи: слухай аудіо"
+    },
+    {
+      "id": "nl-f77c7ee4",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vriend",
+      "plural": [
+        "vrienden"
+      ],
+      "ua": "друг; хлопець (у парі)",
+      "audio": "de-vriend.mp3",
+      "explain_ua": "(Mijn vriend woont in de stad = мій друг живе в місті; Haar vriend is jong = її хлопець молодий). Vriend значить «друг», а поруч з haar і mijn ще й «хлопець, партнер». Множина vrienden. Схоже на англійське friend: v ↔ f, як vader / father: підказка для пам'яті. Ie це [i], як у ziek (Les 26). Кінцеве d у vriend читається [t], як у російському «хлеб»: тут спирайся на російську; у vrienden d звучить [d]"
+    },
+    {
+      "id": "nl-4f08b4b8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vriendin",
+      "plural": [
+        "vriendinnen"
+      ],
+      "ua": "подруга; дівчина (у парі)",
+      "audio": "de-vriendin.mp3",
+      "explain_ua": "(Mijn vriendin is ziek = моя подруга хвора). Пара до de vriend: vriend + -in. Множина vriendinnen: голосна i коротка, тому n подвоюється, як vis - vissen (Les 25). Наголос на останньому складі: vrien-DIN"
+    },
+    {
+      "id": "nl-b1324de5",
+      "type": "noun",
+      "article": "de",
+      "lemma": "verjaardag",
+      "plural": [
+        "verjaardagen"
+      ],
+      "ua": "день народження (свято)",
+      "audio": "de-verjaardag.mp3",
+      "explain_ua": "(Vandaag is het mijn verjaardag = сьогодні мій день народження). У слові видно het jaar (Les 26) і de dag (Les 4): «рік» і «день». Складене слово бере рід останньої частини, тому de verjaardag (як het avondeten, Les 25). Множина verjaardagen. Наголос на -JAAR-: ver-JAAR-dag. Aa довге [aː], як у maan; g наприкінці це [x], як х у хата"
+    },
+    {
+      "id": "nl-259e556a",
+      "type": "adjective",
+      "lemma": "jarig",
+      "ua": "іменинник, іменинниця (у кого день народження)",
+      "audio": "jarig.mp3",
+      "explain_ua": "(Ik ben jarig = у мене день народження; Wie is jarig? = у кого день народження?). Українською «у мене день народження» (є), нідерландською «я іменинник»: zijn, а не hebben. Не Ik heb jarig. Jarig стоїть лише після zijn і не змінюється, як moe і ziek (Les 26). У слові є jaar (Les 26): підказка для пам'яті. Ja- з довгим [aː], далі -rig: ja-rig"
+    },
+    {
+      "id": "nl-7d8c9eb8",
+      "type": "noun",
+      "article": "het",
+      "lemma": "cadeau",
+      "plural": [
+        "cadeaus"
+      ],
+      "ua": "подарунок",
+      "audio": "het-cadeau.mp3",
+      "explain_ua": "(Ik koop een cadeau = я купую подарунок; Zij heeft twee cadeaus = у неї два подарунки). Het-слово. Множина cadeaus. Слово з французької, читається приблизно «кадо»; наголос на останньому складі: ca-DEAU, а -eau це [oː]. Маленький подарунок: het cadeautje (-je це завжди het, Les 25)"
+    },
+    {
+      "id": "nl-fa040b26",
+      "type": "noun",
+      "article": "de",
+      "lemma": "taart",
+      "plural": [
+        "taarten"
+      ],
+      "ua": "торт, пиріг",
+      "audio": "de-taart.mp3",
+      "explain_ua": "(De taart is lekker = торт смачний). Множина taarten: aa стає a у відкритому складі, як maan - manen (Les 1). Aa довге [aː], як у maan; далі -rt"
+    },
+    {
+      "id": "nl-4393bbf0",
+      "type": "noun",
+      "article": "de",
+      "lemma": "datum",
+      "plural": [
+        "data",
+        "datums"
+      ],
+      "ua": "дата",
+      "audio": "de-datum.mp3",
+      "explain_ua": "(Wat is de datum vandaag? = яка сьогодні дата?; Het is vandaag tien mei = сьогодні 10 травня). Схоже на українське «дата»: спільне латинське слово, підказка для пам'яті. Множина data (частіше) і datums; у цьому уроці datum лише в однині. Наголос на першому складі: DA-tum; a довге [aː] у відкритому складі, -um коротке [ʏm]"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "In + місяць: in mei, in juni",
+      "summary_ua": "Місяць стоїть після in без артикля і пишеться з малої літери: in mei, in juni, in december. Пори року (Les 23) мають de: in de zomer.",
+      "see": "Les 23",
+      "compare": [
+        {
+          "form": "In + місяць, без артикля",
+          "when_ua": "Місяць стоїть після in без de і без het. Відповідає на питання «в якому місяці?».",
+          "examples": [
+            {
+              "nl": "Wij zijn **in augustus** thuis.",
+              "ua": "У серпні ми вдома.",
+              "audio": "les29-rule-01.mp3"
+            },
+            {
+              "nl": "**In maart** is het koud.",
+              "ua": "У березні холодно.",
+              "audio": "les29-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Не in de augustus. Місяць з малої літери в середині речення (не як в англійській: August). На початку речення з великої, як будь-яке слово."
+        },
+        {
+          "form": "Пори року з de, місяці без артикля",
+          "when_ua": "De zomer, de winter (Les 23) мають артикль. Місяці не мають.",
+          "examples": [
+            {
+              "nl": "**In de zomer** is het warm.",
+              "ua": "Влітку тепло.",
+              "audio": "les29-rule-03.mp3"
+            },
+            {
+              "nl": "**In juli** is het ook warm.",
+              "ua": "У липні теж тепло.",
+              "audio": "les29-rule-04.mp3"
+            }
+          ],
+          "note_ua": "In de zomer, але in juli. Так само країни без артикля: in Kroatië (Les 18)."
+        }
+      ],
+      "points_ua": [
+        "In mei, in juni: без артикля, з малої літери.",
+        "In de zomer має de, in juli ні."
+      ]
+    },
+    {
+      "title_ua": "Op + число: op drie mei",
+      "summary_ua": "Число стоїть перед місяцем, з op: op drie mei, op twaalf juni. Це звичайне число (Les 15). Українською «3 травня» (родовий відмінок), нідерландською відмінків немає.",
+      "see": "Les 13",
+      "compare": [
+        {
+          "form": "Op + число + місяць",
+          "when_ua": "Op відповідає на питання «якого числа?». Число стоїть перед місяцем.",
+          "examples": [
+            {
+              "nl": "Wij komen **op eenentwintig juni**.",
+              "ua": "Ми приходимо 21 червня.",
+              "audio": "les29-rule-05.mp3"
+            },
+            {
+              "nl": "**Op veertien februari** is mijn vriendin jarig.",
+              "ua": "14 лютого в моєї подруги день народження.",
+              "audio": "les29-rule-06.mp3"
+            }
+          ],
+          "note_ua": "У розмові число звичайне, не порядкове. Про перше число часто кажуть op de eerste mei (Les 7). Якщо op + дата стоїть першим, дієслово одразу за ними (V2)."
+        },
+        {
+          "form": "Wanneer? In чи op",
+          "when_ua": "In відповідає на «в якому місяці?», op на «якого числа?».",
+          "examples": [
+            {
+              "nl": "**Wanneer** ben je jarig?",
+              "ua": "Коли в тебе день народження?",
+              "audio": "les29-rule-07.mp3"
+            },
+            {
+              "nl": "Ik ben **in mei** jarig.",
+              "ua": "У мене день народження в травні.",
+              "audio": "les29-rule-08.mp3"
+            },
+            {
+              "nl": "Ik ben **op vijf mei** jarig.",
+              "ua": "У мене день народження п'ятого травня.",
+              "audio": "les29-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Як op maandag (Les 13) і in de zomer (Les 23): in для довшого часу, op для одного дня."
+        }
+      ],
+      "points_ua": [
+        "Op drie mei: op + число + місяць.",
+        "In mei (місяць), op vijf mei (день)."
+      ]
+    },
+    {
+      "title_ua": "Ik ben jarig: zijn, а не hebben",
+      "summary_ua": "Українською «у мене день народження» (є). Нідерландською «я іменинник»: Ik ben jarig. Іменник de verjaardag це саме свято: Het is mijn verjaardag.",
+      "see": "Les 1",
+      "compare": [
+        {
+          "form": "Jarig zijn",
+          "when_ua": "Jarig стоїть після zijn і не змінюється. Питання: Wie is jarig? Wanneer ben je jarig?",
+          "examples": [
+            {
+              "nl": "Ik **ben** vandaag **jarig**.",
+              "ua": "Сьогодні в мене день народження.",
+              "audio": "les29-rule-10.mp3"
+            },
+            {
+              "nl": "Mijn oom **is** morgen **jarig**.",
+              "ua": "Завтра в мого дядька день народження.",
+              "audio": "les29-rule-11.mp3"
+            },
+            {
+              "nl": "**Wie** is jarig?",
+              "ua": "У кого день народження?",
+              "audio": "les29-rule-12.mp3"
+            },
+            {
+              "nl": "Mijn zus is **niet** jarig.",
+              "ua": "У моєї сестри не день народження.",
+              "audio": "les29-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Не Ik heb jarig. Jarig це прикметник, як moe і ziek (Les 26), тому заперечення з niet (Les 2)."
+        },
+        {
+          "form": "De verjaardag: іменник",
+          "when_ua": "De verjaardag це de-слово, свято. Перед ним mijn, haar, zijn, hun (Les 9).",
+          "examples": [
+            {
+              "nl": "**Mijn verjaardag** is in juni.",
+              "ua": "Мій день народження в червні.",
+              "audio": "les29-rule-14.mp3"
+            },
+            {
+              "nl": "**Haar verjaardag** is op zeven juli.",
+              "ua": "Її день народження сьомого липня.",
+              "audio": "les29-rule-15.mp3"
+            },
+            {
+              "nl": "Wanneer is **haar verjaardag**?",
+              "ua": "Коли в неї день народження?",
+              "audio": "les29-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Ik ben jarig і Het is mijn verjaardag: майже те саме, з двох боків: прикметник і іменник."
+        }
+      ],
+      "points_ua": [
+        "Ik ben jarig: zijn, не hebben.",
+        "Mijn verjaardag is in juni."
+      ]
+    },
+    {
+      "title_ua": "Opa's, oma's, baby's: 's у множині",
+      "summary_ua": "Слово на голосну -a, -o, -i, -y має множину з апострофом і s: opa's, oma's, baby's. Vriend, vriendin, tante, oom мають звичайну множину.",
+      "see": "Les 6",
+      "compare": [
+        {
+          "form": "'s після голосної",
+          "when_ua": "Слово закінчується на голосну (a, o, i, y): множина з 's.",
+          "examples": [
+            {
+              "nl": "Ik heb twee **oma's** en twee **opa's**.",
+              "ua": "У мене дві бабусі й два дідусі.",
+              "audio": "les29-rule-17.mp3"
+            },
+            {
+              "nl": "De **baby's** zijn klein.",
+              "ua": "Немовлята маленькі.",
+              "audio": "les29-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Як auto's (Les 6), foto's (Les 20), kilo's (Les 25). Не opas, не babys, не babies."
+        },
+        {
+          "form": "Vriend, vriendin, tante, oom",
+          "when_ua": "Vriend - vrienden (-en), vriendin - vriendinnen (-en з подвоєним n), tante - tantes, oom - ooms (-s).",
+          "examples": [
+            {
+              "nl": "Mijn **vrienden** komen om zeven uur.",
+              "ua": "Мої друзі приходять о сьомій.",
+              "audio": "les29-rule-19.mp3"
+            },
+            {
+              "nl": "Haar **vriendinnen** zijn leuk.",
+              "ua": "Її подруги класні.",
+              "audio": "les29-rule-20.mp3"
+            },
+            {
+              "nl": "Hun **tantes** en **ooms** zijn oud.",
+              "ua": "Їхні тітки й дядьки старі.",
+              "audio": "les29-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Vriendin - vriendinnen: голосна i коротка, тому n подвоюється (як vis - vissen, Les 25). Кінцеве d у vriend звучить [t] лише в однині (спирайся на російську), у vrienden [d]."
+        }
+      ],
+      "points_ua": [
+        "Opa's, oma's, baby's: 's після голосної.",
+        "Vrienden, vriendinnen, tantes, ooms."
+      ]
+    },
+    {
+      "title_ua": "Ouders: лише множина",
+      "summary_ua": "«Батьки» нідерландською тільки множина: de ouders. Дієслово стоїть у множині. Про одного з батьків кажемо vader або moeder.",
+      "see": "Les 21",
+      "compare": [
+        {
+          "form": "Ouders: лише множина",
+          "when_ua": "Ouders це vader en moeder разом. Дієслово множини: zijn, werken, komen.",
+          "examples": [
+            {
+              "nl": "Mijn **ouders** zijn jong.",
+              "ua": "Мої батьки молоді.",
+              "audio": "les29-rule-22.mp3"
+            },
+            {
+              "nl": "Haar **ouders** werken in de stad.",
+              "ua": "Її батьки працюють у місті.",
+              "audio": "les29-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Як de kleren (Les 21). Не mijn ouder werkt: для однієї людини є vader і moeder."
+        },
+        {
+          "form": "Один з батьків: vader або moeder",
+          "when_ua": "Коли мова про одного, називай його vader (Les 9) або moeder.",
+          "examples": [
+            {
+              "nl": "Mijn moeder werkt, mijn vader ook.",
+              "ua": "Моя мама працює, і тато теж.",
+              "audio": "les29-rule-24.mp3"
+            },
+            {
+              "nl": "Zijn vader is thuis, zijn moeder ook.",
+              "ua": "Його тато вдома, і мама теж.",
+              "audio": "les29-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Однина de ouder теж існує, але вона тобі поки не потрібна."
+        }
+      ],
+      "points_ua": [
+        "Mijn ouders zijn ...: лише множина.",
+        "Одна людина: vader або moeder."
+      ]
+    },
+    {
+      "title_ua": "Juni, juli: нідерландська u [y]",
+      "summary_ua": "У juni і juli, як і в het uur (Les 5), звук [y]: губи круглі, як для «у», а язик спереду, як для «і». Це не «ю» і не «у».",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "u = [y]: juni, juli, uur",
+          "when_ua": "Скажи «і» і, не рухаючи язика, округли губи. Тоді вийде [y].",
+          "examples": [
+            {
+              "nl": "In **juni** is het warm.",
+              "ua": "У червні тепло.",
+              "audio": "les29-rule-26.mp3"
+            },
+            {
+              "nl": "In **juli** is het zonnig.",
+              "ua": "У липні сонячно.",
+              "audio": "les29-rule-27.mp3"
+            },
+            {
+              "nl": "Het is twaalf **uur**.",
+              "ua": "Зараз дванадцята година.",
+              "audio": "les29-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Не «ю»: в українському «ю» звучить [u]. Порівняй з нотаткою до juni: vuur [vyːr] і voor [voːr]."
+        },
+        {
+          "form": "Коротка [ʏ] і довга [y]",
+          "when_ua": "У bus (Les 6) u коротка [ʏ]. У uur і juni u довга й напружена [y].",
+          "examples": [
+            {
+              "nl": "De **bus** komt om twee **uur**.",
+              "ua": "Автобус приходить о другій.",
+              "audio": "les29-rule-29.mp3"
+            },
+            {
+              "nl": "Mijn oma komt in **juni**.",
+              "ua": "Моя бабуся приходить у червні.",
+              "audio": "les29-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Один рядок, два звуки: bus [ʏ], uur [y]. Слухай аудіо і повторюй повільно."
+        }
+      ],
+      "points_ua": [
+        "Juni, juli: u це [y], не «ю».",
+        "Bus [ʏ] коротка, uur [y] довга."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Het jaar heeft twaalf maanden.",
+      "ua": "У році дванадцять місяців.",
+      "audio": "les29-example-01.mp3"
+    },
+    {
+      "nl": "Januari en februari zijn koud.",
+      "ua": "Січень і лютий холодні.",
+      "audio": "les29-example-02.mp3"
+    },
+    {
+      "nl": "In april is het vaak nat.",
+      "ua": "У квітні часто мокро.",
+      "audio": "les29-example-03.mp3"
+    },
+    {
+      "nl": "Ik ben in september jarig.",
+      "ua": "У мене день народження у вересні.",
+      "audio": "les29-example-04.mp3"
+    },
+    {
+      "nl": "Mijn broer is op tien oktober jarig.",
+      "ua": "У мого брата день народження десятого жовтня.",
+      "audio": "les29-example-05.mp3"
+    },
+    {
+      "nl": "Vandaag is het vijftien november.",
+      "ua": "Сьогодні 15 листопада.",
+      "audio": "les29-example-06.mp3"
+    },
+    {
+      "nl": "Wat is de datum vandaag?",
+      "ua": "Яка сьогодні дата?",
+      "audio": "les29-example-07.mp3"
+    },
+    {
+      "nl": "Mijn vriend en mijn vriendin komen op zaterdag.",
+      "ua": "Мій друг і моя подруга приходять у суботу.",
+      "audio": "les29-example-08.mp3"
+    },
+    {
+      "nl": "Die vrouw is mijn tante.",
+      "ua": "Та жінка моя тітка.",
+      "audio": "les29-example-09.mp3"
+    },
+    {
+      "nl": "De baby is heel klein.",
+      "ua": "Немовля дуже маленьке.",
+      "audio": "les29-example-10.mp3"
+    },
+    {
+      "nl": "Mijn oma heeft twee cadeaus.",
+      "ua": "У моєї бабусі два подарунки.",
+      "audio": "les29-example-11.mp3"
+    },
+    {
+      "nl": "Vandaag is het mijn verjaardag.",
+      "ua": "Сьогодні мій день народження.",
+      "audio": "les29-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Jarig in mei",
+    "title_ua": "Іменинники",
+    "highlight": [
+      "nl-abcef872",
+      "nl-14f5d598",
+      "nl-22c11f7e",
+      "nl-c2c1de49",
+      "nl-624d1a70",
+      "nl-b1702ec6",
+      "nl-1ed895cf",
+      "nl-0cefe08d",
+      "nl-4e231884",
+      "nl-b1324de5",
+      "nl-259e556a",
+      "nl-7d8c9eb8",
+      "nl-fa040b26"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn oma en opa wonen in de stad.",
+        "ua": "Моя бабуся й дідусь живуть у місті.",
+        "audio": "les29-reading-01.mp3"
+      },
+      {
+        "nl": "Mijn oma is op twaalf mei jarig.",
+        "ua": "У моєї бабусі день народження дванадцятого травня.",
+        "audio": "les29-reading-02.mp3"
+      },
+      {
+        "nl": "Mijn opa is in juli jarig.",
+        "ua": "У мого дідуся день народження в липні.",
+        "audio": "les29-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn zus heeft een baby.",
+        "ua": "У моєї сестри є немовля.",
+        "audio": "les29-reading-04.mp3"
+      },
+      {
+        "nl": "De baby is in maart jarig.",
+        "ua": "У немовляти день народження в березні.",
+        "audio": "les29-reading-05.mp3"
+      },
+      {
+        "nl": "Op twaalf mei komen mijn ouders.",
+        "ua": "Дванадцятого травня приходять мої батьки.",
+        "audio": "les29-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn oom en tante komen ook.",
+        "ua": "Мій дядько й тітка теж приходять.",
+        "audio": "les29-reading-07.mp3"
+      },
+      {
+        "nl": "Mijn tante maakt een taart.",
+        "ua": "Моя тітка робить торт.",
+        "audio": "les29-reading-08.mp3"
+      },
+      {
+        "nl": "Ik koop een cadeau voor mijn oma.",
+        "ua": "Я купую подарунок для моєї бабусі.",
+        "audio": "les29-reading-09.mp3"
+      },
+      {
+        "nl": "De verjaardag is heel leuk.",
+        "ua": "День народження дуже класний.",
+        "audio": "les29-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій дідусь дуже старий.",
+          "accepted": [
+            "Mijn opa is heel oud."
+          ]
+        },
+        {
+          "prompt": "Моя бабуся має день народження в червні.",
+          "accepted": [
+            "Mijn oma is in juni jarig.",
+            "In juni is mijn oma jarig.",
+            "Mijn oma is jarig in juni."
+          ]
+        },
+        {
+          "prompt": "Мої батьки в грудні вдома.",
+          "accepted": [
+            "Mijn ouders zijn in december thuis.",
+            "In december zijn mijn ouders thuis."
+          ]
+        },
+        {
+          "prompt": "Мій дядько купує торт.",
+          "accepted": [
+            "Mijn oom koopt een taart.",
+            "Mijn oom koopt de taart."
+          ]
+        },
+        {
+          "prompt": "У моєї тітки немає дітей.",
+          "accepted": [
+            "Mijn tante heeft geen kinderen."
+          ]
+        },
+        {
+          "prompt": "Завтра 30 червня.",
+          "accepted": [
+            "Morgen is het dertig juni.",
+            "Het is morgen dertig juni."
+          ]
+        },
+        {
+          "prompt": "Коли в немовляти день народження?",
+          "accepted": [
+            "Wanneer is de baby jarig?"
+          ]
+        },
+        {
+          "prompt": "У мене два дядьки й три тітки.",
+          "accepted": [
+            "Ik heb twee ooms en drie tantes."
+          ]
+        },
+        {
+          "prompt": "Його друзі працюють у місті.",
+          "accepted": [
+            "Zijn vrienden werken in de stad."
+          ]
+        },
+        {
+          "prompt": "Ця жінка не стара.",
+          "accepted": [
+            "Deze vrouw is niet oud."
+          ]
+        },
+        {
+          "prompt": "Ми купуємо торт і подарунок.",
+          "accepted": [
+            "Wij kopen een taart en een cadeau.",
+            "We kopen een taart en een cadeau."
+          ]
+        },
+        {
+          "prompt": "Мої дідусь і бабуся не мають машини.",
+          "accepted": [
+            "Mijn opa en oma hebben geen auto.",
+            "Mijn opa en mijn oma hebben geen auto."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово: in чи op, множина, jarig чи verjaardag",
+      "bank": [
+        "in",
+        "op",
+        "opa's",
+        "oma's",
+        "baby's",
+        "ouders",
+        "ooms",
+        "jarig",
+        "verjaardag",
+        "taart",
+        "cadeaus",
+        "vriendinnen",
+        "augustus"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ben ___ mei jarig.",
+          "hint": "У мене день народження в травні",
+          "accepted": [
+            [
+              "in"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vader is ___ twintig maart jarig.",
+          "hint": "Мій тато має день народження двадцятого березня",
+          "accepted": [
+            [
+              "op"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben drie ___.",
+          "hint": "У нас три дідусі",
+          "accepted": [
+            [
+              "opa's",
+              "opa’s"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ zijn heel klein.",
+          "hint": "Немовлята дуже маленькі",
+          "accepted": [
+            [
+              "baby's",
+              "baby’s"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ zijn thuis.",
+          "hint": "Мої батьки вдома",
+          "accepted": [
+            [
+              "ouders"
+            ]
+          ]
+        },
+        {
+          "text": "Zij is morgen ___.",
+          "hint": "Завтра в неї день народження",
+          "accepted": [
+            [
+              "jarig"
+            ]
+          ]
+        },
+        {
+          "text": "Zijn ___ is in maart.",
+          "hint": "Його день народження в березні",
+          "accepted": [
+            [
+              "verjaardag"
+            ]
+          ]
+        },
+        {
+          "text": "___ december is het koud.",
+          "hint": "У грудні холодно",
+          "accepted": [
+            [
+              "In",
+              "in"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ is heel lekker.",
+          "hint": "Торт дуже смачний",
+          "accepted": [
+            [
+              "taart"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft veel ___.",
+          "hint": "У неї багато подарунків",
+          "accepted": [
+            [
+              "cadeaus"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb drie ___.",
+          "hint": "У мене три подруги",
+          "accepted": [
+            [
+              "vriendinnen"
+            ]
+          ]
+        },
+        {
+          "text": "Vandaag is het vijftien ___.",
+          "hint": "Сьогодні 15 серпня",
+          "accepted": [
+            [
+              "augustus"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "De oma is oud.",
+          "cue": "-> множина: De ... zijn oud.",
+          "accepted": [
+            "De oma's zijn oud.",
+            "De oma’s zijn oud."
+          ]
+        },
+        {
+          "prompt": "De opa is moe.",
+          "cue": "-> множина: De ... zijn moe.",
+          "accepted": [
+            "De opa's zijn moe.",
+            "De opa’s zijn moe."
+          ]
+        },
+        {
+          "prompt": "De vriend is leuk.",
+          "cue": "-> множина: De ... zijn leuk.",
+          "accepted": [
+            "De vrienden zijn leuk."
+          ]
+        },
+        {
+          "prompt": "De vriendin is ziek.",
+          "cue": "-> множина: De ... zijn ziek.",
+          "accepted": [
+            "De vriendinnen zijn ziek."
+          ]
+        },
+        {
+          "prompt": "De vrouw is moe.",
+          "cue": "-> множина: De ... zijn moe.",
+          "accepted": [
+            "De vrouwen zijn moe."
+          ]
+        },
+        {
+          "prompt": "De tante werkt in de stad.",
+          "cue": "-> множина: De ... werken in de stad.",
+          "accepted": [
+            "De tantes werken in de stad."
+          ]
+        },
+        {
+          "prompt": "De oom is heel lang.",
+          "cue": "-> множина: De ... zijn heel lang.",
+          "accepted": [
+            "De ooms zijn heel lang."
+          ]
+        },
+        {
+          "prompt": "De taart is groot.",
+          "cue": "-> множина: De ... zijn groot.",
+          "accepted": [
+            "De taarten zijn groot."
+          ]
+        },
+        {
+          "prompt": "Het cadeau is mooi.",
+          "cue": "-> множина: De ... zijn mooi.",
+          "accepted": [
+            "De cadeaus zijn mooi."
+          ]
+        },
+        {
+          "prompt": "De verjaardag is leuk.",
+          "cue": "-> множина: De ... zijn leuk.",
+          "accepted": [
+            "De verjaardagen zijn leuk."
+          ]
+        },
+        {
+          "prompt": "Mijn vader is in juni jarig.",
+          "cue": "-> op veertien juni",
+          "accepted": [
+            "Mijn vader is op veertien juni jarig."
+          ]
+        },
+        {
+          "prompt": "Mijn zus is in augustus jarig.",
+          "cue": "-> починай з In augustus",
+          "accepted": [
+            "In augustus is mijn zus jarig."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn oma ___ in mei jarig.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Wij ___ in juni jarig.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "Mijn ouders ___ in de stad.",
+          "cue": "wonen",
+          "accepted": [
+            "wonen"
+          ]
+        },
+        {
+          "text": "Mijn oom ___ een cadeau.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        },
+        {
+          "text": "___ jij jarig?",
+          "cue": "zijn",
+          "accepted": [
+            "Ben",
+            "ben"
+          ]
+        },
+        {
+          "text": "Ik ___ een taart.",
+          "cue": "maken",
+          "accepted": [
+            "maak"
+          ]
+        },
+        {
+          "text": "Mijn opa ___ drie cadeaus.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Ik ___ twee vriendinnen.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Mijn vriend ___ op zaterdag.",
+          "cue": "komen",
+          "accepted": [
+            "komt"
+          ]
+        },
+        {
+          "text": "Vorige maand ___ mijn oma jarig.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "was"
+          ]
+        },
+        {
+          "text": "Wij ___ vorig jaar in mei thuis.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "waren"
+          ]
+        },
+        {
+          "text": "Mijn opa en oma ___ vroeger een groot huis.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "hadden"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "березень",
+          "answer": "maart"
+        },
+        {
+          "prompt": "травень",
+          "answer": "mei"
+        },
+        {
+          "prompt": "червень",
+          "answer": "juni"
+        },
+        {
+          "prompt": "серпень",
+          "answer": "augustus"
+        },
+        {
+          "prompt": "листопад",
+          "answer": "november"
+        },
+        {
+          "prompt": "дідусь",
+          "answer": "de opa"
+        },
+        {
+          "prompt": "бабуся",
+          "answer": "de oma"
+        },
+        {
+          "prompt": "дядько",
+          "answer": "de oom"
+        },
+        {
+          "prompt": "тітка",
+          "answer": "de tante"
+        },
+        {
+          "prompt": "батьки",
+          "answer": "de ouders"
+        }
+      ],
+      "extra": [
+        "januari",
+        "de vriendin"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
