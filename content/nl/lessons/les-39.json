@@ -1,0 +1,1258 @@
+{
+  "id": "nl-les-39",
+  "lang": "nl",
+  "order": 39,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-8f3bc98e",
+      "type": "noun",
+      "article": "de",
+      "lemma": "gemeente",
+      "plural": [
+        "gemeenten"
+      ],
+      "ua": "громада, місцева влада (мерія)",
+      "audio": "de-gemeente.mp3",
+      "explain_ua": "(Ik moet naar de gemeente = мені треба до мерії; De gemeente stuurt een brief = місцева влада надсилає лист). Gemeente це місцева влада як установа чи поняття -- не сама будівля (будівля це gemeentehuis, наступна картка). Українське «мерія» покриває обидва значення, нідерландська розділяє. Множина gemeenten (у словнику є й gemeentes, але gemeenten частіше). G це [x], як х у хата (Les 1); наголос на другому складі: ge-MEEN-te",
+      "check": "Що gemeenten частіше за gemeentes, з пошуку (schrijfwijzer.nl), не з woorden.org напряму."
+    },
+    {
+      "id": "nl-b71c16df",
+      "type": "noun",
+      "article": "het",
+      "lemma": "gemeentehuis",
+      "plural": [
+        "gemeentehuizen"
+      ],
+      "ua": "будівля мерії, ратуша",
+      "audio": "het-gemeentehuis.mp3",
+      "explain_ua": "(Ik ga naar het gemeentehuis = я йду до мерії (будівлі)). Складається з gemeente (вище) і huis (Les 1): «будинок місцевої влади». Це підказка для пам'яті. Множина gemeentehuizen, як huis - huizen (Les 1). На відміну від de gemeente (установа/поняття), het gemeentehuis це конкретна будівля, як het station чи de school (Les 17)",
+      "check": "Наголос ge-MEEN-te-huis з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-ecef3486",
+      "type": "noun",
+      "article": "het",
+      "lemma": "loket",
+      "plural": [
+        "loketten"
+      ],
+      "ua": "віконце (в держустанові, на пошті)",
+      "audio": "het-loket.mp3",
+      "explain_ua": "(Bij het loket wachten veel mensen = біля віконця чекає багато людей). Loket це віконце, де приймають відвідувачів: у мерії, на пошті, у банку. Множина loketten: приголосна подвоюється, щоб голосна лишилась короткою, як bus - bussen (Les 6). O коротка [ɔ], як у bos (Les 1); наголос на другому складі: lo-KET",
+      "check": "Наголос lo-KET (не LO-ket) з власних знань, перевірено через woorden.org лише щодо множини."
+    },
+    {
+      "id": "nl-e7f2120d",
+      "type": "noun",
+      "article": "het",
+      "lemma": "paspoort",
+      "plural": [
+        "paspoorten"
+      ],
+      "ua": "паспорт",
+      "audio": "het-paspoort.mp3",
+      "explain_ua": "(Mijn paspoort is verlopen = мій паспорт протермінований). Схоже на «паспорт»: підказка для пам'яті. Het-слово (не de, як в українській «паспорт» чоловічого роду -- рід не переноситься). Множина paspoorten. Oo довге [oː], як у boos (Les 1); наголос на другому складі: pas-POORT",
+      "check": "Множину paspoorten і наголос з власних знань, woorden.org окремо не перевірено."
+    },
+    {
+      "id": "nl-2ec982d2",
+      "type": "noun",
+      "article": "de",
+      "lemma": "verblijfsvergunning",
+      "plural": [
+        "verblijfsvergunningen"
+      ],
+      "ua": "дозвіл на проживання (вид на проживання)",
+      "audio": "de-verblijfsvergunning.mp3",
+      "explain_ua": "(Ik heb een verblijfsvergunning = у мене є дозвіл на проживання). Довге складене слово: verblijf «перебування» + vergunning «дозвіл». Вчи його цілим, як zorgverzekering (Les 37). Множина verblijfsvergunningen. Наголос на першому складі: ver-BLIJFS-ver-gun-ning",
+      "check": "Множину verblijfsvergunningen перевірено пошуком (значення й слово підтверджені), наголос з власних знань."
+    },
+    {
+      "id": "nl-58a401df",
+      "type": "noun",
+      "article": "het",
+      "lemma": "formulier",
+      "plural": [
+        "formulieren"
+      ],
+      "ua": "формуляр, бланк",
+      "audio": "het-formulier.mp3",
+      "explain_ua": "(Ik moet een formulier invullen = мені треба заповнити формуляр). Formulier це документ з порожніми полями, який заповнюють. Множина formulieren, перевірено словником. Ie це [i], як у ziek (Les 26); наголос на останньому складі: for-mu-LIER",
+      "check": "Наголос for-mu-LIER з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-8648afcc",
+      "type": "verb",
+      "lemma": "invullen",
+      "ua": "заповнювати (формуляр)",
+      "audio": "invullen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "vul in",
+          "audio": "ik-vul-in.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "vult in",
+          "audio": "hij-vult-in.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "vullen in",
+          "audio": "wij-vullen-in.mp3"
+        }
+      ],
+      "explain_ua": "(Ik vul het formulier in = я заповнюю формуляр; Vul alsjeblieft het formulier in = заповніть, будь ласка, формуляр). Відокремлюване дієслово: vullen «наповнювати» + in, як binnenkomen чи instappen (Les 5). У наказовому способі (Les 22) префікс так само в кінці: Vul het formulier in! Стем vul вже закінчується не на -t, тому звичайне +t для jij/hij: vult. Наголос на in: in-VUL-len, але в реченні in іде в кінець окремо",
+      "check": "Що invullen наголошує саме на vullen, а не на in, з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-5ab67746",
+      "type": "verb",
+      "lemma": "tekenen",
+      "ua": "підписувати; малювати (два значення)",
+      "audio": "tekenen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "teken",
+          "audio": "ik-teken.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "tekent",
+          "audio": "hij-tekent.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "tekenen",
+          "audio": "wij-tekenen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik teken het document = я підписую документ; Mijn dochter tekent = моя донька малює). Tekenen має два значення: «малювати» (дитина tekent) і «підписувати» (Kunt u hier tekenen? = чи можете ви тут підписати?). Контекст показує яке. Формальніше слово для «підписувати» -- ondertekenen -- цього уроку не вчимо. Стем teken вже закінчується на -en, тому jij/hij просто +t: tekent. Ee довге [eː], як у thee (Les 12)",
+      "check": "Що tekenen (не ondertekenen) є звичайним побутовим словом для «підписати» в держустановах, з власних знань, не перевірено."
+    },
+    {
+      "id": "nl-8c3fbabe",
+      "type": "noun",
+      "article": "de",
+      "lemma": "handtekening",
+      "plural": [
+        "handtekeningen"
+      ],
+      "ua": "підпис",
+      "audio": "de-handtekening.mp3",
+      "explain_ua": "(Mijn handtekening staat op het formulier = мій підпис на формулярі). Складається з hand (Les 30) і tekening «малюнок» (від tekenen, вище): «намальоване рукою». Це підказка для пам'яті. Множина handtekeningen. Наголос на першому складі: HAND-te-ke-ning",
+      "check": "Множину handtekeningen і наголос з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-4752c6ce",
+      "type": "noun",
+      "article": "het",
+      "lemma": "document",
+      "plural": [
+        "documenten"
+      ],
+      "ua": "документ",
+      "audio": "het-document.mp3",
+      "explain_ua": "(Ik teken het document = я підписую документ). Схоже на «документ»: підказка для пам'яті. Множина documenten, перевірено словником. C тут це [k]; наголос на останньому складі: do-cu-MENT",
+      "check": "Наголос do-cu-MENT з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-4fdefe68",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kopie",
+      "plural": [
+        "kopieën"
+      ],
+      "ua": "копія",
+      "audio": "de-kopie.mp3",
+      "explain_ua": "(Ik maak een kopie = я роблю копію). Схоже на «копія»: підказка для пам'яті. Множина kopieën: слова на -ie беруть -ën з трема, щоб ie й e не злилися в один звук -- та сама причина трема, що в kopiëren (наступна картка). Наголос на першому складі: KO-pie",
+      "check": "Форму множини kopieën (з трема) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-ff1969ca",
+      "type": "verb",
+      "lemma": "kopiëren",
+      "ua": "копіювати",
+      "audio": "kopieren.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "kopieer",
+          "audio": "ik-kopieer.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "kopieert",
+          "audio": "hij-kopieert.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "kopiëren",
+          "audio": "wij-kopieren.mp3"
+        }
+      ],
+      "explain_ua": "(Ik kopieer mijn paspoort = я копіюю свій паспорт). Трема (twee puntjes) надë показує, що i і e належать до різних складів: ko-pi-ë-ren, а не «копіе-рен». У формах ik kopieer і hij kopieert трема вже не пишеться (ee там звичайний довгий звук), лише в kopiëren і wij kopiëren. Схоже на «копіювати»: підказка для пам'яті",
+      "check": "Форми ik kopieer, hij kopieert перевірено пошуком; правило про зникнення трема в цих формах з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-cf9a2a91",
+      "type": "noun",
+      "article": "het",
+      "lemma": "nummer",
+      "plural": [
+        "nummers"
+      ],
+      "ua": "номер",
+      "audio": "het-nummer.mp3",
+      "explain_ua": "(Ik heb nummer vijftien = у мене номер п'ятнадцять). Схоже на «номер»: підказка для пам'яті. Het-слово (не de, як українське «номер» чоловічого роду -- рід не переноситься). Множина nummers, як kamer - kamers (Les 3). У черзі в держустанові часто беруть nummer з апарата. Наголос на першому складі: NUM-mer",
+      "check": "Наголос і множину nummers з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-38a4dc7a",
+      "type": "function",
+      "lemma": "BSN",
+      "ua": "БСН (громадянський сервісний номер, унікальний номер людини в Нідерландах)",
+      "audio": "bsn.mp3",
+      "dictation": false,
+      "explain_ua": "(Ik heb mijn BSN al = у мене вже є мій БСН). BSN це скорочення від burgerservicenummer -- унікальний номер, який отримує кожен, хто зареєстрований у Нідерландах; потрібен для лікаря, роботи, банку. Завжди het BSN, бо це скорочення від het nummer (вище). Вимовляють по буквах: бе-ес-ен. Слово не змінюється, множини не вчимо",
+      "check": "Що BSN завжди het (за аналогією з het nummer), з власних знань, окремо не перевірено -- значення самого BSN перевірено пошуком (rijksoverheid.nl)."
+    },
+    {
+      "id": "nl-d5c44cc2",
+      "type": "adjective",
+      "lemma": "geldig",
+      "ua": "дійсний, чинний (про документ)",
+      "audio": "geldig.mp3",
+      "explain_ua": "(Dit paspoort is nog geldig = цей паспорт ще дійсний). Geldig описує документ, який ще можна використовувати. Протилежність -- verlopen (наступна картка). Після zijn без -e (Les 21): is geldig, не is geldige. G це [x], як х у хата; наголос на першому складі: GEL-dig",
+      "check": "Наголос GEL-dig з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-c5927e81",
+      "type": "adjective",
+      "lemma": "verlopen",
+      "ua": "протермінований, закінчився строк дії",
+      "audio": "verlopen.mp3",
+      "explain_ua": "(Mijn paspoort is verlopen = мій паспорт протермінований). Verlopen описує документ, строк дії якого закінчився -- протилежність до geldig. Форма схожа на дієприкметник (від дієслова verlopen «спливати, закінчуватися», яке окремо не вчимо), але тут це просто прикметник: після zijn без -e (Les 21), як moe, ziek (Les 26). Наголос на другому складі: ver-LO-pen",
+      "check": "Що verlopen тут вживається як прикметник (не як дієслово), перевірено пошуком (het paspoort/dat paspoort verlopen)."
+    },
+    {
+      "id": "nl-3521c1b4",
+      "type": "noun",
+      "article": "de",
+      "lemma": "post",
+      "plural": [],
+      "ua": "пошта (кореспонденція або установа)",
+      "audio": "de-post.mp3",
+      "explain_ua": "(Ik heb post = у мене є пошта (листи); Ik ga naar de post = я йду на пошту). Post означає і листи/пакунки разом (як «кореспонденція»), і саму установу. Без множини в цьому значенні -- як brood, water (Les 8): Ik heb post, не een post. Схоже на «пошта»: підказка для пам'яті. Наголос на єдиному складі: POST",
+      "check": "Що post не має множини саме в значенні «кореспонденція», з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-6d972c57",
+      "type": "noun",
+      "article": "het",
+      "lemma": "postkantoor",
+      "plural": [
+        "postkantoren"
+      ],
+      "ua": "поштове відділення",
+      "audio": "het-postkantoor.mp3",
+      "explain_ua": "(Ik ga naar het postkantoor = я йду на поштове відділення). Складається з post (вище) і kantoor «офіс» (Les 35): «поштовий офіс». Множина postkantoren, як kantoor - kantoren. Наголос на першому складі: POST-kan-toor",
+      "check": "Множину postkantoren і наголос з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-5e101d76",
+      "type": "noun",
+      "article": "de",
+      "lemma": "brief",
+      "plural": [
+        "brieven"
+      ],
+      "ua": "лист (паперовий, поштою) -- НЕ «брифінг»!",
+      "audio": "de-brief.mp3",
+      "explain_ua": "(Ik heb een brief voor jou = у мене є лист для тебе). УВАГА, хибний друг: brief звучить як англійське brief («короткий», «нарада»), але означає зовсім інше -- паперовий лист. До короткого повідомлення чи наради це слово не має стосунку. Множина brieven: f на кінці основи стає v перед голосною, як huis - huizen (Les 1), тільки тут f/v замість s/z. Ij це [ɛi], як у mijn (Les 1); наголос на єдиному складі: BRIEF",
+      "check": "F/v-чергування в brief - brieven (як huis - huizen) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-6a7a0c29",
+      "type": "noun",
+      "article": "de",
+      "lemma": "envelop",
+      "plural": [
+        "enveloppen"
+      ],
+      "ua": "конверт",
+      "audio": "de-envelop.mp3",
+      "explain_ua": "(Deze envelop is voor de gemeente = цей конверт для мерії). Схоже на «конверт»/англійське envelope: підказка для пам'яті. Множина enveloppen: приголосна подвоюється, як bus - bussen (Les 6). Наголос на другому складі: en-ve-LOP",
+      "check": "Наголос en-ve-LOP з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-7902c013",
+      "type": "noun",
+      "article": "de",
+      "lemma": "postzegel",
+      "plural": [
+        "postzegels"
+      ],
+      "ua": "поштова марка",
+      "audio": "de-postzegel.mp3",
+      "explain_ua": "(Ik koop een postzegel bij het postkantoor = я купую поштову марку на пошті). Складається з post (вище) і zegel «печатка, марка» -- цікаво, що окремо het zegel, а postzegel вже de-слово: винятки складених слів трапляються, це один з них. Множина postzegels, як sleutel - sleutels (Les 31). Наголос на першому складі: POST-ze-gel",
+      "check": "Що postzegel de-слово, хоч zegel окремо het, перевірено пошуком (welklidwoord.nl)."
+    },
+    {
+      "id": "nl-f5d601fb",
+      "type": "noun",
+      "article": "de",
+      "lemma": "brievenbus",
+      "plural": [
+        "brievenbussen"
+      ],
+      "ua": "поштова скринька",
+      "audio": "de-brievenbus.mp3",
+      "explain_ua": "(Ik doe de brief in de brievenbus = я кладу лист у поштову скриньку). Складається з brieven (множина від brief, вище) і bus «скринька, автобус» (Les 6): «скринька для листів». Множина brievenbussen, перевірено словником. Наголос на першому складі: BRIE-ven-bus",
+      "check": "Наголос BRIE-ven-bus з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-09c74864",
+      "type": "noun",
+      "article": "het",
+      "lemma": "pakket",
+      "plural": [
+        "pakketten"
+      ],
+      "ua": "посилка, пакунок",
+      "audio": "het-pakket.mp3",
+      "explain_ua": "(Ik ontvang een pakket = я отримую посилку). Схоже на «пакет»: підказка для пам'яті. Множина pakketten: приголосна подвоюється, як loket - loketten (вище). A коротка [ɑ]; наголос на другому складі: pak-KET",
+      "check": "Наголос pak-KET з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-d366e6d7",
+      "type": "verb",
+      "lemma": "versturen",
+      "ua": "надсилати, відправляти",
+      "audio": "versturen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "verstuur",
+          "audio": "ik-verstuur.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "verstuurt",
+          "audio": "hij-verstuurt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "versturen",
+          "audio": "wij-versturen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik verstuur een brief = я надсилаю лист). Складається з ver- і sturen «направляти» (окремо не вчимо). Ver- це НЕвідокремлюваний префікс -- на відміну від invullen (in-, відокремлюваний), versturen завжди лишається одним словом: Ik verstuur het pakket, не Ik stuur het pakket ver. Наголос на другому складі: ver-STU-ren",
+      "check": "Наголос ver-STU-ren з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-bcc88f6f",
+      "type": "verb",
+      "lemma": "ontvangen",
+      "ua": "отримувати",
+      "audio": "ontvangen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ontvang",
+          "audio": "ik-ontvang.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "ontvangt",
+          "audio": "hij-ontvangt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "ontvangen",
+          "audio": "wij-ontvangen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik ontvang een brief = я отримую лист). Протилежність до versturen. Ont- теж невідокремлюваний префікс, як ver-. У теперішньому часі форма звичайна (ik ontvang, hij ontvangt, wij ontvangen); минулий час і дієприкметник неправильні, але їх у цьому уроці не вчимо. Наголос на другому складі: ont-VANG-en",
+      "check": "Наголос ont-VANG-en з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-06759588",
+      "type": "noun",
+      "article": "de",
+      "lemma": "mens",
+      "plural": [
+        "mensen"
+      ],
+      "ua": "людина (формально/загально); (мн.) люди",
+      "audio": "de-mens.mp3",
+      "explain_ua": "(Er zijn veel mensen in de stad = у місті багато людей; Mensen wachten bij het loket = люди чекають біля віконця). Однина de mens вживається рідко, здебільшого в загальних чи філософських твердженнях («людина взагалі»); у щоденній мові набагато частіше зустрічається множина de mensen -- звичайне слово для «люди». УВАГА: het mens (з het!) це зовсім інше слово -- зневажливо про жінку; його не вчимо і не вживаємо. Множина mensen, як kamer - kamers, але без -s: просто -en. Наголос на єдиному складі однини: MENS",
+      "check": "Все підтверджено пошуком (woorden.org, ensie.nl): mens/mensen, і окреме зневажливе het mens."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Gemeente en gemeentehuis: twee verschillende dingen",
+      "summary_ua": "Gemeente це місцева влада як установа чи поняття, gemeentehuis це сама будівля, куди туди йдуть. Українське «мерія» покриває обидва значення, нідерландська розділяє -- як station і spoor, чи school і klas.",
+      "see": "Les 17",
+      "compare": [
+        {
+          "form": "gemeente: установа, поняття",
+          "when_ua": "Коли йдеться про владу чи послугу, а не про будівлю.",
+          "examples": [
+            {
+              "nl": "Ik moet naar de gemeente.",
+              "ua": "Мені треба до мерії.",
+              "audio": "les39-rule-01.mp3"
+            },
+            {
+              "nl": "De gemeente verstuurt een brief.",
+              "ua": "Місцева влада надсилає лист.",
+              "audio": "les39-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Тут ідеться про владу/послугу, не про конкретну будівлю."
+        },
+        {
+          "form": "gemeentehuis: будівля",
+          "when_ua": "Коли йдеться про конкретну будівлю, як het station чи de school (Les 17).",
+          "examples": [
+            {
+              "nl": "Het gemeentehuis is groot.",
+              "ua": "Будівля мерії велика.",
+              "audio": "les39-rule-03.mp3"
+            },
+            {
+              "nl": "Ik ga naar het gemeentehuis.",
+              "ua": "Я йду до мерії (будівлі).",
+              "audio": "les39-rule-04.mp3"
+            }
+          ],
+          "note_ua": "У щоденній мові часто кажуть просто gemeente навіть про будівлю -- контекст показує яке значення."
+        }
+      ],
+      "points_ua": [
+        "Gemeente = влада/поняття, gemeentehuis = будівля.",
+        "Українське «мерія» покриває обидва -- нідерландська розділяє."
+      ]
+    },
+    {
+      "title_ua": "Brief: НЕ брифінг!",
+      "summary_ua": "De brief звучить як англійське brief («короткий», «нарада»), але означає зовсім інше -- паперовий лист. Класичний хибний друг: слово схоже, значення різне.",
+      "see": "Les 1",
+      "compare": [
+        {
+          "form": "brief = лист",
+          "when_ua": "Завжди про паперовий лист, ніколи про коротку нараду чи коротке повідомлення.",
+          "examples": [
+            {
+              "nl": "Ik heb een brief voor jou.",
+              "ua": "У мене є лист для тебе.",
+              "audio": "les39-rule-05.mp3"
+            },
+            {
+              "nl": "De brief is voor de gemeente.",
+              "ua": "Лист для мерії.",
+              "audio": "les39-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Не плутай зі значенням англійського brief. Коротке повідомлення чи нарада нідерландською -- інші слова, які цього уроку не вчимо."
+        }
+      ],
+      "points_ua": [
+        "Brief = лист (паперовий), НЕ «коротко» і НЕ «нарада».",
+        "Хибний друг: схоже звучить, різне значення."
+      ]
+    },
+    {
+      "title_ua": "Een formulier invullen en tekenen",
+      "summary_ua": "Invullen (відокремлюване, in у кінці) і tekenen (тут -- «підписувати») це дві дії з формуляром: спершу заповнюють, потім підписують. En-координація двох речень з однаковим підметом дозволяє не повторювати підмет (Les 13).",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "invullen: відокремлюване, in у кінці",
+          "when_ua": "У звичайному реченні in іде в кінець, як binnenkomen чи instappen (Les 5). У наказовому способі так само (Les 22).",
+          "examples": [
+            {
+              "nl": "Ik vul het formulier in.",
+              "ua": "Я заповнюю формуляр.",
+              "audio": "les39-rule-07.mp3"
+            },
+            {
+              "nl": "Vul het formulier in!",
+              "ua": "Заповніть формуляр!",
+              "audio": "les39-rule-08.mp3"
+            }
+          ],
+          "note_ua": "In завжди в самому кінці, навіть у наказовому способі."
+        },
+        {
+          "form": "tekenen: підписувати, і два разом",
+          "when_ua": "Tekenen тут значить «підписувати». Дві дії підряд, one підмет: перший en-другий, без повторення підмета.",
+          "examples": [
+            {
+              "nl": "Ik teken het formulier.",
+              "ua": "Я підписую формуляр.",
+              "audio": "les39-rule-09.mp3"
+            },
+            {
+              "nl": "Ik vul het formulier in en teken het.",
+              "ua": "Я заповнюю формуляр і підписую його.",
+              "audio": "les39-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Ik vul ... in en teken het: підмет ik не повторюється перед teken -- те саме правило, що want/en/dus (Les 10, Les 11)."
+        }
+      ],
+      "points_ua": [
+        "Invullen: in завжди в кінці речення.",
+        "Tekenen тут = підписувати; при en-координації підмет не повторюється."
+      ]
+    },
+    {
+      "title_ua": "Geldig en verlopen: over documenten",
+      "summary_ua": "Geldig і verlopen це протилежності про документи: geldig -- ще діє, verlopen -- строк дії закінчився. Обидва прикметники, обидва без -e після zijn (Les 21), як moe/ziek (Les 26).",
+      "see": "Les 21",
+      "compare": [
+        {
+          "form": "geldig: ще діє",
+          "when_ua": "Про документ, який ще можна використовувати. Без -e після zijn.",
+          "examples": [
+            {
+              "nl": "Mijn paspoort is geldig.",
+              "ua": "Мій паспорт дійсний.",
+              "audio": "les39-rule-11.mp3"
+            },
+            {
+              "nl": "Dit document is niet geldig.",
+              "ua": "Цей документ недійсний.",
+              "audio": "les39-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Niet стоїть перед прикметником geldig, як і перед будь-яким іншим предикативним прикметником (Les 2: niet перед прикметником, geen перед іменником)."
+        },
+        {
+          "form": "verlopen: строк дії закінчився",
+          "when_ua": "Протилежність до geldig. Теж без -e після zijn.",
+          "examples": [
+            {
+              "nl": "Mijn paspoort is verlopen.",
+              "ua": "Мій паспорт протермінований.",
+              "audio": "les39-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Geldig і verlopen ніколи не стосуються одного документа одночасно -- вони протилежні."
+        }
+      ],
+      "points_ua": [
+        "Geldig = ще діє, verlopen = строк дії закінчився.",
+        "Обидва без -e після zijn (Les 21)."
+      ]
+    },
+    {
+      "title_ua": "Versturen en ontvangen: post sturen en krijgen",
+      "summary_ua": "Versturen (надсилати) і ontvangen (отримувати) -- протилежна пара дій з поштою. Ver- і ont- це невідокремлювані префікси: слово завжди лишається цілим, на відміну від invullen (in-, відокремлюваний).",
+      "see": "Les 34",
+      "compare": [
+        {
+          "form": "versturen: надсилати",
+          "when_ua": "Ver- ніколи не відділяється від дієслова.",
+          "examples": [
+            {
+              "nl": "Ik verstuur een pakket.",
+              "ua": "Я надсилаю посилку.",
+              "audio": "les39-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Не Ik stuur een pakket ver -- ver- завжди прикріплений до дієслова, як у verhuizen (Les 38) чи verkopen."
+        },
+        {
+          "form": "ontvangen: отримувати",
+          "when_ua": "Ont- так само ніколи не відділяється.",
+          "examples": [
+            {
+              "nl": "Mijn moeder ontvangt de brief.",
+              "ua": "Моя мама отримує лист.",
+              "audio": "les39-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Versturen і ontvangen -- протилежні дії: хтось versturen, хтось інший ontvangen."
+        }
+      ],
+      "points_ua": [
+        "Versturen = надсилати, ontvangen = отримувати.",
+        "Ver- і ont- ніколи не відокремлюються (на відміну від in-, op-)."
+      ]
+    },
+    {
+      "title_ua": "BSN: een afkorting, altijd het",
+      "summary_ua": "BSN це скорочення від burgerservicenummer. Завжди het BSN, бо nummer (вище) -- het-слово. Слово не змінюється, часто просто кажуть BSN, повне слово рідко.",
+      "see": "Les 39",
+      "compare": [
+        {
+          "form": "het BSN: скорочення",
+          "when_ua": "BSN стоїть як звичайний іменник, завжди het, не змінюється.",
+          "examples": [
+            {
+              "nl": "Ik heb mijn BSN al.",
+              "ua": "У мене вже є мій БСН.",
+              "audio": "les39-rule-16.mp3"
+            },
+            {
+              "nl": "Ik geef mijn BSN aan de gemeente.",
+              "ua": "Я даю свій БСН мерії.",
+              "audio": "les39-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Geven ... aan (Les 36): BSN тут прямий об'єкт, gemeente -- отримувач після aan."
+        }
+      ],
+      "points_ua": [
+        "BSN = burgerservicenummer, завжди het BSN.",
+        "Не змінюється, вимовляють по буквах."
+      ]
+    },
+    {
+      "title_ua": "De mens, de mensen: людина і люди",
+      "summary_ua": "Однина de mens вживається рідко, здебільшого формально чи узагальнено. Множина de mensen -- звичайне щоденне слово для «люди». Обидва без артикля, коли йдеться про людей узагалі (як veel mensen, Les 20).",
+      "see": "Les 20",
+      "compare": [
+        {
+          "form": "mensen: щоденне слово для «люди»",
+          "when_ua": "У множині без артикля, коли йдеться про людей узагалі (той самий принцип, що veel appels, Les 20).",
+          "examples": [
+            {
+              "nl": "Er zijn veel mensen bij de gemeente.",
+              "ua": "Біля мерії багато людей.",
+              "audio": "les39-rule-18.mp3"
+            },
+            {
+              "nl": "Mensen wachten bij het loket.",
+              "ua": "Люди чекають біля віконця.",
+              "audio": "les39-rule-19.mp3"
+            }
+          ],
+          "note_ua": "УВАГА: het mens (з het) -- зовсім інше, зневажливе слово про жінку. Ми його не вчимо і не вживаємо -- завжди de mens/de mensen."
+        }
+      ],
+      "points_ua": [
+        "Mensen (мн.) = звичайне слово для «люди», без артикля в узагальненні.",
+        "De mens (одн.) = формально/узагальнено. Het mens -- інше слово, не вживати."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Het gemeentehuis is groot.",
+      "ua": "Будівля мерії велика.",
+      "audio": "les39-example-01.mp3"
+    },
+    {
+      "nl": "Ik kopieer mijn paspoort bij het loket.",
+      "ua": "Я копіюю свій паспорт біля віконця.",
+      "audio": "les39-example-02.mp3"
+    },
+    {
+      "nl": "Deze envelop is voor de gemeente.",
+      "ua": "Цей конверт для мерії.",
+      "audio": "les39-example-03.mp3"
+    },
+    {
+      "nl": "Ik teken het document.",
+      "ua": "Я підписую документ.",
+      "audio": "les39-example-04.mp3"
+    },
+    {
+      "nl": "Mijn handtekening staat op het formulier.",
+      "ua": "Мій підпис на формулярі.",
+      "audio": "les39-example-05.mp3"
+    },
+    {
+      "nl": "Is dit paspoort nog geldig?",
+      "ua": "Чи цей паспорт ще дійсний?",
+      "audio": "les39-example-06.mp3"
+    },
+    {
+      "nl": "Wij versturen het pakket vandaag.",
+      "ua": "Ми надсилаємо посилку сьогодні.",
+      "audio": "les39-example-07.mp3"
+    },
+    {
+      "nl": "Zij ontvangt elke week een brief.",
+      "ua": "Вона щотижня отримує лист.",
+      "audio": "les39-example-08.mp3"
+    },
+    {
+      "nl": "Hoeveel mensen wachten bij het loket?",
+      "ua": "Скільки людей чекає біля віконця?",
+      "audio": "les39-example-09.mp3"
+    },
+    {
+      "nl": "Ik heb nummer vijftien.",
+      "ua": "У мене номер п'ятнадцять.",
+      "audio": "les39-example-10.mp3"
+    },
+    {
+      "nl": "Ik heb een verblijfsvergunning.",
+      "ua": "У мене є дозвіл на проживання.",
+      "audio": "les39-example-11.mp3"
+    },
+    {
+      "nl": "Ik zie veel mensen bij de gemeente.",
+      "ua": "Я бачу багато людей біля мерії.",
+      "audio": "les39-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Naar de gemeente",
+    "title_ua": "До мерії",
+    "highlight": [
+      "nl-8f3bc98e",
+      "nl-ecef3486",
+      "nl-e7f2120d",
+      "nl-58a401df",
+      "nl-38a4dc7a",
+      "nl-c5927e81",
+      "nl-6d972c57",
+      "nl-5e101d76",
+      "nl-7902c013",
+      "nl-f5d601fb",
+      "nl-06759588"
+    ],
+    "sentences": [
+      {
+        "nl": "Ik moet naar de gemeente.",
+        "ua": "Мені треба до мерії.",
+        "audio": "les39-reading-01.mp3"
+      },
+      {
+        "nl": "Bij het loket wachten veel mensen.",
+        "ua": "Біля віконця чекає багато людей.",
+        "audio": "les39-reading-02.mp3"
+      },
+      {
+        "nl": "Ik moet een formulier invullen.",
+        "ua": "Мені треба заповнити формуляр.",
+        "audio": "les39-reading-03.mp3"
+      },
+      {
+        "nl": "Ik vul het formulier in en teken het.",
+        "ua": "Я заповнюю формуляр і підписую його.",
+        "audio": "les39-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn paspoort is verlopen.",
+        "ua": "Мій паспорт протермінований.",
+        "audio": "les39-reading-05.mp3"
+      },
+      {
+        "nl": "Ik wil een nieuw paspoort.",
+        "ua": "Я хочу новий паспорт.",
+        "audio": "les39-reading-06.mp3"
+      },
+      {
+        "nl": "Ik heb ook mijn BSN.",
+        "ua": "У мене також є мій БСН.",
+        "audio": "les39-reading-07.mp3"
+      },
+      {
+        "nl": "Daarna ga ik naar het postkantoor.",
+        "ua": "Потім я йду на поштове відділення.",
+        "audio": "les39-reading-08.mp3"
+      },
+      {
+        "nl": "Ik koop een postzegel en verstuur een brief.",
+        "ua": "Я купую поштову марку і надсилаю лист.",
+        "audio": "les39-reading-09.mp3"
+      },
+      {
+        "nl": "Ik doe de brief in de brievenbus.",
+        "ua": "Я кладу лист у поштову скриньку.",
+        "audio": "les39-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат працює в мерії.",
+          "accepted": [
+            "Mijn broer werkt bij de gemeente."
+          ]
+        },
+        {
+          "prompt": "Моя сестра надсилає мені лист.",
+          "accepted": [
+            "Mijn zus verstuurt mij een brief."
+          ]
+        },
+        {
+          "prompt": "Заповни, будь ласка, формуляр.",
+          "accepted": [
+            "Vul alsjeblieft het formulier in."
+          ]
+        },
+        {
+          "prompt": "Хто підписує цей документ?",
+          "accepted": [
+            "Wie tekent dit document?"
+          ]
+        },
+        {
+          "prompt": "Мій новий паспорт ще дійсний.",
+          "accepted": [
+            "Mijn nieuwe paspoort is nog geldig."
+          ]
+        },
+        {
+          "prompt": "Цей документ протермінований.",
+          "accepted": [
+            "Dit document is verlopen."
+          ]
+        },
+        {
+          "prompt": "Ми надішлемо посилку завтра.",
+          "accepted": [
+            "Wij versturen morgen een pakket.",
+            "We versturen morgen een pakket."
+          ]
+        },
+        {
+          "prompt": "Моя донька щодня отримує листи.",
+          "accepted": [
+            "Mijn dochter ontvangt dagelijks brieven."
+          ]
+        },
+        {
+          "prompt": "Чи в тебе вже є БСН?",
+          "accepted": [
+            "Heb jij al een BSN?",
+            "Heb je al een BSN?"
+          ]
+        },
+        {
+          "prompt": "Я ще не маю БСН.",
+          "accepted": [
+            "Ik heb nog geen BSN."
+          ]
+        },
+        {
+          "prompt": "У місті багато людей.",
+          "accepted": [
+            "Er zijn veel mensen in de stad."
+          ]
+        },
+        {
+          "prompt": "Люди чекають біля поштового відділення.",
+          "accepted": [
+            "Mensen wachten bij het postkantoor."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "gemeente",
+        "formulier",
+        "handtekening",
+        "document",
+        "geldig",
+        "verlopen",
+        "brief",
+        "postzegel",
+        "mensen",
+        "tekenen",
+        "versturen",
+        "BSN"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik moet naar de ___.",
+          "hint": "мерія",
+          "accepted": [
+            [
+              "gemeente"
+            ]
+          ]
+        },
+        {
+          "text": "Ik vul het ___ in.",
+          "hint": "формуляр",
+          "accepted": [
+            [
+              "formulier"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ staat op de brief.",
+          "hint": "підпис",
+          "accepted": [
+            [
+              "handtekening"
+            ]
+          ]
+        },
+        {
+          "text": "Ik lees het ___.",
+          "hint": "документ",
+          "accepted": [
+            [
+              "document"
+            ]
+          ]
+        },
+        {
+          "text": "Is dit paspoort nog ___?",
+          "hint": "дійсний",
+          "accepted": [
+            [
+              "geldig"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn paspoort is ___.",
+          "hint": "протермінований",
+          "accepted": [
+            [
+              "verlopen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb een ___ voor jou.",
+          "hint": "лист",
+          "accepted": [
+            [
+              "brief"
+            ]
+          ]
+        },
+        {
+          "text": "Ik koop een ___ bij het postkantoor.",
+          "hint": "поштова марка",
+          "accepted": [
+            [
+              "postzegel"
+            ]
+          ]
+        },
+        {
+          "text": "Veel ___ wachten bij het loket.",
+          "hint": "люди",
+          "accepted": [
+            [
+              "mensen"
+            ]
+          ]
+        },
+        {
+          "text": "Wie moet dit document ___?",
+          "hint": "підписати",
+          "accepted": [
+            [
+              "tekenen"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ het pakket morgen.",
+          "hint": "надсилаємо",
+          "accepted": [
+            [
+              "versturen"
+            ]
+          ]
+        },
+        {
+          "text": "Heb jij al een ___?",
+          "hint": "БСН",
+          "accepted": [
+            [
+              "BSN"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik vul het formulier in.",
+          "cue": "-> питання",
+          "accepted": [
+            "Vul jij het formulier in?",
+            "Vul je het formulier in?"
+          ]
+        },
+        {
+          "prompt": "Ik teken het document.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik teken het document niet."
+          ]
+        },
+        {
+          "prompt": "Zij verstuurt een brief.",
+          "cue": "-> заміни zij на wij",
+          "accepted": [
+            "Wij versturen een brief.",
+            "We versturen een brief."
+          ]
+        },
+        {
+          "prompt": "Hij ontvangt een pakket.",
+          "cue": "-> питання",
+          "accepted": [
+            "Ontvangt hij een pakket?"
+          ]
+        },
+        {
+          "prompt": "Dit paspoort is geldig.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Dit paspoort is niet geldig."
+          ]
+        },
+        {
+          "prompt": "Ik heb een BSN.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik heb geen BSN."
+          ]
+        },
+        {
+          "prompt": "De gemeente is groot.",
+          "cue": "-> множина: De ... zijn groot.",
+          "accepted": [
+            "De gemeenten zijn groot."
+          ]
+        },
+        {
+          "prompt": "Ik ga naar het postkantoor.",
+          "cue": "-> почни з Morgen",
+          "accepted": [
+            "Morgen ga ik naar het postkantoor."
+          ]
+        },
+        {
+          "prompt": "Jullie wachten bij het loket.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wachten jullie bij het loket?"
+          ]
+        },
+        {
+          "prompt": "Mijn document is verlopen.",
+          "cue": "-> множина: Mijn documenten ... verlopen.",
+          "accepted": [
+            "Mijn documenten zijn verlopen."
+          ]
+        },
+        {
+          "prompt": "Ik heb een verblijfsvergunning.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik heb geen verblijfsvergunning."
+          ]
+        },
+        {
+          "prompt": "De mens leert veel.",
+          "cue": "-> множина: De mensen ... veel.",
+          "accepted": [
+            "De mensen leren veel."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ het formulier in.",
+          "cue": "invullen",
+          "accepted": [
+            "vul"
+          ]
+        },
+        {
+          "text": "Hij ___ het formulier in.",
+          "cue": "invullen",
+          "accepted": [
+            "vult"
+          ]
+        },
+        {
+          "text": "Wij ___ het document.",
+          "cue": "tekenen",
+          "accepted": [
+            "tekenen"
+          ]
+        },
+        {
+          "text": "Zij ___ het document.",
+          "cue": "tekenen",
+          "accepted": [
+            "tekent"
+          ]
+        },
+        {
+          "text": "Ik ___ mijn paspoort.",
+          "cue": "kopiëren",
+          "accepted": [
+            "kopieer"
+          ]
+        },
+        {
+          "text": "Hij ___ het document.",
+          "cue": "kopiëren",
+          "accepted": [
+            "kopieert"
+          ]
+        },
+        {
+          "text": "Wij ___ elke week een brief.",
+          "cue": "versturen",
+          "accepted": [
+            "versturen"
+          ]
+        },
+        {
+          "text": "Ik ___ het pakket morgen.",
+          "cue": "versturen",
+          "accepted": [
+            "verstuur"
+          ]
+        },
+        {
+          "text": "Hij ___ een brief.",
+          "cue": "ontvangen",
+          "accepted": [
+            "ontvangt"
+          ]
+        },
+        {
+          "text": "Wij ___ veel post.",
+          "cue": "ontvangen",
+          "accepted": [
+            "ontvangen"
+          ]
+        },
+        {
+          "text": "___ jij het formulier in?",
+          "cue": "invullen",
+          "accepted": [
+            "Vul",
+            "vul"
+          ]
+        },
+        {
+          "text": "___ u het document?",
+          "cue": "tekenen",
+          "accepted": [
+            "Tekent",
+            "tekent"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "мерія (будівля)",
+          "answer": "het gemeentehuis"
+        },
+        {
+          "prompt": "паспорт",
+          "answer": "het paspoort"
+        },
+        {
+          "prompt": "формуляр, бланк",
+          "answer": "het formulier"
+        },
+        {
+          "prompt": "підпис",
+          "answer": "de handtekening"
+        },
+        {
+          "prompt": "документ",
+          "answer": "het document"
+        },
+        {
+          "prompt": "копія",
+          "answer": "de kopie"
+        },
+        {
+          "prompt": "лист",
+          "answer": "de brief"
+        },
+        {
+          "prompt": "конверт",
+          "answer": "de envelop"
+        },
+        {
+          "prompt": "поштова марка",
+          "answer": "de postzegel"
+        },
+        {
+          "prompt": "поштова скринька",
+          "answer": "de brievenbus"
+        }
+      ],
+      "extra": [
+        "het pakket",
+        "de mens"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
