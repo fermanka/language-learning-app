@@ -314,9 +314,15 @@
           "ua": "вони",
           "form": "speelden",
           "audio": "zij-speelden.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het (tegenwoordige tijd)",
+          "ua": "він / вона / воно (зараз, не в минулому)",
+          "form": "speelt",
+          "audio": "hij-speelt-nu.mp3"
         }
       ],
-      "explain_ua": "(De kinderen spelen in het park = діти граються в парку; Ik speelde in de tuin = я гралася в саду). Таблиця показує минулий час; теперішній: ik speel, jij speelt, hij speelt, wij spelen. Spelen це «грати»: діти граються, люди грають у гру. Основа speel: ee лишається подвоєним, як у leerde. Літера l перед -en не входить до 't kofschip, тож -de: speelde, speelden. Sp це [sp]; ee довге [eː]: приблизно «спел-де»"
+      "explain_ua": "(De kinderen spelen in het park = діти граються в парку; Ik speelde in de tuin = я гралася в саду). Таблиця показує минулий час; теперішній: ik speel, jij speelt, hij speelt, wij spelen (третя особа однини speelt додана окремим рядком вище, бо саме вона знадобилась як приклад в іншому уроці). Spelen це «грати»: діти граються, люди грають у гру. Основа speel: ee лишається подвоєним, як у leerde. Літера l перед -en не входить до 't kofschip, тож -de: speelde, speelden. Sp це [sp]; ee довге [eː]: приблизно «спел-де»"
     },
     {
       "id": "nl-8fe2a81c",

@@ -1,0 +1,1181 @@
+{
+  "id": "nl-les-41",
+  "lang": "nl",
+  "order": 41,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-75058e44",
+      "type": "function",
+      "lemma": "jouw",
+      "ua": "твій, твоя, твоє, твої (наголошена форма)",
+      "audio": "jouw.mp3",
+      "explain_ua": "(Is dit jouw fiets? = це твій велосипед?). Jouw це присвійне слово до jij/je, як mijn до ik (Les 3). Форма не змінюється (jouw fiets, jouw huis, jouw boeken -- завжди jouw). Наголошена форма; ненаголошена -- je (наступна картка). Ui це [œy], як у huis (Les 1); наголос на єдиному складі: JOUW",
+      "check": "Наголос і вимова jouw з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-d60d3031",
+      "type": "function",
+      "lemma": "uw",
+      "ua": "Ваш, Ваша, Ваше, Ваші (ввічливо, однина й множина)",
+      "audio": "uw.mp3",
+      "explain_ua": "(Wat is uw hobby? = який Ваш хобі?). Uw це присвійне слово до u (Les 7): ввічливе «Ваш», як до однієї людини, так і до кількох. Форма не змінюється. Схоже звучанням на u; наголос на єдиному складі: UW [y]",
+      "check": "Вимову uw [yʋ] з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-7ea5c53c",
+      "type": "function",
+      "lemma": "ons / onze",
+      "ua": "наш, наша, наше, наші",
+      "audio": "ons-onze.mp3",
+      "audio_text": "ons / onze",
+      "dictation": false,
+      "explain_ua": "(Ons huis is klein = наш будинок маленький; Onze tuin is groot = наш сад великий). Ons і onze це одне слово в двох формах -- точно за тим самим правилом, що elk/elke (Les 7), vorige/vorig (Les 26), volgende/volgend (Les 38): перед het-словом в однині -- ons (ons huis, ons boek), перед de-словом і перед будь-яким множинним іменником -- onze (onze tuin, onze kinderen, onze huizen). O коротка [ɔ], як у ons (Les 36, об'єктна форма -- те саме слово, інша робота)",
+      "check": "Форма ons/onze за зразком elk/elke/vorige/vorig з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-a0b1e278",
+      "type": "noun",
+      "article": "de",
+      "lemma": "hobby",
+      "plural": [
+        "hobby's"
+      ],
+      "ua": "хобі",
+      "audio": "de-hobby.mp3",
+      "explain_ua": "(Mijn hobby is fotograferen = моє хобі -- фотографія). Схоже на «хобі»: підказка для пам'яті. Множина hobby's: слово на -y (як voiced у vaгливих англійських запозиченнях) бере апостроф-s, як auto's, taxi's (Les 6), baby's (Les 29). Наголос на першому складі: HOB-by",
+      "check": "Наголос HOB-by з власних знань; множину hobby's перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-f3a78043",
+      "type": "function",
+      "lemma": "de vrije tijd",
+      "ua": "вільний час",
+      "audio": "de-vrije-tijd.mp3",
+      "dictation": false,
+      "explain_ua": "(In mijn vrije tijd fotografeer ik = у вільний час я фотографую). Vrije tijd це «вільний час» -- вчи як цілий вираз, разом з tijd (Les 3). Vrij саме по собі («вільний») окремо цього уроку не вчимо. Наголос на другому слові: vrije TIJD",
+      "check": "Що vrije tijd вчиться як цілий вираз без розбору vrij окремо, моє рішення для цього уроку."
+    },
+    {
+      "id": "nl-b252731c",
+      "type": "verb",
+      "lemma": "sporten",
+      "ua": "займатися спортом",
+      "audio": "sporten.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "sport",
+          "audio": "ik-sport.mp3"
+        }
+      ],
+      "explain_ua": "(Ik sport elke dag = я щодня займаюся спортом). Sporten це загальне слово для будь-якого спорту (на відміну від voetballen -- конкретно футбол, нижче). Основа sport вже закінчується на -t, тому jij/u/hij без другого -t: sport, як wacht (Les 9), eet (Les 7). Схоже на «спорт»: підказка для пам'яті",
+      "check": "Що основа sport не подвоює -t, з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-ecb7c5e7",
+      "type": "noun",
+      "article": "de",
+      "lemma": "sport",
+      "plural": [
+        "sporten"
+      ],
+      "ua": "спорт (вид спорту)",
+      "audio": "de-sport.mp3",
+      "explain_ua": "(Wij houden van sport = ми любимо спорт). Іменник, окремо від дієслова sporten (вище) -- те саме слово, різна робота, як de post/post (Les 39). Множина sporten (кілька видів спорту). Схоже на «спорт»: підказка для пам'яті",
+      "check": "Множину sporten з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-89265b12",
+      "type": "verb",
+      "lemma": "wandelen",
+      "ua": "гуляти пішки, прогулюватися",
+      "audio": "wandelen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "wandel",
+          "audio": "ik-wandel.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "wandelen",
+          "audio": "wij-wandelen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik wandel elke ochtend = я щоранку гуляю пішки). Wandelen -- гуляти для задоволення, не просто lopen (Les 5) «іти пішки, кудись прямувати». Основа wandel, регулярне -t для jij/u/hij (не в цій таблиці). Наголос на першому складі: WAN-de-len",
+      "check": "Наголос WAN-de-len з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-5dd9db02",
+      "type": "noun",
+      "article": "de",
+      "lemma": "wandeling",
+      "plural": [
+        "wandelingen"
+      ],
+      "ua": "прогулянка",
+      "audio": "de-wandeling.mp3",
+      "explain_ua": "(Ik maak een wandeling = я роблю прогулянку). Вживається з maken (Les 20): een wandeling maken, як een afspraak maken (Les 37). Множина wandelingen. Наголос на першому складі: WAN-de-ling",
+      "check": "Наголос і множину wandelingen з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-e5c348bc",
+      "type": "verb",
+      "lemma": "dansen",
+      "ua": "танцювати",
+      "audio": "dansen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "dans",
+          "audio": "ik-dans.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "danst",
+          "audio": "hij-danst.mp3"
+        }
+      ],
+      "explain_ua": "(Ik dans graag = я люблю танцювати; Zij danst elke week = вона щотижня танцює). Регулярне дієслово, основа dans, звичайне +t для jij/u/hij. Схоже на «танцювати»/англійське dance: підказка для пам'яті. Наголос на єдиному складі: DANS",
+      "check": "Наголос з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-1e6f2676",
+      "type": "verb",
+      "lemma": "zingen",
+      "ua": "співати",
+      "audio": "zingen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "zingt",
+          "audio": "hij-zingt.mp3"
+        }
+      ],
+      "explain_ua": "(Zij zingt graag = вона любить співати). Регулярне в теперішньому часі (минулий час неправильний -- zong -- не вчимо). Основа zing, звичайне +t для jij/u/hij: zingt. Ng це один носовий звук [ŋ], як у tong (Les 30)",
+      "check": "Що минулий час zong неправильний, з власних знань, окремо не перевірено (не вчимо цього уроку)."
+    },
+    {
+      "id": "nl-b433fcc3",
+      "type": "verb",
+      "lemma": "schilderen",
+      "ua": "малювати фарбами (картину)",
+      "audio": "schilderen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "schildert",
+          "audio": "hij-schildert.mp3"
+        }
+      ],
+      "explain_ua": "(Hij schildert graag = він любить малювати фарбами). Не плутай з tekenen (Les 39) -- tekenen це малювати чи підписувати (олівцем, ручкою), schilderen конкретно фарбами, на полотні. Основа schilder вже закінчується на -r, звичайне +t: schildert. Іменник до нього -- het schilderij (наступна картка)",
+      "check": "Розмежування tekenen/schilderen (олівець проти фарби) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-fd596614",
+      "type": "noun",
+      "article": "het",
+      "lemma": "schilderij",
+      "plural": [
+        "schilderijen"
+      ],
+      "ua": "картина (витвір мистецтва)",
+      "audio": "het-schilderij.mp3",
+      "explain_ua": "(Dit schilderij is mooi = ця картина гарна). Від schilderen (вище). Het-слово (не de). Множина schilderijen. Ij це [ɛi], як у mijn (Les 1); наголос на останньому складі: schil-de-RIJ",
+      "check": "Наголос schil-de-RIJ і множину schilderijen з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-322b2531",
+      "type": "verb",
+      "lemma": "fotograferen",
+      "ua": "фотографувати",
+      "audio": "fotograferen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "fotografeert",
+          "audio": "hij-fotografeert.mp3"
+        }
+      ],
+      "explain_ua": "(Hij fotografeert graag = він любить фотографувати). Регулярне дієслово на -eren, як betalen-родина (Les 10), тільки з подовженою основою: fotografeer- (тут ee вже довге саме по собі, трема не потрібна, бо немає сусідніх i+e, як у kopiëren, Les 39). Схоже на «фотографувати»: підказка для пам'яті",
+      "check": "Форму fotografeert з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-764ed8bc",
+      "type": "noun",
+      "article": "de",
+      "lemma": "camera",
+      "plural": [
+        "camera's"
+      ],
+      "ua": "фотоапарат, камера",
+      "audio": "de-camera.mp3",
+      "explain_ua": "(Ik heb een nieuwe camera = у мене новий фотоапарат). Схоже на «камера»: підказка для пам'яті. Множина camera's: слово на голосну бере апостроф-s, як auto's (Les 6). C тут це [k]. Наголос на першому складі: CA-me-ra",
+      "check": "Наголос CA-me-ra з власних знань; множину перевірено (той самий тип, що hobby's)."
+    },
+    {
+      "id": "nl-2e7c0c46",
+      "type": "noun",
+      "article": "het",
+      "lemma": "instrument",
+      "plural": [
+        "instrumenten"
+      ],
+      "ua": "музичний інструмент",
+      "audio": "het-instrument.mp3",
+      "explain_ua": "(Speel jij een instrument? = ти граєш на якомусь інструменті?). Схоже на «інструмент»: підказка для пам'яті. Множина instrumenten, як document - documenten (Les 39). Наголос на останньому складі: in-stru-MENT",
+      "check": "Наголос in-stru-MENT з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-5b555499",
+      "type": "noun",
+      "article": "de",
+      "lemma": "gitaar",
+      "plural": [
+        "gitaren"
+      ],
+      "ua": "гітара",
+      "audio": "de-gitaar.mp3",
+      "explain_ua": "(Mijn broer speelt gitaar = мій брат грає на гітарі). Speelt + gitaar без артикля й без op -- гола назва заняття, як boodschappen doen (Les 20). Множина gitaren: aa у відкритому складі стає a, як banaan - bananen (Les 10). Наголос на другому складі: gi-TAAR",
+      "check": "Наголос gi-TAAR з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-d05c5d84",
+      "type": "noun",
+      "article": "de",
+      "lemma": "piano",
+      "plural": [
+        "piano's"
+      ],
+      "ua": "піаніно",
+      "audio": "de-piano.mp3",
+      "explain_ua": "(Speelt uw dochter piano? = чи Ваша донька грає на піаніно?). Схоже на «піаніно»: підказка для пам'яті. Множина piano's, як camera's, hobby's (та сама група слів на голосну). Наголос на другому складі: pi-A-no",
+      "check": "Наголос pi-A-no з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-5d7623a4",
+      "type": "verb",
+      "lemma": "voetballen",
+      "ua": "грати у футбол",
+      "audio": "voetballen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "voetbalt",
+          "audio": "hij-voetbalt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "voetballen",
+          "audio": "wij-voetballen.mp3"
+        }
+      ],
+      "explain_ua": "(Mijn vader voetbalt graag = мій тато любить грати у футбол; Wij voetballen elke week = ми граємо у футбол щотижня). Складається з voet (Les 1) і bal (окремо не вчимо): «м'ячоножити», підказка для пам'яті, не окреме дієслово з відокремлюваним префіксом -- voetballen НЕ розділяється, це просто дієслово з двох частин, зрощене в одне слово. Основа voetbal подвоює приголосну, коли додає -en (voetbal-len), а сама лишається voetbal у формі jij/u/hij +t: voetbalt",
+      "check": "Що voetballen НЕ відокремлюване (на відміну від opbellen), з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-418d12ec",
+      "type": "noun",
+      "article": "de",
+      "lemma": "club",
+      "plural": [
+        "clubs"
+      ],
+      "ua": "клуб (спортивний, гурток)",
+      "audio": "de-club.mp3",
+      "explain_ua": "(Ik ben lid van een club = я член клубу). Схоже на «клуб»: підказка для пам'яті. Множина clubs -- англійське запозичення, просто -s, без апострофа (бо закінчується на приголосну, не голосну). Наголос на єдиному складі: CLUB",
+      "check": "Множину clubs (без апострофа) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-99261280",
+      "type": "function",
+      "lemma": "lid zijn van",
+      "ua": "бути членом (клубу, гуртка)",
+      "audio": "lid-zijn-van.mp3",
+      "dictation": false,
+      "explain_ua": "(Ik ben lid van een club = я член клубу; Zij is geen lid van de club = вона не член клубу). Цілий вираз: lid (окремо не вчимо) + zijn + van. Заперечення через geen (Les 2), бо lid тут як іменник без артикля. Вчи цілим, як een afspraak maken (Les 37)",
+      "check": "Що заперечення тут geen lid, а не niet lid, з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-b4022f4a",
+      "type": "verb",
+      "lemma": "breien",
+      "ua": "в'язати (шкарпетки, светр)",
+      "audio": "breien.mp3",
+      "paradigm": [
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "breit",
+          "audio": "hij-breit.mp3"
+        }
+      ],
+      "explain_ua": "(Mijn oma breit elke avond = моя бабуся щовечора в'яже). Регулярне дієслово, основа brei, звичайне +t: breit. Ei це [ɛi], як у mijn (Les 1)",
+      "check": "Форму breit перевірено пошуком (woorden.org)."
+    },
+    {
+      "id": "nl-071b5aea",
+      "type": "verb",
+      "lemma": "tuinieren",
+      "ua": "займатися садівництвом",
+      "audio": "tuinieren.mp3",
+      "paradigm": [
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "tuinieren",
+          "audio": "wij-tuinieren.mp3"
+        }
+      ],
+      "explain_ua": "(Mijn moeder houdt van tuinieren = моя мама любить займатися садівництвом). Від de tuin (Les 24). Регулярне дієслово. У формі wij форма tuinieren збігається з інфінітивом написанням -- звична річ для дієслів на -en. Наголос на другому складі: tuin-IE-ren",
+      "check": "Наголос tuin-IE-ren з власних знань; форму ik tuinier перевірено пошуком (woorden.org)."
+    },
+    {
+      "id": "nl-298d9998",
+      "type": "noun",
+      "article": "de",
+      "lemma": "wedstrijd",
+      "plural": [
+        "wedstrijden"
+      ],
+      "ua": "змагання, матч",
+      "audio": "de-wedstrijd.mp3",
+      "explain_ua": "(Wie wint de wedstrijd? = хто виграє змагання?). Складається з wed- (окремо не вчимо) і strijd «боротьба» (окремо не вчимо): вчи цілим словом. Множина wedstrijden, як tijd - tijden (Les 3). Ij це [ɛi], як у mijn; наголос на другому складі: wed-STRIJD",
+      "check": "Наголос wed-STRIJD і множину wedstrijden з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-033983bd",
+      "type": "verb",
+      "lemma": "winnen",
+      "ua": "вигравати",
+      "audio": "winnen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "win",
+          "audio": "ik-win.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "wint",
+          "audio": "hij-wint.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "winnen",
+          "audio": "wij-winnen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik win de wedstrijd = я виграю змагання). Закритоскладове подвоєння приголосної, як zwemmen (Les 7): winnen (подвійна n) в інфінітиві, основа win (одна n) для ik. Протилежність -- verliezen (наступна картка)",
+      "check": "Форми з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-47554b38",
+      "type": "verb",
+      "lemma": "verliezen",
+      "ua": "програвати",
+      "audio": "verliezen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "verlies",
+          "audio": "ik-verlies.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "verliest",
+          "audio": "hij-verliest.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "verliezen",
+          "audio": "wij-verliezen.mp3"
+        }
+      ],
+      "explain_ua": "(Hij verliest vaak = він часто програє). Z на кінці основи стає s, як reizen (Les 33), verhuizen (Les 38): ik verlies, hij verliest, але wij verliezen. Протилежність -- winnen (вище)",
+      "check": "Форми з власних знань, окремо не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Alle bezittelijke voornaamwoorden: het complete overzicht",
+      "summary_ua": "Присвійні слова вже частково відомі: mijn (Les 3), haar, zijn, hun (Les 9). Цей урок додає останні три: jouw, uw, ons/onze -- і завершує список словом jullie, яке вже відоме як займенник (Les 10) і працює як присвійне без жодних змін.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Нові слова: jouw, uw, ons/onze",
+          "when_ua": "Три нові присвійні слова цього уроку.",
+          "examples": [
+            {
+              "nl": "Is dit jouw fiets?",
+              "ua": "Це твій велосипед?",
+              "audio": "les41-rule-01.mp3"
+            },
+            {
+              "nl": "Wat is uw hobby?",
+              "ua": "Який Ваш хобі?",
+              "audio": "les41-rule-02.mp3"
+            },
+            {
+              "nl": "Onze auto is groot.",
+              "ua": "Наша машина велика.",
+              "audio": "les41-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Ons/onze має дві форми -- окрема картка нижче."
+        },
+        {
+          "form": "Вже відоме слово, нова робота: jullie",
+          "when_ua": "Jullie (Les 10) -- те саме слово для займенника «ви (мн.)» і для присвійного «ваш (мн.)». Форма не змінюється в жодній ролі.",
+          "examples": [
+            {
+              "nl": "Wat is jullie hobby?",
+              "ua": "Який ваш (мн.) хобі?",
+              "audio": "les41-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з англійською, де your так само служить і однині, і множині -- тут схожа економія, лише на множину."
+        }
+      ],
+      "points_ua": [
+        "Повний список: ik-mijn, jij-jouw/je, u-uw, hij-zijn, zij-haar, wij-ons/onze, jullie-jullie, zij(мн.)-hun.",
+        "Jullie не змінюється між займенником і присвійним словом."
+      ]
+    },
+    {
+      "title_ua": "Jouw en je: benadrukt en onbenadrukt",
+      "summary_ua": "Jouw -- наголошена, повна форма; je -- ненаголошена, розмовна (те саме слово, що вже відомий займенник jij/je, Les 3). Та сама пара, що mij/me (Les 36): обидві форми правильні, jouw звучить трохи офіційніше чи контрастніше.",
+      "see": "Les 36",
+      "compare": [
+        {
+          "form": "jouw / je: обидві правильні",
+          "when_ua": "У щоденній мові частіше je; jouw -- коли хочеш підкреслити чи протиставити.",
+          "examples": [
+            {
+              "nl": "Is dit jouw fiets of mijn fiets?",
+              "ua": "Це твій велосипед чи мій?",
+              "audio": "les41-rule-05.mp3"
+            },
+            {
+              "nl": "Waar is je fiets?",
+              "ua": "Де твій велосипед?",
+              "audio": "les41-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Не окрема тема для великого тренування -- просто знай, що обидві форми існують, як mij/me."
+        }
+      ],
+      "points_ua": [
+        "Jouw = наголошено/контрастно, je = звичайно, розмовно.",
+        "Те саме слово je, що вже відомо як jij/je (Les 3)."
+      ]
+    },
+    {
+      "title_ua": "Ons of onze: dezelfde regel als elk/elke, vorige/vorig, volgende/volgend",
+      "summary_ua": "Ons/onze не нове правило -- це вже відома схема (het-слово в однині -> коротка форма; de-слово чи будь-яка множина -> форма на -e), застосована до нового слова. Порівняй: elk/elke (Les 7), vorige/vorig (Les 26), volgende/volgend (Les 38).",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "onze: de-слово чи множина",
+          "when_ua": "Перед de-словом (однина) і перед БУДЬ-ЯКИМ іменником у множині (навіть het-словом).",
+          "examples": [
+            {
+              "nl": "Onze tuin is groot.",
+              "ua": "Наш сад великий.",
+              "audio": "les41-rule-07.mp3"
+            },
+            {
+              "nl": "Onze kinderen sporten graag.",
+              "ua": "Наші діти люблять займатися спортом.",
+              "audio": "les41-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Onze kinderen: kind -- het-слово в однині, але kinderen -- множина, тому onze, не ons."
+        },
+        {
+          "form": "ons: het-слово в однині",
+          "when_ua": "Тільки перед het-словом в однині.",
+          "examples": [
+            {
+              "nl": "Ons huis is klein.",
+              "ua": "Наш будинок маленький.",
+              "audio": "les41-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Той самий тест, що для elk/elke: het-слово, однина -> коротка форма (ons, elk); усе інше -> форма на -e (onze, elke)."
+        }
+      ],
+      "points_ua": [
+        "Onze: de-слово (будь-яке число) або будь-яка множина.",
+        "Ons: лише het-слово в однині -- як elk перед het uur, vorig перед het jaar."
+      ]
+    },
+    {
+      "title_ua": "Hobby's: kaal werkwoord, activiteit als object, houden van + infinitief",
+      "summary_ua": "Про хобі говорять трьома способами: голе дієслово з graag (Ik dans graag), дієслово + гола назва заняття без артикля (spelen + gitaar, як boodschappen doen, Les 20), або houden van + інфінітив, де інфінітив діє як назва заняття -- майже як українське «-ння» (танцювання, садівництво).",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Голе дієслово + graag",
+          "when_ua": "Найпростіший спосіб: підмет + дієслово + graag (Les 17).",
+          "examples": [
+            {
+              "nl": "Ik dans graag.",
+              "ua": "Я люблю танцювати.",
+              "audio": "les41-rule-10.mp3"
+            },
+            {
+              "nl": "Zij zingt graag.",
+              "ua": "Вона любить співати.",
+              "audio": "les41-rule-11.mp3"
+            },
+            {
+              "nl": "Hij schildert graag.",
+              "ua": "Він любить малювати.",
+              "audio": "les41-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Graag стоїть одразу після дієслова (Les 17), як завжди."
+        },
+        {
+          "form": "Дієслово + гола назва заняття",
+          "when_ua": "Instrument чи спорт як об'єкт, без артикля -- назва заняття, не конкретна річ.",
+          "examples": [
+            {
+              "nl": "Mijn broer speelt graag gitaar.",
+              "ua": "Мій брат любить грати на гітарі.",
+              "audio": "les41-rule-13.mp3"
+            },
+            {
+              "nl": "Wij voetballen elke week.",
+              "ua": "Ми граємо у футбол щотижня.",
+              "audio": "les41-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Speelt gitaar: без артикля, без op -- те саме, що boodschappen doen (Les 20). Voetballen -- уже ціле дієслово, без окремого об'єкта."
+        },
+        {
+          "form": "Houden van + infinitief",
+          "when_ua": "Інфінітив після houden van (Les 9) діє як назва заняття -- ціле слово, як іменник середнього роду.",
+          "examples": [
+            {
+              "nl": "Ik hou van tuinieren.",
+              "ua": "Я люблю займатися садівництвом.",
+              "audio": "les41-rule-15.mp3"
+            },
+            {
+              "nl": "Zij houdt van dansen.",
+              "ua": "Вона любить танцювати.",
+              "audio": "les41-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Houden van уже відоме (Les 9): тут просто новий тип об'єкта -- не іменник, а інфінітив, який називає заняття цілком, як українське «садівництво» від «садити»."
+        }
+      ],
+      "points_ua": [
+        "Дієслово + graag: найпростіший спосіб сказати про хобі.",
+        "Houden van + інфінітив: інфінітив працює як назва заняття."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Is dit jouw fiets?",
+      "ua": "Це твій велосипед?",
+      "audio": "les41-example-01.mp3"
+    },
+    {
+      "nl": "Dit is mijn fiets niet.",
+      "ua": "Це не мій велосипед.",
+      "audio": "les41-example-02.mp3"
+    },
+    {
+      "nl": "Wat is uw hobby?",
+      "ua": "Який Ваш хобі?",
+      "audio": "les41-example-03.mp3"
+    },
+    {
+      "nl": "Mijn hobby is fotograferen.",
+      "ua": "Моє хобі -- фотографія.",
+      "audio": "les41-example-04.mp3"
+    },
+    {
+      "nl": "Onze tuin is groot.",
+      "ua": "Наш сад великий.",
+      "audio": "les41-example-05.mp3"
+    },
+    {
+      "nl": "Ons huis heeft een grote tuin.",
+      "ua": "У нашого будинку великий сад.",
+      "audio": "les41-example-06.mp3"
+    },
+    {
+      "nl": "Wij houden van sport.",
+      "ua": "Ми любимо спорт.",
+      "audio": "les41-example-07.mp3"
+    },
+    {
+      "nl": "Zij speelt graag gitaar.",
+      "ua": "Вона любить грати на гітарі.",
+      "audio": "les41-example-08.mp3"
+    },
+    {
+      "nl": "Zijn hobby is voetballen.",
+      "ua": "Його хобі -- футбол.",
+      "audio": "les41-example-09.mp3"
+    },
+    {
+      "nl": "Jullie hobby is dansen.",
+      "ua": "Ваше (мн.) хобі -- танці.",
+      "audio": "les41-example-10.mp3"
+    },
+    {
+      "nl": "Ik win de wedstrijd.",
+      "ua": "Я виграю змагання.",
+      "audio": "les41-example-11.mp3"
+    },
+    {
+      "nl": "Hij verliest vaak.",
+      "ua": "Він часто програє.",
+      "audio": "les41-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Onze hobby's",
+    "title_ua": "Наші хобі",
+    "highlight": [
+      "nl-75058e44",
+      "nl-a0b1e278",
+      "nl-5b555499",
+      "nl-298d9998"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn familie houdt van hobby's.",
+        "ua": "Моя родина любить хобі.",
+        "audio": "les41-reading-01.mp3"
+      },
+      {
+        "nl": "Mijn vader voetbalt graag.",
+        "ua": "Мій тато любить грати у футбол.",
+        "audio": "les41-reading-02.mp3"
+      },
+      {
+        "nl": "Mijn moeder houdt van tuinieren.",
+        "ua": "Моя мама любить займатися садівництвом.",
+        "audio": "les41-reading-03.mp3"
+      },
+      {
+        "nl": "Onze tuin is mooi.",
+        "ua": "Наш сад гарний.",
+        "audio": "les41-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn broer speelt gitaar.",
+        "ua": "Мій брат грає на гітарі.",
+        "audio": "les41-reading-05.mp3"
+      },
+      {
+        "nl": "Zijn hobby is muziek.",
+        "ua": "Його хобі -- музика.",
+        "audio": "les41-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn zus houdt van dansen.",
+        "ua": "Моя сестра любить танцювати.",
+        "audio": "les41-reading-07.mp3"
+      },
+      {
+        "nl": "Zij wint vaak een wedstrijd.",
+        "ua": "Вона часто виграє змагання.",
+        "audio": "les41-reading-08.mp3"
+      },
+      {
+        "nl": "Wat is jouw hobby?",
+        "ua": "Яке твоє хобі?",
+        "audio": "les41-reading-09.mp3"
+      },
+      {
+        "nl": "Mijn hobby is fotograferen, en ik hou van schilderen.",
+        "ua": "Моє хобі -- фотографія, і я люблю малювати.",
+        "audio": "les41-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Це твоя гітара?",
+          "accepted": [
+            "Is dit jouw gitaar?"
+          ]
+        },
+        {
+          "prompt": "Це наш клуб.",
+          "accepted": [
+            "Dit is onze club."
+          ]
+        },
+        {
+          "prompt": "Наша донька танцює щотижня.",
+          "accepted": [
+            "Onze dochter danst elke week."
+          ]
+        },
+        {
+          "prompt": "Чи Ваша донька грає на піаніно?",
+          "accepted": [
+            "Speelt uw dochter piano?"
+          ]
+        },
+        {
+          "prompt": "Яке ваше (мн.) хобі?",
+          "accepted": [
+            "Wat zijn jullie hobby's?"
+          ]
+        },
+        {
+          "prompt": "Мій син любить в'язати.",
+          "accepted": [
+            "Mijn zoon houdt van breien."
+          ]
+        },
+        {
+          "prompt": "Наш будинок маленький, а їхній великий.",
+          "accepted": [
+            "Ons huis is klein, en hun huis is groot."
+          ]
+        },
+        {
+          "prompt": "Хто виграє змагання?",
+          "accepted": [
+            "Wie wint de wedstrijd?"
+          ]
+        },
+        {
+          "prompt": "Моя сестра часто програє.",
+          "accepted": [
+            "Mijn zus verliest vaak."
+          ]
+        },
+        {
+          "prompt": "Він любить малювати фарбами?",
+          "accepted": [
+            "Schildert hij graag?"
+          ]
+        },
+        {
+          "prompt": "Це не твій інструмент.",
+          "accepted": [
+            "Dit is jouw instrument niet."
+          ]
+        },
+        {
+          "prompt": "Ми завжди виграємо.",
+          "accepted": [
+            "Wij winnen altijd.",
+            "We winnen altijd."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "jouw",
+        "uw",
+        "onze",
+        "ons",
+        "hobby",
+        "wedstrijd",
+        "wint",
+        "verliest",
+        "dansen",
+        "gitaar",
+        "houdt",
+        "zingt"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Is dit ___ fiets?",
+          "hint": "твоя",
+          "accepted": [
+            [
+              "jouw"
+            ]
+          ]
+        },
+        {
+          "text": "Wat is ___ hobby?",
+          "hint": "Ваше (ввічливо)",
+          "accepted": [
+            [
+              "uw"
+            ]
+          ]
+        },
+        {
+          "text": "___ tuin is groot.",
+          "hint": "наш (de-слово)",
+          "accepted": [
+            [
+              "onze",
+              "Onze"
+            ]
+          ]
+        },
+        {
+          "text": "___ huis is klein.",
+          "hint": "наш (het-слово)",
+          "accepted": [
+            [
+              "ons",
+              "Ons"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn ___ is fotograferen.",
+          "hint": "хобі",
+          "accepted": [
+            [
+              "hobby"
+            ]
+          ]
+        },
+        {
+          "text": "Wie wint de ___?",
+          "hint": "змагання",
+          "accepted": [
+            [
+              "wedstrijd"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ de wedstrijd.",
+          "hint": "виграє",
+          "accepted": [
+            [
+              "wint"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ vaak.",
+          "hint": "програє",
+          "accepted": [
+            [
+              "verliest"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus houdt van ___.",
+          "hint": "танцювати",
+          "accepted": [
+            [
+              "dansen"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer speelt graag ___.",
+          "hint": "гітара",
+          "accepted": [
+            [
+              "gitaar"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ van tekenen.",
+          "hint": "любить (houden van)",
+          "accepted": [
+            [
+              "houdt"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ graag.",
+          "hint": "співає",
+          "accepted": [
+            [
+              "zingt"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Dit is mijn fiets.",
+          "cue": "-> заміни mijn на jouw",
+          "accepted": [
+            "Dit is jouw fiets."
+          ]
+        },
+        {
+          "prompt": "Dit is jouw hobby.",
+          "cue": "-> заміни jouw на uw",
+          "accepted": [
+            "Dit is uw hobby."
+          ]
+        },
+        {
+          "prompt": "Onze tuin is groot.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is onze tuin groot?"
+          ]
+        },
+        {
+          "prompt": "Ons huis is klein.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ons huis is niet klein."
+          ]
+        },
+        {
+          "prompt": "Ik dans graag.",
+          "cue": "-> заміни ik на zij",
+          "accepted": [
+            "Zij danst graag."
+          ]
+        },
+        {
+          "prompt": "Wij voetballen elke week.",
+          "cue": "-> питання",
+          "accepted": [
+            "Voetballen wij elke week?"
+          ]
+        },
+        {
+          "prompt": "Hij wint de wedstrijd.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij wint de wedstrijd niet."
+          ]
+        },
+        {
+          "prompt": "Zij houdt van dansen.",
+          "cue": "-> заміни zij на jullie",
+          "accepted": [
+            "Jullie houden van dansen."
+          ]
+        },
+        {
+          "prompt": "Mijn broer speelt gitaar.",
+          "cue": "-> множина: Mijn broers ... gitaar.",
+          "accepted": [
+            "Mijn broers spelen gitaar."
+          ]
+        },
+        {
+          "prompt": "Jouw hobby is mooi.",
+          "cue": "-> заміни jouw на onze",
+          "accepted": [
+            "Onze hobby is mooi."
+          ]
+        },
+        {
+          "prompt": "Ik verlies nooit.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Wij verliezen nooit."
+          ]
+        },
+        {
+          "prompt": "Uw dochter zingt graag.",
+          "cue": "-> питання",
+          "accepted": [
+            "Zingt uw dochter graag?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ graag.",
+          "cue": "dansen",
+          "accepted": [
+            "dans"
+          ]
+        },
+        {
+          "text": "Hij ___ elke dag.",
+          "cue": "zingen",
+          "accepted": [
+            "zingt"
+          ]
+        },
+        {
+          "text": "Wij ___ in de tuin.",
+          "cue": "tuinieren",
+          "accepted": [
+            "tuinieren"
+          ]
+        },
+        {
+          "text": "Zij ___ vaak.",
+          "cue": "winnen",
+          "accepted": [
+            "wint"
+          ]
+        },
+        {
+          "text": "Ik ___ nooit.",
+          "cue": "verliezen",
+          "accepted": [
+            "verlies"
+          ]
+        },
+        {
+          "text": "Jij ___ graag.",
+          "cue": "schilderen",
+          "accepted": [
+            "schildert"
+          ]
+        },
+        {
+          "text": "Wij ___ elke zondag.",
+          "cue": "voetballen",
+          "accepted": [
+            "voetballen"
+          ]
+        },
+        {
+          "text": "Mijn oma ___ elke avond.",
+          "cue": "breien",
+          "accepted": [
+            "breit"
+          ]
+        },
+        {
+          "text": "Ik ___ elke ochtend.",
+          "cue": "wandelen",
+          "accepted": [
+            "wandel"
+          ]
+        },
+        {
+          "text": "Hij ___ graag.",
+          "cue": "fotograferen",
+          "accepted": [
+            "fotografeert"
+          ]
+        },
+        {
+          "text": "Ik ___ vandaag niet.",
+          "cue": "sporten",
+          "accepted": [
+            "sport"
+          ]
+        },
+        {
+          "text": "Wij ___ in het park.",
+          "cue": "wandelen",
+          "accepted": [
+            "wandelen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "хобі",
+          "answer": "de hobby"
+        },
+        {
+          "prompt": "спорт (вид)",
+          "answer": "de sport"
+        },
+        {
+          "prompt": "прогулянка",
+          "answer": "de wandeling"
+        },
+        {
+          "prompt": "картина",
+          "answer": "het schilderij"
+        },
+        {
+          "prompt": "фотоапарат",
+          "answer": "de camera"
+        },
+        {
+          "prompt": "музичний інструмент",
+          "answer": "het instrument"
+        },
+        {
+          "prompt": "гітара",
+          "answer": "de gitaar"
+        },
+        {
+          "prompt": "піаніно",
+          "answer": "de piano"
+        },
+        {
+          "prompt": "клуб",
+          "answer": "de club"
+        },
+        {
+          "prompt": "змагання, матч",
+          "answer": "de wedstrijd"
+        }
+      ],
+      "extra": [
+        "de vrije tijd",
+        "lid zijn van"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb",
+        "function"
+      ]
+    }
+  ]
+}
