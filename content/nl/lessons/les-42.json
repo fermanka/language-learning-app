@@ -1,0 +1,696 @@
+{
+  "id": "nl-les-42",
+  "lang": "nl",
+  "order": 42,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-887249b0",
+      "type": "verb",
+      "lemma": "zeggen",
+      "ua": "говорити, сказати",
+      "audio": "zeggen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "zeg",
+          "audio": "ik-zeg.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "zegt",
+          "audio": "hij-zegt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "zeggen",
+          "audio": "wij-zeggen.mp3"
+        }
+      ],
+      "explain_ua": "(Hij zegt dat hij ziek is = він каже, що він хворий). Zeggen це «говорити, сказати» -- найприродніше дієслово, щоб ввести чиїсь слова через dat (наступна картка). Регулярне дієслово. Основа zeg, звичайне +t для jij/u/hij: zegt. Не плутай з spreken (Les 9) «розмовляти» (процес розмови) -- zeggen це передати конкретні слова",
+      "check": "Розмежування zeggen/spreken з власних знань, окремо не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Dat: aanwijzend (bekend) en сполучник (nieuw)",
+      "summary_ua": "Dat вже відоме як вказівне слово (Les 6: dit/deze/die/dat). Тепер dat отримує другу роботу: вводить підрядне речення після дієслів говоріння, думки, знання (weten, vinden, zeggen) -- і працює за тим самим правилом, що вже відоме з omdat (Les 40): дієслово в підрядному реченні йде в самий кінець.",
+      "see": "Les 40",
+      "compare": [
+        {
+          "form": "dat: сполучник (нове)",
+          "when_ua": "Після weten, vinden, zeggen -- dat вводить ціле речення, дієслово якого йде в кінець.",
+          "examples": [
+            {
+              "nl": "Ik weet dat hij moe is.",
+              "ua": "Я знаю, що він втомлений.",
+              "audio": "les42-rule-01.mp3"
+            },
+            {
+              "nl": "Wij vinden dat de wedstrijd leuk is.",
+              "ua": "Ми вважаємо, що змагання цікаве.",
+              "audio": "les42-rule-02.mp3"
+            },
+            {
+              "nl": "Zij zegt dat zij ziek is.",
+              "ua": "Вона каже, що вона хвора.",
+              "audio": "les42-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Той самий механізм, що omdat (Les 40): дієслово в підрядному реченні -- в кінці, відокремлюване дієслово ціле, модальне+інфінітив разом. Тут нове лише слово-тригер (dat) і дієслова, після яких воно з'являється."
+        },
+        {
+          "form": "dat: вказівне слово (вже відомо)",
+          "when_ua": "Коли після dat стоїть одразу іменник (не ціле речення) -- це вказівне слово, як die/deze (Les 6).",
+          "examples": [
+            {
+              "nl": "Dat huis is mooi.",
+              "ua": "Той будинок гарний.",
+              "audio": "les42-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Перевірка проста: після dat одразу іменник (dat huis) -- вказівне слово; після dat ціле речення з власним підметом і дієсловом (dat hij moe is) -- сполучник."
+        }
+      ],
+      "points_ua": [
+        "Dat + ціле речення (підмет + дієслово в кінці) = сполучник після weten/vinden/zeggen.",
+        "Dat + іменник = вказівне слово (Les 6), без зміни порядку слів."
+      ]
+    },
+    {
+      "title_ua": "Als: als kok (bekend) vs als het regent (nieuw)",
+      "summary_ua": "Als вже відоме як «як, у ролі» (Les 35: werken als kok). Тепер als отримує другу роботу: «якщо» -- вводить реальну, можливу умову. Дієслово в als-реченні йде в кінець, той самий механізм, що omdat і dat.",
+      "see": "Les 35",
+      "compare": [
+        {
+          "form": "als: як, у ролі (вже відомо)",
+          "when_ua": "Після als стоїть іменник ролі чи професії -- «як».",
+          "examples": [
+            {
+              "nl": "Ik werk als kok.",
+              "ua": "Я працюю кухарем.",
+              "audio": "les42-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Тут als не вводить ціле речення -- лише роль, іменник без артикля (Les 35)."
+        },
+        {
+          "form": "als: якщо (нове)",
+          "when_ua": "Після als стоїть ціле речення (підмет + дієслово в кінці) -- умова.",
+          "examples": [
+            {
+              "nl": "Ik sport, als ik tijd heb.",
+              "ua": "Я займаюся спортом, якщо в мене є час.",
+              "audio": "les42-rule-06.mp3"
+            },
+            {
+              "nl": "Wij blijven thuis, als het regent.",
+              "ua": "Ми лишаємося вдома, якщо йде дощ.",
+              "audio": "les42-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Перевірка та сама, що для dat: після als ціле речення з власним підметом -- це «якщо», не «як»."
+        }
+      ],
+      "points_ua": [
+        "Als + іменник ролі = як (Les 35): werken als kok.",
+        "Als + ціле речення (дієслово в кінці) = якщо (нове): als ik tijd heb."
+      ]
+    },
+    {
+      "title_ua": "Als-zin vooraan: de hoofdzin inverteert",
+      "summary_ua": "Коли весь als-блок (умова) стоїть першим, він займає позицію 1 в головному реченні -- так само, як одне слово (Nu, Morgen, Les 4/10). Тому головне речення інвертується: дієслово друге, підмет після нього. Це вже відомий механізм, застосований до цілого підрядного речення замість одного слова.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "als-zin позаду: без інверсії",
+          "when_ua": "Коли als-речення стоїть другим, головне речення лишається у звичайному порядку.",
+          "examples": [
+            {
+              "nl": "Ik ga naar de winkel, als ik tijd heb.",
+              "ua": "Я йду в магазин, якщо в мене є час.",
+              "audio": "les42-rule-08.mp3"
+            },
+            {
+              "nl": "Wij blijven thuis, als het regent.",
+              "ua": "Ми лишаємося вдома, якщо йде дощ.",
+              "audio": "les42-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Головне речення тут перше, звичайний порядок: підмет, потім дієслово."
+        },
+        {
+          "form": "als-zin vooraan: hoofdzin inverteert",
+          "when_ua": "Коли als-речення стоїть першим (займає позицію 1), головне речення інвертується: дієслово друге, підмет третій.",
+          "examples": [
+            {
+              "nl": "Als ik tijd heb, ga ik naar de winkel.",
+              "ua": "Якщо в мене є час, я йду в магазин.",
+              "audio": "les42-rule-10.mp3"
+            },
+            {
+              "nl": "Als het regent, blijven wij thuis.",
+              "ua": "Якщо йде дощ, ми лишаємося вдома.",
+              "audio": "les42-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з Nu sta ik op (Les 4): цілий als-блок працює як одне фронтоване слово -- займає позицію 1, тому дієслово головного речення йде другим, підмет третім."
+        }
+      ],
+      "points_ua": [
+        "Als-речення позаду -> головне речення у звичайному порядку.",
+        "Als-речення vooraan (позиція 1) -> головне речення інвертується, як після Nu чи Morgen."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik weet dat jij een hobby hebt.",
+      "ua": "Я знаю, що в тебе є хобі.",
+      "audio": "les42-example-01.mp3"
+    },
+    {
+      "nl": "Hij zegt dat hij morgen werkt.",
+      "ua": "Він каже, що завтра працює.",
+      "audio": "les42-example-02.mp3"
+    },
+    {
+      "nl": "Ik vind dat het weer goed is.",
+      "ua": "Я вважаю, що погода добра.",
+      "audio": "les42-example-03.mp3"
+    },
+    {
+      "nl": "Ik werk als leraar.",
+      "ua": "Я працюю вчителем.",
+      "audio": "les42-example-04.mp3"
+    },
+    {
+      "nl": "Als ik geld heb, koop ik een cadeau.",
+      "ua": "Якщо в мене є гроші, я купую подарунок.",
+      "audio": "les42-example-05.mp3"
+    },
+    {
+      "nl": "Ik ga naar de gemeente, als ik tijd heb.",
+      "ua": "Я йду до мерії, якщо в мене є час.",
+      "audio": "les42-example-06.mp3"
+    },
+    {
+      "nl": "Zij zegt dat zij een nieuwe fiets wil.",
+      "ua": "Вона каже, що хоче новий велосипед.",
+      "audio": "les42-example-07.mp3"
+    },
+    {
+      "nl": "Als hij ziek is, blijft hij thuis.",
+      "ua": "Якщо він хворий, він лишається вдома.",
+      "audio": "les42-example-08.mp3"
+    },
+    {
+      "nl": "Wij weten dat de winkel groot is.",
+      "ua": "Ми знаємо, що магазин великий.",
+      "audio": "les42-example-09.mp3"
+    },
+    {
+      "nl": "Ik vind dat hij een goede vader is.",
+      "ua": "Я вважаю, що він хороший батько.",
+      "audio": "les42-example-10.mp3"
+    },
+    {
+      "nl": "Als je niet werkt, heb je geen geld.",
+      "ua": "Якщо ти не працюєш, у тебе немає грошей.",
+      "audio": "les42-example-11.mp3"
+    },
+    {
+      "nl": "Wij weten dat de trein laat is.",
+      "ua": "Ми знаємо, що потяг запізнюється.",
+      "audio": "les42-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Als het mooi weer is",
+    "title_ua": "Якщо гарна погода",
+    "highlight": [],
+    "sentences": [
+      {
+        "nl": "Morgen is het mooi weer.",
+        "ua": "Завтра гарна погода.",
+        "audio": "les42-reading-01.mp3"
+      },
+      {
+        "nl": "Als het mooi weer is, ga ik wandelen.",
+        "ua": "Якщо гарна погода, я піду гуляти.",
+        "audio": "les42-reading-02.mp3"
+      },
+      {
+        "nl": "Ik weet dat ik graag buiten ben.",
+        "ua": "Я знаю, що люблю бути на вулиці.",
+        "audio": "les42-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn zus zegt dat zij ook wil komen.",
+        "ua": "Моя сестра каже, що теж хоче прийти.",
+        "audio": "les42-reading-04.mp3"
+      },
+      {
+        "nl": "Als zij komt, gaan wij wandelen.",
+        "ua": "Якщо вона прийде, ми підемо гуляти.",
+        "audio": "les42-reading-05.mp3"
+      },
+      {
+        "nl": "Wij vinden wandelen heel leuk.",
+        "ua": "Ми вважаємо, що прогулянки дуже приємні.",
+        "audio": "les42-reading-06.mp3"
+      },
+      {
+        "nl": "Maar als het regent, blijven wij thuis.",
+        "ua": "Але якщо йде дощ, ми лишаємося вдома.",
+        "audio": "les42-reading-07.mp3"
+      },
+      {
+        "nl": "Ik weet dat het vandaag niet regent.",
+        "ua": "Я знаю, що сьогодні не буде дощу.",
+        "audio": "les42-reading-08.mp3"
+      },
+      {
+        "nl": "Dus wij gaan vandaag wandelen.",
+        "ua": "Тому ми йдемо сьогодні гуляти.",
+        "audio": "les42-reading-09.mp3"
+      },
+      {
+        "nl": "Ik vind dat dit een goede dag is.",
+        "ua": "Я вважаю, що це гарний день.",
+        "audio": "les42-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я знаю, що вона хвора.",
+          "accepted": [
+            "Ik weet dat zij ziek is."
+          ]
+        },
+        {
+          "prompt": "Мій брат каже, що він голодний.",
+          "accepted": [
+            "Mijn broer zegt dat hij honger heeft."
+          ]
+        },
+        {
+          "prompt": "Я працюю водієм.",
+          "accepted": [
+            "Ik werk als chauffeur."
+          ]
+        },
+        {
+          "prompt": "Якщо йде дощ, ми йдемо додому.",
+          "accepted": [
+            "Als het regent, gaan wij naar huis.",
+            "Als het regent, gaan we naar huis."
+          ]
+        },
+        {
+          "prompt": "Я вважаю, що ця книга гарна.",
+          "accepted": [
+            "Ik vind dat dit boek mooi is."
+          ]
+        },
+        {
+          "prompt": "Ми вважаємо, що цей будинок гарний.",
+          "accepted": [
+            "Wij vinden dat dit huis mooi is.",
+            "We vinden dat dit huis mooi is."
+          ]
+        },
+        {
+          "prompt": "Якщо ми виграємо, я подзвоню сестрі.",
+          "accepted": [
+            "Als wij winnen, bel ik mijn zus op.",
+            "Als we winnen, bel ik mijn zus op."
+          ]
+        },
+        {
+          "prompt": "Він каже, що любить спорт.",
+          "accepted": [
+            "Hij zegt dat hij van sport houdt."
+          ]
+        },
+        {
+          "prompt": "Якщо він не займається спортом, він втомлений.",
+          "accepted": [
+            "Als hij niet sport, is hij moe."
+          ]
+        },
+        {
+          "prompt": "Я вважаю, що вона хороша мама.",
+          "accepted": [
+            "Ik vind dat zij een goede moeder is."
+          ]
+        },
+        {
+          "prompt": "Якщо в нас немає грошей, ми не купуємо квиток.",
+          "accepted": [
+            "Als wij geen geld hebben, kopen wij geen kaartje.",
+            "Als we geen geld hebben, kopen we geen kaartje."
+          ]
+        },
+        {
+          "prompt": "Моя сестра каже, що не хоче танцювати.",
+          "accepted": [
+            "Mijn zus zegt dat zij niet wil dansen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "dat",
+        "als",
+        "zegt",
+        "vind",
+        "vindt",
+        "weten",
+        "moe",
+        "thuis",
+        "geld",
+        "regent",
+        "sport",
+        "houdt"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik weet ___ hij moe is.",
+          "hint": "що",
+          "accepted": [
+            [
+              "dat"
+            ]
+          ]
+        },
+        {
+          "text": "___ het regent, blijven wij thuis.",
+          "hint": "якщо",
+          "accepted": [
+            [
+              "als",
+              "Als"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ dat hij ziek is.",
+          "hint": "каже",
+          "accepted": [
+            [
+              "zegt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ dat het weer goed is.",
+          "hint": "вважаю",
+          "accepted": [
+            [
+              "vind"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ dat het huis mooi is.",
+          "hint": "вважає",
+          "accepted": [
+            [
+              "vindt"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ dat hij thuis is.",
+          "hint": "знаємо",
+          "accepted": [
+            [
+              "weten"
+            ]
+          ]
+        },
+        {
+          "text": "Als ik ___ ben, blijf ik in bed.",
+          "hint": "втомлений",
+          "accepted": [
+            [
+              "moe"
+            ]
+          ]
+        },
+        {
+          "text": "Als het regent, blijven wij ___.",
+          "hint": "вдома",
+          "accepted": [
+            [
+              "thuis"
+            ]
+          ]
+        },
+        {
+          "text": "Als wij geen ___ hebben, kopen wij niets.",
+          "hint": "гроші",
+          "accepted": [
+            [
+              "geld"
+            ]
+          ]
+        },
+        {
+          "text": "Ik weet dat het niet ___.",
+          "hint": "йде дощ",
+          "accepted": [
+            [
+              "regent"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ elke dag.",
+          "hint": "займається спортом",
+          "accepted": [
+            [
+              "sport"
+            ]
+          ]
+        },
+        {
+          "text": "Hij zegt dat hij van muziek ___.",
+          "hint": "любить",
+          "accepted": [
+            [
+              "houdt"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik sport, als ik tijd heb.",
+          "cue": "-> zet de als-zin vooraan",
+          "accepted": [
+            "Als ik tijd heb, sport ik."
+          ]
+        },
+        {
+          "prompt": "Wij blijven thuis, als het regent.",
+          "cue": "-> zet de als-zin vooraan",
+          "accepted": [
+            "Als het regent, blijven wij thuis."
+          ]
+        },
+        {
+          "prompt": "Hij is ziek.",
+          "cue": "-> maak een zin met Ik weet dat ...",
+          "accepted": [
+            "Ik weet dat hij ziek is."
+          ]
+        },
+        {
+          "prompt": "Zij heeft een nieuwe fiets.",
+          "cue": "-> maak een zin met Hij zegt dat ...",
+          "accepted": [
+            "Hij zegt dat zij een nieuwe fiets heeft."
+          ]
+        },
+        {
+          "prompt": "Het huis is mooi.",
+          "cue": "-> maak een zin met Wij vinden dat ...",
+          "accepted": [
+            "Wij vinden dat het huis mooi is."
+          ]
+        },
+        {
+          "prompt": "Ik werk als kok.",
+          "cue": "-> заміни kok на leraar",
+          "accepted": [
+            "Ik werk als leraar."
+          ]
+        },
+        {
+          "prompt": "Als ik geld heb, koop ik een cadeau.",
+          "cue": "-> заперечення в de als-zin",
+          "accepted": [
+            "Als ik geen geld heb, koop ik geen cadeau."
+          ]
+        },
+        {
+          "prompt": "Hij sport elke dag.",
+          "cue": "-> maak een zin met Ik vind dat ...",
+          "accepted": [
+            "Ik vind dat hij elke dag sport."
+          ]
+        },
+        {
+          "prompt": "Zij komt niet.",
+          "cue": "-> maak een zin met Hij zegt dat ...",
+          "accepted": [
+            "Hij zegt dat zij niet komt."
+          ]
+        },
+        {
+          "prompt": "Ik heb geen tijd.",
+          "cue": "-> zet vooraan, hoofdzin: Ik blijf thuis.",
+          "accepted": [
+            "Als ik geen tijd heb, blijf ik thuis."
+          ]
+        },
+        {
+          "prompt": "Deze wedstrijd is leuk.",
+          "cue": "-> maak een zin met Ik vind dat ...",
+          "accepted": [
+            "Ik vind dat deze wedstrijd leuk is."
+          ]
+        },
+        {
+          "prompt": "Wij hebben geld.",
+          "cue": "-> заперечення + zet vooraan: ..., kopen wij niets.",
+          "accepted": [
+            "Als wij geen geld hebben, kopen wij niets."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Hij ___ dat hij moe is.",
+          "cue": "zeggen",
+          "accepted": [
+            "zegt"
+          ]
+        },
+        {
+          "text": "Ik ___ dat het weer goed is.",
+          "cue": "zeggen",
+          "accepted": [
+            "zeg"
+          ]
+        },
+        {
+          "text": "Wij ___ dat het huis mooi is.",
+          "cue": "zeggen",
+          "accepted": [
+            "zeggen"
+          ]
+        },
+        {
+          "text": "Ik ___ dat hij thuis is.",
+          "cue": "weten",
+          "accepted": [
+            "weet"
+          ]
+        },
+        {
+          "text": "Zij ___ dat de wedstrijd leuk is.",
+          "cue": "vinden",
+          "accepted": [
+            "vindt"
+          ]
+        },
+        {
+          "text": "Wij ___ dat het vandaag regent.",
+          "cue": "weten",
+          "accepted": [
+            "weten"
+          ]
+        },
+        {
+          "text": "Als hij niet ___, is hij moe.",
+          "cue": "sporten",
+          "accepted": [
+            "sport"
+          ]
+        },
+        {
+          "text": "Als ik geen geld ___, koop ik niets.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Als het ___, blijven wij thuis.",
+          "cue": "regenen",
+          "accepted": [
+            "regent"
+          ]
+        },
+        {
+          "text": "Hij zegt dat hij van muziek ___.",
+          "cue": "houden van",
+          "accepted": [
+            "houdt"
+          ]
+        },
+        {
+          "text": "Ik ___ dat zij een goede moeder is.",
+          "cue": "vinden",
+          "accepted": [
+            "vind"
+          ]
+        },
+        {
+          "text": "Als wij ___, bel ik mijn zus op.",
+          "cue": "winnen",
+          "accepted": [
+            "winnen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "verb"
+      ]
+    }
+  ]
+}
