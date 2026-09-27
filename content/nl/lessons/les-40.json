@@ -1,0 +1,707 @@
+{
+  "id": "nl-les-40",
+  "lang": "nl",
+  "order": 40,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-f46679ab",
+      "type": "function",
+      "lemma": "omdat",
+      "ua": "тому що (дієслово йде в кінець речення)",
+      "audio": "omdat.mp3",
+      "explain_ua": "(Ik blijf thuis, omdat ik moe ben = я лишаюся вдома, тому що я втомлена). Omdat вводить причину, як want (Les 11), але граматика зовсім інша: after want порядок слів звичайний (підмет, потім дієслово), а after omdat ВСІ дієслівні форми йдуть в самий кінець свого речення -- одне велике правило, три картки нижче. Це вперше в курсі ми вчимо справжній «дієслово в кінці» (не плутати з інфінітивом у кінці дужки, Les 7 -- тут ідеться про ВІДМІНЮВАНЕ дієслово). Omdat вже згадувався в Les 11 як переклад «тому що», але граматика подається тут вперше. G/d вимовляються звичайно; наголос на другому складі: om-DAT",
+      "check": "Наголос om-DAT з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-e6322742",
+      "type": "function",
+      "lemma": "waarom",
+      "ua": "чому",
+      "audio": "waarom.mp3",
+      "explain_ua": "(Waarom ben je moe? = чому ти втомлена?). Waarom це питальне слово «чому», такого ж типу, як wat, wie, waar, wanneer, hoe, hoeveel (Les 3): waarom + інвертоване дієслово + підмет. Відповідають на waarom найчастіше через omdat (наступна картка нижче). Складається з waar (Les 3) і om «через» (окремо не вчимо): «через що». Це підказка для пам'яті. Наголос на другому складі: waar-OM",
+      "check": "Наголос waar-OM з власних знань, окремо не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Omdat: het werkwoord gaat naar het einde",
+      "summary_ua": "Omdat -- перше справжнє «дієслово в кінці» речення в курсі. Все відмінюване дієслово (чи весь дієслівний блок) переміщується в самий кінець omdat-речення. Три випадки, той самий принцип: простий дієслово, відокремлюване дієслово (не розділяється!), і модальне+інфінітив (разом, в тому самому порядку).",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Простий дієслово в кінець",
+          "when_ua": "Дієслово (ben, heeft, werkt...) переміщується з другої позиції в саму останню.",
+          "examples": [
+            {
+              "nl": "Ik blijf thuis, omdat ik moe **ben**.",
+              "ua": "Я лишаюся вдома, тому що я втомлена.",
+              "audio": "les40-rule-01.mp3"
+            },
+            {
+              "nl": "Hij gaat niet naar school, omdat hij koorts **heeft**.",
+              "ua": "Він не йде до школи, тому що в нього температура.",
+              "audio": "les40-rule-02.mp3"
+            }
+          ],
+          "note_ua": "НЕПРАВИЛЬНО: omdat ik ben moe (дієслово лишилося на другому місці, як у want). ПРАВИЛЬНО: omdat ik moe ben (дієслово в самому кінці)."
+        },
+        {
+          "form": "Відокремлюване дієслово: не розділяється",
+          "when_ua": "Префікс (op, in, binnen...) НЕ відривається від дієслова -- усе слово цілим іде в кінець, на відміну від головного речення (Les 4-5).",
+          "examples": [
+            {
+              "nl": "Ik ben moe, omdat ik elke dag vroeg **opsta**.",
+              "ua": "Я втомлена, тому що я щодня рано встаю.",
+              "audio": "les40-rule-03.mp3"
+            },
+            {
+              "nl": "Mijn moeder is boos, omdat ik niet **opbel**.",
+              "ua": "Моя мама сердиться, тому що я не телефоную.",
+              "audio": "les40-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ik sta op. (головне речення, розділено) проти omdat ik opsta (omdat-речення, ціле слово в кінці). Niet стоїть перед цілим словом: omdat ik niet opbel."
+        },
+        {
+          "form": "Модальне + інфінітив: разом у кінці",
+          "when_ua": "Модальне дієслово й інфінітив ідуть в кінець РАЗОМ, у тому самому порядку, що в головному реченні (Les 7): модальне, потім інфінітив.",
+          "examples": [
+            {
+              "nl": "Ik kan niet komen, omdat ik **moet werken**.",
+              "ua": "Я не можу прийти, тому що мені треба працювати.",
+              "audio": "les40-rule-05.mp3"
+            },
+            {
+              "nl": "Zij blijft thuis, omdat zij niet **mag zwemmen**.",
+              "ua": "Вона лишається вдома, тому що їй не можна плавати.",
+              "audio": "les40-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Niet стоїть перед усім блоком: omdat zij niet mag zwemmen, не omdat zij mag niet zwemmen."
+        }
+      ],
+      "points_ua": [
+        "Omdat: усе відмінюване дієслово -- в самий кінець речення.",
+        "Відокремлюване дієслово лишається цілим; модальне+інфінітив ідуть разом, модальне перше."
+      ]
+    },
+    {
+      "title_ua": "Want vs omdat: dezelfde reden, andere volgorde",
+      "summary_ua": "Want (Les 11) і omdat означають те саме («тому що»), але дають різний порядок слів. Want з'єднує два речення ззовні -- кожне лишається зі своїм звичайним порядком (підмет, дієслово). Omdat робить друге речення підрядним -- дієслово йде в кінець. Одна й та сама причина, дві різні граматики.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "want: звичайний порядок (вже відомо)",
+          "when_ua": "Після want підмет, потім дієслово -- як завжди.",
+          "examples": [
+            {
+              "nl": "Ik blijf thuis, want ik ben moe.",
+              "ua": "Я лишаюся вдома, бо я втомлена.",
+              "audio": "les40-rule-07.mp3"
+            },
+            {
+              "nl": "Hij gaat niet naar school, want hij heeft koorts.",
+              "ua": "Він не йде до школи, бо в нього температура.",
+              "audio": "les40-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Want: підмет ik/hij одразу перед дієсловом ben/heeft -- звичайний порядок, без змін."
+        },
+        {
+          "form": "omdat: дієслово в кінець (нове)",
+          "when_ua": "Та сама причина, той самий зміст -- але дієслово тепер у кінці.",
+          "examples": [
+            {
+              "nl": "Ik blijf thuis, omdat ik moe ben.",
+              "ua": "Я лишаюся вдома, тому що я втомлена.",
+              "audio": "les40-rule-09.mp3"
+            },
+            {
+              "nl": "Hij gaat niet naar school, omdat hij koorts heeft.",
+              "ua": "Він не йде до школи, тому що в нього температура.",
+              "audio": "les40-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з want-варіантом вище: та сама причина, лише ben/heeft переїхали в кінець."
+        }
+      ],
+      "points_ua": [
+        "Want і omdat -- те саме значення, різна граматика.",
+        "Want: порядок не змінюється. Omdat: дієслово в кінець."
+      ]
+    },
+    {
+      "title_ua": "Waarom vraagt, omdat antwoordt",
+      "summary_ua": "Waarom -- питальне слово, як wat/wie/waar (Les 3): waarom + інвертоване дієслово + підмет. Відповідають на waarom найчастіше через omdat -- або повним реченням, або (в розмові) лише omdat-реченням окремо, без головного речення.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "Waarom ...? -- питання",
+          "when_ua": "Waarom + дієслово + підмет, як будь-яке питання з питальним словом.",
+          "examples": [
+            {
+              "nl": "Waarom ben je moe?",
+              "ua": "Чому ти втомлена?",
+              "audio": "les40-rule-11.mp3"
+            },
+            {
+              "nl": "Waarom blijft hij thuis?",
+              "ua": "Чому він лишається вдома?",
+              "audio": "les40-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Той самий порядок, що Wat heb jij?, Waar is de deur? (Les 3)."
+        },
+        {
+          "form": "Omdat ... -- відповідь",
+          "when_ua": "Відповідь може бути коротка -- лише omdat-речення, без повторення головного речення.",
+          "examples": [
+            {
+              "nl": "Omdat ik veel werk.",
+              "ua": "Тому що я багато працюю.",
+              "audio": "les40-rule-13.mp3"
+            },
+            {
+              "nl": "Omdat hij ziek is.",
+              "ua": "Тому що він хворий.",
+              "audio": "les40-rule-14.mp3"
+            }
+          ],
+          "note_ua": "У відповіді дієслово (werk, is) все одно в кінці -- те саме правило працює, навіть коли omdat-речення стоїть саме, без головного."
+        }
+      ],
+      "points_ua": [
+        "Waarom + дієслово + підмет: звичайна структура питання.",
+        "Omdat-речення може бути самостійною короткою відповіддю."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik ga naar de gemeente, omdat mijn paspoort verlopen is.",
+      "ua": "Я йду до мерії, тому що мій паспорт протермінований.",
+      "audio": "les40-example-01.mp3"
+    },
+    {
+      "nl": "Wij blijven thuis, omdat het regent.",
+      "ua": "Ми лишаємося вдома, тому що йде дощ.",
+      "audio": "les40-example-02.mp3"
+    },
+    {
+      "nl": "Ik koop een postzegel, omdat ik een brief verstuur.",
+      "ua": "Я купую поштову марку, тому що надсилаю лист.",
+      "audio": "les40-example-03.mp3"
+    },
+    {
+      "nl": "Zij werkt niet, omdat zij ziek is.",
+      "ua": "Вона не працює, тому що вона хвора.",
+      "audio": "les40-example-04.mp3"
+    },
+    {
+      "nl": "Ik vul het formulier in, omdat ik een verblijfsvergunning wil.",
+      "ua": "Я заповнюю формуляр, тому що хочу дозвіл на проживання.",
+      "audio": "les40-example-05.mp3"
+    },
+    {
+      "nl": "Waarom ga jij naar de dokter?",
+      "ua": "Чому ти йдеш до лікаря?",
+      "audio": "les40-example-06.mp3"
+    },
+    {
+      "nl": "Omdat ik koorts heb.",
+      "ua": "Тому що в мене температура.",
+      "audio": "les40-example-07.mp3"
+    },
+    {
+      "nl": "Mijn vader is thuis, omdat hij vandaag niet werkt.",
+      "ua": "Мій тато вдома, тому що він сьогодні не працює.",
+      "audio": "les40-example-08.mp3"
+    },
+    {
+      "nl": "Ik neem de trein, omdat ik geen auto heb.",
+      "ua": "Я їду потягом, тому що в мене немає машини.",
+      "audio": "les40-example-09.mp3"
+    },
+    {
+      "nl": "Wij eten nu, omdat wij honger hebben.",
+      "ua": "Ми їмо зараз, тому що ми голодні.",
+      "audio": "les40-example-10.mp3"
+    },
+    {
+      "nl": "Waarom lach je?",
+      "ua": "Чому ти смієшся?",
+      "audio": "les40-example-11.mp3"
+    },
+    {
+      "nl": "Omdat ik een brief ontvang.",
+      "ua": "Тому що я отримую лист.",
+      "audio": "les40-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Waarom?",
+    "title_ua": "Чому?",
+    "highlight": [
+      "nl-f46679ab",
+      "nl-e6322742"
+    ],
+    "sentences": [
+      {
+        "nl": "Ik blijf vandaag thuis.",
+        "ua": "Я сьогодні лишаюся вдома.",
+        "audio": "les40-reading-01.mp3"
+      },
+      {
+        "nl": "Waarom blijf ik thuis?",
+        "ua": "Чому я лишаюся вдома?",
+        "audio": "les40-reading-02.mp3"
+      },
+      {
+        "nl": "Omdat ik ziek ben.",
+        "ua": "Тому що я хвора.",
+        "audio": "les40-reading-03.mp3"
+      },
+      {
+        "nl": "Ik heb koorts en ik hoest een beetje.",
+        "ua": "У мене температура, і я трохи кашляю.",
+        "audio": "les40-reading-04.mp3"
+      },
+      {
+        "nl": "Ik ga niet naar mijn werk, omdat ik ziek ben.",
+        "ua": "Я не йду на роботу, тому що я хвора.",
+        "audio": "les40-reading-05.mp3"
+      },
+      {
+        "nl": "Ik bel mijn baas op.",
+        "ua": "Я телефоную своєму начальнику.",
+        "audio": "les40-reading-06.mp3"
+      },
+      {
+        "nl": "Ik moet vandaag rusten, omdat ik koorts heb.",
+        "ua": "Мені сьогодні треба відпочивати, тому що в мене температура.",
+        "audio": "les40-reading-07.mp3"
+      },
+      {
+        "nl": "Later ga ik naar de huisarts, omdat ik nog koorts heb.",
+        "ua": "Пізніше я йду до сімейного лікаря, тому що в мене ще температура.",
+        "audio": "les40-reading-08.mp3"
+      },
+      {
+        "nl": "Ik neem een pijnstiller, omdat mijn hoofd pijn doet.",
+        "ua": "Я приймаю знеболювальне, тому що в мене болить голова.",
+        "audio": "les40-reading-09.mp3"
+      },
+      {
+        "nl": "Morgen ga ik weer werken, omdat ik beter ben.",
+        "ua": "Завтра я знову йду працювати, тому що мені краще.",
+        "audio": "les40-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат втомлений, тому що він багато працює.",
+          "accepted": [
+            "Mijn broer is moe, omdat hij veel werkt."
+          ]
+        },
+        {
+          "prompt": "Чому він удома?",
+          "accepted": [
+            "Waarom is hij thuis?"
+          ]
+        },
+        {
+          "prompt": "Тому що він сьогодні не працює.",
+          "accepted": [
+            "Omdat hij vandaag niet werkt."
+          ]
+        },
+        {
+          "prompt": "Я не телефоную їй, тому що вона хвора.",
+          "accepted": [
+            "Ik bel haar niet op, omdat zij ziek is."
+          ]
+        },
+        {
+          "prompt": "Я завжди втомлена, тому що я рано встаю.",
+          "accepted": [
+            "Ik ben altijd moe, omdat ik vroeg opsta."
+          ]
+        },
+        {
+          "prompt": "Ти можеш зателефонувати мені, тому що я вдома.",
+          "accepted": [
+            "Je kunt mij opbellen, omdat ik thuis ben."
+          ]
+        },
+        {
+          "prompt": "Ми лишаємося вдома, тому що діти хворі.",
+          "accepted": [
+            "Wij blijven thuis, omdat de kinderen ziek zijn."
+          ]
+        },
+        {
+          "prompt": "Чому ти не їси м'ясо?",
+          "accepted": [
+            "Waarom eet jij geen vlees?",
+            "Waarom eet je geen vlees?"
+          ]
+        },
+        {
+          "prompt": "Тому що я не їм м'яса.",
+          "accepted": [
+            "Omdat ik geen vlees eet."
+          ]
+        },
+        {
+          "prompt": "Він переїжджає, тому що будинок замалий.",
+          "accepted": [
+            "Hij verhuist, omdat het huis te klein is."
+          ]
+        },
+        {
+          "prompt": "Чому ви йдете на поштове відділення?",
+          "accepted": [
+            "Waarom gaat u naar het postkantoor?"
+          ]
+        },
+        {
+          "prompt": "Тому що я хочу надіслати посилку.",
+          "accepted": [
+            "Omdat ik een pakket wil versturen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "omdat",
+        "waarom",
+        "ziek",
+        "thuis",
+        "opbel",
+        "moet",
+        "mag",
+        "wil",
+        "koorts",
+        "beter",
+        "werkt",
+        "ben"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik blijf thuis, ___ ik ziek ben.",
+          "hint": "тому що",
+          "accepted": [
+            [
+              "omdat"
+            ]
+          ]
+        },
+        {
+          "text": "___ ben je moe?",
+          "hint": "чому",
+          "accepted": [
+            [
+              "waarom",
+              "Waarom"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ga niet naar school, omdat ik ___ ben.",
+          "hint": "хвора",
+          "accepted": [
+            [
+              "ziek"
+            ]
+          ]
+        },
+        {
+          "text": "Hij blijft ___, omdat hij koorts heeft.",
+          "hint": "вдома",
+          "accepted": [
+            [
+              "thuis"
+            ]
+          ]
+        },
+        {
+          "text": "Zij is boos, omdat ik niet ___.",
+          "hint": "телефоную",
+          "accepted": [
+            [
+              "opbel"
+            ]
+          ]
+        },
+        {
+          "text": "Ik kan niet komen, omdat ik ___ werken.",
+          "hint": "мушу",
+          "accepted": [
+            [
+              "moet"
+            ]
+          ]
+        },
+        {
+          "text": "Zij blijft thuis, omdat zij niet ___ zwemmen.",
+          "hint": "можна (дозвіл)",
+          "accepted": [
+            [
+              "mag"
+            ]
+          ]
+        },
+        {
+          "text": "Ik vul het formulier in, omdat ik een verblijfsvergunning ___.",
+          "hint": "хочу",
+          "accepted": [
+            [
+              "wil"
+            ]
+          ]
+        },
+        {
+          "text": "Hij gaat niet naar school, omdat hij ___ heeft.",
+          "hint": "температуру",
+          "accepted": [
+            [
+              "koorts"
+            ]
+          ]
+        },
+        {
+          "text": "Morgen ga ik weer werken, omdat ik ___ ben.",
+          "hint": "краще",
+          "accepted": [
+            [
+              "beter"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ niet, omdat hij ziek is.",
+          "hint": "працює",
+          "accepted": [
+            [
+              "werkt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik blijf thuis, omdat ik moe ___.",
+          "hint": "є (дієслово \"бути\")",
+          "accepted": [
+            [
+              "ben"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik blijf thuis, want ik ben moe.",
+          "cue": "-> заміни want на omdat",
+          "accepted": [
+            "Ik blijf thuis, omdat ik moe ben."
+          ]
+        },
+        {
+          "prompt": "Hij gaat niet naar school, want hij heeft koorts.",
+          "cue": "-> заміни want на omdat",
+          "accepted": [
+            "Hij gaat niet naar school, omdat hij koorts heeft."
+          ]
+        },
+        {
+          "prompt": "Zij werkt niet, want zij is ziek.",
+          "cue": "-> заміни want на omdat",
+          "accepted": [
+            "Zij werkt niet, omdat zij ziek is."
+          ]
+        },
+        {
+          "prompt": "Ik bel mijn moeder op, want ik heb tijd.",
+          "cue": "-> заміни want на omdat",
+          "accepted": [
+            "Ik bel mijn moeder op, omdat ik tijd heb."
+          ]
+        },
+        {
+          "prompt": "Ik kan niet komen, want ik moet werken.",
+          "cue": "-> заміни want на omdat",
+          "accepted": [
+            "Ik kan niet komen, omdat ik moet werken."
+          ]
+        },
+        {
+          "prompt": "Zij blijft thuis, want zij mag niet zwemmen.",
+          "cue": "-> заміни want на omdat",
+          "accepted": [
+            "Zij blijft thuis, omdat zij niet mag zwemmen."
+          ]
+        },
+        {
+          "prompt": "Waarom ben jij moe?",
+          "cue": "-> antwoord met omdat: ... veel werk.",
+          "accepted": [
+            "Omdat ik veel werk."
+          ]
+        },
+        {
+          "prompt": "Ik ga naar de huisarts.",
+          "cue": "-> voeg toe: omdat ik nog koorts heb",
+          "accepted": [
+            "Ik ga naar de huisarts, omdat ik nog koorts heb."
+          ]
+        },
+        {
+          "prompt": "Ik neem een pijnstiller.",
+          "cue": "-> voeg toe: omdat mijn hoofd pijn doet",
+          "accepted": [
+            "Ik neem een pijnstiller, omdat mijn hoofd pijn doet."
+          ]
+        },
+        {
+          "prompt": "Wij eten nu.",
+          "cue": "-> voeg toe: omdat wij honger hebben",
+          "accepted": [
+            "Wij eten nu, omdat wij honger hebben."
+          ]
+        },
+        {
+          "prompt": "Hij is boos.",
+          "cue": "-> voeg toe: omdat ik niet opbel",
+          "accepted": [
+            "Hij is boos, omdat ik niet opbel."
+          ]
+        },
+        {
+          "prompt": "Waarom lach jij niet?",
+          "cue": "-> antwoord met omdat: ... geen brief ontvang.",
+          "accepted": [
+            "Omdat ik geen brief ontvang."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі (і на правильному місці -- у кінці, після omdat)",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik blijf thuis, omdat ik moe ___.",
+          "cue": "zijn",
+          "accepted": [
+            "ben"
+          ]
+        },
+        {
+          "text": "Hij gaat niet naar school, omdat hij koorts ___.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Zij werkt niet, omdat zij ziek ___.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Ik ben moe, omdat ik elke dag vroeg ___.",
+          "cue": "opstaan",
+          "accepted": [
+            "opsta"
+          ]
+        },
+        {
+          "text": "Mijn moeder is boos, omdat ik niet ___.",
+          "cue": "opbellen",
+          "accepted": [
+            "opbel"
+          ]
+        },
+        {
+          "text": "Ik kan niet komen, omdat ik ___ werken.",
+          "cue": "moeten",
+          "accepted": [
+            "moet"
+          ]
+        },
+        {
+          "text": "Zij blijft thuis, omdat zij niet ___ zwemmen.",
+          "cue": "mogen",
+          "accepted": [
+            "mag"
+          ]
+        },
+        {
+          "text": "Ik vul het formulier in, omdat ik een verblijfsvergunning ___.",
+          "cue": "willen",
+          "accepted": [
+            "wil"
+          ]
+        },
+        {
+          "text": "Waarom ___ jij moe?",
+          "cue": "zijn",
+          "accepted": [
+            "ben"
+          ]
+        },
+        {
+          "text": "Waarom ___ hij thuis?",
+          "cue": "blijven",
+          "accepted": [
+            "blijft"
+          ]
+        },
+        {
+          "text": "Omdat ik veel ___.",
+          "cue": "werken",
+          "accepted": [
+            "werk"
+          ]
+        },
+        {
+          "text": "Omdat hij ziek ___.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "function"
+      ]
+    }
+  ]
+}

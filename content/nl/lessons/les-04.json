@@ -54,6 +54,12 @@
           "ua": "вони",
           "form": "staan op",
           "audio": "zij-staan-op.mp3"
+        },
+        {
+          "pronoun": "omdat ik",
+          "ua": "я, у підрядному реченні (omdat, Les 40): ціле слово, без розриву",
+          "form": "opsta",
+          "audio": "omdat-ik-opsta.mp3"
         }
       ]
     },
@@ -105,6 +111,12 @@
           "ua": "вони",
           "form": "bellen op",
           "audio": "zij-bellen-op.mp3"
+        },
+        {
+          "pronoun": "omdat ik",
+          "ua": "я, у підрядному реченні (omdat, Les 40): ціле слово, без розриву",
+          "form": "opbel",
+          "audio": "omdat-ik-opbel.mp3"
         }
       ],
       "explain_ua": "(відокремлюване: op іде в кінець речення)"
