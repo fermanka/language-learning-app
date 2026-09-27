@@ -1,0 +1,678 @@
+{
+  "id": "nl-les-43",
+  "lang": "nl",
+  "order": 43,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-c70c9eec",
+      "type": "function",
+      "lemma": "eerder",
+      "ua": "раніше (до іншого моменту в часі)",
+      "audio": "eerder.mp3",
+      "explain_ua": "(Ik heb eerder gewerkt, dus ik ben moe = я раніше працювала, тому я втомлена). Eerder показує «раніше» відносно іншого моменту -- зручне слово саме для voltooid tijd (перфект, Les 32), бо перфект завжди описує щось ДО зараз. Насправді це форма порівняння від vroeg (Les 14) «ранній», як later (Les 38) від laat, але порівняння взагалі ще не вчимо, тому eerder вчимо як окреме слово. Форма не змінюється. Ee довге [eː], як у thee (Les 12); наголос на першому складі: EER-der",
+      "check": "Наголос EER-der і статус форми порівняння від vroeg з власних знань, окремо не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Omdat-zin vooraan: dezelfde inversie als bij als (Les 42)",
+      "summary_ua": "De omdat-zin (Les 40) kan ook vooraan staan, precies als de als-zin (Les 42): коли весь omdat-блок займає позицію 1, головне речення інвертується -- дієслово друге, підмет третій. Той самий механізм, лише інший тригер-слово.",
+      "see": "Les 42",
+      "compare": [
+        {
+          "form": "omdat-zin achteraan (bekend)",
+          "when_ua": "Головне речення перше, звичайний порядок.",
+          "examples": [
+            {
+              "nl": "Ik ga naar huis, omdat ik moe ben.",
+              "ua": "Я йду додому, тому що я втомлена.",
+              "audio": "les43-rule-01.mp3"
+            },
+            {
+              "nl": "Wij blijven thuis, omdat wij geen tijd hebben.",
+              "ua": "Ми лишаємося вдома, тому що в нас немає часу.",
+              "audio": "les43-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Це вже давно відомий порядок з Les 40."
+        },
+        {
+          "form": "omdat-zin vooraan (nieuw)",
+          "when_ua": "Omdat-блок займає позицію 1 -> головне речення інвертується.",
+          "examples": [
+            {
+              "nl": "Omdat ik moe ben, ga ik naar huis.",
+              "ua": "Тому що я втомлена, я йду додому.",
+              "audio": "les43-rule-03.mp3"
+            },
+            {
+              "nl": "Omdat wij geen tijd hebben, blijven wij thuis.",
+              "ua": "Тому що в нас немає часу, ми лишаємося вдома.",
+              "audio": "les43-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з Als ik tijd heb, ga ik ... (Les 42): весь omdat-блок працює як одне фронтоване слово, займає позицію 1, тому дієслово головного речення -- друге, підмет -- третій."
+        }
+      ],
+      "points_ua": [
+        "Omdat-zin achteraan -> hoofdzin у звичайному порядку.",
+        "Omdat-zin vooraan (позиція 1) -> hoofdzin інвертується, як після Als чи Nu."
+      ]
+    },
+    {
+      "title_ua": "Dat-zin vooraan: zeldzaam, formeel",
+      "summary_ua": "У принципі dat-речення теж можна поставити першим (воно тоді працює як тема всього речення), але це рідко й здебільшого формально чи літературно. Впізнавай цю конструкцію, але для щоденної мови користуйся звичайним порядком (Ik weet al dat hij ziek is.).",
+      "see": "Les 42",
+      "compare": [
+        {
+          "form": "dat-zin vooraan",
+          "when_ua": "Рідкісна, формальна конструкція -- лише для впізнавання.",
+          "examples": [
+            {
+              "nl": "Dat hij ziek is, weet ik al.",
+              "ua": "Що він хворий, я вже знаю.",
+              "audio": "les43-rule-05.mp3"
+            }
+          ],
+          "note_ua": "У щоденній мові набагато частіше: Ik weet al dat hij ziek is (звичайний порядок, al одразу після weet). Vooraan-варіант впізнавай, але не обов'язково вживай сам."
+        }
+      ],
+      "points_ua": [
+        "Dat-zin vooraan існує, але рідко й формально -- лише впізнавання.",
+        "У щоденній мові: звичайний порядок, Ik weet dat ..."
+      ]
+    },
+    {
+      "title_ua": "Voltooid tijd in de bijzin: heb gewerkt blijft samen, naar het einde",
+      "summary_ua": "Voltooid tijd (перфект, Les 32) складається з двох частин: hebben/zijn + дієприкметник. Це один блок, як модальне+інфінітив (Les 40). У підрядному реченні (omdat, dat) весь блок іде в кінець РАЗОМ, зберігаючи свій внутрішній порядок: спочатку hebben/zijn, потім дієприкметник (heb gewerkt) -- це називається rode volgorde, стандартний порядок, особливо на письмі. У розмовній мові часто чуєш і зворотний порядок (gewerkt heb, groene volgorde) -- обидва правильні, але тут тренуємо лише rode volgorde.",
+      "see": "Les 40",
+      "compare": [
+        {
+          "form": "Нагадування: voltooid tijd у головному реченні",
+          "when_ua": "Hebben/zijn друге, дієприкметник у кінці -- вже відомо з Les 32.",
+          "examples": [
+            {
+              "nl": "Ik heb gewerkt.",
+              "ua": "Я працювала.",
+              "audio": "les43-rule-06.mp3"
+            },
+            {
+              "nl": "Hij heeft gewerkt.",
+              "ua": "Він працював.",
+              "audio": "les43-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Hebben змінюється (heb/heeft/hebben), дієприкметник gewerkt однаковий для всіх."
+        },
+        {
+          "form": "Voltooid tijd у bijzin: hele blok naar het einde",
+          "when_ua": "Після omdat весь блок hebben/zijn + дієприкметник іде в кінець, порядок усередині блоку не змінюється.",
+          "examples": [
+            {
+              "nl": "Ik ben moe, omdat ik heb gewerkt.",
+              "ua": "Я втомлена, тому що я працювала.",
+              "audio": "les43-rule-08.mp3"
+            },
+            {
+              "nl": "Hij is moe, omdat hij heeft gewerkt.",
+              "ua": "Він втомлений, тому що він працював.",
+              "audio": "les43-rule-09.mp3"
+            },
+            {
+              "nl": "Wij zijn moe, omdat wij hebben gewerkt.",
+              "ua": "Ми втомлені, тому що ми працювали.",
+              "audio": "les43-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Не gewerkt heb (це теж існує в розмовній мові -- groene volgorde -- але ми його тут не тренуємо). Тренуємо heb gewerkt: hebben перед дієприкметником, обидва разом у кінці."
+        },
+        {
+          "form": "Hebben чи zijn у bijzin: вибір не змінюється",
+          "when_ua": "Той самий вибір hebben/zijn, що в головному реченні (Les 34) -- gaan бере zijn, навіть у bijzin.",
+          "examples": [
+            {
+              "nl": "Omdat ik naar het park ben gegaan, ben ik moe.",
+              "ua": "Тому що я пішла в парк, я втомлена.",
+              "audio": "les43-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Gaan завжди з zijn (Les 34), і це не змінюється, коли речення стає підрядним чи фронтованим."
+        }
+      ],
+      "points_ua": [
+        "Voltooid tijd у bijzin: hebben/zijn + дієприкметник разом у кінці, порядок heb gewerkt (rode volgorde).",
+        "Hebben/zijn вибір той самий, що в головному реченні -- gaan завжди zijn."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Omdat ik moe ben, blijf ik thuis.",
+      "ua": "Тому що я втомлена, я лишаюся вдома.",
+      "audio": "les43-example-01.mp3"
+    },
+    {
+      "nl": "Ik ga naar bed, omdat ik morgen vroeg moet werken.",
+      "ua": "Я йду спати, тому що завтра мені треба рано працювати.",
+      "audio": "les43-example-02.mp3"
+    },
+    {
+      "nl": "Omdat wij geen geld hebben, kopen wij niets.",
+      "ua": "Тому що в нас немає грошей, ми нічого не купуємо.",
+      "audio": "les43-example-03.mp3"
+    },
+    {
+      "nl": "Ik weet dat hij eerder heeft gewerkt.",
+      "ua": "Я знаю, що він раніше працював.",
+      "audio": "les43-example-04.mp3"
+    },
+    {
+      "nl": "Omdat ik eerder heb gewerkt, ben ik nu moe.",
+      "ua": "Тому що я раніше працювала, я зараз втомлена.",
+      "audio": "les43-example-05.mp3"
+    },
+    {
+      "nl": "Zij is moe, omdat zij heeft gewerkt.",
+      "ua": "Вона втомлена, тому що вона працювала.",
+      "audio": "les43-example-06.mp3"
+    },
+    {
+      "nl": "Wij hebben gewerkt, dus wij zijn moe.",
+      "ua": "Ми працювали, тому ми втомлені.",
+      "audio": "les43-example-07.mp3"
+    },
+    {
+      "nl": "Omdat het regent, blijven wij thuis.",
+      "ua": "Тому що йде дощ, ми лишаємося вдома.",
+      "audio": "les43-example-08.mp3"
+    },
+    {
+      "nl": "Ik ben moe, omdat ik naar het park ben gegaan.",
+      "ua": "Я втомлена, тому що я пішла в парк.",
+      "audio": "les43-example-09.mp3"
+    },
+    {
+      "nl": "Dat zij morgen komt, weet ik al.",
+      "ua": "Що вона завтра прийде, я вже знаю.",
+      "audio": "les43-example-10.mp3"
+    },
+    {
+      "nl": "Hij zegt dat hij eerder heeft gewerkt.",
+      "ua": "Він каже, що раніше працював.",
+      "audio": "les43-example-11.mp3"
+    },
+    {
+      "nl": "Omdat hij heeft gewerkt, is hij moe.",
+      "ua": "Тому що він працював, він втомлений.",
+      "audio": "les43-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Ik ben moe vandaag",
+    "title_ua": "Сьогодні я втомлена",
+    "highlight": [
+      "nl-c70c9eec"
+    ],
+    "sentences": [
+      {
+        "nl": "Ik ben vandaag heel moe.",
+        "ua": "Сьогодні я дуже втомлена.",
+        "audio": "les43-reading-01.mp3"
+      },
+      {
+        "nl": "Ik heb eerder gewerkt, dus ik ben moe.",
+        "ua": "Я раніше працювала, тому я втомлена.",
+        "audio": "les43-reading-02.mp3"
+      },
+      {
+        "nl": "Ik heb vandaag veel gewerkt.",
+        "ua": "Сьогодні я багато працювала.",
+        "audio": "les43-reading-03.mp3"
+      },
+      {
+        "nl": "Omdat ik veel heb gewerkt, wil ik nu rusten.",
+        "ua": "Тому що я багато працювала, я хочу тепер відпочити.",
+        "audio": "les43-reading-04.mp3"
+      },
+      {
+        "nl": "Ik weet dat ik moet rusten.",
+        "ua": "Я знаю, що мені треба відпочити.",
+        "audio": "les43-reading-05.mp3"
+      },
+      {
+        "nl": "Dus ik ga naar bed.",
+        "ua": "Тому я йду спати.",
+        "audio": "les43-reading-06.mp3"
+      },
+      {
+        "nl": "Morgen moet ik weer werken.",
+        "ua": "Завтра мені знову треба працювати.",
+        "audio": "les43-reading-07.mp3"
+      },
+      {
+        "nl": "Ik weet dat het morgen beter gaat.",
+        "ua": "Я знаю, що завтра буде краще.",
+        "audio": "les43-reading-08.mp3"
+      },
+      {
+        "nl": "Vandaag ben ik moe, maar morgen ben ik beter.",
+        "ua": "Сьогодні я втомлена, але завтра мені краще.",
+        "audio": "les43-reading-09.mp3"
+      },
+      {
+        "nl": "Nu wil ik rusten.",
+        "ua": "Тепер я хочу відпочити.",
+        "audio": "les43-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Тому що він хворий, він лишається вдома.",
+          "accepted": [
+            "Omdat hij ziek is, blijft hij thuis."
+          ]
+        },
+        {
+          "prompt": "Я знаю, що вона раніше працювала.",
+          "accepted": [
+            "Ik weet dat zij eerder heeft gewerkt."
+          ]
+        },
+        {
+          "prompt": "Тому що ми працювали, ми втомлені.",
+          "accepted": [
+            "Omdat wij hebben gewerkt, zijn wij moe.",
+            "Omdat we hebben gewerkt, zijn we moe."
+          ]
+        },
+        {
+          "prompt": "Вона каже, що вона працювала.",
+          "accepted": [
+            "Zij zegt dat zij heeft gewerkt."
+          ]
+        },
+        {
+          "prompt": "Тому що в мене немає часу, я не йду займатися спортом.",
+          "accepted": [
+            "Omdat ik geen tijd heb, ga ik niet sporten."
+          ]
+        },
+        {
+          "prompt": "Що я втомлена, ти не знаєш.",
+          "accepted": [
+            "Dat ik moe ben, weet jij niet.",
+            "Dat ik moe ben, weet je niet."
+          ]
+        },
+        {
+          "prompt": "Тому що я пішла в магазин, я купила хліб.",
+          "accepted": [
+            "Omdat ik naar de winkel ben gegaan, heb ik brood gekocht."
+          ]
+        },
+        {
+          "prompt": "Я вважаю, що він забагато працює.",
+          "accepted": [
+            "Ik vind dat hij te veel werkt."
+          ]
+        },
+        {
+          "prompt": "Тому що вона працювала, вона втомлена.",
+          "accepted": [
+            "Omdat zij heeft gewerkt, is zij moe."
+          ]
+        },
+        {
+          "prompt": "Я знаю, що ми раніше працювали.",
+          "accepted": [
+            "Ik weet dat wij eerder hebben gewerkt.",
+            "Ik weet dat we eerder hebben gewerkt."
+          ]
+        },
+        {
+          "prompt": "Тому що мені треба відпочити, я лишаюся вдома.",
+          "accepted": [
+            "Omdat ik moet rusten, blijf ik thuis."
+          ]
+        },
+        {
+          "prompt": "Він каже, що вчора працював.",
+          "accepted": [
+            "Hij zegt dat hij gisteren heeft gewerkt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "omdat",
+        "dat",
+        "eerder",
+        "gewerkt",
+        "gegaan",
+        "moe",
+        "thuis",
+        "rusten",
+        "gisteren",
+        "weet",
+        "zegt",
+        "moet"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ ik moe ben, blijf ik thuis.",
+          "hint": "тому що",
+          "accepted": [
+            [
+              "omdat",
+              "Omdat"
+            ]
+          ]
+        },
+        {
+          "text": "___ hij ziek is, weet ik al.",
+          "hint": "що (тут вказує на ціле речення)",
+          "accepted": [
+            [
+              "dat",
+              "Dat"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb ___ gewerkt.",
+          "hint": "раніше",
+          "accepted": [
+            [
+              "eerder"
+            ]
+          ]
+        },
+        {
+          "text": "Omdat ik heb ___, ben ik moe.",
+          "hint": "працював",
+          "accepted": [
+            [
+              "gewerkt"
+            ]
+          ]
+        },
+        {
+          "text": "Omdat ik naar het park ben ___, ben ik moe.",
+          "hint": "пішов",
+          "accepted": [
+            [
+              "gegaan"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ben heel ___.",
+          "hint": "втомлений",
+          "accepted": [
+            [
+              "moe"
+            ]
+          ]
+        },
+        {
+          "text": "Omdat het regent, blijven wij ___.",
+          "hint": "вдома",
+          "accepted": [
+            [
+              "thuis"
+            ]
+          ]
+        },
+        {
+          "text": "Ik weet dat ik moet ___.",
+          "hint": "відпочивати",
+          "accepted": [
+            [
+              "rusten"
+            ]
+          ]
+        },
+        {
+          "text": "Hij zegt dat hij ___ heeft gewerkt.",
+          "hint": "вчора",
+          "accepted": [
+            [
+              "gisteren"
+            ]
+          ]
+        },
+        {
+          "text": "Dat hij ziek is, ___ ik al.",
+          "hint": "знаю",
+          "accepted": [
+            [
+              "weet"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ dat zij heeft gewerkt.",
+          "hint": "каже",
+          "accepted": [
+            [
+              "zegt"
+            ]
+          ]
+        },
+        {
+          "text": "Omdat ik ___ rusten, blijf ik thuis.",
+          "hint": "мушу",
+          "accepted": [
+            [
+              "moet"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik ga naar huis, omdat ik moe ben.",
+          "cue": "-> zet de omdat-zin vooraan",
+          "accepted": [
+            "Omdat ik moe ben, ga ik naar huis."
+          ]
+        },
+        {
+          "prompt": "Wij blijven thuis, omdat wij geen tijd hebben.",
+          "cue": "-> zet de omdat-zin vooraan",
+          "accepted": [
+            "Omdat wij geen tijd hebben, blijven wij thuis."
+          ]
+        },
+        {
+          "prompt": "Ik heb gewerkt.",
+          "cue": "-> maak een omdat-zin: ..., ben ik moe.",
+          "accepted": [
+            "Omdat ik heb gewerkt, ben ik moe."
+          ]
+        },
+        {
+          "prompt": "Hij heeft gewerkt.",
+          "cue": "-> maak een omdat-zin: ..., is hij moe.",
+          "accepted": [
+            "Omdat hij heeft gewerkt, is hij moe."
+          ]
+        },
+        {
+          "prompt": "Ik ben naar het park gegaan.",
+          "cue": "-> maak een omdat-zin: ..., ben ik moe.",
+          "accepted": [
+            "Omdat ik naar het park ben gegaan, ben ik moe."
+          ]
+        },
+        {
+          "prompt": "Hij is ziek.",
+          "cue": "-> maak een zin: Dat ..., weet ik al.",
+          "accepted": [
+            "Dat hij ziek is, weet ik al."
+          ]
+        },
+        {
+          "prompt": "Wij hebben gewerkt.",
+          "cue": "-> maak een omdat-zin: ..., zijn wij moe.",
+          "accepted": [
+            "Omdat wij hebben gewerkt, zijn wij moe."
+          ]
+        },
+        {
+          "prompt": "Zij heeft gewerkt.",
+          "cue": "-> maak een zin met Zij zegt dat ...",
+          "accepted": [
+            "Zij zegt dat zij heeft gewerkt."
+          ]
+        },
+        {
+          "prompt": "Hij heeft gewerkt.",
+          "cue": "-> maak een zin met Hij zegt dat ...",
+          "accepted": [
+            "Hij zegt dat hij heeft gewerkt."
+          ]
+        },
+        {
+          "prompt": "Ik moet rusten.",
+          "cue": "-> maak een omdat-zin: ..., blijf ik thuis.",
+          "accepted": [
+            "Omdat ik moet rusten, blijf ik thuis."
+          ]
+        },
+        {
+          "prompt": "Het regent.",
+          "cue": "-> zet vooraan met omdat, hoofdzin: wij blijven thuis.",
+          "accepted": [
+            "Omdat het regent, blijven wij thuis."
+          ]
+        },
+        {
+          "prompt": "Ik heb eerder gewerkt.",
+          "cue": "-> maak een omdat-zin: ..., ben ik nu moe.",
+          "accepted": [
+            "Omdat ik eerder heb gewerkt, ben ik nu moe."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ gewerkt.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Hij ___ gewerkt.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Wij ___ gewerkt.",
+          "cue": "hebben",
+          "accepted": [
+            "hebben"
+          ]
+        },
+        {
+          "text": "Ik ___ naar het park gegaan.",
+          "cue": "zijn",
+          "accepted": [
+            "ben"
+          ]
+        },
+        {
+          "text": "Ik ___ dat hij moe is.",
+          "cue": "weten",
+          "accepted": [
+            "weet"
+          ]
+        },
+        {
+          "text": "Zij ___ dat zij heeft gewerkt.",
+          "cue": "zeggen",
+          "accepted": [
+            "zegt"
+          ]
+        },
+        {
+          "text": "Ik ___ dat wij eerder hebben gewerkt.",
+          "cue": "weten",
+          "accepted": [
+            "weet"
+          ]
+        },
+        {
+          "text": "Omdat ik ___ rusten, blijf ik thuis.",
+          "cue": "moeten",
+          "accepted": [
+            "moet"
+          ]
+        },
+        {
+          "text": "Omdat het ___, blijven wij thuis.",
+          "cue": "regenen",
+          "accepted": [
+            "regent"
+          ]
+        },
+        {
+          "text": "Ik ___ dat hij te veel werkt.",
+          "cue": "vinden",
+          "accepted": [
+            "vind"
+          ]
+        },
+        {
+          "text": "Omdat ik geen tijd ___, ga ik niet sporten.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Hij zegt dat hij gisteren heeft ___.",
+          "cue": "werken",
+          "accepted": [
+            "gewerkt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "function"
+      ]
+    }
+  ]
+}
