@@ -1,0 +1,1021 @@
+{
+  "id": "nl-les-44",
+  "lang": "nl",
+  "order": 44,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-ef74cf65",
+      "type": "noun",
+      "article": "de",
+      "lemma": "korting",
+      "plural": [
+        "kortingen"
+      ],
+      "ua": "знижка",
+      "audio": "de-korting.mp3",
+      "explain_ua": "(Is er korting op deze schoenen? = чи є знижка на ці туфлі?). Korting це знижка -- менша ціна на якийсь час. Слова на -ing майже завжди de-слова (як de koorts, Les 37 -- інше закінчення, той самий принцип: абстрактний іменник -> de). Множина kortingen. G це [x], як х у хата; наголос на першому складі: KOR-ting",
+      "check": "Наголос KOR-ting з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-220176c1",
+      "type": "noun",
+      "article": "de",
+      "lemma": "actie",
+      "plural": [
+        "acties"
+      ],
+      "ua": "акція, спеціальна пропозиція",
+      "audio": "de-actie.mp3",
+      "explain_ua": "(Deze schoenen zijn in de actie = ці туфлі за акцією). Actie це тимчасова спеціальна ціна в магазині -- «в акції» = in de actie. Схоже на «акція»: підказка для пам'яті. Множина acties (просто -s, на відміну від kopie - kopieën, Les 39 -- наголос тут інший, тому без трема). Наголос на першому складі: AC-tie",
+      "check": "Множину acties (без трема, на відміну від kopieën) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-b5e0ee27",
+      "type": "noun",
+      "article": "de",
+      "lemma": "kassa",
+      "plural": [
+        "kassa's"
+      ],
+      "ua": "каса, каса-термінал",
+      "audio": "de-kassa.mp3",
+      "explain_ua": "(Ik betaal bij de kassa = я плачу на касі). Kassa це місце, де платять у магазині. Множина kassa's: слово на голосну бере апостроф-s, як auto's (Les 6). Наголос на першому складі: KAS-sa",
+      "check": "Наголос KAS-sa з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-1e99f05c",
+      "type": "noun",
+      "article": "de",
+      "lemma": "klant",
+      "plural": [
+        "klanten"
+      ],
+      "ua": "клієнт, покупець",
+      "audio": "de-klant.mp3",
+      "explain_ua": "(De klant staat in de rij = клієнт стоїть у черзі). Klant це людина, яка щось купує. Множина klanten. Наголос на єдиному складі: KLANT",
+      "check": "Множину klanten з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-03221672",
+      "type": "noun",
+      "article": "de",
+      "lemma": "verkoper",
+      "plural": [
+        "verkopers"
+      ],
+      "ua": "продавець, продавчиня",
+      "audio": "de-verkoper.mp3",
+      "explain_ua": "(De verkoper helpt mij = продавець мені допомагає). Verkoper -- людина, яка продає (від verkopen, окремо не вчимо). Одне слово для чоловіка й жінки, як leraar, dokter (Les 35). Множина verkopers, як dokters. Наголос на першому складі: ver-KO-per",
+      "check": "Наголос ver-KO-per з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-26414e60",
+      "type": "adjective",
+      "lemma": "contant",
+      "ua": "готівкою, готівковий",
+      "audio": "contant.mp3",
+      "explain_ua": "(Ik betaal contant = я плачу готівкою; Kunt u ook contant betalen? = чи можете ви заплатити готівкою?). Contant стоїть після дієслова, як прислівник (contant betalen «платити готівкою»), і не змінюється -- схоже на gratis (нижче) чи oranje (Les 21). Наголос на другому складі: con-TANT",
+      "check": "Наголос con-TANT з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-1bd55b1e",
+      "type": "verb",
+      "lemma": "pinnen",
+      "ua": "платити карткою (через пін-код)",
+      "audio": "pinnen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "pin",
+          "audio": "ik-pin.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "pint",
+          "audio": "hij-pint.mp3"
+        }
+      ],
+      "explain_ua": "(Ik pin bij de kassa = я плачу карткою на касі). Pinnen -- суто нідерландське слово: платити банківською карткою через пін-код (protилежність до contant, вище). Закритоскладове подвоєння приголосної, як zwemmen, winnen (Les 41): pinnen (подвійна n), основа pin (одна n). Наголос на єдиному складі основи: PIN",
+      "check": "Що pinnen -- побутове, дуже вживане слово саме в Нідерландах, з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-22e7e3fc",
+      "type": "noun",
+      "article": "de",
+      "lemma": "pinpas",
+      "plural": [
+        "pinpassen"
+      ],
+      "ua": "банківська картка",
+      "audio": "de-pinpas.mp3",
+      "explain_ua": "(Ik betaal met mijn pinpas = я плачу своєю банківською карткою). Складається з pin (вище) і pas «перепустка, картка» (окремо не вчимо): «пін-картка». Множина pinpassen: приголосна подвоюється, як bus - bussen (Les 6). Наголос на першому складі: PIN-pas",
+      "check": "Наголос PIN-pas з власних знань; множину перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-1af33dc5",
+      "type": "noun",
+      "article": "het",
+      "lemma": "wisselgeld",
+      "plural": [],
+      "ua": "решта (гроші, які повертають)",
+      "audio": "het-wisselgeld.mp3",
+      "explain_ua": "(Hier is uw wisselgeld = ось ваша решта). Складається з wisselen «обмінювати» (окремо не вчимо) і geld (Les 16): «обмінні гроші». Het-слово, як het geld саме (складене слово наслідує рід geld). Без множини -- як post (Les 39), геть уживається як маса, не як лічений предмет. Наголос на першому складі: WIS-sel-geld",
+      "check": "Що wisselgeld не має множини, з власних знань; het-слово (наслідує geld) перевірено логічно, не окремо в словнику."
+    },
+    {
+      "id": "nl-8cfff0b4",
+      "type": "noun",
+      "article": "de",
+      "lemma": "bon",
+      "plural": [
+        "bonnen"
+      ],
+      "ua": "чек, квитанція",
+      "audio": "de-bon.mp3",
+      "explain_ua": "(De verkoper geeft mij een bon = продавець дає мені чек). Bon -- паперовий доказ покупки, не плутати з de brief (Les 39, лист). Множина bonnen: приголосна подвоюється, як kop - koppen (не вчимо, той самий тип). Наголос на єдиному складі: BON",
+      "check": "Множину bonnen перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-443b0673",
+      "type": "verb",
+      "lemma": "ruilen",
+      "ua": "обмінювати, повертати (в магазині)",
+      "audio": "ruilen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "ruil",
+          "audio": "ik-ruil.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "ruilen",
+          "audio": "wij-ruilen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik wil dit ruilen = я хочу це обміняти/повернути). Ruilen -- повернути куплену річ і обміняти на іншу (чи на гроші). Регулярне дієслово, основа ruil. Ui це [œy], як у huis (Les 1); наголос на єдиному складі: RUIL",
+      "check": "Наголос з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-bbdbd509",
+      "type": "verb",
+      "lemma": "passen",
+      "ua": "приміряти (одяг); пасувати, personлежати (про розмір)",
+      "audio": "passen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "past",
+          "audio": "hij-past.mp3"
+        }
+      ],
+      "explain_ua": "(Mag ik dit passen? = чи можу я це приміряти?; Deze jas past goed = ця куртка добре сидить). Passen має два значення: «приміряти» (людина passen одяг) і «пасувати, підходити за розміром» (одяг passen людині). Контекст показує яке. Основа pas, звичайне +t для jij/u/hij: past. Наголос на єдиному складі: PAS",
+      "check": "Розмежування двох значень passen з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-2cb2f519",
+      "type": "noun",
+      "article": "de",
+      "lemma": "paskamer",
+      "plural": [
+        "paskamers"
+      ],
+      "ua": "примірочна",
+      "audio": "de-paskamer.mp3",
+      "explain_ua": "(Waar is de paskamer? = де примірочна?). Складається з pas- (від passen, вище) і kamer (Les 3): «кімната для приміряння». Множина paskamers, як kamer - kamers, wachtkamer - wachtkamers (Les 37) -- складені слова з kamer завжди беруть -s, не -en. Наголос на першому складі: PAS-ka-mer",
+      "check": "Множину paskamers (за зразком wachtkamers) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-00922f45",
+      "type": "noun",
+      "article": "de",
+      "lemma": "maat",
+      "plural": [
+        "maten"
+      ],
+      "ua": "розмір (одягу, взуття)",
+      "audio": "de-maat.mp3",
+      "explain_ua": "(Welke maat heeft u? = який у вас розмір?). Maat -- розмір одягу чи взуття. Множина maten: aa у відкритому складі стає a, як maan - manen (Les 1). Наголос на єдиному складі: MAAT",
+      "check": "Множину maten з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-74f28333",
+      "type": "adjective",
+      "lemma": "gratis",
+      "ua": "безкоштовний, безкоштовно",
+      "audio": "gratis.mp3",
+      "explain_ua": "(Dit T-shirt is gratis = ця футболка безкоштовна). Gratis не змінюється в жодній позиції -- як oranje, roze (Les 21). Схоже на «безкоштовно»/латинське походження, як в англійській gratis: підказка для пам'яті. Наголос на першому складі: GRA-tis",
+      "check": "Наголос GRA-tis з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-696cf27f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "rij",
+      "plural": [
+        "rijen"
+      ],
+      "ua": "черга (людей)",
+      "audio": "de-rij.mp3",
+      "explain_ua": "(De klant staat in de rij = клієнт стоїть у черзі). In de rij staan -- стояти в черзі (звичайний вислів; wachten, Les 9, завжди йде з op, тому тут не підходить). Множина rijen. Ij це [ɛi], як у mijn (Les 1); наголос на єдиному складі: RIJ",
+      "check": "Множину rijen з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-8b2c078f",
+      "type": "noun",
+      "article": "de",
+      "lemma": "tas",
+      "plural": [
+        "tassen"
+      ],
+      "ua": "сумка, пакет",
+      "audio": "de-tas.mp3",
+      "explain_ua": "(Deze tas is gratis = ця сумка безкоштовна). Tas -- сумка чи пакет, у який кладуть покупки. Множина tassen: приголосна подвоюється, як bus - bussen (Les 6). Наголос на єдиному складі: TAS",
+      "check": "Множину tassen з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-af82db8b",
+      "type": "noun",
+      "article": "de",
+      "lemma": "uitverkoop",
+      "plural": [],
+      "ua": "розпродаж",
+      "audio": "de-uitverkoop.mp3",
+      "explain_ua": "(Dit T-shirt is in de uitverkoop = ця футболка на розпродажі). Складається з uit (Les 1) і verkoop «продаж» (від verkopen, окремо не вчимо): «випродаж». In de uitverkoop -- на розпродажі. Без множини в цьому значенні. Наголос на першому складі: UIT-ver-koop",
+      "check": "Що uitverkoop не має вживаної множини, з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-834c9e5c",
+      "type": "verb",
+      "lemma": "sparen",
+      "ua": "заощаджувати, накопичувати (гроші)",
+      "audio": "sparen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "spaar",
+          "audio": "ik-spaar.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "spaart",
+          "audio": "hij-spaart.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "sparen",
+          "audio": "wij-sparen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik spaar voor nieuwe schoenen = я заощаджую на нові туфлі). Sparen + voor (Les 11) -- заощаджувати НА щось. Відкритоскладове подовження голосної, як kopen, betalen (Les 8, 10): основа spaar (подвійна a), не spar. Наголос на єдиному складі основи: SPAAR",
+      "check": "Наголос з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-2a690d67",
+      "type": "noun",
+      "article": "de",
+      "lemma": "portemonnee",
+      "plural": [
+        "portemonnees"
+      ],
+      "ua": "гаманець",
+      "audio": "de-portemonnee.mp3",
+      "explain_ua": "(Ik heb mijn portemonnee niet = у мене немає при собі гаманця). Portemonnee -- гаманець для готівки й карток. Множина portemonnees. Наголос на останньому складі: por-te-mon-NEE",
+      "check": "Наголос por-te-mon-NEE і множину portemonnees перевірено (woorden.org)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Betalen: contant, pinnen, de pinpas, het wisselgeld, de bon",
+      "summary_ua": "У Нідерландах платять двома основними способами: contant (готівкою) чи pinnen (карткою, через пін-код). Після покупки отримують wisselgeld (решту, якщо готівкою) чи een bon (чек).",
+      "see": "Les 16",
+      "compare": [
+        {
+          "form": "contant чи pinnen",
+          "when_ua": "Обидва слова стоять після дієслова, як прислівники способу.",
+          "examples": [
+            {
+              "nl": "Ik betaal contant.",
+              "ua": "Я плачу готівкою.",
+              "audio": "les44-rule-01.mp3"
+            },
+            {
+              "nl": "Ik pin met mijn pinpas.",
+              "ua": "Я плачу карткою.",
+              "audio": "les44-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Pinnen -- дуже нідерландське слово: не кажуть просто betalen met kaart, а саме pinnen."
+        },
+        {
+          "form": "wisselgeld en de bon",
+          "when_ua": "Після оплати -- решта (якщо готівкою) чи чек.",
+          "examples": [
+            {
+              "nl": "Dit is uw wisselgeld.",
+              "ua": "Ось ваша решта.",
+              "audio": "les44-rule-03.mp3"
+            },
+            {
+              "nl": "De verkoper geeft mij een bon.",
+              "ua": "Продавець дає мені чек.",
+              "audio": "les44-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Geven ... aan/mij (Les 36): de verkoper geeft mij een bon, той самий порядок."
+        }
+      ],
+      "points_ua": [
+        "Contant / pinnen: два способи платити, обидва після дієслова.",
+        "Wisselgeld (без множини) і de bon (множина bonnen) -- після оплати."
+      ]
+    },
+    {
+      "title_ua": "Kleren passen: de maat, de paskamer, ruilen",
+      "summary_ua": "Перед покупкою одягу питають про maat (розмір) і passen (приміряти) у paskamer (примірочній). Якщо щось не підходить, можна ruilen (обміняти).",
+      "see": "Les 21",
+      "compare": [
+        {
+          "form": "passen en de maat",
+          "when_ua": "Mag ik ... passen? -- ввічливе прохання; welke maat -- питання про розмір.",
+          "examples": [
+            {
+              "nl": "Mag ik dit passen?",
+              "ua": "Чи можу я це приміряти?",
+              "audio": "les44-rule-05.mp3"
+            },
+            {
+              "nl": "Welke maat heeft u?",
+              "ua": "Який у вас розмір?",
+              "audio": "les44-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Passen тут значить «приміряти» -- людина passen одяг."
+        },
+        {
+          "form": "de paskamer en ruilen",
+          "when_ua": "Де приміряти, і що робити, якщо не підходить.",
+          "examples": [
+            {
+              "nl": "Waar is de paskamer?",
+              "ua": "Де примірочна?",
+              "audio": "les44-rule-07.mp3"
+            },
+            {
+              "nl": "Ik wil deze schoenen ruilen.",
+              "ua": "Я хочу обміняти ці туфлі.",
+              "audio": "les44-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Willen + ruilen: звичайна рамка з інфінітивом у кінці (Les 7)."
+        }
+      ],
+      "points_ua": [
+        "Passen (приміряти) + de maat (розмір) + de paskamer (примірочна): разом складають похід по одяг.",
+        "Ruilen: обміняти, якщо щось не підходить."
+      ]
+    },
+    {
+      "title_ua": "Minder betalen: korting, actie, uitverkoop, gratis",
+      "summary_ua": "Чотири способи заплатити менше: korting (знижка), actie (акція), uitverkoop (розпродаж), gratis (безкоштовно, найбільша знижка).",
+      "see": "Les 16",
+      "compare": [
+        {
+          "form": "korting en de uitverkoop",
+          "when_ua": "Is er korting op ...? -- питання про знижку; in de uitverkoop -- на розпродажі.",
+          "examples": [
+            {
+              "nl": "Is er korting op deze schoenen?",
+              "ua": "Чи є знижка на ці туфлі?",
+              "audio": "les44-rule-09.mp3"
+            },
+            {
+              "nl": "Dit T-shirt is in de uitverkoop.",
+              "ua": "Ця футболка на розпродажі.",
+              "audio": "les44-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Is er korting? -- та сама er-конструкція, що Les 24 (Er is / Zijn er), заперечення лише geen: Er is geen korting."
+        },
+        {
+          "form": "de actie en gratis",
+          "when_ua": "In de actie -- тимчасова ціна; gratis -- взагалі без грошей.",
+          "examples": [
+            {
+              "nl": "Deze schoenen zijn in de actie.",
+              "ua": "Ці туфлі за акцією.",
+              "audio": "les44-rule-11.mp3"
+            },
+            {
+              "nl": "Dit T-shirt is gratis.",
+              "ua": "Ця футболка безкоштовна.",
+              "audio": "les44-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Gratis -- найбільша «знижка»: взагалі нічого не платиш."
+        }
+      ],
+      "points_ua": [
+        "Korting/actie/uitverkoop: різні способи тимчасово меншої ціни.",
+        "Gratis: взагалі безкоштовно, форма не змінюється (як oranje, Les 21)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik betaal met mijn pinpas.",
+      "ua": "Я плачу своєю банківською карткою.",
+      "audio": "les44-example-01.mp3"
+    },
+    {
+      "nl": "Kunt u ook contant betalen?",
+      "ua": "Чи можете ви також заплатити готівкою?",
+      "audio": "les44-example-02.mp3"
+    },
+    {
+      "nl": "Ik pin bij de kassa.",
+      "ua": "Я плачу карткою на касі.",
+      "audio": "les44-example-03.mp3"
+    },
+    {
+      "nl": "Hier is uw wisselgeld.",
+      "ua": "Ось ваша решта.",
+      "audio": "les44-example-04.mp3"
+    },
+    {
+      "nl": "Mag ik dit T-shirt passen?",
+      "ua": "Чи можу я приміряти цю футболку?",
+      "audio": "les44-example-05.mp3"
+    },
+    {
+      "nl": "De paskamer is achter u.",
+      "ua": "Примірочна позаду вас.",
+      "audio": "les44-example-06.mp3"
+    },
+    {
+      "nl": "Ik weet mijn maat niet.",
+      "ua": "Я не знаю свій розмір.",
+      "audio": "les44-example-07.mp3"
+    },
+    {
+      "nl": "Kan ik dit ruilen?",
+      "ua": "Чи можу я це обміняти?",
+      "audio": "les44-example-08.mp3"
+    },
+    {
+      "nl": "Is er korting op deze schoenen?",
+      "ua": "Чи є знижка на ці туфлі?",
+      "audio": "les44-example-09.mp3"
+    },
+    {
+      "nl": "Dit T-shirt is in de uitverkoop.",
+      "ua": "Ця футболка на розпродажі.",
+      "audio": "les44-example-10.mp3"
+    },
+    {
+      "nl": "De klant staat in de rij.",
+      "ua": "Клієнт чекає в черзі.",
+      "audio": "les44-example-11.mp3"
+    },
+    {
+      "nl": "Deze tas is gratis.",
+      "ua": "Ця сумка безкоштовна.",
+      "audio": "les44-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Nieuwe schoenen",
+    "title_ua": "Нове взуття",
+    "highlight": [
+      "nl-b5e0ee27",
+      "nl-03221672",
+      "nl-26414e60",
+      "nl-8cfff0b4",
+      "nl-2cb2f519",
+      "nl-00922f45"
+    ],
+    "sentences": [
+      {
+        "nl": "Ik spaar voor nieuwe schoenen.",
+        "ua": "Я заощаджую на нові туфлі.",
+        "audio": "les44-reading-01.mp3"
+      },
+      {
+        "nl": "Ik ga naar de winkel.",
+        "ua": "Я йду в магазин.",
+        "audio": "les44-reading-02.mp3"
+      },
+      {
+        "nl": "Deze schoenen zijn mooi, maar ik weet mijn maat niet.",
+        "ua": "Ці туфлі гарні, але я не знаю свій розмір.",
+        "audio": "les44-reading-03.mp3"
+      },
+      {
+        "nl": "De verkoper helpt mij.",
+        "ua": "Продавець мені допомагає.",
+        "audio": "les44-reading-04.mp3"
+      },
+      {
+        "nl": "Mag ik deze schoenen passen?",
+        "ua": "Чи можу я приміряти ці туфлі?",
+        "audio": "les44-reading-05.mp3"
+      },
+      {
+        "nl": "De paskamer is daar.",
+        "ua": "Примірочна там.",
+        "audio": "les44-reading-06.mp3"
+      },
+      {
+        "nl": "De schoenen passen goed.",
+        "ua": "Туфлі добре сидять.",
+        "audio": "les44-reading-07.mp3"
+      },
+      {
+        "nl": "Ik betaal bij de kassa.",
+        "ua": "Я плачу на касі.",
+        "audio": "les44-reading-08.mp3"
+      },
+      {
+        "nl": "Ik pin, want ik heb geen contant geld.",
+        "ua": "Я плачу карткою, бо в мене немає готівки.",
+        "audio": "les44-reading-09.mp3"
+      },
+      {
+        "nl": "Zij geeft mij een bon.",
+        "ua": "Вона дає мені чек.",
+        "audio": "les44-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я хочу заплатити своєю карткою.",
+          "accepted": [
+            "Ik wil met mijn pinpas betalen."
+          ]
+        },
+        {
+          "prompt": "Ви платите готівкою чи карткою?",
+          "accepted": [
+            "Betaalt u contant of pint u?"
+          ]
+        },
+        {
+          "prompt": "Де я можу заплатити карткою?",
+          "accepted": [
+            "Waar kan ik pinnen?"
+          ]
+        },
+        {
+          "prompt": "Я не хочу решту.",
+          "accepted": [
+            "Ik wil geen wisselgeld."
+          ]
+        },
+        {
+          "prompt": "Чи можу я приміряти цю куртку?",
+          "accepted": [
+            "Kan ik deze jas passen?"
+          ]
+        },
+        {
+          "prompt": "Де примірочні?",
+          "accepted": [
+            "Waar zijn de paskamers?"
+          ]
+        },
+        {
+          "prompt": "Який це розмір?",
+          "accepted": [
+            "Welke maat is dit?"
+          ]
+        },
+        {
+          "prompt": "Ми хочемо обміняти ці штани.",
+          "accepted": [
+            "Wij willen deze broek ruilen.",
+            "We willen deze broek ruilen."
+          ]
+        },
+        {
+          "prompt": "Чи є знижка на цю сумку?",
+          "accepted": [
+            "Is er korting op deze tas?"
+          ]
+        },
+        {
+          "prompt": "Ця куртка не на розпродажі.",
+          "accepted": [
+            "Deze jas is niet in de uitverkoop."
+          ]
+        },
+        {
+          "prompt": "Клієнти стоять на касі.",
+          "accepted": [
+            "De klanten staan bij de kassa."
+          ]
+        },
+        {
+          "prompt": "Ці туфлі не безкоштовні.",
+          "accepted": [
+            "Deze schoenen zijn niet gratis."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "pinpas",
+        "contant",
+        "kassa",
+        "wisselgeld",
+        "bon",
+        "maat",
+        "paskamer",
+        "ruil",
+        "korting",
+        "gratis",
+        "spaar",
+        "past"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik betaal met mijn ___.",
+          "hint": "картка",
+          "accepted": [
+            [
+              "pinpas"
+            ]
+          ]
+        },
+        {
+          "text": "Kunt u ook ___ betalen?",
+          "hint": "готівкою",
+          "accepted": [
+            [
+              "contant"
+            ]
+          ]
+        },
+        {
+          "text": "Ik pin bij de ___.",
+          "hint": "каса",
+          "accepted": [
+            [
+              "kassa"
+            ]
+          ]
+        },
+        {
+          "text": "Hier is uw ___.",
+          "hint": "решта",
+          "accepted": [
+            [
+              "wisselgeld"
+            ]
+          ]
+        },
+        {
+          "text": "De verkoper geeft mij een ___.",
+          "hint": "чек",
+          "accepted": [
+            [
+              "bon"
+            ]
+          ]
+        },
+        {
+          "text": "Welke ___ heeft u?",
+          "hint": "розмір",
+          "accepted": [
+            [
+              "maat"
+            ]
+          ]
+        },
+        {
+          "text": "Waar is de ___?",
+          "hint": "примірочна",
+          "accepted": [
+            [
+              "paskamer"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ dit T-shirt.",
+          "hint": "поверну (обміняю)",
+          "accepted": [
+            [
+              "ruil"
+            ]
+          ]
+        },
+        {
+          "text": "Is er ___ op deze jas?",
+          "hint": "знижка",
+          "accepted": [
+            [
+              "korting"
+            ]
+          ]
+        },
+        {
+          "text": "Dit T-shirt is ___.",
+          "hint": "безкоштовне",
+          "accepted": [
+            [
+              "gratis"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ voor nieuwe schoenen.",
+          "hint": "заощаджую",
+          "accepted": [
+            [
+              "spaar"
+            ]
+          ]
+        },
+        {
+          "text": "Deze jas ___ goed.",
+          "hint": "підходить (пасує)",
+          "accepted": [
+            [
+              "past"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik betaal contant.",
+          "cue": "-> заміни: pinnen",
+          "accepted": [
+            "Ik pin."
+          ]
+        },
+        {
+          "prompt": "Jij pint bij de kassa.",
+          "cue": "-> питання",
+          "accepted": [
+            "Pin jij bij de kassa?",
+            "Pin je bij de kassa?"
+          ]
+        },
+        {
+          "prompt": "Ik wil dit ruilen.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik wil dit niet ruilen."
+          ]
+        },
+        {
+          "prompt": "Deze jas past goed.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Deze jas past niet goed."
+          ]
+        },
+        {
+          "prompt": "Ik spaar voor schoenen.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Wij sparen voor schoenen.",
+            "We sparen voor schoenen."
+          ]
+        },
+        {
+          "prompt": "Mag ik dit passen?",
+          "cue": "-> заміни dit на deze schoenen",
+          "accepted": [
+            "Mag ik deze schoenen passen?"
+          ]
+        },
+        {
+          "prompt": "Is er korting?",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Is er geen korting?"
+          ]
+        },
+        {
+          "prompt": "De klant staat bij de kassa.",
+          "cue": "-> множина: De klanten ...",
+          "accepted": [
+            "De klanten staan bij de kassa."
+          ]
+        },
+        {
+          "prompt": "Ik heb een bon.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik heb geen bon."
+          ]
+        },
+        {
+          "prompt": "Dit T-shirt is gratis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is dit T-shirt gratis?"
+          ]
+        },
+        {
+          "prompt": "Wij passen deze schoenen.",
+          "cue": "-> заміни wij на zij (одна особа)",
+          "accepted": [
+            "Zij past deze schoenen."
+          ]
+        },
+        {
+          "prompt": "Jij spaart voor een nieuwe tas.",
+          "cue": "-> питання",
+          "accepted": [
+            "Spaar jij voor een nieuwe tas?",
+            "Spaar je voor een nieuwe tas?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ contant.",
+          "cue": "betalen",
+          "accepted": [
+            "betaal"
+          ]
+        },
+        {
+          "text": "___ jij bij de kassa?",
+          "cue": "pinnen",
+          "accepted": [
+            "Pin",
+            "pin"
+          ]
+        },
+        {
+          "text": "Hij ___ bij de kassa.",
+          "cue": "pinnen",
+          "accepted": [
+            "pint"
+          ]
+        },
+        {
+          "text": "Ik ___ dit T-shirt.",
+          "cue": "ruilen",
+          "accepted": [
+            "ruil"
+          ]
+        },
+        {
+          "text": "Wij ___ deze schoenen niet.",
+          "cue": "ruilen",
+          "accepted": [
+            "ruilen"
+          ]
+        },
+        {
+          "text": "Mag ik dit ___?",
+          "cue": "passen",
+          "accepted": [
+            "passen"
+          ]
+        },
+        {
+          "text": "Deze jas ___ goed.",
+          "cue": "passen",
+          "accepted": [
+            "past"
+          ]
+        },
+        {
+          "text": "Deze schoenen ___ goed.",
+          "cue": "passen",
+          "accepted": [
+            "passen"
+          ]
+        },
+        {
+          "text": "Ik ___ voor nieuwe schoenen.",
+          "cue": "sparen",
+          "accepted": [
+            "spaar"
+          ]
+        },
+        {
+          "text": "Zij ___ voor een auto.",
+          "cue": "sparen",
+          "accepted": [
+            "spaart"
+          ]
+        },
+        {
+          "text": "Wij ___ voor een huis.",
+          "cue": "sparen",
+          "accepted": [
+            "sparen"
+          ]
+        },
+        {
+          "text": "___ u ook contant?",
+          "cue": "betalen",
+          "accepted": [
+            "Betaalt",
+            "betaalt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "знижка",
+          "answer": "de korting"
+        },
+        {
+          "prompt": "каса",
+          "answer": "de kassa"
+        },
+        {
+          "prompt": "клієнт",
+          "answer": "de klant"
+        },
+        {
+          "prompt": "продавець",
+          "answer": "de verkoper"
+        },
+        {
+          "prompt": "банківська картка",
+          "answer": "de pinpas"
+        },
+        {
+          "prompt": "решта (гроші)",
+          "answer": "het wisselgeld"
+        },
+        {
+          "prompt": "чек",
+          "answer": "de bon"
+        },
+        {
+          "prompt": "розмір",
+          "answer": "de maat"
+        },
+        {
+          "prompt": "черга",
+          "answer": "de rij"
+        },
+        {
+          "prompt": "гаманець",
+          "answer": "de portemonnee"
+        }
+      ],
+      "extra": [
+        "de tas",
+        "de uitverkoop"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    }
+  ]
+}
