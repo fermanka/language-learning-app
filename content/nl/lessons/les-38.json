@@ -1,0 +1,864 @@
+{
+  "id": "nl-les-38",
+  "lang": "nl",
+  "order": 38,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-f343267b",
+      "type": "function",
+      "lemma": "straks",
+      "ua": "незабаром, скоро (сьогодні, за короткий час)",
+      "audio": "straks.mp3",
+      "explain_ua": "(Ik ga straks werken = я скоро (сьогодні) піду працювати; Straks kom ik = я скоро прийду). Straks це «скоро», але дуже близько: за годину-дві, ще сьогодні. Пара до binnenkort (наступна картка) -- binnenkort про довший термін. Стоїть першим (тоді дієслово друге, Les 10) або одразу після дієслова й підмета, як altijd, vaak, snel (Les 10). Немає артикля, форма не змінюється. Str- без придиху, як у слов'янських мовах; a коротка [ɑ], як у man (Les 1); ks наприкінці звучить окремо",
+      "check": "Наголос на першому складі (STRAKS) я знаю з власних знань, не перевірено в словнику."
+    },
+    {
+      "id": "nl-5bef1bc9",
+      "type": "function",
+      "lemma": "binnenkort",
+      "ua": "незабаром, скоро (найближчим часом; дні чи тижні)",
+      "audio": "binnenkort.mp3",
+      "explain_ua": "(Wij gaan binnenkort verhuizen = ми скоро (найближчим часом) переїдемо). Binnenkort складається з binnen «всередині» (як у binnenkomen, Les 5) і kort «короткий» (окремо це слово не вчимо): буквально «в межах короткого (часу)». Це підказка для пам'яті. На відміну від straks (сьогодні), binnenkort означає довший, але все ще близький термін: дні чи тижні. Форма не змінюється, артикля немає. Стоїть першим або після дієслова й підмета, як straks. Ie в binnen це [ɪ], коротка; наголос на першому складі: BIN-nen-kort",
+      "check": "Що binnenkort складається саме з binnen і kort, з власних знань, окремо в словнику не перевірено."
+    },
+    {
+      "id": "nl-4becc32f",
+      "type": "function",
+      "lemma": "later",
+      "ua": "пізніше",
+      "audio": "later.mp3",
+      "explain_ua": "(Later ga ik een huis kopen = пізніше я куплю будинок). Later це «пізніше», без чіткого терміну -- може бути завтра, а може за рік. Насправді це форма порівняння від laat (Les 14) «пізній», як beter (Les 37) від goed, але порівняння взагалі ще не вчимо, тому later вчимо як окреме слово. Не плутай з daarna (Les 11) «потім, після цього» (наступний крок у послідовності) -- later просто про майбутній час, без зв'язку з попередньою дією. Форма не змінюється. Ee довге [eː], як у thee (Les 12); наголос на першому складі: LA-ter",
+      "check": "Наголос на першому складі я знаю з власних знань, не перевірено в словнику."
+    },
+    {
+      "id": "nl-bb06366a",
+      "type": "function",
+      "lemma": "volgende / volgend",
+      "ua": "наступний (volgende week = наступного тижня)",
+      "audio": "volgende-volgend.mp3",
+      "audio_text": "volgende / volgend",
+      "dictation": false,
+      "explain_ua": "(Volgende week gaan wij verhuizen = наступного тижня ми переїдемо; Volgend jaar wonen wij in een nieuw huis = наступного року ми житимемо в новому будинку). Volgende і volgend це одне слово в двох формах, точно як vorige/vorig (Les 26): перед de-словом volgende (volgende week, volgende maand), перед het-словом volgend (volgend jaar). Це протилежність до vorige/vorig -- та сама граматика, обернений напрямок часу. Без in і без op: volgende week вже значить «наступного тижня». Слово походить від volgen «слідувати» (окремо не вчимо): «те, що йде слідом» -- підказка для пам'яті. Наголос на першому складі: VOL-gen-de",
+      "check": "Що volgende/volgend працює за тим самим правилом, що vorige/vorig, з власних знань, окремо в словнику не перевірено."
+    },
+    {
+      "id": "nl-604b676e",
+      "type": "verb",
+      "lemma": "verhuizen",
+      "ua": "переїжджати (в інше житло)",
+      "audio": "verhuizen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "verhuis",
+          "audio": "ik-verhuis.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "verhuist",
+          "audio": "hij-verhuist.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "verhuizen",
+          "audio": "wij-verhuizen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik verhuis volgende week = я переїжджаю наступного тижня; Wij gaan naar het nieuwe huis verhuizen = ми переїдемо в новий будинок). Verhuizen складається з ver- і huizen (від het huis, Les 1): буквально «геть-будинкувати» -- справжнє походження слова, гарна підказка для пам'яті. У основі z на кінці пишемо s, як reizen (Les 33) і lezen (Les 6): ik verhuis, hij verhuist, але wij verhuizen. Куди переїжджають, показує naar: verhuizen naar Nederland, verhuizen naar het nieuwe huis -- naar тут належить до verhuizen, не до gaan (див. правило нижче). Ui це [œy], як у huis; наголос на другому складі: ver-HUI-zen",
+      "check": "Форми verhuis, verhuist (z на кінці основи як s, за зразком reizen Les 33) з власних знань, окремо в словнику не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Ik ga werken: gaan + infinitief voor de toekomst",
+      "summary_ua": "Gaan (Les 5) отримує другу роботу: допоміжне дієслово майбутнього. Gaan відмінюється й стоїть другим, як завжди (Les 5: ik ga, jij/u gaat, hij gaat, wij/jullie/zij gaan). Другий дієслово -- завжди в -en формі (інфінітив) -- іде в самий кінець речення. Це та сама рамка, що вже відома з модальними дієсловами kunnen/willen/moeten/mogen (Les 7). Gaan показує план чи намір: «я збираюся, я піду».",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "gaan + інфінітив у кінці",
+          "when_ua": "Gaan відмінюється за підметом (Les 5); другий дієслово завжди в -en формі, у кінці речення, ніколи не відмінюється.",
+          "examples": [
+            {
+              "nl": "Ik ga morgen **werken**.",
+              "ua": "Я завтра піду працювати.",
+              "audio": "les38-rule-01.mp3"
+            },
+            {
+              "nl": "Wij gaan een nieuw huis **kopen**.",
+              "ua": "Ми збираємося купити новий будинок.",
+              "audio": "les38-rule-02.mp3"
+            },
+            {
+              "nl": "Zij gaat een appel **eten**.",
+              "ua": "Вона зараз з'їсть яблуко.",
+              "audio": "les38-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Gaan тут працює так само, як kunnen/willen/moeten/mogen (Les 7): відмінюване дієслово друге, інфінітив у кінці. Різниця лише в значенні: gaan показує план чи намір, а не здатність (kunnen), бажання (willen) чи обов'язок (moeten)."
+        }
+      ],
+      "points_ua": [
+        "Gaan + інфінітив = майбутній план: Ik ga werken.",
+        "Gaan відмінюється, другий дієслово завжди в -en формі, у кінці."
+      ]
+    },
+    {
+      "title_ua": "Vraag en ontkenning: Ga je ...?, Ik ga niet/geen ...",
+      "summary_ua": "Питання: ga/gaat перед підметом, як завжди (Les 3); з jij -t зникає під інверсією (Les 10): ga jij. Заперечення: niet перед інфінітивом заперечує саму дію, geen перед іменником без артикля заперечує річ -- той самий принцип, що вже відомий з kunnen (Les 9).",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Питання: Ga/gaat + підмет",
+          "when_ua": "Інверсія jij: gaat стає ga (Les 10). U ніколи не втрачає -t.",
+          "examples": [
+            {
+              "nl": "**Ga** je morgen werken?",
+              "ua": "Ти підеш завтра працювати?",
+              "audio": "les38-rule-04.mp3"
+            },
+            {
+              "nl": "**Gaat** u binnenkort verhuizen?",
+              "ua": "Ви скоро переїжджаєте?",
+              "audio": "les38-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Ga jij? і Ga je? обидва правильні (Les 10). Gaat u? завжди з -t, як kunt u (Les 7)."
+        },
+        {
+          "form": "Заперечення: niet чи geen",
+          "when_ua": "Niet перед інфінітивом заперечує всю дію; geen перед іменником без артикля заперечує річ -- те саме, що з kunnen (Les 9).",
+          "examples": [
+            {
+              "nl": "Ik ga **niet** werken.",
+              "ua": "Я не піду працювати.",
+              "audio": "les38-rule-06.mp3"
+            },
+            {
+              "nl": "Ik ga **geen** auto kopen.",
+              "ua": "Я не куплю (жодної) машини.",
+              "audio": "les38-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ik ga niet werken (дію не роблю) і Ik ga geen auto kopen (річ не куплю). Те саме правило, що з kunnen (Les 9): niet перед дієсловом, geen перед іменником."
+        }
+      ],
+      "points_ua": [
+        "Ga jij/je ... ?, Gaat u ... ?: питання через інверсію.",
+        "Niet + дієслово (дія), geen + іменник (річ)."
+      ]
+    },
+    {
+      "title_ua": "Ik ga naar school vs Ik ga werken: twee gaan",
+      "summary_ua": "Gaan має дві різні роботи. (1) Звичайне дієслово руху (Les 5): gaan + naar + місце, без другого дієслова -- просто «іду, їду». (2) Допоміжне дієслово майбутнього (картка вище): gaan + інфінітив, без naar. Пастка: gaan не подвоюють. Ik ga naar huis gaan неправильно.",
+      "see": "Les 5",
+      "compare": [
+        {
+          "form": "gaan як рух: gaan + naar + місце",
+          "when_ua": "Без другого дієслова, без наміру на майбутнє -- просто «іду, їду кудись».",
+          "examples": [
+            {
+              "nl": "Ik ga naar school.",
+              "ua": "Я йду до школи.",
+              "audio": "les38-rule-08.mp3"
+            },
+            {
+              "nl": "Ik ga naar huis.",
+              "ua": "Я йду додому.",
+              "audio": "les38-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Тут gaan сам є головним дієсловом: підмет + gaan + naar + місце. Другого дієслова в кінці немає."
+        },
+        {
+          "form": "gaan як майбутнє: gaan + інфінітив, без naar",
+          "when_ua": "Другий дієслово в кінці показує ЩО людина зробить, а не КУДИ вона йде зараз.",
+          "examples": [
+            {
+              "nl": "Ik ga morgen werken.",
+              "ua": "Я завтра піду працювати.",
+              "audio": "les38-rule-10.mp3"
+            },
+            {
+              "nl": "Ik ga volgende maand naar het nieuwe huis verhuizen.",
+              "ua": "Наступного місяця я переїду в новий будинок.",
+              "audio": "les38-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Не кажи Ik ga naar huis gaan -- gaan не подвоюють. Якщо дія й так «іти кудись», досить одного gaan: Ik ga naar huis. Якщо треба показати план переїзду, візьми інше дієслово після gaan, наприклад verhuizen: Ik ga verhuizen. Куди -- naar + місце -- тоді йде до ЦЬОГО дієслова, не до gaan: Ik ga naar het nieuwe huis verhuizen."
+        }
+      ],
+      "points_ua": [
+        "Gaan + naar + місце = рух (Les 5), без другого дієслова.",
+        "Gaan + інфінітив (без naar) = майбутнє. Gaan не подвоюють."
+      ]
+    },
+    {
+      "title_ua": "Morgen werk ik: tegenwoordige tijd voor de toekomst",
+      "summary_ua": "Нідерландська часто називає майбутнє звичайним теперішнім часом, без gaan -- якщо в реченні вже є слово часу (morgen, volgende week...). Це та сама модель V2, що вже відома (Les 2, Les 10), лише сенс майбутній, а не «зараз». Українською так само іноді кажуть «завтра я працюю» замість «завтра я буду працювати».",
+      "see": "Les 2",
+      "compare": [
+        {
+          "form": "Теперішній час + слово часу = майбутнє",
+          "when_ua": "Дієслово в звичайній теперішній формі; слово часу перше, дієслово друге (V2, Les 10).",
+          "examples": [
+            {
+              "nl": "**Morgen** werk ik.",
+              "ua": "Завтра я працюю (піду працювати).",
+              "audio": "les38-rule-12.mp3"
+            },
+            {
+              "nl": "**Morgen** komt de vrachtwagen.",
+              "ua": "Завтра приїде вантажівка.",
+              "audio": "les38-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Тут немає gaan і немає нової форми дієслова -- це той самий теперішній час, що й завжди, просто зі словом часу, яке робить сенс майбутнім."
+        },
+        {
+          "form": "Той самий сенс: gaan + інфінітив чи просто теперішній",
+          "when_ua": "Для близького, запланованого майбутнього обидва варіанти працюють і означають майже те саме.",
+          "examples": [
+            {
+              "nl": "Morgen werk ik.",
+              "ua": "Завтра я працюю.",
+              "audio": "les38-rule-14.mp3"
+            },
+            {
+              "nl": "Ik ga morgen werken.",
+              "ua": "Завтра я піду працювати.",
+              "audio": "les38-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Різниця тонка: звичайний теперішній час звучить як факт розкладу («завтра я на роботі»), gaan + інфінітив трохи більше підкреслює намір чи план. Обидва правильні."
+        }
+      ],
+      "points_ua": [
+        "Слово часу + теперішній час теж означає майбутнє: Morgen werk ik.",
+        "Gaan + інфінітив і просто теперішній час часто взаємозамінні для близького плану."
+      ]
+    },
+    {
+      "title_ua": "Will is niet altijd gaan",
+      "summary_ua": "Англійське will покриває кілька різних нідерландських способів. Ближній чи запланований план людини (I will work tomorrow) -- це gaan + інфінітив або звичайний теперішній час (картки вище). Прогноз чи обіцянка без плану людини (наприклад, про погоду -- it will rain) -- це zullen, окреме дієслово, яке вчимо в наступних уроках; gaan для цього не підходить. Тому не перекладай will просто як gaan щоразу: питай себе -- це план людини, чи прогноз/обіцянка?",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "will -> gaan чи теперішній час (план людини)",
+          "when_ua": "Коли will говорить про план чи намір людини -- саме це вчимо в цьому уроці.",
+          "examples": [
+            {
+              "nl": "Ik ga morgen werken.",
+              "ua": "Я завтра працюватиму (план: I will work tomorrow).",
+              "audio": "les38-rule-16.mp3"
+            },
+            {
+              "nl": "Wij gaan verhuizen.",
+              "ua": "Ми переїдемо (план: we will move).",
+              "audio": "les38-rule-17.mp3"
+            }
+          ],
+          "note_ua": "«I will work tomorrow» і «Tomorrow I work» означають майже те саме для плану людини -- обидва стають gaan + інфінітив або просто теперішнім часом нідерландською. Прогноз чи обіцянка без плану людини («буде дощ», «я обіцяю») нідерландською йде через zullen -- це наступні уроки, gaan для цього не бери."
+        }
+      ],
+      "points_ua": [
+        "Will = план людини -> gaan + інфінітив або теперішній час.",
+        "Will = прогноз/обіцянка без плану -> zullen (пізніше), не gaan."
+      ]
+    },
+    {
+      "title_ua": "Straks, binnenkort, later, volgende: tijd in de toekomst",
+      "summary_ua": "Чотири нові слова часу різняться відстанню. Straks -- дуже скоро, сьогодні. Binnenkort -- скоро, найближчим часом (дні чи тижні). Later -- пізніше, без чіткого терміну. Volgende (перед de-словом) / volgend (перед het-словом) -- «наступний», конкретна одиниця часу (volgende week, volgend jaar) -- протилежність до vorige/vorig (Les 26).",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "straks, binnenkort, later: різна відстань",
+          "when_ua": "Слово часу стоїть першим або одразу після дієслова й підмета, як altijd/vaak/snel (Les 10).",
+          "examples": [
+            {
+              "nl": "**Straks** bel ik mijn moeder op.",
+              "ua": "Скоро (сьогодні) я подзвоню мамі.",
+              "audio": "les38-rule-18.mp3"
+            },
+            {
+              "nl": "Wij gaan **binnenkort** verhuizen.",
+              "ua": "Ми скоро (найближчим часом) переїдемо.",
+              "audio": "les38-rule-19.mp3"
+            },
+            {
+              "nl": "**Later** ga ik een huis kopen.",
+              "ua": "Пізніше я куплю будинок.",
+              "audio": "les38-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Straks = сьогодні, за годину-дві. Binnenkort = за кілька днів чи тижнів. Later = коли завгодно в майбутньому, без чіткого терміну."
+        },
+        {
+          "form": "volgende / volgend: наступний",
+          "when_ua": "Volgende перед de-словом, volgend перед het-словом -- те саме правило, що vorige/vorig (Les 26) і elke/elk (Les 7). Без in і без op.",
+          "examples": [
+            {
+              "nl": "**Volgende** week gaan wij verhuizen.",
+              "ua": "Наступного тижня ми переїдемо.",
+              "audio": "les38-rule-21.mp3"
+            },
+            {
+              "nl": "**Volgend** jaar wonen wij in een nieuw huis.",
+              "ua": "Наступного року ми житимемо в новому будинку.",
+              "audio": "les38-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Volgende week проти vorige week (Les 26): протилежні напрямки в часі, однакова граматика."
+        }
+      ],
+      "points_ua": [
+        "Straks = сьогодні, binnenkort = найближчим часом, later = без терміну.",
+        "Volgende (de) / volgend (het) = наступний, як vorige/vorig (Les 26)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik ga morgen werken.",
+      "ua": "Я завтра піду працювати.",
+      "audio": "les38-example-01.mp3"
+    },
+    {
+      "nl": "Wij gaan een nieuw huis kopen.",
+      "ua": "Ми збираємося купити новий будинок.",
+      "audio": "les38-example-02.mp3"
+    },
+    {
+      "nl": "Ga je straks boodschappen doen?",
+      "ua": "Ти скоро підеш за покупками?",
+      "audio": "les38-example-03.mp3"
+    },
+    {
+      "nl": "Ik ga niet werken.",
+      "ua": "Я не піду працювати.",
+      "audio": "les38-example-04.mp3"
+    },
+    {
+      "nl": "Ik ga geen auto kopen.",
+      "ua": "Я не куплю (жодної) машини.",
+      "audio": "les38-example-05.mp3"
+    },
+    {
+      "nl": "Ik ga naar school.",
+      "ua": "Я йду до школи.",
+      "audio": "les38-example-06.mp3"
+    },
+    {
+      "nl": "Ik ga volgende week naar het nieuwe huis verhuizen.",
+      "ua": "Наступного тижня я переїду в новий будинок.",
+      "audio": "les38-example-07.mp3"
+    },
+    {
+      "nl": "Morgen komt de vrachtwagen.",
+      "ua": "Завтра приїде вантажівка.",
+      "audio": "les38-example-08.mp3"
+    },
+    {
+      "nl": "Binnenkort gaan wij verhuizen.",
+      "ua": "Незабаром ми переїдемо.",
+      "audio": "les38-example-09.mp3"
+    },
+    {
+      "nl": "Later ga ik een huis kopen.",
+      "ua": "Пізніше я куплю будинок.",
+      "audio": "les38-example-10.mp3"
+    },
+    {
+      "nl": "Wij hebben geen tijd, dus wij gaan morgen verhuizen.",
+      "ua": "У нас немає часу, тому ми переїдемо завтра.",
+      "audio": "les38-example-11.mp3"
+    },
+    {
+      "nl": "Ik ga naar huis, maar ik ga niet verhuizen.",
+      "ua": "Я йду додому, але я не переїжджаю.",
+      "audio": "les38-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wij gaan verhuizen",
+    "title_ua": "Ми переїжджаємо",
+    "highlight": [
+      "nl-f343267b"
+    ],
+    "sentences": [
+      {
+        "nl": "Wij wonen in een klein huis.",
+        "ua": "Ми живемо в маленькому будинку.",
+        "audio": "les38-reading-01.mp3"
+      },
+      {
+        "nl": "Het huis is te klein voor de familie.",
+        "ua": "Будинок замалий для сім'ї.",
+        "audio": "les38-reading-02.mp3"
+      },
+      {
+        "nl": "Wij willen een nieuw huis kopen.",
+        "ua": "Ми хочемо купити новий будинок.",
+        "audio": "les38-reading-03.mp3"
+      },
+      {
+        "nl": "Dus wij gaan verhuizen.",
+        "ua": "Тому ми переїжджаємо.",
+        "audio": "les38-reading-04.mp3"
+      },
+      {
+        "nl": "Straks bel ik mijn moeder op.",
+        "ua": "Скоро я подзвоню мамі.",
+        "audio": "les38-reading-05.mp3"
+      },
+      {
+        "nl": "Volgende maand gaan wij naar het nieuwe huis verhuizen.",
+        "ua": "Наступного місяця ми переїдемо в новий будинок.",
+        "audio": "les38-reading-06.mp3"
+      },
+      {
+        "nl": "Morgen komt de vrachtwagen.",
+        "ua": "Завтра приїде вантажівка.",
+        "audio": "les38-reading-07.mp3"
+      },
+      {
+        "nl": "Het nieuwe huis heeft drie slaapkamers.",
+        "ua": "У новому будинку три спальні.",
+        "audio": "les38-reading-08.mp3"
+      },
+      {
+        "nl": "Mijn dochter gaat naar een nieuwe school.",
+        "ua": "Моя донька піде до нової школи.",
+        "audio": "les38-reading-09.mp3"
+      },
+      {
+        "nl": "Ik ben moe, maar het gaat goed.",
+        "ua": "Я втомлена, але все добре.",
+        "audio": "les38-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Скоро я почитаю книгу.",
+          "accepted": [
+            "Straks ga ik een boek lezen."
+          ]
+        },
+        {
+          "prompt": "Мій брат переїжджає наступного тижня.",
+          "accepted": [
+            "Mijn broer gaat volgende week verhuizen."
+          ]
+        },
+        {
+          "prompt": "Ми не купимо (жодних) яблук.",
+          "accepted": [
+            "Wij gaan geen appels kopen.",
+            "We gaan geen appels kopen."
+          ]
+        },
+        {
+          "prompt": "Ти скоро підеш працювати?",
+          "accepted": [
+            "Ga jij binnenkort werken?",
+            "Ga je binnenkort werken?"
+          ]
+        },
+        {
+          "prompt": "Пізніше ми купимо нову машину.",
+          "accepted": [
+            "Later gaan wij een nieuwe auto kopen.",
+            "Later gaan we een nieuwe auto kopen."
+          ]
+        },
+        {
+          "prompt": "Я сьогодні не піду в магазин.",
+          "accepted": [
+            "Ik ga vandaag niet naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Завтра моя сестра з'їсть банан.",
+          "accepted": [
+            "Morgen eet mijn zus een banaan."
+          ]
+        },
+        {
+          "prompt": "Ми зараз (скоро) з'їмо яблуко.",
+          "accepted": [
+            "Wij gaan straks een appel eten.",
+            "We gaan straks een appel eten."
+          ]
+        },
+        {
+          "prompt": "Наступного року я переїду в Нідерланди.",
+          "accepted": [
+            "Volgend jaar ga ik naar Nederland verhuizen."
+          ]
+        },
+        {
+          "prompt": "Ви завтра підете за покупками?",
+          "accepted": [
+            "Gaat u morgen boodschappen doen?"
+          ]
+        },
+        {
+          "prompt": "Вона не переїжджає.",
+          "accepted": [
+            "Zij gaat niet verhuizen.",
+            "Ze gaat niet verhuizen."
+          ]
+        },
+        {
+          "prompt": "Мої батьки переїжджають наступного місяця.",
+          "accepted": [
+            "Mijn ouders gaan volgende maand verhuizen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "werken",
+        "gaan",
+        "straks",
+        "binnenkort",
+        "later",
+        "volgende",
+        "verhuizen",
+        "geen",
+        "komt",
+        "ga",
+        "gaat",
+        "niet"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ga morgen ___.",
+          "hint": "працювати",
+          "accepted": [
+            [
+              "werken"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ een nieuw huis kopen.",
+          "hint": "ми маємо намір (робити щось)",
+          "accepted": [
+            [
+              "gaan"
+            ]
+          ]
+        },
+        {
+          "text": "___ ga ik naar mijn moeder.",
+          "hint": "скоро (сьогодні)",
+          "accepted": [
+            [
+              "straks",
+              "Straks"
+            ]
+          ]
+        },
+        {
+          "text": "Wij gaan ___ verhuizen.",
+          "hint": "незабаром (найближчим часом)",
+          "accepted": [
+            [
+              "binnenkort"
+            ]
+          ]
+        },
+        {
+          "text": "___ ga ik een huis kopen.",
+          "hint": "пізніше",
+          "accepted": [
+            [
+              "later",
+              "Later"
+            ]
+          ]
+        },
+        {
+          "text": "___ week gaan wij verhuizen.",
+          "hint": "наступного (тижня)",
+          "accepted": [
+            [
+              "volgende",
+              "Volgende"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ga niet ___.",
+          "hint": "переїжджати",
+          "accepted": [
+            [
+              "verhuizen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ga ___ auto kopen.",
+          "hint": "жодної (машини)",
+          "accepted": [
+            [
+              "geen"
+            ]
+          ]
+        },
+        {
+          "text": "Morgen ___ de vrachtwagen.",
+          "hint": "приїде",
+          "accepted": [
+            [
+              "komt"
+            ]
+          ]
+        },
+        {
+          "text": "___ jij straks boodschappen doen?",
+          "hint": "питання: чи (ти)",
+          "accepted": [
+            [
+              "ga",
+              "Ga"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn dochter ___ naar een nieuwe school.",
+          "hint": "йде (вона)",
+          "accepted": [
+            [
+              "gaat"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ga vandaag ___ werken.",
+          "hint": "не",
+          "accepted": [
+            [
+              "niet"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik ga werken.",
+          "cue": "-> заперечення: Ik ga ... werken.",
+          "accepted": [
+            "Ik ga niet werken."
+          ]
+        },
+        {
+          "prompt": "Ik ga een auto kopen.",
+          "cue": "-> заперечення об'єкта: Ik ga ... auto kopen.",
+          "accepted": [
+            "Ik ga geen auto kopen."
+          ]
+        },
+        {
+          "prompt": "Jij gaat morgen werken.",
+          "cue": "-> питання",
+          "accepted": [
+            "Ga jij morgen werken?",
+            "Ga je morgen werken?"
+          ]
+        },
+        {
+          "prompt": "Wij gaan verhuizen.",
+          "cue": "-> почни з Binnenkort",
+          "accepted": [
+            "Binnenkort gaan wij verhuizen.",
+            "Binnenkort gaan we verhuizen."
+          ]
+        },
+        {
+          "prompt": "Ik ga een huis kopen.",
+          "cue": "-> почни з Later",
+          "accepted": [
+            "Later ga ik een huis kopen."
+          ]
+        },
+        {
+          "prompt": "Zij gaat naar school.",
+          "cue": "-> заміни zij на jullie",
+          "accepted": [
+            "Jullie gaan naar school."
+          ]
+        },
+        {
+          "prompt": "Ik werk morgen.",
+          "cue": "-> зроби з gaan + infinitief",
+          "accepted": [
+            "Ik ga morgen werken."
+          ]
+        },
+        {
+          "prompt": "Wij verhuizen volgende maand.",
+          "cue": "-> почни з Volgende maand",
+          "accepted": [
+            "Volgende maand verhuizen wij.",
+            "Volgende maand verhuizen we."
+          ]
+        },
+        {
+          "prompt": "Ik ga naar huis.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Wij gaan naar huis.",
+            "We gaan naar huis."
+          ]
+        },
+        {
+          "prompt": "De vrachtwagen komt morgen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Komt de vrachtwagen morgen?"
+          ]
+        },
+        {
+          "prompt": "Ik ga straks boodschappen doen.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik ga straks niet boodschappen doen."
+          ]
+        },
+        {
+          "prompt": "Mijn dochter gaat naar een nieuwe school.",
+          "cue": "-> множина: Mijn dochters ...",
+          "accepted": [
+            "Mijn dochters gaan naar een nieuwe school."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ morgen werken.",
+          "cue": "gaan",
+          "accepted": [
+            "ga"
+          ]
+        },
+        {
+          "text": "Jij ___ straks boodschappen doen.",
+          "cue": "gaan",
+          "accepted": [
+            "gaat"
+          ]
+        },
+        {
+          "text": "___ jij morgen werken?",
+          "cue": "gaan",
+          "accepted": [
+            "Ga",
+            "ga"
+          ]
+        },
+        {
+          "text": "Wij ___ volgende maand verhuizen.",
+          "cue": "gaan",
+          "accepted": [
+            "gaan"
+          ]
+        },
+        {
+          "text": "Mijn dochter ___ naar een nieuwe school.",
+          "cue": "gaan",
+          "accepted": [
+            "gaat"
+          ]
+        },
+        {
+          "text": "Ik ___ volgende week.",
+          "cue": "verhuizen",
+          "accepted": [
+            "verhuis"
+          ]
+        },
+        {
+          "text": "Hij ___ naar een klein appartement.",
+          "cue": "verhuizen",
+          "accepted": [
+            "verhuist"
+          ]
+        },
+        {
+          "text": "Wij ___ binnenkort.",
+          "cue": "verhuizen",
+          "accepted": [
+            "verhuizen"
+          ]
+        },
+        {
+          "text": "___ jij binnenkort?",
+          "cue": "verhuizen",
+          "accepted": [
+            "Verhuis",
+            "verhuis"
+          ]
+        },
+        {
+          "text": "De vrachtwagen ___ morgen.",
+          "cue": "komen",
+          "accepted": [
+            "komt"
+          ]
+        },
+        {
+          "text": "Ik ___ niet naar deze school.",
+          "cue": "gaan",
+          "accepted": [
+            "ga"
+          ]
+        },
+        {
+          "text": "___ u ook binnenkort?",
+          "cue": "verhuizen",
+          "accepted": [
+            "Verhuist",
+            "verhuist"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "function",
+        "verb"
+      ]
+    }
+  ]
+}
