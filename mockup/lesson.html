@@ -91,8 +91,12 @@
   .prow.done .pbar i { background: var(--ok); }
   .prow .pn { font-size: 13px; color: var(--muted); white-space: nowrap; min-width: 74px; text-align: right; }
   .prow .pnr { font-size: 11px; color: var(--muted); white-space: nowrap; font-style: italic; }
-  .prow button.open { padding: 3px 9px; line-height: 1; display: inline-flex; align-items: center; }
+  .prow button.open { flex: none; width: 30px; height: 30px; padding: 0; border-radius: 50%;
+                      background: var(--accent); border-color: var(--accent); color: var(--card);
+                      display: inline-flex; align-items: center; justify-content: center; }
+  .prow button.open:hover { opacity: .85; border-color: var(--accent); }
   .chev { display: inline-flex; align-items: center; }
+  .chev.play { padding-left: 2px; }
   .progress-nav { display: flex; justify-content: center; align-items: center; gap: 16px; margin-top: 16px; }
   .progress-nav .pgn { color: var(--muted); font-size: 14px; }
   button.pg { display: inline-flex; align-items: center; gap: 8px; }

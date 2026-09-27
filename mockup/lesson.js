@@ -402,6 +402,12 @@ if (typeof document === 'undefined') {
     s.innerHTML = `<svg viewBox="0 0 8 12" width="8" height="12" aria-hidden="true"><path d="${dir === 'left' ? 'M6.5 1.5L2 6l4.5 4.5' : 'M1.5 1.5L6 6l-4.5 4.5'}" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
     return s;
   };
+  // A filled triangle, like a media "play" button -- used only for the per-lesson open button in Progress.
+  const playIcon = () => {
+    const s = el('span', 'chev play');
+    s.innerHTML = `<svg viewBox="0 0 10 12" width="10" height="12" aria-hidden="true"><path d="M1 1L9 6L1 11Z" fill="currentColor"/></svg>`;
+    return s;
+  };
   function renderProgress() {
     renderReadingStatus();
     const grid = $('progress-rows'); grid.innerHTML = '';
@@ -418,7 +424,7 @@ if (typeof document === 'undefined') {
       const row = el('div', 'prow' + (done ? ' done' : cur ? ' cur' : ''));
       row.title = count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone ? '' : ' · немає запису читання'}` : '';
       const bar = el('span', 'pbar'), fill = el('i'); fill.setAttribute('style', `width:${count ? pct : 0}%`); bar.append(fill);
-      const open = el('button', 'btn open'); open.append(chevron('right')); open.title = `Відкрити Les ${L.order}`; open.setAttribute('aria-label', `Відкрити Les ${L.order}`);
+      const open = el('button', 'btn open'); open.append(playIcon()); open.title = `Відкрити Les ${L.order}`; open.setAttribute('aria-label', `Відкрити Les ${L.order}`);
       open.onclick = () => { renderLesson(i); show('today'); };
       row.append(el('span', 'pl', `Les ${L.order}`), el('span', 'pst', done ? 'пройдено' : cur ? 'поточний' : 'чекає'), bar, el('span', 'pn', count ? `${count}/${parts} · ${pct}%` : '-'));
       if (count && !readDone) row.append(el('span', 'pnr', 'без запису'));
