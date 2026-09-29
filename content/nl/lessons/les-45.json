@@ -1,0 +1,886 @@
+{
+  "id": "nl-les-45",
+  "lang": "nl",
+  "order": 45,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-e8de7a2b",
+      "type": "function",
+      "lemma": "dan",
+      "ua": "ніж (для порівняння)",
+      "audio": "dan.mp3",
+      "explain_ua": "(Mijn huis is groter dan jouw huis = мій дім більший, ніж твій дім). Dan стоїть одразу після прикметника у вищому ступені (-er) і перед тим, з чим порівнюєш. Це слово тільки для порівняння: не плутай з іншим dan «тоді», яке ще не вчили. Коротка a [ɑ], як у man (Les 1).",
+      "check": "Наголос і статус як окремого службового слова з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-af5acef7",
+      "type": "adjective",
+      "lemma": "kleiner",
+      "ua": "менший, менше (вищий ступінь від klein)",
+      "audio": "kleiner.mp3",
+      "explain_ua": "(Mijn kamer is kleiner dan jouw kamer = моя кімната менша, ніж твоя кімната). Klein (Les 19) + er: без змін у написанні, бо ei це дифтонг, а не подвійна голосна (на відміну від aa, oo, uu, Les 11). Після zijn завжди без -e, так само, як klein сам."
+    },
+    {
+      "id": "nl-0658cd11",
+      "type": "adjective",
+      "lemma": "kleinst",
+      "ua": "найменший, найменше (найвищий ступінь від klein)",
+      "audio": "kleinst.mp3",
+      "explain_ua": "(Deze kamer is het kleinst = ця кімната найменша). Klein + st = kleinst. Перед прикметником у найвищому ступені стоїть het, навіть коли підмет de-слово чи множина: de kamer is het kleinst -- het тут частина конструкції, а не про рід іменника. Перед іменником з'являється ще форма kleinste (de kleinste kamer) -- її в цьому уроці не тренуємо, лише май на увазі."
+    },
+    {
+      "id": "nl-1b964ff0",
+      "type": "adjective",
+      "lemma": "groter",
+      "ua": "більший, більше (вищий ступінь від groot)",
+      "audio": "groter.mp3",
+      "explain_ua": "(Mijn huis is groter dan het huis van mijn zus = мій дім більший, ніж дім моєї сестри). Groot (Les 2, Les 11) + er: подвійна oo стає одна o, як у grote (Les 11): groter. Після zijn завжди без -e. Groter уживай про речі й місця (huis, stad, kamer), а не про зріст людини -- там lang (Les 19)."
+    },
+    {
+      "id": "nl-32263769",
+      "type": "adjective",
+      "lemma": "grootst",
+      "ua": "найбільший, найбільше (найвищий ступінь від groot)",
+      "audio": "grootst.mp3",
+      "explain_ua": "(Dit huis is het grootst = цей дім найбільший). Groot + st = grootst -- подвійна oo лишається, бо -st не відкриває нового складу (на відміну від -er). Het перед прикметником, як het kleinst. Перед іменником є форма grootste (het grootste huis), тут не тренуємо."
+    },
+    {
+      "id": "nl-9db1908b",
+      "type": "adjective",
+      "lemma": "duurder",
+      "ua": "дорожчий, дорожче (вищий ступінь від duur)",
+      "audio": "duurder.mp3",
+      "explain_ua": "(Deze auto is duurder dan die auto = ця машина дорожча, ніж та машина). Duur (Les 16) уже закінчується на r, тому замість -er додаємо -der: duur -> duurder, а не duurrer -- два r поспіль погано вимовляються. Подвійна uu лишається: duur-der. Після zijn завжди без -e."
+    },
+    {
+      "id": "nl-fd68558e",
+      "type": "adjective",
+      "lemma": "duurst",
+      "ua": "найдорожчий, найдорожче (найвищий ступінь від duur)",
+      "audio": "duurst.mp3",
+      "explain_ua": "(Dit brood is het duurst = цей хліб найдорожчий). Duur + st = duurst -- тут без ще одного d, бо -rst можна вимовити (на відміну від -er, де треба -der). Подвійна uu лишається. Het перед прикметником, як het kleinst, het grootst. Перед іменником є форма duurste (de duurste kaas), тут не тренуємо."
+    },
+    {
+      "id": "nl-d8ddcf6b",
+      "type": "adjective",
+      "lemma": "goedkoper",
+      "ua": "дешевший, дешевше (вищий ступінь від goedkoop)",
+      "audio": "goedkoper.mp3",
+      "explain_ua": "(Dit brood is goedkoper dan dat brood = цей хліб дешевший, ніж той хліб). Goedkoop (Les 16) + er: подвійна oo стає одна o, як у goedkope (Les 16): goedkoper. Після zijn завжди без -e."
+    },
+    {
+      "id": "nl-805e39bb",
+      "type": "adjective",
+      "lemma": "goedkoopst",
+      "ua": "найдешевший, найдешевше (найвищий ступінь від goedkoop)",
+      "audio": "goedkoopst.mp3",
+      "explain_ua": "(Deze appels zijn het goedkoopst = ці яблука найдешевші). Goedkoop + st = goedkoopst -- подвійна oo лишається, як у duurst, grootst. Het перед прикметником, навіть коли підмет множина: de appels zijn het goedkoopst."
+    },
+    {
+      "id": "nl-fd41b28a",
+      "type": "adjective",
+      "lemma": "best",
+      "ua": "найкращий, найкраще (найвищий ступінь від goed)",
+      "audio": "best.mp3",
+      "explain_ua": "(Dit huis is het best = цей дім найкращий). Goed (Les 9) - beter (Les 37, вже відомо) - best: три різні основи, не goed + суфікс, як англійське good - better - best. Best стоїть з het, навіть коли підмет de-слово чи множина: dit huis is het best, deze appels zijn het best."
+    },
+    {
+      "id": "nl-0e0a003e",
+      "type": "function",
+      "lemma": "meer",
+      "ua": "більше (вищий ступінь від veel)",
+      "audio": "meer.mp3",
+      "explain_ua": "(Ik heb meer tijd dan jij = у мене більше часу, ніж у тебе). Veel (Les 20) - meer - meest: інша основа, не veel + er. Meer стоїть перед іменником завжди БЕЗ -e, навіть перед de-словом чи множиною: meer tijd, meer boeken -- на відміну від duurder, kleiner, groter, meer це слово кількості, як veel і hoeveel (Les 3), а не звичайний прикметник."
+    },
+    {
+      "id": "nl-ef7c0a1a",
+      "type": "function",
+      "lemma": "meest",
+      "ua": "найбільше (найвищий ступінь від veel)",
+      "audio": "meest.mp3",
+      "explain_ua": "(Dit kost het meest = це коштує найбільше). Meest сам по собі стоїть з het, як best, grootst. Перед іменником з'являється форма meeste, і тоді завжди de, навіть перед het-словом: de meeste tijd, de meeste appels -- цього в цьому уроці не тренуємо, лише май на увазі."
+    },
+    {
+      "id": "nl-9a6a9ac9",
+      "type": "function",
+      "lemma": "weinig",
+      "ua": "мало",
+      "audio": "weinig.mp3",
+      "explain_ua": "(Ik heb weinig tijd = у мене мало часу). Weinig протилежність до veel (Les 20): багато - мало. Форма одна, перед іменником без -e, як veel: weinig geld, weinig boeken. Стоїть перед іменником, як hoeveel і veel (Les 3, Les 20). Ei це дифтонг [ɛi], як у klein; g у кінці як х (Les 1).",
+      "check": "Наголос WEI-nich з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-58841f42",
+      "type": "function",
+      "lemma": "minder",
+      "ua": "менше (вищий ступінь від weinig)",
+      "audio": "minder.mp3",
+      "explain_ua": "(Ik heb minder tijd dan jij = у мене менше часу, ніж у тебе). Weinig - minder - minst: інша основа, як veel - meer - meest. Minder перед іменником завжди без -e, як meer: minder geld, minder appels. Minder часто стоїть і саме по собі, при дієслові: Ik werk minder = я працюю менше."
+    },
+    {
+      "id": "nl-4cbffce4",
+      "type": "function",
+      "lemma": "minst",
+      "ua": "найменше (найвищий ступінь від weinig)",
+      "audio": "minst.mp3",
+      "explain_ua": "(Dit kost het minst = це коштує найменше). Minst сам по собі стоїть з het, як meest, best. Перед іменником з'являється форма minste, завжди з de: de minste tijd -- тут не тренуємо, лише май на увазі."
+    },
+    {
+      "id": "nl-c3c95b3c",
+      "type": "function",
+      "lemma": "liever",
+      "ua": "радше, охочіше (вищий ступінь від graag)",
+      "audio": "liever.mp3",
+      "explain_ua": "(Ik woon liever in een klein huis = я радше живу в маленькому домі). Graag (Les 10) - liever - liefst: інша основа. Liever стоїть біля дієслова, як graag, і форма ніколи не змінюється: описує дію, а не іменник, тому -e не буває. Ik wil liever ... = я хочу радше..."
+    },
+    {
+      "id": "nl-33272fc6",
+      "type": "function",
+      "lemma": "liefst",
+      "ua": "найохочіше (найвищий ступінь від graag)",
+      "audio": "liefst.mp3",
+      "explain_ua": "(Ik woon het liefst in de stad = найбільше я люблю жити в місті). Стоїть з het, біля дієслова, форма одна: het liefst. Порівняй з het best (та сама конструкція het + прикметник у найвищому ступені): dit is het best, ik doe het liefst."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Вищий ступінь: -er, а після r -- -der",
+      "summary_ua": "Щоб порівняти дві речі, додаємо до прикметника -er: klein -> kleiner, groot -> groter (подвійна голосна стає одна, як перед -e, Les 11), goedkoop -> goedkoper. Якщо прикметник уже закінчується на r, додаємо -der: duur -> duurder (два r поспіль погано звучать). Після zijn -er-форма завжди без -e, так само, як звичайний прикметник (Les 11, Les 19). Для порівняння з чимось додаємо dan: X is Y-er dan Z.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "Звичайне -er: klein, groot, goedkoop",
+          "when_ua": "Прикметник + -er. Подвійна голосна (oo, aa, ee, uu) стає одна, як перед -e (Les 11): groot - groter, goedkoop - goedkoper. Klein без подвійної голосної не змінюється: klein - kleiner.",
+          "examples": [
+            {
+              "nl": "Mijn kamer is kleiner dan jouw kamer.",
+              "ua": "Моя кімната менша, ніж твоя кімната.",
+              "audio": "les45-rule-01.mp3"
+            },
+            {
+              "nl": "Mijn huis is groter dan het huis van mijn zus.",
+              "ua": "Мій дім більший, ніж дім моєї сестри.",
+              "audio": "les45-rule-02.mp3"
+            },
+            {
+              "nl": "Dit brood is goedkoper dan dat brood.",
+              "ua": "Цей хліб дешевший, ніж той хліб.",
+              "audio": "les45-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Після zijn завжди без -e: is kleiner, is groter, is goedkoper -- як klein, groot, goedkoop самі (Les 11, Les 16, Les 19)."
+        },
+        {
+          "form": "Після r: -der (duur)",
+          "when_ua": "Коли прикметник уже закінчується на r, додаємо -der, не -er: два r поспіль погано звучать. Подвійна голосна лишається: duur - duurder.",
+          "examples": [
+            {
+              "nl": "Deze auto is duurder dan die auto.",
+              "ua": "Ця машина дорожча, ніж та машина.",
+              "audio": "les45-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Duur уже закінчується на r (Les 16), тому duurder, а не duurrer."
+        },
+        {
+          "form": "Dan: слово для порівняння",
+          "when_ua": "Dan стоїть одразу після -er-форми, перед тим, з чим порівнюєш.",
+          "examples": [
+            {
+              "nl": "Deze appels zijn goedkoper dan die appels.",
+              "ua": "Ці яблука дешевші, ніж ті яблука.",
+              "audio": "les45-rule-05.mp3"
+            },
+            {
+              "nl": "Dit huis is groter dan dat huis.",
+              "ua": "Цей дім більший, ніж той дім.",
+              "audio": "les45-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Порядок: підмет, zijn, X-er, dan, порівняння."
+        }
+      ],
+      "points_ua": [
+        "Прикметник + -er (klein, groot, goedkoop); після r + -der (duur).",
+        "Подвійна голосна стає одна перед -er, як перед -e (Les 11): groot - groter, goedkoop - goedkoper; duur лишається duur-der, бо склад закритий на r.",
+        "Після zijn завжди без -e. Для порівняння: X is Y-er dan Z."
+      ]
+    },
+    {
+      "title_ua": "Найвищий ступінь: -st, а перед прикметником het",
+      "summary_ua": "Щоб сказати «найбільш-», додаємо до прикметника -st: klein -> kleinst, groot -> grootst, goedkoop -> goedkoopst, duur -> duurst (тут без ще одного d, бо -rst можна вимовити). Подвійна голосна НЕ змінюється перед -st, на відміну від -er: grootst, duurst, goedkoopst лишаються з подвійною голосною. Перед -st-формою стоїть het, навіть коли підмет de-слово чи множина. Перед іменником з'являється ще й форма з -e (de kleinste kamer) -- її в цьому уроці не тренуємо, лише впізнавай.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "-st: klein, groot",
+          "when_ua": "Прикметник + -st. Подвійна голосна лишається, бо -st не відкриває новий склад (на відміну від -er): grootst.",
+          "examples": [
+            {
+              "nl": "Deze kamer is het kleinst.",
+              "ua": "Ця кімната найменша.",
+              "audio": "les45-rule-07.mp3"
+            },
+            {
+              "nl": "Dit huis is het grootst.",
+              "ua": "Цей дім найбільший.",
+              "audio": "les45-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Het перед -st-формою, навіть коли підмет de-слово: de kamer is het kleinst."
+        },
+        {
+          "form": "Duur, goedkoop: -st без зайвого d",
+          "when_ua": "Duur + st = duurst, без ще одного d (на відміну від -er, де потрібне -der). Goedkoop + st = goedkoopst, подвійна oo лишається.",
+          "examples": [
+            {
+              "nl": "Deze kaas is het duurst.",
+              "ua": "Цей сир найдорожчий.",
+              "audio": "les45-rule-09.mp3"
+            },
+            {
+              "nl": "Deze appels zijn het goedkoopst.",
+              "ua": "Ці яблука найдешевші.",
+              "audio": "les45-rule-10.mp3"
+            }
+          ],
+          "note_ua": "На відміну від duurder, тут не потрібен додатковий d: duurst, не duurdst."
+        }
+      ],
+      "points_ua": [
+        "Прикметник + -st (kleinst, grootst, goedkoopst, duurst) -- подвійна голосна лишається, на відміну від -er.",
+        "Перед прикметником стоїть het, навіть коли підмет de-слово чи множина: de kamer is het kleinst, de appels zijn het goedkoopst.",
+        "Перед іменником є ще форма з -e (de kleinste kamer) -- у цьому уроці не тренуємо, лише впізнавай."
+      ]
+    },
+    {
+      "title_ua": "Неправильні форми: goed - beter - best, veel - meer - meest",
+      "summary_ua": "Чотири дуже часті слова не додають -er/-st, а міняють основу повністю. Перші два: goed (Les 9) - beter (Les 37, вже відомо) - best; veel (Les 20) - meer - meest. Meer і meest перед іменником НЕ отримують -e (на відміну від duurder, kleinste): це слова кількості, як veel і hoeveel (Les 3), а не звичайні прикметники.",
+      "see": "Les 37",
+      "compare": [
+        {
+          "form": "Goed - beter - best",
+          "when_ua": "Три різні основи, як англійське good - better - best.",
+          "examples": [
+            {
+              "nl": "Dit boek is beter.",
+              "ua": "Ця книга краща.",
+              "audio": "les45-rule-11.mp3"
+            },
+            {
+              "nl": "Dit huis is het best.",
+              "ua": "Цей дім найкращий.",
+              "audio": "les45-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Het перед best, як het kleinst, het grootst."
+        },
+        {
+          "form": "Veel - meer - meest",
+          "when_ua": "Meer завжди без -e перед іменником, навіть перед множиною.",
+          "examples": [
+            {
+              "nl": "Ik heb meer tijd dan jij.",
+              "ua": "У мене більше часу, ніж у тебе.",
+              "audio": "les45-rule-13.mp3"
+            },
+            {
+              "nl": "Dit kost het meest.",
+              "ua": "Це коштує найбільше.",
+              "audio": "les45-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Meer tijd, meer boeken -- ніколи meer-e. Meest сам по собі стоїть з het."
+        }
+      ],
+      "points_ua": [
+        "Goed - beter - best: три різні основи, не goed + суфікс.",
+        "Veel - meer - meest: meer перед іменником завжди без -e, бо це слово кількості."
+      ]
+    },
+    {
+      "title_ua": "Weinig - minder - minst, graag - liever - liefst",
+      "summary_ua": "Weinig означає «мало», протилежність до veel. Його ступені: weinig - minder - minst, так само, як veel - meer - meest. Graag (Les 10) описує дію (любити щось робити); його ступені -- liever, liefst -- завжди стоять біля дієслова й ніколи не отримують -e, бо описують не іменник, а дію.",
+      "see": "Les 10",
+      "compare": [
+        {
+          "form": "Weinig - minder - minst",
+          "when_ua": "Weinig і minder перед іменником без -e, як veel і meer.",
+          "examples": [
+            {
+              "nl": "Ik heb weinig geld.",
+              "ua": "У мене мало грошей.",
+              "audio": "les45-rule-15.mp3"
+            },
+            {
+              "nl": "Ik heb minder geld dan jij.",
+              "ua": "У мене менше грошей, ніж у тебе.",
+              "audio": "les45-rule-16.mp3"
+            },
+            {
+              "nl": "Dit kost het minst.",
+              "ua": "Це коштує найменше.",
+              "audio": "les45-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Weinig geld, minder appels -- без -e, так само, як veel і meer."
+        },
+        {
+          "form": "Graag - liever - liefst",
+          "when_ua": "Liever і liefst стоять біля дієслова, форма завжди одна.",
+          "examples": [
+            {
+              "nl": "Ik woon liever in een klein huis.",
+              "ua": "Я радше живу в маленькому домі.",
+              "audio": "les45-rule-18.mp3"
+            },
+            {
+              "nl": "Ik woon het liefst in de stad.",
+              "ua": "Найбільше я люблю жити в місті.",
+              "audio": "les45-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Liefst з het: het liefst -- як het best, het meest."
+        }
+      ],
+      "points_ua": [
+        "Weinig - minder - minst, як veel - meer - meest: без -e перед іменником.",
+        "Graag - liever - liefst описують дію (стоять біля дієслова), форма не змінюється ніколи."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ons appartement is kleiner dan jullie appartement.",
+      "ua": "Наша квартира менша, ніж ваша квартира.",
+      "audio": "les45-example-01.mp3"
+    },
+    {
+      "nl": "De keuken is groter dan de badkamer.",
+      "ua": "Кухня більша, ніж ванна кімната.",
+      "audio": "les45-example-02.mp3"
+    },
+    {
+      "nl": "Deze schoenen zijn duurder dan die schoenen.",
+      "ua": "Ці туфлі дорожчі, ніж ті туфлі.",
+      "audio": "les45-example-03.mp3"
+    },
+    {
+      "nl": "Dit T-shirt is goedkoper dan deze trui.",
+      "ua": "Ця футболка дешевша, ніж цей светр.",
+      "audio": "les45-example-04.mp3"
+    },
+    {
+      "nl": "Mijn kamer is het kleinst.",
+      "ua": "Моя кімната найменша.",
+      "audio": "les45-example-05.mp3"
+    },
+    {
+      "nl": "Ons huis is het grootst.",
+      "ua": "Наш дім найбільший.",
+      "audio": "les45-example-06.mp3"
+    },
+    {
+      "nl": "Dit brood is het duurst.",
+      "ua": "Цей хліб найдорожчий.",
+      "audio": "les45-example-07.mp3"
+    },
+    {
+      "nl": "Deze peren zijn het goedkoopst.",
+      "ua": "Ці груші найдешевші.",
+      "audio": "les45-example-08.mp3"
+    },
+    {
+      "nl": "Ik vind dit restaurant beter.",
+      "ua": "Я вважаю цей ресторан кращим.",
+      "audio": "les45-example-09.mp3"
+    },
+    {
+      "nl": "Dit restaurant is het best.",
+      "ua": "Цей ресторан найкращий.",
+      "audio": "les45-example-10.mp3"
+    },
+    {
+      "nl": "Wij hebben meer tijd dan jullie.",
+      "ua": "У нас більше часу, ніж у вас.",
+      "audio": "les45-example-11.mp3"
+    },
+    {
+      "nl": "Mijn zus heeft minder geld dan ik.",
+      "ua": "У моєї сестри менше грошей, ніж у мене.",
+      "audio": "les45-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn huis en het huis van mijn zus",
+    "title_ua": "Мій дім і дім моєї сестри",
+    "highlight": [
+      "nl-e8de7a2b",
+      "nl-1b964ff0",
+      "nl-9db1908b",
+      "nl-d8ddcf6b",
+      "nl-fd41b28a",
+      "nl-0e0a003e",
+      "nl-9a6a9ac9",
+      "nl-c3c95b3c"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn huis is klein, maar mooi.",
+        "ua": "Мій дім маленький, але гарний.",
+        "audio": "les45-reading-01.mp3"
+      },
+      {
+        "nl": "Het huis van mijn zus is groter dan mijn huis.",
+        "ua": "Дім моєї сестри більший, ніж мій дім.",
+        "audio": "les45-reading-02.mp3"
+      },
+      {
+        "nl": "Haar huis heeft meer kamers.",
+        "ua": "У її домі більше кімнат.",
+        "audio": "les45-reading-03.mp3"
+      },
+      {
+        "nl": "Maar mijn huis is goedkoper.",
+        "ua": "Але мій дім дешевший.",
+        "audio": "les45-reading-04.mp3"
+      },
+      {
+        "nl": "Haar huis is duurder, omdat het groter is.",
+        "ua": "Її дім дорожчий, тому що він більший.",
+        "audio": "les45-reading-05.mp3"
+      },
+      {
+        "nl": "Ik heb weinig geld, dus ik koop een klein huis.",
+        "ua": "У мене мало грошей, тому я купую маленький дім.",
+        "audio": "les45-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn zus heeft meer geld, dus haar huis is groter.",
+        "ua": "У моєї сестри більше грошей, тому її дім більший.",
+        "audio": "les45-reading-07.mp3"
+      },
+      {
+        "nl": "Ik vind mijn huis beter, want het is klein en warm.",
+        "ua": "Я вважаю, що мій дім кращий, бо він маленький і теплий.",
+        "audio": "les45-reading-08.mp3"
+      },
+      {
+        "nl": "Mijn zus woont liever in een grote stad.",
+        "ua": "Моя сестра радше живе у великому місті.",
+        "audio": "les45-reading-09.mp3"
+      },
+      {
+        "nl": "Voor mij is mijn huis het best!",
+        "ua": "Для мене мій дім найкращий!",
+        "audio": "les45-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Цей стілець дешевший, ніж той стілець.",
+          "accepted": [
+            "Deze stoel is goedkoper dan die stoel."
+          ]
+        },
+        {
+          "prompt": "Наша кімната менша, ніж їхня кімната.",
+          "accepted": [
+            "Onze kamer is kleiner dan hun kamer."
+          ]
+        },
+        {
+          "prompt": "Цей велосипед дорожчий, ніж той велосипед.",
+          "accepted": [
+            "Deze fiets is duurder dan die fiets."
+          ]
+        },
+        {
+          "prompt": "Дім моєї матері більший, ніж мій дім.",
+          "accepted": [
+            "Het huis van mijn moeder is groter dan mijn huis."
+          ]
+        },
+        {
+          "prompt": "Цей автобус найдешевший.",
+          "accepted": [
+            "Deze bus is het goedkoopst."
+          ]
+        },
+        {
+          "prompt": "Цей дім найменший.",
+          "accepted": [
+            "Dit huis is het kleinst."
+          ]
+        },
+        {
+          "prompt": "У мене більше книжок, ніж у тебе.",
+          "accepted": [
+            "Ik heb meer boeken dan jij."
+          ]
+        },
+        {
+          "prompt": "У моєї сестри менше часу, ніж у мене.",
+          "accepted": [
+            "Mijn zus heeft minder tijd dan ik."
+          ]
+        },
+        {
+          "prompt": "Я вважаю цю кухню кращою.",
+          "accepted": [
+            "Ik vind deze keuken beter."
+          ]
+        },
+        {
+          "prompt": "Ця крамниця найкраща.",
+          "accepted": [
+            "Deze winkel is het best."
+          ]
+        },
+        {
+          "prompt": "Я радше п'ю каву.",
+          "accepted": [
+            "Ik drink liever koffie."
+          ]
+        },
+        {
+          "prompt": "Найбільше я хочу тут жити.",
+          "accepted": [
+            "Ik wil het liefst hier wonen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "dan",
+        "kleiner",
+        "kleinst",
+        "groter",
+        "grootst",
+        "duurder",
+        "duurst",
+        "goedkoper",
+        "goedkoopst",
+        "best",
+        "meer",
+        "minder"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn tas is ___ dan jouw tas.",
+          "hint": "дорожча",
+          "accepted": [
+            [
+              "duurder"
+            ]
+          ]
+        },
+        {
+          "text": "Deze appel is het ___.",
+          "hint": "найдешевша",
+          "accepted": [
+            [
+              "goedkoopst"
+            ]
+          ]
+        },
+        {
+          "text": "Ons huis is ___ dan jullie huis.",
+          "hint": "менший",
+          "accepted": [
+            [
+              "kleiner"
+            ]
+          ]
+        },
+        {
+          "text": "Dit park is het ___.",
+          "hint": "найбільший",
+          "accepted": [
+            [
+              "grootst"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer heeft ___ geld dan ik.",
+          "hint": "менше",
+          "accepted": [
+            [
+              "minder"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben ___ tijd dan zij.",
+          "hint": "більше",
+          "accepted": [
+            [
+              "meer"
+            ]
+          ]
+        },
+        {
+          "text": "Dit café is het ___.",
+          "hint": "найкращий",
+          "accepted": [
+            [
+              "best"
+            ]
+          ]
+        },
+        {
+          "text": "Haar kamer is het ___.",
+          "hint": "найменша",
+          "accepted": [
+            [
+              "kleinst"
+            ]
+          ]
+        },
+        {
+          "text": "Deze fiets is het ___.",
+          "hint": "найдорожчий",
+          "accepted": [
+            [
+              "duurst"
+            ]
+          ]
+        },
+        {
+          "text": "Deze kaas is ___ dan die kaas.",
+          "hint": "дешевша",
+          "accepted": [
+            [
+              "goedkoper"
+            ]
+          ]
+        },
+        {
+          "text": "Ons huis is ___ dan het huis van mijn broer.",
+          "hint": "більший",
+          "accepted": [
+            [
+              "groter"
+            ]
+          ]
+        },
+        {
+          "text": "Deze trui is duurder ___ dat T-shirt.",
+          "hint": "ніж",
+          "accepted": [
+            [
+              "dan"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Dit huis is groot.",
+          "cue": "-> groter dan het appartement",
+          "accepted": [
+            "Dit huis is groter dan het appartement."
+          ]
+        },
+        {
+          "prompt": "Deze kamer is klein.",
+          "cue": "-> kleiner dan die kamer",
+          "accepted": [
+            "Deze kamer is kleiner dan die kamer."
+          ]
+        },
+        {
+          "prompt": "Dit brood is duur.",
+          "cue": "-> duurder dan dat brood",
+          "accepted": [
+            "Dit brood is duurder dan dat brood."
+          ]
+        },
+        {
+          "prompt": "Deze schoenen zijn goedkoop.",
+          "cue": "-> goedkoper dan die schoenen",
+          "accepted": [
+            "Deze schoenen zijn goedkoper dan die schoenen."
+          ]
+        },
+        {
+          "prompt": "Jullie huis is groot.",
+          "cue": "-> overtreffende trap: het grootst",
+          "accepted": [
+            "Jullie huis is het grootst."
+          ]
+        },
+        {
+          "prompt": "Zijn kamer is klein.",
+          "cue": "-> overtreffende trap: het kleinst",
+          "accepted": [
+            "Zijn kamer is het kleinst."
+          ]
+        },
+        {
+          "prompt": "Deze peer is duur.",
+          "cue": "-> overtreffende trap: het duurst",
+          "accepted": [
+            "Deze peer is het duurst."
+          ]
+        },
+        {
+          "prompt": "Die tomaten zijn goedkoop.",
+          "cue": "-> overtreffende trap: het goedkoopst",
+          "accepted": [
+            "Die tomaten zijn het goedkoopst."
+          ]
+        },
+        {
+          "prompt": "Dit café is goed.",
+          "cue": "-> onregelmatig: beter",
+          "accepted": [
+            "Dit café is beter."
+          ]
+        },
+        {
+          "prompt": "Wij hebben veel geld.",
+          "cue": "-> onregelmatig: meer, vergelijk met zij",
+          "accepted": [
+            "Wij hebben meer geld dan zij."
+          ]
+        },
+        {
+          "prompt": "Ik heb weinig tijd.",
+          "cue": "-> onregelmatig: minder, vergelijk met jij",
+          "accepted": [
+            "Ik heb minder tijd dan jij."
+          ]
+        },
+        {
+          "prompt": "Ik eet graag appels.",
+          "cue": "-> onregelmatig: liever",
+          "accepted": [
+            "Ik eet liever appels."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Dit huis ___ groter.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Wij ___ meer boeken dan jullie.",
+          "cue": "hebben",
+          "accepted": [
+            "hebben"
+          ]
+        },
+        {
+          "text": "Ik ___ dit huis beter.",
+          "cue": "vinden",
+          "accepted": [
+            "vind"
+          ]
+        },
+        {
+          "text": "Hij ___ liever koffie.",
+          "cue": "drinken",
+          "accepted": [
+            "drinkt"
+          ]
+        },
+        {
+          "text": "Zij ___ het liefst in de stad.",
+          "cue": "wonen",
+          "accepted": [
+            "woont"
+          ]
+        },
+        {
+          "text": "Mijn vader ___ minder geld dan ik.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "___ jij weinig tijd?",
+          "cue": "hebben",
+          "accepted": [
+            "Heb",
+            "heb"
+          ]
+        },
+        {
+          "text": "Deze bananen ___ het goedkoopst.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "Ik ___ liever peren.",
+          "cue": "eten",
+          "accepted": [
+            "eet"
+          ]
+        },
+        {
+          "text": "Wij ___ dat dit huis beter is.",
+          "cue": "vinden",
+          "accepted": [
+            "vinden"
+          ]
+        },
+        {
+          "text": "___ u dit café het best?",
+          "cue": "vinden",
+          "accepted": [
+            "Vindt",
+            "vindt"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ een klein huis, maar goedkoop.",
+          "cue": "kopen",
+          "accepted": [
+            "koopt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}
