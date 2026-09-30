@@ -1,0 +1,821 @@
+{
+  "id": "nl-les-47",
+  "lang": "nl",
+  "order": 47,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-03f28675",
+      "type": "function",
+      "lemma": "zich",
+      "ua": "себе, собі (він / вона / воно / Ви / вони)",
+      "audio": "zich.mp3",
+      "explain_ua": "(Hij wast zich. = він миється (миє себе)). Zich -- зворотний займенник: дія повертається на підмет. Повна таблиця: ik -> me, jij/je -> je, u -> zich, hij/zij/het -> zich, wij -> ons, jullie -> je, zij -> zich. Me, je, ons ти вже знаєш як об'єктні займенники (Les 36) -- тут та сама форма, нова роль. Нове саме zich: одна форма для u, hij/zij/het і zij (множина). Займенник стоїть одразу після дієслова, як звичайний об'єкт (Les 36). Форма не змінюється. I коротка [ɪ], як у ik; ch це [x], як у lachen (Les 27) чи gezicht (Les 30): звучить приблизно «зіх».",
+      "check": "Що zich (а не u) частіше вживається з формальним u, перевірено через загальний пошук, не мовознавчий словник."
+    },
+    {
+      "id": "nl-29ffbee1",
+      "type": "verb",
+      "lemma": "zich wassen",
+      "ua": "митися, вмиватися (мити себе)",
+      "audio": "zich-wassen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "was me",
+          "audio": "ik-was-me.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "wast je",
+          "audio": "jij-wast-je.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "wast zich",
+          "audio": "u-wast-zich.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "wast zich",
+          "audio": "hij-wast-zich.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "wassen ons",
+          "audio": "wij-wassen-ons.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (кілька людей)",
+          "form": "wassen je",
+          "audio": "jullie-wassen-je.mp3"
+        },
+        {
+          "pronoun": "zij",
+          "ua": "вони",
+          "form": "wassen zich",
+          "audio": "zij-wassen-zich.mp3"
+        }
+      ],
+      "explain_ua": "(Ik was me elke ochtend. = я миюся щоранку). Wassen саме по собі означає «мити» (щось чи когось): Ik was mijn handen. = я мию руки -- об'єкт mijn handen уже є, zich не треба. Але коли миєш САМЕ СЕБЕ, без конкретної частини тіла, потрібен зворотний займенник: Ik was me. Основа wassen -> was: подвійна s зникає в кінці слова, та сама модель, що zwemmen -> zwem (Les 7). Пастка: ik was означає і «я мию(ся)» (wassen, теперішній час), і «я був» (zijn, минулий час, Les 26) -- слова однакові! Розрізняє контекст: після ik was завжди йде me чи об'єкт -- це wassen; само по собі, без нічого після -- це zijn (Ik was gisteren thuis). З модальним дієсловом займенник стоїть одразу після модального, не в кінці разом з інфінітивом (докладніше в картці правила). A коротка [ɑ], як у man (Les 1).",
+      "check": "Форми was / wast / wassen для zich wassen перевірено через кілька вебджерел (cooljugator, dinordbok), не безпосередньо на woorden.org."
+    },
+    {
+      "id": "nl-cb6401e2",
+      "type": "verb",
+      "lemma": "zich herinneren",
+      "ua": "пам'ятати, згадувати (щось)",
+      "audio": "zich-herinneren.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "herinner me",
+          "audio": "ik-herinner-me.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "herinnert je",
+          "audio": "jij-herinnert-je.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "herinnert zich",
+          "audio": "hij-herinnert-zich.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "herinneren ons",
+          "audio": "wij-herinneren-ons.mp3"
+        }
+      ],
+      "explain_ua": "(Ik herinner me die dag niet. = я не пам'ятаю той день). Herinneren -- на відміну від wassen, це дієслово майже завжди зворотне: без zich воно означає щось інше (нагадувати комусь про щось -- лише для довідки, тут не вчимо). Основа herinner: без змін, звичайне закінчення -t для jij/u/hij: herinnert. Часто з об'єктом після займенника: Ik herinner me zijn naam. Наголос на другому складі: he-RIN-ne-ren.",
+      "check": "Наголос he-RIN-ne-ren і те, що herinneren без zich означає «нагадувати», з власних знань, окремо не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Зворотні займенники: me, je, zich, ons",
+      "summary_ua": "Дія повертається на підмет -- потрібен зворотний займенник. Me, je і ons ти вже знаєш як об'єктні займенники (Les 36): та сама форма, нова роль. Нове лише zich -- одна форма для u, hij/zij/het і zij (множина).",
+      "see": "Les 36",
+      "compare": [
+        {
+          "form": "Уже відомі форми: me, je, ons",
+          "when_ua": "Ik -> me, jij/je/jullie -> je, wij -> ons -- ті самі форми, що вже відомі.",
+          "examples": [
+            {
+              "nl": "Ik was me.",
+              "ua": "Я миюся.",
+              "audio": "les47-rule-01.mp3"
+            },
+            {
+              "nl": "Wij herinneren ons dat goed.",
+              "ua": "Ми це добре пам'ятаємо.",
+              "audio": "les47-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Jullie теж бере je, як jij."
+        },
+        {
+          "form": "Нова форма: zich (u, hij/zij/het, zij)",
+          "when_ua": "U, hij/zij/het і zij (вони) -- усі беруть zich, одна форма на чотирьох.",
+          "examples": [
+            {
+              "nl": "Zij wassen zich.",
+              "ua": "Вони миються.",
+              "audio": "les47-rule-03.mp3"
+            },
+            {
+              "nl": "Voelt zij zich goed?",
+              "ua": "Вона добре почувається?",
+              "audio": "les47-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Zich не змінюється: те саме слово для однини й множини третьої особи, і для u."
+        }
+      ],
+      "points_ua": [
+        "me, je, ons -- уже відомі форми (Les 36), нова роль.",
+        "zich -- єдина нова форма, для u, hij/zij/het, zij.",
+        "Займенник стоїть одразу після дієслова, як звичайний об'єкт."
+      ]
+    },
+    {
+      "title_ua": "Zich wassen: was чи was?",
+      "summary_ua": "Ik was виглядає однаково у двох різних дієсловах: zijn (минулий час, Les 26) і wassen (теперішній час). Розрізняє те, що йде після: сам по собі -- zijn; з me чи об'єктом -- wassen.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "Ik was (zijn, минулий час)",
+          "when_ua": "Сам по собі, без me й без об'єкта -- це zijn, «я був».",
+          "examples": [
+            {
+              "nl": "Ik was gisteren thuis.",
+              "ua": "Я вчора був удома.",
+              "audio": "les47-rule-05.mp3"
+            },
+            {
+              "nl": "Ik was ziek.",
+              "ua": "Я був хворий.",
+              "audio": "les47-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Ознака zijn: після was немає ні me, ні іншого об'єкта."
+        },
+        {
+          "form": "Ik was me (wassen, теперішній час)",
+          "when_ua": "З me чи з об'єктом одразу після was -- це wassen, «я мию(ся)».",
+          "examples": [
+            {
+              "nl": "Ik was me nu.",
+              "ua": "Я зараз миюся.",
+              "audio": "les47-rule-07.mp3"
+            },
+            {
+              "nl": "Ik was me voor het eten.",
+              "ua": "Я миюся перед їжею.",
+              "audio": "les47-rule-08.mp3"
+            }
+          ],
+          "note_ua": "З модальним дієсловом займенник стоїть одразу після модального, не в кінці разом з інфінітивом."
+        }
+      ],
+      "points_ua": [
+        "Ik was сам по собі = zijn, минулий час.",
+        "Ik was me / Ik was + об'єкт = wassen, теперішній час.",
+        "Модальне + zich wassen: займенник одразу після модального: Ik moet me wassen."
+      ]
+    },
+    {
+      "title_ua": "Ik voel me goed: zich voelen -- стан, а не дотик",
+      "summary_ua": "Voelen ти вже знаєш (Les 37): відчувати біль чи дотик, з об'єктом. Zich voelen -- інша конструкція: як ти почуваєшся загалом, із прикметником замість об'єкта. Саме цього слова бракувало в Les 37, де Ik voel ziek було позначено як неправильне.",
+      "see": "Les 37",
+      "compare": [
+        {
+          "form": "voelen + об'єкт: відчуття (Les 37)",
+          "when_ua": "Voelen з об'єктом -- біль, дотик, щось конкретне.",
+          "examples": [
+            {
+              "nl": "Ik voel pijn.",
+              "ua": "Я відчуваю біль.",
+              "audio": "les47-rule-09.mp3"
+            },
+            {
+              "nl": "Voelt u iets?",
+              "ua": "Ви щось відчуваєте?",
+              "audio": "les47-rule-10.mp3"
+            }
+          ]
+        },
+        {
+          "form": "zich voelen + прикметник: стан",
+          "when_ua": "Zich voelen з прикметником -- як почуваєшся загалом: добре, погано, хворим, втомленим.",
+          "examples": [
+            {
+              "nl": "Ik voel me moe.",
+              "ua": "Я почуваюся втомленим.",
+              "audio": "les47-rule-11.mp3"
+            },
+            {
+              "nl": "Hoe voel jij je vandaag?",
+              "ua": "Як ти почуваєшся сьогодні?",
+              "audio": "les47-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Тепер це правильно: Ik voel me ziek тепер правильна форма (не Ik voel ziek, Les 37)."
+        }
+      ],
+      "points_ua": [
+        "voelen + об'єкт = відчуття (Les 37): Ik voel pijn.",
+        "zich voelen + прикметник = стан: Ik voel me + прикметник (ziek, goed, moe).",
+        "Той самий дієслово voelen, дві різні конструкції."
+      ]
+    },
+    {
+      "title_ua": "Zich herinneren: справді зворотне дієслово",
+      "summary_ua": "Wassen можна вживати і без zich (Ik was mijn handen). Herinneren у значенні «пам'ятати» -- майже завжди з zich: без нього це вже інше слово.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "Стверджувальне і заперечне",
+          "when_ua": "Herinner, herinnert, herinneren + zich-форма, потім об'єкт.",
+          "examples": [
+            {
+              "nl": "Ik herinner me mijn eerste huis.",
+              "ua": "Я пам'ятаю свій перший дім.",
+              "audio": "les47-rule-13.mp3"
+            },
+            {
+              "nl": "Wij herinneren ons die dag niet meer.",
+              "ua": "Ми більше не пам'ятаємо той день.",
+              "audio": "les47-rule-14.mp3"
+            }
+          ]
+        },
+        {
+          "form": "Питання",
+          "when_ua": "Питання: дієслово-підмет-zich-форма-об'єкт.",
+          "examples": [
+            {
+              "nl": "Herinnert hij zich haar naam?",
+              "ua": "Він пам'ятає її ім'я?",
+              "audio": "les47-rule-15.mp3"
+            },
+            {
+              "nl": "Herinneren jullie je dat gesprek?",
+              "ua": "Ви пам'ятаєте ту розмову?",
+              "audio": "les47-rule-16.mp3"
+            }
+          ]
+        }
+      ],
+      "points_ua": [
+        "Herinneren у значенні «пам'ятати» завжди зі zich-формою.",
+        "Без zich herinneren означає інше (нагадувати) -- лише для інформації.",
+        "Порядок: дієслово + zich-форма + об'єкт."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik was me elke ochtend.",
+      "ua": "Я миюся щоранку.",
+      "audio": "les47-example-01.mp3"
+    },
+    {
+      "nl": "Jij wast je snel.",
+      "ua": "Ти швидко миєшся.",
+      "audio": "les47-example-02.mp3"
+    },
+    {
+      "nl": "Hij wast zich in de badkamer.",
+      "ua": "Він миється у ванній кімнаті.",
+      "audio": "les47-example-03.mp3"
+    },
+    {
+      "nl": "Wij wassen ons voor het eten.",
+      "ua": "Ми миємося перед їжею.",
+      "audio": "les47-example-04.mp3"
+    },
+    {
+      "nl": "Zij wassen zich elke dag.",
+      "ua": "Вони миються щодня.",
+      "audio": "les47-example-05.mp3"
+    },
+    {
+      "nl": "Was je je al?",
+      "ua": "Ти вже помився?",
+      "audio": "les47-example-06.mp3"
+    },
+    {
+      "nl": "Ik moet me nu wassen.",
+      "ua": "Мені треба зараз помитися.",
+      "audio": "les47-example-07.mp3"
+    },
+    {
+      "nl": "Ik was gisteren ziek, maar nu voel ik me goed.",
+      "ua": "Учора я був хворий, а тепер я почуваюся добре.",
+      "audio": "les47-example-08.mp3"
+    },
+    {
+      "nl": "Hoe voel jij je vandaag?",
+      "ua": "Як ти почуваєшся сьогодні?",
+      "audio": "les47-example-09.mp3"
+    },
+    {
+      "nl": "Ik voel me niet goed.",
+      "ua": "Я почуваюся недобре.",
+      "audio": "les47-example-10.mp3"
+    },
+    {
+      "nl": "Ik herinner me die dag niet.",
+      "ua": "Я не пам'ятаю той день.",
+      "audio": "les47-example-11.mp3"
+    },
+    {
+      "nl": "Herinnert u zich mijn naam?",
+      "ua": "Ви пам'ятаєте моє ім'я?",
+      "audio": "les47-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Ik ben laat!",
+    "title_ua": "Я спізнююся!",
+    "highlight": [],
+    "sentences": [
+      {
+        "nl": "Ik sta om zeven uur op.",
+        "ua": "Я встаю о сьомій.",
+        "audio": "les47-reading-01.mp3"
+      },
+      {
+        "nl": "Ik was me snel, want ik ben laat.",
+        "ua": "Я швидко миюся, бо я запізнююся.",
+        "audio": "les47-reading-02.mp3"
+      },
+      {
+        "nl": "Ik voel me niet goed vandaag.",
+        "ua": "Сьогодні я почуваюся недобре.",
+        "audio": "les47-reading-03.mp3"
+      },
+      {
+        "nl": "Maar ik moet werken, dus ik ga naar mijn werk.",
+        "ua": "Але мені треба працювати, тому я йду на роботу.",
+        "audio": "les47-reading-04.mp3"
+      },
+      {
+        "nl": "Deze week ben ik heel druk.",
+        "ua": "Цього тижня я дуже зайнятий.",
+        "audio": "les47-reading-05.mp3"
+      },
+      {
+        "nl": "Herinner ik me mijn afspraak?",
+        "ua": "Чи пам'ятаю я про свій запис?",
+        "audio": "les47-reading-06.mp3"
+      },
+      {
+        "nl": "Ja, om negen uur heb ik een afspraak met mijn baas.",
+        "ua": "Так, о дев'ятій у мене зустріч з моїм начальником.",
+        "audio": "les47-reading-07.mp3"
+      },
+      {
+        "nl": "Ik loop snel naar de bus.",
+        "ua": "Я швидко йду до автобуса.",
+        "audio": "les47-reading-08.mp3"
+      },
+      {
+        "nl": "In de bus voel ik me al beter.",
+        "ua": "В автобусі я вже почуваюся краще.",
+        "audio": "les47-reading-09.mp3"
+      },
+      {
+        "nl": "Om negen uur kom ik op tijd aan.",
+        "ua": "О дев'ятій я прибуваю вчасно.",
+        "audio": "les47-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я мию руки.",
+          "accepted": [
+            "Ik was mijn handen."
+          ]
+        },
+        {
+          "prompt": "Ти миєшся дуже швидко.",
+          "accepted": [
+            "Jij wast je heel snel.",
+            "Je wast je heel snel."
+          ]
+        },
+        {
+          "prompt": "Він миється перед роботою.",
+          "accepted": [
+            "Hij wast zich voor het werk."
+          ]
+        },
+        {
+          "prompt": "Ми миємося щодня.",
+          "accepted": [
+            "Wij wassen ons dagelijks."
+          ]
+        },
+        {
+          "prompt": "Ви (кілька людей) не миєтеся.",
+          "accepted": [
+            "Jullie wassen je niet."
+          ]
+        },
+        {
+          "prompt": "Я почуваюся добре сьогодні.",
+          "accepted": [
+            "Ik voel me goed vandaag."
+          ]
+        },
+        {
+          "prompt": "Ти почуваєшся хворим?",
+          "accepted": [
+            "Voel jij je ziek?",
+            "Voel je je ziek?"
+          ]
+        },
+        {
+          "prompt": "Вона не почувається добре.",
+          "accepted": [
+            "Zij voelt zich niet goed."
+          ]
+        },
+        {
+          "prompt": "Я не пам'ятаю його ім'я.",
+          "accepted": [
+            "Ik herinner me zijn naam niet."
+          ]
+        },
+        {
+          "prompt": "Ти пам'ятаєш ту розмову?",
+          "accepted": [
+            "Herinner jij je dat gesprek?",
+            "Herinner je je dat gesprek?"
+          ]
+        },
+        {
+          "prompt": "Ми не пам'ятаємо цю вулицю.",
+          "accepted": [
+            "Wij herinneren ons deze straat niet."
+          ]
+        },
+        {
+          "prompt": "Вона хоче помитися.",
+          "accepted": [
+            "Zij wil zich wassen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "me",
+        "je",
+        "zich",
+        "ons",
+        "was",
+        "wast",
+        "wassen",
+        "herinner",
+        "herinnert",
+        "voel",
+        "voelt",
+        "ziek"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik voel ___ gezond.",
+          "hint": "себе (я почуваюся здоровим)",
+          "accepted": [
+            [
+              "me"
+            ]
+          ]
+        },
+        {
+          "text": "Jij wast ___ voor het eten.",
+          "hint": "себе (ти)",
+          "accepted": [
+            [
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "Zij wassen ___ voor het werk.",
+          "hint": "себе (вони)",
+          "accepted": [
+            [
+              "zich"
+            ]
+          ]
+        },
+        {
+          "text": "Wij herinneren ___ die dag niet.",
+          "hint": "себе (ми)",
+          "accepted": [
+            [
+              "ons"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ me voor het werk.",
+          "hint": "миюся (я)",
+          "accepted": [
+            [
+              "was"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ zich voor de vergadering.",
+          "hint": "миється (він)",
+          "accepted": [
+            [
+              "wast"
+            ]
+          ]
+        },
+        {
+          "text": "Jullie ___ je voor het eten.",
+          "hint": "миєтеся (ви, кілька)",
+          "accepted": [
+            [
+              "wassen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ me haar naam niet.",
+          "hint": "пам'ятаю (я)",
+          "accepted": [
+            [
+              "herinner"
+            ]
+          ]
+        },
+        {
+          "text": "___ hij zich mijn naam?",
+          "hint": "Він пам'ятає...?",
+          "accepted": [
+            [
+              "Herinnert",
+              "herinnert"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ me al beter.",
+          "hint": "почуваюся (я)",
+          "accepted": [
+            [
+              "voel"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ zich niet goed.",
+          "hint": "почувається (він)",
+          "accepted": [
+            [
+              "voelt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ben ___, dus ik voel me niet goed.",
+          "hint": "хворий",
+          "accepted": [
+            [
+              "ziek"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik was me.",
+          "cue": "-> питання",
+          "accepted": [
+            "Was jij je?",
+            "Was je je?"
+          ]
+        },
+        {
+          "prompt": "Hij wast zich.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij wast zich niet."
+          ]
+        },
+        {
+          "prompt": "Ik voel me goed.",
+          "cue": "-> заміни ik на zij (одна особа)",
+          "accepted": [
+            "Zij voelt zich goed."
+          ]
+        },
+        {
+          "prompt": "Wij herinneren ons dat.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Wij herinneren ons dat niet."
+          ]
+        },
+        {
+          "prompt": "Jij herinnert je die dag.",
+          "cue": "-> питання",
+          "accepted": [
+            "Herinner jij je die dag?",
+            "Herinner je je die dag?"
+          ]
+        },
+        {
+          "prompt": "Zij wassen zich.",
+          "cue": "-> заміни zij (вони) на jullie",
+          "accepted": [
+            "Jullie wassen je."
+          ]
+        },
+        {
+          "prompt": "Ik herinner me dat gesprek.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik herinner me dat gesprek niet."
+          ]
+        },
+        {
+          "prompt": "U wast zich.",
+          "cue": "-> питання",
+          "accepted": [
+            "Wast u zich?"
+          ]
+        },
+        {
+          "prompt": "Hij voelt zich beter.",
+          "cue": "-> заміни hij на ik",
+          "accepted": [
+            "Ik voel me beter."
+          ]
+        },
+        {
+          "prompt": "Wij wassen ons voor de afspraak.",
+          "cue": "-> заміни wij на jullie",
+          "accepted": [
+            "Jullie wassen je voor de afspraak."
+          ]
+        },
+        {
+          "prompt": "Ik moet me wassen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Moet jij je wassen?",
+            "Moet je je wassen?"
+          ]
+        },
+        {
+          "prompt": "Zij voelt zich ziek.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Zij voelt zich niet ziek."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ me elke dag.",
+          "cue": "zich wassen",
+          "accepted": [
+            "was"
+          ]
+        },
+        {
+          "text": "Jij ___ je voor de vergadering.",
+          "cue": "zich wassen",
+          "accepted": [
+            "wast"
+          ]
+        },
+        {
+          "text": "Hij ___ zich elke ochtend.",
+          "cue": "zich wassen",
+          "accepted": [
+            "wast"
+          ]
+        },
+        {
+          "text": "Wij ___ ons.",
+          "cue": "zich wassen",
+          "accepted": [
+            "wassen"
+          ]
+        },
+        {
+          "text": "Jullie ___ je elke dag.",
+          "cue": "zich wassen",
+          "accepted": [
+            "wassen"
+          ]
+        },
+        {
+          "text": "Zij ___ zich niet.",
+          "cue": "zich wassen",
+          "accepted": [
+            "wassen"
+          ]
+        },
+        {
+          "text": "___ u zich elke dag?",
+          "cue": "zich wassen",
+          "accepted": [
+            "Wast",
+            "wast"
+          ]
+        },
+        {
+          "text": "Ik ___ me ziek vandaag.",
+          "cue": "zich voelen",
+          "accepted": [
+            "voel"
+          ]
+        },
+        {
+          "text": "___ jij je goed?",
+          "cue": "zich voelen",
+          "accepted": [
+            "Voel",
+            "voel"
+          ]
+        },
+        {
+          "text": "Zij ___ zich beter.",
+          "cue": "zich voelen",
+          "accepted": [
+            "voelt"
+          ]
+        },
+        {
+          "text": "Ik ___ me dat niet.",
+          "cue": "zich herinneren",
+          "accepted": [
+            "herinner"
+          ]
+        },
+        {
+          "text": "___ hij zich dat gesprek?",
+          "cue": "zich herinneren",
+          "accepted": [
+            "Herinnert",
+            "herinnert"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "function",
+        "verb"
+      ]
+    }
+  ]
+}
