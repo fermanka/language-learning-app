@@ -1,0 +1,1018 @@
+{
+  "id": "nl-les-46",
+  "lang": "nl",
+  "order": 46,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-4ccd3aa2",
+      "type": "function",
+      "lemma": "de telefoon gaat",
+      "ua": "телефон дзвонить (буквально «телефон іде»)",
+      "audio": "de-telefoon-gaat.mp3",
+      "dictation": false,
+      "explain_ua": "(De telefoon gaat! = телефон дзвонить!). Gaat -- уже відома форма gaan (Les 5, Les 38), тут у новому значенні: не «йти», а «дзвонити» (про телефон, дзвінок). Це стала фраза, тому вчимо разом: de telefoon gaat. De telefoon вже відомий з Les 5.",
+      "check": "Що це саме стала ідіома (а не випадковий збіг значень), з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-4f94910e",
+      "type": "verb",
+      "lemma": "opnemen",
+      "ua": "брати слухавку, відповідати (на дзвінок)",
+      "audio": "opnemen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "neem op",
+          "audio": "ik-neem-op.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "neemt op",
+          "audio": "hij-neemt-op.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "nemen op",
+          "audio": "wij-nemen-op.mp3"
+        }
+      ],
+      "explain_ua": "(Ik neem op = я беру слухавку). Opnemen = op + nemen -- дієслово nemen ти вже знаєш (Les 22, і genomen Les 34): форми ті самі (neem, neemt, nemen), тільки op іде в кінець речення, як у opstaan, opbellen (Les 4). Наголос на префіксі: OP-ne-men."
+    },
+    {
+      "id": "nl-6de97da2",
+      "type": "noun",
+      "article": "het",
+      "lemma": "gesprek",
+      "plural": [
+        "gesprekken"
+      ],
+      "ua": "розмова, (телефонна) розмова",
+      "audio": "het-gesprek.mp3",
+      "explain_ua": "(Ik heb een gesprek met mijn baas = у мене розмова з моїм начальником). Gesprek -- від spreken (Les 9: spreken = говорити, розмовляти), тут як іменник. Множина gesprekken: коротка e, приголосна подвоюється перед -en, як bus - bussen (Les 6). Наголос на другому складі: ge-SPREK.",
+      "check": "Множину gesprekken перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-ebf4f56f",
+      "type": "adjective",
+      "lemma": "bezet",
+      "ua": "зайнятий, зайнята, зайняте, зайняті (про лінію, місце)",
+      "audio": "bezet.mp3",
+      "explain_ua": "(De lijn is bezet = лінія зайнята). Bezet -- про річ чи місце: телефонна лінія, стілець, туалет -- не про людину чи розклад (для цього є druk, нижче). Після zijn без -e, як klein, groot (Les 11, Les 19). Наголос на другому складі: be-ZET.",
+      "check": "Наголос be-ZET з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-6612c5f8",
+      "type": "noun",
+      "article": "de",
+      "lemma": "lijn",
+      "plural": [
+        "lijnen"
+      ],
+      "ua": "лінія (телефонна тощо)",
+      "audio": "de-lijn.mp3",
+      "explain_ua": "(De lijn is bezet = лінія зайнята). Lijn -- телефонна лінія (і лінія загалом: пряма лінія, автобусна лінія). Множина lijnen: без подвоєння, бо ij це дифтонг [ɛi], як у mijn (Les 1), не коротка голосна. Наголос на єдиному складі: LIJN.",
+      "check": "Множину lijnen перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-0da9604e",
+      "type": "verb",
+      "lemma": "terugbellen",
+      "ua": "передзвонити",
+      "audio": "terugbellen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "bel terug",
+          "audio": "ik-bel-terug.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "belt terug",
+          "audio": "hij-belt-terug.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "bellen terug",
+          "audio": "wij-bellen-terug.mp3"
+        }
+      ],
+      "explain_ua": "(Ik bel je morgen terug = я передзвоню тобі завтра). Terugbellen = terug (назад) + корінь bel- з opbellen (Les 4): bel, belt, bellen -- ті самі форми, лише інший префікс іде в кінець речення: terug замість op. Naголос на префіксі: te-RUG-bel-len."
+    },
+    {
+      "id": "nl-c28be64e",
+      "type": "verb",
+      "lemma": "ophangen",
+      "ua": "класти слухавку, вішати (слухавку)",
+      "audio": "ophangen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "hang op",
+          "audio": "ik-hang-op.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "hangt op",
+          "audio": "hij-hangt-op.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "hangen op",
+          "audio": "wij-hangen-op.mp3"
+        }
+      ],
+      "explain_ua": "(Ik hang op = я кладу слухавку). Ophangen = op + hangen «вішати» (нове дієслово, тут лише теперішній час: hang, hangt, hangen -- звичайне за формою). Відокремлюване: op у кінець, як opnemen, opbellen. Наголос на префіксі: OP-han-gen.",
+      "check": "Що hangen тут звичайне (без подвоєння приголосної, бо основа вже закінчується на ng) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-488cfc30",
+      "type": "noun",
+      "article": "het",
+      "lemma": "bericht",
+      "plural": [
+        "berichten"
+      ],
+      "ua": "повідомлення",
+      "audio": "het-bericht.mp3",
+      "explain_ua": "(Ik verstuur een bericht = я надсилаю повідомлення). Bericht -- разом з versturen і ontvangen (Les 39: надсилати, отримувати) -- ті самі дієслова працюють і для повідомлень, не лише для пошти. Множина berichten: без подвоєння, бо -cht це збіг приголосних. Наголос на другому складі: be-RICHT.",
+      "check": "Множину berichten перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-2edad59c",
+      "type": "noun",
+      "article": "de",
+      "lemma": "voicemail",
+      "plural": [
+        "voicemails"
+      ],
+      "ua": "голосова пошта",
+      "audio": "de-voicemail.mp3",
+      "explain_ua": "(Ik luister naar de voicemail = я слухаю голосову пошту). Voicemail -- запозичене англійське слово, вимовляється майже як в англійській. Luisteren завжди з naar (Les 27): luisteren naar de voicemail. Множина voicemails: іноземні слова беруть -s, як de auto's ні -- тут просто -s, без апострофа, бо закінчується на приголосну l.",
+      "check": "Що множина voicemails (проста -s, без апострофа) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-49a13670",
+      "type": "noun",
+      "article": "het",
+      "lemma": "mobieltje",
+      "plural": [
+        "mobieltjes"
+      ],
+      "ua": "мобільний телефон (розмовно)",
+      "audio": "het-mobieltje.mp3",
+      "explain_ua": "(Mijn mobieltje is thuis = мій мобільний удома). Mobieltje -- зменшувальна форма (-tje), тому завжди het, навіть якщо повне слово de mobiele telefoon було б de (Les 25: het broodje -- -je це завжди het). Множина mobieltjes: зменшувальні завжди -s. Наголос на першому складі: mo-BIEL-tje.",
+      "check": "Множину mobieltjes за правилом -tje (Les 25), окремо в словнику не підтверджено."
+    },
+    {
+      "id": "nl-46e18bd4",
+      "type": "noun",
+      "article": "de",
+      "lemma": "vergadering",
+      "plural": [
+        "vergaderingen"
+      ],
+      "ua": "нарада, зустріч (робоча)",
+      "audio": "de-vergadering.mp3",
+      "explain_ua": "(Wij hebben een vergadering = у нас нарада). Слова на -ing майже завжди de-слова (як de korting, Les 44). Множина vergaderingen. Наголос на третьому складі: ver-GA-de-ring.",
+      "check": "Множину vergaderingen перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-3e5d8bae",
+      "type": "noun",
+      "article": "de",
+      "lemma": "pauze",
+      "plural": [
+        "pauzes"
+      ],
+      "ua": "перерва",
+      "audio": "de-pauze.mp3",
+      "explain_ua": "(Ik heb om twaalf uur pauze = у мене перерва о дванадцятій). Pauze -- перерва в роботі чи в школі. Множина pauzes: закінчується на ненаголошену -e, бере просто -s, без апострофа (не auto's, бо там наголошена o). Наголос на першому складі: PAU-ze.",
+      "check": "Множину pauzes перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-036e3433",
+      "type": "noun",
+      "article": "de",
+      "lemma": "dienst",
+      "plural": [
+        "diensten"
+      ],
+      "ua": "зміна (робоча)",
+      "audio": "de-dienst.mp3",
+      "explain_ua": "(Ik heb vandaag een lange dienst = сьогодні в мене довга зміна). Dienst -- робоча зміна (рання, пізня, довга, коротка). Множина diensten: ie довге, збіг приголосних nst не подвоюється. Наголос на єдиному складі: DIENST.",
+      "check": "Множину diensten перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-a8cbee58",
+      "type": "noun",
+      "article": "het",
+      "lemma": "salaris",
+      "plural": [
+        "salarissen"
+      ],
+      "ua": "зарплата",
+      "audio": "het-salaris.mp3",
+      "explain_ua": "(Ik ontvang mijn salaris op de eerste van de maand = я отримую зарплату першого числа місяця). Salaris -- het-слово (виняток, багато слів на -is/-us het). Множина salarissen: коротка i, приголосна s подвоюється перед -en, як bus - bussen (Les 6). Наголос на другому складі: sa-LA-ris.",
+      "check": "Множину salarissen перевірено (woorden.org)."
+    },
+    {
+      "id": "nl-56d00f3d",
+      "type": "verb",
+      "lemma": "melden",
+      "ua": "повідомляти",
+      "audio": "melden.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "meld",
+          "audio": "ik-meld.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "meldt",
+          "audio": "hij-meldt.mp3"
+        }
+      ],
+      "explain_ua": "(Hij meldt dat hij ziek is = він повідомляє, що він хворий). Melden -- звичайне дієслово, основа meld. Для hij/zij/het основа вже закінчується на d, тому +t дає meldt (d і t поруч, обидві літери лишаються, як wordt -- ще не вчили, той самий принцип). Часто з dat-реченням (Les 42): melden dat ..., дієслово в кінці підрядного речення.",
+      "check": "Написання meldt (d+t разом) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-e880b285",
+      "type": "adjective",
+      "lemma": "vrij",
+      "ua": "вільний, вихідний",
+      "audio": "vrij.mp3",
+      "explain_ua": "(Morgen ben ik vrij = завтра я вихідний). Вільний, вільна, вільне, вільні; вихідний (vrij hebben, vrij zijn = мати вихідний). У Les 41 ми вчили de vrije tijd (вільний час) як цілий вираз і відклали vrij саме по собі -- ось воно. Vrij описує день чи людину без роботи: ik ben vrij, ik heb vrij. Після zijn без -e, як klein, groot. Ij це [ɛi], як у mijn (Les 1).",
+      "check": "Наголос VRIJ з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-05082425",
+      "type": "adjective",
+      "lemma": "klaar",
+      "ua": "готовий, готова, готове, готові; закінчений (klaar zijn met = закінчити щось)",
+      "audio": "klaar.mp3",
+      "explain_ua": "(Ik ben klaar met het werk om vijf uur = я закінчую роботу о п'ятій). Klaar zijn met + іменник -- закінчити щось (het werk, het eten). Після zijn без -e. Aa довге [aː], як у maan (Les 1). Наголос на єдиному складі: KLAAR.",
+      "check": "Наголос KLAAR з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-5b56424d",
+      "type": "adjective",
+      "lemma": "druk",
+      "ua": "зайнятий, зайнята, зайняте, зайняті (про людину, розклад)",
+      "audio": "druk.mp3",
+      "explain_ua": "(Ik heb het druk = я зайнятий, у мене багато справ). Druk -- про людину чи час, на відміну від bezet (вище), яке лише про річ чи місце: de lijn is bezet, але ik ben druk (не ik ben bezet). Ik heb het druk -- стала фраза (hebben + het + прикметник), вчи цілком. Після zijn без -e. Наголос на єдиному складі: DRUK.",
+      "check": "Що druk і bezet не взаємозамінні (bezet тільки про речі/місця) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-493a1484",
+      "type": "function",
+      "lemma": "op tijd",
+      "ua": "вчасно",
+      "audio": "op-tijd.mp3",
+      "dictation": false,
+      "explain_ua": "(Kom je op tijd? = ти прийдеш вчасно?). Op tijd -- стала фраза з двох уже відомих слів: op (Les 13 та інші) і tijd (Les 3). Вчи як ціле, як te voet (Les 6) чи in de buurt van (Les 3). Протилежність -- te laat (Les 14: laat = пізно).",
+      "check": "Що op tijd вчиться як ціла фраза з власних знань, окремо не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Телефонна розмова: opnemen, ophangen, terugbellen",
+      "summary_ua": "Три відокремлювані дієслова для телефонної розмови. Opnemen будується на вже відомому nemen (Les 22): neem, neemt, nemen, тільки op іде в кінець речення. Terugbellen використовує вже відомий корінь bel- з opbellen (Les 4): bel, belt, bellen, лише замість op у кінці стоїть terug (назад). Ophangen -- нове дієслово hangen, звичайне в теперішньому часі: hang, hangt, hangen.",
+      "see": "Les 4",
+      "compare": [
+        {
+          "form": "Opnemen: корінь nemen (Les 22)",
+          "when_ua": "Ik neem op, jij neemt op, wij nemen op -- ті самі форми, що й звичайний nemen, лише op у кінці.",
+          "examples": [
+            {
+              "nl": "Neem je de telefoon op?",
+              "ua": "Ти береш слухавку?",
+              "audio": "les46-rule-01.mp3"
+            },
+            {
+              "nl": "Zij neemt niet op.",
+              "ua": "Вона не бере слухавку.",
+              "audio": "les46-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Заперечення niet стоїть перед op, як в opstaan, opbellen (Les 4)."
+        },
+        {
+          "form": "Ophangen і terugbellen: hangen і корінь bel- (Les 4)",
+          "when_ua": "Ophangen -- нове hangen, звичайні форми. Terugbellen -- той самий корінь bel-, що й opbellen, лише інший префікс.",
+          "examples": [
+            {
+              "nl": "Ik hang snel op.",
+              "ua": "Я швидко кладу слухавку.",
+              "audio": "les46-rule-03.mp3"
+            },
+            {
+              "nl": "Bel je mij morgen terug?",
+              "ua": "Ти передзвониш мені завтра?",
+              "audio": "les46-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Усі три дієслова відокремлювані: префікс (op / terug) іде в кінець речення чи питання."
+        }
+      ],
+      "points_ua": [
+        "Opnemen = op + nemen (Les 22): neem, neemt, nemen, op у кінці.",
+        "Terugbellen = terug + корінь bel- (з opbellen, Les 4): bel, belt, bellen, terug у кінці.",
+        "Ophangen = op + hangen (нове дієслово): hang, hangt, hangen, op у кінці."
+      ]
+    },
+    {
+      "title_ua": "Bezet чи druk? Дві різні «зайнятості»",
+      "summary_ua": "Українське й англійське «зайнятий» -- одне слово, нідерландське -- два, і вони не взаємозамінні. Bezet -- про річ чи місце: телефонна лінія, стілець, туалет. Druk -- про людину чи розклад: ik ben druk, mijn week is druk.",
+      "see": "Les 19",
+      "compare": [
+        {
+          "form": "Bezet: лінія, місце",
+          "when_ua": "Bezet стосується речей і місць, не людей.",
+          "examples": [
+            {
+              "nl": "Is deze stoel bezet?",
+              "ua": "Це місце зайняте?",
+              "audio": "les46-rule-05.mp3"
+            },
+            {
+              "nl": "De telefoon is bezet.",
+              "ua": "Телефон зайнятий.",
+              "audio": "les46-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Після zijn без -e, як klein, groot (Les 11, Les 19)."
+        },
+        {
+          "form": "Druk: людина, розклад",
+          "when_ua": "Druk стосується людей і часу, не речей.",
+          "examples": [
+            {
+              "nl": "Ik heb het druk deze week.",
+              "ua": "У мене багато справ цього тижня.",
+              "audio": "les46-rule-07.mp3"
+            },
+            {
+              "nl": "Mijn baas is altijd druk.",
+              "ua": "Мій начальник завжди зайнятий.",
+              "audio": "les46-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Ik heb het druk -- стала фраза (hebben + het + прикметник), вчи цілком, окремо не розбирай."
+        }
+      ],
+      "points_ua": [
+        "Bezet -- про річ чи місце: de lijn, de stoel, het toilet.",
+        "Druk -- про людину чи час: ik, mijn baas, deze week.",
+        "Обидва після zijn/hebben без -e."
+      ]
+    },
+    {
+      "title_ua": "На роботі: vergadering, pauze, dienst, salaris, vrij, klaar, op tijd",
+      "summary_ua": "Чотири іменники робочого дня (vergadering, pauze, dienst, salaris) завжди стоять з hebben чи ontvangen. Три слова стану й часу (vrij, klaar, op tijd) описують, вільний ти, закінчив чи прийшов вчасно.",
+      "see": "Les 41",
+      "compare": [
+        {
+          "form": "Іменники робочого дня",
+          "when_ua": "Vergadering, pauze, dienst -- з hebben; salaris -- з ontvangen (Les 39).",
+          "examples": [
+            {
+              "nl": "Wij hebben morgen een vergadering.",
+              "ua": "У нас завтра нарада.",
+              "audio": "les46-rule-09.mp3"
+            },
+            {
+              "nl": "Ik heb om elf uur pauze.",
+              "ua": "У мене перерва об одинадцятій.",
+              "audio": "les46-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Dienst і salaris працюють так само: ik heb een lange dienst, ik ontvang mijn salaris."
+        },
+        {
+          "form": "Стан і час: vrij, klaar, op tijd",
+          "when_ua": "Vrij і klaar -- після zijn, без -e; op tijd -- стала фраза.",
+          "examples": [
+            {
+              "nl": "Ben je op zaterdag vrij?",
+              "ua": "Ти вільна в суботу?",
+              "audio": "les46-rule-11.mp3"
+            },
+            {
+              "nl": "Kom je op tijd?",
+              "ua": "Ти прийдеш вчасно?",
+              "audio": "les46-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Vrij довершує тему з Les 41 (de vrije tijd); klaar zijn met = закінчити щось."
+        }
+      ],
+      "points_ua": [
+        "Vergadering, pauze, dienst, salaris -- частини робочого дня, усі з hebben (salaris ще й з ontvangen).",
+        "Vrij -- вільний, вихідний (Les 41: vrije tijd); klaar -- готовий, закінчений.",
+        "Op tijd -- стала фраза «вчасно», протилежність te laat (Les 14)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Kunt u me straks terugbellen?",
+      "ua": "Чи можете ви мені передзвонити трохи пізніше?",
+      "audio": "les46-example-01.mp3"
+    },
+    {
+      "nl": "Ik hang op, want ik moet nu werken.",
+      "ua": "Я кладу слухавку, бо мені треба зараз працювати.",
+      "audio": "les46-example-02.mp3"
+    },
+    {
+      "nl": "De lijn is bezet.",
+      "ua": "Лінія зайнята.",
+      "audio": "les46-example-03.mp3"
+    },
+    {
+      "nl": "Ik verstuur een bericht.",
+      "ua": "Я надсилаю повідомлення.",
+      "audio": "les46-example-04.mp3"
+    },
+    {
+      "nl": "Ik luister naar de voicemail.",
+      "ua": "Я слухаю голосову пошту.",
+      "audio": "les46-example-05.mp3"
+    },
+    {
+      "nl": "Mijn mobieltje is thuis.",
+      "ua": "Мій мобільний удома.",
+      "audio": "les46-example-06.mp3"
+    },
+    {
+      "nl": "Ik ontvang mijn salaris op de eerste van de maand.",
+      "ua": "Я отримую зарплату першого числа місяця.",
+      "audio": "les46-example-07.mp3"
+    },
+    {
+      "nl": "Ik heb een gesprek met mijn baas.",
+      "ua": "У мене розмова з моїм начальником.",
+      "audio": "les46-example-08.mp3"
+    },
+    {
+      "nl": "Wij hebben een vergadering om tien uur.",
+      "ua": "У нас нарада о десятій.",
+      "audio": "les46-example-09.mp3"
+    },
+    {
+      "nl": "Hij is heel druk vandaag.",
+      "ua": "Він дуже зайнятий сьогодні.",
+      "audio": "les46-example-10.mp3"
+    },
+    {
+      "nl": "Ben je al klaar?",
+      "ua": "Ти вже готовий?",
+      "audio": "les46-example-11.mp3"
+    },
+    {
+      "nl": "Ik kom altijd op tijd.",
+      "ua": "Я завжди приходжу вчасно.",
+      "audio": "les46-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Een telefoontje op het werk",
+    "title_ua": "Дзвінок на роботі",
+    "highlight": [
+      "nl-4ccd3aa2",
+      "nl-46e18bd4",
+      "nl-3e5d8bae",
+      "nl-036e3433",
+      "nl-e880b285",
+      "nl-05082425",
+      "nl-5b56424d"
+    ],
+    "sentences": [
+      {
+        "nl": "Ik werk op het kantoor.",
+        "ua": "Я працюю в офісі.",
+        "audio": "les46-reading-01.mp3"
+      },
+      {
+        "nl": "De telefoon gaat.",
+        "ua": "Телефон дзвонить.",
+        "audio": "les46-reading-02.mp3"
+      },
+      {
+        "nl": "Ik neem op.",
+        "ua": "Я беру слухавку.",
+        "audio": "les46-reading-03.mp3"
+      },
+      {
+        "nl": "Het is mijn baas.",
+        "ua": "Це мій начальник.",
+        "audio": "les46-reading-04.mp3"
+      },
+      {
+        "nl": "Wij hebben een vergadering.",
+        "ua": "У нас нарада.",
+        "audio": "les46-reading-05.mp3"
+      },
+      {
+        "nl": "Ik ben nu druk, dus ik bel hem later terug.",
+        "ua": "Я зараз зайнятий, тому передзвоню йому пізніше.",
+        "audio": "les46-reading-06.mp3"
+      },
+      {
+        "nl": "Om twaalf uur heb ik pauze.",
+        "ua": "О дванадцятій у мене перерва.",
+        "audio": "les46-reading-07.mp3"
+      },
+      {
+        "nl": "Mijn collega is ziek en meldt dat hij niet kan komen.",
+        "ua": "Мій колега хворий і повідомляє, що не може прийти.",
+        "audio": "les46-reading-08.mp3"
+      },
+      {
+        "nl": "Ik heb vandaag een lange dienst, maar morgen ben ik vrij.",
+        "ua": "Сьогодні в мене довга зміна, але завтра я вихідний.",
+        "audio": "les46-reading-09.mp3"
+      },
+      {
+        "nl": "Ik ben klaar met het werk om vijf uur.",
+        "ua": "Я закінчую роботу о п'ятій.",
+        "audio": "les46-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Чи можете ви мені передзвонити?",
+          "accepted": [
+            "Kunt u me terugbellen?"
+          ]
+        },
+        {
+          "prompt": "Він кладе слухавку.",
+          "accepted": [
+            "Hij hangt de telefoon op."
+          ]
+        },
+        {
+          "prompt": "Вона бере слухавку.",
+          "accepted": [
+            "Zij neemt op."
+          ]
+        },
+        {
+          "prompt": "У нас нарада о дев'ятій.",
+          "accepted": [
+            "Wij hebben een vergadering om negen uur."
+          ]
+        },
+        {
+          "prompt": "Мій колега сьогодні дуже зайнятий.",
+          "accepted": [
+            "Mijn collega is vandaag heel druk."
+          ]
+        },
+        {
+          "prompt": "Лінія зайнята, тому я передзвоню пізніше.",
+          "accepted": [
+            "De lijn is bezet, dus ik bel later terug."
+          ]
+        },
+        {
+          "prompt": "Я не хочу слухати голосову пошту.",
+          "accepted": [
+            "Ik wil niet naar de voicemail luisteren."
+          ]
+        },
+        {
+          "prompt": "Де мій мобільний?",
+          "accepted": [
+            "Waar is mijn mobieltje?"
+          ]
+        },
+        {
+          "prompt": "Я отримую повідомлення від колеги.",
+          "accepted": [
+            "Ik ontvang een bericht van mijn collega."
+          ]
+        },
+        {
+          "prompt": "У суботу я вільна.",
+          "accepted": [
+            "Ik ben op zaterdag vrij."
+          ]
+        },
+        {
+          "prompt": "Ти завжди приходиш вчасно?",
+          "accepted": [
+            "Kom jij altijd op tijd?"
+          ]
+        },
+        {
+          "prompt": "Він повідомляє, що нарада завтра.",
+          "accepted": [
+            "Hij meldt dat de vergadering morgen is."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "gesprek",
+        "salaris",
+        "pauze",
+        "dienst",
+        "klaar",
+        "lijn",
+        "bericht",
+        "voicemail",
+        "mobieltje",
+        "vergadering",
+        "druk",
+        "bezet"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik heb een ___ met mijn baas.",
+          "hint": "розмову",
+          "accepted": [
+            [
+              "gesprek"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ontvang mijn ___ op de eerste van de maand.",
+          "hint": "зарплату",
+          "accepted": [
+            [
+              "salaris"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben ___ om twaalf uur.",
+          "hint": "перерву",
+          "accepted": [
+            [
+              "pauze"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb een lange ___ vandaag.",
+          "hint": "зміну",
+          "accepted": [
+            [
+              "dienst"
+            ]
+          ]
+        },
+        {
+          "text": "Ben je al ___?",
+          "hint": "готовий",
+          "accepted": [
+            [
+              "klaar"
+            ]
+          ]
+        },
+        {
+          "text": "De ___ is bezet.",
+          "hint": "лінія",
+          "accepted": [
+            [
+              "lijn"
+            ]
+          ]
+        },
+        {
+          "text": "Ik verstuur een ___.",
+          "hint": "повідомлення",
+          "accepted": [
+            [
+              "bericht"
+            ]
+          ]
+        },
+        {
+          "text": "Ik luister naar de ___.",
+          "hint": "голосову пошту",
+          "accepted": [
+            [
+              "voicemail"
+            ]
+          ]
+        },
+        {
+          "text": "Waar is jouw ___?",
+          "hint": "мобільний",
+          "accepted": [
+            [
+              "mobieltje"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben een ___ om tien uur.",
+          "hint": "нараду",
+          "accepted": [
+            [
+              "vergadering"
+            ]
+          ]
+        },
+        {
+          "text": "Hij is heel ___ vandaag.",
+          "hint": "зайнятий",
+          "accepted": [
+            [
+              "druk"
+            ]
+          ]
+        },
+        {
+          "text": "De lijn is ___.",
+          "hint": "зайнята",
+          "accepted": [
+            [
+              "bezet"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik neem op.",
+          "cue": "-> питання",
+          "accepted": [
+            "Neem jij op?",
+            "Neem je op?"
+          ]
+        },
+        {
+          "prompt": "Hij hangt op.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij hangt niet op."
+          ]
+        },
+        {
+          "prompt": "Ik bel je terug.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Wij bellen je terug.",
+            "We bellen je terug."
+          ]
+        },
+        {
+          "prompt": "De lijn is bezet.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is de lijn bezet?"
+          ]
+        },
+        {
+          "prompt": "Wij hebben een vergadering.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Wij hebben geen vergadering.",
+            "We hebben geen vergadering."
+          ]
+        },
+        {
+          "prompt": "Ik heb pauze.",
+          "cue": "-> заміни ik на zij (одна особа)",
+          "accepted": [
+            "Zij heeft pauze."
+          ]
+        },
+        {
+          "prompt": "Hij meldt dat hij ziek is.",
+          "cue": "-> заміни hij на ik",
+          "accepted": [
+            "Ik meld dat ik ziek ben."
+          ]
+        },
+        {
+          "prompt": "Ik ben morgen vrij.",
+          "cue": "-> заміни ik на jij",
+          "accepted": [
+            "Jij bent morgen vrij."
+          ]
+        },
+        {
+          "prompt": "Ik kom op tijd.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik kom niet op tijd."
+          ]
+        },
+        {
+          "prompt": "Jij bent klaar.",
+          "cue": "-> питання",
+          "accepted": [
+            "Ben jij klaar?",
+            "Ben je klaar?"
+          ]
+        },
+        {
+          "prompt": "De telefoon gaat.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "De telefoon gaat niet."
+          ]
+        },
+        {
+          "prompt": "Ik bel terug.",
+          "cue": "-> заміни: ophangen",
+          "accepted": [
+            "Ik hang op."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ op.",
+          "cue": "opnemen",
+          "accepted": [
+            "neem"
+          ]
+        },
+        {
+          "text": "Jij ___ op.",
+          "cue": "opnemen",
+          "accepted": [
+            "neemt"
+          ]
+        },
+        {
+          "text": "Hij ___ op.",
+          "cue": "ophangen",
+          "accepted": [
+            "hangt"
+          ]
+        },
+        {
+          "text": "Wij ___ op.",
+          "cue": "ophangen",
+          "accepted": [
+            "hangen"
+          ]
+        },
+        {
+          "text": "Ik ___ je terug.",
+          "cue": "terugbellen",
+          "accepted": [
+            "bel"
+          ]
+        },
+        {
+          "text": "Zij ___ mij terug.",
+          "cue": "terugbellen",
+          "accepted": [
+            "belt"
+          ]
+        },
+        {
+          "text": "Hij ___ dat hij ziek is.",
+          "cue": "melden",
+          "accepted": [
+            "meldt"
+          ]
+        },
+        {
+          "text": "Ik ___ dat ik laat ben.",
+          "cue": "melden",
+          "accepted": [
+            "meld"
+          ]
+        },
+        {
+          "text": "Wij ___ een vergadering.",
+          "cue": "hebben",
+          "accepted": [
+            "hebben"
+          ]
+        },
+        {
+          "text": "___ jij vandaag pauze?",
+          "cue": "hebben",
+          "accepted": [
+            "Heb",
+            "heb"
+          ]
+        },
+        {
+          "text": "Zij ___ een lange dienst.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "___ u klaar?",
+          "cue": "zijn",
+          "accepted": [
+            "Bent",
+            "bent"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "розмова",
+          "answer": "het gesprek"
+        },
+        {
+          "prompt": "лінія",
+          "answer": "de lijn"
+        },
+        {
+          "prompt": "зайнятий (лінія)",
+          "answer": "bezet"
+        },
+        {
+          "prompt": "повідомлення",
+          "answer": "het bericht"
+        },
+        {
+          "prompt": "голосова пошта",
+          "answer": "de voicemail"
+        },
+        {
+          "prompt": "мобільний телефон",
+          "answer": "het mobieltje"
+        },
+        {
+          "prompt": "нарада",
+          "answer": "de vergadering"
+        },
+        {
+          "prompt": "перерва",
+          "answer": "de pauze"
+        },
+        {
+          "prompt": "зміна (робоча)",
+          "answer": "de dienst"
+        },
+        {
+          "prompt": "зарплата",
+          "answer": "het salaris"
+        }
+      ],
+      "extra": [
+        "vrij",
+        "druk"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb",
+        "adjective"
+      ]
+    }
+  ]
+}
