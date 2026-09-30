@@ -1,0 +1,679 @@
+{
+  "id": "nl-les-49",
+  "lang": "nl",
+  "order": 49,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-6edd42d3",
+      "type": "noun",
+      "article": "de",
+      "lemma": "buur",
+      "plural": [
+        "buren"
+      ],
+      "ua": "сусід, сусідка (одне слово для чоловіка і жінки, як leraar, Les 35)",
+      "audio": "de-buur.mp3",
+      "explain_ua": "(Onze buur woont naast ons = наш сусід живе поруч із нами). Buur -- спільне слово для сусіда-чоловіка і сусідки-жінки, той самий прийом, що leraar, dokter, kok (Les 35): стать зрозуміла з контексту чи з hij/zij, не зі слова. Є й окремі слова buurman (сусід-чоловік) і buurvrouw (сусідка), коли треба уточнити стать -- тут вчимо лише спільне buur. Множина de buren: одна u замість uu, бо склад відкритий -- той самий зразок, що muur - muren (Les 31)."
+    },
+    {
+      "id": "nl-9bef0316",
+      "type": "noun",
+      "article": "het",
+      "lemma": "probleem",
+      "plural": [
+        "problemen"
+      ],
+      "ua": "проблема",
+      "audio": "het-probleem.mp3",
+      "explain_ua": "(Dat is geen probleem = це не проблема). Схоже на українське «проблема»: підказка для пам'яті, а не етимологія. Множина de problemen: одна e замість ee, бо склад відкритий -- той самий зразок, що jaar - jaren (Les 26), oor - oren (Les 30)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Die en dat: derde rol -- een bijzin die het woord ervoor beschrijft",
+      "summary_ua": "Die і dat вже відомі як вказівні слова (Les 6: deze/die, dit/dat) і dat вже відоме як сполучник (Les 42: Ik weet dat ...). Тепер вони отримують третю роль: вводять підрядне речення одразу після іменника, щоб описати чи уточнити, про яку саме річ чи людину йдеться. В українській ти вже робиш це природно словами «який, яка, яке, що»: «машина, яка стоїть там». Ідея тобі знайома -- нове тут те, що дієслово підрядного речення завжди йде в самий кінець (той самий механізм, що dat і omdat, Les 40, Les 42). У цьому уроці таке речення завжди стоїть в самому кінці головного речення, одразу за іменником, і нічого більше після нього не йде.",
+      "see": "Les 6",
+      "compare": [
+        {
+          "form": "die: de-woord (однина) і будь-яка множина",
+          "when_ua": "Іменник з de в однині, або будь-яке слово в множині (множина завжди de, Les 6) -- die.",
+          "examples": [
+            {
+              "nl": "Dit is de fiets die van mijn zus is.",
+              "ua": "Це велосипед, який належить моїй сестрі.",
+              "audio": "les49-rule-01.mp3"
+            },
+            {
+              "nl": "Dit zijn de schoenen die duur zijn.",
+              "ua": "Це туфлі, які дорогі.",
+              "audio": "les49-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Той самий вибір, що і з deze/die (Les 6): de fiets -> die fiets; множина завжди de, тому de schoenen -> die schoenen."
+        },
+        {
+          "form": "dat: het-woord (однина)",
+          "when_ua": "Іменник з het в однині -- dat.",
+          "examples": [
+            {
+              "nl": "Dit is het boek dat oud is.",
+              "ua": "Це книга, яка стара.",
+              "audio": "les49-rule-03.mp3"
+            },
+            {
+              "nl": "Wij hebben een huis dat niet groot is.",
+              "ua": "У нас є будинок, який не великий.",
+              "audio": "les49-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Het boek -> dat boek (Les 6), і так само в ролі підрядного речення. Множина het-слів усе одно бере die, бо в множині завжди de: de boeken die ..., а не dat."
+        }
+      ],
+      "points_ua": [
+        "Die/dat уже відомі слова (Les 6, Les 42) -- тут нова робота: вводити речення, що описує іменник перед ними. Сама ідея тобі знайома з української: який, яка, яке.",
+        "Вибір той самий, що для deze/die, dit/dat: de-woord (і будь-яка множина) -> die; het-woord в однині -> dat.",
+        "У цьому уроці таке речення завжди в самому кінці, одразу після іменника -- нічого не йде після нього."
+      ]
+    },
+    {
+      "title_ua": "Die/dat: onderwerp (die woont) чи lijdend voorwerp (die ik heb) -- дієслово в кінці",
+      "summary_ua": "Die/dat можуть бути підметом свого підрядного речення (тоді дієслово стоїть одразу за ними) або додатком (тоді між die/dat і дієсловом з'являється ще один підмет). В обох випадках працює вже відоме правило (Les 40, Les 42): відмінюване дієслово підрядного речення -- в самому кінці.",
+      "see": "Les 40",
+      "compare": [
+        {
+          "form": "die/dat -- підмет: дієслово одразу за ним",
+          "when_ua": "Коли die/dat саме виконує дію -- дієслово стоїть відразу після нього, більше нікого немає.",
+          "examples": [
+            {
+              "nl": "Ik ken de vrouw die hier werkt.",
+              "ua": "Я знаю жінку, яка тут працює.",
+              "audio": "les49-rule-05.mp3"
+            },
+            {
+              "nl": "Hij heeft een boek dat op de stoel ligt.",
+              "ua": "У нього є книга, яка лежить на стільці.",
+              "audio": "les49-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Die/dat тут -- підмет: die werkt, dat ligt. Більше нема кому виконувати дію в цьому реченні."
+        },
+        {
+          "form": "die/dat -- додаток: ще один підмет, дієслово в кінці",
+          "when_ua": "Коли die/dat -- це те, що хтось інший робить (додаток) -- за ним йде ще один підмет, а дієслово -- в найсамісінький кінець.",
+          "examples": [
+            {
+              "nl": "Dit is de tas die zij heeft.",
+              "ua": "Це сумка, яка в неї є.",
+              "audio": "les49-rule-07.mp3"
+            },
+            {
+              "nl": "Dit is het huis dat wij kennen.",
+              "ua": "Це будинок, який ми знаємо.",
+              "audio": "les49-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Тут die/dat -- додаток: zij heeft die tas, wij kennen dat huis. Підмет (zij, wij) з'являється між die/dat і дієсловом, дієслово -- в кінці."
+        }
+      ],
+      "points_ua": [
+        "Die/dat -- підмет: дієслово одразу за ним (die werkt, dat ligt).",
+        "Die/dat -- додаток: за ним ще один підмет, дієслово -- в кінці (die zij heeft, dat wij kennen)."
+      ]
+    },
+    {
+      "title_ua": "Aan het einde van de zin -- дальше в наступному уроці",
+      "summary_ua": "У цьому уроці речення з die/dat завжди стоїть в самому кінці головного речення, одразу після іменника, який воно описує -- нічого після нього більше не триває. Коли іменник, який треба описати, стоїть у середині речення (наприклад, підмет), а головне речення продовжується й після підрядного -- це складніша конструкція, і вона чекає на тебе в одному з наступних уроків.",
+      "see": "Les 42",
+      "compare": [
+        {
+          "form": "цей урок: підрядне речення -- останнє в реченні",
+          "when_ua": "Іменник, який описуємо, стоїть в кінці головного речення (після is/zijn чи іншого дієслова), і одразу після нього -- die/dat-речення.",
+          "examples": [
+            {
+              "nl": "Dit zijn de kinderen die ik ken.",
+              "ua": "Це діти, яких я знаю.",
+              "audio": "les49-rule-09.mp3"
+            },
+            {
+              "nl": "Dit is de winkel die in de stad is.",
+              "ua": "Це магазин, який у місті.",
+              "audio": "les49-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Після die/dat-речення більше нічого не йде -- воно закриває все речення."
+        }
+      ],
+      "points_ua": [
+        "Цей урок: die/dat-речення завжди останнє в реченні, одразу після іменника.",
+        "Коли іменник у середині речення (наприклад, підмет) і головне речення триває далі -- це наступний крок, не сьогодні."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Dit is de auto die van mijn vader is.",
+      "ua": "Це машина, яка належить моєму батькові.",
+      "audio": "les49-example-01.mp3"
+    },
+    {
+      "nl": "Dit is het huis dat groot is.",
+      "ua": "Це будинок, який великий.",
+      "audio": "les49-example-02.mp3"
+    },
+    {
+      "nl": "Dit zijn de kinderen die buiten spelen.",
+      "ua": "Це діти, які граються надворі.",
+      "audio": "les49-example-03.mp3"
+    },
+    {
+      "nl": "Ik zie de vrouw die in het park werkt.",
+      "ua": "Я бачу жінку, яка працює в парку.",
+      "audio": "les49-example-04.mp3"
+    },
+    {
+      "nl": "Wij hebben een buur die naast ons woont.",
+      "ua": "У нас є сусід, який живе поруч із нами.",
+      "audio": "les49-example-05.mp3"
+    },
+    {
+      "nl": "Dit is het boek dat ik lees.",
+      "ua": "Це книга, яку я читаю.",
+      "audio": "les49-example-06.mp3"
+    },
+    {
+      "nl": "Dit is de fiets die hij heeft.",
+      "ua": "Це велосипед, який у нього є.",
+      "audio": "les49-example-07.mp3"
+    },
+    {
+      "nl": "Wij hebben een probleem dat niet klein is.",
+      "ua": "У нас є проблема, яка не маленька.",
+      "audio": "les49-example-08.mp3"
+    },
+    {
+      "nl": "Dit zijn de schoenen die ik draag.",
+      "ua": "Це туфлі, які я ношу.",
+      "audio": "les49-example-09.mp3"
+    },
+    {
+      "nl": "Zij leest het boek dat op de tafel ligt.",
+      "ua": "Вона читає книгу, яка лежить на столі.",
+      "audio": "les49-example-10.mp3"
+    },
+    {
+      "nl": "Dit is de stoel die in de kamer staat.",
+      "ua": "Це стілець, який стоїть у кімнаті.",
+      "audio": "les49-example-11.mp3"
+    },
+    {
+      "nl": "Ik ken de man die in de stad woont.",
+      "ua": "Я знаю чоловіка, який живе в місті.",
+      "audio": "les49-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Onze nieuwe buur",
+    "title_ua": "Наш новий сусід",
+    "highlight": [
+      "nl-6edd42d3",
+      "nl-9bef0316"
+    ],
+    "sentences": [
+      {
+        "nl": "Wij hebben een nieuwe buur.",
+        "ua": "У нас новий сусід.",
+        "audio": "les49-reading-01.mp3"
+      },
+      {
+        "nl": "Dit is de buur die naast ons woont.",
+        "ua": "Це сусід, який живе поруч із нами.",
+        "audio": "les49-reading-02.mp3"
+      },
+      {
+        "nl": "Hij werkt in een kantoor dat in de stad is.",
+        "ua": "Він працює в офісі, який у місті.",
+        "audio": "les49-reading-03.mp3"
+      },
+      {
+        "nl": "Hij heeft een auto die heel oud is.",
+        "ua": "У нього є машина, яка дуже стара.",
+        "audio": "les49-reading-04.mp3"
+      },
+      {
+        "nl": "De buur heeft een auto die veel kost.",
+        "ua": "У сусіда є машина, яка багато коштує.",
+        "audio": "les49-reading-05.mp3"
+      },
+      {
+        "nl": "Het probleem is de auto die hij heeft.",
+        "ua": "Проблема -- це машина, яка в нього є.",
+        "audio": "les49-reading-06.mp3"
+      },
+      {
+        "nl": "Ik ken de buur die dit probleem heeft.",
+        "ua": "Я знаю сусіда, який має цю проблему.",
+        "audio": "les49-reading-07.mp3"
+      },
+      {
+        "nl": "Hij koopt een auto die hij mooi vindt.",
+        "ua": "Він купує машину, яку вважає гарною.",
+        "audio": "les49-reading-08.mp3"
+      },
+      {
+        "nl": "Wij vinden dat goed.",
+        "ua": "Ми вважаємо, що це добре.",
+        "audio": "les49-reading-09.mp3"
+      },
+      {
+        "nl": "Nu is alles weer goed.",
+        "ua": "Тепер знову все добре.",
+        "audio": "les49-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Це стілець, який дуже старий.",
+          "accepted": [
+            "Dit is de stoel die heel oud is."
+          ]
+        },
+        {
+          "prompt": "Це вікно, яке маленьке.",
+          "accepted": [
+            "Dit is het raam dat klein is."
+          ]
+        },
+        {
+          "prompt": "Я знаю лікаря, який тут працює.",
+          "accepted": [
+            "Ik ken de dokter die hier werkt."
+          ]
+        },
+        {
+          "prompt": "Моя сестра купує сумку, яка не дорога.",
+          "accepted": [
+            "Mijn zus koopt een tas die niet duur is."
+          ]
+        },
+        {
+          "prompt": "Це вчителька, яка живе в місті.",
+          "accepted": [
+            "Dit is de leraar die in de stad woont."
+          ]
+        },
+        {
+          "prompt": "Це книга, яку знає мій брат.",
+          "accepted": [
+            "Dit is het boek dat mijn broer kent."
+          ]
+        },
+        {
+          "prompt": "Це двері, які старі.",
+          "accepted": [
+            "Dit is de deur die oud is."
+          ]
+        },
+        {
+          "prompt": "У нас є кімната, яка велика.",
+          "accepted": [
+            "Wij hebben een kamer die groot is.",
+            "We hebben een kamer die groot is."
+          ]
+        },
+        {
+          "prompt": "Це магазин, який новий.",
+          "accepted": [
+            "Dit is de winkel die nieuw is."
+          ]
+        },
+        {
+          "prompt": "Мій батько знає жінку, яка працює в магазині.",
+          "accepted": [
+            "Mijn vader kent de vrouw die in de winkel werkt."
+          ]
+        },
+        {
+          "prompt": "Це туфлі, які нові.",
+          "accepted": [
+            "Dit zijn de schoenen die nieuw zijn."
+          ]
+        },
+        {
+          "prompt": "Це будинок, який я знаю.",
+          "accepted": [
+            "Dit is het huis dat ik ken."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "die",
+        "dat",
+        "buur",
+        "spelen",
+        "heeft",
+        "lees",
+        "ligt",
+        "draag",
+        "staat",
+        "woont",
+        "werkt",
+        "probleem"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Dit is de trui ___ van mijn opa is.",
+          "hint": "яка (de-woord)",
+          "accepted": [
+            [
+              "die"
+            ]
+          ]
+        },
+        {
+          "text": "Dit is het T-shirt ___ klein is.",
+          "hint": "яке (het-woord)",
+          "accepted": [
+            [
+              "dat"
+            ]
+          ]
+        },
+        {
+          "text": "Onze ___ woont naast ons.",
+          "hint": "сусід",
+          "accepted": [
+            [
+              "buur"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ken de kinderen die buiten ___.",
+          "hint": "граються",
+          "accepted": [
+            [
+              "spelen"
+            ]
+          ]
+        },
+        {
+          "text": "Dit is de tas die hij ___.",
+          "hint": "має",
+          "accepted": [
+            [
+              "heeft"
+            ]
+          ]
+        },
+        {
+          "text": "Zij heeft het boek dat ik ___.",
+          "hint": "читаю",
+          "accepted": [
+            [
+              "lees"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn opa heeft het boek dat op de tafel ___.",
+          "hint": "лежить",
+          "accepted": [
+            [
+              "ligt"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus heeft de schoenen die ik ___.",
+          "hint": "ношу",
+          "accepted": [
+            [
+              "draag"
+            ]
+          ]
+        },
+        {
+          "text": "Wij hebben een stoel die in de kamer ___.",
+          "hint": "стоїть",
+          "accepted": [
+            [
+              "staat"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer kent de man die in de stad ___.",
+          "hint": "живе",
+          "accepted": [
+            [
+              "woont"
+            ]
+          ]
+        },
+        {
+          "text": "Wij kennen de vrouw die in het park ___.",
+          "hint": "працює",
+          "accepted": [
+            [
+              "werkt"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus heeft een ___ dat niet klein is.",
+          "hint": "проблема",
+          "accepted": [
+            [
+              "probleem"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори двоє речень в одне, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Dit is de tas. De tas is van mijn broer.",
+          "cue": "-> maak één zin met die",
+          "accepted": [
+            "Dit is de tas die van mijn broer is."
+          ]
+        },
+        {
+          "prompt": "Dit is het raam. Het raam is oud.",
+          "cue": "-> maak één zin met dat",
+          "accepted": [
+            "Dit is het raam dat oud is."
+          ]
+        },
+        {
+          "prompt": "Ik ken de dokter. De dokter werkt in de stad.",
+          "cue": "-> maak één zin met die",
+          "accepted": [
+            "Ik ken de dokter die in de stad werkt."
+          ]
+        },
+        {
+          "prompt": "Dit is het boek. Mijn zus leest het boek.",
+          "cue": "-> maak één zin met dat",
+          "accepted": [
+            "Dit is het boek dat mijn zus leest."
+          ]
+        },
+        {
+          "prompt": "Dit is de stoel. Mijn moeder heeft de stoel.",
+          "cue": "-> maak één zin met die",
+          "accepted": [
+            "Dit is de stoel die mijn moeder heeft."
+          ]
+        },
+        {
+          "prompt": "Wij hebben een leraar. De leraar spreekt Engels.",
+          "cue": "-> maak één zin met die",
+          "accepted": [
+            "Wij hebben een leraar die Engels spreekt."
+          ]
+        },
+        {
+          "prompt": "Zij leest het boek. Het boek ligt in de kamer.",
+          "cue": "-> maak één zin met dat",
+          "accepted": [
+            "Zij leest het boek dat in de kamer ligt."
+          ]
+        },
+        {
+          "prompt": "Dit is de winkel. De winkel is duur.",
+          "cue": "-> maak één zin met die",
+          "accepted": [
+            "Dit is de winkel die duur is."
+          ]
+        },
+        {
+          "prompt": "Dit zijn de schoenen. Mijn vader draagt de schoenen.",
+          "cue": "-> maak één zin met die",
+          "accepted": [
+            "Dit zijn de schoenen die mijn vader draagt."
+          ]
+        },
+        {
+          "prompt": "Dit is de auto die duur is.",
+          "cue": "-> de auto's (meervoud)",
+          "accepted": [
+            "Dit zijn de auto's die duur zijn."
+          ]
+        },
+        {
+          "prompt": "Ik zie de man die in de winkel werkt.",
+          "cue": "-> de vrouwen замість de man (meervoud)",
+          "accepted": [
+            "Ik zie de vrouwen die in de winkel werken."
+          ]
+        },
+        {
+          "prompt": "Wij hebben een tas die niet nieuw is.",
+          "cue": "-> прибери niet",
+          "accepted": [
+            "Wij hebben een tas die nieuw is."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі (не забудь: воно в кінці підрядного речення)",
+      "items": [
+        {
+          "example": true,
+          "text": "Dit is de jas die van mijn zus ___.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Dit is het bed dat groot ___.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Ik ken de buur die in de stad ___.",
+          "cue": "wonen",
+          "accepted": [
+            "woont"
+          ]
+        },
+        {
+          "text": "Dit is het boek dat mijn opa ___.",
+          "cue": "lezen",
+          "accepted": [
+            "leest"
+          ]
+        },
+        {
+          "text": "Dit is de sleutel die zij ___.",
+          "cue": "hebben",
+          "accepted": [
+            "heeft"
+          ]
+        },
+        {
+          "text": "Wij hebben een kast die in de kamer ___.",
+          "cue": "staan",
+          "accepted": [
+            "staat"
+          ]
+        },
+        {
+          "text": "Zij heeft de spiegel die op de tafel ___.",
+          "cue": "liggen",
+          "accepted": [
+            "ligt"
+          ]
+        },
+        {
+          "text": "Dit zijn de sokken die ik ___.",
+          "cue": "dragen",
+          "accepted": [
+            "draag"
+          ]
+        },
+        {
+          "text": "Ik zie de leraar die in de winkel ___.",
+          "cue": "werken",
+          "accepted": [
+            "werkt"
+          ]
+        },
+        {
+          "text": "Dit zijn de kinderen die in de tuin ___.",
+          "cue": "spelen",
+          "accepted": [
+            "spelen"
+          ]
+        },
+        {
+          "text": "Wij hebben een koelkast die niet oud ___.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Mijn broer heeft een bank die groot ___.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun"
+      ]
+    }
+  ]
+}
