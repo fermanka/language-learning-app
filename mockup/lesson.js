@@ -281,6 +281,48 @@ if (typeof document === 'undefined') {
     }).catch((e) => { if (LESSONS[current].id === L.id) note(`Не вдалося прочитати додаткову практику: ${e.message}`, 'meta warn'); });
   }
 
+  // Ad-hoc pronunciation checks: the teacher flags a word or phrase (usually from an ASR mismatch on a reading
+  // recording) and the learner records just that word separately. Always available, for any lesson -- not tied to
+  // whether that lesson has an extra-practice file. Not part of the lesson's practice or its 100%: same
+  // side-channel trust model as the reading recording (saved locally, teacher checks it once told).
+  function slugifyCheck(s) {
+    return (s || '').trim().toLowerCase().replace(/[^a-z0-9а-яіїєґ]+/gi, '-').replace(/^-+|-+$/g, '').slice(0, 40);
+  }
+  function addCheckRow(L, rows) {
+    const row = el('div', 'check-row');
+    const label = el('input'); label.type = 'text'; label.placeholder = 'напр. rijdt';
+    const btn = el('button', 'btn', 'Завантажити');
+    const file = el('input'); file.type = 'file'; file.accept = 'audio/*'; file.hidden = true;
+    const note = el('small', 'meta');
+    btn.onclick = () => file.click();
+    file.onchange = async () => {
+      const f = file.files[0];
+      if (!f) return;
+      if (!log.store) { note.textContent = 'Спочатку підключи теку з прогресом (угорі), тоді запис буде збережено.'; return; }
+      const slug = slugifyCheck(label.value) || 'check';
+      const ext = (f.name.match(/\.[^.]+$/) || [''])[0];
+      const name = `les-${String(L.order).padStart(2, '0')}-check-${slug}-${Date.now()}${ext}`.replace(/[^\w.\-]+/g, '_');
+      try {
+        await log.store.saveRecording(name, f);
+        log.record({ type: 'check_recording_saved', lesson: L.id, file: name, label: label.value.trim() });
+        note.textContent = `Збережено: recordings/${name}. Скажи Марійці, що запис там.`;
+        label.disabled = btn.disabled = file.disabled = true;   // this row is done -- "+ додати запис" starts the next one
+      } catch (e) { note.textContent = 'Не вдалося зберегти запис: ' + e.message; }
+    };
+    row.append(label, btn, file, note);
+    rows.append(row);
+  }
+  function renderCheck(L) {
+    const box = $('b5-check'); box.innerHTML = '';
+    box.append(el('h3', 'sub', 'Перевірка вимови'));
+    box.append(el('p', 'meta', 'Попросили перевірити, як звучить слово чи фраза? Запиши окремо і заклади сюди -- я передам Марійці.'));
+    const rows = el('div', 'check-rows'); box.append(rows);
+    addCheckRow(L, rows);
+    const add = el('button', 'btn', '+ додати запис'); add.setAttribute('style', 'margin-top:10px');
+    add.onclick = () => addCheckRow(L, rows);
+    box.append(add);
+  }
+
   // The teacher's writing task for the open lesson (stories/<lang>/les-NN.json). Optional like the extra practice: it does not count
   // towards the lesson's 100%, and the block only appears when the teacher has written a topic. There is no automatic marking:
   // the text is saved as a file for the teacher (written/), who checks the mistakes and how well it hangs together.
@@ -340,7 +382,7 @@ if (typeof document === 'undefined') {
     if (changed && typeof session !== 'undefined' && session) endSession();   // the deck changes with the open lesson
     if (remember) { firstVisit = false; try { localStorage.setItem(LESSON_KEY, LESSONS[idx].id); } catch (e) { /* storage may be blocked */ } }
     const L = LESSONS[idx];
-    ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body', 'b5-extra', 'b6-story'].forEach((id) => { $(id).innerHTML = ''; });
+    ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body', 'b5-extra', 'b5-check', 'b6-story'].forEach((id) => { $(id).innerHTML = ''; });
     $('lesson-label').textContent = `Les ${L.order}`;
     $('prev').classList.toggle('invisible', idx === 0);   // there is no lesson before the first one
     renderRule(L);
@@ -369,6 +411,7 @@ if (typeof document === 'undefined') {
     renderReading($('b3-text'), L); renderReading($('texts-copy'), L);
     renderPractice(L);
     renderExtra(L);
+    renderCheck(L);
     renderStory(L);
     renderProgress();
     renderUploadNote();
