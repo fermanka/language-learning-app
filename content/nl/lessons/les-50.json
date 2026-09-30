@@ -1,0 +1,925 @@
+{
+  "id": "nl-les-50",
+  "lang": "nl",
+  "order": 50,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-af1ea3d6",
+      "type": "adjective",
+      "lemma": "blij",
+      "ua": "щасливий, щаслива, щасливе, щасливі",
+      "audio": "blij.mp3",
+      "explain_ua": "(Ik ben blij. = я щасливий/рада). Blij -- найзагальніше слово для «щасливий, радий»: про настрій, про реакцію на щось приємне. Після zijn без -e: Ik ben blij; перед іменником з означеним словом -e: de blije vrouw. Англійське blithe («безтурботно-веселий», старе слово) має той самий германський корінь -- підказка для пам'яті, не суворе правило. Ij це [ɛi], як у mijn, wijn (Les 1, Les 6).",
+      "check": "Спільний корінь blij/blithe з власних знань, окремо не перевірено в етимологічному словнику."
+    },
+    {
+      "id": "nl-0e723c79",
+      "type": "adjective",
+      "lemma": "blije",
+      "ua": "щасливий",
+      "audio": "blije.mp3",
+      "explain_ua": "Форма з -e прикметника blij (вище): перед de-словом, будь-якою множиною чи означеним het-словом (het/dit/dat/присвійне). Правило в картці «Прикметник перед іменником: -e чи ні» (Les 11)."
+    },
+    {
+      "id": "nl-3f036a27",
+      "type": "adjective",
+      "lemma": "verdrietig",
+      "ua": "сумний, сумна, сумне, сумні",
+      "audio": "verdrietig.mp3",
+      "explain_ua": "(Mijn zus is verdrietig. = моя сестра сумна). Verdrietig походить від het verdriet (смуток, горе; окремо не вчимо як іменник). Перед іменником з означеним словом: -e (het verdrietige kind); у неозначеному het-слові в однині без артикля чи з een -- без -e (een verdrietig kind), як groot bos (Les 11)."
+    },
+    {
+      "id": "nl-797825ba",
+      "type": "adjective",
+      "lemma": "verdrietige",
+      "ua": "сумний",
+      "audio": "verdrietige.mp3",
+      "explain_ua": "Форма з -e прикметника verdrietig (вище): перед de-словом, будь-якою множиною чи означеним het-словом. Той самий принцип, що blije -- дивись картку «Прикметник перед іменником: -e чи ні» (Les 11)."
+    },
+    {
+      "id": "nl-ebd5c988",
+      "type": "adjective",
+      "lemma": "bang",
+      "ua": "переляканий, перелякана, перелякане, перелякані",
+      "audio": "bang.mp3",
+      "explain_ua": "(Ik ben bang. = мені страшно / я боюся). Bang завжди з прийменником voor, коли вказуєш, чого саме боїшся: bang voor de tandarts -- voor тут постійний прийменник, як у houden van, wachten op (Les 9). Увага: англійське bang («гучний удар, бах!») звучить майже так само, але означає зовсім інше -- це не споріднені слова, лише випадковий збіг звучання. Перед іменником: -e (de bange man).",
+      "check": "Що bang (страх) і англійське bang (звук) не споріднені -- з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-a8ecc6aa",
+      "type": "adjective",
+      "lemma": "verbaasd",
+      "ua": "здивований, здивована, здивоване, здивовані",
+      "audio": "verbaasd.mp3",
+      "explain_ua": "(Mijn vader is verbaasd. = мій тато здивований). Verbaasd -- дієприкметник від verbazen («дивувати»; дієслово окремо не вчимо). Перед іменником: -e (de verbaasde moeder), слово вже закінчується на -d, просто додай -e, як oud - oude, goed - goede (Les 19, Les 9)."
+    },
+    {
+      "id": "nl-b6f2807a",
+      "type": "adjective",
+      "lemma": "jaloers",
+      "ua": "заздрісний, заздрісна, заздрісне, заздрісні",
+      "audio": "jaloers.mp3",
+      "explain_ua": "(Mijn zus is jaloers op mijn fiets. = моя сестра заздрить моєму велосипеду). Завжди з прийменником op, коли вказуєш, на що саме, -- jaloers op, як trots op нижче. Схоже на англійське jealous (обидва слова прийшли з французької jaloux): підказка для пам'яті. Перед іменником: -e (de jaloerse broer).",
+      "check": "Спільне французьке походження jaloers/jealous з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-502bca64",
+      "type": "adjective",
+      "lemma": "trots",
+      "ua": "гордий, горда, горде, горді",
+      "audio": "trots.mp3",
+      "explain_ua": "(Ik ben trots op mijn dochter. = я пишаюся своєю донькою). Завжди з прийменником op, коли вказуєш, ким/чим пишаєшся, -- trots op. Перед іменником: -e (de trotse vader)."
+    },
+    {
+      "id": "nl-5dbd27b7",
+      "type": "adjective",
+      "lemma": "trotse",
+      "ua": "гордий",
+      "audio": "trotse.mp3",
+      "explain_ua": "Форма з -e прикметника trots (вище): перед de-словом, будь-якою множиною чи означеним het-словом. Той самий принцип -- дивись картку «Прикметник перед іменником: -e чи ні» (Les 11)."
+    },
+    {
+      "id": "nl-5a503fd2",
+      "type": "adjective",
+      "lemma": "teleurgesteld",
+      "ua": "розчарований, розчарована, розчароване, розчаровані",
+      "audio": "teleurgesteld.mp3",
+      "explain_ua": "(Wij zijn teleurgesteld. = ми розчаровані). Довге складене слово (teleur + gesteld), вчи цілим -- teleur і gesteld окремо не розбираємо. Перед іменником: -e (de teleurgestelde verkoper), слово вже закінчується на -d, просто додай -e, як verbaasd вище. Наголос на третьому складі: te-leur-ge-STELD.",
+      "check": "Наголос te-leur-ge-STELD з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-6401ed09",
+      "type": "adjective",
+      "lemma": "nerveus",
+      "ua": "нервовий, нервова, нервове, нервові",
+      "audio": "nerveus.mp3",
+      "explain_ua": "(Mijn collega is nerveus voor de vergadering. = мій колега нервує перед нарадою). Схоже на англійське nervous -- пряма підказка для пам'яті. Перед іменником: -e, і s переходить у z між голосними (nerveuze), той самий звук, що huis - huizen (Les 1): de nerveuze vrouw.",
+      "check": "Зразок s->z (nerveus - nerveuze) з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-ed2ff1e8",
+      "type": "adjective",
+      "lemma": "rustig",
+      "ua": "спокійний, спокійна, спокійне, спокійні",
+      "audio": "rustig.mp3",
+      "explain_ua": "(In de avond ben ik rustig. = увечері я спокійний). Від de rust («спокій, відпочинок»; окремо не вчимо), споріднене з англійським rest -- підказка для пам'яті. Перед іменником: -e (de rustige avond), звичайне -ig прикметник.",
+      "check": "Зв'язок rustig/rest з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-a7d817b9",
+      "type": "adjective",
+      "lemma": "verveeld",
+      "ua": "знуджений, знуджена, знуджене, знуджені",
+      "audio": "verveeld.mp3",
+      "explain_ua": "(Het kind is verveeld. = дитині нудно). Verveeld описує людину, якій нудно -- її стан. Є ще схоже слово, vervelend, яке описує саму річ чи ситуацію, що викликає нудьгу (наприклад, «нудний фільм») -- цей урок його не вчимо, лише попереджаємо про різницю: та сама пастка, що англійське bored (про людину) і boring (про річ). Перед іменником: -e (het verveelde kind), слово вже закінчується на -d, просто додай -e."
+    },
+    {
+      "id": "nl-0326fddc",
+      "type": "adjective",
+      "lemma": "gestrest",
+      "ua": "у стресі, напружений, напружена",
+      "audio": "gestrest.mp3",
+      "explain_ua": "(Mijn collega is gestrest. = мій колега у стресі). Запозичення з англійського stressed, та сама вимова, лише нідерландське написання. Перед іменником: -e (de gestreste collega); st у кінці не подвоюється перед -e (gestrest - gestreste), бо склад вже закритий двома приголосними -- той самий принцип, що vers - verse (Les 11).",
+      "check": "Що st не подвоюється (gestrest - gestreste), перевірено пошуком (Wiktionary/woorden.org, 2026-09-30)."
+    },
+    {
+      "id": "nl-a4081a88",
+      "type": "adjective",
+      "lemma": "verliefd",
+      "ua": "закоханий, закохана, закохане, закохані",
+      "audio": "verliefd.mp3",
+      "explain_ua": "(Mijn broer is verliefd op zijn collega. = мій брат закоханий у свою колегу). Завжди з прийменником op -- verliefd op, як trots op, jaloers op вище. Усередині слова корінь lief («милий, любий, дорогий»), той самий корінь, що liefst (Les 45, найвищий ступінь від graag): verliefd буквально «улюблений, закоханий». Перед іменником: -e (de verliefde man), слово вже закінчується на -d, просто додай -e."
+    },
+    {
+      "id": "nl-192130a8",
+      "type": "verb",
+      "lemma": "huilen",
+      "ua": "плакати",
+      "audio": "huilen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "huil",
+          "audio": "ik-huil.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "huilt",
+          "audio": "hij-huilt.mp3"
+        }
+      ],
+      "explain_ua": "(Het kind huilt, want het is moe. = дитина плаче, бо втомлена). Регулярне дієслово, основа huil без змін: закритий склад, подвоєння не потрібне. Ui це один дифтонг [œy], як huis, uit (Les 1, Les 18). Під інверсією jij губить -t, як завжди (Les 10): huil jij?, а не huilt jij. Споріднене з англійським howl («вити») -- те саме германське коріння, тільки huilen про людину, а howl частіше про тварину чи вітер; підказка для пам'яті.",
+      "check": "Спільне германське походження huilen/howl з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-a6deddf2",
+      "type": "noun",
+      "article": "het",
+      "lemma": "gevoel",
+      "plural": [
+        "gevoelens"
+      ],
+      "ua": "почуття, відчуття",
+      "audio": "het-gevoel.mp3",
+      "explain_ua": "(Ik heb een goed gevoel. = у мене добре передчуття/відчуття). Gevoel -- іменник від дієслова voelen (Les 37, Les 47): ge- + voel, той самий зразок словотвору, що gesprek від spreken (Les 46). Voelen споріднене з англійським feel (v/f -- регулярна відповідність звуків, як vader/father): ще одна безкоштовна підказка. Множина неправильна: de gevoelens (не de gevoelen), додається -ens, а не просто -en -- окремий випадок, запам'ятай цілим словом.",
+      "check": "Множину gevoelens (не gevoelen) перевірено пошуком (Wiktionary/woorden.org, 2026-09-30)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Почуття: zijn + прикметник, або zich voelen + прикметник",
+      "summary_ua": "Прикметник почуття найчастіше стоїть після zijn (Ik ben blij, як Ik ben boos, Les 1, Ik ben moe, Les 26) -- це основний, найпростіший спосіб. Другий спосіб -- zich voelen + прикметник (Les 47): підкреслює саме відчуття, як ти почуваєшся. Обидва правильні, часто взаємозамінні.",
+      "see": "Les 47",
+      "compare": [
+        {
+          "form": "zijn + прикметник: проста заява про стан",
+          "when_ua": "Найзвичайніший спосіб сказати про почуття -- той самий принцип, що з boos, moe, ziek (Les 1, Les 26).",
+          "examples": [
+            {
+              "nl": "Ik ben blij.",
+              "ua": "Я щасливий.",
+              "audio": "les50-rule-01.mp3"
+            },
+            {
+              "nl": "Mijn vader is trots.",
+              "ua": "Мій тато гордий.",
+              "audio": "les50-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Прикметник після zijn завжди без -e, той самий принцип, що De man is groot (Les 19)."
+        },
+        {
+          "form": "zich voelen + прикметник: наголос на відчутті",
+          "when_ua": "Коли хочеш підкреслити саме відчуття -- як ти почуваєшся -- а не просто заявити стан.",
+          "examples": [
+            {
+              "nl": "Ik voel me verdrietig.",
+              "ua": "Я почуваюся сумним.",
+              "audio": "les50-rule-03.mp3"
+            },
+            {
+              "nl": "Voelt hij zich nerveus?",
+              "ua": "Він нервує?",
+              "audio": "les50-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Zich voelen -- той самий механізм, що Ik voel me goed (Les 47): zich-форма (me/je/zich/ons) одразу після voelen."
+        }
+      ],
+      "points_ua": [
+        "zijn + прикметник -- основний спосіб, як з boos, moe, ziek.",
+        "zich voelen + прикметник -- другий спосіб, наголошує на відчутті (Les 47).",
+        "Обидва правильні -- можна вибирати."
+      ]
+    },
+    {
+      "title_ua": "Bang voor, trots op, jaloers op, verliefd op: емоція + постійний прийменник",
+      "summary_ua": "Як houden van, wachten op, denken aan, kijken naar (Les 9) -- кілька прикметників почуттів завжди йдуть з одним і тим самим прийменником, коли вказуєш причину чи об'єкт. Прийменник не можна поміняти.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "voor: bang voor",
+          "when_ua": "Коли вказуєш, чого саме боїшся.",
+          "examples": [
+            {
+              "nl": "Ik ben bang voor de tandarts.",
+              "ua": "Я боюся стоматолога.",
+              "audio": "les50-rule-05.mp3"
+            },
+            {
+              "nl": "Mijn broer is bang voor de dokter.",
+              "ua": "Мій брат боїться лікаря.",
+              "audio": "les50-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Той самий voor, що вже відомий (Les 11): просто нове поєднання зі словом bang."
+        },
+        {
+          "form": "op: trots op, jaloers op, verliefd op",
+          "when_ua": "Коли вказуєш, ким/чим пишаєшся, кому заздриш чи в кого закоханий -- усі три слова беруть op.",
+          "examples": [
+            {
+              "nl": "Mijn vader is trots op mij.",
+              "ua": "Мій тато пишається мною.",
+              "audio": "les50-rule-07.mp3"
+            },
+            {
+              "nl": "Mijn broer is verliefd op zijn collega.",
+              "ua": "Мій брат закоханий у свою колегу.",
+              "audio": "les50-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Той самий op, що вже відомий (Les 13). Jaloers теж бере op: Mijn zus is jaloers op mijn fiets (приклад нижче в цьому уроці)."
+        }
+      ],
+      "points_ua": [
+        "bang voor -- один сталий прийменник.",
+        "trots op, jaloers op, verliefd op -- усі три беруть op.",
+        "Той самий принцип, що houden van, wachten op, denken aan, kijken naar (Les 9): прийменник не змінюється."
+      ]
+    },
+    {
+      "title_ua": "Verveeld: стан людини, а не самої речі",
+      "summary_ua": "Verveeld описує людину, якій нудно -- її стан. Є ще схоже слово, vervelend, яке описує саму річ чи ситуацію, що викликає нудьгу -- цей урок його не вчимо, лише попереджаємо про різницю: та сама пастка, що англійське bored (про людину) і boring (про річ).",
+      "compare": [
+        {
+          "form": "verveeld: людина, якій нудно",
+          "when_ua": "Завжди про людину -- її стан, а не про причину нудьги.",
+          "examples": [
+            {
+              "nl": "Het kind is verveeld.",
+              "ua": "Дитині нудно.",
+              "audio": "les50-rule-09.mp3"
+            },
+            {
+              "nl": "Ben jij verveeld?",
+              "ua": "Тобі нудно?",
+              "audio": "les50-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Слово вже закінчується на -d (дієприкметник від vervelen, окремо не вчимо), перед іменником просто додай -e: het verveelde kind."
+        }
+      ],
+      "points_ua": [
+        "verveeld = стан людини (їй нудно).",
+        "vervelend (цей урок НЕ вчимо) = сама річ нудна -- інше слово, та сама пастка, що bored/boring в англійській.",
+        "Обидва слова від дієслова vervelen, яке окремо не вчимо."
+      ]
+    },
+    {
+      "title_ua": "Прикметник перед іменником: -e чи ні (повторення)",
+      "summary_ua": "Правило вже відоме (Les 11, Les 19, Les 21, Les 23): перед іменником прикметник бере -e у всіх випадках, КРІМ одного -- неозначений het-слово в однині без артикля чи з een. Нові слова цього уроку -- ще одна нагода перевірити правило.",
+      "see": "Les 11",
+      "compare": [
+        {
+          "form": "de-слово чи множина -- завжди -e",
+          "when_ua": "Будь-яке de-слово (означене чи ні) або будь-яка множина (множина завжди de, Les 6) -- завжди -e.",
+          "examples": [
+            {
+              "nl": "De trotse ouders kijken naar hun kind.",
+              "ua": "Горді батьки дивляться на свою дитину.",
+              "audio": "les50-rule-11.mp3"
+            },
+            {
+              "nl": "Mijn broer is een blije man.",
+              "ua": "Мій брат щаслива людина.",
+              "audio": "les50-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Ouders (Les 29) -- лише множина, де-слово; man -- de-слово в однині, неозначене -- і все одно -e."
+        },
+        {
+          "form": "het-слово в однині: означене -e, неозначене без -e",
+          "when_ua": "Означене het-слово (het/dit/dat/присвійне) -- -e. Неозначене het-слово без артикля чи з een -- без -e, виняток з Les 11.",
+          "examples": [
+            {
+              "nl": "Het verdrietige kind huilt.",
+              "ua": "Сумна дитина плаче.",
+              "audio": "les50-rule-13.mp3"
+            },
+            {
+              "nl": "Een verdrietig kind wil naar huis.",
+              "ua": "Сумна дитина хоче додому.",
+              "audio": "les50-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Та сама дитина (het kind), той самий прикметник (verdrietig) -- тільки артикль різний, і -e з'являється чи зникає."
+        }
+      ],
+      "points_ua": [
+        "de-слово чи множина -- завжди -e.",
+        "het-слово, означене (het/dit/dat/присвійне) -- -e.",
+        "het-слово, неозначене (без артикля чи een) -- без -e: єдиний виняток."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Mijn zus is heel blij vandaag.",
+      "ua": "Моя сестра сьогодні дуже щаслива.",
+      "audio": "les50-example-01.mp3"
+    },
+    {
+      "nl": "Mijn broer is verdrietig, want zijn vriendin is ziek.",
+      "ua": "Мій брат сумний, бо його дівчина хвора.",
+      "audio": "les50-example-02.mp3"
+    },
+    {
+      "nl": "Mijn kind is bang voor het water.",
+      "ua": "Моя дитина боїться води.",
+      "audio": "les50-example-03.mp3"
+    },
+    {
+      "nl": "Mijn vader is verbaasd, want ik kook vandaag.",
+      "ua": "Мій тато здивований, бо я сьогодні готую.",
+      "audio": "les50-example-04.mp3"
+    },
+    {
+      "nl": "Mijn zus is jaloers op mijn nieuwe fiets.",
+      "ua": "Моя сестра заздрить моєму новому велосипеду.",
+      "audio": "les50-example-05.mp3"
+    },
+    {
+      "nl": "Ik ben trots op mijn dochter.",
+      "ua": "Я пишаюся своєю донькою.",
+      "audio": "les50-example-06.mp3"
+    },
+    {
+      "nl": "Wij zijn teleurgesteld, want het regent weer.",
+      "ua": "Ми розчаровані, бо знову йде дощ.",
+      "audio": "les50-example-07.mp3"
+    },
+    {
+      "nl": "Mijn collega is nerveus voor de vergadering.",
+      "ua": "Мій колега нервує перед нарадою.",
+      "audio": "les50-example-08.mp3"
+    },
+    {
+      "nl": "Ik ben rustig, want ik heb geen werk.",
+      "ua": "Я спокійний, бо в мене немає роботи.",
+      "audio": "les50-example-09.mp3"
+    },
+    {
+      "nl": "Het kind is verveeld en wil spelen.",
+      "ua": "Дитині нудно, і вона хоче гратися.",
+      "audio": "les50-example-10.mp3"
+    },
+    {
+      "nl": "Mijn collega is gestrest, want hij heeft veel werk.",
+      "ua": "Мій колега у стресі, бо в нього багато роботи.",
+      "audio": "les50-example-11.mp3"
+    },
+    {
+      "nl": "Het kind huilt, want het is moe.",
+      "ua": "Дитина плаче, бо втомлена.",
+      "audio": "les50-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Een dag vol gevoelens",
+    "title_ua": "День, сповнений почуттів",
+    "highlight": [
+      "nl-af1ea3d6",
+      "nl-3f036a27",
+      "nl-502bca64",
+      "nl-5a503fd2",
+      "nl-ed2ff1e8",
+      "nl-a6deddf2"
+    ],
+    "sentences": [
+      {
+        "nl": "Vandaag heb ik veel gevoelens.",
+        "ua": "Сьогодні в мене багато почуттів.",
+        "audio": "les50-reading-01.mp3"
+      },
+      {
+        "nl": "In de ochtend ben ik nog moe.",
+        "ua": "Вранці я ще втомлений.",
+        "audio": "les50-reading-02.mp3"
+      },
+      {
+        "nl": "Ik ga naar mijn werk en ik zie mijn collega.",
+        "ua": "Я йду на роботу і бачу свого колегу.",
+        "audio": "les50-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn baas is boos op mij, en ik voel me verdrietig.",
+        "ua": "Мій начальник злий на мене, і я почуваюся сумним.",
+        "audio": "les50-reading-04.mp3"
+      },
+      {
+        "nl": "Maar dan schijnt de zon, en ik voel me weer blij.",
+        "ua": "Але потім світить сонце, і я знову почуваюся щасливим.",
+        "audio": "les50-reading-05.mp3"
+      },
+      {
+        "nl": "In de middag spelen wij een wedstrijd.",
+        "ua": "Удень ми граємо матч.",
+        "audio": "les50-reading-06.mp3"
+      },
+      {
+        "nl": "Ik win de wedstrijd, en ik ben trots!",
+        "ua": "Я виграю матч, і я гордий!",
+        "audio": "les50-reading-07.mp3"
+      },
+      {
+        "nl": "Mijn broer verliest, en hij is een beetje teleurgesteld.",
+        "ua": "Мій брат програє, і він трохи розчарований.",
+        "audio": "les50-reading-08.mp3"
+      },
+      {
+        "nl": "In de avond ben ik rustig.",
+        "ua": "Увечері я спокійний.",
+        "audio": "les50-reading-09.mp3"
+      },
+      {
+        "nl": "Ik ben blij, want mijn dag was goed.",
+        "ua": "Я щасливий, бо мій день був добрим.",
+        "audio": "les50-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Моя сестра щаслива.",
+          "accepted": [
+            "Mijn zus is blij."
+          ]
+        },
+        {
+          "prompt": "Мій батько сумний сьогодні.",
+          "accepted": [
+            "Mijn vader is verdrietig vandaag."
+          ]
+        },
+        {
+          "prompt": "Моя донька боїться дощу.",
+          "accepted": [
+            "Mijn dochter is bang voor de regen."
+          ]
+        },
+        {
+          "prompt": "Ми здивовані, бо він працює вдома.",
+          "accepted": [
+            "Wij zijn verbaasd, omdat hij thuis werkt."
+          ]
+        },
+        {
+          "prompt": "Мій брат заздрить моєму новому будинку.",
+          "accepted": [
+            "Mijn broer is jaloers op mijn nieuwe huis."
+          ]
+        },
+        {
+          "prompt": "Моя мама пишається своїм сином.",
+          "accepted": [
+            "Mijn moeder is trots op haar zoon."
+          ]
+        },
+        {
+          "prompt": "Діти розчаровані, бо немає торта.",
+          "accepted": [
+            "De kinderen zijn teleurgesteld, want er is geen taart."
+          ]
+        },
+        {
+          "prompt": "Ти нервуєш перед подорожжю?",
+          "accepted": [
+            "Ben jij nerveus voor de reis?",
+            "Ben je nerveus voor de reis?"
+          ]
+        },
+        {
+          "prompt": "Моя бабуся дуже спокійна.",
+          "accepted": [
+            "Mijn oma is heel rustig."
+          ]
+        },
+        {
+          "prompt": "Чому дитина нудьгує?",
+          "accepted": [
+            "Waarom is het kind verveeld?"
+          ]
+        },
+        {
+          "prompt": "Моя сестра закохана.",
+          "accepted": [
+            "Mijn zus is verliefd."
+          ]
+        },
+        {
+          "prompt": "Чому ти плачеш?",
+          "accepted": [
+            "Waarom huil jij?",
+            "Waarom huil je?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "blij",
+        "verdrietig",
+        "bang",
+        "jaloers",
+        "trots",
+        "teleurgesteld",
+        "nerveus",
+        "rustig",
+        "verveeld",
+        "verliefd",
+        "huilt",
+        "gevoel"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ben niet verdrietig, ik ben ___.",
+          "hint": "щасливий",
+          "accepted": [
+            [
+              "blij"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus is ___, want haar kind is ziek.",
+          "hint": "сумна",
+          "accepted": [
+            [
+              "verdrietig"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder is ___ voor de tandarts.",
+          "hint": "боїться",
+          "accepted": [
+            [
+              "bang"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn broer is ___ op mijn fiets.",
+          "hint": "заздрить",
+          "accepted": [
+            [
+              "jaloers"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder is ___ op mij.",
+          "hint": "пишається",
+          "accepted": [
+            [
+              "trots"
+            ]
+          ]
+        },
+        {
+          "text": "Wij zijn ___, want wij verliezen de wedstrijd.",
+          "hint": "розчаровані",
+          "accepted": [
+            [
+              "teleurgesteld"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon is ___ voor zijn afspraak.",
+          "hint": "нервує",
+          "accepted": [
+            [
+              "nerveus"
+            ]
+          ]
+        },
+        {
+          "text": "In de avond ben ik altijd ___.",
+          "hint": "спокійний",
+          "accepted": [
+            [
+              "rustig"
+            ]
+          ]
+        },
+        {
+          "text": "Waarom is mijn dochter ___?",
+          "hint": "нудьгує",
+          "accepted": [
+            [
+              "verveeld"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ben ___ op mijn vriend.",
+          "hint": "закохана",
+          "accepted": [
+            [
+              "verliefd"
+            ]
+          ]
+        },
+        {
+          "text": "Het kind ___, want het is bang.",
+          "hint": "плаче",
+          "accepted": [
+            [
+              "huilt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb een goed ___ vandaag.",
+          "hint": "почуття",
+          "accepted": [
+            [
+              "gevoel"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik ben blij.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik ben niet blij."
+          ]
+        },
+        {
+          "prompt": "Mijn vader is trots.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is mijn vader trots?"
+          ]
+        },
+        {
+          "prompt": "Zij is verdrietig.",
+          "cue": "-> заміни zij на ik",
+          "accepted": [
+            "Ik ben verdrietig."
+          ]
+        },
+        {
+          "prompt": "Hij is bang voor de tandarts.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij is niet bang voor de tandarts."
+          ]
+        },
+        {
+          "prompt": "Mijn broer is jaloers op mijn fiets.",
+          "cue": "-> заміни mijn broer на mijn zus; питання",
+          "accepted": [
+            "Is mijn zus jaloers op mijn fiets?"
+          ]
+        },
+        {
+          "prompt": "Ik ben trots op hem.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Wij zijn trots op hem."
+          ]
+        },
+        {
+          "prompt": "Het kind is verveeld.",
+          "cue": "-> множина (de kinderen)",
+          "accepted": [
+            "De kinderen zijn verveeld."
+          ]
+        },
+        {
+          "prompt": "Mijn collega is gestrest.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is mijn collega gestrest?"
+          ]
+        },
+        {
+          "prompt": "Hij is verliefd op haar.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij is niet verliefd op haar."
+          ]
+        },
+        {
+          "prompt": "Ik voel me verdrietig.",
+          "cue": "-> заміни ik на jij",
+          "accepted": [
+            "Jij voelt je verdrietig."
+          ]
+        },
+        {
+          "prompt": "Het kind huilt.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Het kind huilt niet."
+          ]
+        },
+        {
+          "prompt": "Zij zijn teleurgesteld.",
+          "cue": "-> заміни zij (вони) на jullie",
+          "accepted": [
+            "Jullie zijn teleurgesteld."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ blij vandaag.",
+          "cue": "zijn",
+          "accepted": [
+            "ben"
+          ]
+        },
+        {
+          "text": "Jij ___ verdrietig.",
+          "cue": "zijn",
+          "accepted": [
+            "bent"
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ bang voor de trein.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Wij ___ teleurgesteld.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "___ jullie nerveus?",
+          "cue": "zijn",
+          "accepted": [
+            "Zijn",
+            "zijn"
+          ]
+        },
+        {
+          "text": "Zij ___ verliefd op hem.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Ik ___ me nerveus.",
+          "cue": "zich voelen",
+          "accepted": [
+            "voel"
+          ]
+        },
+        {
+          "text": "___ jij je rustig?",
+          "cue": "zich voelen",
+          "accepted": [
+            "Voel",
+            "voel"
+          ]
+        },
+        {
+          "text": "Mijn moeder ___ zich trots.",
+          "cue": "zich voelen",
+          "accepted": [
+            "voelt"
+          ]
+        },
+        {
+          "text": "Wij ___ ons verveeld.",
+          "cue": "zich voelen",
+          "accepted": [
+            "voelen"
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ vaak.",
+          "cue": "huilen",
+          "accepted": [
+            "huilt"
+          ]
+        },
+        {
+          "text": "Ik ___ niet vaak.",
+          "cue": "huilen",
+          "accepted": [
+            "huil"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "щасливий",
+          "answer": "blij"
+        },
+        {
+          "prompt": "сумний",
+          "answer": "verdrietig"
+        },
+        {
+          "prompt": "переляканий",
+          "answer": "bang"
+        },
+        {
+          "prompt": "здивований",
+          "answer": "verbaasd"
+        },
+        {
+          "prompt": "заздрісний",
+          "answer": "jaloers"
+        },
+        {
+          "prompt": "гордий",
+          "answer": "trots"
+        },
+        {
+          "prompt": "розчарований",
+          "answer": "teleurgesteld"
+        },
+        {
+          "prompt": "нервовий",
+          "answer": "nerveus"
+        },
+        {
+          "prompt": "знуджений",
+          "answer": "verveeld"
+        },
+        {
+          "prompt": "закоханий",
+          "answer": "verliefd"
+        }
+      ],
+      "extra": [
+        "rustig",
+        "gestrest"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    }
+  ]
+}
