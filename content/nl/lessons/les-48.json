@@ -1,0 +1,959 @@
+{
+  "id": "nl-les-48",
+  "lang": "nl",
+  "order": 48,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-594f795e",
+      "type": "verb",
+      "lemma": "zullen",
+      "ua": "майбутній час (обіцянка, прогноз); Zullen we...? = пропозиція",
+      "audio": "zullen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "zal",
+          "audio": "ik-zal.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "zult",
+          "audio": "jij-zult.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "zult",
+          "audio": "u-zult.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "zal",
+          "audio": "hij-zal.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "zullen",
+          "audio": "wij-zullen.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (кілька людей)",
+          "form": "zullen",
+          "audio": "jullie-zullen.mp3"
+        },
+        {
+          "pronoun": "zij",
+          "ua": "вони",
+          "form": "zullen",
+          "audio": "zij-zullen.mp3"
+        },
+        {
+          "pronoun": "jij / je (у питанні, zult без t)",
+          "ua": "ти (питання)",
+          "form": "zul",
+          "audio": "zul-jij.mp3"
+        }
+      ],
+      "explain_ua": "(Ik zal morgen komen. = я прийду завтра (обіцянка); Zullen we gaan? = підемо?). Zullen -- друге дієслово для майбутнього часу, поряд із gaan (Les 38). Gaan показує план людини (щось, що вона вирішила зробити); zullen показує прогноз чи обіцянку -- те, що станеться незалежно від плану (погода), або те, що людина обіцяє. Zullen відмінюється, як kunnen і willen (Les 7): jij і u беруть форму zult, ik і hij/zij/het -- коротку zal, wij/jullie/zij -- повну zullen (розмовно чути й jij zal, але тут вчимо zult, за зразком kunt/wilt -- перевірено через WebSearch, dutchgrammar.com). У питанні з jij t зникає, як kun jij (Les 10): zul jij. Окрема, дуже поширена роль -- Zullen we...? = пропозиція «давай...?», «може, ми...?» (правило нижче). Zullen споріднене з англійським shall (обидва з того самого германського кореня «бути зобов'язаним»): підказка для пам'яті. U це [y], як у juni (Les 29).",
+      "check": "Наголос на першому складі (ZUL-len) з власних знань, окремо в словнику не перевірено."
+    },
+    {
+      "id": "nl-952bc794",
+      "type": "verb",
+      "lemma": "zou / zouden",
+      "ua": "би, б (умовна форма); ввічливо: я б хотіла..., могли б ви...?",
+      "audio": "zou-zouden.mp3",
+      "audio_text": "zou / zouden",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "zou",
+          "audio": "ik-zou.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "zou",
+          "audio": "jij-zou.mp3"
+        },
+        {
+          "pronoun": "u",
+          "ua": "ви (форм.)",
+          "form": "zou",
+          "audio": "u-zou.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "zou",
+          "audio": "hij-zou.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "zouden",
+          "audio": "wij-zouden.mp3"
+        },
+        {
+          "pronoun": "jullie",
+          "ua": "ви (кілька людей)",
+          "form": "zouden",
+          "audio": "jullie-zouden.mp3"
+        },
+        {
+          "pronoun": "zij",
+          "ua": "вони",
+          "form": "zouden",
+          "audio": "zij-zouden.mp3"
+        }
+      ],
+      "explain_ua": "(Ik zou dat graag doen. = я б залюбки це зробила; Zou u mij kunnen helpen? = могли б ви мені допомогти?). Zou/zouden -- це форма минулого часу zullen, але в сучасній мові означає «б, би»: ввічливе прохання чи бажання, або щось уявне, не реальне. На відміну від zullen, тут jij і u НЕ мають окремої форми: в однині завжди zou (ik, jij, u, hij, zij, het), у множині завжди zouden (wij, jullie, zij) -- той самий зразок, що was/waren (Les 26). Дві головні ролі: (1) ввічливість -- Ik zou graag ... (willen) і Zou u ... kunnen? (2) нереальна умова -- Als ik geld had, zou ik een huis kopen (правило нижче). Zou звучить як oud (Les 19): дифтонг [ʌu].",
+      "check": "Форми zou/zouden (без окремої форми для jij/u, за зразком was/waren) перевірено через WebSearch (inburgering.org, dutchgrammar.com) для граматики, але не через словник форм окремо."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Zullen: друга дорога до майбутнього часу",
+      "summary_ua": "Zullen -- друге дієслово для майбутнього часу, поряд із gaan (Les 38, де це слово вже обіцяли). Gaan показує план чи намір людини: те, що вона вирішила зробити. Zullen показує прогноз чи обіцянку: те, що станеться (можливо, поза контролем людини), або те, що людина обіцяє. Обидва відмінюються й стоять другими, головне дієслово -- інфінітив у кінці, та сама рамка, що з модальними дієсловами (Les 7).",
+      "see": "Les 38",
+      "compare": [
+        {
+          "form": "gaan: план людини (вже відомо)",
+          "when_ua": "Gaan, коли людина вирішила щось зробити.",
+          "examples": [
+            {
+              "nl": "Ik ga volgende week werken.",
+              "ua": "Я піду працювати наступного тижня (план).",
+              "audio": "les48-rule-01.mp3"
+            },
+            {
+              "nl": "Wij gaan een huis kopen.",
+              "ua": "Ми збираємося купити будинок (план).",
+              "audio": "les48-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Gaan завжди про намір людини -- щось, що вона свідомо вирішила."
+        },
+        {
+          "form": "zullen: прогноз чи обіцянка (нове)",
+          "when_ua": "Zullen, коли йдеться про прогноз (погода) чи обіцянку, без плану людини.",
+          "examples": [
+            {
+              "nl": "Het zal morgen regenen.",
+              "ua": "Завтра піде дощ (прогноз).",
+              "audio": "les48-rule-03.mp3"
+            },
+            {
+              "nl": "Ik zal je helpen.",
+              "ua": "Я тобі допоможу (обіцянка).",
+              "audio": "les48-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Прогноз погоди -- завжди zullen, ніколи gaan: кажуть Het zal regenen чи просто Het regent (Les 23)."
+        }
+      ],
+      "points_ua": [
+        "Gaan = план людини (Les 38). Zullen = прогноз чи обіцянка, без плану.",
+        "Het zal regenen -- прогноз погоди завжди через zullen."
+      ]
+    },
+    {
+      "title_ua": "Zal, zult, zullen: відмінювання",
+      "summary_ua": "Zullen відмінюється як kunnen і willen (Les 7): ik і hij/zij/het беруть коротку форму zal, jij і u -- форму на -t (zult), wij/jullie/zij -- повну форму zullen. У питанні з jij t зникає, як kun jij (Les 10).",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "ik, hij/zij/het: zal",
+          "when_ua": "Коротка форма для ik і для hij/zij/het.",
+          "examples": [
+            {
+              "nl": "Ik zal het boek lezen.",
+              "ua": "Я прочитаю книгу.",
+              "audio": "les48-rule-05.mp3"
+            },
+            {
+              "nl": "Zij zal het geld betalen.",
+              "ua": "Вона заплатить гроші.",
+              "audio": "les48-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Та сама коротка форма, що kan (Les 7): без -t."
+        },
+        {
+          "form": "jij/u: zult; wij/jullie/zij: zullen",
+          "when_ua": "Jij і u беруть -t, як kunt/wilt; множина -- повна форма zullen.",
+          "examples": [
+            {
+              "nl": "Jij zult dat zien.",
+              "ua": "Ти це побачиш.",
+              "audio": "les48-rule-07.mp3"
+            },
+            {
+              "nl": "Jullie zullen laat komen.",
+              "ua": "Ви (кілька людей) прийдете пізно.",
+              "audio": "les48-rule-08.mp3"
+            }
+          ],
+          "note_ua": "U завжди zult, як kunt u (Les 7)."
+        },
+        {
+          "form": "jij-питання: t зникає, як kun jij (Les 10)",
+          "when_ua": "В інверсії з jij zult втрачає t: zul jij.",
+          "examples": [
+            {
+              "nl": "Zul jij dat doen?",
+              "ua": "Ти це зробиш?",
+              "audio": "les48-rule-09.mp3"
+            },
+            {
+              "nl": "Zul je morgen komen?",
+              "ua": "Ти прийдеш завтра?",
+              "audio": "les48-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Той самий механізм, що kun jij, wil jij (Les 10): -t зникає лише в питанні з jij, не з u."
+        }
+      ],
+      "points_ua": [
+        "Ik/hij/zij/het zal; jij/u zult; wij/jullie/zij zullen.",
+        "У питанні з jij: zul jij (t зникає, як kun jij)."
+      ]
+    },
+    {
+      "title_ua": "Zullen we...? -- пропозиція",
+      "summary_ua": "Zullen we...? -- дуже поширений спосіб щось запропонувати разом: «Може, ми...?», «Давай...?». Тут zullen не про майбутнє чи обіцянку, а про спільну пропозицію. We -- скорочена форма wij, вже відома з попередніх уроків.",
+      "see": "Les 7",
+      "compare": [
+        {
+          "form": "Zullen we + інфінітив?",
+          "when_ua": "Zullen першим (як у будь-якому питанні, Les 3), we, потім інфінітив у кінці.",
+          "examples": [
+            {
+              "nl": "Zullen we naar de markt gaan?",
+              "ua": "Підемо ми на ринок?",
+              "audio": "les48-rule-11.mp3"
+            },
+            {
+              "nl": "Zullen we thee drinken?",
+              "ua": "Вип'ємо ми чаю?",
+              "audio": "les48-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Українською природніше звучить «давай...?» чи «може, ми...?», а не буквально «чи будемо ми...?»."
+        }
+      ],
+      "points_ua": [
+        "Zullen we + інфінітив? = пропозиція, спільна дія.",
+        "Природний переклад: «давай...?», «підемо?», а не буквальний."
+      ]
+    },
+    {
+      "title_ua": "Zou, zouden: відмінювання",
+      "summary_ua": "Zou i zouden -- той самий зразок, що was/waren (Les 26): в однині завжди zou (ik, jij, u, hij, zij, het), у множині завжди zouden (wij, jullie, zij). На відміну від zullen, тут jij і u не мають окремої форми -- уся однина бере zou.",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "однина: zou",
+          "when_ua": "Ik, jij, u, hij, zij, het -- усі беруть zou.",
+          "examples": [
+            {
+              "nl": "Ik zou dat niet doen.",
+              "ua": "Я б цього не зробила.",
+              "audio": "les48-rule-13.mp3"
+            },
+            {
+              "nl": "Hij zou hier wonen.",
+              "ua": "Він би тут жив.",
+              "audio": "les48-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Одна форма для всієї однини, без -t, як was (Les 26)."
+        },
+        {
+          "form": "множина: zouden",
+          "when_ua": "Wij, jullie, zij -- усі беруть zouden.",
+          "examples": [
+            {
+              "nl": "Wij zouden vroeg komen.",
+              "ua": "Ми б прийшли рано.",
+              "audio": "les48-rule-15.mp3"
+            },
+            {
+              "nl": "Zij zouden blijven.",
+              "ua": "Вони б залишилися.",
+              "audio": "les48-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Та сама модель, що waren (Les 26): одна форма для всієї множини."
+        }
+      ],
+      "points_ua": [
+        "Zou: ik, jij, u, hij, zij, het (уся однина).",
+        "Zouden: wij, jullie, zij (уся множина). Той самий зразок, що was/waren."
+      ]
+    },
+    {
+      "title_ua": "Zou graag: ввічливе бажання",
+      "summary_ua": "Zou graag робить бажання ввічливішим, м'якшим за пряме willen (Les 25: Ik wil graag ...). Дві форми: (1) zou graag + інфінітив, коли бажання -- це сама дія (Ik zou graag wandelen); (2) zou graag + іменник + willen, коли бажають річ (Ik zou graag koffie willen) -- тут потрібне willen, бо іменник сам не може стояти в кінці як дієслово.",
+      "see": "Les 25",
+      "compare": [
+        {
+          "form": "zou graag + інфінітив (дія)",
+          "when_ua": "Коли бажана річ -- сама дія, willen не потрібне.",
+          "examples": [
+            {
+              "nl": "Ik zou graag wandelen.",
+              "ua": "Я б залюбки прогулялася.",
+              "audio": "les48-rule-17.mp3"
+            },
+            {
+              "nl": "Wij zouden graag naar Kroatië gaan.",
+              "ua": "Ми б залюбки поїхали в Хорватію.",
+              "audio": "les48-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Тут graag стоїть одразу після дієслова, як у Les 10."
+        },
+        {
+          "form": "zou graag + іменник + willen (річ)",
+          "when_ua": "Коли хочуть річ (не дію), у кінці потрібне willen.",
+          "examples": [
+            {
+              "nl": "Ik zou graag koffie willen.",
+              "ua": "Я б залюбки хотіла кави.",
+              "audio": "les48-rule-19.mp3"
+            },
+            {
+              "nl": "Zij zou graag een cadeau willen.",
+              "ua": "Вона б залюбки хотіла подарунок.",
+              "audio": "les48-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з Les 25: Ik wil graag koffie (пряміше) і Ik zou graag koffie willen (ввічливіше, м'якше)."
+        }
+      ],
+      "points_ua": [
+        "Zou graag + дія (інфінітив): Ik zou graag wandelen.",
+        "Zou graag + річ + willen: Ik zou graag koffie willen."
+      ]
+    },
+    {
+      "title_ua": "Zou u ... kunnen? -- ввічливе прохання",
+      "summary_ua": "Kunt u ...? (Les 7, Les 22) уже ввічливе питання. Zou u ... kunnen? ще ввічливіше й м'якше -- два «модальних» дієслова разом: zou (форма) + kunnen (здатність) + інфінітив у самому кінці.",
+      "see": "Les 22",
+      "compare": [
+        {
+          "form": "Kunt u ...? (вже відомо)",
+          "when_ua": "Пряме, вже знайоме ввічливе питання.",
+          "examples": [
+            {
+              "nl": "Kunt u mij helpen?",
+              "ua": "Можете мені допомогти?",
+              "audio": "les48-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Kunt u ...? цілком нормальне й ввічливе (Les 7, Les 22)."
+        },
+        {
+          "form": "Zou u ... kunnen? (ще ввічливіше, нове)",
+          "when_ua": "Zou u першим, потім kunnen, інфінітив у кінці.",
+          "examples": [
+            {
+              "nl": "Zou u mij kunnen helpen?",
+              "ua": "Чи могли б ви мені допомогти?",
+              "audio": "les48-rule-22.mp3"
+            },
+            {
+              "nl": "Zou u dat kunnen zeggen?",
+              "ua": "Чи могли б ви це сказати?",
+              "audio": "les48-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Три слова в рамці: zou (перше), kunnen (перед самим кінцем), інфінітив (у кінці): Zou u het morgen kunnen doen?"
+        }
+      ],
+      "points_ua": [
+        "Zou u ... kunnen? = ще ввічливіше за Kunt u...?",
+        "Порядок: Zou u ... kunnen + інфінітив."
+      ]
+    },
+    {
+      "title_ua": "Zou при нереальній умові: als + минулий час",
+      "summary_ua": "Als уже вводить реальну умову (Les 42): als + теперішній час, головне речення в звичайному часі. Тепер -- нереальна, уявна умова: als + минулий час (had, Les 26), а головне речення бере zou + інфінітив, не звичайний теперішній час. Це показує, що ситуація не реальна, лише уявна.",
+      "see": "Les 42",
+      "compare": [
+        {
+          "form": "реальна умова: als + теперішній час (Les 42)",
+          "when_ua": "Умова, яка справді може статися.",
+          "examples": [
+            {
+              "nl": "Als ik tijd heb, ga ik zwemmen.",
+              "ua": "Якщо в мене є час, я йду плавати.",
+              "audio": "les48-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Реально можливо: може, і справді буде час."
+        },
+        {
+          "form": "нереальна умова: als + минулий час, zou + інфінітив (нове)",
+          "when_ua": "Умова, яка не реальна зараз -- лише уявна.",
+          "examples": [
+            {
+              "nl": "Als ik geld had, zou ik een huis kopen.",
+              "ua": "Якби в мене були гроші, я б купила будинок.",
+              "audio": "les48-rule-25.mp3"
+            },
+            {
+              "nl": "Als ik meer tijd had, zou ik sporten.",
+              "ua": "Якби в мене було більше часу, я б займалася спортом.",
+              "audio": "les48-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Had -- це вже відомий минулий час hebben (Les 26), тут він не про реальне минуле, а про уявну ситуацію зараз. Головне речення завжди з zou, не зі звичайним теперішнім часом."
+        }
+      ],
+      "points_ua": [
+        "Реальна умова: als + теперішній час (Les 42).",
+        "Нереальна, уявна умова: als + минулий час (had), zou + інфінітив у головному реченні."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Ik zal morgen komen.",
+      "ua": "Я прийду завтра.",
+      "audio": "les48-example-01.mp3"
+    },
+    {
+      "nl": "Wij zullen je helpen.",
+      "ua": "Ми тобі допоможемо.",
+      "audio": "les48-example-02.mp3"
+    },
+    {
+      "nl": "Het zal koud zijn.",
+      "ua": "Буде холодно.",
+      "audio": "les48-example-03.mp3"
+    },
+    {
+      "nl": "Jij zult dat leuk vinden.",
+      "ua": "Тобі це сподобається.",
+      "audio": "les48-example-04.mp3"
+    },
+    {
+      "nl": "Zullen we vandaag sporten?",
+      "ua": "Позаймаємося ми сьогодні спортом?",
+      "audio": "les48-example-05.mp3"
+    },
+    {
+      "nl": "Zullen jullie het formulier invullen?",
+      "ua": "Заповните ви (кілька людей) формуляр?",
+      "audio": "les48-example-06.mp3"
+    },
+    {
+      "nl": "Ik zou dat graag weten.",
+      "ua": "Я б залюбки це знала.",
+      "audio": "les48-example-07.mp3"
+    },
+    {
+      "nl": "Zij zou nooit laat komen.",
+      "ua": "Вона б ніколи не прийшла пізно.",
+      "audio": "les48-example-08.mp3"
+    },
+    {
+      "nl": "Wij zouden hier graag wonen.",
+      "ua": "Ми б залюбки тут жили.",
+      "audio": "les48-example-09.mp3"
+    },
+    {
+      "nl": "Zou u dat kunnen doen?",
+      "ua": "Чи могли б ви це зробити?",
+      "audio": "les48-example-10.mp3"
+    },
+    {
+      "nl": "Als het regent, zullen wij thuis blijven.",
+      "ua": "Якщо піде дощ, ми залишимося вдома.",
+      "audio": "les48-example-11.mp3"
+    },
+    {
+      "nl": "Ik zal het niet doen.",
+      "ua": "Я цього не зроблю.",
+      "audio": "les48-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wat zullen we doen?",
+    "title_ua": "Що ми будемо робити?",
+    "highlight": [],
+    "sentences": [
+      {
+        "nl": "Het is zaterdag en wij hebben tijd.",
+        "ua": "Субота, і в нас є час.",
+        "audio": "les48-reading-01.mp3"
+      },
+      {
+        "nl": "Zullen we naar het park gaan?",
+        "ua": "Підемо ми в парк?",
+        "audio": "les48-reading-02.mp3"
+      },
+      {
+        "nl": "Ik weet dat het zal regenen.",
+        "ua": "Я знаю, що піде дощ.",
+        "audio": "les48-reading-03.mp3"
+      },
+      {
+        "nl": "Wij zullen thuis blijven.",
+        "ua": "Ми залишимося вдома.",
+        "audio": "les48-reading-04.mp3"
+      },
+      {
+        "nl": "Ik zal koffie maken.",
+        "ua": "Я зроблю каву.",
+        "audio": "les48-reading-05.mp3"
+      },
+      {
+        "nl": "Zou jij een boek willen lezen?",
+        "ua": "Ти б хотів(-ла) почитати книгу?",
+        "audio": "les48-reading-06.mp3"
+      },
+      {
+        "nl": "Ja, dat zou ik graag doen.",
+        "ua": "Так, я б залюбки це зробила.",
+        "audio": "les48-reading-07.mp3"
+      },
+      {
+        "nl": "Als het morgen mooi weer is, zullen wij wandelen.",
+        "ua": "Якщо завтра буде гарна погода, ми підемо на прогулянку.",
+        "audio": "les48-reading-08.mp3"
+      },
+      {
+        "nl": "Misschien zullen wij naar de stad gaan.",
+        "ua": "Можливо, ми поїдемо в місто.",
+        "audio": "les48-reading-09.mp3"
+      },
+      {
+        "nl": "Wij weten het nog niet, maar het zal een leuke dag zijn.",
+        "ua": "Ми ще цього не знаємо, але це буде приємний день.",
+        "audio": "les48-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я їй допоможу.",
+          "accepted": [
+            "Ik zal haar helpen."
+          ]
+        },
+        {
+          "prompt": "Чи піде завтра дощ?",
+          "accepted": [
+            "Zal het morgen regenen?"
+          ]
+        },
+        {
+          "prompt": "Ти це побачиш.",
+          "accepted": [
+            "Jij zult het zien.",
+            "Je zult het zien."
+          ]
+        },
+        {
+          "prompt": "Підемо ми в супермаркет?",
+          "accepted": [
+            "Zullen we naar de supermarkt gaan?",
+            "Zullen wij naar de supermarkt gaan?"
+          ]
+        },
+        {
+          "prompt": "Вони будуть вдома.",
+          "accepted": [
+            "Zij zullen thuis zijn.",
+            "Ze zullen thuis zijn."
+          ]
+        },
+        {
+          "prompt": "Я б хотіла це купити.",
+          "accepted": [
+            "Ik zou dat graag kopen."
+          ]
+        },
+        {
+          "prompt": "Ти б це зробив?",
+          "accepted": [
+            "Zou jij dat doen?",
+            "Zou je dat doen?"
+          ]
+        },
+        {
+          "prompt": "Могли б ви нам допомогти?",
+          "accepted": [
+            "Zou u ons kunnen helpen?"
+          ]
+        },
+        {
+          "prompt": "Ми б хотіли поїхати в Нідерланди.",
+          "accepted": [
+            "Wij zouden graag naar Nederland gaan.",
+            "We zouden graag naar Nederland gaan."
+          ]
+        },
+        {
+          "prompt": "Якби я мала більше грошей, я б купила машину.",
+          "accepted": [
+            "Als ik meer geld had, zou ik een auto kopen."
+          ]
+        },
+        {
+          "prompt": "Я б хотіла чаю.",
+          "accepted": [
+            "Ik zou graag thee willen."
+          ]
+        },
+        {
+          "prompt": "Чи змогли б ви мені це дати?",
+          "accepted": [
+            "Zou u mij dat kunnen geven?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "zal",
+        "zullen",
+        "zult",
+        "zou",
+        "zouden",
+        "graag",
+        "kunnen",
+        "regenen",
+        "helpen",
+        "doen",
+        "wonen",
+        "thuis"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ vandaag werken.",
+          "hint": "обіцянка/план: я працюватиму",
+          "accepted": [
+            [
+              "zal"
+            ]
+          ]
+        },
+        {
+          "text": "___ we naar de bibliotheek gaan?",
+          "hint": "пропозиція: підемо ми...?",
+          "accepted": [
+            [
+              "Zullen",
+              "zullen"
+            ]
+          ]
+        },
+        {
+          "text": "Jij ___ het lezen.",
+          "hint": "ти (прочитаєш)",
+          "accepted": [
+            [
+              "zult"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ dat niet kopen.",
+          "hint": "я б (не купила)",
+          "accepted": [
+            [
+              "zou"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ laat blijven.",
+          "hint": "вони б (лишилися допізна)",
+          "accepted": [
+            [
+              "zouden"
+            ]
+          ]
+        },
+        {
+          "text": "Ik zou ___ melk willen.",
+          "hint": "залюбки (ввічливо)",
+          "accepted": [
+            [
+              "graag"
+            ]
+          ]
+        },
+        {
+          "text": "Zou u het formulier ___ invullen?",
+          "hint": "могли б (ви)",
+          "accepted": [
+            [
+              "kunnen"
+            ]
+          ]
+        },
+        {
+          "text": "Het zal straks ___.",
+          "hint": "піде дощ",
+          "accepted": [
+            [
+              "regenen"
+            ]
+          ]
+        },
+        {
+          "text": "Ik zal jullie ___.",
+          "hint": "допоможу",
+          "accepted": [
+            [
+              "helpen"
+            ]
+          ]
+        },
+        {
+          "text": "Wij zullen het niet ___.",
+          "hint": "не зробимо",
+          "accepted": [
+            [
+              "doen"
+            ]
+          ]
+        },
+        {
+          "text": "Wij zouden hier ___.",
+          "hint": "жили б (ми)",
+          "accepted": [
+            [
+              "wonen"
+            ]
+          ]
+        },
+        {
+          "text": "Zij zullen ___ blijven.",
+          "hint": "лишаться (вдома)",
+          "accepted": [
+            [
+              "thuis"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Jij zult komen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Zul jij komen?",
+            "Zul je komen?"
+          ]
+        },
+        {
+          "prompt": "Wij zullen helpen.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Wij zullen niet helpen."
+          ]
+        },
+        {
+          "prompt": "Zij zal blijven.",
+          "cue": "-> питання",
+          "accepted": [
+            "Zal zij blijven?"
+          ]
+        },
+        {
+          "prompt": "Ik zou dat doen.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Wij zouden dat doen."
+          ]
+        },
+        {
+          "prompt": "Hij zou hier sporten.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij zou hier niet sporten."
+          ]
+        },
+        {
+          "prompt": "Zullen wij naar de stad gaan?",
+          "cue": "-> заміни wij на jullie",
+          "accepted": [
+            "Zullen jullie naar de stad gaan?"
+          ]
+        },
+        {
+          "prompt": "Ik zal het geld betalen.",
+          "cue": "-> заміни ik на jullie",
+          "accepted": [
+            "Jullie zullen het geld betalen."
+          ]
+        },
+        {
+          "prompt": "Kunt u hen helpen?",
+          "cue": "-> зроби ввічливіше (додай zou)",
+          "accepted": [
+            "Zou u hen kunnen helpen?"
+          ]
+        },
+        {
+          "prompt": "Ik zal je zien.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ik zal je niet zien."
+          ]
+        },
+        {
+          "prompt": "Als ik tijd had, zou ik zwemmen.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Als wij tijd hadden, zouden wij zwemmen."
+          ]
+        },
+        {
+          "prompt": "Zullen we melk drinken?",
+          "cue": "-> заміни melk на water",
+          "accepted": [
+            "Zullen we water drinken?"
+          ]
+        },
+        {
+          "prompt": "Hij zou dat niet weten.",
+          "cue": "-> питання",
+          "accepted": [
+            "Zou hij dat niet weten?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ morgen werken.",
+          "cue": "zullen",
+          "accepted": [
+            "zal"
+          ]
+        },
+        {
+          "text": "Jij ___ mij helpen.",
+          "cue": "zullen",
+          "accepted": [
+            "zult"
+          ]
+        },
+        {
+          "text": "Wij ___ naar Nederland gaan.",
+          "cue": "zullen",
+          "accepted": [
+            "zullen"
+          ]
+        },
+        {
+          "text": "Jullie ___ laat zijn.",
+          "cue": "zullen",
+          "accepted": [
+            "zullen"
+          ]
+        },
+        {
+          "text": "Het ___ mooi weer zijn.",
+          "cue": "zullen",
+          "accepted": [
+            "zal"
+          ]
+        },
+        {
+          "text": "___ jij dat zien?",
+          "cue": "zullen",
+          "accepted": [
+            "Zul",
+            "zul"
+          ]
+        },
+        {
+          "text": "Ik ___ hier blijven.",
+          "cue": "zou / zouden",
+          "accepted": [
+            "zou"
+          ]
+        },
+        {
+          "text": "Zij ___ hier wonen.",
+          "cue": "zou / zouden",
+          "accepted": [
+            "zou"
+          ]
+        },
+        {
+          "text": "Wij ___ dat niet weten.",
+          "cue": "zou / zouden",
+          "accepted": [
+            "zouden"
+          ]
+        },
+        {
+          "text": "___ u ons willen helpen?",
+          "cue": "zou / zouden",
+          "accepted": [
+            "Zou",
+            "zou"
+          ]
+        },
+        {
+          "text": "Ik ___ graag thee drinken.",
+          "cue": "zou / zouden",
+          "accepted": [
+            "zou"
+          ]
+        },
+        {
+          "text": "Als ik geld had, ___ ik een auto kopen.",
+          "cue": "zou / zouden",
+          "accepted": [
+            "zou"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "verb"
+      ]
+    }
+  ]
+}
