@@ -1,0 +1,897 @@
+{
+  "id": "nl-les-52",
+  "lang": "nl",
+  "order": 52,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-8616a137",
+      "type": "adjective",
+      "lemma": "aardig",
+      "ua": "милий, приємний, добрий (про людину)",
+      "audio": "aardig.mp3",
+      "explain_ua": "(Mijn buur is aardig. = мій сусід приємний/добрий). Aardig -- найзагальніше слово для «приємний, добрий» про людину: про характер, не про зовнішність. Перед іменником з означеним словом -e: de aardige buur (цей урок переважно вживає прикметники після zijn, без -e)."
+    },
+    {
+      "id": "nl-e1061361",
+      "type": "adjective",
+      "lemma": "vriendelijk",
+      "ua": "привітний, доброзичливий, дружній",
+      "audio": "vriendelijk.mp3",
+      "explain_ua": "(De verkoper is vriendelijk. = продавець привітний). Vriendelijk -- від de vriend («друг», Les 29) + суфікс -elijk, той самий прозорий словотвір, що в eerlijk (нижче). Майже синонім до aardig (вище): aardig трохи загальніше «приємний», vriendelijk підкреслює саме привітність і готовність допомогти.",
+      "check": "Словотвірний аналіз vriendelijk = vriend + -elijk з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-dad6d5af",
+      "type": "adjective",
+      "lemma": "verlegen",
+      "ua": "сором'язливий, зам'ятий",
+      "audio": "verlegen.mp3",
+      "explain_ua": "(Mijn broer is verlegen. = мій брат сором'язливий). Verlegen описує людину, яка почувається незручно з новими людьми чи в новій ситуації."
+    },
+    {
+      "id": "nl-5b08c383",
+      "type": "adjective",
+      "lemma": "grappig",
+      "ua": "кумедний, смішний",
+      "audio": "grappig.mp3",
+      "explain_ua": "(Mijn vriendin is grappig. = моя подруга кумедна). Grappig походить від de grap («жарт»; окремо не вчимо) -- буквально «жартівливий»."
+    },
+    {
+      "id": "nl-61740d23",
+      "type": "adjective",
+      "lemma": "serieus",
+      "ua": "серйозний",
+      "audio": "serieus.mp3",
+      "explain_ua": "(Mijn leraar is serieus. = мій вчитель серйозний). Майже ідентично англійському serious -- обидва слова походять з того самого латинського кореня, пряма підказка для пам'яті.",
+      "check": "Спільне латинське походження serieus/serious з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-5531d110",
+      "type": "adjective",
+      "lemma": "eerlijk",
+      "ua": "чесний",
+      "audio": "eerlijk.mp3",
+      "explain_ua": "(Mijn oom is eerlijk. = мій дядько чесний). Eerlijk -- від de eer («честь»; окремо не вчимо) + суфікс -lijk, той самий зразок словотвору, що vriendelijk (вище).",
+      "check": "Словотвірний аналіз eerlijk = eer + -lijk з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-287bcf7c",
+      "type": "adjective",
+      "lemma": "lui",
+      "ua": "лінивий",
+      "audio": "lui.mp3",
+      "explain_ua": "(Mijn zoon is lui op zondag. = мій син лінивий у неділю). Коротке, просте слово, без особливих пасток у вимові чи написанні."
+    },
+    {
+      "id": "nl-f15cd38e",
+      "type": "adjective",
+      "lemma": "slim",
+      "ua": "розумний, кмітливий",
+      "audio": "slim.mp3",
+      "explain_ua": "(Mijn dochter is slim. = моя донька розумна). УВАГА, пастка хибного друга: англійське slim означає «стрункий, худий» -- зовсім інше значення! Нідерландське slim стосується розуму, а не фігури. Для «стрункий» нідерландська використовує інше слово (не вчимо цього уроку)."
+    },
+    {
+      "id": "nl-54df5a8f",
+      "type": "adjective",
+      "lemma": "nieuwsgierig",
+      "ua": "допитливий, цікавий (про людину)",
+      "audio": "nieuwsgierig.mp3",
+      "explain_ua": "(Mijn oma is nieuwsgierig. = моя бабуся допитлива). Складене слово: nieuw («новий», Les 19) + gierig («жадібний»; окремо не вчимо) -- буквально «жадібний до новин». Завжди з прийменником naar, коли вказуєш, до чого саме цікавість: nieuwsgierig naar (дивись картку нижче).",
+      "check": "Що gierig означає «жадібний» -- з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-286066ca",
+      "type": "adjective",
+      "lemma": "zelfverzekerd",
+      "ua": "впевнений у собі",
+      "audio": "zelfverzekerd.mp3",
+      "explain_ua": "(Mijn baas is zelfverzekerd. = мій начальник впевнений у собі). Складене слово: zelf («сам, себе»; окремо не вчимо) + verzekerd (дієприкметник від verzekeren, «запевняти, страхувати»; окремо не вчимо) -- буквально «запевнений у собі самому». Довге слово, вчи цілим.",
+      "check": "Словотвірний розбір zelf + verzekerd з власних знань, окремо не перевірено."
+    },
+    {
+      "id": "nl-9366513d",
+      "type": "adjective",
+      "lemma": "geduldig",
+      "ua": "терплячий",
+      "audio": "geduldig.mp3",
+      "explain_ua": "(Mijn opa is geduldig. = мій дідусь терплячий). Geduldig -- від het geduld («терпіння»; окремо не вчимо) + суфікс -ig, звичайний прикметниковий суфікс (як zonnig, Les 23)."
+    },
+    {
+      "id": "nl-c8fd7ed1",
+      "type": "adjective",
+      "lemma": "streng",
+      "ua": "суворий",
+      "audio": "streng.mp3",
+      "explain_ua": "(Mijn oma is streng. = моя бабуся сувора). Коротке слово, вживається і про людей (сувора людина), і про правила (суворе правило) -- цей урок вчимо лише про людей."
+    },
+    {
+      "id": "nl-8f9db5eb",
+      "type": "verb",
+      "lemma": "lijken",
+      "ua": "здаватися; lijken op = бути схожим на",
+      "audio": "lijken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "lijk",
+          "audio": "ik-lijk.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "lijkt",
+          "audio": "jij-lijkt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "lijkt",
+          "audio": "hij-lijkt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "lijken",
+          "audio": "wij-lijken.mp3"
+        }
+      ],
+      "explain_ua": "(Hij lijkt moe. = він здається втомленим. / Zij lijkt op haar moeder. = вона схожа на свою маму). Lijken має дві роботи: без прийменника + прикметник -- «здаватися» (той самий принцип, що zijn + прикметник, тільки менш впевнено, «виглядає як»); з прийменником op + людина -- «бути схожим на», постійний прийменник, як houden van, wachten op (Les 9). Регулярне дієслово, основа lijk без змін. Під інверсією jij губить -t, як завжди (Les 10): lijk jij?, а не lijkt jij."
+    },
+    {
+      "id": "nl-dd46f8e4",
+      "type": "noun",
+      "article": "het",
+      "lemma": "karakter",
+      "plural": [
+        "karakters"
+      ],
+      "ua": "характер",
+      "audio": "het-karakter.mp3",
+      "explain_ua": "(Mijn familie heeft een goed karakter. = у моєї родини хороший характер). Het karakter -- het-слово (запам'ятай окремо, винятку з правила немає). Множина регулярна: de karakters (просто -s, без апострофа, бо слово закінчується на приголосну, як de vaders, Les 9).",
+      "check": "Рід het karakter і множину karakters перевірено пошуком (Wiktionary, 2026-10-01)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Риса характеру: zijn + прикметник, назавжди -- не як почуття (Les 50)",
+      "summary_ua": "Прикметники цього уроку описують ПОСТІЙНУ рису характеру людини (Hij is altijd aardig. = він завжди приємний) -- на відміну від прикметників почуттів (Les 50), які описують ТИМЧАСОВИЙ стан (Ik ben vandaag moe. = я сьогодні втомлений, але не завжди). Граматика та сама: zijn + прикметник, без -e.",
+      "see": "Les 50",
+      "compare": [
+        {
+          "form": "Риса характеру (цей урок): постійна",
+          "when_ua": "Описує, яка людина ЗАВЖДИ -- частина її характеру.",
+          "examples": [
+            {
+              "nl": "Mijn vader is heel eerlijk.",
+              "ua": "Мій тато дуже чесний.",
+              "audio": "les52-rule-01.mp3"
+            },
+            {
+              "nl": "Mijn collega is altijd nieuwsgierig.",
+              "ua": "Мій колега завжди допитливий.",
+              "audio": "les52-rule-02.mp3"
+            }
+          ],
+          "note_ua": "altijd (завжди) часто стоїть поруч -- підкреслює, що це риса, а не момент."
+        },
+        {
+          "form": "Почуття (Les 50): тимчасовий стан",
+          "when_ua": "Описує, як людина почувається ЗАРАЗ -- може змінитися за хвилину.",
+          "examples": [
+            {
+              "nl": "Ik ben vandaag moe.",
+              "ua": "Я сьогодні втомлений.",
+              "audio": "les52-rule-03.mp3"
+            },
+            {
+              "nl": "Mijn broer is nu blij.",
+              "ua": "Мій брат зараз щасливий.",
+              "audio": "les52-rule-04.mp3"
+            }
+          ],
+          "note_ua": "vandaag, nu (сьогодні, зараз) часто стоять поруч -- підкреслюють момент, не постійну рису."
+        }
+      ],
+      "points_ua": [
+        "zijn + прикметник -- та сама граматика, що й Les 50.",
+        "Різниця не в граматиці, а в СЕНСІ: риса (завжди) чи почуття (зараз).",
+        "Слово altijd/vaak сигналізує рису; vandaag/nu сигналізує момент."
+      ]
+    },
+    {
+      "title_ua": "Lijken: дві роботи -- lijken + прикметник (здаватися), lijken op (бути схожим)",
+      "summary_ua": "Lijken без прийменника + прикметник означає «здаватися» -- враження ззовні, не повна впевненість (той самий принцип, що zijn + прикметник, тільки менш категорично). Lijken op + людина означає «бути схожим на» -- постійний прийменник op, як trots op, jaloers op (Les 50).",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "lijken + прикметник: здаватися (без прийменника)",
+          "when_ua": "Коли описуєш враження, не повну впевненість -- «виглядає так, ніби...».",
+          "examples": [
+            {
+              "nl": "Mijn opa lijkt streng.",
+              "ua": "Мій дідусь здається суворим.",
+              "audio": "les52-rule-05.mp3"
+            },
+            {
+              "nl": "Jij lijkt moe vandaag.",
+              "ua": "Ти сьогодні здаєшся втомленим.",
+              "audio": "les52-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Прикметник тут без -e, той самий принцип, що після zijn."
+        },
+        {
+          "form": "lijken op + людина: бути схожим на (з прийменником op)",
+          "when_ua": "Коли порівнюєш одну людину з іншою -- зовнішністю чи характером.",
+          "examples": [
+            {
+              "nl": "Mijn broer lijkt op mijn vader.",
+              "ua": "Мій брат схожий на мого тата.",
+              "audio": "les52-rule-07.mp3"
+            },
+            {
+              "nl": "Lijkt zij op haar moeder?",
+              "ua": "Вона схожа на свою маму?",
+              "audio": "les52-rule-08.mp3"
+            }
+          ],
+          "note_ua": "op тут завжди, не можна замінити іншим прийменником -- той самий принцип, що houden van, wachten op (Les 9)."
+        }
+      ],
+      "points_ua": [
+        "lijken + прикметник = здаватися (без прийменника).",
+        "lijken op + людина = бути схожим на (сталий прийменник op).",
+        "Основа lijk без змін, під інверсією jij губить -t (lijk jij?), як завжди (Les 10)."
+      ]
+    },
+    {
+      "title_ua": "Nieuwsgierig naar: сталий прийменник",
+      "summary_ua": "Nieuwsgierig завжди бере прийменник naar, коли вказуєш, до чого саме цікавість -- той самий принцип, що houden van, wachten op, denken aan, kijken naar (Les 9) і bang voor, trots op (Les 50): прийменник не можна поміняти.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "naar: nieuwsgierig naar",
+          "when_ua": "Коли вказуєш, до чого саме цікавість людини.",
+          "examples": [
+            {
+              "nl": "Ik ben nieuwsgierig naar jouw werk.",
+              "ua": "Мені цікаво про твою роботу.",
+              "audio": "les52-rule-09.mp3"
+            },
+            {
+              "nl": "Mijn oma is nieuwsgierig naar mijn nieuwe fiets.",
+              "ua": "Моя бабуся цікавиться моїм новим велосипедом.",
+              "audio": "les52-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Той самий naar, що вже відомий (kijken naar, Les 9) -- просто нове поєднання зі словом nieuwsgierig."
+        }
+      ],
+      "points_ua": [
+        "nieuwsgierig naar -- один сталий прийменник, не можна поміняти.",
+        "Той самий принцип, що houden van, wachten op, denken aan, kijken naar (Les 9)."
+      ]
+    },
+    {
+      "title_ua": "Slim: пастка хибного друга",
+      "summary_ua": "Нідерландське slim означає «розумний, кмітливий» -- це про ГОЛОВУ, не про фігуру. Англійське slim («стрункий, худий») звучить майже так само, але означає зовсім інше -- класична пастка хибного друга.",
+      "compare": [
+        {
+          "form": "slim (нідерландська): розумний",
+          "when_ua": "Завжди про розум, кмітливість -- ніколи про фігуру чи вагу.",
+          "examples": [
+            {
+              "nl": "Mijn dochter is heel slim.",
+              "ua": "Моя донька дуже розумна.",
+              "audio": "les52-rule-11.mp3"
+            },
+            {
+              "nl": "Is jouw collega slim?",
+              "ua": "Твій колега розумний?",
+              "audio": "les52-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Якщо хочеш сказати «стрункий» нідерландською -- це інше слово, цей урок його не вчимо."
+        }
+      ],
+      "points_ua": [
+        "slim (NL) = розумний -- про голову.",
+        "slim (ENG) = стрункий -- про фігуру. Не плутай!",
+        "Класична пастка хибного друга, схожа на brief/briefing (Les 39)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Mijn collega is heel aardig.",
+      "ua": "Мій колега дуже приємний.",
+      "audio": "les52-example-01.mp3"
+    },
+    {
+      "nl": "De verkoper is vriendelijk en helpt graag.",
+      "ua": "Продавець привітний і залюбки допомагає.",
+      "audio": "les52-example-02.mp3"
+    },
+    {
+      "nl": "Mijn vriendin is verlegen bij nieuwe mensen.",
+      "ua": "Моя подруга сором'язлива з новими людьми.",
+      "audio": "les52-example-03.mp3"
+    },
+    {
+      "nl": "Onze buur is grappig; wij lachen vaak.",
+      "ua": "Наш сусід кумедний; ми часто сміємося.",
+      "audio": "les52-example-04.mp3"
+    },
+    {
+      "nl": "De leraar is serieus op school.",
+      "ua": "Учитель серйозний у школі.",
+      "audio": "les52-example-05.mp3"
+    },
+    {
+      "nl": "De klant is niet eerlijk.",
+      "ua": "Клієнт нечесний.",
+      "audio": "les52-example-06.mp3"
+    },
+    {
+      "nl": "Mijn zoon is lui op zaterdag.",
+      "ua": "Мій син лінивий у суботу.",
+      "audio": "les52-example-07.mp3"
+    },
+    {
+      "nl": "Mijn directeur is heel slim.",
+      "ua": "Мій директор дуже розумний.",
+      "audio": "les52-example-08.mp3"
+    },
+    {
+      "nl": "Mijn tante is nieuwsgierig naar mijn nieuwe huis.",
+      "ua": "Моя тітка цікавиться моїм новим будинком.",
+      "audio": "les52-example-09.mp3"
+    },
+    {
+      "nl": "Mijn opa is geduldig, maar mijn oma is streng.",
+      "ua": "Мій дідусь терплячий, а моя бабуся сувора.",
+      "audio": "les52-example-10.mp3"
+    },
+    {
+      "nl": "Onze buur lijkt op zijn vader.",
+      "ua": "Наш сусід схожий на свого тата.",
+      "audio": "les52-example-11.mp3"
+    },
+    {
+      "nl": "Mijn directeur lijkt zelfverzekerd.",
+      "ua": "Мій директор здається впевненим у собі.",
+      "audio": "les52-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Het karakter van mijn familie",
+    "title_ua": "Характер моєї родини",
+    "highlight": [
+      "nl-8616a137",
+      "nl-e1061361",
+      "nl-dad6d5af",
+      "nl-5b08c383",
+      "nl-61740d23",
+      "nl-5531d110",
+      "nl-f15cd38e",
+      "nl-54df5a8f",
+      "nl-286066ca",
+      "nl-9366513d",
+      "nl-c8fd7ed1",
+      "nl-dd46f8e4"
+    ],
+    "sentences": [
+      {
+        "nl": "Mijn vader is heel aardig en vriendelijk.",
+        "ua": "Мій тато дуже привітний і доброзичливий.",
+        "audio": "les52-reading-01.mp3"
+      },
+      {
+        "nl": "Hij is nooit boos, en hij is altijd geduldig.",
+        "ua": "Він ніколи не злий, і він завжди терплячий.",
+        "audio": "les52-reading-02.mp3"
+      },
+      {
+        "nl": "Mijn moeder is serieus op haar werk, maar thuis is zij grappig.",
+        "ua": "Моя мама серйозна на роботі, але вдома вона кумедна.",
+        "audio": "les52-reading-03.mp3"
+      },
+      {
+        "nl": "Mijn zus lijkt op mijn moeder: zij is ook grappig.",
+        "ua": "Моя сестра схожа на мою маму: вона теж кумедна.",
+        "audio": "les52-reading-04.mp3"
+      },
+      {
+        "nl": "Mijn broer is verlegen; hij spreekt niet veel met nieuwe mensen.",
+        "ua": "Мій брат сором'язливий; він небагато говорить з новими людьми.",
+        "audio": "les52-reading-05.mp3"
+      },
+      {
+        "nl": "Maar hij is heel slim; hij leest veel boeken.",
+        "ua": "Але він дуже розумний -- він читає багато книжок.",
+        "audio": "les52-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn oma is nieuwsgierig: zij wil alles weten.",
+        "ua": "Моя бабуся допитлива: вона хоче знати все.",
+        "audio": "les52-reading-07.mp3"
+      },
+      {
+        "nl": "Mijn opa is streng, maar eerlijk.",
+        "ua": "Мій дідусь суворий, але чесний.",
+        "audio": "les52-reading-08.mp3"
+      },
+      {
+        "nl": "Mijn vader lijkt heel zelfverzekerd op zijn werk.",
+        "ua": "Мій тато здається дуже впевненим у собі на роботі.",
+        "audio": "les52-reading-09.mp3"
+      },
+      {
+        "nl": "Ik denk dat mijn familie een goed karakter heeft.",
+        "ua": "Я думаю, що в моєї родини хороший характер.",
+        "audio": "les52-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Моя сестра дуже доброзичлива.",
+          "accepted": [
+            "Mijn zus is heel vriendelijk."
+          ]
+        },
+        {
+          "prompt": "Мій дядько сором'язливий.",
+          "accepted": [
+            "Mijn oom is verlegen."
+          ]
+        },
+        {
+          "prompt": "Моя колега дуже кумедна.",
+          "accepted": [
+            "Mijn collega is heel grappig."
+          ]
+        },
+        {
+          "prompt": "Чи серйозний твій тато?",
+          "accepted": [
+            "Is jouw vader serieus?"
+          ]
+        },
+        {
+          "prompt": "Моя тітка чесна.",
+          "accepted": [
+            "Mijn tante is eerlijk."
+          ]
+        },
+        {
+          "prompt": "Мій друг лінивий у неділю.",
+          "accepted": [
+            "Mijn vriend is lui op zondag."
+          ]
+        },
+        {
+          "prompt": "Моя дочка розумна.",
+          "accepted": [
+            "Mijn dochter is slim."
+          ]
+        },
+        {
+          "prompt": "Чому твоя подруга допитлива?",
+          "accepted": [
+            "Waarom is jouw vriendin nieuwsgierig?"
+          ]
+        },
+        {
+          "prompt": "Мій начальник впевнений у собі.",
+          "accepted": [
+            "Mijn baas is zelfverzekerd."
+          ]
+        },
+        {
+          "prompt": "Моя мама терпляча, а мій тато суворий.",
+          "accepted": [
+            "Mijn moeder is geduldig, maar mijn vader is streng."
+          ]
+        },
+        {
+          "prompt": "Він схожий на свою сестру.",
+          "accepted": [
+            "Hij lijkt op zijn zus."
+          ]
+        },
+        {
+          "prompt": "У моєї сестри хороший характер.",
+          "accepted": [
+            "Mijn zus heeft een goed karakter."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "aardig",
+        "vriendelijk",
+        "verlegen",
+        "grappig",
+        "serieus",
+        "eerlijk",
+        "lui",
+        "slim",
+        "nieuwsgierig",
+        "zelfverzekerd",
+        "lijkt",
+        "karakter"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn vader is niet verlegen, hij is ___.",
+          "hint": "впевнений у собі",
+          "accepted": [
+            [
+              "zelfverzekerd"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn moeder is heel ___ met nieuwe mensen.",
+          "hint": "привітна, доброзичлива",
+          "accepted": [
+            [
+              "vriendelijk"
+            ]
+          ]
+        },
+        {
+          "text": "Zij is ___ op school.",
+          "hint": "сором'язлива",
+          "accepted": [
+            [
+              "verlegen"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vriendin is ___, wij lachen altijd.",
+          "hint": "кумедна",
+          "accepted": [
+            [
+              "grappig"
+            ]
+          ]
+        },
+        {
+          "text": "Is onze buur ___?",
+          "hint": "серйозний",
+          "accepted": [
+            [
+              "serieus"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn oom is altijd ___.",
+          "hint": "чесний",
+          "accepted": [
+            [
+              "eerlijk"
+            ]
+          ]
+        },
+        {
+          "text": "Hij is ___ op maandag.",
+          "hint": "лінивий",
+          "accepted": [
+            [
+              "lui"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon is heel ___.",
+          "hint": "розумний",
+          "accepted": [
+            [
+              "slim"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn oma is ___ naar alles.",
+          "hint": "допитлива",
+          "accepted": [
+            [
+              "nieuwsgierig"
+            ]
+          ]
+        },
+        {
+          "text": "Onze leraar is heel ___.",
+          "hint": "привітний, доброзичливий",
+          "accepted": [
+            [
+              "aardig"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ op zijn opa.",
+          "hint": "схожий (дієслово)",
+          "accepted": [
+            [
+              "lijkt"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn familie heeft een goed ___.",
+          "hint": "характер",
+          "accepted": [
+            [
+              "karakter"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Mijn vader is aardig.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Mijn vader is niet aardig."
+          ]
+        },
+        {
+          "prompt": "Mijn broer is verlegen.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is mijn broer verlegen?"
+          ]
+        },
+        {
+          "prompt": "Zij is grappig.",
+          "cue": "-> заміни zij на ik",
+          "accepted": [
+            "Ik ben grappig."
+          ]
+        },
+        {
+          "prompt": "Hij is serieus.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij is niet serieus."
+          ]
+        },
+        {
+          "prompt": "Mijn oom is eerlijk.",
+          "cue": "-> заміни mijn oom на mijn tante; питання",
+          "accepted": [
+            "Is mijn tante eerlijk?"
+          ]
+        },
+        {
+          "prompt": "Ik ben lui.",
+          "cue": "-> заміни ik на wij",
+          "accepted": [
+            "Wij zijn lui."
+          ]
+        },
+        {
+          "prompt": "Het kind is nieuwsgierig.",
+          "cue": "-> множина (de kinderen)",
+          "accepted": [
+            "De kinderen zijn nieuwsgierig."
+          ]
+        },
+        {
+          "prompt": "Mijn collega is zelfverzekerd.",
+          "cue": "-> питання",
+          "accepted": [
+            "Is mijn collega zelfverzekerd?"
+          ]
+        },
+        {
+          "prompt": "Hij lijkt op zijn vader.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij lijkt niet op zijn vader."
+          ]
+        },
+        {
+          "prompt": "Ik lijk zelfverzekerd.",
+          "cue": "-> заміни ik на jij",
+          "accepted": [
+            "Jij lijkt zelfverzekerd."
+          ]
+        },
+        {
+          "prompt": "Mijn opa is streng.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Mijn opa is niet streng."
+          ]
+        },
+        {
+          "prompt": "Zij zijn geduldig.",
+          "cue": "-> заміни zij (вони) на jullie",
+          "accepted": [
+            "Jullie zijn geduldig."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mijn vader ___ aardig.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Jij ___ verlegen.",
+          "cue": "zijn",
+          "accepted": [
+            "bent"
+          ]
+        },
+        {
+          "text": "Wij ___ nieuwsgierig.",
+          "cue": "zijn",
+          "accepted": [
+            "zijn"
+          ]
+        },
+        {
+          "text": "___ jullie geduldig?",
+          "cue": "zijn",
+          "accepted": [
+            "Zijn",
+            "zijn"
+          ]
+        },
+        {
+          "text": "Mijn oma ___ streng.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Ik ___ niet lui.",
+          "cue": "zijn",
+          "accepted": [
+            "ben"
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ slim.",
+          "cue": "zijn",
+          "accepted": [
+            "is"
+          ]
+        },
+        {
+          "text": "Hij ___ op zijn vader.",
+          "cue": "lijken",
+          "accepted": [
+            "lijkt"
+          ]
+        },
+        {
+          "text": "___ jij op je moeder?",
+          "cue": "lijken",
+          "accepted": [
+            "Lijk",
+            "lijk"
+          ]
+        },
+        {
+          "text": "Zij ___ zelfverzekerd.",
+          "cue": "lijken",
+          "accepted": [
+            "lijkt"
+          ]
+        },
+        {
+          "text": "Wij ___ niet op onze ouders.",
+          "cue": "lijken",
+          "accepted": [
+            "lijken"
+          ]
+        },
+        {
+          "text": "___ zij nieuwsgierig naar mijn nieuwe fiets?",
+          "cue": "zijn",
+          "accepted": [
+            "Is",
+            "is"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "приємний, милий",
+          "answer": "aardig"
+        },
+        {
+          "prompt": "привітний",
+          "answer": "vriendelijk"
+        },
+        {
+          "prompt": "сором'язливий",
+          "answer": "verlegen"
+        },
+        {
+          "prompt": "кумедний",
+          "answer": "grappig"
+        },
+        {
+          "prompt": "серйозний",
+          "answer": "serieus"
+        },
+        {
+          "prompt": "чесний",
+          "answer": "eerlijk"
+        },
+        {
+          "prompt": "лінивий",
+          "answer": "lui"
+        },
+        {
+          "prompt": "розумний",
+          "answer": "slim"
+        },
+        {
+          "prompt": "допитливий",
+          "answer": "nieuwsgierig"
+        },
+        {
+          "prompt": "впевнений у собі",
+          "answer": "zelfverzekerd"
+        }
+      ],
+      "extra": [
+        "geduldig",
+        "streng"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "adjective",
+        "verb",
+        "noun"
+      ]
+    }
+  ]
+}
