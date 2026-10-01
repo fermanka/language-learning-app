@@ -1,0 +1,1000 @@
+{
+  "id": "nl-les-54",
+  "lang": "nl",
+  "order": 54,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-204f6bec",
+      "type": "noun",
+      "article": "de",
+      "lemma": "computer",
+      "plural": [
+        "computers"
+      ],
+      "ua": "комп'ютер",
+      "audio": "de-computer.mp3",
+      "explain_ua": "(Ik heb een nieuwe computer. = у мене новий комп'ютер). Міжнародне слово, звучить майже як українське «комп'ютер». De-слово (перевірено пошуком, computer граматично mannelijk -- чоловічого роду). Множина проста: computers, як kamers (Les 3).",
+      "check": "Артикль de і множину computers перевірено пошуком (welklidwoord.nl, 2026-10-01)."
+    },
+    {
+      "id": "nl-22538f0f",
+      "type": "noun",
+      "article": "het",
+      "lemma": "internet",
+      "plural": [],
+      "ua": "інтернет",
+      "audio": "het-internet.mp3",
+      "explain_ua": "(Ik heb internet thuis. = у мене вдома є інтернет). Het-слово (запам'ятай окремо -- не збігається з de computer вище). Майже завжди без множини -- internet це як water чи brood (Les 1, Les 8): щось одне ціле, не рахуємо штуками. (Формально в словнику є internetten, але це вкрай рідко й не вчимо.)",
+      "check": "Артикль het перевірено пошуком (welklidwoord.nl, VanDale); що internetten формально існує, але майже не вживається -- теж з того самого джерела."
+    },
+    {
+      "id": "nl-2b9c85c9",
+      "type": "noun",
+      "article": "de",
+      "lemma": "app",
+      "plural": [
+        "apps"
+      ],
+      "ua": "застосунок, додаток (на телефоні чи комп'ютері)",
+      "audio": "de-app.mp3",
+      "explain_ua": "(Ik download een app. = я завантажую застосунок). App це скорочення від applicatie/application -- міжнародне слово. De-слово, множина apps, просто +s, як auto - auto's... ні, тут без апострофа: app закінчується на приголосну, тому apps, як kamer - kamers (Les 3), не як auto - auto's (Les 6).",
+      "check": "Що app скорочення від applicatie, з власних знань, окремо не перевірено; артикль de і множину apps перевірено пошуком (welklidwoord.nl, 2026-10-01)."
+    },
+    {
+      "id": "nl-33f3f4e7",
+      "type": "noun",
+      "article": "de",
+      "lemma": "website",
+      "plural": [
+        "websites"
+      ],
+      "ua": "сайт, вебсайт",
+      "audio": "de-website.mp3",
+      "explain_ua": "(Ik log in op de website. = я заходжу на сайт). Складене англійське слово: web + site, запозичене цілим, вчи як одне слово. De-слово, множина websites.",
+      "check": "Артикль de і множину websites перевірено пошуком (welklidwoord.nl, 2026-10-01)."
+    },
+    {
+      "id": "nl-0eb4ed5d",
+      "type": "noun",
+      "article": "het",
+      "lemma": "scherm",
+      "plural": [
+        "schermen"
+      ],
+      "ua": "екран",
+      "audio": "het-scherm.mp3",
+      "explain_ua": "(Ik typ mijn naam op het scherm. = я вводжу своє ім'я на екрані). Справжній родич англійського screen -- обидва слова походять з одного давньогерманського кореня (через старофранцузьке escren від середньонідерландського scherm): пряма підказка для пам'яті, а не вигадана схожість. Het-слово. Множина schermen, перевірено словником.",
+      "check": "Спільне походження scherm/screen перевірено пошуком (Wiktionary, 2026-10-01); артикль het перевірено пошуком (welklidwoord.nl)."
+    },
+    {
+      "id": "nl-c178f5e6",
+      "type": "noun",
+      "article": "het",
+      "lemma": "wachtwoord",
+      "plural": [
+        "wachtwoorden"
+      ],
+      "ua": "пароль",
+      "audio": "het-wachtwoord.mp3",
+      "explain_ua": "(Ik maak een nieuw wachtwoord. = я створюю новий пароль). Складається з wachten («чекати», Les 9: wachten op) і woord («слово»; окремо цей урок не вчимо) -- буквально «слово очікування», слово, яке треба знати, щоб тебе впустили. Хороша підказка для пам'яті. Het-слово (woord завжди het). Множина wachtwoorden, перевірено словником.",
+      "check": "Етимологію wachten+woord і множину wachtwoorden перевірено пошуком (dict.cc, welklidwoord.nl, 2026-10-01)."
+    },
+    {
+      "id": "nl-9412c1e7",
+      "type": "noun",
+      "article": "de",
+      "lemma": "e-mail",
+      "plural": [
+        "e-mails"
+      ],
+      "ua": "е-мейл, електронний лист",
+      "audio": "de-e-mail.mp3",
+      "explain_ua": "(Ik verstuur een e-mail. = я надсилаю е-мейл). Цифровий родич de brief (Les 39, «лист на папері») -- порівняй картку нижче. У щоденній мові часто просто mail (без e-), але e-mail лишається стандартним написанням. De-слово, множина e-mails.",
+      "check": "Артикль de і множину e-mails перевірено пошуком (2026-10-01)."
+    },
+    {
+      "id": "nl-6d31c5cc",
+      "type": "noun",
+      "article": "de",
+      "lemma": "link",
+      "plural": [
+        "linken"
+      ],
+      "ua": "посилання",
+      "audio": "de-link.mp3",
+      "explain_ua": "(Klik op de link. = натисни на посилання). УВАГА: множина linken, НЕ links! Links вже означає «ліворуч» (Les 17) -- інше слово, яке ти вже знаєш. Щоб не плутати, de link у множині бере -en: de linken.",
+      "check": "Множину linken (а не links) перевірено пошуком (welklidwoord.nl, 2026-10-01); пояснення через омонім links (Les 17) -- власний висновок для запам'ятовування, не з джерела."
+    },
+    {
+      "id": "nl-f79ff2c6",
+      "type": "verb",
+      "lemma": "inloggen",
+      "ua": "заходити (в систему, акаунт); увійти",
+      "audio": "inloggen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "log in",
+          "audio": "ik-log-in.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "logt in",
+          "audio": "jij-logt-in.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "logt in",
+          "audio": "hij-logt-in.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "loggen in",
+          "audio": "wij-loggen-in.mp3"
+        }
+      ],
+      "explain_ua": "(Ik log in op de app. = я заходжу в застосунок). Відокремлюване дієслово: in іде в кінець речення, той самий принцип, що instappen (Les 5). Завжди з прийменником op, коли вказуєш, куди заходиш: inloggen op (дивись картку нижче). Дієприкметник: ingelogd (ge- усередині, між in і logd -- той самий принцип, що opgestaan, opgebeld, Les 34): Ik heb ingelogd.",
+      "check": "Форму дієприкметника ingelogd і що допоміжне дієслово hebben (не zijn) перевірено пошуком (2026-10-01)."
+    },
+    {
+      "id": "nl-9cca0cec",
+      "type": "verb",
+      "lemma": "downloaden",
+      "ua": "завантажувати (з інтернету)",
+      "audio": "downloaden.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "download",
+          "audio": "ik-download.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "downloadt",
+          "audio": "jij-downloadt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "downloadt",
+          "audio": "hij-downloadt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "downloaden",
+          "audio": "wij-downloaden.mp3"
+        },
+        {
+          "pronoun": "voltooid deelwoord",
+          "ua": "дієприкметник (з hebben)",
+          "form": "gedownload",
+          "audio": "gedownload.mp3"
+        }
+      ],
+      "explain_ua": "(Ik download een app. = я завантажую застосунок). УВАГА: на відміну від inloggen (вище), down тут НЕ справжній нідерландський відокремлюваний префікс -- це запозичене слово, і дієслово лишається цілим. Дієприкметник gedownload: ge- спереду, як у звичайного регулярного дієслова (werken - gewerkt, Les 32), а не всередині. Порівняй картку нижче.",
+      "check": "Дієприкметник gedownload і допоміжне дієслово hebben перевірено пошуком (2026-10-01); пояснення «чому down не відокремлюється» -- власний висновок на основі перевіреної форми."
+    },
+    {
+      "id": "nl-dbe51c36",
+      "type": "verb",
+      "lemma": "opslaan",
+      "ua": "зберігати, зберегти (файл, фото)",
+      "audio": "opslaan.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "sla op",
+          "audio": "ik-sla-op.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "slaat op",
+          "audio": "jij-slaat-op.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "slaat op",
+          "audio": "hij-slaat-op.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "slaan op",
+          "audio": "wij-slaan-op.mp3"
+        },
+        {
+          "pronoun": "voltooid deelwoord",
+          "ua": "дієприкметник (з hebben)",
+          "form": "opgeslagen",
+          "audio": "opgeslagen.mp3"
+        }
+      ],
+      "explain_ua": "(Ik sla de foto op. = я зберігаю фото). Складається з op (відомий відокремлюваний префікс, Les 4: opstaan) і slaan («бити»; саме дієслово slaan окремо не вчимо) -- тут значення зовсім інше, «зберігати». Неправильне дієслово: ik sla, jij/hij slaat, wij slaan. Дієприкметник opgeslagen (ge- усередині, як opgestaan, Les 34, але голосна й кінцівка міняються нерегулярно -- запам'ятай цілим словом): Ik heb de foto opgeslagen.",
+      "check": "Неправильну форму opgeslagen і допоміжне дієслово hebben перевірено пошуком (2026-10-01)."
+    },
+    {
+      "id": "nl-f2edefa6",
+      "type": "verb",
+      "lemma": "klikken",
+      "ua": "натискати, клікати (мишкою чи пальцем)",
+      "audio": "klikken.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "klik",
+          "audio": "ik-klik.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "klikt",
+          "audio": "jij-klikt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "klikt",
+          "audio": "hij-klikt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "klikken",
+          "audio": "wij-klikken.mp3"
+        }
+      ],
+      "explain_ua": "(Ik klik op de link. = я натискаю на посилання). Регулярне дієслово. Основа klik: приголосна в інфінітиві подвоюється (klikken), в основі ні (klik) -- той самий принцип, що zwemmen - zwem (Les 7). Завжди з прийменником op, коли вказуєш, на що натискаєш -- дивись картку нижче, той самий принцип, що houden van, wachten op (Les 9)."
+    },
+    {
+      "id": "nl-da5900eb",
+      "type": "verb",
+      "lemma": "typen",
+      "ua": "друкувати, вводити текст (на клавіатурі)",
+      "audio": "typen.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ik",
+          "ua": "я",
+          "form": "typ",
+          "audio": "ik-typ.mp3"
+        },
+        {
+          "pronoun": "jij / je",
+          "ua": "ти (неформ.)",
+          "form": "typt",
+          "audio": "jij-typt.mp3"
+        },
+        {
+          "pronoun": "hij / zij / het",
+          "ua": "він / вона / воно",
+          "form": "typt",
+          "audio": "hij-typt.mp3"
+        },
+        {
+          "pronoun": "wij / we",
+          "ua": "ми",
+          "form": "typen",
+          "audio": "wij-typen.mp3"
+        },
+        {
+          "pronoun": "voltooid deelwoord",
+          "ua": "дієприкметник (з hebben)",
+          "form": "getypt",
+          "audio": "getypt.mp3"
+        }
+      ],
+      "explain_ua": "(Ik typ mijn naam. = я вводжу своє ім'я). Регулярне дієслово, основа typ без змін. Не плутай з schrijven («писати від руки»; цей урок не вчимо) -- typen стосується саме клавіатури. Дієприкметник getypt (ge- спереду, звичайний принцип, Les 32): Ik heb mijn naam getypt.",
+      "check": "Дієприкметник getypt і допоміжне дієслово hebben перевірено пошуком (2026-10-01)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Scheidbare tech-werkwoorden: in en op kennen we al, down is nieuw",
+      "summary_ua": "Inloggen en opslaan gebruiken bekende scheidbare voorvoegsels -- in (Les 5: instappen) en op (Les 4: opstaan) -- en gaan dus naar het einde van de zin; het voltooid deelwoord krijgt ge- vanbinnen (Les 34: opgestaan). Downloaden lijkt een voorvoegsel te hebben, maar down is geen echt Nederlands scheidbaar voorvoegsel -- het werkwoord blijft heel, en ge- komt gewoon vooraan, als bij een heel normaal werkwoord.",
+      "see": "Les 34",
+      "compare": [
+        {
+          "form": "in / op (bekend): inloggen, opslaan -- scheidbaar",
+          "when_ua": "Відомі відокремлювані префікси: префікс у самому кінці речення, ge- усередині дієприкметника.",
+          "examples": [
+            {
+              "nl": "Ik log in op de app.",
+              "ua": "Я заходжу в застосунок.",
+              "audio": "les54-rule-01.mp3"
+            },
+            {
+              "nl": "Ik heb de foto opgeslagen.",
+              "ua": "Я зберіг фото.",
+              "audio": "les54-rule-02.mp3"
+            }
+          ],
+          "note_ua": "In і op поводяться так само, як instappen (Les 5) і opstaan (Les 4): завжди в кінці звичайного речення, ge- усередині дієприкметника (opgestaan, Les 34)."
+        },
+        {
+          "form": "down (нове): downloaden -- НЕ scheidbaar",
+          "when_ua": "Down лише ВИГЛЯДАЄ як префікс -- насправді дієслово лишається цілим словом.",
+          "examples": [
+            {
+              "nl": "Wij downloaden de app.",
+              "ua": "Ми завантажуємо застосунок.",
+              "audio": "les54-rule-03.mp3"
+            },
+            {
+              "nl": "Wij hebben de app gedownload.",
+              "ua": "Ми завантажили застосунок.",
+              "audio": "les54-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Gedownload: ge- спереду, слово не розбивається -- як werken - gewerkt (Les 32), а не як opstaan - opgestaan."
+        }
+      ],
+      "points_ua": [
+        "Inloggen, opslaan: in/op у кінці речення, ge- усередині дієприкметника (ingelogd, opgeslagen).",
+        "Downloaden: слово цілим, ge- спереду (gedownload) -- down не справжній відокремлюваний префікс."
+      ]
+    },
+    {
+      "title_ua": "Klikken op en inloggen op: vast voorzetsel op",
+      "summary_ua": "Klikken і inloggen, коли вказуєш об'єкт дії (на що натискаєш, куди заходиш), завжди беруть прийменник op -- те саме сталий-прийменник сімейство, що houden van, wachten op, denken aan, kijken naar (Les 9), пізніше bang voor, trots op (Les 50) і nieuwsgierig naar (Les 52).",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "op: klikken op, inloggen op",
+          "when_ua": "Коли вказуєш, на що натискаєш, або куди заходиш.",
+          "examples": [
+            {
+              "nl": "Hij klikt op het scherm.",
+              "ua": "Він натискає на екран.",
+              "audio": "les54-rule-05.mp3"
+            },
+            {
+              "nl": "Ik log in op de website van de gemeente.",
+              "ua": "Я заходжу на сайт мерії.",
+              "audio": "les54-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Той самий op, що вже відомий (wachten op, Les 9; trots op, Les 50) -- просто нові поєднання з klikken і inloggen."
+        }
+      ],
+      "points_ua": [
+        "klikken op, inloggen op -- сталий прийменник op, не можна поміняти.",
+        "Те саме сімейство, що houden van, wachten op, denken aan, kijken naar (Les 9)."
+      ]
+    },
+    {
+      "title_ua": "De e-mail en de brief: twee werelden van post",
+      "summary_ua": "De e-mail (цифровий лист) і de brief (Les 39, паперовий лист) -- два різних способи листування. Обидва слова з цим уроком вживаються з уже відомими дієсловами versturen і ontvangen (Les 39): способи спілкування різні, дієслова ті самі.",
+      "see": "Les 39",
+      "compare": [
+        {
+          "form": "de e-mail: цифровий лист",
+          "when_ua": "Лист, який надсилають через інтернет, не папером.",
+          "examples": [
+            {
+              "nl": "Ik ontvang elke dag een e-mail.",
+              "ua": "Я щодня отримую е-мейл.",
+              "audio": "les54-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Versturen і ontvangen (Les 39) працюють так само з e-mail, як і з brief -- змінюється лише спосіб доставки."
+        },
+        {
+          "form": "de brief (Les 39): паперовий лист",
+          "when_ua": "Лист на папері, через поштову скриньку (Les 39: de brievenbus).",
+          "examples": [
+            {
+              "nl": "Mijn opa verstuurt liever een brief dan een e-mail.",
+              "ua": "Мій дідусь радше надсилає лист, ніж е-мейл.",
+              "audio": "les54-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Liever ... dan (Les 45): «радше ..., ніж ...» -- чудовий спосіб порівняти старий і новий спосіб листування."
+        }
+      ],
+      "points_ua": [
+        "De e-mail = цифровий лист, de brief (Les 39) = паперовий лист.",
+        "Versturen, ontvangen (Les 39) працюють з обома словами однаково."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Mijn broer heeft een nieuwe computer.",
+      "ua": "Мій брат має новий комп'ютер.",
+      "audio": "les54-example-01.mp3"
+    },
+    {
+      "nl": "Ik heb geen internet thuis.",
+      "ua": "У мене немає інтернету вдома.",
+      "audio": "les54-example-02.mp3"
+    },
+    {
+      "nl": "Mijn zus downloadt een app voor haar werk.",
+      "ua": "Моя сестра завантажує застосунок для роботи.",
+      "audio": "les54-example-03.mp3"
+    },
+    {
+      "nl": "Wij maken een nieuw wachtwoord.",
+      "ua": "Ми створюємо новий пароль.",
+      "audio": "les54-example-04.mp3"
+    },
+    {
+      "nl": "Log jij in op de website?",
+      "ua": "Ти заходиш на сайт?",
+      "audio": "les54-example-05.mp3"
+    },
+    {
+      "nl": "Ik typ mijn naam op het scherm.",
+      "ua": "Я вводжу своє ім'я на екрані.",
+      "audio": "les54-example-06.mp3"
+    },
+    {
+      "nl": "Klik op de link, alsjeblieft.",
+      "ua": "Натисни на посилання, будь ласка.",
+      "audio": "les54-example-07.mp3"
+    },
+    {
+      "nl": "Mijn collega slaat het document op.",
+      "ua": "Мій колега зберігає документ.",
+      "audio": "les54-example-08.mp3"
+    },
+    {
+      "nl": "Ik ontvang een e-mail van mijn oom.",
+      "ua": "Я отримую е-мейл від дядька.",
+      "audio": "les54-example-09.mp3"
+    },
+    {
+      "nl": "Onze leraar heeft een nieuwe website gemaakt.",
+      "ua": "Наш учитель створив новий сайт.",
+      "audio": "les54-example-10.mp3"
+    },
+    {
+      "nl": "Mijn dochter is heel slim met computers.",
+      "ua": "Моя донька дуже розумна з комп'ютерами.",
+      "audio": "les54-example-11.mp3"
+    },
+    {
+      "nl": "Heb je het wachtwoord opgeslagen?",
+      "ua": "Ти зберіг пароль?",
+      "audio": "les54-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mijn nieuwe computer",
+    "title_ua": "Мій новий комп'ютер",
+    "highlight": [
+      "nl-204f6bec",
+      "nl-22538f0f",
+      "nl-2b9c85c9",
+      "nl-0eb4ed5d",
+      "nl-c178f5e6",
+      "nl-9412c1e7"
+    ],
+    "sentences": [
+      {
+        "nl": "Ik heb een nieuwe computer gekocht.",
+        "ua": "Я купив новий комп'ютер.",
+        "audio": "les54-reading-01.mp3"
+      },
+      {
+        "nl": "Nu heb ik ook internet thuis.",
+        "ua": "Тепер у мене вдома є й інтернет.",
+        "audio": "les54-reading-02.mp3"
+      },
+      {
+        "nl": "Ik download een app voor mijn werk.",
+        "ua": "Я завантажую застосунок для роботи.",
+        "audio": "les54-reading-03.mp3"
+      },
+      {
+        "nl": "Daarna maak ik een wachtwoord.",
+        "ua": "Потім я створюю пароль.",
+        "audio": "les54-reading-04.mp3"
+      },
+      {
+        "nl": "Ik typ mijn naam en mijn wachtwoord op het scherm.",
+        "ua": "Я вводжу своє ім'я і пароль на екрані.",
+        "audio": "les54-reading-05.mp3"
+      },
+      {
+        "nl": "Ik log in op mijn e-mail.",
+        "ua": "Я захожу у свою пошту.",
+        "audio": "les54-reading-06.mp3"
+      },
+      {
+        "nl": "Ik klik op een bericht van mijn zus.",
+        "ua": "Я натискаю на повідомлення від сестри.",
+        "audio": "les54-reading-07.mp3"
+      },
+      {
+        "nl": "Ik lees het bericht op het scherm.",
+        "ua": "Я читаю повідомлення на екрані.",
+        "audio": "les54-reading-08.mp3"
+      },
+      {
+        "nl": "Ik sla het document op.",
+        "ua": "Я зберігаю документ.",
+        "audio": "les54-reading-09.mp3"
+      },
+      {
+        "nl": "Daarna verstuur ik een e-mail naar mijn moeder.",
+        "ua": "Потім я надсилаю е-мейл своїй мамі.",
+        "audio": "les54-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене немає комп'ютера.",
+          "accepted": [
+            "Ik heb geen computer."
+          ]
+        },
+        {
+          "prompt": "Мій тато купує новий комп'ютер.",
+          "accepted": [
+            "Mijn vader koopt een nieuwe computer."
+          ]
+        },
+        {
+          "prompt": "Чи в тебе є інтернет удома?",
+          "accepted": [
+            "Heb jij internet thuis?",
+            "Heb je internet thuis?"
+          ]
+        },
+        {
+          "prompt": "Моя подруга завантажує застосунок.",
+          "accepted": [
+            "Mijn vriendin downloadt een app."
+          ]
+        },
+        {
+          "prompt": "Ми створюємо пароль для сайту.",
+          "accepted": [
+            "Wij maken een wachtwoord voor de website.",
+            "We maken een wachtwoord voor de website."
+          ]
+        },
+        {
+          "prompt": "Він заходить у застосунок.",
+          "accepted": [
+            "Hij logt in op de app."
+          ]
+        },
+        {
+          "prompt": "Чи ти натискаєш на посилання?",
+          "accepted": [
+            "Klik jij op de link?",
+            "Klik je op de link?"
+          ]
+        },
+        {
+          "prompt": "Моя тітка вводить своє ім'я на екрані.",
+          "accepted": [
+            "Mijn tante typt haar naam op het scherm."
+          ]
+        },
+        {
+          "prompt": "Мій син зберігає фото.",
+          "accepted": [
+            "Mijn zoon slaat een foto op."
+          ]
+        },
+        {
+          "prompt": "Я надсилаю е-мейл своєму братові.",
+          "accepted": [
+            "Ik verstuur een e-mail naar mijn broer."
+          ]
+        },
+        {
+          "prompt": "Чи ти отримуєш багато е-мейлів?",
+          "accepted": [
+            "Ontvang jij veel e-mails?",
+            "Ontvang je veel e-mails?"
+          ]
+        },
+        {
+          "prompt": "Моя сестра зберігає документ на комп'ютері.",
+          "accepted": [
+            "Mijn zus slaat het document op de computer op."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "computer",
+        "internet",
+        "app",
+        "website",
+        "scherm",
+        "wachtwoord",
+        "e-mail",
+        "link",
+        "downloaden",
+        "klikt",
+        "typt",
+        "opgeslagen"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik heb een nieuwe ___.",
+          "hint": "комп'ютер",
+          "accepted": [
+            [
+              "computer"
+            ]
+          ]
+        },
+        {
+          "text": "Heb jij ___ thuis?",
+          "hint": "інтернет",
+          "accepted": [
+            [
+              "internet"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zus downloadt een ___ voor haar werk.",
+          "hint": "застосунок",
+          "accepted": [
+            [
+              "app"
+            ]
+          ]
+        },
+        {
+          "text": "Onze leraar heeft een nieuwe ___ gemaakt.",
+          "hint": "сайт",
+          "accepted": [
+            [
+              "website"
+            ]
+          ]
+        },
+        {
+          "text": "Ik typ mijn naam op het ___.",
+          "hint": "екран",
+          "accepted": [
+            [
+              "scherm"
+            ]
+          ]
+        },
+        {
+          "text": "Wij maken een nieuw ___.",
+          "hint": "пароль",
+          "accepted": [
+            [
+              "wachtwoord"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ontvang een ___ van mijn tante.",
+          "hint": "е-мейл",
+          "accepted": [
+            [
+              "e-mail"
+            ]
+          ]
+        },
+        {
+          "text": "Klik op de ___, alsjeblieft.",
+          "hint": "посилання",
+          "accepted": [
+            [
+              "link"
+            ]
+          ]
+        },
+        {
+          "text": "Wij ___ de app voor ons werk.",
+          "hint": "завантажуємо",
+          "accepted": [
+            [
+              "downloaden"
+            ]
+          ]
+        },
+        {
+          "text": "Hij ___ op het scherm.",
+          "hint": "натискає",
+          "accepted": [
+            [
+              "klikt"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ haar naam snel.",
+          "hint": "вводить",
+          "accepted": [
+            [
+              "typt"
+            ]
+          ]
+        },
+        {
+          "text": "Ik heb het document ___.",
+          "hint": "збережений",
+          "accepted": [
+            [
+              "opgeslagen"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Mijn vader heeft een computer.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Mijn vader heeft geen computer."
+          ]
+        },
+        {
+          "prompt": "Mijn moeder heeft internet thuis.",
+          "cue": "-> питання",
+          "accepted": [
+            "Heeft mijn moeder internet thuis?"
+          ]
+        },
+        {
+          "prompt": "Zij downloadt een app.",
+          "cue": "-> заміни zij на ik",
+          "accepted": [
+            "Ik download een app."
+          ]
+        },
+        {
+          "prompt": "Wij maken een wachtwoord.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Wij hebben een wachtwoord gemaakt."
+          ]
+        },
+        {
+          "prompt": "Hij logt in op de website.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Hij logt niet in op de website."
+          ]
+        },
+        {
+          "prompt": "Ik typ mijn naam.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Ik heb mijn naam getypt."
+          ]
+        },
+        {
+          "prompt": "Jullie klikken op de link.",
+          "cue": "-> питання",
+          "accepted": [
+            "Klikken jullie op de link?"
+          ]
+        },
+        {
+          "prompt": "Mijn broer slaat de foto op.",
+          "cue": "-> voltooid tijd",
+          "accepted": [
+            "Mijn broer heeft de foto opgeslagen."
+          ]
+        },
+        {
+          "prompt": "Het wachtwoord is geldig.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Het wachtwoord is niet geldig."
+          ]
+        },
+        {
+          "prompt": "De computer is duur.",
+          "cue": "-> множина",
+          "accepted": [
+            "De computers zijn duur."
+          ]
+        },
+        {
+          "prompt": "Ik ontvang een e-mail.",
+          "cue": "-> заміни ik на jij",
+          "accepted": [
+            "Jij ontvangt een e-mail."
+          ]
+        },
+        {
+          "prompt": "Mijn tante is nieuwsgierig naar de nieuwe app.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Mijn tante is niet nieuwsgierig naar de nieuwe app."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ in op de app.",
+          "cue": "inloggen",
+          "accepted": [
+            "log"
+          ]
+        },
+        {
+          "text": "Jij ___ in op de website.",
+          "cue": "inloggen",
+          "accepted": [
+            "logt"
+          ]
+        },
+        {
+          "text": "___ jullie in op jullie e-mail?",
+          "cue": "inloggen",
+          "accepted": [
+            "Loggen",
+            "loggen"
+          ]
+        },
+        {
+          "text": "Wij ___ in op de computer.",
+          "cue": "inloggen",
+          "accepted": [
+            "loggen"
+          ]
+        },
+        {
+          "text": "Ik ___ de app.",
+          "cue": "downloaden",
+          "accepted": [
+            "download"
+          ]
+        },
+        {
+          "text": "Hij ___ de app niet.",
+          "cue": "downloaden",
+          "accepted": [
+            "downloadt"
+          ]
+        },
+        {
+          "text": "___ jij het document?",
+          "cue": "downloaden",
+          "accepted": [
+            "Download",
+            "download"
+          ]
+        },
+        {
+          "text": "Ik ___ de foto op.",
+          "cue": "opslaan",
+          "accepted": [
+            "sla"
+          ]
+        },
+        {
+          "text": "Zij ___ het document op.",
+          "cue": "opslaan",
+          "accepted": [
+            "slaat"
+          ]
+        },
+        {
+          "text": "Wij ___ de foto op.",
+          "cue": "opslaan",
+          "accepted": [
+            "slaan"
+          ]
+        },
+        {
+          "text": "___ jij op de link?",
+          "cue": "klikken",
+          "accepted": [
+            "Klik",
+            "klik"
+          ]
+        },
+        {
+          "text": "Ik ___ mijn wachtwoord.",
+          "cue": "typen",
+          "accepted": [
+            "typ"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай значення з нідерландським словом. Дві відповіді зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "комп'ютер",
+          "answer": "computer"
+        },
+        {
+          "prompt": "інтернет",
+          "answer": "internet"
+        },
+        {
+          "prompt": "застосунок",
+          "answer": "app"
+        },
+        {
+          "prompt": "сайт",
+          "answer": "website"
+        },
+        {
+          "prompt": "екран",
+          "answer": "scherm"
+        },
+        {
+          "prompt": "пароль",
+          "answer": "wachtwoord"
+        },
+        {
+          "prompt": "е-мейл",
+          "answer": "e-mail"
+        },
+        {
+          "prompt": "посилання",
+          "answer": "link"
+        },
+        {
+          "prompt": "заходити (в систему)",
+          "answer": "inloggen"
+        },
+        {
+          "prompt": "завантажувати",
+          "answer": "downloaden"
+        }
+      ],
+      "extra": [
+        "opslaan",
+        "klikken"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "verb"
+      ]
+    }
+  ]
+}
