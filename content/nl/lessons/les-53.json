@@ -1,0 +1,694 @@
+{
+  "id": "nl-les-53",
+  "lang": "nl",
+  "order": 53,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-a5d21637",
+      "type": "noun",
+      "article": "de",
+      "lemma": "jeugd",
+      "plural": [],
+      "ua": "дитинство, юність",
+      "audio": "de-jeugd.mp3",
+      "explain_ua": "(Ik denk vaak aan mijn jeugd. = я часто думаю про своє дитинство). De jeugd -- період, коли людина була дитиною чи підлітком; пов'язане з jong (Les 19) -- jeugd це іменник від того самого кореня. Множини немає (як de muziek, Les 27): це слово лише в однині, про весь період життя загалом. Схоже на англійське youth: обидва слова походять з одного германського кореня -- підказка для пам'яті, не випадковість.",
+      "check": "Рід de jeugd, відсутність множини і спільне германське походження з youth перевірено пошуком (Wiktionary, 2026-10-01)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Toen: друга робота -- сполучник, а не лише прислівник (Les 26)",
+      "summary_ua": "Toen вже відоме як одне слово «тоді» (Les 26): стоїть першим або після підмета, а дієслово лишається за звичайним правилом (друге чи перше). Тепер toen отримує другу роботу: вводить ціле підрядне речення зі своїм підметом -- «коли» (один момент чи період у минулому). Дієслово в цьому підрядному реченні йде в кінець -- той самий механізм, що вже відомий з omdat, dat, als (Les 40, 42).",
+      "see": "Les 26",
+      "compare": [
+        {
+          "form": "toen: прислівник «тоді» (вже відомо)",
+          "when_ua": "Toen саме по собі, одне слово -- не має власного підмета чи дієслова.",
+          "examples": [
+            {
+              "nl": "Toen was ik nog klein.",
+              "ua": "Тоді я була ще маленька.",
+              "audio": "les53-rule-01.mp3"
+            },
+            {
+              "nl": "Ik was toen nog klein.",
+              "ua": "Я тоді була ще маленька.",
+              "audio": "les53-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Toen тут -- одне слово на позиції 1 чи після підмета, як nu (Les 4) чи gisteren (Les 26). Дієслово головного речення: друге (Toen was) або перше (Ik was)."
+        },
+        {
+          "form": "toen: сполучник «коли» (нове)",
+          "when_ua": "Після toen стоїть ціле речення з власним підметом -- дієслово йде в кінець цього речення.",
+          "examples": [
+            {
+              "nl": "Toen ik klein was, woonde ik in mijn stad.",
+              "ua": "Коли я була маленька, я жила у своєму місті.",
+              "audio": "les53-rule-03.mp3"
+            },
+            {
+              "nl": "Mijn zus lachte, toen zij de muziek hoorde.",
+              "ua": "Моя сестра засміялася, коли почула музику.",
+              "audio": "les53-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Перевірка та сама, що для dat і als (Les 42): чи є після toen власний підмет і дієслово в кінці? Так -- сполучник. Якщо після toen одразу дієслово головного речення -- це прислівник."
+        }
+      ],
+      "points_ua": [
+        "Toen + одне слово = прислівник «тоді» (Les 26).",
+        "Toen + ціле речення (підмет + дієслово в кінці) = сполучник «коли» (нове)."
+      ]
+    },
+    {
+      "title_ua": "Toen-zin: achteraan і vooraan -- обидва порядки одразу",
+      "summary_ua": "Toen-речення (як і omdat-, dat-, als-речення, Les 40/42/43) може стояти позаду головного речення (без зміни порядку) або попереду нього (тоді головне речення інвертується). Вчимо обидва порядки відразу, не відкладаємо жоден з них.",
+      "see": "Les 42",
+      "compare": [
+        {
+          "form": "toen-zin achteraan: без інверсії",
+          "when_ua": "Головне речення перше, звичайний порядок (підмет, потім дієслово).",
+          "examples": [
+            {
+              "nl": "Ik woonde in mijn stad, toen ik klein was.",
+              "ua": "Я жила у своєму місті, коли я була маленька.",
+              "audio": "les53-rule-05.mp3"
+            },
+            {
+              "nl": "Wij speelden buiten, toen het mooi weer was.",
+              "ua": "Ми гралися надворі, коли була гарна погода.",
+              "audio": "les53-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Головне речення тут перше: звичайний порядок, як завжди."
+        },
+        {
+          "form": "toen-zin vooraan: hoofdzin inverteert",
+          "when_ua": "Коли весь toen-блок займає позицію 1, головне речення інвертується -- дієслово друге, підмет третій.",
+          "examples": [
+            {
+              "nl": "Toen ik klein was, woonde ik in mijn stad.",
+              "ua": "Коли я була маленька, я жила у своєму місті.",
+              "audio": "les53-rule-07.mp3"
+            },
+            {
+              "nl": "Toen het mooi weer was, speelden wij buiten.",
+              "ua": "Коли була гарна погода, ми гралися надворі.",
+              "audio": "les53-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з Als ik tijd heb, ga ik ... (Les 42) і Omdat ik moe ben, ga ik ... (Les 43): toen-блок працює так само -- як одне фронтоване слово, займає позицію 1."
+        }
+      ],
+      "points_ua": [
+        "Toen-zin achteraan -> hoofdzin у звичайному порядку.",
+        "Toen-zin vooraan (позиція 1) -> hoofdzin інвертується, як після Als чи Omdat."
+      ]
+    },
+    {
+      "title_ua": "Toen чи als: один раз у минулому проти «щоразу»",
+      "summary_ua": "Українське й російське «коли» не розрізняє ці два випадки, а нідерландська так: toen -- один конкретний момент чи обмежений період у минулому, що не повторювався; als -- те, що повторювалося в минулому («щоразу, коли») АБО умова в теперішньому/майбутньому (Les 42, вже відомо). Перевірка: чи можна додати «щоразу»? Якщо так -- als. Якщо ні, це один раз -- toen.",
+      "see": "Les 42",
+      "compare": [
+        {
+          "form": "toen: один раз у минулому",
+          "when_ua": "Конкретний момент чи обмежений період, що був один раз -- не повторювався.",
+          "examples": [
+            {
+              "nl": "Toen ik twaalf jaar was, kon ik al goed fietsen.",
+              "ua": "Коли мені було дванадцять років, я вже вміла добре їздити на велосипеді.",
+              "audio": "les53-rule-09.mp3"
+            },
+            {
+              "nl": "Toen zij in Nederland woonde, leerde zij Nederlands.",
+              "ua": "Коли вона жила в Нідерландах, вона вивчала нідерландську.",
+              "audio": "les53-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Не можна сказати «щоразу, коли мені було дванадцять»: вік чи переїзд трапляються один раз, тож тут лише toen, ніколи als."
+        },
+        {
+          "form": "als: повторення в минулому («щоразу»)",
+          "when_ua": "Те саме траплялося багато разів -- можна додати «щоразу» без зміни сенсу.",
+          "examples": [
+            {
+              "nl": "Als ik moe was, luisterde ik vaak naar muziek.",
+              "ua": "Щоразу, коли я була втомлена, я часто слухала музику.",
+              "audio": "les53-rule-11.mp3"
+            },
+            {
+              "nl": "Als wij jong waren, fietsten wij elke dag naar school.",
+              "ua": "Коли ми були молоді, ми щодня їздили на велосипеді до школи.",
+              "audio": "les53-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Als тут про минуле, але повторюване -- порівняй з Als het regent, blijf ik thuis (Les 42): той самий als, лише про теперішнє й майбутнє замість повторюваного минулого."
+        }
+      ],
+      "points_ua": [
+        "Toen: один раз у минулому, не повторювалося.",
+        "Als: повторення в минулому («щоразу») АБО умова в теперішньому/майбутньому (Les 42) -- ніколи про один раз у минулому."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Toen ik een kind was, wilde ik altijd buiten spelen.",
+      "ua": "Коли я була дитиною, я завжди хотіла гратися надворі.",
+      "audio": "les53-example-01.mp3"
+    },
+    {
+      "nl": "Mijn broer was verlegen, toen hij jong was.",
+      "ua": "Мій брат був сором'язливий, коли був молодий.",
+      "audio": "les53-example-02.mp3"
+    },
+    {
+      "nl": "Toen wij klein waren, hadden wij een grote tuin.",
+      "ua": "Коли ми були маленькі, у нас був великий сад.",
+      "audio": "les53-example-03.mp3"
+    },
+    {
+      "nl": "Als zij vrije tijd had, luisterde zij graag naar muziek.",
+      "ua": "Якщо в неї був вільний час, вона залюбки слухала музику.",
+      "audio": "les53-example-04.mp3"
+    },
+    {
+      "nl": "Toen hij ziek was, moest hij thuis blijven.",
+      "ua": "Коли він був хворий, йому довелося залишитися вдома.",
+      "audio": "les53-example-05.mp3"
+    },
+    {
+      "nl": "Wij lachten veel, toen wij jong waren.",
+      "ua": "Ми багато сміялися, коли були молоді.",
+      "audio": "les53-example-06.mp3"
+    },
+    {
+      "nl": "Toen ik in Kroatië woonde, had ik veel vrienden.",
+      "ua": "Коли я жила в Хорватії, у мене було багато друзів.",
+      "audio": "les53-example-07.mp3"
+    },
+    {
+      "nl": "Mijn moeder luisterde vaak naar muziek, toen zij jong was.",
+      "ua": "Моя мама часто слухала музику, коли була молода.",
+      "audio": "les53-example-08.mp3"
+    },
+    {
+      "nl": "Als wij moe waren, mochten wij vroeg slapen.",
+      "ua": "Якщо ми були втомлені, нам можна було рано спати.",
+      "audio": "les53-example-09.mp3"
+    },
+    {
+      "nl": "Toen de kinderen klein waren, speelden zij elke dag buiten.",
+      "ua": "Коли діти були маленькі, вони щодня гралися надворі.",
+      "audio": "les53-example-10.mp3"
+    },
+    {
+      "nl": "Mijn moeder denkt vaak aan haar jeugd.",
+      "ua": "Моя мама часто думає про своє дитинство.",
+      "audio": "les53-example-11.mp3"
+    },
+    {
+      "nl": "Toen ik klein was, had ik een leuke jeugd.",
+      "ua": "Коли я була маленька, у мене було приємне дитинство.",
+      "audio": "les53-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Toen ik jong was",
+    "title_ua": "Коли я була молода",
+    "highlight": [
+      "nl-a5d21637"
+    ],
+    "sentences": [
+      {
+        "nl": "Toen ik klein was, hadden wij een huis naast een park.",
+        "ua": "Коли я була маленька, у нас був будинок біля парку.",
+        "audio": "les53-reading-01.mp3"
+      },
+      {
+        "nl": "Ik speelde daar elke dag met mijn broer en mijn zus.",
+        "ua": "Я гралася там щодня з братом і сестрою.",
+        "audio": "les53-reading-02.mp3"
+      },
+      {
+        "nl": "Toen het mooi weer was, fietsten wij naar het park.",
+        "ua": "Коли була гарна погода, ми їздили на велосипедах до парку.",
+        "audio": "les53-reading-03.mp3"
+      },
+      {
+        "nl": "Als ik vrije tijd had, speelde ik met mijn vrienden.",
+        "ua": "Якщо в мене був вільний час, я гралася з друзями.",
+        "audio": "les53-reading-04.mp3"
+      },
+      {
+        "nl": "Toen ik tien jaar was, kon ik al lezen.",
+        "ua": "Коли мені було десять років, я вже вміла читати.",
+        "audio": "les53-reading-05.mp3"
+      },
+      {
+        "nl": "Mijn moeder moest vroeg opstaan, toen wij klein waren.",
+        "ua": "Моя мама мусила рано вставати, коли ми були маленькі.",
+        "audio": "les53-reading-06.mp3"
+      },
+      {
+        "nl": "Mijn vader had veel werk, maar hij lachte vaak.",
+        "ua": "Мій тато мав багато роботи, але він часто сміявся.",
+        "audio": "les53-reading-07.mp3"
+      },
+      {
+        "nl": "Toen ik veertien jaar was, woonden wij in een grote stad.",
+        "ua": "Коли мені було чотирнадцять років, ми жили у великому місті.",
+        "audio": "les53-reading-08.mp3"
+      },
+      {
+        "nl": "Ik denk nog vaak aan mijn jeugd.",
+        "ua": "Я ще й досі часто думаю про своє дитинство.",
+        "audio": "les53-reading-09.mp3"
+      },
+      {
+        "nl": "Ik vind dat mijn jeugd heel leuk was.",
+        "ua": "Я вважаю, що моє дитинство було дуже класним.",
+        "audio": "les53-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Коли я була маленька, я жила в маленькому будинку.",
+          "accepted": [
+            "Toen ik klein was, woonde ik in een klein huis."
+          ]
+        },
+        {
+          "prompt": "Мій дідусь мав багато друзів, коли був молодий.",
+          "accepted": [
+            "Mijn opa had veel vrienden, toen hij jong was."
+          ]
+        },
+        {
+          "prompt": "Коли ми були діти, ми часто їздили на велосипеді до школи.",
+          "accepted": [
+            "Toen wij kinderen waren, fietsten wij vaak naar school.",
+            "Toen we kinderen waren, fietsten we vaak naar school."
+          ]
+        },
+        {
+          "prompt": "Якщо в нього був вільний час, він грався з сестрою.",
+          "accepted": [
+            "Als hij vrije tijd had, speelde hij met zijn zus."
+          ]
+        },
+        {
+          "prompt": "Коли моя сестра була хвора, вона мусила залишитися вдома.",
+          "accepted": [
+            "Toen mijn zus ziek was, moest zij thuis blijven.",
+            "Toen mijn zus ziek was, moest ze thuis blijven."
+          ]
+        },
+        {
+          "prompt": "Моя бабуся часто сміялася, коли слухала музику.",
+          "accepted": [
+            "Mijn oma lachte vaak, toen zij naar muziek luisterde.",
+            "Mijn oma lachte vaak, toen ze naar muziek luisterde."
+          ]
+        },
+        {
+          "prompt": "Коли я була молода, я не могла добре плавати.",
+          "accepted": [
+            "Toen ik jong was, kon ik niet goed zwemmen."
+          ]
+        },
+        {
+          "prompt": "Моя тітка завжди гралася з дітьми, якщо в неї був вільний час.",
+          "accepted": [
+            "Mijn tante speelde altijd met de kinderen, als zij vrije tijd had.",
+            "Mijn tante speelde altijd met de kinderen, als ze vrije tijd had."
+          ]
+        },
+        {
+          "prompt": "Коли мені було п'ятнадцять років, ми жили в Нідерландах.",
+          "accepted": [
+            "Toen ik vijftien jaar was, woonden wij in Nederland.",
+            "Toen ik vijftien jaar was, woonden we in Nederland."
+          ]
+        },
+        {
+          "prompt": "Щоразу, коли тато був удома, діти багато сміялися.",
+          "accepted": [
+            "Als de vader thuis was, lachten de kinderen veel."
+          ]
+        },
+        {
+          "prompt": "Мій брат думає про своє дитинство.",
+          "accepted": [
+            "Mijn broer denkt aan zijn jeugd."
+          ]
+        },
+        {
+          "prompt": "Я жила в маленькому місті, коли була дитиною.",
+          "accepted": [
+            "Ik woonde in een kleine stad, toen ik een kind was."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "toen",
+        "als",
+        "woonde",
+        "was",
+        "waren",
+        "had",
+        "hadden",
+        "kon",
+        "wilde",
+        "moest",
+        "mocht",
+        "jeugd"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ ik klein was, woonde ik bij mijn opa.",
+          "hint": "коли (один раз)",
+          "accepted": [
+            [
+              "Toen",
+              "toen"
+            ]
+          ]
+        },
+        {
+          "text": "___ ik moe was, luisterde ik altijd naar muziek.",
+          "hint": "щоразу, коли",
+          "accepted": [
+            [
+              "Als",
+              "als"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn opa ___ naast een school.",
+          "hint": "жив",
+          "accepted": [
+            [
+              "woonde"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn vriendin ___ nieuwsgierig, toen zij jong was.",
+          "hint": "була",
+          "accepted": [
+            [
+              "was"
+            ]
+          ]
+        },
+        {
+          "text": "Jullie ___ klein, toen jullie daar woonden.",
+          "hint": "були",
+          "accepted": [
+            [
+              "waren"
+            ]
+          ]
+        },
+        {
+          "text": "Ik ___ een leuke jeugd.",
+          "hint": "мала",
+          "accepted": [
+            [
+              "had"
+            ]
+          ]
+        },
+        {
+          "text": "Zij ___ veel vrienden, toen zij in Kroatië woonden.",
+          "hint": "мали",
+          "accepted": [
+            [
+              "hadden"
+            ]
+          ]
+        },
+        {
+          "text": "Toen ik acht was, ___ ik al goed dansen.",
+          "hint": "вміла",
+          "accepted": [
+            [
+              "kon"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon ___ altijd buiten spelen, toen hij klein was.",
+          "hint": "хотів",
+          "accepted": [
+            [
+              "wilde"
+            ]
+          ]
+        },
+        {
+          "text": "Toen de baby ziek was, ___ de moeder thuis blijven.",
+          "hint": "мусила",
+          "accepted": [
+            [
+              "moest"
+            ]
+          ]
+        },
+        {
+          "text": "Toen hij klein was, ___ hij laat naar bed gaan.",
+          "hint": "можна було",
+          "accepted": [
+            [
+              "mocht"
+            ]
+          ]
+        },
+        {
+          "text": "Ik denk vaak aan mijn ___.",
+          "hint": "дитинство",
+          "accepted": [
+            [
+              "jeugd"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik speelde buiten, toen ik klein was.",
+          "cue": "-> zet de toen-zin vooraan",
+          "accepted": [
+            "Toen ik klein was, speelde ik buiten."
+          ]
+        },
+        {
+          "prompt": "Toen wij jong waren, speelden wij elke dag buiten.",
+          "cue": "-> zet de toen-zin achteraan",
+          "accepted": [
+            "Wij speelden elke dag buiten, toen wij jong waren.",
+            "We speelden elke dag buiten, toen we jong waren."
+          ]
+        },
+        {
+          "prompt": "Zij woonde in Nederland, toen zij klein was.",
+          "cue": "-> zet de toen-zin vooraan",
+          "accepted": [
+            "Toen zij klein was, woonde zij in Nederland.",
+            "Toen ze klein was, woonde ze in Nederland."
+          ]
+        },
+        {
+          "prompt": "Ik had geen tijd.",
+          "cue": "-> maak een toen-zin: ..., kon ik niet komen.",
+          "accepted": [
+            "Toen ik geen tijd had, kon ik niet komen."
+          ]
+        },
+        {
+          "prompt": "Mijn vriend was ziek.",
+          "cue": "-> maak een toen-zin: ..., moest hij thuis blijven.",
+          "accepted": [
+            "Toen mijn vriend ziek was, moest hij thuis blijven."
+          ]
+        },
+        {
+          "prompt": "Jij luisterde naar muziek, toen jij jong was.",
+          "cue": "-> питання",
+          "accepted": [
+            "Luisterde jij naar muziek, toen jij jong was?",
+            "Luisterde je naar muziek, toen je jong was?"
+          ]
+        },
+        {
+          "prompt": "Toen ik jong was, kon ik zwemmen.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Toen ik jong was, kon ik niet zwemmen."
+          ]
+        },
+        {
+          "prompt": "Mijn oma had een leuke jeugd.",
+          "cue": "-> заміни oma на opa",
+          "accepted": [
+            "Mijn opa had een leuke jeugd."
+          ]
+        },
+        {
+          "prompt": "Zij moesten vroeg opstaan, toen zij klein waren.",
+          "cue": "-> однина (zij -> hij)",
+          "accepted": [
+            "Hij moest vroeg opstaan, toen hij klein was."
+          ]
+        },
+        {
+          "prompt": "Ik woonde in Kroatië, toen ik een kind was.",
+          "cue": "-> множина (ik -> wij)",
+          "accepted": [
+            "Wij woonden in Kroatië, toen wij kinderen waren.",
+            "We woonden in Kroatië, toen we kinderen waren."
+          ]
+        },
+        {
+          "prompt": "Jullie hadden veel vrienden, toen jullie in Nederland woonden.",
+          "cue": "-> заперечення (geen)",
+          "accepted": [
+            "Jullie hadden geen vrienden, toen jullie in Nederland woonden."
+          ]
+        },
+        {
+          "prompt": "Mijn vriendin mocht buiten spelen, toen zij klein was.",
+          "cue": "-> zet de toen-zin vooraan",
+          "accepted": [
+            "Toen zij klein was, mocht mijn vriendin buiten spelen.",
+            "Toen ze klein was, mocht mijn vriendin buiten spelen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ nog klein, toen ik in mijn stad woonde.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "was"
+          ]
+        },
+        {
+          "text": "Wij ___ klein, toen wij daar speelden.",
+          "cue": "zijn (минулий час)",
+          "accepted": [
+            "waren"
+          ]
+        },
+        {
+          "text": "Hij ___ een goede jeugd, toen hij klein was.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "had"
+          ]
+        },
+        {
+          "text": "De kinderen ___ een leuke jeugd.",
+          "cue": "hebben (минулий час)",
+          "accepted": [
+            "hadden"
+          ]
+        },
+        {
+          "text": "___ jij goed zwemmen, toen je klein was?",
+          "cue": "kunnen (минулий час)",
+          "accepted": [
+            "Kon",
+            "kon"
+          ]
+        },
+        {
+          "text": "Mijn zus ___ naar muziek, toen zij jong was.",
+          "cue": "luisteren (минулий час)",
+          "accepted": [
+            "luisterde"
+          ]
+        },
+        {
+          "text": "Mijn broer ___ altijd buiten spelen.",
+          "cue": "willen (минулий час)",
+          "accepted": [
+            "wilde"
+          ]
+        },
+        {
+          "text": "De kinderen ___ buiten spelen, toen het mooi weer was.",
+          "cue": "willen (минулий час)",
+          "accepted": [
+            "wilden"
+          ]
+        },
+        {
+          "text": "Ik ___ mijn moeder helpen, toen ik klein was.",
+          "cue": "moeten (минулий час)",
+          "accepted": [
+            "moest"
+          ]
+        },
+        {
+          "text": "Wij ___ elke dag in de tuin, toen wij klein waren.",
+          "cue": "spelen (минулий час)",
+          "accepted": [
+            "speelden"
+          ]
+        },
+        {
+          "text": "___ ik buiten spelen, toen ik klein was?",
+          "cue": "mogen (минулий час)",
+          "accepted": [
+            "Mocht",
+            "mocht"
+          ]
+        },
+        {
+          "text": "De kinderen ___ laat buiten spelen.",
+          "cue": "mogen (минулий час)",
+          "accepted": [
+            "mochten"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з артиклем, якщо він є)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun"
+      ]
+    }
+  ]
+}
