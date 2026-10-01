@@ -1,0 +1,889 @@
+{
+  "id": "nl-les-51",
+  "lang": "nl",
+  "order": 51,
+  "status": "draft",
+  "author": "marieke",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "nl-676c0137",
+      "type": "function",
+      "lemma": "mee",
+      "ua": "з (окрема форма met)",
+      "audio": "mee.mp3",
+      "explain_ua": "(Ga je mee? = Ти йдеш з нами?) Mee -- це met (Les 6), коли прийменник стоїть не просто перед іменником, а окремо, зазвичай ближче до кінця речення. Найважливіше застосування цього уроку: коли met зливається з er чи waar, він завжди стає mee, а не met -- кажуть ermee, waarmee, ніколи ermet чи waarmet. Це єдиний прийменник цього уроку, який міняє форму."
+    },
+    {
+      "id": "nl-d64d8e39",
+      "type": "function",
+      "lemma": "ervan",
+      "ua": "ним/цим (houden van, коли мова про річ, а не про людину)",
+      "audio": "ervan.mp3",
+      "explain_ua": "(Dit is mijn tuin. Ik hou ervan. = Це мій сад. Я його люблю.) Houden van (Les 9) завжди бере van. Коли те, що ти любиш, -- РІЧ, вже зрозуміла з розмови, не повторюй іменник і не кажи van het: er і van зливаються в одне слово ervan, яке стає одразу після дієслова -- той самий принцип розташування, що займенник одразу після дієслова (mij, hem: Les 36). Про ЛЮДИНУ так ніколи не кажуть -- дивись окрему картку нижче, де РІЧ і ЛЮДИНА порівнюються напряму."
+    },
+    {
+      "id": "nl-65911f25",
+      "type": "function",
+      "lemma": "erop",
+      "ua": "на нього/на це (wachten op, коли мова про річ)",
+      "audio": "erop.mp3",
+      "explain_ua": "(De trein is laat. Wij wachten erop. = Потяг запізнюється. Ми його чекаємо.) Wachten op (Les 9) завжди бере op. Для РЕЧІ, вже відомої з розмови: er + op = erop, одразу після дієслова. Той самий принцип, що ervan вище."
+    },
+    {
+      "id": "nl-4ca04493",
+      "type": "function",
+      "lemma": "eraan",
+      "ua": "про нього/про це (denken aan, коли мова про річ)",
+      "audio": "eraan.mp3",
+      "explain_ua": "(Ik heb een probleem. Ik denk eraan. = У мене проблема. Я про неї думаю.) Denken aan (Les 9) завжди бере aan. Для РЕЧІ: er + aan = eraan, одразу після дієслова. Той самий принцип, що ervan і erop."
+    },
+    {
+      "id": "nl-708e9d15",
+      "type": "function",
+      "lemma": "ernaar",
+      "ua": "на нього/на це (kijken naar, коли мова про річ)",
+      "audio": "ernaar.mp3",
+      "explain_ua": "(De kinderen spelen. Ik kijk ernaar. = Діти граються. Я на це дивлюся.) Kijken naar (Les 9) завжди бере naar. Для РЕЧІ: er + naar = ernaar. Останній з чотирьох сталих дієслів Les 9: houden van -> ervan, wachten op -> erop, denken aan -> eraan, kijken naar -> ernaar."
+    },
+    {
+      "id": "nl-81c00603",
+      "type": "function",
+      "lemma": "erover",
+      "ua": "про нього/про це (spreken over -- говорити на тему; НОВЕ значення over)",
+      "audio": "erover.mp3",
+      "explain_ua": "(Wij hebben een probleem. Wij spreken erover. = У нас проблема. Ми про неї говоримо.) Увага: over тут -- НЕ те саме over, що в Les 15 (tien over vijf = після, про час). Тут over означає «про», тему розмови -- нове значення вже відомого слова. Spreken (Les 9) не має ОДНОГО сталого прийменника, як houden van чи wachten op: met означає «з кимось» (Ik spreek met mijn vader), а over означає «про щось» (Ik spreek over mijn werk) -- обидва правильні, просто різні питання. Для РЕЧІ, вже відомої з розмови: er + over = erover."
+    },
+    {
+      "id": "nl-0cc7e1ba",
+      "type": "function",
+      "lemma": "ermee",
+      "ua": "ним/цим (betalen met -- платити чимось)",
+      "audio": "ermee.mp3",
+      "explain_ua": "(Ik heb een pinpas. Ik betaal ermee. = У мене є банківська картка. Я плачу нею.) Met (Les 6) теж не сталий прийменник одного дієслова -- він вільно вказує «за допомогою чого»: betalen met, schrijven met, тощо. Для РЕЧІ: er + met -> ermee (met змінюється на mee, дивись слово mee вище -- єдиний виняток у написанні серед усіх прийменників цього уроку)."
+    },
+    {
+      "id": "nl-31818c6d",
+      "type": "function",
+      "lemma": "waarvan",
+      "ua": "питальне слово: від чого, чим (van + waar, про речі)",
+      "audio": "waarvan.mp3",
+      "explain_ua": "(Waarvan hou jij? Ik hou van muziek. = Що ти любиш? Я люблю музику.) Той самий принцип, що ervan, тільки в питанні: waar (Les 3) + van зливаються в waarvan, яке стоїть на першому місці речення, дієслово -- друге, як завжди в питаннях (Les 3). Тільки про РЕЧІ -- про людину питають Van wie? (від кого, Les 36), ніколи waarvan."
+    },
+    {
+      "id": "nl-3151ddc0",
+      "type": "function",
+      "lemma": "waarop",
+      "ua": "питальне слово: на що (op + waar, про речі)",
+      "audio": "waarop.mp3",
+      "explain_ua": "(Waarop wacht u? Ik wacht op de trein. = Що ви чекаєте? Я чекаю потяг.) Waar + op = waarop, той самий принцип, що waarvan. Тільки про РЕЧІ -- про людину: Op wie? (на кого)."
+    },
+    {
+      "id": "nl-8b9790fc",
+      "type": "function",
+      "lemma": "waaraan",
+      "ua": "питальне слово: про що (aan + waar, про речі)",
+      "audio": "waaraan.mp3",
+      "explain_ua": "(Waaraan denkt hij? Hij denkt aan zijn werk. = Про що він думає? Він думає про свою роботу.) Waar + aan = waaraan. Тільки про РЕЧІ -- про людину: Aan wie? (про кого)."
+    },
+    {
+      "id": "nl-e8615ebf",
+      "type": "function",
+      "lemma": "waarnaar",
+      "ua": "питальне слово: на що (naar + waar, про речі)",
+      "audio": "waarnaar.mp3",
+      "explain_ua": "(Waarnaar kijken jullie? Wij kijken naar de televisie. = На що ви дивитеся? Ми дивимося на телевізор.) Waar + naar = waarnaar. Останній з чотирьох: waarvan, waarop, waaraan, waarnaar -- дзеркало до ervan, erop, eraan, ernaar вище."
+    },
+    {
+      "id": "nl-67a7f7fa",
+      "type": "function",
+      "lemma": "waarover",
+      "ua": "питальне слово: про що (over + waar, тема розмови)",
+      "audio": "waarover.mp3",
+      "explain_ua": "(Waarover spreken jullie? Wij spreken over het probleem. = Про що ви говорите? Ми говоримо про проблему.) Waar + over = waarover, те саме нове значення over («про»), що в erover вище."
+    },
+    {
+      "id": "nl-c5694912",
+      "type": "function",
+      "lemma": "waarmee",
+      "ua": "питальне слово: чим (met + waar, про речі)",
+      "audio": "waarmee.mp3",
+      "explain_ua": "(Waarmee betaalt u? Ik betaal met de pinpas. = Чим ви платите? Я плачу карткою.) Waar + mee = waarmee (met -> mee, той самий виняток у написанні, що ermee). Тільки про РЕЧІ -- про людину: Met wie? (з ким, Les 36)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Er + число: друга робота для er",
+      "summary_ua": "У Les 24 er означало лише «є, існує» -- і той урок чесно попереджав: «er матиме ще інші ролі, але не тепер». Ось перша з них, той самий зразок, що друга робота gaan (Les 38) чи dat/als (Les 42): коли відповідаєш на «скільки?» і річ уже зрозуміла з розмови, не повторюй іменник -- постав er одразу після дієслова, число чи geen -- одразу за ним.",
+      "see": "Les 24",
+      "compare": [
+        {
+          "form": "er + число",
+          "when_ua": "Відома кількість, іменник не повторюємо: er одразу після дієслова, число -- одразу за er.",
+          "examples": [
+            {
+              "nl": "Ik heb boeken, en ik heb **er** drie.",
+              "ua": "У мене є книги, і в мене їх три.",
+              "audio": "les51-rule-01.mp3"
+            },
+            {
+              "nl": "Zij heeft fietsen, en zij heeft **er** twee.",
+              "ua": "У неї є велосипеди, і в неї їх два.",
+              "audio": "les51-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Той самий принцип розташування, що займенник одразу після дієслова (Les 36)."
+        },
+        {
+          "form": "er + geen",
+          "when_ua": "Нічого немає: geen (Les 2) стає одразу за er.",
+          "examples": [
+            {
+              "nl": "Hij heeft geen appels, hij heeft **er geen**.",
+              "ua": "У нього немає яблук, у нього їх немає.",
+              "audio": "les51-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Hij heeft geen appels (іменник є) і Hij heeft er geen (іменник уже зрозумілий, замінений на er)."
+        },
+        {
+          "form": "Hoeveel ... heb jij er?",
+          "when_ua": "Друге питання про кількість, коли річ уже зрозуміла з розмови -- іменник не повторюємо, er лишається.",
+          "examples": [
+            {
+              "nl": "Hoeveel boeken heb jij?",
+              "ua": "Скільки в тебе книг?",
+              "audio": "les51-rule-04.mp3"
+            },
+            {
+              "nl": "Hoeveel heb jij er?",
+              "ua": "Скільки їх у тебе?",
+              "audio": "les51-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Обидва питання правильні -- друге використовуєш, коли з контексту вже зрозуміло, про яку річ мова."
+        }
+      ],
+      "points_ua": [
+        "Er (друга робота): стоїть одразу після дієслова, заміняє вже відому річ, коли говориш про КІЛЬКІСТЬ.",
+        "Er + число, er + geen.",
+        "Hoeveel heb jij er? -- питання про кількість без повторення іменника."
+      ]
+    },
+    {
+      "title_ua": "Er + прийменник: houden van, wachten op, denken aan, kijken naar про речі",
+      "summary_ua": "Чотири сталих дієслова з Les 9 (houden van, wachten op, denken aan, kijken naar) завжди беруть той самий прийменник. Коли те, про що йдеться, -- РІЧ, а не ЛЮДИНА, не повторюй іменник: er і прийменник зливаються в одне слово, яке стає одразу після дієслова.",
+      "see": "Les 9",
+      "compare": [
+        {
+          "form": "ervan, erop",
+          "when_ua": "Houden van і wachten op, коли об'єкт -- річ.",
+          "examples": [
+            {
+              "nl": "Ik hou van deze tuin. Ik hou **ervan**.",
+              "ua": "Я люблю цей сад. Я його люблю.",
+              "audio": "les51-rule-06.mp3"
+            },
+            {
+              "nl": "Wij wachten op de trein. Wij wachten **erop**.",
+              "ua": "Ми чекаємо потяг. Ми його чекаємо.",
+              "audio": "les51-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Van і op зливаються з er, не стоять окремо після нього."
+        },
+        {
+          "form": "eraan, ernaar",
+          "when_ua": "Denken aan і kijken naar, коли об'єкт -- річ.",
+          "examples": [
+            {
+              "nl": "Hij denkt aan het probleem. Hij denkt **eraan**.",
+              "ua": "Він думає про проблему. Він про неї думає.",
+              "audio": "les51-rule-08.mp3"
+            },
+            {
+              "nl": "De kinderen spelen in de tuin. Ik kijk **ernaar**.",
+              "ua": "Діти граються в саду. Я на це дивлюся.",
+              "audio": "les51-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Той самий принцип, що в блоці ervan/erop: aan і naar зливаються з er."
+        }
+      ],
+      "points_ua": [
+        "houden van -> ervan, wachten op -> erop, denken aan -> eraan, kijken naar -> ernaar -- лише про РЕЧІ.",
+        "Er + прийменник стоїть одразу після дієслова."
+      ]
+    },
+    {
+      "title_ua": "Erover і ermee: ще два прийменники, один з них -- нове значення",
+      "summary_ua": "Та сама конструкція er + прийменник працює з будь-яким прийменником, не лише з чотирьох дієслів Les 9. Два дуже вживані: over (тут -- НОВЕ значення! У Les 15 over значило «після» в часі; тепер over також значить «про», тему розмови) і met, яке в цій конструкції завжди стає mee, а не met.",
+      "see": "Les 15",
+      "compare": [
+        {
+          "form": "erover: spreken over -- говорити про тему",
+          "when_ua": "Spreken (Les 9) не має одного сталого прийменника: met -- з КИМ говориш, over -- про ЩО говориш. Обидва нормальні, різні питання.",
+          "examples": [
+            {
+              "nl": "Wij hebben een probleem. Wij spreken **erover**.",
+              "ua": "У нас проблема. Ми про неї говоримо.",
+              "audio": "les51-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ik spreek met mijn vader (з КИМ, Les 9) і Ik spreek over mijn werk (про ЩО, нове значення over)."
+        },
+        {
+          "form": "ermee: betalen met -- платити чимось",
+          "when_ua": "Met (Les 6) теж вільно вказує «за допомогою чого»: betalen met, тощо.",
+          "examples": [
+            {
+              "nl": "Ik heb een pinpas. Ik betaal **ermee**.",
+              "ua": "У мене є картка. Я плачу нею.",
+              "audio": "les51-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Met -> mee в цій конструкції завжди -- єдиний виняток написання серед усіх прийменників цього уроку."
+        }
+      ],
+      "points_ua": [
+        "Er + прийменник працює з будь-яким прийменником, не лише з чотирьох дієслів Les 9.",
+        "Over: нове значення «про» (було лише «після» в часі, Les 15).",
+        "Met -> mee: завжди ermee, ніколи ermet."
+      ]
+    },
+    {
+      "title_ua": "Waar + прийменник: питання без wat",
+      "summary_ua": "Той самий принцип у питаннях: waar (Les 3) + прийменник зливаються в одне слово -- waarvan, waarop, waaraan, waarnaar, waarover, waarmee. Слово стоїть на першому місці речення, дієслово -- друге, як завжди в питаннях (Les 3). Прийменник ніколи не стоїть окремо в кінці.",
+      "see": "Les 3",
+      "compare": [
+        {
+          "form": "waarvan, waarop",
+          "when_ua": "Питання про те, що любиш чи чекаєш, коли річ.",
+          "examples": [
+            {
+              "nl": "**Waarvan** houdt zij?",
+              "ua": "Що вона любить?",
+              "audio": "les51-rule-12.mp3"
+            },
+            {
+              "nl": "**Waarop** wachten jullie?",
+              "ua": "Що ви чекаєте?",
+              "audio": "les51-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Не Van wat houdt zij? і не Op wat wachten jullie? -- waar- і прийменник завжди зливаються разом."
+        },
+        {
+          "form": "waaraan, waarnaar",
+          "when_ua": "Питання про те, про що думаєш чи на що дивишся, коли річ.",
+          "examples": [
+            {
+              "nl": "**Waaraan** denkt hij?",
+              "ua": "Про що він думає?",
+              "audio": "les51-rule-14.mp3"
+            },
+            {
+              "nl": "**Waarnaar** kijk jij?",
+              "ua": "На що ти дивишся?",
+              "audio": "les51-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Той самий принцип -- одне злите слово на першому місці."
+        },
+        {
+          "form": "waarover, waarmee",
+          "when_ua": "Питання про тему розмови чи про те, чим користуєшся.",
+          "examples": [
+            {
+              "nl": "**Waarover** spreken jullie?",
+              "ua": "Про що ви говорите?",
+              "audio": "les51-rule-16.mp3"
+            },
+            {
+              "nl": "**Waarmee** betaalt u?",
+              "ua": "Чим ви платите?",
+              "audio": "les51-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Met -> mee і тут: waarmee, ніколи waarmet."
+        }
+      ],
+      "points_ua": [
+        "Waar + прийменник = одне слово, завжди на першому місці речення.",
+        "Прийменник окремо в кінці -- неправильно: не Wat wacht je op?, а Waarop wacht je?",
+        "Увага: ці самі слова (waarover, waarmee...) мають ще одну роль -- усередині підрядного речення, той тип речень, що в Les 49 (die/dat). Це чекає на окремий майбутній урок, не сьогодні."
+      ]
+    },
+    {
+      "title_ua": "Про речі -- er/waar; про людей -- прийменник + займенник",
+      "summary_ua": "Увесь цей урок працює ЛИШЕ для речей, ідей, тем -- ніколи для людей. Про людину прийменник лишається звичайним, а займенник -- той, що вже відомий (Les 36: hem, haar, hen). У питанні waar стає wie (Les 3: wie = хто).",
+      "see": "Les 36",
+      "compare": [
+        {
+          "form": "Річ: er/waar-сполука",
+          "when_ua": "Коли йдеться про річ -- er або waar зливаються з прийменником.",
+          "examples": [
+            {
+              "nl": "Ik denk aan het probleem. Ik denk **eraan**.",
+              "ua": "Я думаю про проблему. Я про неї думаю.",
+              "audio": "les51-rule-18.mp3"
+            },
+            {
+              "nl": "**Waaraan** denk jij?",
+              "ua": "Про що ти думаєш?",
+              "audio": "les51-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Проблема -- річ, тому eraan і waaraan."
+        },
+        {
+          "form": "Людина: прийменник + займенник / wie",
+          "when_ua": "Коли йдеться про людину -- прийменник лишається, займенник hem/haar/hen (Les 36); у питанні waar стає wie.",
+          "examples": [
+            {
+              "nl": "Ik denk aan mijn moeder. Ik denk aan **haar**.",
+              "ua": "Я думаю про маму. Я думаю про неї.",
+              "audio": "les51-rule-20.mp3"
+            },
+            {
+              "nl": "**Aan wie** denk jij?",
+              "ua": "Про кого ти думаєш?",
+              "audio": "les51-rule-21.mp3"
+            }
+          ],
+          "note_ua": "НЕ Ik denk eraan про маму, і НЕ Waaraan denk jij про людину -- це найчастіша пастка цього уроку."
+        }
+      ],
+      "points_ua": [
+        "Річ -> er.../waar... (eraan, waaraan). Людина -> прийменник + hem/haar/hen, чи wie-питання (aan wie).",
+        "Українське чи російське «про неї» не розрізняє річ і людину граматично -- тут нідерландська вимагає зовсім інше слово, не лише інший займенник."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "nl": "Mijn broer heeft appels, en hij heeft er vijf.",
+      "ua": "У мого брата є яблука, і в нього їх п'ять.",
+      "audio": "les51-example-01.mp3"
+    },
+    {
+      "nl": "Mijn zus heeft geen boeken, zij heeft er geen.",
+      "ua": "У моєї сестри немає книг, у неї їх немає.",
+      "audio": "les51-example-02.mp3"
+    },
+    {
+      "nl": "Mijn vader heeft een nieuwe fiets. Hij houdt ervan.",
+      "ua": "У мого батька новий велосипед. Він його любить.",
+      "audio": "les51-example-03.mp3"
+    },
+    {
+      "nl": "Mijn moeder wacht op de bus. Zij wacht erop.",
+      "ua": "Моя мама чекає автобус. Вона його чекає.",
+      "audio": "les51-example-04.mp3"
+    },
+    {
+      "nl": "Mijn zoon heeft een probleem. Hij denkt eraan.",
+      "ua": "У мого сина проблема. Він про неї думає.",
+      "audio": "les51-example-05.mp3"
+    },
+    {
+      "nl": "Mijn oma kijkt naar de televisie. Zij kijkt ernaar.",
+      "ua": "Моя бабуся дивиться телевізор. Вона на нього дивиться.",
+      "audio": "les51-example-06.mp3"
+    },
+    {
+      "nl": "Mijn ouders hebben een probleem. Zij spreken erover.",
+      "ua": "У моїх батьків проблема. Вони про неї говорять.",
+      "audio": "les51-example-07.mp3"
+    },
+    {
+      "nl": "Mijn opa heeft contant geld. Hij betaalt ermee.",
+      "ua": "У мого дідуся є готівка. Він нею платить.",
+      "audio": "les51-example-08.mp3"
+    },
+    {
+      "nl": "Waarvan hou jij het meest?",
+      "ua": "Що ти любиш найбільше?",
+      "audio": "les51-example-09.mp3"
+    },
+    {
+      "nl": "Waarop wacht jouw broer?",
+      "ua": "Що чекає твій брат?",
+      "audio": "les51-example-10.mp3"
+    },
+    {
+      "nl": "Waaraan denken jullie vandaag?",
+      "ua": "Про що ви сьогодні думаєте?",
+      "audio": "les51-example-11.mp3"
+    },
+    {
+      "nl": "Waarmee betaalt jouw moeder?",
+      "ua": "Чим платить твоя мама?",
+      "audio": "les51-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Wij spreken met de buur",
+    "title_ua": "Ми говоримо з сусідкою",
+    "highlight": [
+      "nl-4ca04493",
+      "nl-0cc7e1ba",
+      "nl-8b9790fc"
+    ],
+    "sentences": [
+      {
+        "nl": "Onze buur houdt van haar tuin.",
+        "ua": "Наша сусідка любить свій сад.",
+        "audio": "les51-reading-01.mp3"
+      },
+      {
+        "nl": "Er staan veel bomen in de tuin.",
+        "ua": "У саду росте багато дерев.",
+        "audio": "les51-reading-02.mp3"
+      },
+      {
+        "nl": "Ik heb ook een paar boeken over tuinen.",
+        "ua": "У мене теж є кілька книг про сади.",
+        "audio": "les51-reading-03.mp3"
+      },
+      {
+        "nl": "Onze buur heeft een probleem, want haar fiets is oud.",
+        "ua": "У нашої сусідки проблема, бо її велосипед старий.",
+        "audio": "les51-reading-04.mp3"
+      },
+      {
+        "nl": "Zij denkt eraan, elke dag.",
+        "ua": "Вона про це думає, щодня.",
+        "audio": "les51-reading-05.mp3"
+      },
+      {
+        "nl": "Waaraan denkt zij?",
+        "ua": "Про що вона думає?",
+        "audio": "les51-reading-06.mp3"
+      },
+      {
+        "nl": "Zij wacht op een nieuwe fiets, maar die is duur.",
+        "ua": "Вона чекає новий велосипед, але він дорогий.",
+        "audio": "les51-reading-07.mp3"
+      },
+      {
+        "nl": "Wij gaan naar de winkel.",
+        "ua": "Ми йдемо до магазину.",
+        "audio": "les51-reading-08.mp3"
+      },
+      {
+        "nl": "Zij heeft contant geld, en zij betaalt ermee.",
+        "ua": "У неї є готівка, і вона нею платить.",
+        "audio": "les51-reading-09.mp3"
+      },
+      {
+        "nl": "Nu is zij niet meer boos, maar blij.",
+        "ua": "Тепер вона вже не зла, а щаслива.",
+        "audio": "les51-reading-10.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади нідерландською",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене є яблука, і в мене їх шість.",
+          "accepted": [
+            "Ik heb appels, en ik heb er zes."
+          ]
+        },
+        {
+          "prompt": "У мого дядька немає синів, у нього їх немає.",
+          "accepted": [
+            "Mijn oom heeft geen zonen, hij heeft er geen."
+          ]
+        },
+        {
+          "prompt": "Скільки у вас дітей?",
+          "accepted": [
+            "Hoeveel kinderen hebt u?"
+          ]
+        },
+        {
+          "prompt": "Моя дочка любить цю музику. Вона її любить.",
+          "accepted": [
+            "Mijn dochter houdt van deze muziek. Zij houdt ervan."
+          ]
+        },
+        {
+          "prompt": "Мій колега чекає на потяг. Він його чекає.",
+          "accepted": [
+            "Mijn collega wacht op de trein. Hij wacht erop."
+          ]
+        },
+        {
+          "prompt": "Моя сестра думає про свою відпустку. Вона про неї думає.",
+          "accepted": [
+            "Mijn zus denkt aan haar vakantie. Zij denkt eraan."
+          ]
+        },
+        {
+          "prompt": "Ви дивитеся телевізор. Ви на нього дивитеся.",
+          "accepted": [
+            "Jullie kijken naar de televisie. Jullie kijken ernaar."
+          ]
+        },
+        {
+          "prompt": "Мій брат говорить про свою роботу. Він про неї говорить.",
+          "accepted": [
+            "Mijn broer spreekt over zijn werk. Hij spreekt erover."
+          ]
+        },
+        {
+          "prompt": "У нас є готівка. Ми платимо нею в пекарні.",
+          "accepted": [
+            "Wij hebben contant geld. Wij betalen ermee bij de bakker."
+          ]
+        },
+        {
+          "prompt": "Що любить твоя сестра?",
+          "accepted": [
+            "Waarvan houdt jouw zus?"
+          ]
+        },
+        {
+          "prompt": "Чим платить ваша дочка?",
+          "accepted": [
+            "Waarmee betaalt uw dochter?"
+          ]
+        },
+        {
+          "prompt": "Про що думають твої батьки?",
+          "accepted": [
+            "Waaraan denken jouw ouders?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Встав пропущене слово з банку. Кожне слово підходить лише раз",
+      "bank": [
+        "ervan",
+        "erop",
+        "eraan",
+        "ernaar",
+        "erover",
+        "ermee",
+        "Waarvan",
+        "Waarop",
+        "Waaraan",
+        "Waarnaar",
+        "Waarover",
+        "Waarmee"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ik heb een nieuw boek. Ik hou ___.",
+          "hint": "його люблю",
+          "accepted": [
+            [
+              "ervan"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn oom wacht op de bus. Hij wacht ___.",
+          "hint": "його чекає",
+          "accepted": [
+            [
+              "erop"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn tante heeft een probleem. Zij denkt ___.",
+          "hint": "про неї думає",
+          "accepted": [
+            [
+              "eraan"
+            ]
+          ]
+        },
+        {
+          "text": "Jouw kinderen spelen in de kamer. Ik kijk ___.",
+          "hint": "на це дивлюся",
+          "accepted": [
+            [
+              "ernaar"
+            ]
+          ]
+        },
+        {
+          "text": "Onze buren hebben een probleem. Wij spreken ___.",
+          "hint": "про неї говоримо",
+          "accepted": [
+            [
+              "erover"
+            ]
+          ]
+        },
+        {
+          "text": "Mijn zoon heeft een pinpas. Hij betaalt ___.",
+          "hint": "нею платить",
+          "accepted": [
+            [
+              "ermee"
+            ]
+          ]
+        },
+        {
+          "text": "___ houdt uw zoon?",
+          "hint": "Що любить ваш син?",
+          "accepted": [
+            [
+              "Waarvan"
+            ]
+          ]
+        },
+        {
+          "text": "___ wacht jouw zus?",
+          "hint": "Що чекає твоя сестра?",
+          "accepted": [
+            [
+              "Waarop"
+            ]
+          ]
+        },
+        {
+          "text": "___ denkt jullie oma?",
+          "hint": "Про що думає ваша бабуся?",
+          "accepted": [
+            [
+              "Waaraan"
+            ]
+          ]
+        },
+        {
+          "text": "___ spreekt mijn buur?",
+          "hint": "Про що говорить мій сусід?",
+          "accepted": [
+            [
+              "Waarover"
+            ]
+          ]
+        },
+        {
+          "text": "___ betaalt de klant?",
+          "hint": "Чим платить клієнт?",
+          "accepted": [
+            [
+              "Waarmee"
+            ]
+          ]
+        },
+        {
+          "text": "___ kijkt uw dochter?",
+          "hint": "На що дивиться ваша дочка?",
+          "accepted": [
+            [
+              "Waarnaar"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ik heb boeken, en ik heb er vier.",
+          "cue": "-> заміни vier на twee",
+          "accepted": [
+            "Ik heb boeken, en ik heb er twee."
+          ]
+        },
+        {
+          "prompt": "Mijn broer heeft fietsen.",
+          "cue": "-> у нього їх дві (er + twee)",
+          "accepted": [
+            "Mijn broer heeft er twee."
+          ]
+        },
+        {
+          "prompt": "Mijn zus heeft appels.",
+          "cue": "-> у неї їх немає (er + geen)",
+          "accepted": [
+            "Mijn zus heeft er geen."
+          ]
+        },
+        {
+          "prompt": "Onze buur houdt van deze tuin.",
+          "cue": "-> заміни іменник на er (ervan)",
+          "accepted": [
+            "Onze buur houdt ervan."
+          ]
+        },
+        {
+          "prompt": "Mijn tante wacht op de trein.",
+          "cue": "-> заміни іменник на er (erop)",
+          "accepted": [
+            "Mijn tante wacht erop."
+          ]
+        },
+        {
+          "prompt": "Mijn moeder denkt aan het probleem.",
+          "cue": "-> заміни іменник на er (eraan)",
+          "accepted": [
+            "Mijn moeder denkt eraan."
+          ]
+        },
+        {
+          "prompt": "Hij kijkt naar de wedstrijd.",
+          "cue": "-> заміни іменник на er (ernaar)",
+          "accepted": [
+            "Hij kijkt ernaar."
+          ]
+        },
+        {
+          "prompt": "Jullie spreken over het probleem.",
+          "cue": "-> заміни іменник на er (erover)",
+          "accepted": [
+            "Jullie spreken erover."
+          ]
+        },
+        {
+          "prompt": "Zij betaalt met de pinpas.",
+          "cue": "-> заміни іменник на er (ermee)",
+          "accepted": [
+            "Zij betaalt ermee."
+          ]
+        },
+        {
+          "prompt": "Jij houdt van muziek.",
+          "cue": "-> питання про прийменниковий додаток (waarvan)",
+          "accepted": [
+            "Waarvan hou jij?"
+          ]
+        },
+        {
+          "prompt": "Hij wacht op de bus.",
+          "cue": "-> питання (waarop)",
+          "accepted": [
+            "Waarop wacht hij?"
+          ]
+        },
+        {
+          "prompt": "Mijn vader denkt aan zijn werk.",
+          "cue": "-> питання (waaraan)",
+          "accepted": [
+            "Waaraan denkt mijn vader?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ik ___ er twee.",
+          "cue": "hebben",
+          "accepted": [
+            "heb"
+          ]
+        },
+        {
+          "text": "Jij ___ er drie.",
+          "cue": "hebben",
+          "accepted": [
+            "hebt"
+          ]
+        },
+        {
+          "text": "Mijn broer ___ ervan.",
+          "cue": "houden van",
+          "accepted": [
+            "houdt"
+          ]
+        },
+        {
+          "text": "Wij ___ erop.",
+          "cue": "wachten op",
+          "accepted": [
+            "wachten"
+          ]
+        },
+        {
+          "text": "Zij ___ eraan.",
+          "cue": "denken aan",
+          "accepted": [
+            "denkt"
+          ]
+        },
+        {
+          "text": "Jullie ___ ernaar.",
+          "cue": "kijken naar",
+          "accepted": [
+            "kijken"
+          ]
+        },
+        {
+          "text": "Hij ___ erover.",
+          "cue": "spreken",
+          "accepted": [
+            "spreekt"
+          ]
+        },
+        {
+          "text": "U ___ ermee.",
+          "cue": "betalen",
+          "accepted": [
+            "betaalt"
+          ]
+        },
+        {
+          "text": "___ jij er veel?",
+          "cue": "hebben",
+          "accepted": [
+            "Heb",
+            "heb"
+          ]
+        },
+        {
+          "text": "___ zij ervan?",
+          "cue": "houden van",
+          "accepted": [
+            "Houdt",
+            "houdt"
+          ]
+        },
+        {
+          "text": "Waarvan ___ jij het meest?",
+          "cue": "houden van",
+          "accepted": [
+            "hou"
+          ]
+        },
+        {
+          "text": "Waarmee ___ u?",
+          "cue": "betalen",
+          "accepted": [
+            "betaalt"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "function"
+      ]
+    }
+  ]
+}
