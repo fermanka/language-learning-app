@@ -1,0 +1,1271 @@
+{
+  "id": "hr-les-06",
+  "lang": "hr",
+  "order": 6,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "ne"
+  ],
+  "notes": [
+    {
+      "id": "hr-330b6f6b",
+      "type": "verb",
+      "lemma": "morati",
+      "aspect": "impf.",
+      "pres_1sg": "moram",
+      "ua": "мусити, бути змушеним",
+      "audio": "hr-morati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "moram",
+          "audio": "hr-ja-moram.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "moraš",
+          "audio": "hr-ti-moras.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "mora",
+          "audio": "hr-on-mora.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "moramo",
+          "audio": "hr-mi-moramo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "morate",
+          "audio": "hr-vi-morate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "moraju",
+          "audio": "hr-oni-moraju.mp3"
+        }
+      ],
+      "explain_ua": "(Moram čitati = я мушу читати). Тип -am, як čitam: moram, moraš, mora, moramo, morate, moraju. Завжди з інфінітивом: moram raditi. Без пари. Українське «мушу» дає опору",
+      "check": "Парадигма morati і відсутність пари з мого знання, повної таблиці в джерелах не знайдено."
+    },
+    {
+      "id": "hr-129a4dbf",
+      "type": "verb",
+      "lemma": "moći",
+      "aspect": "impf.",
+      "pres_1sg": "mogu",
+      "ua": "могти, мати змогу",
+      "audio": "hr-moci.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "mogu",
+          "audio": "hr-ja-mogu.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "možeš",
+          "audio": "hr-ti-mozes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "može",
+          "audio": "hr-on-moze.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "možemo",
+          "audio": "hr-mi-mozemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "možete",
+          "audio": "hr-vi-mozete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "mogu",
+          "audio": "hr-oni-mogu.mp3"
+        }
+      ],
+      "explain_ua": "(Mogu ići u park = я можу йти в парк). Нерегулярне, але дуже схоже на українське можу, можеш і російське могу, можешь: інфінітив moći, 1 особа mogu, 2 особа možeš. 1 особа однини і 3 особа множини однакові: mogu. Без пари",
+      "check": "Парадигма moći і відсутність пари з мого знання, повної таблиці в джерелах не знайдено."
+    },
+    {
+      "id": "hr-ca66518f",
+      "type": "verb",
+      "lemma": "željeti",
+      "aspect": "impf.",
+      "pres_1sg": "želim",
+      "ua": "хотіти, бажати",
+      "audio": "hr-zeljeti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "želim",
+          "audio": "hr-ja-zelim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "želiš",
+          "audio": "hr-ti-zelis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "želi",
+          "audio": "hr-on-zeli.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "želimo",
+          "audio": "hr-mi-zelimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "želite",
+          "audio": "hr-vi-zelite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "žele",
+          "audio": "hr-oni-zele.mp3"
+        }
+      ],
+      "explain_ua": "(Želim kupiti kavu = я хочу купити каву). Тип -im, як volim: želim, želiš, želi, želimo, želite, žele. Українське «хочу» не схоже за коренем, тож це слово вчи окремо. Після željeti інфінітив: želim kupiti",
+      "check": "Парадигма željeti, відсутність пари і використання як звичайного «хочу» з мого знання, у джерелах не підтверджено."
+    },
+    {
+      "id": "hr-68240955",
+      "type": "noun",
+      "lemma": "ponedjeljak",
+      "gender": "m.",
+      "gen_sg": "ponedjeljka",
+      "ua": "понеділок",
+      "audio": "hr-ponedjeljak.mp3",
+      "explain_ua": "(U ponedjeljak moram raditi = у понеділок я мушу працювати). «У понеділок» це u ponedjeljak: знахідний неживого чоловічого слова без змін. Пиши ponedjeljak з dj, а не з đ. Множина рідко вживається",
+      "check": "Слова ponedjeljak, utorak, petak, četvrtak: знахідний без змін підтверджено лише для ponedjeljak і utorak, для petak і četvrtak з мого знання."
+    },
+    {
+      "id": "hr-1be06ce2",
+      "type": "noun",
+      "lemma": "utorak",
+      "gender": "m.",
+      "gen_sg": "utorka",
+      "ua": "вівторок",
+      "audio": "hr-utorak.mp3",
+      "explain_ua": "(U utorak idem u banku = у вівторок я йду в банк). «У вівторок» це u utorak, без змін. Нестійке -a-: utorak, utorka. Множина рідко вживається"
+    },
+    {
+      "id": "hr-a4d4e45e",
+      "type": "noun",
+      "lemma": "srijeda",
+      "gender": "ž.",
+      "gen_sg": "srijede",
+      "ua": "середа",
+      "audio": "hr-srijeda.mp3",
+      "forms": [
+        "srijedu"
+      ],
+      "explain_ua": "(U srijedu dolazi brat = у середу приходить брат). Жіночий рід на -a, тому знахідний srijedu: u srijedu. Пиши ije: srijeda, не «sreda» (це сербське). Множина рідко вживається",
+      "check": "Знахідний srijedu і сербське sreda з мого знання, у джерелах цього уроку не підтверджені."
+    },
+    {
+      "id": "hr-d42f04f2",
+      "type": "noun",
+      "lemma": "četvrtak",
+      "gender": "m.",
+      "gen_sg": "četvrtka",
+      "ua": "четвер",
+      "audio": "hr-cetvrtak.mp3",
+      "explain_ua": "(U četvrtak želim čitati = у четвер я хочу читати). «У четвер» це u četvrtak, без змін. Нестійке -a-: četvrtak, četvrtka. Літера č з гачком. Множина рідко вживається"
+    },
+    {
+      "id": "hr-21a3aef4",
+      "type": "noun",
+      "lemma": "petak",
+      "gender": "m.",
+      "gen_sg": "petka",
+      "ua": "п'ятниця",
+      "audio": "hr-petak.mp3",
+      "explain_ua": "(U petak idem u banku = у п'ятницю я йду в банк). «У п'ятницю» це u petak: слово чоловічого роду, на відміну від української п'ятниці (жіночий), тому знахідний без змін. Нестійке -a-: petak, petka. Множина рідко вживається"
+    },
+    {
+      "id": "hr-c4279abc",
+      "type": "noun",
+      "lemma": "subota",
+      "gender": "ž.",
+      "gen_sg": "subote",
+      "ua": "субота",
+      "audio": "hr-subota.mp3",
+      "forms": [
+        "subotu"
+      ],
+      "explain_ua": "(U subotu sam u parku = у суботу я в парку). Жіночий рід на -a: знахідний subotu, як в українській «у суботу». Множина рідко вживається"
+    },
+    {
+      "id": "hr-de47f143",
+      "type": "false_friend",
+      "lemma": "nedjelja",
+      "gender": "ž.",
+      "gen_sg": "nedjelje",
+      "ua": "неділя (день тижня)",
+      "uk_lookalike": "неделя (рос.)",
+      "uk_means": "тиждень (рос. неделя)",
+      "audio": "hr-nedjelja.mp3",
+      "forms": [
+        "nedjelju"
+      ],
+      "explain_ua": "(U nedjelju ne radim = у неділю я не працюю). Хорватське nedjelja це неділя, день тижня. Для україномовної збігається з українською неділею. Для російськомовної пастка: російське неделя значить «тиждень». Знахідний nedjelju: u nedjelju. Множина рідко вживається"
+    },
+    {
+      "id": "hr-800d1c36",
+      "type": "function",
+      "lemma": "uvijek",
+      "ua": "завжди",
+      "audio": "hr-uvijek.mp3",
+      "explain_ua": "(Uvijek sam u stanu = я завжди в квартирі). Прислівник частоти. Стоїть на першому місці, і клітик (sam, je, smo) іде одразу за ним: Uvijek sam ovdje. Пиши ije: uvijek"
+    },
+    {
+      "id": "hr-db83c6b2",
+      "type": "function",
+      "lemma": "često",
+      "ua": "часто",
+      "audio": "hr-cesto.mp3",
+      "explain_ua": "(Često idem u dućan = я часто йду в магазин). Прислівник частоти. Літера č з гачком. На першому місці, а клітик іде за ним: Često smo u parku"
+    },
+    {
+      "id": "hr-fac49294",
+      "type": "function",
+      "lemma": "nikad",
+      "ua": "ніколи",
+      "audio": "hr-nikad.mp3",
+      "explain_ua": "(Nikad ne čitam u nedjelju = я ніколи не читаю в неділю). Після nikad обов'язково ne перед дієсловом: nikad ne čitam, як в українській «ніколи не читаю». Це подвійне заперечення, і воно правильне",
+      "check": "Правило, що після nikad потрібне ne (подвійне заперечення), з мого знання, у джерелах цього уроку не підтверджене."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Moram, mogu, želim + інфінітив",
+      "summary_ua": "Три модальні дієслова: moram (мушу), mogu (можу), želim (хочу). Після них інфінітив, як в українській: moram čitati. Mogu схоже на можу, а moram на мушу за значенням. Нове лише закінчення й нерегулярність moći.",
+      "compare": [
+        {
+          "form": "morati: moram, moraš, mora, moramo, morate, moraju",
+          "when_ua": "Тип -am, як čitam. Моя потреба: інфінітив у кінці.",
+          "examples": [
+            {
+              "text": "Ja moram čitati.",
+              "ua": "Я мушу читати.",
+              "audio": "hr-les06-rule-01.mp3"
+            },
+            {
+              "text": "Majka mora raditi.",
+              "ua": "Мама мусить працювати.",
+              "audio": "hr-les06-rule-02.mp3"
+            },
+            {
+              "text": "Djeca moraju učiti.",
+              "ua": "Діти мусять вчитися.",
+              "audio": "hr-les06-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Інфінітив після morati не змінюється: moram učiti, moraš učiti, mora učiti."
+        },
+        {
+          "form": "moći: mogu, možeš, može, možemo, možete, mogu",
+          "when_ua": "Нерегулярне: 1 особа однини і 3 особа множини однакові (mogu). Схоже на українське можу, можеш.",
+          "examples": [
+            {
+              "text": "Ja mogu ići u park.",
+              "ua": "Я можу йти в парк.",
+              "audio": "hr-les06-rule-04.mp3"
+            },
+            {
+              "text": "Ti možeš čitati.",
+              "ua": "Ти можеш читати.",
+              "audio": "hr-les06-rule-05.mp3"
+            },
+            {
+              "text": "Mi možemo kupiti kruh.",
+              "ua": "Ми можемо купити хліб.",
+              "audio": "hr-les06-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає і українська, і російська: можу / могу, можеш / можешь. Закінчення майже однакове."
+        },
+        {
+          "form": "željeti: želim, želiš, želi, želimo, želite, žele",
+          "when_ua": "Тип -im, як volim. Українське «хочу» не схоже на želim, тому вчи слово окремо.",
+          "examples": [
+            {
+              "text": "Želim kupiti kavu.",
+              "ua": "Я хочу купити каву.",
+              "audio": "hr-les06-rule-07.mp3"
+            },
+            {
+              "text": "Brat želi ići u grad.",
+              "ua": "Брат хоче йти в місто.",
+              "audio": "hr-les06-rule-08.mp3"
+            },
+            {
+              "text": "Djeca žele čitati.",
+              "ua": "Діти хочуть читати.",
+              "audio": "hr-les06-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Після željeti інфінітив: želim kupiti (не kupujem)."
+        }
+      ],
+      "points_ua": [
+        "Схема: підмет + moram / mogu / želim + інфінітив (у кінці).",
+        "Mogu і žele закінчуються на -u / -e: 3 особа множини (mogu, moraju, žele).",
+        "Заперечення з ne (наступна картка): ne moram і ne mogu значать різне."
+      ]
+    },
+    {
+      "title_ua": "Дні тижня: u petak, u subotu, u nedjelju",
+      "summary_ua": "«У п'ятницю» це u petak, «у суботу» u subotu. Після u дні стоять у знахідному (коли: u + знахідний). Чоловічі дні (ponedjeljak, utorak, četvrtak, petak) без змін, жіночі (srijeda, subota, nedjelja) беруть -u. Українська та російська працюють так само.",
+      "compare": [
+        {
+          "form": "чоловічі дні: без змін",
+          "when_ua": "Ponedjeljak, utorak, četvrtak, petak: знахідний такий самий, як називний.",
+          "examples": [
+            {
+              "text": "U ponedjeljak moram raditi.",
+              "ua": "У понеділок я мушу працювати.",
+              "audio": "hr-les06-rule-10.mp3"
+            },
+            {
+              "text": "U petak sam u gradu.",
+              "ua": "У п'ятницю я в місті.",
+              "audio": "hr-les06-rule-11.mp3"
+            },
+            {
+              "text": "U utorak radim u banci.",
+              "ua": "У вівторок я працюю в банку.",
+              "audio": "hr-les06-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Petak у хорватській чоловічого роду, на відміну від української п'ятниці. Тому u petak, а не «u petku»."
+        },
+        {
+          "form": "жіночі дні: -a стає -u",
+          "when_ua": "Srijeda, subota, nedjelja: srijedu, subotu, nedjelju.",
+          "examples": [
+            {
+              "text": "U subotu idem u park.",
+              "ua": "У суботу я йду в парк.",
+              "audio": "hr-les06-rule-13.mp3"
+            },
+            {
+              "text": "U srijedu dolazi brat.",
+              "ua": "У середу приходить брат.",
+              "audio": "hr-les06-rule-14.mp3"
+            },
+            {
+              "text": "U nedjelju sam u stanu.",
+              "ua": "У неділю я в квартирі.",
+              "audio": "hr-les06-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Це та сама зміна -a на -u, що й knjigu, kavu. Українське у середу, у суботу."
+        },
+        {
+          "form": "питання: Kada? U petak.",
+          "when_ua": "Питання kada (коли), відповідь u + день.",
+          "examples": [
+            {
+              "text": "Kada dolazi brat?",
+              "ua": "Коли приходить брат?",
+              "audio": "hr-les06-rule-16.mp3"
+            },
+            {
+              "text": "Kada ideš u banku?",
+              "ua": "Коли ти йдеш у банк?",
+              "audio": "hr-les06-rule-17.mp3"
+            },
+            {
+              "text": "Kada je rođendan?",
+              "ua": "Коли день народження?",
+              "audio": "hr-les06-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Для місяців Lekcija 3 дала u srpnju, для дат petoga travnja, а для днів тижня u petak."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест. День чоловічого роду (ponedjeljak, utorak, četvrtak, petak)? u + без змін. Жіночого (srijeda, subota, nedjelja)? u + -u.",
+        "Тиждень починається з ponedjeljak. Порядок: ponedjeljak, utorak, srijeda, četvrtak, petak, subota, nedjelja.",
+        "Для російськомовної: nedjelja це неділя, день тижня, а російське неделя значить «тиждень»."
+      ]
+    },
+    {
+      "title_ua": "Як часто: uvijek, često, nikad + клітик",
+      "summary_ua": "Прислівники частоти стоять на першому місці, а клітик (sam, je, smo) іде одразу за ними: Uvijek sam ovdje. Nikad вимагає ne перед дієсловом: Nikad ne čitam. Подвійне заперечення є й в українській: ніколи не читаю.",
+      "compare": [
+        {
+          "form": "uvijek, često + теперішній час",
+          "when_ua": "Прислівник на першому місці, потім дієслово: Uvijek čitam. Često idem u park.",
+          "examples": [
+            {
+              "text": "Uvijek čitam.",
+              "ua": "Я завжди читаю.",
+              "audio": "hr-les06-rule-19.mp3"
+            },
+            {
+              "text": "Često idem u park.",
+              "ua": "Я часто йду в парк.",
+              "audio": "hr-les06-rule-20.mp3"
+            },
+            {
+              "text": "Uvijek je majka na poslu.",
+              "ua": "Мама завжди на роботі.",
+              "audio": "hr-les06-rule-21.mp3"
+            }
+          ],
+          "note_ua": "У третьому реченні клітик je стоїть одразу після uvijek, а підмет majka після нього. Це правило другого місця з Lekcije 1."
+        },
+        {
+          "form": "nikad ne + дієслово",
+          "when_ua": "Nikad завжди з ne: nikad ne čitam, nikad ne idem. Це не помилка, як і в українській.",
+          "examples": [
+            {
+              "text": "Nikad ne čitam u nedjelju.",
+              "ua": "Я ніколи не читаю в неділю.",
+              "audio": "hr-les06-rule-22.mp3"
+            },
+            {
+              "text": "Nikad ne radim u subotu.",
+              "ua": "Я ніколи не працюю в суботу.",
+              "audio": "hr-les06-rule-23.mp3"
+            },
+            {
+              "text": "Djeca nikad ne čitaju.",
+              "ua": "Діти ніколи не читають.",
+              "audio": "hr-les06-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Українське «ніколи не» та хорватське nikad ne збігаються. Російське «никогда не» теж."
+        }
+      ],
+      "points_ua": [
+        "Прислівник частоти на першому місці, клітик на другому: Uvijek sam, Često smo.",
+        "Nikad ne + дієслово: подвійне заперечення, як в українській.",
+        "Повний порядок кількох клітиків разом я поясню окремо, коли вони знадобляться, за перевіреною граматикою."
+      ]
+    },
+    {
+      "title_ua": "Ne moram проти ne mogu",
+      "summary_ua": "Ne ставиться перед дієсловом. Але ne moram і ne mogu значать різне: ne moram це «мені не обов'язково», ne mogu це «я не можу». Перше не є забороною.",
+      "compare": [
+        {
+          "form": "ne moram: не обов'язково",
+          "when_ua": "Ne moram raditi значить «мені не треба працювати», тобто це не заборона, а відсутність обов'язку.",
+          "examples": [
+            {
+              "text": "U nedjelju ne moram raditi.",
+              "ua": "У неділю мені не треба працювати.",
+              "audio": "hr-les06-rule-25.mp3"
+            },
+            {
+              "text": "Ne moram čitati.",
+              "ua": "Мені не треба читати.",
+              "audio": "hr-les06-rule-26.mp3"
+            },
+            {
+              "text": "Djeca ne moraju učiti u nedjelju.",
+              "ua": "Діти не мусять вчитися в неділю.",
+              "audio": "hr-les06-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Ne moram не дорівнює «не можна». Заборона буде в наступних уроках."
+        },
+        {
+          "form": "ne mogu, ne želim",
+          "when_ua": "Ne mogu це «не можу», ne želim це «не хочу». Дієслово стоїть після ne.",
+          "examples": [
+            {
+              "text": "U petak ne mogu ići u banku.",
+              "ua": "У п'ятницю я не можу йти в банк.",
+              "audio": "hr-les06-rule-28.mp3"
+            },
+            {
+              "text": "Ne želim raditi.",
+              "ua": "Я не хочу працювати.",
+              "audio": "hr-les06-rule-29.mp3"
+            },
+            {
+              "text": "Djeca ne žele čitati.",
+              "ua": "Діти не хочуть читати.",
+              "audio": "hr-les06-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: не можу, не хочу. Різниця лише в moram: ne moram значить «не мушу»."
+        }
+      ],
+      "points_ua": [
+        "Ne moram: мені не обов'язково. Ne mogu: я не можу. Ne želim: я не хочу.",
+        "Ne стоїть окремо перед дієсловом: ne moram, ne mogu, ne želim, ne radim."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Moram čitati.",
+      "ua": "Я мушу читати.",
+      "audio": "hr-les06-example-01.mp3"
+    },
+    {
+      "text": "Majka mora raditi.",
+      "ua": "Мама мусить працювати.",
+      "audio": "hr-les06-example-02.mp3"
+    },
+    {
+      "text": "Djeca moraju učiti.",
+      "ua": "Діти мусять вчитися.",
+      "audio": "hr-les06-example-03.mp3"
+    },
+    {
+      "text": "Mogu ići u park.",
+      "ua": "Я можу йти в парк.",
+      "audio": "hr-les06-example-04.mp3"
+    },
+    {
+      "text": "Možeš li čitati?",
+      "ua": "Ти можеш читати?",
+      "audio": "hr-les06-example-05.mp3"
+    },
+    {
+      "text": "Mi možemo kupiti kruh.",
+      "ua": "Ми можемо купити хліб.",
+      "audio": "hr-les06-example-06.mp3"
+    },
+    {
+      "text": "Želim kupiti kavu.",
+      "ua": "Я хочу купити каву.",
+      "audio": "hr-les06-example-07.mp3"
+    },
+    {
+      "text": "Brat želi ići u grad.",
+      "ua": "Брат хоче йти в місто.",
+      "audio": "hr-les06-example-08.mp3"
+    },
+    {
+      "text": "Djeca žele gledati psa.",
+      "ua": "Діти хочуть дивитися на собаку.",
+      "audio": "hr-les06-example-09.mp3"
+    },
+    {
+      "text": "U petak idem u banku.",
+      "ua": "У п'ятницю я йду в банк.",
+      "audio": "hr-les06-example-10.mp3"
+    },
+    {
+      "text": "U subotu sam u parku.",
+      "ua": "У суботу я в парку.",
+      "audio": "hr-les06-example-11.mp3"
+    },
+    {
+      "text": "U nedjelju ne radim.",
+      "ua": "У неділю я не працюю.",
+      "audio": "hr-les06-example-12.mp3"
+    },
+    {
+      "text": "Kada dolazi brat? U srijedu.",
+      "ua": "Коли приходить брат? У середу.",
+      "audio": "hr-les06-example-13.mp3"
+    },
+    {
+      "text": "Uvijek sam u stanu.",
+      "ua": "Я завжди в квартирі.",
+      "audio": "hr-les06-example-14.mp3"
+    },
+    {
+      "text": "Često idem u dućan.",
+      "ua": "Я часто йду в магазин.",
+      "audio": "hr-les06-example-15.mp3"
+    },
+    {
+      "text": "Nikad ne čitam u nedjelju.",
+      "ua": "Я ніколи не читаю в неділю.",
+      "audio": "hr-les06-example-16.mp3"
+    },
+    {
+      "text": "U ponedjeljak moram raditi.",
+      "ua": "У понеділок я мушу працювати.",
+      "audio": "hr-les06-example-17.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U ponedjeljak",
+    "title_ua": "У понеділок",
+    "highlight": [
+      "hr-68240955",
+      "hr-1be06ce2",
+      "hr-a4d4e45e",
+      "hr-d42f04f2",
+      "hr-21a3aef4",
+      "hr-c4279abc",
+      "hr-de47f143",
+      "hr-800d1c36",
+      "hr-db83c6b2"
+    ],
+    "sentences": [
+      {
+        "text": "U ponedjeljak moram raditi.",
+        "ua": "У понеділок я мушу працювати.",
+        "audio": "hr-les06-reading-01.mp3"
+      },
+      {
+        "text": "U utorak idem u banku.",
+        "ua": "У вівторок я йду в банк.",
+        "audio": "hr-les06-reading-02.mp3"
+      },
+      {
+        "text": "U srijedu dolazi brat.",
+        "ua": "У середу приходить брат.",
+        "audio": "hr-les06-reading-03.mp3"
+      },
+      {
+        "text": "U četvrtak želim čitati.",
+        "ua": "У четвер я хочу читати.",
+        "audio": "hr-les06-reading-04.mp3"
+      },
+      {
+        "text": "U petak često idem u dućan.",
+        "ua": "У п'ятницю я часто йду в магазин.",
+        "audio": "hr-les06-reading-05.mp3"
+      },
+      {
+        "text": "U subotu mogu ići u park.",
+        "ua": "У суботу я можу йти в парк.",
+        "audio": "hr-les06-reading-06.mp3"
+      },
+      {
+        "text": "U nedjelju ne radim.",
+        "ua": "У неділю я не працюю.",
+        "audio": "hr-les06-reading-07.mp3"
+      },
+      {
+        "text": "Uvijek sam ovdje u nedjelju.",
+        "ua": "У неділю я завжди тут.",
+        "audio": "hr-les06-reading-08.mp3"
+      },
+      {
+        "text": "Djeca žele gledati psa u parku.",
+        "ua": "Діти хочуть дивитися на собаку в парку.",
+        "audio": "hr-les06-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я мушу читати.",
+          "accepted": [
+            "Moram čitati.",
+            "Ja moram čitati."
+          ]
+        },
+        {
+          "prompt": "Мама мусить працювати.",
+          "accepted": [
+            "Majka mora raditi."
+          ]
+        },
+        {
+          "prompt": "Діти мусять вчитися.",
+          "accepted": [
+            "Djeca moraju učiti."
+          ]
+        },
+        {
+          "prompt": "Я можу йти в парк.",
+          "accepted": [
+            "Mogu ići u park.",
+            "Ja mogu ići u park."
+          ]
+        },
+        {
+          "prompt": "Ти можеш читати?",
+          "accepted": [
+            "Možeš li čitati?",
+            "Možeš li ti čitati?"
+          ]
+        },
+        {
+          "prompt": "Ми можемо купити хліб.",
+          "accepted": [
+            "Možemo kupiti kruh.",
+            "Mi možemo kupiti kruh."
+          ]
+        },
+        {
+          "prompt": "Я хочу купити каву.",
+          "accepted": [
+            "Želim kupiti kavu.",
+            "Ja želim kupiti kavu."
+          ]
+        },
+        {
+          "prompt": "Брат хоче йти в місто.",
+          "accepted": [
+            "Brat želi ići u grad."
+          ]
+        },
+        {
+          "prompt": "Діти хочуть дивитися на собаку.",
+          "accepted": [
+            "Djeca žele gledati psa."
+          ]
+        },
+        {
+          "prompt": "У п'ятницю я йду в банк.",
+          "accepted": [
+            "U petak idem u banku.",
+            "U petak ja idem u banku."
+          ]
+        },
+        {
+          "prompt": "У суботу я в парку.",
+          "accepted": [
+            "U subotu sam u parku.",
+            "U subotu sam ja u parku."
+          ]
+        },
+        {
+          "prompt": "У неділю я не працюю.",
+          "accepted": [
+            "U nedjelju ne radim.",
+            "U nedjelju ja ne radim."
+          ]
+        },
+        {
+          "prompt": "Коли приходить брат? У середу.",
+          "accepted": [
+            "Kada dolazi brat? U srijedu."
+          ]
+        },
+        {
+          "prompt": "Я завжди в квартирі.",
+          "accepted": [
+            "Uvijek sam u stanu."
+          ]
+        },
+        {
+          "prompt": "Я ніколи не читаю в неділю.",
+          "accepted": [
+            "Nikad ne čitam u nedjelju."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "Moram",
+        "mora",
+        "moraju",
+        "Mogu",
+        "može",
+        "Želim",
+        "žele",
+        "petak",
+        "subotu",
+        "srijedu",
+        "nedjelju",
+        "ponedjeljak",
+        "Uvijek",
+        "Često",
+        "ne",
+        "Nikad"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ čitati.",
+          "hint": "Я мушу читати.",
+          "accepted": [
+            [
+              "Moram"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ raditi.",
+          "hint": "Мама мусить працювати.",
+          "accepted": [
+            [
+              "mora"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca ___ učiti.",
+          "hint": "Діти мусять вчитися.",
+          "accepted": [
+            [
+              "moraju"
+            ]
+          ]
+        },
+        {
+          "text": "___ ići u park.",
+          "hint": "Я можу йти в парк.",
+          "accepted": [
+            [
+              "Mogu"
+            ]
+          ]
+        },
+        {
+          "text": "Brat ___ ići u grad.",
+          "hint": "Брат може йти в місто.",
+          "accepted": [
+            [
+              "može"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca ___ čitati.",
+          "hint": "Діти хочуть читати.",
+          "accepted": [
+            [
+              "žele"
+            ]
+          ]
+        },
+        {
+          "text": "___ kupiti kavu.",
+          "hint": "Я хочу купити каву.",
+          "accepted": [
+            [
+              "Želim"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ idem u banku.",
+          "hint": "У п'ятницю я йду в банк.",
+          "accepted": [
+            [
+              "petak"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ sam u parku.",
+          "hint": "У суботу я в парку.",
+          "accepted": [
+            [
+              "subotu"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ dolazi brat.",
+          "hint": "У середу приходить брат.",
+          "accepted": [
+            [
+              "srijedu"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ ne radim.",
+          "hint": "У неділю я не працюю.",
+          "accepted": [
+            [
+              "nedjelju"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ moram raditi.",
+          "hint": "У понеділок я мушу працювати.",
+          "accepted": [
+            [
+              "ponedjeljak"
+            ]
+          ]
+        },
+        {
+          "text": "___ sam u stanu.",
+          "hint": "Я завжди в квартирі.",
+          "accepted": [
+            [
+              "Uvijek"
+            ]
+          ]
+        },
+        {
+          "text": "___ idem u dućan.",
+          "hint": "Я часто йду в магазин.",
+          "accepted": [
+            [
+              "Često"
+            ]
+          ]
+        },
+        {
+          "text": "Nikad ___ čitam u nedjelju.",
+          "hint": "Я ніколи не читаю в неділю.",
+          "accepted": [
+            [
+              "ne"
+            ]
+          ]
+        },
+        {
+          "text": "___ ne čitam u nedjelju.",
+          "hint": "Я ніколи не читаю в неділю.",
+          "accepted": [
+            [
+              "Nikad"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: додай модальне дієслово, початок з іншого слова, заперечення або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Čitam.",
+          "cue": "-> додай morati",
+          "accepted": [
+            "Moram čitati."
+          ]
+        },
+        {
+          "prompt": "Radim.",
+          "cue": "-> додай morati",
+          "accepted": [
+            "Moram raditi."
+          ]
+        },
+        {
+          "prompt": "Idem u park.",
+          "cue": "-> додай moći",
+          "accepted": [
+            "Mogu ići u park."
+          ]
+        },
+        {
+          "prompt": "Kupujem kavu.",
+          "cue": "-> додай željeti (kupiti)",
+          "accepted": [
+            "Želim kupiti kavu."
+          ]
+        },
+        {
+          "prompt": "Mi čitamo.",
+          "cue": "-> додай moći",
+          "accepted": [
+            "Možemo čitati.",
+            "Mi možemo čitati."
+          ]
+        },
+        {
+          "prompt": "Ja idem u banku.",
+          "cue": "-> почни з U petak",
+          "accepted": [
+            "U petak idem u banku.",
+            "U petak ja idem u banku."
+          ]
+        },
+        {
+          "prompt": "Brat je u parku.",
+          "cue": "-> почни з U subotu",
+          "accepted": [
+            "U subotu je brat u parku."
+          ]
+        },
+        {
+          "prompt": "Brat dolazi.",
+          "cue": "-> почни з U srijedu",
+          "accepted": [
+            "U srijedu dolazi brat."
+          ]
+        },
+        {
+          "prompt": "Radim u nedjelju.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ne radim u nedjelju."
+          ]
+        },
+        {
+          "prompt": "Čitam u nedjelju.",
+          "cue": "-> додай nikad",
+          "accepted": [
+            "Nikad ne čitam u nedjelju."
+          ]
+        },
+        {
+          "prompt": "Ja sam u stanu.",
+          "cue": "-> почни з Uvijek",
+          "accepted": [
+            "Uvijek sam u stanu."
+          ]
+        },
+        {
+          "prompt": "Idem u dućan.",
+          "cue": "-> почни з Često",
+          "accepted": [
+            "Često idem u dućan."
+          ]
+        },
+        {
+          "prompt": "U subota sam u parku.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "U subotu sam u parku."
+          ]
+        },
+        {
+          "prompt": "U nedjelja ne radim.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "U nedjelju ne radim."
+          ]
+        },
+        {
+          "prompt": "Moram čitam.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moram čitati."
+          ]
+        },
+        {
+          "prompt": "Mogu idem u park.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mogu ići u park."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ čitati.",
+          "cue": "morati",
+          "accepted": [
+            "moram"
+          ]
+        },
+        {
+          "text": "Ti ___ raditi.",
+          "cue": "morati",
+          "accepted": [
+            "moraš"
+          ]
+        },
+        {
+          "text": "Majka ___ učiti.",
+          "cue": "morati",
+          "accepted": [
+            "mora"
+          ]
+        },
+        {
+          "text": "Mi ___ raditi.",
+          "cue": "morati",
+          "accepted": [
+            "moramo"
+          ]
+        },
+        {
+          "text": "Vi ___ čitati.",
+          "cue": "morati",
+          "accepted": [
+            "morate"
+          ]
+        },
+        {
+          "text": "Djeca ___ učiti.",
+          "cue": "morati",
+          "accepted": [
+            "moraju"
+          ]
+        },
+        {
+          "text": "Ja ___ ići u park.",
+          "cue": "moći",
+          "accepted": [
+            "mogu"
+          ]
+        },
+        {
+          "text": "Ti ___ čitati.",
+          "cue": "moći",
+          "accepted": [
+            "možeš"
+          ]
+        },
+        {
+          "text": "Brat ___ ići u grad.",
+          "cue": "moći",
+          "accepted": [
+            "može"
+          ]
+        },
+        {
+          "text": "Mi ___ čitati.",
+          "cue": "moći",
+          "accepted": [
+            "možemo"
+          ]
+        },
+        {
+          "text": "Vi ___ raditi.",
+          "cue": "moći",
+          "accepted": [
+            "možete"
+          ]
+        },
+        {
+          "text": "Djeca ___ ići u park.",
+          "cue": "moći",
+          "accepted": [
+            "mogu"
+          ]
+        },
+        {
+          "text": "Ja ___ kupiti kavu.",
+          "cue": "željeti",
+          "accepted": [
+            "želim"
+          ]
+        },
+        {
+          "text": "Ti ___ čitati.",
+          "cue": "željeti",
+          "accepted": [
+            "želiš"
+          ]
+        },
+        {
+          "text": "Brat ___ ići u grad.",
+          "cue": "željeti",
+          "accepted": [
+            "želi"
+          ]
+        },
+        {
+          "text": "Djeca ___ čitati.",
+          "cue": "željeti",
+          "accepted": [
+            "žele"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "понеділок",
+          "answer": "ponedjeljak"
+        },
+        {
+          "prompt": "вівторок",
+          "answer": "utorak"
+        },
+        {
+          "prompt": "середа",
+          "answer": "srijeda"
+        },
+        {
+          "prompt": "четвер",
+          "answer": "četvrtak"
+        },
+        {
+          "prompt": "п'ятниця",
+          "answer": "petak"
+        },
+        {
+          "prompt": "субота",
+          "answer": "subota"
+        },
+        {
+          "prompt": "неділя (день тижня)",
+          "answer": "nedjelja"
+        },
+        {
+          "prompt": "завжди",
+          "answer": "uvijek"
+        },
+        {
+          "prompt": "часто",
+          "answer": "često"
+        },
+        {
+          "prompt": "ніколи",
+          "answer": "nikad"
+        },
+        {
+          "prompt": "мусити",
+          "answer": "morati"
+        },
+        {
+          "prompt": "могти",
+          "answer": "moći"
+        },
+        {
+          "prompt": "хотіти, бажати",
+          "answer": "željeti"
+        }
+      ],
+      "extra": [
+        "učiti",
+        "raditi"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "false_friend"
+      ]
+    }
+  ]
+}

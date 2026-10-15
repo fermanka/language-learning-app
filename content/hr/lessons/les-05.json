@@ -1,0 +1,1336 @@
+{
+  "id": "hr-les-05",
+  "lang": "hr",
+  "order": 5,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-a65f306c",
+      "type": "noun",
+      "lemma": "dućan",
+      "gender": "m.",
+      "gen_sg": "dućana",
+      "plural": [
+        "dućani"
+      ],
+      "ua": "магазин (розмовне, невеликий)",
+      "audio": "hr-ducan.mp3",
+      "forms": [
+        "dućanu"
+      ],
+      "explain_ua": "(Idem u dućan = йду в магазин). Розмовне слово для звичайного, невеликого магазину. Нейтральніше trgovina, офіційніше prodavaonica. Неживе слово чоловічого роду: знахідний u dućan без змін, місцевий u dućanu. Літера ć у кінці основи пишеться з рискою. Сербською було б prodavnica: це інший стандарт, на іспиті не пиши",
+      "check": "Розмовність слова dućan, його походження й сербське prodavnica з мого знання, у джерелах цього уроку не підтверджені."
+    },
+    {
+      "id": "hr-c3f77e41",
+      "type": "noun",
+      "lemma": "prodavaonica",
+      "gender": "ž.",
+      "gen_sg": "prodavaonice",
+      "plural": [
+        "prodavaonice"
+      ],
+      "ua": "магазин (офіційне слово)",
+      "audio": "hr-prodavaonica.mp3",
+      "forms": [
+        "prodavaonicu",
+        "prodavaonici"
+      ],
+      "explain_ua": "(Idem u prodavaonicu = йду в магазин). Офіційний термін: у Zakon o trgovini prodavaonica це торговельний заклад із торговою площею. Його бачиш на вивісках і в документах. У розмові частіше кажуть trgovina або dućan. Знахідний prodavaonicu, місцевий prodavaonici",
+      "check": "Те, що слово prodavaonica рідше в розмові й більше в офіційних текстах, з мого знання; означення з закону дане в джерелі."
+    },
+    {
+      "id": "hr-9137800b",
+      "type": "noun",
+      "lemma": "samoposluga",
+      "gender": "ž.",
+      "gen_sg": "samoposluge",
+      "plural": [
+        "samoposluge"
+      ],
+      "ua": "магазин самообслуговування",
+      "audio": "hr-samoposluga.mp3",
+      "forms": [
+        "samoposlugu",
+        "samoposluzi"
+      ],
+      "explain_ua": "(Kupujem kruh u samoposluzi = купую хліб у магазині самообслуговування). У законі samoposluga це спосіб продажу (самообслуговування), а в побуті так зазвичай називають середній продуктовий магазин. Supermarket це запозичене слово для більшого такого магазину. Знахідний samoposlugu, місцевий samoposluzi: g змінюється на z, як в українському «у книзі»",
+      "check": "Місцевий samoposluzi (g стає z) з мого знання правила про сибілянтизацію, у джерелах не знайдено."
+    },
+    {
+      "id": "hr-b4f6f7b6",
+      "type": "noun",
+      "lemma": "tržnica",
+      "gender": "ž.",
+      "gen_sg": "tržnice",
+      "plural": [
+        "tržnice"
+      ],
+      "ua": "ринок (де продають фрукти, овочі)",
+      "audio": "hr-trznica.mp3",
+      "forms": [
+        "tržnicu",
+        "tržnici"
+      ],
+      "explain_ua": "(Idem na tržnicu = йду на ринок). Tržnica це ринок, відкритий або під дахом, де продають, зокрема, фрукти й овочі. Вживається з na: na tržnicu, na tržnici. Літера ž з гачком. Це не trgovina і не dućan: тут продавці під відкритим небом або в павільйонах"
+    },
+    {
+      "id": "hr-044006bf",
+      "type": "noun",
+      "lemma": "pošta",
+      "gender": "ž.",
+      "gen_sg": "pošte",
+      "plural": [
+        "pošte"
+      ],
+      "ua": "пошта",
+      "audio": "hr-posta.mp3",
+      "forms": [
+        "poštu",
+        "pošti"
+      ],
+      "explain_ua": "(Idem na poštu = йду на пошту). Знахідний poštu, місцевий pošti. Найчастіше кажуть na poštu / na pošti, з na. Іноді чуєш і u poštu, обидві форми трапляються",
+      "check": "Вибір na проти u для pošta: джерела розходяться, один курс має u poštu. Тут вживаю na poštu / na pošti."
+    },
+    {
+      "id": "hr-7402fb6d",
+      "type": "false_friend",
+      "lemma": "banka",
+      "gender": "ž.",
+      "gen_sg": "banke",
+      "plural": [
+        "banke"
+      ],
+      "ua": "банк (установа)",
+      "uk_lookalike": "банка",
+      "uk_means": "банка (скляна ємність)",
+      "audio": "hr-banka.mp3",
+      "forms": [
+        "banku",
+        "banci"
+      ],
+      "explain_ua": "(Majka radi u banci = мама працює в банку). Хорватське banka це банк як установа, а українська банка це ємність, склянка. Для російськомовної пастка та сама: російське банка це ємність. Знахідний banku, місцевий banci: k змінюється на c перед закінченням -i",
+      "check": "Українське банка як ємність і місцевий banci (k стає c) з мого знання, у джерелах не знайдено; список лажних друзів, яким я користуюся, російсько-хорватський."
+    },
+    {
+      "id": "hr-5229eec1",
+      "type": "noun",
+      "lemma": "ljekarna",
+      "gender": "ž.",
+      "gen_sg": "ljekarne",
+      "plural": [
+        "ljekarne"
+      ],
+      "ua": "аптека",
+      "audio": "hr-ljekarna.mp3",
+      "forms": [
+        "ljekarnu",
+        "ljekarni"
+      ],
+      "explain_ua": "(Idem u ljekarnu = йду в аптеку). Lj на початку це один звук «ль». Знахідний ljekarnu, місцевий ljekarni. Вживається з u",
+      "check": "Слово ljekarna і форми ljekarnu, ljekarni з мого знання; сербське apoteka тут не вчимо."
+    },
+    {
+      "id": "hr-6de7cf9e",
+      "type": "noun",
+      "lemma": "park",
+      "gender": "m.",
+      "gen_sg": "parka",
+      "plural": [
+        "parkovi"
+      ],
+      "ua": "парк",
+      "audio": "hr-park.mp3",
+      "forms": [
+        "parku"
+      ],
+      "explain_ua": "(Pas je u parku = пес у парку). Неживе слово чоловічого роду: знахідний u park без змін, місцевий u parku. Множина parkovi з вставкою -ov-, як gradovi"
+    },
+    {
+      "id": "hr-2144c949",
+      "type": "verb",
+      "lemma": "ići",
+      "aspect": "impf.",
+      "partner": "otići",
+      "pres_1sg": "idem",
+      "forms": [
+        "otići",
+        "otiđem"
+      ],
+      "ua": "іти, їхати",
+      "audio": "hr-ici.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "idem",
+          "audio": "hr-ja-idem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "ideš",
+          "audio": "hr-ti-ides.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "ide",
+          "audio": "hr-on-ide.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "idemo",
+          "audio": "hr-mi-idemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "idete",
+          "audio": "hr-vi-idete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "idu",
+          "audio": "hr-oni-idu.mp3"
+        }
+      ],
+      "explain_ua": "(Idem u park = йду в парк). Нерегулярне: інфінітив ići, а в теперішньому основа id-: idem, ideš, ide, idemo, idete, idu. Пара: ići (недок.) / otići (док., otiđem). Після ići іде u або na і знахідний, бо це рух: idem u školu. Українське «іти» і «їхати» тут одне слово",
+      "check": "Перфектив otići і форма otiđem взяті з моєї таблиці, повної таблиці в джерелах не знайдено."
+    },
+    {
+      "id": "hr-5b6febac",
+      "type": "verb",
+      "lemma": "dolaziti",
+      "aspect": "impf.",
+      "partner": "doći",
+      "pres_1sg": "dolazim",
+      "forms": [
+        "doći",
+        "dođem"
+      ],
+      "ua": "приходити, приїжджати",
+      "audio": "hr-dolaziti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "dolazim",
+          "audio": "hr-ja-dolazim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "dolaziš",
+          "audio": "hr-ti-dolazis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "dolazi",
+          "audio": "hr-on-dolazi.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "dolazimo",
+          "audio": "hr-mi-dolazimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "dolazite",
+          "audio": "hr-vi-dolazite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "dolaze",
+          "audio": "hr-oni-dolaze.mp3"
+        }
+      ],
+      "explain_ua": "(Brat dolazi u stan = брат приходить у квартиру). Пара: dolaziti (недок.) / doći (док., dođem). Тип -im, як volim: 3 особа множини dolaze. Після нього u або na і знахідний, як після ići",
+      "check": "Перфектив doći і форма dođem взяті з моєї таблиці, повної таблиці в джерелах не знайдено."
+    },
+    {
+      "id": "hr-fea71d52",
+      "type": "verb",
+      "lemma": "raditi",
+      "aspect": "impf.",
+      "pres_1sg": "radim",
+      "ua": "працювати, робити",
+      "audio": "hr-raditi.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "radim",
+          "audio": "hr-ja-radim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "radiš",
+          "audio": "hr-ti-radis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "radi",
+          "audio": "hr-on-radi.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "radimo",
+          "audio": "hr-mi-radimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "radite",
+          "audio": "hr-vi-radite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "rade",
+          "audio": "hr-oni-rade.mp3"
+        }
+      ],
+      "explain_ua": "(Majka radi u banci = мама працює в банку). Тип -im: radim, radiš, radi, radimo, radite, rade. Raditi значить і «працювати», і «робити». Тут «працювати» з u + місцевий: radim u dućanu",
+      "check": "Пару для raditi не вказано: чи є стандартний перфектив, у цьому уроці не звірено."
+    },
+    {
+      "id": "hr-2d9d765d",
+      "type": "function",
+      "lemma": "kamo",
+      "ua": "куди",
+      "audio": "hr-kamo.mp3",
+      "forms": [
+        "školu",
+        "trgovinu"
+      ],
+      "explain_ua": "(Kamo ideš? = куди ти йдеш?). Kamo питає про рух до місця, а gdje про місце без руху. Після kamo: u/na + знахідний (u školu, u trgovinu), після gdje: u/na + місцевий (u školi, u trgovini). У розмові часто чуєш gdje замість kamo (Gdje ideš?), але стандарт і іспит вимагають kamo. Форми školu, trgovinu це знахідний слів škola, trgovina з Lekcije 1 і 2",
+      "check": "Колоквіальне gdje замість kamo (Gdje ideš?) з мого знання; джерела цього уроку підтверджують лише стандартне розрізнення."
+    },
+    {
+      "id": "hr-fde049b8",
+      "type": "function",
+      "lemma": "sutra",
+      "ua": "завтра",
+      "audio": "hr-sutra.mp3",
+      "explain_ua": "(Sutra idem u banku = завтра йду в банк). Sutra це «завтра», а не «ранок» (слово з мого переліку перевірених російсько-хорватських пасток). Ранок хорватською інше слово, тут його не вчимо. Близькі плани можна сказати теперішнім часом, як в українській: Sutra idem, а не обов'язково майбутнім"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Gdje чи kamo: u školi / u školu",
+      "summary_ua": "Gdje (де) = u/na + місцевий відмінок. Kamo (куди) = u/na + знахідний. Українська й російська мають той самий поділ (у школі / у школу), тож ти його знаєш. Нове лише закінчення: ж. -i / -u, чоловічі неживі в знахідному без змін.",
+      "compare": [
+        {
+          "form": "gdje: стою, перебуваю, місцевий відмінок",
+          "when_ua": "Жіночий рід: -i (u banci, na pošti, u ljekarni). Чоловічий: -u (u dućanu, u parku).",
+          "examples": [
+            {
+              "text": "Majka je u banci.",
+              "ua": "Мама в банку.",
+              "audio": "hr-les05-rule-01.mp3"
+            },
+            {
+              "text": "Brat je na pošti.",
+              "ua": "Брат на пошті.",
+              "audio": "hr-les05-rule-02.mp3"
+            },
+            {
+              "text": "Mi smo u ljekarni.",
+              "ua": "Ми в аптеці.",
+              "audio": "hr-les05-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Banka має зміну k на c: u banci. Така сама зміна в українській: рука, у руці."
+        },
+        {
+          "form": "kamo: іду, приходжу, знахідний відмінок",
+          "when_ua": "Жіночий рід: -a стає -u (u banku, na poštu, u ljekarnu). Рух змінює закінчення, місце розташування ні.",
+          "examples": [
+            {
+              "text": "Majka ide u banku.",
+              "ua": "Мама йде в банк.",
+              "audio": "hr-les05-rule-04.mp3"
+            },
+            {
+              "text": "Brat ide na poštu.",
+              "ua": "Брат йде на пошту.",
+              "audio": "hr-les05-rule-05.mp3"
+            },
+            {
+              "text": "Mi idemo u ljekarnu.",
+              "ua": "Ми йдемо в аптеку.",
+              "audio": "hr-les05-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Пари: je u banci, але ide u banku. Така сама різниця в українській: у банку, але в банк."
+        },
+        {
+          "form": "чоловічий рід: u parku / u park",
+          "when_ua": "Неживі чоловічі слова в знахідному без змін: u park, u dućan. У місцевому -u: u parku, u dućanu.",
+          "examples": [
+            {
+              "text": "Pas je u parku.",
+              "ua": "Пес у парку.",
+              "audio": "hr-les05-rule-07.mp3"
+            },
+            {
+              "text": "Idem u park.",
+              "ua": "Я йду в парк.",
+              "audio": "hr-les05-rule-08.mp3"
+            },
+            {
+              "text": "Brat ide u dućan.",
+              "ua": "Брат іде в магазин.",
+              "audio": "hr-les05-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Тут нова відмінність лише в місцевому (-u). Знахідний у чоловічих неживих слів ти вже знаєш з Lekcije 4."
+        }
+      ],
+      "points_ua": [
+        "Питання: куди (kamo)? Тоді знахідний. Де (gdje)? Тоді місцевий. Жіночий -u проти -i, чоловічий без змін проти -u.",
+        "Після ići, dolaziti, otići, doći завжди рух, тобто знахідний: u školu, не u školi.",
+        "У розмові чуєш Gdje ideš?, але на іспиті пиши Kamo ideš?"
+      ]
+    },
+    {
+      "title_ua": "Ići, dolaziti, raditi: теперішній час",
+      "summary_ua": "Ići нерегулярне: idem, ideš, ide, idemo, idete, idu. Dolaziti і raditi мають тип -im: dolazim, radim. Третя особа множини: idu, dolaze, rade. Українське «іти» і «їхати» тут одне слово ići.",
+      "compare": [
+        {
+          "form": "ići (нерегулярне)",
+          "when_ua": "Основа id-, а закінчення -em, -eš, -e, -emo, -ete, -u: idem, ideš, ide, idemo, idete, idu.",
+          "examples": [
+            {
+              "text": "Ja idem u park.",
+              "ua": "Я йду в парк.",
+              "audio": "hr-les05-rule-10.mp3"
+            },
+            {
+              "text": "Ti ideš u dućan.",
+              "ua": "Ти йдеш у магазин.",
+              "audio": "hr-les05-rule-11.mp3"
+            },
+            {
+              "text": "Djeca idu u školu.",
+              "ua": "Діти йдуть у школу.",
+              "audio": "hr-les05-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з українським іду, ідеш: основа id- нагадує, а закінчення -m інше."
+        },
+        {
+          "form": "dolaziti і raditi: тип -im",
+          "when_ua": "Закінчення -im, -iš, -i, -imo, -ite, -e: dolazim, dolaziš, dolazi; radim, radiš, radi.",
+          "examples": [
+            {
+              "text": "Brat dolazi u stan.",
+              "ua": "Брат приходить у квартиру.",
+              "audio": "hr-les05-rule-13.mp3"
+            },
+            {
+              "text": "Majka radi u banci.",
+              "ua": "Мама працює в банку.",
+              "audio": "hr-les05-rule-14.mp3"
+            },
+            {
+              "text": "Mi radimo u dućanu.",
+              "ua": "Ми працюємо в магазині.",
+              "audio": "hr-les05-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Dolaziti веде до місця (знахідний: dolazim u stan), raditi до місця роботи (місцевий: radim u dućanu). Дієслово визначає відмінок."
+        }
+      ],
+      "points_ua": [
+        "Закінчення: -m, -š, нічого або -e, -mo, -te, -u / -e. Тип -im і тип -am (Lekcija 2) відрізняються лише 3 особою множини: dolaze проти čitaju.",
+        "Руху стосуються ići, dolaziti (знахідний), а працювати і бути стосується місцевого відмінка (radim u banci, sam u banci)."
+      ]
+    },
+    {
+      "title_ua": "Магазин: dućan, trgovina, prodavaonica, samoposluga, tržnica",
+      "summary_ua": "Кілька слів для «магазин», і різниця переважно в стилі й типі. Trgovina це нейтральне щоденне слово. Dućan розмовне, для невеликого магазину. Prodavaonica офіційне (вивіски, закон). Samoposluga магазин самообслуговування. Tržnica ринок.",
+      "compare": [
+        {
+          "form": "dućan і trgovina",
+          "when_ua": "Обидва слова щоденні. Trgovina універсальне (також «торгівля»). Dućan звучить розмовніше й домашніше.",
+          "examples": [
+            {
+              "text": "Idem u dućan.",
+              "ua": "Я йду в магазин.",
+              "audio": "hr-les05-rule-16.mp3"
+            },
+            {
+              "text": "Idem u trgovinu.",
+              "ua": "Я йду в магазин.",
+              "audio": "hr-les05-rule-17.mp3"
+            },
+            {
+              "text": "Majka radi u trgovini.",
+              "ua": "Мама працює в магазині.",
+              "audio": "hr-les05-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Українською обидва «магазин». Для іспиту й письма безпечне trgovina."
+        },
+        {
+          "form": "prodavaonica і samoposluga",
+          "when_ua": "Prodavaonica це офіційне слово (закон, вивіски). Samoposluga це магазин самообслуговування, тобто зазвичай продуктовий.",
+          "examples": [
+            {
+              "text": "Idem u prodavaonicu.",
+              "ua": "Я йду в магазин.",
+              "audio": "hr-les05-rule-19.mp3"
+            },
+            {
+              "text": "Kupujem kruh u samoposluzi.",
+              "ua": "Я купую хліб у магазині самообслуговування.",
+              "audio": "hr-les05-rule-20.mp3"
+            },
+            {
+              "text": "Danas sam u prodavaonici.",
+              "ua": "Сьогодні я в магазині.",
+              "audio": "hr-les05-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Supermarket це запозичене слово для більшого магазину самообслуговування. У житті ти почуєш і його."
+        },
+        {
+          "form": "tržnica: ринок",
+          "when_ua": "Tržnica це ринок, де продавці продають фрукти, овочі та інше. Вживається з na: na tržnicu, na tržnici.",
+          "examples": [
+            {
+              "text": "Idemo na tržnicu.",
+              "ua": "Ми йдемо на ринок.",
+              "audio": "hr-les05-rule-22.mp3"
+            },
+            {
+              "text": "Voće je na tržnici.",
+              "ua": "Фрукти на ринку.",
+              "audio": "hr-les05-rule-23.mp3"
+            },
+            {
+              "text": "Brat kupuje voće na tržnici.",
+              "ua": "Брат купує фрукти на ринку.",
+              "audio": "hr-les05-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Tržnica це не trgovina: там інший тип продажу, під відкритим небом або в павільйоні."
+        }
+      ],
+      "points_ua": [
+        "Швидка схема. Звичайний магазин поруч: trgovina (нейтральне) або dućan (розмовне). Офіційно: prodavaonica. Продукти самообслуговування: samoposluga або supermarket. Ринок: tržnica.",
+        "У розмові всі вони часто взаємозамінні. Дещо з цього я не можу підтвердити з джерел, тому слова dućan і prodavaonica мають позначку «?».",
+        "Сербське prodavnica це інший стандарт, на іспиті його не пиши."
+      ]
+    },
+    {
+      "title_ua": "Питання й близькі плани: Kamo ideš? Sutra idem",
+      "summary_ua": "Kamo ideš? питає про напрям, gdje si? про місце. Близькі плани кажуть теперішнім часом із sutra або danas, як в українській.",
+      "compare": [
+        {
+          "form": "питання kamo і gdje",
+          "when_ua": "Kamo на першому місці, потім дієслово: Kamo ideš? Gdje на першому місці, потім biti: Gdje je majka?",
+          "examples": [
+            {
+              "text": "Kamo ideš?",
+              "ua": "Куди ти йдеш?",
+              "audio": "hr-les05-rule-25.mp3"
+            },
+            {
+              "text": "Kamo idu djeca?",
+              "ua": "Куди йдуть діти?",
+              "audio": "hr-les05-rule-26.mp3"
+            },
+            {
+              "text": "Gdje je majka?",
+              "ua": "Де мама?",
+              "audio": "hr-les05-rule-27.mp3"
+            }
+          ],
+          "note_ua": "У розмові чуєш Gdje ideš?, але стандарт kamo."
+        },
+        {
+          "form": "sutra, danas + теперішній час",
+          "when_ua": "Sutra idem u banku це «завтра йду в банк». Слово sutra і danas на першому місці, а клітик (je, sam, smo) іде одразу за ним.",
+          "examples": [
+            {
+              "text": "Sutra idem u banku.",
+              "ua": "Завтра я йду в банк.",
+              "audio": "hr-les05-rule-28.mp3"
+            },
+            {
+              "text": "Danas sam u gradu, a sutra sam u parku.",
+              "ua": "Сьогодні я в місті, а завтра в парку.",
+              "audio": "hr-les05-rule-29.mp3"
+            },
+            {
+              "text": "Sutra dolazi brat.",
+              "ua": "Завтра приходить брат.",
+              "audio": "hr-les05-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Другий приклад показує різницю: danas sam u gradu (місце), але sutra idem u park (рух)."
+        }
+      ],
+      "points_ua": [
+        "Питай kamo ideš? і відповідай u/na + знахідний. Питай gdje si? і відповідай u/na + місцевий.",
+        "Близькі плани кажуть теперішнім часом (Sutra idem u banku): так само, як в українській."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Idem u dućan.",
+      "ua": "Я йду в магазин.",
+      "audio": "hr-les05-example-01.mp3"
+    },
+    {
+      "text": "Majka ide u banku.",
+      "ua": "Мама йде в банк.",
+      "audio": "hr-les05-example-02.mp3"
+    },
+    {
+      "text": "Dijete ide u školu.",
+      "ua": "Дитина йде в школу.",
+      "audio": "hr-les05-example-03.mp3"
+    },
+    {
+      "text": "Mi idemo na poštu.",
+      "ua": "Ми йдемо на пошту.",
+      "audio": "hr-les05-example-04.mp3"
+    },
+    {
+      "text": "Brat je u dućanu.",
+      "ua": "Брат у магазині.",
+      "audio": "hr-les05-example-05.mp3"
+    },
+    {
+      "text": "Majka radi u banci.",
+      "ua": "Мама працює в банку.",
+      "audio": "hr-les05-example-06.mp3"
+    },
+    {
+      "text": "Mi smo na pošti.",
+      "ua": "Ми на пошті.",
+      "audio": "hr-les05-example-07.mp3"
+    },
+    {
+      "text": "Idem u ljekarnu, a ti ideš u park.",
+      "ua": "Я йду в аптеку, а ти йдеш у парк.",
+      "audio": "hr-les05-example-08.mp3"
+    },
+    {
+      "text": "Kamo ideš?",
+      "ua": "Куди ти йдеш?",
+      "audio": "hr-les05-example-09.mp3"
+    },
+    {
+      "text": "Idem na tržnicu.",
+      "ua": "Я йду на ринок.",
+      "audio": "hr-les05-example-10.mp3"
+    },
+    {
+      "text": "Voće je na tržnici.",
+      "ua": "Фрукти на ринку.",
+      "audio": "hr-les05-example-11.mp3"
+    },
+    {
+      "text": "Kupujem kruh u samoposluzi.",
+      "ua": "Я купую хліб у магазині самообслуговування.",
+      "audio": "hr-les05-example-12.mp3"
+    },
+    {
+      "text": "Sutra dolazim u grad.",
+      "ua": "Завтра я приходжу в місто.",
+      "audio": "hr-les05-example-13.mp3"
+    },
+    {
+      "text": "Danas sam u prodavaonici.",
+      "ua": "Сьогодні я в магазині.",
+      "audio": "hr-les05-example-14.mp3"
+    },
+    {
+      "text": "Djeca idu u park.",
+      "ua": "Діти йдуть у парк.",
+      "audio": "hr-les05-example-15.mp3"
+    },
+    {
+      "text": "Brat dolazi u stan.",
+      "ua": "Брат приходить у квартиру.",
+      "audio": "hr-les05-example-16.mp3"
+    },
+    {
+      "text": "Idem u trgovinu, a majka je u dućanu.",
+      "ua": "Я йду в магазин, а мама в магазині.",
+      "audio": "hr-les05-example-17.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U gradu",
+    "title_ua": "У місті",
+    "highlight": [
+      "hr-a65f306c",
+      "hr-b4f6f7b6",
+      "hr-7402fb6d",
+      "hr-6de7cf9e",
+      "hr-2d9d765d",
+      "hr-fde049b8"
+    ],
+    "sentences": [
+      {
+        "text": "Danas idem u grad.",
+        "ua": "Сьогодні я йду в місто.",
+        "audio": "hr-les05-reading-01.mp3"
+      },
+      {
+        "text": "Idem u banku.",
+        "ua": "Я йду в банк.",
+        "audio": "hr-les05-reading-02.mp3"
+      },
+      {
+        "text": "Majka radi u dućanu.",
+        "ua": "Мама працює в магазині.",
+        "audio": "hr-les05-reading-03.mp3"
+      },
+      {
+        "text": "Ona kupuje kruh i mlijeko.",
+        "ua": "Вона купує хліб і молоко.",
+        "audio": "hr-les05-reading-04.mp3"
+      },
+      {
+        "text": "Brat je u parku.",
+        "ua": "Брат у парку.",
+        "audio": "hr-les05-reading-05.mp3"
+      },
+      {
+        "text": "Kamo idu djeca?",
+        "ua": "Куди йдуть діти?",
+        "audio": "hr-les05-reading-06.mp3"
+      },
+      {
+        "text": "Djeca idu u školu.",
+        "ua": "Діти йдуть у школу.",
+        "audio": "hr-les05-reading-07.mp3"
+      },
+      {
+        "text": "Sutra idem na tržnicu.",
+        "ua": "Завтра я йду на ринок.",
+        "audio": "hr-les05-reading-08.mp3"
+      },
+      {
+        "text": "Kupujem voće na tržnici.",
+        "ua": "Я купую фрукти на ринку.",
+        "audio": "hr-les05-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я йду в магазин.",
+          "accepted": [
+            "Idem u dućan.",
+            "Ja idem u dućan.",
+            "Idem u trgovinu.",
+            "Ja idem u trgovinu."
+          ]
+        },
+        {
+          "prompt": "Мама йде в банк.",
+          "accepted": [
+            "Majka ide u banku."
+          ]
+        },
+        {
+          "prompt": "Дитина йде в школу.",
+          "accepted": [
+            "Dijete ide u školu."
+          ]
+        },
+        {
+          "prompt": "Ми йдемо на пошту.",
+          "accepted": [
+            "Idemo na poštu.",
+            "Mi idemo na poštu."
+          ]
+        },
+        {
+          "prompt": "Брат у магазині.",
+          "accepted": [
+            "Brat je u dućanu.",
+            "Brat je u trgovini."
+          ]
+        },
+        {
+          "prompt": "Мама працює в банку.",
+          "accepted": [
+            "Majka radi u banci."
+          ]
+        },
+        {
+          "prompt": "Ми на пошті.",
+          "accepted": [
+            "Mi smo na pošti.",
+            "Na pošti smo."
+          ]
+        },
+        {
+          "prompt": "Я йду в аптеку, а ти йдеш у парк.",
+          "accepted": [
+            "Idem u ljekarnu, a ti ideš u park.",
+            "Ja idem u ljekarnu, a ti ideš u park."
+          ]
+        },
+        {
+          "prompt": "Куди ти йдеш?",
+          "accepted": [
+            "Kamo ideš?",
+            "Kamo ti ideš?"
+          ]
+        },
+        {
+          "prompt": "Я йду на ринок.",
+          "accepted": [
+            "Idem na tržnicu.",
+            "Ja idem na tržnicu."
+          ]
+        },
+        {
+          "prompt": "Фрукти на ринку.",
+          "accepted": [
+            "Voće je na tržnici."
+          ]
+        },
+        {
+          "prompt": "Я купую хліб у магазині самообслуговування.",
+          "accepted": [
+            "Kupujem kruh u samoposluzi.",
+            "Ja kupujem kruh u samoposluzi."
+          ]
+        },
+        {
+          "prompt": "Завтра я приходжу в місто.",
+          "accepted": [
+            "Sutra dolazim u grad.",
+            "Sutra ja dolazim u grad."
+          ]
+        },
+        {
+          "prompt": "Діти йдуть у парк.",
+          "accepted": [
+            "Djeca idu u park."
+          ]
+        },
+        {
+          "prompt": "Брат приходить у квартиру.",
+          "accepted": [
+            "Brat dolazi u stan."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "banku",
+        "banci",
+        "školu",
+        "školi",
+        "poštu",
+        "pošti",
+        "ljekarnu",
+        "ljekarni",
+        "dućan",
+        "dućanu",
+        "park",
+        "parku",
+        "tržnicu",
+        "tržnici",
+        "samoposluzi",
+        "prodavaonicu"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Majka ide u ___.",
+          "hint": "Мама йде в банк.",
+          "accepted": [
+            [
+              "banku"
+            ]
+          ]
+        },
+        {
+          "text": "Majka je u ___.",
+          "hint": "Мама в банку.",
+          "accepted": [
+            [
+              "banci"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete ide u ___.",
+          "hint": "Дитина йде в школу.",
+          "accepted": [
+            [
+              "školu"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete je u ___.",
+          "hint": "Дитина в школі.",
+          "accepted": [
+            [
+              "školi"
+            ]
+          ]
+        },
+        {
+          "text": "Mi idemo na ___.",
+          "hint": "Ми йдемо на пошту.",
+          "accepted": [
+            [
+              "poštu"
+            ]
+          ]
+        },
+        {
+          "text": "Mi smo na ___.",
+          "hint": "Ми на пошті.",
+          "accepted": [
+            [
+              "pošti"
+            ]
+          ]
+        },
+        {
+          "text": "Idem u ___.",
+          "hint": "Я йду в аптеку.",
+          "accepted": [
+            [
+              "ljekarnu"
+            ]
+          ]
+        },
+        {
+          "text": "Brat je u ___.",
+          "hint": "Брат в аптеці.",
+          "accepted": [
+            [
+              "ljekarni"
+            ]
+          ]
+        },
+        {
+          "text": "Ja idem u ___.",
+          "hint": "Я йду в магазин.",
+          "accepted": [
+            [
+              "dućan"
+            ]
+          ]
+        },
+        {
+          "text": "Brat je u ___.",
+          "hint": "Брат у магазині.",
+          "accepted": [
+            [
+              "dućanu"
+            ]
+          ]
+        },
+        {
+          "text": "Idem u ___.",
+          "hint": "Я йду в парк.",
+          "accepted": [
+            [
+              "park"
+            ]
+          ]
+        },
+        {
+          "text": "Pas je u ___.",
+          "hint": "Пес у парку.",
+          "accepted": [
+            [
+              "parku"
+            ]
+          ]
+        },
+        {
+          "text": "Idem na ___.",
+          "hint": "Я йду на ринок.",
+          "accepted": [
+            [
+              "tržnicu"
+            ]
+          ]
+        },
+        {
+          "text": "Voće je na ___.",
+          "hint": "Фрукти на ринку.",
+          "accepted": [
+            [
+              "tržnici"
+            ]
+          ]
+        },
+        {
+          "text": "Kupujem kruh u ___.",
+          "hint": "Я купую хліб у магазині самообслуговування.",
+          "accepted": [
+            [
+              "samoposluzi"
+            ]
+          ]
+        },
+        {
+          "text": "Idem u ___.",
+          "hint": "Я йду в магазин (офіційне слово).",
+          "accepted": [
+            [
+              "prodavaonicu"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: куди або де, інша особа або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Majka je u banci.",
+          "cue": "-> куди? (ide)",
+          "accepted": [
+            "Majka ide u banku."
+          ]
+        },
+        {
+          "prompt": "Dijete je u školi.",
+          "cue": "-> куди? (ide)",
+          "accepted": [
+            "Dijete ide u školu."
+          ]
+        },
+        {
+          "prompt": "Brat je na pošti.",
+          "cue": "-> куди? (ide)",
+          "accepted": [
+            "Brat ide na poštu."
+          ]
+        },
+        {
+          "prompt": "Mi smo u ljekarni.",
+          "cue": "-> куди? (idemo)",
+          "accepted": [
+            "Mi idemo u ljekarnu.",
+            "Idemo u ljekarnu."
+          ]
+        },
+        {
+          "prompt": "Pas je u parku.",
+          "cue": "-> куди? (ide)",
+          "accepted": [
+            "Pas ide u park."
+          ]
+        },
+        {
+          "prompt": "Sin je u dućanu.",
+          "cue": "-> куди? (ide)",
+          "accepted": [
+            "Sin ide u dućan."
+          ]
+        },
+        {
+          "prompt": "Majka ide u banku.",
+          "cue": "-> де? (je)",
+          "accepted": [
+            "Majka je u banci."
+          ]
+        },
+        {
+          "prompt": "Dijete ide u školu.",
+          "cue": "-> де? (je)",
+          "accepted": [
+            "Dijete je u školi."
+          ]
+        },
+        {
+          "prompt": "Mi idemo na tržnicu.",
+          "cue": "-> де? (smo)",
+          "accepted": [
+            "Mi smo na tržnici."
+          ]
+        },
+        {
+          "prompt": "Brat ide u park.",
+          "cue": "-> де? (je)",
+          "accepted": [
+            "Brat je u parku."
+          ]
+        },
+        {
+          "prompt": "Ja idem u dućan.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi idemo u dućan."
+          ]
+        },
+        {
+          "prompt": "Ja dolazim u grad.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi dolazimo u grad."
+          ]
+        },
+        {
+          "prompt": "Idem u banka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem u banku."
+          ]
+        },
+        {
+          "prompt": "Majka je u banku.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka je u banci."
+          ]
+        },
+        {
+          "prompt": "Idem u školi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem u školu."
+          ]
+        },
+        {
+          "prompt": "Brat je u dućan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Brat je u dućanu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ u park.",
+          "cue": "ići",
+          "accepted": [
+            "idem"
+          ]
+        },
+        {
+          "text": "Ti ___ u dućan.",
+          "cue": "ići",
+          "accepted": [
+            "ideš"
+          ]
+        },
+        {
+          "text": "Brat ___ u školu.",
+          "cue": "ići",
+          "accepted": [
+            "ide"
+          ]
+        },
+        {
+          "text": "Mi ___ u banku.",
+          "cue": "ići",
+          "accepted": [
+            "idemo"
+          ]
+        },
+        {
+          "text": "Vi ___ na poštu.",
+          "cue": "ići",
+          "accepted": [
+            "idete"
+          ]
+        },
+        {
+          "text": "Djeca ___ u park.",
+          "cue": "ići",
+          "accepted": [
+            "idu"
+          ]
+        },
+        {
+          "text": "Ja ___ u grad.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolazim"
+          ]
+        },
+        {
+          "text": "Ti ___ u stan.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolaziš"
+          ]
+        },
+        {
+          "text": "Brat ___ u grad.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolazi"
+          ]
+        },
+        {
+          "text": "Mi ___ u stan.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolazimo"
+          ]
+        },
+        {
+          "text": "Djeca ___ u školu.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolaze"
+          ]
+        },
+        {
+          "text": "Ja ___ u banci.",
+          "cue": "raditi",
+          "accepted": [
+            "radim"
+          ]
+        },
+        {
+          "text": "Ti ___ u dućanu.",
+          "cue": "raditi",
+          "accepted": [
+            "radiš"
+          ]
+        },
+        {
+          "text": "Majka ___ u trgovini.",
+          "cue": "raditi",
+          "accepted": [
+            "radi"
+          ]
+        },
+        {
+          "text": "Mi ___ u banci.",
+          "cue": "raditi",
+          "accepted": [
+            "radimo"
+          ]
+        },
+        {
+          "text": "Oni ___ u ljekarni.",
+          "cue": "raditi",
+          "accepted": [
+            "rade"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "магазин (розмовне, невеликий)",
+          "answer": "dućan"
+        },
+        {
+          "prompt": "магазин (офіційне слово)",
+          "answer": "prodavaonica"
+        },
+        {
+          "prompt": "магазин (нейтральне, щоденне)",
+          "answer": "trgovina"
+        },
+        {
+          "prompt": "магазин самообслуговування",
+          "answer": "samoposluga"
+        },
+        {
+          "prompt": "ринок",
+          "answer": "tržnica"
+        },
+        {
+          "prompt": "пошта",
+          "answer": "pošta"
+        },
+        {
+          "prompt": "аптека",
+          "answer": "ljekarna"
+        },
+        {
+          "prompt": "парк",
+          "answer": "park"
+        },
+        {
+          "prompt": "банк (установа)",
+          "answer": "banka"
+        },
+        {
+          "prompt": "куди",
+          "answer": "kamo"
+        },
+        {
+          "prompt": "завтра",
+          "answer": "sutra"
+        },
+        {
+          "prompt": "іти, їхати",
+          "answer": "ići"
+        },
+        {
+          "prompt": "приходити",
+          "answer": "dolaziti"
+        },
+        {
+          "prompt": "працювати",
+          "answer": "raditi"
+        }
+      ],
+      "extra": [
+        "otići",
+        "doći"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "false_friend"
+      ]
+    }
+  ]
+}
