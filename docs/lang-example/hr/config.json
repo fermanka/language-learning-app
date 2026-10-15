@@ -1,0 +1,170 @@
+{
+  "lang": "hr",
+  "name": "Hrvatski",
+  "teacher": "josip",
+  "tts_persona": "josip",
+  "stt_language": "hr",
+  "ui": {
+    "pill": "Hrvatski · Josip",
+    "banner": "Хорватська з Йосипом. Уроки й вправи пише викладач Йосип.",
+    "teacher_dat": "Йосипу",
+    "teacher_gen": "Йосипа",
+    "lang_adj": "Хорватська",
+    "titles": {
+      "Nieuw": "Novo",
+      "Nieuwe woorden": "Nove riječi",
+      "Voorbeelden": "Primjeri",
+      "Lezen": "Čitanje",
+      "Oefenen": "Vježbe",
+      "Flitskaarten": "Kartice",
+      "Teksten": "Tekstovi",
+      "Woorden": "Riječi",
+      "Tijden": "Vremena",
+      "Voortgang": "Napredak"
+    },
+    "teacher_nom": "Йосип",
+    "teacher_pron_dat": "йому",
+    "lesson_word": "Lekcija"
+  },
+  "size_rules": {
+    "from_lesson": 99,
+    "examples": [
+      1,
+      99
+    ],
+    "items": [
+      1,
+      99
+    ],
+    "matching": [
+      1,
+      99
+    ],
+    "dictation_max": 99
+  },
+  "note_types": {
+    "noun": {
+      "required": [
+        "lemma",
+        "gender",
+        "gen_sg",
+        "ua"
+      ],
+      "optional": [
+        "plural",
+        "plural_only",
+        "audio",
+        "audio_text",
+        "dictation",
+        "explain_ua",
+        "note",
+        "forms"
+      ],
+      "enums": {
+        "gender": [
+          "m.",
+          "ž.",
+          "s."
+        ]
+      }
+    },
+    "verb": {
+      "required": [
+        "lemma",
+        "aspect",
+        "pres_1sg",
+        "ua"
+      ],
+      "optional": [
+        "partner",
+        "paradigm",
+        "audio",
+        "audio_text",
+        "dictation",
+        "explain_ua",
+        "note",
+        "forms"
+      ],
+      "enums": {
+        "aspect": [
+          "impf.",
+          "pf.",
+          "biaspectual"
+        ]
+      }
+    },
+    "adjective": {
+      "required": [
+        "lemma",
+        "ua"
+      ],
+      "optional": [
+        "fem",
+        "neut",
+        "definite_note",
+        "audio",
+        "audio_text",
+        "dictation",
+        "explain_ua",
+        "forms"
+      ]
+    },
+    "numeral": {
+      "required": [
+        "lemma",
+        "digit",
+        "ua"
+      ],
+      "optional": [
+        "audio",
+        "audio_text",
+        "dictation",
+        "explain_ua",
+        "forms"
+      ]
+    },
+    "function": {
+      "required": [
+        "lemma",
+        "ua"
+      ],
+      "optional": [
+        "audio",
+        "audio_text",
+        "dictation",
+        "explain_ua",
+        "forms"
+      ]
+    },
+    "clitic": {
+      "required": [
+        "lemma",
+        "ua",
+        "slot"
+      ],
+      "optional": [
+        "audio",
+        "audio_text",
+        "dictation",
+        "explain_ua",
+        "example_order",
+        "forms"
+      ]
+    },
+    "false_friend": {
+      "required": [
+        "lemma",
+        "ua",
+        "uk_lookalike",
+        "uk_means"
+      ],
+      "optional": [
+        "audio",
+        "audio_text",
+        "dictation",
+        "explain_ua",
+        "forms"
+      ]
+    }
+  }
+}

@@ -28,6 +28,7 @@
            background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px 20px; }
   .lang { display: flex; align-items: center; gap: 12px; font-weight: 600; }
   .pill { background: var(--pill); color: var(--accent); border-radius: 999px; padding: 4px 14px; font-weight: 500; }
+  select.pill { border: 0; font: inherit; font-weight: 500; cursor: pointer; }
   nav { display: flex; gap: 20px; }
   nav button { background: none; border: 0; padding: 4px 0; font: inherit; color: var(--muted); cursor: pointer; border-bottom: 2px solid transparent; }
   nav button:hover { color: var(--ink); }
@@ -273,7 +274,7 @@
   <div class="banner">МАКЕТ з реальними уроками Les 1-11. Слова з твого зошита, речення й вправи від Марійке.</div>
 
   <header>
-    <div class="lang"><span>Мова</span><span class="pill">Nederlands · Marieke</span></div>
+    <div class="lang"><span>Мова</span><select class="pill lang-select" aria-label="Мова"></select></div>
     <nav id="nav">
       <button data-view="today" class="active">Сьогодні</button>
       <button data-view="cards">Картки</button>
@@ -375,7 +376,7 @@
   </section>
 
   <header class="bottom-bar">
-    <div class="lang"><span>Мова</span><span class="pill">Nederlands · Marieke</span></div>
+    <div class="lang"><span>Мова</span><select class="pill lang-select" aria-label="Мова"></select></div>
     <nav class="nav-bottom">
       <button data-view="today" class="active">Сьогодні</button>
       <button data-view="cards">Картки</button>
@@ -389,8 +390,17 @@
 <div id="toast"></div>
 
 <script src="audio-paths.local.js"></script>
-<script src="lessons.data.js"></script>
-<script src="tenses.data.js"></script>
+<script src="languages.data.js"></script>
+<script>
+  // One language per page load: ?lang=hr for one visit, otherwise the one chosen in the header (remembered), otherwise the first.
+  (function () {
+    var langs = (window.LANGS || []).map(function (l) { return l.lang; });
+    var q = /[?&]lang=([a-z]{2})/.exec(location.search), saved = null;
+    try { saved = localStorage.getItem("lang"); } catch (e) { /* storage blocked */ }
+    var lang = [q && q[1], saved].filter(function (l) { return langs.indexOf(l) !== -1; })[0] || langs[0] || "nl";
+    document.write('<script src="lessons.' + lang + '.data.js"><\/script><script src="tenses.' + lang + '.data.js"><\/script>');
+  })();
+</script>
 <script src="../node_modules/ts-fsrs/dist/index.umd.js"></script>
 <script src="progress-store.js"></script>
 <script src="cards.js"></script>

@@ -4,6 +4,20 @@
   "teacher": "marieke",
   "tts_persona": "marieke",
   "stt_language": "nl",
+  "ui": {
+    "pill": "Nederlands · Marieke",
+    "banner": "МАКЕТ з реальними уроками. Слова з твого зошита, речення й вправи від Марійке.",
+    "teacher_dat": "Марійке",
+    "teacher_gen": "Марійке",
+    "lang_adj": "Нідерландська",
+    "teacher_nom": "Марійке",
+    "teacher_pron_dat": "їй",
+    "lesson_word": "Les"
+  },
+  "always_known": [
+    "de",
+    "het"
+  ],
   "note_types": {
     "noun": {
       "required": [
@@ -16,7 +30,13 @@
         "audio",
         "plural_only",
         "explain_ua"
-      ]
+      ],
+      "enums": {
+        "article": [
+          "de",
+          "het"
+        ]
+      }
     },
     "adjective": {
       "required": [

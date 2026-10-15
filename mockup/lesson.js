@@ -4,14 +4,25 @@ const AUDIO_BASES = (typeof window !== 'undefined' && window.AUDIO_BASES) || [];
 
 const norm = (s) => s.toLowerCase().trim().replace(/\s+/g, ' ').replace(/[.!?]+$/, '').trim();
 const isAccepted = (value, accepted) => accepted.some((a) => norm(a) === norm(value));
-const display = (n) => (n.type === 'noun' ? `${n.article} ${n.lemma}` : n.lemma);
+// A noun with an article (Dutch) is written with it; a noun without one (Croatian: gender is shown in the hint line) is just the lemma.
+const display = (n) => (n.type === 'noun' && n.article ? `${n.article} ${n.lemma}` : n.lemma);
+// A sentence is stored under "text" (new languages) or "nl" (the first language kept its old key).
+const sentenceOf = (e) => (e.text !== undefined ? e.text : e.nl);
 const pluralText = (n) => {
+  // Notes that carry grammar fields instead of an article: noun = gender, genitive singular, plural; verb = aspect, partner, 1st person singular.
+  if (n.type === 'noun' && n.gender) {
+    const parts = [n.gender, `G. ${n.gen_sg}`];
+    if (n.plural_only) parts.push('тільки мн.');
+    else if (n.plural && n.plural.length) parts.push(`мн. ${n.plural.join(', ')}`);
+    return `(${parts.join(', ')})`;
+  }
+  if (n.type === 'verb' && n.aspect) return `(${[n.aspect + (n.partner ? ' / ' + n.partner : ''), n.pres_1sg].join(', ')})`;
   if (n.plural_only) return '(тільки мн.)';
   if (!n.plural || !n.plural.length) return '';
   const [first, ...rest] = n.plural;
   return `(de ${first}${rest.length ? `, також: ${rest.map((r) => 'de ' + r).join(', ')}` : ''})`;
 };
-const surfaces = (n) => [display(n), ...(n.plural || []).map((p) => 'de ' + p), ...(n.type === 'noun' ? [...(n.plural || []), n.lemma] : [])];
+const surfaces = (n) => [display(n), ...(n.plural || []).map((p) => 'de ' + p), ...(n.type === 'noun' ? [...(n.plural || []), n.lemma] : []), ...(n.forms || [])];
 
 // "Ik heb **geen** boek." -> [{text:'Ik heb '}, {text:'geen', bold:true}, {text:' boek.'}]
 function richParts(text) {
@@ -81,9 +92,31 @@ const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.
 const flaggedNotes = (lessons) => lessons.flatMap((L) => L.notes.filter((n) => n.check).map((note) => ({ order: L.order, note })));
 
 if (typeof document === 'undefined') {
-  module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes, flaggedNotes };
+  module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes, flaggedNotes, sentenceOf };
 } else {
   const LESSONS = window.LESSONS;
+  // The language of this page (lesson.html loads one language's files): its name, teacher and UI words. Defaults = the first language.
+  const LANG = window.LANG || { lang: 'nl', ui: {} };
+  const UI = LANG.ui || {};
+  const T = { nom: UI.teacher_nom || 'Марійке', dat: UI.teacher_dat || 'Марійке', pron: UI.teacher_pron_dat || 'їй' };
+  const LANG_ADJ = UI.lang_adj || 'Нідерландська';
+  const LESSON_WORD = UI.lesson_word || 'Les';
+  // Other languages prefix the file names they save, so two languages' recordings of "lesson 1" never collide.
+  const FILE_PREFIX = LANG.lang && LANG.lang !== 'nl' ? LANG.lang + '-' : '';
+  // Texts that sit in lesson.html: the foreign word under each heading, the banner, the card directions and the language selector.
+  (function applyLangUi() {
+    if (typeof document.querySelector !== 'function' || typeof document.querySelectorAll !== 'function') return;   // the fake page of the smoke test has no selectors
+    document.querySelectorAll('.dutch').forEach((sp) => { const t = (UI.titles || {})[sp.textContent.trim()]; if (t) sp.textContent = t; });
+    const banner = document.querySelector('.banner');
+    if (banner && UI.banner) banner.textContent = UI.banner;
+    const dir = document.getElementById('cards-dir');
+    if (dir && dir.children.length === 2) { dir.children[0].textContent = `${LANG_ADJ} → українська`; dir.children[1].textContent = `Українська → ${LANG_ADJ.toLowerCase()}`; }
+    document.querySelectorAll('select.lang-select').forEach((sel) => {
+      (window.LANGS || []).forEach((l) => { const o = document.createElement('option'); o.value = l.lang; o.textContent = l.pill; sel.append(o); });
+      sel.value = LANG.lang;
+      sel.onchange = () => { try { localStorage.setItem('lang', sel.value); } catch (e) { /* storage blocked: the choice lasts until reload */ } location.href = location.pathname; };
+    });
+  })();
   let current = 0;
   let firstVisit = false;   // nothing remembered: the first connected folder decides where to start
   const PS = window.ProgressStore;
@@ -144,7 +177,7 @@ if (typeof document === 'undefined') {
       const col = el('div', 'cmp');
       col.append(el('div', 'cmp-h', c.form), el('p', 'meta', c.when_ua));
       const ul = el('ul', 'cmp-ex');
-      c.examples.forEach((e) => { const li = el('li'); rich(li, e.nl); li.append(document.createTextNode(' '), iconBtn(e.audio), el('div', 'meta', e.ua)); ul.append(li); });
+      c.examples.forEach((e) => { const li = el('li'); rich(li, sentenceOf(e)); li.append(document.createTextNode(' '), iconBtn(e.audio), el('div', 'meta', e.ua)); ul.append(li); });
       col.append(ul, el('p', 'cmp-note', c.note_ua));
       grid.append(col);
     });
@@ -157,7 +190,7 @@ if (typeof document === 'undefined') {
     container.innerHTML = '';
     L.reading.sentences.forEach((s) => {
       const line = el('div', 'sentence');
-      splitTerms(s.nl, highlighted).forEach((p) => {
+      splitTerms(sentenceOf(s), highlighted).forEach((p) => {
         if (!p.note) { line.append(document.createTextNode(p.text)); return; }
         const t = el('span', 'term'); t.tabIndex = 0; t.append(document.createTextNode(p.text));
         const tip = el('span', 'tip'), box = el('div');
@@ -273,7 +306,7 @@ if (typeof document === 'undefined') {
       if (LESSONS[current].id !== L.id || !res) return;   // the learner moved to another lesson, or there is no file
       if (res.error) { note(`Файл додаткової практики не вдалося прочитати: ${res.error}`, 'meta warn'); return; }
       const v = window.ExtraPractice.validateExtra(res.data, L.id);
-      if (v.errors.length) { note(`Файл додаткової практики має помилки, скажи Марійке: ${v.errors.slice(0, 3).join('; ')}`, 'meta warn'); return; }
+      if (v.errors.length) { note(`Файл додаткової практики має помилки, скажи ${T.dat}: ${v.errors.slice(0, 3).join('; ')}`, 'meta warn'); return; }
       box.innerHTML = '';
       box.append(el('h3', 'sub', 'Додаткова практика'));
       if (res.data.note_ua) box.append(el('p', 'meta', res.data.note_ua));
@@ -301,11 +334,11 @@ if (typeof document === 'undefined') {
       if (!log.store) { note.textContent = 'Спочатку підключи теку з прогресом (угорі), тоді запис буде збережено.'; return; }
       const slug = slugifyCheck(label.value) || 'check';
       const ext = (f.name.match(/\.[^.]+$/) || [''])[0];
-      const name = `les-${String(L.order).padStart(2, '0')}-check-${slug}-${Date.now()}${ext}`.replace(/[^\w.\-]+/g, '_');
+      const name = `${FILE_PREFIX}les-${String(L.order).padStart(2, '0')}-check-${slug}-${Date.now()}${ext}`.replace(/[^\w.\-]+/g, '_');
       try {
         await log.store.saveRecording(name, f);
         log.record({ type: 'check_recording_saved', lesson: L.id, file: name, label: label.value.trim() });
-        note.textContent = `Збережено: recordings/${name}. Скажи Марійці, що запис там.`;
+        note.textContent = `Збережено: recordings/${name}. Скажи ${T.dat}, що запис там.`;
         label.disabled = btn.disabled = file.disabled = true;   // this row is done -- "+ додати запис" starts the next one
       } catch (e) { note.textContent = 'Не вдалося зберегти запис: ' + e.message; }
     };
@@ -335,21 +368,21 @@ if (typeof document === 'undefined') {
       if (LESSONS[current].id !== L.id || !res) return;   // the learner moved to another lesson, or there is no topic file
       if (res.error) { note(`Файл завдання з історією не вдалося прочитати: ${res.error}`, 'meta warn'); return; }
       const v = window.Story.validateStory(res.data, L.id);
-      if (v.errors.length) { note(`Файл завдання з історією має помилки, скажи Марійке: ${v.errors.slice(0, 3).join('; ')}`, 'meta warn'); return; }
+      if (v.errors.length) { note(`Файл завдання з історією має помилки, скажи ${T.dat}: ${v.errors.slice(0, 3).join('; ')}`, 'meta warn'); return; }
       const d = res.data;
       box.innerHTML = '';
       box.append(el('h3', 'sub', 'Історія'));
       const ex = el('div', 'ex');
       const title = el('h3'); title.append(el('span', 'badge', '✎'), document.createTextNode(d.topic_ua + (d.topic_nl ? ` (${d.topic_nl})` : '')));
       ex.append(title);
-      ex.append(el('p', 'meta', d.note_ua || `Напиши зв'язну історію: щонайменше ${d.min_sentences} речень. Марійке перевірить помилки і зв'язність.`));
+      ex.append(el('p', 'meta', d.note_ua || `Напиши зв'язну історію: щонайменше ${d.min_sentences} речень. ${T.nom} перевірить помилки і зв'язність.`));
       if (d.targets_ua) { const ul = el('ul', 'meta'); d.targets_ua.forEach((t) => ul.append(el('li', null, t))); ex.append(ul); }
       const area = el('textarea', 'story'); area.rows = 8;
       let draft = '';
       try { draft = localStorage.getItem(DRAFT_KEY(L.id)) || ''; } catch (e) { /* storage may be blocked */ }
       area.value = draft;
       const counter = el('p', 'meta'), status = el('p', 'meta');
-      const send = el('button', 'btn primary', 'Надіслати Марійке');
+      const send = el('button', 'btn primary', `Надіслати ${T.dat}`);
       const editBtn = el('button', 'btn', 'Редагувати'); editBtn.hidden = true;
       let sentBefore = log.state().stories[L.id];
       const refresh = () => {
@@ -357,7 +390,7 @@ if (typeof document === 'undefined') {
         counter.textContent = `Речень: ${n} з ${d.min_sentences}`;
         send.disabled = n < d.min_sentences;
       };
-      const describeSent = (s) => `Надіслано ${s.at.slice(0, 10)} (${s.sentences} речень): written/${s.file}. Скажи Марійке.`;
+      const describeSent = (s) => `Надіслано ${s.at.slice(0, 10)} (${s.sentences} речень): written/${s.file}. Скажи ${T.dat}.`;
       // Locked = showing what was already sent, read-only, until she explicitly asks to change it. A live unsent
       // draft (she started editing and never sent) always wins over the locked view -- she is mid-edit, let her finish.
       const lock = () => { area.disabled = true; send.hidden = true; editBtn.hidden = false; };
@@ -411,7 +444,7 @@ if (typeof document === 'undefined') {
           await log.store.saveWritten(name, `${d.topic_ua}${d.topic_nl ? ` (${d.topic_nl})` : ''}\n\n${text}\n`);
           const rec = log.record({ type: 'story_submitted', lesson: L.id, file: name, sentences: n });
           sentBefore = { file: name, sentences: n, at: rec.t };
-          status.textContent = `Надіслано (${n} речень): written/${name}. Скажи Марійке, що історія там.`;
+          status.textContent = `Надіслано (${n} речень): written/${name}. Скажи ${T.dat}, що історія там.`;
           try { localStorage.removeItem(DRAFT_KEY(L.id)); } catch (e) { /* ignore */ }
           draft = '';
           lock();
@@ -432,7 +465,7 @@ if (typeof document === 'undefined') {
     if (remember) { firstVisit = false; try { localStorage.setItem(LESSON_KEY, LESSONS[idx].id); } catch (e) { /* storage may be blocked */ } }
     const L = LESSONS[idx];
     ['b1-rule', 'b1-verbs', 'b1-words', 'b2-list', 'b3-text', 'texts-copy', 'b4-body', 'b5-extra', 'b5-check', 'b6-story'].forEach((id) => { $(id).innerHTML = ''; });
-    $('lesson-label').textContent = `Les ${L.order}`;
+    $('lesson-label').textContent = `${LESSON_WORD} ${L.order}`;
     $('prev').classList.toggle('invisible', idx === 0);   // there is no lesson before the first one
     renderRule(L);
     L.notes.filter((n) => n.type === 'verb').forEach((v) => {
@@ -442,19 +475,21 @@ if (typeof document === 'undefined') {
       card.append(title);
       if (v.check) { const mark = checkMark(v); title.append(document.createTextNode(' '), mark.btn); card.append(mark.note); }
       if (v.ua) card.append(el('div', 'vgloss', `(${v.ua})`));
+      if (v.aspect || !(v.paradigm || []).length) { const hint = pluralText(v); if (hint) card.append(el('div', 'meta', hint)); }   // a verb with no conjugation table shows its aspect pair and 1st person instead
       const tbl = el('table', 'paradigm');
-      v.paradigm.forEach((r) => {
+      (v.paradigm || []).forEach((r) => {
         const tr = el('tr');
         tr.append(el('td', 'nl', r.pronoun), el('td', 'meta', r.ua), el('td', 'nl', r.form));
         const td = el('td'); td.append(iconBtn(r.audio)); tr.append(td); tbl.append(tr);
       });
-      card.append(tbl); $('b1-verbs').append(card);
+      if ((v.paradigm || []).length) card.append(tbl);
+      $('b1-verbs').append(card);
     });
     L.notes.filter((n) => n.type !== 'verb').forEach((n) => $('b1-words').append(wordRow(n)));
     const service = (L.service_words || []).join(', ');
     $('b1-service').textContent = service; $('b1-service-line').hidden = !service;
 
-    L.examples.forEach((e) => { const li = el('li'); li.append(el('span', 'nl-s', e.nl), el('span', 'meta', '  ' + e.ua), document.createTextNode(' '), iconBtn(e.audio)); $('b2-list').append(li); });
+    L.examples.forEach((e) => { const li = el('li'); li.append(el('span', 'nl-s', sentenceOf(e)), el('span', 'meta', '  ' + e.ua), document.createTextNode(' '), iconBtn(e.audio)); $('b2-list').append(li); });
 
     $('reading-title').textContent = $('reading-title-2').textContent = `${L.reading.title} (${L.reading.title_ua})`;
     renderReading($('b3-text'), L); renderReading($('texts-copy'), L);
@@ -481,8 +516,8 @@ if (typeof document === 'undefined') {
     const L = LESSONS[current];
     const sent = log.state().readings[L.id];
     $('upload-note').textContent = sent
-      ? `Збережено для Les ${L.order}: recordings/${sent.file} (${sent.at.slice(0, 10)}). Скажи Марійке, що запис там.`
-      : 'Файл збережеться лише на цьому ноуті. Марійке перевірить його, коли ти їй скажеш.';
+      ? `Збережено для ${LESSON_WORD} ${L.order}: recordings/${sent.file} (${sent.at.slice(0, 10)}). Скажи ${T.dat}, що запис там.`
+      : `Файл збережеться лише на цьому ноуті. ${T.nom} перевірить його, коли ти ${T.pron} скажеш.`;
   }
 
   // The Progress tab: the lessons in two columns (12 in each), one page of 24 at a time, "Назад / Далі" under the list.
@@ -516,9 +551,9 @@ if (typeof document === 'undefined') {
       const row = el('div', 'prow' + (done ? ' done' : cur ? ' cur' : ''));
       row.title = count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone ? '' : ' · немає запису читання'}` : '';
       const bar = el('span', 'pbar'), fill = el('i'); fill.setAttribute('style', `width:${count ? pct : 0}%`); bar.append(fill);
-      const open = el('button', 'btn open'); open.append(playIcon()); open.title = `Відкрити Les ${L.order}`; open.setAttribute('aria-label', `Відкрити Les ${L.order}`);
+      const open = el('button', 'btn open'); open.append(playIcon()); open.title = `Відкрити ${LESSON_WORD} ${L.order}`; open.setAttribute('aria-label', `Відкрити ${LESSON_WORD} ${L.order}`);
       open.onclick = () => { renderLesson(i); show('today'); };
-      row.append(el('span', 'pl', `Les ${L.order}`), el('span', 'pst', done ? 'пройдено' : cur ? 'поточний' : 'чекає'), bar, el('span', 'pn', count ? `${count}/${parts} · ${pct}%` : '-'));
+      row.append(el('span', 'pl', `${LESSON_WORD} ${L.order}`), el('span', 'pst', done ? 'пройдено' : cur ? 'поточний' : 'чекає'), bar, el('span', 'pn', count ? `${count}/${parts} · ${pct}%` : '-'));
       if (count && !readDone) row.append(el('span', 'pnr', 'без запису'));
       row.append(open);
       grid.append(row);
@@ -645,7 +680,7 @@ if (typeof document === 'undefined') {
       const now = new Date(), states = cardStates();
       const soon = deck.cards.filter((c) => states.has(c.id) && states.get(c.id).due > now && states.get(c.id).due - now <= 20 * 60000).length;
       box.append(el('p', null, session.reviewed ? `Готово: переглянуто карток ${session.reviewed}.` : 'На зараз карток немає.'));
-      if (!session.reviewed && cardDir === 'ua-nl') box.append(el('p', 'meta', 'Слово потрапляє сюди після першого повторення в розділі «Нідерландська → українська».'));
+      if (!session.reviewed && cardDir === 'ua-nl') box.append(el('p', 'meta', `Слово потрапляє сюди після першого повторення в розділі «${LANG_ADJ} → українська».`));
       if (soon) box.append(el('p', 'meta', `Ще ${soon} карток повернуться протягом 20 хвилин.`));
       const st = dirStats();
       box.append(el('p', 'meta', `Сьогодні в цьому напрямку показано ${st.shown} з ${st.allowance}.${st.remaining <= 0 ? ' Норму виконано.' : ''}`));
@@ -746,14 +781,14 @@ if (typeof document === 'undefined') {
     const root = $('all-words'); root.innerHTML = '';
     const grid = el('div', 'lesson-grid');
     LESSONS.forEach((L, i) => {
-      const b = el('button', 'lesson-chip' + (i === wordsLesson ? ' active' : ''), `Les ${L.order}`);
+      const b = el('button', 'lesson-chip' + (i === wordsLesson ? ' active' : ''), `${LESSON_WORD} ${L.order}`);
       b.setAttribute('aria-pressed', String(i === wordsLesson));
       b.onclick = () => { wordsLesson = i; renderWords(); };
       grid.append(b);
     });
     root.append(grid);
     const L = LESSONS[wordsLesson];
-    root.append(el('h3', 'sub', `Les ${L.order}`));
+    root.append(el('h3', 'sub', `${LESSON_WORD} ${L.order}`));
     const ul = el('ul', 'words');
     L.notes.filter((n) => n.type !== 'verb').forEach((n) => ul.append(wordRow(n)));
     L.notes.filter((n) => n.type === 'verb').forEach((v) => {
@@ -761,7 +796,7 @@ if (typeof document === 'undefined') {
       li.append(el('span', 'nl', v.lemma));
       const mark = v.check ? checkMark(v) : null;
       if (mark) li.append(mark.btn);
-      li.append(el('span', 'meta', `${v.ua} - ${[...new Set(v.paradigm.map((r) => r.form))].join(', ')}`));
+      li.append(el('span', 'meta', `${v.ua} - ${(v.paradigm || []).length ? [...new Set(v.paradigm.map((r) => r.form))].join(', ') : pluralText(v)}`));
       if (mark) li.append(mark.note);
       ul.append(li);
     });
@@ -780,7 +815,7 @@ if (typeof document === 'undefined') {
     panel.append(el('p', 'meta', 'Ці слова й форми ще не підтверджені. Їх варто показати людині, яка знає нідерландську.'));
     let order = null, ul = null;
     flagged.forEach(({ order: o, note }) => {
-      if (o !== order) { order = o; panel.append(el('h3', 'sub', `Les ${o}`)); ul = el('ul', 'words'); panel.append(ul); }
+      if (o !== order) { order = o; panel.append(el('h3', 'sub', `${LESSON_WORD} ${o}`)); ul = el('ul', 'words'); panel.append(ul); }
       const li = el('li');
       li.append(el('span', 'nl', display(note)), el('span', 'meta', note.ua), el('div', 'explain', note.check));
       ul.append(li);
@@ -829,7 +864,7 @@ if (typeof document === 'undefined') {
       tick.append(cb); tr.append(tick);
       const name = el('td', 'tense-name');
       name.append(el('div', 'tn-nl', tense.name_ua), el('div', 'tn-meta', [tense.name_nl + (tense.abbr ? ` (${tense.abbr})` : ''), tense.formula_ua, tense.freq_ua].filter(Boolean).join(' · ')));
-      name.append(el('div', 'tn-meta later-note', learned ? `Les ${tense.since_lesson}` : tense.since_lesson === null ? 'пізніше' : `пізніше (Les ${tense.since_lesson})`));
+      name.append(el('div', 'tn-meta later-note', learned ? `${LESSON_WORD} ${tense.since_lesson}` : tense.since_lesson === null ? 'пізніше' : `пізніше (${LESSON_WORD} ${tense.since_lesson})`));
       tr.append(name);
       TN.PERSONS.forEach((p) => tr.append(tenseCell(cells[p])));
       table.append(tr);
@@ -878,18 +913,18 @@ if (typeof document === 'undefined') {
     const wasDone = isDone(current);   // a lesson that is already done is not recorded a second time
     if (!wasDone) {   // this button doubles as "mark as done": ask first when the practice is not finished, so a lesson opened just to look is not marked by accident
       const { pct } = PS.lessonProgress(LESSONS[current], log.state());
-      if (pct < 100 && !confirm(`У Les ${LESSONS[current].order} практика виконана лише на ${pct}%. Позначити урок пройденим і йти далі? Якщо ти лише дивилась урок, натисни «Скасувати».`)) return;
+      if (pct < 100 && !confirm(`У ${LESSON_WORD} ${LESSONS[current].order} практика виконана лише на ${pct}%. Позначити урок пройденим і йти далі? Якщо ти лише дивилась урок, натисни «Скасувати».`)) return;
     }
     if (!wasDone) log.record({ type: 'lesson_done', lesson: LESSONS[current].id });
-    if (current + 1 >= LESSONS.length) { renderProgress(); toast(wasDone ? 'Це останній опублікований урок.' : `Les ${LESSONS[current].order} позначено пройденим. Це останній опублікований урок.`); return; }
-    renderLesson(current + 1); window.scrollTo(0, 0); toast(`Відкрито Les ${LESSONS[current].order}.`);
+    if (current + 1 >= LESSONS.length) { renderProgress(); toast(wasDone ? 'Це останній опублікований урок.' : `${LESSON_WORD} ${LESSONS[current].order} позначено пройденим. Це останній опублікований урок.`); return; }
+    renderLesson(current + 1); window.scrollTo(0, 0); toast(`Відкрито ${LESSON_WORD} ${LESSONS[current].order}.`);
   };
   $('prev').onclick = () => { if (current > 0) { renderLesson(current - 1); window.scrollTo(0, 0); } };
   $('reset').onclick = () => {
     const L = LESSONS[current];
-    if (!confirm(`Скинути прогрес уроку Les ${L.order}? Відповіді у вправах і позначка «пройдено» зникнуть, а картки цього уроку сховаються з колоди, поки ти знову не позначиш урок пройденим. Журнал у теці нічого не втрачає: старі записи там залишаються.`)) return;
+    if (!confirm(`Скинути прогрес уроку ${LESSON_WORD} ${L.order}? Відповіді у вправах і позначка «пройдено» зникнуть, а картки цього уроку сховаються з колоди, поки ти знову не позначиш урок пройденим. Журнал у теці нічого не втрачає: старі записи там залишаються.`)) return;
     log.record({ type: 'lesson_reset', lesson: L.id });
-    renderLesson(current); window.scrollTo(0, 0); toast(`Прогрес уроку Les ${L.order} скинуто.`);
+    renderLesson(current); window.scrollTo(0, 0); toast(`Прогрес уроку ${LESSON_WORD} ${L.order} скинуто.`);
   };
   const file = $('upload-file');
   $('upload-btn').onclick = () => file.click();
@@ -898,7 +933,7 @@ if (typeof document === 'undefined') {
     if (!f) return;
     if (!log.store) { $('upload-note').textContent = 'Спочатку підключи теку з прогресом (угорі), тоді запис буде збережено.'; return; }
     const L = LESSONS[current];
-    const name = `les-${String(L.order).padStart(2, '0')}-${new Date().toISOString().slice(0, 10)}-${f.name}`.replace(/[^\w.\-]+/g, '_');
+    const name = `${FILE_PREFIX}les-${String(L.order).padStart(2, '0')}-${new Date().toISOString().slice(0, 10)}-${f.name}`.replace(/[^\w.\-]+/g, '_');
     try {
       await log.store.saveRecording(name, f);
       log.record({ type: 'recording_saved', lesson: L.id, file: name });   // triggers onChange, which redraws the note

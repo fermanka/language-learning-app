@@ -1,0 +1,73 @@
+{
+  "id": "hr-les-01",
+  "lang": "hr",
+  "order": 1,
+  "status": "draft",
+  "author": "example",
+  "service_words": [
+    "ovo",
+    "je"
+  ],
+  "notes": [
+    {
+      "id": "hr-0000000a",
+      "type": "noun",
+      "lemma": "kuća",
+      "gender": "ž.",
+      "gen_sg": "kuće",
+      "plural": [
+        "kuće"
+      ],
+      "ua": "будинок",
+      "audio": "hr-kuca.mp3",
+      "forms": [
+        "kući"
+      ]
+    },
+    {
+      "id": "hr-0000000b",
+      "type": "verb",
+      "lemma": "pisati",
+      "aspect": "impf.",
+      "partner": "napisati",
+      "pres_1sg": "pišem",
+      "ua": "писати",
+      "audio": "hr-pisati.mp3"
+    }
+  ],
+  "rule": [],
+  "examples": [
+    {
+      "text": "Ovo je kuća.",
+      "ua": "Це будинок.",
+      "audio": "hr-example-01.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Example",
+    "sentences": [
+      {
+        "text": "Ovo je kuća.",
+        "ua": "Це будинок.",
+        "audio": "hr-reading-01.mp3"
+      }
+    ],
+    "highlight": [
+      "hr-0000000a"
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади",
+      "items": [
+        {
+          "prompt": "Це будинок.",
+          "accepted": [
+            "Ovo je kuća."
+          ]
+        }
+      ]
+    }
+  ]
+}

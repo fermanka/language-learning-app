@@ -29,3 +29,7 @@ Roles: the **learner** approves plans and studies in the app. The **teacher** (a
 - A matching exercise appears about every third or fourth lesson.
 - Rule cards stay short: a beginner has to read them.
 - What a card shows is what its recording says. If a recording says more than the written word (an article recorded inside a phrase), the note carries `audio_text` with the spoken text and the card shows it under the word. Two notes with the same spelling (a number and an article, a verb and a possessive) are told apart on the card by a label.
+
+## More than one language
+
+The steps are the same for every language; only the folder, the teacher and the voice change (`content/<lang>/config.json`, see ADR 0007). The language of a lesson is its `lang` field: `finish-lesson`, `gen-audio` and `curriculum-summary` read it. Sentences in new languages use the key `text` (the first language keeps `nl`). A word may list its other attested forms in `forms`, so the level audit accepts them.

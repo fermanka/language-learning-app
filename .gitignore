@@ -24,3 +24,8 @@ state.json
 mockup/lessons.data.js
 mockup/tenses.data.js
 mockup/audio-paths.local.js
+
+# Per-language generated data
+mockup/lessons.*.data.js
+mockup/tenses.*.data.js
+mockup/languages.data.js
