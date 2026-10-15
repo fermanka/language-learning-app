@@ -11,7 +11,7 @@
     "teacher_gen": "Йосипа",
     "lang_adj": "Хорватська",
     "titles": {
-      "Nieuw": "Novo",
+      "Nieuw": "Novo gradivo",
       "Nieuwe woorden": "Nove riječi",
       "Voorbeelden": "Primjeri",
       "Lezen": "Čitanje",
@@ -19,7 +19,7 @@
       "Flitskaarten": "Kartice",
       "Teksten": "Tekstovi",
       "Woorden": "Riječi",
-      "Tijden": "Vremena",
+      "Tijden": "Glagolska vremena",
       "Voortgang": "Napredak"
     },
     "teacher_nom": "Йосип",
@@ -163,8 +163,19 @@
         "audio_text",
         "dictation",
         "explain_ua",
-        "forms"
-      ]
+        "forms",
+        "gender",
+        "gen_sg",
+        "plural",
+        "plural_only"
+      ],
+      "enums": {
+        "gender": [
+          "m.",
+          "ž.",
+          "s."
+        ]
+      }
     }
   }
 }

@@ -1,0 +1,1371 @@
+{
+  "id": "hr-les-01",
+  "lang": "hr",
+  "order": 1,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "ja",
+    "ti",
+    "on",
+    "ona",
+    "ono",
+    "mi",
+    "vi",
+    "oni",
+    "one",
+    "i",
+    "a",
+    "u",
+    "ovo",
+    "Ivan",
+    "Ivane",
+    "Marija",
+    "Marijo"
+  ],
+  "notes": [
+    {
+      "id": "hr-0a6037f1",
+      "type": "noun",
+      "lemma": "dijete",
+      "gender": "s.",
+      "gen_sg": "djeteta",
+      "plural": [
+        "djeca"
+      ],
+      "ua": "дитина",
+      "audio": "hr-dijete.mp3",
+      "explain_ua": "(Dijete uči = дитина вчиться). Множина зовсім інше слово: djeca (діти), тож вчи їх як пару: dijete, djeteta, djeca. Djeca звучить як слово на -a, але дієслово при ньому стоїть у множині: Djeca su ovdje. Пиши dijete з ije, а не dete: це хорватська форма, сербська інша",
+      "check": "Узгодження djeca + множина дієслова взяте з мовної колонки та статей, а не з нормативної граматики."
+    },
+    {
+      "id": "hr-ad0952e4",
+      "type": "noun",
+      "lemma": "majka",
+      "gender": "ž.",
+      "gen_sg": "majke",
+      "plural": [
+        "majke"
+      ],
+      "ua": "мама, мати",
+      "audio": "hr-majka.mp3",
+      "forms": [
+        "majko"
+      ],
+      "explain_ua": "(Majka je ovdje = мама тут). Кличний відмінок: majko. Для російськомовної пастка: російське майка це предмет одягу, а хорватське majka це мати (слово з переліку перевірених лажних друзів)"
+    },
+    {
+      "id": "hr-32bdfd5a",
+      "type": "noun",
+      "lemma": "učiteljica",
+      "gender": "ž.",
+      "gen_sg": "učiteljice",
+      "plural": [
+        "učiteljice"
+      ],
+      "ua": "вчителька",
+      "audio": "hr-uciteljica.mp3",
+      "forms": [
+        "učiteljice"
+      ],
+      "explain_ua": "(Ona je učiteljica = вона вчителька). Тут є і č, і lj, обидві пишуться точно. Кличний відмінок: učiteljice (не učiteljico, як українське «вчителько»). Для чоловіка буде інше слово, поки що не вчимо"
+    },
+    {
+      "id": "hr-2b15f534",
+      "type": "noun",
+      "lemma": "škola",
+      "gender": "ž.",
+      "gen_sg": "škole",
+      "plural": [
+        "škole"
+      ],
+      "ua": "школа",
+      "audio": "hr-skola.mp3",
+      "forms": [
+        "školi"
+      ],
+      "explain_ua": "(Danas smo u školi = сьогодні ми в школі). U školi це поки що готовий блок «в школі»: форма školi це місцевий відмінок, його розберемо пізніше. Š читається як українське «ш»"
+    },
+    {
+      "id": "hr-04e5599a",
+      "type": "noun",
+      "lemma": "prijatelj",
+      "gender": "m.",
+      "gen_sg": "prijatelja",
+      "plural": [
+        "prijatelji"
+      ],
+      "ua": "друг, приятель",
+      "audio": "hr-prijatelj.mp3",
+      "forms": [
+        "prijatelju"
+      ],
+      "explain_ua": "(Ti si prijatelj = ти друг). Lj наприкінці це один звук «ль», не l плюс j. Кличний відмінок: prijatelju, з -u, бо слово закінчується на м'який приголосний (укр. «друже» тут не допомагає). Жіноча форма prijateljica буде пізніше",
+      "check": "Кличний prijatelju виведено з правила про -u після м'яких приголосних, у джерелах окремо не знайдено."
+    },
+    {
+      "id": "hr-87861928",
+      "type": "noun",
+      "lemma": "knjiga",
+      "gender": "ž.",
+      "gen_sg": "knjige",
+      "plural": [
+        "knjige"
+      ],
+      "ua": "книжка, книга",
+      "audio": "hr-knjiga.mp3",
+      "forms": [
+        "knjigu"
+      ],
+      "explain_ua": "(Majka kupuje knjigu = мама купує книжку). Nj це один звук «нь». Знахідний knjigu, як в українській книжку / книгу і в російській книгу: закінчення -a змінюється на -u"
+    },
+    {
+      "id": "hr-9c585021",
+      "type": "noun",
+      "lemma": "kuća",
+      "gender": "ž.",
+      "gen_sg": "kuće",
+      "plural": [
+        "kuće"
+      ],
+      "ua": "будинок, дім",
+      "audio": "hr-kuca.mp3",
+      "forms": [
+        "kući",
+        "kuću"
+      ],
+      "explain_ua": "(Prijatelj je u kući = друг у будинку). Літера ć: м'якша за č. Знахідний kuću. U kući це готовий блок «в будинку». Для російськомовної пастка: російське куча значить «купа», а хорватське kuća це будинок (слово з переліку перевірених лажних друзів)"
+    },
+    {
+      "id": "hr-5013df02",
+      "type": "false_friend",
+      "lemma": "godina",
+      "ua": "рік",
+      "uk_lookalike": "година",
+      "uk_means": "година (60 хвилин)",
+      "audio": "hr-godina.mp3",
+      "forms": [
+        "godine"
+      ],
+      "explain_ua": "(ж. р., G. godine, мн. godine). Хорватське godina це рік, а українська година це 60 хвилин. Слово вживається щодня (вік, дати, терміни), тож пастка буває щодня. Вчи godina = рік і не перекладай за схожістю"
+    },
+    {
+      "id": "hr-15fa5383",
+      "type": "false_friend",
+      "lemma": "život",
+      "ua": "життя",
+      "uk_lookalike": "живіт",
+      "uk_means": "живіт (частина тіла)",
+      "audio": "hr-zivot.mp3",
+      "forms": [
+        "života"
+      ],
+      "explain_ua": "(ч. р., G. života, мн. životi). Хорватське život це життя, а українське живіт це частина тіла. Літера ž звучить як українське «ж». Українське «живіт» і російське «живот» означають частину тіла, а život хорватською завжди про життя"
+    },
+    {
+      "id": "hr-02c74697",
+      "type": "verb",
+      "lemma": "biti",
+      "aspect": "impf.",
+      "pres_1sg": "sam",
+      "ua": "бути; є (у теперішньому часі)",
+      "audio": "hr-biti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "sam",
+          "audio": "hr-ja-sam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "si",
+          "audio": "hr-ti-si.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "je",
+          "audio": "hr-on-je.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "smo",
+          "audio": "hr-mi-smo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "ste",
+          "audio": "hr-vi-ste.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "su",
+          "audio": "hr-oni-su.mp3"
+        }
+      ],
+      "explain_ua": "(Ja sam majka = я мама). Без пари: biti не має пари, як і в українській бути. У теперішньому часі українська й російська зазвичай пропускають «є» («Я вчителька»), хорватська ні: Ja sam učiteljica. Форми sam, si, je, smo, ste, su слабкі й коротко звучать, це клітики, на другому місці в реченні",
+      "check": "Вид дієслова biti: у словнику не звірено, я вважаю його недок.; нюанси значень пізніше."
+    },
+    {
+      "id": "hr-f9425e8d",
+      "type": "verb",
+      "lemma": "učiti",
+      "aspect": "impf.",
+      "partner": "naučiti",
+      "pres_1sg": "učim",
+      "forms": [
+        "naučiti",
+        "naučim"
+      ],
+      "ua": "вчити, вчитися",
+      "audio": "hr-uciti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "učim",
+          "audio": "hr-ja-ucim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "učiš",
+          "audio": "hr-ti-ucis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "uči",
+          "audio": "hr-on-uci.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "učimo",
+          "audio": "hr-mi-ucimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "učite",
+          "audio": "hr-vi-ucite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "uče",
+          "audio": "hr-oni-uce.mp3"
+        }
+      ],
+      "explain_ua": "(Ja učim = я вчуся, я вчу). Пара: učiti (недок.) / naučiti (док., naučim). Без se, на відміну від українського вчитися: ja učim значить «я вчуся». Закінчення 1 особи однини -m, а не -у/-ю: учу / učim",
+      "check": "Пару učiti / naučiti і значення «вчитися» не звірено зі словником у цьому уроці."
+    },
+    {
+      "id": "hr-69c7b1b2",
+      "type": "verb",
+      "lemma": "kupovati",
+      "aspect": "impf.",
+      "partner": "kupiti",
+      "pres_1sg": "kupujem",
+      "forms": [
+        "kupiti",
+        "kupim"
+      ],
+      "ua": "купувати",
+      "audio": "hr-kupovati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "kupujem",
+          "audio": "hr-ja-kupujem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "kupuješ",
+          "audio": "hr-ti-kupujes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "kupuje",
+          "audio": "hr-on-kupuje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "kupujemo",
+          "audio": "hr-mi-kupujemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "kupujete",
+          "audio": "hr-vi-kupujete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "kupuju",
+          "audio": "hr-oni-kupuju.mp3"
+        }
+      ],
+      "explain_ua": "(Majka kupuje knjigu = мама купує книжку). Пара: kupovati (недок.) / kupiti (док., kupim). Суфікс -ova- дає недокону форму, як в українській -ува-, тому система тобі знайома, а кожну пару вчимо окремо. 3 особа множини kupuju без -t, на відміну від укр. купують"
+    },
+    {
+      "id": "hr-52cc24e4",
+      "type": "function",
+      "lemma": "ovdje",
+      "ua": "тут",
+      "audio": "hr-ovdje.mp3",
+      "explain_ua": "(Ovdje sam = я тут). Хорватська форма з jat-рефлексом je: ovdje, dijete. Сербською буде ovde: слово з іншого стандарту, в хорватському іспиті його не пиши. Ovdje часто стоїть на першому місці, тоді sam, je, smo йдуть одразу за ним"
+    },
+    {
+      "id": "hr-d526e3c8",
+      "type": "function",
+      "lemma": "danas",
+      "ua": "сьогодні",
+      "audio": "hr-danas.mp3",
+      "explain_ua": "(Danas smo u školi = сьогодні ми в школі). Danas може відкривати речення, і тоді клітик smo, sam йде вже після нього: Danas sam ovdje, а не Danas ja sam, якщо не потрібен наголос на «я»"
+    },
+    {
+      "id": "hr-edb6ac9b",
+      "type": "clitic",
+      "lemma": "sam",
+      "slot": "2",
+      "ua": "я є (коротка форма biti)",
+      "audio": "hr-sam.mp3",
+      "forms": [
+        "si",
+        "je",
+        "smo",
+        "ste",
+        "su"
+      ],
+      "example_order": "Danas sam u školi.",
+      "explain_ua": "(Danas sam u školi = сьогодні я в школі). Клітик: слабке слово без власного наголосу, яке опирається на попереднє. Стоїть на другому місці в реченні, після першого слова або групи слів: Ja sam ovdje, Ovdje sam, Danas sam ovdje. Це перший приклад правила другого місця: пізніше додадуться se, mi, ga та інші, а їх порядок ми вчитимемо за звіреною таблицею"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Звуки й правопис: č ć š ž đ dž lj nj",
+      "summary_ua": "Хорватська пишеться так, як звучить, і кожен звук має свою літеру. Літери з діакритикою (č, ć, š, ž, đ) і диграфи dž, lj, nj треба писати точно: c замість č у тексті й на іспиті це помилка. Вимова вільніша: багато хорватів зближують č і ć, dž і đ, і зрозумілість від цього не страждає.",
+      "compare": [
+        {
+          "form": "č і ć: дві літери",
+          "when_ua": "Č звучить як українське «ч», твердіше. Ć м'якше й ближче до переду рота. Пиши обидві літери чітко, навіть якщо в розмові їх змішують.",
+          "examples": [
+            {
+              "text": "Učiteljica je ovdje.",
+              "ua": "Вчителька тут.",
+              "audio": "hr-les01-rule-01.mp3"
+            },
+            {
+              "text": "Kuća je ovdje.",
+              "ua": "Будинок тут.",
+              "audio": "hr-les01-rule-02.mp3"
+            },
+            {
+              "text": "Učiteljica je u kući.",
+              "ua": "Вчителька в будинку.",
+              "audio": "hr-les01-rule-03.mp3"
+            }
+          ],
+          "note_ua": "У третьому реченні є і č, і ć. Підказка для пам'яті, не точний переклад: ć схожа на м'яке «ть» з української або російської, а č на «ч»."
+        },
+        {
+          "form": "š і ž",
+          "when_ua": "Š як українське «ш», ž як «ж». Тут нічого нового: звуки ті самі, треба тільки писати з гачком.",
+          "examples": [
+            {
+              "text": "Škola je ovdje.",
+              "ua": "Школа тут.",
+              "audio": "hr-les01-rule-04.mp3"
+            },
+            {
+              "text": "Ovo je život.",
+              "ua": "Це життя.",
+              "audio": "hr-les01-rule-05.mp3"
+            },
+            {
+              "text": "Danas smo u školi.",
+              "ua": "Сьогодні ми в школі.",
+              "audio": "hr-les01-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Život починається зі звуку «ж», як і українське «живіт», але значення інше (див. картку život)."
+        },
+        {
+          "form": "lj і nj: один звук, дві літери",
+          "when_ua": "Lj це один звук «ль», nj один звук «нь». Не читай l і j окремо. У слові prijatelj lj стоїть наприкінці, у knjiga nj усередині.",
+          "examples": [
+            {
+              "text": "Prijatelj je ovdje.",
+              "ua": "Друг тут.",
+              "audio": "hr-les01-rule-07.mp3"
+            },
+            {
+              "text": "Knjiga je ovdje.",
+              "ua": "Книжка тут.",
+              "audio": "hr-les01-rule-08.mp3"
+            },
+            {
+              "text": "Učiteljica kupuje knjigu.",
+              "ua": "Вчителька купує книжку.",
+              "audio": "hr-les01-rule-09.mp3"
+            }
+          ],
+          "note_ua": "У третьому реченні є і lj, і nj. Не пропускай «ль» наприкінці слова prijatelj."
+        }
+      ],
+      "points_ua": [
+        "Правопис суворо, вимова гнучко. Це свідоме рішення: письмова частина іспиту B1 перевіряє літери, а зближення č і ć в живій мові природне.",
+        "Dž і đ: dž як українське «дж» (слово džep, кишеня), đ м'якше, ближче до «дь» (слово đak, учень). Це лише приклади літер, учити їх як слова зараз не треба.",
+        "Російське пом'якшення вимкни: ti, di, ni читаються з твердим приголосним, а не як російське «тьи». Це чутний російський акцент у хорватській.",
+        "Наголос і довжину слухай, але чотири тони (спадні та висхідні, довгі й короткі) тільки на слух. Багато носіїв самі їх не розрізняють, і для іспиту вони не потрібні.",
+        "Лажні друзі, початок банку: godina = рік (не година), život = життя (не живіт). Обидві картки в цьому уроці."
+      ]
+    },
+    {
+      "title_ua": "Дієслово biti: sam, si, je, smo, ste, su",
+      "summary_ua": "В українській і російській «є» в теперішньому часі зазвичай пропускають: «Я вчителька». Хорватська так не робить: потрібна форма biti, Ja sam učiteljica. Короткі форми sam, si, je, smo, ste, su слабкі й притулені до слова перед собою, тому стоять на другому місці речення. Займенник можна пропустити: Ovdje sam.",
+      "compare": [
+        {
+          "form": "Biti завжди потрібне: Ja sam ...",
+          "when_ua": "Коли присудок іменник (мама, вчителька, друг), додай форму biti. Українською й російською вона мовчить, хорватською ні.",
+          "examples": [
+            {
+              "text": "Ja sam majka.",
+              "ua": "Я мама.",
+              "audio": "hr-les01-rule-10.mp3"
+            },
+            {
+              "text": "Ti si prijatelj.",
+              "ua": "Ти друг.",
+              "audio": "hr-les01-rule-11.mp3"
+            },
+            {
+              "text": "Ona je učiteljica.",
+              "ua": "Вона вчителька.",
+              "audio": "hr-les01-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Спокуса сказати «Ja majka» дуже сильна з обох рідних мов. Це система, а не незнання слів: учи це як окреме правило."
+        },
+        {
+          "form": "Друге місце: клітик після першої групи",
+          "when_ua": "Sam, si, je, smo, ste, su слабкі, тому не починають речення й не стоять в кінці. Вони йдуть після першого слова або першої групи слів. Займенник перед ними можна опустити.",
+          "examples": [
+            {
+              "text": "Ovdje sam.",
+              "ua": "Я тут.",
+              "audio": "hr-les01-rule-13.mp3"
+            },
+            {
+              "text": "Danas smo u školi.",
+              "ua": "Сьогодні ми в школі.",
+              "audio": "hr-les01-rule-14.mp3"
+            },
+            {
+              "text": "Ovdje je dijete.",
+              "ua": "Тут дитина.",
+              "audio": "hr-les01-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Порівняй: Ja sam ovdje і Ovdje sam. Обидва правильні, клітик у обох на другому місці. Ovdje je dijete: je після ovdje, а не в кінці."
+        },
+        {
+          "form": "Множина: smo, ste, su",
+          "when_ua": "У множині три форми. Mi smo, vi ste, oni/one/ona su. Ste можна й для ввічливого «ви» до однієї особи, тож vi ste пасує до обох випадків.",
+          "examples": [
+            {
+              "text": "Mi smo prijatelji.",
+              "ua": "Ми друзі.",
+              "audio": "hr-les01-rule-16.mp3"
+            },
+            {
+              "text": "Vi ste ovdje.",
+              "ua": "Ви тут.",
+              "audio": "hr-les01-rule-17.mp3"
+            },
+            {
+              "text": "Djeca su u školi.",
+              "ua": "Діти в школі.",
+              "audio": "hr-les01-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Djeca звучить, як слово на -a, але дієслово стоїть у множині: su, а не je (Djeca su, не Djeca je)."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест із двох питань. Присудок іменник або місце? Тоді додай форму biti. Де стоїть ця форма? Після першого слова або першої групи слів: Ja sam ovdje, Ovdje sam, Danas sam ovdje.",
+        "Шість форм підряд: ja sam, ti si, on/ona/ono je, mi smo, vi ste, oni/one/ona su. Sam тільки з ja, smo тільки з mi, su тільки з oni: у швидкій розмові це слабкі слова, тож саме тут легко сплутати.",
+        "Заперечення (nisam, nisi, nije) будуть в наступних уроках. Зараз тільки ствердження.",
+        "Правило другого місця діє не лише для biti. Пізніше те саме правило поставить на місце se, mi, ga та інші клітики, тому Danas sam це не випадковий порядок, а перший приклад."
+      ]
+    },
+    {
+      "title_ua": "Звертання: кличний відмінок",
+      "summary_ua": "Українська має кличний відмінок («Іване!», «мамо!»), і хорватська теж, тож цю ідею ти вже знаєш. Спирайся на українську, а не на російську: у російській кличний відмінок майже зник. Але закінчення збігаються не завжди: Ivane, Marijo (укр. Маріє), majko, učiteljice (укр. вчителько).",
+      "compare": [
+        {
+          "form": "чоловічий рід: -e або -u",
+          "when_ua": "Більшість чоловічих імен і слів беруть -e: Ivan, Ivane. Після м'яких приголосних (lj, nj, č, ć, đ, š, ž, j) закінчення -u: prijatelj, prijatelju.",
+          "examples": [
+            {
+              "text": "Ivane, ti si ovdje.",
+              "ua": "Іване, ти тут.",
+              "audio": "hr-les01-rule-19.mp3"
+            },
+            {
+              "text": "Prijatelju, ovdje je knjiga.",
+              "ua": "Друже, тут книжка.",
+              "audio": "hr-les01-rule-20.mp3"
+            },
+            {
+              "text": "Ivane, mi smo u školi.",
+              "ua": "Іване, ми в школі.",
+              "audio": "hr-les01-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Кличний відмінок відокремлюй комою від решти речення. Українське «друже» має свою окрему форму, а хорватське слово просто бере -u: prijatelju."
+        },
+        {
+          "form": "жіночий рід: -a стає -o, -ica стає -ice",
+          "when_ua": "Більшість слів на -a беруть -o: Marija, Marijo, majka, majko. Слова на -ica беруть -ice: učiteljica, učiteljice.",
+          "examples": [
+            {
+              "text": "Marijo, ti si ovdje.",
+              "ua": "Маріє, ти тут.",
+              "audio": "hr-les01-rule-22.mp3"
+            },
+            {
+              "text": "Majko, ja sam ovdje.",
+              "ua": "Мамо, я тут.",
+              "audio": "hr-les01-rule-23.mp3"
+            },
+            {
+              "text": "Učiteljice, ovdje je dijete.",
+              "ua": "Вчителько, тут дитина.",
+              "audio": "hr-les01-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Тут українська і хорватська розходяться: Марія стає Маріє, а Marija стає Marijo. Вчителька стає вчителько, а učiteljica стає učiteljice."
+        }
+      ],
+      "points_ua": [
+        "Для імен і ввічливості: Ivane!, Marijo!, učiteljice! Звертання на ім'я одна з перших речей, які потрібно вміти.",
+        "Жіноче -a дає -o (Marijo, majko), але -ica дає -ice. Це різниця з українським -ько.",
+        "У живому мовленні кличний відмінок поступово відходить, його часто замінюють називним. Для письма й ввічливої мови вчити його варто."
+      ]
+    },
+    {
+      "title_ua": "Теперішній час: učiti і kupovati",
+      "summary_ua": "Особа дієслова в хорватській задається закінченням, і система знайома з української. Але закінчення інші. Перша особа однини має -m (učim, kupujem), а не -у/-ю (учу, купую). Третя особа множини без -t (uče, kupuju), на відміну від українського -ть. Вчитися хорватською без se: ja učim значить «я вчуся».",
+      "compare": [
+        {
+          "form": "тип -im: učiti → učim, učiš, uči, učimo, učite, uče",
+          "when_ua": "Основа učiti закінчується на -iti. У цьому типі 3 особа однини uči, а 3 особа множини uče.",
+          "examples": [
+            {
+              "text": "Ja učim.",
+              "ua": "Я вчуся.",
+              "audio": "hr-les01-rule-25.mp3"
+            },
+            {
+              "text": "Ona uči u školi.",
+              "ua": "Вона вчиться в школі.",
+              "audio": "hr-les01-rule-26.mp3"
+            },
+            {
+              "text": "Mi učimo.",
+              "ua": "Ми вчимося.",
+              "audio": "hr-les01-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Без se: не ja se učim. Українське вчитися має -ся, хорватське ні. Дієслово може також значити «вчити когось»."
+        },
+        {
+          "form": "тип -ujem: kupovati → kupujem, kupuješ, kupuje, kupujemo, kupujete, kupuju",
+          "when_ua": "Дієслова на -ovati змінюють -ova- на -uj-. Закінчення те саме: -em, -eš, -e, -emo, -ete, -u.",
+          "examples": [
+            {
+              "text": "Ja kupujem knjigu.",
+              "ua": "Я купую книжку.",
+              "audio": "hr-les01-rule-28.mp3"
+            },
+            {
+              "text": "Majka kupuje knjigu.",
+              "ua": "Мама купує книжку.",
+              "audio": "hr-les01-rule-29.mp3"
+            },
+            {
+              "text": "Mi kupujemo kuću.",
+              "ua": "Ми купуємо будинок.",
+              "audio": "hr-les01-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з українським купувати: купую, купуєш, купує. Тут стержень схожий (-uj-), а закінчення 1 особи -m відрізняє хорватську."
+        }
+      ],
+      "points_ua": [
+        "Закінчення тримай як ланцюг: -m, -š, нічого (або -e), -mo, -te, -ju/-e/-u. Перша особа -m це головна відмінність від рідних мов.",
+        "Вид дієслова працює, як в українській: učiti (недок.) / naučiti (док.), kupovati (недок.) / kupiti (док.). Система вже знайома, а кожну пару ми вчимо окремо.",
+        "Третя особа множини: uče, kupuju. Нема -t, як в українському вчать, купують."
+      ]
+    },
+    {
+      "title_ua": "Знахідний відмінок на -a: knjiga → knjigu",
+      "summary_ua": "Слова жіночого роду на -a мають у знахідному закінчення -u, так само, як в українській (книжка → книжку) і російській (книга → книгу). Це безкоштовна перемога: механізм ти знаєш. Підмет залишається в називному (-a), об'єкт іде в знахідний (-u).",
+      "compare": [
+        {
+          "form": "підмет: називний на -a",
+          "when_ua": "Хто або що виконує дію або про кого мовиться: слово залишається на -a.",
+          "examples": [
+            {
+              "text": "Knjiga je ovdje.",
+              "ua": "Книжка тут.",
+              "audio": "hr-les01-rule-31.mp3"
+            },
+            {
+              "text": "Kuća je ovdje.",
+              "ua": "Будинок тут.",
+              "audio": "hr-les01-rule-32.mp3"
+            },
+            {
+              "text": "Majka je ovdje.",
+              "ua": "Мама тут.",
+              "audio": "hr-les01-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Тут слово нічого не купує й нічого не вчить, воно просто є. Тому -a."
+        },
+        {
+          "form": "об'єкт: знахідний на -u",
+          "when_ua": "Що купують, що вчать або що бачать: -a стає -u.",
+          "examples": [
+            {
+              "text": "Majka kupuje knjigu.",
+              "ua": "Мама купує книжку.",
+              "audio": "hr-les01-rule-34.mp3"
+            },
+            {
+              "text": "Prijatelj kupuje kuću.",
+              "ua": "Друг купує будинок.",
+              "audio": "hr-les01-rule-35.mp3"
+            },
+            {
+              "text": "Ja kupujem knjigu.",
+              "ua": "Я купую книжку.",
+              "audio": "hr-les01-rule-36.mp3"
+            }
+          ],
+          "note_ua": "Порівняй пари: Knjiga je ovdje, але Ja kupujem knjigu. Українська працює так само: книжка тут, купую книжку."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест: слово робить дію або просто є (-a), чи його купують, вчать, бачать (-u)?",
+        "U školi та u kući це поки що готові блоки «в школі», «в будинку». Форми školi, kući це місцевий відмінок, його розберемо пізніше.",
+        "Родовий відмінок (G. knjige, kuće) ти бачиш на картках. У реченнях він з'явиться в наступних уроках."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Ja sam majka.",
+      "ua": "Я мама.",
+      "audio": "hr-les01-example-01.mp3"
+    },
+    {
+      "text": "Ti si prijatelj.",
+      "ua": "Ти друг.",
+      "audio": "hr-les01-example-02.mp3"
+    },
+    {
+      "text": "Ona je učiteljica.",
+      "ua": "Вона вчителька.",
+      "audio": "hr-les01-example-03.mp3"
+    },
+    {
+      "text": "Mi smo prijatelji.",
+      "ua": "Ми друзі.",
+      "audio": "hr-les01-example-04.mp3"
+    },
+    {
+      "text": "Ovdje sam.",
+      "ua": "Я тут.",
+      "audio": "hr-les01-example-05.mp3"
+    },
+    {
+      "text": "Danas smo u školi.",
+      "ua": "Сьогодні ми в школі.",
+      "audio": "hr-les01-example-06.mp3"
+    },
+    {
+      "text": "Djeca su ovdje.",
+      "ua": "Діти тут.",
+      "audio": "hr-les01-example-07.mp3"
+    },
+    {
+      "text": "Dijete uči.",
+      "ua": "Дитина вчиться.",
+      "audio": "hr-les01-example-08.mp3"
+    },
+    {
+      "text": "Majka kupuje knjigu.",
+      "ua": "Мама купує книжку.",
+      "audio": "hr-les01-example-09.mp3"
+    },
+    {
+      "text": "Ja kupujem kuću.",
+      "ua": "Я купую будинок.",
+      "audio": "hr-les01-example-10.mp3"
+    },
+    {
+      "text": "Ivane, mi smo ovdje.",
+      "ua": "Іване, ми тут.",
+      "audio": "hr-les01-example-11.mp3"
+    },
+    {
+      "text": "Marijo, ovdje je dijete.",
+      "ua": "Маріє, тут дитина.",
+      "audio": "hr-les01-example-12.mp3"
+    },
+    {
+      "text": "Učiteljice, ja sam ovdje.",
+      "ua": "Вчителько, я тут.",
+      "audio": "hr-les01-example-13.mp3"
+    },
+    {
+      "text": "Ja učim, a majka kupuje knjigu.",
+      "ua": "Я вчуся, а мама купує книжку.",
+      "audio": "hr-les01-example-14.mp3"
+    },
+    {
+      "text": "Prijatelj je u kući.",
+      "ua": "Друг у будинку.",
+      "audio": "hr-les01-example-15.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Danas u školi",
+    "title_ua": "Сьогодні в школі",
+    "highlight": [
+      "hr-0a6037f1",
+      "hr-ad0952e4",
+      "hr-32bdfd5a",
+      "hr-2b15f534",
+      "hr-04e5599a",
+      "hr-87861928",
+      "hr-9c585021",
+      "hr-52cc24e4",
+      "hr-d526e3c8",
+      "hr-edb6ac9b"
+    ],
+    "sentences": [
+      {
+        "text": "Ja sam majka.",
+        "ua": "Я мама.",
+        "audio": "hr-les01-reading-01.mp3"
+      },
+      {
+        "text": "Danas sam u školi.",
+        "ua": "Сьогодні я в школі.",
+        "audio": "hr-les01-reading-02.mp3"
+      },
+      {
+        "text": "Ovdje je učiteljica.",
+        "ua": "Тут вчителька.",
+        "audio": "hr-les01-reading-03.mp3"
+      },
+      {
+        "text": "Dijete uči.",
+        "ua": "Дитина вчиться.",
+        "audio": "hr-les01-reading-04.mp3"
+      },
+      {
+        "text": "Učiteljice, ja sam ovdje.",
+        "ua": "Вчителько, я тут.",
+        "audio": "hr-les01-reading-05.mp3"
+      },
+      {
+        "text": "Ovdje je i prijatelj.",
+        "ua": "Тут і друг.",
+        "audio": "hr-les01-reading-06.mp3"
+      },
+      {
+        "text": "Marijo, mi smo prijatelji.",
+        "ua": "Маріє, ми друзі.",
+        "audio": "hr-les01-reading-07.mp3"
+      },
+      {
+        "text": "Ja kupujem knjigu, a prijatelj kupuje kuću.",
+        "ua": "Я купую книжку, а друг купує будинок.",
+        "audio": "hr-les01-reading-08.mp3"
+      },
+      {
+        "text": "Djeca su ovdje.",
+        "ua": "Діти тут.",
+        "audio": "hr-les01-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я мама.",
+          "accepted": [
+            "Ja sam majka.",
+            "Majka sam."
+          ]
+        },
+        {
+          "prompt": "Ти друг.",
+          "accepted": [
+            "Ti si prijatelj.",
+            "Prijatelj si."
+          ]
+        },
+        {
+          "prompt": "Вона вчителька.",
+          "accepted": [
+            "Ona je učiteljica."
+          ]
+        },
+        {
+          "prompt": "Ми друзі.",
+          "accepted": [
+            "Mi smo prijatelji.",
+            "Prijatelji smo."
+          ]
+        },
+        {
+          "prompt": "Діти тут.",
+          "accepted": [
+            "Djeca su ovdje.",
+            "Ovdje su djeca."
+          ]
+        },
+        {
+          "prompt": "Я тут.",
+          "accepted": [
+            "Ja sam ovdje.",
+            "Ovdje sam."
+          ]
+        },
+        {
+          "prompt": "Сьогодні ми в школі.",
+          "accepted": [
+            "Danas smo u školi.",
+            "Mi smo danas u školi."
+          ]
+        },
+        {
+          "prompt": "Дитина вчиться.",
+          "accepted": [
+            "Dijete uči."
+          ]
+        },
+        {
+          "prompt": "Мама купує книжку.",
+          "accepted": [
+            "Majka kupuje knjigu."
+          ]
+        },
+        {
+          "prompt": "Я купую будинок.",
+          "accepted": [
+            "Ja kupujem kuću.",
+            "Kupujem kuću."
+          ]
+        },
+        {
+          "prompt": "Вчителько, ми тут.",
+          "accepted": [
+            "Učiteljice, mi smo ovdje.",
+            "Učiteljice, ovdje smo."
+          ]
+        },
+        {
+          "prompt": "Іване, ти тут.",
+          "accepted": [
+            "Ivane, ti si ovdje.",
+            "Ivane, ovdje si."
+          ]
+        },
+        {
+          "prompt": "Друже, це книжка.",
+          "accepted": [
+            "Prijatelju, ovo je knjiga."
+          ]
+        },
+        {
+          "prompt": "Я вчуся, а мама купує книжку.",
+          "accepted": [
+            "Ja učim, a majka kupuje knjigu.",
+            "Ja učim a majka kupuje knjigu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "sam",
+        "si",
+        "je",
+        "smo",
+        "ste",
+        "su",
+        "Danas",
+        "knjigu",
+        "kupujem",
+        "uči",
+        "učim",
+        "Ivane",
+        "Marijo",
+        "Majko"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ majka.",
+          "hint": "Я мама.",
+          "accepted": [
+            [
+              "sam"
+            ]
+          ]
+        },
+        {
+          "text": "Ti ___ prijatelj.",
+          "hint": "Ти друг.",
+          "accepted": [
+            [
+              "si"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ___ učiteljica.",
+          "hint": "Вона вчителька.",
+          "accepted": [
+            [
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ prijatelji.",
+          "hint": "Ми друзі.",
+          "accepted": [
+            [
+              "smo"
+            ]
+          ]
+        },
+        {
+          "text": "Vi ___ ovdje.",
+          "hint": "Ви тут.",
+          "accepted": [
+            [
+              "ste"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca ___ u školi.",
+          "hint": "Діти в школі.",
+          "accepted": [
+            [
+              "su"
+            ]
+          ]
+        },
+        {
+          "text": "___ sam u školi.",
+          "hint": "Сьогодні я в школі.",
+          "accepted": [
+            [
+              "Danas"
+            ]
+          ]
+        },
+        {
+          "text": "Ovdje ___ dijete.",
+          "hint": "Тут дитина.",
+          "accepted": [
+            [
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "Majka kupuje ___.",
+          "hint": "Мама купує книжку.",
+          "accepted": [
+            [
+              "knjigu"
+            ]
+          ]
+        },
+        {
+          "text": "Ja ___ kuću.",
+          "hint": "Я купую будинок.",
+          "accepted": [
+            [
+              "kupujem"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ___ u školi.",
+          "hint": "Вона вчиться в школі.",
+          "accepted": [
+            [
+              "uči"
+            ]
+          ]
+        },
+        {
+          "text": "Ja ___, a majka kupuje knjigu.",
+          "hint": "Я вчуся, а мама купує книжку.",
+          "accepted": [
+            [
+              "učim"
+            ]
+          ]
+        },
+        {
+          "text": "___, ti si ovdje.",
+          "hint": "Іване, ти тут.",
+          "accepted": [
+            [
+              "Ivane"
+            ]
+          ]
+        },
+        {
+          "text": "___, ovo je knjiga.",
+          "hint": "Маріє, це книжка.",
+          "accepted": [
+            [
+              "Marijo"
+            ]
+          ]
+        },
+        {
+          "text": "___, ja sam ovdje.",
+          "hint": "Мамо, я тут.",
+          "accepted": [
+            [
+              "Majko"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: початок з іншого слова, інша особа або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ja sam ovdje.",
+          "cue": "-> почни з Danas",
+          "accepted": [
+            "Danas sam ovdje."
+          ]
+        },
+        {
+          "prompt": "Ja sam u školi.",
+          "cue": "-> почни з Danas",
+          "accepted": [
+            "Danas sam u školi."
+          ]
+        },
+        {
+          "prompt": "Mi smo ovdje.",
+          "cue": "-> почни з Ovdje",
+          "accepted": [
+            "Ovdje smo."
+          ]
+        },
+        {
+          "prompt": "Ti si ovdje.",
+          "cue": "-> почни з Ovdje",
+          "accepted": [
+            "Ovdje si."
+          ]
+        },
+        {
+          "prompt": "Ja sam prijatelj.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi smo prijatelji."
+          ]
+        },
+        {
+          "prompt": "Ja sam majka.",
+          "cue": "-> вона (ona)",
+          "accepted": [
+            "Ona je majka."
+          ]
+        },
+        {
+          "prompt": "Ja kupujem knjigu.",
+          "cue": "-> вона (ona)",
+          "accepted": [
+            "Ona kupuje knjigu."
+          ]
+        },
+        {
+          "prompt": "Ja učim.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi učimo."
+          ]
+        },
+        {
+          "prompt": "Ona kupuje kuću.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi kupujemo kuću."
+          ]
+        },
+        {
+          "prompt": "Majka je ovdje.",
+          "cue": "-> почни з Danas",
+          "accepted": [
+            "Danas je majka ovdje."
+          ]
+        },
+        {
+          "prompt": "Ja kupujem knjiga.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ja kupujem knjigu."
+          ]
+        },
+        {
+          "prompt": "Ona uči u škola.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ona uči u školi."
+          ]
+        },
+        {
+          "prompt": "Ivan, ti si ovdje.",
+          "cue": "-> звертання (кличний відмінок)",
+          "accepted": [
+            "Ivane, ti si ovdje."
+          ]
+        },
+        {
+          "prompt": "Marija, ti si ovdje.",
+          "cue": "-> звертання (кличний відмінок)",
+          "accepted": [
+            "Marijo, ti si ovdje."
+          ]
+        },
+        {
+          "prompt": "Učiteljica, ja sam ovdje.",
+          "cue": "-> звертання (кличний відмінок)",
+          "accepted": [
+            "Učiteljice, ja sam ovdje."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ majka.",
+          "cue": "biti",
+          "accepted": [
+            "sam"
+          ]
+        },
+        {
+          "text": "Ti ___ prijatelj.",
+          "cue": "biti",
+          "accepted": [
+            "si"
+          ]
+        },
+        {
+          "text": "Mi ___ ovdje.",
+          "cue": "biti",
+          "accepted": [
+            "smo"
+          ]
+        },
+        {
+          "text": "Vi ___ u školi.",
+          "cue": "biti",
+          "accepted": [
+            "ste"
+          ]
+        },
+        {
+          "text": "Djeca ___ ovdje.",
+          "cue": "biti",
+          "accepted": [
+            "su"
+          ]
+        },
+        {
+          "text": "Ona ___ učiteljica.",
+          "cue": "biti",
+          "accepted": [
+            "je"
+          ]
+        },
+        {
+          "text": "Ja ___ u školi.",
+          "cue": "učiti",
+          "accepted": [
+            "učim"
+          ]
+        },
+        {
+          "text": "Ti ___ u školi.",
+          "cue": "učiti",
+          "accepted": [
+            "učiš"
+          ]
+        },
+        {
+          "text": "Mi ___ ovdje.",
+          "cue": "učiti",
+          "accepted": [
+            "učimo"
+          ]
+        },
+        {
+          "text": "Dijete ___.",
+          "cue": "učiti",
+          "accepted": [
+            "uči"
+          ]
+        },
+        {
+          "text": "Vi ___ knjigu.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujete"
+          ]
+        },
+        {
+          "text": "Oni ___ kuću.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuju"
+          ]
+        },
+        {
+          "text": "Ti ___ knjigu.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuješ"
+          ]
+        },
+        {
+          "text": "Mi ___ kuću.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "дитина",
+          "answer": "dijete"
+        },
+        {
+          "prompt": "мама",
+          "answer": "majka"
+        },
+        {
+          "prompt": "вчителька",
+          "answer": "učiteljica"
+        },
+        {
+          "prompt": "школа",
+          "answer": "škola"
+        },
+        {
+          "prompt": "друг",
+          "answer": "prijatelj"
+        },
+        {
+          "prompt": "книжка",
+          "answer": "knjiga"
+        },
+        {
+          "prompt": "будинок",
+          "answer": "kuća"
+        },
+        {
+          "prompt": "рік",
+          "answer": "godina"
+        },
+        {
+          "prompt": "життя",
+          "answer": "život"
+        },
+        {
+          "prompt": "тут",
+          "answer": "ovdje"
+        },
+        {
+          "prompt": "сьогодні",
+          "answer": "danas"
+        },
+        {
+          "prompt": "купувати",
+          "answer": "kupovati"
+        },
+        {
+          "prompt": "вчитися",
+          "answer": "učiti"
+        }
+      ],
+      "extra": [
+        "naučiti",
+        "kupiti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "false_friend"
+      ]
+    }
+  ]
+}

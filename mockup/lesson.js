@@ -10,7 +10,7 @@ const display = (n) => (n.type === 'noun' && n.article ? `${n.article} ${n.lemma
 const sentenceOf = (e) => (e.text !== undefined ? e.text : e.nl);
 const pluralText = (n) => {
   // Notes that carry grammar fields instead of an article: noun = gender, genitive singular, plural; verb = aspect, partner, 1st person singular.
-  if (n.type === 'noun' && n.gender) {
+  if (n.gender) {
     const parts = [n.gender, `G. ${n.gen_sg}`];
     if (n.plural_only) parts.push('тільки мн.');
     else if (n.plural && n.plural.length) parts.push(`мн. ${n.plural.join(', ')}`);
