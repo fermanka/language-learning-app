@@ -1,0 +1,1217 @@
+{
+  "id": "hr-les-03",
+  "lang": "hr",
+  "order": 3,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-2a43eaa2",
+      "type": "noun",
+      "lemma": "siječanj",
+      "gender": "m.",
+      "gen_sg": "siječnja",
+      "ua": "січень",
+      "audio": "hr-sijecanj.mp3",
+      "forms": [
+        "siječnja",
+        "siječnju"
+      ],
+      "explain_ua": "(Rođendan je u siječnju = день народження у січні). Єдиний місяць, де корінь збігається з українським: siječanj це січень. Пиши з č і з i перед ј: sije-, не «sjećanj». Місцевий u siječnju: -a- перед -nj випадає. У множині не вживається"
+    },
+    {
+      "id": "hr-8423a908",
+      "type": "noun",
+      "lemma": "veljača",
+      "gender": "ž.",
+      "gen_sg": "veljače",
+      "ua": "лютий",
+      "audio": "hr-veljaca.mp3",
+      "forms": [
+        "veljače",
+        "veljači"
+      ],
+      "explain_ua": "(Prijatelj je u gradu u veljači = друг у місті в лютому). Єдиний місяць жіночого роду. Пиши č, не ć: veljača, не «veljaća». Родовий veljače, місцевий u veljači (-a стає -i). У множині не вживається"
+    },
+    {
+      "id": "hr-a4476b9c",
+      "type": "noun",
+      "lemma": "ožujak",
+      "gender": "m.",
+      "gen_sg": "ožujka",
+      "ua": "березень",
+      "audio": "hr-ozujak.mp3",
+      "forms": [
+        "ožujka",
+        "ožujku"
+      ],
+      "explain_ua": "(Učiteljica je u školi u ožujku = вчителька в школі в березні). Назва без спільного кореня з українською. Ž з гачком. Родовий ožujka, місцевий u ožujku: -a- перед -k випадає. У множині не вживається"
+    },
+    {
+      "id": "hr-c944ec62",
+      "type": "noun",
+      "lemma": "travanj",
+      "gender": "m.",
+      "gen_sg": "travnja",
+      "ua": "квітень",
+      "audio": "hr-travanj.mp3",
+      "forms": [
+        "travnja",
+        "travnju"
+      ],
+      "explain_ua": "(Rođendan je u travnju = день народження в квітні). Пастка зі зсувом на місяць: корінь trav- як в українському травень, але travanj це квітень. Травень хорватською svibanj. Родовий travnja, місцевий u travnju. У множині не вживається"
+    },
+    {
+      "id": "hr-2daa711e",
+      "type": "noun",
+      "lemma": "svibanj",
+      "gender": "m.",
+      "gen_sg": "svibnja",
+      "ua": "травень",
+      "audio": "hr-svibanj.mp3",
+      "forms": [
+        "svibnja",
+        "svibnju"
+      ],
+      "explain_ua": "(Majka kupuje knjigu u svibnju = мама купує книжку в травні). Корінь інший, ніж в українській, а значення те саме: svibanj це травень. Родовий svibnja, місцевий u svibnju. У множині не вживається"
+    },
+    {
+      "id": "hr-f1065142",
+      "type": "noun",
+      "lemma": "lipanj",
+      "gender": "m.",
+      "gen_sg": "lipnja",
+      "ua": "червень",
+      "audio": "hr-lipanj.mp3",
+      "forms": [
+        "lipnja",
+        "lipnju"
+      ],
+      "explain_ua": "(Mi smo u gradu u lipnju = ми в місті в червні). Зсув на місяць: корінь lip- як в українському липень, але lipanj це червень. Липень хорватською srpanj. Родовий lipnja, місцевий u lipnju. У множині не вживається"
+    },
+    {
+      "id": "hr-9d7efafb",
+      "type": "noun",
+      "lemma": "srpanj",
+      "gender": "m.",
+      "gen_sg": "srpnja",
+      "ua": "липень",
+      "audio": "hr-srpanj.mp3",
+      "forms": [
+        "srpnja",
+        "srpnju"
+      ],
+      "explain_ua": "(Rođendan je dvanaestoga srpnja = день народження дванадцятого липня). Зсув на місяць: корінь srp- як в українському серпень, але srpanj це липень. Серпень хорватською kolovoz. Пиши s-r-p, не «spranj». Родовий srpnja, місцевий u srpnju. У множині не вживається"
+    },
+    {
+      "id": "hr-bf1352aa",
+      "type": "noun",
+      "lemma": "kolovoz",
+      "gender": "m.",
+      "gen_sg": "kolovoza",
+      "ua": "серпень",
+      "audio": "hr-kolovoz.mp3",
+      "forms": [
+        "kolovoza",
+        "kolovozu"
+      ],
+      "explain_ua": "(Djeca su na moru u kolovozu = діти на морі в серпні). Назва без спільного кореня з українською. Тут -o- не випадає: kolovoza, kolovozu. У множині не вживається"
+    },
+    {
+      "id": "hr-4ad4c90b",
+      "type": "noun",
+      "lemma": "rujan",
+      "gender": "m.",
+      "gen_sg": "rujna",
+      "ua": "вересень",
+      "audio": "hr-rujan.mp3",
+      "forms": [
+        "rujna",
+        "rujnu"
+      ],
+      "explain_ua": "(Ja čitam knjigu u rujnu = я читаю книжку у вересні). Назва без спільного кореня з українською. Родовий rujna, місцевий u rujnu: -a- перед -n випадає. У множині не вживається"
+    },
+    {
+      "id": "hr-493fa1e3",
+      "type": "noun",
+      "lemma": "listopad",
+      "gender": "m.",
+      "gen_sg": "listopada",
+      "ua": "жовтень",
+      "audio": "hr-listopad.mp3",
+      "forms": [
+        "listopada",
+        "listopadu"
+      ],
+      "explain_ua": "(Rođendan je u listopadu = день народження в жовтні). Зсув на місяць: те саме слово, що в українському листопад, але listopad це жовтень. Листопад хорватською studeni. Тут -a не випадає: listopada, listopadu. У множині не вживається"
+    },
+    {
+      "id": "hr-6531b979",
+      "type": "noun",
+      "lemma": "studeni",
+      "gender": "m.",
+      "gen_sg": "studenoga",
+      "ua": "листопад",
+      "audio": "hr-studeni.mp3",
+      "forms": [
+        "studenoga",
+        "studenog",
+        "studenom"
+      ],
+      "explain_ua": "(Mi smo u stanu u studenom = ми в квартирі в листопаді). Закінчення -i, як в прикметника: родовий studenoga (також studenog), місцевий u studenom. Пиши studeni, не «studenj». Для російськомовної пастка: російське студень значить холодець, а хорватське studeni це листопад. У множині не вживається",
+      "check": "Родовий studenoga і studenog обидва трапляються в джерелах; у цьому уроці вживаю studenoga, а форма studenog лише в списку форм."
+    },
+    {
+      "id": "hr-f9cfa936",
+      "type": "noun",
+      "lemma": "prosinac",
+      "gender": "m.",
+      "gen_sg": "prosinca",
+      "ua": "грудень",
+      "audio": "hr-prosinac.mp3",
+      "forms": [
+        "prosinca",
+        "prosincu"
+      ],
+      "explain_ua": "(Majka je na poslu u prosincu = мама на роботі в грудні). Назва без спільного кореня з українською. Родовий prosinca, місцевий u prosincu: -a- перед -c випадає, як у ožujak, ožujka. У множині не вживається"
+    },
+    {
+      "id": "hr-78289155",
+      "type": "noun",
+      "lemma": "rođendan",
+      "gender": "m.",
+      "gen_sg": "rođendana",
+      "plural": [
+        "rođendani"
+      ],
+      "ua": "день народження",
+      "audio": "hr-rodendan.mp3",
+      "explain_ua": "(Kada je rođendan? = коли день народження?). Літера đ пишеться з рискою: rođendan, не «rodjendan» і не «rođendan» з ć. Це складене слово: rođen- «народжений» плюс dan «день»",
+      "check": "Множину rođendani не знайдено в джерелах, вона з мого знання регулярного відмінювання на -ani."
+    },
+    {
+      "id": "hr-0414b934",
+      "type": "function",
+      "lemma": "kada",
+      "ua": "коли",
+      "audio": "hr-kada.mp3",
+      "explain_ua": "(Kada je rođendan? = коли день народження?). Питає про час. Часто скорочують до kad, обидві форми правильні. Kada стоїть на першому місці, і клітик je йде одразу за ним: Kada je rođendan?"
+    },
+    {
+      "id": "hr-83931ada",
+      "type": "numeral",
+      "lemma": "prvi",
+      "digit": "1.",
+      "ua": "перший",
+      "audio": "hr-prvi.mp3",
+      "forms": [
+        "prvoga",
+        "prvog"
+      ],
+      "explain_ua": "(Danas je prvi siječnja = сьогодні перше січня). Порядковий числівник змінюється за родом: у даті він чоловічого роду, бо за ним мається на увазі dan «день». Родовий prvoga, коли йдеться про подію: Rođendan je prvoga lipnja. Цифрами пишуть 1. з крапкою"
+    },
+    {
+      "id": "hr-4e052d8c",
+      "type": "numeral",
+      "lemma": "peti",
+      "digit": "5.",
+      "ua": "п'ятий",
+      "audio": "hr-peti.mp3",
+      "forms": [
+        "petoga",
+        "petog"
+      ],
+      "explain_ua": "(Danas je peti travnja = сьогодні п'яте квітня). Peti це чоловічий рід, а українське «п'яте» середній. Родовий petoga: Rođendan je petoga travnja. Цифрами 5. з крапкою",
+      "check": "Родовий порядкових на -oga і -og: джерела розходяться щодо статусу форми на -oga. У цьому уроці вживаю -oga, а форми на -og лише в списку форм. Звірити з Hrvatski pravopis."
+    },
+    {
+      "id": "hr-9cdd37a0",
+      "type": "numeral",
+      "lemma": "dvanaesti",
+      "digit": "12.",
+      "ua": "дванадцятий",
+      "audio": "hr-dvanaesti.mp3",
+      "forms": [
+        "dvanaestoga",
+        "dvanaestog"
+      ],
+      "explain_ua": "(Rođendan je dvanaestoga srpnja = день народження дванадцятого липня). Dvanaest ми вчимо як слово: dvanaesti це дванадцятий. Родовий dvanaestoga. Цифрами 12. з крапкою"
+    },
+    {
+      "id": "hr-d4975300",
+      "type": "numeral",
+      "lemma": "dvadeseti",
+      "digit": "20.",
+      "ua": "двадцятий",
+      "audio": "hr-dvadeseti.mp3",
+      "forms": [
+        "dvadesetoga",
+        "dvadesetog"
+      ],
+      "explain_ua": "(Rođendan je dvadesetoga rujna = день народження двадцятого вересня). Dvadeseti це двадцятий. Родовий dvadesetoga. Цифрами 20. з крапкою"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Місяці: корінь на місяць раніше, швидка перевірка",
+      "summary_ua": "Спільні корені в хорватській вказують на місяць раніше, ніж в українській: travanj це квітень, lipanj червень, srpanj липень, listopad жовтень. Siječanj збігається з січнем. Це перевірка, а не нове правило.",
+      "compare": [
+        {
+          "form": "зсув на місяць: travanj, lipanj, srpanj, listopad",
+          "when_ua": "Той самий корінь, але значення на місяць раніше. Не перекладай за схожістю.",
+          "examples": [
+            {
+              "text": "Rođendan je u travnju.",
+              "ua": "День народження в квітні.",
+              "audio": "hr-les03-rule-01.mp3"
+            },
+            {
+              "text": "Rođendan je u lipnju.",
+              "ua": "День народження в червні.",
+              "audio": "hr-les03-rule-02.mp3"
+            },
+            {
+              "text": "Rođendan je u srpnju.",
+              "ua": "День народження в липні.",
+              "audio": "hr-les03-rule-03.mp3"
+            },
+            {
+              "text": "Rođendan je u listopadu.",
+              "ua": "День народження в жовтні.",
+              "audio": "hr-les03-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Українське травень, липень, серпень, листопад: кожне слово в хорватській одним місяцем раніше. Тест: назви місяць числом (travanj це 4, не 5)."
+        },
+        {
+          "form": "інші місяці: без зсуву",
+          "when_ua": "Siječanj збігається з січнем. Решта має зовсім інші корені (svibanj, studeni), їх просто вчи.",
+          "examples": [
+            {
+              "text": "Rođendan je u siječnju.",
+              "ua": "День народження в січні.",
+              "audio": "hr-les03-rule-05.mp3"
+            },
+            {
+              "text": "Rođendan je u svibnju.",
+              "ua": "День народження в травні.",
+              "audio": "hr-les03-rule-06.mp3"
+            },
+            {
+              "text": "Rođendan je u studenom.",
+              "ua": "День народження в листопаді.",
+              "audio": "hr-les03-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Svibanj це травень, studeni це листопад. Тут українська не допомагає, і ця різниця теж вчиться напам'ять."
+        }
+      ],
+      "points_ua": [
+        "Правило з одного речення: спільний корінь стоїть на місяць раніше (travanj 4, lipanj 6, srpanj 7, listopad 10), крім siječanj.",
+        "Studeni це листопад. Російське студень значить холодець, не місяць.",
+        "Порядок місяців: siječanj, veljača, ožujak, travanj, svibanj, lipanj, srpanj, kolovoz, rujan, listopad, studeni, prosinac."
+      ]
+    },
+    {
+      "title_ua": "«У місяці»: u srpnju, u veljači, u studenom",
+      "summary_ua": "На питання kada (коли), коли йдеться про місяць, стоїть u і місцевий відмінок. Чоловічі місяці беруть -u, при цьому -a- перед останнім приголосним випадає (siječanj, u siječnju). Veljača має -i, studeni -om.",
+      "compare": [
+        {
+          "form": "чоловічий рід: -u, -a- випадає",
+          "when_ua": "Після -anj, -ak, -ac і -an: srpanj, u srpnju; ožujak, u ožujku; prosinac, u prosincu; rujan, u rujnu. Kolovoz і listopad -a- не мають: u kolovozu, u listopadu.",
+          "examples": [
+            {
+              "text": "Mi smo na moru u srpnju.",
+              "ua": "Ми на морі в липні.",
+              "audio": "hr-les03-rule-08.mp3"
+            },
+            {
+              "text": "Majka je na poslu u prosincu.",
+              "ua": "Мама на роботі в грудні.",
+              "audio": "hr-les03-rule-09.mp3"
+            },
+            {
+              "text": "Dijete je u školi u listopadu.",
+              "ua": "Дитина в школі в жовтні.",
+              "audio": "hr-les03-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Це та сама зміна, що в posao, poslu з Lekcije 2: -a- перед останнім приголосним випадає."
+        },
+        {
+          "form": "veljača: -i; studeni: -om",
+          "when_ua": "Veljača жіночого роду, тому u veljači, як u školi. Studeni має закінчення прикметника: u studenom.",
+          "examples": [
+            {
+              "text": "Prijatelj je u gradu u veljači.",
+              "ua": "Друг у місті в лютому.",
+              "audio": "hr-les03-rule-11.mp3"
+            },
+            {
+              "text": "Mi smo u stanu u studenom.",
+              "ua": "Ми в квартирі в листопаді.",
+              "audio": "hr-les03-rule-12.mp3"
+            },
+            {
+              "text": "Učiteljica je u školi u ožujku.",
+              "ua": "Вчителька в школі в березні.",
+              "audio": "hr-les03-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Українська теж має місцевий відмінок, тож ти вже відчуваєш закінчення -i, -u."
+        }
+      ],
+      "points_ua": [
+        "Схема: u + місяць у місцевому відмінку. Чоловічі: -u (а перед останнім приголосним може випасти). Veljača: -i. Studeni: -om.",
+        "Усі дванадцять форм: u siječnju, u veljači, u ožujku, u travnju, u svibnju, u lipnju, u srpnju, u kolovozu, u rujnu, u listopadu, u studenom, u prosincu.",
+        "Місцевий відмінок місяців для питання kada, а точна дата вимагає родового (наступна картка)."
+      ]
+    },
+    {
+      "title_ua": "Дата: Danas je peti travnja. Rođendan je petoga travnja.",
+      "summary_ua": "У даті номер дня порядковий, місяць стоїть у родовому відмінку. «Яка сьогодні дата»: день у називному (peti), місяць у родовому (travnja). «Коли»: день теж у родовому (petoga travnja). Українська теж ставить місяць у родовий.",
+      "compare": [
+        {
+          "form": "Яка сьогодні дата: peti travnja",
+          "when_ua": "День у називному чоловічого роду (peti, dvanaesti, prvi), бо маємо на увазі dan. Місяць у родовому: travnja, srpnja.",
+          "examples": [
+            {
+              "text": "Danas je peti travnja.",
+              "ua": "Сьогодні п'яте квітня.",
+              "audio": "hr-les03-rule-14.mp3"
+            },
+            {
+              "text": "Danas je dvanaesti srpnja.",
+              "ua": "Сьогодні дванадцяте липня.",
+              "audio": "hr-les03-rule-15.mp3"
+            },
+            {
+              "text": "Danas je prvi siječnja.",
+              "ua": "Сьогодні перше січня.",
+              "audio": "hr-les03-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Українське «п'яте» середнього роду (число), а хорватське peti чоловічого. Тут українська вводить в оману."
+        },
+        {
+          "form": "Коли: petoga travnja",
+          "when_ua": "Коли подія відбувається в цей день, і день, і місяць у родовому: petoga travnja, dvanaestoga srpnja. Українське «п'ятого квітня» працює так само.",
+          "examples": [
+            {
+              "text": "Rođendan je petoga travnja.",
+              "ua": "День народження п'ятого квітня.",
+              "audio": "hr-les03-rule-17.mp3"
+            },
+            {
+              "text": "Rođendan je prvoga lipnja.",
+              "ua": "День народження першого червня.",
+              "audio": "hr-les03-rule-18.mp3"
+            },
+            {
+              "text": "Rođendan je dvadesetoga studenoga.",
+              "ua": "День народження двадцятого листопада.",
+              "audio": "hr-les03-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Тут українська допомагає: родовий відмінок у даті той самий. Закінчення порядкового -oga (також -og)."
+        },
+        {
+          "form": "питання та відповідь: Kada je rođendan?",
+          "when_ua": "Питання Kada je rođendan? має kada першим, je одразу після нього. Відповідь це дата в родовому відмінку.",
+          "examples": [
+            {
+              "text": "Kada je rođendan?",
+              "ua": "Коли день народження?",
+              "audio": "hr-les03-rule-20.mp3"
+            },
+            {
+              "text": "Rođendan je dvanaestoga srpnja.",
+              "ua": "День народження дванадцятого липня.",
+              "audio": "hr-les03-rule-21.mp3"
+            },
+            {
+              "text": "Majka je na moru dvadesetoga kolovoza.",
+              "ua": "Мама на морі двадцятого серпня.",
+              "audio": "hr-les03-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Цифрами пишуть 5. travnja, 12. srpnja, з крапкою після числа. Читається порядковим числівником."
+        }
+      ],
+      "points_ua": [
+        "Два питання. Яка сьогодні дата? Peti travnja: день у називному, місяць у родовому. Коли подія? Petoga travnja: обидва в родовому.",
+        "Місяці в родовому: siječnja, veljače, ožujka, travnja, svibnja, lipnja, srpnja, kolovoza, rujna, listopada, studenoga, prosinca.",
+        "Цифрами 5. travnja читається peti або petoga, залежно від питання. Крапка після числа обов'язкова."
+      ]
+    },
+    {
+      "title_ua": "Правопис місяців: č/ć, ije, r/p, studeni",
+      "summary_ua": "Типові помилки при записі з пам'яті: veljača з ć, siječanj без i або з ć, srpanj з перестановкою r і p, studeni з -nj. Правопис суворий, а вимова гнучка: č і ć можуть звучати майже однаково, але пишуться по-різному.",
+      "compare": [
+        {
+          "form": "č і ć; ije в siječanj",
+          "when_ua": "Siječanj пишеться з č (не ć) і з ije (не je). Veljača з č. Звук може бути близьким, а буква ні.",
+          "examples": [
+            {
+              "text": "U siječnju sam u gradu.",
+              "ua": "У січні я в місті.",
+              "audio": "hr-les03-rule-23.mp3"
+            },
+            {
+              "text": "U veljači smo u školi.",
+              "ua": "У лютому ми в школі.",
+              "audio": "hr-les03-rule-24.mp3"
+            },
+            {
+              "text": "Rođendan je prvoga siječnja.",
+              "ua": "День народження першого січня.",
+              "audio": "hr-les03-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Підказка для пам'яті, не етимологія: siječanj пов'язаний зі словом «сікти», тому č і ije."
+        },
+        {
+          "form": "r і p в srpanj; studeni без -nj",
+          "when_ua": "Srpanj: s, r, p, a, n, j (спочатку r, потім p). Studeni закінчується на -i, не на -nj.",
+          "examples": [
+            {
+              "text": "U srpnju sam na moru.",
+              "ua": "У липні я на морі.",
+              "audio": "hr-les03-rule-26.mp3"
+            },
+            {
+              "text": "U studenom smo u stanu.",
+              "ua": "У листопаді ми в квартирі.",
+              "audio": "hr-les03-rule-27.mp3"
+            },
+            {
+              "text": "Rođendan je prvoga srpnja.",
+              "ua": "День народження першого липня.",
+              "audio": "hr-les03-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Слова на -nj (travanj, svibanj, lipanj, srpanj) закінчуються на -nj, а studeni ні. Не переноси -nj на studeni."
+        }
+      ],
+      "points_ua": [
+        "Перевір себе: з пам'яті напиши всі дванадцять назв і звір їх із порядком у першій картці.",
+        "Слово rođendan теж має трудну букву: đ з рискою.",
+        "У цьому застосунку відповідь без діакритики (c замість č, d замість đ) вважається помилкою. Це і є тренування."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Rođendan je u travnju.",
+      "ua": "День народження в квітні.",
+      "audio": "hr-les03-example-01.mp3"
+    },
+    {
+      "text": "Majka je na moru u srpnju.",
+      "ua": "Мама на морі в липні.",
+      "audio": "hr-les03-example-02.mp3"
+    },
+    {
+      "text": "Kada je rođendan?",
+      "ua": "Коли день народження?",
+      "audio": "hr-les03-example-03.mp3"
+    },
+    {
+      "text": "Rođendan je petoga travnja.",
+      "ua": "День народження п'ятого квітня.",
+      "audio": "hr-les03-example-04.mp3"
+    },
+    {
+      "text": "Danas je dvanaesti srpnja.",
+      "ua": "Сьогодні дванадцяте липня.",
+      "audio": "hr-les03-example-05.mp3"
+    },
+    {
+      "text": "Prijatelj je u gradu u veljači.",
+      "ua": "Друг у місті в лютому.",
+      "audio": "hr-les03-example-06.mp3"
+    },
+    {
+      "text": "Dijete je na moru dvadesetoga kolovoza.",
+      "ua": "Дитина на морі двадцятого серпня.",
+      "audio": "hr-les03-example-07.mp3"
+    },
+    {
+      "text": "Mi smo u stanu u studenom.",
+      "ua": "Ми в квартирі в листопаді.",
+      "audio": "hr-les03-example-08.mp3"
+    },
+    {
+      "text": "Učiteljica je u školi u ožujku.",
+      "ua": "Вчителька в школі в березні.",
+      "audio": "hr-les03-example-09.mp3"
+    },
+    {
+      "text": "Rođendan je prvoga lipnja.",
+      "ua": "День народження першого червня.",
+      "audio": "hr-les03-example-10.mp3"
+    },
+    {
+      "text": "U prosincu sam u gradu.",
+      "ua": "У грудні я в місті.",
+      "audio": "hr-les03-example-11.mp3"
+    },
+    {
+      "text": "Danas je prvi siječnja.",
+      "ua": "Сьогодні перше січня.",
+      "audio": "hr-les03-example-12.mp3"
+    },
+    {
+      "text": "Rođendan je u listopadu, a ja sam na poslu.",
+      "ua": "День народження в жовтні, а я на роботі.",
+      "audio": "hr-les03-example-13.mp3"
+    },
+    {
+      "text": "Majka kupuje knjigu u svibnju.",
+      "ua": "Мама купує книжку в травні.",
+      "audio": "hr-les03-example-14.mp3"
+    },
+    {
+      "text": "Prijatelj čita knjigu u siječnju.",
+      "ua": "Друг читає книжку в січні.",
+      "audio": "hr-les03-example-15.mp3"
+    },
+    {
+      "text": "Ja čitam knjigu u rujnu.",
+      "ua": "Я читаю книжку у вересні.",
+      "audio": "hr-les03-example-16.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Rođendan",
+    "title_ua": "День народження",
+    "highlight": [
+      "hr-9d7efafb",
+      "hr-78289155",
+      "hr-0414b934",
+      "hr-9cdd37a0"
+    ],
+    "sentences": [
+      {
+        "text": "Danas je dvanaesti srpnja.",
+        "ua": "Сьогодні дванадцяте липня.",
+        "audio": "hr-les03-reading-01.mp3"
+      },
+      {
+        "text": "Ovo je rođendan.",
+        "ua": "Це день народження.",
+        "audio": "hr-les03-reading-02.mp3"
+      },
+      {
+        "text": "Majka kupuje knjigu.",
+        "ua": "Мама купує книжку.",
+        "audio": "hr-les03-reading-03.mp3"
+      },
+      {
+        "text": "Prijatelj je u gradu.",
+        "ua": "Друг у місті.",
+        "audio": "hr-les03-reading-04.mp3"
+      },
+      {
+        "text": "Je li prijatelj ovdje?",
+        "ua": "Чи друг тут?",
+        "audio": "hr-les03-reading-05.mp3"
+      },
+      {
+        "text": "Da, prijatelj je ovdje.",
+        "ua": "Так, друг тут.",
+        "audio": "hr-les03-reading-06.mp3"
+      },
+      {
+        "text": "Kada je rođendan?",
+        "ua": "Коли день народження?",
+        "audio": "hr-les03-reading-07.mp3"
+      },
+      {
+        "text": "Rođendan je dvanaestoga srpnja.",
+        "ua": "День народження дванадцятого липня.",
+        "audio": "hr-les03-reading-08.mp3"
+      },
+      {
+        "text": "U srpnju su djeca na moru.",
+        "ua": "У липні діти на морі.",
+        "audio": "hr-les03-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "День народження в квітні.",
+          "accepted": [
+            "Rođendan je u travnju."
+          ]
+        },
+        {
+          "prompt": "День народження в липні.",
+          "accepted": [
+            "Rođendan je u srpnju."
+          ]
+        },
+        {
+          "prompt": "День народження в жовтні.",
+          "accepted": [
+            "Rođendan je u listopadu."
+          ]
+        },
+        {
+          "prompt": "Ми в місті в червні.",
+          "accepted": [
+            "Mi smo u gradu u lipnju.",
+            "U lipnju smo u gradu."
+          ]
+        },
+        {
+          "prompt": "Мама на роботі в січні.",
+          "accepted": [
+            "Majka je na poslu u siječnju.",
+            "U siječnju je majka na poslu."
+          ]
+        },
+        {
+          "prompt": "Діти на морі в серпні.",
+          "accepted": [
+            "Djeca su na moru u kolovozu.",
+            "U kolovozu su djeca na moru."
+          ]
+        },
+        {
+          "prompt": "Коли день народження?",
+          "accepted": [
+            "Kada je rođendan?"
+          ]
+        },
+        {
+          "prompt": "День народження п'ятого квітня.",
+          "accepted": [
+            "Rođendan je petoga travnja.",
+            "Rođendan je petog travnja.",
+            "Rođendan je 5. travnja."
+          ]
+        },
+        {
+          "prompt": "Сьогодні дванадцяте липня.",
+          "accepted": [
+            "Danas je dvanaesti srpnja.",
+            "Danas je 12. srpnja."
+          ]
+        },
+        {
+          "prompt": "День народження дванадцятого липня.",
+          "accepted": [
+            "Rođendan je dvanaestoga srpnja.",
+            "Rođendan je dvanaestog srpnja.",
+            "Rođendan je 12. srpnja."
+          ]
+        },
+        {
+          "prompt": "Сьогодні перше січня.",
+          "accepted": [
+            "Danas je prvi siječnja.",
+            "Danas je 1. siječnja."
+          ]
+        },
+        {
+          "prompt": "День народження двадцятого листопада.",
+          "accepted": [
+            "Rođendan je dvadesetoga studenoga.",
+            "Rođendan je dvadesetog studenoga.",
+            "Rođendan je dvadesetoga studenog.",
+            "Rođendan je dvadesetog studenog.",
+            "Rođendan je 20. studenoga.",
+            "Rođendan je 20. studenog."
+          ]
+        },
+        {
+          "prompt": "Друг у місті в лютому.",
+          "accepted": [
+            "Prijatelj je u gradu u veljači.",
+            "U veljači je prijatelj u gradu."
+          ]
+        },
+        {
+          "prompt": "Ми в квартирі в листопаді.",
+          "accepted": [
+            "Mi smo u stanu u studenom.",
+            "U studenom smo u stanu."
+          ]
+        },
+        {
+          "prompt": "Я читаю книжку у вересні.",
+          "accepted": [
+            "Ja čitam knjigu u rujnu.",
+            "U rujnu čitam knjigu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "travnju",
+        "srpnju",
+        "lipnju",
+        "siječnju",
+        "veljači",
+        "studenom",
+        "prosincu",
+        "listopadu",
+        "Kada",
+        "peti",
+        "dvanaesti",
+        "prvi",
+        "petoga",
+        "srpnja",
+        "travnja",
+        "studenoga"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Rođendan je u ___.",
+          "hint": "День народження в квітні.",
+          "accepted": [
+            [
+              "travnju"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan je u ___.",
+          "hint": "День народження в липні.",
+          "accepted": [
+            [
+              "srpnju"
+            ]
+          ]
+        },
+        {
+          "text": "Mi smo na moru u ___.",
+          "hint": "Ми на морі в червні.",
+          "accepted": [
+            [
+              "lipnju"
+            ]
+          ]
+        },
+        {
+          "text": "Majka je na poslu u ___.",
+          "hint": "Мама на роботі в січні.",
+          "accepted": [
+            [
+              "siječnju"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete je u školi u ___.",
+          "hint": "Дитина в школі в лютому.",
+          "accepted": [
+            [
+              "veljači"
+            ]
+          ]
+        },
+        {
+          "text": "Mi smo u stanu u ___.",
+          "hint": "Ми в квартирі в листопаді.",
+          "accepted": [
+            [
+              "studenom"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ sam u gradu.",
+          "hint": "У грудні я в місті.",
+          "accepted": [
+            [
+              "prosincu"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan je u ___.",
+          "hint": "День народження в жовтні.",
+          "accepted": [
+            [
+              "listopadu"
+            ]
+          ]
+        },
+        {
+          "text": "___ je rođendan?",
+          "hint": "Коли день народження?",
+          "accepted": [
+            [
+              "Kada"
+            ]
+          ]
+        },
+        {
+          "text": "Danas je ___ travnja.",
+          "hint": "Сьогодні п'яте квітня.",
+          "accepted": [
+            [
+              "peti"
+            ]
+          ]
+        },
+        {
+          "text": "Danas je ___ srpnja.",
+          "hint": "Сьогодні дванадцяте липня.",
+          "accepted": [
+            [
+              "dvanaesti"
+            ]
+          ]
+        },
+        {
+          "text": "Danas je ___ siječnja.",
+          "hint": "Сьогодні перше січня.",
+          "accepted": [
+            [
+              "prvi"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan je ___ travnja.",
+          "hint": "День народження п'ятого квітня.",
+          "accepted": [
+            [
+              "petoga"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan je dvanaestoga ___.",
+          "hint": "День народження дванадцятого липня.",
+          "accepted": [
+            [
+              "srpnja"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan je petoga ___.",
+          "hint": "День народження п'ятого квітня.",
+          "accepted": [
+            [
+              "travnja"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan je dvadesetoga ___.",
+          "hint": "День народження двадцятого листопада.",
+          "accepted": [
+            [
+              "studenoga",
+              "studenog"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: дата, початок з іншого слова або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Rođendan je u travnju.",
+          "cue": "-> дата: peti (5.)",
+          "accepted": [
+            "Rođendan je petoga travnja."
+          ]
+        },
+        {
+          "prompt": "Rođendan je u srpnju.",
+          "cue": "-> дата: dvanaesti (12.)",
+          "accepted": [
+            "Rođendan je dvanaestoga srpnja."
+          ]
+        },
+        {
+          "prompt": "Rođendan je u lipnju.",
+          "cue": "-> дата: prvi (1.)",
+          "accepted": [
+            "Rođendan je prvoga lipnja."
+          ]
+        },
+        {
+          "prompt": "Rođendan je u rujnu.",
+          "cue": "-> дата: dvadeseti (20.)",
+          "accepted": [
+            "Rođendan je dvadesetoga rujna."
+          ]
+        },
+        {
+          "prompt": "Rođendan je petoga travnja.",
+          "cue": "-> почни з Danas (яка сьогодні дата)",
+          "accepted": [
+            "Danas je peti travnja."
+          ]
+        },
+        {
+          "prompt": "Rođendan je prvoga siječnja.",
+          "cue": "-> почни з Danas (яка сьогодні дата)",
+          "accepted": [
+            "Danas je prvi siječnja."
+          ]
+        },
+        {
+          "prompt": "Rođendan je dvanaestoga srpnja.",
+          "cue": "-> почни з Danas (яка сьогодні дата)",
+          "accepted": [
+            "Danas je dvanaesti srpnja."
+          ]
+        },
+        {
+          "prompt": "Mi smo na moru u srpnju.",
+          "cue": "-> почни з U srpnju",
+          "accepted": [
+            "U srpnju smo na moru."
+          ]
+        },
+        {
+          "prompt": "Majka je na poslu u prosincu.",
+          "cue": "-> почни з U prosincu",
+          "accepted": [
+            "U prosincu je majka na poslu."
+          ]
+        },
+        {
+          "prompt": "Ja sam u gradu u veljači.",
+          "cue": "-> почни з U veljači",
+          "accepted": [
+            "U veljači sam u gradu."
+          ]
+        },
+        {
+          "prompt": "Rođendan je u travnju.",
+          "cue": "-> почни з U travnju",
+          "accepted": [
+            "U travnju je rođendan."
+          ]
+        },
+        {
+          "prompt": "Rođendan je u travanj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je u travnju."
+          ]
+        },
+        {
+          "prompt": "Rođendan je u srpanj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je u srpnju."
+          ]
+        },
+        {
+          "prompt": "Rođendan je petoga travanj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je petoga travnja."
+          ]
+        },
+        {
+          "prompt": "Mi smo u studeni.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi smo u studenom."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "U srpnju ___ na moru.",
+          "cue": "biti (ja)",
+          "accepted": [
+            "sam"
+          ]
+        },
+        {
+          "text": "U lipnju ___ u gradu.",
+          "cue": "biti (mi)",
+          "accepted": [
+            "smo"
+          ]
+        },
+        {
+          "text": "U siječnju ___ na poslu.",
+          "cue": "biti (ti)",
+          "accepted": [
+            "si"
+          ]
+        },
+        {
+          "text": "U studenom ___ djeca u školi.",
+          "cue": "biti (oni)",
+          "accepted": [
+            "su"
+          ]
+        },
+        {
+          "text": "U veljači ___ u stanu.",
+          "cue": "biti (vi)",
+          "accepted": [
+            "ste"
+          ]
+        },
+        {
+          "text": "U rujnu ja ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitam"
+          ]
+        },
+        {
+          "text": "Mi ___ knjigu u srpnju.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        },
+        {
+          "text": "Majka ___ knjigu u svibnju.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuje"
+          ]
+        },
+        {
+          "text": "Ti ___ knjigu u listopadu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitaš"
+          ]
+        },
+        {
+          "text": "Djeca ___ u prosincu.",
+          "cue": "pisati",
+          "accepted": [
+            "pišu"
+          ]
+        },
+        {
+          "text": "Mi ___ u travnju.",
+          "cue": "pisati",
+          "accepted": [
+            "pišemo"
+          ]
+        },
+        {
+          "text": "Prijatelj ___ knjigu u kolovozu.",
+          "cue": "čitati",
+          "accepted": [
+            "čita"
+          ]
+        },
+        {
+          "text": "Vi ___ knjigu u ožujku.",
+          "cue": "gledati",
+          "accepted": [
+            "gledate"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "січень",
+          "answer": "siječanj"
+        },
+        {
+          "prompt": "лютий",
+          "answer": "veljača"
+        },
+        {
+          "prompt": "березень",
+          "answer": "ožujak"
+        },
+        {
+          "prompt": "квітень",
+          "answer": "travanj"
+        },
+        {
+          "prompt": "травень",
+          "answer": "svibanj"
+        },
+        {
+          "prompt": "червень",
+          "answer": "lipanj"
+        },
+        {
+          "prompt": "липень",
+          "answer": "srpanj"
+        },
+        {
+          "prompt": "серпень",
+          "answer": "kolovoz"
+        },
+        {
+          "prompt": "вересень",
+          "answer": "rujan"
+        },
+        {
+          "prompt": "жовтень",
+          "answer": "listopad"
+        },
+        {
+          "prompt": "листопад",
+          "answer": "studeni"
+        },
+        {
+          "prompt": "грудень",
+          "answer": "prosinac"
+        },
+        {
+          "prompt": "день народження",
+          "answer": "rođendan"
+        },
+        {
+          "prompt": "коли",
+          "answer": "kada"
+        }
+      ],
+      "extra": [
+        "prvi",
+        "dvadeseti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "function",
+        "numeral"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1379 @@
+{
+  "id": "hr-les-04",
+  "lang": "hr",
+  "order": 4,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "ali"
+  ],
+  "notes": [
+    {
+      "id": "hr-e3f8b57c",
+      "type": "verb",
+      "lemma": "imati",
+      "aspect": "impf.",
+      "pres_1sg": "imam",
+      "ua": "мати, мати щось (у мене є)",
+      "audio": "hr-imati.mp3",
+      "forms": [
+        "nemam",
+        "nemaš",
+        "nemamo",
+        "nemate",
+        "nemaju"
+      ],
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "imam",
+          "audio": "hr-ja-imam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "imaš",
+          "audio": "hr-ti-imas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "ima",
+          "audio": "hr-on-ima.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "imamo",
+          "audio": "hr-mi-imamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "imate",
+          "audio": "hr-vi-imate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "imaju",
+          "audio": "hr-oni-imaju.mp3"
+        }
+      ],
+      "explain_ua": "(Imam knjigu = у мене є книжка). Без пари: imati не має пари. Хорватська будує «мати» через дієслово, як українське «маю», а не через «у мене є»: Ja imam psa, а не «u mene je pas». Тип -am, як čitati: imam, imaš, ima, imamo, imate, imaju. Заперечення пишеться одним словом: nemam, nemaš, nema, nemamo, nemate, nemaju (ne + imam, разом)"
+    },
+    {
+      "id": "hr-d69ee9d9",
+      "type": "verb",
+      "lemma": "voljeti",
+      "aspect": "impf.",
+      "pres_1sg": "volim",
+      "ua": "любити, подобатися; (щоденне «люблю»)",
+      "audio": "hr-voljeti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "volim",
+          "audio": "hr-ja-volim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "voliš",
+          "audio": "hr-ti-volis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "voli",
+          "audio": "hr-on-voli.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "volimo",
+          "audio": "hr-mi-volimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "volite",
+          "audio": "hr-vi-volite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "vole",
+          "audio": "hr-oni-vole.mp3"
+        }
+      ],
+      "explain_ua": "(Volim kavu = я люблю каву). Це щоденне «люблю» хорватською, і для людей, і для речей, і з інфінітивом: Volim čitati. Інфінітив voljeti з -lj-, а в теперішньому без j: volim, voliš. Не плутай з ljubiti: ljubiti значить цілувати (див. картку ljubiti). Без пари",
+      "check": "Форма 3 особи множини vole і основа volim не звірені зі словником у цьому уроці, вони з мого знання."
+    },
+    {
+      "id": "hr-126db124",
+      "type": "verb",
+      "lemma": "vidjeti",
+      "aspect": "biaspectual",
+      "pres_1sg": "vidim",
+      "ua": "бачити",
+      "audio": "hr-vidjeti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "vidim",
+          "audio": "hr-ja-vidim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "vidiš",
+          "audio": "hr-ti-vidis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "vidi",
+          "audio": "hr-on-vidi.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "vidimo",
+          "audio": "hr-mi-vidimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "vidite",
+          "audio": "hr-vi-vidite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "vide",
+          "audio": "hr-oni-vide.mp3"
+        }
+      ],
+      "explain_ua": "(Vidim psa = я бачу собаку). Інфінітив з -dj-: vidjeti, а в теперішньому vidim (без j). Двовидове: те саме слово може бути недоконаним (я бачу) і доконаним (я побачив), значення видно з контексту. Після vidjeti іде знахідний без прийменника",
+      "check": "Двовидовість vidjeti взято з навчального матеріалу (carnet) і наукової статті; зі словником у цьому уроці не звірено."
+    },
+    {
+      "id": "hr-994ebd5d",
+      "type": "false_friend",
+      "lemma": "ljubiti",
+      "ua": "цілувати",
+      "uk_lookalike": "любити",
+      "uk_means": "любити, кохати",
+      "audio": "hr-ljubiti.mp3",
+      "forms": [
+        "ljubi",
+        "ljubim"
+      ],
+      "explain_ua": "(недок., ljubim; док. poljubiti). Хорватське ljubiti це цілувати, а українське любити це кохати, любити. Щоденне «люблю» хорватською voljeti, а ljubiti тільки поетично «кохати». Тому Majka ljubi dijete значить «мама цілує дитину», а не «любить». Високий соціальний ризик: не переклад за схожістю",
+      "check": "Доконану пару poljubiti не звірено зі словником у цьому уроці."
+    },
+    {
+      "id": "hr-ca3e058c",
+      "type": "noun",
+      "lemma": "brat",
+      "gender": "m.",
+      "gen_sg": "brata",
+      "plural": [
+        "braća"
+      ],
+      "ua": "брат",
+      "audio": "hr-brat.mp3",
+      "forms": [
+        "brata"
+      ],
+      "explain_ua": "(Imam brata = у мене є брат). Множина braća це окреме збірне слово, як djeca, з дієсловом у множині: Braća su ovdje. Брат це істота (чоловічого роду), тому знахідний дорівнює родовому: Vidim brata, а не «vidim brat»"
+    },
+    {
+      "id": "hr-f6852261",
+      "type": "noun",
+      "lemma": "sin",
+      "gender": "m.",
+      "gen_sg": "sina",
+      "plural": [
+        "sinovi"
+      ],
+      "ua": "син",
+      "audio": "hr-sin.mp3",
+      "forms": [
+        "sina"
+      ],
+      "explain_ua": "(Majka voli sina = мама любить сина). Множина sinovi з вставкою -ov-, як gradovi. Син істота, тому знахідний sina дорівнює родовому"
+    },
+    {
+      "id": "hr-d5a110b9",
+      "type": "noun",
+      "lemma": "pas",
+      "gender": "m.",
+      "gen_sg": "psa",
+      "plural": [
+        "psi"
+      ],
+      "ua": "собака, пес",
+      "audio": "hr-pas.mp3",
+      "forms": [
+        "psa"
+      ],
+      "explain_ua": "(Vidim psa = я бачу собаку). Нестійке a, як у posao, posla: pas, psa. Пес істота, тому знахідний psa дорівнює родовому. Множина psi",
+      "check": "Множину psi і форму psa не знайдено в джерелах цього уроку, вони з мого знання."
+    },
+    {
+      "id": "hr-aec328cf",
+      "type": "noun",
+      "lemma": "kruh",
+      "gender": "m.",
+      "gen_sg": "kruha",
+      "plural": [
+        "kruhovi"
+      ],
+      "ua": "хліб",
+      "audio": "hr-kruh.mp3",
+      "forms": [
+        "kruha"
+      ],
+      "explain_ua": "(Nemam kruha = у мене немає хліба). Це хорватське слово, сербське hleb (це інший стандарт, на іспиті не пиши). Kruh неживий, тому знахідний дорівнює називному: Volim kruh. Родовий kruha вживається після заперечення: Nemam kruha"
+    },
+    {
+      "id": "hr-2287a93d",
+      "type": "noun",
+      "lemma": "mlijeko",
+      "gender": "s.",
+      "gen_sg": "mlijeka",
+      "plural": [
+        "mlijeka"
+      ],
+      "ua": "молоко",
+      "audio": "hr-mlijeko.mp3",
+      "forms": [
+        "mlijeka"
+      ],
+      "explain_ua": "(Nemam mlijeka = у мене немає молока). Пиши ije: mlijeko, не «mleko» (це сербське). Середній рід: знахідний дорівнює називному (Volim mlijeko), родовий mlijeka після заперечення"
+    },
+    {
+      "id": "hr-4206650e",
+      "type": "noun",
+      "lemma": "voda",
+      "gender": "ž.",
+      "gen_sg": "vode",
+      "plural": [
+        "vode"
+      ],
+      "ua": "вода",
+      "audio": "hr-voda.mp3",
+      "forms": [
+        "vodu",
+        "vode"
+      ],
+      "explain_ua": "(Nema vode = води немає). Жіночий рід на -a: знахідний vodu (Imam vodu), родовий vode (Nema vode). Це та сама зміна -a на -u, що й knjiga, knjigu"
+    },
+    {
+      "id": "hr-1b765e7c",
+      "type": "noun",
+      "lemma": "kava",
+      "gender": "ž.",
+      "gen_sg": "kave",
+      "plural": [
+        "kave"
+      ],
+      "ua": "кава",
+      "audio": "hr-kava.mp3",
+      "forms": [
+        "kavu",
+        "kave"
+      ],
+      "explain_ua": "(Volim kavu = я люблю каву). Знахідний kavu, родовий kave (Nemam kave)"
+    },
+    {
+      "id": "hr-869e2aa7",
+      "type": "noun",
+      "lemma": "vrijeme",
+      "gender": "s.",
+      "gen_sg": "vremena",
+      "plural": [
+        "vremena"
+      ],
+      "ua": "час; погода",
+      "audio": "hr-vrijeme.mp3",
+      "forms": [
+        "vremena"
+      ],
+      "explain_ua": "(Nemam vremena = у мене немає часу). Одне слово для двох понять: vrijeme це і «час», і «погода», де в українській два слова. Це не лажний друг, а полісемія, значення видно з контексту. Основа змінюється: vrijeme, vremena (-ije- стає -e-, з'являється -en-)"
+    },
+    {
+      "id": "hr-63d9bb96",
+      "type": "false_friend",
+      "lemma": "voće",
+      "gender": "s.",
+      "gen_sg": "voća",
+      "plural": [
+        "voća"
+      ],
+      "ua": "фрукти",
+      "uk_lookalike": "овочі",
+      "uk_means": "овочі",
+      "audio": "hr-voce.mp3",
+      "forms": [
+        "voća"
+      ],
+      "explain_ua": "(Volim voće = я люблю фрукти). Хорватське voće це фрукти, а українські овочі це vegetables. Збірне слово середнього роду, однина. Літера ć пишеться з рискою"
+    },
+    {
+      "id": "hr-0c8d00d1",
+      "type": "function",
+      "lemma": "nema",
+      "ua": "немає, нема",
+      "audio": "hr-nema.mp3",
+      "explain_ua": "(Nema kruha = хліба немає). Безособове: після nema іде родовий відмінок того, чого немає: Nema vode, Nema kave u stanu. Це та сама форма, що nema від nemati (він, вона не має), але тут без підмета. Українською «немає хліба» теж має родовий: збігається"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Imati, voljeti, vidjeti: теперішній час",
+      "summary_ua": "Три нові дієслова. Imam (тип -am, як čitam), volim і vidim (тип -im: volim, voliš, voli, volimo, volite, vole). Для «мати» спирайся на українське «маю», бо воно будується так само, а не через «у мене є».",
+      "compare": [
+        {
+          "form": "imati: imam, imaš, ima, imamo, imate, imaju",
+          "when_ua": "Дієслово «мати»: підмет + imati + те, що маєш. Тип -am, як čitati. Українське «маю» дає опору, а російське «у меня есть» ні.",
+          "examples": [
+            {
+              "text": "Ja imam brata.",
+              "ua": "У мене є брат.",
+              "audio": "hr-les04-rule-01.mp3"
+            },
+            {
+              "text": "Ti imaš psa.",
+              "ua": "У тебе є собака.",
+              "audio": "hr-les04-rule-02.mp3"
+            },
+            {
+              "text": "Djeca imaju knjigu.",
+              "ua": "У дітей є книжка.",
+              "audio": "hr-les04-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не будуй речення від «у мене»: підмет ja, дієслово imati."
+        },
+        {
+          "form": "voljeti: volim, voliš, voli, volimo, volite, vole",
+          "when_ua": "Тип -im. Інфінітив voljeti, а в теперішньому без j: volim. Третя особа множини vole.",
+          "examples": [
+            {
+              "text": "Ja volim kavu.",
+              "ua": "Я люблю каву.",
+              "audio": "hr-les04-rule-04.mp3"
+            },
+            {
+              "text": "Majka voli kruh.",
+              "ua": "Мама любить хліб.",
+              "audio": "hr-les04-rule-05.mp3"
+            },
+            {
+              "text": "Mi volimo voće.",
+              "ua": "Ми любимо фрукти.",
+              "audio": "hr-les04-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Voljeti це щоденне «люблю». Українське любити тут перекладається саме так."
+        },
+        {
+          "form": "vidjeti: vidim, vidiš, vidi, vidimo, vidite, vide",
+          "when_ua": "Інфінітив vidjeti з -dj-, а в теперішньому vidim без j. Після нього знахідний без прийменника.",
+          "examples": [
+            {
+              "text": "Ja vidim grad.",
+              "ua": "Я бачу місто.",
+              "audio": "hr-les04-rule-07.mp3"
+            },
+            {
+              "text": "Ti vidiš kuću.",
+              "ua": "Ти бачиш будинок.",
+              "audio": "hr-les04-rule-08.mp3"
+            },
+            {
+              "text": "Djeca vide psa.",
+              "ua": "Діти бачать собаку.",
+              "audio": "hr-les04-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Vide, а не «vidu»: тип -im має 3 особу множини на -e."
+        }
+      ],
+      "points_ua": [
+        "Закінчення: -m, -š, нічого, -mo, -te, і третя особа множини -ju (imaju), -e (vole, vide).",
+        "Imati не має пари, voljeti теж. Vidjeti двовидове: недоконане чи доконане, видно з контексту.",
+        "Volim і vidim мають -im: це інший тип, ніж čitam, imam."
+      ]
+    },
+    {
+      "title_ua": "Немає: nemam i nema + родовий відмінок",
+      "summary_ua": "Після заперечення imati іде родовий відмінок: Nemam kruha. Українська й російська мають те саме правило: немає хліба, нет хлеба. Тож ти знаєш ідею, треба лише хорватські закінчення: -a для чоловічого й середнього роду (kruha, mlijeka), -e для жіночого (vode, kave).",
+      "compare": [
+        {
+          "form": "nemam + родовий",
+          "when_ua": "Заперечення пишеться одним словом nemam, nemaš, nema, nemamo, nemate, nemaju. Предмет, якого немає, стоїть у родовому.",
+          "examples": [
+            {
+              "text": "Nemam kave.",
+              "ua": "У мене немає кави.",
+              "audio": "hr-les04-rule-10.mp3"
+            },
+            {
+              "text": "Nemam mlijeka.",
+              "ua": "У мене немає молока.",
+              "audio": "hr-les04-rule-11.mp3"
+            },
+            {
+              "text": "Nemaš vremena.",
+              "ua": "У тебе немає часу.",
+              "audio": "hr-les04-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Vremena це родовий від vrijeme з іншою основою. Українське «немає часу» теж родовий, тож логіка однакова."
+        },
+        {
+          "form": "nema + родовий (безособове)",
+          "when_ua": "Коли немає підмета: Nema vode. Після nema іде родовий. Це відповідає українському «води немає».",
+          "examples": [
+            {
+              "text": "Nema kruha.",
+              "ua": "Хліба немає.",
+              "audio": "hr-les04-rule-13.mp3"
+            },
+            {
+              "text": "Nema vode.",
+              "ua": "Води немає.",
+              "audio": "hr-les04-rule-14.mp3"
+            },
+            {
+              "text": "Nema mlijeka u stanu.",
+              "ua": "Молока в квартирі немає.",
+              "audio": "hr-les04-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Nema без підмета, а nema від nemati має підмет: Ona nema kave. Різниця лише в контексті."
+        },
+        {
+          "form": "imam + знахідний, nemam + родовий",
+          "when_ua": "Коли маєш, предмет у знахідному. Коли немаєш, у родовому. Порівнюй пари.",
+          "examples": [
+            {
+              "text": "Imam kruh, a nemam mlijeka.",
+              "ua": "У мене є хліб, а молока немає.",
+              "audio": "hr-les04-rule-16.mp3"
+            },
+            {
+              "text": "Imam brata, a nemam sina.",
+              "ua": "У мене є брат, а сина немає.",
+              "audio": "hr-les04-rule-17.mp3"
+            },
+            {
+              "text": "Imam kavu, ali nemam vode.",
+              "ua": "У мене є кава, але води немає.",
+              "audio": "hr-les04-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Imam kruh (знахідний, дорівнює називному), але nemam kruha (родовий). Imam kavu, але nemam kave."
+        }
+      ],
+      "points_ua": [
+        "Тест: imam чи nemam? Imam: знахідний (kruh, kavu, brata). Nemam: родовий (kruha, kave, brata).",
+        "Родовий в однині: чоловічий і середній рід -a (kruha, mlijeka, brata), жіночий -e (vode, kave).",
+        "Для чоловічих істот родовий і знахідний однакові: imam brata і nemam brata виглядають однаково.",
+        "Родовий відмінок з'явиться ще раз у наступних уроках з прийменниками, тож цей урок це перший підхід."
+      ]
+    },
+    {
+      "title_ua": "Знахідний відмінок: неживе, живе, жіночий рід",
+      "summary_ua": "Знахідний (кого? що?). Неживі чоловічі та середні слова не змінюються (kruh, mlijeko, voće). Жіночі на -a беруть -u (kavu, vodu). Живі чоловічі беруть форму родового (brata, sina, psa). Українська й російська мають той самий поділ.",
+      "compare": [
+        {
+          "form": "неживе чоловічого й середнього роду: без змін",
+          "when_ua": "Знахідний такий самий, як називний: kruh, mlijeko, voće, grad.",
+          "examples": [
+            {
+              "text": "Vidim kruh.",
+              "ua": "Я бачу хліб.",
+              "audio": "hr-les04-rule-19.mp3"
+            },
+            {
+              "text": "Volim mlijeko.",
+              "ua": "Я люблю молоко.",
+              "audio": "hr-les04-rule-20.mp3"
+            },
+            {
+              "text": "Imam voće.",
+              "ua": "У мене є фрукти.",
+              "audio": "hr-les04-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Українське «бачу хліб» також без змін. Це безкоштовна перемога: механізм ти знаєш."
+        },
+        {
+          "form": "жіночий на -a: -a стає -u",
+          "when_ua": "Як у Lekciji 1: knjiga, knjigu. Тут vodu, kavu, kuću.",
+          "examples": [
+            {
+              "text": "Imam vodu.",
+              "ua": "У мене є вода.",
+              "audio": "hr-les04-rule-22.mp3"
+            },
+            {
+              "text": "Majka kupuje kavu.",
+              "ua": "Мама купує каву.",
+              "audio": "hr-les04-rule-23.mp3"
+            },
+            {
+              "text": "Vidim kuću.",
+              "ua": "Я бачу будинок.",
+              "audio": "hr-les04-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Закінчення -u те саме, що в українській книжку, каву."
+        },
+        {
+          "form": "жива чоловічого роду: форма родового",
+          "when_ua": "Для людей і тварин чоловічого роду знахідний дорівнює родовому: brat, brata; sin, sina; pas, psa.",
+          "examples": [
+            {
+              "text": "Vidim brata.",
+              "ua": "Я бачу брата.",
+              "audio": "hr-les04-rule-25.mp3"
+            },
+            {
+              "text": "Majka voli sina.",
+              "ua": "Мама любить сина.",
+              "audio": "hr-les04-rule-26.mp3"
+            },
+            {
+              "text": "Imam psa.",
+              "ua": "У мене є собака.",
+              "audio": "hr-les04-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Українське «бачу брата», «маю собаку» працює так само. Російське «вижу брата» теж."
+        }
+      ],
+      "points_ua": [
+        "Три питання. Живе чоловічого роду? Форма родового (brata, sina, psa). Неживе чоловічого або середнього? Без змін. Жіночий на -a? -u.",
+        "Dijete (середній рід, живе) без змін: Vidim dijete. Поділ на живе й неживе діє лише для чоловічого роду.",
+        "Російська й українська мають цей поділ, але закінчення інші, тому саме закінчення тренуй."
+      ]
+    },
+    {
+      "title_ua": "Volim + інфінітив; voljeti проти ljubiti",
+      "summary_ua": "Після volim іде не лише знахідний, а й інфінітив: Volim čitati. Voljeti це щоденне «люблю». Ljubiti значить цілувати: Majka ljubi dijete це «мама цілує дитину». Не переклад за схожістю.",
+      "compare": [
+        {
+          "form": "volim + інфінітив",
+          "when_ua": "Інфінітив стоїть у кінці й не змінюється: Volim čitati, Majka voli pisati.",
+          "examples": [
+            {
+              "text": "Volim čitati.",
+              "ua": "Я люблю читати.",
+              "audio": "hr-les04-rule-28.mp3"
+            },
+            {
+              "text": "Majka voli pisati.",
+              "ua": "Мама любить писати.",
+              "audio": "hr-les04-rule-29.mp3"
+            },
+            {
+              "text": "Djeca vole čitati.",
+              "ua": "Діти люблять читати.",
+              "audio": "hr-les04-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Українське «люблю читати» будується так само: дієслово плюс інфінітив."
+        },
+        {
+          "form": "voljeti чи ljubiti",
+          "when_ua": "Voljeti це любити. Ljubiti це цілувати. Ljubiti тільки поетично значить кохати.",
+          "examples": [
+            {
+              "text": "Majka voli dijete.",
+              "ua": "Мама любить дитину.",
+              "audio": "hr-les04-rule-31.mp3"
+            },
+            {
+              "text": "Majka ljubi dijete.",
+              "ua": "Мама цілує дитину.",
+              "audio": "hr-les04-rule-32.mp3"
+            },
+            {
+              "text": "Dijete voli psa.",
+              "ua": "Дитина любить собаку.",
+              "audio": "hr-les04-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Це лажний друг з високим соціальним ризиком: українське любити не дорівнює ljubiti."
+        }
+      ],
+      "points_ua": [
+        "Щоденне «люблю»: voljeti. Цілувати: ljubiti. Не перекладай любити за схожістю.",
+        "Volim + знахідний (kavu) або + інфінітив (čitati)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Imam knjigu.",
+      "ua": "У мене є книжка.",
+      "audio": "hr-les04-example-01.mp3"
+    },
+    {
+      "text": "Majka ima kuću.",
+      "ua": "У мами є будинок.",
+      "audio": "hr-les04-example-02.mp3"
+    },
+    {
+      "text": "Mi imamo psa.",
+      "ua": "У нас є собака.",
+      "audio": "hr-les04-example-03.mp3"
+    },
+    {
+      "text": "Imam brata i sina.",
+      "ua": "У мене є брат і син.",
+      "audio": "hr-les04-example-04.mp3"
+    },
+    {
+      "text": "Volim kavu.",
+      "ua": "Я люблю каву.",
+      "audio": "hr-les04-example-05.mp3"
+    },
+    {
+      "text": "Majka voli kruh.",
+      "ua": "Мама любить хліб.",
+      "audio": "hr-les04-example-06.mp3"
+    },
+    {
+      "text": "Djeca vole mlijeko.",
+      "ua": "Діти люблять молоко.",
+      "audio": "hr-les04-example-07.mp3"
+    },
+    {
+      "text": "Volim voće.",
+      "ua": "Я люблю фрукти.",
+      "audio": "hr-les04-example-08.mp3"
+    },
+    {
+      "text": "Vidim psa.",
+      "ua": "Я бачу собаку.",
+      "audio": "hr-les04-example-09.mp3"
+    },
+    {
+      "text": "Vidiš li brata?",
+      "ua": "Ти бачиш брата?",
+      "audio": "hr-les04-example-10.mp3"
+    },
+    {
+      "text": "Vidimo kuću.",
+      "ua": "Ми бачимо будинок.",
+      "audio": "hr-les04-example-11.mp3"
+    },
+    {
+      "text": "Nemam kruha.",
+      "ua": "У мене немає хліба.",
+      "audio": "hr-les04-example-12.mp3"
+    },
+    {
+      "text": "Nemam vremena.",
+      "ua": "У мене немає часу.",
+      "audio": "hr-les04-example-13.mp3"
+    },
+    {
+      "text": "Nema vode.",
+      "ua": "Води немає.",
+      "audio": "hr-les04-example-14.mp3"
+    },
+    {
+      "text": "Nema kave u stanu.",
+      "ua": "Кави в квартирі немає.",
+      "audio": "hr-les04-example-15.mp3"
+    },
+    {
+      "text": "Imam kavu, ali nemam mlijeka.",
+      "ua": "У мене є кава, але немає молока.",
+      "audio": "hr-les04-example-16.mp3"
+    },
+    {
+      "text": "Majka ljubi dijete.",
+      "ua": "Мама цілує дитину.",
+      "audio": "hr-les04-example-17.mp3"
+    },
+    {
+      "text": "Sin voli čitati.",
+      "ua": "Син любить читати.",
+      "audio": "hr-les04-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Što imamo?",
+    "title_ua": "Що в нас є?",
+    "highlight": [
+      "hr-ca3e058c",
+      "hr-f6852261",
+      "hr-d5a110b9",
+      "hr-aec328cf",
+      "hr-2287a93d",
+      "hr-1b765e7c",
+      "hr-869e2aa7",
+      "hr-0c8d00d1"
+    ],
+    "sentences": [
+      {
+        "text": "Majka ima kuću i psa.",
+        "ua": "У мами є будинок і собака.",
+        "audio": "hr-les04-reading-01.mp3"
+      },
+      {
+        "text": "Brat voli kavu, a ja volim mlijeko.",
+        "ua": "Брат любить каву, а я люблю молоко.",
+        "audio": "hr-les04-reading-02.mp3"
+      },
+      {
+        "text": "Danas nemam vremena.",
+        "ua": "Сьогодні в мене немає часу.",
+        "audio": "hr-les04-reading-03.mp3"
+      },
+      {
+        "text": "Nema kruha u stanu.",
+        "ua": "Хліба в квартирі немає.",
+        "audio": "hr-les04-reading-04.mp3"
+      },
+      {
+        "text": "Imam sina i brata.",
+        "ua": "У мене є син і брат.",
+        "audio": "hr-les04-reading-05.mp3"
+      },
+      {
+        "text": "Vidim brata u gradu.",
+        "ua": "Я бачу брата в місті.",
+        "audio": "hr-les04-reading-06.mp3"
+      },
+      {
+        "text": "Brat kupuje kruh.",
+        "ua": "Брат купує хліб.",
+        "audio": "hr-les04-reading-07.mp3"
+      },
+      {
+        "text": "Nemam kave, ali imam mlijeko.",
+        "ua": "У мене немає кави, але є молоко.",
+        "audio": "hr-les04-reading-08.mp3"
+      },
+      {
+        "text": "Sin voli čitati knjigu.",
+        "ua": "Син любить читати книжку.",
+        "audio": "hr-les04-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я маю книжку.",
+          "accepted": [
+            "Imam knjigu.",
+            "Ja imam knjigu."
+          ]
+        },
+        {
+          "prompt": "Мама має будинок.",
+          "accepted": [
+            "Majka ima kuću."
+          ]
+        },
+        {
+          "prompt": "Ми маємо собаку.",
+          "accepted": [
+            "Imamo psa.",
+            "Mi imamo psa."
+          ]
+        },
+        {
+          "prompt": "Я маю брата і сина.",
+          "accepted": [
+            "Imam brata i sina.",
+            "Ja imam brata i sina."
+          ]
+        },
+        {
+          "prompt": "Я люблю каву.",
+          "accepted": [
+            "Volim kavu.",
+            "Ja volim kavu."
+          ]
+        },
+        {
+          "prompt": "Мама любить хліб.",
+          "accepted": [
+            "Majka voli kruh."
+          ]
+        },
+        {
+          "prompt": "Діти люблять молоко.",
+          "accepted": [
+            "Djeca vole mlijeko."
+          ]
+        },
+        {
+          "prompt": "Я люблю фрукти.",
+          "accepted": [
+            "Volim voće.",
+            "Ja volim voće."
+          ]
+        },
+        {
+          "prompt": "Я бачу собаку.",
+          "accepted": [
+            "Vidim psa.",
+            "Ja vidim psa."
+          ]
+        },
+        {
+          "prompt": "Ти бачиш брата?",
+          "accepted": [
+            "Vidiš li brata?",
+            "Vidiš li ti brata?"
+          ]
+        },
+        {
+          "prompt": "У мене немає хліба.",
+          "accepted": [
+            "Nemam kruha.",
+            "Ja nemam kruha."
+          ]
+        },
+        {
+          "prompt": "У мене немає часу.",
+          "accepted": [
+            "Nemam vremena.",
+            "Ja nemam vremena."
+          ]
+        },
+        {
+          "prompt": "Води немає.",
+          "accepted": [
+            "Nema vode."
+          ]
+        },
+        {
+          "prompt": "У мене є кава, але немає молока.",
+          "accepted": [
+            "Imam kavu, ali nemam mlijeka.",
+            "Ja imam kavu, ali nemam mlijeka."
+          ]
+        },
+        {
+          "prompt": "Мама цілує дитину.",
+          "accepted": [
+            "Majka ljubi dijete."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "kruh",
+        "kruha",
+        "vodu",
+        "vode",
+        "kavu",
+        "kave",
+        "mlijeka",
+        "psa",
+        "brata",
+        "sina",
+        "imam",
+        "nemam",
+        "ima",
+        "vole"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Nemam ___.",
+          "hint": "У мене немає хліба.",
+          "accepted": [
+            [
+              "kruha"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___.",
+          "hint": "У мене є хліб.",
+          "accepted": [
+            [
+              "kruh"
+            ]
+          ]
+        },
+        {
+          "text": "Volim ___.",
+          "hint": "Я люблю каву.",
+          "accepted": [
+            [
+              "kavu"
+            ]
+          ]
+        },
+        {
+          "text": "Nema ___.",
+          "hint": "Води немає.",
+          "accepted": [
+            [
+              "vode"
+            ]
+          ]
+        },
+        {
+          "text": "Nemam ___.",
+          "hint": "У мене немає молока.",
+          "accepted": [
+            [
+              "mlijeka"
+            ]
+          ]
+        },
+        {
+          "text": "Vidim ___.",
+          "hint": "Я бачу собаку.",
+          "accepted": [
+            [
+              "psa"
+            ]
+          ]
+        },
+        {
+          "text": "Vidiš li ___?",
+          "hint": "Ти бачиш брата?",
+          "accepted": [
+            [
+              "brata"
+            ]
+          ]
+        },
+        {
+          "text": "Majka voli ___.",
+          "hint": "Мама любить сина.",
+          "accepted": [
+            [
+              "sina"
+            ]
+          ]
+        },
+        {
+          "text": "___ psa.",
+          "hint": "У мене є собака.",
+          "accepted": [
+            [
+              "Imam"
+            ]
+          ]
+        },
+        {
+          "text": "___ vremena.",
+          "hint": "У мене немає часу.",
+          "accepted": [
+            [
+              "Nemam"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ kuću.",
+          "hint": "Мама має будинок.",
+          "accepted": [
+            [
+              "ima"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca ___ mlijeko.",
+          "hint": "Діти люблять молоко.",
+          "accepted": [
+            [
+              "vole"
+            ]
+          ]
+        },
+        {
+          "text": "Imam mlijeko, ali nemam ___.",
+          "hint": "У мене є молоко, але немає кави.",
+          "accepted": [
+            [
+              "kave"
+            ]
+          ]
+        },
+        {
+          "text": "Nema ___ u stanu.",
+          "hint": "Хліба в квартирі немає.",
+          "accepted": [
+            [
+              "kruha"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___.",
+          "hint": "У мене є вода.",
+          "accepted": [
+            [
+              "vodu"
+            ]
+          ]
+        },
+        {
+          "text": "Nemam ___.",
+          "hint": "У мене немає кави.",
+          "accepted": [
+            [
+              "kave"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: заперечення, питання, інша особа або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Imam kruh.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam kruha."
+          ]
+        },
+        {
+          "prompt": "Imam mlijeko.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam mlijeka."
+          ]
+        },
+        {
+          "prompt": "Imam vrijeme.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam vremena."
+          ]
+        },
+        {
+          "prompt": "Imam vodu.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam vode."
+          ]
+        },
+        {
+          "prompt": "Imam kavu.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam kave."
+          ]
+        },
+        {
+          "prompt": "Imam brata.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam brata."
+          ]
+        },
+        {
+          "prompt": "Imam psa.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam psa."
+          ]
+        },
+        {
+          "prompt": "Ti vidiš kruh.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Vidiš li kruh?",
+            "Vidiš li ti kruh?"
+          ]
+        },
+        {
+          "prompt": "Ti voliš kavu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Voliš li kavu?",
+            "Voliš li ti kavu?"
+          ]
+        },
+        {
+          "prompt": "Ja imam kruh.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi imamo kruh."
+          ]
+        },
+        {
+          "prompt": "Ja volim kavu.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi volimo kavu."
+          ]
+        },
+        {
+          "prompt": "Ja vidim psa.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi vidimo psa."
+          ]
+        },
+        {
+          "prompt": "Vidim brat.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim brata."
+          ]
+        },
+        {
+          "prompt": "Vidim kuća.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim kuću."
+          ]
+        },
+        {
+          "prompt": "Nemam kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nemam kruha."
+          ]
+        },
+        {
+          "prompt": "Volim kava.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Volim kavu."
+          ]
+        },
+        {
+          "prompt": "Nema voda.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nema vode."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ psa.",
+          "cue": "imati",
+          "accepted": [
+            "imam"
+          ]
+        },
+        {
+          "text": "Ti ___ brata.",
+          "cue": "imati",
+          "accepted": [
+            "imaš"
+          ]
+        },
+        {
+          "text": "Majka ___ kuću.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Mi ___ sina.",
+          "cue": "imati",
+          "accepted": [
+            "imamo"
+          ]
+        },
+        {
+          "text": "Djeca ___ psa.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Ja ___ kavu.",
+          "cue": "voljeti",
+          "accepted": [
+            "volim"
+          ]
+        },
+        {
+          "text": "Ti ___ kruh.",
+          "cue": "voljeti",
+          "accepted": [
+            "voliš"
+          ]
+        },
+        {
+          "text": "Majka ___ mlijeko.",
+          "cue": "voljeti",
+          "accepted": [
+            "voli"
+          ]
+        },
+        {
+          "text": "Mi ___ voće.",
+          "cue": "voljeti",
+          "accepted": [
+            "volimo"
+          ]
+        },
+        {
+          "text": "Djeca ___ mlijeko.",
+          "cue": "voljeti",
+          "accepted": [
+            "vole"
+          ]
+        },
+        {
+          "text": "Ja ___ psa.",
+          "cue": "vidjeti",
+          "accepted": [
+            "vidim"
+          ]
+        },
+        {
+          "text": "Ti ___ brata.",
+          "cue": "vidjeti",
+          "accepted": [
+            "vidiš"
+          ]
+        },
+        {
+          "text": "Mi ___ kuću.",
+          "cue": "vidjeti",
+          "accepted": [
+            "vidimo"
+          ]
+        },
+        {
+          "text": "Djeca ___ psa.",
+          "cue": "vidjeti",
+          "accepted": [
+            "vide"
+          ]
+        },
+        {
+          "text": "Ja ___ kruha.",
+          "cue": "nemati",
+          "accepted": [
+            "nemam"
+          ]
+        },
+        {
+          "text": "Ti ___ vremena.",
+          "cue": "nemati",
+          "accepted": [
+            "nemaš"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "брат",
+          "answer": "brat"
+        },
+        {
+          "prompt": "син",
+          "answer": "sin"
+        },
+        {
+          "prompt": "собака",
+          "answer": "pas"
+        },
+        {
+          "prompt": "хліб",
+          "answer": "kruh"
+        },
+        {
+          "prompt": "молоко",
+          "answer": "mlijeko"
+        },
+        {
+          "prompt": "вода",
+          "answer": "voda"
+        },
+        {
+          "prompt": "кава",
+          "answer": "kava"
+        },
+        {
+          "prompt": "час, погода",
+          "answer": "vrijeme"
+        },
+        {
+          "prompt": "фрукти",
+          "answer": "voće"
+        },
+        {
+          "prompt": "мати щось",
+          "answer": "imati"
+        },
+        {
+          "prompt": "любити",
+          "answer": "voljeti"
+        },
+        {
+          "prompt": "цілувати",
+          "answer": "ljubiti"
+        },
+        {
+          "prompt": "бачити",
+          "answer": "vidjeti"
+        },
+        {
+          "prompt": "немає",
+          "answer": "nema"
+        }
+      ],
+      "extra": [
+        "sinovi",
+        "kruhovi"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "false_friend",
+        "function"
+      ]
+    }
+  ]
+}
