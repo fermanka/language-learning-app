@@ -95,6 +95,8 @@
     }
 
     // What the learner wrote: one new text file per sending in written/ (never overwritten), for the teacher to read.
+    // The page can also choose to resend under the SAME name (an explicit overwrite the learner asked for), which is
+    // why this does not refuse an existing file -- the choice of a new name vs. the old one is the caller's.
     async saveWritten(name, text) {
       const dir = await this._dir('written');
       const fh = await dir.getFileHandle(name, { create: true });
@@ -102,6 +104,20 @@
       await w.write(text);
       await w.close();
       return name;
+    }
+
+    // Reads back a file the learner already sent, so the page can show her what she last sent before she edits it.
+    // null = no such file (deleted or never written outside this run).
+    async readWritten(name) {
+      let file;
+      try {
+        const dir = await this.root.getDirectoryHandle('written');
+        file = await dir.getFileHandle(name);
+      } catch (e) {
+        if (e && e.name === 'NotFoundError') return null;
+        throw e;
+      }
+      return (await file.getFile()).text();
     }
 
     async saveRecording(name, blob) {

@@ -41,7 +41,15 @@ A valid example: `docs/story-example/stories/nl/les-11.json`. Check a folder wit
 The **Надіслати** button is locked until the text has `min_sentences` sentences (counted by the closing marks `.`, `!`, `?`). Every sending is a new text file, never overwritten:
 
 ```
-written/nl-les-11.2026-09-24T14-25-47.txt     <- the topic on the first line, then her text
+written/nl-les-11.2026-09-24T14-25-47-183.txt     <- the topic on the first line, then her text
 ```
 
 and one event `story_submitted` (lesson, file, number of sentences) goes into the progress log. The teacher's digest (`npm run digest -- <progress folder>`) lists every sending under "Written stories"; the teacher reads the file itself. An unsent draft is kept in the browser only.
+
+## Editing a story she already sent
+
+Once a lesson has a sent story, the page shows it locked (read-only) with an **Редагувати** (Edit) button instead of the text field. Clicking it unlocks the box with what was last sent, pre-filled. Sending again asks her to choose:
+
+- **Перезаписати** -- resaves under the SAME file name (an explicit overwrite: the old content at that name is gone), and still logs a new `story_submitted` event, so the digest shows the file was revised.
+- **Зберегти обидва варіанти** -- the original behaviour: a brand new file, the old one untouched.
+- **Скасувати** -- nothing is saved, the box stays open for more editing.

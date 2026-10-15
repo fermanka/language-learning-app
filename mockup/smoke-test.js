@@ -356,7 +356,11 @@ byId['prev'].onclick();
   const storyBox = () => byId['b6-story'];
   const saved = [];
   let storyServed = (id) => ({ data: { ...storySample, lesson: id } });
-  window.progressLog.store = { readStory: async (id) => storyServed(id), saveWritten: async (name, text) => { saved.push({ name, text }); return name; } };
+  window.progressLog.store = {
+    readStory: async (id) => storyServed(id),
+    saveWritten: async (name, text) => { saved.push({ name, text }); return name; },
+    readWritten: async (name) => { const s = [...saved].reverse().find((x) => x.name === name); return s ? s.text : null; },
+  };
   byId['prev'].onclick(); await flush();   // the extra-practice checks above ended on Les 2: back to Les 1
   const area = () => storyBox().all().find((e) => e.tag === 'textarea');
   const sendBtn = () => buttons(storyBox(), 'Надіслати Марійке')[0];
@@ -377,6 +381,32 @@ byId['prev'].onclick();
   t('story: the draft is cleared after sending', !storage.get(`storyDraft:${window.LESSONS[0].id}`));
   byId['next'].onclick(); byId['prev'].onclick(); await flush();
   t('story: reopening shows that it was sent', storyBox().textContent.includes('Надіслано') && storyBox().textContent.includes(saved[0].name));
+  t('story: reopening locks the box, with an Edit button and no Send button shown', area().disabled === true && sendBtn().hidden === true && buttons(storyBox(), 'Редагувати').length === 1 && buttons(storyBox(), 'Редагувати')[0].hidden === false);
+  t('story: the locked box shows what was actually sent, read back from written/', area().value === 'Ik eet kaas. Het is lekker. Ik koop kaas. Ik heb geen brood. Dus eet ik kaas.');
+  buttons(storyBox(), 'Редагувати')[0].onclick();
+  t('story: Edit unlocks it again', area().disabled === false && sendBtn().hidden === false && buttons(storyBox(), 'Редагувати')[0].hidden === true);
+  area().value = 'Ik eet kaas. Het is lekker. Ik koop brood. Ik heb geen melk. Dus eet ik brood.'; area().listeners.input();
+  const sentCountBefore = saved.length;
+  sendBtn().onclick(); await flush();   // the overwrite-or-both question is async: don't await the click yet, it is waiting on an answer
+  t('story: resending an already-sent story asks overwrite or both, not a silent third file', buttons(document.body, 'Перезаписати').length === 1 && buttons(document.body, 'Зберегти обидва варіанти').length === 1 && saved.length === sentCountBefore);
+  buttons(document.body, 'Перезаписати')[0].onclick(); await flush();
+  t('story: "Перезаписати" overwrites the same file instead of adding a new one', saved.length === sentCountBefore + 1 && saved[saved.length - 1].name === saved[0].name && saved[saved.length - 1].text.includes('Ik koop brood.'));
+  t('story: the overwrite is still logged as its own sending', window.progressLog.events.filter((e) => e.type === 'story_submitted' && e.lesson === window.LESSONS[0].id).length === 2);
+  t('story: it locks again after the overwrite', area().disabled === true);
+  const overwrittenFile = saved[saved.length - 1].name, overwrittenText = saved[saved.length - 1].text;
+  buttons(storyBox(), 'Редагувати')[0].onclick();
+  area().value = 'Ik eet brood. Het is lekker. Ik koop kaas. Ik heb geen melk. Dus eet ik kaas.'; area().listeners.input();
+  const beforeBoth = saved.length;
+  sendBtn().onclick(); await flush();
+  buttons(document.body, 'Зберегти обидва варіанти')[0].onclick(); await flush();
+  t('story: "Зберегти обидва варіанти" adds a new file and keeps the overwritten one untouched', saved.length === beforeBoth + 1 && saved[saved.length - 1].name !== overwrittenFile && (await window.progressLog.store.readWritten(overwrittenFile)) === overwrittenText);
+  t('story: the log now has three sendings for this lesson', window.progressLog.events.filter((e) => e.type === 'story_submitted' && e.lesson === window.LESSONS[0].id).length === 3);
+  buttons(storyBox(), 'Редагувати')[0].onclick();
+  area().value = 'Ik eet brood. Het is lekker. Ik koop kaas. Ik heb geen wijn. Dus eet ik kaas.'; area().listeners.input();
+  const beforeCancel = saved.length;
+  sendBtn().onclick(); await flush();
+  buttons(document.body, 'Скасувати')[0].onclick(); await flush();
+  t('story: "Скасувати" saves nothing and leaves the box open to keep editing', saved.length === beforeCancel && area().disabled === false);
   storyServed = () => null;
   byId['next'].onclick(); await flush();
   t('story: no file for a lesson means no block at all', storyBox().children.length === 0);

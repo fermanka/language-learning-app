@@ -231,6 +231,12 @@
            padding: 8px 16px; border-radius: 10px; font-size: 14px; opacity: 0; pointer-events: none; transition: opacity .2s; max-width: 90vw; }
   #toast.show { opacity: 1; }
 
+  .overlay { position: fixed; inset: 0; background: rgba(0, 0, 0, .55); display: flex; align-items: center; justify-content: center;
+             padding: 16px; z-index: 50; }
+  .overlay-box { background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 14px; padding: 20px; max-width: 420px; }
+  .overlay-box p { margin: 0 0 16px; }
+  .overlay-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+
   /* Decoration: the flag and the coat of arms of Amsterdam in the empty side margins. Only where the margins are wide
      enough (a phone or a narrow window shows nothing), never in the way of a click. Each sits in the middle of its margin. */
   .side { display: none; position: fixed; top: 110px; pointer-events: none; }

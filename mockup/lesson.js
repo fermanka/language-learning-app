@@ -345,32 +345,81 @@ if (typeof document === 'undefined') {
       ex.append(el('p', 'meta', d.note_ua || `Напиши зв'язну історію: щонайменше ${d.min_sentences} речень. Марійке перевірить помилки і зв'язність.`));
       if (d.targets_ua) { const ul = el('ul', 'meta'); d.targets_ua.forEach((t) => ul.append(el('li', null, t))); ex.append(ul); }
       const area = el('textarea', 'story'); area.rows = 8;
-      try { area.value = localStorage.getItem(DRAFT_KEY(L.id)) || ''; } catch (e) { /* storage may be blocked */ }
+      let draft = '';
+      try { draft = localStorage.getItem(DRAFT_KEY(L.id)) || ''; } catch (e) { /* storage may be blocked */ }
+      area.value = draft;
       const counter = el('p', 'meta'), status = el('p', 'meta');
       const send = el('button', 'btn primary', 'Надіслати Марійке');
+      const editBtn = el('button', 'btn', 'Редагувати'); editBtn.hidden = true;
+      let sentBefore = log.state().stories[L.id];
       const refresh = () => {
         const n = window.Story.countSentences(area.value);
         counter.textContent = `Речень: ${n} з ${d.min_sentences}`;
         send.disabled = n < d.min_sentences;
       };
-      const sentBefore = log.state().stories[L.id];
-      status.textContent = sentBefore ? `Надіслано ${sentBefore.at.slice(0, 10)} (${sentBefore.sentences} речень): written/${sentBefore.file}. Скажи Марійке. Можна написати нову версію і надіслати ще раз.` : '';
+      const describeSent = (s) => `Надіслано ${s.at.slice(0, 10)} (${s.sentences} речень): written/${s.file}. Скажи Марійке.`;
+      // Locked = showing what was already sent, read-only, until she explicitly asks to change it. A live unsent
+      // draft (she started editing and never sent) always wins over the locked view -- she is mid-edit, let her finish.
+      const lock = () => { area.disabled = true; send.hidden = true; editBtn.hidden = false; };
+      const unlock = () => { area.disabled = false; send.hidden = false; editBtn.hidden = true; if (area.focus) area.focus(); };
+      editBtn.onclick = unlock;
+      status.textContent = sentBefore ? describeSent(sentBefore) : '';
+      if (sentBefore && !draft) {
+        lock();   // show the last sent text, not an empty box, while it loads
+        log.store.readWritten(sentBefore.file).then((raw) => {
+          if (LESSONS[current].id !== L.id || area.disabled !== true || raw == null) return;   // moved on, she already hit "Редагувати", or the file is gone
+          const body = raw.indexOf('\n\n'); area.value = (body === -1 ? raw : raw.slice(body + 2)).replace(/\n$/, '');
+        });
+      }
       area.addEventListener('input', () => { refresh(); try { localStorage.setItem(DRAFT_KEY(L.id), area.value); } catch (e) { /* ignore */ } });
+
+      // Asks what to do with a story that was already sent: overwrite that file, keep both, or back out and keep editing.
+      function askOverwriteOrBoth(prevFile) {
+        return new Promise((resolve) => {
+          const overlay = el('div', 'overlay');
+          const panel = el('div', 'overlay-box');
+          panel.append(el('p', null, `Ти вже надсилала цю історію (written/${prevFile}). Перезаписати її новою версією, чи зберегти обидва варіанти?`));
+          const row = el('div', 'overlay-actions');
+          const bBoth = el('button', 'btn primary', 'Зберегти обидва варіанти');
+          const bOverwrite = el('button', 'btn', 'Перезаписати');
+          const bCancel = el('button', 'btn', 'Скасувати');
+          const close = (v) => { overlay.remove(); resolve(v); };
+          bBoth.onclick = () => close('both');
+          bOverwrite.onclick = () => close('overwrite');
+          bCancel.onclick = () => close(null);
+          row.append(bBoth, bOverwrite, bCancel);
+          panel.append(row);
+          overlay.append(panel);
+          document.body.append(overlay);
+        });
+      }
+
       send.onclick = async () => {
         const text = area.value.trim(), n = window.Story.countSentences(text);
-        if (n < d.min_sentences) return;
+        if (n < d.min_sentences || send.disabled) return;
         if (!log.store) { status.textContent = 'Спочатку підключи теку з прогресом (угорі), тоді історію буде збережено.'; return; }
-        const stamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
-        const name = `${L.id}.${stamp}.txt`;
+        let overwrite = false;
+        if (sentBefore) {
+          const choice = await askOverwriteOrBoth(sentBefore.file);
+          if (!choice) return;   // cancelled: keep editing, nothing saved
+          overwrite = choice === 'overwrite';
+        }
+        send.disabled = true;   // block a double-click from firing a second save before this one resolves
+        // Millisecond resolution: two "save both" sends within the same second must never collide and silently overwrite each other.
+        const name = overwrite ? sentBefore.file : `${L.id}.${new Date().toISOString().replace(/[:.]/g, '-').slice(0, 23)}.txt`;
         try {
           await log.store.saveWritten(name, `${d.topic_ua}${d.topic_nl ? ` (${d.topic_nl})` : ''}\n\n${text}\n`);
-          log.record({ type: 'story_submitted', lesson: L.id, file: name, sentences: n });
+          const rec = log.record({ type: 'story_submitted', lesson: L.id, file: name, sentences: n });
+          sentBefore = { file: name, sentences: n, at: rec.t };
           status.textContent = `Надіслано (${n} речень): written/${name}. Скажи Марійке, що історія там.`;
           try { localStorage.removeItem(DRAFT_KEY(L.id)); } catch (e) { /* ignore */ }
+          draft = '';
+          lock();
         } catch (e) { status.textContent = 'Не вдалося зберегти історію: ' + e.message + '. Текст лишається в полі, нічого не втрачено.'; }
+        refresh();
       };
       refresh();
-      ex.append(area, counter, send, status);
+      ex.append(area, counter, send, editBtn, status);
       box.append(ex);
     }).catch((e) => { if (LESSONS[current].id === L.id) note(`Не вдалося прочитати завдання з історією: ${e.message}`, 'meta warn'); });
   }

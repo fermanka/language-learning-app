@@ -53,6 +53,10 @@ class FakeDir {
   await store.saveWritten('nl-les-11.b.txt', 'Ik eet brood.');
   const written = root.map.get('written');
   t('each sending is its own file in written/', written && written.map.get('nl-les-11.a.txt').data === 'Ik eet kaas.' && written.map.get('nl-les-11.b.txt').data === 'Ik eet brood.');
+  t('readWritten reads back a sent file', (await store.readWritten('nl-les-11.a.txt')) === 'Ik eet kaas.');
+  t('readWritten on a name never sent is null', (await store.readWritten('nl-les-11.z.txt')) === null);
+  await store.saveWritten('nl-les-11.a.txt', 'Ik eet nu brood, niet kaas.');
+  t('saving under an existing name overwrites it (the learner chose "overwrite" over "both")', (await store.readWritten('nl-les-11.a.txt')) === 'Ik eet nu brood, niet kaas.' && written.map.size === 2);
 
   // ---- progress state and the teacher's digest
   const events = [
