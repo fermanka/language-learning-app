@@ -28,7 +28,10 @@
            background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 12px 20px; }
   .lang { display: flex; align-items: center; gap: 12px; font-weight: 600; }
   .pill { background: var(--pill); color: var(--accent); border-radius: 999px; padding: 4px 14px; font-weight: 500; }
-  select.pill { border: 0; font: inherit; font-weight: 500; cursor: pointer; }
+  /* Own arrow instead of the browser's, so it can sit away from the right edge of the pill. */
+  select.pill { border: 0; font: inherit; font-weight: 500; cursor: pointer; appearance: none; -webkit-appearance: none; padding-right: 34px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1.5 1.5 6 6l4.5-4.5' fill='none' stroke='%236b4a1f' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 15px center; }
   nav { display: flex; gap: 20px; }
   nav button { background: none; border: 0; padding: 4px 0; font: inherit; color: var(--muted); cursor: pointer; border-bottom: 2px solid transparent; }
   nav button:hover { color: var(--ink); }
@@ -240,6 +243,7 @@
 
   /* Decoration: the flag and the coat of arms of Amsterdam in the empty side margins. Only where the margins are wide
      enough (a phone or a narrow window shows nothing), never in the way of a click. Each sits in the middle of its margin. */
+  html:not([data-lang="nl"]) .side { display: none !important; }   /* the decoration is Dutch: other languages show none */
   .side { display: none; position: fixed; top: 110px; pointer-events: none; }
   .side svg, .side img { display: block; width: 100%; height: auto; filter: drop-shadow(0 2px 6px rgba(0, 0, 0, .35)); }
   /* Each one is centred in its side margin: a margin is (window - page) / 2 wide, so its middle is a quarter of (window - page) from
@@ -398,6 +402,7 @@
     var q = /[?&]lang=([a-z]{2})/.exec(location.search), saved = null;
     try { saved = localStorage.getItem("lang"); } catch (e) { /* storage blocked */ }
     var lang = [q && q[1], saved].filter(function (l) { return langs.indexOf(l) !== -1; })[0] || langs[0] || "nl";
+    document.documentElement.setAttribute("data-lang", lang);
     document.write('<script src="lessons.' + lang + '.data.js"><\/script><script src="tenses.' + lang + '.data.js"><\/script>');
   })();
 </script>
