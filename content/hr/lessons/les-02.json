@@ -1,0 +1,1343 @@
+{
+  "id": "hr-les-02",
+  "lang": "hr",
+  "order": 2,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "na",
+    "da"
+  ],
+  "notes": [
+    {
+      "id": "hr-8ce869fc",
+      "type": "noun",
+      "lemma": "grad",
+      "gender": "m.",
+      "gen_sg": "grada",
+      "plural": [
+        "gradovi"
+      ],
+      "ua": "місто",
+      "audio": "hr-grad.mp3",
+      "forms": [
+        "gradu"
+      ],
+      "explain_ua": "(Mi smo u gradu = ми в місті). Множина gradovi з вставкою -ov-: це не передбачуване, тож вчи разом зі словом. Місцевий відмінок gradu після u: чоловічий рід бере -u"
+    },
+    {
+      "id": "hr-dac606c1",
+      "type": "noun",
+      "lemma": "stan",
+      "gender": "m.",
+      "gen_sg": "stana",
+      "plural": [
+        "stanovi"
+      ],
+      "ua": "квартира",
+      "audio": "hr-stan.mp3",
+      "forms": [
+        "stanu"
+      ],
+      "explain_ua": "(Ja sam u stanu = я в квартирі). Stan це квартира, а не «стан» (стан здоров'я). Множина stanovi, місцевий stanu. Окремо вчи, що «дім» це kuća, а квартира це stan"
+    },
+    {
+      "id": "hr-8111a6e3",
+      "type": "noun",
+      "lemma": "ulica",
+      "gender": "ž.",
+      "gen_sg": "ulice",
+      "plural": [
+        "ulice"
+      ],
+      "ua": "вулиця",
+      "audio": "hr-ulica.mp3",
+      "forms": [
+        "ulici"
+      ],
+      "explain_ua": "(Dijete je na ulici = дитина на вулиці). Місцевий відмінок ulici, закінчення -i. Тут c уже сибілянт, тому приголосний не змінюється. Слова на -ka і -ga змінюють приголосний, як в українській: knjiga має місцевий knjizi, а majka має majci, подібно до українських «у книзі» й «у руці». Тут ми їх лише показуємо, у реченнях цього уроку їх нема",
+      "check": "Форми knjizi і majci не знайдено в джерелах під час підготовки цього уроку, вони з мого знання правила про сибілянтизацію."
+    },
+    {
+      "id": "hr-207aec62",
+      "type": "noun",
+      "lemma": "trgovina",
+      "gender": "ž.",
+      "gen_sg": "trgovine",
+      "plural": [
+        "trgovine"
+      ],
+      "ua": "магазин",
+      "audio": "hr-trgovina.mp3",
+      "forms": [
+        "trgovini"
+      ],
+      "explain_ua": "(Majka je u trgovini = мама в магазині). Початок слова trg- без голосної: читай чітко «тргов-». Місцевий trgovini, закінчення -i, як školi",
+      "check": "Місцевий trgovini виведено за правилом -i для жіночого роду, окремо в джерелах не знайдено."
+    },
+    {
+      "id": "hr-e3b3361d",
+      "type": "noun",
+      "lemma": "posao",
+      "gender": "m.",
+      "gen_sg": "posla",
+      "plural": [
+        "poslovi"
+      ],
+      "ua": "робота",
+      "audio": "hr-posao.mp3",
+      "forms": [
+        "poslu"
+      ],
+      "explain_ua": "(Majka je na poslu = мама на роботі). Нерегулярне слово: у називному posao, а в інших відмінках -a- зникає і з'являється l: posla, poslu, poslovi. Тому na poslu, а не na posalu. Вчи всі три форми разом: posao, posla, poslu"
+    },
+    {
+      "id": "hr-a08ab027",
+      "type": "noun",
+      "lemma": "more",
+      "gender": "s.",
+      "gen_sg": "mora",
+      "plural": [
+        "mora"
+      ],
+      "ua": "море",
+      "audio": "hr-more.mp3",
+      "forms": [
+        "moru"
+      ],
+      "explain_ua": "(Dijete je na moru = дитина на морі). Середній рід, місцевий відмінок -u: moru. Після na означає «на березі моря, біля моря»",
+      "check": "Місцевий moru та множину mora не знайдено в джерелах, вони з мого знання регулярного -u для середнього роду."
+    },
+    {
+      "id": "hr-7d5e4855",
+      "type": "false_friend",
+      "lemma": "stolica",
+      "gender": "ž.",
+      "gen_sg": "stolice",
+      "plural": [
+        "stolice"
+      ],
+      "ua": "стілець",
+      "uk_lookalike": "столиця",
+      "uk_means": "столиця (головне місто країни)",
+      "audio": "hr-stolica.mp3",
+      "forms": [
+        "stolici"
+      ],
+      "explain_ua": "(Stolica je u stanu = стілець у квартирі). Хорватське stolica це предмет меблів, а українська столиця це головне місто. Місцевий stolici: Prijatelj je na stolici = друг на стільці"
+    },
+    {
+      "id": "hr-6a33cf57",
+      "type": "verb",
+      "lemma": "čitati",
+      "aspect": "impf.",
+      "partner": "pročitati",
+      "pres_1sg": "čitam",
+      "forms": [
+        "pročitati",
+        "pročitam"
+      ],
+      "ua": "читати",
+      "audio": "hr-citati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "čitam",
+          "audio": "hr-ja-citam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "čitaš",
+          "audio": "hr-ti-citas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "čita",
+          "audio": "hr-on-cita.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "čitamo",
+          "audio": "hr-mi-citamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "čitate",
+          "audio": "hr-vi-citate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "čitaju",
+          "audio": "hr-oni-citaju.mp3"
+        }
+      ],
+      "explain_ua": "(Ja čitam knjigu = я читаю книжку). Пара: čitati (недок.) / pročitati (док., pročitam). Тип -am: 1 особа -m, 3 особа однини без закінчення (čita), 3 особа множини -aju. Українське читають і хорватське čitaju майже збігаються, а 1 особа різниться: читаю / čitam",
+      "check": "Видові пари čitati / pročitati, gledati / pogledati, slušati / poslušati, pisati / napisati не звірено зі словником у цьому уроці."
+    },
+    {
+      "id": "hr-f872e41c",
+      "type": "verb",
+      "lemma": "gledati",
+      "aspect": "impf.",
+      "partner": "pogledati",
+      "pres_1sg": "gledam",
+      "forms": [
+        "pogledati",
+        "pogledam"
+      ],
+      "ua": "дивитися, дивитися на",
+      "audio": "hr-gledati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "gledam",
+          "audio": "hr-ja-gledam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "gledaš",
+          "audio": "hr-ti-gledas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "gleda",
+          "audio": "hr-on-gleda.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "gledamo",
+          "audio": "hr-mi-gledamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "gledate",
+          "audio": "hr-vi-gledate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "gledaju",
+          "audio": "hr-oni-gledaju.mp3"
+        }
+      ],
+      "explain_ua": "(Dijete gleda knjigu = дитина дивиться на книжку). Пара: gledati (недок.) / pogledati (док., pogledam). Після gledati іде знахідний без прийменника: gledam knjigu, а не «дивлюся на книжку» з прийменником. Тип -am, як čitati"
+    },
+    {
+      "id": "hr-c51cb4bc",
+      "type": "verb",
+      "lemma": "slušati",
+      "aspect": "impf.",
+      "partner": "poslušati",
+      "pres_1sg": "slušam",
+      "forms": [
+        "poslušati",
+        "poslušam"
+      ],
+      "ua": "слухати",
+      "audio": "hr-slusati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "slušam",
+          "audio": "hr-ja-slusam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "slušaš",
+          "audio": "hr-ti-slusas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "sluša",
+          "audio": "hr-on-slusa.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "slušamo",
+          "audio": "hr-mi-slusamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "slušate",
+          "audio": "hr-vi-slusate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "slušaju",
+          "audio": "hr-oni-slusaju.mp3"
+        }
+      ],
+      "explain_ua": "(Mi slušamo = ми слухаємо). Пара: slušati (недок.) / poslušati (док., poslušam). Š пишеться з гачком: slušam. Тип -am, як čitati"
+    },
+    {
+      "id": "hr-96e3e4a0",
+      "type": "verb",
+      "lemma": "pisati",
+      "aspect": "impf.",
+      "partner": "napisati",
+      "pres_1sg": "pišem",
+      "forms": [
+        "napisati",
+        "napišem"
+      ],
+      "ua": "писати",
+      "audio": "hr-pisati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "pišem",
+          "audio": "hr-ja-pisem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "pišeš",
+          "audio": "hr-ti-pises.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "piše",
+          "audio": "hr-on-pise.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "pišemo",
+          "audio": "hr-mi-pisemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "pišete",
+          "audio": "hr-vi-pisete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "pišu",
+          "audio": "hr-oni-pisu.mp3"
+        }
+      ],
+      "explain_ua": "(Ja pišem knjigu = я пишу книжку). Пара: pisati (недок.) / napisati (док., napišem). Інфінітив pisati з s, а в теперішньому s змінюється на š: pišem, pišeš. Це тип -em, не -am. Пастка: pišati це зовсім інше слово, грубе (мочитися), а різниця лише в š. Тому пиши pisati і pišem точно, з діакритикою у відповідних місцях"
+    },
+    {
+      "id": "hr-f44d5d7e",
+      "type": "function",
+      "lemma": "gdje",
+      "ua": "де",
+      "audio": "hr-gdje.mp3",
+      "explain_ua": "(Gdje je majka? = де мама?). Gdje питає про місце без руху, і відповідь стоїть у місцевому відмінку після u або na: Majka je u trgovini. Г + d + j: усі три літери читаються, gdje це один склад «гдє». Це хорватська форма, сербською було б gde"
+    },
+    {
+      "id": "hr-a13a4ef5",
+      "type": "clitic",
+      "lemma": "li",
+      "slot": "2",
+      "ua": "чи (питальна частка)",
+      "audio": "hr-li.mp3",
+      "forms": [
+        "jesam",
+        "jesi",
+        "jesmo",
+        "jeste",
+        "jesu"
+      ],
+      "example_order": "Je li majka ovdje?",
+      "explain_ua": "(Je li majka ovdje? = чи мама тут?). Li це слабка частка, клітик на другому місці: перше місце займає дієслово, li відразу за ним. З biti питальні форми такі: jesam li, jesi li, je li, jesmo li, jeste li, jesu li. Тут sam, si, smo, ste, su замінюються на довші jesam, jesi, jesmo, jeste, jesu. Лише в 3 особі однини залишається коротке je li. Для li вказуй на російське ли, для ідеї питання на українське чи"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Місцевий відмінок: u gradu, na poslu, u trgovini",
+      "summary_ua": "На питання gdje (де) після u (в) й na (на) стоїть місцевий відмінок. Чоловічий і середній рід беруть -u (u gradu, na moru), жіночий -i (u trgovini, na ulici). Українська має той самий відмінок, тож це нові закінчення, а не нова ідея.",
+      "compare": [
+        {
+          "form": "чоловічий і середній рід: -u",
+          "when_ua": "Закінчення -u: u gradu, u stanu, na moru. Слово posao при цьому міняє основу: na poslu.",
+          "examples": [
+            {
+              "text": "Mi smo u gradu.",
+              "ua": "Ми в місті.",
+              "audio": "hr-les02-rule-01.mp3"
+            },
+            {
+              "text": "Prijatelj je na poslu.",
+              "ua": "Друг на роботі.",
+              "audio": "hr-les02-rule-02.mp3"
+            },
+            {
+              "text": "Učiteljica je na moru.",
+              "ua": "Вчителька на морі.",
+              "audio": "hr-les02-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Posao, posla, poslu: пам'ятай нерегулярну основу. Na poslu, не na posalu."
+        },
+        {
+          "form": "жіночий рід: -i",
+          "when_ua": "Слова на -a міняють -a на -i: trgovina, trgovini; ulica, ulici. Школа вже була: u školi.",
+          "examples": [
+            {
+              "text": "Knjiga je u trgovini.",
+              "ua": "Книжка в магазині.",
+              "audio": "hr-les02-rule-04.mp3"
+            },
+            {
+              "text": "Dijete je na ulici.",
+              "ua": "Дитина на вулиці.",
+              "audio": "hr-les02-rule-05.mp3"
+            },
+            {
+              "text": "Prijatelj je na stolici.",
+              "ua": "Друг на стільці.",
+              "audio": "hr-les02-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Українське закінчення те саме -і (у школі, на вулиці), тож ти це чуєш, лише пиши -i."
+        },
+        {
+          "form": "u чи na",
+          "when_ua": "U це «всередині»: u gradu, u stanu, u trgovini. Na це «на, біля, на місці діяльності»: na poslu, na moru, na ulici. Часто збігається з українським в/на, але вчи кожну пару.",
+          "examples": [
+            {
+              "text": "Dijete je u školi, a majka je na poslu.",
+              "ua": "Дитина в школі, а мама на роботі.",
+              "audio": "hr-les02-rule-07.mp3"
+            },
+            {
+              "text": "Mi smo na moru, a prijatelj je u gradu.",
+              "ua": "Ми на морі, а друг у місті.",
+              "audio": "hr-les02-rule-08.mp3"
+            },
+            {
+              "text": "Ja sam u stanu, a ti si u trgovini.",
+              "ua": "Я в квартирі, а ти в магазині.",
+              "audio": "hr-les02-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Подвійне je в реченні нормальне: кожна частина має своє biti. Клітик іде на друге місце в кожній частині."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест: gdje? Тоді u або na і місцевий відмінок. Рід слова: m./s. -u, ž. -i.",
+        "Posao особливий: posao, posla, poslu. Решта слів уроку регулярні.",
+        "Слова на -ka й -ga змінюють приголосний, як в українській: knjiga, knjizi; majka, majci. Українське «у книзі, у руці» це та сама зміна.",
+        "Місцевий і давальний відмінки в однині мають однакові закінчення (-u, -i). Це дасть тобі дорогу до давального пізніше."
+      ]
+    },
+    {
+      "title_ua": "Питання «так/ні» з li: Je li ...? Jesi li ...?",
+      "summary_ua": "Питання «так/ні» будується з частки li. Дієслово або форма biti стоїть першою, li одразу за нею: Je li majka ovdje? Čitaš li knjigu? Li це клітик, тому першим не буває. Для li подумай про російське ли, а не про українське чи.",
+      "compare": [
+        {
+          "form": "Je li ...? (3 особа однини)",
+          "when_ua": "Je li, а не jest li. Підмет іде після je li.",
+          "examples": [
+            {
+              "text": "Je li majka ovdje?",
+              "ua": "Чи мама тут?",
+              "audio": "hr-les02-rule-10.mp3"
+            },
+            {
+              "text": "Je li dijete u školi?",
+              "ua": "Чи дитина в школі?",
+              "audio": "hr-les02-rule-11.mp3"
+            },
+            {
+              "text": "Je li trgovina na ulici?",
+              "ua": "Чи магазин на вулиці?",
+              "audio": "hr-les02-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Je li це готовий блок. Порядок слів: je li, потім підмет, потім місце."
+        },
+        {
+          "form": "довгі форми: Jesi li, Jeste li, Jesu li",
+          "when_ua": "З li біля biti беруть довгі форми: jesam li, jesi li, jesmo li, jeste li, jesu li. Короткі sam, si, smo, ste, su в питанні з li не вживаються.",
+          "examples": [
+            {
+              "text": "Jesi li ti u gradu?",
+              "ua": "Чи ти в місті?",
+              "audio": "hr-les02-rule-13.mp3"
+            },
+            {
+              "text": "Jeste li vi na poslu?",
+              "ua": "Чи ви на роботі?",
+              "audio": "hr-les02-rule-14.mp3"
+            },
+            {
+              "text": "Jesu li djeca na moru?",
+              "ua": "Чи діти на морі?",
+              "audio": "hr-les02-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Заміна коротких форм довгими саме тут: sam, si, smo, ste, su не стоять перед li."
+        },
+        {
+          "form": "дієслово + li",
+          "when_ua": "З будь-яким дієсловом: форма дієслова, потім li. Решта речення йде після.",
+          "examples": [
+            {
+              "text": "Piše li majka knjigu?",
+              "ua": "Чи мама пише книжку?",
+              "audio": "hr-les02-rule-16.mp3"
+            },
+            {
+              "text": "Čitate li knjigu?",
+              "ua": "Ви читаєте книжку?",
+              "audio": "hr-les02-rule-17.mp3"
+            },
+            {
+              "text": "Gledaju li djeca knjige?",
+              "ua": "Чи діти дивляться книжки?",
+              "audio": "hr-les02-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Дієслово завжди перше: čitate li, а не li čitate."
+        }
+      ],
+      "points_ua": [
+        "Схема: форма дієслова або biti + li + решта. Li ніколи не починає речення.",
+        "Da li теж існує, але це розмовний варіант. У письмі й на іспиті вживай je li або дієслово + li.",
+        "Відповідь повторює дієслово: Jesi li ovdje? Da, jesam. (див. картку нижче).",
+        "Я перевірю порядок кількох клітиків разом (li + se, mi, ga) окремо за граматикою, коли вони знадобляться."
+      ]
+    },
+    {
+      "title_ua": "Теперішній час: čitati (-am) і pisati (-em)",
+      "summary_ua": "Дієслова на -ati бувають двох типів. Тип -am: čitam, čitaš, čita, čitamo, čitate, čitaju. Тип -em: pišem, pišeš, piše, pišemo, pišete, pišu. 1 особа однини має -m, а не -ю. Тип -am вчить і книжка, тут показуємо наперед.",
+      "compare": [
+        {
+          "form": "тип -am: čitam, gledam, slušam",
+          "when_ua": "Основа лишається, закінчення -m, -š, ∅, -mo, -te, -ju: čitam, čitaš, čita, čitamo, čitate, čitaju.",
+          "examples": [
+            {
+              "text": "Ja čitam knjigu.",
+              "ua": "Я читаю книжку.",
+              "audio": "hr-les02-rule-19.mp3"
+            },
+            {
+              "text": "Dijete gleda knjigu.",
+              "ua": "Дитина дивиться на книжку.",
+              "audio": "hr-les02-rule-20.mp3"
+            },
+            {
+              "text": "Mi slušamo učiteljice.",
+              "ua": "Ми слухаємо вчительок.",
+              "audio": "hr-les02-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Порівняй з українським: читаю, читаєш, читає. Основа та сама, але 1 особа однини -m. 3 особа множини -ju: čitaju, як читають без -т."
+        },
+        {
+          "form": "тип -em: pišem (s стає š)",
+          "when_ua": "В інфінітиві pisati, а в теперішньому s змінюється на š: pišem, pišeš, piše, pišemo, pišete, pišu. Закінчення -em, не -am.",
+          "examples": [
+            {
+              "text": "Ja pišem knjigu.",
+              "ua": "Я пишу книжку.",
+              "audio": "hr-les02-rule-22.mp3"
+            },
+            {
+              "text": "Ti pišeš.",
+              "ua": "Ти пишеш.",
+              "audio": "hr-les02-rule-23.mp3"
+            },
+            {
+              "text": "Mi pišemo, a djeca čitaju.",
+              "ua": "Ми пишемо, а діти читають.",
+              "audio": "hr-les02-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Така сама зміна приголосного є й в українській (писати, пишу). Пастка: pisati проти pišati. Різниця лише в š, а значення зовсім інше."
+        }
+      ],
+      "points_ua": [
+        "Закінчення тримай ланцюгом: -m, -š, нічого, -mo, -te, -ju. Для типу -em: -m, -š, -e, -mo, -te, -u.",
+        "Вид працює як в українській: čitati (недок.) / pročitati (док.), pisati / napisati. Пару вчимо окремо.",
+        "Тип -am збігається з українським -ати, тож тут допомагає українська."
+      ]
+    },
+    {
+      "title_ua": "Biti не пропускаємо: Gdje je ...? Da, jesam.",
+      "summary_ua": "В українській і російській є в теперішньому часі пропускають: «Мама в магазині». В хорватській форма biti потрібна: Majka je u trgovini. На питання з li відповідь повторює форму: Jesi li ovdje? Da, jesam.",
+      "compare": [
+        {
+          "form": "Gdje je / Gdje su + підмет",
+          "when_ua": "Питання gdje має je (однина) або su (множина), а відповідь теж має biti.",
+          "examples": [
+            {
+              "text": "Gdje je majka?",
+              "ua": "Де мама?",
+              "audio": "hr-les02-rule-25.mp3"
+            },
+            {
+              "text": "Gdje su djeca?",
+              "ua": "Де діти?",
+              "audio": "hr-les02-rule-26.mp3"
+            },
+            {
+              "text": "Gdje je prijatelj?",
+              "ua": "Де друг?",
+              "audio": "hr-les02-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Gdje majka? без je було б російсько-українським калькуванням. Хорватською завжди gdje je."
+        },
+        {
+          "form": "коротка відповідь: Da, jesam",
+          "when_ua": "Відповідь «так» повторює довгу форму biti: da, jesam / jesi / je / jesmo / jeste / jesu.",
+          "examples": [
+            {
+              "text": "Jesi li ovdje? Da, jesam.",
+              "ua": "Ти тут? Так.",
+              "audio": "hr-les02-rule-28.mp3"
+            },
+            {
+              "text": "Jeste li u stanu? Da, jesmo.",
+              "ua": "Ви в квартирі? Так.",
+              "audio": "hr-les02-rule-29.mp3"
+            },
+            {
+              "text": "Jesu li djeca ovdje? Da, jesu.",
+              "ua": "Діти тут? Так.",
+              "audio": "hr-les02-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Українське «так» без дієслова. Хорватською після da додай довгу форму biti: Da, jesam. Заперечення будуть пізніше."
+        }
+      ],
+      "points_ua": [
+        "Присудок місце? Додай форму biti. Питання з li? Біти довга форма першою.",
+        "Gdje je + однина, gdje su + множина. Djeca стоїть із su.",
+        "Коротка відповідь: da + довга форма biti (jesam, jesi, je, jesmo, jeste, jesu)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Prijatelj je u gradu.",
+      "ua": "Друг у місті.",
+      "audio": "hr-les02-example-01.mp3"
+    },
+    {
+      "text": "Majka je na poslu.",
+      "ua": "Мама на роботі.",
+      "audio": "hr-les02-example-02.mp3"
+    },
+    {
+      "text": "Dijete je na moru.",
+      "ua": "Дитина на морі.",
+      "audio": "hr-les02-example-03.mp3"
+    },
+    {
+      "text": "Mi smo u stanu.",
+      "ua": "Ми в квартирі.",
+      "audio": "hr-les02-example-04.mp3"
+    },
+    {
+      "text": "Majka je u trgovini.",
+      "ua": "Мама в магазині.",
+      "audio": "hr-les02-example-05.mp3"
+    },
+    {
+      "text": "Djeca su na ulici.",
+      "ua": "Діти на вулиці.",
+      "audio": "hr-les02-example-06.mp3"
+    },
+    {
+      "text": "Je li učiteljica u školi?",
+      "ua": "Чи вчителька в школі?",
+      "audio": "hr-les02-example-07.mp3"
+    },
+    {
+      "text": "Jesi li ti na poslu?",
+      "ua": "Ти на роботі?",
+      "audio": "hr-les02-example-08.mp3"
+    },
+    {
+      "text": "Jeste li vi u stanu?",
+      "ua": "Ви в квартирі?",
+      "audio": "hr-les02-example-09.mp3"
+    },
+    {
+      "text": "Čitaš li knjigu?",
+      "ua": "Ти читаєш книжку?",
+      "audio": "hr-les02-example-10.mp3"
+    },
+    {
+      "text": "Ja čitam knjigu, a ti pišeš.",
+      "ua": "Я читаю книжку, а ти пишеш.",
+      "audio": "hr-les02-example-11.mp3"
+    },
+    {
+      "text": "Ti pišeš, a mi slušamo.",
+      "ua": "Ти пишеш, а ми слухаємо.",
+      "audio": "hr-les02-example-12.mp3"
+    },
+    {
+      "text": "Gdje je stolica?",
+      "ua": "Де стілець?",
+      "audio": "hr-les02-example-13.mp3"
+    },
+    {
+      "text": "Stolica je u stanu.",
+      "ua": "Стілець у квартирі.",
+      "audio": "hr-les02-example-14.mp3"
+    },
+    {
+      "text": "Djeca slušaju.",
+      "ua": "Діти слухають.",
+      "audio": "hr-les02-example-15.mp3"
+    },
+    {
+      "text": "Majka je u gradu, a prijatelj je na moru.",
+      "ua": "Мама в місті, а друг на морі.",
+      "audio": "hr-les02-example-16.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Gdje je majka?",
+    "title_ua": "Де мама?",
+    "highlight": [
+      "hr-8ce869fc",
+      "hr-dac606c1",
+      "hr-207aec62",
+      "hr-e3b3361d",
+      "hr-a08ab027",
+      "hr-7d5e4855",
+      "hr-f44d5d7e",
+      "hr-a13a4ef5"
+    ],
+    "sentences": [
+      {
+        "text": "Danas je majka na poslu.",
+        "ua": "Сьогодні мама на роботі.",
+        "audio": "hr-les02-reading-01.mp3"
+      },
+      {
+        "text": "Dijete je u školi.",
+        "ua": "Дитина в школі.",
+        "audio": "hr-les02-reading-02.mp3"
+      },
+      {
+        "text": "Učiteljica čita knjigu.",
+        "ua": "Вчителька читає книжку.",
+        "audio": "hr-les02-reading-03.mp3"
+      },
+      {
+        "text": "Je li prijatelj u gradu?",
+        "ua": "Чи друг у місті?",
+        "audio": "hr-les02-reading-04.mp3"
+      },
+      {
+        "text": "Da, prijatelj je u gradu.",
+        "ua": "Так, друг у місті.",
+        "audio": "hr-les02-reading-05.mp3"
+      },
+      {
+        "text": "Ja sam u stanu.",
+        "ua": "Я в квартирі.",
+        "audio": "hr-les02-reading-06.mp3"
+      },
+      {
+        "text": "Gdje je stolica?",
+        "ua": "Де стілець?",
+        "audio": "hr-les02-reading-07.mp3"
+      },
+      {
+        "text": "Stolica je u trgovini.",
+        "ua": "Стілець у магазині.",
+        "audio": "hr-les02-reading-08.mp3"
+      },
+      {
+        "text": "Djeca su na moru, a ja pišem.",
+        "ua": "Діти на морі, а я пишу.",
+        "audio": "hr-les02-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Друг у місті.",
+          "accepted": [
+            "Prijatelj je u gradu."
+          ]
+        },
+        {
+          "prompt": "Мама на роботі.",
+          "accepted": [
+            "Majka je na poslu."
+          ]
+        },
+        {
+          "prompt": "Дитина на морі.",
+          "accepted": [
+            "Dijete je na moru."
+          ]
+        },
+        {
+          "prompt": "Ми в квартирі.",
+          "accepted": [
+            "Mi smo u stanu.",
+            "U stanu smo."
+          ]
+        },
+        {
+          "prompt": "Мама в магазині.",
+          "accepted": [
+            "Majka je u trgovini."
+          ]
+        },
+        {
+          "prompt": "Діти на вулиці.",
+          "accepted": [
+            "Djeca su na ulici.",
+            "Na ulici su djeca."
+          ]
+        },
+        {
+          "prompt": "Чи вчителька в школі?",
+          "accepted": [
+            "Je li učiteljica u školi?"
+          ]
+        },
+        {
+          "prompt": "Ти на роботі?",
+          "accepted": [
+            "Jesi li ti na poslu?",
+            "Jesi li na poslu?"
+          ]
+        },
+        {
+          "prompt": "Ви в квартирі?",
+          "accepted": [
+            "Jeste li vi u stanu?",
+            "Jeste li u stanu?"
+          ]
+        },
+        {
+          "prompt": "Ти читаєш книжку?",
+          "accepted": [
+            "Čitaš li knjigu?",
+            "Čitaš li ti knjigu?"
+          ]
+        },
+        {
+          "prompt": "Я читаю книжку, а ти пишеш.",
+          "accepted": [
+            "Ja čitam knjigu, a ti pišeš.",
+            "Ja čitam knjigu a ti pišeš."
+          ]
+        },
+        {
+          "prompt": "Де стілець?",
+          "accepted": [
+            "Gdje je stolica?"
+          ]
+        },
+        {
+          "prompt": "Діти слухають.",
+          "accepted": [
+            "Djeca slušaju."
+          ]
+        },
+        {
+          "prompt": "Чи діти на морі? Так.",
+          "accepted": [
+            "Jesu li djeca na moru? Da, jesu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "gradu",
+        "moru",
+        "poslu",
+        "stanu",
+        "ulici",
+        "trgovini",
+        "li",
+        "jesam",
+        "jesmo",
+        "jesu",
+        "čitam",
+        "pišem",
+        "gleda"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Prijatelj je u ___.",
+          "hint": "Друг у місті.",
+          "accepted": [
+            [
+              "gradu"
+            ]
+          ]
+        },
+        {
+          "text": "Majka je na ___.",
+          "hint": "Мама на роботі.",
+          "accepted": [
+            [
+              "poslu"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete je na ___.",
+          "hint": "Дитина на морі.",
+          "accepted": [
+            [
+              "moru"
+            ]
+          ]
+        },
+        {
+          "text": "Mi smo u ___.",
+          "hint": "Ми в квартирі.",
+          "accepted": [
+            [
+              "stanu"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca su na ___.",
+          "hint": "Діти на вулиці.",
+          "accepted": [
+            [
+              "ulici"
+            ]
+          ]
+        },
+        {
+          "text": "Majka je u ___.",
+          "hint": "Мама в магазині.",
+          "accepted": [
+            [
+              "trgovini"
+            ]
+          ]
+        },
+        {
+          "text": "Je ___ majka ovdje?",
+          "hint": "Чи мама тут?",
+          "accepted": [
+            [
+              "li"
+            ]
+          ]
+        },
+        {
+          "text": "Čitaš ___ knjigu?",
+          "hint": "Ти читаєш книжку?",
+          "accepted": [
+            [
+              "li"
+            ]
+          ]
+        },
+        {
+          "text": "Jesu ___ djeca u školi?",
+          "hint": "Чи діти в школі?",
+          "accepted": [
+            [
+              "li"
+            ]
+          ]
+        },
+        {
+          "text": "Jesi li ti ovdje? Da, ___.",
+          "hint": "Ти тут? Так.",
+          "accepted": [
+            [
+              "jesam"
+            ]
+          ]
+        },
+        {
+          "text": "Jeste li vi ovdje? Da, ___.",
+          "hint": "Ви тут? Так.",
+          "accepted": [
+            [
+              "jesmo"
+            ]
+          ]
+        },
+        {
+          "text": "Jesu li djeca ovdje? Da, ___.",
+          "hint": "Діти тут? Так.",
+          "accepted": [
+            [
+              "jesu"
+            ]
+          ]
+        },
+        {
+          "text": "Ja ___ knjigu.",
+          "hint": "Я читаю книжку.",
+          "accepted": [
+            [
+              "čitam"
+            ]
+          ]
+        },
+        {
+          "text": "Ja ___ knjigu, a ti čitaš.",
+          "hint": "Я пишу книжку, а ти читаєш.",
+          "accepted": [
+            [
+              "pišem"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete ___ knjigu.",
+          "hint": "Дитина дивиться на книжку.",
+          "accepted": [
+            [
+              "gleda"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: питання з li, початок з іншого слова або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Majka je u gradu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li majka u gradu?"
+          ]
+        },
+        {
+          "prompt": "Dijete je u školi.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li dijete u školi?"
+          ]
+        },
+        {
+          "prompt": "Ti si na poslu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Jesi li na poslu?",
+            "Jesi li ti na poslu?"
+          ]
+        },
+        {
+          "prompt": "Vi ste u stanu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Jeste li u stanu?",
+            "Jeste li vi u stanu?"
+          ]
+        },
+        {
+          "prompt": "Djeca su na moru.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Jesu li djeca na moru?"
+          ]
+        },
+        {
+          "prompt": "Ti čitaš knjigu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Čitaš li knjigu?",
+            "Čitaš li ti knjigu?"
+          ]
+        },
+        {
+          "prompt": "Dijete gleda knjigu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Gleda li dijete knjigu?"
+          ]
+        },
+        {
+          "prompt": "Majka je na poslu.",
+          "cue": "-> почни з Danas",
+          "accepted": [
+            "Danas je majka na poslu."
+          ]
+        },
+        {
+          "prompt": "Ja sam na moru.",
+          "cue": "-> почни з Danas",
+          "accepted": [
+            "Danas sam na moru."
+          ]
+        },
+        {
+          "prompt": "Mi smo u gradu.",
+          "cue": "-> почни з U gradu",
+          "accepted": [
+            "U gradu smo."
+          ]
+        },
+        {
+          "prompt": "Ja čitam.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi čitamo."
+          ]
+        },
+        {
+          "prompt": "Ti pišeš.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi pišemo."
+          ]
+        },
+        {
+          "prompt": "Dijete je na ulica.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dijete je na ulici."
+          ]
+        },
+        {
+          "prompt": "Majka je u trgovina.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka je u trgovini."
+          ]
+        },
+        {
+          "prompt": "Ja u stanu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ja sam u stanu."
+          ]
+        },
+        {
+          "prompt": "Majka na poslu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka je na poslu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitam"
+          ]
+        },
+        {
+          "text": "Ti ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitaš"
+          ]
+        },
+        {
+          "text": "Dijete ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čita"
+          ]
+        },
+        {
+          "text": "Mi ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitamo"
+          ]
+        },
+        {
+          "text": "Vi ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitate"
+          ]
+        },
+        {
+          "text": "Djeca ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitaju"
+          ]
+        },
+        {
+          "text": "Ja ___ knjigu.",
+          "cue": "gledati",
+          "accepted": [
+            "gledam"
+          ]
+        },
+        {
+          "text": "Vi ___ knjigu.",
+          "cue": "gledati",
+          "accepted": [
+            "gledate"
+          ]
+        },
+        {
+          "text": "Mi ___ učiteljice.",
+          "cue": "slušati",
+          "accepted": [
+            "slušamo"
+          ]
+        },
+        {
+          "text": "Ti ___.",
+          "cue": "slušati",
+          "accepted": [
+            "slušaš"
+          ]
+        },
+        {
+          "text": "Ja ___ knjigu.",
+          "cue": "pisati",
+          "accepted": [
+            "pišem"
+          ]
+        },
+        {
+          "text": "Ti ___ knjigu.",
+          "cue": "pisati",
+          "accepted": [
+            "pišeš"
+          ]
+        },
+        {
+          "text": "Majka ___ knjigu.",
+          "cue": "pisati",
+          "accepted": [
+            "piše"
+          ]
+        },
+        {
+          "text": "Djeca ___.",
+          "cue": "pisati",
+          "accepted": [
+            "pišu"
+          ]
+        },
+        {
+          "text": "Mi ___.",
+          "cue": "pisati",
+          "accepted": [
+            "pišemo"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "місто",
+          "answer": "grad"
+        },
+        {
+          "prompt": "квартира",
+          "answer": "stan"
+        },
+        {
+          "prompt": "вулиця",
+          "answer": "ulica"
+        },
+        {
+          "prompt": "магазин",
+          "answer": "trgovina"
+        },
+        {
+          "prompt": "робота",
+          "answer": "posao"
+        },
+        {
+          "prompt": "море",
+          "answer": "more"
+        },
+        {
+          "prompt": "стілець",
+          "answer": "stolica"
+        },
+        {
+          "prompt": "читати",
+          "answer": "čitati"
+        },
+        {
+          "prompt": "дивитися",
+          "answer": "gledati"
+        },
+        {
+          "prompt": "слухати",
+          "answer": "slušati"
+        },
+        {
+          "prompt": "писати",
+          "answer": "pisati"
+        },
+        {
+          "prompt": "де",
+          "answer": "gdje"
+        },
+        {
+          "prompt": "чи (питальна частка)",
+          "answer": "li"
+        }
+      ],
+      "extra": [
+        "pročitati",
+        "napisati"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "false_friend"
+      ]
+    }
+  ]
+}
