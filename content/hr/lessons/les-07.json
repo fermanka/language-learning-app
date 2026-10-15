@@ -1,0 +1,1237 @@
+{
+  "id": "hr-les-07",
+  "lang": "hr",
+  "order": 7,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "hvala"
+  ],
+  "notes": [
+    {
+      "id": "hr-eb69424c",
+      "type": "noun",
+      "lemma": "sir",
+      "gender": "m.",
+      "gen_sg": "sira",
+      "plural": [
+        "sirevi"
+      ],
+      "ua": "сир",
+      "audio": "hr-sir.mp3",
+      "forms": [
+        "sira"
+      ],
+      "explain_ua": "(Dajte mi tri sira = дайте мені три сири). Після tri родовий однини sira. Множина sirevi з вставкою -ev-. Неживе слово чоловічого роду: знахідний sir без змін",
+      "check": "Множину sirevi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-50db266b",
+      "type": "noun",
+      "lemma": "meso",
+      "gender": "s.",
+      "gen_sg": "mesa",
+      "plural": [
+        "mesa"
+      ],
+      "ua": "м'ясо",
+      "audio": "hr-meso.mp3",
+      "explain_ua": "(Dajte mi sok i meso = дайте мені сік і м'ясо). Середній рід: знахідний meso без змін. Пиши es, не ije (на відміну від mlijeko): meso. Сербською так само meso, тут стандарти збігаються"
+    },
+    {
+      "id": "hr-0ae30f2e",
+      "type": "noun",
+      "lemma": "jabuka",
+      "gender": "ž.",
+      "gen_sg": "jabuke",
+      "plural": [
+        "jabuke"
+      ],
+      "ua": "яблуко",
+      "audio": "hr-jabuka.mp3",
+      "forms": [
+        "jabuku"
+      ],
+      "explain_ua": "(Dajte mi dvije jabuke = дайте мені два яблука). Жіночий рід, а українське яблуко середній, тож рід змінюється: jedna jabuka, dvije jabuke. Знахідний jabuku. Після dvije, tri родовий однини jabuke"
+    },
+    {
+      "id": "hr-f0cba007",
+      "type": "noun",
+      "lemma": "sok",
+      "gender": "m.",
+      "gen_sg": "soka",
+      "plural": [
+        "sokovi"
+      ],
+      "ua": "сік",
+      "audio": "hr-sok.mp3",
+      "forms": [
+        "soka"
+      ],
+      "explain_ua": "(Dajte mi dva soka = дайте мені два соки). Після dva родовий однини soka. Множина sokovi з вставкою -ov-. Знахідний sok без змін"
+    },
+    {
+      "id": "hr-9ea96183",
+      "type": "noun",
+      "lemma": "euro",
+      "gender": "m.",
+      "gen_sg": "eura",
+      "plural": [
+        "eura"
+      ],
+      "ua": "євро",
+      "audio": "hr-euro.mp3",
+      "forms": [
+        "eura"
+      ],
+      "explain_ua": "(Sir košta dva eura = сир коштує два євро). Хорватія користується євро з 1 січня 2023. Українське євро не змінюється, а хорватське змінюється: jedan euro, dva eura, pet eura. Форма eura і після 2, 3, 4 (родовий однини), і після 5 і далі (родовий множини): вони збігаються, тож тут легко",
+      "check": "Форми euro, eura після чисел з мого знання; для cent правило з таблиці в джерелі, для euro окремого джерела не було."
+    },
+    {
+      "id": "hr-738a6a0c",
+      "type": "noun",
+      "lemma": "cent",
+      "gender": "m.",
+      "gen_sg": "centa",
+      "plural": [
+        "centi"
+      ],
+      "ua": "цент",
+      "audio": "hr-cent.mp3",
+      "forms": [
+        "centa",
+        "centi"
+      ],
+      "explain_ua": "(Sir košta dva eura i pedeset centi = сир коштує два євро й п'ятдесят центів). Після 1 однина cent (jedan cent), після 2, 3, 4 родовий однини centa (dva centa), після 5 і далі родовий множини centi (pet centi, pedeset centi). Тут родовий множини невідворотний (це виняток із плану), і він не торкається інших слів",
+      "check": "Правило cent / centa / centi (після 1, 2-4, 5 і далі) з таблиці у джерелі про євро; форми підтверджено лише в загальному вигляді, не в хорватській граматиці."
+    },
+    {
+      "id": "hr-43fe69c5",
+      "type": "verb",
+      "lemma": "koštati",
+      "aspect": "impf.",
+      "pres_1sg": "koštam",
+      "ua": "коштувати",
+      "audio": "hr-kostati.mp3",
+      "forms": [
+        "košta",
+        "koštaju"
+      ],
+      "explain_ua": "(Koliko košta kruh? = скільки коштує хліб?). Вживається майже лише в 3 особі: košta (одне) і koštaju (кілька): Koliko koštaju jabuke? Тип -am. Без пари",
+      "check": "Пару для koštati не вказано, чи є стандартний перфектив, не перевірено."
+    },
+    {
+      "id": "hr-77303a49",
+      "type": "verb",
+      "lemma": "davati",
+      "aspect": "impf.",
+      "partner": "dati",
+      "pres_1sg": "dajem",
+      "forms": [
+        "dati",
+        "dam",
+        "daj",
+        "dajte"
+      ],
+      "ua": "давати (док. dati)",
+      "audio": "hr-davati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "dajem",
+          "audio": "hr-ja-dajem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "daješ",
+          "audio": "hr-ti-dajes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "daje",
+          "audio": "hr-on-daje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "dajemo",
+          "audio": "hr-mi-dajemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "dajete",
+          "audio": "hr-vi-dajete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "daju",
+          "audio": "hr-oni-daju.mp3"
+        }
+      ],
+      "explain_ua": "(Dajte mi kruh, molim = дайте мені хліб, будь ласка). Пара: davati (недок., dajem) / dati (док., dam). Наказовий спосіб: daj (до одного, на «ти»), dajte (на «ви»). Наказовий береться від докону dati. У магазині кажуть Dajte mi ...",
+      "check": "Теперішній davati (dajem, daješ ...) і наказовий dajte з мого знання; докон dam, daš, da у джерелі підтверджено, форма dajte ні."
+    },
+    {
+      "id": "hr-4e675262",
+      "type": "function",
+      "lemma": "koliko",
+      "ua": "скільки",
+      "audio": "hr-koliko.mp3",
+      "explain_ua": "(Koliko košta kruh? = скільки коштує хліб?). Питання про кількість і ціну. Стоїть на першому місці, а за ним дієслово: Koliko košta ... ? Koliko koštaju ... ?"
+    },
+    {
+      "id": "hr-75503b34",
+      "type": "function",
+      "lemma": "molim",
+      "ua": "будь ласка; прошу",
+      "audio": "hr-molim.mp3",
+      "explain_ua": "(Dajte mi sir, molim = дайте мені сир, будь ласка). Molim ставиться на початку або в кінці прохання. Те саме слово працює і як ввічлива відповідь «прошу» на hvala. Це 1 особа дієслова «молити»: «благаю»",
+      "check": "Те, що molim значить і «будь ласка», і «прошу» у відповідь на hvala, з мого знання; у цьому уроці я на це спираюся без джерела."
+    },
+    {
+      "id": "hr-6d5657b5",
+      "type": "function",
+      "lemma": "izvolite",
+      "ua": "прошу, будь ласка (запрошення, подаючи)",
+      "audio": "hr-izvolite.mp3",
+      "explain_ua": "(Izvolite? = слухаю вас). Продавець каже Izvolite? як «чим можу допомогти». Коли щось подають, кажуть Izvolite, ovdje je kruh = ось, прошу. Це ввічлива форма на «ви»",
+      "check": "Вживання izvolite у магазині в джерелі пошуку не підтверджено, це з мого знання."
+    },
+    {
+      "id": "hr-7d548a7c",
+      "type": "numeral",
+      "lemma": "jedan",
+      "digit": "1",
+      "ua": "один",
+      "audio": "hr-jedan.mp3",
+      "forms": [
+        "jedna",
+        "jedno",
+        "jednu"
+      ],
+      "explain_ua": "(Dajte mi jedan kruh, jednu jabuku, jedno mlijeko = дайте мені один хліб, одне яблуко, одне молоко). Jedan змінюється за родом: jedan (ч.), jedna (ж.), jedno (с.). Знахідний ж. р. jednu: jednu jabuku. Після jedan іменник у називному"
+    },
+    {
+      "id": "hr-cef35d5f",
+      "type": "numeral",
+      "lemma": "dva",
+      "digit": "2",
+      "ua": "два",
+      "audio": "hr-dva.mp3",
+      "forms": [
+        "dvije"
+      ],
+      "explain_ua": "(Dva kruha, dvije jabuke = два хліби, дві яблука). Dva для ч. і с. роду, dvije для ж. роду. Після dva і dvije родовий однини: dva kruha, dvije jabuke. Тут допомагає РОСІЙСЬКА (два хлеба, три яблока), а не українська, де після 2-4 називний множини (два хліби)"
+    },
+    {
+      "id": "hr-991dcd41",
+      "type": "numeral",
+      "lemma": "tri",
+      "digit": "3",
+      "ua": "три",
+      "audio": "hr-tri.mp3",
+      "explain_ua": "(Dajte mi tri sira = дайте мені три сири). Для всіх родів tri. Після нього родовий однини: tri sira, tri jabuke. Як і dva, збігається з російським (три яблока), а не з українським"
+    },
+    {
+      "id": "hr-4df624c4",
+      "type": "numeral",
+      "lemma": "pet",
+      "digit": "5",
+      "ua": "п'ять",
+      "audio": "hr-pet.mp3",
+      "explain_ua": "(Pet eura, molim = п'ять євро, будь ласка). Після pet і далі іменник у родовому множини. Тут це майже ніде не видно: pet eura (eura це і родовий однини, і множини), pet centi. Решту прикладів з родовим множини ми відкладаємо на пізніше",
+      "check": "Родовий множини після pet тут прихований: центи centi і euro eura; решту не вживаю, бо родовий множини за планом пізніше."
+    },
+    {
+      "id": "hr-af210ac4",
+      "type": "numeral",
+      "lemma": "deset",
+      "digit": "10",
+      "ua": "десять",
+      "audio": "hr-deset.mp3",
+      "explain_ua": "(Jabuka košta deset centi = яблуко коштує десять центів). Після deset родовий множини: deset centi. Корінь схожий на українське десять, тож це легко"
+    },
+    {
+      "id": "hr-4ec10d20",
+      "type": "numeral",
+      "lemma": "pedeset",
+      "digit": "50",
+      "ua": "п'ятдесят",
+      "audio": "hr-pedeset.mp3",
+      "explain_ua": "(Pedeset centi = п'ятдесят центів). Pet-deset стає pe-deset: pet скорочується до pe-. Після нього родовий множини: pedeset centi"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Числа та іменники: jedan kruh, dva kruha, pet eura",
+      "summary_ua": "Після jedan іменник у називному, після dva, tri (і četiri) у родовому однини, після pet і далі у родовому множини. Тут допомагає російська (два хлеба, три яблока), а не українська (два хліби). Рід jedan / jedna / jedno і dva / dvije треба погоджувати.",
+      "compare": [
+        {
+          "form": "jedan / jedna / jedno: за родом",
+          "when_ua": "Jedan kruh (ч.), jedna jabuka (ж.), jedno mlijeko (с.). Знахідний ж. р.: jednu jabuku.",
+          "examples": [
+            {
+              "text": "Dajte mi jedan kruh.",
+              "ua": "Дайте мені один хліб.",
+              "audio": "hr-les07-rule-01.mp3"
+            },
+            {
+              "text": "Dajte mi jednu jabuku.",
+              "ua": "Дайте мені одне яблуко.",
+              "audio": "hr-les07-rule-02.mp3"
+            },
+            {
+              "text": "Dajte mi jedno mlijeko.",
+              "ua": "Дайте мені одне молоко.",
+              "audio": "hr-les07-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Яблуко українською середнього роду, а хорватська jabuka жіночого. Рід підказує форму: jednu jabuku."
+        },
+        {
+          "form": "dva / dvije / tri + родовий однини",
+          "when_ua": "Dva і tri беруть родовий однини: dva soka, tri sira. Для жіночого dvije jabuke. Українська тут не допомагає, російська допомагає.",
+          "examples": [
+            {
+              "text": "Dajte mi dva soka.",
+              "ua": "Дайте мені два соки.",
+              "audio": "hr-les07-rule-04.mp3"
+            },
+            {
+              "text": "Dajte mi dvije jabuke.",
+              "ua": "Дайте мені два яблука.",
+              "audio": "hr-les07-rule-05.mp3"
+            },
+            {
+              "text": "Dajte mi tri sira.",
+              "ua": "Дайте мені три сири.",
+              "audio": "hr-les07-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Українське «два соки» це називний множини, а хорватське dva soka родовий однини. Це типова пастка для україномовного."
+        },
+        {
+          "form": "pet і далі: родовий множини (euro, cent)",
+          "when_ua": "Після pet іде родовий множини. З euro і cent це видно: pet eura, pet centi. Для euro форма eura збігається з іншими.",
+          "examples": [
+            {
+              "text": "Kruh košta jedan euro.",
+              "ua": "Хліб коштує один євро.",
+              "audio": "hr-les07-rule-07.mp3"
+            },
+            {
+              "text": "Sir košta dva eura.",
+              "ua": "Сир коштує два євро.",
+              "audio": "hr-les07-rule-08.mp3"
+            },
+            {
+              "text": "Sok košta pet eura.",
+              "ua": "Сік коштує п'ять євро.",
+              "audio": "hr-les07-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Родовий множини ми тут майже не вчимо, окрім euro і cent. Решта з'явиться пізніше, бо це найважча тема."
+        }
+      ],
+      "points_ua": [
+        "Швидкий тест. Скільки? 1: називний (jedan kruh). 2, 3: родовий однини (dva kruha, tri sira). 5 і далі: родовий множини (pet eura, pet centi).",
+        "Для 2-4 спирайся на російську, не на українську: два хлеба = dva kruha.",
+        "Euro: jedan euro, dva eura, pet eura. Cent: jedan cent, dva centa, pet centi. Це правило я перевірив лише з таблиці в джерелі."
+      ]
+    },
+    {
+      "title_ua": "Наказовий спосіб: Dajte mi ... Daj mi ...",
+      "summary_ua": "У магазині кажуть Dajte mi kruh, molim (до «ви»). Другу особу однини, до друга, будують як daj: Daj mi sok. Mi тут «мені» (давальний, клітик), не «ми». Українське дайте близьке.",
+      "compare": [
+        {
+          "form": "Dajte mi ... (вічливо, «ви»)",
+          "when_ua": "Dajte на початку, mi після нього (другий клітик), потім що просиш. Molim додає ввічливість.",
+          "examples": [
+            {
+              "text": "Dajte mi sir, molim.",
+              "ua": "Дайте мені сир, будь ласка.",
+              "audio": "hr-les07-rule-10.mp3"
+            },
+            {
+              "text": "Molim, dajte mi sok.",
+              "ua": "Будь ласка, дайте мені сік.",
+              "audio": "hr-les07-rule-11.mp3"
+            },
+            {
+              "text": "Dajte mi meso.",
+              "ua": "Дайте мені м'ясо.",
+              "audio": "hr-les07-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Українське «дайте мені» і хорватське dajte mi збігаються за порядком."
+        },
+        {
+          "form": "Daj mi ... (на «ти»)",
+          "when_ua": "До друга або дитини: daj замість dajte. Решта така сама.",
+          "examples": [
+            {
+              "text": "Daj mi kruh.",
+              "ua": "Дай мені хліб.",
+              "audio": "hr-les07-rule-13.mp3"
+            },
+            {
+              "text": "Daj mi kavu, molim.",
+              "ua": "Дай мені каву, будь ласка.",
+              "audio": "hr-les07-rule-14.mp3"
+            },
+            {
+              "text": "Daj mi jabuku.",
+              "ua": "Дай мені яблуко.",
+              "audio": "hr-les07-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Mi тут клітик, слабке слово на другому місці, а не «ми» (nominativ). Давальний відмінок повністю з'явиться в Lekciji 8."
+        }
+      ],
+      "points_ua": [
+        "До незнайомого: Dajte mi ... До друга: Daj mi ...",
+        "Mi після наказового слова це «мені», а mi на початку (Mi smo ovdje) це «ми». Одне слово, дві ролі."
+      ]
+    },
+    {
+      "title_ua": "Ціна: Koliko košta? Koliko koštaju?",
+      "summary_ua": "Питання про ціну: Koliko košta sir? (одне) і Koliko koštaju jabuke? (кілька). Відповідь: число + euro + i + число + cent. Cent теж змінюється: jedan cent, dva centa, pet centi.",
+      "compare": [
+        {
+          "form": "Koliko košta / koštaju?",
+          "when_ua": "Košta для одного предмета (однина), koštaju для кількох (множина).",
+          "examples": [
+            {
+              "text": "Koliko košta sok?",
+              "ua": "Скільки коштує сік?",
+              "audio": "hr-les07-rule-16.mp3"
+            },
+            {
+              "text": "Koliko košta meso?",
+              "ua": "Скільки коштує м'ясо?",
+              "audio": "hr-les07-rule-17.mp3"
+            },
+            {
+              "text": "Koliko koštaju sirevi?",
+              "ua": "Скільки коштують сири?",
+              "audio": "hr-les07-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Підмет у множині (sirevi) вимагає koštaju. Це та сама узгодженість, що в українській коштують."
+        },
+        {
+          "form": "euro і cent у відповіді",
+          "when_ua": "Назви спочатку euro, потім i, потім cent: dva eura i pedeset centi.",
+          "examples": [
+            {
+              "text": "Jabuka košta jedan cent.",
+              "ua": "Яблуко коштує один цент.",
+              "audio": "hr-les07-rule-19.mp3"
+            },
+            {
+              "text": "Sir košta pedeset centi.",
+              "ua": "Сир коштує п'ятдесят центів.",
+              "audio": "hr-les07-rule-20.mp3"
+            },
+            {
+              "text": "Sok košta tri eura i deset centi.",
+              "ua": "Сік коштує три євро й десять центів.",
+              "audio": "hr-les07-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Тут cent після 5 і далі це родовий множини centi, і він невідворотний, коли говориш про ціну. Решту родового множини ми відклали."
+        }
+      ],
+      "points_ua": [
+        "Koliko košta + однина, koliko koštaju + множина.",
+        "Ціна: число + euro + i + число + cent. Jedan euro, dva eura, pet eura; jedan cent, dva centa, pet centi."
+      ]
+    },
+    {
+      "title_ua": "Ввічливі слова: Izvolite, molim, hvala",
+      "summary_ua": "У магазині чути три слова. Izvolite? питає «слухаю вас»; Izvolite, ... подає. Molim це «прошу» і «будь ласка». Hvala дякує.",
+      "compare": [
+        {
+          "form": "Izvolite",
+          "when_ua": "Продавець: Izvolite? Коли щось подає: Izvolite, ...",
+          "examples": [
+            {
+              "text": "Izvolite?",
+              "ua": "Слухаю вас?",
+              "audio": "hr-les07-rule-22.mp3"
+            },
+            {
+              "text": "Izvolite, ovdje je sir.",
+              "ua": "Прошу, ось сир.",
+              "audio": "hr-les07-rule-23.mp3"
+            },
+            {
+              "text": "Izvolite, sok.",
+              "ua": "Прошу, сік.",
+              "audio": "hr-les07-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Izvolite це форма на «ви», тому її кажуть чужим і ввічливо."
+        },
+        {
+          "form": "Hvala, molim",
+          "when_ua": "Покупець: Hvala. Продавець: Molim. Також «молим» додаємо до прохання.",
+          "examples": [
+            {
+              "text": "Hvala.",
+              "ua": "Дякую.",
+              "audio": "hr-les07-rule-25.mp3"
+            },
+            {
+              "text": "Molim.",
+              "ua": "Прошу.",
+              "audio": "hr-les07-rule-26.mp3"
+            },
+            {
+              "text": "Hvala, a koliko košta meso?",
+              "ua": "Дякую, а скільки коштує м'ясо?",
+              "audio": "hr-les07-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Hvala не змінюється. Для відповіді «прошу» ти чуєш molim."
+        }
+      ],
+      "points_ua": [
+        "Продавець: Izvolite? Ти: Dajte mi ..., molim. Він: Izvolite. Ти: Hvala. Він: Molim.",
+        "Ці слова я не міг підтвердити джерелами, тому вони мають «?»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Dajte mi jedan kruh, molim.",
+      "ua": "Дайте мені один хліб, будь ласка.",
+      "audio": "hr-les07-example-01.mp3"
+    },
+    {
+      "text": "Dajte mi dva kruha.",
+      "ua": "Дайте мені два хліби.",
+      "audio": "hr-les07-example-02.mp3"
+    },
+    {
+      "text": "Dajte mi dvije jabuke.",
+      "ua": "Дайте мені два яблука.",
+      "audio": "hr-les07-example-03.mp3"
+    },
+    {
+      "text": "Dajte mi tri sira.",
+      "ua": "Дайте мені три сири.",
+      "audio": "hr-les07-example-04.mp3"
+    },
+    {
+      "text": "Dajte mi jedno mlijeko.",
+      "ua": "Дайте мені одне молоко.",
+      "audio": "hr-les07-example-05.mp3"
+    },
+    {
+      "text": "Dajte mi sok i meso.",
+      "ua": "Дайте мені сік і м'ясо.",
+      "audio": "hr-les07-example-06.mp3"
+    },
+    {
+      "text": "Koliko košta kruh?",
+      "ua": "Скільки коштує хліб?",
+      "audio": "hr-les07-example-07.mp3"
+    },
+    {
+      "text": "Kruh košta jedan euro.",
+      "ua": "Хліб коштує один євро.",
+      "audio": "hr-les07-example-08.mp3"
+    },
+    {
+      "text": "Sir košta dva eura i pedeset centi.",
+      "ua": "Сир коштує два євро й п'ятдесят центів.",
+      "audio": "hr-les07-example-09.mp3"
+    },
+    {
+      "text": "Sok košta tri eura.",
+      "ua": "Сік коштує три євро.",
+      "audio": "hr-les07-example-10.mp3"
+    },
+    {
+      "text": "Jabuka košta deset centi.",
+      "ua": "Яблуко коштує десять центів.",
+      "audio": "hr-les07-example-11.mp3"
+    },
+    {
+      "text": "Koliko koštaju jabuke?",
+      "ua": "Скільки коштують яблука?",
+      "audio": "hr-les07-example-12.mp3"
+    },
+    {
+      "text": "Dvije jabuke koštaju pedeset centi.",
+      "ua": "Два яблука коштують п'ятдесят центів.",
+      "audio": "hr-les07-example-13.mp3"
+    },
+    {
+      "text": "Izvolite?",
+      "ua": "Слухаю вас?",
+      "audio": "hr-les07-example-14.mp3"
+    },
+    {
+      "text": "Izvolite, ovdje je kruh.",
+      "ua": "Прошу, ось хліб.",
+      "audio": "hr-les07-example-15.mp3"
+    },
+    {
+      "text": "Pet eura, molim.",
+      "ua": "П'ять євро, будь ласка.",
+      "audio": "hr-les07-example-16.mp3"
+    },
+    {
+      "text": "Daj mi sok, molim.",
+      "ua": "Дай мені сік, будь ласка.",
+      "audio": "hr-les07-example-17.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U dućanu",
+    "title_ua": "У магазині",
+    "highlight": [
+      "hr-eb69424c",
+      "hr-9ea96183",
+      "hr-738a6a0c",
+      "hr-4e675262",
+      "hr-75503b34",
+      "hr-6d5657b5",
+      "hr-cef35d5f",
+      "hr-991dcd41",
+      "hr-4df624c4",
+      "hr-4ec10d20"
+    ],
+    "sentences": [
+      {
+        "text": "Danas idem u dućan.",
+        "ua": "Сьогодні я йду в магазин.",
+        "audio": "hr-les07-reading-01.mp3"
+      },
+      {
+        "text": "Izvolite?",
+        "ua": "Слухаю вас?",
+        "audio": "hr-les07-reading-02.mp3"
+      },
+      {
+        "text": "Dajte mi dva kruha i tri sira.",
+        "ua": "Дайте мені два хліби й три сири.",
+        "audio": "hr-les07-reading-03.mp3"
+      },
+      {
+        "text": "Izvolite.",
+        "ua": "Прошу.",
+        "audio": "hr-les07-reading-04.mp3"
+      },
+      {
+        "text": "Koliko košta sir?",
+        "ua": "Скільки коштує сир?",
+        "audio": "hr-les07-reading-05.mp3"
+      },
+      {
+        "text": "Sir košta dva eura i pedeset centi.",
+        "ua": "Сир коштує два євро й п'ятдесят центів.",
+        "audio": "hr-les07-reading-06.mp3"
+      },
+      {
+        "text": "Pet eura, molim.",
+        "ua": "П'ять євро, будь ласка.",
+        "audio": "hr-les07-reading-07.mp3"
+      },
+      {
+        "text": "Hvala.",
+        "ua": "Дякую.",
+        "audio": "hr-les07-reading-08.mp3"
+      },
+      {
+        "text": "Molim.",
+        "ua": "Прошу.",
+        "audio": "hr-les07-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Дайте мені один хліб, будь ласка.",
+          "accepted": [
+            "Dajte mi jedan kruh, molim.",
+            "Molim, dajte mi jedan kruh."
+          ]
+        },
+        {
+          "prompt": "Дайте мені два хліби.",
+          "accepted": [
+            "Dajte mi dva kruha."
+          ]
+        },
+        {
+          "prompt": "Дайте мені два яблука.",
+          "accepted": [
+            "Dajte mi dvije jabuke."
+          ]
+        },
+        {
+          "prompt": "Дайте мені три сири.",
+          "accepted": [
+            "Dajte mi tri sira."
+          ]
+        },
+        {
+          "prompt": "Дайте мені одне молоко.",
+          "accepted": [
+            "Dajte mi jedno mlijeko."
+          ]
+        },
+        {
+          "prompt": "Дайте мені сік і м'ясо.",
+          "accepted": [
+            "Dajte mi sok i meso."
+          ]
+        },
+        {
+          "prompt": "Скільки коштує хліб?",
+          "accepted": [
+            "Koliko košta kruh?"
+          ]
+        },
+        {
+          "prompt": "Хліб коштує один євро.",
+          "accepted": [
+            "Kruh košta jedan euro."
+          ]
+        },
+        {
+          "prompt": "Сир коштує два євро й п'ятдесят центів.",
+          "accepted": [
+            "Sir košta dva eura i pedeset centi."
+          ]
+        },
+        {
+          "prompt": "Сік коштує три євро.",
+          "accepted": [
+            "Sok košta tri eura."
+          ]
+        },
+        {
+          "prompt": "Яблуко коштує десять центів.",
+          "accepted": [
+            "Jabuka košta deset centi."
+          ]
+        },
+        {
+          "prompt": "Скільки коштують яблука?",
+          "accepted": [
+            "Koliko koštaju jabuke?"
+          ]
+        },
+        {
+          "prompt": "Два яблука коштують п'ятдесят центів.",
+          "accepted": [
+            "Dvije jabuke koštaju pedeset centi."
+          ]
+        },
+        {
+          "prompt": "П'ять євро, будь ласка.",
+          "accepted": [
+            "Pet eura, molim."
+          ]
+        },
+        {
+          "prompt": "Дай мені сік.",
+          "accepted": [
+            "Daj mi sok.",
+            "Daj mi sok, molim."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "jedan",
+        "jednu",
+        "jedno",
+        "dva",
+        "dvije",
+        "tri",
+        "sira",
+        "soka",
+        "mlijeka",
+        "košta",
+        "koštaju",
+        "euro",
+        "eura",
+        "centi",
+        "cent",
+        "centa"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Dajte mi ___ kruh.",
+          "hint": "Дайте мені один хліб.",
+          "accepted": [
+            [
+              "jedan"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi ___ jabuku.",
+          "hint": "Дайте мені одне яблуко.",
+          "accepted": [
+            [
+              "jednu"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi ___ mlijeko.",
+          "hint": "Дайте мені одне молоко.",
+          "accepted": [
+            [
+              "jedno"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi ___ kruha.",
+          "hint": "Дайте мені два хліби.",
+          "accepted": [
+            [
+              "dva"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi ___ jabuke.",
+          "hint": "Дайте мені два яблука.",
+          "accepted": [
+            [
+              "dvije"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi tri ___.",
+          "hint": "Дайте мені три сири.",
+          "accepted": [
+            [
+              "sira"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi dva ___.",
+          "hint": "Дайте мені два соки.",
+          "accepted": [
+            [
+              "soka"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi dva ___.",
+          "hint": "Дайте мені два молока.",
+          "accepted": [
+            [
+              "mlijeka"
+            ]
+          ]
+        },
+        {
+          "text": "Koliko ___ kruh?",
+          "hint": "Скільки коштує хліб?",
+          "accepted": [
+            [
+              "košta"
+            ]
+          ]
+        },
+        {
+          "text": "Koliko ___ jabuke?",
+          "hint": "Скільки коштують яблука?",
+          "accepted": [
+            [
+              "koštaju"
+            ]
+          ]
+        },
+        {
+          "text": "Kruh košta jedan ___.",
+          "hint": "Хліб коштує один євро.",
+          "accepted": [
+            [
+              "euro"
+            ]
+          ]
+        },
+        {
+          "text": "Sok košta tri ___.",
+          "hint": "Сік коштує три євро.",
+          "accepted": [
+            [
+              "eura"
+            ]
+          ]
+        },
+        {
+          "text": "Sir košta dva eura i pedeset ___.",
+          "hint": "Сир коштує два євро й п'ятдесят центів.",
+          "accepted": [
+            [
+              "centi"
+            ]
+          ]
+        },
+        {
+          "text": "Jabuka košta jedan ___.",
+          "hint": "Яблуко коштує один цент.",
+          "accepted": [
+            [
+              "cent"
+            ]
+          ]
+        },
+        {
+          "text": "Jabuka košta dva ___.",
+          "hint": "Яблуко коштує два центи.",
+          "accepted": [
+            [
+              "centa"
+            ]
+          ]
+        },
+        {
+          "text": "Sok košta pet ___.",
+          "hint": "Сік коштує п'ять євро.",
+          "accepted": [
+            [
+              "eura"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: число, питання, ти-форма або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Dajte mi kruh.",
+          "cue": "-> два (dva)",
+          "accepted": [
+            "Dajte mi dva kruha."
+          ]
+        },
+        {
+          "prompt": "Dajte mi sir.",
+          "cue": "-> три (tri)",
+          "accepted": [
+            "Dajte mi tri sira."
+          ]
+        },
+        {
+          "prompt": "Dajte mi jabuku.",
+          "cue": "-> дві (dvije)",
+          "accepted": [
+            "Dajte mi dvije jabuke."
+          ]
+        },
+        {
+          "prompt": "Dajte mi sok.",
+          "cue": "-> два (dva)",
+          "accepted": [
+            "Dajte mi dva soka."
+          ]
+        },
+        {
+          "prompt": "Dajte mi mlijeko.",
+          "cue": "-> два (dva)",
+          "accepted": [
+            "Dajte mi dva mlijeka."
+          ]
+        },
+        {
+          "prompt": "Koliko košta jabuka?",
+          "cue": "-> множина (jabuke)",
+          "accepted": [
+            "Koliko koštaju jabuke?"
+          ]
+        },
+        {
+          "prompt": "Kruh košta euro.",
+          "cue": "-> один (jedan)",
+          "accepted": [
+            "Kruh košta jedan euro."
+          ]
+        },
+        {
+          "prompt": "Sok košta euro.",
+          "cue": "-> три (tri)",
+          "accepted": [
+            "Sok košta tri eura."
+          ]
+        },
+        {
+          "prompt": "Dajte mi sir.",
+          "cue": "-> до друга (daj)",
+          "accepted": [
+            "Daj mi sir."
+          ]
+        },
+        {
+          "prompt": "Dajte mi sok, molim.",
+          "cue": "-> до друга (daj)",
+          "accepted": [
+            "Daj mi sok, molim."
+          ]
+        },
+        {
+          "prompt": "Kruh košta jedan euro.",
+          "cue": "-> питання",
+          "accepted": [
+            "Koliko košta kruh?"
+          ]
+        },
+        {
+          "prompt": "Sir košta dva eura.",
+          "cue": "-> питання",
+          "accepted": [
+            "Koliko košta sir?"
+          ]
+        },
+        {
+          "prompt": "Dajte mi dva kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajte mi dva kruha."
+          ]
+        },
+        {
+          "prompt": "Dajte mi tri sir.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajte mi tri sira."
+          ]
+        },
+        {
+          "prompt": "Dajte mi dva jabuke.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajte mi dvije jabuke."
+          ]
+        },
+        {
+          "prompt": "Koliko koštaju kruh?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Koliko košta kruh?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ kruh.",
+          "cue": "davati",
+          "accepted": [
+            "dajem"
+          ]
+        },
+        {
+          "text": "Ti ___ kruh.",
+          "cue": "davati",
+          "accepted": [
+            "daješ"
+          ]
+        },
+        {
+          "text": "Majka ___ sok.",
+          "cue": "davati",
+          "accepted": [
+            "daje"
+          ]
+        },
+        {
+          "text": "Mi ___ sir.",
+          "cue": "davati",
+          "accepted": [
+            "dajemo"
+          ]
+        },
+        {
+          "text": "Vi ___ sok.",
+          "cue": "davati",
+          "accepted": [
+            "dajete"
+          ]
+        },
+        {
+          "text": "Djeca ___ sir.",
+          "cue": "davati",
+          "accepted": [
+            "daju"
+          ]
+        },
+        {
+          "text": "Kruh ___ jedan euro.",
+          "cue": "koštati",
+          "accepted": [
+            "košta"
+          ]
+        },
+        {
+          "text": "Jabuke ___ pedeset centi.",
+          "cue": "koštati",
+          "accepted": [
+            "koštaju"
+          ]
+        },
+        {
+          "text": "Sir ___ dva eura.",
+          "cue": "koštati",
+          "accepted": [
+            "košta"
+          ]
+        },
+        {
+          "text": "Koliko ___ sirevi?",
+          "cue": "koštati",
+          "accepted": [
+            "koštaju"
+          ]
+        },
+        {
+          "text": "Koliko ___ sok?",
+          "cue": "koštati",
+          "accepted": [
+            "košta"
+          ]
+        },
+        {
+          "text": "___ mi kruh, molim.",
+          "cue": "dati (на «ви», наказовий)",
+          "accepted": [
+            "Dajte"
+          ]
+        },
+        {
+          "text": "___ mi sok.",
+          "cue": "dati (на «ти», наказовий)",
+          "accepted": [
+            "Daj"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "сир",
+          "answer": "sir"
+        },
+        {
+          "prompt": "м'ясо",
+          "answer": "meso"
+        },
+        {
+          "prompt": "яблуко",
+          "answer": "jabuka"
+        },
+        {
+          "prompt": "сік",
+          "answer": "sok"
+        },
+        {
+          "prompt": "євро",
+          "answer": "euro"
+        },
+        {
+          "prompt": "цент",
+          "answer": "cent"
+        },
+        {
+          "prompt": "коштувати",
+          "answer": "koštati"
+        },
+        {
+          "prompt": "давати",
+          "answer": "davati"
+        },
+        {
+          "prompt": "скільки",
+          "answer": "koliko"
+        },
+        {
+          "prompt": "будь ласка",
+          "answer": "molim"
+        },
+        {
+          "prompt": "прошу (подаючи)",
+          "answer": "izvolite"
+        },
+        {
+          "prompt": "один",
+          "answer": "jedan"
+        },
+        {
+          "prompt": "два",
+          "answer": "dva"
+        },
+        {
+          "prompt": "три",
+          "answer": "tri"
+        },
+        {
+          "prompt": "п'ять",
+          "answer": "pet"
+        },
+        {
+          "prompt": "десять",
+          "answer": "deset"
+        },
+        {
+          "prompt": "п'ятдесят",
+          "answer": "pedeset"
+        }
+      ],
+      "extra": [
+        "dati",
+        "hvala"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 15,
+      "note_types": [
+        "noun",
+        "function",
+        "numeral"
+      ]
+    }
+  ]
+}

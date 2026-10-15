@@ -1,0 +1,1182 @@
+{
+  "id": "hr-les-09",
+  "lang": "hr",
+  "order": 9,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "do"
+  ],
+  "notes": [
+    {
+      "id": "hr-530144f4",
+      "type": "numeral",
+      "lemma": "četiri",
+      "digit": "4",
+      "ua": "чотири",
+      "audio": "hr-cetiri.mp3",
+      "explain_ua": "(Dijete ima četiri godine = дитині чотири роки). Після četiri, як після dva і tri, родовий однини: četiri godine. Літера č з гачком. Корінь той самий, що в чотири",
+      "check": "Форма četiri з мого знання; після 2-4 родовий однини описано в Lekciji 7."
+    },
+    {
+      "id": "hr-cb4aa794",
+      "type": "numeral",
+      "lemma": "šest",
+      "digit": "6",
+      "ua": "шість",
+      "audio": "hr-sest.mp3",
+      "explain_ua": "(Kruh košta šest eura = хліб коштує шість євро). Українське шість, російське шесть: корінь однаковий, хорватське šest з гачком. Після нього родовий множини (eura, centi, godina, sati)"
+    },
+    {
+      "id": "hr-b64c6b17",
+      "type": "numeral",
+      "lemma": "sedam",
+      "digit": "7",
+      "ua": "сім",
+      "audio": "hr-sedam.mp3",
+      "explain_ua": "(Sok košta sedam eura = сік коштує сім євро). Корінь sed- збігається з російським семь, а українське сім коротше. Після нього родовий множини"
+    },
+    {
+      "id": "hr-9e78a967",
+      "type": "numeral",
+      "lemma": "osam",
+      "digit": "8",
+      "ua": "вісім",
+      "audio": "hr-osam.mp3",
+      "explain_ua": "(Sir košta osam eura = сир коштує вісім євро). Корінь os- збігається з вісім / восемь. Після нього родовий множини"
+    },
+    {
+      "id": "hr-c9def2ae",
+      "type": "numeral",
+      "lemma": "devet",
+      "digit": "9",
+      "ua": "дев'ять",
+      "audio": "hr-devet.mp3",
+      "explain_ua": "(Meso košta devet eura = м'ясо коштує дев'ять євро). Корінь dev- збігається з дев'ять. Після нього родовий множини"
+    },
+    {
+      "id": "hr-a20d24bc",
+      "type": "numeral",
+      "lemma": "dvanaest",
+      "digit": "12",
+      "ua": "дванадцять",
+      "audio": "hr-dvanaest.mp3",
+      "explain_ua": "(Imam dvanaest eura = у мене дванадцять євро). Від 11 до 19 числа закінчуються на -naest, як українське -надцять: dvanaest, petnaest. Це взірець: dva + naest. Після нього родовий множини"
+    },
+    {
+      "id": "hr-b244137f",
+      "type": "numeral",
+      "lemma": "petnaest",
+      "digit": "15",
+      "ua": "п'ятнадцять",
+      "audio": "hr-petnaest.mp3",
+      "explain_ua": "(Imam petnaest eura = у мене п'ятнадцять євро). Pet + naest = п'ятнадцять. Той самий взірець, що dvanaest. Після нього родовий множини"
+    },
+    {
+      "id": "hr-7663779d",
+      "type": "numeral",
+      "lemma": "dvadeset",
+      "digit": "20",
+      "ua": "двадцять",
+      "audio": "hr-dvadeset.mp3",
+      "explain_ua": "(Sir košta dvadeset eura = сир коштує двадцять євро). Dva + deset = двадцять. Складені числа без «i»: dvadeset pet, dvadeset tri. Після нього родовий множини"
+    },
+    {
+      "id": "hr-805e939f",
+      "type": "numeral",
+      "lemma": "trideset",
+      "digit": "30",
+      "ua": "тридцять",
+      "audio": "hr-trideset.mp3",
+      "explain_ua": "(Brat ima trideset godina = братові тридцять років). Tri + deset = тридцять. Складене trideset tri: після нього родовий однини godine, бо кінцева цифра 3"
+    },
+    {
+      "id": "hr-b78771ff",
+      "type": "numeral",
+      "lemma": "četrdeset",
+      "digit": "40",
+      "ua": "сорок",
+      "audio": "hr-cetrdeset.mp3",
+      "explain_ua": "(Majka ima četrdeset godina = мамі сорок років). Пастка: українське сорок не схоже, а хорватське četiri + deset скорочується до četrdeset. Російське сорок теж інше. Це слово вчи напам'ять",
+      "check": "Те, що četiri + deset дає četrdeset (скорочення основи), з мого знання, у джерелі цього уроку немає."
+    },
+    {
+      "id": "hr-5d62a32e",
+      "type": "numeral",
+      "lemma": "šezdeset",
+      "digit": "60",
+      "ua": "шістдесят",
+      "audio": "hr-sezdeset.mp3",
+      "explain_ua": "(Majka ima šezdeset godina = мамі шістдесят років). Šest + deset скорочується до šezdeset, тож вчи слово цілим. Після нього родовий множини"
+    },
+    {
+      "id": "hr-57dc9d68",
+      "type": "numeral",
+      "lemma": "osamdeset",
+      "digit": "80",
+      "ua": "вісімдесят",
+      "audio": "hr-osamdeset.mp3",
+      "explain_ua": "(Baka ima osamdeset godina = бабусі вісімдесят років). Osam + deset = вісімдесят. Sedamdeset (70) за тим самим взірцем, у реченнях цього уроку його немає"
+    },
+    {
+      "id": "hr-f09e6dba",
+      "type": "numeral",
+      "lemma": "devedeset",
+      "digit": "90",
+      "ua": "дев'яносто",
+      "audio": "hr-devedeset.mp3",
+      "explain_ua": "(Baka ima devedeset godina = бабусі дев'яносто років). Пастка: українське дев'яносто та російське девяносто мають інший корінь (дев'я-носто), а хорватське deve(t) + deset. Вчи окремо",
+      "check": "Те, що devedeset утворене з deve(t) + deset, з мого знання, у джерелі цього уроку немає."
+    },
+    {
+      "id": "hr-d0582d9b",
+      "type": "numeral",
+      "lemma": "sto",
+      "digit": "100",
+      "ua": "сто",
+      "audio": "hr-sto.mp3",
+      "explain_ua": "(Imam sto eura = у мене сто євро). Sto збігається зі сто. Після нього родовий множини: sto eura"
+    },
+    {
+      "id": "hr-73d59f65",
+      "type": "noun",
+      "lemma": "sat",
+      "gender": "m.",
+      "gen_sg": "sata",
+      "plural": [
+        "sati"
+      ],
+      "ua": "година (60 хв); годинник",
+      "audio": "hr-sat.mp3",
+      "forms": [
+        "sata",
+        "sati"
+      ],
+      "explain_ua": "(Koliko je sati? = котра година?). Sat це година як одиниця часу і годинник. Не плутай із godina (рік) з Lekcije 1: sat = година, godina = рік, а українське година = sat. Після 1 sat, після 2-4 sata (родовий однини), після 5 і далі sati (родовий множини): jedan sat, dva sata, pet sati. Сполуку Koliko je sati? вчи як одне ціле",
+      "check": "Форми sat / sata / sati після чисел і сполука Koliko je sati? з мого знання та частково підтверджені у джерелі про час; родовий множини sati невідворотний у часі."
+    },
+    {
+      "id": "hr-920268b6",
+      "type": "function",
+      "lemma": "sada",
+      "ua": "зараз",
+      "audio": "hr-sada.mp3",
+      "explain_ua": "(Sada je sedam sati = зараз сьома година). Sada стоїть на першому місці, а клітик je іде за ним. Те саме, що danas для дня"
+    },
+    {
+      "id": "hr-4ffa98f3",
+      "type": "function",
+      "lemma": "pola",
+      "ua": "пів (половина); pola osam = 7:30",
+      "audio": "hr-pola.mp3",
+      "explain_ua": "(Sada je pola osam = зараз пів на восьму, тобто 7:30). Pola називає половину до наступної години: pola osam це 7:30. Українське «пів на восьму» і російське «половина восьмого» працюють так само, тож допомагають",
+      "check": "Те, що pola osam = 7:30, підтверджено у джерелі про час; вживання u pola osam з мого знання."
+    },
+    {
+      "id": "hr-82de55a3",
+      "type": "function",
+      "lemma": "ujutro",
+      "ua": "вранці",
+      "audio": "hr-ujutro.mp3",
+      "explain_ua": "(Ujutro idem u školu = вранці я йду в школу). Прислівник часу. Стоїть на першому місці, а клітик іде за ним: Ujutro sam u gradu. Пиши разом: ujutro",
+      "check": "Слово ujutro з мого знання, у джерелі цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-a120c0ce",
+      "type": "function",
+      "lemma": "navečer",
+      "ua": "ввечері",
+      "audio": "hr-navecer.mp3",
+      "explain_ua": "(Navečer čitam knjigu = ввечері я читаю книжку). Прислівник часу. Пиши разом: navečer. Літера č з гачком",
+      "check": "Слово navečer з мого знання, у джерелі цього уроку не підтверджено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Числа 6-20: šest, sedam, osam, devet, dvanaest, petnaest",
+      "summary_ua": "Числа 6-9 і 11-19 близькі до українських і російських: šest, sedam, osam, devet; dvanaest, petnaest (-naest = -надцять). Опирайся на українську й російську: це безкоштовна перемога. Після 5 і далі іменник у родовому множини.",
+      "compare": [
+        {
+          "form": "6-9: šest, sedam, osam, devet",
+          "when_ua": "Корінь той самий, що в українських шість, сім, вісім, дев'ять. Після них родовий множини (eura).",
+          "examples": [
+            {
+              "text": "Kruh košta šest eura.",
+              "ua": "Хліб коштує шість євро.",
+              "audio": "hr-les09-rule-01.mp3"
+            },
+            {
+              "text": "Sir košta osam eura.",
+              "ua": "Сир коштує вісім євро.",
+              "audio": "hr-les09-rule-02.mp3"
+            },
+            {
+              "text": "Meso košta devet eura.",
+              "ua": "М'ясо коштує дев'ять євро.",
+              "audio": "hr-les09-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Eura після 5 і далі це родовий множини, збігається з іншою формою euro."
+        },
+        {
+          "form": "11-20: -naest і dvadeset",
+          "when_ua": "Dva + naest = dvanaest, pet + naest = petnaest; dva + deset = dvadeset. Як українське -надцять.",
+          "examples": [
+            {
+              "text": "Sok košta dvanaest eura.",
+              "ua": "Сік коштує дванадцять євро.",
+              "audio": "hr-les09-rule-04.mp3"
+            },
+            {
+              "text": "Imam petnaest eura.",
+              "ua": "У мене п'ятнадцять євро.",
+              "audio": "hr-les09-rule-05.mp3"
+            },
+            {
+              "text": "Sir košta dvadeset eura.",
+              "ua": "Сир коштує двадцять євро.",
+              "audio": "hr-les09-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагають українська й російська: взірець той самий."
+        }
+      ],
+      "points_ua": [
+        "6-9: šest, sedam, osam, devet. 12: dvanaest, 15: petnaest. 11-19 закінчуються на -naest.",
+        "Після 5 і далі родовий множини: šest eura, dvanaest eura. Цю форму ми тут бачимо лише з euro, cent, sat, godina.",
+        "11 (jedanaest), 13, 14, 16-19 ті самі за взірцем, у реченнях цього уроку їх немає."
+      ]
+    },
+    {
+      "title_ua": "Десятки й складені числа: četrdeset, devedeset, dvadeset pet",
+      "summary_ua": "Десятки: dvadeset, trideset, četrdeset, pedeset, šezdeset, sedamdeset, osamdeset, devedeset, sto. Два з них не схожі на українські: četrdeset (сорок) і devedeset (дев'яносто). Складені числа пишуться окремими словами: dvadeset pet.",
+      "compare": [
+        {
+          "form": "десятки: trideset ... devedeset, sto",
+          "when_ua": "Десятки з -deset: tri + deset = trideset. Для 40 і 90 українська не допомагає: četrdeset, devedeset.",
+          "examples": [
+            {
+              "text": "Brat ima četrdeset godina.",
+              "ua": "Братові сорок років.",
+              "audio": "hr-les09-rule-07.mp3"
+            },
+            {
+              "text": "Majka ima šezdeset godina.",
+              "ua": "Мамі шістдесят років.",
+              "audio": "hr-les09-rule-08.mp3"
+            },
+            {
+              "text": "Baka ima devedeset godina.",
+              "ua": "Бабусі дев'яносто років.",
+              "audio": "hr-les09-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Тут ми вперше бачимо godina як родовий множини: після 5 і далі godina, не godine. Форма збігається з початковою (називний однини)."
+        },
+        {
+          "form": "складені: dvadeset pet, trideset tri",
+          "when_ua": "Складене число з окремих слів, без «i»: dvadeset pet, trideset tri. Іменник береться за останнім числом: tri = родовий однини godine; pet = родовий множини.",
+          "examples": [
+            {
+              "text": "Imam dvadeset pet eura.",
+              "ua": "У мене двадцять п'ять євро.",
+              "audio": "hr-les09-rule-10.mp3"
+            },
+            {
+              "text": "Majka ima trideset tri godine.",
+              "ua": "Мамі тридцять три роки.",
+              "audio": "hr-les09-rule-11.mp3"
+            },
+            {
+              "text": "Imam sto eura.",
+              "ua": "У мене сто євро.",
+              "audio": "hr-les09-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Українське «тридцять три роки» теж бере іменник за останнім числом."
+        }
+      ],
+      "points_ua": [
+        "Для віку: Imam trideset godina. Остання цифра 1: godina (jedna godina), 2-4: godine, 5 і далі (і 11-19): godina.",
+        "Пастки: četrdeset (не «sorok»), devedeset (не «devjanosto»).",
+        "Складені числа: окремі слова. Часто чуєш і «dvadeset i pet», обидва розуміють."
+      ]
+    },
+    {
+      "title_ua": "Котра година? Sada je sedam sati.",
+      "summary_ua": "Годину називають числом і словом sat у відповідній формі: jedan sat, dva sata, pet sati. Півгодини: pola + НАСТУПНА година (pola osam = 7:30), як в українській «пів на восьму». Хвилини: i (після) і do (до).",
+      "compare": [
+        {
+          "form": "повні години: sat, sata, sati",
+          "when_ua": "1 sat, 2-4 sata, 5 і далі sati. Koliko je sati? це готове питання.",
+          "examples": [
+            {
+              "text": "Sada je jedan sat.",
+              "ua": "Зараз перша година.",
+              "audio": "hr-les09-rule-13.mp3"
+            },
+            {
+              "text": "Sada je dva sata.",
+              "ua": "Зараз друга година.",
+              "audio": "hr-les09-rule-14.mp3"
+            },
+            {
+              "text": "Sada je pet sati.",
+              "ua": "Зараз п'ята година.",
+              "audio": "hr-les09-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Форма sati після pet і далі це родовий множини. Для 2-4 родовий однини (sata)."
+        },
+        {
+          "form": "i і do: після і до години",
+          "when_ua": "i = після: devet i petnaest = 9:15. do = до: petnaest do devet = 8:45. Pet do dvanaest = 11:55.",
+          "examples": [
+            {
+              "text": "Sada je devet i petnaest.",
+              "ua": "Зараз дев'ята п'ятнадцять.",
+              "audio": "hr-les09-rule-16.mp3"
+            },
+            {
+              "text": "Sada je petnaest do devet.",
+              "ua": "Зараз за п'ятнадцять дев'ята.",
+              "audio": "hr-les09-rule-17.mp3"
+            },
+            {
+              "text": "Sada je pet do dvanaest.",
+              "ua": "Зараз за п'ять дванадцята.",
+              "audio": "hr-les09-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Do означає «до» наступної години: pet do dvanaest це 11:55."
+        },
+        {
+          "form": "pola + наступна година",
+          "when_ua": "Pola osam значить 7:30, тобто половина ДО восьмої. Як українське «пів на восьму» і російське «половина восьмого».",
+          "examples": [
+            {
+              "text": "Sada je pola devet.",
+              "ua": "Зараз пів на дев'яту.",
+              "audio": "hr-les09-rule-19.mp3"
+            },
+            {
+              "text": "Sada je pola šest.",
+              "ua": "Зараз пів на шосту.",
+              "audio": "hr-les09-rule-20.mp3"
+            },
+            {
+              "text": "Idem u dućan u pola devet.",
+              "ua": "Я йду в магазин о пів на дев'яту.",
+              "audio": "hr-les09-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: «пів на дев'яту» це 8:30, і pola devet теж 8:30."
+        }
+      ],
+      "points_ua": [
+        "Koliko je sati? Sada je ... sati. Три форми: sat (1), sata (2-4), sati (5 і далі).",
+        "Хвилини: i = після (devet i petnaest), do = до (petnaest do devet).",
+        "Pola + наступна година: pola osam = 7:30, не 8:30."
+      ]
+    },
+    {
+      "title_ua": "Коли? u osam sati, u pola osam, ujutro, navečer",
+      "summary_ua": "На питання kada (коли) з часом: u + число (+ sati): u osam sati, u pola osam. Для частини дня: ujutro (вранці), navečer (ввечері). Прислівник на першому місці, клітик одразу за ним.",
+      "compare": [
+        {
+          "form": "u + година",
+          "when_ua": "U + число + sati: u osam sati. U pola osam. Слово sati можна опустити: u devet.",
+          "examples": [
+            {
+              "text": "Dolazim u osam sati.",
+              "ua": "Приходжу о восьмій.",
+              "audio": "hr-les09-rule-22.mp3"
+            },
+            {
+              "text": "Radim u banci u devet sati.",
+              "ua": "Працюю в банку о дев'ятій.",
+              "audio": "hr-les09-rule-23.mp3"
+            },
+            {
+              "text": "Idem u školu u pola osam.",
+              "ua": "Іду до школи о пів на восьму.",
+              "audio": "hr-les09-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Два u в одному реченні нормальні: u banci (місце) і u devet sati (час). Українське «о дев'ятій» тут u devet."
+        },
+        {
+          "form": "ujutro, navečer",
+          "when_ua": "Ujutro вранці, navečer ввечері. Прислівник перед підметом або дієсловом.",
+          "examples": [
+            {
+              "text": "Ujutro idem u školu.",
+              "ua": "Вранці йду до школи.",
+              "audio": "hr-les09-rule-25.mp3"
+            },
+            {
+              "text": "Navečer čitam knjigu.",
+              "ua": "Ввечері читаю книжку.",
+              "audio": "hr-les09-rule-26.mp3"
+            },
+            {
+              "text": "Ujutro sam u gradu, a navečer sam u stanu.",
+              "ua": "Вранці я в місті, а ввечері в квартирі.",
+              "audio": "hr-les09-rule-27.mp3"
+            }
+          ],
+          "note_ua": "У третьому реченні клітик sam іде одразу після ujutro і після navečer: це правило другого місця з Lekcije 1."
+        }
+      ],
+      "points_ua": [
+        "Час доби: ujutro, navečer. Година: u + число (u osam sati, u pola osam).",
+        "Прислівник на першому місці, клітик на другому: Ujutro sam, Navečer smo."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Imam šest eura.",
+      "ua": "У мене шість євро.",
+      "audio": "hr-les09-example-01.mp3"
+    },
+    {
+      "text": "Sok košta sedam eura.",
+      "ua": "Сік коштує сім євро.",
+      "audio": "hr-les09-example-02.mp3"
+    },
+    {
+      "text": "Meso košta devet eura.",
+      "ua": "М'ясо коштує дев'ять євро.",
+      "audio": "hr-les09-example-03.mp3"
+    },
+    {
+      "text": "Imam dvanaest eura.",
+      "ua": "У мене дванадцять євро.",
+      "audio": "hr-les09-example-04.mp3"
+    },
+    {
+      "text": "Imam petnaest eura.",
+      "ua": "У мене п'ятнадцять євро.",
+      "audio": "hr-les09-example-05.mp3"
+    },
+    {
+      "text": "Imam dvadeset eura i trideset centi.",
+      "ua": "У мене двадцять євро й тридцять центів.",
+      "audio": "hr-les09-example-06.mp3"
+    },
+    {
+      "text": "Brat ima trideset godina.",
+      "ua": "Братові тридцять років.",
+      "audio": "hr-les09-example-07.mp3"
+    },
+    {
+      "text": "Majka ima četrdeset godina.",
+      "ua": "Мамі сорок років.",
+      "audio": "hr-les09-example-08.mp3"
+    },
+    {
+      "text": "Baka ima osamdeset godina.",
+      "ua": "Бабусі вісімдесят років.",
+      "audio": "hr-les09-example-09.mp3"
+    },
+    {
+      "text": "Dijete ima četiri godine.",
+      "ua": "Дитині чотири роки.",
+      "audio": "hr-les09-example-10.mp3"
+    },
+    {
+      "text": "Koliko je sati?",
+      "ua": "Котра година?",
+      "audio": "hr-les09-example-11.mp3"
+    },
+    {
+      "text": "Sada je sedam sati.",
+      "ua": "Зараз сьома година.",
+      "audio": "hr-les09-example-12.mp3"
+    },
+    {
+      "text": "Sada je pola osam.",
+      "ua": "Зараз пів на восьму.",
+      "audio": "hr-les09-example-13.mp3"
+    },
+    {
+      "text": "Sada je osam i petnaest.",
+      "ua": "Зараз восьма п'ятнадцять.",
+      "audio": "hr-les09-example-14.mp3"
+    },
+    {
+      "text": "Sada je petnaest do osam.",
+      "ua": "Зараз за п'ятнадцять восьма.",
+      "audio": "hr-les09-example-15.mp3"
+    },
+    {
+      "text": "Dolazim u devet sati.",
+      "ua": "Приходжу о дев'ятій.",
+      "audio": "hr-les09-example-16.mp3"
+    },
+    {
+      "text": "Ujutro idem u školu, a navečer čitam.",
+      "ua": "Вранці йду до школи, а ввечері читаю.",
+      "audio": "hr-les09-example-17.mp3"
+    },
+    {
+      "text": "Imam sto eura.",
+      "ua": "У мене сто євро.",
+      "audio": "hr-les09-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Ujutro i navečer",
+    "title_ua": "Вранці і ввечері",
+    "highlight": [
+      "hr-b64c6b17",
+      "hr-9e78a967",
+      "hr-c9def2ae",
+      "hr-a20d24bc",
+      "hr-b244137f",
+      "hr-57dc9d68",
+      "hr-73d59f65",
+      "hr-920268b6",
+      "hr-4ffa98f3",
+      "hr-a120c0ce"
+    ],
+    "sentences": [
+      {
+        "text": "Sada je sedam sati.",
+        "ua": "Зараз сьома година.",
+        "audio": "hr-les09-reading-01.mp3"
+      },
+      {
+        "text": "Idem u školu u pola osam.",
+        "ua": "Іду до школи о пів на восьму.",
+        "audio": "hr-les09-reading-02.mp3"
+      },
+      {
+        "text": "Majka radi u banci u osam sati.",
+        "ua": "Мама працює в банку о восьмій.",
+        "audio": "hr-les09-reading-03.mp3"
+      },
+      {
+        "text": "Brat dolazi u dućan u devet sati.",
+        "ua": "Брат приходить у магазин о дев'ятій.",
+        "audio": "hr-les09-reading-04.mp3"
+      },
+      {
+        "text": "Sada je petnaest do devet.",
+        "ua": "Зараз за п'ятнадцять дев'ята.",
+        "audio": "hr-les09-reading-05.mp3"
+      },
+      {
+        "text": "Dijete čita knjigu.",
+        "ua": "Дитина читає книжку.",
+        "audio": "hr-les09-reading-06.mp3"
+      },
+      {
+        "text": "Navečer smo u stanu.",
+        "ua": "Ввечері ми в квартирі.",
+        "audio": "hr-les09-reading-07.mp3"
+      },
+      {
+        "text": "Baka ima osamdeset godina.",
+        "ua": "Бабусі вісімдесят років.",
+        "audio": "hr-les09-reading-08.mp3"
+      },
+      {
+        "text": "Sada je dvanaest sati.",
+        "ua": "Зараз дванадцята година.",
+        "audio": "hr-les09-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене шість євро.",
+          "accepted": [
+            "Imam šest eura.",
+            "Ja imam šest eura."
+          ]
+        },
+        {
+          "prompt": "Сік коштує сім євро.",
+          "accepted": [
+            "Sok košta sedam eura."
+          ]
+        },
+        {
+          "prompt": "М'ясо коштує дев'ять євро.",
+          "accepted": [
+            "Meso košta devet eura."
+          ]
+        },
+        {
+          "prompt": "У мене дванадцять євро.",
+          "accepted": [
+            "Imam dvanaest eura.",
+            "Ja imam dvanaest eura."
+          ]
+        },
+        {
+          "prompt": "У мене п'ятнадцять євро.",
+          "accepted": [
+            "Imam petnaest eura.",
+            "Ja imam petnaest eura."
+          ]
+        },
+        {
+          "prompt": "Братові тридцять років.",
+          "accepted": [
+            "Brat ima trideset godina."
+          ]
+        },
+        {
+          "prompt": "Мамі сорок років.",
+          "accepted": [
+            "Majka ima četrdeset godina."
+          ]
+        },
+        {
+          "prompt": "Дитині чотири роки.",
+          "accepted": [
+            "Dijete ima četiri godine."
+          ]
+        },
+        {
+          "prompt": "Котра година?",
+          "accepted": [
+            "Koliko je sati?"
+          ]
+        },
+        {
+          "prompt": "Зараз сьома година.",
+          "accepted": [
+            "Sada je sedam sati."
+          ]
+        },
+        {
+          "prompt": "Зараз пів на восьму.",
+          "accepted": [
+            "Sada je pola osam."
+          ]
+        },
+        {
+          "prompt": "Зараз восьма п'ятнадцять.",
+          "accepted": [
+            "Sada je osam i petnaest."
+          ]
+        },
+        {
+          "prompt": "Зараз за п'ятнадцять восьма.",
+          "accepted": [
+            "Sada je petnaest do osam."
+          ]
+        },
+        {
+          "prompt": "Приходжу о дев'ятій.",
+          "accepted": [
+            "Dolazim u devet sati.",
+            "Dolazim u devet."
+          ]
+        },
+        {
+          "prompt": "Вранці йду до школи, а ввечері читаю.",
+          "accepted": [
+            "Ujutro idem u školu, a navečer čitam.",
+            "Ujutro idem u školu a navečer čitam."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "šest",
+        "sedam",
+        "devet",
+        "dvanaest",
+        "petnaest",
+        "trideset",
+        "četrdeset",
+        "osamdeset",
+        "sto",
+        "sati",
+        "sata",
+        "do",
+        "pola",
+        "i",
+        "Ujutro",
+        "Navečer"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Imam ___ eura.",
+          "hint": "У мене шість євро.",
+          "accepted": [
+            [
+              "šest"
+            ]
+          ]
+        },
+        {
+          "text": "Sok košta ___ eura.",
+          "hint": "Сік коштує сім євро.",
+          "accepted": [
+            [
+              "sedam"
+            ]
+          ]
+        },
+        {
+          "text": "Meso košta ___ eura.",
+          "hint": "М'ясо коштує дев'ять євро.",
+          "accepted": [
+            [
+              "devet"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "У мене дванадцять євро.",
+          "accepted": [
+            [
+              "dvanaest"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "У мене п'ятнадцять євро.",
+          "accepted": [
+            [
+              "petnaest"
+            ]
+          ]
+        },
+        {
+          "text": "Brat ima ___ godina.",
+          "hint": "Братові тридцять років.",
+          "accepted": [
+            [
+              "trideset"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ima ___ godina.",
+          "hint": "Мамі сорок років.",
+          "accepted": [
+            [
+              "četrdeset"
+            ]
+          ]
+        },
+        {
+          "text": "Baka ima ___ godina.",
+          "hint": "Бабусі вісімдесят років.",
+          "accepted": [
+            [
+              "osamdeset"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "У мене сто євро.",
+          "accepted": [
+            [
+              "sto"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je sedam ___.",
+          "hint": "Зараз сьома година.",
+          "accepted": [
+            [
+              "sati"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je dva ___.",
+          "hint": "Зараз друга година.",
+          "accepted": [
+            [
+              "sata"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je petnaest ___ osam.",
+          "hint": "Зараз за п'ятнадцять восьма.",
+          "accepted": [
+            [
+              "do"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je ___ osam.",
+          "hint": "Зараз пів на восьму.",
+          "accepted": [
+            [
+              "pola"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je osam ___ petnaest.",
+          "hint": "Зараз восьма п'ятнадцять.",
+          "accepted": [
+            [
+              "i"
+            ]
+          ]
+        },
+        {
+          "text": "___ idem u školu.",
+          "hint": "Вранці йду до школи.",
+          "accepted": [
+            [
+              "Ujutro"
+            ]
+          ]
+        },
+        {
+          "text": "___ čitam knjigu.",
+          "hint": "Ввечері читаю книжку.",
+          "accepted": [
+            [
+              "Navečer"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: час, число, початок з іншого слова або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Sada je sedam sati.",
+          "cue": "-> 7:30",
+          "accepted": [
+            "Sada je pola osam."
+          ]
+        },
+        {
+          "prompt": "Sada je osam sati.",
+          "cue": "-> 8:30",
+          "accepted": [
+            "Sada je pola devet."
+          ]
+        },
+        {
+          "prompt": "Sada je devet sati.",
+          "cue": "-> 9:15",
+          "accepted": [
+            "Sada je devet i petnaest."
+          ]
+        },
+        {
+          "prompt": "Sada je osam sati.",
+          "cue": "-> 7:45",
+          "accepted": [
+            "Sada je petnaest do osam."
+          ]
+        },
+        {
+          "prompt": "Sada je dvanaest sati.",
+          "cue": "-> 11:55",
+          "accepted": [
+            "Sada je pet do dvanaest."
+          ]
+        },
+        {
+          "prompt": "Idem u školu.",
+          "cue": "-> додай u osam sati",
+          "accepted": [
+            "Idem u školu u osam sati."
+          ]
+        },
+        {
+          "prompt": "Majka radi.",
+          "cue": "-> додай u devet sati",
+          "accepted": [
+            "Majka radi u devet sati."
+          ]
+        },
+        {
+          "prompt": "Dolazim.",
+          "cue": "-> додай u pola osam",
+          "accepted": [
+            "Dolazim u pola osam."
+          ]
+        },
+        {
+          "prompt": "Imam šest eura.",
+          "cue": "-> дванадцять (dvanaest)",
+          "accepted": [
+            "Imam dvanaest eura."
+          ]
+        },
+        {
+          "prompt": "Imam deset eura.",
+          "cue": "-> двадцять (dvadeset)",
+          "accepted": [
+            "Imam dvadeset eura."
+          ]
+        },
+        {
+          "prompt": "Imam dvadeset eura.",
+          "cue": "-> додай pedeset centi",
+          "accepted": [
+            "Imam dvadeset eura i pedeset centi."
+          ]
+        },
+        {
+          "prompt": "Brat ima trideset godina.",
+          "cue": "-> сорок (četrdeset)",
+          "accepted": [
+            "Brat ima četrdeset godina."
+          ]
+        },
+        {
+          "prompt": "Čitam.",
+          "cue": "-> почни з Ujutro",
+          "accepted": [
+            "Ujutro čitam."
+          ]
+        },
+        {
+          "prompt": "Idem u školu.",
+          "cue": "-> почни з Ujutro",
+          "accepted": [
+            "Ujutro idem u školu."
+          ]
+        },
+        {
+          "prompt": "Sada je pet sata.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sada je pet sati."
+          ]
+        },
+        {
+          "prompt": "Brat ima trideset godine.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Brat ima trideset godina."
+          ]
+        },
+        {
+          "prompt": "Sada je dva sati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sada je dva sata."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ u školu u osam sati.",
+          "cue": "ići",
+          "accepted": [
+            "idem"
+          ]
+        },
+        {
+          "text": "Ti ___ u dućan u devet sati.",
+          "cue": "ići",
+          "accepted": [
+            "ideš"
+          ]
+        },
+        {
+          "text": "Brat ___ u osam sati.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolazi"
+          ]
+        },
+        {
+          "text": "Mi ___ u banci u devet sati.",
+          "cue": "raditi",
+          "accepted": [
+            "radimo"
+          ]
+        },
+        {
+          "text": "Vi ___ u pola osam.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolazite"
+          ]
+        },
+        {
+          "text": "Djeca ___ u školu u osam sati.",
+          "cue": "ići",
+          "accepted": [
+            "idu"
+          ]
+        },
+        {
+          "text": "Majka ___ trideset tri godine.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Ja ___ šest eura.",
+          "cue": "imati",
+          "accepted": [
+            "imam"
+          ]
+        },
+        {
+          "text": "Ti ___ dvadeset eura.",
+          "cue": "imati",
+          "accepted": [
+            "imaš"
+          ]
+        },
+        {
+          "text": "Mi ___ sto eura.",
+          "cue": "imati",
+          "accepted": [
+            "imamo"
+          ]
+        },
+        {
+          "text": "Oni ___ petnaest eura.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Navečer ja ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitam"
+          ]
+        },
+        {
+          "text": "Ujutro ti ___ u banci.",
+          "cue": "raditi",
+          "accepted": [
+            "radiš"
+          ]
+        },
+        {
+          "text": "Djeca ___ u školu u devet sati.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolaze"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "шість",
+          "answer": "šest"
+        },
+        {
+          "prompt": "вісім",
+          "answer": "osam"
+        },
+        {
+          "prompt": "дванадцять",
+          "answer": "dvanaest"
+        },
+        {
+          "prompt": "п'ятнадцять",
+          "answer": "petnaest"
+        },
+        {
+          "prompt": "двадцять",
+          "answer": "dvadeset"
+        },
+        {
+          "prompt": "тридцять",
+          "answer": "trideset"
+        },
+        {
+          "prompt": "сорок",
+          "answer": "četrdeset"
+        },
+        {
+          "prompt": "шістдесят",
+          "answer": "šezdeset"
+        },
+        {
+          "prompt": "вісімдесят",
+          "answer": "osamdeset"
+        },
+        {
+          "prompt": "дев'яносто",
+          "answer": "devedeset"
+        },
+        {
+          "prompt": "сто",
+          "answer": "sto"
+        },
+        {
+          "prompt": "година (одиниця часу)",
+          "answer": "sat"
+        },
+        {
+          "prompt": "зараз",
+          "answer": "sada"
+        },
+        {
+          "prompt": "пів",
+          "answer": "pola"
+        },
+        {
+          "prompt": "вранці",
+          "answer": "ujutro"
+        },
+        {
+          "prompt": "ввечері",
+          "answer": "navečer"
+        }
+      ],
+      "extra": [
+        "sedam",
+        "devet"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "numeral",
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

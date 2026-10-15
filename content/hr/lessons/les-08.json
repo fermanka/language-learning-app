@@ -1,0 +1,1266 @@
+{
+  "id": "hr-les-08",
+  "lang": "hr",
+  "order": 8,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-5b23d24a",
+      "type": "noun",
+      "lemma": "obitelj",
+      "gender": "ž.",
+      "gen_sg": "obitelji",
+      "plural": [
+        "obitelji"
+      ],
+      "ua": "родина, сім'я",
+      "audio": "hr-obitelj.mp3",
+      "explain_ua": "(Naša obitelj je u stanu = наша родина в квартирі). Жіночий рід без закінчення -a (тип riječ): obitelj закінчується на приголосний, родовий obitelji, множина obitelji. Знахідний дорівнює називному: Volim našu obitelj. Не плутай з rodbina (родичі), див. картку rodbina",
+      "check": "Родовий і множину obitelji (тип з нульовим закінченням) з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-12a00d9f",
+      "type": "noun",
+      "lemma": "otac",
+      "gender": "m.",
+      "gen_sg": "oca",
+      "plural": [
+        "očevi"
+      ],
+      "ua": "батько",
+      "audio": "hr-otac.mp3",
+      "forms": [
+        "oca",
+        "ocu"
+      ],
+      "explain_ua": "(Dajem knjigu ocu = даю книжку батькові). Нестійке -a-, як у posao: otac, oca, ocu. Живе чоловічого роду, тому знахідний дорівнює родовому: Vidim oca. Множина očevi",
+      "check": "Форми oca, ocu, očevi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-a6a7e2ed",
+      "type": "noun",
+      "lemma": "sestra",
+      "gender": "ž.",
+      "gen_sg": "sestre",
+      "plural": [
+        "sestre"
+      ],
+      "ua": "сестра",
+      "audio": "hr-sestra.mp3",
+      "forms": [
+        "sestru",
+        "sestri"
+      ],
+      "explain_ua": "(Dajem olovku sestri = даю олівець сестрі). Знахідний sestru, давальний sestri. Давальний однини має ті самі закінчення, що й місцевий (-i)"
+    },
+    {
+      "id": "hr-f2bb34af",
+      "type": "noun",
+      "lemma": "muž",
+      "gender": "m.",
+      "gen_sg": "muža",
+      "plural": [
+        "muževi"
+      ],
+      "ua": "чоловік (у шлюбі)",
+      "audio": "hr-muz.mp3",
+      "forms": [
+        "mužu"
+      ],
+      "explain_ua": "(Moj muž čita knjigu = мій чоловік читає книжку). Muž це чоловік у шлюбі, а не будь-який чоловік. Літера ž з гачком. Давальний mužu. Множина muževi",
+      "check": "Форми mužu і muževi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-6d47a0ea",
+      "type": "noun",
+      "lemma": "baka",
+      "gender": "ž.",
+      "gen_sg": "bake",
+      "plural": [
+        "bake"
+      ],
+      "ua": "бабуся",
+      "audio": "hr-baka.mp3",
+      "forms": [
+        "baki"
+      ],
+      "explain_ua": "(Dajem knjigu baki = даю книжку бабусі). Давальний baki, а в majka буде majci: слова на -ka зазвичай змінюють k на c (majka, majci), а baka це звичайна форма baki без цієї зміни.",
+      "check": "Давальний baki (без зміни k на c, на відміну від majci) з мого знання, у джерелах не знайдено; перевір у словнику, чи не baci."
+    },
+    {
+      "id": "hr-83d8e8b0",
+      "type": "noun",
+      "lemma": "učenik",
+      "gender": "m.",
+      "gen_sg": "učenika",
+      "plural": [
+        "učenici"
+      ],
+      "ua": "учень",
+      "audio": "hr-ucenik.mp3",
+      "forms": [
+        "učeniku"
+      ],
+      "explain_ua": "(Učiteljica daje zadaću učeniku = вчителька дає завдання учневі). Живе чоловічого роду. Давальний učeniku. У множині k змінюється на c: učenici. Для учениці є окреме слово, тут його не вчимо"
+    },
+    {
+      "id": "hr-27380f5a",
+      "type": "noun",
+      "lemma": "olovka",
+      "gender": "ž.",
+      "gen_sg": "olovke",
+      "plural": [
+        "olovke"
+      ],
+      "ua": "олівець",
+      "audio": "hr-olovka.mp3",
+      "forms": [
+        "olovku"
+      ],
+      "explain_ua": "(Dajem olovku sestri = даю олівець сестрі). Жіночий рід, а український олівець чоловічий. Знахідний olovku. Це шкільний олівець, не ручка"
+    },
+    {
+      "id": "hr-81308e27",
+      "type": "noun",
+      "lemma": "zadaća",
+      "gender": "ž.",
+      "gen_sg": "zadaće",
+      "plural": [
+        "zadaće"
+      ],
+      "ua": "домашнє завдання",
+      "audio": "hr-zadaca.mp3",
+      "forms": [
+        "zadaću"
+      ],
+      "explain_ua": "(Učiteljica daje zadaću učeniku = вчителька дає учневі домашнє завдання). Zadaća це домашнє завдання. Літера ć з рискою. Знахідний zadaću",
+      "check": "Значення zadaća як «домашнє завдання» і форми zadaću, zadaće з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-68810d8b",
+      "type": "false_friend",
+      "lemma": "rodbina",
+      "gender": "ž.",
+      "gen_sg": "rodbine",
+      "ua": "родичі, рідня",
+      "uk_lookalike": "родина",
+      "uk_means": "родина (сім'я)",
+      "audio": "hr-rodbina.mp3",
+      "explain_ua": "(Moja rodbina je u gradu = мої родичі в місті). Хорватське rodbina це родичі, рідня (бабусі, дядьки, кузини), а українська родина це сім'я. Сім'я хорватською obitelj. У множині не вживається. Це лажний друг з мого переліку перевірених"
+    },
+    {
+      "id": "hr-18be3c6a",
+      "type": "adjective",
+      "lemma": "moj",
+      "fem": "moja",
+      "neut": "moje",
+      "ua": "мій",
+      "audio": "hr-moj.mp3",
+      "forms": [
+        "moja",
+        "moje",
+        "moju",
+        "mog"
+      ],
+      "explain_ua": "(Moj brat, moja sestra, moje dijete). Притяжний займенник змінюється за родом: moj (ч.), moja (ж.), moje (с.). Знахідний ж. р. moju, для живого ч. р. mog (також moga). Українське мій, моя, моє дає опору: близьке за звучанням",
+      "check": "Форми moju, mog (moga) з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-8cec4cf3",
+      "type": "adjective",
+      "lemma": "tvoj",
+      "fem": "tvoja",
+      "neut": "tvoje",
+      "ua": "твій",
+      "audio": "hr-tvoj.mp3",
+      "forms": [
+        "tvoja",
+        "tvoje"
+      ],
+      "explain_ua": "(Tvoja baka je ovdje = твоя бабуся тут). Змінюється так само, як moj: tvoj, tvoja, tvoje. Українське твій, твоя, твоє"
+    },
+    {
+      "id": "hr-5c5833b3",
+      "type": "adjective",
+      "lemma": "naš",
+      "fem": "naša",
+      "neut": "naše",
+      "ua": "наш",
+      "audio": "hr-nas.mp3",
+      "forms": [
+        "naša",
+        "naše",
+        "našu"
+      ],
+      "explain_ua": "(Naša obitelj je ovdje = наша родина тут). Naš, naša, naše. Знахідний ж. р. našu. Українське наш, наша, наше"
+    },
+    {
+      "id": "hr-142d1252",
+      "type": "adjective",
+      "lemma": "vaš",
+      "fem": "vaša",
+      "neut": "vaše",
+      "ua": "ваш",
+      "audio": "hr-vas.mp3",
+      "forms": [
+        "vaša",
+        "vaše"
+      ],
+      "explain_ua": "(Vaša učiteljica je ovdje = ваша вчителька тут). Vaš, vaša, vaše. Українське ваш, ваша, ваше"
+    },
+    {
+      "id": "hr-5f151acb",
+      "type": "function",
+      "lemma": "tko",
+      "ua": "хто",
+      "audio": "hr-tko.mp3",
+      "explain_ua": "(Tko je ovdje? = хто тут?). Tko це «хто». Звичайно питає про людей. Пиши tko, а не «kto». Після tko іде дієслово в однині: Tko je ovdje?"
+    },
+    {
+      "id": "hr-1a8bd88b",
+      "type": "function",
+      "lemma": "komu",
+      "ua": "кому",
+      "audio": "hr-komu.mp3",
+      "forms": [
+        "bratu",
+        "sinu",
+        "majci",
+        "učiteljici",
+        "djetetu"
+      ],
+      "explain_ua": "(Komu daješ olovku? = кому ти даєш олівець?). Komu це давальний від tko. У forms я записую давальні однини слів з минулих уроків: bratu (brat), sinu (sin), majci (majka, k змінюється на c), učiteljici (učiteljica), djetetu (dijete)",
+      "check": "Давальні bratu, sinu, majci, učiteljici, djetetu з мого знання правила про однакові закінчення місцевого й давального, повної перевірки немає."
+    },
+    {
+      "id": "hr-beff6dd7",
+      "type": "clitic",
+      "lemma": "mu",
+      "slot": "2",
+      "ua": "йому (давальний, коротка форма)",
+      "audio": "hr-mu.mp3",
+      "forms": [
+        "mi",
+        "ti",
+        "joj",
+        "nam",
+        "vam",
+        "im"
+      ],
+      "example_order": "Dajem mu zadaću.",
+      "explain_ua": "(Dajem mu zadaću = даю йому домашнє завдання). Давальний клітик: mi (мені), ti (тобі), mu (йому), joj (їй), nam (нам), vam (вам), im (їм). Слабкі слова на другому місці в реченні, одразу після першого слова або групи. Mi і ti співпадають зі словами «ми» і «ти» (називний), але тут значать «мені» і «тобі». Кілька клітиків разом ми вчитимемо за перевіреною таблицею, не зараз",
+      "check": "Форми mu, joj, nam, vam, im і той факт, що mi, ti давальні клітики, з мого знання; порядок кількох клітиків у джерелі не перевірено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Притяжні займенники: moj, moja, moje",
+      "summary_ua": "Moj, tvoj, naš, vaš змінюються за родом, як українські мій, твій, наш, ваш: moj brat, moja sestra, moje dijete. Опирайся на українську. Нове лише закінчення: ж. р. в знахідному -u (moju), живий ч. р. mog.",
+      "compare": [
+        {
+          "form": "moj / moja / moje",
+          "when_ua": "Рід слова вирішує: moj (ч.), moja (ж.), moje (с.).",
+          "examples": [
+            {
+              "text": "Moj brat je ovdje.",
+              "ua": "Мій брат тут.",
+              "audio": "hr-les08-rule-01.mp3"
+            },
+            {
+              "text": "Moja majka je ovdje.",
+              "ua": "Моя мама тут.",
+              "audio": "hr-les08-rule-02.mp3"
+            },
+            {
+              "text": "Moje dijete je ovdje.",
+              "ua": "Моя дитина тут.",
+              "audio": "hr-les08-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Dijete середнього роду, тому moje, а українська дитина жіночого, тож тут рід інший: moje dijete."
+        },
+        {
+          "form": "tvoj, naš, vaš",
+          "when_ua": "Те саме, що moj: tvoj / tvoja / tvoje, naš / naša / naše, vaš / vaša / vaše.",
+          "examples": [
+            {
+              "text": "Tvoja baka je ovdje.",
+              "ua": "Твоя бабуся тут.",
+              "audio": "hr-les08-rule-04.mp3"
+            },
+            {
+              "text": "Naša škola je ovdje.",
+              "ua": "Наша школа тут.",
+              "audio": "hr-les08-rule-05.mp3"
+            },
+            {
+              "text": "Vaš učenik je ovdje.",
+              "ua": "Ваш учень тут.",
+              "audio": "hr-les08-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Українські твій, наш, ваш майже збігаються з хорватськими за звучанням."
+        },
+        {
+          "form": "знахідний: moju, mog, našu",
+          "when_ua": "Жіночий на -a: -a стає -u (moja sestra, moju sestru). Живий чоловічий: mog oca. Неживе без змін.",
+          "examples": [
+            {
+              "text": "Vidim moju sestru.",
+              "ua": "Я бачу мою сестру.",
+              "audio": "hr-les08-rule-07.mp3"
+            },
+            {
+              "text": "Vidim mog oca.",
+              "ua": "Я бачу мого батька.",
+              "audio": "hr-les08-rule-08.mp3"
+            },
+            {
+              "text": "Volim našu obitelj.",
+              "ua": "Я люблю нашу родину.",
+              "audio": "hr-les08-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Знахідний тут як у Lekciji 4: живий чоловічий дорівнює родовому (mog oca), жіночий -u."
+        }
+      ],
+      "points_ua": [
+        "Рід слова визначає форму: moj otac, moja sestra, moje dijete.",
+        "Знахідний: ж. -u (moju), живий ч. mog, неживе без змін.",
+        "Українська мій, моя, моє допомагає: це майже безкоштовна перемога."
+      ]
+    },
+    {
+      "title_ua": "Давальний відмінок однини: ocu, sestri, učeniku",
+      "summary_ua": "Давальний (кому?) в однині має ті самі закінчення, що й місцевий: ч. і с. -u (ocu, učeniku), ж. -i (sestri, baki, majci). Українська має давальний (братові, сестрі), тому ти знаєш ідею. Нові лише хорватські закінчення.",
+      "compare": [
+        {
+          "form": "чоловічий і середній: -u",
+          "when_ua": "Otac, oca, ocu (a випадає). Učenik, učeniku. Muž, mužu.",
+          "examples": [
+            {
+              "text": "Dajem knjigu ocu.",
+              "ua": "Даю книжку батькові.",
+              "audio": "hr-les08-rule-10.mp3"
+            },
+            {
+              "text": "Dajem olovku učeniku.",
+              "ua": "Даю олівець учневі.",
+              "audio": "hr-les08-rule-11.mp3"
+            },
+            {
+              "text": "Kupujem knjigu mužu.",
+              "ua": "Купую книжку чоловікові.",
+              "audio": "hr-les08-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Український давальний «батькові» має -ові, хорватський ocu просто -u."
+        },
+        {
+          "form": "жіночий: -i",
+          "when_ua": "Sestra, sestri. Baka, baki. Majka, majci (k змінюється на c).",
+          "examples": [
+            {
+              "text": "Dajem olovku sestri.",
+              "ua": "Даю олівець сестрі.",
+              "audio": "hr-les08-rule-13.mp3"
+            },
+            {
+              "text": "Dajem knjigu baki.",
+              "ua": "Даю книжку бабусі.",
+              "audio": "hr-les08-rule-14.mp3"
+            },
+            {
+              "text": "Pišem majci.",
+              "ua": "Пишу мамі.",
+              "audio": "hr-les08-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Українське сестрі, бабусі, мамі теж закінчується на -і: тож це збігається."
+        },
+        {
+          "form": "питання komu?",
+          "when_ua": "Komu питає про одержувача: Komu daješ olovku?",
+          "examples": [
+            {
+              "text": "Komu daješ olovku?",
+              "ua": "Кому ти даєш олівець?",
+              "audio": "hr-les08-rule-16.mp3"
+            },
+            {
+              "text": "Komu piše učenik?",
+              "ua": "Кому пише учень?",
+              "audio": "hr-les08-rule-17.mp3"
+            },
+            {
+              "text": "Komu kupuješ knjigu?",
+              "ua": "Кому ти купуєш книжку?",
+              "audio": "hr-les08-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Komu стоїть на першому місці, а за ним дієслово. Це давальний від tko."
+        }
+      ],
+      "points_ua": [
+        "Давальний = закінчення місцевого: ч. і с. -u, ж. -i. Нове лише в словах із нестійким a (otac, ocu) і в k → c (majka, majci).",
+        "Дієслова з давальним: davati (dajem), kupovati, pisati: даю комусь, купую комусь, пишу комусь.",
+        "Школа це добре місце для цього: Učiteljica daje zadaću učeniku."
+      ]
+    },
+    {
+      "title_ua": "Давальні клітики: mi, ti, mu, joj, nam, vam, im",
+      "summary_ua": "Замість повного імені кажуть короткий клітик: Dajem mu zadaću. Клітики mi, ti, mu, joj, nam, vam, im стоять на другому місці в реченні. Mi і ti тут «мені» і «тобі», не «ми» і «ти». Російське мне, тебе, ему, ей, нам, вам, им тут допомагає.",
+      "compare": [
+        {
+          "form": "mi, ti (мені, тобі)",
+          "when_ua": "Mi і ti на другому місці: Dajte mi, Dajem ti. Не плутай з mi (ми) і ti (ти) в називному.",
+          "examples": [
+            {
+              "text": "Dajte mi olovku.",
+              "ua": "Дайте мені олівець.",
+              "audio": "hr-les08-rule-19.mp3"
+            },
+            {
+              "text": "Dajem ti knjigu.",
+              "ua": "Даю тобі книжку.",
+              "audio": "hr-les08-rule-20.mp3"
+            },
+            {
+              "text": "Majka mi daje kruh.",
+              "ua": "Мама дає мені хліб.",
+              "audio": "hr-les08-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Третє речення: клітик mi одразу після першого слова (Majka mi daje). Це правило другого місця."
+        },
+        {
+          "form": "mu, joj (йому, їй)",
+          "when_ua": "Mu для ч. і с., joj для ж.: Dajem mu zadaću, Dajem joj olovku.",
+          "examples": [
+            {
+              "text": "Dajem mu zadaću.",
+              "ua": "Даю йому домашнє завдання.",
+              "audio": "hr-les08-rule-22.mp3"
+            },
+            {
+              "text": "Dajem joj olovku.",
+              "ua": "Даю їй олівець.",
+              "audio": "hr-les08-rule-23.mp3"
+            },
+            {
+              "text": "Kupujem joj knjigu.",
+              "ua": "Купую їй книжку.",
+              "audio": "hr-les08-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська (йому, їй) і російська (ему, ей). Клітик стоїть після дієслова на першому місці."
+        },
+        {
+          "form": "nam, vam, im (нам, вам, їм)",
+          "when_ua": "Множина: nam, vam, im. Vam це і «вам» до багатьох, і ввічливе до одного.",
+          "examples": [
+            {
+              "text": "Učiteljica nam daje zadaću.",
+              "ua": "Вчителька дає нам завдання.",
+              "audio": "hr-les08-rule-25.mp3"
+            },
+            {
+              "text": "Dajem vam olovku.",
+              "ua": "Даю вам олівець.",
+              "audio": "hr-les08-rule-26.mp3"
+            },
+            {
+              "text": "Dajem im knjigu.",
+              "ua": "Даю їм книжку.",
+              "audio": "hr-les08-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Nam, vam, im схожі на російські нам, вам, им. Кілька клітиків разом я поясню пізніше за перевіреною таблицею."
+        }
+      ],
+      "points_ua": [
+        "Клітик завжди на другому місці: Majka mi daje, Dajem mu, Učiteljica nam daje.",
+        "Клітик не можна ставити першим словом речення і не в кінці.",
+        "Сім форм: mi, ti, mu, joj, nam, vam, im."
+      ]
+    },
+    {
+      "title_ua": "Obitelj і rodbina: родина і родичі",
+      "summary_ua": "Obitelj це сім'я (батьки й діти), а rodbina це родичі (бабусі, дядьки, двоюрідні). Українська родина значить «сім'я», тож хорватська rodbina її не передає. Це лажний друг.",
+      "compare": [
+        {
+          "form": "obitelj проти rodbina",
+          "when_ua": "Obitelj: мої батьки, брат, сестра. Rodbina: решта родичів.",
+          "examples": [
+            {
+              "text": "Naša obitelj je u stanu.",
+              "ua": "Наша родина в квартирі.",
+              "audio": "hr-les08-rule-28.mp3"
+            },
+            {
+              "text": "Moja rodbina je u gradu.",
+              "ua": "Мої родичі в місті.",
+              "audio": "hr-les08-rule-29.mp3"
+            },
+            {
+              "text": "Tko je ovdje?",
+              "ua": "Хто тут?",
+              "audio": "hr-les08-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Українське «родина» значить «сім'я»: хорватською obitelj, а не rodbina."
+        }
+      ],
+      "points_ua": [
+        "Сім'я: obitelj. Родичі: rodbina. Не перекладай родину за схожістю.",
+        "Це слово з мого переліку перевірених лажних друзів."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Moj otac je ovdje.",
+      "ua": "Мій батько тут.",
+      "audio": "hr-les08-example-01.mp3"
+    },
+    {
+      "text": "Moja sestra je učiteljica.",
+      "ua": "Моя сестра вчителька.",
+      "audio": "hr-les08-example-02.mp3"
+    },
+    {
+      "text": "Moje dijete je u školi.",
+      "ua": "Моя дитина в школі.",
+      "audio": "hr-les08-example-03.mp3"
+    },
+    {
+      "text": "Naša obitelj je u gradu.",
+      "ua": "Наша родина в місті.",
+      "audio": "hr-les08-example-04.mp3"
+    },
+    {
+      "text": "Tko je ovo?",
+      "ua": "Хто це?",
+      "audio": "hr-les08-example-05.mp3"
+    },
+    {
+      "text": "Vaša učiteljica je ovdje.",
+      "ua": "Ваша вчителька тут.",
+      "audio": "hr-les08-example-06.mp3"
+    },
+    {
+      "text": "Učiteljica daje zadaću učeniku.",
+      "ua": "Вчителька дає учневі завдання.",
+      "audio": "hr-les08-example-07.mp3"
+    },
+    {
+      "text": "Dajem olovku sestri.",
+      "ua": "Даю олівець сестрі.",
+      "audio": "hr-les08-example-08.mp3"
+    },
+    {
+      "text": "Majka daje knjigu sinu.",
+      "ua": "Мама дає книжку синові.",
+      "audio": "hr-les08-example-09.mp3"
+    },
+    {
+      "text": "Kupujem knjigu mužu.",
+      "ua": "Купую книжку чоловікові.",
+      "audio": "hr-les08-example-10.mp3"
+    },
+    {
+      "text": "Pišem majci.",
+      "ua": "Пишу мамі.",
+      "audio": "hr-les08-example-11.mp3"
+    },
+    {
+      "text": "Komu daješ olovku?",
+      "ua": "Кому ти даєш олівець?",
+      "audio": "hr-les08-example-12.mp3"
+    },
+    {
+      "text": "Dajem joj olovku.",
+      "ua": "Даю їй олівець.",
+      "audio": "hr-les08-example-13.mp3"
+    },
+    {
+      "text": "Dajem mu zadaću.",
+      "ua": "Даю йому завдання.",
+      "audio": "hr-les08-example-14.mp3"
+    },
+    {
+      "text": "Učenik daje zadaću učiteljici.",
+      "ua": "Учень дає завдання вчительці.",
+      "audio": "hr-les08-example-15.mp3"
+    },
+    {
+      "text": "Baka daje knjigu djetetu.",
+      "ua": "Бабуся дає книжку дитині.",
+      "audio": "hr-les08-example-16.mp3"
+    },
+    {
+      "text": "Moj muž čita knjigu.",
+      "ua": "Мій чоловік читає книжку.",
+      "audio": "hr-les08-example-17.mp3"
+    },
+    {
+      "text": "Učiteljica nam daje zadaću.",
+      "ua": "Вчителька дає нам завдання.",
+      "audio": "hr-les08-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Moja obitelj",
+    "title_ua": "Моя родина",
+    "highlight": [
+      "hr-5b23d24a",
+      "hr-12a00d9f",
+      "hr-6d47a0ea",
+      "hr-83d8e8b0",
+      "hr-27380f5a",
+      "hr-81308e27",
+      "hr-18be3c6a",
+      "hr-5c5833b3",
+      "hr-142d1252",
+      "hr-1a8bd88b",
+      "hr-beff6dd7"
+    ],
+    "sentences": [
+      {
+        "text": "Ovo je moja obitelj.",
+        "ua": "Це моя родина.",
+        "audio": "hr-les08-reading-01.mp3"
+      },
+      {
+        "text": "Moj otac radi u banci.",
+        "ua": "Мій батько працює в банку.",
+        "audio": "hr-les08-reading-02.mp3"
+      },
+      {
+        "text": "Moja majka je učiteljica.",
+        "ua": "Моя мама вчителька.",
+        "audio": "hr-les08-reading-03.mp3"
+      },
+      {
+        "text": "Moj brat je učenik.",
+        "ua": "Мій брат учень.",
+        "audio": "hr-les08-reading-04.mp3"
+      },
+      {
+        "text": "Brat daje zadaću učiteljici.",
+        "ua": "Брат дає завдання вчительці.",
+        "audio": "hr-les08-reading-05.mp3"
+      },
+      {
+        "text": "Učiteljica mu daje olovku.",
+        "ua": "Вчителька дає йому олівець.",
+        "audio": "hr-les08-reading-06.mp3"
+      },
+      {
+        "text": "Baka daje knjigu djetetu.",
+        "ua": "Бабуся дає книжку дитині.",
+        "audio": "hr-les08-reading-07.mp3"
+      },
+      {
+        "text": "Naša obitelj je u stanu.",
+        "ua": "Наша родина в квартирі.",
+        "audio": "hr-les08-reading-08.mp3"
+      },
+      {
+        "text": "Vaša obitelj je ovdje.",
+        "ua": "Ваша родина тут.",
+        "audio": "hr-les08-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій батько тут.",
+          "accepted": [
+            "Moj otac je ovdje."
+          ]
+        },
+        {
+          "prompt": "Моя сестра вчителька.",
+          "accepted": [
+            "Moja sestra je učiteljica."
+          ]
+        },
+        {
+          "prompt": "Моя дитина в школі.",
+          "accepted": [
+            "Moje dijete je u školi."
+          ]
+        },
+        {
+          "prompt": "Наша родина в місті.",
+          "accepted": [
+            "Naša obitelj je u gradu."
+          ]
+        },
+        {
+          "prompt": "Хто це?",
+          "accepted": [
+            "Tko je ovo?"
+          ]
+        },
+        {
+          "prompt": "Ваша вчителька тут.",
+          "accepted": [
+            "Vaša učiteljica je ovdje."
+          ]
+        },
+        {
+          "prompt": "Я бачу мою сестру.",
+          "accepted": [
+            "Vidim moju sestru.",
+            "Ja vidim moju sestru."
+          ]
+        },
+        {
+          "prompt": "Я бачу мого батька.",
+          "accepted": [
+            "Vidim mog oca.",
+            "Ja vidim mog oca."
+          ]
+        },
+        {
+          "prompt": "Вчителька дає учневі завдання.",
+          "accepted": [
+            "Učiteljica daje zadaću učeniku."
+          ]
+        },
+        {
+          "prompt": "Я даю олівець сестрі.",
+          "accepted": [
+            "Dajem olovku sestri.",
+            "Ja dajem olovku sestri."
+          ]
+        },
+        {
+          "prompt": "Мама дає книжку синові.",
+          "accepted": [
+            "Majka daje knjigu sinu."
+          ]
+        },
+        {
+          "prompt": "Я купую книжку чоловікові.",
+          "accepted": [
+            "Kupujem knjigu mužu.",
+            "Ja kupujem knjigu mužu."
+          ]
+        },
+        {
+          "prompt": "Кому ти даєш олівець?",
+          "accepted": [
+            "Komu daješ olovku?",
+            "Komu ti daješ olovku?"
+          ]
+        },
+        {
+          "prompt": "Я даю їй олівець.",
+          "accepted": [
+            "Dajem joj olovku.",
+            "Ja joj dajem olovku."
+          ]
+        },
+        {
+          "prompt": "Вчителька дає нам завдання.",
+          "accepted": [
+            "Učiteljica nam daje zadaću."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "Moj",
+        "Moja",
+        "Moje",
+        "Naša",
+        "Vaš",
+        "moju",
+        "mog",
+        "ocu",
+        "sestri",
+        "baki",
+        "učeniku",
+        "mu",
+        "joj",
+        "nam",
+        "im",
+        "Komu"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ otac je ovdje.",
+          "hint": "Мій батько тут.",
+          "accepted": [
+            [
+              "Moj"
+            ]
+          ]
+        },
+        {
+          "text": "___ sestra je ovdje.",
+          "hint": "Моя сестра тут.",
+          "accepted": [
+            [
+              "Moja"
+            ]
+          ]
+        },
+        {
+          "text": "___ dijete je ovdje.",
+          "hint": "Моя дитина тут.",
+          "accepted": [
+            [
+              "Moje"
+            ]
+          ]
+        },
+        {
+          "text": "___ obitelj je ovdje.",
+          "hint": "Наша родина тут.",
+          "accepted": [
+            [
+              "Naša"
+            ]
+          ]
+        },
+        {
+          "text": "___ učenik je ovdje.",
+          "hint": "Ваш учень тут.",
+          "accepted": [
+            [
+              "Vaš"
+            ]
+          ]
+        },
+        {
+          "text": "Vidim ___ sestru.",
+          "hint": "Я бачу мою сестру.",
+          "accepted": [
+            [
+              "moju"
+            ]
+          ]
+        },
+        {
+          "text": "Vidim ___ oca.",
+          "hint": "Я бачу мого батька.",
+          "accepted": [
+            [
+              "mog"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem knjigu ___.",
+          "hint": "Даю книжку батькові.",
+          "accepted": [
+            [
+              "ocu"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem olovku ___.",
+          "hint": "Даю олівець сестрі.",
+          "accepted": [
+            [
+              "sestri"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem knjigu ___.",
+          "hint": "Даю книжку бабусі.",
+          "accepted": [
+            [
+              "baki"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem zadaću ___.",
+          "hint": "Даю завдання учневі.",
+          "accepted": [
+            [
+              "učeniku"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem ___ zadaću.",
+          "hint": "Даю йому завдання.",
+          "accepted": [
+            [
+              "mu"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem ___ olovku.",
+          "hint": "Даю їй олівець.",
+          "accepted": [
+            [
+              "joj"
+            ]
+          ]
+        },
+        {
+          "text": "Učiteljica ___ daje zadaću.",
+          "hint": "Вчителька дає нам завдання.",
+          "accepted": [
+            [
+              "nam"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem ___ knjigu.",
+          "hint": "Даю їм книжку.",
+          "accepted": [
+            [
+              "im"
+            ]
+          ]
+        },
+        {
+          "text": "___ daješ olovku?",
+          "hint": "Кому ти даєш олівець?",
+          "accepted": [
+            [
+              "Komu"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: давальний, клітик, притяжний або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Dajem olovku.",
+          "cue": "-> кому? sestra",
+          "accepted": [
+            "Dajem olovku sestri."
+          ]
+        },
+        {
+          "prompt": "Dajem knjigu.",
+          "cue": "-> кому? otac",
+          "accepted": [
+            "Dajem knjigu ocu."
+          ]
+        },
+        {
+          "prompt": "Dajem zadaću.",
+          "cue": "-> кому? učenik",
+          "accepted": [
+            "Dajem zadaću učeniku."
+          ]
+        },
+        {
+          "prompt": "Kupujem knjigu.",
+          "cue": "-> кому? muž",
+          "accepted": [
+            "Kupujem knjigu mužu."
+          ]
+        },
+        {
+          "prompt": "Dajem olovku sestri.",
+          "cue": "-> заміни на клітик (joj)",
+          "accepted": [
+            "Dajem joj olovku."
+          ]
+        },
+        {
+          "prompt": "Dajem zadaću učeniku.",
+          "cue": "-> заміни на клітик (mu)",
+          "accepted": [
+            "Dajem mu zadaću."
+          ]
+        },
+        {
+          "prompt": "Dajem knjigu baki.",
+          "cue": "-> заміни на клітик (joj)",
+          "accepted": [
+            "Dajem joj knjigu."
+          ]
+        },
+        {
+          "prompt": "Majka daje knjigu.",
+          "cue": "-> мені (mi)",
+          "accepted": [
+            "Majka mi daje knjigu."
+          ]
+        },
+        {
+          "prompt": "Učiteljica daje zadaću.",
+          "cue": "-> нам (nam)",
+          "accepted": [
+            "Učiteljica nam daje zadaću."
+          ]
+        },
+        {
+          "prompt": "Otac je ovdje.",
+          "cue": "-> мій (moj)",
+          "accepted": [
+            "Moj otac je ovdje."
+          ]
+        },
+        {
+          "prompt": "Sestra je ovdje.",
+          "cue": "-> моя (moja)",
+          "accepted": [
+            "Moja sestra je ovdje."
+          ]
+        },
+        {
+          "prompt": "Dijete je ovdje.",
+          "cue": "-> наше (naše)",
+          "accepted": [
+            "Naše dijete je ovdje."
+          ]
+        },
+        {
+          "prompt": "Vidim sestru.",
+          "cue": "-> моя (moja)",
+          "accepted": [
+            "Vidim moju sestru."
+          ]
+        },
+        {
+          "prompt": "Dajem olovku sestra.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajem olovku sestri."
+          ]
+        },
+        {
+          "prompt": "Dajem knjigu otac.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajem knjigu ocu."
+          ]
+        },
+        {
+          "prompt": "Moj sestra je ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja sestra je ovdje."
+          ]
+        },
+        {
+          "prompt": "Vidim moja sestru.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim moju sestru."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ olovku sestri.",
+          "cue": "davati",
+          "accepted": [
+            "dajem"
+          ]
+        },
+        {
+          "text": "Majka ___ knjigu sinu.",
+          "cue": "davati",
+          "accepted": [
+            "daje"
+          ]
+        },
+        {
+          "text": "Mi ___ zadaću učeniku.",
+          "cue": "davati",
+          "accepted": [
+            "dajemo"
+          ]
+        },
+        {
+          "text": "Oni ___ knjigu baki.",
+          "cue": "davati",
+          "accepted": [
+            "daju"
+          ]
+        },
+        {
+          "text": "Ti ___ olovku ocu.",
+          "cue": "davati",
+          "accepted": [
+            "daješ"
+          ]
+        },
+        {
+          "text": "Vi ___ zadaću učiteljici.",
+          "cue": "davati",
+          "accepted": [
+            "dajete"
+          ]
+        },
+        {
+          "text": "Ja ___ knjigu mužu.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujem"
+          ]
+        },
+        {
+          "text": "Majka ___ olovku sestri.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuje"
+          ]
+        },
+        {
+          "text": "Mi ___ knjigu baki.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        },
+        {
+          "text": "Ja ___ majci.",
+          "cue": "pisati",
+          "accepted": [
+            "pišem"
+          ]
+        },
+        {
+          "text": "Ti ___ majci.",
+          "cue": "pisati",
+          "accepted": [
+            "pišeš"
+          ]
+        },
+        {
+          "text": "Sin ___ majci.",
+          "cue": "pisati",
+          "accepted": [
+            "piše"
+          ]
+        },
+        {
+          "text": "Mi ___ majci.",
+          "cue": "pisati",
+          "accepted": [
+            "pišemo"
+          ]
+        },
+        {
+          "text": "Djeca ___ učiteljici.",
+          "cue": "pisati",
+          "accepted": [
+            "pišu"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "родина (сім'я)",
+          "answer": "obitelj"
+        },
+        {
+          "prompt": "родичі, рідня",
+          "answer": "rodbina"
+        },
+        {
+          "prompt": "батько",
+          "answer": "otac"
+        },
+        {
+          "prompt": "сестра",
+          "answer": "sestra"
+        },
+        {
+          "prompt": "чоловік (у шлюбі)",
+          "answer": "muž"
+        },
+        {
+          "prompt": "бабуся",
+          "answer": "baka"
+        },
+        {
+          "prompt": "учень",
+          "answer": "učenik"
+        },
+        {
+          "prompt": "олівець",
+          "answer": "olovka"
+        },
+        {
+          "prompt": "домашнє завдання",
+          "answer": "zadaća"
+        },
+        {
+          "prompt": "мій",
+          "answer": "moj"
+        },
+        {
+          "prompt": "твій",
+          "answer": "tvoj"
+        },
+        {
+          "prompt": "наш",
+          "answer": "naš"
+        },
+        {
+          "prompt": "ваш",
+          "answer": "vaš"
+        },
+        {
+          "prompt": "хто",
+          "answer": "tko"
+        },
+        {
+          "prompt": "кому",
+          "answer": "komu"
+        }
+      ],
+      "extra": [
+        "brat",
+        "sin"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 15,
+      "note_types": [
+        "noun",
+        "function",
+        "false_friend",
+        "adjective"
+      ]
+    }
+  ]
+}
