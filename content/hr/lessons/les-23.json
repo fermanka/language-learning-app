@@ -1,0 +1,1168 @@
+{
+  "id": "hr-les-23",
+  "lang": "hr",
+  "order": 23,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "me",
+    "mi",
+    "li",
+    "vas",
+    "molim"
+  ],
+  "notes": [
+    {
+      "id": "hr-3c259dc6",
+      "type": "noun",
+      "lemma": "lijek",
+      "gender": "m.",
+      "gen_sg": "lijeka",
+      "plural": [
+        "lijekovi"
+      ],
+      "ua": "ліки (один препарат)",
+      "audio": "hr-lijek.mp3",
+      "forms": [
+        "lijeka"
+      ],
+      "explain_ua": "(Uzmite lijek = візьміть ліки). Lijek це один препарат, множина lijekovi. Українські «ліки» вже множина, тому не плутай: хорватське lijek (один), lijekovi (кілька). Неживе чоловічого роду: знахідний lijek без змін",
+      "check": "Форми lijeka, lijekovi з мого знання за правилом -ov-; у джерелах цього уроку слова немає."
+    },
+    {
+      "id": "hr-601f5759",
+      "type": "noun",
+      "lemma": "recept",
+      "gender": "m.",
+      "gen_sg": "recepta",
+      "plural": [
+        "recepti"
+      ],
+      "ua": "рецепт (на ліки)",
+      "audio": "hr-recept.mp3",
+      "forms": [
+        "recepta"
+      ],
+      "explain_ua": "(Imam recept = маю рецепт). Неживе чоловічого роду. Українське рецепт, російське рецепт: тут збігаються й значення «на ліки», і «кулінарний»",
+      "check": "Форми recepta, recepti з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-595a7ebd",
+      "type": "noun",
+      "lemma": "ljekarna",
+      "gender": "ž.",
+      "gen_sg": "ljekarne",
+      "plural": [
+        "ljekarne"
+      ],
+      "ua": "аптека",
+      "audio": "hr-ljekarna.mp3",
+      "forms": [
+        "ljekarnu",
+        "ljekarni"
+      ],
+      "explain_ua": "(Idem u ljekarnu = йду в аптеку). У хорватській стандартній мові аптека це ljekarna. Слово apoteka ти почуєш частіше в сербській і боснійській, його я не вчу. Жіночий рід на -a: ljekarna, ljekarne, ljekarnu",
+      "check": "Слово ljekarna як хорватський стандарт і форми за зразком škola з мого знання; apoteka як нестандартне в Хорватії варто перевірити в словнику."
+    },
+    {
+      "id": "hr-099d9b04",
+      "type": "noun",
+      "lemma": "tableta",
+      "gender": "ž.",
+      "gen_sg": "tablete",
+      "plural": [
+        "tablete"
+      ],
+      "ua": "таблетка",
+      "audio": "hr-tableta.mp3",
+      "forms": [
+        "tabletu"
+      ],
+      "explain_ua": "(Uzmite tabletu = візьміть таблетку). Жіночий рід на -a: tableta, tablete, tabletu. Українське таблетка, російське таблетка: хорватське tableta тут коротше",
+      "check": "Форми tablete, tabletu за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-666943e9",
+      "type": "noun",
+      "lemma": "glava",
+      "gender": "ž.",
+      "gen_sg": "glave",
+      "plural": [
+        "glave"
+      ],
+      "ua": "голова",
+      "audio": "hr-glava.mp3",
+      "explain_ua": "(Boli me glava = болить голова). Жіночий рід на -a. У підручнику Boli me glava: тут glava в називному, бо вона підмет",
+      "check": "Boli me glava підтверджено в підручнику; glave з мого знання.",
+      "forms": [
+        "glavu"
+      ]
+    },
+    {
+      "id": "hr-c6844965",
+      "type": "noun",
+      "lemma": "grlo",
+      "gender": "s.",
+      "gen_sg": "grla",
+      "plural": [
+        "grla"
+      ],
+      "ua": "горло",
+      "audio": "hr-grlo.mp3",
+      "explain_ua": "(Boli me grlo = болить горло). Середній рід на -o: grlo, grla. Українське горло, російське горло: збігається, тільки без першого о",
+      "check": "Форми grla з мого знання за зразком selo, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-00d2b67e",
+      "type": "noun",
+      "lemma": "zub",
+      "gender": "m.",
+      "gen_sg": "zuba",
+      "plural": [
+        "zubi"
+      ],
+      "ua": "зуб",
+      "audio": "hr-zub.mp3",
+      "explain_ua": "(Boli me zub = болить зуб). Неживе чоловічого роду: zub, zuba, zubi. Збігається з українським зуб",
+      "check": "Форми zuba, zubi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-bad011c3",
+      "type": "noun",
+      "lemma": "trbuh",
+      "gender": "m.",
+      "gen_sg": "trbuha",
+      "plural": [
+        "trbusi"
+      ],
+      "ua": "живіт",
+      "audio": "hr-trbuh.mp3",
+      "forms": [
+        "trbuha"
+      ],
+      "explain_ua": "(Boli me trbuh = болить живіт). Trbuh це живіт, а život це життя: ми вчили цю пастку (укр. живіт = хорв. trbuh). Множину trbusi (h > s) використовують рідко",
+      "check": "Значення trbuh, і форми trbuha, trbusi з мого знання, у джерелах цього уроку не підтверджено; множину краще перевірити в словнику."
+    },
+    {
+      "id": "hr-618daedc",
+      "type": "verb",
+      "lemma": "boljeti",
+      "aspect": "impf.",
+      "pres_1sg": "bolim",
+      "forms": [
+        "boli"
+      ],
+      "ua": "боліти",
+      "audio": "hr-boljeti.mp3",
+      "explain_ua": "(Boli me glava = болить голова). Тут майже завжди 3 особа: boli. Той, у кого болить, стоїть у знахідному: me (мене), te (тебе): Boli me glava. Українське «болить голова» має іншу конструкцію: «у мене болить голова»",
+      "check": "Форма bolim з мого знання (вживається рідко); boli me підтверджено в підручнику."
+    },
+    {
+      "id": "hr-8874c7be",
+      "type": "verb",
+      "lemma": "uzimati",
+      "aspect": "impf.",
+      "partner": "uzeti",
+      "pres_1sg": "uzimam",
+      "forms": [
+        "uzeti",
+        "uzmem",
+        "uzmeš",
+        "uzme"
+      ],
+      "ua": "брати, приймати (док. uzeti)",
+      "audio": "hr-uzimati.mp3",
+      "explain_ua": "(Uzmite lijek = візьміть ліки). Пара: uzimati (недок., uzimam) / uzeti (док., uzmem). Укр. «брати, взяти»: корінь не той, а uz- вживається як «взяти». Для ліків часто uzimati redovito, uzeti одноразово",
+      "check": "Пара uzimati / uzeti і форми з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-9d282cf3",
+      "type": "verb",
+      "lemma": "smjeti",
+      "aspect": "impf.",
+      "pres_1sg": "smijem",
+      "forms": [
+        "smijem"
+      ],
+      "ua": "сміти, мати дозвіл",
+      "audio": "hr-smjeti.mp3",
+      "explain_ua": "(Smijem li ići kući? = можна мені йти додому?). Smjeti означає «мати дозвіл»: smijem. Хорватське smijem li ближче до «можна мені?», ніж до «сміти». Відрізняється від moći (мати змогу)",
+      "check": "Smijem підтверджено в підручнику; вживання smijem li як питання про дозвіл з мого знання."
+    },
+    {
+      "id": "hr-31704f99",
+      "type": "function",
+      "lemma": "nemoj",
+      "ua": "не роби! (заперечний наказ + інфінітив)",
+      "audio": "hr-nemoj.mp3",
+      "forms": [
+        "nemojte",
+        "nemojmo"
+      ],
+      "explain_ua": "(Nemoj čekati! = не чекай!). Nemoj, nemojmo, nemojte + інфінітив: підручник (с. 121). Це найбезпечніший заперечний наказ: Nemojte čekati ovdje. Ne + наказ (Ne čekaj!) теж у підручнику (с. 120), але див. правило",
+      "check": "Форми nemoj, nemojmo, nemojte + інфінітив підтверджено в підручнику (с. 121); яка форма частіша у побуті, з мого знання."
+    },
+    {
+      "id": "hr-92287720",
+      "type": "function",
+      "lemma": "neka",
+      "ua": "нехай (3 особа: neka + теперішній)",
+      "audio": "hr-neka.mp3",
+      "forms": [
+        "čeka",
+        "radi",
+        "uzme"
+      ],
+      "explain_ua": "(Neka čeka ovdje = нехай чекає тут). Для 3 особи наказ це neka + теперішній: Neka radi! Neka rade! (с. 120). Українське нехай чекає: збігається майже дослівно",
+      "check": "Neka + теперішній підтверджено в підручнику (с. 120)."
+    },
+    {
+      "id": "hr-5fa4b03e",
+      "type": "function",
+      "lemma": "plati",
+      "ua": "наказові форми (ти, ми, ви)",
+      "audio": "hr-plati.mp3",
+      "forms": [
+        "platimo",
+        "platite",
+        "pitaj",
+        "pitajmo",
+        "pitajte",
+        "čekaj",
+        "čekajmo",
+        "čekajte",
+        "uzmi",
+        "uzmimo",
+        "uzmite",
+        "dođi",
+        "dođite",
+        "idi",
+        "idite",
+        "pomozi",
+        "pomozite",
+        "reci",
+        "recite",
+        "pij",
+        "pijte",
+        "pitati",
+        "liječniče"
+      ],
+      "explain_ua": "(Plati! Platimo! Platite! / Pitaj! Pitajmo! Pitajte!). Тут зібрані наказові форми: plati, platite; pitaj, pitajte; čekaj, čekajte; uzmi, uzmite; dođi, dođite; idi, idite; pomozi, pomozite; reci, recite; pij, pijte. Також клична форма liječniče (від liječnik, k стає č)",
+      "check": "Plati/platimo/platite і pitaj/pitajmo/pitajte підтверджено в підручнику (с. 120); uzmi, dođi, idi, pomozi, reci, pij та їхні форми з мого знання, у підручнику цих дієслів немає; liječniče з мого знання за зразком profesore (с. 121)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Наказ: ти і ви",
+      "summary_ua": "Наказ в хорватській має окремі форми для ти, ми і ви: plati, platimo, platite; pitaj, pitajmo, pitajte (підручник, с. 120). Закінчення -i / -imo / -ite або -j / -jmo / -jte, залежно від основи. Лікареві, незнайомій людині, старшим кажуть форму на -te (ви). Українська тут допомагає: -іть (чекайте), -и (чекай), тож закінчення -te і -ite близькі до «-іть».",
+      "compare": [
+        {
+          "form": "-i / -ite: plati, uzmi, dođi",
+          "when_ua": "Коли основа теперішнього закінчується на приголосний: plati, platite; uzmi, uzmite.",
+          "examples": [
+            {
+              "text": "Uzmite tabletu.",
+              "ua": "Візьміть таблетку.",
+              "audio": "hr-les23-rule-01.mp3"
+            },
+            {
+              "text": "Platite u ljekarni.",
+              "ua": "Платіть в аптеці.",
+              "audio": "hr-les23-rule-02.mp3"
+            },
+            {
+              "text": "Dođite u devet sati.",
+              "ua": "Приходьте о дев'ятій.",
+              "audio": "hr-les23-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: взяти > візьміть, платити > платіть."
+        },
+        {
+          "form": "-j / -jte: pitaj, čekaj",
+          "when_ua": "Коли основа закінчується на голосний: pitaj, pitajte; čekaj, čekajte.",
+          "examples": [
+            {
+              "text": "Čekajte ovdje.",
+              "ua": "Чекайте тут.",
+              "audio": "hr-les23-rule-04.mp3"
+            },
+            {
+              "text": "Čekaj ovdje.",
+              "ua": "Чекай тут.",
+              "audio": "hr-les23-rule-05.mp3"
+            },
+            {
+              "text": "Pitajte liječnika.",
+              "ua": "Запитайте лікаря.",
+              "audio": "hr-les23-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Це як в українській: питай, питайте, чекай, чекайте."
+        },
+        {
+          "form": "неправильні: pij, reci, pomozi, idi",
+          "when_ua": "Кілька частих дієслів мають свої форми: pijte, recite, pomozite, idite.",
+          "examples": [
+            {
+              "text": "Pijte vodu.",
+              "ua": "Пийте воду.",
+              "audio": "hr-les23-rule-07.mp3"
+            },
+            {
+              "text": "Recite mi, molim vas.",
+              "ua": "Скажіть мені, будь ласка.",
+              "audio": "hr-les23-rule-08.mp3"
+            },
+            {
+              "text": "Pomozite mi.",
+              "ua": "Допоможіть мені.",
+              "audio": "hr-les23-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Цих форм у підручнику немає, я навчаю їх зі свого знання: перевір у словнику."
+        }
+      ],
+      "points_ua": [
+        "Три форми: ти (plati), ми (platimo), ви (platite).",
+        "Ввічливо, до лікаря чи незнайомої людини, говори на -te.",
+        "Закінчення -j / -jte після голосної основи (pitaj, pitajte)."
+      ]
+    },
+    {
+      "title_ua": "Заборона: nemoj + інфінітив, або ne + наказ",
+      "summary_ua": "Підручник показує два способи заборони: Nemoj platiti! (с. 121) і Ne plati! (с. 120). Обидва є в підручнику. Найбезпечніший для тебе nemoj + інфінітив: Nemoj čekati! Nemojte čekati! Nemojmo čekati! Ne + наказ (Ne čekaj!) теж правильне, але для початку вчи nemoj.",
+      "compare": [
+        {
+          "form": "nemoj / nemojmo / nemojte + інфінітив",
+          "when_ua": "Заборона для ти, ми, ви. Після nemoj інфінітив.",
+          "examples": [
+            {
+              "text": "Nemoj čekati ovdje.",
+              "ua": "Не чекай тут.",
+              "audio": "hr-les23-rule-10.mp3"
+            },
+            {
+              "text": "Nemojte čekati.",
+              "ua": "Не чекайте.",
+              "audio": "hr-les23-rule-11.mp3"
+            },
+            {
+              "text": "Nemojte uzeti tabletu.",
+              "ua": "Не беріть таблетку.",
+              "audio": "hr-les23-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Українська «не чекай» стоїть з наказом, а хорватська з nemoj + інфінітив: це відмінність."
+        },
+        {
+          "form": "ne + наказ",
+          "when_ua": "Також правильно: Ne čekaj! Ne čekajte!",
+          "examples": [
+            {
+              "text": "Ne čekaj ovdje.",
+              "ua": "Не чекай тут.",
+              "audio": "hr-les23-rule-13.mp3"
+            },
+            {
+              "text": "Ne čekajte ovdje.",
+              "ua": "Не чекайте тут.",
+              "audio": "hr-les23-rule-14.mp3"
+            },
+            {
+              "text": "Ne pitajte liječnika.",
+              "ua": "Не питайте лікаря.",
+              "audio": "hr-les23-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: «не чекай» = Ne čekaj."
+        }
+      ],
+      "points_ua": [
+        "Nemoj, nemojmo, nemojte + інфінітив.",
+        "Також Ne + наказ (Ne čekaj!).",
+        "Для початку вчи nemoj + інфінітив."
+      ]
+    },
+    {
+      "title_ua": "Neka: наказ для третьої особи",
+      "summary_ua": "Для він, вона, вони немає окремої форми: використовуємо neka + теперішній (с. 120): Neka radi! Neka rade! Українське «нехай працює» збігається майже слово в слово.",
+      "compare": [
+        {
+          "form": "neka + теперішній",
+          "when_ua": "Neka čeka, neka uzme, neka radi.",
+          "examples": [
+            {
+              "text": "Neka čeka ovdje.",
+              "ua": "Нехай чекає тут.",
+              "audio": "hr-les23-rule-16.mp3"
+            },
+            {
+              "text": "Neka uzme tabletu.",
+              "ua": "Нехай візьме таблетку.",
+              "audio": "hr-les23-rule-17.mp3"
+            },
+            {
+              "text": "Neka radi.",
+              "ua": "Нехай працює.",
+              "audio": "hr-les23-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: нехай = neka."
+        }
+      ],
+      "points_ua": [
+        "Neka + 3 особа теперішнього.",
+        "Підручник: Neka radi! Neka rade! (с. 120)."
+      ]
+    },
+    {
+      "title_ua": "Boli me glava: у лікаря і в аптеці",
+      "summary_ua": "Щоб сказати, що болить, кажемо Boli me glava (підручник): me це знахідний від ja, а glava називний. Не «моя голова болить»: болить голова, а мене в знахідному. Smijem li? питає про дозвіл. У аптеці: Imam recept. Idem u ljekarnu.",
+      "compare": [
+        {
+          "form": "Boli me + називний",
+          "when_ua": "Назви частину тіла після boli me.",
+          "examples": [
+            {
+              "text": "Boli me glava.",
+              "ua": "Болить голова.",
+              "audio": "hr-les23-rule-19.mp3"
+            },
+            {
+              "text": "Boli me zub.",
+              "ua": "Болить зуб.",
+              "audio": "hr-les23-rule-20.mp3"
+            },
+            {
+              "text": "Boli me trbuh.",
+              "ua": "Болить живіт.",
+              "audio": "hr-les23-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Trbuh це живіт, а život це життя: пам'ятаєш пастку з укр. живіт."
+        },
+        {
+          "form": "smijem li + інфінітив",
+          "when_ua": "Питання про дозвіл: Smijem li ići?",
+          "examples": [
+            {
+              "text": "Smijem li ići kući?",
+              "ua": "Чи можна мені йти додому?",
+              "audio": "hr-les23-rule-22.mp3"
+            },
+            {
+              "text": "Smijem li uzeti lijek?",
+              "ua": "Чи можна мені взяти ліки?",
+              "audio": "hr-les23-rule-23.mp3"
+            },
+            {
+              "text": "Smijem li čekati ovdje?",
+              "ua": "Чи можна мені чекати тут?",
+              "audio": "hr-les23-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Li стоїть на другому місці після дієслова: Smijem li."
+        }
+      ],
+      "points_ua": [
+        "Boli me + частина тіла в називному.",
+        "Smijem li + інфінітив: питання про дозвіл.",
+        "Ljekarna: стандартне хорватське слово для аптеки."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Čekajte ovdje.",
+      "ua": "Чекайте тут.",
+      "audio": "hr-les23-example-01.mp3"
+    },
+    {
+      "text": "Čekaj ovdje.",
+      "ua": "Чекай тут.",
+      "audio": "hr-les23-example-02.mp3"
+    },
+    {
+      "text": "Uzmite tabletu.",
+      "ua": "Візьміть таблетку.",
+      "audio": "hr-les23-example-03.mp3"
+    },
+    {
+      "text": "Uzmite lijek.",
+      "ua": "Візьміть ліки.",
+      "audio": "hr-les23-example-04.mp3"
+    },
+    {
+      "text": "Nemojte čekati.",
+      "ua": "Не чекайте.",
+      "audio": "hr-les23-example-05.mp3"
+    },
+    {
+      "text": "Nemoj čekati ovdje.",
+      "ua": "Не чекай тут.",
+      "audio": "hr-les23-example-06.mp3"
+    },
+    {
+      "text": "Boli me glava.",
+      "ua": "Болить голова.",
+      "audio": "hr-les23-example-07.mp3"
+    },
+    {
+      "text": "Boli me grlo.",
+      "ua": "Болить горло.",
+      "audio": "hr-les23-example-08.mp3"
+    },
+    {
+      "text": "Boli me zub.",
+      "ua": "Болить зуб.",
+      "audio": "hr-les23-example-09.mp3"
+    },
+    {
+      "text": "Boli me trbuh.",
+      "ua": "Болить живіт.",
+      "audio": "hr-les23-example-10.mp3"
+    },
+    {
+      "text": "Imam recept.",
+      "ua": "Маю рецепт.",
+      "audio": "hr-les23-example-11.mp3"
+    },
+    {
+      "text": "Idem u ljekarnu.",
+      "ua": "Йду в аптеку.",
+      "audio": "hr-les23-example-12.mp3"
+    },
+    {
+      "text": "Platite u ljekarni.",
+      "ua": "Платіть в аптеці.",
+      "audio": "hr-les23-example-13.mp3"
+    },
+    {
+      "text": "Dođite u devet sati.",
+      "ua": "Приходьте о дев'ятій.",
+      "audio": "hr-les23-example-14.mp3"
+    },
+    {
+      "text": "Pijte vodu.",
+      "ua": "Пийте воду.",
+      "audio": "hr-les23-example-15.mp3"
+    },
+    {
+      "text": "Pitajte liječnika.",
+      "ua": "Запитайте лікаря.",
+      "audio": "hr-les23-example-16.mp3"
+    },
+    {
+      "text": "Smijem li uzeti lijek?",
+      "ua": "Чи можна мені взяти ліки?",
+      "audio": "hr-les23-example-17.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Kod liječnika i u ljekarni",
+    "title_ua": "У лікаря і в аптеці",
+    "highlight": [
+      "hr-3c259dc6",
+      "hr-601f5759",
+      "hr-595a7ebd",
+      "hr-099d9b04",
+      "hr-c6844965",
+      "hr-31704f99",
+      "hr-5fa4b03e"
+    ],
+    "sentences": [
+      {
+        "text": "Imam termin u devet sati.",
+        "ua": "У мене запис на дев'яту.",
+        "audio": "hr-les23-reading-01.mp3"
+      },
+      {
+        "text": "Boli me grlo.",
+        "ua": "Болить горло.",
+        "audio": "hr-les23-reading-02.mp3"
+      },
+      {
+        "text": "Liječnik piše recept.",
+        "ua": "Лікар пише рецепт.",
+        "audio": "hr-les23-reading-03.mp3"
+      },
+      {
+        "text": "Uzmite tabletu.",
+        "ua": "Візьміть таблетку.",
+        "audio": "hr-les23-reading-04.mp3"
+      },
+      {
+        "text": "Pijte vodu.",
+        "ua": "Пийте воду.",
+        "audio": "hr-les23-reading-05.mp3"
+      },
+      {
+        "text": "Nemojte raditi.",
+        "ua": "Не працюйте.",
+        "audio": "hr-les23-reading-06.mp3"
+      },
+      {
+        "text": "Idem u ljekarnu.",
+        "ua": "Йду в аптеку.",
+        "audio": "hr-les23-reading-07.mp3"
+      },
+      {
+        "text": "Plaćam lijek.",
+        "ua": "Плачу за ліки.",
+        "audio": "hr-les23-reading-08.mp3"
+      },
+      {
+        "text": "Hvala, liječniče.",
+        "ua": "Дякую, лікарю.",
+        "audio": "hr-les23-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Чекайте тут.",
+          "accepted": [
+            "Čekajte ovdje."
+          ]
+        },
+        {
+          "prompt": "Чекай тут.",
+          "accepted": [
+            "Čekaj ovdje."
+          ]
+        },
+        {
+          "prompt": "Візьміть таблетку.",
+          "accepted": [
+            "Uzmite tabletu."
+          ]
+        },
+        {
+          "prompt": "Візьміть ліки.",
+          "accepted": [
+            "Uzmite lijek."
+          ]
+        },
+        {
+          "prompt": "Не чекайте.",
+          "accepted": [
+            "Nemojte čekati.",
+            "Ne čekajte."
+          ]
+        },
+        {
+          "prompt": "Не чекай тут.",
+          "accepted": [
+            "Nemoj čekati ovdje.",
+            "Ne čekaj ovdje."
+          ]
+        },
+        {
+          "prompt": "Болить голова.",
+          "accepted": [
+            "Boli me glava."
+          ]
+        },
+        {
+          "prompt": "Болить горло.",
+          "accepted": [
+            "Boli me grlo."
+          ]
+        },
+        {
+          "prompt": "Болить живіт.",
+          "accepted": [
+            "Boli me trbuh."
+          ]
+        },
+        {
+          "prompt": "Маю рецепт.",
+          "accepted": [
+            "Imam recept."
+          ]
+        },
+        {
+          "prompt": "Йду в аптеку.",
+          "accepted": [
+            "Idem u ljekarnu."
+          ]
+        },
+        {
+          "prompt": "Платіть в аптеці.",
+          "accepted": [
+            "Platite u ljekarni."
+          ]
+        },
+        {
+          "prompt": "Приходьте о дев'ятій.",
+          "accepted": [
+            "Dođite u devet sati."
+          ]
+        },
+        {
+          "prompt": "Пийте воду.",
+          "accepted": [
+            "Pijte vodu."
+          ]
+        },
+        {
+          "prompt": "Запитайте лікаря.",
+          "accepted": [
+            "Pitajte liječnika."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "Čekajte",
+        "Uzmite",
+        "Nemojte",
+        "Neka",
+        "boli",
+        "glava",
+        "recept",
+        "ljekarnu",
+        "ljekarni",
+        "tabletu",
+        "lijek",
+        "Smijem",
+        "Platite",
+        "Pijte",
+        "Pitajte",
+        "Dođite"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ ovdje.",
+          "hint": "Чекайте тут.",
+          "accepted": [
+            [
+              "Čekajte"
+            ]
+          ]
+        },
+        {
+          "text": "___ tabletu.",
+          "hint": "Візьміть таблетку.",
+          "accepted": [
+            [
+              "Uzmite"
+            ]
+          ]
+        },
+        {
+          "text": "___ čekati.",
+          "hint": "Не чекайте.",
+          "accepted": [
+            [
+              "Nemojte"
+            ]
+          ]
+        },
+        {
+          "text": "___ čeka ovdje.",
+          "hint": "Нехай чекає тут.",
+          "accepted": [
+            [
+              "Neka"
+            ]
+          ]
+        },
+        {
+          "text": "Boli me ___.",
+          "hint": "Болить голова.",
+          "accepted": [
+            [
+              "glava"
+            ]
+          ]
+        },
+        {
+          "text": "___ me glava.",
+          "hint": "Болить голова.",
+          "accepted": [
+            [
+              "Boli"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___.",
+          "hint": "Маю рецепт.",
+          "accepted": [
+            [
+              "recept"
+            ]
+          ]
+        },
+        {
+          "text": "Idem u ___.",
+          "hint": "Йду в аптеку.",
+          "accepted": [
+            [
+              "ljekarnu"
+            ]
+          ]
+        },
+        {
+          "text": "Platite u ___.",
+          "hint": "Платіть в аптеці.",
+          "accepted": [
+            [
+              "ljekarni"
+            ]
+          ]
+        },
+        {
+          "text": "Uzmite ___.",
+          "hint": "Візьміть таблетку.",
+          "accepted": [
+            [
+              "tabletu"
+            ]
+          ]
+        },
+        {
+          "text": "Uzmite ___.",
+          "hint": "Візьміть ліки.",
+          "accepted": [
+            [
+              "lijek"
+            ]
+          ]
+        },
+        {
+          "text": "___ li ići kući?",
+          "hint": "Чи можна мені йти додому?",
+          "accepted": [
+            [
+              "Smijem"
+            ]
+          ]
+        },
+        {
+          "text": "___ u ljekarni.",
+          "hint": "Платіть в аптеці.",
+          "accepted": [
+            [
+              "Platite"
+            ]
+          ]
+        },
+        {
+          "text": "___ vodu.",
+          "hint": "Пийте воду.",
+          "accepted": [
+            [
+              "Pijte"
+            ]
+          ]
+        },
+        {
+          "text": "___ liječnika.",
+          "hint": "Запитайте лікаря.",
+          "accepted": [
+            [
+              "Pitajte"
+            ]
+          ]
+        },
+        {
+          "text": "___ u devet sati.",
+          "hint": "Приходьте о дев'ятій.",
+          "accepted": [
+            [
+              "Dođite"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Čekaj ovdje.",
+          "cue": "-> ви",
+          "accepted": [
+            "Čekajte ovdje."
+          ]
+        },
+        {
+          "prompt": "Uzmi tabletu.",
+          "cue": "-> ви",
+          "accepted": [
+            "Uzmite tabletu."
+          ]
+        },
+        {
+          "prompt": "Pitaj liječnika.",
+          "cue": "-> ви",
+          "accepted": [
+            "Pitajte liječnika."
+          ]
+        },
+        {
+          "prompt": "Pij vodu.",
+          "cue": "-> ви",
+          "accepted": [
+            "Pijte vodu."
+          ]
+        },
+        {
+          "prompt": "Plati u ljekarni.",
+          "cue": "-> ви",
+          "accepted": [
+            "Platite u ljekarni."
+          ]
+        },
+        {
+          "prompt": "Dođi u devet sati.",
+          "cue": "-> ви",
+          "accepted": [
+            "Dođite u devet sati."
+          ]
+        },
+        {
+          "prompt": "Čekajte ovdje.",
+          "cue": "-> заборона з nemojte",
+          "accepted": [
+            "Nemojte čekati ovdje."
+          ]
+        },
+        {
+          "prompt": "Čekaj ovdje.",
+          "cue": "-> заборона з nemoj",
+          "accepted": [
+            "Nemoj čekati ovdje."
+          ]
+        },
+        {
+          "prompt": "Čeka ovdje.",
+          "cue": "-> neka",
+          "accepted": [
+            "Neka čeka ovdje."
+          ]
+        },
+        {
+          "prompt": "Nemoj čekajte ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nemojte čekati ovdje."
+          ]
+        },
+        {
+          "prompt": "Boli me glavu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Boli me glava."
+          ]
+        },
+        {
+          "prompt": "Imam recepta.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam recept."
+          ]
+        },
+        {
+          "prompt": "Idem u ljekarni.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem u ljekarnu."
+          ]
+        },
+        {
+          "prompt": "Uzmite tableta.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Uzmite tabletu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в наказовій формі",
+      "items": [
+        {
+          "example": true,
+          "text": "(ti) ___ ovdje!",
+          "cue": "čekati",
+          "accepted": [
+            "čekaj"
+          ]
+        },
+        {
+          "text": "(vi) ___ ovdje!",
+          "cue": "čekati",
+          "accepted": [
+            "čekajte"
+          ]
+        },
+        {
+          "text": "(mi) ___ ovdje!",
+          "cue": "čekati",
+          "accepted": [
+            "čekajmo"
+          ]
+        },
+        {
+          "text": "(ti) ___ liječnika!",
+          "cue": "pitati",
+          "accepted": [
+            "pitaj"
+          ]
+        },
+        {
+          "text": "(vi) ___ liječnika!",
+          "cue": "pitati",
+          "accepted": [
+            "pitajte"
+          ]
+        },
+        {
+          "text": "(vi) ___ u ljekarni!",
+          "cue": "platiti",
+          "accepted": [
+            "platite"
+          ]
+        },
+        {
+          "text": "(ti) ___ lijek!",
+          "cue": "uzeti",
+          "accepted": [
+            "uzmi"
+          ]
+        },
+        {
+          "text": "(vi) ___ lijek!",
+          "cue": "uzeti",
+          "accepted": [
+            "uzmite"
+          ]
+        },
+        {
+          "text": "(vi) ___ u devet sati!",
+          "cue": "doći",
+          "accepted": [
+            "dođite"
+          ]
+        },
+        {
+          "text": "(ti) ___ u devet sati!",
+          "cue": "doći",
+          "accepted": [
+            "dođi"
+          ]
+        },
+        {
+          "text": "(vi) ___ vodu!",
+          "cue": "piti",
+          "accepted": [
+            "pijte"
+          ]
+        },
+        {
+          "text": "(vi) ___ kući!",
+          "cue": "ići",
+          "accepted": [
+            "idite"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "голова",
+          "answer": "glava"
+        },
+        {
+          "prompt": "горло",
+          "answer": "grlo"
+        },
+        {
+          "prompt": "зуб",
+          "answer": "zub"
+        },
+        {
+          "prompt": "живіт",
+          "answer": "trbuh"
+        },
+        {
+          "prompt": "ліки (один препарат)",
+          "answer": "lijek"
+        },
+        {
+          "prompt": "рецепт",
+          "answer": "recept"
+        },
+        {
+          "prompt": "аптека",
+          "answer": "ljekarna"
+        },
+        {
+          "prompt": "таблетка",
+          "answer": "tableta"
+        },
+        {
+          "prompt": "боліти",
+          "answer": "boljeti"
+        },
+        {
+          "prompt": "брати (недок.)",
+          "answer": "uzimati"
+        },
+        {
+          "prompt": "мати дозвіл",
+          "answer": "smjeti"
+        },
+        {
+          "prompt": "не роби! (з інфінітивом)",
+          "answer": "nemoj"
+        },
+        {
+          "prompt": "нехай",
+          "answer": "neka"
+        },
+        {
+          "prompt": "чекайте",
+          "answer": "čekajte"
+        },
+        {
+          "prompt": "платіть",
+          "answer": "platite"
+        }
+      ],
+      "extra": [
+        "uzeti",
+        "život"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun"
+      ]
+    }
+  ]
+}
