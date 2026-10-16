@@ -1,0 +1,1214 @@
+{
+  "id": "hr-les-18",
+  "lang": "hr",
+  "order": 18,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-c08caab7",
+      "type": "clitic",
+      "lemma": "bih",
+      "slot": "2",
+      "ua": "я б (допоміжне умовного способу)",
+      "audio": "hr-bih.mp3",
+      "forms": [
+        "bi",
+        "bismo",
+        "biste"
+      ],
+      "example_order": "Željela bih kavu.",
+      "explain_ua": "(Željela bih kavu = я хотіла б каву). Допоміжне умовного способу: bih (я), bi (ти, він, вона, воно, вони), bismo (ми), biste (ви). Це клітик: на другому місці, як sam, ću. Після нього дієприкметник на -l (радила, радио), як у минулому часі. Українське б / би дає опору: хотіла б ~ željela bih. Але українське б не змінюється за особою, а хорватське змінюється"
+    },
+    {
+      "id": "hr-88d0dec4",
+      "type": "function",
+      "lemma": "želio",
+      "ua": "хотів (дієприкметник на -l від željeti)",
+      "audio": "hr-zelio.mp3",
+      "forms": [
+        "željela",
+        "željeli",
+        "željele",
+        "volio",
+        "voljela",
+        "voljeli",
+        "trebao",
+        "trebala",
+        "trebali",
+        "čekao",
+        "čekala",
+        "čekali",
+        "naručio",
+        "naručila",
+        "naručili",
+        "kupili"
+      ],
+      "explain_ua": "(Želio bih sok = я б хотів сік). Дієприкметник від željeti: želio, željela, željeli. Тут також зібрані дієприкметники для умовного: volio / voljela (voljeti), trebao / trebala (trebati), čekao / čekala / čekali (čekati), naručio / naručila / naručili (naručiti). Чоловічий рід на -o, як radio",
+      "check": "Дієприкметники želio, željela, volio, trebao, čekao, naručio з мого знання за шаблоном radio / radila (підручник, с. 316), окремих слів у підручнику немає."
+    },
+    {
+      "id": "hr-68fe4998",
+      "type": "function",
+      "lemma": "rado",
+      "ua": "охоче, залюбки",
+      "audio": "hr-rado.mp3",
+      "explain_ua": "(Rado bih kupila sir = я б охоче купила сир). Прислівник: «з радістю». Часто з умовним: Rado bih ...",
+      "check": "Вживання rado з умовним з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-0361e956",
+      "type": "function",
+      "lemma": "možda",
+      "ua": "можливо",
+      "audio": "hr-mozda.mp3",
+      "explain_ua": "(Možda bih kupio meso = можливо, я б купив м'ясо). Прислівник: «можливо». Літера ž з гачком"
+    },
+    {
+      "id": "hr-bc436828",
+      "type": "function",
+      "lemma": "što",
+      "ua": "що",
+      "audio": "hr-sto.mp3",
+      "explain_ua": "(Što biste željeli? = що б ви хотіли?). Питальне слово «що». Стоїть першим, а bih / bi / biste йде одразу за ним. Літера š з гачком"
+    },
+    {
+      "id": "hr-a379429e",
+      "type": "noun",
+      "lemma": "soba",
+      "gender": "ž.",
+      "gen_sg": "sobe",
+      "plural": [
+        "sobe"
+      ],
+      "ua": "кімната",
+      "audio": "hr-soba.mp3",
+      "forms": [
+        "sobu"
+      ],
+      "explain_ua": "(Željela bih sobu = я б хотіла кімнату). Жіночий рід на -a: знахідний sobu. Це «кімната в готелі», «кімната вдома»",
+      "check": "Форми sobe, sobu з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-f14a0a09",
+      "type": "noun",
+      "lemma": "stol",
+      "gender": "m.",
+      "gen_sg": "stola",
+      "plural": [
+        "stolovi"
+      ],
+      "ua": "стіл",
+      "audio": "hr-stol.mp3",
+      "explain_ua": "(Željeli bismo stol = ми б хотіли стіл). Множина stolovi (таблиця підручника: stol, stolovi, с. 310). Знахідний stol без змін (неживе). Українське стіл чоловічого роду, як і stol, але stolica це стілець"
+    },
+    {
+      "id": "hr-68c1a55e",
+      "type": "noun",
+      "lemma": "račun",
+      "gender": "m.",
+      "gen_sg": "računa",
+      "plural": [
+        "računi"
+      ],
+      "ua": "рахунок (у ресторані)",
+      "audio": "hr-racun.mp3",
+      "explain_ua": "(Račun, molim = рахунок, будь ласка). Літера č з гачком. Неживе чоловічого роду: знахідний račun без змін",
+      "check": "Форми računa, računi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-cfb05ff6",
+      "type": "noun",
+      "lemma": "jelovnik",
+      "gender": "m.",
+      "gen_sg": "jelovnika",
+      "plural": [
+        "jelovnici"
+      ],
+      "ua": "меню",
+      "audio": "hr-jelovnik.mp3",
+      "forms": [
+        "juhu"
+      ],
+      "explain_ua": "(Željeli bismo jelovnik = ми б хотіли меню). У множині k стає c: jelovnici. У цьому уроці також juhu, знахідний juha з Lekcije 14: Željela bih juhu",
+      "check": "Форми jelovnika, jelovnici з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-a6450537",
+      "type": "noun",
+      "lemma": "konobar",
+      "gender": "m.",
+      "gen_sg": "konobara",
+      "plural": [
+        "konobari"
+      ],
+      "ua": "офіціант",
+      "audio": "hr-konobar.mp3",
+      "explain_ua": "(Konobar je ovdje = офіціант тут). Чоловічий рід, живе: знахідний дорівнює родовому (konobara). Множина konobari",
+      "check": "Форми konobara, konobari з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-0c46eaec",
+      "type": "verb",
+      "lemma": "naručivati",
+      "aspect": "impf.",
+      "partner": "naručiti",
+      "pres_1sg": "naručujem",
+      "forms": [
+        "naručiti",
+        "naručim"
+      ],
+      "ua": "замовляти (док. naručiti)",
+      "audio": "hr-narucivati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "naručujem",
+          "audio": "hr-ja-narucujem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "naručuješ",
+          "audio": "hr-ti-narucujes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "naručuje",
+          "audio": "hr-on-narucuje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "naručujemo",
+          "audio": "hr-mi-narucujemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "naručujete",
+          "audio": "hr-vi-narucujete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "naručuju",
+          "audio": "hr-oni-narucuju.mp3"
+        }
+      ],
+      "explain_ua": "(Bih li mogla naručiti juhu? = чи могла б я замовити суп?). Пара: naručivati (недок., naručujem) / naručiti (док., naručim). Тип -ivati > -ujem, як у підручнику (с. 316). Знахідний після: naručiti juhu",
+      "check": "Пару naručivati / naručiti і форми з мого знання за шаблоном -ivati > -ujem (підручник, с. 316), саме слово там відсутнє."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Умовний спосіб: bih, bi, bismo, biste + дієприкметник",
+      "summary_ua": "Умовний спосіб = допоміжне bih, bi, bi, bismo, biste, bi + дієприкметник на -l: Željela bih kavu. Українське «хотіла б каву» і російське «хотела бы» близькі: частка б / бы відповідає bih. Але хорватське bih змінюється за особою (bih, bi, bismo, biste), а українське б ні. Таблиця підручника (с. 318) показує те саме.",
+      "compare": [
+        {
+          "form": "я: bih",
+          "when_ua": "Bih для «я». Дієприкметник за родом: želio bih (чол.), željela bih (жін.).",
+          "examples": [
+            {
+              "text": "Željela bih kavu.",
+              "ua": "Я хотіла б каву.",
+              "audio": "hr-les18-rule-01.mp3"
+            },
+            {
+              "text": "Želio bih sok.",
+              "ua": "Я хотів би сік.",
+              "audio": "hr-les18-rule-02.mp3"
+            },
+            {
+              "text": "Kupila bih kruh.",
+              "ua": "Я купила б хліб.",
+              "audio": "hr-les18-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: хотіла б = željela bih. Дієприкметник той самий, що в минулому часі (Lekcija 10)."
+        },
+        {
+          "form": "ти, він, вона, вони: bi",
+          "when_ua": "Bi для ти, він, вона, воно і вони. Дієприкметник за родом і числом.",
+          "examples": [
+            {
+              "text": "Ti bi kupila sir.",
+              "ua": "Ти купила б сир.",
+              "audio": "hr-les18-rule-04.mp3"
+            },
+            {
+              "text": "Majka bi kupila sir.",
+              "ua": "Мама купила б сир.",
+              "audio": "hr-les18-rule-05.mp3"
+            },
+            {
+              "text": "Brat bi čitao knjigu.",
+              "ua": "Брат читав би книжку.",
+              "audio": "hr-les18-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Bi однаково для ти, він, вона. У минулому часі це було si, je, je, а тут bi."
+        },
+        {
+          "form": "ми: bismo, ви: biste",
+          "when_ua": "Bismo для ми, biste для ви. Дієприкметник у множині: -li, -le.",
+          "examples": [
+            {
+              "text": "Mi bismo kupili sir.",
+              "ua": "Ми купили б сир.",
+              "audio": "hr-les18-rule-07.mp3"
+            },
+            {
+              "text": "Vi biste čekali.",
+              "ua": "Ви чекали б.",
+              "audio": "hr-les18-rule-08.mp3"
+            },
+            {
+              "text": "Željeli bismo juhu.",
+              "ua": "Ми хотіли б суп.",
+              "audio": "hr-les18-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Bismo і biste замінюють smo і ste з минулого часу."
+        }
+      ],
+      "points_ua": [
+        "Bih (я), bi (ти, він, вона, воно, вони), bismo (ми), biste (ви) + дієприкметник на -l.",
+        "Дієприкметник той самий, що в минулому часі: radio, radila, radili.",
+        "Українська частка б / би допомагає, але вона не змінюється за особою."
+      ]
+    },
+    {
+      "title_ua": "Де стоїть bih: другий клітик, bih li?",
+      "summary_ua": "Bih, bi, bismo, biste це клітики на другому місці. Можна поставити дієприкметник першим (Željela bih kavu) або інше слово першим (Ja bih željela kavu, Rado bih kupila sir). Питання: bih li, bi li, biste li + дієприкметник. Підручник показує «Bih li (ja) radio/radila?».",
+      "compare": [
+        {
+          "form": "дієприкметник перший",
+          "when_ua": "Участь перша, bih одразу за нею: Željela bih, Radio bih.",
+          "examples": [
+            {
+              "text": "Željela bih sobu.",
+              "ua": "Я хотіла б кімнату.",
+              "audio": "hr-les18-rule-10.mp3"
+            },
+            {
+              "text": "Radio bih.",
+              "ua": "Я працював би.",
+              "audio": "hr-les18-rule-11.mp3"
+            },
+            {
+              "text": "Kupili bismo sir.",
+              "ua": "Ми купили б сир.",
+              "audio": "hr-les18-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Bih не починає речення: перед ним завжди щось стоїть."
+        },
+        {
+          "form": "інше слово перше",
+          "when_ua": "Займенник, rado, možda чи слово часу першими, bih після них.",
+          "examples": [
+            {
+              "text": "Ja bih željela sok.",
+              "ua": "Я хотіла б сік.",
+              "audio": "hr-les18-rule-13.mp3"
+            },
+            {
+              "text": "Rado bih kupila sir.",
+              "ua": "Я б охоче купила сир.",
+              "audio": "hr-les18-rule-14.mp3"
+            },
+            {
+              "text": "Možda bih kupio meso.",
+              "ua": "Можливо, я б купив м'ясо.",
+              "audio": "hr-les18-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Це та сама схема другого місця, що й у минулому часі та в майбутньому."
+        },
+        {
+          "form": "питання: bih li, bi li, biste li",
+          "when_ua": "Bih, bi, biste першим, потім li, потім дієприкметник.",
+          "examples": [
+            {
+              "text": "Bih li mogla naručiti juhu?",
+              "ua": "Чи могла б я замовити суп?",
+              "audio": "hr-les18-rule-16.mp3"
+            },
+            {
+              "text": "Biste li čekali pet minuta?",
+              "ua": "Чи ви б почекали п'ять хвилин?",
+              "audio": "hr-les18-rule-17.mp3"
+            },
+            {
+              "text": "Bi li brat došao?",
+              "ua": "Чи брат прийшов би?",
+              "audio": "hr-les18-rule-18.mp3"
+            }
+          ],
+          "note_ua": "У питанні на першому місці bih (bi, biste), li на другому: це підручник (с. 318): Bih li (ja) radio/radila?"
+        }
+      ],
+      "points_ua": [
+        "Bih не стоїть першим. Перед ним або дієприкметник, або інше слово.",
+        "Питання: bih li, bi li, biste li + дієприкметник.",
+        "Кілька клітиків разом (bih li mi ...) я тут не вчу."
+      ]
+    },
+    {
+      "title_ua": "Заперечення: Ne bih radila",
+      "summary_ua": "Заперечення в умовному: ne bih, ne bi, ne bismo, ne biste + дієприкметник. Ne стоїть окремо перед bih (на відміну від nisam, neću). Підручник: «Ne bih radio/radila…».",
+      "compare": [
+        {
+          "form": "ne bih, ne bi",
+          "when_ua": "Ne окремо: Ne bih radila, Ne bi kupio.",
+          "examples": [
+            {
+              "text": "Ne bih radila u nedjelju.",
+              "ua": "Я б не працювала в неділю.",
+              "audio": "hr-les18-rule-19.mp3"
+            },
+            {
+              "text": "Ne bih kupio meso.",
+              "ua": "Я б не купив м'ясо.",
+              "audio": "hr-les18-rule-20.mp3"
+            },
+            {
+              "text": "Majka ne bi čekala.",
+              "ua": "Мама б не чекала.",
+              "audio": "hr-les18-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Тут Ne окремо, не «nebih»: це інакше, ніж nisam (одне слово)."
+        },
+        {
+          "form": "ne bismo, ne biste",
+          "when_ua": "У множині: ne bismo, ne biste.",
+          "examples": [
+            {
+              "text": "Ne bismo čekali.",
+              "ua": "Ми б не чекали.",
+              "audio": "hr-les18-rule-22.mp3"
+            },
+            {
+              "text": "Ne biste kupili sir.",
+              "ua": "Ви б не купили сир.",
+              "audio": "hr-les18-rule-23.mp3"
+            },
+            {
+              "text": "Ne bi radili.",
+              "ua": "Вони б не працювали.",
+              "audio": "hr-les18-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Українське «ми б не чекали» теж має не перед б."
+        }
+      ],
+      "points_ua": [
+        "Ne bih, ne bi, ne bismo, ne biste: окремо.",
+        "Не плутай: nisam (одне слово) і ne bih (два слова)."
+      ]
+    },
+    {
+      "title_ua": "Ввічливі прохання: Što biste željeli? Željeli bismo ...",
+      "summary_ua": "Умовний найчастіше використовують для ввічливості: в ресторані, готелі, магазині. Što biste željeli? (що б ви хотіли?), Željela bih kavu, molim, Rado bih naručila juhu, Trebala bih kupiti kruh. Це звучить ввічливіше, ніж Želim kavu.",
+      "compare": [
+        {
+          "form": "у ресторані й готелі",
+          "when_ua": "Što biste željeli? питає офіціант. Ти відповідаєш Željela bih ..., Željeli bismo ...",
+          "examples": [
+            {
+              "text": "Što biste željeli?",
+              "ua": "Що б ви хотіли?",
+              "audio": "hr-les18-rule-25.mp3"
+            },
+            {
+              "text": "Željeli bismo stol, molim.",
+              "ua": "Ми б хотіли стіл, будь ласка.",
+              "audio": "hr-les18-rule-26.mp3"
+            },
+            {
+              "text": "Račun, molim.",
+              "ua": "Рахунок, будь ласка.",
+              "audio": "hr-les18-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Konobar питає Što biste željeli?: bih після питального слова Što на другому місці."
+        },
+        {
+          "form": "побажання й зобов'язання",
+          "when_ua": "Rado bih, Voljela bih (я б хотіла), Trebala bih (мені слід би), Mogla bih (я могла б).",
+          "examples": [
+            {
+              "text": "Rado bih naručila juhu.",
+              "ua": "Я б охоче замовила суп.",
+              "audio": "hr-les18-rule-28.mp3"
+            },
+            {
+              "text": "Voljela bih ići u park.",
+              "ua": "Я б хотіла піти в парк.",
+              "audio": "hr-les18-rule-29.mp3"
+            },
+            {
+              "text": "Trebala bih kupiti kruh.",
+              "ua": "Мені слід би купити хліб.",
+              "audio": "hr-les18-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Після bih і дієприкметника іде інфінітив: voljela bih ići, trebala bih kupiti."
+        }
+      ],
+      "points_ua": [
+        "Ввічливе прохання: Željela bih ..., Željeli bismo ..., Što biste željeli?",
+        "Voljela bih, trebala bih, mogla bih + інфінітив."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Željela bih kavu.",
+      "ua": "Я хотіла б каву.",
+      "audio": "hr-les18-example-01.mp3"
+    },
+    {
+      "text": "Želio bih sok.",
+      "ua": "Я хотів би сік.",
+      "audio": "hr-les18-example-02.mp3"
+    },
+    {
+      "text": "Što biste željeli?",
+      "ua": "Що б ви хотіли?",
+      "audio": "hr-les18-example-03.mp3"
+    },
+    {
+      "text": "Željeli bismo juhu.",
+      "ua": "Ми хотіли б суп.",
+      "audio": "hr-les18-example-04.mp3"
+    },
+    {
+      "text": "Rado bih kupila sir.",
+      "ua": "Я б охоче купила сир.",
+      "audio": "hr-les18-example-05.mp3"
+    },
+    {
+      "text": "Kupila bih kruh, ali je skup.",
+      "ua": "Я б купила хліб, але він дорогий.",
+      "audio": "hr-les18-example-06.mp3"
+    },
+    {
+      "text": "Voljela bih ići u park.",
+      "ua": "Я б хотіла піти в парк.",
+      "audio": "hr-les18-example-07.mp3"
+    },
+    {
+      "text": "Mogla bih čekati pet minuta.",
+      "ua": "Я могла б почекати п'ять хвилин.",
+      "audio": "hr-les18-example-08.mp3"
+    },
+    {
+      "text": "Trebala bih kupiti kruh.",
+      "ua": "Мені слід би купити хліб.",
+      "audio": "hr-les18-example-09.mp3"
+    },
+    {
+      "text": "Majka bi kupila sir.",
+      "ua": "Мама купила б сир.",
+      "audio": "hr-les18-example-10.mp3"
+    },
+    {
+      "text": "Brat bi čitao knjigu.",
+      "ua": "Брат читав би книжку.",
+      "audio": "hr-les18-example-11.mp3"
+    },
+    {
+      "text": "Ne bih radila u nedjelju.",
+      "ua": "Я б не працювала в неділю.",
+      "audio": "hr-les18-example-12.mp3"
+    },
+    {
+      "text": "Ne bismo čekali.",
+      "ua": "Ми б не чекали.",
+      "audio": "hr-les18-example-13.mp3"
+    },
+    {
+      "text": "Bih li mogla naručiti juhu?",
+      "ua": "Чи могла б я замовити суп?",
+      "audio": "hr-les18-example-14.mp3"
+    },
+    {
+      "text": "Biste li čekali pet minuta?",
+      "ua": "Чи ви б почекали п'ять хвилин?",
+      "audio": "hr-les18-example-15.mp3"
+    },
+    {
+      "text": "Bi li brat došao?",
+      "ua": "Чи брат прийшов би?",
+      "audio": "hr-les18-example-16.mp3"
+    },
+    {
+      "text": "Željela bih sobu.",
+      "ua": "Я хотіла б кімнату.",
+      "audio": "hr-les18-example-17.mp3"
+    },
+    {
+      "text": "Možda bih kupio meso.",
+      "ua": "Можливо, я б купив м'ясо.",
+      "audio": "hr-les18-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U restoranu",
+    "title_ua": "У ресторані",
+    "highlight": [
+      "hr-c08caab7",
+      "hr-88d0dec4",
+      "hr-68fe4998",
+      "hr-bc436828",
+      "hr-f14a0a09",
+      "hr-68c1a55e",
+      "hr-cfb05ff6",
+      "hr-a6450537"
+    ],
+    "sentences": [
+      {
+        "text": "Danas smo u gradu.",
+        "ua": "Сьогодні ми в місті.",
+        "audio": "hr-les18-reading-01.mp3"
+      },
+      {
+        "text": "Željeli bismo stol, molim.",
+        "ua": "Ми б хотіли стіл, будь ласка.",
+        "audio": "hr-les18-reading-02.mp3"
+      },
+      {
+        "text": "Konobar je ovdje.",
+        "ua": "Офіціант тут.",
+        "audio": "hr-les18-reading-03.mp3"
+      },
+      {
+        "text": "Što biste željeli?",
+        "ua": "Що б ви хотіли?",
+        "audio": "hr-les18-reading-04.mp3"
+      },
+      {
+        "text": "Željela bih juhu s povrćem.",
+        "ua": "Я хотіла б суп з овочами.",
+        "audio": "hr-les18-reading-05.mp3"
+      },
+      {
+        "text": "Brat bi volio kavu sa šlagom.",
+        "ua": "Брат хотів би каву зі збитими вершками.",
+        "audio": "hr-les18-reading-06.mp3"
+      },
+      {
+        "text": "Rado bismo naručili sok.",
+        "ua": "Ми б охоче замовили сік.",
+        "audio": "hr-les18-reading-07.mp3"
+      },
+      {
+        "text": "Račun, molim.",
+        "ua": "Рахунок, будь ласка.",
+        "audio": "hr-les18-reading-08.mp3"
+      },
+      {
+        "text": "Hvala.",
+        "ua": "Дякую.",
+        "audio": "hr-les18-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я хотіла б каву.",
+          "accepted": [
+            "Željela bih kavu.",
+            "Ja bih željela kavu."
+          ]
+        },
+        {
+          "prompt": "Я хотів би сік.",
+          "accepted": [
+            "Želio bih sok.",
+            "Ja bih želio sok."
+          ]
+        },
+        {
+          "prompt": "Що б ви хотіли?",
+          "accepted": [
+            "Što biste željeli?"
+          ]
+        },
+        {
+          "prompt": "Ми хотіли б суп.",
+          "accepted": [
+            "Željeli bismo juhu.",
+            "Mi bismo željeli juhu."
+          ]
+        },
+        {
+          "prompt": "Я б охоче купила сир.",
+          "accepted": [
+            "Rado bih kupila sir."
+          ]
+        },
+        {
+          "prompt": "Я б купила хліб, але він дорогий.",
+          "accepted": [
+            "Kupila bih kruh, ali je skup.",
+            "Kupila bih kruh ali je skup."
+          ]
+        },
+        {
+          "prompt": "Я б хотіла піти в парк.",
+          "accepted": [
+            "Voljela bih ići u park.",
+            "Željela bih ići u park."
+          ]
+        },
+        {
+          "prompt": "Я могла б почекати п'ять хвилин.",
+          "accepted": [
+            "Mogla bih čekati pet minuta."
+          ]
+        },
+        {
+          "prompt": "Мені слід би купити хліб.",
+          "accepted": [
+            "Trebala bih kupiti kruh.",
+            "Trebao bih kupiti kruh."
+          ]
+        },
+        {
+          "prompt": "Мама купила б сир.",
+          "accepted": [
+            "Majka bi kupila sir."
+          ]
+        },
+        {
+          "prompt": "Я б не працювала в неділю.",
+          "accepted": [
+            "Ne bih radila u nedjelju."
+          ]
+        },
+        {
+          "prompt": "Ми б не чекали.",
+          "accepted": [
+            "Ne bismo čekali."
+          ]
+        },
+        {
+          "prompt": "Чи могла б я замовити суп?",
+          "accepted": [
+            "Bih li mogla naručiti juhu?"
+          ]
+        },
+        {
+          "prompt": "Чи ви б почекали п'ять хвилин?",
+          "accepted": [
+            "Biste li čekali pet minuta?"
+          ]
+        },
+        {
+          "prompt": "Чи брат прийшов би?",
+          "accepted": [
+            "Bi li brat došao?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "bih",
+        "bi",
+        "bismo",
+        "biste",
+        "Željela",
+        "Želio",
+        "Željeli",
+        "kupila",
+        "kupio",
+        "kupili",
+        "čekali",
+        "došao",
+        "Bih",
+        "Biste",
+        "Bi",
+        "Ne"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Željela ___ kavu.",
+          "hint": "Я хотіла б каву.",
+          "accepted": [
+            [
+              "bih"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ kupila sir.",
+          "hint": "Мама купила б сир.",
+          "accepted": [
+            [
+              "bi"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ kupili sir.",
+          "hint": "Ми купили б сир.",
+          "accepted": [
+            [
+              "bismo"
+            ]
+          ]
+        },
+        {
+          "text": "Vi ___ čekali.",
+          "hint": "Ви чекали б.",
+          "accepted": [
+            [
+              "biste"
+            ]
+          ]
+        },
+        {
+          "text": "___ bih sok.",
+          "hint": "Я хотів би сік.",
+          "accepted": [
+            [
+              "Želio"
+            ]
+          ]
+        },
+        {
+          "text": "___ bih kavu.",
+          "hint": "Я хотіла б каву.",
+          "accepted": [
+            [
+              "Željela"
+            ]
+          ]
+        },
+        {
+          "text": "___ bismo juhu.",
+          "hint": "Ми хотіли б суп.",
+          "accepted": [
+            [
+              "Željeli"
+            ]
+          ]
+        },
+        {
+          "text": "Rado bih ___ sir.",
+          "hint": "Я б охоче купила сир.",
+          "accepted": [
+            [
+              "kupila"
+            ]
+          ]
+        },
+        {
+          "text": "Možda bih ___ meso.",
+          "hint": "Можливо, я б купив м'ясо.",
+          "accepted": [
+            [
+              "kupio"
+            ]
+          ]
+        },
+        {
+          "text": "Mi bismo ___ sir.",
+          "hint": "Ми купили б сир.",
+          "accepted": [
+            [
+              "kupili"
+            ]
+          ]
+        },
+        {
+          "text": "Ne bismo ___.",
+          "hint": "Ми б не чекали.",
+          "accepted": [
+            [
+              "čekali"
+            ]
+          ]
+        },
+        {
+          "text": "Bi li brat ___?",
+          "hint": "Чи брат прийшов би?",
+          "accepted": [
+            [
+              "došao"
+            ]
+          ]
+        },
+        {
+          "text": "___ li mogla naručiti juhu?",
+          "hint": "Чи могла б я замовити суп?",
+          "accepted": [
+            [
+              "Bih"
+            ]
+          ]
+        },
+        {
+          "text": "___ li čekali pet minuta?",
+          "hint": "Чи ви б почекали п'ять хвилин?",
+          "accepted": [
+            [
+              "Biste"
+            ]
+          ]
+        },
+        {
+          "text": "___ li brat došao?",
+          "hint": "Чи брат прийшов би?",
+          "accepted": [
+            [
+              "Bi"
+            ]
+          ]
+        },
+        {
+          "text": "___ bih radila u nedjelju.",
+          "hint": "Я б не працювала в неділю.",
+          "accepted": [
+            [
+              "Ne"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: умовний спосіб, питання, заперечення або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Želim kavu.",
+          "cue": "-> умовний (я, жін.)",
+          "accepted": [
+            "Željela bih kavu."
+          ]
+        },
+        {
+          "prompt": "Želim sok.",
+          "cue": "-> умовний (я, чол.)",
+          "accepted": [
+            "Želio bih sok."
+          ]
+        },
+        {
+          "prompt": "Kupujem sir.",
+          "cue": "-> умовний (я, жін., kupiti)",
+          "accepted": [
+            "Kupila bih sir."
+          ]
+        },
+        {
+          "prompt": "Majka kupuje sir.",
+          "cue": "-> умовний",
+          "accepted": [
+            "Majka bi kupila sir."
+          ]
+        },
+        {
+          "prompt": "Brat čita knjigu.",
+          "cue": "-> умовний",
+          "accepted": [
+            "Brat bi čitao knjigu."
+          ]
+        },
+        {
+          "prompt": "Mi kupujemo sir.",
+          "cue": "-> умовний (kupiti)",
+          "accepted": [
+            "Mi bismo kupili sir.",
+            "Kupili bismo sir."
+          ]
+        },
+        {
+          "prompt": "Vi čekate pet minuta.",
+          "cue": "-> умовний",
+          "accepted": [
+            "Vi biste čekali pet minuta.",
+            "Čekali biste pet minuta."
+          ]
+        },
+        {
+          "prompt": "Radim u nedjelju.",
+          "cue": "-> умовний, заперечення (жін.)",
+          "accepted": [
+            "Ne bih radila u nedjelju."
+          ]
+        },
+        {
+          "prompt": "Čekamo.",
+          "cue": "-> умовний, заперечення",
+          "accepted": [
+            "Ne bismo čekali."
+          ]
+        },
+        {
+          "prompt": "Mogu naručiti juhu.",
+          "cue": "-> питання умовне (жін.)",
+          "accepted": [
+            "Bih li mogla naručiti juhu?"
+          ]
+        },
+        {
+          "prompt": "Čekate pet minuta.",
+          "cue": "-> питання умовне",
+          "accepted": [
+            "Biste li čekali pet minuta?"
+          ]
+        },
+        {
+          "prompt": "Brat dolazi.",
+          "cue": "-> питання умовне",
+          "accepted": [
+            "Bi li brat došao?"
+          ]
+        },
+        {
+          "prompt": "Kupila bih sir.",
+          "cue": "-> додай rado",
+          "accepted": [
+            "Rado bih kupila sir."
+          ]
+        },
+        {
+          "prompt": "Želim bih kavu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Željela bih kavu.",
+            "Želio bih kavu."
+          ]
+        },
+        {
+          "prompt": "Majka bi kupiti sir.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka bi kupila sir."
+          ]
+        },
+        {
+          "prompt": "Mi bih kupili sir.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi bismo kupili sir."
+          ]
+        },
+        {
+          "prompt": "Ne bih radim.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ne bih radila.",
+            "Ne bih radio."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав допоміжне або дієприкметник у правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ kupila sir.",
+          "cue": "bih / bi / bismo / biste (я)",
+          "accepted": [
+            "bih"
+          ]
+        },
+        {
+          "text": "Majka ___ kupila sir.",
+          "cue": "bih / bi / bismo / biste (вона)",
+          "accepted": [
+            "bi"
+          ]
+        },
+        {
+          "text": "Mi ___ kupili sir.",
+          "cue": "bih / bi / bismo / biste (ми)",
+          "accepted": [
+            "bismo"
+          ]
+        },
+        {
+          "text": "Vi ___ čekali.",
+          "cue": "bih / bi / bismo / biste (ви)",
+          "accepted": [
+            "biste"
+          ]
+        },
+        {
+          "text": "Ja bih ___ kavu.",
+          "cue": "željeti (жін.)",
+          "accepted": [
+            "željela"
+          ]
+        },
+        {
+          "text": "Ja bih ___ sok.",
+          "cue": "željeti (чол.)",
+          "accepted": [
+            "želio"
+          ]
+        },
+        {
+          "text": "Mi bismo ___ juhu.",
+          "cue": "željeti",
+          "accepted": [
+            "željeli"
+          ]
+        },
+        {
+          "text": "Majka bi ___ sir.",
+          "cue": "kupiti",
+          "accepted": [
+            "kupila"
+          ]
+        },
+        {
+          "text": "Brat bi ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitao"
+          ]
+        },
+        {
+          "text": "Ja bih ___ ići.",
+          "cue": "voljeti (жін.)",
+          "accepted": [
+            "voljela"
+          ]
+        },
+        {
+          "text": "Ja bih ___ kupiti kruh.",
+          "cue": "trebati (жін.)",
+          "accepted": [
+            "trebala"
+          ]
+        },
+        {
+          "text": "Ja bih ___ čekati.",
+          "cue": "moći (жін.)",
+          "accepted": [
+            "mogla"
+          ]
+        },
+        {
+          "text": "Vi biste ___.",
+          "cue": "čekati",
+          "accepted": [
+            "čekali"
+          ]
+        },
+        {
+          "text": "Brat bi ___ sutra.",
+          "cue": "doći",
+          "accepted": [
+            "došao"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "я б (допоміжне)",
+          "answer": "bih"
+        },
+        {
+          "prompt": "ми б",
+          "answer": "bismo"
+        },
+        {
+          "prompt": "ви б",
+          "answer": "biste"
+        },
+        {
+          "prompt": "охоче",
+          "answer": "rado"
+        },
+        {
+          "prompt": "можливо",
+          "answer": "možda"
+        },
+        {
+          "prompt": "що",
+          "answer": "što"
+        },
+        {
+          "prompt": "кімната",
+          "answer": "soba"
+        },
+        {
+          "prompt": "стіл",
+          "answer": "stol"
+        },
+        {
+          "prompt": "рахунок",
+          "answer": "račun"
+        },
+        {
+          "prompt": "меню",
+          "answer": "jelovnik"
+        },
+        {
+          "prompt": "офіціант",
+          "answer": "konobar"
+        },
+        {
+          "prompt": "замовляти",
+          "answer": "naručivati"
+        },
+        {
+          "prompt": "замовити (док.)",
+          "answer": "naručiti"
+        },
+        {
+          "prompt": "хотів",
+          "answer": "želio"
+        },
+        {
+          "prompt": "любив",
+          "answer": "volio"
+        }
+      ],
+      "extra": [
+        "bi",
+        "naručila"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "clitic"
+      ]
+    }
+  ]
+}

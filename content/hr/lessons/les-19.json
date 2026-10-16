@@ -1,0 +1,1314 @@
+{
+  "id": "hr-les-19",
+  "lang": "hr",
+  "order": 19,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-c6ab752b",
+      "type": "clitic",
+      "lemma": "se",
+      "slot": "2",
+      "ua": "себе, -ся (зворотна частка)",
+      "audio": "hr-se.mp3",
+      "example_order": "Kako se zoveš?",
+      "explain_ua": "(Kako se zoveš? = як тебе звати?). Зворотна частка se це окреме слово, а не суфікс, як українське -ся. Це клітик на другому місці: Zovem se, Kako se zoveš, Danas se budim. Українське звати-ся, боятися, вчитися близькі до zvati se, bojati se, але se стоїть окремо: bojim se, не «bojimse»"
+    },
+    {
+      "id": "hr-352a3f1a",
+      "type": "adjective",
+      "lemma": "koji",
+      "fem": "koja",
+      "neut": "koje",
+      "ua": "який, котрий (відносне й питальне)",
+      "audio": "hr-koji.mp3",
+      "forms": [
+        "koju",
+        "kojeg",
+        "koja",
+        "koje"
+      ],
+      "explain_ua": "(Majka koja radi u banci = мама, яка працює в банку). Відносне слово, що погоджується з іменником у роді й числі (koji, koja, koje), а відмінок залежить від ролі в підрядному реченні: називний koji, koja, koje; знахідний ж. р. koju, живий ч. р. kojeg. Українське який, яка, яке, яку, якого близькі: безкоштовна перемога. Перед koji завжди кома",
+      "check": "Форми koju, kojeg підтверджено словником Wiktionary (koji: koju, kojeg(a)); решту (koje для с. роду) з мого знання; у підручнику «koji» не показано на цих сторінках."
+    },
+    {
+      "id": "hr-cac19487",
+      "type": "function",
+      "lemma": "kako",
+      "ua": "як",
+      "audio": "hr-kako.mp3",
+      "explain_ua": "(Kako se zoveš? = як тебе звати?). Питальне слово «як». Стоїть першим, а se йде одразу за ним: Kako se zoveš? Не плутай з kakav (який за якістю)"
+    },
+    {
+      "id": "hr-b5769ce4",
+      "type": "noun",
+      "lemma": "susjed",
+      "gender": "m.",
+      "gen_sg": "susjeda",
+      "plural": [
+        "susjedi"
+      ],
+      "ua": "сусід",
+      "audio": "hr-susjed.mp3",
+      "explain_ua": "(Susjed koji radi u dućanu = сусід, який працює в магазині). Живе чоловічого роду: знахідний susjeda. Жіноча форма susjeda (сусідка). Множина susjedi (підручник, с. 311). Пиши sj: susjed"
+    },
+    {
+      "id": "hr-2f0cb4ff",
+      "type": "noun",
+      "lemma": "prijateljica",
+      "gender": "ž.",
+      "gen_sg": "prijateljice",
+      "plural": [
+        "prijateljice"
+      ],
+      "ua": "подруга",
+      "audio": "hr-prijateljica.mp3",
+      "forms": [
+        "prijateljicu"
+      ],
+      "explain_ua": "(Prijateljica koju čekam = подруга, яку я чекаю). Жіноча форма від prijatelj. Знахідний prijateljicu. Множина prijateljice (підручник, с. 312)"
+    },
+    {
+      "id": "hr-d6e37e52",
+      "type": "noun",
+      "lemma": "kolodvor",
+      "gender": "m.",
+      "gen_sg": "kolodvora",
+      "plural": [
+        "kolodvori"
+      ],
+      "ua": "вокзал",
+      "audio": "hr-kolodvor.mp3",
+      "explain_ua": "(Brat dolazi na kolodvor = брат приїздить на вокзал). Kolodvor це вокзал. Чоловічий рід, неживе: знахідний kolodvor без змін",
+      "check": "Форми kolodvora, kolodvori з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-a5e3f681",
+      "type": "noun",
+      "lemma": "kafić",
+      "gender": "m.",
+      "gen_sg": "kafića",
+      "plural": [
+        "kafići"
+      ],
+      "ua": "кав'ярня",
+      "audio": "hr-kafic.mp3",
+      "forms": [
+        "kafiću"
+      ],
+      "explain_ua": "(Vidimo se u kafiću = побачимося в кав'ярні). Чоловічий рід, неживе: знахідний kafić без змін, місцевий kafiću. Літера ć з рискою",
+      "check": "Форми kafića, kafići, kafiću з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-3ef8dc5a",
+      "type": "verb",
+      "lemma": "buditi",
+      "aspect": "impf.",
+      "partner": "probuditi",
+      "pres_1sg": "budim",
+      "forms": [
+        "probuditi",
+        "probudim",
+        "probudio",
+        "probudila",
+        "probudilo",
+        "probudili",
+        "probudile"
+      ],
+      "ua": "будити; (buditi se) прокидатися",
+      "audio": "hr-buditi.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "budim",
+          "audio": "hr-ja-budim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "budiš",
+          "audio": "hr-ti-budis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "budi",
+          "audio": "hr-on-budi.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "budimo",
+          "audio": "hr-mi-budimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "budite",
+          "audio": "hr-vi-budite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "bude",
+          "audio": "hr-oni-bude.mp3"
+        }
+      ],
+      "explain_ua": "(Probudila sam se u sedam sati = я прокинулась о сьомій). Пара: buditi se (недок., budim se) / probuditi se (док., probudim se). Тип -iti > -im. Дієприкметник док. probudio / probudila / probudilo / probudili / probudile, як у таблиці підручника (с. 317)",
+      "check": "Пару buditi / probuditi і теперішній budim з мого знання; перфект probudio / probudila підтверджено в підручнику."
+    },
+    {
+      "id": "hr-3774ddf9",
+      "type": "verb",
+      "lemma": "javljati",
+      "aspect": "impf.",
+      "partner": "javiti",
+      "pres_1sg": "javljam",
+      "forms": [
+        "javiti",
+        "javim"
+      ],
+      "ua": "повідомляти; (javljati se) озиватися, давати знати",
+      "audio": "hr-javljati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "javljam",
+          "audio": "hr-ja-javljam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "javljaš",
+          "audio": "hr-ti-javljas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "javlja",
+          "audio": "hr-on-javlja.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "javljamo",
+          "audio": "hr-mi-javljamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "javljate",
+          "audio": "hr-vi-javljate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "javljaju",
+          "audio": "hr-oni-javljaju.mp3"
+        }
+      ],
+      "explain_ua": "(Javljam se učiteljici = я даю знати про себе вчительці). Пара: javljati se (недок., javljam se) / javiti se (док., javim se). Javim se sutra = дам знати завтра. Давальний після: javiti se komu",
+      "check": "Пару javljati / javiti і значення «давати знати» з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-bd1cfac4",
+      "type": "verb",
+      "lemma": "bojati",
+      "aspect": "impf.",
+      "pres_1sg": "bojim",
+      "ua": "(bojati se) боятися",
+      "audio": "hr-bojati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "bojim",
+          "audio": "hr-ja-bojim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "bojiš",
+          "audio": "hr-ti-bojis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "boji",
+          "audio": "hr-on-boji.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "bojimo",
+          "audio": "hr-mi-bojimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "bojite",
+          "audio": "hr-vi-bojite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "boje",
+          "audio": "hr-oni-boje.mp3"
+        }
+      ],
+      "explain_ua": "(Bojim se psa = я боюся собаки). Інфінітив bojati se, а в теперішньому тип -im: bojim se (підручник, с. 316: bojati se > -im). Після bojati se родовий: bojim se psa, як в українській «боюся собаки» (родовий). У підручнику Bojim se zmije (с. 304). Без пари"
+    },
+    {
+      "id": "hr-0e79f273",
+      "type": "verb",
+      "lemma": "voziti",
+      "aspect": "impf.",
+      "pres_1sg": "vozim",
+      "ua": "(voziti se) їхати транспортом",
+      "audio": "hr-voziti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "vozim",
+          "audio": "hr-ja-vozim.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "voziš",
+          "audio": "hr-ti-vozis.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "vozi",
+          "audio": "hr-on-vozi.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "vozimo",
+          "audio": "hr-mi-vozimo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "vozite",
+          "audio": "hr-vi-vozite.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "voze",
+          "audio": "hr-oni-voze.mp3"
+        }
+      ],
+      "explain_ua": "(Vozimo se vlakom = ми їдемо поїздом, як пасажири). Тип -iti > -im. Voziti se це їхати, коли тебе везуть (пасажир): vozim se autobusom. У підручнику Vozimo se prema centru (с. 304). Без пари",
+      "check": "Те, що voziti se означає їхати як пасажир (на відміну від ići), з мого знання, у джерелах цього уроку не підтверджено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Зворотні дієслова: zovem se, bojim se, vozimo se",
+      "summary_ua": "Зворотні дієслова мають частку se, але вона окреме слово, не суфікс -ся: zovem se, bojim se, vozimo se. Українські звати-ся, боятися, їхати близькі. Se стоїть на другому місці, як sam чи ću: після дієслова або першого слова (Kako se zoveš?, Danas se budim).",
+      "compare": [
+        {
+          "form": "se після дієслова",
+          "when_ua": "Коли речення починається дієсловом, se йде одразу за ним.",
+          "examples": [
+            {
+              "text": "Zovem se Marija.",
+              "ua": "Мене звати Марія.",
+              "audio": "hr-les19-rule-01.mp3"
+            },
+            {
+              "text": "Bojim se psa.",
+              "ua": "Я боюся собаки.",
+              "audio": "hr-les19-rule-02.mp3"
+            },
+            {
+              "text": "Vozimo se vlakom.",
+              "ua": "Ми їдемо поїздом.",
+              "audio": "hr-les19-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: звати-ся, боятися. Але se окреме слово: zovem se, не «zovemse»."
+        },
+        {
+          "form": "se на другому місці",
+          "when_ua": "Коли першим стоїть питальне слово, час чи підмет, se іде за ним.",
+          "examples": [
+            {
+              "text": "Kako se zoveš?",
+              "ua": "Як тебе звати?",
+              "audio": "hr-les19-rule-04.mp3"
+            },
+            {
+              "text": "Danas se budim u šest sati.",
+              "ua": "Сьогодні я прокидаюся о шостій.",
+              "audio": "hr-les19-rule-05.mp3"
+            },
+            {
+              "text": "U školi se javljam učiteljici.",
+              "ua": "У школі я звертаюся до вчительки.",
+              "audio": "hr-les19-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Це те саме правило другого місця: se іде після першого слова чи групи."
+        },
+        {
+          "form": "vidjeti se, javljati se",
+          "when_ua": "Vidjeti se значить «бачитися». Javljati se це «озиватися, давати знати».",
+          "examples": [
+            {
+              "text": "Vidimo se u kafiću.",
+              "ua": "Побачимося в кав'ярні.",
+              "audio": "hr-les19-rule-07.mp3"
+            },
+            {
+              "text": "Javljam se učiteljici.",
+              "ua": "Я даю знати вчительці.",
+              "audio": "hr-les19-rule-08.mp3"
+            },
+            {
+              "text": "Ona se javlja.",
+              "ua": "Вона озивається.",
+              "audio": "hr-les19-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Vidimo se! це звичайне «до побачення»: «побачимось»."
+        }
+      ],
+      "points_ua": [
+        "Se окреме слово на другому місці: zovem se, Kako se zoveš?",
+        "Після bojati se родовий: bojim se psa.",
+        "Українська допомагає: звати-ся ~ zvati se, боятися ~ bojati se."
+      ]
+    },
+    {
+      "title_ua": "Минулий час зворотних: probudila sam se",
+      "summary_ua": "Минулий час зворотних дієслів: допоміжне sam, si, smo, ste, su + se + дієприкметник: Probudila sam se. У 3-й особі допоміжне je випадає: Brat se probudio, Majka se probudila. Підручник (с. 317) показує саме так: «ja sam se probudio/probudila», «on se probudio» (bez je).",
+      "compare": [
+        {
+          "form": "я, ти, ми, ви: sam se, si se, smo se, ste se",
+          "when_ua": "Допоміжне стоїть перед se: sam se, smo se.",
+          "examples": [
+            {
+              "text": "Probudila sam se u sedam sati.",
+              "ua": "Я прокинулась о сьомій.",
+              "audio": "hr-les19-rule-10.mp3"
+            },
+            {
+              "text": "Probudio sam se u šest sati.",
+              "ua": "Я прокинувся о шостій.",
+              "audio": "hr-les19-rule-11.mp3"
+            },
+            {
+              "text": "Mi smo se probudili.",
+              "ua": "Ми прокинулися.",
+              "audio": "hr-les19-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Порядок: допоміжне, потім se. Це те, що показує підручник."
+        },
+        {
+          "form": "він, вона, воно: se без je",
+          "when_ua": "У 3-й особі однини допоміжне je випадає: Brat se probudio, не «Brat se je probudio».",
+          "examples": [
+            {
+              "text": "Brat se probudio.",
+              "ua": "Брат прокинувся.",
+              "audio": "hr-les19-rule-13.mp3"
+            },
+            {
+              "text": "Majka se probudila.",
+              "ua": "Мама прокинулась.",
+              "audio": "hr-les19-rule-14.mp3"
+            },
+            {
+              "text": "Dijete se probudilo.",
+              "ua": "Дитина прокинулась.",
+              "audio": "hr-les19-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Je випадає лише в зворотних. Підручник так і пише: «on se probudio». Форма «se je» теж трапляється в письмі.",
+          "check": "У науковій статті сказано, що форма «se je» теж допускається в письмі (Silić); я вчу форму без je за підручником."
+        },
+        {
+          "form": "вони: su se",
+          "when_ua": "У множині су стоїть перед se: Djeca su se probudila.",
+          "examples": [
+            {
+              "text": "Djeca su se probudila.",
+              "ua": "Діти прокинулися.",
+              "audio": "hr-les19-rule-16.mp3"
+            },
+            {
+              "text": "Učenici su se probudili.",
+              "ua": "Учні прокинулися.",
+              "audio": "hr-les19-rule-17.mp3"
+            },
+            {
+              "text": "Majke su se probudile.",
+              "ua": "Мами прокинулися.",
+              "audio": "hr-les19-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Su se, як sam se, smo se. Дієприкметник за родом і числом: probudili, probudile, probudila."
+        }
+      ],
+      "points_ua": [
+        "Я, ти, ми, ви: допоміжне + se: sam se, si se, smo se, ste se.",
+        "Він, вона, воно: лише se: Brat se probudio.",
+        "Вони: su se: Djeca su se probudila."
+      ]
+    },
+    {
+      "title_ua": "Koji: majka koja radi, knjiga koju čitam",
+      "summary_ua": "Koji (koja, koje) відносне слово: Majka koja radi u banci. Воно погоджується з іменником у роді й числі, а відмінок залежить від ролі в підрядному реченні: підмет (koja), об'єкт (koju, kojeg). Перед ним завжди кома. Українське який / яка / яке / яку / якого відповідає: безкоштовна перемога.",
+      "compare": [
+        {
+          "form": "підмет: koji, koja, koje",
+          "when_ua": "Коли koji підмет підрядного речення: Susjed koji radi, Majka koja radi, Dijete koje čita.",
+          "examples": [
+            {
+              "text": "Susjed koji radi u dućanu je ovdje.",
+              "ua": "Сусід, який працює в магазині, тут.",
+              "audio": "hr-les19-rule-19.mp3"
+            },
+            {
+              "text": "Majka koja radi u banci je ovdje.",
+              "ua": "Мама, яка працює в банку, тут.",
+              "audio": "hr-les19-rule-20.mp3"
+            },
+            {
+              "text": "Dijete koje čita knjigu je moje.",
+              "ua": "Дитина, яка читає книжку, моя.",
+              "audio": "hr-les19-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Рід koji залежить від іменника (susjed ч. → koji, majka ж. → koja, dijete с. → koje)."
+        },
+        {
+          "form": "об'єкт: koju, kojeg, koji, koje",
+          "when_ua": "Жіночий -a: koju. Живий чоловічий: kojeg. Неживе чоловіче й середнє: koji, koje (без змін).",
+          "examples": [
+            {
+              "text": "Knjiga koju čitam je dobra.",
+              "ua": "Книжка, яку я читаю, хороша.",
+              "audio": "hr-les19-rule-22.mp3"
+            },
+            {
+              "text": "Kava koju volim je hladna.",
+              "ua": "Кава, яку я люблю, холодна.",
+              "audio": "hr-les19-rule-23.mp3"
+            },
+            {
+              "text": "Pas kojeg vidim je velik.",
+              "ua": "Собака, якого я бачу, великий.",
+              "audio": "hr-les19-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Це той самий поділ, що в Lekciji 4: ж. -u (koju), живий ч. = родовий (kojeg). Українська: яку, якого."
+        },
+        {
+          "form": "більше прикладів",
+          "when_ua": "Koji стоїть одразу після іменника, на який вказує.",
+          "examples": [
+            {
+              "text": "Prijateljica koju čekam dolazi u kafić.",
+              "ua": "Подруга, яку я чекаю, приходить у кав'ярню.",
+              "audio": "hr-les19-rule-25.mp3"
+            },
+            {
+              "text": "Brat kojeg čekam dolazi.",
+              "ua": "Брат, якого я чекаю, приходить.",
+              "audio": "hr-les19-rule-26.mp3"
+            },
+            {
+              "text": "Učiteljica koju vidim je ovdje.",
+              "ua": "Вчителька, яку я бачу, тут.",
+              "audio": "hr-les19-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Koji, koju, kojeg завжди за іменником, кома перед ним."
+        }
+      ],
+      "points_ua": [
+        "Koji / koja / koje за родом іменника; koju (ж. об'єкт), kojeg (живий ч. об'єкт).",
+        "Українське який / яка / яку / якого збігається. Перед koji кома."
+      ]
+    },
+    {
+      "title_ua": "Vidimo se! Javim se.",
+      "summary_ua": "Два корисні вирази: Vidimo se! («побачимося») і Javim se sutra («дам знати завтра»). Javim це 1-а особа доконаного javiti se.",
+      "compare": [
+        {
+          "form": "Vidimo se, Javim se",
+          "when_ua": "Vidimo se при прощанні, Javim se коли обіцяєш озватися.",
+          "examples": [
+            {
+              "text": "Vidimo se sutra.",
+              "ua": "Побачимося завтра.",
+              "audio": "hr-les19-rule-28.mp3"
+            },
+            {
+              "text": "Vidimo se u kafiću.",
+              "ua": "Побачимося в кав'ярні.",
+              "audio": "hr-les19-rule-29.mp3"
+            },
+            {
+              "text": "Javim se sutra.",
+              "ua": "Дам знати завтра.",
+              "audio": "hr-les19-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Javim se sutra: доконаний вид, тому це про майбутнє, як і в Lekciji 12."
+        }
+      ],
+      "points_ua": [
+        "Vidimo se = побачимося. Javim se = дам знати."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Kako se zoveš?",
+      "ua": "Як тебе звати?",
+      "audio": "hr-les19-example-01.mp3"
+    },
+    {
+      "text": "Zovem se Marija.",
+      "ua": "Мене звати Марія.",
+      "audio": "hr-les19-example-02.mp3"
+    },
+    {
+      "text": "Vozimo se vlakom.",
+      "ua": "Ми їдемо поїздом.",
+      "audio": "hr-les19-example-03.mp3"
+    },
+    {
+      "text": "Bojim se psa.",
+      "ua": "Я боюся собаки.",
+      "audio": "hr-les19-example-04.mp3"
+    },
+    {
+      "text": "Vidimo se u školi.",
+      "ua": "Побачимося в школі.",
+      "audio": "hr-les19-example-05.mp3"
+    },
+    {
+      "text": "Javljam se učiteljici.",
+      "ua": "Я даю знати вчительці.",
+      "audio": "hr-les19-example-06.mp3"
+    },
+    {
+      "text": "Probudila sam se u sedam sati.",
+      "ua": "Я прокинулась о сьомій.",
+      "audio": "hr-les19-example-07.mp3"
+    },
+    {
+      "text": "Brat se probudio.",
+      "ua": "Брат прокинувся.",
+      "audio": "hr-les19-example-08.mp3"
+    },
+    {
+      "text": "Majka se probudila.",
+      "ua": "Мама прокинулась.",
+      "audio": "hr-les19-example-09.mp3"
+    },
+    {
+      "text": "Djeca su se probudila.",
+      "ua": "Діти прокинулися.",
+      "audio": "hr-les19-example-10.mp3"
+    },
+    {
+      "text": "Mi smo se probudili.",
+      "ua": "Ми прокинулися.",
+      "audio": "hr-les19-example-11.mp3"
+    },
+    {
+      "text": "Susjed koji radi u dućanu je ovdje.",
+      "ua": "Сусід, який працює в магазині, тут.",
+      "audio": "hr-les19-example-12.mp3"
+    },
+    {
+      "text": "Majka koja radi u banci je ovdje.",
+      "ua": "Мама, яка працює в банку, тут.",
+      "audio": "hr-les19-example-13.mp3"
+    },
+    {
+      "text": "Dijete koje čita knjigu je moje.",
+      "ua": "Дитина, яка читає книжку, моя.",
+      "audio": "hr-les19-example-14.mp3"
+    },
+    {
+      "text": "Knjiga koju čitam je dobra.",
+      "ua": "Книжка, яку я читаю, хороша.",
+      "audio": "hr-les19-example-15.mp3"
+    },
+    {
+      "text": "Kava koju volim je hladna.",
+      "ua": "Кава, яку я люблю, холодна.",
+      "audio": "hr-les19-example-16.mp3"
+    },
+    {
+      "text": "Pas kojeg vidim je velik.",
+      "ua": "Собака, якого я бачу, великий.",
+      "audio": "hr-les19-example-17.mp3"
+    },
+    {
+      "text": "Prijateljica koju čekam dolazi u kafić.",
+      "ua": "Подруга, яку я чекаю, приходить у кав'ярню.",
+      "audio": "hr-les19-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Susjed",
+    "title_ua": "Сусід",
+    "highlight": [
+      "hr-c6ab752b",
+      "hr-352a3f1a",
+      "hr-b5769ce4",
+      "hr-a5e3f681"
+    ],
+    "sentences": [
+      {
+        "text": "Probudila sam se u sedam sati.",
+        "ua": "Я прокинулась о сьомій.",
+        "audio": "hr-les19-reading-01.mp3"
+      },
+      {
+        "text": "Majka se probudila u šest sati.",
+        "ua": "Мама прокинулась о шостій.",
+        "audio": "hr-les19-reading-02.mp3"
+      },
+      {
+        "text": "Vozimo se autobusom u školu.",
+        "ua": "Ми їдемо автобусом у школу.",
+        "audio": "hr-les19-reading-03.mp3"
+      },
+      {
+        "text": "Učiteljica koja me zove je u razredu.",
+        "ua": "Вчителька, яка кличе мене, у класі.",
+        "audio": "hr-les19-reading-04.mp3"
+      },
+      {
+        "text": "Dijete se boji psa.",
+        "ua": "Дитина боїться собаки.",
+        "audio": "hr-les19-reading-05.mp3"
+      },
+      {
+        "text": "Pas kojeg vidim je velik.",
+        "ua": "Собака, якого я бачу, великий.",
+        "audio": "hr-les19-reading-06.mp3"
+      },
+      {
+        "text": "Susjed koji radi u dućanu me čeka.",
+        "ua": "Сусід, який працює в магазині, чекає мене.",
+        "audio": "hr-les19-reading-07.mp3"
+      },
+      {
+        "text": "Vidimo se u kafiću.",
+        "ua": "Побачимося в кав'ярні.",
+        "audio": "hr-les19-reading-08.mp3"
+      },
+      {
+        "text": "Hvala, javljam se sutra.",
+        "ua": "Дякую, дам знати завтра.",
+        "audio": "hr-les19-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Як тебе звати?",
+          "accepted": [
+            "Kako se zoveš?"
+          ]
+        },
+        {
+          "prompt": "Мене звати Марія.",
+          "accepted": [
+            "Zovem se Marija.",
+            "Ja se zovem Marija."
+          ]
+        },
+        {
+          "prompt": "Ми їдемо поїздом.",
+          "accepted": [
+            "Vozimo se vlakom."
+          ]
+        },
+        {
+          "prompt": "Я боюся собаки.",
+          "accepted": [
+            "Bojim se psa.",
+            "Ja se bojim psa."
+          ]
+        },
+        {
+          "prompt": "Побачимося в школі.",
+          "accepted": [
+            "Vidimo se u školi."
+          ]
+        },
+        {
+          "prompt": "Я даю знати про себе вчительці.",
+          "accepted": [
+            "Javljam se učiteljici.",
+            "Ja se javljam učiteljici."
+          ]
+        },
+        {
+          "prompt": "Я прокинулась о сьомій.",
+          "accepted": [
+            "Probudila sam se u sedam sati.",
+            "Probudila sam se u sedam."
+          ]
+        },
+        {
+          "prompt": "Брат прокинувся.",
+          "accepted": [
+            "Brat se probudio."
+          ]
+        },
+        {
+          "prompt": "Мама прокинулась.",
+          "accepted": [
+            "Majka se probudila."
+          ]
+        },
+        {
+          "prompt": "Діти прокинулися.",
+          "accepted": [
+            "Djeca su se probudila."
+          ]
+        },
+        {
+          "prompt": "Ми прокинулися.",
+          "accepted": [
+            "Mi smo se probudili.",
+            "Probudili smo se."
+          ]
+        },
+        {
+          "prompt": "Сусід, який працює в магазині, тут.",
+          "accepted": [
+            "Susjed koji radi u dućanu je ovdje."
+          ]
+        },
+        {
+          "prompt": "Мама, яка працює в банку, тут.",
+          "accepted": [
+            "Majka koja radi u banci je ovdje."
+          ]
+        },
+        {
+          "prompt": "Книжка, яку я читаю, хороша.",
+          "accepted": [
+            "Knjiga koju čitam je dobra."
+          ]
+        },
+        {
+          "prompt": "Собака, якого я бачу, великий.",
+          "accepted": [
+            "Pas kojeg vidim je velik."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "se",
+        "koji",
+        "koja",
+        "koje",
+        "koju",
+        "kojeg",
+        "Kako",
+        "probudila",
+        "probudio",
+        "probudili",
+        "probudilo",
+        "boji",
+        "vozimo",
+        "javljam",
+        "Vidimo"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Zovem ___ Marija.",
+          "hint": "Мене звати Марія.",
+          "accepted": [
+            [
+              "se"
+            ]
+          ]
+        },
+        {
+          "text": "___ se zoveš?",
+          "hint": "Як тебе звати?",
+          "accepted": [
+            [
+              "Kako"
+            ]
+          ]
+        },
+        {
+          "text": "Susjed ___ radi u dućanu.",
+          "hint": "Сусід, який працює в магазині.",
+          "accepted": [
+            [
+              "koji"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ radi u banci.",
+          "hint": "Мама, яка працює в банку.",
+          "accepted": [
+            [
+              "koja"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete ___ čita knjigu.",
+          "hint": "Дитина, яка читає книжку.",
+          "accepted": [
+            [
+              "koje"
+            ]
+          ]
+        },
+        {
+          "text": "Knjiga ___ čitam.",
+          "hint": "Книжка, яку я читаю.",
+          "accepted": [
+            [
+              "koju"
+            ]
+          ]
+        },
+        {
+          "text": "Pas ___ vidim.",
+          "hint": "Собака, якого я бачу.",
+          "accepted": [
+            [
+              "kojeg"
+            ]
+          ]
+        },
+        {
+          "text": "Probudila sam ___ u sedam sati.",
+          "hint": "Я прокинулась о сьомій.",
+          "accepted": [
+            [
+              "se"
+            ]
+          ]
+        },
+        {
+          "text": "Brat se ___.",
+          "hint": "Брат прокинувся.",
+          "accepted": [
+            [
+              "probudio"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete se ___.",
+          "hint": "Дитина прокинулась.",
+          "accepted": [
+            [
+              "probudilo"
+            ]
+          ]
+        },
+        {
+          "text": "Mi smo se ___.",
+          "hint": "Ми прокинулися.",
+          "accepted": [
+            [
+              "probudili"
+            ]
+          ]
+        },
+        {
+          "text": "Majka se ___.",
+          "hint": "Мама прокинулась.",
+          "accepted": [
+            [
+              "probudila"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete se ___ psa.",
+          "hint": "Дитина боїться собаки.",
+          "accepted": [
+            [
+              "boji"
+            ]
+          ]
+        },
+        {
+          "text": "Mi se ___ vlakom.",
+          "hint": "Ми їдемо поїздом.",
+          "accepted": [
+            [
+              "vozimo"
+            ]
+          ]
+        },
+        {
+          "text": "Ja se ___ učiteljici.",
+          "hint": "Я даю знати вчительці.",
+          "accepted": [
+            [
+              "javljam"
+            ]
+          ]
+        },
+        {
+          "text": "___ se u školi.",
+          "hint": "Побачимося в школі.",
+          "accepted": [
+            [
+              "Vidimo"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори або поєднай речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Probudim se u šest sati.",
+          "cue": "-> минулий (я, жін.)",
+          "accepted": [
+            "Probudila sam se u šest sati."
+          ]
+        },
+        {
+          "prompt": "Probudim se u sedam sati.",
+          "cue": "-> минулий (я, чол.)",
+          "accepted": [
+            "Probudio sam se u sedam sati."
+          ]
+        },
+        {
+          "prompt": "Majka radi u banci. Majka je ovdje.",
+          "cue": "-> одне речення з koji",
+          "accepted": [
+            "Majka koja radi u banci je ovdje."
+          ]
+        },
+        {
+          "prompt": "Susjed radi u dućanu. Susjed je ovdje.",
+          "cue": "-> одне речення з koji",
+          "accepted": [
+            "Susjed koji radi u dućanu je ovdje."
+          ]
+        },
+        {
+          "prompt": "Dijete čita knjigu. Dijete je moje.",
+          "cue": "-> одне речення з koji",
+          "accepted": [
+            "Dijete koje čita knjigu je moje."
+          ]
+        },
+        {
+          "prompt": "Čitam knjigu. Knjiga je dobra.",
+          "cue": "-> одне речення з koji",
+          "accepted": [
+            "Knjiga koju čitam je dobra."
+          ]
+        },
+        {
+          "prompt": "Volim kavu. Kava je hladna.",
+          "cue": "-> одне речення з koji",
+          "accepted": [
+            "Kava koju volim je hladna."
+          ]
+        },
+        {
+          "prompt": "Vidim psa. Pas je velik.",
+          "cue": "-> одне речення з koji",
+          "accepted": [
+            "Pas kojeg vidim je velik."
+          ]
+        },
+        {
+          "prompt": "Čekam prijateljicu. Prijateljica dolazi.",
+          "cue": "-> одне речення з koji",
+          "accepted": [
+            "Prijateljica koju čekam dolazi."
+          ]
+        },
+        {
+          "prompt": "Zovem se Marija.",
+          "cue": "-> питання (ти)",
+          "accepted": [
+            "Kako se zoveš?"
+          ]
+        },
+        {
+          "prompt": "Brat se probudio.",
+          "cue": "-> діти (djeca)",
+          "accepted": [
+            "Djeca su se probudila."
+          ]
+        },
+        {
+          "prompt": "Probudila sam se.",
+          "cue": "-> він (brat)",
+          "accepted": [
+            "Brat se probudio."
+          ]
+        },
+        {
+          "prompt": "Probudila se sam.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Probudila sam se."
+          ]
+        },
+        {
+          "prompt": "Brat je se probudio.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Brat se probudio."
+          ]
+        },
+        {
+          "prompt": "Knjiga koja čitam je dobra.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Knjiga koju čitam je dobra."
+          ]
+        },
+        {
+          "prompt": "Pas koji vidim je velik.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pas kojeg vidim je velik."
+          ]
+        },
+        {
+          "prompt": "Zovem me Marija.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zovem se Marija."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja se ___ u šest sati.",
+          "cue": "buditi",
+          "accepted": [
+            "budim"
+          ]
+        },
+        {
+          "text": "Ti se ___ u sedam sati.",
+          "cue": "buditi",
+          "accepted": [
+            "budiš"
+          ]
+        },
+        {
+          "text": "Brat se ___.",
+          "cue": "buditi",
+          "accepted": [
+            "budi"
+          ]
+        },
+        {
+          "text": "Mi se ___.",
+          "cue": "buditi",
+          "accepted": [
+            "budimo"
+          ]
+        },
+        {
+          "text": "Ja se ___ učiteljici.",
+          "cue": "javljati",
+          "accepted": [
+            "javljam"
+          ]
+        },
+        {
+          "text": "Ti se ___ učiteljici.",
+          "cue": "javljati",
+          "accepted": [
+            "javljaš"
+          ]
+        },
+        {
+          "text": "Majka se ___ psa.",
+          "cue": "bojati",
+          "accepted": [
+            "boji"
+          ]
+        },
+        {
+          "text": "Ja se ___ psa.",
+          "cue": "bojati",
+          "accepted": [
+            "bojim"
+          ]
+        },
+        {
+          "text": "Mi se ___ vlakom.",
+          "cue": "voziti",
+          "accepted": [
+            "vozimo"
+          ]
+        },
+        {
+          "text": "Ja se ___ autobusom.",
+          "cue": "voziti",
+          "accepted": [
+            "vozim"
+          ]
+        },
+        {
+          "text": "Ja sam se ___.",
+          "cue": "probuditi (жін.)",
+          "accepted": [
+            "probudila"
+          ]
+        },
+        {
+          "text": "Brat se ___.",
+          "cue": "probuditi",
+          "accepted": [
+            "probudio"
+          ]
+        },
+        {
+          "text": "Mi smo se ___.",
+          "cue": "probuditi",
+          "accepted": [
+            "probudili"
+          ]
+        },
+        {
+          "text": "Djeca su se ___.",
+          "cue": "probuditi",
+          "accepted": [
+            "probudila"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "як",
+          "answer": "kako"
+        },
+        {
+          "prompt": "сусід",
+          "answer": "susjed"
+        },
+        {
+          "prompt": "подруга",
+          "answer": "prijateljica"
+        },
+        {
+          "prompt": "вокзал",
+          "answer": "kolodvor"
+        },
+        {
+          "prompt": "кав'ярня",
+          "answer": "kafić"
+        },
+        {
+          "prompt": "будити",
+          "answer": "buditi"
+        },
+        {
+          "prompt": "прокинутися (док.)",
+          "answer": "probuditi"
+        },
+        {
+          "prompt": "озиватися, давати знати",
+          "answer": "javljati"
+        },
+        {
+          "prompt": "боятися",
+          "answer": "bojati"
+        },
+        {
+          "prompt": "їхати транспортом",
+          "answer": "voziti"
+        },
+        {
+          "prompt": "який (відносне)",
+          "answer": "koji"
+        },
+        {
+          "prompt": "яку (жін., знахідний)",
+          "answer": "koju"
+        },
+        {
+          "prompt": "якого (чол., живе)",
+          "answer": "kojeg"
+        },
+        {
+          "prompt": "себе, -ся",
+          "answer": "se"
+        },
+        {
+          "prompt": "звати",
+          "answer": "zvati"
+        }
+      ],
+      "extra": [
+        "javiti",
+        "probudio"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "clitic",
+        "adjective"
+      ]
+    }
+  ]
+}

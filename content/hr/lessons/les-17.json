@@ -1,0 +1,1188 @@
+{
+  "id": "hr-les-17",
+  "lang": "hr",
+  "order": 17,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "od"
+  ],
+  "notes": [
+    {
+      "id": "hr-118bdb9a",
+      "type": "adjective",
+      "lemma": "jeftiniji",
+      "fem": "jeftinija",
+      "neut": "jeftinije",
+      "ua": "дешевший",
+      "audio": "hr-jeftiniji.mp3",
+      "forms": [
+        "jeftinija",
+        "jeftinije",
+        "skuplji",
+        "skuplja",
+        "skuplje",
+        "hladniji",
+        "hladnija",
+        "hladnije",
+        "svježiji",
+        "svježija",
+        "svježije",
+        "ukusniji",
+        "ukusnija",
+        "ukusnije",
+        "najjeftiniji",
+        "najjeftinija",
+        "najjeftinije",
+        "najsvježije",
+        "najskuplji"
+      ],
+      "explain_ua": "(Kruh je jeftiniji od sira = хліб дешевший за сир). Звичайний вищий ступінь: основа + -iji (jeftin → jeftiniji, svjež → svježiji, ukusan → ukusniji; у hladan випадає a: hladniji). Форма змінюється за родом: jeftiniji (ч.), jeftinija (ж.), jeftinije (с.). Skup має skuplji (p стає pl). Тут зібрані вищі й найвищі ступені прикметників Lekcije 11. Українське дешевший, дорожчий теж змінюються за родом, тож тут допомагає українська (а російське дешевле незмінне)",
+      "check": "Вищі ступені hladniji, bolji, ljepši і шаблон -iji підтверджено в статті про компарацію; skuplji, svježiji, ukusniji та форми середнього й жіночого роду з мого знання."
+    },
+    {
+      "id": "hr-0e7cd109",
+      "type": "adjective",
+      "lemma": "bolji",
+      "fem": "bolja",
+      "neut": "bolje",
+      "ua": "кращий",
+      "audio": "hr-bolji.mp3",
+      "forms": [
+        "najbolji",
+        "najbolja",
+        "najbolje",
+        "bolje",
+        "bolja"
+      ],
+      "explain_ua": "(Kava je bolja od mlijeka = кава краща за молоко). Вищий ступінь від dobar: bolji, bolja, bolje. Неправильний: від dobar не «dobriji». Українське кращий не схоже на bolji, тож це слово вчи окремо. Bolje стоїть і як прислівник: Ovo je bolje",
+      "check": "Те, що bolji утворює najbolji, підтверджено в статті; жіночі й середні форми з мого знання."
+    },
+    {
+      "id": "hr-6e6103b5",
+      "type": "adjective",
+      "lemma": "veći",
+      "fem": "veća",
+      "neut": "veće",
+      "ua": "більший",
+      "audio": "hr-veci.mp3",
+      "forms": [
+        "veću",
+        "najveći",
+        "najveća",
+        "najveće",
+        "veća"
+      ],
+      "explain_ua": "(Jabuka je veća od limuna = яблуко більше за лимон). Вищий ступінь від velik: veći, veća, veće. Неправильний. Знахідний жіночий veću: Dajte mi veću jabuku. Українське більший не схоже на veći: вчи окремо",
+      "check": "Форми veći, veća, veću з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-f115be48",
+      "type": "adjective",
+      "lemma": "manji",
+      "fem": "manja",
+      "neut": "manje",
+      "ua": "менший",
+      "audio": "hr-manji.mp3",
+      "forms": [
+        "najmanji",
+        "manje",
+        "manja"
+      ],
+      "explain_ua": "(Dajte mi manji kruh = дайте мені менший хліб). Вищий ступінь від malen: manji, manja, manje. Неправильний. Manje стоїть і як прислівник «менше»: Imam manje eura. Українське менший схоже: manji",
+      "check": "Форми manji, manja, manje з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-cd9ceae4",
+      "type": "adjective",
+      "lemma": "gori",
+      "fem": "gora",
+      "neut": "gore",
+      "ua": "гірший",
+      "audio": "hr-gori.mp3",
+      "explain_ua": "(Ovo je gore = це гірше). Вищий ступінь від loš: gori, gora, gore. Неправильний. Тут допомагає українська: гірший ~ gori. Vrijeme je gore = погода гірша (vrijeme це і «час», і «погода»)",
+      "check": "Форми gori, gora, gore з мого знання, у джерелах цього уроку не підтверджено.",
+      "forms": [
+        "gore"
+      ]
+    },
+    {
+      "id": "hr-d60137ed",
+      "type": "adjective",
+      "lemma": "lijep",
+      "fem": "lijepa",
+      "neut": "lijepo",
+      "ua": "гарний",
+      "audio": "hr-lijep.mp3",
+      "forms": [
+        "ljepši",
+        "ljepša",
+        "ljepše",
+        "najljepši"
+      ],
+      "explain_ua": "(Sestra je ljepša od brata = сестра гарніша за брата). Вищий ступінь ljepši: ije скорочується до je і додається -ši (lijep → ljepši, як у статті про компарацію). Жіночий ljepša",
+      "check": "Форма ljepši підтверджена в статті про компарацію; ljepša, ljepše з мого знання."
+    },
+    {
+      "id": "hr-15452aa1",
+      "type": "adjective",
+      "lemma": "star",
+      "fem": "stara",
+      "neut": "staro",
+      "ua": "старий, старший",
+      "audio": "hr-star.mp3",
+      "forms": [
+        "stariji",
+        "starija",
+        "starije",
+        "najstariji"
+      ],
+      "explain_ua": "(Brat je stariji od sestre = брат старший за сестру). Вищий ступінь stariji (-iji). Українське старший теж має -ший: stariji",
+      "check": "Форми stariji, starija з мого знання за шаблоном -iji."
+    },
+    {
+      "id": "hr-84a3fe42",
+      "type": "adjective",
+      "lemma": "brz",
+      "fem": "brza",
+      "neut": "brzo",
+      "ua": "швидкий",
+      "audio": "hr-brz.mp3",
+      "forms": [
+        "brži",
+        "brža",
+        "brže",
+        "najbrži",
+        "autobusa"
+      ],
+      "explain_ua": "(Vlak je brži od autobusa = поїзд швидший за автобус). Вищий ступінь brži (z стає ž перед -i). У forms також родовий autobusa для «від автобуса»",
+      "check": "Форми brži, brža з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-68d4ddbb",
+      "type": "adjective",
+      "lemma": "mlad",
+      "fem": "mlada",
+      "neut": "mlado",
+      "ua": "молодий, молодший",
+      "audio": "hr-mlad.mp3",
+      "forms": [
+        "mlađi",
+        "mlađa",
+        "mlađe",
+        "mlada"
+      ],
+      "explain_ua": "(Sestra je mlađa od brata = сестра молодша за брата). Вищий ступінь mlađi (d стає đ). Літера đ з рискою. Українське молодший не схоже за зміною приголосного",
+      "check": "Форми mlađi, mlađa з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-e585c0b7",
+      "type": "function",
+      "lemma": "više",
+      "ua": "більше",
+      "audio": "hr-vise.mp3",
+      "explain_ua": "(Trebam više kruha = мені потрібно більше хліба). Більша кількість. Після više родовий: više kruha, više eura. Протилежне manje (менше). Літера š з гачком"
+    },
+    {
+      "id": "hr-92d0e2ab",
+      "type": "function",
+      "lemma": "nego",
+      "ua": "ніж",
+      "audio": "hr-nego.mp3",
+      "explain_ua": "(Sok je jeftiniji nego vino = сік дешевший, ніж вино). Другий спосіб порівняння: nego + той самий відмінок, що й перше слово (sok, vino обидва називний). Перший спосіб od + родовий: jeftiniji od vina",
+      "check": "Вживання nego з називним у порівнянні (Sok je jeftiniji nego vino) з мого знання, у підручнику його немає."
+    },
+    {
+      "id": "hr-fbe3a8ba",
+      "type": "noun",
+      "lemma": "cijena",
+      "gender": "ž.",
+      "gen_sg": "cijene",
+      "plural": [
+        "cijene"
+      ],
+      "ua": "ціна",
+      "audio": "hr-cijena.mp3",
+      "explain_ua": "(Cijena je dobra = ціна хороша). Жіночий рід на -a. Пиши ije: cijena. Множина cijene",
+      "check": "Форми cijene з мого знання, у джерелах цього уроку не підтверджено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Вищий ступінь: jeftin → jeftiniji, najjeftiniji",
+      "summary_ua": "Вищий ступінь: до основи прикметника додають -iji (jeftin → jeftiniji, svjež → svježiji, ukusan → ukusniji, hladan → hladniji). Він змінюється за родом: jeftiniji (ч.), jeftinija (ж.), jeftinije (с.). Найвищий: naj- + вищий (najjeftiniji). Українське дешевший, найдешевший працюють так само.",
+      "compare": [
+        {
+          "form": "-iji (чоловічий рід)",
+          "when_ua": "Jeftin, jeftiniji; ukusan, ukusniji; hladan, hladniji (нестійке a випадає).",
+          "examples": [
+            {
+              "text": "Kruh je jeftiniji.",
+              "ua": "Хліб дешевший.",
+              "audio": "hr-les17-rule-01.mp3"
+            },
+            {
+              "text": "Sir je ukusniji.",
+              "ua": "Сир смачніший.",
+              "audio": "hr-les17-rule-02.mp3"
+            },
+            {
+              "text": "Sok je hladniji.",
+              "ua": "Сік холодніший.",
+              "audio": "hr-les17-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: дешевший, смачніший теж мають -ший. Російське «дешевле» незмінне, тож російська тут не допомагає."
+        },
+        {
+          "form": "-ija, -ije (жіночий, середній)",
+          "when_ua": "Вищий ступінь змінюється за родом: jeftinija (ж.), jeftinije (с.).",
+          "examples": [
+            {
+              "text": "Kava je jeftinija.",
+              "ua": "Кава дешевша.",
+              "audio": "hr-les17-rule-04.mp3"
+            },
+            {
+              "text": "Jabuka je svježija.",
+              "ua": "Яблуко свіжіше.",
+              "audio": "hr-les17-rule-05.mp3"
+            },
+            {
+              "text": "Mlijeko je hladnije.",
+              "ua": "Молоко холодніше.",
+              "audio": "hr-les17-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Рід підмета вирішує форму: kava (ж.) jeftinija, mlijeko (с.) hladnije."
+        },
+        {
+          "form": "найвищий: naj- + вищий",
+          "when_ua": "Najjeftiniji, najbolja, najsvježije: naj- перед вищим ступенем.",
+          "examples": [
+            {
+              "text": "Najjeftiniji sok je ovdje.",
+              "ua": "Найдешевший сік тут.",
+              "audio": "hr-les17-rule-07.mp3"
+            },
+            {
+              "text": "Najbolja kava je u gradu.",
+              "ua": "Найкраща кава в місті.",
+              "audio": "hr-les17-rule-08.mp3"
+            },
+            {
+              "text": "Najsvježije mlijeko je ovdje.",
+              "ua": "Найсвіжіше молоко тут.",
+              "audio": "hr-les17-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Українське най- те саме: найдешевший, найкраща. Безкоштовна перемога."
+        }
+      ],
+      "points_ua": [
+        "Основа + -iji (ч.), -ija (ж.), -ije (с.). Найвищий: naj- + вищий.",
+        "Вищий ступінь змінюється за родом, як українське дешевший, дешевша, дешевше."
+      ]
+    },
+    {
+      "title_ua": "Зміна приголосного: skuplji, ljepši, brži, mlađi",
+      "summary_ua": "У деяких прикметників перед закінченням змінюється кінцевий приголосний: skup → skuplji, lijep → ljepši (ije стає je), brz → brži, mlad → mlađi. Вчи їх як слова. Статті про компарацію це підтверджують (lijep → ljepši).",
+      "compare": [
+        {
+          "form": "skup → skuplji",
+          "when_ua": "Skup (p) стає skuplji (pl). Жіночий skuplja, середній skuplje.",
+          "examples": [
+            {
+              "text": "Sir je skuplji.",
+              "ua": "Сир дорожчий.",
+              "audio": "hr-les17-rule-10.mp3"
+            },
+            {
+              "text": "Kava je skuplja.",
+              "ua": "Кава дорожча.",
+              "audio": "hr-les17-rule-11.mp3"
+            },
+            {
+              "text": "Meso je skuplje.",
+              "ua": "М'ясо дорожче.",
+              "audio": "hr-les17-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Українське дорожчий теж змінює приголосний. Хорватська skuplji, а не «skupiji»."
+        },
+        {
+          "form": "lijep → ljepši; brz → brži; mlad → mlađi",
+          "when_ua": "Lijep: ije скорочується до je. Brz → brži (z стає ž). Mlad → mlađi (d стає đ).",
+          "examples": [
+            {
+              "text": "Sestra je ljepša.",
+              "ua": "Сестра гарніша.",
+              "audio": "hr-les17-rule-13.mp3"
+            },
+            {
+              "text": "Vlak je brži.",
+              "ua": "Поїзд швидший.",
+              "audio": "hr-les17-rule-14.mp3"
+            },
+            {
+              "text": "Brat je mlađi.",
+              "ua": "Брат молодший.",
+              "audio": "hr-les17-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Такі зміни є й в українській (молодший, швидший). Але форми хорватські треба вчити: ljepši, brži, mlađi."
+        }
+      ],
+      "points_ua": [
+        "Skup → skuplji, lijep → ljepši, brz → brži, mlad → mlađi.",
+        "Старий: star → stariji (без зміни приголосного)."
+      ]
+    },
+    {
+      "title_ua": "Неправильні: bolji, veći, manji, gori",
+      "summary_ua": "Кілька вищих ступенів утворюються від іншої основи: dobar → bolji, velik → veći, malen → manji, loš → gori. Їх треба вчити як слова. Українське добрий → кращий, великий → більший, маленький → менший не збігаються за коренем. Лише гірший ~ gori близькі.",
+      "compare": [
+        {
+          "form": "dobar → bolji",
+          "when_ua": "Bolji (ч.), bolja (ж.), bolje (с.). Najbolji, najbolja, najbolje.",
+          "examples": [
+            {
+              "text": "Ovo je bolje.",
+              "ua": "Це краще.",
+              "audio": "hr-les17-rule-16.mp3"
+            },
+            {
+              "text": "Kava je bolja.",
+              "ua": "Кава краща.",
+              "audio": "hr-les17-rule-17.mp3"
+            },
+            {
+              "text": "Najbolji sir je ovdje.",
+              "ua": "Найкращий сир тут.",
+              "audio": "hr-les17-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Не кажи «dobriji»: це помилка. Правильно bolji."
+        },
+        {
+          "form": "velik → veći; malen → manji",
+          "when_ua": "Veći (більший), manji (менший). Знахідний жіночий veću.",
+          "examples": [
+            {
+              "text": "Jabuka je veća.",
+              "ua": "Яблуко більше.",
+              "audio": "hr-les17-rule-19.mp3"
+            },
+            {
+              "text": "Kruh je manji.",
+              "ua": "Хліб менший.",
+              "audio": "hr-les17-rule-20.mp3"
+            },
+            {
+              "text": "Dajte mi veću jabuku.",
+              "ua": "Дайте мені більше яблуко.",
+              "audio": "hr-les17-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Знахідний жіночого роду -u: veću jabuku, як dobru kavu."
+        },
+        {
+          "form": "loš → gori",
+          "when_ua": "Gori (гірший), gora, gore. Тут допомагає українська гірший.",
+          "examples": [
+            {
+              "text": "Ovo je gore.",
+              "ua": "Це гірше.",
+              "audio": "hr-les17-rule-22.mp3"
+            },
+            {
+              "text": "Meso je gore.",
+              "ua": "М'ясо гірше.",
+              "audio": "hr-les17-rule-23.mp3"
+            },
+            {
+              "text": "Vrijeme je gore.",
+              "ua": "Погода гірша.",
+              "audio": "hr-les17-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Vrijeme це «погода» і «час»: polysemy, значення за контекстом."
+        }
+      ],
+      "points_ua": [
+        "Неправильні: bolji, veći, manji, gori. Вчи як слова.",
+        "Gori близьке до українського гірший, решта ні."
+      ]
+    },
+    {
+      "title_ua": "Порівняння: od + родовий, nego, više, manje",
+      "summary_ua": "Порівнюємо двома способами: od + родовий (Sir je skuplji od mesa) або nego + те саме слово в тому самому відмінку (Sok je jeftiniji nego vino). Більше й менше: više + родовий (više kruha), manje + родовий (manje eura).",
+      "compare": [
+        {
+          "form": "od + родовий",
+          "when_ua": "Те, з чим порівнюємо, стоїть у родовому після od.",
+          "examples": [
+            {
+              "text": "Kava je skuplja od mlijeka.",
+              "ua": "Кава дорожча за молоко.",
+              "audio": "hr-les17-rule-25.mp3"
+            },
+            {
+              "text": "Jabuka je manja od limuna.",
+              "ua": "Яблуко менше за лимон.",
+              "audio": "hr-les17-rule-26.mp3"
+            },
+            {
+              "text": "Sestra je ljepša od brata.",
+              "ua": "Сестра гарніша за брата.",
+              "audio": "hr-les17-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Українське «дорожча від молока» теж має родовий (а «за молоко» знахідний), і російське «дороже молока» теж родовий. Хорватською завжди od + родовий."
+        },
+        {
+          "form": "nego, više, manje",
+          "when_ua": "Nego + той самий відмінок. Više і manje + родовий.",
+          "examples": [
+            {
+              "text": "Meso je skuplje nego sir.",
+              "ua": "М'ясо дорожче, ніж сир.",
+              "audio": "hr-les17-rule-28.mp3"
+            },
+            {
+              "text": "Trebam više kruha.",
+              "ua": "Мені потрібно більше хліба.",
+              "audio": "hr-les17-rule-29.mp3"
+            },
+            {
+              "text": "Imam manje eura.",
+              "ua": "У мене менше євро.",
+              "audio": "hr-les17-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Українське «ніж сир» і хорватське nego sir збігаються: обидва в називному."
+        }
+      ],
+      "points_ua": [
+        "Od + родовий: skuplji od mesa. Nego + той самий відмінок: skuplje nego sir.",
+        "Više / manje + родовий: više kruha, manje eura."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Sir je skuplji od mesa.",
+      "ua": "Сир дорожчий за м'ясо.",
+      "audio": "hr-les17-example-01.mp3"
+    },
+    {
+      "text": "Kruh je jeftiniji od sira.",
+      "ua": "Хліб дешевший за сир.",
+      "audio": "hr-les17-example-02.mp3"
+    },
+    {
+      "text": "Sok je jeftiniji nego vino.",
+      "ua": "Сік дешевший, ніж вино.",
+      "audio": "hr-les17-example-03.mp3"
+    },
+    {
+      "text": "Jabuka je veća od limuna.",
+      "ua": "Яблуко більше за лимон.",
+      "audio": "hr-les17-example-04.mp3"
+    },
+    {
+      "text": "Vlak je brži od autobusa.",
+      "ua": "Поїзд швидший за автобус.",
+      "audio": "hr-les17-example-05.mp3"
+    },
+    {
+      "text": "Mlijeko je hladnije od soka.",
+      "ua": "Молоко холодніше за сік.",
+      "audio": "hr-les17-example-06.mp3"
+    },
+    {
+      "text": "Kruh je svježiji nego jučer.",
+      "ua": "Хліб свіжіший, ніж учора.",
+      "audio": "hr-les17-example-07.mp3"
+    },
+    {
+      "text": "Ovo je bolje.",
+      "ua": "Це краще.",
+      "audio": "hr-les17-example-08.mp3"
+    },
+    {
+      "text": "Kava je bolja od mlijeka.",
+      "ua": "Кава краща за молоко.",
+      "audio": "hr-les17-example-09.mp3"
+    },
+    {
+      "text": "Voće je ukusnije od mesa.",
+      "ua": "Фрукти смачніші за м'ясо.",
+      "audio": "hr-les17-example-10.mp3"
+    },
+    {
+      "text": "Imam manje eura.",
+      "ua": "У мене менше євро.",
+      "audio": "hr-les17-example-11.mp3"
+    },
+    {
+      "text": "Trebam više kruha.",
+      "ua": "Мені потрібно більше хліба.",
+      "audio": "hr-les17-example-12.mp3"
+    },
+    {
+      "text": "Dajte mi manji kruh, molim.",
+      "ua": "Дайте мені менший хліб, будь ласка.",
+      "audio": "hr-les17-example-13.mp3"
+    },
+    {
+      "text": "Dajte mi veću jabuku.",
+      "ua": "Дайте мені більше яблуко.",
+      "audio": "hr-les17-example-14.mp3"
+    },
+    {
+      "text": "Najjeftiniji sok je ovdje.",
+      "ua": "Найдешевший сік тут.",
+      "audio": "hr-les17-example-15.mp3"
+    },
+    {
+      "text": "Najbolja kava je u gradu.",
+      "ua": "Найкраща кава в місті.",
+      "audio": "hr-les17-example-16.mp3"
+    },
+    {
+      "text": "Brat je stariji od sestre.",
+      "ua": "Брат старший за сестру.",
+      "audio": "hr-les17-example-17.mp3"
+    },
+    {
+      "text": "Sestra je mlađa od brata.",
+      "ua": "Сестра молодша за брата.",
+      "audio": "hr-les17-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U dućanu",
+    "title_ua": "У магазині",
+    "highlight": [
+      "hr-118bdb9a",
+      "hr-f115be48",
+      "hr-e585c0b7",
+      "hr-92d0e2ab",
+      "hr-fbe3a8ba"
+    ],
+    "sentences": [
+      {
+        "text": "U dućanu je sir skuplji od mesa.",
+        "ua": "У магазині сир дорожчий за м'ясо.",
+        "audio": "hr-les17-reading-01.mp3"
+      },
+      {
+        "text": "Kruh je jeftiniji od sira.",
+        "ua": "Хліб дешевший за сир.",
+        "audio": "hr-les17-reading-02.mp3"
+      },
+      {
+        "text": "Sok je jeftiniji nego vino.",
+        "ua": "Сік дешевший, ніж вино.",
+        "audio": "hr-les17-reading-03.mp3"
+      },
+      {
+        "text": "Dajte mi manji kruh.",
+        "ua": "Дайте мені менший хліб.",
+        "audio": "hr-les17-reading-04.mp3"
+      },
+      {
+        "text": "Trebam više sira.",
+        "ua": "Мені потрібно більше сиру.",
+        "audio": "hr-les17-reading-05.mp3"
+      },
+      {
+        "text": "Cijena je dobra.",
+        "ua": "Ціна хороша.",
+        "audio": "hr-les17-reading-06.mp3"
+      },
+      {
+        "text": "Najjeftiniji sok je ovdje.",
+        "ua": "Найдешевший сік тут.",
+        "audio": "hr-les17-reading-07.mp3"
+      },
+      {
+        "text": "Jabuka je svježija od banane.",
+        "ua": "Яблуко свіжіше за банан.",
+        "audio": "hr-les17-reading-08.mp3"
+      },
+      {
+        "text": "Hvala, kupujem manji kruh.",
+        "ua": "Дякую, я купую менший хліб.",
+        "audio": "hr-les17-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Сир дорожчий за м'ясо.",
+          "accepted": [
+            "Sir je skuplji od mesa.",
+            "Sir je skuplji nego meso."
+          ]
+        },
+        {
+          "prompt": "Хліб дешевший за сир.",
+          "accepted": [
+            "Kruh je jeftiniji od sira.",
+            "Kruh je jeftiniji nego sir."
+          ]
+        },
+        {
+          "prompt": "Сік дешевший, ніж вино.",
+          "accepted": [
+            "Sok je jeftiniji nego vino.",
+            "Sok je jeftiniji od vina."
+          ]
+        },
+        {
+          "prompt": "Яблуко більше за лимон.",
+          "accepted": [
+            "Jabuka je veća od limuna.",
+            "Jabuka je veća nego limun."
+          ]
+        },
+        {
+          "prompt": "Поїзд швидший за автобус.",
+          "accepted": [
+            "Vlak je brži od autobusa."
+          ]
+        },
+        {
+          "prompt": "Молоко холодніше за сік.",
+          "accepted": [
+            "Mlijeko je hladnije od soka.",
+            "Mlijeko je hladnije nego sok."
+          ]
+        },
+        {
+          "prompt": "Хліб свіжіший, ніж учора.",
+          "accepted": [
+            "Kruh je svježiji nego jučer."
+          ]
+        },
+        {
+          "prompt": "Це краще.",
+          "accepted": [
+            "Ovo je bolje."
+          ]
+        },
+        {
+          "prompt": "Кава краща за молоко.",
+          "accepted": [
+            "Kava je bolja od mlijeka.",
+            "Kava je bolja nego mlijeko."
+          ]
+        },
+        {
+          "prompt": "Фрукти смачніші за м'ясо.",
+          "accepted": [
+            "Voće je ukusnije od mesa.",
+            "Voće je ukusnije nego meso."
+          ]
+        },
+        {
+          "prompt": "У мене менше євро.",
+          "accepted": [
+            "Imam manje eura.",
+            "Ja imam manje eura."
+          ]
+        },
+        {
+          "prompt": "Мені потрібно більше хліба.",
+          "accepted": [
+            "Trebam više kruha.",
+            "Ja trebam više kruha."
+          ]
+        },
+        {
+          "prompt": "Дайте мені менший хліб, будь ласка.",
+          "accepted": [
+            "Dajte mi manji kruh, molim."
+          ]
+        },
+        {
+          "prompt": "Найдешевший сік тут.",
+          "accepted": [
+            "Najjeftiniji sok je ovdje."
+          ]
+        },
+        {
+          "prompt": "Брат старший за сестру.",
+          "accepted": [
+            "Brat je stariji od sestre.",
+            "Brat je stariji nego sestra."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "jeftiniji",
+        "jeftinija",
+        "jeftinije",
+        "skuplji",
+        "skuplja",
+        "skuplje",
+        "bolji",
+        "bolja",
+        "bolje",
+        "veći",
+        "veća",
+        "manji",
+        "brži",
+        "stariji",
+        "mlađa",
+        "od"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Kruh je ___ od sira.",
+          "hint": "Хліб дешевший за сир.",
+          "accepted": [
+            [
+              "jeftiniji"
+            ]
+          ]
+        },
+        {
+          "text": "Kava je ___.",
+          "hint": "Кава дешевша.",
+          "accepted": [
+            [
+              "jeftinija"
+            ]
+          ]
+        },
+        {
+          "text": "Mlijeko je ___.",
+          "hint": "Молоко дешевше.",
+          "accepted": [
+            [
+              "jeftinije"
+            ]
+          ]
+        },
+        {
+          "text": "Sir je ___ od mesa.",
+          "hint": "Сир дорожчий за м'ясо.",
+          "accepted": [
+            [
+              "skuplji"
+            ]
+          ]
+        },
+        {
+          "text": "Kava je ___.",
+          "hint": "Кава дорожча.",
+          "accepted": [
+            [
+              "skuplja"
+            ]
+          ]
+        },
+        {
+          "text": "Meso je ___.",
+          "hint": "М'ясо дорожче.",
+          "accepted": [
+            [
+              "skuplje"
+            ]
+          ]
+        },
+        {
+          "text": "Sir je ___.",
+          "hint": "Сир кращий.",
+          "accepted": [
+            [
+              "bolji"
+            ]
+          ]
+        },
+        {
+          "text": "Kava je ___ od mlijeka.",
+          "hint": "Кава краща за молоко.",
+          "accepted": [
+            [
+              "bolja"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je ___.",
+          "hint": "Це краще.",
+          "accepted": [
+            [
+              "bolje"
+            ]
+          ]
+        },
+        {
+          "text": "Jabuka je ___ od limuna.",
+          "hint": "Яблуко більше за лимон.",
+          "accepted": [
+            [
+              "veća"
+            ]
+          ]
+        },
+        {
+          "text": "Kruh je ___ od jabuke.",
+          "hint": "Хліб більший за яблуко.",
+          "accepted": [
+            [
+              "veći"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi ___ kruh.",
+          "hint": "Дайте мені менший хліб.",
+          "accepted": [
+            [
+              "manji"
+            ]
+          ]
+        },
+        {
+          "text": "Vlak je ___ od autobusa.",
+          "hint": "Поїзд швидший за автобус.",
+          "accepted": [
+            [
+              "brži"
+            ]
+          ]
+        },
+        {
+          "text": "Brat je ___ od sestre.",
+          "hint": "Брат старший за сестру.",
+          "accepted": [
+            [
+              "stariji"
+            ]
+          ]
+        },
+        {
+          "text": "Sestra je ___ od brata.",
+          "hint": "Сестра молодша за брата.",
+          "accepted": [
+            [
+              "mlađa"
+            ]
+          ]
+        },
+        {
+          "text": "Sir je skuplji ___ mesa.",
+          "hint": "Сир дорожчий за м'ясо.",
+          "accepted": [
+            [
+              "od"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: вищий ступінь, найвищий або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Sir je skup.",
+          "cue": "-> вищий, від м'яса (meso)",
+          "accepted": [
+            "Sir je skuplji od mesa."
+          ]
+        },
+        {
+          "prompt": "Kruh je jeftin.",
+          "cue": "-> вищий, від сиру (sir)",
+          "accepted": [
+            "Kruh je jeftiniji od sira."
+          ]
+        },
+        {
+          "prompt": "Mlijeko je hladno.",
+          "cue": "-> вищий, від соку (sok)",
+          "accepted": [
+            "Mlijeko je hladnije od soka."
+          ]
+        },
+        {
+          "prompt": "Jabuka je velika.",
+          "cue": "-> вищий, від лимона (limun)",
+          "accepted": [
+            "Jabuka je veća od limuna."
+          ]
+        },
+        {
+          "prompt": "Voće je ukusno.",
+          "cue": "-> вищий, від м'яса (meso)",
+          "accepted": [
+            "Voće je ukusnije od mesa."
+          ]
+        },
+        {
+          "prompt": "Kava je dobra.",
+          "cue": "-> вищий, від молока (mlijeko)",
+          "accepted": [
+            "Kava je bolja od mlijeka."
+          ]
+        },
+        {
+          "prompt": "Vlak je brz.",
+          "cue": "-> вищий, від автобуса (autobus)",
+          "accepted": [
+            "Vlak je brži od autobusa."
+          ]
+        },
+        {
+          "prompt": "Brat je star.",
+          "cue": "-> вищий, від сестри (sestra)",
+          "accepted": [
+            "Brat je stariji od sestre."
+          ]
+        },
+        {
+          "prompt": "Sestra je mlada.",
+          "cue": "-> вищий, від брата (brat)",
+          "accepted": [
+            "Sestra je mlađa od brata."
+          ]
+        },
+        {
+          "prompt": "Jeftin sok je ovdje.",
+          "cue": "-> найвищий",
+          "accepted": [
+            "Najjeftiniji sok je ovdje."
+          ]
+        },
+        {
+          "prompt": "Dobra kava je u gradu.",
+          "cue": "-> найвищий",
+          "accepted": [
+            "Najbolja kava je u gradu."
+          ]
+        },
+        {
+          "prompt": "Sir je skup od mesa.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sir je skuplji od mesa."
+          ]
+        },
+        {
+          "prompt": "Sir je skuplji od meso.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sir je skuplji od mesa."
+          ]
+        },
+        {
+          "prompt": "Kava je bolji od mlijeka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kava je bolja od mlijeka."
+          ]
+        },
+        {
+          "prompt": "Jabuka je veći od limuna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Jabuka je veća od limuna."
+          ]
+        },
+        {
+          "prompt": "Ovo je dobro.",
+          "cue": "-> вищий ступінь",
+          "accepted": [
+            "Ovo je bolje."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ manje eura.",
+          "cue": "imati",
+          "accepted": [
+            "imam"
+          ]
+        },
+        {
+          "text": "Ti ___ više kruha.",
+          "cue": "trebati",
+          "accepted": [
+            "trebaš"
+          ]
+        },
+        {
+          "text": "Majka ___ manji kruh.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuje"
+          ]
+        },
+        {
+          "text": "Mi ___ veću jabuku.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        },
+        {
+          "text": "Vi ___ više sira.",
+          "cue": "trebati",
+          "accepted": [
+            "trebate"
+          ]
+        },
+        {
+          "text": "Djeca ___ manje eura.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Ja ___ više mlijeka.",
+          "cue": "trebati",
+          "accepted": [
+            "trebam"
+          ]
+        },
+        {
+          "text": "Ti ___ manji sok.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuješ"
+          ]
+        },
+        {
+          "text": "Majka ___ veću jabuku.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Oni ___ manje kruha.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Mi ___ više kruha.",
+          "cue": "trebati",
+          "accepted": [
+            "trebamo"
+          ]
+        },
+        {
+          "text": "Brat ___ manji kruh.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuje"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "дешевший",
+          "answer": "jeftiniji"
+        },
+        {
+          "prompt": "дорожчий",
+          "answer": "skuplji"
+        },
+        {
+          "prompt": "кращий",
+          "answer": "bolji"
+        },
+        {
+          "prompt": "більший",
+          "answer": "veći"
+        },
+        {
+          "prompt": "менший",
+          "answer": "manji"
+        },
+        {
+          "prompt": "гірший",
+          "answer": "gori"
+        },
+        {
+          "prompt": "гарніший",
+          "answer": "ljepši"
+        },
+        {
+          "prompt": "старший",
+          "answer": "stariji"
+        },
+        {
+          "prompt": "молодший",
+          "answer": "mlađi"
+        },
+        {
+          "prompt": "швидший",
+          "answer": "brži"
+        },
+        {
+          "prompt": "ціна",
+          "answer": "cijena"
+        },
+        {
+          "prompt": "більше",
+          "answer": "više"
+        },
+        {
+          "prompt": "ніж",
+          "answer": "nego"
+        },
+        {
+          "prompt": "найкращий",
+          "answer": "najbolji"
+        }
+      ],
+      "extra": [
+        "bolje",
+        "manje"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "adjective",
+        "function",
+        "noun"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1161 @@
+{
+  "id": "hr-les-16",
+  "lang": "hr",
+  "order": 16,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-ee072adf",
+      "type": "function",
+      "lemma": "mnogo",
+      "ua": "багато (як puno)",
+      "audio": "hr-mnogo.mp3",
+      "forms": [
+        "sestara",
+        "banaka",
+        "litara",
+        "olovaka",
+        "prijatelja",
+        "učenika",
+        "braće",
+        "djece",
+        "sinova",
+        "gradova"
+      ],
+      "explain_ua": "(Mnogo ljudi = багато людей). Те саме, що puno: після нього родовий (mnogo ljudi, mnogo djece). Тут також зібрані родові множини слів з попередніх уроків: sestara, banaka, litara, olovaka, prijatelja, učenika, braće, djece, sinova, gradova"
+    },
+    {
+      "id": "hr-243d21ac",
+      "type": "noun",
+      "lemma": "čovjek",
+      "gender": "m.",
+      "gen_sg": "čovjeka",
+      "plural": [
+        "ljudi"
+      ],
+      "ua": "людина, чоловік",
+      "audio": "hr-covjek.mp3",
+      "explain_ua": "(U dućanu ima puno ljudi = у магазині багато людей). Неправильна множина: čovjek, але ljudi (таблиця підручника, с. 310). Родовий множини теж ljudi. Українське люди близьке до ljudi: це безкоштовна перемога",
+      "check": "Родовий однини čovjeka з мого знання, у джерелах цього уроку не підтверджено; множину ljudi підтверджено в підручнику."
+    },
+    {
+      "id": "hr-5239ceca",
+      "type": "noun",
+      "lemma": "roditelj",
+      "gender": "m.",
+      "gen_sg": "roditelja",
+      "plural": [
+        "roditelji"
+      ],
+      "ua": "один із батьків; (мн.) батьки",
+      "audio": "hr-roditelj.mp3",
+      "forms": [
+        "roditelja"
+      ],
+      "explain_ua": "(Nema roditelja u školi = батьків у школі немає). Чоловічий рід на -lj, як prijatelj: родовий множини roditelja (як prijatelj-a в таблиці підручника). Roditelji це «батьки», а не «родичі» (родичі це rodbina)",
+      "check": "Форму roditelja з мого знання за зразком prijatelj-a, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-a67fcd97",
+      "type": "noun",
+      "lemma": "dan",
+      "gender": "m.",
+      "gen_sg": "dana",
+      "plural": [
+        "dani"
+      ],
+      "ua": "день",
+      "audio": "hr-dan.mp3",
+      "forms": [
+        "dana"
+      ],
+      "explain_ua": "(Putujem deset dana = я подорожую десять днів). Виняток: родовий множини dana, а не «danova» (хоча слово односкладове). Множина dani",
+      "check": "Те, що dan має родовий множини dana, а не -ova, з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-481b98dc",
+      "type": "noun",
+      "lemma": "mjesec",
+      "gender": "m.",
+      "gen_sg": "mjeseca",
+      "plural": [
+        "mjeseci"
+      ],
+      "ua": "місяць (30 днів; також місяць на небі)",
+      "audio": "hr-mjesec.mp3",
+      "explain_ua": "(Putujem nekoliko mjeseci = я подорожую кілька місяців). Одне слово для «місяць» і «Місяць» (полісемія, не лажний друг). Нестійке -e-: mjesec, mjeseca. Множина mjeseci, родовий множини теж mjeseci",
+      "check": "Форми mjeseca, mjeseci і родовий множини mjeseci з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-719c7790",
+      "type": "noun",
+      "lemma": "kruška",
+      "gender": "ž.",
+      "gen_sg": "kruške",
+      "plural": [
+        "kruške"
+      ],
+      "ua": "груша",
+      "audio": "hr-kruska.mp3",
+      "forms": [
+        "krušaka"
+      ],
+      "explain_ua": "(Dajte mi pet krušaka = дайте мені п'ять груш). Нестійке a: kruška, але в родовому множини krušaka (між š і k з'являється a). Літера š з гачком",
+      "check": "Родовий множини krušaka за правилом нестійкого a з підручника (sestar-a), саме слово там відсутнє."
+    },
+    {
+      "id": "hr-a57a2766",
+      "type": "noun",
+      "lemma": "mrkva",
+      "gender": "ž.",
+      "gen_sg": "mrkve",
+      "plural": [
+        "mrkve"
+      ],
+      "ua": "морква",
+      "audio": "hr-mrkva.mp3",
+      "forms": [
+        "mrkava"
+      ],
+      "explain_ua": "(Kupujem nekoliko mrkava = я купую кілька морквин). Нестійке a між r, k, v: mrkva, mrkava в родовому множини. Збірно кажуть mrkva",
+      "check": "Родовий множини mrkava за правилом нестійкого a, саме слово в підручнику відсутнє."
+    },
+    {
+      "id": "hr-e65eadca",
+      "type": "noun",
+      "lemma": "stanica",
+      "gender": "ž.",
+      "gen_sg": "stanice",
+      "plural": [
+        "stanice"
+      ],
+      "ua": "зупинка, станція",
+      "audio": "hr-stanica.mp3",
+      "explain_ua": "(Stanica je ovdje = зупинка тут). Жіночий рід на -ica. Родовий множини stanica без нестійкого a, форма збігається з називним однини",
+      "check": "Форми stanice, stanica з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-31bfcecc",
+      "type": "noun",
+      "lemma": "karta",
+      "gender": "ž.",
+      "gen_sg": "karte",
+      "plural": [
+        "karte"
+      ],
+      "ua": "квиток; карта",
+      "audio": "hr-karta.mp3",
+      "forms": [
+        "karata"
+      ],
+      "explain_ua": "(Dajte mi pet karata = дайте мені п'ять квитків). Нестійке a між r і t: karta, karata. Це слово значить і «квиток», і «карту» (полісемія, значення за контекстом)",
+      "check": "Родовий множини karata за правилом нестійкого a; саме слово в підручнику відсутнє."
+    },
+    {
+      "id": "hr-e4663d8e",
+      "type": "noun",
+      "lemma": "bilježnica",
+      "gender": "ž.",
+      "gen_sg": "bilježnice",
+      "plural": [
+        "bilježnice"
+      ],
+      "ua": "зошит",
+      "audio": "hr-biljeznica.mp3",
+      "explain_ua": "(Imam puno bilježnica = у мене багато зошитів). Жіночий рід на -ica. Родовий множини bilježnica без змін основи. Літера ž з гачком",
+      "check": "Форми bilježnice, bilježnica з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-9aabe5a7",
+      "type": "noun",
+      "lemma": "minuta",
+      "gender": "ž.",
+      "gen_sg": "minute",
+      "plural": [
+        "minute"
+      ],
+      "ua": "хвилина",
+      "audio": "hr-minuta.mp3",
+      "explain_ua": "(Čekam pet minuta = я чекаю п'ять хвилин). Жіночий рід на -a: родовий множини minuta збігається з називним однини. Після 2, 3, 4: dvije minute (родовий однини)"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Нестійке a: sestra → sestara, kruška → krušaka",
+      "summary_ua": "У родовому множини між двома приголосними наприкінці основи з'являється a: sestra, sestara; litra, litara; kruška, krušaka; olovka, olovaka; karta, karata; banka, banaka; mrkva, mrkava. Підручник теж показує це: «sestr-a → sestar-a, нестійке a (G)». Українська теж вставляє голосну (сестра, сестер), тож ідея знайома.",
+      "compare": [
+        {
+          "form": "-tr: sestara, litara",
+          "when_ua": "Слова на -tr (і -dr, -br) вставляють a: sestra, sestara; litra, litara.",
+          "examples": [
+            {
+              "text": "Imam pet sestara.",
+              "ua": "У мене п'ять сестер.",
+              "audio": "hr-les16-rule-01.mp3"
+            },
+            {
+              "text": "Trebam deset litara vode.",
+              "ua": "Мені потрібно десять літрів води.",
+              "audio": "hr-les16-rule-02.mp3"
+            },
+            {
+              "text": "Nema sestara u razredu.",
+              "ua": "Сестер у класі немає.",
+              "audio": "hr-les16-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: сестер теж має вставну голосну (е), хорватською a."
+        },
+        {
+          "form": "-ška, -ovka, -rta, -nka, -rkva",
+          "when_ua": "Приголосні перед -a: kruška, olovka, karta, banka, mrkva. У родовому множини між ними a.",
+          "examples": [
+            {
+              "text": "Dajte mi pet krušaka.",
+              "ua": "Дайте мені п'ять груш.",
+              "audio": "hr-les16-rule-04.mp3"
+            },
+            {
+              "text": "Imam pet olovaka.",
+              "ua": "У мене п'ять олівців.",
+              "audio": "hr-les16-rule-05.mp3"
+            },
+            {
+              "text": "Dajte mi pet karata, molim.",
+              "ua": "Дайте мені п'ять квитків, будь ласка.",
+              "audio": "hr-les16-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Перед закінченням стоїть група з двох приголосних: šk, vk, rt. Це сигнал для a."
+        },
+        {
+          "form": "без групи: jabuka, bilježnica, minuta",
+          "when_ua": "Коли перед -a стоїть голосна, нічого не вставляється: форма збігається з називним однини (як у Lekciji 15).",
+          "examples": [
+            {
+              "text": "Imam puno jabuka.",
+              "ua": "У мене багато яблук.",
+              "audio": "hr-les16-rule-07.mp3"
+            },
+            {
+              "text": "Imam puno bilježnica.",
+              "ua": "У мене багато зошитів.",
+              "audio": "hr-les16-rule-08.mp3"
+            },
+            {
+              "text": "Čekam pet minuta.",
+              "ua": "Я чекаю п'ять хвилин.",
+              "audio": "hr-les16-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Тест: перед -a два приголосні? Тоді вставляй a. Один приголосний або голосна? Форма та сама."
+        }
+      ],
+      "points_ua": [
+        "Дві приголосні перед -a: вставляй a (sestara, krušaka, olovaka, karata, banaka, mrkava).",
+        "Одна приголосна або голосна: без змін (jabuka, minuta, bilježnica, stanica)."
+      ]
+    },
+    {
+      "title_ua": "Чоловічий рід: -a, -ova, винятки dana і mjeseci",
+      "summary_ua": "Чоловічий рід: довші слова беруть -a (učenika, prijatelja, roditelja), односкладові -ova (kruhova, sinova, gradova). Є винятки: dan має dana, mjesec має mjeseci. Це те саме, що у таблиці підручника (сс. 309-310): putnik-a, prijatelj-a, grad-ov-a.",
+      "compare": [
+        {
+          "form": "довші слова: -a",
+          "when_ua": "Učenik, učenika; prijatelj, prijatelja; roditelj, roditelja.",
+          "examples": [
+            {
+              "text": "U razredu ima dvadeset učenika.",
+              "ua": "У класі двадцять учнів.",
+              "audio": "hr-les16-rule-10.mp3"
+            },
+            {
+              "text": "Imam puno prijatelja.",
+              "ua": "У мене багато друзів.",
+              "audio": "hr-les16-rule-11.mp3"
+            },
+            {
+              "text": "Nema roditelja u školi.",
+              "ua": "Батьків у школі немає.",
+              "audio": "hr-les16-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Українське учнів, друзів теж має закінчення; хорватське просто -a."
+        },
+        {
+          "form": "односкладові: -ova",
+          "when_ua": "Kruh, kruhova; sin, sinova; grad, gradova.",
+          "examples": [
+            {
+              "text": "Dajte mi pet kruhova.",
+              "ua": "Дайте мені п'ять хлібів.",
+              "audio": "hr-les16-rule-13.mp3"
+            },
+            {
+              "text": "Imam pet sinova.",
+              "ua": "У мене п'ять синів.",
+              "audio": "hr-les16-rule-14.mp3"
+            },
+            {
+              "text": "Ima puno gradova.",
+              "ua": "Є багато міст.",
+              "audio": "hr-les16-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає російська (хлебов) і українська (хлібів): теж -ов / -ів."
+        },
+        {
+          "form": "винятки: dana, mjeseci",
+          "when_ua": "Dan має dana (не «danova»), mjesec має mjeseci.",
+          "examples": [
+            {
+              "text": "Putujem deset dana.",
+              "ua": "Я подорожую десять днів.",
+              "audio": "hr-les16-rule-16.mp3"
+            },
+            {
+              "text": "Putujem nekoliko mjeseci.",
+              "ua": "Я подорожую кілька місяців.",
+              "audio": "hr-les16-rule-17.mp3"
+            },
+            {
+              "text": "Čekam pet dana.",
+              "ua": "Я чекаю п'ять днів.",
+              "audio": "hr-les16-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Ці винятки вчи як слова: pet dana, deset mjeseci."
+        }
+      ],
+      "points_ua": [
+        "Довше слово: -a. Односкладове: -ova. Винятки: dana, mjeseci.",
+        "Жіночий рід на -a ми розібрали в Lekciji 15 і вище: без групи форма та сама, з групою вставляй a."
+      ]
+    },
+    {
+      "title_ua": "Неправильні й особливі: ljudi, djece, braće, obitelji",
+      "summary_ua": "Деякі слова мають свою форму родового множини. Čovjek має ljudi (і в множині, і в родовому), dijete має djece, brat має braće, obitelj має obitelji (i-тип: родовий множини дорівнює називному). Це вчиться як слова: таблиця підручника (с. 310) показує ljudi, djece, obitelji.",
+      "compare": [
+        {
+          "form": "ljudi",
+          "when_ua": "Čovjek: ljudi, родовий множини теж ljudi. Українське люди дорівнює ljudi.",
+          "examples": [
+            {
+              "text": "U dućanu ima puno ljudi.",
+              "ua": "У магазині багато людей.",
+              "audio": "hr-les16-rule-19.mp3"
+            },
+            {
+              "text": "Koliko ljudi ima ovdje?",
+              "ua": "Скільки людей тут?",
+              "audio": "hr-les16-rule-20.mp3"
+            },
+            {
+              "text": "Nema ljudi.",
+              "ua": "Людей немає.",
+              "audio": "hr-les16-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Це безкоштовна перемога: люди = ljudi. Українське родовий людей має інше закінчення, а хорватське ljudi."
+        },
+        {
+          "form": "djece, braće",
+          "when_ua": "Dijete: djeca, родовий множини djece. Brat: braća, родовий множини braće.",
+          "examples": [
+            {
+              "text": "Nema djece u školi.",
+              "ua": "Дітей у школі немає.",
+              "audio": "hr-les16-rule-22.mp3"
+            },
+            {
+              "text": "Nema braće i sestara.",
+              "ua": "Братів і сестер немає.",
+              "audio": "hr-les16-rule-23.mp3"
+            },
+            {
+              "text": "Koliko djece ima u razredu?",
+              "ua": "Скільки дітей у класі?",
+              "audio": "hr-les16-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Djeca це «граматично жіночий рід однини» (с. 310): djece, djeci, djecu."
+        },
+        {
+          "form": "obitelji, godina",
+          "when_ua": "Obitelj (тип з нульовим закінченням): родовий множини obitelji. Godina: godina, як minuta.",
+          "examples": [
+            {
+              "text": "U gradu ima puno obitelji.",
+              "ua": "У місті багато родин.",
+              "audio": "hr-les16-rule-25.mp3"
+            },
+            {
+              "text": "Koliko godina imaš?",
+              "ua": "Скільки тобі років?",
+              "audio": "hr-les16-rule-26.mp3"
+            },
+            {
+              "text": "Imam trideset godina.",
+              "ua": "Мені тридцять років.",
+              "audio": "hr-les16-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Godina після 5 і далі: godina (родовий множини), після 2-4: godine (родовий однини)."
+        }
+      ],
+      "points_ua": [
+        "Вчи окремо: ljudi, djece, braće. I-тип: obitelji. Godina без змін.",
+        "Після 2-4 родовий однини, після 5 і далі родовий множини."
+      ]
+    },
+    {
+      "title_ua": "Скільки? Koliko + родовий множини",
+      "summary_ua": "Питання про кількість теж вимагає родового множини: Koliko jaja? Koliko ljudi? Koliko godina? Koliko minuta? Відповідь число або слово кількості + родовий множини.",
+      "compare": [
+        {
+          "form": "Koliko + родовий множини",
+          "when_ua": "Koliko стоїть першим, потім родовий, потім дієслово.",
+          "examples": [
+            {
+              "text": "Koliko jaja imaš?",
+              "ua": "Скільки яєць у тебе?",
+              "audio": "hr-les16-rule-28.mp3"
+            },
+            {
+              "text": "Koliko karata trebaš?",
+              "ua": "Скільки квитків тобі потрібно?",
+              "audio": "hr-les16-rule-29.mp3"
+            },
+            {
+              "text": "Koliko minuta čekaš?",
+              "ua": "Скільки хвилин ти чекаєш?",
+              "audio": "hr-les16-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Українське «скільки яєць, скільки квитків» теж родовий множини: порядок слів той самий."
+        }
+      ],
+      "points_ua": [
+        "Koliko + родовий множини: Koliko jaja, Koliko karata, Koliko minuta."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Imam pet sestara.",
+      "ua": "У мене п'ять сестер.",
+      "audio": "hr-les16-example-01.mp3"
+    },
+    {
+      "text": "U razredu ima dvadeset učenika.",
+      "ua": "У класі двадцять учнів.",
+      "audio": "hr-les16-example-02.mp3"
+    },
+    {
+      "text": "Nema roditelja u školi.",
+      "ua": "Батьків у школі немає.",
+      "audio": "hr-les16-example-03.mp3"
+    },
+    {
+      "text": "Čekam pet minuta.",
+      "ua": "Я чекаю п'ять хвилин.",
+      "audio": "hr-les16-example-04.mp3"
+    },
+    {
+      "text": "Dajte mi pet krušaka.",
+      "ua": "Дайте мені п'ять груш.",
+      "audio": "hr-les16-example-05.mp3"
+    },
+    {
+      "text": "Trebam deset litara vode.",
+      "ua": "Мені потрібно десять літрів води.",
+      "audio": "hr-les16-example-06.mp3"
+    },
+    {
+      "text": "Kupujem nekoliko mrkava.",
+      "ua": "Я купую кілька морквин.",
+      "audio": "hr-les16-example-07.mp3"
+    },
+    {
+      "text": "Imam puno bilježnica.",
+      "ua": "У мене багато зошитів.",
+      "audio": "hr-les16-example-08.mp3"
+    },
+    {
+      "text": "U gradu ima pet banaka.",
+      "ua": "У місті п'ять банків.",
+      "audio": "hr-les16-example-09.mp3"
+    },
+    {
+      "text": "Dajte mi pet karata, molim.",
+      "ua": "Дайте мені п'ять квитків, будь ласка.",
+      "audio": "hr-les16-example-10.mp3"
+    },
+    {
+      "text": "U dućanu ima puno ljudi.",
+      "ua": "У магазині багато людей.",
+      "audio": "hr-les16-example-11.mp3"
+    },
+    {
+      "text": "Koliko ljudi ima ovdje?",
+      "ua": "Скільки людей тут?",
+      "audio": "hr-les16-example-12.mp3"
+    },
+    {
+      "text": "Nema djece u školi.",
+      "ua": "Дітей у школі немає.",
+      "audio": "hr-les16-example-13.mp3"
+    },
+    {
+      "text": "Nema braće i sestara.",
+      "ua": "Братів і сестер немає.",
+      "audio": "hr-les16-example-14.mp3"
+    },
+    {
+      "text": "Putujem deset dana.",
+      "ua": "Я подорожую десять днів.",
+      "audio": "hr-les16-example-15.mp3"
+    },
+    {
+      "text": "Putujem nekoliko mjeseci.",
+      "ua": "Я подорожую кілька місяців.",
+      "audio": "hr-les16-example-16.mp3"
+    },
+    {
+      "text": "Imam puno prijatelja.",
+      "ua": "У мене багато друзів.",
+      "audio": "hr-les16-example-17.mp3"
+    },
+    {
+      "text": "Imam pet olovaka.",
+      "ua": "У мене п'ять олівців.",
+      "audio": "hr-les16-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U školi",
+    "title_ua": "У школі",
+    "highlight": [
+      "hr-ee072adf",
+      "hr-243d21ac",
+      "hr-5239ceca",
+      "hr-a67fcd97",
+      "hr-e4663d8e",
+      "hr-9aabe5a7"
+    ],
+    "sentences": [
+      {
+        "text": "U razredu ima dvadeset učenika.",
+        "ua": "У класі двадцять учнів.",
+        "audio": "hr-les16-reading-01.mp3"
+      },
+      {
+        "text": "Učiteljica ima puno bilježnica.",
+        "ua": "У вчительки багато зошитів.",
+        "audio": "hr-les16-reading-02.mp3"
+      },
+      {
+        "text": "Nema roditelja u školi.",
+        "ua": "Батьків у школі немає.",
+        "audio": "hr-les16-reading-03.mp3"
+      },
+      {
+        "text": "Dajte mi pet olovaka.",
+        "ua": "Дайте мені п'ять олівців.",
+        "audio": "hr-les16-reading-04.mp3"
+      },
+      {
+        "text": "Čekam pet minuta.",
+        "ua": "Я чекаю п'ять хвилин.",
+        "audio": "hr-les16-reading-05.mp3"
+      },
+      {
+        "text": "Nema djece u dućanu.",
+        "ua": "Дітей у магазині немає.",
+        "audio": "hr-les16-reading-06.mp3"
+      },
+      {
+        "text": "Koliko ljudi ima ovdje?",
+        "ua": "Скільки людей тут?",
+        "audio": "hr-les16-reading-07.mp3"
+      },
+      {
+        "text": "Ovdje ima puno ljudi.",
+        "ua": "Тут багато людей.",
+        "audio": "hr-les16-reading-08.mp3"
+      },
+      {
+        "text": "Putujem deset dana.",
+        "ua": "Я подорожую десять днів.",
+        "audio": "hr-les16-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене п'ять сестер.",
+          "accepted": [
+            "Imam pet sestara."
+          ]
+        },
+        {
+          "prompt": "У класі двадцять учнів.",
+          "accepted": [
+            "U razredu ima dvadeset učenika."
+          ]
+        },
+        {
+          "prompt": "Батьків у школі немає.",
+          "accepted": [
+            "Nema roditelja u školi.",
+            "U školi nema roditelja."
+          ]
+        },
+        {
+          "prompt": "Я чекаю п'ять хвилин.",
+          "accepted": [
+            "Čekam pet minuta."
+          ]
+        },
+        {
+          "prompt": "Дайте мені п'ять груш.",
+          "accepted": [
+            "Dajte mi pet krušaka."
+          ]
+        },
+        {
+          "prompt": "Мені потрібно десять літрів води.",
+          "accepted": [
+            "Trebam deset litara vode."
+          ]
+        },
+        {
+          "prompt": "Я купую кілька морквин.",
+          "accepted": [
+            "Kupujem nekoliko mrkava."
+          ]
+        },
+        {
+          "prompt": "У мене багато зошитів.",
+          "accepted": [
+            "Imam puno bilježnica."
+          ]
+        },
+        {
+          "prompt": "У місті п'ять банків.",
+          "accepted": [
+            "U gradu ima pet banaka."
+          ]
+        },
+        {
+          "prompt": "Дайте мені п'ять квитків, будь ласка.",
+          "accepted": [
+            "Dajte mi pet karata, molim."
+          ]
+        },
+        {
+          "prompt": "У магазині багато людей.",
+          "accepted": [
+            "U dućanu ima puno ljudi."
+          ]
+        },
+        {
+          "prompt": "Скільки людей тут?",
+          "accepted": [
+            "Koliko ljudi ima ovdje?"
+          ]
+        },
+        {
+          "prompt": "Дітей у школі немає.",
+          "accepted": [
+            "Nema djece u školi.",
+            "U školi nema djece."
+          ]
+        },
+        {
+          "prompt": "Братів і сестер немає.",
+          "accepted": [
+            "Nema braće i sestara."
+          ]
+        },
+        {
+          "prompt": "Я подорожую десять днів.",
+          "accepted": [
+            "Putujem deset dana."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "sestara",
+        "učenika",
+        "roditelja",
+        "minuta",
+        "krušaka",
+        "litara",
+        "mrkava",
+        "bilježnica",
+        "banaka",
+        "karata",
+        "ljudi",
+        "djece",
+        "braće",
+        "dana",
+        "mjeseci",
+        "prijatelja"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Imam pet ___.",
+          "hint": "У мене п'ять сестер.",
+          "accepted": [
+            [
+              "sestara"
+            ]
+          ]
+        },
+        {
+          "text": "U razredu ima dvadeset ___.",
+          "hint": "У класі двадцять учнів.",
+          "accepted": [
+            [
+              "učenika"
+            ]
+          ]
+        },
+        {
+          "text": "Nema ___ u školi.",
+          "hint": "Батьків у школі немає.",
+          "accepted": [
+            [
+              "roditelja"
+            ]
+          ]
+        },
+        {
+          "text": "Čekam pet ___.",
+          "hint": "Я чекаю п'ять хвилин.",
+          "accepted": [
+            [
+              "minuta"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi pet ___.",
+          "hint": "Дайте мені п'ять груш.",
+          "accepted": [
+            [
+              "krušaka"
+            ]
+          ]
+        },
+        {
+          "text": "Trebam deset ___ vode.",
+          "hint": "Мені потрібно десять літрів води.",
+          "accepted": [
+            [
+              "litara"
+            ]
+          ]
+        },
+        {
+          "text": "Kupujem nekoliko ___.",
+          "hint": "Я купую кілька морквин.",
+          "accepted": [
+            [
+              "mrkava"
+            ]
+          ]
+        },
+        {
+          "text": "Imam puno ___.",
+          "hint": "У мене багато зошитів.",
+          "accepted": [
+            [
+              "bilježnica"
+            ]
+          ]
+        },
+        {
+          "text": "U gradu ima pet ___.",
+          "hint": "У місті п'ять банків.",
+          "accepted": [
+            [
+              "banaka"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi pet ___, molim.",
+          "hint": "Дайте мені п'ять квитків.",
+          "accepted": [
+            [
+              "karata"
+            ]
+          ]
+        },
+        {
+          "text": "U dućanu ima puno ___.",
+          "hint": "У магазині багато людей.",
+          "accepted": [
+            [
+              "ljudi"
+            ]
+          ]
+        },
+        {
+          "text": "Nema ___ u školi.",
+          "hint": "Дітей у школі немає.",
+          "accepted": [
+            [
+              "djece"
+            ]
+          ]
+        },
+        {
+          "text": "Nema ___ i sestara.",
+          "hint": "Братів і сестер немає.",
+          "accepted": [
+            [
+              "braće"
+            ]
+          ]
+        },
+        {
+          "text": "Putujem deset ___.",
+          "hint": "Я подорожую десять днів.",
+          "accepted": [
+            [
+              "dana"
+            ]
+          ]
+        },
+        {
+          "text": "Putujem nekoliko ___.",
+          "hint": "Я подорожую кілька місяців.",
+          "accepted": [
+            [
+              "mjeseci"
+            ]
+          ]
+        },
+        {
+          "text": "Imam puno ___.",
+          "hint": "У мене багато друзів.",
+          "accepted": [
+            [
+              "prijatelja"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: п'ять замість двох або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Imam dvije sestre.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet sestara."
+          ]
+        },
+        {
+          "prompt": "Imam dvije olovke.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet olovaka."
+          ]
+        },
+        {
+          "prompt": "Dajte mi dvije kruške.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Dajte mi pet krušaka."
+          ]
+        },
+        {
+          "prompt": "Dajte mi dvije karte.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Dajte mi pet karata."
+          ]
+        },
+        {
+          "prompt": "Trebam dvije mrkve.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Trebam pet mrkava."
+          ]
+        },
+        {
+          "prompt": "U gradu ima dvije banke.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "U gradu ima pet banaka."
+          ]
+        },
+        {
+          "prompt": "Čekam dvije minute.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Čekam pet minuta."
+          ]
+        },
+        {
+          "prompt": "Imam dvije bilježnice.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet bilježnica."
+          ]
+        },
+        {
+          "prompt": "U razredu ima dva učenika.",
+          "cue": "-> двадцять (dvadeset)",
+          "accepted": [
+            "U razredu ima dvadeset učenika."
+          ]
+        },
+        {
+          "prompt": "Putujem dva dana.",
+          "cue": "-> десять (deset)",
+          "accepted": [
+            "Putujem deset dana."
+          ]
+        },
+        {
+          "prompt": "Imam dva brata.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet braće."
+          ]
+        },
+        {
+          "prompt": "Imam pet sestra.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam pet sestara."
+          ]
+        },
+        {
+          "prompt": "Dajte mi pet kruška.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajte mi pet krušaka."
+          ]
+        },
+        {
+          "prompt": "Imam pet olovka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam pet olovaka."
+          ]
+        },
+        {
+          "prompt": "Nema djeca u školi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nema djece u školi."
+          ]
+        },
+        {
+          "prompt": "Imam puno prijatelji.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam puno prijatelja."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ pet sestara.",
+          "cue": "imati",
+          "accepted": [
+            "imam"
+          ]
+        },
+        {
+          "text": "Ti ___ puno prijatelja.",
+          "cue": "imati",
+          "accepted": [
+            "imaš"
+          ]
+        },
+        {
+          "text": "Mi ___ pet krušaka.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        },
+        {
+          "text": "Majka ___ pet karata.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuje"
+          ]
+        },
+        {
+          "text": "Djeca ___ pet olovaka.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Ja ___ pet minuta.",
+          "cue": "čekati",
+          "accepted": [
+            "čekam"
+          ]
+        },
+        {
+          "text": "Ti ___ deset dana.",
+          "cue": "putovati",
+          "accepted": [
+            "putuješ"
+          ]
+        },
+        {
+          "text": "Mi ___ nekoliko mjeseci.",
+          "cue": "putovati",
+          "accepted": [
+            "putujemo"
+          ]
+        },
+        {
+          "text": "Vi ___ deset litara vode.",
+          "cue": "trebati",
+          "accepted": [
+            "trebate"
+          ]
+        },
+        {
+          "text": "Ja ___ vam pet karata.",
+          "cue": "davati",
+          "accepted": [
+            "dajem"
+          ]
+        },
+        {
+          "text": "Učitelj ___ puno učenika.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Oni ___ puno ljudi.",
+          "cue": "čekati",
+          "accepted": [
+            "čekaju"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "багато",
+          "answer": "mnogo"
+        },
+        {
+          "prompt": "людина",
+          "answer": "čovjek"
+        },
+        {
+          "prompt": "один із батьків",
+          "answer": "roditelj"
+        },
+        {
+          "prompt": "день",
+          "answer": "dan"
+        },
+        {
+          "prompt": "місяць",
+          "answer": "mjesec"
+        },
+        {
+          "prompt": "груша",
+          "answer": "kruška"
+        },
+        {
+          "prompt": "морква",
+          "answer": "mrkva"
+        },
+        {
+          "prompt": "зупинка",
+          "answer": "stanica"
+        },
+        {
+          "prompt": "квиток",
+          "answer": "karta"
+        },
+        {
+          "prompt": "зошит",
+          "answer": "bilježnica"
+        },
+        {
+          "prompt": "хвилина",
+          "answer": "minuta"
+        },
+        {
+          "prompt": "сестра",
+          "answer": "sestra"
+        },
+        {
+          "prompt": "банк",
+          "answer": "banka"
+        },
+        {
+          "prompt": "олівець",
+          "answer": "olovka"
+        },
+        {
+          "prompt": "літр",
+          "answer": "litra"
+        },
+        {
+          "prompt": "люди",
+          "answer": "ljudi"
+        }
+      ],
+      "extra": [
+        "dijete",
+        "brat"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}
