@@ -1,0 +1,1383 @@
+{
+  "id": "hr-les-13",
+  "lang": "hr",
+  "order": 13,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "za"
+  ],
+  "notes": [
+    {
+      "id": "hr-5fbc3d4c",
+      "type": "clitic",
+      "lemma": "me",
+      "slot": "2",
+      "ua": "мене (коротка форма, знахідний)",
+      "audio": "hr-me.mp3",
+      "forms": [
+        "te",
+        "ga",
+        "je",
+        "ju",
+        "nas",
+        "vas",
+        "ih"
+      ],
+      "example_order": "Vidim te.",
+      "explain_ua": "(Vidim te = я бачу тебе). Короткі форми знахідного: me (мене), te (тебе), ga (його), je або ju (її), nas (нас), vas (вас), ih (їх). Це клітики: слабкі слова на другому місці після дієслова або першої групи: Vidim te, Ti me vidiš, Učiteljica me zove. Обережно: je це і «її», і «є» (Vidim je = я бачу її; Majka je ovdje = мама тут)"
+    },
+    {
+      "id": "hr-2976f7a7",
+      "type": "function",
+      "lemma": "mene",
+      "ua": "мене (довга форма: родовий, знахідний)",
+      "audio": "hr-mene.mp3",
+      "forms": [
+        "tebe",
+        "njega",
+        "nju",
+        "njih",
+        "meni",
+        "tebi",
+        "njemu",
+        "njoj",
+        "nama",
+        "vama",
+        "njima"
+      ],
+      "explain_ua": "(Poruka je za tebe = повідомлення для тебе). Довгі форми: mene, tebe, njega, nju, nas, vas, njih; давальний: meni, tebi, njemu, njoj, nama, vama, njima. Їх вживають після прийменника (za tebe), на початку речення (Mene čeka učiteljica) і самостійно (Koga čekaš? Mene.). Українські мене, тебе збігаються з хорватськими mene, tebe, а решта (njega, nju, njih) не схожа на його, її, їх"
+    },
+    {
+      "id": "hr-48406276",
+      "type": "function",
+      "lemma": "koga",
+      "ua": "кого",
+      "audio": "hr-koga.mp3",
+      "explain_ua": "(Koga čekaš? = кого ти чекаєш?). Знахідний і родовий від tko. Питання про людину, на яку спрямована дія: Koga vidiš? Koga zoveš?"
+    },
+    {
+      "id": "hr-61f69d20",
+      "type": "verb",
+      "lemma": "čekati",
+      "aspect": "impf.",
+      "partner": "pričekati",
+      "pres_1sg": "čekam",
+      "forms": [
+        "pričekati",
+        "pričekam"
+      ],
+      "ua": "чекати",
+      "audio": "hr-cekati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "čekam",
+          "audio": "hr-ja-cekam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "čekaš",
+          "audio": "hr-ti-cekas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "čeka",
+          "audio": "hr-on-ceka.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "čekamo",
+          "audio": "hr-mi-cekamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "čekate",
+          "audio": "hr-vi-cekate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "čekaju",
+          "audio": "hr-oni-cekaju.mp3"
+        }
+      ],
+      "explain_ua": "(Čekam vas = я чекаю вас). Тип -am (чекати є в списку підручника). Після čekati знахідний без прийменника: čekam te, čekam ga. Українське чекати схоже",
+      "check": "Пару čekati / pričekati і форму pričekam з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-98f8e740",
+      "type": "verb",
+      "lemma": "zvati",
+      "aspect": "impf.",
+      "partner": "nazvati",
+      "pres_1sg": "zovem",
+      "forms": [
+        "nazvati",
+        "nazovem",
+        "nazovite"
+      ],
+      "ua": "кликати, дзвонити, називати",
+      "audio": "hr-zvati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "zovem",
+          "audio": "hr-ja-zovem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "zoveš",
+          "audio": "hr-ti-zoves.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "zove",
+          "audio": "hr-on-zove.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "zovemo",
+          "audio": "hr-mi-zovemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "zovete",
+          "audio": "hr-vi-zovete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "zovu",
+          "audio": "hr-oni-zovu.mp3"
+        }
+      ],
+      "explain_ua": "(Učiteljica me zove = вчителька кличе мене). Нерегулярне: zvati, але в теперішньому zov-: zovem, zoveš, zove, zovemo, zovete, zovu. Пара: zvati (недок.) / nazvati (док., nazovem). Наказовий: Nazovite me, molim = зателефонуйте мені",
+      "check": "Пару zvati / nazvati і форми nazovem, nazovite з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-44bec65e",
+      "type": "verb",
+      "lemma": "trebati",
+      "aspect": "impf.",
+      "pres_1sg": "trebam",
+      "ua": "потребувати, бути потрібним",
+      "audio": "hr-trebati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "trebam",
+          "audio": "hr-ja-trebam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "trebaš",
+          "audio": "hr-ti-trebas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "treba",
+          "audio": "hr-on-treba.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "trebamo",
+          "audio": "hr-mi-trebamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "trebate",
+          "audio": "hr-vi-trebate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "trebaju",
+          "audio": "hr-oni-trebaju.mp3"
+        }
+      ],
+      "explain_ua": "(Trebam te = ти мені потрібен, я потребую тебе). Тип -am. У цьому уроці лише в значенні «я потребую когось або щось» з знахідним: trebam te, trebam kruh. Без пари",
+      "check": "Значення trebati і те, що пари немає, з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-c332e152",
+      "type": "verb",
+      "lemma": "pitati",
+      "aspect": "impf.",
+      "pres_1sg": "pitam",
+      "ua": "питати",
+      "audio": "hr-pitati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "pitam",
+          "audio": "hr-ja-pitam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "pitaš",
+          "audio": "hr-ti-pitas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "pita",
+          "audio": "hr-on-pita.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "pitamo",
+          "audio": "hr-mi-pitamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "pitate",
+          "audio": "hr-vi-pitate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "pitaju",
+          "audio": "hr-oni-pitaju.mp3"
+        }
+      ],
+      "explain_ua": "(Pitam ga = я питаю його). Тип -am. Після pitati знахідний: pitam ga, pitam je. Пари тут не вчимо",
+      "check": "Пари для pitati і форми з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-2694fb4f",
+      "type": "noun",
+      "lemma": "telefon",
+      "gender": "m.",
+      "gen_sg": "telefona",
+      "plural": [
+        "telefoni"
+      ],
+      "ua": "телефон",
+      "audio": "hr-telefon.mp3",
+      "explain_ua": "(Telefon je ovdje = телефон тут). Запозичене слово чоловічого роду, неживе: знахідний без змін. Множина telefoni",
+      "check": "Форми telefona, telefoni з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-f70ae3d1",
+      "type": "noun",
+      "lemma": "poruka",
+      "gender": "ž.",
+      "gen_sg": "poruke",
+      "plural": [
+        "poruke"
+      ],
+      "ua": "повідомлення",
+      "audio": "hr-poruka.mp3",
+      "explain_ua": "(Poruka je za tebe = повідомлення для тебе). Жіночий рід на -a. Знахідний poruku, множина poruke",
+      "check": "Форми poruke, poruku з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-46a7349c",
+      "type": "noun",
+      "lemma": "razred",
+      "gender": "m.",
+      "gen_sg": "razreda",
+      "plural": [
+        "razredi"
+      ],
+      "ua": "клас (у школі)",
+      "audio": "hr-razred.mp3",
+      "forms": [
+        "razredu"
+      ],
+      "explain_ua": "(Učitelj je u razredu = вчитель у класі). Чоловічий рід, неживе. Місцевий razredu: u razredu = у класі. Множина razredi",
+      "check": "Форми razreda, razredu, razredi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-274db200",
+      "type": "noun",
+      "lemma": "ocjena",
+      "gender": "ž.",
+      "gen_sg": "ocjene",
+      "plural": [
+        "ocjene"
+      ],
+      "ua": "оцінка",
+      "audio": "hr-ocjena.mp3",
+      "explain_ua": "(Ocjena je dobra = оцінка хороша). Жіночий рід на -a. Літера c перед j: ocjena. Множина ocjene",
+      "check": "Форми ocjene, ocjene (множина) з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-23800b7f",
+      "type": "noun",
+      "lemma": "učitelj",
+      "gender": "m.",
+      "gen_sg": "učitelja",
+      "plural": [
+        "učitelji"
+      ],
+      "ua": "вчитель (чоловік)",
+      "audio": "hr-ucitelj.mp3",
+      "explain_ua": "(Učitelj je u razredu = вчитель у класі). Чоловічий рід, живе: знахідний дорівнює родовому (učitelja). Жіноча форма učiteljica з Lekcije 1. Lj наприкінці, як у prijatelj"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Короткі форми: Vidim te. Volim ga. Čekam vas.",
+      "summary_ua": "Знахідний особових займенників має короткі форми me, te, ga, je (ju), nas, vas, ih. Це клітики: слабкі слова на другому місці після дієслова або першої групи. Українські мене, тебе близькі до mene, tebe, але його, її, їх інші: ga, je, ih треба вчити.",
+      "compare": [
+        {
+          "form": "me, te, ga",
+          "when_ua": "Me (мене), te (тебе), ga (його). Клітик на другому місці: Vidim te, Ti me vidiš.",
+          "examples": [
+            {
+              "text": "Ti me vidiš.",
+              "ua": "Ти бачиш мене.",
+              "audio": "hr-les13-rule-01.mp3"
+            },
+            {
+              "text": "Vidim te.",
+              "ua": "Я бачу тебе.",
+              "audio": "hr-les13-rule-02.mp3"
+            },
+            {
+              "text": "Učitelj ga zove.",
+              "ua": "Вчитель кличе його.",
+              "audio": "hr-les13-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Ga це «його» для ч. і с. роду: Vidim ga (брата, пса, сир)."
+        },
+        {
+          "form": "je (ju), nas, vas",
+          "when_ua": "Je (її), nas (нас), vas (вас). Je значить «її» і «є»: за контекстом.",
+          "examples": [
+            {
+              "text": "Zovem je.",
+              "ua": "Я кличу її.",
+              "audio": "hr-les13-rule-04.mp3"
+            },
+            {
+              "text": "Majka nas čeka.",
+              "ua": "Мама чекає нас.",
+              "audio": "hr-les13-rule-05.mp3"
+            },
+            {
+              "text": "Čekam vas ovdje.",
+              "ua": "Я чекаю вас тут.",
+              "audio": "hr-les13-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Nas і vas однакові в довгій і короткій формах."
+        },
+        {
+          "form": "ih (їх)",
+          "when_ua": "Ih для всіх родів множини: oni, one, ona.",
+          "examples": [
+            {
+              "text": "Čekam ih.",
+              "ua": "Я чекаю їх.",
+              "audio": "hr-les13-rule-07.mp3"
+            },
+            {
+              "text": "Vidim ih u školi.",
+              "ua": "Я бачу їх у школі.",
+              "audio": "hr-les13-rule-08.mp3"
+            },
+            {
+              "text": "Dijete ih gleda.",
+              "ua": "Дитина дивиться на них.",
+              "audio": "hr-les13-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Всі короткі форми точно такі, як у таблиці підручника (с. 312)."
+        }
+      ],
+      "points_ua": [
+        "Короткі: me, te, ga, je (ju), nas, vas, ih. Вони не стоять першим словом речення.",
+        "Опирайся на українське мене, тебе: це майже збігається. Для його, її, їх (ga, je, ih) опори нема."
+      ]
+    },
+    {
+      "title_ua": "Де стоїть клітик: другий у реченні",
+      "summary_ua": "Короткий займенник стоїть на другому місці: після першого слова або першої групи. Vidim te (дієслово перше, потім te). Ti me vidiš (займенник ti перший, me другий). U školi te vidim. Це те саме правило, що для sam, je, ću.",
+      "compare": [
+        {
+          "form": "дієслово перше, клітик другий",
+          "when_ua": "Коли речення починається дієсловом, клітик іде одразу за ним.",
+          "examples": [
+            {
+              "text": "Vidim te.",
+              "ua": "Я бачу тебе.",
+              "audio": "hr-les13-rule-10.mp3"
+            },
+            {
+              "text": "Čekam vas.",
+              "ua": "Я чекаю вас.",
+              "audio": "hr-les13-rule-11.mp3"
+            },
+            {
+              "text": "Pitam ga.",
+              "ua": "Я питаю його.",
+              "audio": "hr-les13-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Дієслово перше, клітик другий. Не «te vidim» на початку."
+        },
+        {
+          "form": "інше слово перше, клітик другий",
+          "when_ua": "Підмет, слово часу або група стоять першими, клітик одразу за ними.",
+          "examples": [
+            {
+              "text": "Učiteljica me zove.",
+              "ua": "Вчителька кличе мене.",
+              "audio": "hr-les13-rule-13.mp3"
+            },
+            {
+              "text": "Danas vas čekam.",
+              "ua": "Сьогодні я чекаю вас.",
+              "audio": "hr-les13-rule-14.mp3"
+            },
+            {
+              "text": "U školi te vidim.",
+              "ua": "У школі я бачу тебе.",
+              "audio": "hr-les13-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Це той самий порядок, що в Majka je ovdje з Lekcije 1. Клітик після першого слова або групи."
+        }
+      ],
+      "points_ua": [
+        "Клітик на другому місці: Vidim te, Majka me zove, U školi te vidim.",
+        "Два клітики разом (Dajte mi ga) ми ще не вчимо: порядок я перевірю за граматикою."
+      ]
+    },
+    {
+      "title_ua": "Довгі форми: za tebe, Mene čeka, Koga? Mene.",
+      "summary_ua": "Довгі форми mene, tebe, njega, nju, nas, vas, njih вживають у трьох випадках: після прийменника, на початку речення (щоб підкреслити) і самостійно. Поза цим кажуть коротку форму.",
+      "compare": [
+        {
+          "form": "після прийменника",
+          "when_ua": "Після za (для) завжди довга форма: za mene, za tebe, za njega, za nju.",
+          "examples": [
+            {
+              "text": "Poruka je za tebe.",
+              "ua": "Повідомлення для тебе.",
+              "audio": "hr-les13-rule-16.mp3"
+            },
+            {
+              "text": "Knjiga je za njega.",
+              "ua": "Книжка для нього.",
+              "audio": "hr-les13-rule-17.mp3"
+            },
+            {
+              "text": "Ocjena je za nju.",
+              "ua": "Оцінка для неї.",
+              "audio": "hr-les13-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Не «za te»: після прийменника коротка форма не стоїть."
+        },
+        {
+          "form": "на початку речення",
+          "when_ua": "Коли займенник перший у реченні, він довгий і підкреслений.",
+          "examples": [
+            {
+              "text": "Mene čeka učiteljica.",
+              "ua": "Мене чекає вчителька.",
+              "audio": "hr-les13-rule-19.mp3"
+            },
+            {
+              "text": "Tebe zove učitelj.",
+              "ua": "Тебе кличе вчитель.",
+              "audio": "hr-les13-rule-20.mp3"
+            },
+            {
+              "text": "Njega gleda dijete.",
+              "ua": "На нього дивиться дитина.",
+              "audio": "hr-les13-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Тут важливо: довга форма вже займає перше місце, тому клітика не потрібно."
+        },
+        {
+          "form": "самостійно",
+          "when_ua": "Як коротка відповідь на питання Koga? довга форма.",
+          "examples": [
+            {
+              "text": "Koga čekaš? Mene.",
+              "ua": "Кого ти чекаєш? Мене.",
+              "audio": "hr-les13-rule-22.mp3"
+            },
+            {
+              "text": "Koga zove učiteljica? Tebe.",
+              "ua": "Кого кличе вчителька? Тебе.",
+              "audio": "hr-les13-rule-23.mp3"
+            },
+            {
+              "text": "Koga vidiš? Njega.",
+              "ua": "Кого ти бачиш? Його.",
+              "audio": "hr-les13-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Це все точно за таблицею підручника: після прийменника, на початку, самостійно."
+        }
+      ],
+      "points_ua": [
+        "Довга форма: після прийменника (za tebe), на початку речення (Mene čeka), самостійно (Mene).",
+        "В інших випадках коротка: Vidim te, не «Vidim tebe» (хіба що підкреслюєш)."
+      ]
+    },
+    {
+      "title_ua": "Je це «її» чи «є»?",
+      "summary_ua": "Слово je має два значення. Після дієслова зазвичай «її» (знахідний, клітик): Vidim je. Але в Majka je ovdje це «є» (допоміжне biti). Різниця за контекстом: чи є далі дієслово або місце.",
+      "compare": [
+        {
+          "form": "je = її (знахідний)",
+          "when_ua": "Je після дієслова, коли йдеться про жінку, на яку діє дія.",
+          "examples": [
+            {
+              "text": "Vidim je u školi.",
+              "ua": "Я бачу її в школі.",
+              "audio": "hr-les13-rule-25.mp3"
+            },
+            {
+              "text": "Pitam je.",
+              "ua": "Я питаю її.",
+              "audio": "hr-les13-rule-26.mp3"
+            },
+            {
+              "text": "Čekam je ovdje.",
+              "ua": "Я чекаю її тут.",
+              "audio": "hr-les13-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Іноді замість je кажуть ju (Vidim ju): обидві форми правильні, за підручником."
+        },
+        {
+          "form": "je = є (biti)",
+          "when_ua": "Je після підмета: Majka je ovdje. Тут je це sam, si, je з Lekcije 1.",
+          "examples": [
+            {
+              "text": "Majka je ovdje.",
+              "ua": "Мама тут.",
+              "audio": "hr-les13-rule-28.mp3"
+            },
+            {
+              "text": "Učiteljica je u razredu.",
+              "ua": "Вчителька в класі.",
+              "audio": "hr-les13-rule-29.mp3"
+            },
+            {
+              "text": "Poruka je za tebe.",
+              "ua": "Повідомлення для тебе.",
+              "audio": "hr-les13-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Після підмета (Majka, Učiteljica, Poruka) je значить «є»."
+        }
+      ],
+      "points_ua": [
+        "Je після дієслова = її. Je після підмета = є.",
+        "Ju те саме, що je у значенні «її»."
+      ]
+    },
+    {
+      "title_ua": "Довгі давальні: meni, tebi, njemu, njoj",
+      "summary_ua": "Давальний теж має довгі форми: meni, tebi, njemu, njoj, nama, vama, njima. Вони для підкреслення або після прийменника. Короткі mi, ti, mu, joj, nam, vam, im з Lekcije 8 для звичайної мови.",
+      "compare": [
+        {
+          "form": "довгі давальні",
+          "when_ua": "Довга форма підкреслює: Dajem knjigu tebi, a ne njemu.",
+          "examples": [
+            {
+              "text": "Dajem knjigu tebi.",
+              "ua": "Даю книжку тобі.",
+              "audio": "hr-les13-rule-31.mp3"
+            },
+            {
+              "text": "Dajem olovku njoj.",
+              "ua": "Даю олівець їй.",
+              "audio": "hr-les13-rule-32.mp3"
+            },
+            {
+              "text": "Dajte meni sir.",
+              "ua": "Дайте мені сир.",
+              "audio": "hr-les13-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Звичайно кажуть Dajte mi sir. Dajte meni sir підкреслює, що саме мені, а не комусь іншому."
+        }
+      ],
+      "points_ua": [
+        "Довгі давальні: meni, tebi, njemu, njoj, nama, vama, njima.",
+        "Короткі mi, ti, mu, joj, nam, vam, im для звичайної мови."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Vidim te.",
+      "ua": "Я бачу тебе.",
+      "audio": "hr-les13-example-01.mp3"
+    },
+    {
+      "text": "Volim ga.",
+      "ua": "Я люблю його.",
+      "audio": "hr-les13-example-02.mp3"
+    },
+    {
+      "text": "Čekam vas.",
+      "ua": "Я чекаю вас.",
+      "audio": "hr-les13-example-03.mp3"
+    },
+    {
+      "text": "Učiteljica me zove.",
+      "ua": "Вчителька кличе мене.",
+      "audio": "hr-les13-example-04.mp3"
+    },
+    {
+      "text": "Zovem je.",
+      "ua": "Я кличу її.",
+      "audio": "hr-les13-example-05.mp3"
+    },
+    {
+      "text": "Čekam ih ovdje.",
+      "ua": "Я чекаю їх тут.",
+      "audio": "hr-les13-example-06.mp3"
+    },
+    {
+      "text": "Pitam ga.",
+      "ua": "Я питаю його.",
+      "audio": "hr-les13-example-07.mp3"
+    },
+    {
+      "text": "Trebam te.",
+      "ua": "Я потребую тебе.",
+      "audio": "hr-les13-example-08.mp3"
+    },
+    {
+      "text": "Majka nas čeka.",
+      "ua": "Мама чекає нас.",
+      "audio": "hr-les13-example-09.mp3"
+    },
+    {
+      "text": "Sir? Kupujem ga u dućanu.",
+      "ua": "Сир? Я купую його в магазині.",
+      "audio": "hr-les13-example-10.mp3"
+    },
+    {
+      "text": "Mene čeka učiteljica.",
+      "ua": "Мене чекає вчителька.",
+      "audio": "hr-les13-example-11.mp3"
+    },
+    {
+      "text": "Koga čekaš? Mene.",
+      "ua": "Кого ти чекаєш? Мене.",
+      "audio": "hr-les13-example-12.mp3"
+    },
+    {
+      "text": "Poruka je za tebe.",
+      "ua": "Повідомлення для тебе.",
+      "audio": "hr-les13-example-13.mp3"
+    },
+    {
+      "text": "Ocjena je dobra.",
+      "ua": "Оцінка хороша.",
+      "audio": "hr-les13-example-14.mp3"
+    },
+    {
+      "text": "Učitelj je u razredu.",
+      "ua": "Вчитель у класі.",
+      "audio": "hr-les13-example-15.mp3"
+    },
+    {
+      "text": "Nazovite me, molim.",
+      "ua": "Зателефонуйте мені, будь ласка.",
+      "audio": "hr-les13-example-16.mp3"
+    },
+    {
+      "text": "Vidim je u školi.",
+      "ua": "Я бачу її в школі.",
+      "audio": "hr-les13-example-17.mp3"
+    },
+    {
+      "text": "Dijete nas gleda.",
+      "ua": "Дитина дивиться на нас.",
+      "audio": "hr-les13-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U školi",
+    "title_ua": "У школі",
+    "highlight": [
+      "hr-5fbc3d4c",
+      "hr-46a7349c",
+      "hr-274db200",
+      "hr-23800b7f"
+    ],
+    "sentences": [
+      {
+        "text": "Danas sam u školi.",
+        "ua": "Сьогодні я в школі.",
+        "audio": "hr-les13-reading-01.mp3"
+      },
+      {
+        "text": "Učiteljica me zove.",
+        "ua": "Вчителька кличе мене.",
+        "audio": "hr-les13-reading-02.mp3"
+      },
+      {
+        "text": "Vidim je u razredu.",
+        "ua": "Я бачу її в класі.",
+        "audio": "hr-les13-reading-03.mp3"
+      },
+      {
+        "text": "Učitelj ih čeka.",
+        "ua": "Вчитель чекає їх.",
+        "audio": "hr-les13-reading-04.mp3"
+      },
+      {
+        "text": "Ocjena je dobra.",
+        "ua": "Оцінка хороша.",
+        "audio": "hr-les13-reading-05.mp3"
+      },
+      {
+        "text": "Dijete me gleda.",
+        "ua": "Дитина дивиться на мене.",
+        "audio": "hr-les13-reading-06.mp3"
+      },
+      {
+        "text": "Majka nas čeka ovdje.",
+        "ua": "Мама чекає нас тут.",
+        "audio": "hr-les13-reading-07.mp3"
+      },
+      {
+        "text": "Nazovite me, molim.",
+        "ua": "Зателефонуйте мені, будь ласка.",
+        "audio": "hr-les13-reading-08.mp3"
+      },
+      {
+        "text": "Hvala, zovem vas sutra.",
+        "ua": "Дякую, я зателефоную вам завтра.",
+        "audio": "hr-les13-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я бачу тебе.",
+          "accepted": [
+            "Vidim te.",
+            "Ja te vidim."
+          ]
+        },
+        {
+          "prompt": "Я люблю його.",
+          "accepted": [
+            "Volim ga.",
+            "Ja ga volim."
+          ]
+        },
+        {
+          "prompt": "Я чекаю вас.",
+          "accepted": [
+            "Čekam vas.",
+            "Ja vas čekam."
+          ]
+        },
+        {
+          "prompt": "Вчителька кличе мене.",
+          "accepted": [
+            "Učiteljica me zove."
+          ]
+        },
+        {
+          "prompt": "Я кличу її.",
+          "accepted": [
+            "Zovem je.",
+            "Ja je zovem."
+          ]
+        },
+        {
+          "prompt": "Я чекаю їх тут.",
+          "accepted": [
+            "Čekam ih ovdje.",
+            "Ja ih čekam ovdje."
+          ]
+        },
+        {
+          "prompt": "Я питаю його.",
+          "accepted": [
+            "Pitam ga.",
+            "Ja ga pitam."
+          ]
+        },
+        {
+          "prompt": "Я потребую тебе.",
+          "accepted": [
+            "Trebam te.",
+            "Ja te trebam."
+          ]
+        },
+        {
+          "prompt": "Мама чекає нас.",
+          "accepted": [
+            "Majka nas čeka."
+          ]
+        },
+        {
+          "prompt": "Сир? Я купую його в магазині.",
+          "accepted": [
+            "Sir? Kupujem ga u dućanu.",
+            "Sir? Kupujem ga u trgovini."
+          ]
+        },
+        {
+          "prompt": "Мене чекає вчителька.",
+          "accepted": [
+            "Mene čeka učiteljica."
+          ]
+        },
+        {
+          "prompt": "Кого ти чекаєш? Мене.",
+          "accepted": [
+            "Koga čekaš? Mene.",
+            "Koga ti čekaš? Mene."
+          ]
+        },
+        {
+          "prompt": "Повідомлення для тебе.",
+          "accepted": [
+            "Poruka je za tebe."
+          ]
+        },
+        {
+          "prompt": "Оцінка хороша.",
+          "accepted": [
+            "Ocjena je dobra."
+          ]
+        },
+        {
+          "prompt": "Зателефонуйте мені, будь ласка.",
+          "accepted": [
+            "Nazovite me, molim.",
+            "Molim, nazovite me."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "me",
+        "te",
+        "ga",
+        "je",
+        "nas",
+        "vas",
+        "ih",
+        "tebe",
+        "nju",
+        "njega",
+        "Mene",
+        "Koga",
+        "dobra",
+        "zove",
+        "čeka",
+        "razredu"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ti ___ vidiš.",
+          "hint": "Ти бачиш мене.",
+          "accepted": [
+            [
+              "me"
+            ]
+          ]
+        },
+        {
+          "text": "Vidim ___.",
+          "hint": "Я бачу тебе.",
+          "accepted": [
+            [
+              "te"
+            ]
+          ]
+        },
+        {
+          "text": "Volim ___.",
+          "hint": "Я люблю його.",
+          "accepted": [
+            [
+              "ga"
+            ]
+          ]
+        },
+        {
+          "text": "Zovem ___.",
+          "hint": "Я кличу її.",
+          "accepted": [
+            [
+              "je",
+              "ju"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ čeka.",
+          "hint": "Мама чекає нас.",
+          "accepted": [
+            [
+              "nas"
+            ]
+          ]
+        },
+        {
+          "text": "Čekam ___.",
+          "hint": "Я чекаю вас.",
+          "accepted": [
+            [
+              "vas"
+            ]
+          ]
+        },
+        {
+          "text": "Čekam ___ ovdje.",
+          "hint": "Я чекаю їх тут.",
+          "accepted": [
+            [
+              "ih"
+            ]
+          ]
+        },
+        {
+          "text": "Poruka je za ___.",
+          "hint": "Повідомлення для тебе.",
+          "accepted": [
+            [
+              "tebe"
+            ]
+          ]
+        },
+        {
+          "text": "Ocjena je za ___.",
+          "hint": "Оцінка для неї.",
+          "accepted": [
+            [
+              "nju"
+            ]
+          ]
+        },
+        {
+          "text": "Knjiga je za ___.",
+          "hint": "Книжка для нього.",
+          "accepted": [
+            [
+              "njega"
+            ]
+          ]
+        },
+        {
+          "text": "___ čeka učiteljica.",
+          "hint": "Мене чекає вчителька.",
+          "accepted": [
+            [
+              "Mene"
+            ]
+          ]
+        },
+        {
+          "text": "___ čekaš?",
+          "hint": "Кого ти чекаєш?",
+          "accepted": [
+            [
+              "Koga"
+            ]
+          ]
+        },
+        {
+          "text": "Učiteljica me ___.",
+          "hint": "Вчителька кличе мене.",
+          "accepted": [
+            [
+              "zove"
+            ]
+          ]
+        },
+        {
+          "text": "Majka nas ___.",
+          "hint": "Мама чекає нас.",
+          "accepted": [
+            [
+              "čeka"
+            ]
+          ]
+        },
+        {
+          "text": "Učitelj je u ___.",
+          "hint": "Вчитель у класі.",
+          "accepted": [
+            [
+              "razredu"
+            ]
+          ]
+        },
+        {
+          "text": "Ocjena je ___.",
+          "hint": "Оцінка хороша.",
+          "accepted": [
+            [
+              "dobra"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: клітик, питання, довга форма або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Vidim brata.",
+          "cue": "-> заміни на клітик",
+          "accepted": [
+            "Vidim ga."
+          ]
+        },
+        {
+          "prompt": "Volim sestru.",
+          "cue": "-> заміни на клітик",
+          "accepted": [
+            "Volim je.",
+            "Volim ju."
+          ]
+        },
+        {
+          "prompt": "Vidim psa.",
+          "cue": "-> заміни на клітик",
+          "accepted": [
+            "Vidim ga."
+          ]
+        },
+        {
+          "prompt": "Čitam knjigu.",
+          "cue": "-> заміни на клітик",
+          "accepted": [
+            "Čitam je.",
+            "Čitam ju."
+          ]
+        },
+        {
+          "prompt": "Kupujem kavu.",
+          "cue": "-> заміни на клітик",
+          "accepted": [
+            "Kupujem je.",
+            "Kupujem ju."
+          ]
+        },
+        {
+          "prompt": "Zovem sina.",
+          "cue": "-> заміни на клітик",
+          "accepted": [
+            "Zovem ga."
+          ]
+        },
+        {
+          "prompt": "Vidim oca.",
+          "cue": "-> заміни на клітик",
+          "accepted": [
+            "Vidim ga."
+          ]
+        },
+        {
+          "prompt": "Majka čeka mene.",
+          "cue": "-> короткий клітик",
+          "accepted": [
+            "Majka me čeka."
+          ]
+        },
+        {
+          "prompt": "Učiteljica zove tebe.",
+          "cue": "-> короткий клітик",
+          "accepted": [
+            "Učiteljica te zove."
+          ]
+        },
+        {
+          "prompt": "Učitelj čeka njih.",
+          "cue": "-> короткий клітик",
+          "accepted": [
+            "Učitelj ih čeka."
+          ]
+        },
+        {
+          "prompt": "Dajte sir.",
+          "cue": "-> додай «мені» (клітик)",
+          "accepted": [
+            "Dajte mi sir."
+          ]
+        },
+        {
+          "prompt": "Ti vidiš mene.",
+          "cue": "-> питання з li (ти бачиш мене?)",
+          "accepted": [
+            "Vidiš li me?"
+          ]
+        },
+        {
+          "prompt": "Ti vidiš me.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ti me vidiš."
+          ]
+        },
+        {
+          "prompt": "Me vidiš.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidiš me."
+          ]
+        },
+        {
+          "prompt": "Poruka je za te.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poruka je za tebe."
+          ]
+        },
+        {
+          "prompt": "Vidim ti.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim te."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ te.",
+          "cue": "čekati",
+          "accepted": [
+            "čekam"
+          ]
+        },
+        {
+          "text": "Ti ___ me.",
+          "cue": "čekati",
+          "accepted": [
+            "čekaš"
+          ]
+        },
+        {
+          "text": "Majka ___ nas.",
+          "cue": "čekati",
+          "accepted": [
+            "čeka"
+          ]
+        },
+        {
+          "text": "Mi ___ vas.",
+          "cue": "čekati",
+          "accepted": [
+            "čekamo"
+          ]
+        },
+        {
+          "text": "Djeca ___ me.",
+          "cue": "čekati",
+          "accepted": [
+            "čekaju"
+          ]
+        },
+        {
+          "text": "Ja ___ je.",
+          "cue": "zvati",
+          "accepted": [
+            "zovem"
+          ]
+        },
+        {
+          "text": "Ti ___ ga.",
+          "cue": "zvati",
+          "accepted": [
+            "zoveš"
+          ]
+        },
+        {
+          "text": "Učiteljica ___ me.",
+          "cue": "zvati",
+          "accepted": [
+            "zove"
+          ]
+        },
+        {
+          "text": "Mi ___ vas.",
+          "cue": "zvati",
+          "accepted": [
+            "zovemo"
+          ]
+        },
+        {
+          "text": "Oni ___ me.",
+          "cue": "zvati",
+          "accepted": [
+            "zovu"
+          ]
+        },
+        {
+          "text": "Ja ___ te.",
+          "cue": "trebati",
+          "accepted": [
+            "trebam"
+          ]
+        },
+        {
+          "text": "Ti ___ me.",
+          "cue": "trebati",
+          "accepted": [
+            "trebaš"
+          ]
+        },
+        {
+          "text": "Mi ___ vas.",
+          "cue": "trebati",
+          "accepted": [
+            "trebamo"
+          ]
+        },
+        {
+          "text": "Ja ___ ga.",
+          "cue": "pitati",
+          "accepted": [
+            "pitam"
+          ]
+        },
+        {
+          "text": "Ti ___ je.",
+          "cue": "pitati",
+          "accepted": [
+            "pitaš"
+          ]
+        },
+        {
+          "text": "Učitelj ___ me.",
+          "cue": "pitati",
+          "accepted": [
+            "pita"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "чекати",
+          "answer": "čekati"
+        },
+        {
+          "prompt": "кликати, дзвонити",
+          "answer": "zvati"
+        },
+        {
+          "prompt": "потребувати",
+          "answer": "trebati"
+        },
+        {
+          "prompt": "питати",
+          "answer": "pitati"
+        },
+        {
+          "prompt": "телефон",
+          "answer": "telefon"
+        },
+        {
+          "prompt": "повідомлення",
+          "answer": "poruka"
+        },
+        {
+          "prompt": "клас (у школі)",
+          "answer": "razred"
+        },
+        {
+          "prompt": "оцінка",
+          "answer": "ocjena"
+        },
+        {
+          "prompt": "вчитель (чоловік)",
+          "answer": "učitelj"
+        },
+        {
+          "prompt": "мене (довга форма)",
+          "answer": "mene"
+        },
+        {
+          "prompt": "тебе (коротка форма)",
+          "answer": "te"
+        },
+        {
+          "prompt": "його (коротка форма)",
+          "answer": "ga"
+        },
+        {
+          "prompt": "її (коротка форма)",
+          "answer": "je"
+        },
+        {
+          "prompt": "кого",
+          "answer": "koga"
+        },
+        {
+          "prompt": "мені (довга форма)",
+          "answer": "meni"
+        }
+      ],
+      "extra": [
+        "nazvati",
+        "pričekati"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

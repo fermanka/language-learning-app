@@ -1,0 +1,1237 @@
+{
+  "id": "hr-les-14",
+  "lang": "hr",
+  "order": 14,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-74713bb8",
+      "type": "function",
+      "lemma": "s",
+      "ua": "з (з ким, з чим)",
+      "audio": "hr-s.mp3",
+      "forms": [
+        "sa",
+        "učiteljicom",
+        "učiteljem",
+        "prijateljem",
+        "sestrom",
+        "bratom",
+        "ocem",
+        "majkom",
+        "psom",
+        "djetetom",
+        "mesom",
+        "sirom",
+        "mnom",
+        "tobom",
+        "njim",
+        "njom"
+      ],
+      "explain_ua": "(Idem s bratom = йду з братом; Kava sa šlagom = кава з вершками). Прийменник s (sa) вимагає орудного відмінка: s bratom, s učiteljicom. Sa стоїть перед s, š, z, ž і в деяких скупченнях: sa šlagom, sa sestrom, sa mnom. Тут зібрані орудні слів з попередніх уроків: učiteljicom, učiteljem, prijateljem, sestrom, bratom, ocem, psom, djetetom, mesom, sirom, а також mnom, tobom, njim, njom",
+      "check": "Форми ocem і sirom, mesom, bratom з мого знання за зразками підручника (putnik-om, prijatelj-em, sel-om); окремих слів у підручнику немає."
+    },
+    {
+      "id": "hr-76413f07",
+      "type": "noun",
+      "lemma": "autobus",
+      "gender": "m.",
+      "gen_sg": "autobusa",
+      "plural": [
+        "autobusi"
+      ],
+      "ua": "автобус",
+      "audio": "hr-autobus.mp3",
+      "forms": [
+        "autobusom"
+      ],
+      "explain_ua": "(Idem autobusom = їду автобусом). Засіб пересування без прийменника: autobusom. Орудний чоловічого роду -om, як в українській автобусом",
+      "check": "Форми autobusa, autobusi, autobusom з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-9e6ccf5a",
+      "type": "noun",
+      "lemma": "vlak",
+      "gender": "m.",
+      "gen_sg": "vlaka",
+      "plural": [
+        "vlakovi"
+      ],
+      "ua": "поїзд",
+      "audio": "hr-vlak.mp3",
+      "forms": [
+        "vlakom"
+      ],
+      "explain_ua": "(Putujemo vlakom = ми подорожуємо поїздом). Орудний vlakom без прийменника (с. 305 підручника). Множина vlakovi з вставкою -ov-",
+      "check": "Множину vlakovi з мого знання, у джерелах цього уроку не підтверджено; орудний vlakom підтверджено в підручнику."
+    },
+    {
+      "id": "hr-74f03636",
+      "type": "noun",
+      "lemma": "auto",
+      "gender": "s.",
+      "gen_sg": "auta",
+      "plural": [
+        "auta"
+      ],
+      "ua": "автомобіль, машина",
+      "audio": "hr-auto.mp3",
+      "forms": [
+        "autom"
+      ],
+      "explain_ua": "(Idemo autom u grad = їдемо машиною в місто). Середній рід: auto, auta, орудний autom. У підручнику aut-o, aut-a, aut-om"
+    },
+    {
+      "id": "hr-40abc6b8",
+      "type": "noun",
+      "lemma": "tramvaj",
+      "gender": "m.",
+      "gen_sg": "tramvaja",
+      "plural": [
+        "tramvaji"
+      ],
+      "ua": "трамвай",
+      "audio": "hr-tramvaj.mp3",
+      "forms": [
+        "tramvajem"
+      ],
+      "explain_ua": "(Majka ide tramvajem = мама їде трамваєм). Після j закінчення -em (м'який приголосний): tramvajem, як prijateljem. У підручнику Trčimo za tramvajem",
+      "check": "Форми tramvaja, tramvaji з мого знання; орудний tramvajem підтверджено в підручнику."
+    },
+    {
+      "id": "hr-b8b7b9c1",
+      "type": "noun",
+      "lemma": "krumpir",
+      "gender": "m.",
+      "gen_sg": "krumpira",
+      "plural": [
+        "krumpiri"
+      ],
+      "ua": "картопля",
+      "audio": "hr-krumpir.mp3",
+      "forms": [
+        "krumpirom",
+        "krumpira"
+      ],
+      "explain_ua": "(Meso s krumpirom = м'ясо з картоплею). Чоловічий рід, а українська картопля жіночого: krumpir, krumpirom. Родовий krumpira: vrećica krumpira. У підручнику Jedem blitvu s krumpirom",
+      "check": "Форми krumpira, krumpiri з мого знання; орудний krumpirom підтверджено в підручнику."
+    },
+    {
+      "id": "hr-a71f460d",
+      "type": "noun",
+      "lemma": "juha",
+      "gender": "ž.",
+      "gen_sg": "juhe",
+      "plural": [
+        "juhe"
+      ],
+      "ua": "суп",
+      "audio": "hr-juha.mp3",
+      "explain_ua": "(Juha s povrćem je ukusna = суп з овочами смачний). Жіночий рід на -a: juha, juhe, знахідний juhu. Українське суп чоловічого роду, тож рід змінюється",
+      "check": "Форми juhe, juhu з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-9d3c824a",
+      "type": "noun",
+      "lemma": "riža",
+      "gender": "ž.",
+      "gen_sg": "riže",
+      "plural": [
+        "riže"
+      ],
+      "ua": "рис",
+      "audio": "hr-riza.mp3",
+      "forms": [
+        "rižom"
+      ],
+      "explain_ua": "(Juha s rižom je dobra = суп з рисом хороший). Жіночий рід на -a: riža, riže, орудний rižom (-om, не -ою як в українській). Літера ž з гачком",
+      "check": "Форми riže, rižom з мого знання за зразком sestr-om, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-72fdaec4",
+      "type": "noun",
+      "lemma": "salata",
+      "gender": "ž.",
+      "gen_sg": "salate",
+      "plural": [
+        "salate"
+      ],
+      "ua": "салат",
+      "audio": "hr-salata.mp3",
+      "explain_ua": "(Salata sa sirom je dobra = салат із сиром хороший). Жіночий рід на -a: salata, salate, знахідний salatu. Українське салат чоловічого, тож рід змінюється",
+      "check": "Форми salate, salatu з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-d26fe84e",
+      "type": "noun",
+      "lemma": "šlag",
+      "gender": "m.",
+      "gen_sg": "šlaga",
+      "plural": [
+        "šlagovi"
+      ],
+      "ua": "збиті вершки",
+      "audio": "hr-slag.mp3",
+      "forms": [
+        "šlagom"
+      ],
+      "explain_ua": "(Kava sa šlagom = кава зі збитими вершками). Sa перед š: sa šlagom. У підручнику Pijemo kavu sa šlagom",
+      "check": "Множину šlagovi з мого знання; орудний šlagom підтверджено в підручнику."
+    },
+    {
+      "id": "hr-de48edc3",
+      "type": "noun",
+      "lemma": "povrće",
+      "gender": "s.",
+      "gen_sg": "povrća",
+      "plural": [
+        "povrća"
+      ],
+      "ua": "овочі",
+      "audio": "hr-povrce.mp3",
+      "forms": [
+        "povrćem"
+      ],
+      "explain_ua": "(Juha s povrćem = суп з овочами). Povrće це овочі, а voće (Lekcija 4) це фрукти. Українське овочі схоже на хорватське voće, тож тут легко переплутати. Збірне слово середнього роду, орудний povrćem",
+      "check": "Форми povrća, povrćem з мого знання за зразком polj-em; у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-0a2441b2",
+      "type": "verb",
+      "lemma": "šetati",
+      "aspect": "impf.",
+      "pres_1sg": "šetam",
+      "ua": "гуляти, ходити пішки",
+      "audio": "hr-setati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "šetam",
+          "audio": "hr-ja-setam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "šetaš",
+          "audio": "hr-ti-setas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "šeta",
+          "audio": "hr-on-seta.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "šetamo",
+          "audio": "hr-mi-setamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "šetate",
+          "audio": "hr-vi-setate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "šetaju",
+          "audio": "hr-oni-setaju.mp3"
+        }
+      ],
+      "explain_ua": "(Šetam s prijateljem = гуляю з другом). Тип -am (šetati є в списку підручника, с. 315). Літера š з гачком. Без пари"
+    },
+    {
+      "id": "hr-bc6594e8",
+      "type": "verb",
+      "lemma": "razgovarati",
+      "aspect": "impf.",
+      "pres_1sg": "razgovaram",
+      "ua": "розмовляти",
+      "audio": "hr-razgovarati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "razgovaram",
+          "audio": "hr-ja-razgovaram.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "razgovaraš",
+          "audio": "hr-ti-razgovaras.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "razgovara",
+          "audio": "hr-on-razgovara.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "razgovaramo",
+          "audio": "hr-mi-razgovaramo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "razgovarate",
+          "audio": "hr-vi-razgovarate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "razgovaraju",
+          "audio": "hr-oni-razgovaraju.mp3"
+        }
+      ],
+      "explain_ua": "(Razgovaram s učiteljicom = розмовляю з вчителькою). Тип -am (razgovarati є в списку підручника). Після нього s і орудний: razgovarati s nekim. Без пари"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Орудний відмінок однини: vlakom, s učiteljicom, s prijateljem",
+      "summary_ua": "Орудний (з ким? чим?) в однині: чоловічий і середній рід -om (vlakom, autom), після м'яких приголосних -em (prijateljem, tramvajem); жіночий -om (sestrom, rižom); слова на приголосний жіночого роду -i (obitelji). Українська допомагає для чоловічого роду (братом = bratom), але жіночий в українській -ою, а в хорватській -om.",
+      "compare": [
+        {
+          "form": "чоловічий рід: -om / -em",
+          "when_ua": "Vlak, vlakom; autobus, autobusom; prijatelj, prijateljem; tramvaj, tramvajem.",
+          "examples": [
+            {
+              "text": "Putujem vlakom.",
+              "ua": "Я подорожую поїздом.",
+              "audio": "hr-les14-rule-01.mp3"
+            },
+            {
+              "text": "Idem autobusom.",
+              "ua": "Я їду автобусом.",
+              "audio": "hr-les14-rule-02.mp3"
+            },
+            {
+              "text": "Šetam s prijateljem.",
+              "ua": "Я гуляю з другом.",
+              "audio": "hr-les14-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: -ом / -ем, як братом, другом. Після j, lj, nj закінчення -em."
+        },
+        {
+          "form": "жіночий рід: -om",
+          "when_ua": "Жіночий на -a: -a стає -om: učiteljica, učiteljicom; sestra, sestrom; riža, rižom. Не -ою!",
+          "examples": [
+            {
+              "text": "Razgovaram s učiteljicom.",
+              "ua": "Я розмовляю з вчителькою.",
+              "audio": "hr-les14-rule-04.mp3"
+            },
+            {
+              "text": "Idem sa sestrom.",
+              "ua": "Я йду з сестрою.",
+              "audio": "hr-les14-rule-05.mp3"
+            },
+            {
+              "text": "Juha s rižom je dobra.",
+              "ua": "Суп з рисом хороший.",
+              "audio": "hr-les14-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Українське сестрою і російське сестрой мають -ою / -ой, а хорватське sestrom просто -om, як у чоловічому. Тут українська вводить в оману."
+        },
+        {
+          "form": "середній рід і obitelj",
+          "when_ua": "Середній: dijete → djetetom, auto → autom. Жіночий без -a (тип obitelj) бере -i: s obitelji.",
+          "examples": [
+            {
+              "text": "Šetam s djetetom.",
+              "ua": "Я гуляю з дитиною.",
+              "audio": "hr-les14-rule-07.mp3"
+            },
+            {
+              "text": "Putujemo autom.",
+              "ua": "Ми подорожуємо машиною.",
+              "audio": "hr-les14-rule-08.mp3"
+            },
+            {
+              "text": "Putujemo s obitelji.",
+              "ua": "Ми подорожуємо з родиною.",
+              "audio": "hr-les14-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Dijete має основу djet-et-: djetetom, як у таблиці підручника (с. 309). Obitelj в орудному obitelji (с. 310)."
+        }
+      ],
+      "points_ua": [
+        "Чоловічий і середній: -om (після м'яких -em). Жіночий на -a: -om. Obitelj: -i.",
+        "Українське братом допомагає, але сестрою ні: хорватською sestrom.",
+        "Форми підтверджені таблицею підручника (сс. 309-310)."
+      ]
+    },
+    {
+      "title_ua": "Що значить орудний: з ким, чим, з чим їсти",
+      "summary_ua": "Орудний має три головні значення. Товариство: s bratom (з ким). Засіб пересування: putujem vlakom (без прийменника). Додаток до їжі: kava sa šlagom, meso s krumpirom (з чим). Прийменник s (sa) потрібен лише для товариства і додатка, а засіб пересування без нього.",
+      "compare": [
+        {
+          "form": "з ким: s bratom",
+          "when_ua": "Товариство: хто ще бере участь. Прийменник s (sa).",
+          "examples": [
+            {
+              "text": "Idem u školu s bratom.",
+              "ua": "Я йду в школу з братом.",
+              "audio": "hr-les14-rule-10.mp3"
+            },
+            {
+              "text": "Dijete je sa psom.",
+              "ua": "Дитина з собакою.",
+              "audio": "hr-les14-rule-11.mp3"
+            },
+            {
+              "text": "Majka je sa sestrom.",
+              "ua": "Мама з сестрою.",
+              "audio": "hr-les14-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Українське з братом, з собакою: порядок той самий. Pas в орудному psom (ps-om, с. 309)."
+        },
+        {
+          "form": "чим їхати: vlakom (без s)",
+          "when_ua": "Засіб пересування: без прийменника, лише орудний.",
+          "examples": [
+            {
+              "text": "Idemo tramvajem.",
+              "ua": "Ми їдемо трамваєм.",
+              "audio": "hr-les14-rule-13.mp3"
+            },
+            {
+              "text": "Majka putuje vlakom.",
+              "ua": "Мама подорожує поїздом.",
+              "audio": "hr-les14-rule-14.mp3"
+            },
+            {
+              "text": "Idem autobusom u grad.",
+              "ua": "Я їду автобусом у місто.",
+              "audio": "hr-les14-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: їду автобусом, без «з». Не «s autobusom»."
+        },
+        {
+          "form": "з чим їсти: sa šlagom",
+          "when_ua": "Додаток до їжі: s (sa) і орудний.",
+          "examples": [
+            {
+              "text": "Kava sa šlagom.",
+              "ua": "Кава з вершками.",
+              "audio": "hr-les14-rule-16.mp3"
+            },
+            {
+              "text": "Meso s krumpirom.",
+              "ua": "М'ясо з картоплею.",
+              "audio": "hr-les14-rule-17.mp3"
+            },
+            {
+              "text": "Salata sa sirom.",
+              "ua": "Салат із сиром.",
+              "audio": "hr-les14-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Sa перед š і s: sa šlagom, sa sirom. Перед іншими приголосними s."
+        }
+      ],
+      "points_ua": [
+        "З ким або з чим: s (sa) + орудний. Чим їхати: тільки орудний, без s.",
+        "Приклади з їжі близькі до підручника: kava sa šlagom, meso s krumpirom."
+      ]
+    },
+    {
+      "title_ua": "s чи sa, і займенники: sa mnom, s tobom",
+      "summary_ua": "Прийменник має дві форми: s і sa. Sa стоїть перед s, š, z, ž (sa sestrom, sa šlagom, sa sirom) і перед mnom (sa mnom). Орудний займенників: mnom, tobom, njim, njom, nama, vama, njima.",
+      "compare": [
+        {
+          "form": "s і sa",
+          "when_ua": "Перед s, š, z, ž береш sa. В інших випадках s.",
+          "examples": [
+            {
+              "text": "Šetam s ocem.",
+              "ua": "Я гуляю з батьком.",
+              "audio": "hr-les14-rule-19.mp3"
+            },
+            {
+              "text": "Idem sa sestrom.",
+              "ua": "Я йду з сестрою.",
+              "audio": "hr-les14-rule-20.mp3"
+            },
+            {
+              "text": "Kava sa šlagom.",
+              "ua": "Кава з вершками.",
+              "audio": "hr-les14-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Ocem: otac з нестійким a випадає: otac, ocem. Sa перед sestrom і šlagom."
+        },
+        {
+          "form": "займенники: mnom, tobom, njim, njom",
+          "when_ua": "Sa mnom (зі мною), s tobom (з тобою), s njim (з ним), s njom (з нею), s nama, s vama, s njima (с. 312).",
+          "examples": [
+            {
+              "text": "Idem s tobom.",
+              "ua": "Я йду з тобою.",
+              "audio": "hr-les14-rule-22.mp3"
+            },
+            {
+              "text": "Majka razgovara s njom.",
+              "ua": "Мама розмовляє з нею.",
+              "audio": "hr-les14-rule-23.mp3"
+            },
+            {
+              "text": "Idete li sa mnom?",
+              "ua": "Ви йдете зі мною?",
+              "audio": "hr-les14-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Займенники орудного ти бачиш у таблиці підручника: sa mnom, s tobom, s njim, s njom."
+        }
+      ],
+      "points_ua": [
+        "S перед більшістю слів, sa перед s, š, z, ž і mnom.",
+        "Орудний займенників: mnom, tobom, njim, njom, nama, vama, njima."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Putujem vlakom.",
+      "ua": "Я подорожую поїздом.",
+      "audio": "hr-les14-example-01.mp3"
+    },
+    {
+      "text": "Idem autobusom.",
+      "ua": "Я їду автобусом.",
+      "audio": "hr-les14-example-02.mp3"
+    },
+    {
+      "text": "Idemo autom u grad.",
+      "ua": "Ми їдемо машиною в місто.",
+      "audio": "hr-les14-example-03.mp3"
+    },
+    {
+      "text": "Majka ide tramvajem.",
+      "ua": "Мама їде трамваєм.",
+      "audio": "hr-les14-example-04.mp3"
+    },
+    {
+      "text": "Kava sa šlagom, molim.",
+      "ua": "Каву з вершками, будь ласка.",
+      "audio": "hr-les14-example-05.mp3"
+    },
+    {
+      "text": "Meso s krumpirom.",
+      "ua": "М'ясо з картоплею.",
+      "audio": "hr-les14-example-06.mp3"
+    },
+    {
+      "text": "Juha s povrćem je ukusna.",
+      "ua": "Суп з овочами смачний.",
+      "audio": "hr-les14-example-07.mp3"
+    },
+    {
+      "text": "Riža s mesom je ukusna.",
+      "ua": "Рис з м'ясом смачний.",
+      "audio": "hr-les14-example-08.mp3"
+    },
+    {
+      "text": "Šetam s prijateljem.",
+      "ua": "Я гуляю з другом.",
+      "audio": "hr-les14-example-09.mp3"
+    },
+    {
+      "text": "Razgovaram s učiteljicom.",
+      "ua": "Я розмовляю з вчителькою.",
+      "audio": "hr-les14-example-10.mp3"
+    },
+    {
+      "text": "Sestra razgovara s učiteljem.",
+      "ua": "Сестра розмовляє з вчителем.",
+      "audio": "hr-les14-example-11.mp3"
+    },
+    {
+      "text": "Idem u školu s bratom.",
+      "ua": "Я йду в школу з братом.",
+      "audio": "hr-les14-example-12.mp3"
+    },
+    {
+      "text": "Majka je sa sestrom u dućanu.",
+      "ua": "Мама з сестрою в магазині.",
+      "audio": "hr-les14-example-13.mp3"
+    },
+    {
+      "text": "Dijete šeta s ocem.",
+      "ua": "Дитина гуляє з батьком.",
+      "audio": "hr-les14-example-14.mp3"
+    },
+    {
+      "text": "Ja sam sa psom u parku.",
+      "ua": "Я з собакою в парку.",
+      "audio": "hr-les14-example-15.mp3"
+    },
+    {
+      "text": "Idete li sa mnom u park?",
+      "ua": "Ви йдете зі мною в парк?",
+      "audio": "hr-les14-example-16.mp3"
+    },
+    {
+      "text": "Idem s tobom u dućan.",
+      "ua": "Я йду з тобою в магазин.",
+      "audio": "hr-les14-example-17.mp3"
+    },
+    {
+      "text": "Salata sa sirom je dobra.",
+      "ua": "Салат із сиром хороший.",
+      "audio": "hr-les14-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Vikend",
+    "title_ua": "Вихідні",
+    "highlight": [
+      "hr-74713bb8",
+      "hr-76413f07",
+      "hr-9e6ccf5a",
+      "hr-b8b7b9c1",
+      "hr-a71f460d",
+      "hr-d26fe84e",
+      "hr-de48edc3"
+    ],
+    "sentences": [
+      {
+        "text": "Idući vikend putujemo vlakom.",
+        "ua": "На наступних вихідних ми подорожуємо поїздом.",
+        "audio": "hr-les14-reading-01.mp3"
+      },
+      {
+        "text": "Putujemo s obitelji.",
+        "ua": "Ми подорожуємо з родиною.",
+        "audio": "hr-les14-reading-02.mp3"
+      },
+      {
+        "text": "Majka kuha ručak.",
+        "ua": "Мама готує обід.",
+        "audio": "hr-les14-reading-03.mp3"
+      },
+      {
+        "text": "Juha s povrćem je ukusna.",
+        "ua": "Суп з овочами смачний.",
+        "audio": "hr-les14-reading-04.mp3"
+      },
+      {
+        "text": "Meso s krumpirom je jeftino.",
+        "ua": "М'ясо з картоплею дешеве.",
+        "audio": "hr-les14-reading-05.mp3"
+      },
+      {
+        "text": "Kava sa šlagom je dobra.",
+        "ua": "Кава з вершками хороша.",
+        "audio": "hr-les14-reading-06.mp3"
+      },
+      {
+        "text": "U školi razgovaram s učiteljicom.",
+        "ua": "У школі я розмовляю з вчителькою.",
+        "audio": "hr-les14-reading-07.mp3"
+      },
+      {
+        "text": "Sa mnom je sestra.",
+        "ua": "Зі мною сестра.",
+        "audio": "hr-les14-reading-08.mp3"
+      },
+      {
+        "text": "Idemo autobusom u grad.",
+        "ua": "Ми їдемо автобусом у місто.",
+        "audio": "hr-les14-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я подорожую поїздом.",
+          "accepted": [
+            "Putujem vlakom."
+          ]
+        },
+        {
+          "prompt": "Я їду автобусом.",
+          "accepted": [
+            "Idem autobusom."
+          ]
+        },
+        {
+          "prompt": "Ми їдемо машиною в місто.",
+          "accepted": [
+            "Idemo autom u grad."
+          ]
+        },
+        {
+          "prompt": "Мама їде трамваєм.",
+          "accepted": [
+            "Majka ide tramvajem."
+          ]
+        },
+        {
+          "prompt": "Каву з вершками, будь ласка.",
+          "accepted": [
+            "Kava sa šlagom, molim.",
+            "Molim kavu sa šlagom."
+          ]
+        },
+        {
+          "prompt": "М'ясо з картоплею.",
+          "accepted": [
+            "Meso s krumpirom."
+          ]
+        },
+        {
+          "prompt": "Суп з овочами смачний.",
+          "accepted": [
+            "Juha s povrćem je ukusna."
+          ]
+        },
+        {
+          "prompt": "Рис з м'ясом смачний.",
+          "accepted": [
+            "Riža s mesom je ukusna."
+          ]
+        },
+        {
+          "prompt": "Я гуляю з другом.",
+          "accepted": [
+            "Šetam s prijateljem.",
+            "Ja šetam s prijateljem."
+          ]
+        },
+        {
+          "prompt": "Я розмовляю з вчителькою.",
+          "accepted": [
+            "Razgovaram s učiteljicom.",
+            "Ja razgovaram s učiteljicom."
+          ]
+        },
+        {
+          "prompt": "Сестра розмовляє з вчителем.",
+          "accepted": [
+            "Sestra razgovara s učiteljem."
+          ]
+        },
+        {
+          "prompt": "Я йду в школу з братом.",
+          "accepted": [
+            "Idem u školu s bratom.",
+            "Ja idem u školu s bratom."
+          ]
+        },
+        {
+          "prompt": "Мама з сестрою в магазині.",
+          "accepted": [
+            "Majka je sa sestrom u dućanu.",
+            "Majka je u dućanu sa sestrom."
+          ]
+        },
+        {
+          "prompt": "Дитина гуляє з батьком.",
+          "accepted": [
+            "Dijete šeta s ocem."
+          ]
+        },
+        {
+          "prompt": "Ви йдете зі мною?",
+          "accepted": [
+            "Idete li sa mnom?",
+            "Idete li sa mnom u park?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "vlakom",
+        "autobusom",
+        "autom",
+        "tramvajem",
+        "sa",
+        "s",
+        "krumpirom",
+        "povrćem",
+        "šlagom",
+        "prijateljem",
+        "učiteljicom",
+        "sestrom",
+        "bratom",
+        "ocem",
+        "mnom",
+        "tobom"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Putujem ___.",
+          "hint": "Я подорожую поїздом.",
+          "accepted": [
+            [
+              "vlakom"
+            ]
+          ]
+        },
+        {
+          "text": "Idem ___.",
+          "hint": "Я їду автобусом.",
+          "accepted": [
+            [
+              "autobusom"
+            ]
+          ]
+        },
+        {
+          "text": "Idemo ___ u grad.",
+          "hint": "Ми їдемо машиною в місто.",
+          "accepted": [
+            [
+              "autom"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ide ___.",
+          "hint": "Мама їде трамваєм.",
+          "accepted": [
+            [
+              "tramvajem"
+            ]
+          ]
+        },
+        {
+          "text": "Kava ___ šlagom.",
+          "hint": "Кава з вершками.",
+          "accepted": [
+            [
+              "sa"
+            ]
+          ]
+        },
+        {
+          "text": "Meso ___ krumpirom.",
+          "hint": "М'ясо з картоплею.",
+          "accepted": [
+            [
+              "s"
+            ]
+          ]
+        },
+        {
+          "text": "Meso s ___.",
+          "hint": "М'ясо з картоплею.",
+          "accepted": [
+            [
+              "krumpirom"
+            ]
+          ]
+        },
+        {
+          "text": "Juha s ___.",
+          "hint": "Суп з овочами.",
+          "accepted": [
+            [
+              "povrćem"
+            ]
+          ]
+        },
+        {
+          "text": "Kava sa ___.",
+          "hint": "Кава з вершками.",
+          "accepted": [
+            [
+              "šlagom"
+            ]
+          ]
+        },
+        {
+          "text": "Šetam s ___.",
+          "hint": "Я гуляю з другом.",
+          "accepted": [
+            [
+              "prijateljem"
+            ]
+          ]
+        },
+        {
+          "text": "Razgovaram s ___.",
+          "hint": "Я розмовляю з вчителькою.",
+          "accepted": [
+            [
+              "učiteljicom"
+            ]
+          ]
+        },
+        {
+          "text": "Idem sa ___ u školu.",
+          "hint": "Я йду з сестрою в школу.",
+          "accepted": [
+            [
+              "sestrom"
+            ]
+          ]
+        },
+        {
+          "text": "Idem u školu s ___.",
+          "hint": "Я йду в школу з братом.",
+          "accepted": [
+            [
+              "bratom"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete šeta s ___.",
+          "hint": "Дитина гуляє з батьком.",
+          "accepted": [
+            [
+              "ocem"
+            ]
+          ]
+        },
+        {
+          "text": "Idete li sa ___?",
+          "hint": "Ви йдете зі мною?",
+          "accepted": [
+            [
+              "mnom"
+            ]
+          ]
+        },
+        {
+          "text": "Idem s ___ u dućan.",
+          "hint": "Я йду з тобою в магазин.",
+          "accepted": [
+            [
+              "tobom"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: додай орудний або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Putujem.",
+          "cue": "-> додай vlak",
+          "accepted": [
+            "Putujem vlakom."
+          ]
+        },
+        {
+          "prompt": "Idem.",
+          "cue": "-> додай autobus",
+          "accepted": [
+            "Idem autobusom."
+          ]
+        },
+        {
+          "prompt": "Majka ide.",
+          "cue": "-> додай tramvaj",
+          "accepted": [
+            "Majka ide tramvajem."
+          ]
+        },
+        {
+          "prompt": "Idemo u grad.",
+          "cue": "-> додай auto",
+          "accepted": [
+            "Idemo autom u grad."
+          ]
+        },
+        {
+          "prompt": "Šetam.",
+          "cue": "-> з другом (prijatelj)",
+          "accepted": [
+            "Šetam s prijateljem."
+          ]
+        },
+        {
+          "prompt": "Razgovaram.",
+          "cue": "-> з вчителькою (učiteljica)",
+          "accepted": [
+            "Razgovaram s učiteljicom."
+          ]
+        },
+        {
+          "prompt": "Razgovaram.",
+          "cue": "-> з вчителем (učitelj)",
+          "accepted": [
+            "Razgovaram s učiteljem."
+          ]
+        },
+        {
+          "prompt": "Idem u školu.",
+          "cue": "-> з сестрою (sestra)",
+          "accepted": [
+            "Idem u školu sa sestrom."
+          ]
+        },
+        {
+          "prompt": "Idem u školu.",
+          "cue": "-> з братом (brat)",
+          "accepted": [
+            "Idem u školu s bratom."
+          ]
+        },
+        {
+          "prompt": "Kava.",
+          "cue": "-> додай šlag",
+          "accepted": [
+            "Kava sa šlagom."
+          ]
+        },
+        {
+          "prompt": "Meso.",
+          "cue": "-> додай krumpir",
+          "accepted": [
+            "Meso s krumpirom."
+          ]
+        },
+        {
+          "prompt": "Juha.",
+          "cue": "-> додай povrće",
+          "accepted": [
+            "Juha s povrćem."
+          ]
+        },
+        {
+          "prompt": "Šetam s bratom.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Šetamo s bratom."
+          ]
+        },
+        {
+          "prompt": "Putujem vlak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Putujem vlakom."
+          ]
+        },
+        {
+          "prompt": "Razgovaram s učiteljica.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Razgovaram s učiteljicom."
+          ]
+        },
+        {
+          "prompt": "Idem s sestrom.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem sa sestrom."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ s prijateljem.",
+          "cue": "šetati",
+          "accepted": [
+            "šetam"
+          ]
+        },
+        {
+          "text": "Ti ___ s bratom.",
+          "cue": "šetati",
+          "accepted": [
+            "šetaš"
+          ]
+        },
+        {
+          "text": "Dijete ___ s ocem.",
+          "cue": "šetati",
+          "accepted": [
+            "šeta"
+          ]
+        },
+        {
+          "text": "Mi ___ s majkom.",
+          "cue": "šetati",
+          "accepted": [
+            "šetamo"
+          ]
+        },
+        {
+          "text": "Vi ___ sa psom.",
+          "cue": "šetati",
+          "accepted": [
+            "šetate"
+          ]
+        },
+        {
+          "text": "Djeca ___ s učiteljem.",
+          "cue": "šetati",
+          "accepted": [
+            "šetaju"
+          ]
+        },
+        {
+          "text": "Ja ___ s učiteljicom.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaram"
+          ]
+        },
+        {
+          "text": "Ti ___ s učiteljem.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaraš"
+          ]
+        },
+        {
+          "text": "Majka ___ s učiteljicom.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovara"
+          ]
+        },
+        {
+          "text": "Mi ___ s njima.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaramo"
+          ]
+        },
+        {
+          "text": "Vi ___ s njom.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovarate"
+          ]
+        },
+        {
+          "text": "Oni ___ s nama.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaraju"
+          ]
+        },
+        {
+          "text": "Mi ___ vlakom.",
+          "cue": "putovati",
+          "accepted": [
+            "putujemo"
+          ]
+        },
+        {
+          "text": "Ja ___ autobusom.",
+          "cue": "putovati",
+          "accepted": [
+            "putujem"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "поїзд",
+          "answer": "vlak"
+        },
+        {
+          "prompt": "автобус",
+          "answer": "autobus"
+        },
+        {
+          "prompt": "автомобіль",
+          "answer": "auto"
+        },
+        {
+          "prompt": "трамвай",
+          "answer": "tramvaj"
+        },
+        {
+          "prompt": "картопля",
+          "answer": "krumpir"
+        },
+        {
+          "prompt": "суп",
+          "answer": "juha"
+        },
+        {
+          "prompt": "рис",
+          "answer": "riža"
+        },
+        {
+          "prompt": "салат",
+          "answer": "salata"
+        },
+        {
+          "prompt": "збиті вершки",
+          "answer": "šlag"
+        },
+        {
+          "prompt": "овочі",
+          "answer": "povrće"
+        },
+        {
+          "prompt": "гуляти",
+          "answer": "šetati"
+        },
+        {
+          "prompt": "розмовляти",
+          "answer": "razgovarati"
+        },
+        {
+          "prompt": "з (з ким, з чим)",
+          "answer": "s"
+        },
+        {
+          "prompt": "зі мною",
+          "answer": "mnom"
+        },
+        {
+          "prompt": "з тобою",
+          "answer": "tobom"
+        }
+      ],
+      "extra": [
+        "voće",
+        "sa"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1305 @@
+{
+  "id": "hr-les-15",
+  "lang": "hr",
+  "order": 15,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-af7a3588",
+      "type": "function",
+      "lemma": "puno",
+      "ua": "багато",
+      "audio": "hr-puno.mp3",
+      "forms": [
+        "kruhova",
+        "sokova"
+      ],
+      "explain_ua": "(Trebam puno jabuka = мені потрібно багато яблук). Після puno іменник у родовому: puno jabuka (множина), puno mlijeka (однина). Тут також зібрані родові множини слів з попередніх уроків: kruhova, sokova. Це слово не змінюється"
+    },
+    {
+      "id": "hr-cced4fee",
+      "type": "function",
+      "lemma": "malo",
+      "ua": "мало, трохи",
+      "audio": "hr-malo.mp3",
+      "explain_ua": "(Imam malo limuna = у мене мало лимонів). Після malo родовий: malo limuna, malo mlijeka. У підручнику Želim malo mlijeka, Izvoli malo torte (с. 304)"
+    },
+    {
+      "id": "hr-313e5a97",
+      "type": "function",
+      "lemma": "dosta",
+      "ua": "досить, достатньо",
+      "audio": "hr-dosta.mp3",
+      "explain_ua": "(U dućanu ima dosta rajčica = у магазині є досить помідорів). Після dosta родовий: dosta rajčica, dosta čaja (с. 304). Слово не змінюється"
+    },
+    {
+      "id": "hr-2d729dac",
+      "type": "function",
+      "lemma": "nekoliko",
+      "ua": "кілька",
+      "audio": "hr-nekoliko.mp3",
+      "explain_ua": "(Kupujem nekoliko banana = я купую кілька бананів). Після nekoliko родовий множини: nekoliko banana, nekoliko kolača. Слово не змінюється",
+      "check": "Те, що nekoliko бере родовий множини, як puno, з мого знання, у підручнику його немає."
+    },
+    {
+      "id": "hr-88095ea3",
+      "type": "noun",
+      "lemma": "kilogram",
+      "gender": "m.",
+      "gen_sg": "kilograma",
+      "plural": [
+        "kilogrami"
+      ],
+      "ua": "кілограм",
+      "audio": "hr-kilogram.mp3",
+      "forms": [
+        "kilograma"
+      ],
+      "explain_ua": "(Dajte mi kilogram jabuka = дайте мені кілограм яблук). Після kilogram родовий: kilogram jabuka (множина), kilogram sira (однина). Pola kilograma = пів кілограма",
+      "check": "Множину kilogrami з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-359ef00a",
+      "type": "noun",
+      "lemma": "litra",
+      "gender": "ž.",
+      "gen_sg": "litre",
+      "plural": [
+        "litre"
+      ],
+      "ua": "літр",
+      "audio": "hr-litra.mp3",
+      "explain_ua": "(Litra mlijeka košta dva eura = літр молока коштує два євро). Жіночий рід на -a, а український літр чоловічого. Родовий множини після 5 і далі має нестійке a (litara): це в наступному уроці, тут лише litra та dvije litre",
+      "check": "Форми litre і правило про litara з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-9799e835",
+      "type": "noun",
+      "lemma": "boca",
+      "gender": "ž.",
+      "gen_sg": "boce",
+      "plural": [
+        "boce"
+      ],
+      "ua": "пляшка",
+      "audio": "hr-boca.mp3",
+      "explain_ua": "(Boca vina košta pet eura = пляшка вина коштує п'ять євро). Жіночий рід на -a. Після boca родовий однини: boca vina, boca vode. Родовий множини boca збігається з називним однини",
+      "check": "Форми boce, boca з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-af280e4c",
+      "type": "noun",
+      "lemma": "komad",
+      "gender": "m.",
+      "gen_sg": "komada",
+      "plural": [
+        "komadi"
+      ],
+      "ua": "шматок, штука",
+      "audio": "hr-komad.mp3",
+      "explain_ua": "(Dajte mi komad sira = дайте мені шматок сиру). Після komad родовий однини: komad sira. Знахідний komad без змін (неживе)",
+      "check": "Форми komada, komadi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-3b8042b9",
+      "type": "noun",
+      "lemma": "paket",
+      "gender": "m.",
+      "gen_sg": "paketa",
+      "plural": [
+        "paketi"
+      ],
+      "ua": "пачка, пакет",
+      "audio": "hr-paket.mp3",
+      "forms": [
+        "paketa"
+      ],
+      "explain_ua": "(Imam paket kave = у мене пачка кави). Після paket родовий однини: paket kave. Знахідний paket без змін",
+      "check": "Форми paketa, paketi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-87df1617",
+      "type": "noun",
+      "lemma": "vrećica",
+      "gender": "ž.",
+      "gen_sg": "vrećice",
+      "plural": [
+        "vrećice"
+      ],
+      "ua": "пакетик, мішечок",
+      "audio": "hr-vrecica.mp3",
+      "forms": [
+        "vrećicu"
+      ],
+      "explain_ua": "(Imam vrećicu krumpira = у мене мішечок картоплі). Жіночий рід на -ica: знахідний vrećicu. Після vrećica родовий: vrećica krumpira. Літера ć з рискою",
+      "check": "Форми vrećice, vrećicu з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-54b69d40",
+      "type": "noun",
+      "lemma": "limun",
+      "gender": "m.",
+      "gen_sg": "limuna",
+      "plural": [
+        "limuni"
+      ],
+      "ua": "лимон",
+      "audio": "hr-limun.mp3",
+      "forms": [
+        "limuna"
+      ],
+      "explain_ua": "(Imam malo limuna = у мене мало лимонів). Родовий множини limuna (як aut-a в підручнику, с. 309). Після tri і dva родовий однини також limuna: tri limuna",
+      "check": "Форми limuna, limuni з мого знання за зразком aut-a, aut-i, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-2ef649c4",
+      "type": "noun",
+      "lemma": "luk",
+      "gender": "m.",
+      "gen_sg": "luka",
+      "plural": [
+        "lukovi"
+      ],
+      "ua": "цибуля",
+      "audio": "hr-luk.mp3",
+      "forms": [
+        "lukova"
+      ],
+      "explain_ua": "(Trebam deset lukova = мені потрібно десять цибулин). Односкладове слово бере -ov-: lukovi, lukova, як gradovi, gradova (с. 309). Збірно кажуть luk без числа: Trebam luk. Українська цибуля жіночого роду, а luk чоловічого",
+      "check": "Форми luka, lukovi, lukova з мого знання за зразком grad-ov-a, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-d8ec8fcf",
+      "type": "noun",
+      "lemma": "kolač",
+      "gender": "m.",
+      "gen_sg": "kolača",
+      "plural": [
+        "kolači"
+      ],
+      "ua": "тістечко, кекс",
+      "audio": "hr-kolac.mp3",
+      "forms": [
+        "kolača"
+      ],
+      "explain_ua": "(Dajte mi nekoliko kolača = дайте мені кілька тістечок). Двоскладове слово: родовий множини kolača без -ov-. Літера č з гачком. Неживе, знахідний kolač без змін",
+      "check": "Форми kolača, kolači з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-b78abc3c",
+      "type": "noun",
+      "lemma": "banana",
+      "gender": "ž.",
+      "gen_sg": "banane",
+      "plural": [
+        "banane"
+      ],
+      "ua": "банан",
+      "audio": "hr-banana.mp3",
+      "explain_ua": "(Kupujem nekoliko banana = я купую кілька бананів). Жіночий рід на -a, а український банан чоловічого. Родовий множини banana збігається з називним однини. Знахідний однини banu",
+      "check": "Форми banane, banu з мого знання; родовий множини banana за зразком таблиці підручника (gospođ-a, с. 310)."
+    },
+    {
+      "id": "hr-55cabb56",
+      "type": "noun",
+      "lemma": "naranča",
+      "gender": "ž.",
+      "gen_sg": "naranče",
+      "plural": [
+        "naranče"
+      ],
+      "ua": "апельсин",
+      "audio": "hr-naranca.mp3",
+      "explain_ua": "(Trebam dvije naranče = мені потрібні два апельсини). Жіночий рід на -a. Після dvije і tri родовий однини naranče. Літера č з гачком. Українське апельсин чоловічого роду",
+      "check": "Форми naranče з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-966dee73",
+      "type": "noun",
+      "lemma": "rajčica",
+      "gender": "ž.",
+      "gen_sg": "rajčice",
+      "plural": [
+        "rajčice"
+      ],
+      "ua": "помідор",
+      "audio": "hr-rajcica.mp3",
+      "explain_ua": "(U dućanu ima dosta rajčica = у магазині є досить помідорів). Жіночий рід на -ica. Родовий множини rajčica збігається з називним однини. Українське помідор чоловічого роду. Розмовне paradajz теж чути",
+      "check": "Форми rajčice, rajčica з мого знання; розмовне paradajz з мого знання."
+    },
+    {
+      "id": "hr-3bf140b5",
+      "type": "noun",
+      "lemma": "paprika",
+      "gender": "ž.",
+      "gen_sg": "paprike",
+      "plural": [
+        "paprike"
+      ],
+      "ua": "перець (овоч)",
+      "audio": "hr-paprika.mp3",
+      "explain_ua": "(Trebam puno paprika = мені потрібно багато перців). Жіночий рід на -a. Родовий множини paprika збігається з називним однини",
+      "check": "Форми paprike, paprika з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-0794126d",
+      "type": "false_friend",
+      "lemma": "jagoda",
+      "gender": "ž.",
+      "gen_sg": "jagode",
+      "plural": [
+        "jagode"
+      ],
+      "ua": "полуниця",
+      "uk_lookalike": "ягода",
+      "uk_means": "ягода (будь-яка)",
+      "audio": "hr-jagoda.mp3",
+      "explain_ua": "(Pet jagoda košta jedan euro = п'ять полуниць коштують один євро). Хорватське jagoda це полуниця, а українська ягода значить будь-яку ягоду. Для російськомовної те саме: ягода «любая ягода». Родовий множини jagoda збігається з називним однини"
+    },
+    {
+      "id": "hr-dcdcaa11",
+      "type": "noun",
+      "lemma": "jaje",
+      "gender": "s.",
+      "gen_sg": "jaja",
+      "plural": [
+        "jaja"
+      ],
+      "ua": "яйце",
+      "audio": "hr-jaje.mp3",
+      "explain_ua": "(Dajte mi deset jaja = дайте мені десять яєць). Середній рід: jaje, jaja. Родовий однини і називний множини і родовий множини збігаються: jaja. Тому tri jaja (родовий однини) і pet jaja (родовий множини) виглядають однаково",
+      "check": "Форма jaja для всіх трьох значень з мого знання; за таблицею підручника sel-a (G mn) для середнього роду."
+    },
+    {
+      "id": "hr-36824849",
+      "type": "noun",
+      "lemma": "vino",
+      "gender": "s.",
+      "gen_sg": "vina",
+      "plural": [
+        "vina"
+      ],
+      "ua": "вино",
+      "audio": "hr-vino.mp3",
+      "forms": [
+        "vina"
+      ],
+      "explain_ua": "(Boca vina košta pet eura = пляшка вина коштує п'ять євро). Середній рід: vino, vina. Після boca родовий однини vina",
+      "check": "Форми vina з мого знання, у джерелах цього уроку не підтверджено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Родовий множини: pet kruhova, puno jabuka, nema jaja",
+      "summary_ua": "Після чисел від 5 і слів puno, malo, dosta, nekoliko іменник стоїть у родовому множини. Те саме після nema. Це нова форма для тебе: pet kruhova, puno jabuka, nema jaja. Закінчення залежать від роду, їх ми вчимо в другій картці.",
+      "compare": [
+        {
+          "form": "після чисел від 5",
+          "when_ua": "Pet, šest, deset, dvanaest, dvadeset і далі + родовий множини.",
+          "examples": [
+            {
+              "text": "Trebam deset kruhova.",
+              "ua": "Мені потрібно десять хлібів.",
+              "audio": "hr-les15-rule-01.mp3"
+            },
+            {
+              "text": "Dajte mi šest banana.",
+              "ua": "Дайте мені шість бананів.",
+              "audio": "hr-les15-rule-02.mp3"
+            },
+            {
+              "text": "Imam dvanaest jaja.",
+              "ua": "У мене дванадцять яєць.",
+              "audio": "hr-les15-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Це та сама логіка, що з eura й centi у Lekciji 7: після 5 і далі родовий множини."
+        },
+        {
+          "form": "після puno, malo, dosta, nekoliko",
+          "when_ua": "Слова кількості + родовий: множина для злічуваних (puno jabuka), однина для маси (puno mlijeka).",
+          "examples": [
+            {
+              "text": "Imam puno banana.",
+              "ua": "У мене багато бананів.",
+              "audio": "hr-les15-rule-04.mp3"
+            },
+            {
+              "text": "U dućanu ima malo limuna.",
+              "ua": "У магазині мало лимонів.",
+              "audio": "hr-les15-rule-05.mp3"
+            },
+            {
+              "text": "Kupujem nekoliko rajčica.",
+              "ua": "Я купую кілька помідорів.",
+              "audio": "hr-les15-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Українське «багато бананів, кілька помідорів» теж родовий множини: ідея збігається."
+        },
+        {
+          "form": "після nema",
+          "when_ua": "Nema + родовий (як в Lekciji 4 для однини): Nema jabuka. Nema jaja.",
+          "examples": [
+            {
+              "text": "Nema jabuka.",
+              "ua": "Яблук немає.",
+              "audio": "hr-les15-rule-07.mp3"
+            },
+            {
+              "text": "Nema kruhova.",
+              "ua": "Хлібів немає.",
+              "audio": "hr-les15-rule-08.mp3"
+            },
+            {
+              "text": "Nema jaja.",
+              "ua": "Яєць немає.",
+              "audio": "hr-les15-rule-09.mp3"
+            }
+          ],
+          "note_ua": "У підручнику Nema studenata (с. 304): те саме."
+        }
+      ],
+      "points_ua": [
+        "Родовий множини після: 5 і далі, puno, malo, dosta, nekoliko, nema.",
+        "Після 2, 3, 4 іменник у родовому однини (dva kruha), а після 5 у родовому множини (pet kruhova).",
+        "Російська і українська допомагають для ідеї, а закінчення треба вчити окремо."
+      ]
+    },
+    {
+      "title_ua": "Закінчення родового множини: -ova, -a, -a",
+      "summary_ua": "Чоловічий рід: односкладові слова беруть -ova (kruhova, sokova, lukova), довші просто -a (limuna, kolača, paketa). Жіночий на -a: закінчення -a, тобто форма збігається з називним однини (jabuka, banana, rajčica). Середній: -a (jaja). Таблиці в підручнику (сс. 309-310) показують те саме.",
+      "compare": [
+        {
+          "form": "чоловічий рід: -ova або -a",
+          "when_ua": "Коротке слово: kruh, kruhova; sok, sokova; luk, lukova. Довше: limun, limuna; kolač, kolača; paket, paketa.",
+          "examples": [
+            {
+              "text": "Dajte mi pet sokova.",
+              "ua": "Дайте мені п'ять соків.",
+              "audio": "hr-les15-rule-10.mp3"
+            },
+            {
+              "text": "Imam malo limuna.",
+              "ua": "У мене мало лимонів.",
+              "audio": "hr-les15-rule-11.mp3"
+            },
+            {
+              "text": "Dajte mi nekoliko kolača.",
+              "ua": "Дайте мені кілька тістечок.",
+              "audio": "hr-les15-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає російська (хлебов, соков) і українська (хлібів, соків): теж -ов / -ів у чоловічого роду."
+        },
+        {
+          "form": "жіночий рід на -a: -a",
+          "when_ua": "Закінчення -a, тобто форма збігається з називним однини: jabuka, banana, rajčica, jagoda.",
+          "examples": [
+            {
+              "text": "Dajte mi pet banana.",
+              "ua": "Дайте мені п'ять бананів.",
+              "audio": "hr-les15-rule-13.mp3"
+            },
+            {
+              "text": "Trebam puno rajčica.",
+              "ua": "Мені потрібно багато помідорів.",
+              "audio": "hr-les15-rule-14.mp3"
+            },
+            {
+              "text": "Kupujem nekoliko jagoda.",
+              "ua": "Я купую кілька полуниць.",
+              "audio": "hr-les15-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Тут українська вводить в оману: українське яблук має нульове закінчення, а хорватське jabuka має -a. Запам'ятай: форма та сама, що в називному однини."
+        },
+        {
+          "form": "середній рід: -a",
+          "when_ua": "Середній: jaje, jaja. Форма однакова для родового однини і родового множини.",
+          "examples": [
+            {
+              "text": "Dajte mi pet jaja.",
+              "ua": "Дайте мені п'ять яєць.",
+              "audio": "hr-les15-rule-16.mp3"
+            },
+            {
+              "text": "Kupujem nekoliko jaja.",
+              "ua": "Я купую кілька яєць.",
+              "audio": "hr-les15-rule-17.mp3"
+            },
+            {
+              "text": "Imam dosta jaja.",
+              "ua": "У мене досить яєць.",
+              "audio": "hr-les15-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Українське яєць має інше закінчення, тож тут теж опори нема: просто jaja."
+        }
+      ],
+      "points_ua": [
+        "Чоловічий: односкладові -ova (kruhova), довші -a (limuna). Жіночий на -a: -a (jabuka). Середній: -a (jaja).",
+        "Винятки з нестійким a (sestara, litara) і неправильні форми (ljudi, djece) у наступному уроці.",
+        "Для жіночого роду українська й російська не допомагають: у них нульове закінчення (яблук), а в хорватській -a."
+      ]
+    },
+    {
+      "title_ua": "Міри й упаковки: litra mlijeka, kilogram jabuka",
+      "summary_ua": "Після слів міри й упаковки (kilogram, litra, boca, komad, paket, vrećica) іде родовий: однини для маси (litra mlijeka, boca vina, komad sira) і множини для злічуваного (kilogram jabuka). Pola kilograma = пів кілограма.",
+      "compare": [
+        {
+          "form": "міра + родовий однини (маса)",
+          "when_ua": "Для маси, рідини, сиру: litra mlijeka, boca vina, komad sira.",
+          "examples": [
+            {
+              "text": "Litra mlijeka košta dva eura.",
+              "ua": "Літр молока коштує два євро.",
+              "audio": "hr-les15-rule-19.mp3"
+            },
+            {
+              "text": "Boca vina košta pet eura.",
+              "ua": "Пляшка вина коштує п'ять євро.",
+              "audio": "hr-les15-rule-20.mp3"
+            },
+            {
+              "text": "Dajte mi komad sira, molim.",
+              "ua": "Дайте мені шматок сиру, будь ласка.",
+              "audio": "hr-les15-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Українське «літр молока, пляшка вина» теж родовий. Структура та сама."
+        },
+        {
+          "form": "міра + родовий множини (злічуване)",
+          "when_ua": "Для штучних предметів: kilogram jabuka, kilogram banana, kilogram limuna.",
+          "examples": [
+            {
+              "text": "Dajte mi kilogram jabuka.",
+              "ua": "Дайте мені кілограм яблук.",
+              "audio": "hr-les15-rule-22.mp3"
+            },
+            {
+              "text": "Dajte mi kilogram banana.",
+              "ua": "Дайте мені кілограм бананів.",
+              "audio": "hr-les15-rule-23.mp3"
+            },
+            {
+              "text": "Dajte mi pola kilograma sira.",
+              "ua": "Дайте мені пів кілограма сиру.",
+              "audio": "hr-les15-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Pola kilograma: pola й родовий однини kilograma. Sir у родовому однини sira."
+        }
+      ],
+      "points_ua": [
+        "Міра + родовий. Маса: однина (litra mlijeka). Злічуване: множина (kilogram jabuka).",
+        "Те саме для vrećica krumpira, paket kave."
+      ]
+    },
+    {
+      "title_ua": "Один, два, п'ять: три форми одного слова",
+      "summary_ua": "Після jedan іменник у називному, після dva, tri, četiri у родовому однини, після pet і далі у родовому множини. Це всі три форми разом: jedna jabuka, dvije jabuke, pet jabuka. У слів jaje, jaja, jaja форми збігаються, у слів kruh, kruha, kruhova ні.",
+      "compare": [
+        {
+          "form": "jaje: jedno jaje, tri jaja, pet jaja",
+          "when_ua": "Середній рід: родовий однини і родовий множини однакові (jaja).",
+          "examples": [
+            {
+              "text": "Imam jedno jaje.",
+              "ua": "У мене одне яйце.",
+              "audio": "hr-les15-rule-25.mp3"
+            },
+            {
+              "text": "Imam tri jaja.",
+              "ua": "У мене три яйця.",
+              "audio": "hr-les15-rule-26.mp3"
+            },
+            {
+              "text": "Imam pet jaja.",
+              "ua": "У мене п'ять яєць.",
+              "audio": "hr-les15-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Tri jaja і pet jaja виглядають однаково, але граматично це різні форми."
+        },
+        {
+          "form": "jabuka: jedna jabuka, dvije jabuke, pet jabuka",
+          "when_ua": "Жіночий рід: три різні форми.",
+          "examples": [
+            {
+              "text": "Imam jednu jabuku.",
+              "ua": "У мене одне яблуко.",
+              "audio": "hr-les15-rule-28.mp3"
+            },
+            {
+              "text": "Imam dvije jabuke.",
+              "ua": "У мене два яблука.",
+              "audio": "hr-les15-rule-29.mp3"
+            },
+            {
+              "text": "Imam pet jabuka.",
+              "ua": "У мене п'ять яблук.",
+              "audio": "hr-les15-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Jabuku (знахідний), jabuke (родовий однини), jabuka (родовий множини): три форми."
+        },
+        {
+          "form": "kruh: jedan kruh, dva kruha, pet kruhova",
+          "when_ua": "Чоловічий рід: три різні форми, а в п'ятому -ova.",
+          "examples": [
+            {
+              "text": "Imam jedan kruh.",
+              "ua": "У мене один хліб.",
+              "audio": "hr-les15-rule-31.mp3"
+            },
+            {
+              "text": "Imam dva kruha.",
+              "ua": "У мене два хліби.",
+              "audio": "hr-les15-rule-32.mp3"
+            },
+            {
+              "text": "Imam pet kruhova.",
+              "ua": "У мене п'ять хлібів.",
+              "audio": "hr-les15-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 7 плюс нова форма kruhova."
+        }
+      ],
+      "points_ua": [
+        "1: називний (jedan kruh). 2, 3, 4: родовий однини (dva kruha). 5 і далі: родовий множини (pet kruhova).",
+        "У середнього роду родовий однини і множини збігаються (tri jaja, pet jaja)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Dajte mi pet kruhova.",
+      "ua": "Дайте мені п'ять хлібів.",
+      "audio": "hr-les15-example-01.mp3"
+    },
+    {
+      "text": "Dajte mi deset jaja.",
+      "ua": "Дайте мені десять яєць.",
+      "audio": "hr-les15-example-02.mp3"
+    },
+    {
+      "text": "Trebam puno jabuka.",
+      "ua": "Мені потрібно багато яблук.",
+      "audio": "hr-les15-example-03.mp3"
+    },
+    {
+      "text": "Imam malo limuna.",
+      "ua": "У мене мало лимонів.",
+      "audio": "hr-les15-example-04.mp3"
+    },
+    {
+      "text": "Kupujem nekoliko banana.",
+      "ua": "Я купую кілька бананів.",
+      "audio": "hr-les15-example-05.mp3"
+    },
+    {
+      "text": "U dućanu ima dosta rajčica.",
+      "ua": "У магазині є досить помідорів.",
+      "audio": "hr-les15-example-06.mp3"
+    },
+    {
+      "text": "Dajte mi kilogram jabuka.",
+      "ua": "Дайте мені кілограм яблук.",
+      "audio": "hr-les15-example-07.mp3"
+    },
+    {
+      "text": "Dajte mi pola kilograma sira.",
+      "ua": "Дайте мені пів кілограма сиру.",
+      "audio": "hr-les15-example-08.mp3"
+    },
+    {
+      "text": "Litra mlijeka košta dva eura.",
+      "ua": "Літр молока коштує два євро.",
+      "audio": "hr-les15-example-09.mp3"
+    },
+    {
+      "text": "Boca vina košta pet eura.",
+      "ua": "Пляшка вина коштує п'ять євро.",
+      "audio": "hr-les15-example-10.mp3"
+    },
+    {
+      "text": "Dajte mi komad sira, molim.",
+      "ua": "Дайте мені шматок сиру, будь ласка.",
+      "audio": "hr-les15-example-11.mp3"
+    },
+    {
+      "text": "Imam paket kave.",
+      "ua": "У мене пачка кави.",
+      "audio": "hr-les15-example-12.mp3"
+    },
+    {
+      "text": "Nema jabuka u dućanu.",
+      "ua": "Яблук у магазині немає.",
+      "audio": "hr-les15-example-13.mp3"
+    },
+    {
+      "text": "Pet jagoda košta jedan euro.",
+      "ua": "П'ять полуниць коштують один євро.",
+      "audio": "hr-les15-example-14.mp3"
+    },
+    {
+      "text": "Imam vrećicu krumpira.",
+      "ua": "У мене мішечок картоплі.",
+      "audio": "hr-les15-example-15.mp3"
+    },
+    {
+      "text": "Koliko jaja trebaš?",
+      "ua": "Скільки яєць тобі потрібно?",
+      "audio": "hr-les15-example-16.mp3"
+    },
+    {
+      "text": "Trebam dvije naranče i tri limuna.",
+      "ua": "Мені потрібні два апельсини й три лимони.",
+      "audio": "hr-les15-example-17.mp3"
+    },
+    {
+      "text": "Imam dvadeset i pet jaja.",
+      "ua": "У мене двадцять п'ять яєць.",
+      "audio": "hr-les15-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U dućanu",
+    "title_ua": "У магазині",
+    "highlight": [
+      "hr-af7a3588",
+      "hr-cced4fee",
+      "hr-88095ea3",
+      "hr-9799e835",
+      "hr-87df1617",
+      "hr-dcdcaa11",
+      "hr-36824849"
+    ],
+    "sentences": [
+      {
+        "text": "Danas idem u dućan.",
+        "ua": "Сьогодні я йду в магазин.",
+        "audio": "hr-les15-reading-01.mp3"
+      },
+      {
+        "text": "Trebam kruh i sir.",
+        "ua": "Мені потрібні хліб і сир.",
+        "audio": "hr-les15-reading-02.mp3"
+      },
+      {
+        "text": "Dajte mi pet kruhova.",
+        "ua": "Дайте мені п'ять хлібів.",
+        "audio": "hr-les15-reading-03.mp3"
+      },
+      {
+        "text": "Dajte mi kilogram jabuka i pola kilograma sira.",
+        "ua": "Дайте мені кілограм яблук і пів кілограма сиру.",
+        "audio": "hr-les15-reading-04.mp3"
+      },
+      {
+        "text": "Imam malo eura.",
+        "ua": "У мене мало євро.",
+        "audio": "hr-les15-reading-05.mp3"
+      },
+      {
+        "text": "Boca vina košta pet eura.",
+        "ua": "Пляшка вина коштує п'ять євро.",
+        "audio": "hr-les15-reading-06.mp3"
+      },
+      {
+        "text": "Trebam deset jaja.",
+        "ua": "Мені потрібно десять яєць.",
+        "audio": "hr-les15-reading-07.mp3"
+      },
+      {
+        "text": "Imam vrećicu krumpira.",
+        "ua": "У мене мішечок картоплі.",
+        "audio": "hr-les15-reading-08.mp3"
+      },
+      {
+        "text": "Nema jabuka.",
+        "ua": "Яблук немає.",
+        "audio": "hr-les15-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Дайте мені п'ять хлібів.",
+          "accepted": [
+            "Dajte mi pet kruhova."
+          ]
+        },
+        {
+          "prompt": "Дайте мені десять яєць.",
+          "accepted": [
+            "Dajte mi deset jaja."
+          ]
+        },
+        {
+          "prompt": "Мені потрібно багато яблук.",
+          "accepted": [
+            "Trebam puno jabuka."
+          ]
+        },
+        {
+          "prompt": "У мене мало лимонів.",
+          "accepted": [
+            "Imam malo limuna."
+          ]
+        },
+        {
+          "prompt": "Я купую кілька бананів.",
+          "accepted": [
+            "Kupujem nekoliko banana."
+          ]
+        },
+        {
+          "prompt": "У магазині є досить помідорів.",
+          "accepted": [
+            "U dućanu ima dosta rajčica."
+          ]
+        },
+        {
+          "prompt": "Дайте мені кілограм яблук.",
+          "accepted": [
+            "Dajte mi kilogram jabuka."
+          ]
+        },
+        {
+          "prompt": "Дайте мені пів кілограма сиру.",
+          "accepted": [
+            "Dajte mi pola kilograma sira."
+          ]
+        },
+        {
+          "prompt": "Літр молока коштує два євро.",
+          "accepted": [
+            "Litra mlijeka košta dva eura."
+          ]
+        },
+        {
+          "prompt": "Пляшка вина коштує п'ять євро.",
+          "accepted": [
+            "Boca vina košta pet eura."
+          ]
+        },
+        {
+          "prompt": "Дайте мені шматок сиру, будь ласка.",
+          "accepted": [
+            "Dajte mi komad sira, molim."
+          ]
+        },
+        {
+          "prompt": "У мене пачка кави.",
+          "accepted": [
+            "Imam paket kave."
+          ]
+        },
+        {
+          "prompt": "Яблук у магазині немає.",
+          "accepted": [
+            "Nema jabuka u dućanu.",
+            "U dućanu nema jabuka."
+          ]
+        },
+        {
+          "prompt": "П'ять полуниць коштують один євро.",
+          "accepted": [
+            "Pet jagoda košta jedan euro.",
+            "Pet jagoda koštaju jedan euro."
+          ]
+        },
+        {
+          "prompt": "У мене мішечок картоплі.",
+          "accepted": [
+            "Imam vrećicu krumpira."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "kruhova",
+        "jaja",
+        "jabuka",
+        "limuna",
+        "banana",
+        "rajčica",
+        "sokova",
+        "kilograma",
+        "komad",
+        "Litra",
+        "Boca",
+        "vrećicu",
+        "paket",
+        "puno",
+        "malo",
+        "Nema"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Dajte mi pet ___.",
+          "hint": "Дайте мені п'ять хлібів.",
+          "accepted": [
+            [
+              "kruhova"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi deset ___.",
+          "hint": "Дайте мені десять яєць.",
+          "accepted": [
+            [
+              "jaja"
+            ]
+          ]
+        },
+        {
+          "text": "Trebam puno ___.",
+          "hint": "Мені потрібно багато яблук.",
+          "accepted": [
+            [
+              "jabuka"
+            ]
+          ]
+        },
+        {
+          "text": "Imam malo ___.",
+          "hint": "У мене мало лимонів.",
+          "accepted": [
+            [
+              "limuna"
+            ]
+          ]
+        },
+        {
+          "text": "Kupujem nekoliko ___.",
+          "hint": "Я купую кілька бананів.",
+          "accepted": [
+            [
+              "banana"
+            ]
+          ]
+        },
+        {
+          "text": "U dućanu ima dosta ___.",
+          "hint": "У магазині є досить помідорів.",
+          "accepted": [
+            [
+              "rajčica"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi pet ___.",
+          "hint": "Дайте мені п'ять соків.",
+          "accepted": [
+            [
+              "sokova"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi pola ___ sira.",
+          "hint": "Дайте мені пів кілограма сиру.",
+          "accepted": [
+            [
+              "kilograma"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi ___ sira.",
+          "hint": "Дайте мені шматок сиру.",
+          "accepted": [
+            [
+              "komad"
+            ]
+          ]
+        },
+        {
+          "text": "___ mlijeka košta dva eura.",
+          "hint": "Літр молока коштує два євро.",
+          "accepted": [
+            [
+              "Litra"
+            ]
+          ]
+        },
+        {
+          "text": "___ vina košta pet eura.",
+          "hint": "Пляшка вина коштує п'ять євро.",
+          "accepted": [
+            [
+              "Boca"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ krumpira.",
+          "hint": "У мене мішечок картоплі.",
+          "accepted": [
+            [
+              "vrećicu"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ kave.",
+          "hint": "У мене пачка кави.",
+          "accepted": [
+            [
+              "paket"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "У мене мало євро.",
+          "accepted": [
+            [
+              "malo"
+            ]
+          ]
+        },
+        {
+          "text": "___ jabuka u dućanu.",
+          "hint": "Яблук у магазині немає.",
+          "accepted": [
+            [
+              "Nema"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ jaja.",
+          "hint": "У мене багато яєць.",
+          "accepted": [
+            [
+              "puno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: число, кількість, заперечення або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Imam jedan kruh.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet kruhova."
+          ]
+        },
+        {
+          "prompt": "Imam jedno jaje.",
+          "cue": "-> десять (deset)",
+          "accepted": [
+            "Imam deset jaja."
+          ]
+        },
+        {
+          "prompt": "Imam jednu jabuku.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet jabuka."
+          ]
+        },
+        {
+          "prompt": "Imam jedan sok.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet sokova."
+          ]
+        },
+        {
+          "prompt": "Imam jedan limun.",
+          "cue": "-> п'ять (pet)",
+          "accepted": [
+            "Imam pet limuna."
+          ]
+        },
+        {
+          "prompt": "Imam jedan kruh.",
+          "cue": "-> два (dva)",
+          "accepted": [
+            "Imam dva kruha."
+          ]
+        },
+        {
+          "prompt": "Imam jednu jabuku.",
+          "cue": "-> дві (dvije)",
+          "accepted": [
+            "Imam dvije jabuke."
+          ]
+        },
+        {
+          "prompt": "Imam jedno jaje.",
+          "cue": "-> три (tri)",
+          "accepted": [
+            "Imam tri jaja."
+          ]
+        },
+        {
+          "prompt": "Imam jabuke.",
+          "cue": "-> багато (puno)",
+          "accepted": [
+            "Imam puno jabuka."
+          ]
+        },
+        {
+          "prompt": "Imam banane.",
+          "cue": "-> мало (malo)",
+          "accepted": [
+            "Imam malo banana."
+          ]
+        },
+        {
+          "prompt": "Imam jabuke.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam jabuka."
+          ]
+        },
+        {
+          "prompt": "Imam jaja.",
+          "cue": "-> заперечення (nemam)",
+          "accepted": [
+            "Nemam jaja."
+          ]
+        },
+        {
+          "prompt": "Dajte mi pet kruha.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajte mi pet kruhova."
+          ]
+        },
+        {
+          "prompt": "Dajte mi pet jabuke.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajte mi pet jabuka."
+          ]
+        },
+        {
+          "prompt": "Trebam puno jabuke.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Trebam puno jabuka."
+          ]
+        },
+        {
+          "prompt": "Imam pet limun.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam pet limuna."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ puno jabuka.",
+          "cue": "trebati",
+          "accepted": [
+            "trebam"
+          ]
+        },
+        {
+          "text": "Ti ___ pet jaja.",
+          "cue": "trebati",
+          "accepted": [
+            "trebaš"
+          ]
+        },
+        {
+          "text": "Mi ___ nekoliko banana.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        },
+        {
+          "text": "Majka ___ malo limuna.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Vi ___ dosta rajčica.",
+          "cue": "imati",
+          "accepted": [
+            "imate"
+          ]
+        },
+        {
+          "text": "Ja ___ pet kruhova.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujem"
+          ]
+        },
+        {
+          "text": "Mi ___ deset jaja.",
+          "cue": "trebati",
+          "accepted": [
+            "trebamo"
+          ]
+        },
+        {
+          "text": "Oni ___ puno sokova.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Ti ___ pet kruhova.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuješ"
+          ]
+        },
+        {
+          "text": "Ja ___ vam pet kruhova.",
+          "cue": "davati",
+          "accepted": [
+            "dajem"
+          ]
+        },
+        {
+          "text": "Majka ___ mi deset jaja.",
+          "cue": "davati",
+          "accepted": [
+            "daje"
+          ]
+        },
+        {
+          "text": "Mi ___ nekoliko jabuka.",
+          "cue": "imati",
+          "accepted": [
+            "imamo"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "багато",
+          "answer": "puno"
+        },
+        {
+          "prompt": "мало",
+          "answer": "malo"
+        },
+        {
+          "prompt": "досить",
+          "answer": "dosta"
+        },
+        {
+          "prompt": "кілька",
+          "answer": "nekoliko"
+        },
+        {
+          "prompt": "кілограм",
+          "answer": "kilogram"
+        },
+        {
+          "prompt": "літр",
+          "answer": "litra"
+        },
+        {
+          "prompt": "пляшка",
+          "answer": "boca"
+        },
+        {
+          "prompt": "шматок",
+          "answer": "komad"
+        },
+        {
+          "prompt": "пачка, пакет",
+          "answer": "paket"
+        },
+        {
+          "prompt": "мішечок",
+          "answer": "vrećica"
+        },
+        {
+          "prompt": "лимон",
+          "answer": "limun"
+        },
+        {
+          "prompt": "цибуля",
+          "answer": "luk"
+        },
+        {
+          "prompt": "тістечко",
+          "answer": "kolač"
+        },
+        {
+          "prompt": "банан",
+          "answer": "banana"
+        },
+        {
+          "prompt": "апельсин",
+          "answer": "naranča"
+        },
+        {
+          "prompt": "помідор",
+          "answer": "rajčica"
+        },
+        {
+          "prompt": "полуниця",
+          "answer": "jagoda"
+        },
+        {
+          "prompt": "яйце",
+          "answer": "jaje"
+        }
+      ],
+      "extra": [
+        "vino",
+        "paprika"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "function",
+        "false_friend"
+      ]
+    }
+  ]
+}
