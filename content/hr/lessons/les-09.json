@@ -79,7 +79,7 @@
       "digit": "20",
       "ua": "двадцять",
       "audio": "hr-dvadeset.mp3",
-      "explain_ua": "(Sir košta dvadeset eura = сир коштує двадцять євро). Dva + deset = двадцять. Складені числа без «i»: dvadeset pet, dvadeset tri. Після нього родовий множини"
+      "explain_ua": "(Sir košta dvadeset eura = сир коштує двадцять євро). Dva + deset = двадцять. Складені числа з «i»: dvadeset i pet, dvadeset i tri. Після нього родовий множини"
     },
     {
       "id": "hr-805e939f",
@@ -88,7 +88,7 @@
       "digit": "30",
       "ua": "тридцять",
       "audio": "hr-trideset.mp3",
-      "explain_ua": "(Brat ima trideset godina = братові тридцять років). Tri + deset = тридцять. Складене trideset tri: після нього родовий однини godine, бо кінцева цифра 3"
+      "explain_ua": "(Brat ima trideset godina = братові тридцять років). Tri + deset = тридцять. Складене trideset i tri: після нього родовий однини godine, бо кінцева цифра 3"
     },
     {
       "id": "hr-b78771ff",
@@ -248,8 +248,8 @@
       ]
     },
     {
-      "title_ua": "Десятки й складені числа: četrdeset, devedeset, dvadeset pet",
-      "summary_ua": "Десятки: dvadeset, trideset, četrdeset, pedeset, šezdeset, sedamdeset, osamdeset, devedeset, sto. Два з них не схожі на українські: četrdeset (сорок) і devedeset (дев'яносто). Складені числа пишуться окремими словами: dvadeset pet.",
+      "title_ua": "Десятки й складені числа: četrdeset, devedeset, dvadeset i pet",
+      "summary_ua": "Десятки: dvadeset, trideset, četrdeset, pedeset, šezdeset, sedamdeset, osamdeset, devedeset, sto. Два з них не схожі на українські: četrdeset (сорок) і devedeset (дев'яносто). Складені числа пишуться окремими словами: dvadeset i pet.",
       "compare": [
         {
           "form": "десятки: trideset ... devedeset, sto",
@@ -274,16 +274,16 @@
           "note_ua": "Тут ми вперше бачимо godina як родовий множини: після 5 і далі godina, не godine. Форма збігається з початковою (називний однини)."
         },
         {
-          "form": "складені: dvadeset pet, trideset tri",
-          "when_ua": "Складене число з окремих слів, без «i»: dvadeset pet, trideset tri. Іменник береться за останнім числом: tri = родовий однини godine; pet = родовий множини.",
+          "form": "складені: dvadeset i pet, trideset i tri",
+          "when_ua": "Складене число з окремих слів, з «i»: dvadeset i pet, trideset i tri. Іменник береться за останнім числом: tri = родовий однини godine; pet = родовий множини.",
           "examples": [
             {
-              "text": "Imam dvadeset pet eura.",
+              "text": "Imam dvadeset i pet eura.",
               "ua": "У мене двадцять п'ять євро.",
               "audio": "hr-les09-rule-10.mp3"
             },
             {
-              "text": "Majka ima trideset tri godine.",
+              "text": "Majka ima trideset i tri godine.",
               "ua": "Мамі тридцять три роки.",
               "audio": "hr-les09-rule-11.mp3"
             },
@@ -1035,7 +1035,7 @@
           ]
         },
         {
-          "text": "Majka ___ trideset tri godine.",
+          "text": "Majka ___ trideset i tri godine.",
           "cue": "imati",
           "accepted": [
             "ima"

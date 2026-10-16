@@ -450,7 +450,7 @@
       "compare": [
         {
           "form": "Je li ...? (3 особа однини)",
-          "when_ua": "Je li, а не jest li. Підмет іде після je li.",
+          "when_ua": "Довга форма 3 особи jest існує, але в питанні з li кажуть je li. Підмет іде після je li.",
           "examples": [
             {
               "text": "Je li majka ovdje?",

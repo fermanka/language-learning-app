@@ -1,0 +1,1126 @@
+{
+  "id": "hr-les-11",
+  "lang": "hr",
+  "order": 11,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-c0176248",
+      "type": "adjective",
+      "lemma": "dobar",
+      "fem": "dobra",
+      "neut": "dobro",
+      "ua": "хороший, добрий",
+      "audio": "hr-dobar.mp3",
+      "forms": [
+        "dobra",
+        "dobro",
+        "dobru",
+        "dobrog"
+      ],
+      "explain_ua": "(Imam dobar kruh, dobru kavu, dobro mlijeko = у мене хороший хліб, хороша кава, хороше молоко). Прикметник погоджується з іменником у роді: dobar (ч.), dobra (ж.), dobro (с.). Знахідний ж. р. dobru, для живого ч. р. dobrog (Vidim dobrog brata). Українське добрий, добра, добре дає опору, лише чоловічий закінчується на -ar",
+      "check": "Усі форми прикметників цього уроку (dobru, dobrog тощо) з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-f100502f",
+      "type": "adjective",
+      "lemma": "velik",
+      "fem": "velika",
+      "neut": "veliko",
+      "ua": "великий",
+      "audio": "hr-velik.mp3",
+      "forms": [
+        "velika",
+        "veliko",
+        "velikog"
+      ],
+      "explain_ua": "(Jabuka je velika = яблуко велике). Velik, velika, veliko. Для живого ч. р. у знахідному velikog: Vidim velikog psa. Українське великий, велика, велике схоже"
+    },
+    {
+      "id": "hr-ee0a578f",
+      "type": "adjective",
+      "lemma": "malen",
+      "fem": "malena",
+      "neut": "maleno",
+      "ua": "маленький",
+      "audio": "hr-malen.mp3",
+      "forms": [
+        "malena",
+        "maleno",
+        "malenog"
+      ],
+      "explain_ua": "(Dijete je maleno = дитина маленька). Malen, malena, maleno. Для живого ч. р. у знахідному malenog. Українське маленький, маленька, маленьке схоже"
+    },
+    {
+      "id": "hr-df955036",
+      "type": "adjective",
+      "lemma": "skup",
+      "fem": "skupa",
+      "neut": "skupo",
+      "ua": "дорогий (про ціну)",
+      "audio": "hr-skup.mp3",
+      "forms": [
+        "skupa",
+        "skupo"
+      ],
+      "explain_ua": "(Meso je skupo = м'ясо дороге). Skup, skupa, skupo. Про ціну: дорогий. Не плутай з «скупий»: хорватське skup про ціну, а не про людину"
+    },
+    {
+      "id": "hr-4fe63a0f",
+      "type": "adjective",
+      "lemma": "jeftin",
+      "fem": "jeftina",
+      "neut": "jeftino",
+      "ua": "дешевий",
+      "audio": "hr-jeftin.mp3",
+      "forms": [
+        "jeftina",
+        "jeftino"
+      ],
+      "explain_ua": "(Sok je jeftin = сік дешевий). Jeftin, jeftina, jeftino. Протилежне до skup"
+    },
+    {
+      "id": "hr-5d8ea33e",
+      "type": "adjective",
+      "lemma": "svjež",
+      "fem": "svježa",
+      "neut": "svježe",
+      "ua": "свіжий",
+      "audio": "hr-svjez.mp3",
+      "forms": [
+        "svježa",
+        "svježe",
+        "svježu"
+      ],
+      "explain_ua": "(Kruh je svjež = хліб свіжий). Svjež, svježa, svježe (середній рід закінчується на -e, бо ž м'який). Знахідний ж. р. svježu: Kupujem svježu jabuku. Пиши svj, не «sv»: svjež"
+    },
+    {
+      "id": "hr-89d11c40",
+      "type": "adjective",
+      "lemma": "hladan",
+      "fem": "hladna",
+      "neut": "hladno",
+      "ua": "холодний",
+      "audio": "hr-hladan.mp3",
+      "forms": [
+        "hladna",
+        "hladno",
+        "hladnu"
+      ],
+      "explain_ua": "(Mlijeko je hladno = молоко холодне). Нестійке -a-: hladan, але hladna, hladno (a випадає). Знахідний ж. р. hladnu: Imam hladnu vodu. Хорватське hladan це холодний, як українське холодний"
+    },
+    {
+      "id": "hr-2a35f270",
+      "type": "adjective",
+      "lemma": "ukusan",
+      "fem": "ukusna",
+      "neut": "ukusno",
+      "ua": "смачний",
+      "audio": "hr-ukusan.mp3",
+      "forms": [
+        "ukusna",
+        "ukusno",
+        "ukusnu"
+      ],
+      "explain_ua": "(Sir je ukusan = сир смачний). Нестійке -a-: ukusan, ukusna, ukusno. Про їжу: смачний. Тут допомагає лише значення, корінь не схожий"
+    },
+    {
+      "id": "hr-3ea7cdd8",
+      "type": "false_friend",
+      "lemma": "trudan",
+      "ua": "вагітна (про жінку)",
+      "uk_lookalike": "трудний",
+      "uk_means": "трудний, важкий",
+      "audio": "hr-trudan.mp3",
+      "forms": [
+        "trudna"
+      ],
+      "explain_ua": "(Sestra je trudna = сестра вагітна). Хорватське trudna про жінку значить «вагітна», а не «трудна». Українське трудний і російське трудный значать «важкий», тож схожість оманлива. ПОПЕРЕДЖЕННЯ: не кажи про себе trudna, якщо хочеш сказати «я втомилася»: це значить «я вагітна»",
+      "check": "У моєму переліку trudan = втомлений, а про жінку вагітна; у повсякденному вжитку trudna це вагітна, а «втомлений» окреме слово umoran: перевір у словнику. Тут вчу лише значення «вагітна», слово umoran не вчимо."
+    },
+    {
+      "id": "hr-bd114057",
+      "type": "false_friend",
+      "lemma": "vrijedan",
+      "ua": "працьовитий; цінний",
+      "uk_lookalike": "вредный (рос.)",
+      "uk_means": "шкідливий (рос. вредный)",
+      "audio": "hr-vrijedan.mp3",
+      "forms": [
+        "vrijedna"
+      ],
+      "explain_ua": "(Majka je vrijedna = мама працьовита). Vrijedan значить «працьовитий» (про людину) і «цінний» (про річ). Для російськомовної пастка: російське вредный значить «шкідливий»",
+      "check": "Те, що vrijedan = працьовитий / цінний, а не шкідливий, з мого переліку перевірених лажних друзів; у словнику цього уроку не звірено."
+    },
+    {
+      "id": "hr-642da9a9",
+      "type": "adjective",
+      "lemma": "kakav",
+      "fem": "kakva",
+      "neut": "kakvo",
+      "ua": "який, яка, яке",
+      "audio": "hr-kakav.mp3",
+      "explain_ua": "(Kakav je kruh? Kakva je kava? Kakvo je mlijeko? = який хліб? яка кава? яке молоко?). Питальне слово, що змінюється за родом, як прикметник: kakav (ч.), kakva (ж.), kakvo (с.). Українське який / яка / яке",
+      "forms": [
+        "kakva",
+        "kakvo"
+      ]
+    },
+    {
+      "id": "hr-0f471b0c",
+      "type": "function",
+      "lemma": "vrlo",
+      "ua": "дуже",
+      "audio": "hr-vrlo.mp3",
+      "explain_ua": "(Meso je vrlo skupo = м'ясо дуже дороге). Підсилює прикметник. Без закінчень: vrlo dobar, vrlo dobra, vrlo dobro. Українське «дуже»"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Прикметник погоджується: dobar kruh, dobra kava, dobro mlijeko",
+      "summary_ua": "Прикметник погоджується з іменником у роді: dobar (ч.), dobra (ж.), dobro (с.). Українське добрий / добра / добре дає опору: логіка та сама, змінюється лише закінчення чоловічого роду (-ar без -ий). Родів три, як в українській.",
+      "compare": [
+        {
+          "form": "dobar / dobra / dobro",
+          "when_ua": "Рід іменника вирішує форму прикметника: kruh (ч.) dobar, kava (ж.) dobra, mlijeko (с.) dobro.",
+          "examples": [
+            {
+              "text": "Kruh je dobar.",
+              "ua": "Хліб хороший.",
+              "audio": "hr-les11-rule-01.mp3"
+            },
+            {
+              "text": "Kava je dobra.",
+              "ua": "Кава хороша.",
+              "audio": "hr-les11-rule-02.mp3"
+            },
+            {
+              "text": "Mlijeko je dobro.",
+              "ua": "Молоко хороше.",
+              "audio": "hr-les11-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Після biti прикметник у називному і погоджується з підметом: Kruh je dobar."
+        },
+        {
+          "form": "velik, malen: ті самі закінчення",
+          "when_ua": "Velik / velika / veliko, malen / malena / maleno. Закінчення -a для ж. р., -o для с. р.",
+          "examples": [
+            {
+              "text": "Sir je velik.",
+              "ua": "Сир великий.",
+              "audio": "hr-les11-rule-04.mp3"
+            },
+            {
+              "text": "Jabuka je malena.",
+              "ua": "Яблуко маленьке.",
+              "audio": "hr-les11-rule-05.mp3"
+            },
+            {
+              "text": "Dijete je maleno.",
+              "ua": "Дитина маленька.",
+              "audio": "hr-les11-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Jabuka жіночого роду, тож malena (хоча українське яблуко маленьке середнього). Dijete середнього, тож maleno."
+        },
+        {
+          "form": "hladan, ukusan: випадає -a-",
+          "when_ua": "У hladan і ukusan нестійке -a-: hladan, але hladna, hladno; ukusan, ukusna, ukusno.",
+          "examples": [
+            {
+              "text": "Sok je hladan.",
+              "ua": "Сік холодний.",
+              "audio": "hr-les11-rule-07.mp3"
+            },
+            {
+              "text": "Kava je hladna.",
+              "ua": "Кава холодна.",
+              "audio": "hr-les11-rule-08.mp3"
+            },
+            {
+              "text": "Mlijeko je hladno.",
+              "ua": "Молоко холодне.",
+              "audio": "hr-les11-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Це та сама зміна, що в posao, poslu і в ožujak, ožujka: -a- перед останнім приголосним випадає."
+        }
+      ],
+      "points_ua": [
+        "Рід іменника вирішує: kruh dobar, kava dobra, mlijeko dobro. Це те саме, що в українській.",
+        "Чоловічий рід на -an і -ak: нестійке -a- (hladan, hladna; ukusan, ukusna).",
+        "Слово jabuka жіночого роду, а українське яблуко середнього: тому velika jabuka, а не veliko."
+      ]
+    },
+    {
+      "title_ua": "Знахідний: dobar kruh, dobru kavu, dobrog psa",
+      "summary_ua": "Знахідний прикметника йде за іменником. Неживе чоловіче й середнє без змін (dobar kruh, dobro mlijeko). Жіночий -a стає -u (dobru kavu). Живе чоловіче бере -og (dobrog psa). Українська й російська працюють так само, тож це знайомий механізм.",
+      "compare": [
+        {
+          "form": "жіночий рід: -a стає -u",
+          "when_ua": "Dobra kava, але Imam dobru kavu. Те саме з усіма прикметниками: svježu jabuku, hladnu vodu.",
+          "examples": [
+            {
+              "text": "Imam dobru kavu.",
+              "ua": "У мене хороша кава.",
+              "audio": "hr-les11-rule-10.mp3"
+            },
+            {
+              "text": "Kupujem svježu jabuku.",
+              "ua": "Я купую свіже яблуко.",
+              "audio": "hr-les11-rule-11.mp3"
+            },
+            {
+              "text": "Imam hladnu vodu.",
+              "ua": "У мене холодна вода.",
+              "audio": "hr-les11-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Закінчення -u те саме, що в самого іменника (kavu), тож їх обидва змінюй разом: dobru kavu, не «dobra kavu»."
+        },
+        {
+          "form": "неживе: без змін",
+          "when_ua": "Неживі чоловічі й середні слова не змінюються: dobar kruh, dobro mlijeko, svjež sir.",
+          "examples": [
+            {
+              "text": "Imam svjež kruh.",
+              "ua": "У мене свіжий хліб.",
+              "audio": "hr-les11-rule-13.mp3"
+            },
+            {
+              "text": "Kupujem hladno mlijeko.",
+              "ua": "Я купую холодне молоко.",
+              "audio": "hr-les11-rule-14.mp3"
+            },
+            {
+              "text": "Imam jeftin sir.",
+              "ua": "У мене дешевий сир.",
+              "audio": "hr-les11-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 4: неживе без змін. Прикметник теж без змін."
+        },
+        {
+          "form": "живе чоловіче: -og",
+          "when_ua": "Для людей і тварин чоловічого роду знахідний дорівнює родовому: dobrog, velikog, malenog.",
+          "examples": [
+            {
+              "text": "Vidim velikog psa.",
+              "ua": "Я бачу великого собаку.",
+              "audio": "hr-les11-rule-16.mp3"
+            },
+            {
+              "text": "Vidim dobrog brata.",
+              "ua": "Я бачу доброго брата.",
+              "audio": "hr-les11-rule-17.mp3"
+            },
+            {
+              "text": "Vidim malenog psa.",
+              "ua": "Я бачу маленького собаку.",
+              "audio": "hr-les11-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українське велик-ого, добр-ого: те саме. Закінчення -og, не -ogo."
+        }
+      ],
+      "points_ua": [
+        "Знахідний ж. р.: прикметник і іменник обидва -u (dobru kavu).",
+        "Неживе: без змін (dobar kruh, dobro mlijeko). Живе чоловіче: -og (velikog psa).",
+        "Українська й російська мають той самий поділ, тож це безкоштовна перемога."
+      ]
+    },
+    {
+      "title_ua": "Питання kakav? і слово vrlo",
+      "summary_ua": "Kakav / kakva / kakvo питає «який»: Kakav je sir? Відповідь прикметник: Sir je ukusan. Vrlo підсилює: vrlo skupo. Kakav змінюється за родом, як і прикметник.",
+      "compare": [
+        {
+          "form": "Kakav / Kakva / Kakvo je ...?",
+          "when_ua": "Kakav для ч., kakva для ж., kakvo для с.: Kakav je sir? Kakva je jabuka? Kakvo je meso?",
+          "examples": [
+            {
+              "text": "Kakav je sir?",
+              "ua": "Який сир?",
+              "audio": "hr-les11-rule-19.mp3"
+            },
+            {
+              "text": "Kakva je jabuka?",
+              "ua": "Яке яблуко?",
+              "audio": "hr-les11-rule-20.mp3"
+            },
+            {
+              "text": "Kakvo je meso?",
+              "ua": "Яке м'ясо?",
+              "audio": "hr-les11-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Українське який / яка / яке: порядок слів той самий. Kakva je jabuka (jabuka жіночого роду)."
+        },
+        {
+          "form": "vrlo + прикметник",
+          "when_ua": "Vrlo ставиться перед прикметником і не змінюється.",
+          "examples": [
+            {
+              "text": "Sir je vrlo dobar.",
+              "ua": "Сир дуже хороший.",
+              "audio": "hr-les11-rule-22.mp3"
+            },
+            {
+              "text": "Kava je vrlo hladna.",
+              "ua": "Кава дуже холодна.",
+              "audio": "hr-les11-rule-23.mp3"
+            },
+            {
+              "text": "Meso je vrlo skupo.",
+              "ua": "М'ясо дуже дороге.",
+              "audio": "hr-les11-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Vrlo без закінчень. Тут не помилитись: змінюється лише прикметник."
+        }
+      ],
+      "points_ua": [
+        "Kakav (ч.), kakva (ж.), kakvo (с.): за родом іменника.",
+        "Vrlo + прикметник: без змін."
+      ]
+    },
+    {
+      "title_ua": "Лажні друзі: trudan і vrijedan",
+      "summary_ua": "Дві пастки, які зустрічаються щодня. Trudna про жінку значить «вагітна», не «трудна». Vrijedan значить «працьовитий» або «цінний», а російське вредный значить «шкідливий». Високий соціальний ризик: перевір словник.",
+      "compare": [
+        {
+          "form": "trudna, vrijedna",
+          "when_ua": "Про жінку trudna значить «вагітна». Vrijedna значить «працьовита».",
+          "examples": [
+            {
+              "text": "Sestra je trudna.",
+              "ua": "Сестра вагітна.",
+              "audio": "hr-les11-rule-25.mp3"
+            },
+            {
+              "text": "Majka je vrijedna.",
+              "ua": "Мама працьовита.",
+              "audio": "hr-les11-rule-26.mp3"
+            },
+            {
+              "text": "Brat je vrijedan.",
+              "ua": "Брат працьовитий.",
+              "audio": "hr-les11-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Не кажи про себе trudna, якщо хочеш сказати «я втомилася»: це означає «я вагітна». Для «втомилася» є інше слово, яке ми не вчимо тут.",
+          "check": "Значення trudna як «вагітна» й окреме слово umoran для «втомлений» перевір у словнику; у моєму переліку trudan також «втомлений»."
+        }
+      ],
+      "points_ua": [
+        "Trudna (про жінку) = вагітна. Не перекладай «трудна» чи «втомлена» за схожістю.",
+        "Vrijedan = працьовитий, цінний. Російське вредный = шкідливий: це пастка для російськомовних."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Kruh je svjež.",
+      "ua": "Хліб свіжий.",
+      "audio": "hr-les11-example-01.mp3"
+    },
+    {
+      "text": "Kava je dobra.",
+      "ua": "Кава хороша.",
+      "audio": "hr-les11-example-02.mp3"
+    },
+    {
+      "text": "Mlijeko je hladno.",
+      "ua": "Молоко холодне.",
+      "audio": "hr-les11-example-03.mp3"
+    },
+    {
+      "text": "Sir je ukusan.",
+      "ua": "Сир смачний.",
+      "audio": "hr-les11-example-04.mp3"
+    },
+    {
+      "text": "Meso je skupo.",
+      "ua": "М'ясо дороге.",
+      "audio": "hr-les11-example-05.mp3"
+    },
+    {
+      "text": "Sok je jeftin.",
+      "ua": "Сік дешевий.",
+      "audio": "hr-les11-example-06.mp3"
+    },
+    {
+      "text": "Jabuka je velika.",
+      "ua": "Яблуко велике.",
+      "audio": "hr-les11-example-07.mp3"
+    },
+    {
+      "text": "Kakav je kruh?",
+      "ua": "Який хліб?",
+      "audio": "hr-les11-example-08.mp3"
+    },
+    {
+      "text": "Kakva je kava?",
+      "ua": "Яка кава?",
+      "audio": "hr-les11-example-09.mp3"
+    },
+    {
+      "text": "Kakvo je mlijeko?",
+      "ua": "Яке молоко?",
+      "audio": "hr-les11-example-10.mp3"
+    },
+    {
+      "text": "Imam dobar kruh.",
+      "ua": "У мене хороший хліб.",
+      "audio": "hr-les11-example-11.mp3"
+    },
+    {
+      "text": "Imam dobru kavu.",
+      "ua": "У мене хороша кава.",
+      "audio": "hr-les11-example-12.mp3"
+    },
+    {
+      "text": "Imam dobro mlijeko.",
+      "ua": "У мене хороше молоко.",
+      "audio": "hr-les11-example-13.mp3"
+    },
+    {
+      "text": "Vidim velikog psa.",
+      "ua": "Я бачу великого собаку.",
+      "audio": "hr-les11-example-14.mp3"
+    },
+    {
+      "text": "Sestra je trudna.",
+      "ua": "Сестра вагітна.",
+      "audio": "hr-les11-example-15.mp3"
+    },
+    {
+      "text": "Meso je vrlo skupo.",
+      "ua": "М'ясо дуже дороге.",
+      "audio": "hr-les11-example-16.mp3"
+    },
+    {
+      "text": "Sir je skup, ali je ukusan.",
+      "ua": "Сир дорогий, але смачний.",
+      "audio": "hr-les11-example-17.mp3"
+    },
+    {
+      "text": "Majka je vrijedna.",
+      "ua": "Мама працьовита.",
+      "audio": "hr-les11-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "U dućanu",
+    "title_ua": "У магазині",
+    "highlight": [
+      "hr-c0176248",
+      "hr-df955036",
+      "hr-4fe63a0f",
+      "hr-5d8ea33e",
+      "hr-89d11c40",
+      "hr-2a35f270"
+    ],
+    "sentences": [
+      {
+        "text": "Danas idem u dućan.",
+        "ua": "Сьогодні я йду в магазин.",
+        "audio": "hr-les11-reading-01.mp3"
+      },
+      {
+        "text": "Kruh je svjež.",
+        "ua": "Хліб свіжий.",
+        "audio": "hr-les11-reading-02.mp3"
+      },
+      {
+        "text": "Sir je ukusan, ali je skup.",
+        "ua": "Сир смачний, але дорогий.",
+        "audio": "hr-les11-reading-03.mp3"
+      },
+      {
+        "text": "Meso je jeftino.",
+        "ua": "М'ясо дешеве.",
+        "audio": "hr-les11-reading-04.mp3"
+      },
+      {
+        "text": "Kupujem dobar kruh.",
+        "ua": "Я купую хороший хліб.",
+        "audio": "hr-les11-reading-05.mp3"
+      },
+      {
+        "text": "Kakva je kava?",
+        "ua": "Яка кава?",
+        "audio": "hr-les11-reading-06.mp3"
+      },
+      {
+        "text": "Kava je dobra.",
+        "ua": "Кава хороша.",
+        "audio": "hr-les11-reading-07.mp3"
+      },
+      {
+        "text": "Mlijeko je hladno.",
+        "ua": "Молоко холодне.",
+        "audio": "hr-les11-reading-08.mp3"
+      },
+      {
+        "text": "Sok je jeftin.",
+        "ua": "Сік дешевий.",
+        "audio": "hr-les11-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Хліб свіжий.",
+          "accepted": [
+            "Kruh je svjež."
+          ]
+        },
+        {
+          "prompt": "Кава хороша.",
+          "accepted": [
+            "Kava je dobra."
+          ]
+        },
+        {
+          "prompt": "Молоко холодне.",
+          "accepted": [
+            "Mlijeko je hladno."
+          ]
+        },
+        {
+          "prompt": "Сир смачний.",
+          "accepted": [
+            "Sir je ukusan."
+          ]
+        },
+        {
+          "prompt": "М'ясо дороге.",
+          "accepted": [
+            "Meso je skupo."
+          ]
+        },
+        {
+          "prompt": "Сік дешевий.",
+          "accepted": [
+            "Sok je jeftin."
+          ]
+        },
+        {
+          "prompt": "Яблуко велике.",
+          "accepted": [
+            "Jabuka je velika."
+          ]
+        },
+        {
+          "prompt": "Який хліб?",
+          "accepted": [
+            "Kakav je kruh?"
+          ]
+        },
+        {
+          "prompt": "Яка кава?",
+          "accepted": [
+            "Kakva je kava?"
+          ]
+        },
+        {
+          "prompt": "Яке молоко?",
+          "accepted": [
+            "Kakvo je mlijeko?"
+          ]
+        },
+        {
+          "prompt": "У мене хороший хліб.",
+          "accepted": [
+            "Imam dobar kruh.",
+            "Ja imam dobar kruh."
+          ]
+        },
+        {
+          "prompt": "У мене хороша кава.",
+          "accepted": [
+            "Imam dobru kavu.",
+            "Ja imam dobru kavu."
+          ]
+        },
+        {
+          "prompt": "Я бачу великого собаку.",
+          "accepted": [
+            "Vidim velikog psa.",
+            "Ja vidim velikog psa."
+          ]
+        },
+        {
+          "prompt": "М'ясо дуже дороге.",
+          "accepted": [
+            "Meso je vrlo skupo."
+          ]
+        },
+        {
+          "prompt": "Сир дорогий, але смачний.",
+          "accepted": [
+            "Sir je skup, ali je ukusan.",
+            "Sir je skup ali je ukusan."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "svjež",
+        "dobra",
+        "hladno",
+        "jeftin",
+        "skupo",
+        "velika",
+        "dobar",
+        "dobru",
+        "dobro",
+        "velikog",
+        "Kakav",
+        "Kakva",
+        "Kakvo",
+        "vrlo",
+        "ukusna",
+        "velik"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Kruh je ___.",
+          "hint": "Хліб свіжий.",
+          "accepted": [
+            [
+              "svjež"
+            ]
+          ]
+        },
+        {
+          "text": "Kava je ___.",
+          "hint": "Кава хороша.",
+          "accepted": [
+            [
+              "dobra"
+            ]
+          ]
+        },
+        {
+          "text": "Mlijeko je ___.",
+          "hint": "Молоко холодне.",
+          "accepted": [
+            [
+              "hladno"
+            ]
+          ]
+        },
+        {
+          "text": "Sok je ___.",
+          "hint": "Сік дешевий.",
+          "accepted": [
+            [
+              "jeftin"
+            ]
+          ]
+        },
+        {
+          "text": "Meso je ___.",
+          "hint": "М'ясо дороге.",
+          "accepted": [
+            [
+              "skupo"
+            ]
+          ]
+        },
+        {
+          "text": "Jabuka je ___.",
+          "hint": "Яблуко велике.",
+          "accepted": [
+            [
+              "velika"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ kruh.",
+          "hint": "У мене хороший хліб.",
+          "accepted": [
+            [
+              "dobar"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ kavu.",
+          "hint": "У мене хороша кава.",
+          "accepted": [
+            [
+              "dobru"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ mlijeko.",
+          "hint": "У мене хороше молоко.",
+          "accepted": [
+            [
+              "dobro"
+            ]
+          ]
+        },
+        {
+          "text": "Vidim ___ psa.",
+          "hint": "Я бачу великого собаку.",
+          "accepted": [
+            [
+              "velikog"
+            ]
+          ]
+        },
+        {
+          "text": "___ je kruh?",
+          "hint": "Який хліб?",
+          "accepted": [
+            [
+              "Kakav"
+            ]
+          ]
+        },
+        {
+          "text": "___ je kava?",
+          "hint": "Яка кава?",
+          "accepted": [
+            [
+              "Kakva"
+            ]
+          ]
+        },
+        {
+          "text": "___ je mlijeko?",
+          "hint": "Яке молоко?",
+          "accepted": [
+            [
+              "Kakvo"
+            ]
+          ]
+        },
+        {
+          "text": "Meso je ___ skupo.",
+          "hint": "М'ясо дуже дороге.",
+          "accepted": [
+            [
+              "vrlo"
+            ]
+          ]
+        },
+        {
+          "text": "Jabuka je ___.",
+          "hint": "Яблуко смачне.",
+          "accepted": [
+            [
+              "ukusna"
+            ]
+          ]
+        },
+        {
+          "text": "Sir je ___.",
+          "hint": "Сир великий.",
+          "accepted": [
+            [
+              "velik"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: рід, знахідний, питання або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Kruh je dobar.",
+          "cue": "-> кава (kava)",
+          "accepted": [
+            "Kava je dobra."
+          ]
+        },
+        {
+          "prompt": "Kruh je svjež.",
+          "cue": "-> яблуко (jabuka)",
+          "accepted": [
+            "Jabuka je svježa."
+          ]
+        },
+        {
+          "prompt": "Sir je skup.",
+          "cue": "-> м'ясо (meso)",
+          "accepted": [
+            "Meso je skupo."
+          ]
+        },
+        {
+          "prompt": "Sok je hladan.",
+          "cue": "-> кава (kava)",
+          "accepted": [
+            "Kava je hladna."
+          ]
+        },
+        {
+          "prompt": "Sok je hladan.",
+          "cue": "-> молоко (mlijeko)",
+          "accepted": [
+            "Mlijeko je hladno."
+          ]
+        },
+        {
+          "prompt": "Imam kruh.",
+          "cue": "-> додай dobar",
+          "accepted": [
+            "Imam dobar kruh."
+          ]
+        },
+        {
+          "prompt": "Imam kavu.",
+          "cue": "-> додай dobar",
+          "accepted": [
+            "Imam dobru kavu."
+          ]
+        },
+        {
+          "prompt": "Imam mlijeko.",
+          "cue": "-> додай dobar",
+          "accepted": [
+            "Imam dobro mlijeko."
+          ]
+        },
+        {
+          "prompt": "Vidim psa.",
+          "cue": "-> додай velik",
+          "accepted": [
+            "Vidim velikog psa."
+          ]
+        },
+        {
+          "prompt": "Kupujem jabuku.",
+          "cue": "-> додай svjež",
+          "accepted": [
+            "Kupujem svježu jabuku."
+          ]
+        },
+        {
+          "prompt": "Kruh je svjež.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kakav je kruh?"
+          ]
+        },
+        {
+          "prompt": "Kava je dobra.",
+          "cue": "-> питання",
+          "accepted": [
+            "Kakva je kava?"
+          ]
+        },
+        {
+          "prompt": "Imam dobar kavu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam dobru kavu."
+          ]
+        },
+        {
+          "prompt": "Kava je dobar.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kava je dobra."
+          ]
+        },
+        {
+          "prompt": "Vidim velik psa.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim velikog psa."
+          ]
+        },
+        {
+          "prompt": "Jabuka je velik.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Jabuka je velika."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ dobar kruh.",
+          "cue": "imati",
+          "accepted": [
+            "imam"
+          ]
+        },
+        {
+          "text": "Mi ___ hladno mlijeko.",
+          "cue": "imati",
+          "accepted": [
+            "imamo"
+          ]
+        },
+        {
+          "text": "Djeca ___ velikog psa.",
+          "cue": "vidjeti",
+          "accepted": [
+            "vide"
+          ]
+        },
+        {
+          "text": "Ti ___ svježu jabuku.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuješ"
+          ]
+        },
+        {
+          "text": "Majka ___ ukusnu kavu.",
+          "cue": "voljeti",
+          "accepted": [
+            "voli"
+          ]
+        },
+        {
+          "text": "Ja ___ dobar sir.",
+          "cue": "voljeti",
+          "accepted": [
+            "volim"
+          ]
+        },
+        {
+          "text": "Mi ___ jeftin sok.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        },
+        {
+          "text": "Vi ___ skup sir.",
+          "cue": "imati",
+          "accepted": [
+            "imate"
+          ]
+        },
+        {
+          "text": "Brat ___ velikog psa.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Oni ___ hladno mlijeko.",
+          "cue": "voljeti",
+          "accepted": [
+            "vole"
+          ]
+        },
+        {
+          "text": "Sir ___ skup.",
+          "cue": "biti",
+          "accepted": [
+            "je"
+          ]
+        },
+        {
+          "text": "Jabuke ___ svježe.",
+          "cue": "biti",
+          "accepted": [
+            "su"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "хороший",
+          "answer": "dobar"
+        },
+        {
+          "prompt": "великий",
+          "answer": "velik"
+        },
+        {
+          "prompt": "маленький",
+          "answer": "malen"
+        },
+        {
+          "prompt": "дорогий (про ціну)",
+          "answer": "skup"
+        },
+        {
+          "prompt": "дешевий",
+          "answer": "jeftin"
+        },
+        {
+          "prompt": "свіжий",
+          "answer": "svjež"
+        },
+        {
+          "prompt": "холодний",
+          "answer": "hladan"
+        },
+        {
+          "prompt": "смачний",
+          "answer": "ukusan"
+        },
+        {
+          "prompt": "який",
+          "answer": "kakav"
+        },
+        {
+          "prompt": "дуже",
+          "answer": "vrlo"
+        },
+        {
+          "prompt": "вагітна (про жінку)",
+          "answer": "trudan"
+        },
+        {
+          "prompt": "працьовитий, цінний",
+          "answer": "vrijedan"
+        }
+      ],
+      "extra": [
+        "dobro",
+        "skupo"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "adjective",
+        "function",
+        "false_friend"
+      ]
+    }
+  ]
+}

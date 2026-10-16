@@ -1,0 +1,1222 @@
+{
+  "id": "hr-les-12",
+  "lang": "hr",
+  "order": 12,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-09e927c7",
+      "type": "noun",
+      "lemma": "vikend",
+      "gender": "m.",
+      "gen_sg": "vikenda",
+      "plural": [
+        "vikendi"
+      ],
+      "ua": "вихідні (субота й неділя)",
+      "audio": "hr-vikend.mp3",
+      "explain_ua": "(Idući vikend ćemo putovati = на наступних вихідних ми будемо подорожувати). Запозичене слово: vikend, vikenda, vikendi. Без прийменника для часу: idući vikend (знахідний без змін, неживе чоловіче)",
+      "check": "Родовий vikenda і множину vikendi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-28b6f67c",
+      "type": "noun",
+      "lemma": "tjedan",
+      "gender": "m.",
+      "gen_sg": "tjedna",
+      "plural": [
+        "tjedni"
+      ],
+      "ua": "тиждень",
+      "audio": "hr-tjedan.mp3",
+      "explain_ua": "(Idući tjedan ću putovati = наступного тижня я буду подорожувати). Нестійке -a-: tjedan, tjedna, tjedni. Без прийменника для часу: idući tjedan. Для російськомовної: tjedan це тиждень, а nedjelja неділя (не неделя)",
+      "check": "Форми tjedna, tjedni з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-43cdb631",
+      "type": "noun",
+      "lemma": "ljeto",
+      "gender": "s.",
+      "gen_sg": "ljeta",
+      "plural": [
+        "ljeta"
+      ],
+      "ua": "літо",
+      "audio": "hr-ljeto.mp3",
+      "forms": [
+        "ljeti"
+      ],
+      "explain_ua": "(Ljeti ćemo biti na moru = влітку ми будемо на морі). Ljeto це літо. Ljeti значить «влітку» (прислівник). Пиши lj: ljeto, не «leto» (це сербське)",
+      "check": "Прислівник ljeti (влітку) з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-748f5086",
+      "type": "adjective",
+      "lemma": "idući",
+      "fem": "iduća",
+      "neut": "iduće",
+      "ua": "наступний",
+      "audio": "hr-iduci.mp3",
+      "forms": [
+        "iduća",
+        "iduće"
+      ],
+      "explain_ua": "(Idući tjedan = наступного тижня). Idući, iduća, iduće. Походить від ići (іти): «той, що йде». У знахідному чоловічого роду неживого без змін: idući tjedan, idući vikend",
+      "check": "Походження idući від ići (підказка для пам'яті) і форми iduća, iduće з мого знання."
+    },
+    {
+      "id": "hr-257a1db2",
+      "type": "function",
+      "lemma": "prekosutra",
+      "ua": "післязавтра",
+      "audio": "hr-prekosutra.mp3",
+      "explain_ua": "(Prekosutra ću biti u gradu = післязавтра я буду в місті). Прислівник часу: prekosutra. Стоїть на першому місці, і клітик ću йде за ним"
+    },
+    {
+      "id": "hr-62444abc",
+      "type": "function",
+      "lemma": "poslije",
+      "ua": "потім, після",
+      "audio": "hr-poslije.mp3",
+      "explain_ua": "(Poslije ću čitati = потім я буду читати). Прислівник: «потім, пізніше». Поки що лише як прислівник, без іменника"
+    },
+    {
+      "id": "hr-723987b9",
+      "type": "verb",
+      "lemma": "putovati",
+      "aspect": "impf.",
+      "partner": "otputovati",
+      "pres_1sg": "putujem",
+      "forms": [
+        "otputovati",
+        "otputujem"
+      ],
+      "ua": "подорожувати",
+      "audio": "hr-putovati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "putujem",
+          "audio": "hr-ja-putujem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "putuješ",
+          "audio": "hr-ti-putujes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "putuje",
+          "audio": "hr-on-putuje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "putujemo",
+          "audio": "hr-mi-putujemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "putujete",
+          "audio": "hr-vi-putujete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "putuju",
+          "audio": "hr-oni-putuju.mp3"
+        }
+      ],
+      "explain_ua": "(Idući tjedan ću putovati = наступного тижня я буду подорожувати). Тип -ujem, як kupovati: putujem, putuješ, putuje, putujemo, putujete, putuju. Пара: putovati (недок.) / otputovati (док., otputujem)",
+      "check": "Пару putovati / otputovati і форму otputujem з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-731a070c",
+      "type": "verb",
+      "lemma": "posjećivati",
+      "aspect": "impf.",
+      "partner": "posjetiti",
+      "pres_1sg": "posjećujem",
+      "forms": [
+        "posjetiti",
+        "posjetim"
+      ],
+      "ua": "відвідувати",
+      "audio": "hr-posjecivati.mp3",
+      "explain_ua": "(U petak ću posjetiti brata = у п'ятницю я відвідаю брата). Пара: posjećivati (недок., posjećujem) / posjetiti (док., posjetim). Після нього знахідний: posjetiti brata. Літера ć з рискою: posjećivati",
+      "check": "Пару posjećivati / posjetiti і форми posjećujem, posjetim з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-82c5996c",
+      "type": "verb",
+      "lemma": "ostajati",
+      "aspect": "impf.",
+      "partner": "ostati",
+      "pres_1sg": "ostajem",
+      "forms": [
+        "ostati",
+        "ostanem"
+      ],
+      "ua": "залишатися",
+      "audio": "hr-ostajati.mp3",
+      "explain_ua": "(Prekosutra ću ostati u stanu = післязавтра я залишуся в квартирі). Пара: ostajati (недок., ostajem) / ostati (док., ostanem). Після нього u/na і місцевий: ostati u stanu",
+      "check": "Пару ostajati / ostati і форми ostajem, ostanem з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-773daf90",
+      "type": "clitic",
+      "lemma": "ću",
+      "slot": "2",
+      "ua": "я буду (допоміжне для майбутнього)",
+      "audio": "hr-cu.mp3",
+      "forms": [
+        "ćeš",
+        "će",
+        "ćemo",
+        "ćete",
+        "neću",
+        "nećeš",
+        "neće",
+        "nećemo",
+        "nećete",
+        "hoću",
+        "hoćeš",
+        "hoće",
+        "hoćemo",
+        "hoćete"
+      ],
+      "example_order": "Sutra ću kupiti kruh.",
+      "explain_ua": "(Sutra ću kupiti kruh = завтра я куплю хліб). Клітик майбутнього: ću, ćeš, će, ćemo, ćete, će + інфінітив. Він на другому місці, як sam. Заперечення одним словом: neću, nećeš, neće, nećemo, nećete, neće. У питанні з li: hoću li, hoćeš li, hoće li. Слово hoću походить від htjeti («хотіти»), тож «ću» це скорочена форма. Інфінітив може стояти першим: Raditi ću, Doći ću, див. картку",
+      "check": "Парадигму ću, neću, hoću з мого знання; повну таблицю клітиків у джерелі не знайдено, тож порядок кількох клітиків разом не вчу."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Майбутній час: ću, ćeš, će + інфінітив",
+      "summary_ua": "Майбутнє = клітик ću, ćeš, će, ćemo, ćete, će + інфінітив: Sutra ću kupiti kruh. Це те саме, що українське «буду + інфінітив» (буду читати) і російське «буду читать». Нове лише в тому, що ću клітик на другому місці, і що інфінітив може бути доконаним (ću kupiti), чого російське «буду купить» не допускає.",
+      "compare": [
+        {
+          "form": "я, ти, ми: ću, ćeš, ćemo",
+          "when_ua": "Особа задається клітиком, а інфінітив не змінюється: ću čitati, ćeš čitati, ćemo čitati.",
+          "examples": [
+            {
+              "text": "Ja ću čitati.",
+              "ua": "Я буду читати.",
+              "audio": "hr-les12-rule-01.mp3"
+            },
+            {
+              "text": "Ti ćeš raditi.",
+              "ua": "Ти будеш працювати.",
+              "audio": "hr-les12-rule-02.mp3"
+            },
+            {
+              "text": "Mi ćemo kupiti sok.",
+              "ua": "Ми купимо сік.",
+              "audio": "hr-les12-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Українське «я буду читати» дає опору: допоміжне + інфінітив. Але ću не «буду»: це клітик."
+        },
+        {
+          "form": "він, ви, вони: će, ćete, će",
+          "when_ua": "On, ona, ono і oni, one, ona мають однакову форму će.",
+          "examples": [
+            {
+              "text": "Majka će kupiti sir.",
+              "ua": "Мама купить сир.",
+              "audio": "hr-les12-rule-04.mp3"
+            },
+            {
+              "text": "Vi ćete ići u park.",
+              "ua": "Ви підете в парк.",
+              "audio": "hr-les12-rule-05.mp3"
+            },
+            {
+              "text": "Djeca će čitati.",
+              "ua": "Діти будуть читати.",
+              "audio": "hr-les12-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Će для 3 особи однини й множини: Majka će, Djeca će."
+        }
+      ],
+      "points_ua": [
+        "Ću, ćeš, će, ćemo, ćete, će: шість форм. Інфінітив не змінюється.",
+        "Українське «буду + інфінітив» і російське «буду + інфінітив» дають опору для структури.",
+        "Ću клітик, а не слово «буду»: на другому місці в реченні."
+      ]
+    },
+    {
+      "title_ua": "Де стоїть ću і питання з hoću li",
+      "summary_ua": "Ću стоїть на другому місці, як sam: Sutra ću ići u dućan. Ja ću sutra ići u dućan. Питання: Hoćeš li ...? Hoće li majka ...? (довга форма від htjeti + li). Поки що лише ću плюс один клітик.",
+      "compare": [
+        {
+          "form": "ću на другому місці",
+          "when_ua": "Після першого слова або групи: Sutra ću, Ja ću, Idući tjedan ćemo.",
+          "examples": [
+            {
+              "text": "Sutra ću ići u dućan.",
+              "ua": "Завтра я піду в магазин.",
+              "audio": "hr-les12-rule-07.mp3"
+            },
+            {
+              "text": "Ja ću sutra ići u dućan.",
+              "ua": "Я завтра піду в магазин.",
+              "audio": "hr-les12-rule-08.mp3"
+            },
+            {
+              "text": "Idući tjedan ćemo ići u grad.",
+              "ua": "Наступного тижня ми підемо в місто.",
+              "audio": "hr-les12-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Це правило другого місця з Lekcije 1. Ću не починає речення."
+        },
+        {
+          "form": "питання: hoćeš li, hoće li",
+          "when_ua": "Для питання «так/ні»: hoću li, hoćeš li, hoće li, hoćemo li, hoćete li, hoće li, потім інфінітив.",
+          "examples": [
+            {
+              "text": "Hoćeš li ići u dućan?",
+              "ua": "Ти підеш у магазин?",
+              "audio": "hr-les12-rule-10.mp3"
+            },
+            {
+              "text": "Hoće li majka ići u dućan?",
+              "ua": "Чи мама піде в магазин?",
+              "audio": "hr-les12-rule-11.mp3"
+            },
+            {
+              "text": "Hoćete li kupiti kruh?",
+              "ua": "Ви купите хліб?",
+              "audio": "hr-les12-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Це та сама схема, що Jesi li, Je li з Lekcije 2: довга форма першою, потім li."
+        }
+      ],
+      "points_ua": [
+        "Ću на другому місці: Sutra ću, Ja ću, Majka će.",
+        "Питання: hoćeš li, hoće li, hoćete li + інфінітив.",
+        "Кілька клітиків разом (ću + mu + ga) я поясню пізніше за перевіреною таблицею."
+      ]
+    },
+    {
+      "title_ua": "Заперечення: neću, nećeš, neće",
+      "summary_ua": "Заперечення майбутнього пишеться одним словом: neću, nećeš, neće, nećemo, nećete, neće + інфінітив. Neću raditi. Не пиши ne ću.",
+      "compare": [
+        {
+          "form": "neću, nećeš, neće",
+          "when_ua": "Neću, nećeš, neće + інфінітив.",
+          "examples": [
+            {
+              "text": "Neću raditi.",
+              "ua": "Я не буду працювати.",
+              "audio": "hr-les12-rule-13.mp3"
+            },
+            {
+              "text": "Nećeš čitati.",
+              "ua": "Ти не будеш читати.",
+              "audio": "hr-les12-rule-14.mp3"
+            },
+            {
+              "text": "Majka neće raditi.",
+              "ua": "Мама не буде працювати.",
+              "audio": "hr-les12-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Neću разом, як nisam з Lekcije 10. Не «ne ću»."
+        },
+        {
+          "form": "nećemo, nećete, neće",
+          "when_ua": "Множина: nećemo, nećete, neće.",
+          "examples": [
+            {
+              "text": "Nećemo ići u školu.",
+              "ua": "Ми не підемо в школу.",
+              "audio": "hr-les12-rule-16.mp3"
+            },
+            {
+              "text": "Nećete kupiti sir.",
+              "ua": "Ви не купите сир.",
+              "audio": "hr-les12-rule-17.mp3"
+            },
+            {
+              "text": "Djeca neće spavati.",
+              "ua": "Діти не будуть спати.",
+              "audio": "hr-les12-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Українське «не буду, не підемо» теж два слова; хорватське заперечення один клітик."
+        }
+      ],
+      "points_ua": [
+        "Neću / nećeš / neće / nećemo / nećete / neće + інфінітив.",
+        "Neće не пропускай: Majka neće raditi, не «majka ne radi» (це теперішній час)."
+      ]
+    },
+    {
+      "title_ua": "Вид у майбутньому: ću kupiti / ću kupovati",
+      "summary_ua": "Після ću можна ставити як доконаний, так і недоконаний інфінітив. Доконаний (ću kupiti) це одне завершене купівля, недоконаний (ću kupovati) процес або повторення. У російській «буду купить» неможливе (кажуть «куплю»), а в хорватській ću kupiti нормальне. Українське «куплю» теж працює.",
+      "compare": [
+        {
+          "form": "доконаний: результат",
+          "when_ua": "Ću pročitati, ću napisati, ću kupiti: дія завершиться.",
+          "examples": [
+            {
+              "text": "Sutra ću pročitati knjigu.",
+              "ua": "Завтра я прочитаю книжку.",
+              "audio": "hr-les12-rule-19.mp3"
+            },
+            {
+              "text": "Sutra ću napisati zadaću.",
+              "ua": "Завтра я напишу завдання.",
+              "audio": "hr-les12-rule-20.mp3"
+            },
+            {
+              "text": "Sutra ću kupiti kruh.",
+              "ua": "Завтра я куплю хліб.",
+              "audio": "hr-les12-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Тут хорватська ближча до української («куплю»): структура ću kupiti = «куплю»."
+        },
+        {
+          "form": "недоконаний: процес",
+          "when_ua": "Ću čitati, ću pisati, ću kupovati: процес або повторення.",
+          "examples": [
+            {
+              "text": "Sutra ću čitati knjigu.",
+              "ua": "Завтра я буду читати книжку.",
+              "audio": "hr-les12-rule-22.mp3"
+            },
+            {
+              "text": "Idući tjedan ću pisati zadaću.",
+              "ua": "Наступного тижня я буду писати завдання.",
+              "audio": "hr-les12-rule-23.mp3"
+            },
+            {
+              "text": "Često ću kupovati kruh.",
+              "ua": "Я буду часто купувати хліб.",
+              "audio": "hr-les12-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Українське «буду читати» і російське «буду читать» працюють так само: недоконаний після допоміжного."
+        }
+      ],
+      "points_ua": [
+        "Результат: ću + доконаний (ću kupiti, ću pročitati).",
+        "Процес або повторення: ću + недоконаний (ću kupovati, ću čitati).",
+        "Російське «буду купить» неможливе, але хорватське ću kupiti нормальне: це відмінність від російської."
+      ]
+    },
+    {
+      "title_ua": "Час: sutra, prekosutra, idući tjedan, ljeti",
+      "summary_ua": "Слова часу для планів: sutra (завтра), prekosutra (післязавтра), poslije (потім), idući tjedan (наступного тижня), idući vikend, ljeti (влітку). Вони стоять на першому місці, а ću за ними.",
+      "compare": [
+        {
+          "form": "слова часу + ću",
+          "when_ua": "Prekosutra, poslije, ljeti на першому місці, ću на другому.",
+          "examples": [
+            {
+              "text": "Prekosutra ću biti u gradu.",
+              "ua": "Післязавтра я буду в місті.",
+              "audio": "hr-les12-rule-25.mp3"
+            },
+            {
+              "text": "Poslije ću čitati knjigu.",
+              "ua": "Потім я буду читати книжку.",
+              "audio": "hr-les12-rule-26.mp3"
+            },
+            {
+              "text": "Ljeti ću putovati.",
+              "ua": "Влітку я буду подорожувати.",
+              "audio": "hr-les12-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Слово часу плюс ću: те саме правило другого місця."
+        }
+      ],
+      "points_ua": [
+        "Idući tjedan, idući vikend: без прийменника, знахідний без змін.",
+        "Ljeti = влітку (прислівник від ljeto)."
+      ]
+    },
+    {
+      "title_ua": "Інфінітив першим: Raditi ću, Doći ću",
+      "summary_ua": "Коли немає ні займенника, ні слова часу, інфінітив іде першим, а ću другим: Ja ću raditi → Raditi ću. Ja ću doći → Doći ću. Так у підручнику. У розмові інфінітив часто скорочують (kupit ću), але тут вчимо повну форму.",
+      "compare": [
+        {
+          "form": "інфінітив першим: Raditi ću",
+          "when_ua": "Інфінітив на початку, ću після нього, без займенника: Raditi ću. Doći ću.",
+          "examples": [
+            {
+              "text": "Kupiti ću kruh.",
+              "ua": "Куплю хліб.",
+              "audio": "hr-les12-rule-28.mp3"
+            },
+            {
+              "text": "Doći ću u petak.",
+              "ua": "Прийду в п'ятницю.",
+              "audio": "hr-les12-rule-29.mp3"
+            },
+            {
+              "text": "Ostati ću u stanu.",
+              "ua": "Залишуся в квартирі.",
+              "audio": "hr-les12-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Це форма з інфінітивом першим, а ću другим. Якщо є слово часу, воно стоїть першим: Sutra ću kupiti."
+        }
+      ],
+      "points_ua": [
+        "Без займенника й слова часу: інфінітив + ću (Raditi ću, Doći ću).",
+        "Зі словом часу: слово часу + ću + інфінітив (Sutra ću kupiti).",
+        "У розмові чутимеш і скорочену форму kupit ću."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Sutra ću kupiti kruh.",
+      "ua": "Завтра я куплю хліб.",
+      "audio": "hr-les12-example-01.mp3"
+    },
+    {
+      "text": "Sutra ćeš čitati knjigu.",
+      "ua": "Завтра ти будеш читати книжку.",
+      "audio": "hr-les12-example-02.mp3"
+    },
+    {
+      "text": "Majka će raditi u banci.",
+      "ua": "Мама буде працювати в банку.",
+      "audio": "hr-les12-example-03.mp3"
+    },
+    {
+      "text": "Mi ćemo kupiti sir.",
+      "ua": "Ми купимо сир.",
+      "audio": "hr-les12-example-04.mp3"
+    },
+    {
+      "text": "Vi ćete ići u dućan.",
+      "ua": "Ви підете в магазин.",
+      "audio": "hr-les12-example-05.mp3"
+    },
+    {
+      "text": "Djeca će biti u parku.",
+      "ua": "Діти будуть у парку.",
+      "audio": "hr-les12-example-06.mp3"
+    },
+    {
+      "text": "Idući tjedan ću putovati.",
+      "ua": "Наступного тижня я буду подорожувати.",
+      "audio": "hr-les12-example-07.mp3"
+    },
+    {
+      "text": "Prekosutra ću ostati u stanu.",
+      "ua": "Післязавтра я залишуся в квартирі.",
+      "audio": "hr-les12-example-08.mp3"
+    },
+    {
+      "text": "Poslije ću čitati.",
+      "ua": "Потім я буду читати.",
+      "audio": "hr-les12-example-09.mp3"
+    },
+    {
+      "text": "U petak ću posjetiti brata.",
+      "ua": "У п'ятницю я відвідаю брата.",
+      "audio": "hr-les12-example-10.mp3"
+    },
+    {
+      "text": "Ljeti ćemo biti na moru.",
+      "ua": "Влітку ми будемо на морі.",
+      "audio": "hr-les12-example-11.mp3"
+    },
+    {
+      "text": "Neću raditi u nedjelju.",
+      "ua": "Я не буду працювати в неділю.",
+      "audio": "hr-les12-example-12.mp3"
+    },
+    {
+      "text": "Nećemo ići u školu.",
+      "ua": "Ми не підемо в школу.",
+      "audio": "hr-les12-example-13.mp3"
+    },
+    {
+      "text": "Hoćeš li kupiti kruh?",
+      "ua": "Ти купиш хліб?",
+      "audio": "hr-les12-example-14.mp3"
+    },
+    {
+      "text": "Hoće li majka doći?",
+      "ua": "Чи мама прийде?",
+      "audio": "hr-les12-example-15.mp3"
+    },
+    {
+      "text": "Idući vikend ćemo putovati.",
+      "ua": "На наступних вихідних ми будемо подорожувати.",
+      "audio": "hr-les12-example-16.mp3"
+    },
+    {
+      "text": "Sutra neću ići u dućan.",
+      "ua": "Завтра я не піду в магазин.",
+      "audio": "hr-les12-example-17.mp3"
+    },
+    {
+      "text": "Idući tjedan ćemo biti ovdje.",
+      "ua": "Наступного тижня ми будемо тут.",
+      "audio": "hr-les12-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Planovi",
+    "title_ua": "Плани",
+    "highlight": [
+      "hr-28b6f67c",
+      "hr-748f5086",
+      "hr-257a1db2",
+      "hr-773daf90"
+    ],
+    "sentences": [
+      {
+        "text": "Sutra idem u dućan.",
+        "ua": "Завтра я йду в магазин.",
+        "audio": "hr-les12-reading-01.mp3"
+      },
+      {
+        "text": "Sutra ću kupiti kruh i sir.",
+        "ua": "Завтра я куплю хліб і сир.",
+        "audio": "hr-les12-reading-02.mp3"
+      },
+      {
+        "text": "Prekosutra ću čitati knjigu.",
+        "ua": "Післязавтра я буду читати книжку.",
+        "audio": "hr-les12-reading-03.mp3"
+      },
+      {
+        "text": "Idući tjedan ćemo putovati.",
+        "ua": "Наступного тижня ми будемо подорожувати.",
+        "audio": "hr-les12-reading-04.mp3"
+      },
+      {
+        "text": "Majka će posjetiti brata.",
+        "ua": "Мама відвідає брата.",
+        "audio": "hr-les12-reading-05.mp3"
+      },
+      {
+        "text": "Djeca će biti na moru.",
+        "ua": "Діти будуть на морі.",
+        "audio": "hr-les12-reading-06.mp3"
+      },
+      {
+        "text": "Hoće li brat doći?",
+        "ua": "Чи брат прийде?",
+        "audio": "hr-les12-reading-07.mp3"
+      },
+      {
+        "text": "Da, brat će doći u petak.",
+        "ua": "Так, брат прийде в п'ятницю.",
+        "audio": "hr-les12-reading-08.mp3"
+      },
+      {
+        "text": "Neću raditi u nedjelju.",
+        "ua": "Я не буду працювати в неділю.",
+        "audio": "hr-les12-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Завтра я куплю хліб.",
+          "accepted": [
+            "Sutra ću kupiti kruh.",
+            "Ja ću sutra kupiti kruh."
+          ]
+        },
+        {
+          "prompt": "Завтра ти будеш читати книжку.",
+          "accepted": [
+            "Sutra ćeš čitati knjigu.",
+            "Ti ćeš sutra čitati knjigu."
+          ]
+        },
+        {
+          "prompt": "Мама буде працювати в банку.",
+          "accepted": [
+            "Majka će raditi u banci."
+          ]
+        },
+        {
+          "prompt": "Ми купимо сир.",
+          "accepted": [
+            "Mi ćemo kupiti sir.",
+            "Kupiti ćemo sir."
+          ]
+        },
+        {
+          "prompt": "Ви підете в магазин.",
+          "accepted": [
+            "Vi ćete ići u dućan.",
+            "Vi ćete ići u trgovinu."
+          ]
+        },
+        {
+          "prompt": "Діти будуть у парку.",
+          "accepted": [
+            "Djeca će biti u parku."
+          ]
+        },
+        {
+          "prompt": "Наступного тижня я буду подорожувати.",
+          "accepted": [
+            "Idući tjedan ću putovati."
+          ]
+        },
+        {
+          "prompt": "Післязавтра я залишуся в квартирі.",
+          "accepted": [
+            "Prekosutra ću ostati u stanu."
+          ]
+        },
+        {
+          "prompt": "Потім я буду читати.",
+          "accepted": [
+            "Poslije ću čitati."
+          ]
+        },
+        {
+          "prompt": "У п'ятницю я відвідаю брата.",
+          "accepted": [
+            "U petak ću posjetiti brata."
+          ]
+        },
+        {
+          "prompt": "Влітку ми будемо на морі.",
+          "accepted": [
+            "Ljeti ćemo biti na moru."
+          ]
+        },
+        {
+          "prompt": "Я не буду працювати в неділю.",
+          "accepted": [
+            "Neću raditi u nedjelju."
+          ]
+        },
+        {
+          "prompt": "Ми не підемо в школу.",
+          "accepted": [
+            "Nećemo ići u školu."
+          ]
+        },
+        {
+          "prompt": "Ти купиш хліб?",
+          "accepted": [
+            "Hoćeš li kupiti kruh?"
+          ]
+        },
+        {
+          "prompt": "Чи мама прийде?",
+          "accepted": [
+            "Hoće li majka doći?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "ću",
+        "ćeš",
+        "će",
+        "ćemo",
+        "ćete",
+        "Neću",
+        "nećeš",
+        "neće",
+        "Nećemo",
+        "nećete",
+        "Hoćeš",
+        "Hoće",
+        "kupiti",
+        "čitati",
+        "ići",
+        "biti"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Sutra ___ kupiti kruh.",
+          "hint": "Завтра я куплю хліб.",
+          "accepted": [
+            [
+              "ću"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra ___ čitati.",
+          "hint": "Завтра ти будеш читати.",
+          "accepted": [
+            [
+              "ćeš"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ raditi.",
+          "hint": "Мама буде працювати.",
+          "accepted": [
+            [
+              "će"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ kupiti sir.",
+          "hint": "Ми купимо сир.",
+          "accepted": [
+            [
+              "ćemo"
+            ]
+          ]
+        },
+        {
+          "text": "Vi ___ ići u dućan.",
+          "hint": "Ви підете в магазин.",
+          "accepted": [
+            [
+              "ćete"
+            ]
+          ]
+        },
+        {
+          "text": "___ raditi u nedjelju.",
+          "hint": "Я не буду працювати в неділю.",
+          "accepted": [
+            [
+              "Neću"
+            ]
+          ]
+        },
+        {
+          "text": "Ti ___ čitati.",
+          "hint": "Ти не будеш читати.",
+          "accepted": [
+            [
+              "nećeš"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ raditi.",
+          "hint": "Мама не буде працювати.",
+          "accepted": [
+            [
+              "neće"
+            ]
+          ]
+        },
+        {
+          "text": "___ ići u školu.",
+          "hint": "Ми не підемо в школу.",
+          "accepted": [
+            [
+              "Nećemo"
+            ]
+          ]
+        },
+        {
+          "text": "Vi ___ kupiti sir.",
+          "hint": "Ви не купите сир.",
+          "accepted": [
+            [
+              "nećete"
+            ]
+          ]
+        },
+        {
+          "text": "___ li kupiti kruh?",
+          "hint": "Ти купиш хліб?",
+          "accepted": [
+            [
+              "Hoćeš"
+            ]
+          ]
+        },
+        {
+          "text": "___ li majka doći?",
+          "hint": "Чи мама прийде?",
+          "accepted": [
+            [
+              "Hoće"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra ću ___ kruh.",
+          "hint": "Завтра я куплю хліб.",
+          "accepted": [
+            [
+              "kupiti"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra ću ___ knjigu.",
+          "hint": "Завтра я буду читати книжку.",
+          "accepted": [
+            [
+              "čitati"
+            ]
+          ]
+        },
+        {
+          "text": "Idući tjedan ćemo ___ u grad.",
+          "hint": "Наступного тижня ми підемо в місто.",
+          "accepted": [
+            [
+              "ići"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca će ___ u parku.",
+          "hint": "Діти будуть у парку.",
+          "accepted": [
+            [
+              "biti"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: майбутнє, заперечення, питання або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Kupujem kruh.",
+          "cue": "-> майбутнє з Sutra",
+          "accepted": [
+            "Sutra ću kupiti kruh.",
+            "Sutra ću kupovati kruh."
+          ]
+        },
+        {
+          "prompt": "Čitam knjigu.",
+          "cue": "-> майбутнє з Sutra",
+          "accepted": [
+            "Sutra ću čitati knjigu."
+          ]
+        },
+        {
+          "prompt": "Majka radi.",
+          "cue": "-> майбутнє з Sutra",
+          "accepted": [
+            "Sutra će majka raditi.",
+            "Majka će sutra raditi."
+          ]
+        },
+        {
+          "prompt": "Idem u dućan.",
+          "cue": "-> майбутнє з Sutra",
+          "accepted": [
+            "Sutra ću ići u dućan."
+          ]
+        },
+        {
+          "prompt": "Mi kupujemo sir.",
+          "cue": "-> майбутнє з Sutra",
+          "accepted": [
+            "Sutra ćemo kupiti sir.",
+            "Sutra ćemo kupovati sir."
+          ]
+        },
+        {
+          "prompt": "Ti čitaš.",
+          "cue": "-> майбутнє з Sutra",
+          "accepted": [
+            "Sutra ćeš čitati."
+          ]
+        },
+        {
+          "prompt": "Sutra ću raditi.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Sutra neću raditi."
+          ]
+        },
+        {
+          "prompt": "Sutra ćemo ići.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Sutra nećemo ići."
+          ]
+        },
+        {
+          "prompt": "Majka će kupiti sir.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Majka neće kupiti sir."
+          ]
+        },
+        {
+          "prompt": "Sutra ćeš čitati.",
+          "cue": "-> питання з hoću li",
+          "accepted": [
+            "Hoćeš li sutra čitati?",
+            "Hoćeš li čitati sutra?"
+          ]
+        },
+        {
+          "prompt": "Majka će doći.",
+          "cue": "-> питання з hoću li",
+          "accepted": [
+            "Hoće li majka doći?"
+          ]
+        },
+        {
+          "prompt": "Sutra ću čitati.",
+          "cue": "-> почни з Idući tjedan",
+          "accepted": [
+            "Idući tjedan ću čitati."
+          ]
+        },
+        {
+          "prompt": "Sutra ću kupiti kruh.",
+          "cue": "-> почни з Prekosutra",
+          "accepted": [
+            "Prekosutra ću kupiti kruh."
+          ]
+        },
+        {
+          "prompt": "Sutra ću kupim kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sutra ću kupiti kruh."
+          ]
+        },
+        {
+          "prompt": "Sutra ću čitam.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sutra ću čitati."
+          ]
+        },
+        {
+          "prompt": "Ja neću radim.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ja neću raditi."
+          ]
+        },
+        {
+          "prompt": "Ću sutra kupiti kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sutra ću kupiti kruh."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав допоміжне або дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Sutra ___ kupiti kruh.",
+          "cue": "ću / ćeš / će (я)",
+          "accepted": [
+            "ću"
+          ]
+        },
+        {
+          "text": "Sutra ___ čitati.",
+          "cue": "ću / ćeš / će (ти)",
+          "accepted": [
+            "ćeš"
+          ]
+        },
+        {
+          "text": "Majka ___ raditi.",
+          "cue": "ću / ćeš / će (вона)",
+          "accepted": [
+            "će"
+          ]
+        },
+        {
+          "text": "Mi ___ ići u park.",
+          "cue": "ćemo / ćete (ми)",
+          "accepted": [
+            "ćemo"
+          ]
+        },
+        {
+          "text": "Vi ___ ići u dućan.",
+          "cue": "ćemo / ćete (ви)",
+          "accepted": [
+            "ćete"
+          ]
+        },
+        {
+          "text": "Djeca ___ biti u parku.",
+          "cue": "će / ćete (вони)",
+          "accepted": [
+            "će"
+          ]
+        },
+        {
+          "text": "___ raditi u nedjelju.",
+          "cue": "neću / nećeš (я не)",
+          "accepted": [
+            "Neću"
+          ]
+        },
+        {
+          "text": "Ti ___ čitati.",
+          "cue": "neću / nećeš (ти не)",
+          "accepted": [
+            "nećeš"
+          ]
+        },
+        {
+          "text": "Majka ___ raditi.",
+          "cue": "neće / nećete (вона не)",
+          "accepted": [
+            "neće"
+          ]
+        },
+        {
+          "text": "___ ići u školu.",
+          "cue": "nećemo / nećete (ми не)",
+          "accepted": [
+            "Nećemo"
+          ]
+        },
+        {
+          "text": "Vi ___ kupiti sir.",
+          "cue": "nećemo / nećete (ви не)",
+          "accepted": [
+            "nećete"
+          ]
+        },
+        {
+          "text": "Ja ___ idući tjedan.",
+          "cue": "putovati",
+          "accepted": [
+            "putujem"
+          ]
+        },
+        {
+          "text": "Ti ___ često.",
+          "cue": "putovati",
+          "accepted": [
+            "putuješ"
+          ]
+        },
+        {
+          "text": "Brat ___ često.",
+          "cue": "putovati",
+          "accepted": [
+            "putuje"
+          ]
+        },
+        {
+          "text": "Mi ___ ljeti.",
+          "cue": "putovati",
+          "accepted": [
+            "putujemo"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "завтра",
+          "answer": "sutra"
+        },
+        {
+          "prompt": "післязавтра",
+          "answer": "prekosutra"
+        },
+        {
+          "prompt": "потім",
+          "answer": "poslije"
+        },
+        {
+          "prompt": "наступний",
+          "answer": "idući"
+        },
+        {
+          "prompt": "вихідні",
+          "answer": "vikend"
+        },
+        {
+          "prompt": "тиждень",
+          "answer": "tjedan"
+        },
+        {
+          "prompt": "літо",
+          "answer": "ljeto"
+        },
+        {
+          "prompt": "подорожувати",
+          "answer": "putovati"
+        },
+        {
+          "prompt": "відвідувати",
+          "answer": "posjećivati"
+        },
+        {
+          "prompt": "залишатися",
+          "answer": "ostajati"
+        },
+        {
+          "prompt": "я буду (допоміжне)",
+          "answer": "ću"
+        },
+        {
+          "prompt": "я не буду",
+          "answer": "neću"
+        },
+        {
+          "prompt": "чи я буду?",
+          "answer": "hoću"
+        }
+      ],
+      "extra": [
+        "posjetiti",
+        "ostati"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function",
+        "adjective"
+      ]
+    }
+  ]
+}

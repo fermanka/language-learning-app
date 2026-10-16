@@ -102,7 +102,7 @@
         "srpnja",
         "srpnju"
       ],
-      "explain_ua": "(Rođendan je dvanaestoga srpnja = день народження дванадцятого липня). Зсув на місяць: корінь srp- як в українському серпень, але srpanj це липень. Серпень хорватською kolovoz. Пиши s-r-p, не «spranj». Родовий srpnja, місцевий u srpnju. У множині не вживається"
+      "explain_ua": "(Rođendan je dvanaestog srpnja = день народження дванадцятого липня). Зсув на місяць: корінь srp- як в українському серпень, але srpanj це липень. Серпень хорватською kolovoz. Пиши s-r-p, не «spranj». Родовий srpnja, місцевий u srpnju. У множині не вживається"
     },
     {
       "id": "hr-bf1352aa",
@@ -206,10 +206,9 @@
       "ua": "перший",
       "audio": "hr-prvi.mp3",
       "forms": [
-        "prvoga",
         "prvog"
       ],
-      "explain_ua": "(Danas je prvi siječnja = сьогодні перше січня). Порядковий числівник змінюється за родом: у даті він чоловічого роду, бо за ним мається на увазі dan «день». Родовий prvoga, коли йдеться про подію: Rođendan je prvoga lipnja. Цифрами пишуть 1. з крапкою"
+      "explain_ua": "(Danas je prvi siječnja = сьогодні перше січня). Порядковий числівник змінюється за родом: у даті він чоловічого роду, бо за ним мається на увазі dan «день». Родовий prvog, коли йдеться про подію: Rođendan je prvog lipnja. Цифрами пишуть 1. з крапкою"
     },
     {
       "id": "hr-4e052d8c",
@@ -219,10 +218,9 @@
       "ua": "п'ятий",
       "audio": "hr-peti.mp3",
       "forms": [
-        "petoga",
         "petog"
       ],
-      "explain_ua": "(Danas je peti travnja = сьогодні п'яте квітня). Peti це чоловічий рід, а українське «п'яте» середній. Родовий petoga: Rođendan je petoga travnja. Цифрами 5. з крапкою",
+      "explain_ua": "(Danas je peti travnja = сьогодні п'яте квітня). Peti це чоловічий рід, а українське «п'яте» середній. Родовий petog: Rođendan je petog travnja. Цифрами 5. з крапкою",
       "check": "Родовий порядкових на -oga і -og: джерела розходяться щодо статусу форми на -oga. У цьому уроці вживаю -oga, а форми на -og лише в списку форм. Звірити з Hrvatski pravopis."
     },
     {
@@ -233,10 +231,9 @@
       "ua": "дванадцятий",
       "audio": "hr-dvanaesti.mp3",
       "forms": [
-        "dvanaestoga",
         "dvanaestog"
       ],
-      "explain_ua": "(Rođendan je dvanaestoga srpnja = день народження дванадцятого липня). Dvanaest ми вчимо як слово: dvanaesti це дванадцятий. Родовий dvanaestoga. Цифрами 12. з крапкою"
+      "explain_ua": "(Rođendan je dvanaestog srpnja = день народження дванадцятого липня). Dvanaest ми вчимо як слово: dvanaesti це дванадцятий. Родовий dvanaestog. Цифрами 12. з крапкою"
     },
     {
       "id": "hr-d4975300",
@@ -246,10 +243,9 @@
       "ua": "двадцятий",
       "audio": "hr-dvadeseti.mp3",
       "forms": [
-        "dvadesetoga",
         "dvadesetog"
       ],
-      "explain_ua": "(Rođendan je dvadesetoga rujna = день народження двадцятого вересня). Dvadeseti це двадцятий. Родовий dvadesetoga. Цифрами 20. з крапкою"
+      "explain_ua": "(Rođendan je dvadesetog rujna = день народження двадцятого вересня). Dvadeseti це двадцятий. Родовий dvadesetog. Цифрами 20. з крапкою"
     }
   ],
   "rule": [
@@ -369,8 +365,8 @@
       ]
     },
     {
-      "title_ua": "Дата: Danas je peti travnja. Rođendan je petoga travnja.",
-      "summary_ua": "У даті номер дня порядковий, місяць стоїть у родовому відмінку. «Яка сьогодні дата»: день у називному (peti), місяць у родовому (travnja). «Коли»: день теж у родовому (petoga travnja). Українська теж ставить місяць у родовий.",
+      "title_ua": "Дата: Danas je peti travnja. Rođendan je petog travnja.",
+      "summary_ua": "У даті номер дня порядковий, місяць стоїть у родовому відмінку. «Яка сьогодні дата»: день у називному (peti), місяць у родовому (travnja). «Коли»: день теж у родовому (petog travnja). Українська теж ставить місяць у родовий.",
       "compare": [
         {
           "form": "Яка сьогодні дата: peti travnja",
@@ -395,21 +391,21 @@
           "note_ua": "Українське «п'яте» середнього роду (число), а хорватське peti чоловічого. Тут українська вводить в оману."
         },
         {
-          "form": "Коли: petoga travnja",
-          "when_ua": "Коли подія відбувається в цей день, і день, і місяць у родовому: petoga travnja, dvanaestoga srpnja. Українське «п'ятого квітня» працює так само.",
+          "form": "Коли: petog travnja",
+          "when_ua": "Коли подія відбувається в цей день, і день, і місяць у родовому: petog travnja, dvanaestog srpnja. Українське «п'ятого квітня» працює так само.",
           "examples": [
             {
-              "text": "Rođendan je petoga travnja.",
+              "text": "Rođendan je petog travnja.",
               "ua": "День народження п'ятого квітня.",
               "audio": "hr-les03-rule-17.mp3"
             },
             {
-              "text": "Rođendan je prvoga lipnja.",
+              "text": "Rođendan je prvog lipnja.",
               "ua": "День народження першого червня.",
               "audio": "hr-les03-rule-18.mp3"
             },
             {
-              "text": "Rođendan je dvadesetoga studenoga.",
+              "text": "Rođendan je dvadesetog studenoga.",
               "ua": "День народження двадцятого листопада.",
               "audio": "hr-les03-rule-19.mp3"
             }
@@ -426,12 +422,12 @@
               "audio": "hr-les03-rule-20.mp3"
             },
             {
-              "text": "Rođendan je dvanaestoga srpnja.",
+              "text": "Rođendan je dvanaestog srpnja.",
               "ua": "День народження дванадцятого липня.",
               "audio": "hr-les03-rule-21.mp3"
             },
             {
-              "text": "Majka je na moru dvadesetoga kolovoza.",
+              "text": "Majka je na moru dvadesetog kolovoza.",
               "ua": "Мама на морі двадцятого серпня.",
               "audio": "hr-les03-rule-22.mp3"
             }
@@ -442,7 +438,7 @@
       "points_ua": [
         "Два питання. Яка сьогодні дата? Peti travnja: день у називному, місяць у родовому. Коли подія? Petoga travnja: обидва в родовому.",
         "Місяці в родовому: siječnja, veljače, ožujka, travnja, svibnja, lipnja, srpnja, kolovoza, rujna, listopada, studenoga, prosinca.",
-        "Цифрами 5. travnja читається peti або petoga, залежно від питання. Крапка після числа обов'язкова."
+        "Цифрами 5. travnja читається peti або petog, залежно від питання. Крапка після числа обов'язкова."
       ]
     },
     {
@@ -464,7 +460,7 @@
               "audio": "hr-les03-rule-24.mp3"
             },
             {
-              "text": "Rođendan je prvoga siječnja.",
+              "text": "Rođendan je prvog siječnja.",
               "ua": "День народження першого січня.",
               "audio": "hr-les03-rule-25.mp3"
             }
@@ -486,7 +482,7 @@
               "audio": "hr-les03-rule-27.mp3"
             },
             {
-              "text": "Rođendan je prvoga srpnja.",
+              "text": "Rođendan je prvog srpnja.",
               "ua": "День народження першого липня.",
               "audio": "hr-les03-rule-28.mp3"
             }
@@ -518,7 +514,7 @@
       "audio": "hr-les03-example-03.mp3"
     },
     {
-      "text": "Rođendan je petoga travnja.",
+      "text": "Rođendan je petog travnja.",
       "ua": "День народження п'ятого квітня.",
       "audio": "hr-les03-example-04.mp3"
     },
@@ -533,7 +529,7 @@
       "audio": "hr-les03-example-06.mp3"
     },
     {
-      "text": "Dijete je na moru dvadesetoga kolovoza.",
+      "text": "Dijete je na moru dvadesetog kolovoza.",
       "ua": "Дитина на морі двадцятого серпня.",
       "audio": "hr-les03-example-07.mp3"
     },
@@ -548,7 +544,7 @@
       "audio": "hr-les03-example-09.mp3"
     },
     {
-      "text": "Rođendan je prvoga lipnja.",
+      "text": "Rođendan je prvog lipnja.",
       "ua": "День народження першого червня.",
       "audio": "hr-les03-example-10.mp3"
     },
@@ -629,7 +625,7 @@
         "audio": "hr-les03-reading-07.mp3"
       },
       {
-        "text": "Rođendan je dvanaestoga srpnja.",
+        "text": "Rođendan je dvanaestog srpnja.",
         "ua": "День народження дванадцятого липня.",
         "audio": "hr-les03-reading-08.mp3"
       },
@@ -694,7 +690,6 @@
         {
           "prompt": "День народження п'ятого квітня.",
           "accepted": [
-            "Rođendan je petoga travnja.",
             "Rođendan je petog travnja.",
             "Rođendan je 5. travnja."
           ]
@@ -709,7 +704,6 @@
         {
           "prompt": "День народження дванадцятого липня.",
           "accepted": [
-            "Rođendan je dvanaestoga srpnja.",
             "Rođendan je dvanaestog srpnja.",
             "Rođendan je 12. srpnja."
           ]
@@ -724,9 +718,7 @@
         {
           "prompt": "День народження двадцятого листопада.",
           "accepted": [
-            "Rođendan je dvadesetoga studenoga.",
             "Rođendan je dvadesetog studenoga.",
-            "Rođendan je dvadesetoga studenog.",
             "Rođendan je dvadesetog studenog.",
             "Rođendan je 20. studenoga.",
             "Rođendan je 20. studenog."
@@ -771,7 +763,7 @@
         "peti",
         "dvanaesti",
         "prvi",
-        "petoga",
+        "petog",
         "srpnja",
         "travnja",
         "studenoga"
@@ -891,12 +883,12 @@
           "hint": "День народження п'ятого квітня.",
           "accepted": [
             [
-              "petoga"
+              "petog"
             ]
           ]
         },
         {
-          "text": "Rođendan je dvanaestoga ___.",
+          "text": "Rođendan je dvanaestog ___.",
           "hint": "День народження дванадцятого липня.",
           "accepted": [
             [
@@ -905,7 +897,7 @@
           ]
         },
         {
-          "text": "Rođendan je petoga ___.",
+          "text": "Rođendan je petog ___.",
           "hint": "День народження п'ятого квітня.",
           "accepted": [
             [
@@ -914,7 +906,7 @@
           ]
         },
         {
-          "text": "Rođendan je dvadesetoga ___.",
+          "text": "Rođendan je dvadesetog ___.",
           "hint": "День народження двадцятого листопада.",
           "accepted": [
             [
@@ -934,46 +926,46 @@
           "prompt": "Rođendan je u travnju.",
           "cue": "-> дата: peti (5.)",
           "accepted": [
-            "Rođendan je petoga travnja."
+            "Rođendan je petog travnja."
           ]
         },
         {
           "prompt": "Rođendan je u srpnju.",
           "cue": "-> дата: dvanaesti (12.)",
           "accepted": [
-            "Rođendan je dvanaestoga srpnja."
+            "Rođendan je dvanaestog srpnja."
           ]
         },
         {
           "prompt": "Rođendan je u lipnju.",
           "cue": "-> дата: prvi (1.)",
           "accepted": [
-            "Rođendan je prvoga lipnja."
+            "Rođendan je prvog lipnja."
           ]
         },
         {
           "prompt": "Rođendan je u rujnu.",
           "cue": "-> дата: dvadeseti (20.)",
           "accepted": [
-            "Rođendan je dvadesetoga rujna."
+            "Rođendan je dvadesetog rujna."
           ]
         },
         {
-          "prompt": "Rođendan je petoga travnja.",
+          "prompt": "Rođendan je petog travnja.",
           "cue": "-> почни з Danas (яка сьогодні дата)",
           "accepted": [
             "Danas je peti travnja."
           ]
         },
         {
-          "prompt": "Rođendan je prvoga siječnja.",
+          "prompt": "Rođendan je prvog siječnja.",
           "cue": "-> почни з Danas (яка сьогодні дата)",
           "accepted": [
             "Danas je prvi siječnja."
           ]
         },
         {
-          "prompt": "Rođendan je dvanaestoga srpnja.",
+          "prompt": "Rođendan je dvanaestog srpnja.",
           "cue": "-> почни з Danas (яка сьогодні дата)",
           "accepted": [
             "Danas je dvanaesti srpnja."
@@ -1022,10 +1014,10 @@
           ]
         },
         {
-          "prompt": "Rođendan je petoga travanj.",
+          "prompt": "Rođendan je petog travanj.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Rođendan je petoga travnja."
+            "Rođendan je petog travnja."
           ]
         },
         {

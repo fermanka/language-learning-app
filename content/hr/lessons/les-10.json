@@ -1,0 +1,1423 @@
+{
+  "id": "hr-les-10",
+  "lang": "hr",
+  "order": 10,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-afd2c9fe",
+      "type": "function",
+      "lemma": "bio",
+      "ua": "був (дієприкметник на -l, від biti)",
+      "audio": "hr-bio.mp3",
+      "forms": [
+        "bila",
+        "bilo",
+        "bili",
+        "bile",
+        "radio",
+        "radila",
+        "radilo",
+        "radili",
+        "radile",
+        "čitao",
+        "čitala",
+        "čitali",
+        "pisao",
+        "pisala",
+        "kupio",
+        "kupila",
+        "kupovala",
+        "išao",
+        "išla",
+        "išli",
+        "došao",
+        "došla",
+        "dao",
+        "dala",
+        "vidio",
+        "vidjela",
+        "mogao",
+        "mogla",
+        "pročitala",
+        "napisala"
+      ],
+      "explain_ua": "(Bio sam ovdje = я був тут; Bila sam ovdje = я була тут). Це дієприкметник на -l, з якого будується минулий час: bio, bila, bilo; bili, bile, bila. Тут зібрані дієприкметники слів з Lekcija 1-9: radio / radila, čitao / čitala, pisao / pisala, kupio / kupila, kupovala, išao / išla, došao / došla, dao / dala, vidio / vidjela, mogao / mogla, pročitala, napisala. Чоловічий рід закінчується на -o (не -l): radio, bio, došao",
+      "check": "Тільки radio / radila / radilo / radili / radile і bio sam / bila sam підтверджені джерелом; решту форм (došao, vidio, dao, mogao, išla, napisala та ін.) з мого знання."
+    },
+    {
+      "id": "hr-01fa78de",
+      "type": "verb",
+      "lemma": "kuhati",
+      "aspect": "impf.",
+      "partner": "skuhati",
+      "pres_1sg": "kuham",
+      "forms": [
+        "skuhati",
+        "skuham",
+        "skuhala",
+        "skuhao",
+        "kuhao",
+        "kuhala",
+        "kuhali"
+      ],
+      "ua": "варити, готувати їжу",
+      "audio": "hr-kuhati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "kuham",
+          "audio": "hr-ja-kuham.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "kuhaš",
+          "audio": "hr-ti-kuhas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "kuha",
+          "audio": "hr-on-kuha.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "kuhamo",
+          "audio": "hr-mi-kuhamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "kuhate",
+          "audio": "hr-vi-kuhate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "kuhaju",
+          "audio": "hr-oni-kuhaju.mp3"
+        }
+      ],
+      "explain_ua": "(Majka kuha ručak = мама готує обід). Пара: kuhati (недок.) / skuhati (док., skuham). Skuhala sam večeru значить, що вечеря готова. Тип -am, як čitati. Дієприкметник: kuhao / kuhala (недок.), skuhao / skuhala (док.)",
+      "check": "Пару kuhati / skuhati і дієприкметники з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-ddf2b600",
+      "type": "verb",
+      "lemma": "jesti",
+      "aspect": "impf.",
+      "partner": "pojesti",
+      "pres_1sg": "jedem",
+      "forms": [
+        "pojesti",
+        "pojedem",
+        "jeo",
+        "jela",
+        "jeli"
+      ],
+      "ua": "їсти",
+      "audio": "hr-jesti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "jedem",
+          "audio": "hr-ja-jedem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "jedeš",
+          "audio": "hr-ti-jedes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "jede",
+          "audio": "hr-on-jede.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "jedemo",
+          "audio": "hr-mi-jedemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "jedete",
+          "audio": "hr-vi-jedete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "jedu",
+          "audio": "hr-oni-jedu.mp3"
+        }
+      ],
+      "explain_ua": "(Jedem doručak = я їм сніданок). Нерегулярне: інфінітив jesti, а в теперішньому основа jed-: jedem, jedeš, jede, jedemo, jedete, jedu. Пара: jesti (недок.) / pojesti (док., pojedem). Дієприкметник jeo / jela / jeli (чоловічий рід без -l: jeo, не «jeol»)",
+      "check": "Теперішній jedem, доконана пара pojesti і дієприкметник jeo / jela з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-b1e1bc62",
+      "type": "verb",
+      "lemma": "piti",
+      "aspect": "impf.",
+      "partner": "popiti",
+      "pres_1sg": "pijem",
+      "forms": [
+        "popiti",
+        "popijem",
+        "pio",
+        "pila",
+        "pili"
+      ],
+      "ua": "пити",
+      "audio": "hr-piti.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "pijem",
+          "audio": "hr-ja-pijem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "piješ",
+          "audio": "hr-ti-pijes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "pije",
+          "audio": "hr-on-pije.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "pijemo",
+          "audio": "hr-mi-pijemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "pijete",
+          "audio": "hr-vi-pijete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "piju",
+          "audio": "hr-oni-piju.mp3"
+        }
+      ],
+      "explain_ua": "(Pijem sok = я п'ю сік). Нерегулярне, як в українській п'ю: pijem, piješ, pije, pijemo, pijete, piju. Пара: piti (недок.) / popiti (док., popijem). Дієприкметник pio / pila / pili",
+      "check": "Теперішній pijem, доконана пара popiti і дієприкметник pio / pila з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-13c4c9ad",
+      "type": "verb",
+      "lemma": "spavati",
+      "aspect": "impf.",
+      "pres_1sg": "spavam",
+      "forms": [
+        "spavao",
+        "spavala",
+        "spavali"
+      ],
+      "ua": "спати",
+      "audio": "hr-spavati.mp3",
+      "explain_ua": "(Nisam spavala = я не спала). Тип -am: spavam, spavaš, spava. Дієприкметник spavao / spavala / spavali. Пари немає (док. пара для «поспати» тут не вчимо)",
+      "check": "Пари для spavati не вказано, чи є стандартна доконана пара, не перевірено."
+    },
+    {
+      "id": "hr-1a40610e",
+      "type": "noun",
+      "lemma": "doručak",
+      "gender": "m.",
+      "gen_sg": "doručka",
+      "plural": [
+        "doručci"
+      ],
+      "ua": "сніданок",
+      "audio": "hr-dorucak.mp3",
+      "explain_ua": "(Jeo sam doručak = я їв сніданок). Нестійке -a-: doručak, doručka. Літера č з гачком. Неживе слово чоловічого роду: знахідний doručak без змін. Множина doručci"
+    },
+    {
+      "id": "hr-c62ef390",
+      "type": "noun",
+      "lemma": "ručak",
+      "gender": "m.",
+      "gen_sg": "ručka",
+      "plural": [
+        "ručkovi"
+      ],
+      "ua": "обід",
+      "audio": "hr-rucak.mp3",
+      "explain_ua": "(Majka je skuhala ručak = мама зварила обід). Нестійке -a-: ručak, ručka. Знахідний ručak без змін. Множина рідко вживається",
+      "check": "Множину ručkovi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-7051eb3c",
+      "type": "noun",
+      "lemma": "večera",
+      "gender": "ž.",
+      "gen_sg": "večere",
+      "plural": [
+        "večere"
+      ],
+      "ua": "вечеря",
+      "audio": "hr-vecera.mp3",
+      "forms": [
+        "večeru"
+      ],
+      "explain_ua": "(Skuhala sam večeru = я зварила вечерю). Жіночий рід на -a: знахідний večeru. Літера č з гачком"
+    },
+    {
+      "id": "hr-12325cfa",
+      "type": "function",
+      "lemma": "jučer",
+      "ua": "вчора",
+      "audio": "hr-jucer.mp3",
+      "explain_ua": "(Jučer sam bila u gradu = вчора я була в місті). Прислівник часу. Стоїть на першому місці, а клітик sam іде одразу за ним: Jučer sam bila ... Літера č з гачком"
+    },
+    {
+      "id": "hr-01a4a0ba",
+      "type": "function",
+      "lemma": "jutros",
+      "ua": "сьогодні вранці",
+      "audio": "hr-jutros.mp3",
+      "explain_ua": "(Jutros sam bila u dućanu = сьогодні вранці я була в магазині). Означає «сьогодні вранці», тоді як ujutro це «вранці» взагалі",
+      "check": "Те, що jutros значить саме «сьогодні вранці», з мого знання, у джерелі цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-b2f5890e",
+      "type": "function",
+      "lemma": "već",
+      "ua": "уже",
+      "audio": "hr-vec.mp3",
+      "explain_ua": "(Već sam jela = я вже їла). Означає «уже». Літера ć з рискою. Стоїть перед клітиком або після: Već sam kupila kruh",
+      "check": "Вживання već з перфектом з мого знання, у джерелі цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-7a2ad1dc",
+      "type": "clitic",
+      "lemma": "nisam",
+      "slot": "2",
+      "ua": "я не є (заперечення biti, слово разом)",
+      "audio": "hr-nisam.mp3",
+      "forms": [
+        "nisi",
+        "nije",
+        "nismo",
+        "niste",
+        "nisu"
+      ],
+      "example_order": "Nisam kupila kruh.",
+      "explain_ua": "(Nisam kupila kruh = я не купила хліб). Заперечення від biti пишеться одним словом: nisam, nisi, nije, nismo, niste, nisu. Це й заперечувальна допоміжна форма в перфекті: Nisam radila, Majka nije kupila meso. Ne + sam не пишуть окремо (на відміну від ne + дієслова: ne radim)",
+      "check": "Форми nisam, nisi, nije, nismo, niste, nisu з мого знання, у джерелі цього уроку не підтверджено."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Минулий час (перфект): radio sam / radila sam",
+      "summary_ua": "Минулий час = коротка форма biti (sam, si, je, smo, ste, su) + дієприкметник на -l, що погоджується в роді й числі: radio / radila / radilo; radili / radile / radila. Українське робив / робила / робило / робили близьке. Але українська й російська опускають допоміжне, а хорватська ні: Radio sam, не просто «radio».",
+      "compare": [
+        {
+          "form": "жіночий рід: -la",
+          "when_ua": "Ти кажеш про себе або про жінку: radila sam, čitala si, pisala je. Закінчення -la, як в українському -ла.",
+          "examples": [
+            {
+              "text": "Ja sam radila.",
+              "ua": "Я працювала.",
+              "audio": "hr-les10-rule-01.mp3"
+            },
+            {
+              "text": "Ti si čitala.",
+              "ua": "Ти читала.",
+              "audio": "hr-les10-rule-02.mp3"
+            },
+            {
+              "text": "Majka je pisala.",
+              "ua": "Мама писала.",
+              "audio": "hr-les10-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Ти кажеш про себе: за замовчуванням жіночі форми. Допоміжне sam, si, je ніколи не пропускай."
+        },
+        {
+          "form": "чоловічий рід: -o",
+          "when_ua": "Чоловік каже radio sam. У чоловічому роді закінчення -o (не -l): radio, čitao, pisao. Українське робив має -в.",
+          "examples": [
+            {
+              "text": "Ja sam radio.",
+              "ua": "Я працював.",
+              "audio": "hr-les10-rule-04.mp3"
+            },
+            {
+              "text": "Brat je čitao.",
+              "ua": "Брат читав.",
+              "audio": "hr-les10-rule-05.mp3"
+            },
+            {
+              "text": "Otac je pisao.",
+              "ua": "Батько писав.",
+              "audio": "hr-les10-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Чоловічий рід: -o. Тут опора українська робив: -в це ніби -o. У російській -л, тому російська тут дає менше опори."
+        },
+        {
+          "form": "множина: -li, -le, -la",
+          "when_ua": "Множина: radili smo (змішані або чоловіки), radile smo (лише жінки). Для djeca: -la (середній рід множини).",
+          "examples": [
+            {
+              "text": "Mi smo radili.",
+              "ua": "Ми працювали.",
+              "audio": "hr-les10-rule-07.mp3"
+            },
+            {
+              "text": "Vi ste čitali.",
+              "ua": "Ви читали.",
+              "audio": "hr-les10-rule-08.mp3"
+            },
+            {
+              "text": "Djeca su pisala.",
+              "ua": "Діти писали.",
+              "audio": "hr-les10-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Djeca su pisala: djeca вимагає su і дієприкметника на -la.",
+          "check": "Форма -la для djeca (Djeca su pisala) з мого знання, у джерелах цього уроку не підтверджена."
+        }
+      ],
+      "points_ua": [
+        "Схема: sam / si / je / smo / ste / su + дієприкметник (-o / -la / -lo, -li / -le / -la).",
+        "Допоміжне ніколи не пропускай: radila sam, не «radila». Це те саме, що «не пропускай biti» з Lekcije 2.",
+        "Опирайся на українську для роду й числа: робив → radio, робила → radila."
+      ]
+    },
+    {
+      "title_ua": "Де стоїть sam: другий клітик",
+      "summary_ua": "Допоміжне sam, si, je, smo, ste, su це клітик, на другому місці в реченні: Jučer sam radila. Radila sam jučer. Majka je jučer radila. У питанні: довга форма + li (Jesi li radila?) або je li (Je li brat radio?). Поки що лише допоміжне плюс один клітик.",
+      "compare": [
+        {
+          "form": "sam на другому місці",
+          "when_ua": "Допоміжне після першого слова або групи: Jučer sam radila, Radila sam, Majka je radila.",
+          "examples": [
+            {
+              "text": "Jučer sam radila.",
+              "ua": "Вчора я працювала.",
+              "audio": "hr-les10-rule-10.mp3"
+            },
+            {
+              "text": "Radila sam jučer.",
+              "ua": "Я працювала вчора.",
+              "audio": "hr-les10-rule-11.mp3"
+            },
+            {
+              "text": "Majka je jučer radila.",
+              "ua": "Мама вчора працювала.",
+              "audio": "hr-les10-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Це та сама схема, що Danas sam u gradu з Lekcije 1. Допоміжне не починає речення."
+        },
+        {
+          "form": "питання з li",
+          "when_ua": "Довга форма: jesam li, jesi li, je li, jesmo li, jeste li, jesu li, і дієприкметник: Jesi li radila?",
+          "examples": [
+            {
+              "text": "Jesi li radila?",
+              "ua": "Ти працювала?",
+              "audio": "hr-les10-rule-13.mp3"
+            },
+            {
+              "text": "Je li brat radio?",
+              "ua": "Чи брат працював?",
+              "audio": "hr-les10-rule-14.mp3"
+            },
+            {
+              "text": "Jesu li djeca radila?",
+              "ua": "Чи діти працювали?",
+              "audio": "hr-les10-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 2 для перфекту: допоміжне довгою формою, потім li, потім дієприкметник."
+        },
+        {
+          "form": "допоміжне + один клітик",
+          "when_ua": "Іноді поруч стоять два клітики: допоміжне і давальний (mu, joj, nam). Порядок: допоміжне, потім давальний: Dala sam mu knjigu. Дуже обережно: більше двох клітиків ми поки що не вчимо.",
+          "examples": [
+            {
+              "text": "Dala sam mu knjigu.",
+              "ua": "Я дала йому книжку.",
+              "audio": "hr-les10-rule-16.mp3"
+            },
+            {
+              "text": "Dao sam joj olovku.",
+              "ua": "Я дав їй олівець.",
+              "audio": "hr-les10-rule-17.mp3"
+            },
+            {
+              "text": "Majka nam je dala zadaću.",
+              "ua": "Мама дала нам завдання.",
+              "audio": "hr-les10-rule-18.mp3"
+            }
+          ],
+          "note_ua": "У третьому реченні давальний nam стоїть перед je (nam je), а в перших двох допоміжне стоїть перед давальним (sam mu). Різниця в тому, що je (3 особа однини) стоїть після давального, а sam, si, smo, ste, su перед ним. Це особливість je; перевірку нижче.",
+          "check": "Порядок допоміжного і давального клітика (sam mu, але nam je) з мого знання; таблицю порядку клітиків у джерелі не знайдено, підручник (с. 317) підтверджує лише sam se, тож інше лишається позначеним."
+        }
+      ],
+      "points_ua": [
+        "Допоміжне на другому місці: Jučer sam, Majka je, Mi smo.",
+        "Питання: Jesi li ...? Je li ...? Jesu li ...? (довга форма + li).",
+        "Більше двох клітиків разом я поясню лише після перевірки за граматикою."
+      ]
+    },
+    {
+      "title_ua": "Особливі дієприкметники: bio, išao, došao, dao, vidio",
+      "summary_ua": "Деякі дієприкметники треба вчити окремо, як слова. Чоловічий рід часто закінчується на -o: bio, išao, došao, dao, vidio, jeo, pio, mogao. Жіночий: bila, išla, došla, dala, vidjela, jela, pila, mogla. Зміна голосної (vidio / vidjela) і нерегулярна основа (išao / išla) треба вчити окремо.",
+      "compare": [
+        {
+          "form": "bio, išao, došao",
+          "when_ua": "Дієслова руху та biti: bio / bila, išao / išla, došao / došla.",
+          "examples": [
+            {
+              "text": "Bio sam ovdje.",
+              "ua": "Я був тут.",
+              "audio": "hr-les10-rule-19.mp3"
+            },
+            {
+              "text": "Bila sam ovdje.",
+              "ua": "Я була тут.",
+              "audio": "hr-les10-rule-20.mp3"
+            },
+            {
+              "text": "Išla sam u park.",
+              "ua": "Я ходила в парк.",
+              "audio": "hr-les10-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Bio sam, bila sam: з такою ж логікою рід залежить від того, хто говорить."
+        },
+        {
+          "form": "došao, vidio, dao",
+          "when_ua": "Došao / došla (від doći), vidio / vidjela (від vidjeti), dao / dala (від dati).",
+          "examples": [
+            {
+              "text": "Došao je u grad.",
+              "ua": "Він прийшов у місто.",
+              "audio": "hr-les10-rule-22.mp3"
+            },
+            {
+              "text": "Vidjela sam psa.",
+              "ua": "Я бачила собаку.",
+              "audio": "hr-les10-rule-23.mp3"
+            },
+            {
+              "text": "Dao je kruh.",
+              "ua": "Він дав хліб.",
+              "audio": "hr-les10-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Vidio (ч.) і vidjela (ж.) мають різну голосну: це типова зміна ije / je у хорватській."
+        },
+        {
+          "form": "jeo, pio, mogao",
+          "when_ua": "Jeo / jela, pio / pila, mogao / mogla. Після mogla інфінітив: Mogla sam kupiti kruh.",
+          "examples": [
+            {
+              "text": "Jeo sam kruh.",
+              "ua": "Я їв хліб.",
+              "audio": "hr-les10-rule-25.mp3"
+            },
+            {
+              "text": "Pila sam sok.",
+              "ua": "Я пила сік.",
+              "audio": "hr-les10-rule-26.mp3"
+            },
+            {
+              "text": "Mogla sam kupiti kruh.",
+              "ua": "Я могла купити хліб.",
+              "audio": "hr-les10-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: їв / їла, пив / пила, міг / могла. Форми схожі."
+        }
+      ],
+      "points_ua": [
+        "Нерегулярні дієприкметники вчи як слова: bio / bila, išao / išla, došao / došla, dao / dala, vidio / vidjela, jeo / jela, pio / pila, mogao / mogla.",
+        "Українська (був / була, йшов / йшла, їв / їла) дає опору для більшості пар."
+      ]
+    },
+    {
+      "title_ua": "Заперечення в минулому: nisam radila",
+      "summary_ua": "Заперечення допоміжного: nisam, nisi, nije, nismo, niste, nisu (одне слово). Nisam radila, Majka nije kupila meso. Дієприкметник лишається.",
+      "compare": [
+        {
+          "form": "nisam, nisi, nije",
+          "when_ua": "Допоміжне стає заперечним, дієприкметник той самий.",
+          "examples": [
+            {
+              "text": "Nisam radila.",
+              "ua": "Я не працювала.",
+              "audio": "hr-les10-rule-28.mp3"
+            },
+            {
+              "text": "Nisi bio ovdje.",
+              "ua": "Ти не був тут.",
+              "audio": "hr-les10-rule-29.mp3"
+            },
+            {
+              "text": "Majka nije kupila meso.",
+              "ua": "Мама не купила м'ясо.",
+              "audio": "hr-les10-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Nisam пишеться одним словом. Не пиши ne sam."
+        },
+        {
+          "form": "nismo, niste, nisu",
+          "when_ua": "Множина: nismo, niste, nisu. Дієприкметник у множині.",
+          "examples": [
+            {
+              "text": "Nismo išli u park.",
+              "ua": "Ми не ходили в парк.",
+              "audio": "hr-les10-rule-31.mp3"
+            },
+            {
+              "text": "Niste jeli.",
+              "ua": "Ви не їли.",
+              "audio": "hr-les10-rule-32.mp3"
+            },
+            {
+              "text": "Djeca nisu spavala.",
+              "ua": "Діти не спали.",
+              "audio": "hr-les10-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: не йшли, не їли, не спали, але допоміжне nismo, niste, nisu обов'язкове."
+        }
+      ],
+      "points_ua": [
+        "Nisam / nisi / nije / nismo / niste / nisu + дієприкметник.",
+        "Nije ніколи не пропускай: Majka nije kupila, не «majka ne kupila»."
+      ]
+    },
+    {
+      "title_ua": "Вид у минулому: čitala sam / pročitala sam",
+      "summary_ua": "Вид у минулому працює, як в українській і російській. Недоконаний (čitala sam) це процес або повторення, доконаний (pročitala sam) це результат. Система та сама, лише пари вчимо окремо.",
+      "compare": [
+        {
+          "form": "недоконаний: процес",
+          "when_ua": "Čitala sam, kupovala sam: я була в процесі або робила регулярно.",
+          "examples": [
+            {
+              "text": "Čitala sam knjigu.",
+              "ua": "Я читала книжку.",
+              "audio": "hr-les10-rule-34.mp3"
+            },
+            {
+              "text": "Često sam kupovala kruh.",
+              "ua": "Я часто купувала хліб.",
+              "audio": "hr-les10-rule-35.mp3"
+            },
+            {
+              "text": "Pisala sam zadaću.",
+              "ua": "Я писала завдання.",
+              "audio": "hr-les10-rule-36.mp3"
+            }
+          ],
+          "note_ua": "Недоконаний показує процес: čitala sam (читала, можливо ще не дочитала)."
+        },
+        {
+          "form": "доконаний: результат",
+          "when_ua": "Pročitala sam, kupila sam, napisala sam: дія завершена.",
+          "examples": [
+            {
+              "text": "Pročitala sam knjigu.",
+              "ua": "Я прочитала книжку.",
+              "audio": "hr-les10-rule-37.mp3"
+            },
+            {
+              "text": "Kupila sam kruh.",
+              "ua": "Я купила хліб.",
+              "audio": "hr-les10-rule-38.mp3"
+            },
+            {
+              "text": "Napisala sam zadaću.",
+              "ua": "Я написала завдання.",
+              "audio": "hr-les10-rule-39.mp3"
+            }
+          ],
+          "note_ua": "Українське прочитала, купила, написала працює так само. Це безкоштовна перемога для системи, а пари слів вчимо окремо."
+        }
+      ],
+      "points_ua": [
+        "Процес або повторення: недоконаний (čitala, kupovala). Результат: доконаний (pročitala, kupila).",
+        "Пари з уроків 1-9: kupovati / kupiti, čitati / pročitati, pisati / napisati, davati / dati, gledati / pogledati."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Jučer sam kupila kruh.",
+      "ua": "Вчора я купила хліб.",
+      "audio": "hr-les10-example-01.mp3"
+    },
+    {
+      "text": "Jučer sam bila u gradu.",
+      "ua": "Вчора я була в місті.",
+      "audio": "hr-les10-example-02.mp3"
+    },
+    {
+      "text": "Jutros sam bila u dućanu.",
+      "ua": "Сьогодні вранці я була в магазині.",
+      "audio": "hr-les10-example-03.mp3"
+    },
+    {
+      "text": "Skuhala sam večeru.",
+      "ua": "Я зварила вечерю.",
+      "audio": "hr-les10-example-04.mp3"
+    },
+    {
+      "text": "Majka je skuhala ručak.",
+      "ua": "Мама зварила обід.",
+      "audio": "hr-les10-example-05.mp3"
+    },
+    {
+      "text": "Brat je jeo doručak.",
+      "ua": "Брат їв сніданок.",
+      "audio": "hr-les10-example-06.mp3"
+    },
+    {
+      "text": "Djeca su pila sok.",
+      "ua": "Діти пили сік.",
+      "audio": "hr-les10-example-07.mp3"
+    },
+    {
+      "text": "Jesi li jela ručak?",
+      "ua": "Ти їла обід?",
+      "audio": "hr-les10-example-08.mp3"
+    },
+    {
+      "text": "Je li brat došao?",
+      "ua": "Чи брат прийшов?",
+      "audio": "hr-les10-example-09.mp3"
+    },
+    {
+      "text": "Nisam spavala.",
+      "ua": "Я не спала.",
+      "audio": "hr-les10-example-10.mp3"
+    },
+    {
+      "text": "Nisam kupila meso.",
+      "ua": "Я не купила м'ясо.",
+      "audio": "hr-les10-example-11.mp3"
+    },
+    {
+      "text": "Majka nije bila u banci.",
+      "ua": "Мама не була в банку.",
+      "audio": "hr-les10-example-12.mp3"
+    },
+    {
+      "text": "Dala sam mu knjigu.",
+      "ua": "Я дала йому книжку.",
+      "audio": "hr-les10-example-13.mp3"
+    },
+    {
+      "text": "Vidjela sam brata.",
+      "ua": "Я бачила брата.",
+      "audio": "hr-les10-example-14.mp3"
+    },
+    {
+      "text": "Išla sam u dućan.",
+      "ua": "Я ходила в магазин.",
+      "audio": "hr-les10-example-15.mp3"
+    },
+    {
+      "text": "Često sam kupovala kruh.",
+      "ua": "Я часто купувала хліб.",
+      "audio": "hr-les10-example-16.mp3"
+    },
+    {
+      "text": "Učiteljica je čitala knjigu.",
+      "ua": "Вчителька читала книжку.",
+      "audio": "hr-les10-example-17.mp3"
+    },
+    {
+      "text": "Jučer smo bili u parku.",
+      "ua": "Вчора ми були в парку.",
+      "audio": "hr-les10-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Jučer",
+    "title_ua": "Вчора",
+    "highlight": [
+      "hr-afd2c9fe",
+      "hr-1a40610e",
+      "hr-c62ef390",
+      "hr-12325cfa",
+      "hr-01a4a0ba",
+      "hr-7a2ad1dc"
+    ],
+    "sentences": [
+      {
+        "text": "Jučer sam bila u gradu.",
+        "ua": "Вчора я була в місті.",
+        "audio": "hr-les10-reading-01.mp3"
+      },
+      {
+        "text": "Jutros sam kupila kruh i mlijeko.",
+        "ua": "Сьогодні вранці я купила хліб і молоко.",
+        "audio": "hr-les10-reading-02.mp3"
+      },
+      {
+        "text": "Išla sam u dućan.",
+        "ua": "Я ходила в магазин.",
+        "audio": "hr-les10-reading-03.mp3"
+      },
+      {
+        "text": "Jela sam doručak.",
+        "ua": "Я їла сніданок.",
+        "audio": "hr-les10-reading-04.mp3"
+      },
+      {
+        "text": "Majka je skuhala ručak.",
+        "ua": "Мама зварила обід.",
+        "audio": "hr-les10-reading-05.mp3"
+      },
+      {
+        "text": "Djeca su jela ručak.",
+        "ua": "Діти їли обід.",
+        "audio": "hr-les10-reading-06.mp3"
+      },
+      {
+        "text": "Navečer sam čitala knjigu.",
+        "ua": "Ввечері я читала книжку.",
+        "audio": "hr-les10-reading-07.mp3"
+      },
+      {
+        "text": "Nisam spavala.",
+        "ua": "Я не спала.",
+        "audio": "hr-les10-reading-08.mp3"
+      },
+      {
+        "text": "Danas smo u stanu.",
+        "ua": "Сьогодні ми в квартирі.",
+        "audio": "hr-les10-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я купила хліб.",
+          "accepted": [
+            "Kupila sam kruh.",
+            "Ja sam kupila kruh."
+          ]
+        },
+        {
+          "prompt": "Я купив хліб.",
+          "accepted": [
+            "Kupio sam kruh.",
+            "Ja sam kupio kruh."
+          ]
+        },
+        {
+          "prompt": "Вчора я була в місті.",
+          "accepted": [
+            "Jučer sam bila u gradu.",
+            "Bila sam jučer u gradu."
+          ]
+        },
+        {
+          "prompt": "Сьогодні вранці я була в магазині.",
+          "accepted": [
+            "Jutros sam bila u dućanu.",
+            "Jutros sam bila u trgovini."
+          ]
+        },
+        {
+          "prompt": "Я зварила вечерю.",
+          "accepted": [
+            "Skuhala sam večeru."
+          ]
+        },
+        {
+          "prompt": "Мама зварила обід.",
+          "accepted": [
+            "Majka je skuhala ručak."
+          ]
+        },
+        {
+          "prompt": "Брат їв сніданок.",
+          "accepted": [
+            "Brat je jeo doručak."
+          ]
+        },
+        {
+          "prompt": "Діти пили сік.",
+          "accepted": [
+            "Djeca su pila sok."
+          ]
+        },
+        {
+          "prompt": "Ти їла обід?",
+          "accepted": [
+            "Jesi li jela ručak?",
+            "Jesi li jela?"
+          ]
+        },
+        {
+          "prompt": "Чи брат прийшов?",
+          "accepted": [
+            "Je li brat došao?"
+          ]
+        },
+        {
+          "prompt": "Я не спала.",
+          "accepted": [
+            "Nisam spavala."
+          ]
+        },
+        {
+          "prompt": "Мама не купила м'ясо.",
+          "accepted": [
+            "Majka nije kupila meso."
+          ]
+        },
+        {
+          "prompt": "Я дала йому книжку.",
+          "accepted": [
+            "Dala sam mu knjigu."
+          ]
+        },
+        {
+          "prompt": "Я бачила брата.",
+          "accepted": [
+            "Vidjela sam brata."
+          ]
+        },
+        {
+          "prompt": "Вчора ми були в парку.",
+          "accepted": [
+            "Jučer smo bili u parku.",
+            "Jučer smo bile u parku."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "sam",
+        "je",
+        "su",
+        "smo",
+        "bila",
+        "bio",
+        "bili",
+        "radila",
+        "kupila",
+        "skuhala",
+        "jeo",
+        "dala",
+        "Nisam",
+        "nije",
+        "Jesi",
+        "Je"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ kupila kruh.",
+          "hint": "Я купила хліб.",
+          "accepted": [
+            [
+              "sam"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ kupila kruh.",
+          "hint": "Мама купила хліб.",
+          "accepted": [
+            [
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca ___ pila sok.",
+          "hint": "Діти пили сік.",
+          "accepted": [
+            [
+              "su"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ bili u parku.",
+          "hint": "Ми були в парку.",
+          "accepted": [
+            [
+              "smo"
+            ]
+          ]
+        },
+        {
+          "text": "Ja sam ___ u gradu.",
+          "hint": "Я була в місті.",
+          "accepted": [
+            [
+              "bila"
+            ]
+          ]
+        },
+        {
+          "text": "Ja sam ___ u gradu.",
+          "hint": "Я був у місті (чоловік).",
+          "accepted": [
+            [
+              "bio"
+            ]
+          ]
+        },
+        {
+          "text": "Mi smo ___ u parku.",
+          "hint": "Ми були в парку.",
+          "accepted": [
+            [
+              "bili"
+            ]
+          ]
+        },
+        {
+          "text": "Ja sam ___ kruh.",
+          "hint": "Я купила хліб.",
+          "accepted": [
+            [
+              "kupila"
+            ]
+          ]
+        },
+        {
+          "text": "Ja sam ___ večeru.",
+          "hint": "Я зварила вечерю.",
+          "accepted": [
+            [
+              "skuhala"
+            ]
+          ]
+        },
+        {
+          "text": "Majka je ___ knjigu sinu.",
+          "hint": "Мама дала книжку синові.",
+          "accepted": [
+            [
+              "dala"
+            ]
+          ]
+        },
+        {
+          "text": "___ sam spavala.",
+          "hint": "Я не спала.",
+          "accepted": [
+            [
+              "Nisam"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ kupila meso.",
+          "hint": "Мама не купила м'ясо.",
+          "accepted": [
+            [
+              "nije"
+            ]
+          ]
+        },
+        {
+          "text": "___ li jela ručak?",
+          "hint": "Ти їла обід?",
+          "accepted": [
+            [
+              "Jesi"
+            ]
+          ]
+        },
+        {
+          "text": "___ li brat došao?",
+          "hint": "Чи брат прийшов?",
+          "accepted": [
+            [
+              "Je"
+            ]
+          ]
+        },
+        {
+          "text": "Brat je ___ doručak.",
+          "hint": "Брат їв сніданок.",
+          "accepted": [
+            [
+              "jeo"
+            ]
+          ]
+        },
+        {
+          "text": "Ja sam ___.",
+          "hint": "Я працювала.",
+          "accepted": [
+            [
+              "radila"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: минулий час, питання, заперечення або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Čitam knjigu.",
+          "cue": "-> минулий час (я, жін.)",
+          "accepted": [
+            "Čitala sam knjigu."
+          ]
+        },
+        {
+          "prompt": "Čitam knjigu.",
+          "cue": "-> минулий час (я, чол.)",
+          "accepted": [
+            "Čitao sam knjigu."
+          ]
+        },
+        {
+          "prompt": "Majka radi.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Majka je radila."
+          ]
+        },
+        {
+          "prompt": "Brat radi.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Brat je radio."
+          ]
+        },
+        {
+          "prompt": "Idem u dućan.",
+          "cue": "-> минулий час (жін.)",
+          "accepted": [
+            "Išla sam u dućan."
+          ]
+        },
+        {
+          "prompt": "Dolazim u grad.",
+          "cue": "-> минулий час (чол.)",
+          "accepted": [
+            "Došao sam u grad."
+          ]
+        },
+        {
+          "prompt": "Jedem doručak.",
+          "cue": "-> минулий час (жін.)",
+          "accepted": [
+            "Jela sam doručak."
+          ]
+        },
+        {
+          "prompt": "Pijem sok.",
+          "cue": "-> минулий час (жін.)",
+          "accepted": [
+            "Pila sam sok."
+          ]
+        },
+        {
+          "prompt": "Majka kuha ručak.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Majka je kuhala ručak."
+          ]
+        },
+        {
+          "prompt": "Čitala si knjigu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Jesi li čitala knjigu?"
+          ]
+        },
+        {
+          "prompt": "Brat je došao.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li brat došao?"
+          ]
+        },
+        {
+          "prompt": "Kupila sam kruh.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Nisam kupila kruh."
+          ]
+        },
+        {
+          "prompt": "Majka je kupila meso.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Majka nije kupila meso."
+          ]
+        },
+        {
+          "prompt": "Djeca su spavala.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Djeca nisu spavala."
+          ]
+        },
+        {
+          "prompt": "Kupila sam kruh.",
+          "cue": "-> почни з Jučer",
+          "accepted": [
+            "Jučer sam kupila kruh."
+          ]
+        },
+        {
+          "prompt": "Radila sam.",
+          "cue": "-> почни з Jutros",
+          "accepted": [
+            "Jutros sam radila."
+          ]
+        },
+        {
+          "prompt": "Ja radila.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ja sam radila."
+          ]
+        },
+        {
+          "prompt": "Majka kupila kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka je kupila kruh."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієприкметник у правильній формі (минулий час)",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja sam ___ kruh.",
+          "cue": "kupiti (я, жін.)",
+          "accepted": [
+            "kupila"
+          ]
+        },
+        {
+          "text": "Brat je ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitao"
+          ]
+        },
+        {
+          "text": "Mi smo ___ u parku.",
+          "cue": "biti (чол.)",
+          "accepted": [
+            "bili"
+          ]
+        },
+        {
+          "text": "Majka je ___ ručak.",
+          "cue": "kuhati",
+          "accepted": [
+            "kuhala"
+          ]
+        },
+        {
+          "text": "Ja sam ___ doručak.",
+          "cue": "jesti (жін.)",
+          "accepted": [
+            "jela"
+          ]
+        },
+        {
+          "text": "Brat je ___ sok.",
+          "cue": "piti",
+          "accepted": [
+            "pio"
+          ]
+        },
+        {
+          "text": "Ti si ___ u dućan.",
+          "cue": "ići (жін.)",
+          "accepted": [
+            "išla"
+          ]
+        },
+        {
+          "text": "Brat je ___ u grad.",
+          "cue": "doći",
+          "accepted": [
+            "došao"
+          ]
+        },
+        {
+          "text": "Ja sam mu ___ knjigu.",
+          "cue": "dati (жін.)",
+          "accepted": [
+            "dala"
+          ]
+        },
+        {
+          "text": "Ja sam ___ brata.",
+          "cue": "vidjeti (жін.)",
+          "accepted": [
+            "vidjela"
+          ]
+        },
+        {
+          "text": "Djeca su ___.",
+          "cue": "spavati",
+          "accepted": [
+            "spavala"
+          ]
+        },
+        {
+          "text": "Ja sam ___ večeru.",
+          "cue": "skuhati (жін.)",
+          "accepted": [
+            "skuhala"
+          ]
+        },
+        {
+          "text": "Ja sam ___ zadaću.",
+          "cue": "napisati (жін.)",
+          "accepted": [
+            "napisala"
+          ]
+        },
+        {
+          "text": "Ja sam ___ knjigu.",
+          "cue": "pročitati (жін.)",
+          "accepted": [
+            "pročitala"
+          ]
+        },
+        {
+          "text": "Majka je ___.",
+          "cue": "raditi",
+          "accepted": [
+            "radila"
+          ]
+        },
+        {
+          "text": "Mi smo ___.",
+          "cue": "raditi (чол.)",
+          "accepted": [
+            "radili"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "вчора",
+          "answer": "jučer"
+        },
+        {
+          "prompt": "сьогодні вранці",
+          "answer": "jutros"
+        },
+        {
+          "prompt": "уже",
+          "answer": "već"
+        },
+        {
+          "prompt": "сніданок",
+          "answer": "doručak"
+        },
+        {
+          "prompt": "обід",
+          "answer": "ručak"
+        },
+        {
+          "prompt": "вечеря",
+          "answer": "večera"
+        },
+        {
+          "prompt": "варити, готувати",
+          "answer": "kuhati"
+        },
+        {
+          "prompt": "їсти",
+          "answer": "jesti"
+        },
+        {
+          "prompt": "пити",
+          "answer": "piti"
+        },
+        {
+          "prompt": "спати",
+          "answer": "spavati"
+        },
+        {
+          "prompt": "я не є (заперечення)",
+          "answer": "nisam"
+        },
+        {
+          "prompt": "був (чоловік)",
+          "answer": "bio"
+        },
+        {
+          "prompt": "ішла",
+          "answer": "išla"
+        },
+        {
+          "prompt": "дала",
+          "answer": "dala"
+        }
+      ],
+      "extra": [
+        "pojesti",
+        "popiti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}
