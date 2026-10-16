@@ -1098,7 +1098,8 @@
           "prompt": "Ja sam na moru.",
           "cue": "-> почни з Danas",
           "accepted": [
-            "Danas sam na moru."
+            "Danas sam na moru.",
+            "Danas sam ja na moru."
           ]
         },
         {
@@ -1148,6 +1149,13 @@
           "cue": "-> виправ помилку",
           "accepted": [
             "Majka je na poslu."
+          ]
+        },
+        {
+          "prompt": "Danas majka je u školi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas je majka u školi."
           ]
         }
       ]

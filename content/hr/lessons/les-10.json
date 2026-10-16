@@ -1200,10 +1200,10 @@
           ]
         },
         {
-          "prompt": "Radila sam.",
-          "cue": "-> почни з Jutros",
+          "prompt": "Jučer majka je kupila kruh.",
+          "cue": "-> виправ помилку",
           "accepted": [
-            "Jutros sam radila."
+            "Jučer je majka kupila kruh."
           ]
         },
         {

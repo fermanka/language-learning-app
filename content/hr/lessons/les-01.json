@@ -1084,28 +1084,32 @@
           "prompt": "Ja sam ovdje.",
           "cue": "-> почни з Danas",
           "accepted": [
-            "Danas sam ovdje."
+            "Danas sam ovdje.",
+            "Danas ja sam ovdje."
           ]
         },
         {
           "prompt": "Ja sam u školi.",
           "cue": "-> почни з Danas",
           "accepted": [
-            "Danas sam u školi."
+            "Danas sam u školi.",
+            "Danas ja sam u školi."
           ]
         },
         {
           "prompt": "Mi smo ovdje.",
           "cue": "-> почни з Ovdje",
           "accepted": [
-            "Ovdje smo."
+            "Ovdje smo.",
+            "Ovdje smo mi."
           ]
         },
         {
           "prompt": "Ti si ovdje.",
           "cue": "-> почни з Ovdje",
           "accepted": [
-            "Ovdje si."
+            "Ovdje si.",
+            "Ovdje si ti."
           ]
         },
         {
