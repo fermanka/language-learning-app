@@ -45,7 +45,7 @@
         "napisala"
       ],
       "explain_ua": "(Bio sam ovdje = я був тут; Bila sam ovdje = я була тут). Це дієприкметник на -l, з якого будується минулий час: bio, bila, bilo; bili, bile, bila. Тут зібрані дієприкметники слів з Lekcija 1-9: radio / radila, čitao / čitala, pisao / pisala, kupio / kupila, kupovala, išao / išla, došao / došla, dao / dala, vidio / vidjela, mogao / mogla, pročitala, napisala. Чоловічий рід закінчується на -o (не -l): radio, bio, došao",
-      "check": "Тільки radio / radila / radilo / radili / radile і bio sam / bila sam підтверджені джерелом; решту форм (došao, vidio, dao, mogao, išla, napisala та ін.) з мого знання."
+      "check": "У підручнику (сс. 316-317) підтверджено radio / radila / radilo / radili / radile, išao / išla, mogao / mogla; решту форм (bio, došao, dao, vidio / vidjela, jeo, pio, kupio та ін.) з мого знання."
     },
     {
       "id": "hr-01fa78de",
@@ -161,7 +161,7 @@
         }
       ],
       "explain_ua": "(Jedem doručak = я їм сніданок). Нерегулярне: інфінітив jesti, а в теперішньому основа jed-: jedem, jedeš, jede, jedemo, jedete, jedu. Пара: jesti (недок.) / pojesti (док., pojedem). Дієприкметник jeo / jela / jeli (чоловічий рід без -l: jeo, не «jeol»)",
-      "check": "Теперішній jedem, доконана пара pojesti і дієприкметник jeo / jela з мого знання, у джерелах цього уроку не підтверджено."
+      "check": "Теперішній jedem ... jedu підтверджено в підручнику (с. 315); доконану пару pojesti і дієприкметник jeo / jela з мого знання."
     },
     {
       "id": "hr-b1e1bc62",
@@ -218,7 +218,7 @@
         }
       ],
       "explain_ua": "(Pijem sok = я п'ю сік). Нерегулярне, як в українській п'ю: pijem, piješ, pije, pijemo, pijete, piju. Пара: piti (недок.) / popiti (док., popijem). Дієприкметник pio / pila / pili",
-      "check": "Теперішній pijem, доконана пара popiti і дієприкметник pio / pila з мого знання, у джерелах цього уроку не підтверджено."
+      "check": "Теперішній pijem ... piju підтверджено в підручнику (с. 315); доконану пару popiti і дієприкметник pio / pila з мого знання."
     },
     {
       "id": "hr-13c4c9ad",
@@ -320,8 +320,7 @@
         "nisu"
       ],
       "example_order": "Nisam kupila kruh.",
-      "explain_ua": "(Nisam kupila kruh = я не купила хліб). Заперечення від biti пишеться одним словом: nisam, nisi, nije, nismo, niste, nisu. Це й заперечувальна допоміжна форма в перфекті: Nisam radila, Majka nije kupila meso. Ne + sam не пишуть окремо (на відміну від ne + дієслова: ne radim)",
-      "check": "Форми nisam, nisi, nije, nismo, niste, nisu з мого знання, у джерелі цього уроку не підтверджено."
+      "explain_ua": "(Nisam kupila kruh = я не купила хліб). Заперечення від biti пишеться одним словом: nisam, nisi, nije, nismo, niste, nisu. Це й заперечувальна допоміжна форма в перфекті: Nisam radila, Majka nije kupila meso. Ne + sam не пишуть окремо (на відміну від ne + дієслова: ne radim)"
     }
   ],
   "rule": [
