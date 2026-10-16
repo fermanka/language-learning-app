@@ -1,0 +1,1301 @@
+{
+  "id": "hr-les-30",
+  "lang": "hr",
+  "order": 30,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-35fa9bdf",
+      "type": "noun",
+      "lemma": "teretana",
+      "gender": "ž.",
+      "gen_sg": "teretane",
+      "plural": [
+        "teretane"
+      ],
+      "ua": "тренажерний зал",
+      "audio": "hr-teretana.mp3",
+      "forms": [
+        "teretanu",
+        "teretani"
+      ],
+      "explain_ua": "(Idem u teretanu = іду в тренажерний зал; vježbam u teretani = тренуюся в залі). Жіночий рід на -a: teretana, teretane, teretanu, u teretani. Це хорватське слово для gym.",
+      "check": "Форми за зразком škola; слово teretana як стандартне з мого знання."
+    },
+    {
+      "id": "hr-68276c81",
+      "type": "noun",
+      "lemma": "squash",
+      "gender": "m.",
+      "gen_sg": "squasha",
+      "plural": [],
+      "ua": "сквош",
+      "audio": "hr-squash.mp3",
+      "explain_ua": "(Igram squash = граю в сквош). Запозичене слово, пишеться squash. Знахідний такий самий, як називний: igram squash, без прийменника. Множини не вживаємо.",
+      "check": "Правопис squash (інколи skvoš) і відмінювання з мого знання; краще уникати форм крім називного і знахідного."
+    },
+    {
+      "id": "hr-0f1788a7",
+      "type": "noun",
+      "lemma": "bazen",
+      "gender": "m.",
+      "gen_sg": "bazena",
+      "plural": [
+        "bazeni"
+      ],
+      "ua": "басейн",
+      "audio": "hr-bazen.mp3",
+      "forms": [
+        "bazenu"
+      ],
+      "explain_ua": "(Idem na bazen = іду на басейн; plivam na bazenu = плаваю в басейні). Чоловічого роду: bazen, bazena, na bazenu, bazeni. Прийменник na: idem na bazen (куди), na bazenu (де).",
+      "check": "Форми bazena, bazeni, bazenu з мого знання; на bazenu / u bazenu обидва зустрічаються, я даю na."
+    },
+    {
+      "id": "hr-6845b4a2",
+      "type": "noun",
+      "lemma": "trening",
+      "gender": "m.",
+      "gen_sg": "treninga",
+      "plural": [
+        "treninzi"
+      ],
+      "ua": "тренування",
+      "audio": "hr-trening.mp3",
+      "explain_ua": "(Trening je dosadan = тренування нудне). Чоловічого роду: trening, treninga, treninzi (g стає z перед -i). Українське тренування: корінь інший.",
+      "check": "Форми treninga, treninzi за правилом g > z з мого знання."
+    },
+    {
+      "id": "hr-af52d02c",
+      "type": "noun",
+      "lemma": "sport",
+      "gender": "m.",
+      "gen_sg": "sporta",
+      "plural": [
+        "sportovi"
+      ],
+      "ua": "спорт",
+      "audio": "hr-sport.mp3",
+      "explain_ua": "(Volim sport = люблю спорт). Чоловічого роду: sport, sporta, sportovi. Українське спорт: те саме слово.",
+      "check": "Форми sporta, sportovi з мого знання."
+    },
+    {
+      "id": "hr-e912ef8b",
+      "type": "noun",
+      "lemma": "film",
+      "gender": "m.",
+      "gen_sg": "filma",
+      "plural": [
+        "filmovi"
+      ],
+      "ua": "фільм",
+      "audio": "hr-film.mp3",
+      "explain_ua": "(Gledam film = дивлюся фільм). Чоловічого роду з -ov-: film, filma, filmovi. Gledati film: знахідний без прийменника.",
+      "check": "Форми filma, filmovi за правилом -ov-."
+    },
+    {
+      "id": "hr-0ec681bf",
+      "type": "noun",
+      "lemma": "kino",
+      "gender": "s.",
+      "gen_sg": "kina",
+      "plural": [
+        "kina"
+      ],
+      "ua": "кінотеатр, кіно",
+      "audio": "hr-kino.mp3",
+      "forms": [
+        "kinu"
+      ],
+      "explain_ua": "(Idem u kino = іду в кіно; gledam film u kinu = дивлюся фільм у кінотеатрі). Середній рід на -o: kino, kina, u kinu (де). У підручнику Idem u kino nakon posla (с. 307).",
+      "check": "Idem u kino підтверджено в підручнику; форма u kinu з мого знання."
+    },
+    {
+      "id": "hr-141bb7b9",
+      "type": "noun",
+      "lemma": "koncert",
+      "gender": "m.",
+      "gen_sg": "koncerta",
+      "plural": [
+        "koncerti"
+      ],
+      "ua": "концерт",
+      "audio": "hr-koncert.mp3",
+      "explain_ua": "(Idem na koncert = іду на концерт). Чоловічого роду: koncert, koncerta, koncerti. На концерт: na koncert, не u.",
+      "check": "Форми koncerta, koncerti з мого знання."
+    },
+    {
+      "id": "hr-86dc80b5",
+      "type": "noun",
+      "lemma": "glazba",
+      "gender": "ž.",
+      "gen_sg": "glazbe",
+      "plural": [
+        "glazbe"
+      ],
+      "ua": "музика",
+      "audio": "hr-glazba.mp3",
+      "forms": [
+        "glazbu"
+      ],
+      "explain_ua": "(Slušam glazbu = слухаю музику). Жіночий рід на -a: glazba, glazbe, glazbu. Хорватське слово glazba, а не muzika (muzika теж у вжитку, але glazba норма).",
+      "check": "Форми за зразком škola; glazba як стандартна форма з мого знання."
+    },
+    {
+      "id": "hr-7bce8989",
+      "type": "noun",
+      "lemma": "pjesma",
+      "gender": "ž.",
+      "gen_sg": "pjesme",
+      "plural": [
+        "pjesme"
+      ],
+      "ua": "пісня; вірш",
+      "audio": "hr-pjesma.mp3",
+      "explain_ua": "(Slušam pjesme = слухаю пісні). Жіночий рід на -a: pjesma, pjesme. Родовий множини pjesama. Корінь pjev- «спів».",
+      "check": "Форми pjesme, pjesama з мого знання."
+    },
+    {
+      "id": "hr-4b4214e6",
+      "type": "noun",
+      "lemma": "plaža",
+      "gender": "ž.",
+      "gen_sg": "plaže",
+      "plural": [
+        "plaže"
+      ],
+      "ua": "пляж",
+      "audio": "hr-plaza.mp3",
+      "forms": [
+        "plažu"
+      ],
+      "explain_ua": "(Nećemo ići na plažu = ми не підемо на пляж). Жіночий рід на -a: plaža, plaže, plažu. На пляж: na plažu.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-76bb12fa",
+      "type": "noun",
+      "lemma": "izlet",
+      "gender": "m.",
+      "gen_sg": "izleta",
+      "plural": [
+        "izleti"
+      ],
+      "ua": "екскурсія, прогулянка за місто",
+      "audio": "hr-izlet.mp3",
+      "explain_ua": "(U subotu idem na izlet = у суботу їду на екскурсію). Чоловічого роду: izlet, izleta, izleti. На екскурсію: na izlet.",
+      "check": "Форми izleta, izleti з мого знання."
+    },
+    {
+      "id": "hr-4df50762",
+      "type": "noun",
+      "lemma": "bicikl",
+      "gender": "m.",
+      "gen_sg": "bicikla",
+      "plural": [
+        "bicikli"
+      ],
+      "ua": "велосипед",
+      "audio": "hr-bicikl.mp3",
+      "explain_ua": "(Imam bicikl = маю велосипед). Чоловічого роду: bicikl, bicikla, bicikli. Українське велосипед: слово інше.",
+      "check": "Форми bicikla, bicikli з мого знання."
+    },
+    {
+      "id": "hr-3454aba0",
+      "type": "noun",
+      "lemma": "planina",
+      "gender": "ž.",
+      "gen_sg": "planine",
+      "plural": [
+        "planine"
+      ],
+      "ua": "гора, гори",
+      "audio": "hr-planina.mp3",
+      "forms": [
+        "planinu"
+      ],
+      "explain_ua": "(Volim planinu = люблю гори). Жіночий рід на -a: planina, planine, planinu. Planina = гора, також «гори» як місце відпочинку.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-b1716529",
+      "type": "verb",
+      "lemma": "htjeti",
+      "aspect": "impf.",
+      "pres_1sg": "hoću",
+      "forms": [
+        "hoćeš",
+        "hoće",
+        "hoćemo",
+        "hoćete",
+        "htio",
+        "htjela",
+        "htjeli"
+      ],
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "hoću",
+          "audio": "hr-ja-hocu.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "hoćeš",
+          "audio": "hr-ti-hoces.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "hoće",
+          "audio": "hr-on-hoce.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "hoćemo",
+          "audio": "hr-mi-hocemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "hoćete",
+          "audio": "hr-vi-hocete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "hoće",
+          "audio": "hr-oni-hoce.mp3"
+        }
+      ],
+      "ua": "хотіти",
+      "audio": "hr-htjeti.mp3",
+      "explain_ua": "(Hoću ići u kino = хочу піти в кіно). Hoću це повне дієслово «хочу», воно схоже на українське хочу. Клітик ću (Lekcija 12) це майбутній час, у нього немає h-. Минулий: htio sam, htjela sam. Hoću звучить прямо: у проханні краще želim або htjela bih.",
+      "check": "Парадигма hoću ... hoće і минулі форми htio / htjela з мого знання; у підручнику лише ću (с. 318). Що hoću прямо, з мого знання."
+    },
+    {
+      "id": "hr-40f3f78d",
+      "type": "verb",
+      "lemma": "igrati",
+      "aspect": "impf.",
+      "pres_1sg": "igram",
+      "forms": [
+        "igraš",
+        "igra",
+        "igramo",
+        "igrate",
+        "igraju",
+        "igram"
+      ],
+      "ua": "грати (в гру, спорт)",
+      "audio": "hr-igrati.mp3",
+      "explain_ua": "(Igram squash = граю в сквош). Igrati + знахідний без прийменника: igrati squash, igrati nogomet. Пара доконаного не подаю.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-afa9414b",
+      "type": "verb",
+      "lemma": "plivati",
+      "aspect": "impf.",
+      "pres_1sg": "plivam",
+      "forms": [
+        "plivaš",
+        "pliva",
+        "plivamo",
+        "plivate",
+        "plivaju",
+        "plivam"
+      ],
+      "ua": "плавати",
+      "audio": "hr-plivati.mp3",
+      "explain_ua": "(Plivam na bazenu = плаваю в басейні). Тип -ati > -am. Українське плавати: корінь той самий (pliv- / плив-).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-968a285f",
+      "type": "verb",
+      "lemma": "trčati",
+      "aspect": "impf.",
+      "pres_1sg": "trčim",
+      "forms": [
+        "trčiš",
+        "trči",
+        "trčimo",
+        "trčite",
+        "trče",
+        "trčim"
+      ],
+      "ua": "бігти, бігати",
+      "audio": "hr-trcati.mp3",
+      "explain_ua": "(Trčim petkom = бігаю по п'ятницях). Тип -ati > -im: trčim, trčiš, 3 особа множини trče. Пиши č.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-0008ff46",
+      "type": "verb",
+      "lemma": "pjevati",
+      "aspect": "impf.",
+      "pres_1sg": "pjevam",
+      "forms": [
+        "pjevaš",
+        "pjeva",
+        "pjevamo",
+        "pjevate",
+        "pjevaju",
+        "pjevati"
+      ],
+      "ua": "співати",
+      "audio": "hr-pjevati.mp3",
+      "explain_ua": "(Volim pjevati = люблю співати). Тип -ati > -am. Пиши pj, не pev.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-1ff008aa",
+      "type": "verb",
+      "lemma": "plesati",
+      "aspect": "impf.",
+      "pres_1sg": "plešem",
+      "forms": [
+        "plešeš",
+        "pleše",
+        "plešemo",
+        "plešete",
+        "plešu",
+        "plesati"
+      ],
+      "ua": "танцювати",
+      "audio": "hr-plesati.mp3",
+      "explain_ua": "(Volim plesati = люблю танцювати). Неправильне: plesati, plešem, s стає š. Пара: ples (танець) тут не вчимо.",
+      "check": "Форми plešem, plešu з мого знання."
+    },
+    {
+      "id": "hr-fdba0c35",
+      "type": "verb",
+      "lemma": "vježbati",
+      "aspect": "impf.",
+      "pres_1sg": "vježbam",
+      "forms": [
+        "vježbaš",
+        "vježba",
+        "vježbamo",
+        "vježbate",
+        "vježbaju",
+        "vježbam"
+      ],
+      "ua": "тренуватися, вправлятися",
+      "audio": "hr-vjezbati.mp3",
+      "explain_ua": "(Vježbam u teretani = тренуюся в залі). Тип -ati > -am. Vježbati значить і «тренуватися», і «повторювати вправи». Пиши vj, ž, b.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-42b15581",
+      "type": "adjective",
+      "lemma": "zabavan",
+      "fem": "zabavna",
+      "neut": "zabavno",
+      "ua": "цікавий, веселий",
+      "audio": "hr-zabavan.mp3",
+      "explain_ua": "(Film je zabavan = фільм цікавий). Нестійке a: zabavan, zabavna, zabavno. Означає «веселий, розважальний».",
+      "check": "Форми з мого знання за зразком bolestan."
+    },
+    {
+      "id": "hr-a88b233e",
+      "type": "adjective",
+      "lemma": "dosadan",
+      "fem": "dosadna",
+      "neut": "dosadno",
+      "ua": "нудний",
+      "audio": "hr-dosadan.mp3",
+      "explain_ua": "(Trening je dosadan = тренування нудне). Нестійке a: dosadan, dosadna, dosadno. Українське нудний: слово інше.",
+      "check": "Форми з мого знання за зразком bolestan."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Htjeti: хочу, хочеш",
+      "summary_ua": "Hoću, hoćeš, hoće, hoćemo, hoćete, hoće. Тут українська допомагає: хочу = hoću. Після htjeti стоїть інфінітив (Hoću ići) або da + теперішній (Hoću da idem, Lekcija 21). Питання: Hoćeš li ići? Заперечення: neću (Lekcija 12). Клітик ću теж від htjeti, але це інше слово: Ići ću.",
+      "compare": [
+        {
+          "form": "hoću, hoćeš, hoće + інфінітив",
+          "when_ua": "Повне дієслово «хочу».",
+          "examples": [
+            {
+              "text": "Hoću ići u kino.",
+              "ua": "Хочу піти в кіно.",
+              "audio": "hr-les30-rule-01.mp3"
+            },
+            {
+              "text": "Ivan hoće igrati squash.",
+              "ua": "Іван хоче грати в сквош.",
+              "audio": "hr-les30-rule-02.mp3"
+            },
+            {
+              "text": "Hoćemo ići na koncert u petak.",
+              "ua": "Хочемо піти на концерт у п'ятницю.",
+              "audio": "hr-les30-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: хочу, хоче, хочемо."
+        },
+        {
+          "form": "питання і заперечення",
+          "when_ua": "Hoćeš li ...? Neću, nećemo.",
+          "examples": [
+            {
+              "text": "Hoćeš li ići na bazen?",
+              "ua": "Хочеш піти на басейн?",
+              "audio": "hr-les30-rule-04.mp3"
+            },
+            {
+              "text": "Nećemo ići na plažu.",
+              "ua": "Ми не підемо на пляж.",
+              "audio": "hr-les30-rule-05.mp3"
+            },
+            {
+              "text": "Neću ići u teretanu.",
+              "ua": "Не хочу йти в тренажерний зал.",
+              "audio": "hr-les30-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Neću може бути й «не буду», й «не хочу»: з контексту."
+        }
+      ],
+      "points_ua": [
+        "Hoću, hoćeš, hoće, hoćemo, hoćete, hoće.",
+        "Hoćeš li ...? Neću.",
+        "Hoću (повне) проти ću (клітик, не перший)."
+      ]
+    },
+    {
+      "title_ua": "Минулий час і ввічливість",
+      "summary_ua": "Минулий htjeti: htio sam (чол.), htjela sam (жін.). Ввічливо: htjela bih. Hoću звучить прямо, як вимога: Hoću kavu. У проханні краще Htjela bih kavu або Želim kavu.",
+      "compare": [
+        {
+          "form": "htio sam / htjela sam",
+          "when_ua": "Минуле: htjela sam ići.",
+          "examples": [
+            {
+              "text": "Htjela sam ići u teretanu.",
+              "ua": "Я хотіла піти в тренажерний зал.",
+              "audio": "hr-les30-rule-07.mp3"
+            },
+            {
+              "text": "Ivan je htio igrati squash.",
+              "ua": "Іван хотів грати в сквош.",
+              "audio": "hr-les30-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Рід: htio (чол.), htjela (жін.), як radio / radila (Lekcija 10)."
+        },
+        {
+          "form": "htjela bih (ввічливо)",
+          "when_ua": "Ввічливе бажання.",
+          "examples": [
+            {
+              "text": "Htjela bih ići u kino.",
+              "ua": "Я б хотіла піти в кіно.",
+              "audio": "hr-les30-rule-09.mp3"
+            },
+            {
+              "text": "Volim plesati i pjevati.",
+              "ua": "Люблю танцювати і співати.",
+              "audio": "hr-les30-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Bih з Lekcija 18: на другому місці."
+        }
+      ],
+      "points_ua": [
+        "Htio sam / htjela sam.",
+        "Htjela bih: ввічливо.",
+        "Hoću може звучати прямо."
+      ]
+    },
+    {
+      "title_ua": "Де ходимо: u teretanu, na bazen, na koncert",
+      "summary_ua": "Куди? u + знахідний: u teretanu, u kino. Na + знахідний: na bazen, na koncert, na izlet, na plažu. Де? u teretani, u kinu, na bazenu. Грати: igrati squash (без прийменника). Дивитися: gledati film. Слухати: slušati glazbu.",
+      "compare": [
+        {
+          "form": "куди: u / na + знахідний",
+          "when_ua": "Idem u teretanu, idem na bazen.",
+          "examples": [
+            {
+              "text": "Idem u teretanu.",
+              "ua": "Іду в тренажерний зал.",
+              "audio": "hr-les30-rule-11.mp3"
+            },
+            {
+              "text": "Idem na bazen.",
+              "ua": "Іду на басейн.",
+              "audio": "hr-les30-rule-12.mp3"
+            },
+            {
+              "text": "Idem na koncert.",
+              "ua": "Іду на концерт.",
+              "audio": "hr-les30-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: в зал, на басейн, на концерт."
+        },
+        {
+          "form": "де: u / na + місцевий",
+          "when_ua": "Vježbam u teretani, plivam na bazenu.",
+          "examples": [
+            {
+              "text": "Vježbam u teretani.",
+              "ua": "Тренуюся в залі.",
+              "audio": "hr-les30-rule-14.mp3"
+            },
+            {
+              "text": "Plivam na bazenu.",
+              "ua": "Плаваю в басейні.",
+              "audio": "hr-les30-rule-15.mp3"
+            },
+            {
+              "text": "Gledam film u kinu.",
+              "ua": "Дивлюся фільм у кінотеатрі.",
+              "audio": "hr-les30-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Gdje (де) і kamo (куди) з Lekcija 5."
+        }
+      ],
+      "points_ua": [
+        "Куди: u teretanu, na bazen, na koncert.",
+        "Де: u teretani, na bazenu, u kinu.",
+        "Igrati squash: без прийменника."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Idem u teretanu.",
+      "ua": "Іду в тренажерний зал.",
+      "audio": "hr-les30-example-01.mp3"
+    },
+    {
+      "text": "Vježbam u teretani.",
+      "ua": "Тренуюся в залі.",
+      "audio": "hr-les30-example-02.mp3"
+    },
+    {
+      "text": "Igram squash.",
+      "ua": "Граю в сквош.",
+      "audio": "hr-les30-example-03.mp3"
+    },
+    {
+      "text": "Plivam na bazenu.",
+      "ua": "Плаваю в басейні.",
+      "audio": "hr-les30-example-04.mp3"
+    },
+    {
+      "text": "Idem na bazen.",
+      "ua": "Іду на басейн.",
+      "audio": "hr-les30-example-05.mp3"
+    },
+    {
+      "text": "Gledam film u kinu.",
+      "ua": "Дивлюся фільм у кінотеатрі.",
+      "audio": "hr-les30-example-06.mp3"
+    },
+    {
+      "text": "Idem na koncert.",
+      "ua": "Іду на концерт.",
+      "audio": "hr-les30-example-07.mp3"
+    },
+    {
+      "text": "Slušam glazbu.",
+      "ua": "Слухаю музику.",
+      "audio": "hr-les30-example-08.mp3"
+    },
+    {
+      "text": "Hoću ići u kino.",
+      "ua": "Хочу піти в кіно.",
+      "audio": "hr-les30-example-09.mp3"
+    },
+    {
+      "text": "Hoćeš li ići na bazen?",
+      "ua": "Хочеш піти на басейн?",
+      "audio": "hr-les30-example-10.mp3"
+    },
+    {
+      "text": "Ivan hoće igrati squash.",
+      "ua": "Іван хоче грати в сквош.",
+      "audio": "hr-les30-example-11.mp3"
+    },
+    {
+      "text": "Hoćemo ići na koncert u petak.",
+      "ua": "Хочемо піти на концерт у п'ятницю.",
+      "audio": "hr-les30-example-12.mp3"
+    },
+    {
+      "text": "Nećemo ići na plažu.",
+      "ua": "Ми не підемо на пляж.",
+      "audio": "hr-les30-example-13.mp3"
+    },
+    {
+      "text": "Htjela sam ići u teretanu.",
+      "ua": "Я хотіла піти в тренажерний зал.",
+      "audio": "hr-les30-example-14.mp3"
+    },
+    {
+      "text": "Ivan je htio igrati squash.",
+      "ua": "Іван хотів грати в сквош.",
+      "audio": "hr-les30-example-15.mp3"
+    },
+    {
+      "text": "Film je zabavan, a trening je dosadan.",
+      "ua": "Фільм цікавий, а тренування нудне.",
+      "audio": "hr-les30-example-16.mp3"
+    },
+    {
+      "text": "Volim plesati i pjevati.",
+      "ua": "Люблю танцювати і співати.",
+      "audio": "hr-les30-example-17.mp3"
+    },
+    {
+      "text": "Trčim ponedjeljkom i petkom.",
+      "ua": "Бігаю по понеділках і п'ятницях.",
+      "audio": "hr-les30-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Moj tjedan",
+    "title_ua": "Мій тиждень",
+    "highlight": [
+      "hr-35fa9bdf",
+      "hr-68276c81",
+      "hr-0f1788a7",
+      "hr-af52d02c",
+      "hr-e912ef8b",
+      "hr-141bb7b9",
+      "hr-86dc80b5",
+      "hr-7bce8989",
+      "hr-76bb12fa",
+      "hr-3454aba0"
+    ],
+    "sentences": [
+      {
+        "text": "Ponedjeljkom idem u teretanu.",
+        "ua": "По понеділках іду в тренажерний зал.",
+        "audio": "hr-les30-reading-01.mp3"
+      },
+      {
+        "text": "Trčim i vježbam.",
+        "ua": "Бігаю і тренуюся.",
+        "audio": "hr-les30-reading-02.mp3"
+      },
+      {
+        "text": "Srijedom plivam na bazenu.",
+        "ua": "По середах плаваю в басейні.",
+        "audio": "hr-les30-reading-03.mp3"
+      },
+      {
+        "text": "U petak igram squash.",
+        "ua": "У п'ятницю граю в сквош.",
+        "audio": "hr-les30-reading-04.mp3"
+      },
+      {
+        "text": "U subotu idem na izlet.",
+        "ua": "У суботу їду на екскурсію.",
+        "audio": "hr-les30-reading-05.mp3"
+      },
+      {
+        "text": "Volim planinu i sport.",
+        "ua": "Люблю гори і спорт.",
+        "audio": "hr-les30-reading-06.mp3"
+      },
+      {
+        "text": "Navečer gledam film.",
+        "ua": "Ввечері дивлюся фільм.",
+        "audio": "hr-les30-reading-07.mp3"
+      },
+      {
+        "text": "U nedjelju idem na koncert.",
+        "ua": "У неділю іду на концерт.",
+        "audio": "hr-les30-reading-08.mp3"
+      },
+      {
+        "text": "Slušam glazbu i pjesme.",
+        "ua": "Слухаю музику і пісні.",
+        "audio": "hr-les30-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Іду в тренажерний зал.",
+          "accepted": [
+            "Idem u teretanu."
+          ]
+        },
+        {
+          "prompt": "Тренуюся в залі.",
+          "accepted": [
+            "Vježbam u teretani."
+          ]
+        },
+        {
+          "prompt": "Граю в сквош.",
+          "accepted": [
+            "Igram squash."
+          ]
+        },
+        {
+          "prompt": "Плаваю в басейні.",
+          "accepted": [
+            "Plivam na bazenu."
+          ]
+        },
+        {
+          "prompt": "Іду на басейн.",
+          "accepted": [
+            "Idem na bazen."
+          ]
+        },
+        {
+          "prompt": "Дивлюся фільм у кінотеатрі.",
+          "accepted": [
+            "Gledam film u kinu."
+          ]
+        },
+        {
+          "prompt": "Іду на концерт.",
+          "accepted": [
+            "Idem na koncert."
+          ]
+        },
+        {
+          "prompt": "Слухаю музику.",
+          "accepted": [
+            "Slušam glazbu."
+          ]
+        },
+        {
+          "prompt": "Хочу піти в кіно.",
+          "accepted": [
+            "Hoću ići u kino."
+          ]
+        },
+        {
+          "prompt": "Хочеш піти на басейн?",
+          "accepted": [
+            "Hoćeš li ići na bazen?"
+          ]
+        },
+        {
+          "prompt": "Іван хоче грати в сквош.",
+          "accepted": [
+            "Ivan hoće igrati squash."
+          ]
+        },
+        {
+          "prompt": "Ми не підемо на пляж.",
+          "accepted": [
+            "Nećemo ići na plažu."
+          ]
+        },
+        {
+          "prompt": "Я хотіла піти в тренажерний зал.",
+          "accepted": [
+            "Htjela sam ići u teretanu."
+          ]
+        },
+        {
+          "prompt": "Фільм цікавий, а тренування нудне.",
+          "accepted": [
+            "Film je zabavan, a trening je dosadan."
+          ]
+        },
+        {
+          "prompt": "Люблю танцювати і співати.",
+          "accepted": [
+            "Volim plesati i pjevati."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "teretanu",
+        "teretani",
+        "bazen",
+        "bazenu",
+        "kinu",
+        "koncert",
+        "glazbu",
+        "plažu",
+        "hoću",
+        "hoćeš",
+        "hoće",
+        "hoćemo",
+        "htjela",
+        "htio",
+        "zabavan",
+        "dosadan"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Idem u ___.",
+          "hint": "Іду в тренажерний зал.",
+          "accepted": [
+            [
+              "teretanu"
+            ]
+          ]
+        },
+        {
+          "text": "Vježbam u ___.",
+          "hint": "Тренуюся в залі.",
+          "accepted": [
+            [
+              "teretani"
+            ]
+          ]
+        },
+        {
+          "text": "Idem na ___.",
+          "hint": "Іду на басейн.",
+          "accepted": [
+            [
+              "bazen"
+            ]
+          ]
+        },
+        {
+          "text": "Plivam na ___.",
+          "hint": "Плаваю в басейні.",
+          "accepted": [
+            [
+              "bazenu"
+            ]
+          ]
+        },
+        {
+          "text": "Gledam film u ___.",
+          "hint": "Дивлюся фільм у кінотеатрі.",
+          "accepted": [
+            [
+              "kinu"
+            ]
+          ]
+        },
+        {
+          "text": "Idem na ___.",
+          "hint": "Іду на концерт.",
+          "accepted": [
+            [
+              "koncert"
+            ]
+          ]
+        },
+        {
+          "text": "Slušam ___.",
+          "hint": "Слухаю музику.",
+          "accepted": [
+            [
+              "glazbu"
+            ]
+          ]
+        },
+        {
+          "text": "Nećemo ići na ___.",
+          "hint": "Ми не підемо на пляж.",
+          "accepted": [
+            [
+              "plažu"
+            ]
+          ]
+        },
+        {
+          "text": "___ ići u kino.",
+          "hint": "Хочу піти в кіно.",
+          "accepted": [
+            [
+              "Hoću"
+            ]
+          ]
+        },
+        {
+          "text": "___ li ići na bazen?",
+          "hint": "Хочеш піти на басейн?",
+          "accepted": [
+            [
+              "Hoćeš"
+            ]
+          ]
+        },
+        {
+          "text": "Ivan ___ igrati squash.",
+          "hint": "Іван хоче грати в сквош.",
+          "accepted": [
+            [
+              "hoće"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ ići na koncert.",
+          "hint": "Ми хочемо піти на концерт.",
+          "accepted": [
+            [
+              "hoćemo"
+            ]
+          ]
+        },
+        {
+          "text": "___ sam ići u teretanu.",
+          "hint": "Я хотіла піти в зал.",
+          "accepted": [
+            [
+              "Htjela"
+            ]
+          ]
+        },
+        {
+          "text": "Ivan je ___ igrati squash.",
+          "hint": "Іван хотів грати в сквош.",
+          "accepted": [
+            [
+              "htio"
+            ]
+          ]
+        },
+        {
+          "text": "Film je ___.",
+          "hint": "Фільм цікавий.",
+          "accepted": [
+            [
+              "zabavan"
+            ]
+          ]
+        },
+        {
+          "text": "Trening je ___.",
+          "hint": "Тренування нудне.",
+          "accepted": [
+            [
+              "dosadan"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Idem u kino.",
+          "cue": "-> Hoću ...",
+          "accepted": [
+            "Hoću ići u kino."
+          ]
+        },
+        {
+          "prompt": "Idem na bazen.",
+          "cue": "-> Hoću ...",
+          "accepted": [
+            "Hoću ići na bazen."
+          ]
+        },
+        {
+          "prompt": "Hoću ići u teretanu.",
+          "cue": "-> питання (ти)",
+          "accepted": [
+            "Hoćeš li ići u teretanu?"
+          ]
+        },
+        {
+          "prompt": "Hoću ići na koncert.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Neću ići na koncert."
+          ]
+        },
+        {
+          "prompt": "Hoću ići u kino.",
+          "cue": "-> минуле (ja, ж.)",
+          "accepted": [
+            "Htjela sam ići u kino."
+          ]
+        },
+        {
+          "prompt": "Ivan hoće igrati squash.",
+          "cue": "-> минуле",
+          "accepted": [
+            "Ivan je htio igrati squash."
+          ]
+        },
+        {
+          "prompt": "Hoću ići u kino.",
+          "cue": "-> ввічливо (ж.)",
+          "accepted": [
+            "Htjela bih ići u kino."
+          ]
+        },
+        {
+          "prompt": "Hoću da ići u kino.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hoću da idem u kino.",
+            "Hoću ići u kino."
+          ]
+        },
+        {
+          "prompt": "Hoćeš ići na bazen?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hoćeš li ići na bazen?"
+          ]
+        },
+        {
+          "prompt": "Igram na squash.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Igram squash."
+          ]
+        },
+        {
+          "prompt": "Idem u bazen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem na bazen."
+          ]
+        },
+        {
+          "prompt": "Idem na teretanu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem u teretanu."
+          ]
+        },
+        {
+          "prompt": "Vježbam u teretanu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vježbam u teretani."
+          ]
+        },
+        {
+          "prompt": "Gledam film u kino.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gledam film u kinu."
+          ]
+        },
+        {
+          "prompt": "Plivam na bazen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Plivam na bazenu."
+          ]
+        },
+        {
+          "prompt": "Hoću ići na plažu.",
+          "cue": "-> ми (hoćemo)",
+          "accepted": [
+            "Hoćemo ići na plažu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ ići u kino.",
+          "cue": "htjeti",
+          "accepted": [
+            "hoću"
+          ]
+        },
+        {
+          "text": "Ti ___ ići u kino.",
+          "cue": "htjeti",
+          "accepted": [
+            "hoćeš"
+          ]
+        },
+        {
+          "text": "Mi ___ ići u kino.",
+          "cue": "htjeti",
+          "accepted": [
+            "hoćemo"
+          ]
+        },
+        {
+          "text": "Vi ___ ići u kino.",
+          "cue": "htjeti",
+          "accepted": [
+            "hoćete"
+          ]
+        },
+        {
+          "text": "Ja ___ squash.",
+          "cue": "igrati",
+          "accepted": [
+            "igram"
+          ]
+        },
+        {
+          "text": "Mi ___ na bazenu.",
+          "cue": "plivati",
+          "accepted": [
+            "plivamo"
+          ]
+        },
+        {
+          "text": "Ja ___ petkom.",
+          "cue": "trčati",
+          "accepted": [
+            "trčim"
+          ]
+        },
+        {
+          "text": "Ti ___ petkom.",
+          "cue": "trčati",
+          "accepted": [
+            "trčiš"
+          ]
+        },
+        {
+          "text": "Ja ___ u teretani.",
+          "cue": "vježbati",
+          "accepted": [
+            "vježbam"
+          ]
+        },
+        {
+          "text": "Ja ___ pjesme.",
+          "cue": "pjevati",
+          "accepted": [
+            "pjevam"
+          ]
+        },
+        {
+          "text": "Ja ___.",
+          "cue": "plesati",
+          "accepted": [
+            "plešem"
+          ]
+        },
+        {
+          "text": "Oni ___.",
+          "cue": "plesati",
+          "accepted": [
+            "plešu"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "тренажерний зал",
+          "answer": "teretana"
+        },
+        {
+          "prompt": "басейн",
+          "answer": "bazen"
+        },
+        {
+          "prompt": "тренування",
+          "answer": "trening"
+        },
+        {
+          "prompt": "спорт",
+          "answer": "sport"
+        },
+        {
+          "prompt": "фільм",
+          "answer": "film"
+        },
+        {
+          "prompt": "кінотеатр",
+          "answer": "kino"
+        },
+        {
+          "prompt": "концерт",
+          "answer": "koncert"
+        },
+        {
+          "prompt": "музика",
+          "answer": "glazba"
+        },
+        {
+          "prompt": "пісня",
+          "answer": "pjesma"
+        },
+        {
+          "prompt": "пляж",
+          "answer": "plaža"
+        },
+        {
+          "prompt": "екскурсія",
+          "answer": "izlet"
+        },
+        {
+          "prompt": "велосипед",
+          "answer": "bicikl"
+        },
+        {
+          "prompt": "гора",
+          "answer": "planina"
+        },
+        {
+          "prompt": "грати",
+          "answer": "igrati"
+        },
+        {
+          "prompt": "плавати",
+          "answer": "plivati"
+        },
+        {
+          "prompt": "бігати",
+          "answer": "trčati"
+        },
+        {
+          "prompt": "співати",
+          "answer": "pjevati"
+        },
+        {
+          "prompt": "танцювати",
+          "answer": "plesati"
+        }
+      ],
+      "extra": [
+        "park",
+        "škola"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

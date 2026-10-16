@@ -1,0 +1,1207 @@
+{
+  "id": "hr-les-28",
+  "lang": "hr",
+  "order": 28,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-2955d24d",
+      "type": "function",
+      "lemma": "tamo",
+      "ua": "там (куди й де)",
+      "audio": "hr-tamo.mp3",
+      "explain_ua": "(Semafor je tamo = світлофор там). Tamo значить «там» і «туди». Ovdje (тут) уже знаєш: tamo це його пара. Українське там, російське там: збігається за значенням.",
+      "check": "Tamo з мого знання; ondje теж існує, але я його не вчу."
+    },
+    {
+      "id": "hr-50916a8b",
+      "type": "function",
+      "lemma": "lijevo",
+      "ua": "ліворуч, вліво",
+      "audio": "hr-lijevo.mp3",
+      "explain_ua": "(Idem lijevo = іду ліворуч). Lijevo без прийменника: і «де», і «куди». Пиши ije: lijevo, не levo і не lievo.",
+      "check": "Lijevo з мого знання; levo це сербська/російська форма, її не вживаємо."
+    },
+    {
+      "id": "hr-36ef825c",
+      "type": "function",
+      "lemma": "desno",
+      "ua": "праворуч, вправо",
+      "audio": "hr-desno.mp3",
+      "explain_ua": "(Idem desno = іду праворуч). Desno це «праворуч». Українське направо це не pravo: дивись нотку pravo.",
+      "check": "Desno з мого знання."
+    },
+    {
+      "id": "hr-c6203697",
+      "type": "false_friend",
+      "lemma": "pravo",
+      "uk_lookalike": "направо",
+      "uk_means": "праворуч, вправо",
+      "ua": "прямо (не вправо!)",
+      "audio": "hr-pravo.mp3",
+      "explain_ua": "(Idem pravo = іду прямо). Pravo значить «прямо», а українське направо значить «вправо». Для «праворуч» кажемо desno. Це перевірена хибна пара зі списку українська-хорватська.",
+      "check": "Хибну пару pravo / направо перевірено у списку False Friends of the Slavist; ravno як синонім «прямо» з мого знання."
+    },
+    {
+      "id": "hr-340aac89",
+      "type": "function",
+      "lemma": "blizu",
+      "ua": "близько, поблизу (+ родовий)",
+      "audio": "hr-blizu.mp3",
+      "explain_ua": "(Škola je blizu kuće = школа поблизу дому). Blizu + родовий: blizu kuće, blizu ceste. Без іменника: Raskrižje je blizu.",
+      "check": "Blizu + родовий з мого знання."
+    },
+    {
+      "id": "hr-39cac6bc",
+      "type": "function",
+      "lemma": "daleko",
+      "ua": "далеко (daleko od + родовий)",
+      "audio": "hr-daleko.mp3",
+      "explain_ua": "(Ljekarna je daleko od pošte = аптека далеко від пошти). Daleko od + родовий. Без іменника: Hotel je daleko. Українське далеко: збігається.",
+      "check": "Daleko od + родовий з мого знання."
+    },
+    {
+      "id": "hr-5b2f8332",
+      "type": "function",
+      "lemma": "gore",
+      "ua": "вгорі, вгору",
+      "audio": "hr-gore.mp3",
+      "explain_ua": "(Gore je kupaonica = нагорі ванна). Gore: і «де», і «куди». Пара: dolje. Українське угорі, нагору: хорватське коротше.",
+      "check": "Gore з мого знання."
+    },
+    {
+      "id": "hr-ce32f80d",
+      "type": "function",
+      "lemma": "dolje",
+      "ua": "внизу, униз",
+      "audio": "hr-dolje.mp3",
+      "explain_ua": "(Dolje je kuhinja = унизу кухня). Dolje: і «де», і «куди». Пара: gore. Пиши lj: dolje.",
+      "check": "Dolje з мого знання."
+    },
+    {
+      "id": "hr-514a1258",
+      "type": "noun",
+      "lemma": "raskrižje",
+      "gender": "s.",
+      "gen_sg": "raskrižja",
+      "plural": [
+        "raskrižja"
+      ],
+      "ua": "перехрестя",
+      "audio": "hr-raskrizje.mp3",
+      "explain_ua": "(Semafor je ispred raskrižja = світлофор перед перехрестям). Середній рід на -e: raskrižje, raskrižja. Корінь križ «хрест», як у українському перехрестя.",
+      "check": "Форма raskrižja з мого знання; пояснення кореня подаю як підказку для пам'яті."
+    },
+    {
+      "id": "hr-9260cc65",
+      "type": "noun",
+      "lemma": "semafor",
+      "gender": "m.",
+      "gen_sg": "semafora",
+      "plural": [
+        "semafori"
+      ],
+      "ua": "світлофор",
+      "audio": "hr-semafor.mp3",
+      "explain_ua": "(Idem pravo do semafora = іду прямо до світлофора). Чоловічого роду: semafor, semafora, semafori.",
+      "check": "Форми semafora, semafori з мого знання.",
+      "forms": [
+        "semafora"
+      ]
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Куди йти: lijevo, desno, pravo",
+      "summary_ua": "Lijevo (ліворуч), desno (праворуч), pravo (прямо). Пастка: українське направо значить «праворуч», а хорватське pravo значить «прямо». Для «праворуч» кажемо desno. Gore це нагорі, dolje внизу.",
+      "compare": [
+        {
+          "form": "lijevo / desno",
+          "when_ua": "Без прийменника, і «де», і «куди».",
+          "examples": [
+            {
+              "text": "Idem lijevo.",
+              "ua": "Іду ліворуч.",
+              "audio": "hr-les28-rule-01.mp3"
+            },
+            {
+              "text": "Idem desno.",
+              "ua": "Іду праворуч.",
+              "audio": "hr-les28-rule-02.mp3"
+            },
+            {
+              "text": "Ljekarna je desno.",
+              "ua": "Аптека праворуч.",
+              "audio": "hr-les28-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не плутай desno з українським направо, це не pravo."
+        },
+        {
+          "form": "pravo",
+          "when_ua": "Pravo = прямо, не вправо.",
+          "examples": [
+            {
+              "text": "Idem pravo, ne desno.",
+              "ua": "Іду прямо, не праворуч.",
+              "audio": "hr-les28-rule-04.mp3"
+            },
+            {
+              "text": "Idem pravo do semafora.",
+              "ua": "Іду прямо до світлофора.",
+              "audio": "hr-les28-rule-05.mp3"
+            },
+            {
+              "text": "Gore je kupaonica, a dolje je kuhinja.",
+              "ua": "Нагорі ванна, а внизу кухня.",
+              "audio": "hr-les28-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Це хибний друг: направо = праворуч, але pravo = прямо."
+        }
+      ],
+      "points_ua": [
+        "Lijevo = ліворуч, desno = праворуч, pravo = прямо.",
+        "Pravo не те саме, що українське направо.",
+        "Gore = нагорі, dolje = внизу."
+      ]
+    },
+    {
+      "title_ua": "Blizu і daleko",
+      "summary_ua": "Blizu + родовий (близько чогось): blizu kuće. Daleko od + родовий: daleko od pošte. Без іменника просто blizu, daleko.",
+      "compare": [
+        {
+          "form": "blizu + родовий; daleko od + родовий",
+          "when_ua": "Škola je blizu kuće. Ljekarna je daleko od pošte.",
+          "examples": [
+            {
+              "text": "Škola je blizu kuće.",
+              "ua": "Школа поблизу дому.",
+              "audio": "hr-les28-rule-07.mp3"
+            },
+            {
+              "text": "Ljekarna je daleko od pošte.",
+              "ua": "Аптека далеко від пошти.",
+              "audio": "hr-les28-rule-08.mp3"
+            },
+            {
+              "text": "Raskrižje je blizu.",
+              "ua": "Перехрестя близько.",
+              "audio": "hr-les28-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: далеко від = daleko od, але blizu без прийменника."
+        }
+      ],
+      "points_ua": [
+        "Blizu + родовий.",
+        "Daleko od + родовий."
+      ]
+    },
+    {
+      "title_ua": "Твоє слабке місце 1: клітики й кличний відмінок",
+      "summary_ua": "Клітики стоять на другому місці в реченні: Vidim ga tamo. Ivan mi je dao ključ (mi перед je). Кличний відмінок: Ivane! Marijo! Liječniče! Тут допомагає українська, а російська ні.",
+      "compare": [
+        {
+          "form": "клітик на другому місці",
+          "when_ua": "ga, mi, te, je, sam не на початку речення.",
+          "examples": [
+            {
+              "text": "Vidim ga tamo.",
+              "ua": "Бачу його там.",
+              "audio": "hr-les28-rule-10.mp3"
+            },
+            {
+              "text": "Ivan mi je dao ključ.",
+              "ua": "Іван дав мені ключ.",
+              "audio": "hr-les28-rule-11.mp3"
+            },
+            {
+              "text": "Ivane, vidim te tamo.",
+              "ua": "Іване, бачу тебе там.",
+              "audio": "hr-les28-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Ga і te не стоять першими: Vidim ga, а не Ga vidim."
+        },
+        {
+          "form": "кличний відмінок",
+          "when_ua": "Звертання: Ivane, Marijo, liječniče.",
+          "examples": [
+            {
+              "text": "Ivane, otvori prozor.",
+              "ua": "Іване, відчини вікно.",
+              "audio": "hr-les28-rule-13.mp3"
+            },
+            {
+              "text": "Marijo, gdje je ključ?",
+              "ua": "Маріє, де ключ?",
+              "audio": "hr-les28-rule-14.mp3"
+            },
+            {
+              "text": "Liječniče, boli me glava.",
+              "ua": "Лікарю, болить голова.",
+              "audio": "hr-les28-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Чоловічі -e (Ivane), жіночі на -a мають -o (Marijo), після k стає č (liječniče)."
+        }
+      ],
+      "points_ua": [
+        "Клітик на другому місці.",
+        "Кличний: -e (чол.), -o (жін.), k > č."
+      ]
+    },
+    {
+      "title_ua": "Твоє слабке місце 2: ije/je, lj, знахідний",
+      "summary_ua": "Ije/je: snijeg, vrijeme, lijevo. Lj це один звук: ljekarna, ljeto, ljudi. Знахідний -u для жіночого: kuhinju, kupaonicu. Знахідний живого чоловічого -a: čovjeka.",
+      "compare": [
+        {
+          "form": "ije / je / lj",
+          "when_ua": "Правопис: snijeg, vrijeme, ljeto, ljekarna.",
+          "examples": [
+            {
+              "text": "Pada snijeg.",
+              "ua": "Іде сніг.",
+              "audio": "hr-les28-rule-16.mp3"
+            },
+            {
+              "text": "Vrijeme je lijepo.",
+              "ua": "Погода гарна.",
+              "audio": "hr-les28-rule-17.mp3"
+            },
+            {
+              "text": "Ljekarna je blizu.",
+              "ua": "Аптека близько.",
+              "audio": "hr-les28-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Не пиши sneg, vreme, lekarna: це не хорватські форми."
+        },
+        {
+          "form": "-u (жін.), -a (живе чол.)",
+          "when_ua": "Čistim kuhinju, vidim čovjeka.",
+          "examples": [
+            {
+              "text": "Čistim kuhinju i kupaonicu.",
+              "ua": "Прибираю кухню і ванну.",
+              "audio": "hr-les28-rule-19.mp3"
+            },
+            {
+              "text": "Vidim čovjeka tamo.",
+              "ua": "Бачу чоловіка там.",
+              "audio": "hr-les28-rule-20.mp3"
+            },
+            {
+              "text": "Ljeto je lijepo.",
+              "ua": "Літо гарне.",
+              "audio": "hr-les28-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Жіночий -a стає -u (kuhinja > kuhinju), чоловічий живий -a: čovjek > čovjeka."
+        }
+      ],
+      "points_ua": [
+        "Ije/je пиши в snijeg, vrijeme, lijevo.",
+        "Lj: один звук, ljekarna.",
+        "Знахідний: kuhinju, čovjeka."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Idem lijevo.",
+      "ua": "Іду ліворуч.",
+      "audio": "hr-les28-example-01.mp3"
+    },
+    {
+      "text": "Idem desno.",
+      "ua": "Іду праворуч.",
+      "audio": "hr-les28-example-02.mp3"
+    },
+    {
+      "text": "Idem pravo.",
+      "ua": "Іду прямо.",
+      "audio": "hr-les28-example-03.mp3"
+    },
+    {
+      "text": "Semafor je tamo.",
+      "ua": "Світлофор там.",
+      "audio": "hr-les28-example-04.mp3"
+    },
+    {
+      "text": "Raskrižje je blizu.",
+      "ua": "Перехрестя близько.",
+      "audio": "hr-les28-example-05.mp3"
+    },
+    {
+      "text": "Hotel je daleko.",
+      "ua": "Готель далеко.",
+      "audio": "hr-les28-example-06.mp3"
+    },
+    {
+      "text": "Škola je blizu kuće.",
+      "ua": "Школа поблизу дому.",
+      "audio": "hr-les28-example-07.mp3"
+    },
+    {
+      "text": "Ljekarna je daleko od pošte.",
+      "ua": "Аптека далеко від пошти.",
+      "audio": "hr-les28-example-08.mp3"
+    },
+    {
+      "text": "Gore je kupaonica, a dolje je kuhinja.",
+      "ua": "Нагорі ванна, а внизу кухня.",
+      "audio": "hr-les28-example-09.mp3"
+    },
+    {
+      "text": "Vidim ga tamo.",
+      "ua": "Бачу його там.",
+      "audio": "hr-les28-example-10.mp3"
+    },
+    {
+      "text": "Ivan mi je dao ključ.",
+      "ua": "Іван дав мені ключ.",
+      "audio": "hr-les28-example-11.mp3"
+    },
+    {
+      "text": "Ivane, otvori prozor.",
+      "ua": "Іване, відчини вікно.",
+      "audio": "hr-les28-example-12.mp3"
+    },
+    {
+      "text": "Marijo, gdje je ključ?",
+      "ua": "Маріє, де ключ?",
+      "audio": "hr-les28-example-13.mp3"
+    },
+    {
+      "text": "Liječniče, boli me glava.",
+      "ua": "Лікарю, болить голова.",
+      "audio": "hr-les28-example-14.mp3"
+    },
+    {
+      "text": "Pada snijeg, a vjetar je hladan.",
+      "ua": "Іде сніг, а вітер холодний.",
+      "audio": "hr-les28-example-15.mp3"
+    },
+    {
+      "text": "Čistim kuhinju i kupaonicu.",
+      "ua": "Прибираю кухню і ванну.",
+      "audio": "hr-les28-example-16.mp3"
+    },
+    {
+      "text": "Ljekarna je blizu, a ljudi su tamo.",
+      "ua": "Аптека близько, а люди там.",
+      "audio": "hr-les28-example-17.mp3"
+    },
+    {
+      "text": "Vidim čovjeka tamo.",
+      "ua": "Бачу чоловіка там.",
+      "audio": "hr-les28-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Kako do hotela?",
+    "title_ua": "Як дійти до готелю?",
+    "highlight": [
+      "hr-2955d24d",
+      "hr-50916a8b",
+      "hr-36ef825c",
+      "hr-c6203697",
+      "hr-340aac89",
+      "hr-39cac6bc",
+      "hr-514a1258",
+      "hr-9260cc65"
+    ],
+    "sentences": [
+      {
+        "text": "Hotel je blizu ceste.",
+        "ua": "Готель біля дороги.",
+        "audio": "hr-les28-reading-01.mp3"
+      },
+      {
+        "text": "Idem pravo.",
+        "ua": "Іду прямо.",
+        "audio": "hr-les28-reading-02.mp3"
+      },
+      {
+        "text": "Raskrižje je tamo.",
+        "ua": "Перехрестя там.",
+        "audio": "hr-les28-reading-03.mp3"
+      },
+      {
+        "text": "Semafor je ispred raskrižja.",
+        "ua": "Світлофор перед перехрестям.",
+        "audio": "hr-les28-reading-04.mp3"
+      },
+      {
+        "text": "Idem lijevo.",
+        "ua": "Іду ліворуч.",
+        "audio": "hr-les28-reading-05.mp3"
+      },
+      {
+        "text": "Hotel je iza ljekarne.",
+        "ua": "Готель за аптекою.",
+        "audio": "hr-les28-reading-06.mp3"
+      },
+      {
+        "text": "Ljekarna je desno.",
+        "ua": "Аптека праворуч.",
+        "audio": "hr-les28-reading-07.mp3"
+      },
+      {
+        "text": "Kolodvor je daleko.",
+        "ua": "Вокзал далеко.",
+        "audio": "hr-les28-reading-08.mp3"
+      },
+      {
+        "text": "Ivane, vidim te tamo.",
+        "ua": "Іване, бачу тебе там.",
+        "audio": "hr-les28-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Іду ліворуч.",
+          "accepted": [
+            "Idem lijevo."
+          ]
+        },
+        {
+          "prompt": "Іду праворуч.",
+          "accepted": [
+            "Idem desno."
+          ]
+        },
+        {
+          "prompt": "Іду прямо.",
+          "accepted": [
+            "Idem pravo."
+          ]
+        },
+        {
+          "prompt": "Світлофор там.",
+          "accepted": [
+            "Semafor je tamo."
+          ]
+        },
+        {
+          "prompt": "Перехрестя близько.",
+          "accepted": [
+            "Raskrižje je blizu."
+          ]
+        },
+        {
+          "prompt": "Готель далеко.",
+          "accepted": [
+            "Hotel je daleko."
+          ]
+        },
+        {
+          "prompt": "Школа поблизу дому.",
+          "accepted": [
+            "Škola je blizu kuće."
+          ]
+        },
+        {
+          "prompt": "Аптека далеко від пошти.",
+          "accepted": [
+            "Ljekarna je daleko od pošte."
+          ]
+        },
+        {
+          "prompt": "Нагорі ванна, а внизу кухня.",
+          "accepted": [
+            "Gore je kupaonica, a dolje je kuhinja."
+          ]
+        },
+        {
+          "prompt": "Бачу його там.",
+          "accepted": [
+            "Vidim ga tamo."
+          ]
+        },
+        {
+          "prompt": "Іван дав мені ключ.",
+          "accepted": [
+            "Ivan mi je dao ključ."
+          ]
+        },
+        {
+          "prompt": "Іване, відчини вікно.",
+          "accepted": [
+            "Ivane, otvori prozor."
+          ]
+        },
+        {
+          "prompt": "Маріє, де ключ?",
+          "accepted": [
+            "Marijo, gdje je ključ?"
+          ]
+        },
+        {
+          "prompt": "Лікарю, болить голова.",
+          "accepted": [
+            "Liječniče, boli me glava."
+          ]
+        },
+        {
+          "prompt": "Іде сніг.",
+          "accepted": [
+            "Pada snijeg."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "lijevo",
+        "desno",
+        "pravo",
+        "tamo",
+        "blizu",
+        "daleko",
+        "gore",
+        "dolje",
+        "ga",
+        "mi",
+        "te",
+        "Ivane",
+        "Marijo",
+        "liječniče",
+        "kuhinju",
+        "čovjeka"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Idem ___.",
+          "hint": "Іду ліворуч.",
+          "accepted": [
+            [
+              "lijevo"
+            ]
+          ]
+        },
+        {
+          "text": "Idem ___.",
+          "hint": "Іду праворуч.",
+          "accepted": [
+            [
+              "desno"
+            ]
+          ]
+        },
+        {
+          "text": "Idem ___, ne desno.",
+          "hint": "Іду прямо.",
+          "accepted": [
+            [
+              "pravo"
+            ]
+          ]
+        },
+        {
+          "text": "Semafor je ___.",
+          "hint": "Світлофор там.",
+          "accepted": [
+            [
+              "tamo"
+            ]
+          ]
+        },
+        {
+          "text": "Škola je ___ kuće.",
+          "hint": "Школа поблизу дому.",
+          "accepted": [
+            [
+              "blizu"
+            ]
+          ]
+        },
+        {
+          "text": "Ljekarna je ___ od pošte.",
+          "hint": "Аптека далеко від пошти.",
+          "accepted": [
+            [
+              "daleko"
+            ]
+          ]
+        },
+        {
+          "text": "___ je kupaonica.",
+          "hint": "Нагорі ванна.",
+          "accepted": [
+            [
+              "Gore"
+            ]
+          ]
+        },
+        {
+          "text": "___ je kuhinja.",
+          "hint": "Унизу кухня.",
+          "accepted": [
+            [
+              "Dolje"
+            ]
+          ]
+        },
+        {
+          "text": "Vidim ___ tamo.",
+          "hint": "Бачу його там.",
+          "accepted": [
+            [
+              "ga"
+            ]
+          ]
+        },
+        {
+          "text": "Ivan ___ je dao ključ.",
+          "hint": "Іван дав мені ключ.",
+          "accepted": [
+            [
+              "mi"
+            ]
+          ]
+        },
+        {
+          "text": "Ivane, vidim ___ tamo.",
+          "hint": "Іване, бачу тебе там.",
+          "accepted": [
+            [
+              "te"
+            ]
+          ]
+        },
+        {
+          "text": "___, otvori prozor.",
+          "hint": "Іване, відчини вікно.",
+          "accepted": [
+            [
+              "Ivane"
+            ]
+          ]
+        },
+        {
+          "text": "___, gdje je ključ?",
+          "hint": "Маріє, де ключ?",
+          "accepted": [
+            [
+              "Marijo"
+            ]
+          ]
+        },
+        {
+          "text": "___, boli me glava.",
+          "hint": "Лікарю, болить голова.",
+          "accepted": [
+            [
+              "Liječniče"
+            ]
+          ]
+        },
+        {
+          "text": "Čistim ___.",
+          "hint": "Прибираю кухню.",
+          "accepted": [
+            [
+              "kuhinju"
+            ]
+          ]
+        },
+        {
+          "text": "Vidim ___ tamo.",
+          "hint": "Бачу чоловіка там.",
+          "accepted": [
+            [
+              "čovjeka"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Idem lijevo.",
+          "cue": "-> праворуч",
+          "accepted": [
+            "Idem desno."
+          ]
+        },
+        {
+          "prompt": "Idem desno.",
+          "cue": "-> прямо",
+          "accepted": [
+            "Idem pravo."
+          ]
+        },
+        {
+          "prompt": "Hotel je blizu.",
+          "cue": "-> далеко",
+          "accepted": [
+            "Hotel je daleko."
+          ]
+        },
+        {
+          "prompt": "Gore je kupaonica.",
+          "cue": "-> унизу",
+          "accepted": [
+            "Dolje je kupaonica."
+          ]
+        },
+        {
+          "prompt": "Ivan je mi dao ključ.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ivan mi je dao ključ."
+          ]
+        },
+        {
+          "prompt": "Ga vidim tamo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim ga tamo."
+          ]
+        },
+        {
+          "prompt": "Ivan, otvori prozor.",
+          "cue": "-> кличний",
+          "accepted": [
+            "Ivane, otvori prozor."
+          ]
+        },
+        {
+          "prompt": "Marija, gdje je ključ?",
+          "cue": "-> кличний",
+          "accepted": [
+            "Marijo, gdje je ključ?"
+          ]
+        },
+        {
+          "prompt": "Liječnik, boli me glava.",
+          "cue": "-> кличний",
+          "accepted": [
+            "Liječniče, boli me glava."
+          ]
+        },
+        {
+          "prompt": "Čistim kuhinja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čistim kuhinju."
+          ]
+        },
+        {
+          "prompt": "Čistim kupaonica.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čistim kupaonicu."
+          ]
+        },
+        {
+          "prompt": "Vidim čovjek tamo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim čovjeka tamo."
+          ]
+        },
+        {
+          "prompt": "Hotel je daleko ceste.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hotel je daleko od ceste."
+          ]
+        },
+        {
+          "prompt": "Škola je blizu od kuće.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Škola je blizu kuće."
+          ]
+        },
+        {
+          "prompt": "Idem preko grad.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem kroz grad."
+          ]
+        },
+        {
+          "prompt": "Idem k liječnika.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem k liječniku."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ kuhinju.",
+          "cue": "čistiti",
+          "accepted": [
+            "čistim"
+          ]
+        },
+        {
+          "text": "Ti ___ prozor.",
+          "cue": "otvarati",
+          "accepted": [
+            "otvaraš"
+          ]
+        },
+        {
+          "text": "(vi) ___ vrata!",
+          "cue": "otvoriti",
+          "accepted": [
+            "otvorite"
+          ]
+        },
+        {
+          "text": "Mi ___ kaput.",
+          "cue": "nositi",
+          "accepted": [
+            "nosimo"
+          ]
+        },
+        {
+          "text": "Ja ___ u srpnju.",
+          "cue": "putovati",
+          "accepted": [
+            "putujem"
+          ]
+        },
+        {
+          "text": "Ti ___ kolegama.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomažeš"
+          ]
+        },
+        {
+          "text": "Ja ___ posao.",
+          "cue": "tražiti",
+          "accepted": [
+            "tražim"
+          ]
+        },
+        {
+          "text": "Oni ___ malo.",
+          "cue": "zarađivati",
+          "accepted": [
+            "zarađuju"
+          ]
+        },
+        {
+          "text": "Ja ___ hotel.",
+          "cue": "rezervirati",
+          "accepted": [
+            "rezerviram"
+          ]
+        },
+        {
+          "text": "Ja se ___ kući.",
+          "cue": "vraćati",
+          "accepted": [
+            "vraćam"
+          ]
+        },
+        {
+          "text": "Avion ___ preko grada.",
+          "cue": "letjeti",
+          "accepted": [
+            "leti"
+          ]
+        },
+        {
+          "text": "Danas ___ kiša.",
+          "cue": "padati",
+          "accepted": [
+            "pada"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "ліворуч",
+          "answer": "lijevo"
+        },
+        {
+          "prompt": "праворуч",
+          "answer": "desno"
+        },
+        {
+          "prompt": "прямо",
+          "answer": "pravo"
+        },
+        {
+          "prompt": "там",
+          "answer": "tamo"
+        },
+        {
+          "prompt": "близько",
+          "answer": "blizu"
+        },
+        {
+          "prompt": "далеко",
+          "answer": "daleko"
+        },
+        {
+          "prompt": "нагорі",
+          "answer": "gore"
+        },
+        {
+          "prompt": "внизу",
+          "answer": "dolje"
+        },
+        {
+          "prompt": "перехрестя",
+          "answer": "raskrižje"
+        },
+        {
+          "prompt": "світлофор",
+          "answer": "semafor"
+        },
+        {
+          "prompt": "крізь",
+          "answer": "kroz"
+        },
+        {
+          "prompt": "через міст",
+          "answer": "preko"
+        },
+        {
+          "prompt": "через (причина)",
+          "answer": "zbog"
+        },
+        {
+          "prompt": "у кого, біля",
+          "answer": "kod"
+        },
+        {
+          "prompt": "перед (місце)",
+          "answer": "ispred"
+        }
+      ],
+      "extra": [
+        "prije",
+        "nakon"
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "МІНІ-ТЕСТ У СТИЛІ ІСПИТУ, частина 1, ~8 хвилин. Без підказок, пиши цілі речення з діакритикою. Тут усі п'ять слабких місць і слова з Lekcija 24-27.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Іване, відчини вікно.",
+          "accepted": [
+            "Ivane, otvori prozor."
+          ]
+        },
+        {
+          "prompt": "Маріє, де ключ?",
+          "accepted": [
+            "Marijo, gdje je ključ?"
+          ]
+        },
+        {
+          "prompt": "Лікарю, болить голова.",
+          "accepted": [
+            "Liječniče, boli me glava."
+          ]
+        },
+        {
+          "prompt": "Бачу його там.",
+          "accepted": [
+            "Vidim ga tamo."
+          ]
+        },
+        {
+          "prompt": "Іван дав мені ключ.",
+          "accepted": [
+            "Ivan mi je dao ključ."
+          ]
+        },
+        {
+          "prompt": "Прибираю кухню і ванну.",
+          "accepted": [
+            "Čistim kuhinju i kupaonicu."
+          ]
+        },
+        {
+          "prompt": "Бачу чоловіка там.",
+          "accepted": [
+            "Vidim čovjeka tamo."
+          ]
+        },
+        {
+          "prompt": "Погода гарна.",
+          "accepted": [
+            "Vrijeme je lijepo."
+          ]
+        },
+        {
+          "prompt": "Аптека близько.",
+          "accepted": [
+            "Ljekarna je blizu."
+          ]
+        },
+        {
+          "prompt": "Іду через міст і прямо.",
+          "accepted": [
+            "Idem preko mosta i pravo."
+          ]
+        },
+        {
+          "prompt": "Іду до лікаря.",
+          "accepted": [
+            "Idem k liječniku."
+          ]
+        },
+        {
+          "prompt": "Подорожую через роботу.",
+          "accepted": [
+            "Putujem zbog posla."
+          ]
+        },
+        {
+          "prompt": "Це мій начальник, який працює в офісі.",
+          "accepted": [
+            "Ovo je moj šef koji radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Іван прибирає свою кухню.",
+          "accepted": [
+            "Ivan čisti svoju kuhinju."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "МІНІ-ТЕСТ У СТИЛІ ІСПИТУ, частина 2, ~7 хвилин. Виправ помилку або зміни речення за стрілкою. Без підказок.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ivan je mi dao ključ.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ivan mi je dao ključ."
+          ]
+        },
+        {
+          "prompt": "Ga vidim tamo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim ga tamo."
+          ]
+        },
+        {
+          "prompt": "Marija, gdje je ključ?",
+          "cue": "-> кличний",
+          "accepted": [
+            "Marijo, gdje je ključ?"
+          ]
+        },
+        {
+          "prompt": "Čistim kuhinja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čistim kuhinju."
+          ]
+        },
+        {
+          "prompt": "Vidim čovjek tamo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim čovjeka tamo."
+          ]
+        },
+        {
+          "prompt": "Idem preko grad.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem kroz grad."
+          ]
+        },
+        {
+          "prompt": "Idem k liječnika.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem k liječniku."
+          ]
+        },
+        {
+          "prompt": "Hotel je daleko ceste.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hotel je daleko od ceste."
+          ]
+        },
+        {
+          "prompt": "Ivan voli njegov vrt.",
+          "cue": "-> власний сад Івана",
+          "accepted": [
+            "Ivan voli svoj vrt."
+          ]
+        },
+        {
+          "prompt": "Ovo je moja kolegica koji radi u uredu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovo je moja kolegica koja radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Idem desno.",
+          "cue": "-> прямо",
+          "accepted": [
+            "Idem pravo."
+          ]
+        },
+        {
+          "prompt": "Nemam toplih čarape.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nemam toplih čarapa."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

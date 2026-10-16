@@ -1,0 +1,1397 @@
+{
+  "id": "hr-les-29",
+  "lang": "hr",
+  "order": 29,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-3bf53145",
+      "type": "noun",
+      "lemma": "riba",
+      "gender": "ž.",
+      "gen_sg": "ribe",
+      "plural": [
+        "ribe"
+      ],
+      "ua": "риба",
+      "audio": "hr-riba.mp3",
+      "forms": [
+        "ribu"
+      ],
+      "explain_ua": "(Imam ribu = маю рибу). Жіночий рід на -a: riba, ribe, ribu. Українське риба: слово майже те саме.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-81d7cf5d",
+      "type": "noun",
+      "lemma": "piletina",
+      "gender": "ž.",
+      "gen_sg": "piletine",
+      "plural": [
+        "piletine"
+      ],
+      "ua": "курятина",
+      "audio": "hr-piletina.mp3",
+      "forms": [
+        "piletinu"
+      ],
+      "explain_ua": "(Piletina je ukusna = курятина смачна). Жіночий рід на -a, множини майже немає: piletina, piletine, piletinu. Корінь pile «курча»: pile, piletina.",
+      "check": "Форми за зразком škola; значення кореня pile подаю як підказку для пам'яті."
+    },
+    {
+      "id": "hr-cc5166bf",
+      "type": "noun",
+      "lemma": "svinjetina",
+      "gender": "ž.",
+      "gen_sg": "svinjetine",
+      "plural": [
+        "svinjetine"
+      ],
+      "ua": "свинина",
+      "audio": "hr-svinjetina.mp3",
+      "forms": [
+        "svinjetinu"
+      ],
+      "explain_ua": "(Pržim svinjetinu = смажу свинину). Жіночий рід на -a, множини майже немає: svinjetina, svinjetine, svinjetinu. Корінь svinja «свиня».",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-1c93396d",
+      "type": "noun",
+      "lemma": "kobasica",
+      "gender": "ž.",
+      "gen_sg": "kobasice",
+      "plural": [
+        "kobasice"
+      ],
+      "ua": "ковбаса",
+      "audio": "hr-kobasica.mp3",
+      "explain_ua": "(Kobasica je ljuta = ковбаса гостра). Жіночий рід на -a: kobasica, kobasice. Українське ковбаса, російське колбаса: слово схоже.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-105a7b9a",
+      "type": "noun",
+      "lemma": "maslac",
+      "gender": "m.",
+      "gen_sg": "maslaca",
+      "plural": [
+        "maslaci"
+      ],
+      "ua": "вершкове масло",
+      "audio": "hr-maslac.mp3",
+      "explain_ua": "(Maslac i ulje = масло і олія). Maslac це вершкове масло, ulje це олія. Чоловічого роду: maslac, maslaca (тут a зберігається, на відміну від lonac > lonca). Українське масло охоплює обидва: тут два слова.",
+      "check": "Форми maslaca, maslaci з мого знання."
+    },
+    {
+      "id": "hr-7ae0f8fb",
+      "type": "noun",
+      "lemma": "ulje",
+      "gender": "s.",
+      "gen_sg": "ulja",
+      "plural": [
+        "ulja"
+      ],
+      "ua": "олія",
+      "audio": "hr-ulje.mp3",
+      "explain_ua": "(Dodajem ulje = додаю олію). Середній рід на -e: ulje, ulja. Не плутай із maslac: ulje це рослинна олія.",
+      "check": "Форми ulja з мого знання."
+    },
+    {
+      "id": "hr-7e482d5d",
+      "type": "noun",
+      "lemma": "sol",
+      "gender": "ž.",
+      "gen_sg": "soli",
+      "plural": [
+        "soli"
+      ],
+      "ua": "сіль",
+      "audio": "hr-sol.mp3",
+      "explain_ua": "(Dodajte sol = додайте сіль). Жіночий рід, тип -i (i-основа, як riječ, Lekcija 1): sol, soli. Називний і знахідний однакові: sol. Українське сіль, російське соль: жіночого роду, як і тут.",
+      "check": "Sol як i-основа ж. р. з мого знання."
+    },
+    {
+      "id": "hr-e4bfe1da",
+      "type": "noun",
+      "lemma": "šećer",
+      "gender": "m.",
+      "gen_sg": "šećera",
+      "plural": [
+        "šećeri"
+      ],
+      "ua": "цукор",
+      "audio": "hr-secer.mp3",
+      "explain_ua": "(Dodajte šećer = додайте цукор). Чоловічого роду: šećer, šećera. Пиши ć: šećer.",
+      "check": "Форми šećera, šećeri з мого знання."
+    },
+    {
+      "id": "hr-c60fb440",
+      "type": "noun",
+      "lemma": "brašno",
+      "gender": "s.",
+      "gen_sg": "brašna",
+      "plural": [
+        "brašna"
+      ],
+      "ua": "борошно",
+      "audio": "hr-brasno.mp3",
+      "explain_ua": "(Brašno je u ormaru = борошно в шафі). Середній рід на -o: brašno, brašna. Українське борошно: схоже.",
+      "check": "Форми brašna з мого знання."
+    },
+    {
+      "id": "hr-c88915e5",
+      "type": "noun",
+      "lemma": "čaj",
+      "gender": "m.",
+      "gen_sg": "čaja",
+      "plural": [
+        "čajevi"
+      ],
+      "ua": "чай",
+      "audio": "hr-caj.mp3",
+      "explain_ua": "(Čaj je sladak = чай солодкий). Чоловічого роду: čaj, čaja, čajevi (-ev- після j). Пиши č.",
+      "check": "Форми čaja, čajevi з мого знання."
+    },
+    {
+      "id": "hr-e3f58521",
+      "type": "noun",
+      "lemma": "tjestenina",
+      "gender": "ž.",
+      "gen_sg": "tjestenine",
+      "plural": [
+        "tjestenine"
+      ],
+      "ua": "макарони, паста",
+      "audio": "hr-tjestenina.mp3",
+      "forms": [
+        "tjesteninu"
+      ],
+      "explain_ua": "(Imam tjesteninu = маю макарони). Жіночий рід на -a, переважно однина: tjestenina, tjestenine, tjesteninu. Корінь tijesto «тісто» (ije в tijesto, je в tjestenina).",
+      "check": "Форми за зразком škola; чергування ije/je в tijesto/tjestenina подаю як підказку."
+    },
+    {
+      "id": "hr-b4560562",
+      "type": "noun",
+      "lemma": "kupus",
+      "gender": "m.",
+      "gen_sg": "kupusa",
+      "plural": [
+        "kupusi"
+      ],
+      "ua": "капуста",
+      "audio": "hr-kupus.mp3",
+      "explain_ua": "(Imam ribu i kupus = маю рибу і капусту). Чоловічого роду: kupus, kupusa. Українське капуста, російське капуста: тут слово інше.",
+      "check": "Форми kupusa з мого знання."
+    },
+    {
+      "id": "hr-482bc87c",
+      "type": "noun",
+      "lemma": "krastavac",
+      "gender": "m.",
+      "gen_sg": "krastavca",
+      "plural": [
+        "krastavci"
+      ],
+      "ua": "огірок",
+      "audio": "hr-krastavac.mp3",
+      "explain_ua": "(Narežite krastavac = наріжте огірок). Нестійке a: krastavac, krastavca, krastavci. Українське огірок: слово інше.",
+      "check": "Форми krastavca, krastavci за правилом нестійкого a (підручник, с. 304)."
+    },
+    {
+      "id": "hr-39ea1ae6",
+      "type": "noun",
+      "lemma": "češnjak",
+      "gender": "m.",
+      "gen_sg": "češnjaka",
+      "plural": [
+        "češnjakovi"
+      ],
+      "ua": "часник",
+      "audio": "hr-cesnjak.mp3",
+      "explain_ua": "(Narežite češnjak = наріжте часник). Чоловічого роду: češnjak, češnjaka. Множина рідко.",
+      "check": "Форми češnjaka з мого знання; множину češnjakovi краще перевірити в словнику."
+    },
+    {
+      "id": "hr-380a577d",
+      "type": "noun",
+      "lemma": "tanjur",
+      "gender": "m.",
+      "gen_sg": "tanjura",
+      "plural": [
+        "tanjuri"
+      ],
+      "ua": "тарілка",
+      "audio": "hr-tanjur.mp3",
+      "forms": [
+        "tanjuru"
+      ],
+      "explain_ua": "(Šalica je na tanjuru = чашка на тарілці). Чоловічого роду: tanjur, tanjura, na tanjuru, tanjuri.",
+      "check": "Форми tanjura, tanjuri, tanjuru з мого знання."
+    },
+    {
+      "id": "hr-0a7c132c",
+      "type": "noun",
+      "lemma": "žlica",
+      "gender": "ž.",
+      "gen_sg": "žlice",
+      "plural": [
+        "žlice"
+      ],
+      "ua": "ложка",
+      "audio": "hr-zlica.mp3",
+      "explain_ua": "(Žlica i vilica su na polici = ложка і виделка на полиці). Жіночий рід на -a: žlica, žlice. Українське ложка: слово інше.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-ed998aa6",
+      "type": "noun",
+      "lemma": "vilica",
+      "gender": "ž.",
+      "gen_sg": "vilice",
+      "plural": [
+        "vilice"
+      ],
+      "ua": "виделка",
+      "audio": "hr-vilica.mp3",
+      "explain_ua": "(Vilica je ovdje = виделка тут). Жіночий рід на -a: vilica, vilice.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-38984e5b",
+      "type": "noun",
+      "lemma": "nož",
+      "gender": "m.",
+      "gen_sg": "noža",
+      "plural": [
+        "noževi"
+      ],
+      "ua": "ніж",
+      "audio": "hr-noz.mp3",
+      "explain_ua": "(Nož je ovdje = ніж тут). Чоловічого роду: nož, noža, noževi (-ev- після ž). Українське ніж: корінь той самий.",
+      "check": "Форми noža, noževi за правилом -ev- після ж."
+    },
+    {
+      "id": "hr-ccf38a2f",
+      "type": "noun",
+      "lemma": "šalica",
+      "gender": "ž.",
+      "gen_sg": "šalice",
+      "plural": [
+        "šalice"
+      ],
+      "ua": "чашка",
+      "audio": "hr-salica.mp3",
+      "explain_ua": "(Šalica je na tanjuru = чашка на тарілці). Жіночий рід на -a: šalica, šalice. Слово šolja ти почуєш у Сербії, у Хорватії šalica.",
+      "check": "Форми за зразком škola; šolja як сербська форма з мого знання."
+    },
+    {
+      "id": "hr-0687db84",
+      "type": "noun",
+      "lemma": "lonac",
+      "gender": "m.",
+      "gen_sg": "lonca",
+      "plural": [
+        "lonci"
+      ],
+      "ua": "каструля, горщик",
+      "audio": "hr-lonac.mp3",
+      "forms": [
+        "loncu",
+        "juhu"
+      ],
+      "explain_ua": "(Kuham juhu u loncu = варю суп у каструлі). Нестійке a: lonac, lonca, u loncu, lonci. У цій ноті також форма juhu (знахідний від juha, Lekcija 14).",
+      "check": "Форми lonca, lonci, loncu за правилом нестійкого a; juhu за зразком škola."
+    },
+    {
+      "id": "hr-ab35557b",
+      "type": "adjective",
+      "lemma": "slan",
+      "fem": "slana",
+      "neut": "slano",
+      "ua": "солоний",
+      "audio": "hr-slan.mp3",
+      "forms": [
+        "slana"
+      ],
+      "explain_ua": "(Juha je slana = суп солоний). slan, slana, slano. Корінь sol.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b2cc189a",
+      "type": "adjective",
+      "lemma": "sladak",
+      "fem": "slatka",
+      "neut": "slatko",
+      "ua": "солодкий",
+      "audio": "hr-sladak.mp3",
+      "forms": [
+        "slatka"
+      ],
+      "explain_ua": "(Čaj je sladak = чай солодкий). Нестійке a: sladak, slatka, slatko (d стає t). Українське солодкий: слово інше.",
+      "check": "Форми sladak, slatka, slatko з мого знання."
+    },
+    {
+      "id": "hr-89fbe24b",
+      "type": "adjective",
+      "lemma": "ljut",
+      "fem": "ljuta",
+      "neut": "ljuto",
+      "ua": "гострий (на смак); злий",
+      "audio": "hr-ljut.mp3",
+      "forms": [
+        "ljuta"
+      ],
+      "explain_ua": "(Kobasica je ljuta = ковбаса гостра). Ljut значить «гострий (про їжу)» і «злий». Пиши lj. Українське лютий означає «жорстокий, лютий»: тут обережно.",
+      "check": "Обидва значення ljut з мого знання; зв'язок з українським лютий подаю як підказку, не як етимологію."
+    },
+    {
+      "id": "hr-fa153d5f",
+      "type": "verb",
+      "lemma": "peći",
+      "aspect": "impf.",
+      "partner": "ispeći",
+      "pres_1sg": "pečem",
+      "forms": [
+        "pečeš",
+        "peče",
+        "pečemo",
+        "pečete",
+        "peku",
+        "ispeći",
+        "ispečem",
+        "ispecite",
+        "pečen",
+        "pečena",
+        "pečeno",
+        "pečem"
+      ],
+      "ua": "пекти, запікати (док. ispeći)",
+      "audio": "hr-peci.mp3",
+      "explain_ua": "(Riba je pečena = риба запечена). Неправильне: peći, pečem, 3 особа множини peku. Пара: peći / ispeći. Наказ ispecite. Страдальний дієприкметник: pečen, pečena, pečeno.",
+      "check": "Peći / ispeći і всі форми, особливо peku і ispecite, з мого знання; у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-180769fb",
+      "type": "verb",
+      "lemma": "pržiti",
+      "aspect": "impf.",
+      "partner": "ispržiti",
+      "pres_1sg": "pržim",
+      "forms": [
+        "pržiš",
+        "prži",
+        "pržimo",
+        "pržite",
+        "prže",
+        "ispržiti",
+        "ispržim",
+        "pržen",
+        "pržena",
+        "prženo",
+        "kuhan",
+        "kuhana",
+        "kuhano",
+        "pržim"
+      ],
+      "ua": "смажити (док. ispržiti)",
+      "audio": "hr-przati.mp3",
+      "explain_ua": "(Pržim ribu = смажу рибу). Пара: pržiti / ispržiti. Тип -iti > -im. Страдальний: pržen, pržena. Тут також kuhan, kuhana, kuhano (від kuhati, Lekcija 10): meso je kuhano.",
+      "check": "Пару pržiti / ispržiti і дієприкметники з мого знання."
+    },
+    {
+      "id": "hr-6f7db49b",
+      "type": "verb",
+      "lemma": "rezati",
+      "aspect": "impf.",
+      "partner": "narezati",
+      "pres_1sg": "režem",
+      "forms": [
+        "režeš",
+        "reže",
+        "režemo",
+        "režete",
+        "režu",
+        "narezati",
+        "narežem",
+        "narežite"
+      ],
+      "ua": "різати (док. narezati)",
+      "audio": "hr-rezati.mp3",
+      "explain_ua": "(Narežite češnjak = наріжте часник). Пара: rezati (недок., režem) / narezati (док., narežem). z стає ž: režem. Українське різати, російське резать: слово те саме, чергування є і там.",
+      "check": "Пару rezati / narezati і форми з мого знання."
+    },
+    {
+      "id": "hr-c4778be7",
+      "type": "verb",
+      "lemma": "dodavati",
+      "aspect": "impf.",
+      "partner": "dodati",
+      "pres_1sg": "dodajem",
+      "forms": [
+        "dodaješ",
+        "dodaje",
+        "dodajemo",
+        "dodajete",
+        "dodaju",
+        "dodati",
+        "dodam",
+        "dodajte",
+        "dodajem"
+      ],
+      "ua": "додавати (док. dodati)",
+      "audio": "hr-dodavati.mp3",
+      "explain_ua": "(Dodajte sol i šećer = додайте сіль і цукор). Пара: dodavati (недок., dodajem) / dodati (док., dodam). Наказ dodajte. Українське додавати: схоже.",
+      "check": "Пару dodavati / dodati і форми з мого знання."
+    },
+    {
+      "id": "hr-f46a26f4",
+      "type": "function",
+      "lemma": "netko",
+      "ua": "хтось (nitko = ніхто)",
+      "audio": "hr-netko.mp3",
+      "forms": [
+        "nitko",
+        "nikoga",
+        "nikome",
+        "nikim",
+        "nekoga",
+        "nekome"
+      ],
+      "explain_ua": "(Netko je ovdje = хтось тут; Nitko ne radi = ніхто не працює). Netko = хтось (ne-), nitko = ніхто (ni-). Відмінки як у tko: nekoga / nikoga (знахідний, родовий), nekome / nikome (давальний), nikim (орудний).",
+      "check": "Форми з мого знання за зразком tko / koga / komu (Lekcije 8, 13)."
+    },
+    {
+      "id": "hr-85ef2cef",
+      "type": "function",
+      "lemma": "nešto",
+      "ua": "щось (ništa = нічого)",
+      "audio": "hr-nesto.mp3",
+      "forms": [
+        "ništa",
+        "ničega",
+        "ničemu",
+        "ničim",
+        "nečega",
+        "nečemu"
+      ],
+      "explain_ua": "(Imam nešto ukusno = маю щось смачне; Ne jedem ništa = нічого не їм). Nešto = щось, ništa = нічого. Родовий ničega / nečega.",
+      "check": "Форми з мого знання за зразком što / čega."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Netko, nešto, nitko, ništa",
+      "summary_ua": "Ne- значить «якийсь»: netko (хтось), nešto (щось). Ni- значить «жоден»: nitko (ніхто), ništa (нічого). Подвійне заперечення обов'язкове, як в українській і російській: Nitko ne radi. Ništa ne jedem. Це безкоштовний виграш, на відміну від англійської.",
+      "compare": [
+        {
+          "form": "netko, nešto",
+          "when_ua": "Хтось і щось: стверджувальне речення.",
+          "examples": [
+            {
+              "text": "Netko je ovdje.",
+              "ua": "Хтось тут.",
+              "audio": "hr-les29-rule-01.mp3"
+            },
+            {
+              "text": "Imam nešto ukusno.",
+              "ua": "Маю щось смачне.",
+              "audio": "hr-les29-rule-02.mp3"
+            },
+            {
+              "text": "Vidim nekoga tamo.",
+              "ua": "Бачу когось там.",
+              "audio": "hr-les29-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: хтось, щось, але закінчення свої."
+        },
+        {
+          "form": "nitko, ništa + ne",
+          "when_ua": "Подвійне заперечення: nitko ne, ništa ne, ne ... nikoga.",
+          "examples": [
+            {
+              "text": "Nitko ne radi.",
+              "ua": "Ніхто не працює.",
+              "audio": "hr-les29-rule-04.mp3"
+            },
+            {
+              "text": "Ništa ne jedem.",
+              "ua": "Нічого не їм.",
+              "audio": "hr-les29-rule-05.mp3"
+            },
+            {
+              "text": "Ne vidim nikoga.",
+              "ua": "Не бачу нікого.",
+              "audio": "hr-les29-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагають обидві мови: нікого не бачу, ничего не вижу. Не пиши Nitko radi."
+        }
+      ],
+      "points_ua": [
+        "Ne-: якийсь (netko, nešto). Ni-: жоден (nitko, ništa).",
+        "Подвійне заперечення: nitko NE radi.",
+        "Відмінки як у tko: nikoga, nikome, nikim."
+      ]
+    },
+    {
+      "title_ua": "Nikoga, nikome, ništa: відмінки",
+      "summary_ua": "Ni- змінюється як tko / što. Знахідний і родовий nikoga: Ne vidim nikoga. Давальний nikome: Ne pomažem nikome. Ništa в знахідному не змінюється: Ne jedem ništa.",
+      "compare": [
+        {
+          "form": "nikoga, nikome, ništa",
+          "when_ua": "Знахідний, давальний, знахідний.",
+          "examples": [
+            {
+              "text": "Ne pomažem nikome.",
+              "ua": "Нікому не допомагаю.",
+              "audio": "hr-les29-rule-07.mp3"
+            },
+            {
+              "text": "Ne čekam nikoga.",
+              "ua": "Нікого не чекаю.",
+              "audio": "hr-les29-rule-08.mp3"
+            },
+            {
+              "text": "Ne pijem ništa.",
+              "ua": "Нічого не п'ю.",
+              "audio": "hr-les29-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Pomagati вимагає давального (Lekcija 20), тому nikome."
+        }
+      ],
+      "points_ua": [
+        "Čekati і vidjeti: знахідний nikoga.",
+        "Pomagati: давальний nikome."
+      ]
+    },
+    {
+      "title_ua": "Рецепт: наказ на -ite і -jte",
+      "summary_ua": "У рецепті дієслова стоять в наказі на «ви»: Narežite češnjak. Dodajte sol i šećer. Ispecite ribu. Це наказ з Lekcija 23 на нових дієсловах.",
+      "compare": [
+        {
+          "form": "narežite, dodajte, ispecite",
+          "when_ua": "Наказ ви: -ite (narežite, ispecite) або -jte (dodajte).",
+          "examples": [
+            {
+              "text": "Narežite krastavac i češnjak.",
+              "ua": "Наріжте огірок і часник.",
+              "audio": "hr-les29-rule-10.mp3"
+            },
+            {
+              "text": "Dodajte sol i šećer.",
+              "ua": "Додайте сіль і цукор.",
+              "audio": "hr-les29-rule-11.mp3"
+            },
+            {
+              "text": "Ispecite ribu.",
+              "ua": "Запечіть рибу.",
+              "audio": "hr-les29-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: наріжте, додайте, випечіть."
+        }
+      ],
+      "points_ua": [
+        "Наказ ви: narežite, dodajte, ispecite.",
+        "Rezati > narezati: док. вид для рецепта."
+      ]
+    },
+    {
+      "title_ua": "Смак і готовність",
+      "summary_ua": "Смак: slan, sladak, ljut. Готовність: pečen, kuhan, pržen. Всі узгоджуються в роді: Juha je slana. Čaj je sladak. Riba je pečena. Meso je kuhano. Це страдальні дієприкметники, як popunjen (Lekcija 22).",
+      "compare": [
+        {
+          "form": "slan / sladak / ljut",
+          "when_ua": "Смак: узгоджується в роді.",
+          "examples": [
+            {
+              "text": "Juha je slana.",
+              "ua": "Суп солоний.",
+              "audio": "hr-les29-rule-13.mp3"
+            },
+            {
+              "text": "Čaj je sladak.",
+              "ua": "Чай солодкий.",
+              "audio": "hr-les29-rule-14.mp3"
+            },
+            {
+              "text": "Kobasica je ljuta.",
+              "ua": "Ковбаса гостра.",
+              "audio": "hr-les29-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Sladak має нестійке a: slatka, slatko."
+        },
+        {
+          "form": "pečen / kuhan / pržen",
+          "when_ua": "Приготовано: pečena riba, kuhano meso.",
+          "examples": [
+            {
+              "text": "Riba je pečena.",
+              "ua": "Риба запечена.",
+              "audio": "hr-les29-rule-16.mp3"
+            },
+            {
+              "text": "Meso je kuhano.",
+              "ua": "М'ясо варене.",
+              "audio": "hr-les29-rule-17.mp3"
+            },
+            {
+              "text": "Piletina je pržena.",
+              "ua": "Курятина смажена.",
+              "audio": "hr-les29-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Рід: riba (ж.) pečena, meso (с.) kuhano, piletina (ж.) pržena."
+        }
+      ],
+      "points_ua": [
+        "Slan, sladak, ljut.",
+        "Pečen, kuhan, pržen: узгоджуються в роді."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Imam ribu i kupus.",
+      "ua": "Маю рибу і капусту.",
+      "audio": "hr-les29-example-01.mp3"
+    },
+    {
+      "text": "Piletina je ukusna.",
+      "ua": "Курятина смачна.",
+      "audio": "hr-les29-example-02.mp3"
+    },
+    {
+      "text": "Kobasica je ljuta.",
+      "ua": "Ковбаса гостра.",
+      "audio": "hr-les29-example-03.mp3"
+    },
+    {
+      "text": "Dodajte sol i šećer.",
+      "ua": "Додайте сіль і цукор.",
+      "audio": "hr-les29-example-04.mp3"
+    },
+    {
+      "text": "Imam nešto ukusno.",
+      "ua": "Маю щось смачне.",
+      "audio": "hr-les29-example-05.mp3"
+    },
+    {
+      "text": "Čaj je sladak.",
+      "ua": "Чай солодкий.",
+      "audio": "hr-les29-example-06.mp3"
+    },
+    {
+      "text": "Juha je slana.",
+      "ua": "Суп солоний.",
+      "audio": "hr-les29-example-07.mp3"
+    },
+    {
+      "text": "Brašno i tjestenina su u ormaru.",
+      "ua": "Борошно і макарони в шафі.",
+      "audio": "hr-les29-example-08.mp3"
+    },
+    {
+      "text": "Narežite krastavac i češnjak.",
+      "ua": "Наріжте огірок і часник.",
+      "audio": "hr-les29-example-09.mp3"
+    },
+    {
+      "text": "Pržim ribu.",
+      "ua": "Смажу рибу.",
+      "audio": "hr-les29-example-10.mp3"
+    },
+    {
+      "text": "Riba je pečena.",
+      "ua": "Риба запечена.",
+      "audio": "hr-les29-example-11.mp3"
+    },
+    {
+      "text": "Meso je kuhano.",
+      "ua": "М'ясо варене.",
+      "audio": "hr-les29-example-12.mp3"
+    },
+    {
+      "text": "Žlica i vilica su na polici.",
+      "ua": "Ложка і виделка на полиці.",
+      "audio": "hr-les29-example-13.mp3"
+    },
+    {
+      "text": "Šalica je na tanjuru.",
+      "ua": "Чашка на тарілці.",
+      "audio": "hr-les29-example-14.mp3"
+    },
+    {
+      "text": "Kuham juhu u loncu.",
+      "ua": "Варю суп у каструлі.",
+      "audio": "hr-les29-example-15.mp3"
+    },
+    {
+      "text": "Netko je ovdje.",
+      "ua": "Хтось тут.",
+      "audio": "hr-les29-example-16.mp3"
+    },
+    {
+      "text": "Nitko ne radi.",
+      "ua": "Ніхто не працює.",
+      "audio": "hr-les29-example-17.mp3"
+    },
+    {
+      "text": "Ništa ne jedem.",
+      "ua": "Нічого не їм.",
+      "audio": "hr-les29-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Ručak",
+    "title_ua": "Обід",
+    "highlight": [
+      "hr-81d7cf5d",
+      "hr-7ae0f8fb",
+      "hr-7e482d5d",
+      "hr-c88915e5",
+      "hr-e3f58521",
+      "hr-39ea1ae6",
+      "hr-0687db84",
+      "hr-ab35557b",
+      "hr-b2cc189a",
+      "hr-f46a26f4"
+    ],
+    "sentences": [
+      {
+        "text": "Danas kuham ručak.",
+        "ua": "Сьогодні готую обід.",
+        "audio": "hr-les29-reading-01.mp3"
+      },
+      {
+        "text": "Imam piletinu i tjesteninu.",
+        "ua": "Маю курятину і макарони.",
+        "audio": "hr-les29-reading-02.mp3"
+      },
+      {
+        "text": "Narežem češnjak i luk.",
+        "ua": "Наріжу часник і цибулю.",
+        "audio": "hr-les29-reading-03.mp3"
+      },
+      {
+        "text": "Dodajem ulje i sol.",
+        "ua": "Додаю олію і сіль.",
+        "audio": "hr-les29-reading-04.mp3"
+      },
+      {
+        "text": "Pržim piletinu.",
+        "ua": "Смажу курятину.",
+        "audio": "hr-les29-reading-05.mp3"
+      },
+      {
+        "text": "Juha je u loncu.",
+        "ua": "Суп у каструлі.",
+        "audio": "hr-les29-reading-06.mp3"
+      },
+      {
+        "text": "Tjestenina je slana, a čaj je sladak.",
+        "ua": "Макарони солоні, а чай солодкий.",
+        "audio": "hr-les29-reading-07.mp3"
+      },
+      {
+        "text": "Nitko ne dolazi na ručak.",
+        "ua": "Ніхто не приходить на обід.",
+        "audio": "hr-les29-reading-08.mp3"
+      },
+      {
+        "text": "Ručak je ukusan.",
+        "ua": "Обід смачний.",
+        "audio": "hr-les29-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Маю рибу і капусту.",
+          "accepted": [
+            "Imam ribu i kupus."
+          ]
+        },
+        {
+          "prompt": "Курятина смачна.",
+          "accepted": [
+            "Piletina je ukusna."
+          ]
+        },
+        {
+          "prompt": "Ковбаса гостра.",
+          "accepted": [
+            "Kobasica je ljuta."
+          ]
+        },
+        {
+          "prompt": "Додайте сіль і цукор.",
+          "accepted": [
+            "Dodajte sol i šećer."
+          ]
+        },
+        {
+          "prompt": "Маю щось смачне.",
+          "accepted": [
+            "Imam nešto ukusno."
+          ]
+        },
+        {
+          "prompt": "Чай солодкий.",
+          "accepted": [
+            "Čaj je sladak."
+          ]
+        },
+        {
+          "prompt": "Суп солоний.",
+          "accepted": [
+            "Juha je slana."
+          ]
+        },
+        {
+          "prompt": "Наріжте огірок і часник.",
+          "accepted": [
+            "Narežite krastavac i češnjak."
+          ]
+        },
+        {
+          "prompt": "Смажу рибу.",
+          "accepted": [
+            "Pržim ribu."
+          ]
+        },
+        {
+          "prompt": "Риба запечена.",
+          "accepted": [
+            "Riba je pečena."
+          ]
+        },
+        {
+          "prompt": "М'ясо варене.",
+          "accepted": [
+            "Meso je kuhano."
+          ]
+        },
+        {
+          "prompt": "Ложка і виделка на полиці.",
+          "accepted": [
+            "Žlica i vilica su na polici."
+          ]
+        },
+        {
+          "prompt": "Чашка на тарілці.",
+          "accepted": [
+            "Šalica je na tanjuru."
+          ]
+        },
+        {
+          "prompt": "Варю суп у каструлі.",
+          "accepted": [
+            "Kuham juhu u loncu."
+          ]
+        },
+        {
+          "prompt": "Хтось тут.",
+          "accepted": [
+            "Netko je ovdje."
+          ]
+        },
+        {
+          "prompt": "Ніхто не працює.",
+          "accepted": [
+            "Nitko ne radi."
+          ]
+        },
+        {
+          "prompt": "Нічого не їм.",
+          "accepted": [
+            "Ništa ne jedem."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "ribu",
+        "piletina",
+        "sol",
+        "šećer",
+        "čaj",
+        "tanjuru",
+        "loncu",
+        "netko",
+        "nešto",
+        "nitko",
+        "ništa",
+        "nikoga",
+        "nikome",
+        "slana",
+        "sladak",
+        "ljuta"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Imam ___ i kupus.",
+          "hint": "Маю рибу і капусту.",
+          "accepted": [
+            [
+              "ribu"
+            ]
+          ]
+        },
+        {
+          "text": "___ je ukusna.",
+          "hint": "Курятина смачна.",
+          "accepted": [
+            [
+              "Piletina"
+            ]
+          ]
+        },
+        {
+          "text": "Dodajte ___ i šećer.",
+          "hint": "Додайте сіль і цукор.",
+          "accepted": [
+            [
+              "sol"
+            ]
+          ]
+        },
+        {
+          "text": "Dodajte sol i ___.",
+          "hint": "Додайте сіль і цукор.",
+          "accepted": [
+            [
+              "šećer"
+            ]
+          ]
+        },
+        {
+          "text": "___ je sladak.",
+          "hint": "Чай солодкий.",
+          "accepted": [
+            [
+              "Čaj"
+            ]
+          ]
+        },
+        {
+          "text": "Šalica je na ___.",
+          "hint": "Чашка на тарілці.",
+          "accepted": [
+            [
+              "tanjuru"
+            ]
+          ]
+        },
+        {
+          "text": "Kuham juhu u ___.",
+          "hint": "Варю суп у каструлі.",
+          "accepted": [
+            [
+              "loncu"
+            ]
+          ]
+        },
+        {
+          "text": "___ je ovdje.",
+          "hint": "Хтось тут.",
+          "accepted": [
+            [
+              "Netko"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ ukusno.",
+          "hint": "Маю щось смачне.",
+          "accepted": [
+            [
+              "nešto"
+            ]
+          ]
+        },
+        {
+          "text": "___ ne radi.",
+          "hint": "Ніхто не працює.",
+          "accepted": [
+            [
+              "Nitko"
+            ]
+          ]
+        },
+        {
+          "text": "___ ne jedem.",
+          "hint": "Нічого не їм.",
+          "accepted": [
+            [
+              "Ništa"
+            ]
+          ]
+        },
+        {
+          "text": "Ne vidim ___.",
+          "hint": "Не бачу нікого.",
+          "accepted": [
+            [
+              "nikoga"
+            ]
+          ]
+        },
+        {
+          "text": "Ne pomažem ___.",
+          "hint": "Нікому не допомагаю.",
+          "accepted": [
+            [
+              "nikome"
+            ]
+          ]
+        },
+        {
+          "text": "Juha je ___.",
+          "hint": "Суп солоний.",
+          "accepted": [
+            [
+              "slana"
+            ]
+          ]
+        },
+        {
+          "text": "Čaj je ___.",
+          "hint": "Чай солодкий.",
+          "accepted": [
+            [
+              "sladak"
+            ]
+          ]
+        },
+        {
+          "text": "Kobasica je ___.",
+          "hint": "Ковбаса гостра.",
+          "accepted": [
+            [
+              "ljuta"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Netko radi.",
+          "cue": "-> Nitko ...",
+          "accepted": [
+            "Nitko ne radi."
+          ]
+        },
+        {
+          "prompt": "Jedem nešto.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ne jedem ništa."
+          ]
+        },
+        {
+          "prompt": "Vidim nekoga.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ne vidim nikoga."
+          ]
+        },
+        {
+          "prompt": "Pomažem nekome.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ne pomažem nikome."
+          ]
+        },
+        {
+          "prompt": "Narežem češnjak.",
+          "cue": "-> наказ на ви",
+          "accepted": [
+            "Narežite češnjak."
+          ]
+        },
+        {
+          "prompt": "Dodajem sol.",
+          "cue": "-> наказ на ви",
+          "accepted": [
+            "Dodajte sol."
+          ]
+        },
+        {
+          "prompt": "Ispečem ribu.",
+          "cue": "-> наказ на ви",
+          "accepted": [
+            "Ispecite ribu."
+          ]
+        },
+        {
+          "prompt": "Pržim ribu.",
+          "cue": "-> наказ на ви",
+          "accepted": [
+            "Pržite ribu."
+          ]
+        },
+        {
+          "prompt": "Pečem ribu.",
+          "cue": "-> Riba je ...",
+          "accepted": [
+            "Riba je pečena."
+          ]
+        },
+        {
+          "prompt": "Kuham meso.",
+          "cue": "-> Meso je ...",
+          "accepted": [
+            "Meso je kuhano."
+          ]
+        },
+        {
+          "prompt": "Pržim piletinu.",
+          "cue": "-> Piletina je ...",
+          "accepted": [
+            "Piletina je pržena."
+          ]
+        },
+        {
+          "prompt": "Nitko radi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nitko ne radi."
+          ]
+        },
+        {
+          "prompt": "Ne jedem nešto.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ne jedem ništa."
+          ]
+        },
+        {
+          "prompt": "Ne vidim nekoga.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ne vidim nikoga."
+          ]
+        },
+        {
+          "prompt": "Riba je pečen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Riba je pečena."
+          ]
+        },
+        {
+          "prompt": "Juha je slan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Juha je slana."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ ribu.",
+          "cue": "peći",
+          "accepted": [
+            "pečem"
+          ]
+        },
+        {
+          "text": "Ti ___ ribu.",
+          "cue": "peći",
+          "accepted": [
+            "pečeš"
+          ]
+        },
+        {
+          "text": "Majka ___ ribu.",
+          "cue": "peći",
+          "accepted": [
+            "peče"
+          ]
+        },
+        {
+          "text": "Ja ___ piletinu.",
+          "cue": "pržiti",
+          "accepted": [
+            "pržim"
+          ]
+        },
+        {
+          "text": "Ti ___ piletinu.",
+          "cue": "pržiti",
+          "accepted": [
+            "pržiš"
+          ]
+        },
+        {
+          "text": "Majka ___ piletinu.",
+          "cue": "pržiti",
+          "accepted": [
+            "prži"
+          ]
+        },
+        {
+          "text": "Ja ___ češnjak.",
+          "cue": "rezati",
+          "accepted": [
+            "režem"
+          ]
+        },
+        {
+          "text": "Majka ___ luk.",
+          "cue": "rezati",
+          "accepted": [
+            "reže"
+          ]
+        },
+        {
+          "text": "Ja ___ sol.",
+          "cue": "dodavati",
+          "accepted": [
+            "dodajem"
+          ]
+        },
+        {
+          "text": "Vi ___ šećer.",
+          "cue": "dodavati",
+          "accepted": [
+            "dodajete"
+          ]
+        },
+        {
+          "text": "Ja ___ češnjak.",
+          "cue": "narezati",
+          "accepted": [
+            "narežem"
+          ]
+        },
+        {
+          "text": "Ja ___ ribu.",
+          "cue": "ispeći",
+          "accepted": [
+            "ispečem"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "риба",
+          "answer": "riba"
+        },
+        {
+          "prompt": "ковбаса",
+          "answer": "kobasica"
+        },
+        {
+          "prompt": "вершкове масло",
+          "answer": "maslac"
+        },
+        {
+          "prompt": "олія",
+          "answer": "ulje"
+        },
+        {
+          "prompt": "сіль",
+          "answer": "sol"
+        },
+        {
+          "prompt": "цукор",
+          "answer": "šećer"
+        },
+        {
+          "prompt": "борошно",
+          "answer": "brašno"
+        },
+        {
+          "prompt": "чай",
+          "answer": "čaj"
+        },
+        {
+          "prompt": "макарони",
+          "answer": "tjestenina"
+        },
+        {
+          "prompt": "капуста",
+          "answer": "kupus"
+        },
+        {
+          "prompt": "огірок",
+          "answer": "krastavac"
+        },
+        {
+          "prompt": "часник",
+          "answer": "češnjak"
+        },
+        {
+          "prompt": "тарілка",
+          "answer": "tanjur"
+        },
+        {
+          "prompt": "ложка",
+          "answer": "žlica"
+        },
+        {
+          "prompt": "виделка",
+          "answer": "vilica"
+        },
+        {
+          "prompt": "ніж",
+          "answer": "nož"
+        },
+        {
+          "prompt": "чашка",
+          "answer": "šalica"
+        },
+        {
+          "prompt": "каструля",
+          "answer": "lonac"
+        }
+      ],
+      "extra": [
+        "voda",
+        "kruh"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1229 @@
+{
+  "id": "hr-les-31",
+  "lang": "hr",
+  "order": 31,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-e34d22d9",
+      "type": "noun",
+      "lemma": "predmet",
+      "gender": "m.",
+      "gen_sg": "predmeta",
+      "plural": [
+        "predmeti"
+      ],
+      "ua": "шкільний предмет; предмет",
+      "audio": "hr-predmet.mp3",
+      "explain_ua": "(Koji je tvoj predmet? = який твій предмет?). Чоловічого роду: predmet, predmeta, predmeti. Українське предмет: слово те саме, але у школі це «навчальний предмет».",
+      "check": "Форми predmeta, predmeti з мого знання."
+    },
+    {
+      "id": "hr-95ce1fd2",
+      "type": "noun",
+      "lemma": "razrednik",
+      "gender": "m.",
+      "gen_sg": "razrednika",
+      "plural": [
+        "razrednici"
+      ],
+      "ua": "класний керівник",
+      "audio": "hr-razrednik.mp3",
+      "forms": [
+        "učiteljice"
+      ],
+      "explain_ua": "(Razrednik je ovdje = класний керівник тут). Чоловічого роду, живе: razrednik, razrednika, razrednici (k > c). Жіноча форма razrednica. У цій ноті також кличний учителька: učiteljice (Dobar dan, učiteljice!), як у Lekcije 1.",
+      "check": "Форми з мого знання за зразком putnik; кличний učiteljice за зразком Marijo / liječniče."
+    },
+    {
+      "id": "hr-df0e60c4",
+      "type": "noun",
+      "lemma": "ravnatelj",
+      "gender": "m.",
+      "gen_sg": "ravnatelja",
+      "plural": [
+        "ravnatelji"
+      ],
+      "ua": "директор школи",
+      "audio": "hr-ravnatelj.mp3",
+      "explain_ua": "(Ravnatelj je u uredu = директор у кабінеті). Чоловічого роду: ravnatelj, ravnatelja, ravnatelji. Не плутай з direktor (Lekcija 26: директор фірми): у школі ravnatelj.",
+      "check": "Форми ravnatelja, ravnatelji з мого знання."
+    },
+    {
+      "id": "hr-8c806364",
+      "type": "noun",
+      "lemma": "test",
+      "gender": "m.",
+      "gen_sg": "testa",
+      "plural": [
+        "testovi"
+      ],
+      "ua": "контрольна, тест",
+      "audio": "hr-test.mp3",
+      "forms": [
+        "testu"
+      ],
+      "explain_ua": "(Test je težak = контрольна важка; razrednik govori o testu). Чоловічого роду з -ov-: test, testa, o testu, testovi.",
+      "check": "Форми testa, testovi, testu з мого знання."
+    },
+    {
+      "id": "hr-3a080b2b",
+      "type": "noun",
+      "lemma": "zadatak",
+      "gender": "m.",
+      "gen_sg": "zadatka",
+      "plural": [
+        "zadaci"
+      ],
+      "ua": "завдання",
+      "audio": "hr-zadatak.mp3",
+      "explain_ua": "(Zadatak je važan = завдання важливе). Нестійке a: zadatak, zadatka, zadaci (tk > c). Не плутай з zadaća (домашнє завдання, Lekcija 8).",
+      "check": "Форми zadatka, zadaci за правилом нестійкого a; множина zadaci з мого знання."
+    },
+    {
+      "id": "hr-bab48587",
+      "type": "noun",
+      "lemma": "pitanje",
+      "gender": "s.",
+      "gen_sg": "pitanja",
+      "plural": [
+        "pitanja"
+      ],
+      "ua": "питання",
+      "audio": "hr-pitanje.mp3",
+      "explain_ua": "(Imam pitanje = маю питання). Середній рід на -e: pitanje, pitanja. Корінь pitati (Lekcija 13).",
+      "check": "Форми pitanja з мого знання.",
+      "forms": [
+        "pitala"
+      ]
+    },
+    {
+      "id": "hr-235ea348",
+      "type": "noun",
+      "lemma": "odgovor",
+      "gender": "m.",
+      "gen_sg": "odgovora",
+      "plural": [
+        "odgovori"
+      ],
+      "ua": "відповідь",
+      "audio": "hr-odgovor.mp3",
+      "explain_ua": "(Odgovor je dobar = відповідь добра). Чоловічого роду: odgovor, odgovora, odgovori. Дієслово odgovarati (відповідати).",
+      "check": "Форми odgovora, odgovori з мого знання."
+    },
+    {
+      "id": "hr-c74184c3",
+      "type": "noun",
+      "lemma": "izostanak",
+      "gender": "m.",
+      "gen_sg": "izostanka",
+      "plural": [
+        "izostanci"
+      ],
+      "ua": "пропуск (уроку)",
+      "audio": "hr-izostanak.mp3",
+      "forms": [
+        "izostanku"
+      ],
+      "explain_ua": "(Imam pitanje o izostanku = маю питання про пропуск). Нестійке a: izostanak, izostanka, o izostanku, izostanci. Це слово ти бачиш в електронному щоденнику.",
+      "check": "Форми izostanka, izostanci, izostanku за правилом нестійкого a."
+    },
+    {
+      "id": "hr-b9779766",
+      "type": "noun",
+      "lemma": "raspored",
+      "gender": "m.",
+      "gen_sg": "rasporeda",
+      "plural": [
+        "rasporedi"
+      ],
+      "ua": "розклад (уроків)",
+      "audio": "hr-raspored.mp3",
+      "explain_ua": "(Raspored je na zidu = розклад на стіні). Чоловічого роду: raspored, rasporeda, rasporedi.",
+      "check": "Форми rasporeda, rasporedi з мого знання."
+    },
+    {
+      "id": "hr-b09cb907",
+      "type": "noun",
+      "lemma": "torba",
+      "gender": "ž.",
+      "gen_sg": "torbe",
+      "plural": [
+        "torbe"
+      ],
+      "ua": "сумка, ранець",
+      "audio": "hr-torba.mp3",
+      "explain_ua": "(Torba je u učionici = сумка в класі). Жіночий рід на -a: torba, torbe.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-fb240c6f",
+      "type": "noun",
+      "lemma": "udžbenik",
+      "gender": "m.",
+      "gen_sg": "udžbenika",
+      "plural": [
+        "udžbenici"
+      ],
+      "ua": "підручник",
+      "audio": "hr-udzbenik.mp3",
+      "explain_ua": "(Udžbenik je na polici = підручник на полиці). Чоловічого роду, k > c: udžbenik, udžbenika, udžbenici. Пиши džb.",
+      "check": "Форми udžbenika, udžbenici з мого знання."
+    },
+    {
+      "id": "hr-71bd3d42",
+      "type": "noun",
+      "lemma": "tečaj",
+      "gender": "m.",
+      "gen_sg": "tečaja",
+      "plural": [
+        "tečajevi"
+      ],
+      "ua": "курс (мовний)",
+      "audio": "hr-tecaj.mp3",
+      "explain_ua": "(Imam tečaj u ponedjeljak = маю курс у понеділок). Чоловічого роду: tečaj, tečaja, tečajevi. Мовний курс це tečaj, не kurs.",
+      "check": "Форми tečaja, tečajevi з мого знання."
+    },
+    {
+      "id": "hr-2d88240b",
+      "type": "noun",
+      "lemma": "fakultet",
+      "gender": "m.",
+      "gen_sg": "fakulteta",
+      "plural": [
+        "fakulteti"
+      ],
+      "ua": "факультет, вища школа",
+      "audio": "hr-fakultet.mp3",
+      "explain_ua": "(Fakultet je blizu = факультет поблизу). Чоловічого роду: fakultet, fakulteta, fakulteti. Українське факультет: те саме слово.",
+      "check": "Форми fakulteta, fakulteti з мого знання."
+    },
+    {
+      "id": "hr-6ffb41f9",
+      "type": "noun",
+      "lemma": "diploma",
+      "gender": "ž.",
+      "gen_sg": "diplome",
+      "plural": [
+        "diplome"
+      ],
+      "ua": "диплом",
+      "audio": "hr-diploma.mp3",
+      "explain_ua": "(Diploma je u ormaru = диплом у шафі). Жіночий рід на -a: diploma, diplome. Українське диплом, чоловічий: рід інший.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-2d356d53",
+      "type": "verb",
+      "lemma": "govoriti",
+      "aspect": "impf.",
+      "partner": "reći",
+      "pres_1sg": "govorim",
+      "forms": [
+        "govoriš",
+        "govori",
+        "govorimo",
+        "govorite",
+        "govore",
+        "reći",
+        "rekao",
+        "rekla",
+        "rekli"
+      ],
+      "ua": "говорити, розповідати (док. reći)",
+      "audio": "hr-govoriti.mp3",
+      "explain_ua": "(Učiteljica govori da je test težak = вчителька каже, що тест важкий). Пара: govoriti (недок.) / reći (док.). Минулий: rekao, rekla, rekli (Ivan je rekao, Marija je rekla). Теперішній час від reći вживається рідко, у розмові кажуть govoriti або kazati.",
+      "check": "Пару govoriti / reći і форми rekao / rekla / rekli з мого знання; що теперішній reći рідкісний, перевірити в словнику."
+    },
+    {
+      "id": "hr-d3409a2c",
+      "type": "verb",
+      "lemma": "objašnjavati",
+      "aspect": "impf.",
+      "partner": "objasniti",
+      "pres_1sg": "objašnjavam",
+      "forms": [
+        "objašnjavaš",
+        "objašnjava",
+        "objašnjavamo",
+        "objašnjavate",
+        "objašnjavaju",
+        "objasniti",
+        "objasnim",
+        "objašnjavam"
+      ],
+      "ua": "пояснювати (док. objasniti)",
+      "audio": "hr-objasnjavati.mp3",
+      "explain_ua": "(Objašnjavam zadatak = пояснюю завдання). Пара: objašnjavati (недок.) / objasniti (док.). Зверни увагу: у objasniti немає šnj, лише s.",
+      "check": "Пару objašnjavati / objasniti і форми з мого знання."
+    },
+    {
+      "id": "hr-5d06c6bc",
+      "type": "verb",
+      "lemma": "ponavljati",
+      "aspect": "impf.",
+      "partner": "ponoviti",
+      "pres_1sg": "ponavljam",
+      "forms": [
+        "ponavljaš",
+        "ponavlja",
+        "ponavljamo",
+        "ponavljate",
+        "ponavljaju",
+        "ponoviti",
+        "ponovim",
+        "ponavljam"
+      ],
+      "ua": "повторювати (док. ponoviti)",
+      "audio": "hr-ponavljati.mp3",
+      "explain_ua": "(Ponavljam zadatak = повторюю завдання). Пара: ponavljati (недок.) / ponoviti (док.). Пиши lj.",
+      "check": "Пару ponavljati / ponoviti і форми з мого знання."
+    },
+    {
+      "id": "hr-0f1ff060",
+      "type": "verb",
+      "lemma": "odgovarati",
+      "aspect": "impf.",
+      "partner": "odgovoriti",
+      "pres_1sg": "odgovaram",
+      "forms": [
+        "odgovaraš",
+        "odgovara",
+        "odgovaramo",
+        "odgovarate",
+        "odgovaraju",
+        "odgovoriti",
+        "odgovorim"
+      ],
+      "ua": "відповідати (док. odgovoriti)",
+      "audio": "hr-odgovarati.mp3",
+      "explain_ua": "(Učenik odgovara na pitanje = учень відповідає на питання). Пара: odgovarati (недок.) / odgovoriti (док.). Після нього na + знахідний: odgovarati na pitanje.",
+      "check": "Пару odgovarati / odgovoriti і na + знахідний з мого знання."
+    },
+    {
+      "id": "hr-992851be",
+      "type": "verb",
+      "lemma": "polagati",
+      "aspect": "impf.",
+      "partner": "položiti",
+      "pres_1sg": "polažem",
+      "forms": [
+        "polažeš",
+        "polaže",
+        "polažemo",
+        "polažete",
+        "polažu",
+        "položiti",
+        "položim"
+      ],
+      "ua": "складати (іспит) (док. položiti)",
+      "audio": "hr-polagati.mp3",
+      "explain_ua": "(Ivan polaže ispit = Іван складає іспит). Пара: polagati (недок.) / položiti (док.): položiti ispit = склав іспит. Українське складати: слово інше. Не плутай polagati з «покласти».",
+      "check": "Пару polagati / položiti і форми з мого знання."
+    },
+    {
+      "id": "hr-732b7cd3",
+      "type": "adjective",
+      "lemma": "težak",
+      "fem": "teška",
+      "neut": "teško",
+      "ua": "важкий, складний",
+      "audio": "hr-tezak.mp3",
+      "forms": [
+        "teška"
+      ],
+      "explain_ua": "(Test je težak = тест складний). Нестійке a: težak, teška, teško (ž стає š). Означає «важкий» і «складний».",
+      "check": "Форми з мого знання за зразком bolestan / sladak."
+    },
+    {
+      "id": "hr-2a1a4e2a",
+      "type": "adjective",
+      "lemma": "važan",
+      "fem": "važna",
+      "neut": "važno",
+      "ua": "важливий",
+      "audio": "hr-vazan.mp3",
+      "explain_ua": "(Zadatak je važan = завдання важливе). Нестійке a: važan, važna, važno. Українське важливий: корінь той самий.",
+      "check": "Форми з мого знання.",
+      "forms": [
+        "važna"
+      ]
+    },
+    {
+      "id": "hr-cddada3b",
+      "type": "adjective",
+      "lemma": "roditeljski",
+      "fem": "roditeljska",
+      "neut": "roditeljsko",
+      "ua": "батьківський",
+      "audio": "hr-roditeljski.mp3",
+      "explain_ua": "(roditeljski sastanak = батьківські збори). Прикметник від roditelj (Lekcija 16): roditeljski, roditeljska, roditeljsko.",
+      "check": "Форми з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Непряма мова: Učiteljica govori da...",
+      "summary_ua": "Непряма мова з da: Učiteljica govori da je test težak. Час такий самий, як у прямій мові: Test je težak > govori da je test težak; Test je težak > rekla je da je test težak. Українська і російська роблять так само, тож це безкоштовний виграш, на відміну від англійської.",
+      "compare": [
+        {
+          "form": "govori / je rekla + da + речення",
+          "when_ua": "Час той самий, що в прямій мові.",
+          "examples": [
+            {
+              "text": "Učiteljica govori da je test težak.",
+              "ua": "Вчителька каже, що тест важкий.",
+              "audio": "hr-les31-rule-01.mp3"
+            },
+            {
+              "text": "Učiteljica je rekla da je zadatak važan.",
+              "ua": "Вчителька сказала, що завдання важливе.",
+              "audio": "hr-les31-rule-02.mp3"
+            },
+            {
+              "text": "Ivan je rekao da radi zadaću.",
+              "ua": "Іван сказав, що робить домашнє.",
+              "audio": "hr-les31-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: сказав, що працює = rekao je da radi."
+        },
+        {
+          "form": "питання й прохання в непрямій мові",
+          "when_ua": "Питання: Pitala me je radim li zadaću. Прохання: da + теперішній (Lekcija 21).",
+          "examples": [
+            {
+              "text": "Pitala me je radim li zadaću.",
+              "ua": "Вона спитала мене, чи роблю я домашнє.",
+              "audio": "hr-les31-rule-04.mp3"
+            },
+            {
+              "text": "Rekla mi je da ponavljam zadatak.",
+              "ua": "Вона сказала мені, щоб я повторювала завдання.",
+              "audio": "hr-les31-rule-05.mp3"
+            },
+            {
+              "text": "Rekla sam mu da je test težak.",
+              "ua": "Я сказала йому, що тест важкий.",
+              "audio": "hr-les31-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Пастка: українське «щоб + минулий» (щоб повторювала), а після da теперішній: da ponavljam. Питання «чи» це li: radim li."
+        }
+      ],
+      "points_ua": [
+        "Час як у прямій мові: govori da je, rekla je da je.",
+        "Прохання: da + теперішній (da ponavljam).",
+        "Питання: li на другому місці (radim li)."
+      ]
+    },
+    {
+      "title_ua": "Порядок клітиків: що я підтверджую",
+      "summary_ua": "Клітики стоять разом на другому місці у фіксованому порядку: li, потім допоміжне (sam, si, smo, ste, su, bih, ću...), потім давальний (mi, mu, joj...), потім знахідний (me, te, ga...), потім se, і в самому кінці je (3 особа). Rekla mi je (давальний + je). Rekla sam mu (sam + давальний). Pitala me je (знахідний + je). Javila sam se (sam + se). Ні українська, ні російська не мають такого жорсткого порядку: тут нічого не переноситься.",
+      "compare": [
+        {
+          "form": "допоміжне + давальний / давальний + je",
+          "when_ua": "sam mu, mi je, me je.",
+          "examples": [
+            {
+              "text": "Rekla sam mu da je test težak.",
+              "ua": "Я сказала йому, що тест важкий.",
+              "audio": "hr-les31-rule-07.mp3"
+            },
+            {
+              "text": "Rekla mi je da ponavljam zadatak.",
+              "ua": "Вона сказала мені повторювати завдання.",
+              "audio": "hr-les31-rule-08.mp3"
+            },
+            {
+              "text": "Pitala me je radim li zadaću.",
+              "ua": "Вона спитала мене, чи роблю я домашнє.",
+              "audio": "hr-les31-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Je (3 особа) завжди найостанніший: mi je, me je, а не je mi."
+        },
+        {
+          "form": "se",
+          "when_ua": "sam se (1 особа); 3 особа без je: Učiteljica se javila.",
+          "examples": [
+            {
+              "text": "Javila sam se.",
+              "ua": "Я озвалася.",
+              "audio": "hr-les31-rule-10.mp3"
+            },
+            {
+              "text": "Učiteljica se javila.",
+              "ua": "Вчителька озвалася.",
+              "audio": "hr-les31-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Підручник (Gramatički pregled, сс. 316-318) показує sam se і 3 особу без je."
+        }
+      ],
+      "points_ua": [
+        "Порядок: li, sam/su/bih/ću, mi/mu/joj, me/te/ga, se, je.",
+        "Je завжди останнє: mi je, me je.",
+        "3 особа зворотного без je: Učiteljica se javila."
+      ]
+    },
+    {
+      "title_ua": "У школі: слова й типові фрази",
+      "summary_ua": "Батьківські збори: roditeljski sastanak. Розмова з вчителем: Dobar dan, učiteljice! Imam pitanje. Kako je moje dijete? Склав іспит: položiti ispit (не «покласти»). Пропуск: izostanak. Розклад: raspored. Оцінка вже є: ocjena (Lekcija 13).",
+      "compare": [
+        {
+          "form": "Imam pitanje. Kako je moje dijete?",
+          "when_ua": "Короткі фрази для розмови з вчителем.",
+          "examples": [
+            {
+              "text": "Imam pitanje.",
+              "ua": "Маю питання.",
+              "audio": "hr-les31-rule-12.mp3"
+            },
+            {
+              "text": "Kako je moje dijete?",
+              "ua": "Як моя дитина?",
+              "audio": "hr-les31-rule-13.mp3"
+            },
+            {
+              "text": "Ivan polaže ispit.",
+              "ua": "Іван складає іспит.",
+              "audio": "hr-les31-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Polagati ispit = складати іспит, položiti = скласти."
+        }
+      ],
+      "points_ua": [
+        "Imam pitanje. Kako je moje dijete?",
+        "Polagati ispit = складати, položiti = скласти."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Imam pitanje.",
+      "ua": "Маю питання.",
+      "audio": "hr-les31-example-01.mp3"
+    },
+    {
+      "text": "Razrednik je ovdje.",
+      "ua": "Класний керівник тут.",
+      "audio": "hr-les31-example-02.mp3"
+    },
+    {
+      "text": "Ravnatelj je u uredu.",
+      "ua": "Директор школи в кабінеті.",
+      "audio": "hr-les31-example-03.mp3"
+    },
+    {
+      "text": "Test je težak.",
+      "ua": "Тест складний.",
+      "audio": "hr-les31-example-04.mp3"
+    },
+    {
+      "text": "Imam tečaj u ponedjeljak.",
+      "ua": "Маю курс у понеділок.",
+      "audio": "hr-les31-example-05.mp3"
+    },
+    {
+      "text": "Fakultet je blizu.",
+      "ua": "Факультет поблизу.",
+      "audio": "hr-les31-example-06.mp3"
+    },
+    {
+      "text": "Diploma je u ormaru.",
+      "ua": "Диплом у шафі.",
+      "audio": "hr-les31-example-07.mp3"
+    },
+    {
+      "text": "Udžbenik je na polici.",
+      "ua": "Підручник на полиці.",
+      "audio": "hr-les31-example-08.mp3"
+    },
+    {
+      "text": "Torba je u učionici.",
+      "ua": "Сумка в класі.",
+      "audio": "hr-les31-example-09.mp3"
+    },
+    {
+      "text": "Učiteljica govori da je test težak.",
+      "ua": "Вчителька каже, що тест важкий.",
+      "audio": "hr-les31-example-10.mp3"
+    },
+    {
+      "text": "Učiteljica je rekla da je zadatak važan.",
+      "ua": "Вчителька сказала, що завдання важливе.",
+      "audio": "hr-les31-example-11.mp3"
+    },
+    {
+      "text": "Ivan je rekao da radi zadaću.",
+      "ua": "Іван сказав, що робить домашнє.",
+      "audio": "hr-les31-example-12.mp3"
+    },
+    {
+      "text": "Rekla mi je da ponavljam zadatak.",
+      "ua": "Вона сказала мені повторювати завдання.",
+      "audio": "hr-les31-example-13.mp3"
+    },
+    {
+      "text": "Rekla sam mu da je test težak.",
+      "ua": "Я сказала йому, що тест важкий.",
+      "audio": "hr-les31-example-14.mp3"
+    },
+    {
+      "text": "Pitala me je radim li zadaću.",
+      "ua": "Вона спитала мене, чи роблю я домашнє.",
+      "audio": "hr-les31-example-15.mp3"
+    },
+    {
+      "text": "Učenik odgovara na pitanje.",
+      "ua": "Учень відповідає на питання.",
+      "audio": "hr-les31-example-16.mp3"
+    },
+    {
+      "text": "Objašnjavam zadatak.",
+      "ua": "Пояснюю завдання.",
+      "audio": "hr-les31-example-17.mp3"
+    },
+    {
+      "text": "Ivan polaže ispit.",
+      "ua": "Іван складає іспит.",
+      "audio": "hr-les31-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Roditeljski sastanak",
+    "title_ua": "Батьківські збори",
+    "highlight": [
+      "hr-95ce1fd2",
+      "hr-8c806364",
+      "hr-3a080b2b",
+      "hr-bab48587",
+      "hr-c74184c3",
+      "hr-b9779766",
+      "hr-732b7cd3",
+      "hr-cddada3b"
+    ],
+    "sentences": [
+      {
+        "text": "Danas je roditeljski sastanak.",
+        "ua": "Сьогодні батьківські збори.",
+        "audio": "hr-les31-reading-01.mp3"
+      },
+      {
+        "text": "Dobar dan, učiteljice!",
+        "ua": "Добрий день, вчителько!",
+        "audio": "hr-les31-reading-02.mp3"
+      },
+      {
+        "text": "Razrednik govori o testu.",
+        "ua": "Класний керівник говорить про тест.",
+        "audio": "hr-les31-reading-03.mp3"
+      },
+      {
+        "text": "Raspored je na zidu.",
+        "ua": "Розклад на стіні.",
+        "audio": "hr-les31-reading-04.mp3"
+      },
+      {
+        "text": "Imam pitanje o izostanku.",
+        "ua": "Маю питання про пропуск.",
+        "audio": "hr-les31-reading-05.mp3"
+      },
+      {
+        "text": "Kako je moje dijete?",
+        "ua": "Як моя дитина?",
+        "audio": "hr-les31-reading-06.mp3"
+      },
+      {
+        "text": "Učiteljica govori da je dijete dobro.",
+        "ua": "Вчителька каже, що дитина добре.",
+        "audio": "hr-les31-reading-07.mp3"
+      },
+      {
+        "text": "Zadatak je težak, ali ocjena je dobra.",
+        "ua": "Завдання складне, але оцінка добра.",
+        "audio": "hr-les31-reading-08.mp3"
+      },
+      {
+        "text": "Rekla mi je da ponavljam zadatak.",
+        "ua": "Вона сказала мені повторювати завдання.",
+        "audio": "hr-les31-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Маю питання.",
+          "accepted": [
+            "Imam pitanje."
+          ]
+        },
+        {
+          "prompt": "Класний керівник тут.",
+          "accepted": [
+            "Razrednik je ovdje."
+          ]
+        },
+        {
+          "prompt": "Директор школи в кабінеті.",
+          "accepted": [
+            "Ravnatelj je u uredu."
+          ]
+        },
+        {
+          "prompt": "Тест складний.",
+          "accepted": [
+            "Test je težak."
+          ]
+        },
+        {
+          "prompt": "Маю курс у понеділок.",
+          "accepted": [
+            "Imam tečaj u ponedjeljak."
+          ]
+        },
+        {
+          "prompt": "Диплом у шафі.",
+          "accepted": [
+            "Diploma je u ormaru."
+          ]
+        },
+        {
+          "prompt": "Сумка в класі.",
+          "accepted": [
+            "Torba je u učionici."
+          ]
+        },
+        {
+          "prompt": "Вчителька каже, що тест важкий.",
+          "accepted": [
+            "Učiteljica govori da je test težak."
+          ]
+        },
+        {
+          "prompt": "Вчителька сказала, що завдання важливе.",
+          "accepted": [
+            "Učiteljica je rekla da je zadatak važan."
+          ]
+        },
+        {
+          "prompt": "Іван сказав, що робить домашнє.",
+          "accepted": [
+            "Ivan je rekao da radi zadaću."
+          ]
+        },
+        {
+          "prompt": "Вона сказала мені повторювати завдання.",
+          "accepted": [
+            "Rekla mi je da ponavljam zadatak."
+          ]
+        },
+        {
+          "prompt": "Я сказала йому, що тест важкий.",
+          "accepted": [
+            "Rekla sam mu da je test težak."
+          ]
+        },
+        {
+          "prompt": "Вона спитала мене, чи роблю я домашнє.",
+          "accepted": [
+            "Pitala me je radim li zadaću."
+          ]
+        },
+        {
+          "prompt": "Учень відповідає на питання.",
+          "accepted": [
+            "Učenik odgovara na pitanje."
+          ]
+        },
+        {
+          "prompt": "Іван складає іспит.",
+          "accepted": [
+            "Ivan polaže ispit."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "pitanje",
+        "razrednik",
+        "ravnatelj",
+        "test",
+        "zadatak",
+        "torba",
+        "udžbenik",
+        "raspored",
+        "govori",
+        "rekla",
+        "mi",
+        "mu",
+        "me",
+        "težak",
+        "važan",
+        "da"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Imam ___.",
+          "hint": "Маю питання.",
+          "accepted": [
+            [
+              "pitanje"
+            ]
+          ]
+        },
+        {
+          "text": "___ je ovdje.",
+          "hint": "Класний керівник тут.",
+          "accepted": [
+            [
+              "Razrednik"
+            ]
+          ]
+        },
+        {
+          "text": "___ je u uredu.",
+          "hint": "Директор школи в кабінеті.",
+          "accepted": [
+            [
+              "Ravnatelj"
+            ]
+          ]
+        },
+        {
+          "text": "___ je težak.",
+          "hint": "Тест складний.",
+          "accepted": [
+            [
+              "Test"
+            ]
+          ]
+        },
+        {
+          "text": "___ je važan.",
+          "hint": "Завдання важливе.",
+          "accepted": [
+            [
+              "Zadatak"
+            ]
+          ]
+        },
+        {
+          "text": "___ je u učionici.",
+          "hint": "Сумка в класі.",
+          "accepted": [
+            [
+              "Torba"
+            ]
+          ]
+        },
+        {
+          "text": "___ je na polici.",
+          "hint": "Підручник на полиці.",
+          "accepted": [
+            [
+              "Udžbenik"
+            ]
+          ]
+        },
+        {
+          "text": "___ je na zidu.",
+          "hint": "Розклад на стіні.",
+          "accepted": [
+            [
+              "Raspored"
+            ]
+          ]
+        },
+        {
+          "text": "Učiteljica ___ da je test težak.",
+          "hint": "Вчителька каже, що тест важкий.",
+          "accepted": [
+            [
+              "govori"
+            ]
+          ]
+        },
+        {
+          "text": "Učiteljica je ___ da je zadatak važan.",
+          "hint": "Вчителька сказала.",
+          "accepted": [
+            [
+              "rekla"
+            ]
+          ]
+        },
+        {
+          "text": "Rekla ___ je da radim zadaću.",
+          "hint": "Вона сказала мені.",
+          "accepted": [
+            [
+              "mi"
+            ]
+          ]
+        },
+        {
+          "text": "Rekla sam ___ da je test težak.",
+          "hint": "Я сказала йому.",
+          "accepted": [
+            [
+              "mu"
+            ]
+          ]
+        },
+        {
+          "text": "Pitala ___ je radim li zadaću.",
+          "hint": "Вона спитала мене.",
+          "accepted": [
+            [
+              "me"
+            ]
+          ]
+        },
+        {
+          "text": "Test je ___.",
+          "hint": "Тест складний.",
+          "accepted": [
+            [
+              "težak"
+            ]
+          ]
+        },
+        {
+          "text": "Zadatak je ___.",
+          "hint": "Завдання важливе.",
+          "accepted": [
+            [
+              "važan"
+            ]
+          ]
+        },
+        {
+          "text": "Učiteljica govori ___ je test težak.",
+          "hint": "що",
+          "accepted": [
+            [
+              "da"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Test je težak.",
+          "cue": "-> Učiteljica govori da ...",
+          "accepted": [
+            "Učiteljica govori da je test težak."
+          ]
+        },
+        {
+          "prompt": "Zadatak je važan.",
+          "cue": "-> Učiteljica je rekla da ...",
+          "accepted": [
+            "Učiteljica je rekla da je zadatak važan."
+          ]
+        },
+        {
+          "prompt": "Radim zadaću.",
+          "cue": "-> Ivan je rekao da ...",
+          "accepted": [
+            "Ivan je rekao da radi zadaću."
+          ]
+        },
+        {
+          "prompt": "Ponavljam zadatak.",
+          "cue": "-> Rekla mi je da ...",
+          "accepted": [
+            "Rekla mi je da ponavljam zadatak."
+          ]
+        },
+        {
+          "prompt": "Test je težak.",
+          "cue": "-> Rekla sam mu da ...",
+          "accepted": [
+            "Rekla sam mu da je test težak."
+          ]
+        },
+        {
+          "prompt": "Radim zadaću.",
+          "cue": "-> Pitala me je ... li",
+          "accepted": [
+            "Pitala me je radim li zadaću."
+          ]
+        },
+        {
+          "prompt": "Ivan polaže ispit.",
+          "cue": "-> Rekla mi je da ...",
+          "accepted": [
+            "Rekla mi je da Ivan polaže ispit."
+          ]
+        },
+        {
+          "prompt": "Rekla je mi da radim zadaću.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rekla mi je da radim zadaću."
+          ]
+        },
+        {
+          "prompt": "Rekla mu sam da je test težak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rekla sam mu da je test težak."
+          ]
+        },
+        {
+          "prompt": "Pitala je me radim li zadaću.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pitala me je radim li zadaću."
+          ]
+        },
+        {
+          "prompt": "Me je pitala radim li zadaću.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pitala me je radim li zadaću."
+          ]
+        },
+        {
+          "prompt": "Učiteljica je se javila.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Učiteljica se javila."
+          ]
+        },
+        {
+          "prompt": "Učiteljica govori da test je težak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Učiteljica govori da je test težak."
+          ]
+        },
+        {
+          "prompt": "Test je teška.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Test je težak."
+          ]
+        },
+        {
+          "prompt": "Zadatak je važna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zadatak je važan."
+          ]
+        },
+        {
+          "prompt": "Učenik odgovara pitanje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Učenik odgovara na pitanje."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Učiteljica ___ da je test težak.",
+          "cue": "govoriti",
+          "accepted": [
+            "govori"
+          ]
+        },
+        {
+          "text": "Ja ___ o testu.",
+          "cue": "govoriti",
+          "accepted": [
+            "govorim"
+          ]
+        },
+        {
+          "text": "Ivan je ___ da radi zadaću.",
+          "cue": "reći",
+          "accepted": [
+            "rekao"
+          ]
+        },
+        {
+          "text": "Marija je ___ da radi zadaću.",
+          "cue": "reći",
+          "accepted": [
+            "rekla"
+          ]
+        },
+        {
+          "text": "Oni su ___ da rade.",
+          "cue": "reći",
+          "accepted": [
+            "rekli"
+          ]
+        },
+        {
+          "text": "Ja ___ zadatak.",
+          "cue": "ponavljati",
+          "accepted": [
+            "ponavljam"
+          ]
+        },
+        {
+          "text": "Ti ___ zadatak.",
+          "cue": "ponavljati",
+          "accepted": [
+            "ponavljaš"
+          ]
+        },
+        {
+          "text": "Ja ___ zadatak.",
+          "cue": "objašnjavati",
+          "accepted": [
+            "objašnjavam"
+          ]
+        },
+        {
+          "text": "Mi ___ zadatak.",
+          "cue": "objašnjavati",
+          "accepted": [
+            "objašnjavamo"
+          ]
+        },
+        {
+          "text": "Ja ___ na pitanje.",
+          "cue": "odgovarati",
+          "accepted": [
+            "odgovaram"
+          ]
+        },
+        {
+          "text": "Ivan ___ ispit.",
+          "cue": "polagati",
+          "accepted": [
+            "polaže"
+          ]
+        },
+        {
+          "text": "Ja ___ ispit.",
+          "cue": "položiti",
+          "accepted": [
+            "položim"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "шкільний предмет",
+          "answer": "predmet"
+        },
+        {
+          "prompt": "класний керівник",
+          "answer": "razrednik"
+        },
+        {
+          "prompt": "директор школи",
+          "answer": "ravnatelj"
+        },
+        {
+          "prompt": "контрольна, тест",
+          "answer": "test"
+        },
+        {
+          "prompt": "завдання",
+          "answer": "zadatak"
+        },
+        {
+          "prompt": "питання",
+          "answer": "pitanje"
+        },
+        {
+          "prompt": "відповідь",
+          "answer": "odgovor"
+        },
+        {
+          "prompt": "пропуск уроку",
+          "answer": "izostanak"
+        },
+        {
+          "prompt": "розклад",
+          "answer": "raspored"
+        },
+        {
+          "prompt": "сумка, ранець",
+          "answer": "torba"
+        },
+        {
+          "prompt": "підручник",
+          "answer": "udžbenik"
+        },
+        {
+          "prompt": "мовний курс",
+          "answer": "tečaj"
+        },
+        {
+          "prompt": "факультет",
+          "answer": "fakultet"
+        },
+        {
+          "prompt": "диплом",
+          "answer": "diploma"
+        },
+        {
+          "prompt": "говорити",
+          "answer": "govoriti"
+        },
+        {
+          "prompt": "пояснювати",
+          "answer": "objašnjavati"
+        },
+        {
+          "prompt": "повторювати",
+          "answer": "ponavljati"
+        },
+        {
+          "prompt": "складати іспит",
+          "answer": "polagati"
+        }
+      ],
+      "extra": [
+        "učitelj",
+        "razred"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}
