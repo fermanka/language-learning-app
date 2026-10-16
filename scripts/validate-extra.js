@@ -8,25 +8,37 @@ const { validateExtra, sentencesOf } = require('../mockup/extra-practice.js');
 
 const dataDir = path.resolve(process.argv[2] || path.join(__dirname, '..', '..', 'language-app-data'));
 const extraDir = path.join(dataDir, 'extra');
-const lessonsDir = path.join(__dirname, '..', 'content', 'nl', 'lessons');
+const contentDir = path.join(__dirname, '..', 'content');
 let errors = 0;
 const fail = (m) => { errors++; console.error('ERROR ', m); };
 
 if (!fs.existsSync(extraDir)) { console.log(`No extra practice folder in ${dataDir}: nothing to check.`); process.exit(0); }
 
-const tokens = (s) => s.replace(/\*\*/g, '').toLowerCase().replace(/[.,!?()\/]/g, ' ').split(/\s+/).filter((t) => t && !/^_+$/.test(t) && t !== '-' && t !== '->');
-const lessons = fs.readdirSync(lessonsDir).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(fs.readFileSync(path.join(lessonsDir, f), 'utf8'))).sort((a, b) => a.order - b.order);
-// same rule as the content validator: lesson N may use the words of lessons 1..N
-const knownThrough = new Map();
-const known = new Set(['de', 'het']);
-for (const l of lessons) {
-  (l.service_words || []).forEach((w) => known.add(w.toLowerCase()));
-  for (const n of l.notes) {
-    tokens(n.lemma).forEach((t) => known.add(t));
-    (n.plural || []).forEach((p) => known.add(p));
-    for (const r of n.paradigm || []) { tokens(r.pronoun).forEach((t) => known.add(t)); tokens(r.form).forEach((t) => known.add(t)); }
+// Same tokenising rule as the content validator: a bare number is not vocabulary.
+const tokens = (s) => s.replace(/\*\*/g, '').toLowerCase().replace(/’/g, "'").replace(/[.,!?:;()\/]/g, ' ').split(/\s+/).filter((t) => t && !/^_+$/.test(t) && t !== '-' && t !== '->' && !/^\d+$/.test(t));
+// The vocabulary known up to each lesson of one language (lesson N may use the words of lessons 1..N), built from that language's own lessons.
+const vocabCache = {};
+function vocabFor(lang) {
+  if (vocabCache[lang]) return vocabCache[lang];
+  const lessonsDir = path.join(contentDir, lang, 'lessons');
+  const knownThrough = new Map();
+  vocabCache[lang] = knownThrough;
+  if (!fs.existsSync(lessonsDir)) return knownThrough;
+  const cfgFile = path.join(contentDir, lang, 'config.json');
+  const cfg = fs.existsSync(cfgFile) ? JSON.parse(fs.readFileSync(cfgFile, 'utf8')) : {};
+  const lessons = fs.readdirSync(lessonsDir).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(fs.readFileSync(path.join(lessonsDir, f), 'utf8'))).sort((a, b) => a.order - b.order);
+  const known = new Set((cfg.always_known || []).map((w) => w.toLowerCase()));
+  for (const l of lessons) {
+    (l.service_words || []).forEach((w) => known.add(w.toLowerCase()));
+    for (const n of l.notes) {
+      tokens(n.lemma).forEach((t) => known.add(t));
+      (Array.isArray(n.plural) ? n.plural : []).forEach((p) => known.add(p));
+      (n.forms || []).forEach((f) => tokens(f).forEach((t) => known.add(t)));
+      for (const r of n.paradigm || []) { tokens(r.pronoun).forEach((t) => known.add(t)); tokens(r.form).forEach((t) => known.add(t)); }
+    }
+    knownThrough.set(l.id, new Set(known));
   }
-  knownThrough.set(l.id, new Set(known));
+  return knownThrough;
 }
 
 let files = 0;
@@ -39,7 +51,7 @@ for (const lang of fs.readdirSync(extraDir)) {
     const lessonId = `${lang}-${file.replace(/\.json$/, '')}`;
     let data;
     try { data = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8')); } catch (e) { fail(`${where}: invalid JSON (${e.message})`); continue; }
-    const vocab = knownThrough.get(lessonId);
+    const vocab = vocabFor(lang).get(lessonId);
     if (!vocab) { fail(`${where}: there is no lesson "${lessonId}"`); continue; }
     const v = validateExtra(data, lessonId);
     v.errors.forEach((m) => fail(`${where}: ${m}`));

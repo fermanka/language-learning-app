@@ -26,11 +26,17 @@ module.exports = { needed, FIRST_EXTRA_LESSON };
 
 if (require.main === module) {
   const dataDir = path.resolve(process.argv[2] || path.join(__dirname, '..', '..', 'language-app-data'));
-  const lessonsDir = path.join(__dirname, '..', 'content', 'nl', 'lessons');
-  const lessons = fs.readdirSync(lessonsDir).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(fs.readFileSync(path.join(lessonsDir, f), 'utf8'))).sort((a, b) => a.order - b.order);
+  const contentDir = path.join(__dirname, '..', 'content');
   const { events } = readEvents(path.join(dataDir, 'progress'));
   const hasSet = (id) => { const m = /^([a-z]{2})-(les-\d+)$/.exec(id); return !!m && fs.existsSync(path.join(dataDir, 'extra', m[1], `${m[2]}.json`)); };
-  const list = needed(lessons, fold(events), hasSet);
-  if (!list.length) console.log('Extra practice: nothing to do (every lesson at 100% already has the set for the next lesson).');
-  for (const { done, next } of list) console.log(`Extra practice needed: Les ${done.order} is at 100%, no set yet for Les ${next.order} (${next.id}).`);
+  const state = fold(events);
+  let any = false;
+  for (const lang of fs.readdirSync(contentDir).sort()) {   // one pass per language that has lessons
+    const lessonsDir = path.join(contentDir, lang, 'lessons');
+    if (!fs.existsSync(lessonsDir)) continue;
+    const lessons = fs.readdirSync(lessonsDir).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(fs.readFileSync(path.join(lessonsDir, f), 'utf8'))).sort((a, b) => a.order - b.order);
+    const word = lang === 'nl' ? 'Les' : `${lang} Lekcija`;
+    for (const { done, next } of needed(lessons, state, hasSet)) { any = true; console.log(`Extra practice needed: ${word} ${done.order} is at 100%, no set yet for ${word} ${next.order} (${next.id}).`); }
+  }
+  if (!any) console.log('Extra practice: nothing to do (every lesson at 100% already has the set for the next lesson).');
 }

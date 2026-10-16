@@ -39,7 +39,7 @@ function fieldsOf(lesson, ex) {
   }
 }
 
-function buildDigest(events, lessons, bad = 0) {
+function buildDigest(events, lessons, bad = 0, langName = 'Dutch') {
   events = events.slice().sort((x, y) => (x.t < y.t ? -1 : x.t > y.t ? 1 : 0)); // never trust the caller's order
   const out = ['# Progress digest (for the teacher, read-only)', ''];
   const byId = new Map(lessons.map((l) => [l.id, l]));
@@ -109,7 +109,7 @@ function buildDigest(events, lessons, bad = 0) {
       for (const [id, n] of hard) {
         const [noteId, dir] = id.split(':');
         const note = notes.get(noteId);
-        out.push(`- ${note ? `${display(note)} (${note.ua})` : id} [${dir === 'nl-ua' ? 'Dutch -> meaning' : 'meaning -> Dutch'}]: Again ${n} of ${total.get(id)} reviews`);
+        out.push(`- ${note ? `${display(note)} (${note.ua})` : id} [${dir === 'nl-ua' ? langName + ' -> meaning' : 'meaning -> ' + langName}]: Again ${n} of ${total.get(id)} reviews`);
       }
     }
   }
@@ -125,9 +125,13 @@ module.exports = { buildDigest, readEvents, fieldsOf };
 
 if (require.main === module) {
   const progressDir = process.argv[2];
+  // The lessons folder picks the language (default Dutch); only that language's events are summarised: content/hr/lessons for Croatian.
   const lessonsDir = process.argv[3] || path.join(__dirname, '..', 'content', 'nl', 'lessons');
   if (!progressDir) { console.error('usage: node scripts/progress-digest.js <progress-folder> [<lessons-folder>]'); process.exit(2); }
   const lessons = fs.readdirSync(lessonsDir).filter((f) => f.endsWith('.json')).sort().map((f) => JSON.parse(fs.readFileSync(path.join(lessonsDir, f), 'utf8'))).sort((a, b) => a.order - b.order);
-  const { events, bad } = readEvents(progressDir);
-  process.stdout.write(buildDigest(events, lessons, bad));
+  const read = readEvents(progressDir);
+  const lang = lessons.length ? lessons[0].id.split('-')[0] : 'nl';
+  const events = read.events.filter((e) => String(e.lesson || e.card || '').startsWith(lang + '-'));
+  const names = { nl: 'Dutch', hr: 'Croatian' };
+  process.stdout.write(buildDigest(events, lessons, read.bad, names[lang] || lang));
 }

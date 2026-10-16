@@ -7,12 +7,13 @@ const { validateStory } = require('../mockup/story.js');
 
 const dataDir = path.resolve(process.argv[2] || path.join(__dirname, '..', '..', 'language-app-data'));
 const storiesDir = path.join(dataDir, 'stories');
-const lessonsDir = path.join(__dirname, '..', 'content', 'nl', 'lessons');
+const contentDir = path.join(__dirname, '..', 'content');
 let errors = 0;
 const fail = (m) => { errors++; console.error('ERROR ', m); };
 
 if (!fs.existsSync(storiesDir)) { console.log(`No stories folder in ${dataDir}: nothing to check.`); process.exit(0); }
-const lessonIds = new Set(fs.readdirSync(lessonsDir).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(fs.readFileSync(path.join(lessonsDir, f), 'utf8')).id));
+// the lessons of every language that has a lesson folder
+const lessonIds = new Set(fs.readdirSync(contentDir).flatMap((lg) => { const d = path.join(contentDir, lg, 'lessons'); return fs.existsSync(d) ? fs.readdirSync(d).filter((f) => f.endsWith('.json')).map((f) => JSON.parse(fs.readFileSync(path.join(d, f), 'utf8')).id) : []; }));
 
 let files = 0;
 for (const lang of fs.readdirSync(storiesDir)) {
