@@ -1,0 +1,1210 @@
+{
+  "id": "hr-les-26",
+  "lang": "hr",
+  "order": 26,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-8abea988",
+      "type": "noun",
+      "lemma": "zanimanje",
+      "gender": "s.",
+      "gen_sg": "zanimanja",
+      "plural": [
+        "zanimanja"
+      ],
+      "ua": "професія, заняття",
+      "audio": "hr-zanimanje.mp3",
+      "explain_ua": "(Moje zanimanje je kuhar = моя професія кухар). Середній рід на -e: zanimanje, zanimanja. Це «професія». Те саме слово може означати й «інтерес», але тут воно про професію.",
+      "check": "Форми zanimanja з мого знання за зразком more > mora."
+    },
+    {
+      "id": "hr-1bdbb567",
+      "type": "noun",
+      "lemma": "plaća",
+      "gender": "ž.",
+      "gen_sg": "plaće",
+      "plural": [
+        "plaće"
+      ],
+      "ua": "зарплата",
+      "audio": "hr-placa.mp3",
+      "explain_ua": "(Plaća je dobra = зарплата добра). Жіночий рід на -a: plaća, plaće. Корінь plaćati «платити» (Lekcija 22).",
+      "check": "Форми за зразком škola.",
+      "forms": [
+        "plaću"
+      ]
+    },
+    {
+      "id": "hr-53cffe06",
+      "type": "noun",
+      "lemma": "ugovor",
+      "gender": "m.",
+      "gen_sg": "ugovora",
+      "plural": [
+        "ugovori"
+      ],
+      "ua": "договір, контракт",
+      "audio": "hr-ugovor.mp3",
+      "explain_ua": "(Imam ugovor = маю договір). Чоловічого роду: ugovor, ugovora, ugovori. Українське договір, російське договор: корінь той самий, але префікс u-.",
+      "check": "Форми ugovora, ugovori з мого знання.",
+      "forms": [
+        "ugovora"
+      ]
+    },
+    {
+      "id": "hr-e77f06af",
+      "type": "noun",
+      "lemma": "otkaz",
+      "gender": "m.",
+      "gen_sg": "otkaza",
+      "plural": [
+        "otkazi"
+      ],
+      "ua": "звільнення; заява про звільнення",
+      "audio": "hr-otkaz.mp3",
+      "explain_ua": "(Otkaz je napisan = заява про звільнення написана). Чоловічого роду: otkaz, otkaza, otkazi. Це і звільнення від роботодавця, і заява від працівника.",
+      "check": "Форми otkaza, otkazi з мого знання."
+    },
+    {
+      "id": "hr-5d5aefad",
+      "type": "noun",
+      "lemma": "odmor",
+      "gender": "m.",
+      "gen_sg": "odmora",
+      "plural": [
+        "odmori"
+      ],
+      "ua": "відпустка; відпочинок",
+      "audio": "hr-odmor.mp3",
+      "explain_ua": "(Imam odmor u srpnju = маю відпустку в липні). Чоловічого роду: odmor, odmora. Це і «відпочинок», і «відпустка».",
+      "check": "Форми odmora, odmori з мого знання."
+    },
+    {
+      "id": "hr-cae64ab2",
+      "type": "noun",
+      "lemma": "smjena",
+      "gender": "ž.",
+      "gen_sg": "smjene",
+      "plural": [
+        "smjene"
+      ],
+      "ua": "зміна (робоча)",
+      "audio": "hr-smjena.mp3",
+      "forms": [
+        "smjeni"
+      ],
+      "explain_ua": "(Radim u smjeni = працюю в зміні). Жіночий рід на -a: smjena, smjene, u smjeni.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-e736f8a9",
+      "type": "noun",
+      "lemma": "inženjer",
+      "gender": "m.",
+      "gen_sg": "inženjera",
+      "plural": [
+        "inženjeri"
+      ],
+      "ua": "інженер",
+      "audio": "hr-inzenjer.mp3",
+      "explain_ua": "(Inženjer radi u uredu = інженер працює в офісі). Чоловічого роду, живе: inženjer, inženjera, inženjeri. Знахідний як родовий: vidim inženjera.",
+      "check": "Форми inženjera, inženjeri з мого знання."
+    },
+    {
+      "id": "hr-60c594cd",
+      "type": "noun",
+      "lemma": "vozač",
+      "gender": "m.",
+      "gen_sg": "vozača",
+      "plural": [
+        "vozači"
+      ],
+      "ua": "водій",
+      "audio": "hr-vozac.mp3",
+      "forms": [
+        "vozačica"
+      ],
+      "explain_ua": "(Žena je vozačica = жінка водійка). Чоловічого роду: vozač, vozača, vozači. Жіноча форма vozačica. Корінь voziti (Lekcija 19).",
+      "check": "Форми vozača, vozači, vozačica з мого знання."
+    },
+    {
+      "id": "hr-89130036",
+      "type": "noun",
+      "lemma": "kuhar",
+      "gender": "m.",
+      "gen_sg": "kuhara",
+      "plural": [
+        "kuhari"
+      ],
+      "ua": "кухар",
+      "audio": "hr-kuhar.mp3",
+      "forms": [
+        "kuharica"
+      ],
+      "explain_ua": "(Kuhar radi ovdje = кухар працює тут). Чоловічого роду: kuhar, kuhara, kuhari. Жіноча форма kuharica. Корінь kuhati (Lekcija 10).",
+      "check": "Форми kuhara, kuhari, kuharica з мого знання."
+    },
+    {
+      "id": "hr-f7203e4c",
+      "type": "noun",
+      "lemma": "prodavač",
+      "gender": "m.",
+      "gen_sg": "prodavača",
+      "plural": [
+        "prodavači"
+      ],
+      "ua": "продавець",
+      "audio": "hr-prodavac.mp3",
+      "forms": [
+        "prodavačica"
+      ],
+      "explain_ua": "(Prodavač radi u dućanu = продавець працює в магазині). Чоловічого роду: prodavač, prodavača, prodavači. Жіноча форма prodavačica. Не плутай з prodavaonica (магазин, Lekcija 5).",
+      "check": "Форми prodavača, prodavači, prodavačica з мого знання."
+    },
+    {
+      "id": "hr-e665f0d1",
+      "type": "noun",
+      "lemma": "tajnica",
+      "gender": "ž.",
+      "gen_sg": "tajnice",
+      "plural": [
+        "tajnice"
+      ],
+      "ua": "секретарка",
+      "audio": "hr-tajnica.mp3",
+      "explain_ua": "(Tajnica radi ovdje = секретарка працює тут). Жіночий рід на -a. Корінь tajna «таємниця»: тут слово «той, хто знає таємниці офісу».",
+      "check": "Форми за зразком škola; пояснення кореня подаю як підказку для пам'яті, не як перевірену етимологію."
+    },
+    {
+      "id": "hr-1ddf3376",
+      "type": "noun",
+      "lemma": "odvjetnik",
+      "gender": "m.",
+      "gen_sg": "odvjetnika",
+      "plural": [
+        "odvjetnici"
+      ],
+      "ua": "адвокат",
+      "audio": "hr-odvjetnik.mp3",
+      "forms": [
+        "odvjetnica"
+      ],
+      "explain_ua": "(Čovjek je odvjetnik = чоловік адвокат). Чоловічого роду, k стає c: odvjetnik, odvjetnika, odvjetnici. Жіноча форма odvjetnica.",
+      "check": "Форми odvjetnika, odvjetnici, odvjetnica з мого знання за зразком putnik (підручник, с. 309)."
+    },
+    {
+      "id": "hr-ffd8bba8",
+      "type": "noun",
+      "lemma": "radnik",
+      "gender": "m.",
+      "gen_sg": "radnika",
+      "plural": [
+        "radnici"
+      ],
+      "ua": "працівник, робітник",
+      "audio": "hr-radnik.mp3",
+      "forms": [
+        "radnike",
+        "radnika"
+      ],
+      "explain_ua": "(Firma zapošljava radnike = фірма наймає працівників). Чоловічого роду, живе: radnik, radnika, radnici. Знахідний множини radnike. Корінь raditi.",
+      "check": "Форми radnika, radnici, radnike з мого знання."
+    },
+    {
+      "id": "hr-c7fce1ca",
+      "type": "noun",
+      "lemma": "direktor",
+      "gender": "m.",
+      "gen_sg": "direktora",
+      "plural": [
+        "direktori"
+      ],
+      "ua": "директор",
+      "audio": "hr-direktor.mp3",
+      "forms": [
+        "direktoru",
+        "direktora"
+      ],
+      "explain_ua": "(Moj šef je direktor = мій начальник директор). Чоловічого роду, живе: direktor, direktora, direktori, direktoru (давальний).",
+      "check": "Форми direktora, direktori, direktoru з мого знання."
+    },
+    {
+      "id": "hr-7b0ef9a1",
+      "type": "noun",
+      "lemma": "poslodavac",
+      "gender": "m.",
+      "gen_sg": "poslodavca",
+      "plural": [
+        "poslodavci"
+      ],
+      "ua": "роботодавець",
+      "audio": "hr-poslodavac.mp3",
+      "explain_ua": "(Moj poslodavac je ovdje = мій роботодавець тут). Нестійке a: poslodavac, poslodavca, poslodavci. Складене слово: posao + davati «той, хто дає роботу».",
+      "check": "Форми poslodavca, poslodavci за правилом нестійкого a; розбір posao + davati подаю як підказку для пам'яті."
+    },
+    {
+      "id": "hr-5964faae",
+      "type": "verb",
+      "lemma": "zarađivati",
+      "aspect": "impf.",
+      "partner": "zaraditi",
+      "pres_1sg": "zarađujem",
+      "forms": [
+        "zarađuješ",
+        "zarađuje",
+        "zarađujemo",
+        "zarađujete",
+        "zarađuju",
+        "zaraditi",
+        "zaradim",
+        "zarađujem"
+      ],
+      "ua": "заробляти (док. zaraditi)",
+      "audio": "hr-zaradivati.mp3",
+      "explain_ua": "(Zarađujem malo = заробляю мало). Пара: zarađivati (недок., zarađujem) / zaraditi (док., zaradim). Закінчення -ivati > -ujem, як kupovati > kupujem.",
+      "check": "Пару zarađivati / zaraditi з мого знання."
+    },
+    {
+      "id": "hr-382aaa82",
+      "type": "verb",
+      "lemma": "tražiti",
+      "aspect": "impf.",
+      "partner": "potražiti",
+      "pres_1sg": "tražim",
+      "forms": [
+        "tražiš",
+        "traži",
+        "tražimo",
+        "tražite",
+        "traže",
+        "potražiti",
+        "potražim",
+        "tražim"
+      ],
+      "ua": "шукати; вимагати (док. potražiti)",
+      "audio": "hr-traziti.mp3",
+      "explain_ua": "(Tražim posao = шукаю роботу). Пара: tražiti (недок., tražim) / potražiti (док., potražim). Тип -iti > -im, 3 особа множини traže.",
+      "check": "Пару tražiti / potražiti і форми з мого знання."
+    },
+    {
+      "id": "hr-39db65bb",
+      "type": "verb",
+      "lemma": "zapošljavati",
+      "aspect": "impf.",
+      "partner": "zaposliti",
+      "pres_1sg": "zapošljavam",
+      "forms": [
+        "zapošljava",
+        "zaposliti",
+        "zaposlim"
+      ],
+      "ua": "наймати на роботу (док. zaposliti)",
+      "audio": "hr-zaposljavati.mp3",
+      "explain_ua": "(Firma zapošljava radnike = фірма наймає працівників). Пара: zapošljavati (недок., zapošljavam) / zaposliti (док., zaposlim). Зворотно zaposliti se «влаштуватися на роботу».",
+      "check": "Пару zapošljavati / zaposliti і форми з мого знання."
+    },
+    {
+      "id": "hr-a930341a",
+      "type": "adjective",
+      "lemma": "slobodan",
+      "fem": "slobodna",
+      "neut": "slobodno",
+      "ua": "вільний",
+      "audio": "hr-slobodan.mp3",
+      "forms": [
+        "slobodna"
+      ],
+      "explain_ua": "(Sutra imam slobodan dan = завтра маю вільний день). Нестійке a: slobodan, slobodna, slobodno, як bolestan. Українське вільний: корінь інший (sloboda > свобода).",
+      "check": "Нестійке a як у bolestan (підручник, с. 311)."
+    },
+    {
+      "id": "hr-68b5e3ad",
+      "type": "adjective",
+      "lemma": "zaposlen",
+      "fem": "zaposlena",
+      "neut": "zaposleno",
+      "ua": "працевлаштований",
+      "audio": "hr-zaposlen.mp3",
+      "forms": [
+        "zaposlena"
+      ],
+      "explain_ua": "(Nisam zaposlena = я не працевлаштована). Страдальний дієприкметник від zaposliti, як popunjen (Lekcija 22): zaposlen, zaposlena.",
+      "check": "Форми з мого знання за шаблоном з Lekcije 22."
+    },
+    {
+      "id": "hr-5e8b2fe1",
+      "type": "function",
+      "lemma": "kojeg",
+      "ua": "форми koji: koja, koje, koju, kojeg, kojem, kojom",
+      "audio": "hr-kojeg.mp3",
+      "forms": [
+        "koja",
+        "koje",
+        "koju",
+        "kojega",
+        "kojem",
+        "kojemu",
+        "kojoj",
+        "kojom",
+        "kojim",
+        "kojih",
+        "kojima",
+        "čovjeka"
+      ],
+      "explain_ua": "(Čovjek kojeg vidim je odvjetnik). Koji змінюється як прикметник: koji (чол.), koja (жін.), koje (сер.); знахідний живого чоловічого kojeg; давальний kojem; орудний s kojim (чол.), s kojom (жін.).",
+      "check": "Форми з мого знання за таблицею прикметників (підручник, с. 311); koji в Lekcije 19 тільки в називному й знахідному жін."
+    },
+    {
+      "id": "hr-fe7ea3b1",
+      "type": "noun",
+      "lemma": "žena",
+      "gender": "ž.",
+      "gen_sg": "žene",
+      "plural": [
+        "žene"
+      ],
+      "ua": "жінка; дружина",
+      "audio": "hr-zena.mp3",
+      "explain_ua": "(Žena je vozačica = жінка водійка). Жіночий рід на -a, як majka: žena, žene, ženi, ženu. Означає і «жінка», і «дружина».",
+      "forms": [
+        "ženu"
+      ]
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Koji: який, яка, яке в називному",
+      "summary_ua": "Koji пов'язує дві частини: Ovo je moj šef koji radi u uredu. Рід і число koji беремо з іменника, на який воно вказує (šef > koji, kolegica > koja). Це точно як в українській: який, яка, яке. Перед koji кома.",
+      "compare": [
+        {
+          "form": "koji (чол.), koja (жін.), koje (сер.)",
+          "when_ua": "Koji підмет підрядного речення: šef koji radi; kolegica koja radi.",
+          "examples": [
+            {
+              "text": "Ovo je moj šef koji radi u uredu.",
+              "ua": "Це мій начальник, який працює в офісі.",
+              "audio": "hr-les26-rule-01.mp3"
+            },
+            {
+              "text": "Ovo je moja kolegica koja radi u uredu.",
+              "ua": "Це моя колежанка, яка працює в офісі.",
+              "audio": "hr-les26-rule-02.mp3"
+            },
+            {
+              "text": "Kuhar koji radi ovdje je vrlo dobar.",
+              "ua": "Кухар, який тут працює, дуже добрий.",
+              "audio": "hr-les26-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: який, яка, яке працюють так само."
+        }
+      ],
+      "points_ua": [
+        "Koji: рід і число від іменника перед ним.",
+        "Перед koji завжди кома.",
+        "Тут допомагає українська."
+      ]
+    },
+    {
+      "title_ua": "Koji в інших відмінках",
+      "summary_ua": "Рід і число koji беремо з іменника перед ним, а відмінок за роллю koji у підрядному реченні: чоловіка, якого я бачу: čovjek kojeg vidim (знахідний живого); директор, якому допомагаю: direktor kojem pomažem (давальний); учителька, з якою розмовляю: učiteljica s kojom razgovaram (орудний). Українське який і російське который працюють так само, тому тут допомагають обидві мови.",
+      "compare": [
+        {
+          "form": "kojeg / koju (знахідний)",
+          "when_ua": "Чоловічий живий kojeg, жіночий koju.",
+          "examples": [
+            {
+              "text": "Čovjek kojeg vidim je odvjetnik.",
+              "ua": "Чоловік, якого я бачу, адвокат.",
+              "audio": "hr-les26-rule-04.mp3"
+            },
+            {
+              "text": "Žena koju vidim je vozačica.",
+              "ua": "Жінка, яку я бачу, водійка.",
+              "audio": "hr-les26-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Знахідний живого чоловічого як родовий: kojeg, як у vidim čovjeka."
+        },
+        {
+          "form": "kojem / kojom (давальний, орудний)",
+          "when_ua": "Давальний чол. kojem; орудний жін. s kojom.",
+          "examples": [
+            {
+              "text": "Direktor kojem pomažem je u uredu.",
+              "ua": "Директор, якому допомагаю, в офісі.",
+              "audio": "hr-les26-rule-06.mp3"
+            },
+            {
+              "text": "Učiteljica s kojom razgovaram radi ovdje.",
+              "ua": "Учителька, з якою розмовляю, працює тут.",
+              "audio": "hr-les26-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Прийменник перед koji: s kojom, а не kojom s."
+        }
+      ],
+      "points_ua": [
+        "Відмінок koji = роль у підрядному реченні.",
+        "Рід і число = іменник, на який вказує.",
+        "Прийменник стоїть перед koji."
+      ]
+    },
+    {
+      "title_ua": "Професії: чоловіча і жіноча форма",
+      "summary_ua": "Багато професій мають пару: kuhar > kuharica, vozač > vozačica, prodavač > prodavačica, odvjetnik > odvjetnica. Для жінки природніша жіноча форма. Tajnica уже жіноча.",
+      "compare": [
+        {
+          "form": "-ica",
+          "when_ua": "Додаємо -ica до основи чоловічої форми.",
+          "examples": [
+            {
+              "text": "Žena je vozačica.",
+              "ua": "Жінка водійка.",
+              "audio": "hr-les26-rule-08.mp3"
+            },
+            {
+              "text": "Prodavač koji radi u dućanu je mlad.",
+              "ua": "Продавець, який працює в магазині, молодий.",
+              "audio": "hr-les26-rule-09.mp3"
+            },
+            {
+              "text": "Moje zanimanje je kuhar.",
+              "ua": "Моя професія кухар.",
+              "audio": "hr-les26-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Українське водійка, продавчиня: шаблон схожий, закінчення своє."
+        }
+      ],
+      "points_ua": [
+        "Чоловіча форма + -ica = жіноча.",
+        "Про жінку краще жіноча форма."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Moje zanimanje je kuhar.",
+      "ua": "Моя професія кухар.",
+      "audio": "hr-les26-example-01.mp3"
+    },
+    {
+      "text": "Moj šef je direktor.",
+      "ua": "Мій начальник директор.",
+      "audio": "hr-les26-example-02.mp3"
+    },
+    {
+      "text": "Plaća je dobra.",
+      "ua": "Зарплата добра.",
+      "audio": "hr-les26-example-03.mp3"
+    },
+    {
+      "text": "Imam ugovor.",
+      "ua": "Маю договір.",
+      "audio": "hr-les26-example-04.mp3"
+    },
+    {
+      "text": "Radim u smjeni.",
+      "ua": "Працюю в зміні.",
+      "audio": "hr-les26-example-05.mp3"
+    },
+    {
+      "text": "Imam odmor u srpnju.",
+      "ua": "Маю відпустку в липні.",
+      "audio": "hr-les26-example-06.mp3"
+    },
+    {
+      "text": "Tražim posao.",
+      "ua": "Шукаю роботу.",
+      "audio": "hr-les26-example-07.mp3"
+    },
+    {
+      "text": "Zarađujem malo.",
+      "ua": "Заробляю мало.",
+      "audio": "hr-les26-example-08.mp3"
+    },
+    {
+      "text": "Firma zapošljava radnike.",
+      "ua": "Фірма наймає працівників.",
+      "audio": "hr-les26-example-09.mp3"
+    },
+    {
+      "text": "Ovo je moj šef koji radi u uredu.",
+      "ua": "Це мій начальник, який працює в офісі.",
+      "audio": "hr-les26-example-10.mp3"
+    },
+    {
+      "text": "Ovo je moja kolegica koja radi u uredu.",
+      "ua": "Це моя колежанка, яка працює в офісі.",
+      "audio": "hr-les26-example-11.mp3"
+    },
+    {
+      "text": "Čovjek kojeg vidim je odvjetnik.",
+      "ua": "Чоловік, якого я бачу, адвокат.",
+      "audio": "hr-les26-example-12.mp3"
+    },
+    {
+      "text": "Učiteljica s kojom razgovaram radi ovdje.",
+      "ua": "Учителька, з якою розмовляю, працює тут.",
+      "audio": "hr-les26-example-13.mp3"
+    },
+    {
+      "text": "Direktor kojem pomažem je u uredu.",
+      "ua": "Директор, якому допомагаю, в офісі.",
+      "audio": "hr-les26-example-14.mp3"
+    },
+    {
+      "text": "Kuhar koji radi ovdje je vrlo dobar.",
+      "ua": "Кухар, який тут працює, дуже добрий.",
+      "audio": "hr-les26-example-15.mp3"
+    },
+    {
+      "text": "Žena koju vidim je vozačica.",
+      "ua": "Жінка, яку я бачу, водійка.",
+      "audio": "hr-les26-example-16.mp3"
+    },
+    {
+      "text": "Prodavač koji radi u dućanu je mlad.",
+      "ua": "Продавець, який працює в магазині, молодий.",
+      "audio": "hr-les26-example-17.mp3"
+    },
+    {
+      "text": "Nisam zaposlena, tražim posao.",
+      "ua": "Я не працевлаштована, шукаю роботу.",
+      "audio": "hr-les26-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Moj posao",
+    "title_ua": "Моя робота",
+    "highlight": [
+      "hr-1bdbb567",
+      "hr-53cffe06",
+      "hr-e77f06af",
+      "hr-5d5aefad",
+      "hr-cae64ab2",
+      "hr-e736f8a9",
+      "hr-e665f0d1",
+      "hr-ffd8bba8",
+      "hr-c7fce1ca",
+      "hr-7b0ef9a1",
+      "hr-a930341a",
+      "hr-5e8b2fe1"
+    ],
+    "sentences": [
+      {
+        "text": "Moj šef je direktor.",
+        "ua": "Мій начальник директор.",
+        "audio": "hr-les26-reading-01.mp3"
+      },
+      {
+        "text": "Tajnica koja radi ovdje je vrlo dobra.",
+        "ua": "Секретарка, яка тут працює, дуже добра.",
+        "audio": "hr-les26-reading-02.mp3"
+      },
+      {
+        "text": "Inženjer kojem pomažem radi u uredu.",
+        "ua": "Інженер, якому допомагаю, працює в офісі.",
+        "audio": "hr-les26-reading-03.mp3"
+      },
+      {
+        "text": "Moj poslodavac je firma.",
+        "ua": "Мій роботодавець фірма.",
+        "audio": "hr-les26-reading-04.mp3"
+      },
+      {
+        "text": "Imam ugovor i plaću.",
+        "ua": "Маю договір і зарплату.",
+        "audio": "hr-les26-reading-05.mp3"
+      },
+      {
+        "text": "Plaća je dobra.",
+        "ua": "Зарплата добра.",
+        "audio": "hr-les26-reading-06.mp3"
+      },
+      {
+        "text": "Radnik koji radi u smjeni ima odmor.",
+        "ua": "Працівник, який працює в зміні, має відпустку.",
+        "audio": "hr-les26-reading-07.mp3"
+      },
+      {
+        "text": "Otkaz je napisan.",
+        "ua": "Заява про звільнення написана.",
+        "audio": "hr-les26-reading-08.mp3"
+      },
+      {
+        "text": "Sutra imam slobodan dan.",
+        "ua": "Завтра маю вільний день.",
+        "audio": "hr-les26-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Моя професія кухар.",
+          "accepted": [
+            "Moje zanimanje je kuhar."
+          ]
+        },
+        {
+          "prompt": "Мій начальник директор.",
+          "accepted": [
+            "Moj šef je direktor."
+          ]
+        },
+        {
+          "prompt": "Зарплата добра.",
+          "accepted": [
+            "Plaća je dobra."
+          ]
+        },
+        {
+          "prompt": "Маю договір.",
+          "accepted": [
+            "Imam ugovor."
+          ]
+        },
+        {
+          "prompt": "Працюю в зміні.",
+          "accepted": [
+            "Radim u smjeni."
+          ]
+        },
+        {
+          "prompt": "Маю відпустку в липні.",
+          "accepted": [
+            "Imam odmor u srpnju."
+          ]
+        },
+        {
+          "prompt": "Шукаю роботу.",
+          "accepted": [
+            "Tražim posao."
+          ]
+        },
+        {
+          "prompt": "Фірма наймає працівників.",
+          "accepted": [
+            "Firma zapošljava radnike."
+          ]
+        },
+        {
+          "prompt": "Це мій начальник, який працює в офісі.",
+          "accepted": [
+            "Ovo je moj šef koji radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Це моя колежанка, яка працює в офісі.",
+          "accepted": [
+            "Ovo je moja kolegica koja radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Чоловік, якого я бачу, адвокат.",
+          "accepted": [
+            "Čovjek kojeg vidim je odvjetnik."
+          ]
+        },
+        {
+          "prompt": "Учителька, з якою розмовляю, працює тут.",
+          "accepted": [
+            "Učiteljica s kojom razgovaram radi ovdje."
+          ]
+        },
+        {
+          "prompt": "Директор, якому допомагаю, в офісі.",
+          "accepted": [
+            "Direktor kojem pomažem je u uredu."
+          ]
+        },
+        {
+          "prompt": "Жінка, яку я бачу, водійка.",
+          "accepted": [
+            "Žena koju vidim je vozačica."
+          ]
+        },
+        {
+          "prompt": "Завтра маю вільний день.",
+          "accepted": [
+            "Sutra imam slobodan dan."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "koji",
+        "koja",
+        "koje",
+        "koju",
+        "kojeg",
+        "kojem",
+        "kojom",
+        "plaća",
+        "ugovor",
+        "smjeni",
+        "odmor",
+        "inženjer",
+        "radnike",
+        "slobodan",
+        "zaposlena",
+        "otkaz"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ovo je moj šef ___ radi u uredu.",
+          "hint": "який",
+          "accepted": [
+            [
+              "koji"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je moja kolegica ___ radi u uredu.",
+          "hint": "яка",
+          "accepted": [
+            [
+              "koja"
+            ]
+          ]
+        },
+        {
+          "text": "Čovjek ___ vidim je odvjetnik.",
+          "hint": "якого",
+          "accepted": [
+            [
+              "kojeg"
+            ]
+          ]
+        },
+        {
+          "text": "Žena ___ vidim je vozačica.",
+          "hint": "яку",
+          "accepted": [
+            [
+              "koju"
+            ]
+          ]
+        },
+        {
+          "text": "Direktor ___ pomažem je u uredu.",
+          "hint": "якому",
+          "accepted": [
+            [
+              "kojem"
+            ]
+          ]
+        },
+        {
+          "text": "Učiteljica s ___ razgovaram radi ovdje.",
+          "hint": "якою",
+          "accepted": [
+            [
+              "kojom"
+            ]
+          ]
+        },
+        {
+          "text": "___ je dobra.",
+          "hint": "Зарплата добра.",
+          "accepted": [
+            [
+              "Plaća"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___.",
+          "hint": "Маю договір.",
+          "accepted": [
+            [
+              "ugovor"
+            ]
+          ]
+        },
+        {
+          "text": "Radim u ___.",
+          "hint": "Працюю в зміні.",
+          "accepted": [
+            [
+              "smjeni"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ u srpnju.",
+          "hint": "Маю відпустку в липні.",
+          "accepted": [
+            [
+              "odmor"
+            ]
+          ]
+        },
+        {
+          "text": "___ radi u uredu.",
+          "hint": "Інженер працює в офісі.",
+          "accepted": [
+            [
+              "Inženjer"
+            ]
+          ]
+        },
+        {
+          "text": "Firma zapošljava ___.",
+          "hint": "Фірма наймає працівників.",
+          "accepted": [
+            [
+              "radnike"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra imam ___ dan.",
+          "hint": "Завтра маю вільний день.",
+          "accepted": [
+            [
+              "slobodan"
+            ]
+          ]
+        },
+        {
+          "text": "Nisam ___.",
+          "hint": "Я не працевлаштована.",
+          "accepted": [
+            [
+              "zaposlena"
+            ]
+          ]
+        },
+        {
+          "text": "___ je napisan.",
+          "hint": "Заява про звільнення написана.",
+          "accepted": [
+            [
+              "Otkaz"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je dijete ___ uči ovdje.",
+          "hint": "яке (середній рід)",
+          "accepted": [
+            [
+              "koje"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "З'єднай два речення в одне з koji, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ovo je šef. Šef radi u uredu.",
+          "cue": "-> koji",
+          "accepted": [
+            "Ovo je šef koji radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Ovo je kolegica. Kolegica radi u uredu.",
+          "cue": "-> koja",
+          "accepted": [
+            "Ovo je kolegica koja radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Ovo je tajnica. Tajnica radi ovdje.",
+          "cue": "-> koja",
+          "accepted": [
+            "Ovo je tajnica koja radi ovdje."
+          ]
+        },
+        {
+          "prompt": "Ovo je kuhar. Kuhar radi ovdje.",
+          "cue": "-> koji",
+          "accepted": [
+            "Ovo je kuhar koji radi ovdje."
+          ]
+        },
+        {
+          "prompt": "Čovjek je odvjetnik. Vidim čovjeka.",
+          "cue": "-> kojeg",
+          "accepted": [
+            "Čovjek kojeg vidim je odvjetnik."
+          ]
+        },
+        {
+          "prompt": "Direktor je u uredu. Pomažem direktoru.",
+          "cue": "-> kojem",
+          "accepted": [
+            "Direktor kojem pomažem je u uredu."
+          ]
+        },
+        {
+          "prompt": "Učiteljica radi ovdje. Razgovaram s učiteljicom.",
+          "cue": "-> kojom",
+          "accepted": [
+            "Učiteljica s kojom razgovaram radi ovdje."
+          ]
+        },
+        {
+          "prompt": "Imam ugovor.",
+          "cue": "-> Nemam ...",
+          "accepted": [
+            "Nemam ugovora."
+          ]
+        },
+        {
+          "prompt": "Firma zapošljava radnika.",
+          "cue": "-> множина",
+          "accepted": [
+            "Firma zapošljava radnike."
+          ]
+        },
+        {
+          "prompt": "Ovo je moja kolegica koji radi u uredu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovo je moja kolegica koja radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Ovo je moj šef koja radi u uredu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovo je moj šef koji radi u uredu."
+          ]
+        },
+        {
+          "prompt": "Direktor kojeg pomažem je u uredu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Direktor kojem pomažem je u uredu."
+          ]
+        },
+        {
+          "prompt": "Učiteljica s kojim razgovaram radi ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Učiteljica s kojom razgovaram radi ovdje."
+          ]
+        },
+        {
+          "prompt": "Radim u smjena.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Radim u smjeni."
+          ]
+        },
+        {
+          "prompt": "Imam odmor u srpanj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam odmor u srpnju."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ malo.",
+          "cue": "zarađivati",
+          "accepted": [
+            "zarađujem"
+          ]
+        },
+        {
+          "text": "Ti ___ malo.",
+          "cue": "zarađivati",
+          "accepted": [
+            "zarađuješ"
+          ]
+        },
+        {
+          "text": "Mi ___ puno.",
+          "cue": "zarađivati",
+          "accepted": [
+            "zarađujemo"
+          ]
+        },
+        {
+          "text": "Oni ___ puno.",
+          "cue": "zarađivati",
+          "accepted": [
+            "zarađuju"
+          ]
+        },
+        {
+          "text": "Ja ___ posao.",
+          "cue": "tražiti",
+          "accepted": [
+            "tražim"
+          ]
+        },
+        {
+          "text": "Ti ___ posao.",
+          "cue": "tražiti",
+          "accepted": [
+            "tražiš"
+          ]
+        },
+        {
+          "text": "Mi ___ posao.",
+          "cue": "tražiti",
+          "accepted": [
+            "tražimo"
+          ]
+        },
+        {
+          "text": "Oni ___ posao.",
+          "cue": "tražiti",
+          "accepted": [
+            "traže"
+          ]
+        },
+        {
+          "text": "Firma ___ radnike.",
+          "cue": "zapošljavati",
+          "accepted": [
+            "zapošljava"
+          ]
+        },
+        {
+          "text": "Ja ___ radnike.",
+          "cue": "zapošljavati",
+          "accepted": [
+            "zapošljavam"
+          ]
+        },
+        {
+          "text": "Ja ___ radnika.",
+          "cue": "zaposliti",
+          "accepted": [
+            "zaposlim"
+          ]
+        },
+        {
+          "text": "Ja ___ posao.",
+          "cue": "potražiti",
+          "accepted": [
+            "potražim"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "професія",
+          "answer": "zanimanje"
+        },
+        {
+          "prompt": "зарплата",
+          "answer": "plaća"
+        },
+        {
+          "prompt": "договір",
+          "answer": "ugovor"
+        },
+        {
+          "prompt": "звільнення",
+          "answer": "otkaz"
+        },
+        {
+          "prompt": "відпустка",
+          "answer": "odmor"
+        },
+        {
+          "prompt": "зміна (робоча)",
+          "answer": "smjena"
+        },
+        {
+          "prompt": "інженер",
+          "answer": "inženjer"
+        },
+        {
+          "prompt": "водій",
+          "answer": "vozač"
+        },
+        {
+          "prompt": "кухар",
+          "answer": "kuhar"
+        },
+        {
+          "prompt": "продавець",
+          "answer": "prodavač"
+        },
+        {
+          "prompt": "секретарка",
+          "answer": "tajnica"
+        },
+        {
+          "prompt": "адвокат",
+          "answer": "odvjetnik"
+        },
+        {
+          "prompt": "працівник",
+          "answer": "radnik"
+        },
+        {
+          "prompt": "директор",
+          "answer": "direktor"
+        },
+        {
+          "prompt": "роботодавець",
+          "answer": "poslodavac"
+        },
+        {
+          "prompt": "заробляти",
+          "answer": "zarađivati"
+        },
+        {
+          "prompt": "шукати",
+          "answer": "tražiti"
+        },
+        {
+          "prompt": "вільний",
+          "answer": "slobodan"
+        }
+      ],
+      "extra": [
+        "kolega",
+        "firma"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1208 @@
+{
+  "id": "hr-les-25",
+  "lang": "hr",
+  "order": 25,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "m",
+    "ž",
+    "mn",
+    "sr"
+  ],
+  "notes": [
+    {
+      "id": "hr-68687abb",
+      "type": "noun",
+      "lemma": "jakna",
+      "gender": "ž.",
+      "gen_sg": "jakne",
+      "plural": [
+        "jakne"
+      ],
+      "ua": "куртка",
+      "audio": "hr-jakna.mp3",
+      "forms": [
+        "jaknu"
+      ],
+      "explain_ua": "(Nosim novu jaknu = ношу нову куртку). Жіночий рід на -a, як škola: jakna, jakne, jaknu.",
+      "check": "Форми за зразком škola; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-7e3746cd",
+      "type": "noun",
+      "lemma": "kaput",
+      "gender": "m.",
+      "gen_sg": "kaputa",
+      "plural": [
+        "kaputi"
+      ],
+      "ua": "пальто",
+      "audio": "hr-kaput.mp3",
+      "explain_ua": "(Kaput je u ormaru = пальто в шафі). Чоловічого роду і відмінюється: kaput, kaputa, kaputi. Українське пальто не відмінюється й середнього роду: тут усе інакше.",
+      "check": "Форми kaputa, kaputi з мого знання."
+    },
+    {
+      "id": "hr-276f177d",
+      "type": "noun",
+      "lemma": "majica",
+      "gender": "ž.",
+      "gen_sg": "majice",
+      "plural": [
+        "majice"
+      ],
+      "ua": "футболка, майка (верхній одяг)",
+      "audio": "hr-majica.mp3",
+      "explain_ua": "(Majica je na krevetu = футболка на ліжку). Majica це футболка. Не плутай із majka (мама, Lekcija 1): різні слова. Жіночий рід на -a.",
+      "check": "Форми за зразком škola; значення majica як футболка з мого знання."
+    },
+    {
+      "id": "hr-34b79f5e",
+      "type": "noun",
+      "lemma": "košulja",
+      "gender": "ž.",
+      "gen_sg": "košulje",
+      "plural": [
+        "košulje"
+      ],
+      "ua": "сорочка",
+      "audio": "hr-kosulja.mp3",
+      "forms": [
+        "košulju"
+      ],
+      "explain_ua": "(Ivan nosi košulju = Іван носить сорочку). Жіночий рід на -a: košulja, košulje, košulju. Українське сорочка, російське рубашка: слово інше.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-aebc3abd",
+      "type": "noun",
+      "lemma": "hlače",
+      "gender": "ž.",
+      "gen_sg": "hlača",
+      "plural": [
+        "hlače"
+      ],
+      "ua": "штани (тільки множина)",
+      "audio": "hr-hlace.mp3",
+      "explain_ua": "(Ivan nosi hlače = Іван носить штани). Лише множина, жіночого роду: hlače, родовий hlača. Українське штани теж лише множина.",
+      "check": "Родовий hlača з мого знання."
+    },
+    {
+      "id": "hr-9de90d21",
+      "type": "noun",
+      "lemma": "suknja",
+      "gender": "ž.",
+      "gen_sg": "suknje",
+      "plural": [
+        "suknje"
+      ],
+      "ua": "спідниця",
+      "audio": "hr-suknja.mp3",
+      "forms": [
+        "suknju"
+      ],
+      "explain_ua": "(Volim svoju suknju = люблю свою спідницю). Жіночий рід на -a: suknja, suknje, suknju.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-9a789e10",
+      "type": "noun",
+      "lemma": "haljina",
+      "gender": "ž.",
+      "gen_sg": "haljine",
+      "plural": [
+        "haljine"
+      ],
+      "ua": "сукня",
+      "audio": "hr-haljina.mp3",
+      "forms": [
+        "haljinu"
+      ],
+      "explain_ua": "(Volim svoju haljinu = люблю свою сукню). Жіночий рід на -a: haljina, haljine, haljinu.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-d97463a3",
+      "type": "noun",
+      "lemma": "cipela",
+      "gender": "ž.",
+      "gen_sg": "cipele",
+      "plural": [
+        "cipele"
+      ],
+      "ua": "черевик, туфля (звичайно множина)",
+      "audio": "hr-cipela.mp3",
+      "forms": [
+        "cipelama"
+      ],
+      "explain_ua": "(Imam nove cipele = маю нові черевики). Найчастіше вживається множина cipele. Родовий множини cipela (нема вставки a), орудний і місцевий cipelama.",
+      "check": "Родовий множини cipela і форма cipelama за правилом D/L/I множини (Lekcija 20); без вставки a, з мого знання."
+    },
+    {
+      "id": "hr-b3eec909",
+      "type": "noun",
+      "lemma": "čizma",
+      "gender": "ž.",
+      "gen_sg": "čizme",
+      "plural": [
+        "čizme"
+      ],
+      "ua": "чобіт",
+      "audio": "hr-cizma.mp3",
+      "explain_ua": "(Volim tople čizme = люблю теплі чоботи). Жіночий рід на -a: čizma, čizme.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-720f3dee",
+      "type": "noun",
+      "lemma": "čarapa",
+      "gender": "ž.",
+      "gen_sg": "čarape",
+      "plural": [
+        "čarape"
+      ],
+      "ua": "шкарпетка, панчоха",
+      "audio": "hr-carapa.mp3",
+      "forms": [
+        "čarapa"
+      ],
+      "explain_ua": "(Imam tople čarape = маю теплі шкарпетки). Родовий множини čarapa: нестійке a (як sestra > sestara, Lekcija 16).",
+      "check": "Родовий множини čarapa за правилом нестійкого a (підручник, с. 304)."
+    },
+    {
+      "id": "hr-1d222eb4",
+      "type": "noun",
+      "lemma": "šešir",
+      "gender": "m.",
+      "gen_sg": "šešira",
+      "plural": [
+        "šeširi"
+      ],
+      "ua": "капелюх",
+      "audio": "hr-sesir.mp3",
+      "explain_ua": "(Imam nov šešir = маю новий капелюх). Чоловічого роду: šešir, šešira, šeširi.",
+      "check": "Форми šešira, šeširi з мого знання."
+    },
+    {
+      "id": "hr-e0645537",
+      "type": "noun",
+      "lemma": "kapa",
+      "gender": "ž.",
+      "gen_sg": "kape",
+      "plural": [
+        "kape"
+      ],
+      "ua": "шапка",
+      "audio": "hr-kapa.mp3",
+      "forms": [
+        "kapu"
+      ],
+      "explain_ua": "(Nosim kapu = ношу шапку). Жіночий рід на -a: kapa, kape, kapu. Українське шапка: слово інше.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-341adc30",
+      "type": "noun",
+      "lemma": "rukavica",
+      "gender": "ž.",
+      "gen_sg": "rukavice",
+      "plural": [
+        "rukavice"
+      ],
+      "ua": "рукавичка",
+      "audio": "hr-rukavica.mp3",
+      "explain_ua": "(Nemam rukavica = не маю рукавичок). Родовий множини rukavica: те саме слово, без вставки a, закінчення -a, як police > polica.",
+      "check": "Родовий множини rukavica з мого знання."
+    },
+    {
+      "id": "hr-98f86bbe",
+      "type": "noun",
+      "lemma": "kišobran",
+      "gender": "m.",
+      "gen_sg": "kišobrana",
+      "plural": [
+        "kišobrani"
+      ],
+      "ua": "парасолька",
+      "audio": "hr-kisobran.mp3",
+      "explain_ua": "(Nosim kišobran = ношу парасольку). Чоловічого роду: kišobran, kišobrana, kišobrani. Складене слово: kiša + brana «захист від дощу».",
+      "check": "Форми з мого знання; етимологію kiša + brana подаю як підказку для пам'яті, не як перевірений факт."
+    },
+    {
+      "id": "hr-5c3b1b8d",
+      "type": "noun",
+      "lemma": "kiša",
+      "gender": "ž.",
+      "gen_sg": "kiše",
+      "plural": [
+        "kiše"
+      ],
+      "ua": "дощ",
+      "audio": "hr-kisa.mp3",
+      "explain_ua": "(Pada kiša = іде дощ). Жіночий рід на -a: kiša, kiše. Дощ іде: pada kiša (падає дощ).",
+      "check": "Форми за зразком škola.",
+      "forms": [
+        "kišu"
+      ]
+    },
+    {
+      "id": "hr-f098829e",
+      "type": "noun",
+      "lemma": "snijeg",
+      "gender": "m.",
+      "gen_sg": "snijega",
+      "plural": [
+        "snjegovi"
+      ],
+      "ua": "сніг",
+      "audio": "hr-snijeg.mp3",
+      "explain_ua": "(Pada snijeg = іде сніг). Чоловічого роду: snijeg, snijega. Множина snjegovi рідко. Українське сніг, російське снег: тут -ije- (ijekavski).",
+      "check": "Форма snijega і множина snjegovi з мого знання; множину краще перевірити в словнику."
+    },
+    {
+      "id": "hr-73dfcc1b",
+      "type": "noun",
+      "lemma": "vjetar",
+      "gender": "m.",
+      "gen_sg": "vjetra",
+      "plural": [
+        "vjetrovi"
+      ],
+      "ua": "вітер",
+      "audio": "hr-vjetar.mp3",
+      "explain_ua": "(Vjetar je hladan = вітер холодний). Нестійке a: vjetar, vjetra, vjetrovi. Українське вітер: корінь той самий, але тут vj- і -ar.",
+      "check": "Форми vjetra, vjetrovi за правилом нестійкого a."
+    },
+    {
+      "id": "hr-9763247d",
+      "type": "noun",
+      "lemma": "sunce",
+      "gender": "s.",
+      "gen_sg": "sunca",
+      "plural": [
+        "sunca"
+      ],
+      "ua": "сонце",
+      "audio": "hr-sunce.mp3",
+      "explain_ua": "(Sunce je toplo = сонце тепле). Середній рід на -e: sunce, sunca. Українське сонце: майже збігається.",
+      "check": "Форма sunca з мого знання за зразком more (G. mora)."
+    },
+    {
+      "id": "hr-3a0f77fd",
+      "type": "adjective",
+      "lemma": "nov",
+      "fem": "nova",
+      "neut": "novo",
+      "ua": "новий",
+      "audio": "hr-nov.mp3",
+      "forms": [
+        "novu",
+        "nove",
+        "novi",
+        "novih",
+        "novim"
+      ],
+      "explain_ua": "(Imam nov šešir / novi šešir = маю новий капелюх / той новий капелюх). Невизначена форма nov, означена novi. Плюс форми множини: nove (жін.), novi (чол.), novih, novim.",
+      "check": "Форми з мого знання; таблиця прикметників у підручнику (с. 311) показує закінчення -ih, -im."
+    },
+    {
+      "id": "hr-61ba4561",
+      "type": "adjective",
+      "lemma": "topao",
+      "fem": "topla",
+      "neut": "toplo",
+      "ua": "теплий",
+      "audio": "hr-topao.mp3",
+      "forms": [
+        "tople",
+        "topli",
+        "toplih",
+        "toplim",
+        "toplo"
+      ],
+      "explain_ua": "(Ljeti je toplo = влітку тепло). Нестійке a: topao, topla, toplo (як bolestan, bolesna). Чоловічий topao, але вже topla, toplo.",
+      "check": "Нестійке a в topao підтверджено принципом із підручника (с. 311); окремі форми з мого знання."
+    },
+    {
+      "id": "hr-d364e158",
+      "type": "verb",
+      "lemma": "nositi",
+      "aspect": "impf.",
+      "pres_1sg": "nosim",
+      "forms": [
+        "nosiš",
+        "nosi",
+        "nosimo",
+        "nosite",
+        "nose",
+        "nosim"
+      ],
+      "ua": "носити (одяг, предмет)",
+      "audio": "hr-nositi.mp3",
+      "explain_ua": "(Nosim kapu = ношу шапку). Тип -iti > -im: nosim, nosiš, nosi. Nositi означає «носити одяг» і «носити з собою».",
+      "check": "Форми за типом -iti > -im (підручник, с. 316); пари доконаного виду не подаю."
+    },
+    {
+      "id": "hr-7b8e5378",
+      "type": "verb",
+      "lemma": "padati",
+      "aspect": "impf.",
+      "partner": "pasti",
+      "pres_1sg": "padam",
+      "forms": [
+        "pada",
+        "padaju",
+        "pasti",
+        "padne"
+      ],
+      "ua": "падати; (про дощ, сніг) іти",
+      "audio": "hr-padati.mp3",
+      "explain_ua": "(Pada kiša = іде дощ; Pada snijeg = іде сніг). Пара: padati (недок.) / pasti (док., padnem). Про погоду звичайно 3 особа: pada.",
+      "check": "Пару padati / pasti і форми з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Прикметник у множині: nove cipele, toplih čarapa",
+      "summary_ua": "Прикметник узгоджується з іменником у роді, числі й відмінку. У множині: називний і знахідний nove cipele (жін.), novi šeširi (чол.); родовий -ih: toplih čarapa; давальний, місцевий, орудний -im(a): u novim cipelama. Закінчення -ih і -im схожі на українські -их і -им, тож тут допомагає українська.",
+      "compare": [
+        {
+          "form": "називний і знахідний множини: -e (жін.), -i (чол.), -a (сер.)",
+          "when_ua": "nove cipele, tople čarape; novi šeširi.",
+          "examples": [
+            {
+              "text": "Imam nove cipele.",
+              "ua": "Маю нові черевики.",
+              "audio": "hr-les25-rule-01.mp3"
+            },
+            {
+              "text": "Imam tople čarape.",
+              "ua": "Маю теплі шкарпетки.",
+              "audio": "hr-les25-rule-02.mp3"
+            },
+            {
+              "text": "Volim tople čizme.",
+              "ua": "Люблю теплі чоботи.",
+              "audio": "hr-les25-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Жіночий -e, не -i, як у чоловічому. Українська -і в усіх родах множини, тому тут є різниця."
+        },
+        {
+          "form": "родовий -ih; D/L/I -im(a)",
+          "when_ua": "nemam toplih čarapa; u novim cipelama.",
+          "examples": [
+            {
+              "text": "Nemam toplih čarapa.",
+              "ua": "Не маю теплих шкарпеток.",
+              "audio": "hr-les25-rule-04.mp3"
+            },
+            {
+              "text": "Nemam novih cipela.",
+              "ua": "Не маю нових черевиків.",
+              "audio": "hr-les25-rule-05.mp3"
+            },
+            {
+              "text": "Marija je u novim cipelama.",
+              "ua": "Марія в нових черевиках.",
+              "audio": "hr-les25-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: -их = -ih, -им = -im."
+        }
+      ],
+      "points_ua": [
+        "Називний множини: nove (ж.), novi (ч.), nova (с.).",
+        "Родовий: -ih. Давальний, місцевий, орудний: -im(a).",
+        "Іменник у родовому множини теж змінюється: čarapa, cipela."
+      ]
+    },
+    {
+      "title_ua": "Nov і novi: невизначений і означений",
+      "summary_ua": "Чоловічий прикметник має дві форми: невизначену (nov) і означену (novi). Imam nov šešir = «маю новий (якийсь) капелюх». Novi šešir je skup = «той новий капелюх дорогий». Ні українська, ні російська цього не роблять, тож нічого не переноситься: на B1 головне розпізнавати.",
+      "compare": [
+        {
+          "form": "nov / novi",
+          "when_ua": "Nov: нова інформація, прикметник після biti: Kaput je nov. Novi: відомий предмет, перед іменником.",
+          "examples": [
+            {
+              "text": "Imam nov šešir.",
+              "ua": "Маю новий капелюх.",
+              "audio": "hr-les25-rule-07.mp3"
+            },
+            {
+              "text": "Novi kaput je skup.",
+              "ua": "Те нове пальто дороге.",
+              "audio": "hr-les25-rule-08.mp3"
+            },
+            {
+              "text": "Moj kaput je nov.",
+              "ua": "Моє пальто нове.",
+              "audio": "hr-les25-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Тут нічого не допомагає: нічого схожого в українській нема. Жіночий і середній рід такої пари не мають."
+        }
+      ],
+      "points_ua": [
+        "Лише чоловічий рід: nov / novi.",
+        "Після biti часто невизначена форма: kaput je nov.",
+        "На B1 це більше розпізнавання, ніж продукція."
+      ]
+    },
+    {
+      "title_ua": "Vrijeme: час і погода",
+      "summary_ua": "Vrijeme значить і «час», і «погода». Це полісемія, а не хибний друг. Погоду описують: Kakvo je vrijeme? Pada kiša. Pada snijeg. Danas je hladno. Ljeti je toplo. Українське дощ іде, сніг іде: тут «падає», як у російській «идёт».",
+      "compare": [
+        {
+          "form": "pada kiša / snijeg; je hladno / toplo",
+          "when_ua": "Дощ і сніг: pada. Температура: je hladno / toplo (середній рід).",
+          "examples": [
+            {
+              "text": "Danas pada kiša.",
+              "ua": "Сьогодні іде дощ.",
+              "audio": "hr-les25-rule-10.mp3"
+            },
+            {
+              "text": "Danas je hladno.",
+              "ua": "Сьогодні холодно.",
+              "audio": "hr-les25-rule-11.mp3"
+            },
+            {
+              "text": "Vrijeme je lijepo.",
+              "ua": "Погода гарна.",
+              "audio": "hr-les25-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Не тільки погода: Nemam vremena = немає часу."
+        }
+      ],
+      "points_ua": [
+        "Pada kiša, pada snijeg.",
+        "Je hladno, je toplo: середній рід.",
+        "Vrijeme: і час, і погода."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Nosim novu jaknu.",
+      "ua": "Ношу нову куртку.",
+      "audio": "hr-les25-example-01.mp3"
+    },
+    {
+      "text": "Kaput je u ormaru.",
+      "ua": "Пальто в шафі.",
+      "audio": "hr-les25-example-02.mp3"
+    },
+    {
+      "text": "Majica je na krevetu.",
+      "ua": "Футболка на ліжку.",
+      "audio": "hr-les25-example-03.mp3"
+    },
+    {
+      "text": "Imam tople čarape.",
+      "ua": "Маю теплі шкарпетки.",
+      "audio": "hr-les25-example-04.mp3"
+    },
+    {
+      "text": "Imam nove cipele.",
+      "ua": "Маю нові черевики.",
+      "audio": "hr-les25-example-05.mp3"
+    },
+    {
+      "text": "Marija je u novim cipelama.",
+      "ua": "Марія в нових черевиках.",
+      "audio": "hr-les25-example-06.mp3"
+    },
+    {
+      "text": "Ivan nosi košulju i hlače.",
+      "ua": "Іван носить сорочку і штани.",
+      "audio": "hr-les25-example-07.mp3"
+    },
+    {
+      "text": "Volim svoju suknju i haljinu.",
+      "ua": "Люблю свою спідницю і сукню.",
+      "audio": "hr-les25-example-08.mp3"
+    },
+    {
+      "text": "Imam puno cipela.",
+      "ua": "Маю багато черевиків.",
+      "audio": "hr-les25-example-09.mp3"
+    },
+    {
+      "text": "Nemam rukavica.",
+      "ua": "Не маю рукавичок.",
+      "audio": "hr-les25-example-10.mp3"
+    },
+    {
+      "text": "Nemam toplih čarapa.",
+      "ua": "Не маю теплих шкарпеток.",
+      "audio": "hr-les25-example-11.mp3"
+    },
+    {
+      "text": "Imam nov šešir.",
+      "ua": "Маю новий капелюх.",
+      "audio": "hr-les25-example-12.mp3"
+    },
+    {
+      "text": "Novi kaput je skup.",
+      "ua": "Те нове пальто дороге.",
+      "audio": "hr-les25-example-13.mp3"
+    },
+    {
+      "text": "Danas pada kiša, a ja nosim kišobran.",
+      "ua": "Сьогодні іде дощ, а я ношу парасольку.",
+      "audio": "hr-les25-example-14.mp3"
+    },
+    {
+      "text": "Sutra pada snijeg.",
+      "ua": "Завтра йде сніг.",
+      "audio": "hr-les25-example-15.mp3"
+    },
+    {
+      "text": "Danas je hladno.",
+      "ua": "Сьогодні холодно.",
+      "audio": "hr-les25-example-16.mp3"
+    },
+    {
+      "text": "Ljeti je toplo.",
+      "ua": "Влітку тепло.",
+      "audio": "hr-les25-example-17.mp3"
+    },
+    {
+      "text": "Vrijeme je lijepo.",
+      "ua": "Погода гарна.",
+      "audio": "hr-les25-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Hladan dan",
+    "title_ua": "Холодний день",
+    "highlight": [
+      "hr-68687abb",
+      "hr-276f177d",
+      "hr-aebc3abd",
+      "hr-d97463a3",
+      "hr-b3eec909",
+      "hr-e0645537",
+      "hr-98f86bbe",
+      "hr-f098829e",
+      "hr-73dfcc1b",
+      "hr-9763247d",
+      "hr-3a0f77fd",
+      "hr-61ba4561"
+    ],
+    "sentences": [
+      {
+        "text": "Danas je hladno.",
+        "ua": "Сьогодні холодно.",
+        "audio": "hr-les25-reading-01.mp3"
+      },
+      {
+        "text": "Vjetar je hladan, a sunce je toplo.",
+        "ua": "Вітер холодний, а сонце тепле.",
+        "audio": "hr-les25-reading-02.mp3"
+      },
+      {
+        "text": "Nosim kapu i tople čizme.",
+        "ua": "Ношу шапку і теплі чоботи.",
+        "audio": "hr-les25-reading-03.mp3"
+      },
+      {
+        "text": "Nosim i novu jaknu.",
+        "ua": "Ношу ще й нову куртку.",
+        "audio": "hr-les25-reading-04.mp3"
+      },
+      {
+        "text": "Majica i hlače su u ormaru.",
+        "ua": "Футболка і штани в шафі.",
+        "audio": "hr-les25-reading-05.mp3"
+      },
+      {
+        "text": "Marija je u novim cipelama.",
+        "ua": "Марія в нових черевиках.",
+        "audio": "hr-les25-reading-06.mp3"
+      },
+      {
+        "text": "Sutra pada snijeg.",
+        "ua": "Завтра йде сніг.",
+        "audio": "hr-les25-reading-07.mp3"
+      },
+      {
+        "text": "Kišobran je u ormaru.",
+        "ua": "Парасолька в шафі.",
+        "audio": "hr-les25-reading-08.mp3"
+      },
+      {
+        "text": "Volim ovo vrijeme.",
+        "ua": "Люблю цю погоду.",
+        "audio": "hr-les25-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ношу нову куртку.",
+          "accepted": [
+            "Nosim novu jaknu."
+          ]
+        },
+        {
+          "prompt": "Пальто в шафі.",
+          "accepted": [
+            "Kaput je u ormaru."
+          ]
+        },
+        {
+          "prompt": "Футболка на ліжку.",
+          "accepted": [
+            "Majica je na krevetu."
+          ]
+        },
+        {
+          "prompt": "Маю теплі шкарпетки.",
+          "accepted": [
+            "Imam tople čarape."
+          ]
+        },
+        {
+          "prompt": "Маю нові черевики.",
+          "accepted": [
+            "Imam nove cipele."
+          ]
+        },
+        {
+          "prompt": "Марія в нових черевиках.",
+          "accepted": [
+            "Marija je u novim cipelama."
+          ]
+        },
+        {
+          "prompt": "Іван носить сорочку і штани.",
+          "accepted": [
+            "Ivan nosi košulju i hlače."
+          ]
+        },
+        {
+          "prompt": "Люблю свою спідницю і сукню.",
+          "accepted": [
+            "Volim svoju suknju i haljinu."
+          ]
+        },
+        {
+          "prompt": "Не маю рукавичок.",
+          "accepted": [
+            "Nemam rukavica."
+          ]
+        },
+        {
+          "prompt": "Не маю теплих шкарпеток.",
+          "accepted": [
+            "Nemam toplih čarapa."
+          ]
+        },
+        {
+          "prompt": "Маю новий капелюх.",
+          "accepted": [
+            "Imam nov šešir."
+          ]
+        },
+        {
+          "prompt": "Сьогодні іде дощ, а я ношу парасольку.",
+          "accepted": [
+            "Danas pada kiša, a ja nosim kišobran."
+          ]
+        },
+        {
+          "prompt": "Завтра йде сніг.",
+          "accepted": [
+            "Sutra pada snijeg."
+          ]
+        },
+        {
+          "prompt": "Сьогодні холодно.",
+          "accepted": [
+            "Danas je hladno."
+          ]
+        },
+        {
+          "prompt": "Влітку тепло.",
+          "accepted": [
+            "Ljeti je toplo."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "jaknu",
+        "kaput",
+        "majica",
+        "košulju",
+        "hlače",
+        "suknju",
+        "haljinu",
+        "cipela",
+        "čizme",
+        "čarapa",
+        "šešir",
+        "kapu",
+        "rukavica",
+        "kišobran",
+        "kiša",
+        "snijeg"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Nosim novu ___.",
+          "hint": "Ношу нову куртку.",
+          "accepted": [
+            [
+              "jaknu"
+            ]
+          ]
+        },
+        {
+          "text": "___ je u ormaru.",
+          "hint": "Пальто в шафі.",
+          "accepted": [
+            [
+              "Kaput"
+            ]
+          ]
+        },
+        {
+          "text": "___ je na krevetu.",
+          "hint": "Футболка на ліжку.",
+          "accepted": [
+            [
+              "Majica"
+            ]
+          ]
+        },
+        {
+          "text": "Ivan nosi ___ i hlače.",
+          "hint": "Іван носить сорочку і штани.",
+          "accepted": [
+            [
+              "košulju"
+            ]
+          ]
+        },
+        {
+          "text": "Ivan nosi košulju i ___.",
+          "hint": "Іван носить сорочку і штани.",
+          "accepted": [
+            [
+              "hlače"
+            ]
+          ]
+        },
+        {
+          "text": "Volim svoju ___.",
+          "hint": "Люблю свою спідницю.",
+          "accepted": [
+            [
+              "suknju"
+            ]
+          ]
+        },
+        {
+          "text": "Volim svoju ___.",
+          "hint": "Люблю свою сукню.",
+          "accepted": [
+            [
+              "haljinu"
+            ]
+          ]
+        },
+        {
+          "text": "Imam puno ___.",
+          "hint": "Маю багато черевиків.",
+          "accepted": [
+            [
+              "cipela"
+            ]
+          ]
+        },
+        {
+          "text": "Volim tople ___.",
+          "hint": "Люблю теплі чоботи.",
+          "accepted": [
+            [
+              "čizme"
+            ]
+          ]
+        },
+        {
+          "text": "Nemam toplih ___.",
+          "hint": "Не маю теплих шкарпеток.",
+          "accepted": [
+            [
+              "čarapa"
+            ]
+          ]
+        },
+        {
+          "text": "Imam nov ___.",
+          "hint": "Маю новий капелюх.",
+          "accepted": [
+            [
+              "šešir"
+            ]
+          ]
+        },
+        {
+          "text": "Nosim ___.",
+          "hint": "Ношу шапку.",
+          "accepted": [
+            [
+              "kapu"
+            ]
+          ]
+        },
+        {
+          "text": "Nemam ___.",
+          "hint": "Не маю рукавичок.",
+          "accepted": [
+            [
+              "rukavica"
+            ]
+          ]
+        },
+        {
+          "text": "Nosim ___.",
+          "hint": "Ношу парасольку.",
+          "accepted": [
+            [
+              "kišobran"
+            ]
+          ]
+        },
+        {
+          "text": "Danas pada ___.",
+          "hint": "Сьогодні іде дощ.",
+          "accepted": [
+            [
+              "kiša"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra pada ___.",
+          "hint": "Завтра йде сніг.",
+          "accepted": [
+            [
+              "snijeg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Imam novu jaknu.",
+          "cue": "-> множина",
+          "accepted": [
+            "Imam nove jakne."
+          ]
+        },
+        {
+          "prompt": "Imam novu haljinu.",
+          "cue": "-> множина",
+          "accepted": [
+            "Imam nove haljine."
+          ]
+        },
+        {
+          "prompt": "Imam novu suknju.",
+          "cue": "-> множина",
+          "accepted": [
+            "Imam nove suknje."
+          ]
+        },
+        {
+          "prompt": "Imam tople cipele.",
+          "cue": "-> Nemam ...",
+          "accepted": [
+            "Nemam toplih cipela."
+          ]
+        },
+        {
+          "prompt": "Imam nove čarape.",
+          "cue": "-> Nemam ...",
+          "accepted": [
+            "Nemam novih čarapa."
+          ]
+        },
+        {
+          "prompt": "Imam rukavice.",
+          "cue": "-> Nemam ...",
+          "accepted": [
+            "Nemam rukavica."
+          ]
+        },
+        {
+          "prompt": "Imam nove cipele.",
+          "cue": "-> Marija je u ...",
+          "accepted": [
+            "Marija je u novim cipelama."
+          ]
+        },
+        {
+          "prompt": "Kaput je nov.",
+          "cue": "-> означена форма на початку",
+          "accepted": [
+            "Novi kaput je skup."
+          ]
+        },
+        {
+          "prompt": "Danas je hladno.",
+          "cue": "-> Ljeti ...",
+          "accepted": [
+            "Ljeti je toplo."
+          ]
+        },
+        {
+          "prompt": "Imam nov cipele.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam nove cipele."
+          ]
+        },
+        {
+          "prompt": "Nemam cipele.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nemam cipela."
+          ]
+        },
+        {
+          "prompt": "Nosim novi jaknu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nosim novu jaknu."
+          ]
+        },
+        {
+          "prompt": "Danas pada kišu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas pada kiša."
+          ]
+        },
+        {
+          "prompt": "Marija je u novi cipele.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Marija je u novim cipelama."
+          ]
+        },
+        {
+          "prompt": "Nemam toplih čarape.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nemam toplih čarapa."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав слово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ kapu.",
+          "cue": "nositi",
+          "accepted": [
+            "nosim"
+          ]
+        },
+        {
+          "text": "Ti ___ kapu.",
+          "cue": "nositi",
+          "accepted": [
+            "nosiš"
+          ]
+        },
+        {
+          "text": "Ivan ___ košulju.",
+          "cue": "nositi",
+          "accepted": [
+            "nosi"
+          ]
+        },
+        {
+          "text": "Mi ___ tople čizme.",
+          "cue": "nositi",
+          "accepted": [
+            "nosimo"
+          ]
+        },
+        {
+          "text": "Vi ___ nove cipele.",
+          "cue": "nositi",
+          "accepted": [
+            "nosite"
+          ]
+        },
+        {
+          "text": "Oni ___ kapu.",
+          "cue": "nositi",
+          "accepted": [
+            "nose"
+          ]
+        },
+        {
+          "text": "Danas ___ kiša.",
+          "cue": "padati",
+          "accepted": [
+            "pada"
+          ]
+        },
+        {
+          "text": "Kaput je ___ (m.).",
+          "cue": "nov",
+          "accepted": [
+            "nov"
+          ]
+        },
+        {
+          "text": "Jakna je ___ (ž.).",
+          "cue": "nov",
+          "accepted": [
+            "nova"
+          ]
+        },
+        {
+          "text": "Cipele su ___ (mn. ž.).",
+          "cue": "nov",
+          "accepted": [
+            "nove"
+          ]
+        },
+        {
+          "text": "Čarape su ___ (mn. ž.).",
+          "cue": "topao",
+          "accepted": [
+            "tople"
+          ]
+        },
+        {
+          "text": "Sunce je ___ (sr.).",
+          "cue": "topao",
+          "accepted": [
+            "toplo"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "куртка",
+          "answer": "jakna"
+        },
+        {
+          "prompt": "пальто",
+          "answer": "kaput"
+        },
+        {
+          "prompt": "футболка",
+          "answer": "majica"
+        },
+        {
+          "prompt": "сорочка",
+          "answer": "košulja"
+        },
+        {
+          "prompt": "штани",
+          "answer": "hlače"
+        },
+        {
+          "prompt": "спідниця",
+          "answer": "suknja"
+        },
+        {
+          "prompt": "сукня",
+          "answer": "haljina"
+        },
+        {
+          "prompt": "черевик",
+          "answer": "cipela"
+        },
+        {
+          "prompt": "чобіт",
+          "answer": "čizma"
+        },
+        {
+          "prompt": "шкарпетка",
+          "answer": "čarapa"
+        },
+        {
+          "prompt": "капелюх",
+          "answer": "šešir"
+        },
+        {
+          "prompt": "шапка",
+          "answer": "kapa"
+        },
+        {
+          "prompt": "рукавичка",
+          "answer": "rukavica"
+        },
+        {
+          "prompt": "парасолька",
+          "answer": "kišobran"
+        },
+        {
+          "prompt": "дощ",
+          "answer": "kiša"
+        },
+        {
+          "prompt": "сніг",
+          "answer": "snijeg"
+        },
+        {
+          "prompt": "вітер",
+          "answer": "vjetar"
+        },
+        {
+          "prompt": "сонце",
+          "answer": "sunce"
+        }
+      ],
+      "extra": [
+        "majka",
+        "kuća"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1192 @@
+{
+  "id": "hr-les-27",
+  "lang": "hr",
+  "order": 27,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-8b3cfbc6",
+      "type": "noun",
+      "lemma": "avion",
+      "gender": "m.",
+      "gen_sg": "aviona",
+      "plural": [
+        "avioni"
+      ],
+      "ua": "літак",
+      "audio": "hr-avion.mp3",
+      "explain_ua": "(Avion leti preko grada = літак летить над містом). Чоловічого роду: avion, aviona, avioni. Українське літак, російське самолёт: слово інше.",
+      "check": "Форми aviona, avioni з мого знання."
+    },
+    {
+      "id": "hr-d33d24ad",
+      "type": "noun",
+      "lemma": "brod",
+      "gender": "m.",
+      "gen_sg": "broda",
+      "plural": [
+        "brodovi"
+      ],
+      "ua": "корабель, пором",
+      "audio": "hr-brod.mp3",
+      "explain_ua": "(Brod je pored mosta = корабель біля мосту). Чоловічого роду з -ov-: brod, broda, brodovi. Не плутай з broj (номер, Lekcija 22).",
+      "check": "Форми broda, brodovi за правилом -ov-."
+    },
+    {
+      "id": "hr-6fa7b305",
+      "type": "noun",
+      "lemma": "putovnica",
+      "gender": "ž.",
+      "gen_sg": "putovnice",
+      "plural": [
+        "putovnice"
+      ],
+      "ua": "закордонний паспорт",
+      "audio": "hr-putovnica.mp3",
+      "forms": [
+        "putovnicu"
+      ],
+      "explain_ua": "(Imam putovnicu = маю закордонний паспорт). Жіночий рід на -a: putovnica, putovnice, putovnicu. Корінь put «дорога» + putovati.",
+      "check": "Форми за зразком škola; розбір кореня подаю як підказку для пам'яті."
+    },
+    {
+      "id": "hr-06ed8191",
+      "type": "noun",
+      "lemma": "kofer",
+      "gender": "m.",
+      "gen_sg": "kofera",
+      "plural": [
+        "koferi"
+      ],
+      "ua": "валіза",
+      "audio": "hr-kofer.mp3",
+      "forms": [
+        "koferu"
+      ],
+      "explain_ua": "(Putovnica je u koferu = паспорт у валізі). Чоловічого роду: kofer, kofera, u koferu, koferi.",
+      "check": "Форми kofera, koferi, koferu з мого знання."
+    },
+    {
+      "id": "hr-6733b6b1",
+      "type": "noun",
+      "lemma": "hotel",
+      "gender": "m.",
+      "gen_sg": "hotela",
+      "plural": [
+        "hoteli"
+      ],
+      "ua": "готель",
+      "audio": "hr-hotel.mp3",
+      "forms": [
+        "hotelu",
+        "hotela"
+      ],
+      "explain_ua": "(Hotel je pored ceste = готель біля дороги). Чоловічого роду: hotel, hotela, u hotelu, hoteli. Родовий hotela вживаємо після ispred, pored, iza.",
+      "check": "Форми hotela, hoteli, hotelu з мого знання."
+    },
+    {
+      "id": "hr-9183b4cd",
+      "type": "noun",
+      "lemma": "rezervacija",
+      "gender": "ž.",
+      "gen_sg": "rezervacije",
+      "plural": [
+        "rezervacije"
+      ],
+      "ua": "бронювання",
+      "audio": "hr-rezervacija.mp3",
+      "forms": [
+        "rezervaciju"
+      ],
+      "explain_ua": "(Imam rezervaciju = маю бронювання). Жіночий рід на -ja: rezervacija, rezervacije, rezervaciju.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-856350a9",
+      "type": "noun",
+      "lemma": "granica",
+      "gender": "ž.",
+      "gen_sg": "granice",
+      "plural": [
+        "granice"
+      ],
+      "ua": "кордон; межа",
+      "audio": "hr-granica.mp3",
+      "explain_ua": "(Granica je ovdje = кордон тут). Жіночий рід на -a: granica, granice. Українське кордон, межа: слово інше.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-c1fbe40b",
+      "type": "noun",
+      "lemma": "cesta",
+      "gender": "ž.",
+      "gen_sg": "ceste",
+      "plural": [
+        "ceste"
+      ],
+      "ua": "дорога (автомобільна)",
+      "audio": "hr-cesta.mp3",
+      "explain_ua": "(Hotel je pored ceste = готель біля дороги). Жіночий рід на -a: cesta, ceste. Cesta це дорога для машин. Не плутай із put (дорога, подорож).",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-f7e76707",
+      "type": "noun",
+      "lemma": "most",
+      "gender": "m.",
+      "gen_sg": "mosta",
+      "plural": [
+        "mostovi"
+      ],
+      "ua": "міст",
+      "audio": "hr-most.mp3",
+      "explain_ua": "(Idem preko mosta = іду через міст). Чоловічого роду з -ov-: most, mosta, mostovi. Українське міст: слово дуже схоже.",
+      "check": "Форми mosta, mostovi за правилом -ov-.",
+      "forms": [
+        "mosta"
+      ]
+    },
+    {
+      "id": "hr-637892a1",
+      "type": "noun",
+      "lemma": "putnik",
+      "gender": "m.",
+      "gen_sg": "putnika",
+      "plural": [
+        "putnici"
+      ],
+      "ua": "мандрівник, пасажир",
+      "audio": "hr-putnik.mp3",
+      "explain_ua": "(Putnik čeka ispred hotela = пасажир чекає перед готелем). Чоловічого роду, живе: putnik, putnika, putnici (k > c). Putnik це зразок у таблиці підручника (с. 309).",
+      "check": "Putnik, putnika, putnici підтверджено в таблиці підручника.",
+      "forms": [
+        "putnika"
+      ]
+    },
+    {
+      "id": "hr-58e9accf",
+      "type": "noun",
+      "lemma": "put",
+      "gender": "m.",
+      "gen_sg": "puta",
+      "plural": [
+        "putovi"
+      ],
+      "ua": "дорога, шлях; подорож",
+      "audio": "hr-put.mp3",
+      "explain_ua": "(Put je lijep = дорога гарна). Чоловічого роду: put, puta, putovi. Put це й шлях, і подорож. Корінь тут той самий, що в putovati, putnik, putovnica.",
+      "check": "Форми puta, putovi з мого знання."
+    },
+    {
+      "id": "hr-9f445f4c",
+      "type": "verb",
+      "lemma": "rezervirati",
+      "aspect": "biaspectual",
+      "pres_1sg": "rezerviram",
+      "forms": [
+        "rezerviraš",
+        "rezervira",
+        "rezerviramo",
+        "rezervirate",
+        "rezerviraju",
+        "rezerviram"
+      ],
+      "ua": "бронювати",
+      "audio": "hr-rezervirati.mp3",
+      "explain_ua": "(Rezerviram hotel = бронюю готель). Дієслова з -irati можуть бути обох видів, пари немає. Rezerviram hotel = бронюю або забронюю.",
+      "check": "Двовидовість rezervirati з мого знання."
+    },
+    {
+      "id": "hr-3a8b4064",
+      "type": "verb",
+      "lemma": "letjeti",
+      "aspect": "impf.",
+      "pres_1sg": "letim",
+      "forms": [
+        "letiš",
+        "leti",
+        "letimo",
+        "letite",
+        "lete"
+      ],
+      "ua": "летіти",
+      "audio": "hr-letjeti.mp3",
+      "explain_ua": "(Avion leti = літак летить). Тип -jeti > -im: letim, letiš, leti. Українське летіти, російське лететь: той самий корінь, пишеться letjeti.",
+      "check": "Форми letim, leti, lete з мого знання; пару доконаного виду не подаю."
+    },
+    {
+      "id": "hr-2d658ab0",
+      "type": "verb",
+      "lemma": "vraćati",
+      "aspect": "impf.",
+      "partner": "vratiti",
+      "pres_1sg": "vraćam",
+      "forms": [
+        "vraćaš",
+        "vraća",
+        "vraćamo",
+        "vraćate",
+        "vraćaju",
+        "vratiti",
+        "vratim",
+        "vraćam"
+      ],
+      "ua": "повертати; (vraćati se) повертатися (док. vratiti)",
+      "audio": "hr-vracati.mp3",
+      "explain_ua": "(Vraćam se kući = повертаюся додому). Зворотне: vraćati se / vratiti se. Se стоїть на другому місці: Vraćam se. Vratim se u srpnju.",
+      "check": "Пару vraćati / vratiti і форми з мого знання."
+    },
+    {
+      "id": "hr-1171dc74",
+      "type": "function",
+      "lemma": "kroz",
+      "ua": "крізь, через (наскрізь) + знахідний",
+      "audio": "hr-kroz.mp3",
+      "explain_ua": "(Idem kroz grad = іду через місто). Kroz + знахідний: рух усередині, наскрізь. Українське через розпадається на три: kroz, preko, zbog.",
+      "check": "Kroz + знахідний з мого знання."
+    },
+    {
+      "id": "hr-61550127",
+      "type": "function",
+      "lemma": "preko",
+      "ua": "через (поперек), над + родовий",
+      "audio": "hr-preko.mp3",
+      "explain_ua": "(Idem preko mosta = іду через міст). Preko + родовий: через перешкоду, поперек: preko mosta, preko ceste. Avion leti preko grada.",
+      "check": "Preko + родовий з мого знання."
+    },
+    {
+      "id": "hr-651df2e6",
+      "type": "function",
+      "lemma": "pored",
+      "ua": "біля, поруч + родовий",
+      "audio": "hr-pored.mp3",
+      "explain_ua": "(Hotel je pored ceste = готель біля дороги). Pored + родовий: поруч, збоку.",
+      "check": "Pored + родовий з мого знання."
+    },
+    {
+      "id": "hr-b2f82d3d",
+      "type": "function",
+      "lemma": "ispred",
+      "ua": "перед (у просторі) + родовий",
+      "audio": "hr-ispred.mp3",
+      "explain_ua": "(Autobus je ispred hotela = автобус перед готелем). Ispred для місця, prije (Lekcija 21) для часу: prije ispita, ispred hotela.",
+      "check": "Ispred + родовий з мого знання."
+    },
+    {
+      "id": "hr-5951b2a7",
+      "type": "function",
+      "lemma": "iza",
+      "ua": "за, позаду + родовий",
+      "audio": "hr-iza.mp3",
+      "explain_ua": "(Auto je iza kuće = машина за будинком). Iza + родовий: позаду. Протилежність ispred.",
+      "check": "Iza + родовий з мого знання."
+    },
+    {
+      "id": "hr-6a432e37",
+      "type": "function",
+      "lemma": "među",
+      "ua": "між; серед (+ орудний у місці, знахідний у русі)",
+      "audio": "hr-medu.mp3",
+      "explain_ua": "(Među ljudima je puno putnika = серед людей багато пасажирів). Među + орудний, коли де (gdje?); + знахідний, коли куди (kamo?). Укр. між, серед: близько.",
+      "check": "Među + орудний (місце) / знахідний (рух) з мого знання."
+    },
+    {
+      "id": "hr-b2a39981",
+      "type": "function",
+      "lemma": "kod",
+      "ua": "біля, у (кого) + родовий",
+      "audio": "hr-kod.mp3",
+      "explain_ua": "(Čekam kod liječnika = чекаю в лікаря). Kod + родовий: де, у кого: kod liječnika, kod bake, kod kuće. K + давальний: куди, до кого: k liječniku, k baki.",
+      "check": "Kod + родовий з мого знання; k + давальний підтверджено в підручнику (k baki)."
+    },
+    {
+      "id": "hr-b1cf15b8",
+      "type": "function",
+      "lemma": "zbog",
+      "ua": "через (причина) + родовий",
+      "audio": "hr-zbog.mp3",
+      "explain_ua": "(Putujem zbog posla = подорожую через роботу). Zbog + родовий: причина: zbog posla, zbog kiše. Українське через у значенні «через дощ».",
+      "check": "Zbog + родовий з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Через: kroz, preko, zbog",
+      "summary_ua": "Українське через має три хорватські відповідники. Kroz (+ знахідний) це «крізь»: kroz grad. Preko (+ родовий) це «через перешкоду»: preko mosta. Zbog (+ родовий) це причина: zbog posla. Російське через тут теж розпадається, тому допомагають обидві мови, але лише розпізнаванням: вибір слова треба вчити.",
+      "compare": [
+        {
+          "form": "kroz + знахідний",
+          "when_ua": "Рух всередині чогось: kroz grad.",
+          "examples": [
+            {
+              "text": "Idem kroz grad.",
+              "ua": "Іду через місто.",
+              "audio": "hr-les27-rule-01.mp3"
+            },
+            {
+              "text": "Avion leti preko grada.",
+              "ua": "Літак летить над містом.",
+              "audio": "hr-les27-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Kroz grad = всередині міста, preko grada = над містом чи поперек."
+        },
+        {
+          "form": "preko + родовий",
+          "when_ua": "Через перешкоду: preko mosta, preko ceste.",
+          "examples": [
+            {
+              "text": "Idem preko mosta.",
+              "ua": "Іду через міст.",
+              "audio": "hr-les27-rule-03.mp3"
+            },
+            {
+              "text": "Brod je pored mosta.",
+              "ua": "Корабель біля мосту.",
+              "audio": "hr-les27-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: через міст = preko mosta."
+        },
+        {
+          "form": "zbog + родовий",
+          "when_ua": "Причина: zbog posla, zbog kiše.",
+          "examples": [
+            {
+              "text": "Putujem zbog posla.",
+              "ua": "Подорожую через роботу.",
+              "audio": "hr-les27-rule-05.mp3"
+            },
+            {
+              "text": "Ostajem kod kuće zbog kiše.",
+              "ua": "Залишаюся вдома через дощ.",
+              "audio": "hr-les27-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Це не jer: jer + речення, zbog + іменник у родовому."
+        }
+      ],
+      "points_ua": [
+        "Kroz + знахідний.",
+        "Preko + родовий.",
+        "Zbog + родовий (причина)."
+      ]
+    },
+    {
+      "title_ua": "Де саме: pored, ispred, iza, među",
+      "summary_ua": "Pored (біля), ispred (перед), iza (за) і kod (біля, у) вимагають родового. Među вимагає орудного, коли йдеться про місце: među ljudima. Ispred про місце, а prije (Lekcija 21) про час.",
+      "compare": [
+        {
+          "form": "pored / ispred / iza + родовий",
+          "when_ua": "pored ceste, ispred hotela, iza kuće.",
+          "examples": [
+            {
+              "text": "Hotel je pored ceste.",
+              "ua": "Готель біля дороги.",
+              "audio": "hr-les27-rule-07.mp3"
+            },
+            {
+              "text": "Autobus je ispred hotela.",
+              "ua": "Автобус перед готелем.",
+              "audio": "hr-les27-rule-08.mp3"
+            },
+            {
+              "text": "Auto je iza kuće.",
+              "ua": "Машина за будинком.",
+              "audio": "hr-les27-rule-09.mp3"
+            }
+          ],
+          "note_ua": "В українській після біля, перед, за стоять різні відмінки (біля готелю, перед готелем, за будинком). У хорватській усі три з родовим, тож це треба вчити окремо."
+        },
+        {
+          "form": "među + орудний",
+          "when_ua": "Де? Među ljudima.",
+          "examples": [
+            {
+              "text": "Među ljudima je puno putnika.",
+              "ua": "Серед людей багато пасажирів.",
+              "audio": "hr-les27-rule-10.mp3"
+            },
+            {
+              "text": "Putnik čeka ispred hotela.",
+              "ua": "Пасажир чекає перед готелем.",
+              "audio": "hr-les27-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Ljudima це орудний множини (Lekcija 20)."
+        }
+      ],
+      "points_ua": [
+        "Pored, ispred, iza, kod: усі з родовим.",
+        "Među: орудний (де?) або знахідний (куди?)."
+      ]
+    },
+    {
+      "title_ua": "K і kod: до кого, у кого",
+      "summary_ua": "K + давальний це «до»: Idem k liječniku, k baki. Kod + родовий це «у, біля»: Čekam kod liječnika, kod bake, kod kuće. Це та сама пара, що gdje і kamo: kamo? k liječniku; gdje? kod liječnika. В українській обидва «до» і «у» часто не різняться так чітко.",
+      "compare": [
+        {
+          "form": "k + давальний (куди?)",
+          "when_ua": "Рух до особи: k liječniku, k baki.",
+          "examples": [
+            {
+              "text": "Idem k liječniku.",
+              "ua": "Іду до лікаря.",
+              "audio": "hr-les27-rule-12.mp3"
+            },
+            {
+              "text": "Idem k baki.",
+              "ua": "Іду до бабусі.",
+              "audio": "hr-les27-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: до лікаря = k liječniku."
+        },
+        {
+          "form": "kod + родовий (де?)",
+          "when_ua": "Перебування біля особи: kod liječnika, kod bake, kod kuće.",
+          "examples": [
+            {
+              "text": "Čekam kod liječnika.",
+              "ua": "Чекаю в лікаря.",
+              "audio": "hr-les27-rule-14.mp3"
+            },
+            {
+              "text": "Ostajem kod bake.",
+              "ua": "Залишаюся в бабусі.",
+              "audio": "hr-les27-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Kod kuće = вдома; kući = додому (Lekcija 10)."
+        }
+      ],
+      "points_ua": [
+        "Kamo? k + давальний.",
+        "Gdje? kod + родовий.",
+        "Kod kuće (вдома), kući (додому)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Idem preko mosta.",
+      "ua": "Іду через міст.",
+      "audio": "hr-les27-example-01.mp3"
+    },
+    {
+      "text": "Idem kroz grad.",
+      "ua": "Іду через місто.",
+      "audio": "hr-les27-example-02.mp3"
+    },
+    {
+      "text": "Hotel je pored ceste.",
+      "ua": "Готель біля дороги.",
+      "audio": "hr-les27-example-03.mp3"
+    },
+    {
+      "text": "Autobus je ispred hotela.",
+      "ua": "Автобус перед готелем.",
+      "audio": "hr-les27-example-04.mp3"
+    },
+    {
+      "text": "Auto je iza kuće.",
+      "ua": "Машина за будинком.",
+      "audio": "hr-les27-example-05.mp3"
+    },
+    {
+      "text": "Čekam kod liječnika.",
+      "ua": "Чекаю в лікаря.",
+      "audio": "hr-les27-example-06.mp3"
+    },
+    {
+      "text": "Idem k liječniku.",
+      "ua": "Іду до лікаря.",
+      "audio": "hr-les27-example-07.mp3"
+    },
+    {
+      "text": "Imam putovnicu.",
+      "ua": "Маю закордонний паспорт.",
+      "audio": "hr-les27-example-08.mp3"
+    },
+    {
+      "text": "Rezerviram hotel.",
+      "ua": "Бронюю готель.",
+      "audio": "hr-les27-example-09.mp3"
+    },
+    {
+      "text": "Putovnica je u koferu.",
+      "ua": "Паспорт у валізі.",
+      "audio": "hr-les27-example-10.mp3"
+    },
+    {
+      "text": "Putujem zbog posla.",
+      "ua": "Подорожую через роботу.",
+      "audio": "hr-les27-example-11.mp3"
+    },
+    {
+      "text": "Ostajem kod kuće zbog kiše.",
+      "ua": "Залишаюся вдома через дощ.",
+      "audio": "hr-les27-example-12.mp3"
+    },
+    {
+      "text": "Avion leti preko grada.",
+      "ua": "Літак летить над містом.",
+      "audio": "hr-les27-example-13.mp3"
+    },
+    {
+      "text": "Brod je pored mosta.",
+      "ua": "Корабель біля мосту.",
+      "audio": "hr-les27-example-14.mp3"
+    },
+    {
+      "text": "Putnik čeka ispred hotela.",
+      "ua": "Пасажир чекає перед готелем.",
+      "audio": "hr-les27-example-15.mp3"
+    },
+    {
+      "text": "Granica je ovdje.",
+      "ua": "Кордон тут.",
+      "audio": "hr-les27-example-16.mp3"
+    },
+    {
+      "text": "Među ljudima je puno putnika.",
+      "ua": "Серед людей багато пасажирів.",
+      "audio": "hr-les27-example-17.mp3"
+    },
+    {
+      "text": "Vraćam se kući.",
+      "ua": "Повертаюся додому.",
+      "audio": "hr-les27-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Putovanje",
+    "title_ua": "Подорож",
+    "highlight": [
+      "hr-8b3cfbc6",
+      "hr-6fa7b305",
+      "hr-06ed8191",
+      "hr-6733b6b1",
+      "hr-c1fbe40b",
+      "hr-637892a1",
+      "hr-1171dc74",
+      "hr-61550127",
+      "hr-651df2e6",
+      "hr-b2f82d3d",
+      "hr-b1cf15b8"
+    ],
+    "sentences": [
+      {
+        "text": "Putujem u srpnju.",
+        "ua": "Подорожую в липні.",
+        "audio": "hr-les27-reading-01.mp3"
+      },
+      {
+        "text": "Rezerviram hotel.",
+        "ua": "Бронюю готель.",
+        "audio": "hr-les27-reading-02.mp3"
+      },
+      {
+        "text": "Putovnica je u koferu.",
+        "ua": "Паспорт у валізі.",
+        "audio": "hr-les27-reading-03.mp3"
+      },
+      {
+        "text": "Idem preko mosta i kroz grad.",
+        "ua": "Іду через міст і через місто.",
+        "audio": "hr-les27-reading-04.mp3"
+      },
+      {
+        "text": "Hotel je pored ceste.",
+        "ua": "Готель біля дороги.",
+        "audio": "hr-les27-reading-05.mp3"
+      },
+      {
+        "text": "Putnik čeka ispred hotela.",
+        "ua": "Пасажир чекає перед готелем.",
+        "audio": "hr-les27-reading-06.mp3"
+      },
+      {
+        "text": "Avion leti preko grada.",
+        "ua": "Літак летить над містом.",
+        "audio": "hr-les27-reading-07.mp3"
+      },
+      {
+        "text": "Zbog kiše ostajem u hotelu.",
+        "ua": "Через дощ залишаюся в готелі.",
+        "audio": "hr-les27-reading-08.mp3"
+      },
+      {
+        "text": "Vraćam se kući.",
+        "ua": "Повертаюся додому.",
+        "audio": "hr-les27-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Іду через міст.",
+          "accepted": [
+            "Idem preko mosta."
+          ]
+        },
+        {
+          "prompt": "Іду через місто.",
+          "accepted": [
+            "Idem kroz grad."
+          ]
+        },
+        {
+          "prompt": "Готель біля дороги.",
+          "accepted": [
+            "Hotel je pored ceste."
+          ]
+        },
+        {
+          "prompt": "Автобус перед готелем.",
+          "accepted": [
+            "Autobus je ispred hotela."
+          ]
+        },
+        {
+          "prompt": "Машина за будинком.",
+          "accepted": [
+            "Auto je iza kuće."
+          ]
+        },
+        {
+          "prompt": "Чекаю в лікаря.",
+          "accepted": [
+            "Čekam kod liječnika."
+          ]
+        },
+        {
+          "prompt": "Іду до лікаря.",
+          "accepted": [
+            "Idem k liječniku."
+          ]
+        },
+        {
+          "prompt": "Маю закордонний паспорт.",
+          "accepted": [
+            "Imam putovnicu."
+          ]
+        },
+        {
+          "prompt": "Бронюю готель.",
+          "accepted": [
+            "Rezerviram hotel."
+          ]
+        },
+        {
+          "prompt": "Паспорт у валізі.",
+          "accepted": [
+            "Putovnica je u koferu."
+          ]
+        },
+        {
+          "prompt": "Подорожую через роботу.",
+          "accepted": [
+            "Putujem zbog posla."
+          ]
+        },
+        {
+          "prompt": "Залишаюся вдома через дощ.",
+          "accepted": [
+            "Ostajem kod kuće zbog kiše."
+          ]
+        },
+        {
+          "prompt": "Літак летить над містом.",
+          "accepted": [
+            "Avion leti preko grada."
+          ]
+        },
+        {
+          "prompt": "Серед людей багато пасажирів.",
+          "accepted": [
+            "Među ljudima je puno putnika."
+          ]
+        },
+        {
+          "prompt": "Повертаюся додому.",
+          "accepted": [
+            "Vraćam se kući."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "kroz",
+        "preko",
+        "pored",
+        "ispred",
+        "iza",
+        "kod",
+        "zbog",
+        "među",
+        "k",
+        "mosta",
+        "ceste",
+        "hotela",
+        "koferu",
+        "putovnicu",
+        "hotel",
+        "avion"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Idem ___ mosta.",
+          "hint": "Іду через міст.",
+          "accepted": [
+            [
+              "preko"
+            ]
+          ]
+        },
+        {
+          "text": "Idem ___ grad.",
+          "hint": "Іду через місто.",
+          "accepted": [
+            [
+              "kroz"
+            ]
+          ]
+        },
+        {
+          "text": "Hotel je ___ ceste.",
+          "hint": "Готель біля дороги.",
+          "accepted": [
+            [
+              "pored"
+            ]
+          ]
+        },
+        {
+          "text": "Autobus je ___ hotela.",
+          "hint": "Автобус перед готелем.",
+          "accepted": [
+            [
+              "ispred"
+            ]
+          ]
+        },
+        {
+          "text": "Auto je ___ kuće.",
+          "hint": "Машина за будинком.",
+          "accepted": [
+            [
+              "iza"
+            ]
+          ]
+        },
+        {
+          "text": "Čekam ___ liječnika.",
+          "hint": "Чекаю в лікаря.",
+          "accepted": [
+            [
+              "kod"
+            ]
+          ]
+        },
+        {
+          "text": "Putujem ___ posla.",
+          "hint": "Подорожую через роботу.",
+          "accepted": [
+            [
+              "zbog"
+            ]
+          ]
+        },
+        {
+          "text": "___ ljudima je puno putnika.",
+          "hint": "Серед людей багато пасажирів.",
+          "accepted": [
+            [
+              "Među"
+            ]
+          ]
+        },
+        {
+          "text": "Idem ___ liječniku.",
+          "hint": "Іду до лікаря.",
+          "accepted": [
+            [
+              "k"
+            ]
+          ]
+        },
+        {
+          "text": "Idem preko ___.",
+          "hint": "Іду через міст.",
+          "accepted": [
+            [
+              "mosta"
+            ]
+          ]
+        },
+        {
+          "text": "Hotel je pored ___.",
+          "hint": "Готель біля дороги.",
+          "accepted": [
+            [
+              "ceste"
+            ]
+          ]
+        },
+        {
+          "text": "Autobus je ispred ___.",
+          "hint": "Автобус перед готелем.",
+          "accepted": [
+            [
+              "hotela"
+            ]
+          ]
+        },
+        {
+          "text": "Putovnica je u ___.",
+          "hint": "Паспорт у валізі.",
+          "accepted": [
+            [
+              "koferu"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___.",
+          "hint": "Маю закордонний паспорт.",
+          "accepted": [
+            [
+              "putovnicu"
+            ]
+          ]
+        },
+        {
+          "text": "Rezerviram ___.",
+          "hint": "Бронюю готель.",
+          "accepted": [
+            [
+              "hotel"
+            ]
+          ]
+        },
+        {
+          "text": "___ leti preko grada.",
+          "hint": "Літак летить над містом.",
+          "accepted": [
+            [
+              "Avion"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Auto je iza kuće.",
+          "cue": "-> ispred",
+          "accepted": [
+            "Auto je ispred kuće."
+          ]
+        },
+        {
+          "prompt": "Autobus je ispred hotela.",
+          "cue": "-> iza",
+          "accepted": [
+            "Autobus je iza hotela."
+          ]
+        },
+        {
+          "prompt": "Autobus je ispred hotela.",
+          "cue": "-> pored",
+          "accepted": [
+            "Autobus je pored hotela."
+          ]
+        },
+        {
+          "prompt": "Idem preko mosta.",
+          "cue": "-> kroz grad",
+          "accepted": [
+            "Idem kroz grad."
+          ]
+        },
+        {
+          "prompt": "Idem k liječniku.",
+          "cue": "-> Čekam ...",
+          "accepted": [
+            "Čekam kod liječnika."
+          ]
+        },
+        {
+          "prompt": "Idem k baki.",
+          "cue": "-> Čekam ...",
+          "accepted": [
+            "Čekam kod bake."
+          ]
+        },
+        {
+          "prompt": "Idem k direktoru.",
+          "cue": "-> Čekam ...",
+          "accepted": [
+            "Čekam kod direktora."
+          ]
+        },
+        {
+          "prompt": "Čekam kod liječnika.",
+          "cue": "-> Idem ...",
+          "accepted": [
+            "Idem k liječniku."
+          ]
+        },
+        {
+          "prompt": "Čekam kod bake.",
+          "cue": "-> Idem ...",
+          "accepted": [
+            "Idem k baki."
+          ]
+        },
+        {
+          "prompt": "Idem preko grad.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem kroz grad."
+          ]
+        },
+        {
+          "prompt": "Idem k liječnika.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem k liječniku."
+          ]
+        },
+        {
+          "prompt": "Čekam kod liječniku.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čekam kod liječnika."
+          ]
+        },
+        {
+          "prompt": "Hotel je pored cesta.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hotel je pored ceste."
+          ]
+        },
+        {
+          "prompt": "Putujem zbog posao.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Putujem zbog posla."
+          ]
+        },
+        {
+          "prompt": "Idem preko most.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem preko mosta."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ hotel.",
+          "cue": "rezervirati",
+          "accepted": [
+            "rezerviram"
+          ]
+        },
+        {
+          "text": "Ti ___ hotel.",
+          "cue": "rezervirati",
+          "accepted": [
+            "rezerviraš"
+          ]
+        },
+        {
+          "text": "Mi ___ hotel.",
+          "cue": "rezervirati",
+          "accepted": [
+            "rezerviramo"
+          ]
+        },
+        {
+          "text": "Ja ___ preko grada.",
+          "cue": "letjeti",
+          "accepted": [
+            "letim"
+          ]
+        },
+        {
+          "text": "Ti ___ preko grada.",
+          "cue": "letjeti",
+          "accepted": [
+            "letiš"
+          ]
+        },
+        {
+          "text": "Avion ___ preko grada.",
+          "cue": "letjeti",
+          "accepted": [
+            "leti"
+          ]
+        },
+        {
+          "text": "Oni ___ preko grada.",
+          "cue": "letjeti",
+          "accepted": [
+            "lete"
+          ]
+        },
+        {
+          "text": "Ja se ___ kući.",
+          "cue": "vraćati",
+          "accepted": [
+            "vraćam"
+          ]
+        },
+        {
+          "text": "Ti se ___ kući.",
+          "cue": "vraćati",
+          "accepted": [
+            "vraćaš"
+          ]
+        },
+        {
+          "text": "Mi se ___ kući.",
+          "cue": "vraćati",
+          "accepted": [
+            "vraćamo"
+          ]
+        },
+        {
+          "text": "Ja se ___ u srpnju.",
+          "cue": "vratiti",
+          "accepted": [
+            "vratim"
+          ]
+        },
+        {
+          "text": "Oni se ___ kući.",
+          "cue": "vraćati",
+          "accepted": [
+            "vraćaju"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "літак",
+          "answer": "avion"
+        },
+        {
+          "prompt": "корабель",
+          "answer": "brod"
+        },
+        {
+          "prompt": "закордонний паспорт",
+          "answer": "putovnica"
+        },
+        {
+          "prompt": "валіза",
+          "answer": "kofer"
+        },
+        {
+          "prompt": "готель",
+          "answer": "hotel"
+        },
+        {
+          "prompt": "бронювання",
+          "answer": "rezervacija"
+        },
+        {
+          "prompt": "кордон",
+          "answer": "granica"
+        },
+        {
+          "prompt": "дорога (автомобільна)",
+          "answer": "cesta"
+        },
+        {
+          "prompt": "міст",
+          "answer": "most"
+        },
+        {
+          "prompt": "пасажир",
+          "answer": "putnik"
+        },
+        {
+          "prompt": "шлях, подорож",
+          "answer": "put"
+        },
+        {
+          "prompt": "крізь, через місто",
+          "answer": "kroz"
+        },
+        {
+          "prompt": "через міст",
+          "answer": "preko"
+        },
+        {
+          "prompt": "біля, поруч",
+          "answer": "pored"
+        },
+        {
+          "prompt": "перед (у просторі)",
+          "answer": "ispred"
+        },
+        {
+          "prompt": "за, позаду",
+          "answer": "iza"
+        },
+        {
+          "prompt": "через (причина)",
+          "answer": "zbog"
+        },
+        {
+          "prompt": "між, серед",
+          "answer": "među"
+        }
+      ],
+      "extra": [
+        "prije",
+        "nakon"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

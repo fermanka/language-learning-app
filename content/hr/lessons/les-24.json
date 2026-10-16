@@ -1,0 +1,1244 @@
+{
+  "id": "hr-les-24",
+  "lang": "hr",
+  "order": 24,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [],
+  "notes": [
+    {
+      "id": "hr-514ee03a",
+      "type": "noun",
+      "lemma": "kuhinja",
+      "gender": "ž.",
+      "gen_sg": "kuhinje",
+      "plural": [
+        "kuhinje"
+      ],
+      "ua": "кухня",
+      "audio": "hr-kuhinja.mp3",
+      "forms": [
+        "kuhinju",
+        "kuhinji"
+      ],
+      "explain_ua": "(Čistim kuhinju = прибираю кухню). Жіночий рід на -a, як škola: kuhinja, kuhinje, kuhinju, u kuhinji. Українське кухня: майже те саме слово.",
+      "check": "Форми kuhinje, kuhinju, kuhinji за зразком škola; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-afc06645",
+      "type": "noun",
+      "lemma": "kupaonica",
+      "gender": "ž.",
+      "gen_sg": "kupaonice",
+      "plural": [
+        "kupaonice"
+      ],
+      "ua": "ванна кімната",
+      "audio": "hr-kupaonica.mp3",
+      "forms": [
+        "kupaonicu",
+        "kupaonici"
+      ],
+      "explain_ua": "(Kupaonica je mala = ванна мала). Жіночий рід на -a: kupaonica, kupaonice, kupaonicu, u kupaonici. Корінь kupati se «купатися», як в українській.",
+      "check": "Форми за зразком škola; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-959adbc5",
+      "type": "noun",
+      "lemma": "krevet",
+      "gender": "m.",
+      "gen_sg": "kreveta",
+      "plural": [
+        "kreveti"
+      ],
+      "ua": "ліжко",
+      "audio": "hr-krevet.mp3",
+      "forms": [
+        "krevetu"
+      ],
+      "explain_ua": "(Spavam u svom krevetu = сплю у своєму ліжку). Неживе чоловічого роду: krevet, kreveta, u krevetu. Нестійкого e тут немає. Українське ліжко: корінь інший, слово треба вчити.",
+      "check": "Форми kreveta, kreveti, krevetu з мого знання."
+    },
+    {
+      "id": "hr-d2417196",
+      "type": "noun",
+      "lemma": "ormar",
+      "gender": "m.",
+      "gen_sg": "ormara",
+      "plural": [
+        "ormari"
+      ],
+      "ua": "шафа",
+      "audio": "hr-ormar.mp3",
+      "forms": [
+        "ormaru"
+      ],
+      "explain_ua": "(Knjiga je u ormaru = книжка в шафі). Неживе чоловічого роду: ormar, ormara, u ormaru. Українське шафа: корінь інший, слово треба вчити.",
+      "check": "Форми ormara, ormari, ormaru з мого знання."
+    },
+    {
+      "id": "hr-d2e012a5",
+      "type": "noun",
+      "lemma": "polica",
+      "gender": "ž.",
+      "gen_sg": "police",
+      "plural": [
+        "police"
+      ],
+      "ua": "полиця",
+      "audio": "hr-polica.mp3",
+      "forms": [
+        "policu",
+        "polici"
+      ],
+      "explain_ua": "(Knjiga je na polici = книжка на полиці). Жіночий рід на -a: polica, police, policu, na polici. Українське полиця: слово схоже, і закінчення подібні.",
+      "check": "Форми police, policu, polici за зразком škola."
+    },
+    {
+      "id": "hr-70d83967",
+      "type": "noun",
+      "lemma": "tepih",
+      "gender": "m.",
+      "gen_sg": "tepiha",
+      "plural": [
+        "tepisi"
+      ],
+      "ua": "килим",
+      "audio": "hr-tepih.mp3",
+      "forms": [
+        "tepihu"
+      ],
+      "explain_ua": "(Ključ je na tepihu = ключ на килимі). Неживе чоловічого роду: tepih, tepiha, na tepihu. У множині h може стати s: tepisi. Українське килим, російське ковёр: тут нічого не переноситься.",
+      "check": "Множину tepisi і форму tepihu краще перевірити в словнику."
+    },
+    {
+      "id": "hr-35002800",
+      "type": "noun",
+      "lemma": "prozor",
+      "gender": "m.",
+      "gen_sg": "prozora",
+      "plural": [
+        "prozori"
+      ],
+      "ua": "вікно",
+      "audio": "hr-prozor.mp3",
+      "explain_ua": "(Otvaram prozor = відчиняю вікно). Чоловічого роду, не середнього: prozor, prozora, prozori. У підручнику prozor є серед зразків відмінювання (с. 121).",
+      "check": "Prozor у зразках відмінювання підтверджено; решта форм за тим зразком."
+    },
+    {
+      "id": "hr-96ea71fa",
+      "type": "noun",
+      "lemma": "vrata",
+      "gender": "s.",
+      "gen_sg": "vrata",
+      "plural": [
+        "vrata"
+      ],
+      "ua": "двері (тільки множина)",
+      "audio": "hr-vrata.mp3",
+      "explain_ua": "(Otvorite vrata = відчиніть двері). Середнього роду, лише множина: vrata, vrata. Українські двері теж лише множина, тут збігається.",
+      "check": "Vrata як pluralia tantum з мого знання; у джерелах цього уроку слова немає."
+    },
+    {
+      "id": "hr-6a190449",
+      "type": "noun",
+      "lemma": "zid",
+      "gender": "m.",
+      "gen_sg": "zida",
+      "plural": [
+        "zidovi"
+      ],
+      "ua": "стіна (зовнішня, кам'яна)",
+      "audio": "hr-zid.mp3",
+      "forms": [
+        "zidu"
+      ],
+      "explain_ua": "(Slika je na zidu = картина на стіні). Zid це стіна споруди чи кімнати. Чоловічого роду, множина з -ov-: zidovi.",
+      "check": "Форми zida, zidovi, zidu за правилом -ov-."
+    },
+    {
+      "id": "hr-d3cfcc60",
+      "type": "noun",
+      "lemma": "pod",
+      "gender": "m.",
+      "gen_sg": "poda",
+      "plural": [
+        "podovi"
+      ],
+      "ua": "підлога",
+      "audio": "hr-pod.mp3",
+      "forms": [
+        "podu"
+      ],
+      "explain_ua": "(Tepih je na podu = килим на підлозі). Коротке слово, чоловічого роду: pod, poda, na podu, множина podovi.",
+      "check": "Форми poda, podovi, podu з мого знання."
+    },
+    {
+      "id": "hr-fc191b0a",
+      "type": "noun",
+      "lemma": "krov",
+      "gender": "m.",
+      "gen_sg": "krova",
+      "plural": [
+        "krovovi"
+      ],
+      "ua": "дах",
+      "audio": "hr-krov.mp3",
+      "explain_ua": "(Krov je star = дах старий). Чоловічого роду: krov, krova, krovovi. Українське дах, російське крыша: корінь інший.",
+      "check": "Форми krova, krovovi з мого знання."
+    },
+    {
+      "id": "hr-097d4d7a",
+      "type": "noun",
+      "lemma": "vrt",
+      "gender": "m.",
+      "gen_sg": "vrta",
+      "plural": [
+        "vrtovi"
+      ],
+      "ua": "сад, город біля дому",
+      "audio": "hr-vrt.mp3",
+      "forms": [
+        "vrtu"
+      ],
+      "explain_ua": "(Volim svoj vrt = люблю свій сад). Vrt це сад біля дому. Чоловічого роду: vrt, vrta, u vrtu, vrtovi. Не плутай із parkom.",
+      "check": "Форми vrta, vrtovi, vrtu з мого знання."
+    },
+    {
+      "id": "hr-dba1a766",
+      "type": "noun",
+      "lemma": "stepenica",
+      "gender": "ž.",
+      "gen_sg": "stepenice",
+      "plural": [
+        "stepenice"
+      ],
+      "ua": "сходинка (множина: сходи)",
+      "audio": "hr-stepenica.mp3",
+      "forms": [
+        "stepenice"
+      ],
+      "explain_ua": "(Stepenice su ovdje = сходи тут). Найчастіше вживається множина: stepenice «сходи». Жіночий рід на -a.",
+      "check": "Форми за зразком škola; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-f40bff3e",
+      "type": "noun",
+      "lemma": "lift",
+      "gender": "m.",
+      "gen_sg": "lifta",
+      "plural": [
+        "liftovi"
+      ],
+      "ua": "ліфт",
+      "audio": "hr-lift.mp3",
+      "forms": [
+        "liftu"
+      ],
+      "explain_ua": "(Taj lift je star = той ліфт старий). Чоловічого роду: lift, lifta, u liftu, liftovi.",
+      "check": "Форми lifta, liftovi, liftu з мого знання."
+    },
+    {
+      "id": "hr-3f35a0db",
+      "type": "noun",
+      "lemma": "kat",
+      "gender": "m.",
+      "gen_sg": "kata",
+      "plural": [
+        "katovi"
+      ],
+      "ua": "поверх",
+      "audio": "hr-kat.mp3",
+      "forms": [
+        "katu",
+        "stanu"
+      ],
+      "explain_ua": "(Imam stan na katu = маю квартиру на поверсі). Kat це поверх у будинку. Чоловічого роду: kat, kata, na katu. У цій ноті також форма stanu (u stanu = у квартирі, з stan, Lekcija 2).",
+      "check": "Форми kata, katovi, katu та stanu з мого знання."
+    },
+    {
+      "id": "hr-69afe2f2",
+      "type": "noun",
+      "lemma": "ključ",
+      "gender": "m.",
+      "gen_sg": "ključa",
+      "plural": [
+        "ključevi"
+      ],
+      "ua": "ключ",
+      "audio": "hr-kljuc.mp3",
+      "explain_ua": "(Moj ključ je ovdje = мій ключ тут). Чоловічого роду з -ev- (після ч): ključ, ključa, ključevi. Українське ключ: слово схоже, але закінчення множини інше.",
+      "check": "Форми ključa, ključevi за правилом -ev- після ч."
+    },
+    {
+      "id": "hr-484b9ad2",
+      "type": "noun",
+      "lemma": "balkon",
+      "gender": "m.",
+      "gen_sg": "balkona",
+      "plural": [
+        "balkoni"
+      ],
+      "ua": "балкон",
+      "audio": "hr-balkon.mp3",
+      "forms": [
+        "balkonu"
+      ],
+      "explain_ua": "(Ovaj stan ima balkon = ця квартира має балкон). Чоловічого роду: balkon, balkona, na balkonu, balkoni.",
+      "check": "Форми balkona, balkoni, balkonu з мого знання."
+    },
+    {
+      "id": "hr-84e4ea16",
+      "type": "verb",
+      "lemma": "čistiti",
+      "aspect": "impf.",
+      "partner": "počistiti",
+      "pres_1sg": "čistim",
+      "forms": [
+        "počistiti",
+        "počistim",
+        "čistiš",
+        "čisti",
+        "čistimo",
+        "čistite",
+        "čiste",
+        "čistim"
+      ],
+      "ua": "чистити, прибирати (док. počistiti)",
+      "audio": "hr-cistiti.mp3",
+      "explain_ua": "(Čistim kuhinju = прибираю кухню). Пара: čistiti (недок., čistim) / počistiti (док., počistim). Тип -iti > -im, як у підручнику (с. 316).",
+      "check": "Пару čistiti / počistiti з мого знання; тип -iti > -im підтверджено (с. 316)."
+    },
+    {
+      "id": "hr-7bdd94aa",
+      "type": "verb",
+      "lemma": "otvarati",
+      "aspect": "impf.",
+      "partner": "otvoriti",
+      "pres_1sg": "otvaram",
+      "forms": [
+        "otvoriti",
+        "otvorim",
+        "otvorite",
+        "otvori",
+        "otvaraš",
+        "otvara",
+        "otvaramo",
+        "otvarate",
+        "otvaraju",
+        "otvaram"
+      ],
+      "ua": "відчиняти (док. otvoriti)",
+      "audio": "hr-otvarati.mp3",
+      "explain_ua": "(Otvaram prozor = відчиняю вікно). Пара: otvarati (недок., otvaram) / otvoriti (док., otvorim). Наказ: otvori, otvorite.",
+      "check": "Пару otvarati / otvoriti і форми з мого знання; наказ за шаблоном -i / -ite (с. 120)."
+    },
+    {
+      "id": "hr-74f7464f",
+      "type": "function",
+      "lemma": "svoj",
+      "ua": "свій (власний, відноситься до підмета)",
+      "audio": "hr-svoj.mp3",
+      "forms": [
+        "svoja",
+        "svoje",
+        "svoju",
+        "svom",
+        "svoj",
+        "njegov",
+        "njegova",
+        "njegovu"
+      ],
+      "explain_ua": "(Volim svoj vrt = люблю свій сад; Ivan čisti njegov vrt = Іван прибирає його (чужий) сад). Svoj це «свій» і стоїть, коли власник = підмет. Njegov це «його» (когось іншого). Форми: svoj, svoja, svoje, svoju, svom.",
+      "check": "Svoj і njegov з мого знання; в підручнику лише moj, tvoj, naš, vaš (с. 308)."
+    },
+    {
+      "id": "hr-589d7308",
+      "type": "function",
+      "lemma": "ovaj",
+      "ua": "цей (taj = той, онаj = он той)",
+      "audio": "hr-ovaj.mp3",
+      "forms": [
+        "ova",
+        "ovo",
+        "ovu",
+        "ovom",
+        "ovoj",
+        "taj",
+        "ta",
+        "to",
+        "tu",
+        "tom",
+        "toj",
+        "onaj",
+        "onu",
+        "onom",
+        "onoj"
+      ],
+      "explain_ua": "(Ovaj stan, taj lift, onaj vrt). Три віддалі: ovaj (близько мене), taj (близько тебе), onaj (далеко). Змінюються за родом і відмінком: ovaj stan, ova kuhinja, ovo pismo; u ovoj kuhinji, na tom katu.",
+      "check": "Форми з мого знання за зразком moj/tvoj; в підручнику цієї таблиці не бачив."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Svoj проти njegov: чий власник",
+      "summary_ua": "Svoj стоїть, коли власник це підмет речення: Ivan voli svoj vrt (його власний). Njegov стоїть, коли власник хтось інший: Ivan čisti njegov vrt (не свій). Свій і свой працюють у цій логіці майже так само, тому на це допомагають обидві мови.",
+      "compare": [
+        {
+          "form": "svoj / svoja / svoje / svoju",
+          "when_ua": "Власник = підмет: svoj vrt, svoju kuhinju.",
+          "examples": [
+            {
+              "text": "Ivan voli svoj vrt.",
+              "ua": "Іван любить свій сад.",
+              "audio": "hr-les24-rule-01.mp3"
+            },
+            {
+              "text": "Čistim svoju kuhinju.",
+              "ua": "Прибираю свою кухню.",
+              "audio": "hr-les24-rule-02.mp3"
+            },
+            {
+              "text": "Majka čisti svoju kupaonicu.",
+              "ua": "Мама прибирає свою ванну.",
+              "audio": "hr-les24-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: свій = svoj."
+        },
+        {
+          "form": "njegov (чужий власник)",
+          "when_ua": "Власник інший: njegov vrt = сад іншого чоловіка.",
+          "examples": [
+            {
+              "text": "Ivan čisti njegov vrt.",
+              "ua": "Іван прибирає його (чужий) сад.",
+              "audio": "hr-les24-rule-04.mp3"
+            },
+            {
+              "text": "Volim njegov vrt.",
+              "ua": "Я люблю його сад.",
+              "audio": "hr-les24-rule-05.mp3"
+            },
+            {
+              "text": "Njegov stan ima balkon.",
+              "ua": "Його квартира має балкон.",
+              "audio": "hr-les24-rule-06.mp3"
+            }
+          ],
+          "note_ua": "У третьому реченні підмет це stan, а власник «він» не є підметом, тому тут njegov. Svoj не стоїть при підметі в називному."
+        }
+      ],
+      "points_ua": [
+        "Svoj: власник = підмет.",
+        "Njegov: чужий власник.",
+        "Svoj не буває в називному, як підмет."
+      ]
+    },
+    {
+      "title_ua": "Ovaj, taj, onaj: цей, той, он той",
+      "summary_ua": "Три слова для віддалі: ovaj (близько), taj (середнє), onaj (далеко). Узгоджуються з іменником у роді й відмінку: ovaj lift, ova kuhinja, ovo; u ovoj kuhinji; na tom katu.",
+      "compare": [
+        {
+          "form": "ovaj / taj / onaj + іменник",
+          "when_ua": "Називний (і знахідний неживого чоловічого): ovaj stan, taj lift, onaj vrt.",
+          "examples": [
+            {
+              "text": "Ovaj stan ima balkon.",
+              "ua": "Ця квартира має балкон.",
+              "audio": "hr-les24-rule-07.mp3"
+            },
+            {
+              "text": "Taj lift je star.",
+              "ua": "Той ліфт старий.",
+              "audio": "hr-les24-rule-08.mp3"
+            },
+            {
+              "text": "Onaj vrt je lijep.",
+              "ua": "Той сад гарний.",
+              "audio": "hr-les24-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Українське цей, той, отой: три ступені є, тут допомагає українська."
+        },
+        {
+          "form": "u ovoj, na tom (місцевий)",
+          "when_ua": "Місцевий відмінок: u ovoj kuhinji, na tom katu.",
+          "examples": [
+            {
+              "text": "U ovoj kuhinji kuham ručak.",
+              "ua": "У цій кухні готую обід.",
+              "audio": "hr-les24-rule-10.mp3"
+            },
+            {
+              "text": "Na tom katu imam stan.",
+              "ua": "На тому поверсі маю квартиру.",
+              "audio": "hr-les24-rule-11.mp3"
+            },
+            {
+              "text": "U onoj kupaonici je mali tepih.",
+              "ua": "У тій ванній маленький килим.",
+              "audio": "hr-les24-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Жіночий -oj, чоловічий і середній -om."
+        }
+      ],
+      "points_ua": [
+        "Ovaj, taj, onaj: близько, середнє, далеко.",
+        "Жіночий u ovoj kuhinji, чоловічий na tom katu."
+      ]
+    },
+    {
+      "title_ua": "Де що стоїть: na і u + місцевий",
+      "summary_ua": "Gdje? Na polici, na podu, na tepihu, u ormaru, u krevetu, u vrtu, u liftu. Чоловічі з -u, жіночі з -i. Це Lekcija 2, тепер з новими словами.",
+      "compare": [
+        {
+          "form": "-u (чол.), -i (жін.)",
+          "when_ua": "u ormaru, na podu, u kuhinji, na polici.",
+          "examples": [
+            {
+              "text": "Knjiga je na polici.",
+              "ua": "Книжка на полиці.",
+              "audio": "hr-les24-rule-13.mp3"
+            },
+            {
+              "text": "Tepih je na podu.",
+              "ua": "Килим на підлозі.",
+              "audio": "hr-les24-rule-14.mp3"
+            },
+            {
+              "text": "Knjiga je u ormaru.",
+              "ua": "Куртка в шафі.",
+              "audio": "hr-les24-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Це як в українській: у шафі, на підлозі."
+        }
+      ],
+      "points_ua": [
+        "Чоловічі й середні: -u (u ormaru, u vrtu).",
+        "Жіночі: -i (na polici, u kuhinji)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Kuhinja je mala, a kupaonica je velika.",
+      "ua": "Кухня мала, а ванна велика.",
+      "audio": "hr-les24-example-01.mp3"
+    },
+    {
+      "text": "Krevet je velik, a ormar je star.",
+      "ua": "Ліжко велике, а шафа стара.",
+      "audio": "hr-les24-example-02.mp3"
+    },
+    {
+      "text": "Knjiga je na polici.",
+      "ua": "Книжка на полиці.",
+      "audio": "hr-les24-example-03.mp3"
+    },
+    {
+      "text": "Tepih je na podu.",
+      "ua": "Килим на підлозі.",
+      "audio": "hr-les24-example-04.mp3"
+    },
+    {
+      "text": "Moj ključ je na tepihu.",
+      "ua": "Мій ключ на килимі.",
+      "audio": "hr-les24-example-05.mp3"
+    },
+    {
+      "text": "Otvaram prozor.",
+      "ua": "Відчиняю вікно.",
+      "audio": "hr-les24-example-06.mp3"
+    },
+    {
+      "text": "Otvorite vrata, molim vas.",
+      "ua": "Відчиніть двері, будь ласка.",
+      "audio": "hr-les24-example-07.mp3"
+    },
+    {
+      "text": "Čistim svoju kuhinju.",
+      "ua": "Прибираю свою кухню.",
+      "audio": "hr-les24-example-08.mp3"
+    },
+    {
+      "text": "Ivan voli svoj vrt.",
+      "ua": "Іван любить свій сад.",
+      "audio": "hr-les24-example-09.mp3"
+    },
+    {
+      "text": "Ivan čisti njegov vrt.",
+      "ua": "Іван прибирає його (чужий) сад.",
+      "audio": "hr-les24-example-10.mp3"
+    },
+    {
+      "text": "Majka čisti svoju kupaonicu.",
+      "ua": "Мама прибирає свою ванну.",
+      "audio": "hr-les24-example-11.mp3"
+    },
+    {
+      "text": "Ovaj stan ima balkon.",
+      "ua": "Ця квартира має балкон.",
+      "audio": "hr-les24-example-12.mp3"
+    },
+    {
+      "text": "Taj lift je star.",
+      "ua": "Той ліфт старий.",
+      "audio": "hr-les24-example-13.mp3"
+    },
+    {
+      "text": "Onaj vrt je lijep.",
+      "ua": "Той сад гарний.",
+      "audio": "hr-les24-example-14.mp3"
+    },
+    {
+      "text": "U ovoj kuhinji kuham ručak.",
+      "ua": "У цій кухні готую обід.",
+      "audio": "hr-les24-example-15.mp3"
+    },
+    {
+      "text": "Na tom katu imam stan.",
+      "ua": "На тому поверсі маю квартиру.",
+      "audio": "hr-les24-example-16.mp3"
+    },
+    {
+      "text": "Spavam u svom krevetu.",
+      "ua": "Сплю у своєму ліжку.",
+      "audio": "hr-les24-example-17.mp3"
+    },
+    {
+      "text": "Stepenice su ovdje.",
+      "ua": "Сходи тут.",
+      "audio": "hr-les24-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Moj stan",
+    "title_ua": "Моя квартира",
+    "highlight": [
+      "hr-514ee03a",
+      "hr-afc06645",
+      "hr-959adbc5",
+      "hr-d2417196",
+      "hr-35002800",
+      "hr-3f35a0db",
+      "hr-484b9ad2",
+      "hr-74f7464f"
+    ],
+    "sentences": [
+      {
+        "text": "Imam stan na katu.",
+        "ua": "Маю квартиру на поверсі.",
+        "audio": "hr-les24-reading-01.mp3"
+      },
+      {
+        "text": "U stanu je velika kuhinja.",
+        "ua": "У квартирі велика кухня.",
+        "audio": "hr-les24-reading-02.mp3"
+      },
+      {
+        "text": "Kupaonica je mala, a balkon je velik.",
+        "ua": "Ванна мала, а балкон великий.",
+        "audio": "hr-les24-reading-03.mp3"
+      },
+      {
+        "text": "Ovdje je moj krevet.",
+        "ua": "Тут моє ліжко.",
+        "audio": "hr-les24-reading-04.mp3"
+      },
+      {
+        "text": "Moj ormar je star.",
+        "ua": "Моя шафа стара.",
+        "audio": "hr-les24-reading-05.mp3"
+      },
+      {
+        "text": "Svoju kuhinju čistim često.",
+        "ua": "Свою кухню прибираю часто.",
+        "audio": "hr-les24-reading-06.mp3"
+      },
+      {
+        "text": "Ujutro otvaram prozor.",
+        "ua": "Вранці відчиняю вікно.",
+        "audio": "hr-les24-reading-07.mp3"
+      },
+      {
+        "text": "Navečer čitam knjigu u svom krevetu.",
+        "ua": "Ввечері читаю книжку у своєму ліжку.",
+        "audio": "hr-les24-reading-08.mp3"
+      },
+      {
+        "text": "Volim svoj stan.",
+        "ua": "Люблю свою квартиру.",
+        "audio": "hr-les24-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Кухня мала, а ванна велика.",
+          "accepted": [
+            "Kuhinja je mala, a kupaonica je velika."
+          ]
+        },
+        {
+          "prompt": "Книжка на полиці.",
+          "accepted": [
+            "Knjiga je na polici."
+          ]
+        },
+        {
+          "prompt": "Килим на підлозі.",
+          "accepted": [
+            "Tepih je na podu."
+          ]
+        },
+        {
+          "prompt": "Мій ключ на килимі.",
+          "accepted": [
+            "Moj ključ je na tepihu."
+          ]
+        },
+        {
+          "prompt": "Відчиняю вікно.",
+          "accepted": [
+            "Otvaram prozor."
+          ]
+        },
+        {
+          "prompt": "Відчиніть двері, будь ласка.",
+          "accepted": [
+            "Otvorite vrata, molim vas."
+          ]
+        },
+        {
+          "prompt": "Прибираю свою кухню.",
+          "accepted": [
+            "Čistim svoju kuhinju."
+          ]
+        },
+        {
+          "prompt": "Іван любить свій сад.",
+          "accepted": [
+            "Ivan voli svoj vrt."
+          ]
+        },
+        {
+          "prompt": "Іван прибирає його (чужий) сад.",
+          "accepted": [
+            "Ivan čisti njegov vrt."
+          ]
+        },
+        {
+          "prompt": "Ця квартира має балкон.",
+          "accepted": [
+            "Ovaj stan ima balkon."
+          ]
+        },
+        {
+          "prompt": "Той ліфт старий.",
+          "accepted": [
+            "Taj lift je star."
+          ]
+        },
+        {
+          "prompt": "Той сад гарний.",
+          "accepted": [
+            "Onaj vrt je lijep."
+          ]
+        },
+        {
+          "prompt": "У цій кухні готую обід.",
+          "accepted": [
+            "U ovoj kuhinji kuham ručak."
+          ]
+        },
+        {
+          "prompt": "Сплю у своєму ліжку.",
+          "accepted": [
+            "Spavam u svom krevetu."
+          ]
+        },
+        {
+          "prompt": "Сходи тут.",
+          "accepted": [
+            "Stepenice su ovdje."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "kuhinju",
+        "kupaonica",
+        "krevetu",
+        "ormaru",
+        "polici",
+        "tepihu",
+        "prozor",
+        "vrata",
+        "podu",
+        "vrt",
+        "lift",
+        "katu",
+        "ključ",
+        "balkon",
+        "svoju",
+        "njegov"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Čistim svoju ___.",
+          "hint": "Прибираю свою кухню.",
+          "accepted": [
+            [
+              "kuhinju"
+            ]
+          ]
+        },
+        {
+          "text": "Moja ___ je mala.",
+          "hint": "Моя ванна мала.",
+          "accepted": [
+            [
+              "kupaonica"
+            ]
+          ]
+        },
+        {
+          "text": "Spavam u svom ___.",
+          "hint": "Сплю у своєму ліжку.",
+          "accepted": [
+            [
+              "krevetu"
+            ]
+          ]
+        },
+        {
+          "text": "Knjiga je u ___.",
+          "hint": "Куртка в шафі.",
+          "accepted": [
+            [
+              "ormaru"
+            ]
+          ]
+        },
+        {
+          "text": "Knjiga je na ___.",
+          "hint": "Книжка на полиці.",
+          "accepted": [
+            [
+              "polici"
+            ]
+          ]
+        },
+        {
+          "text": "Ključ je na ___.",
+          "hint": "Ключ на килимі.",
+          "accepted": [
+            [
+              "tepihu"
+            ]
+          ]
+        },
+        {
+          "text": "Otvaram ___.",
+          "hint": "Відчиняю вікно.",
+          "accepted": [
+            [
+              "prozor"
+            ]
+          ]
+        },
+        {
+          "text": "Otvorite ___, molim vas.",
+          "hint": "Відчиніть двері, будь ласка.",
+          "accepted": [
+            [
+              "vrata"
+            ]
+          ]
+        },
+        {
+          "text": "Tepih je na ___.",
+          "hint": "Килим на підлозі.",
+          "accepted": [
+            [
+              "podu"
+            ]
+          ]
+        },
+        {
+          "text": "Ivan voli svoj ___.",
+          "hint": "Іван любить свій сад.",
+          "accepted": [
+            [
+              "vrt"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ je star.",
+          "hint": "Той ліфт старий.",
+          "accepted": [
+            [
+              "lift"
+            ]
+          ]
+        },
+        {
+          "text": "Na tom ___ imam stan.",
+          "hint": "На тому поверсі маю квартиру.",
+          "accepted": [
+            [
+              "katu"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je ovdje.",
+          "hint": "Мій ключ тут.",
+          "accepted": [
+            [
+              "ključ"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj stan ima ___.",
+          "hint": "Ця квартира має балкон.",
+          "accepted": [
+            [
+              "balkon"
+            ]
+          ]
+        },
+        {
+          "text": "Majka čisti svoju ___.",
+          "hint": "Мама прибирає свою ванну.",
+          "accepted": [
+            [
+              "kupaonicu"
+            ]
+          ]
+        },
+        {
+          "text": "Ivan čisti ___ vrt.",
+          "hint": "Іван прибирає його (чужий) сад.",
+          "accepted": [
+            [
+              "njegov"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Otvori prozor.",
+          "cue": "-> ви",
+          "accepted": [
+            "Otvorite prozor."
+          ]
+        },
+        {
+          "prompt": "Ovaj stan je velik.",
+          "cue": "-> taj",
+          "accepted": [
+            "Taj stan je velik."
+          ]
+        },
+        {
+          "prompt": "Ovaj lift je star.",
+          "cue": "-> onaj",
+          "accepted": [
+            "Onaj lift je star."
+          ]
+        },
+        {
+          "prompt": "Ova kuhinja je mala.",
+          "cue": "-> ta",
+          "accepted": [
+            "Ta kuhinja je mala."
+          ]
+        },
+        {
+          "prompt": "Čistim kuhinju.",
+          "cue": "-> додай свою",
+          "accepted": [
+            "Čistim svoju kuhinju."
+          ]
+        },
+        {
+          "prompt": "Volim vrt.",
+          "cue": "-> додай svoj",
+          "accepted": [
+            "Volim svoj vrt."
+          ]
+        },
+        {
+          "prompt": "Knjiga je ovdje.",
+          "cue": "-> на полиці",
+          "accepted": [
+            "Knjiga je na polici."
+          ]
+        },
+        {
+          "prompt": "Tepih je ovdje.",
+          "cue": "-> на підлозі",
+          "accepted": [
+            "Tepih je na podu."
+          ]
+        },
+        {
+          "prompt": "Knjiga je ovdje.",
+          "cue": "-> у шафі",
+          "accepted": [
+            "Knjiga je u ormaru."
+          ]
+        },
+        {
+          "prompt": "Čistim svoj kuhinju.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čistim svoju kuhinju."
+          ]
+        },
+        {
+          "prompt": "Knjiga je na polica.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Knjiga je na polici."
+          ]
+        },
+        {
+          "prompt": "Tepih je na pod.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Tepih je na podu."
+          ]
+        },
+        {
+          "prompt": "Na tom kat imam stan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Na tom katu imam stan."
+          ]
+        },
+        {
+          "prompt": "U ovom kuhinji kuham ručak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "U ovoj kuhinji kuham ručak."
+          ]
+        },
+        {
+          "prompt": "Otvori vrata.",
+          "cue": "-> ви",
+          "accepted": [
+            "Otvorite vrata."
+          ]
+        },
+        {
+          "prompt": "Ivan voli njegov vrt.",
+          "cue": "-> власний сад Івана",
+          "accepted": [
+            "Ivan voli svoj vrt."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ kuhinju.",
+          "cue": "čistiti",
+          "accepted": [
+            "čistim"
+          ]
+        },
+        {
+          "text": "Ti ___ kuhinju.",
+          "cue": "čistiti",
+          "accepted": [
+            "čistiš"
+          ]
+        },
+        {
+          "text": "Majka ___ kupaonicu.",
+          "cue": "čistiti",
+          "accepted": [
+            "čisti"
+          ]
+        },
+        {
+          "text": "Mi ___ stan.",
+          "cue": "čistiti",
+          "accepted": [
+            "čistimo"
+          ]
+        },
+        {
+          "text": "Vi ___ vrt.",
+          "cue": "čistiti",
+          "accepted": [
+            "čistite"
+          ]
+        },
+        {
+          "text": "Ja ___ prozor.",
+          "cue": "otvarati",
+          "accepted": [
+            "otvaram"
+          ]
+        },
+        {
+          "text": "Ti ___ prozor.",
+          "cue": "otvarati",
+          "accepted": [
+            "otvaraš"
+          ]
+        },
+        {
+          "text": "Oni ___ vrata.",
+          "cue": "otvarati",
+          "accepted": [
+            "otvaraju"
+          ]
+        },
+        {
+          "text": "Ja ___ vrata.",
+          "cue": "otvoriti",
+          "accepted": [
+            "otvorim"
+          ]
+        },
+        {
+          "text": "(vi) ___ vrata!",
+          "cue": "otvoriti",
+          "accepted": [
+            "otvorite"
+          ]
+        },
+        {
+          "text": "(ti) ___ prozor!",
+          "cue": "otvoriti",
+          "accepted": [
+            "otvori"
+          ]
+        },
+        {
+          "text": "Ja ___ kuhinju.",
+          "cue": "počistiti",
+          "accepted": [
+            "počistim"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "кухня",
+          "answer": "kuhinja"
+        },
+        {
+          "prompt": "ванна кімната",
+          "answer": "kupaonica"
+        },
+        {
+          "prompt": "ліжко",
+          "answer": "krevet"
+        },
+        {
+          "prompt": "шафа",
+          "answer": "ormar"
+        },
+        {
+          "prompt": "полиця",
+          "answer": "polica"
+        },
+        {
+          "prompt": "килим",
+          "answer": "tepih"
+        },
+        {
+          "prompt": "вікно",
+          "answer": "prozor"
+        },
+        {
+          "prompt": "двері",
+          "answer": "vrata"
+        },
+        {
+          "prompt": "стіна",
+          "answer": "zid"
+        },
+        {
+          "prompt": "підлога",
+          "answer": "pod"
+        },
+        {
+          "prompt": "дах",
+          "answer": "krov"
+        },
+        {
+          "prompt": "сад",
+          "answer": "vrt"
+        },
+        {
+          "prompt": "сходи",
+          "answer": "stepenice"
+        },
+        {
+          "prompt": "ліфт",
+          "answer": "lift"
+        },
+        {
+          "prompt": "поверх",
+          "answer": "kat"
+        },
+        {
+          "prompt": "ключ",
+          "answer": "ključ"
+        },
+        {
+          "prompt": "балкон",
+          "answer": "balkon"
+        }
+      ],
+      "extra": [
+        "soba",
+        "stolica"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun"
+      ]
+    }
+  ]
+}
