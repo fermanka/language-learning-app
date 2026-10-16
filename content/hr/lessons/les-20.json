@@ -1,0 +1,1214 @@
+{
+  "id": "hr-les-20",
+  "lang": "hr",
+  "order": 20,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "o"
+  ],
+  "notes": [
+    {
+      "id": "hr-a352dcfe",
+      "type": "noun",
+      "lemma": "kolega",
+      "gender": "m.",
+      "gen_sg": "kolege",
+      "plural": [
+        "kolege"
+      ],
+      "ua": "колега",
+      "audio": "hr-kolega.mp3",
+      "forms": [
+        "kolegama"
+      ],
+      "explain_ua": "(Razgovaram s kolegama = я розмовляю з колегами). Слово чоловічого роду, але відмінюється як жіноче на -a: kolega, kolege, kolegama. Орудний, давальний і місцевий множини однакові: kolegama (-ama, як sestr-ama в таблиці підручника, с. 310)",
+      "check": "Те, що kolega відмінюється як слово на -a, з мого знання за зразком gospođ-a; саме слово в підручнику відсутнє."
+    },
+    {
+      "id": "hr-598eca1c",
+      "type": "noun",
+      "lemma": "kolegica",
+      "gender": "ž.",
+      "gen_sg": "kolegice",
+      "plural": [
+        "kolegice"
+      ],
+      "ua": "колежанка",
+      "audio": "hr-kolegica.mp3",
+      "forms": [
+        "kolegicama"
+      ],
+      "explain_ua": "(Pišem kolegicama = пишу колежанкам). Жіночий рід на -ica: kolegica, kolegice, kolegicama (D, L, I множини)",
+      "check": "Форми kolegice, kolegicama з мого знання за зразком gospodic-a, gospodic-ama, у підручнику самого слова немає."
+    },
+    {
+      "id": "hr-76b48988",
+      "type": "noun",
+      "lemma": "šef",
+      "gender": "m.",
+      "gen_sg": "šefa",
+      "plural": [
+        "šefovi"
+      ],
+      "ua": "начальник, керівник",
+      "audio": "hr-sef.mp3",
+      "forms": [
+        "šefovima"
+      ],
+      "explain_ua": "(Pišem šefovima = пишу начальникам). Односкладове слово: множина šefovi (-ov-), D, L, I множини šefovima (grad-ov-ima в таблиці підручника)",
+      "check": "Форми šefa, šefovi, šefovima з мого знання за зразком grad-ov-i, grad-ov-ima, у підручнику самого слова немає."
+    },
+    {
+      "id": "hr-d78ab4b3",
+      "type": "noun",
+      "lemma": "ured",
+      "gender": "m.",
+      "gen_sg": "ureda",
+      "plural": [
+        "uredi"
+      ],
+      "ua": "офіс, канцелярія",
+      "audio": "hr-ured.mp3",
+      "forms": [
+        "uredu",
+        "uredima"
+      ],
+      "explain_ua": "(Ponedjeljkom sam u uredu = по понеділках я в офісі). Неживе чоловічого роду: знахідний ured без змін, місцевий однини uredu, множини uredima",
+      "check": "Форми ureda, uredi, uredu, uredima з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-d5635823",
+      "type": "noun",
+      "lemma": "sastanak",
+      "gender": "m.",
+      "gen_sg": "sastanka",
+      "plural": [
+        "sastanci"
+      ],
+      "ua": "нарада, зустріч",
+      "audio": "hr-sastanak.mp3",
+      "forms": [
+        "sastancima"
+      ],
+      "explain_ua": "(Razgovaramo o sastancima = ми розмовляємо про наради). Нестійке -a-: sastanak, sastanka. У множині k стає c: sastanci, sastancima (як putnic-ima в таблиці підручника, k > c)",
+      "check": "Форми sastanka, sastanci, sastancima з мого знання за правилом k > c з підручника (с. 310), саме слово там відсутнє."
+    },
+    {
+      "id": "hr-1408749c",
+      "type": "noun",
+      "lemma": "firma",
+      "gender": "ž.",
+      "gen_sg": "firme",
+      "plural": [
+        "firme"
+      ],
+      "ua": "фірма, компанія",
+      "audio": "hr-firma.mp3",
+      "forms": [
+        "firmi"
+      ],
+      "explain_ua": "(Godinama radim u firmi = я роками працюю у фірмі). Жіночий рід на -a: firma, firme, місцевий однини firmi. Розмовне слово; в офіційному тексті кажуть і tvrtka",
+      "check": "Форми firme, firmi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-6f8300b9",
+      "type": "noun",
+      "lemma": "učionica",
+      "gender": "ž.",
+      "gen_sg": "učionice",
+      "plural": [
+        "učionice"
+      ],
+      "ua": "клас (кімната)",
+      "audio": "hr-ucionica.mp3",
+      "forms": [
+        "učionici",
+        "učionicama"
+      ],
+      "explain_ua": "(Učenici su u učionicama = учні в класах). Це кімната, а razred (Lekcija 13) це клас як група учнів. Жіночий рід на -ica: učionici (місцевий однини), učionicama (множини)",
+      "check": "Форми učionice, učionici, učionicama з мого знання за зразком gospodic-a, у підручнику самого слова немає."
+    },
+    {
+      "id": "hr-d8a62694",
+      "type": "verb",
+      "lemma": "pomagati",
+      "aspect": "impf.",
+      "partner": "pomoći",
+      "pres_1sg": "pomažem",
+      "forms": [
+        "pomoći",
+        "pomognem"
+      ],
+      "ua": "допомагати",
+      "audio": "hr-pomagati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "pomažem",
+          "audio": "hr-ja-pomazem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "pomažeš",
+          "audio": "hr-ti-pomazes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "pomaže",
+          "audio": "hr-on-pomaze.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "pomažemo",
+          "audio": "hr-mi-pomazemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "pomažete",
+          "audio": "hr-vi-pomazete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "pomažu",
+          "audio": "hr-oni-pomazu.mp3"
+        }
+      ],
+      "explain_ua": "(Učitelj pomaže učenicima = вчитель допомагає учням). Після pomagati давальний: pomažem kolegama. Пара: pomagati (недок.) / pomoći (док., pomognem). g стає ž перед закінченням: pomažem. У підручнику pomagati стоїть серед дієслів, що вимагають давального (с. 305)",
+      "check": "Форми pomažem, pomognem і пара pomagati / pomoći з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-7fc1eeb7",
+      "type": "function",
+      "lemma": "ponedjeljkom",
+      "ua": "по понеділках (орудний, повторюваність)",
+      "audio": "hr-ponedjeljkom.mp3",
+      "forms": [
+        "srijedom",
+        "petkom",
+        "nedjeljom",
+        "godinama",
+        "mjesecima"
+      ],
+      "explain_ua": "(Ponedjeljkom sam u uredu = по понеділках я в офісі; Godinama radim u firmi = я працюю роками). Орудний без прийменника для звички (ponedjeljkom, srijedom, petkom, nedjeljom: щоразу в цей день) і для тривалості (godinama, mjesecima: роками, місяцями). Це підручник, с. 306: Ponedjeljkom igram nogomet. Godinama nisam vidjela brata. Українське «по понеділках» будується інакше (по + місцевий), тож тут не допомагає",
+      "check": "Форми ponedjeljkom, srijedom, godinama, mjesecima підтверджено в підручнику; petkom, nedjeljom з мого знання за тим самим зразком."
+    },
+    {
+      "id": "hr-284d4992",
+      "type": "function",
+      "lemma": "ljudima",
+      "ua": "людям, про людей, з людьми (D, L, I множини)",
+      "audio": "hr-ljudima.mp3",
+      "forms": [
+        "prijateljima",
+        "roditeljima",
+        "učenicima"
+      ],
+      "explain_ua": "(Radim s ljudima = я працюю з людьми). Давальний, місцевий і орудний множини однакові: -ima для чоловічого й середнього роду. Тут також зібрані форми слів з попередніх уроків: prijateljima (prijatelj), roditeljima (roditelj), učenicima (učenik, k стає c)",
+      "check": "Форма ljudima з мого знання, у підручнику показано лише множину ljudi; prijateljima, roditeljima, učenicima за таблицею підручника (prijatelj-ima, putnic-ima)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Давальний, місцевий, орудний множини: один кінець -ima / -ama",
+      "summary_ua": "У множині три відмінки мають однакове закінчення: давальний (кому?), місцевий (де? про кого?) і орудний (з ким?). Чоловічий і середній рід: -ima (prijateljima, selima, ljudima). Жіночий рід на -a: -ama (sestrama, kolegama, učionicama). Це спрощення: в українській і російській три різні закінчення (друзям, друзях, друзями). Таблиця підручника (с. 310) показує те саме.",
+      "compare": [
+        {
+          "form": "чоловічий і середній рід: -ima",
+          "when_ua": "Prijatelj, prijateljima; učenik, učenicima (k стає c); šef, šefovima (-ov-).",
+          "examples": [
+            {
+              "text": "Razgovaram s prijateljima.",
+              "ua": "Я розмовляю з друзями.",
+              "audio": "hr-les20-rule-01.mp3"
+            },
+            {
+              "text": "Šefovi su na sastancima.",
+              "ua": "Начальники на нарадах.",
+              "audio": "hr-les20-rule-02.mp3"
+            },
+            {
+              "text": "Radim s ljudima.",
+              "ua": "Я працюю з людьми.",
+              "audio": "hr-les20-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Одне закінчення для трьох відмінків: тож для прийменників s, o, na, u форму не міняєш."
+        },
+        {
+          "form": "жіночий рід на -a: -ama",
+          "when_ua": "Kolegica, kolegicama; učionica, učionicama; kolega (чоловічий, але як на -a), kolegama.",
+          "examples": [
+            {
+              "text": "Razgovaram s kolegama.",
+              "ua": "Я розмовляю з колегами.",
+              "audio": "hr-les20-rule-04.mp3"
+            },
+            {
+              "text": "Pišem kolegicama.",
+              "ua": "Я пишу колежанкам.",
+              "audio": "hr-les20-rule-05.mp3"
+            },
+            {
+              "text": "Učenici su u učionicama.",
+              "ua": "Учні в класах.",
+              "audio": "hr-les20-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Kolega чоловічого роду, але закінчення -ama, бо слово на -a."
+        },
+        {
+          "form": "k стає c, -ov-: sastancima, šefovima",
+          "when_ua": "Слова на -k: k > c (sastanak, sastanci, sastancima). Односкладові: -ov- (šef, šefovi, šefovima).",
+          "examples": [
+            {
+              "text": "Razgovaramo o sastancima.",
+              "ua": "Ми розмовляємо про наради.",
+              "audio": "hr-les20-rule-07.mp3"
+            },
+            {
+              "text": "Pišem šefovima.",
+              "ua": "Я пишу начальникам.",
+              "audio": "hr-les20-rule-08.mp3"
+            },
+            {
+              "text": "Kolege su u uredima.",
+              "ua": "Колеги в офісах.",
+              "audio": "hr-les20-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Це зміни, які ти вже знаєш: k > c (як knjizi, majci) і -ov- у множині (gradovi)."
+        }
+      ],
+      "points_ua": [
+        "D, L, I множини: -ima (ч., с.), -ama (ж. на -a). Три відмінки, одне закінчення.",
+        "Українська має три форми (друзям, друзях, друзями): хорватська простіша.",
+        "k > c: sastancima, učenicima. -ov-: šefovima."
+      ]
+    },
+    {
+      "title_ua": "Де яке: pišem roditeljima, o kolegama, s kolegama",
+      "summary_ua": "Кінець той самий, але прийменник і дієслово показують, який відмінок. Давальний: pišem, dajem, pomažem + кому. Місцевий: o, u, na + про кого, де. Орудний: s + з ким.",
+      "compare": [
+        {
+          "form": "давальний: кому?",
+          "when_ua": "Pisati, davati, pomagati вимагають давального: pišem roditeljima.",
+          "examples": [
+            {
+              "text": "Pišem roditeljima.",
+              "ua": "Я пишу батькам.",
+              "audio": "hr-les20-rule-10.mp3"
+            },
+            {
+              "text": "Dajem knjige učenicima.",
+              "ua": "Я даю книжки учням.",
+              "audio": "hr-les20-rule-11.mp3"
+            },
+            {
+              "text": "Učitelj pomaže učenicima.",
+              "ua": "Вчитель допомагає учням.",
+              "audio": "hr-les20-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 8, але тепер у множині."
+        },
+        {
+          "form": "місцевий: про кого, де",
+          "when_ua": "O (про), u, na + місцевий множини.",
+          "examples": [
+            {
+              "text": "Razgovaramo o kolegama.",
+              "ua": "Ми розмовляємо про колег.",
+              "audio": "hr-les20-rule-13.mp3"
+            },
+            {
+              "text": "Roditelji su na sastancima.",
+              "ua": "Батьки на нарадах.",
+              "audio": "hr-les20-rule-14.mp3"
+            },
+            {
+              "text": "Kolege su u uredima.",
+              "ua": "Колеги в офісах.",
+              "audio": "hr-les20-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 2: u, na, o + місцевий, тепер у множині."
+        },
+        {
+          "form": "орудний: з ким",
+          "when_ua": "S + орудний множини: s kolegama, s prijateljima.",
+          "examples": [
+            {
+              "text": "Idem s prijateljima u park.",
+              "ua": "Я йду з друзями в парк.",
+              "audio": "hr-les20-rule-16.mp3"
+            },
+            {
+              "text": "Učiteljica razgovara s roditeljima.",
+              "ua": "Вчителька розмовляє з батьками.",
+              "audio": "hr-les20-rule-17.mp3"
+            },
+            {
+              "text": "Radim s kolegama.",
+              "ua": "Я працюю з колегами.",
+              "audio": "hr-les20-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 14: s + орудний, тепер у множині."
+        }
+      ],
+      "points_ua": [
+        "Давальний: pišem, dajem, pomažem + кому. Місцевий: o, u, na. Орудний: s.",
+        "Кінець той самий, тож відмінок ти бачиш за дієсловом або прийменником."
+      ]
+    },
+    {
+      "title_ua": "Займенники множини: nas, nama, vama, njima",
+      "summary_ua": "Особові займенники множини мають такі форми (таблиця підручника, с. 312). Mi: nas (G, A), nama / nam (D), o nama (L), s nama (I). Vi: vas, vama / vam, o vama, s vama. Oni, one, ona: njih / ih, njima / im, o njima, s njima. Короткі форми nam, vam, im, ih, nas, vas ти вже знаєш (Lekcija 8 і 13).",
+      "compare": [
+        {
+          "form": "довгі: nas, nama, vama, njima",
+          "when_ua": "Довга форма після прийменника, на початку речення чи для підкреслення: o nama, s vama, njima.",
+          "examples": [
+            {
+              "text": "Učiteljica nas zove.",
+              "ua": "Вчителька кличе нас.",
+              "audio": "hr-les20-rule-19.mp3"
+            },
+            {
+              "text": "O nama razgovaraju roditelji.",
+              "ua": "Про нас розмовляють батьки.",
+              "audio": "hr-les20-rule-20.mp3"
+            },
+            {
+              "text": "Idem s vama na sastanak.",
+              "ua": "Я йду з вами на нараду.",
+              "audio": "hr-les20-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Nas і vas однакові в родовому і знахідному, а o nama, s vama в місцевому й орудному."
+        },
+        {
+          "form": "короткі давальні: nam, vam, im",
+          "when_ua": "Звичайні короткі форми клітики на другому місці: Kolege nam pomažu.",
+          "examples": [
+            {
+              "text": "Kolege nam pomažu.",
+              "ua": "Колеги допомагають нам.",
+              "audio": "hr-les20-rule-22.mp3"
+            },
+            {
+              "text": "Dajem vam knjige.",
+              "ua": "Я даю вам книжки.",
+              "audio": "hr-les20-rule-23.mp3"
+            },
+            {
+              "text": "Dajem im knjige.",
+              "ua": "Я даю їм книжки.",
+              "audio": "hr-les20-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 8: nam, vam, im. Довгі nama, vama, njima для підкреслення."
+        }
+      ],
+      "points_ua": [
+        "Mi: nas, nama (nam), o nama, s nama. Vi: vas, vama (vam), o vama, s vama.",
+        "Oni: njih (ih), njima (im), o njima, s njima.",
+        "Довгі після прийменника чи для підкреслення, короткі для звичайної мови."
+      ]
+    },
+    {
+      "title_ua": "Орудний без прийменника: ponedjeljkom, godinama",
+      "summary_ua": "Орудний множини й однини без прийменника має ще два вживання. Повторюваність: ponedjeljkom (по понеділках), srijedom, petkom, nedjeljom. Тривалість: godinama (роками), mjesecima (місяцями). Це підручник, с. 306.",
+      "compare": [
+        {
+          "form": "по днях: ponedjeljkom, srijedom",
+          "when_ua": "День тижня в орудному однини значить «кожного разу в цей день».",
+          "examples": [
+            {
+              "text": "Ponedjeljkom sam u uredu.",
+              "ua": "По понеділках я в офісі.",
+              "audio": "hr-les20-rule-25.mp3"
+            },
+            {
+              "text": "Srijedom idem u školu.",
+              "ua": "По середах я йду до школи.",
+              "audio": "hr-les20-rule-26.mp3"
+            },
+            {
+              "text": "Nedjeljom ne radim.",
+              "ua": "По неділях я не працюю.",
+              "audio": "hr-les20-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Українське «по понеділках» має по + місцевий, хорватська просто ponedjeljkom. Тут українська вводить в оману."
+        },
+        {
+          "form": "як довго: godinama, mjesecima",
+          "when_ua": "Godinama, mjesecima значить «роками, місяцями» (довго).",
+          "examples": [
+            {
+              "text": "Godinama radim u firmi.",
+              "ua": "Я роками працюю у фірмі.",
+              "audio": "hr-les20-rule-28.mp3"
+            },
+            {
+              "text": "Mjesecima nisam bila u školi.",
+              "ua": "Місяцями я не була в школі.",
+              "audio": "hr-les20-rule-29.mp3"
+            },
+            {
+              "text": "Godinama čekam.",
+              "ua": "Я роками чекаю.",
+              "audio": "hr-les20-rule-30.mp3"
+            }
+          ],
+          "note_ua": "У підручнику: Godinama nisam vidjela brata. Mjesecima nisam bio u kinu."
+        }
+      ],
+      "points_ua": [
+        "День тижня в орудному: щоразу в цей день (ponedjeljkom).",
+        "Godinama, mjesecima: роками, місяцями. Без прийменника."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Razgovaram s kolegama.",
+      "ua": "Я розмовляю з колегами.",
+      "audio": "hr-les20-example-01.mp3"
+    },
+    {
+      "text": "Pišem roditeljima.",
+      "ua": "Я пишу батькам.",
+      "audio": "hr-les20-example-02.mp3"
+    },
+    {
+      "text": "Dajem knjige učenicima.",
+      "ua": "Я даю книжки учням.",
+      "audio": "hr-les20-example-03.mp3"
+    },
+    {
+      "text": "Učiteljica razgovara s roditeljima.",
+      "ua": "Вчителька розмовляє з батьками.",
+      "audio": "hr-les20-example-04.mp3"
+    },
+    {
+      "text": "Razgovaramo o kolegama.",
+      "ua": "Ми розмовляємо про колег.",
+      "audio": "hr-les20-example-05.mp3"
+    },
+    {
+      "text": "Razgovaramo o sastancima.",
+      "ua": "Ми розмовляємо про наради.",
+      "audio": "hr-les20-example-06.mp3"
+    },
+    {
+      "text": "Idem s prijateljima u park.",
+      "ua": "Я йду з друзями в парк.",
+      "audio": "hr-les20-example-07.mp3"
+    },
+    {
+      "text": "Učitelj pomaže učenicima.",
+      "ua": "Вчитель допомагає учням.",
+      "audio": "hr-les20-example-08.mp3"
+    },
+    {
+      "text": "Učenici su u učionicama.",
+      "ua": "Учні в класах.",
+      "audio": "hr-les20-example-09.mp3"
+    },
+    {
+      "text": "Šefovi su na sastancima.",
+      "ua": "Начальники на нарадах.",
+      "audio": "hr-les20-example-10.mp3"
+    },
+    {
+      "text": "Radim s ljudima.",
+      "ua": "Я працюю з людьми.",
+      "audio": "hr-les20-example-11.mp3"
+    },
+    {
+      "text": "Kolege su u uredima.",
+      "ua": "Колеги в офісах.",
+      "audio": "hr-les20-example-12.mp3"
+    },
+    {
+      "text": "Ponedjeljkom sam u uredu.",
+      "ua": "По понеділках я в офісі.",
+      "audio": "hr-les20-example-13.mp3"
+    },
+    {
+      "text": "Srijedom idem u školu.",
+      "ua": "По середах я йду до школи.",
+      "audio": "hr-les20-example-14.mp3"
+    },
+    {
+      "text": "Nedjeljom ne radim.",
+      "ua": "По неділях я не працюю.",
+      "audio": "hr-les20-example-15.mp3"
+    },
+    {
+      "text": "Godinama radim u firmi.",
+      "ua": "Я роками працюю у фірмі.",
+      "audio": "hr-les20-example-16.mp3"
+    },
+    {
+      "text": "O nama razgovaraju roditelji.",
+      "ua": "Про нас розмовляють батьки.",
+      "audio": "hr-les20-example-17.mp3"
+    },
+    {
+      "text": "Idem s vama na sastanak.",
+      "ua": "Я йду з вами на нараду.",
+      "audio": "hr-les20-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Na poslu i u školi",
+    "title_ua": "На роботі і в школі",
+    "highlight": [
+      "hr-a352dcfe",
+      "hr-76b48988",
+      "hr-d78ab4b3",
+      "hr-d5635823",
+      "hr-6f8300b9",
+      "hr-7fc1eeb7",
+      "hr-284d4992"
+    ],
+    "sentences": [
+      {
+        "text": "Ponedjeljkom radim u uredu.",
+        "ua": "По понеділках я працюю в офісі.",
+        "audio": "hr-les20-reading-01.mp3"
+      },
+      {
+        "text": "Šef razgovara s kolegama.",
+        "ua": "Начальник розмовляє з колегами.",
+        "audio": "hr-les20-reading-02.mp3"
+      },
+      {
+        "text": "Srijedom idem na sastanak.",
+        "ua": "По середах я йду на нараду.",
+        "audio": "hr-les20-reading-03.mp3"
+      },
+      {
+        "text": "Kolege nam pomažu.",
+        "ua": "Колеги допомагають нам.",
+        "audio": "hr-les20-reading-04.mp3"
+      },
+      {
+        "text": "U školi razgovaram s roditeljima.",
+        "ua": "У школі я розмовляю з батьками.",
+        "audio": "hr-les20-reading-05.mp3"
+      },
+      {
+        "text": "Učiteljica pomaže učenicima.",
+        "ua": "Вчителька допомагає учням.",
+        "audio": "hr-les20-reading-06.mp3"
+      },
+      {
+        "text": "Učenici su u učionici.",
+        "ua": "Учні в класі.",
+        "audio": "hr-les20-reading-07.mp3"
+      },
+      {
+        "text": "Pišem roditeljima.",
+        "ua": "Я пишу батькам.",
+        "audio": "hr-les20-reading-08.mp3"
+      },
+      {
+        "text": "Godinama radim s ljudima.",
+        "ua": "Я роками працюю з людьми.",
+        "audio": "hr-les20-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я розмовляю з колегами.",
+          "accepted": [
+            "Razgovaram s kolegama.",
+            "Ja razgovaram s kolegama."
+          ]
+        },
+        {
+          "prompt": "Я пишу батькам.",
+          "accepted": [
+            "Pišem roditeljima.",
+            "Ja pišem roditeljima."
+          ]
+        },
+        {
+          "prompt": "Я даю книжки учням.",
+          "accepted": [
+            "Dajem knjige učenicima.",
+            "Ja dajem knjige učenicima."
+          ]
+        },
+        {
+          "prompt": "Вчителька розмовляє з батьками.",
+          "accepted": [
+            "Učiteljica razgovara s roditeljima."
+          ]
+        },
+        {
+          "prompt": "Ми розмовляємо про колег.",
+          "accepted": [
+            "Razgovaramo o kolegama."
+          ]
+        },
+        {
+          "prompt": "Ми розмовляємо про наради.",
+          "accepted": [
+            "Razgovaramo o sastancima."
+          ]
+        },
+        {
+          "prompt": "Я йду з друзями в парк.",
+          "accepted": [
+            "Idem s prijateljima u park.",
+            "Ja idem s prijateljima u park."
+          ]
+        },
+        {
+          "prompt": "Вчитель допомагає учням.",
+          "accepted": [
+            "Učitelj pomaže učenicima."
+          ]
+        },
+        {
+          "prompt": "Учні в класах.",
+          "accepted": [
+            "Učenici su u učionicama."
+          ]
+        },
+        {
+          "prompt": "Начальники на нарадах.",
+          "accepted": [
+            "Šefovi su na sastancima."
+          ]
+        },
+        {
+          "prompt": "Я працюю з людьми.",
+          "accepted": [
+            "Radim s ljudima.",
+            "Ja radim s ljudima."
+          ]
+        },
+        {
+          "prompt": "Колеги в офісах.",
+          "accepted": [
+            "Kolege su u uredima."
+          ]
+        },
+        {
+          "prompt": "По понеділках я в офісі.",
+          "accepted": [
+            "Ponedjeljkom sam u uredu.",
+            "Ponedjeljkom sam ja u uredu."
+          ]
+        },
+        {
+          "prompt": "По середах я йду до школи.",
+          "accepted": [
+            "Srijedom idem u školu.",
+            "Srijedom ja idem u školu."
+          ]
+        },
+        {
+          "prompt": "По неділях я не працюю.",
+          "accepted": [
+            "Nedjeljom ne radim.",
+            "Nedjeljom ja ne radim."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "kolegama",
+        "roditeljima",
+        "učenicima",
+        "prijateljima",
+        "ljudima",
+        "sastancima",
+        "uredima",
+        "učionicama",
+        "šefovima",
+        "nama",
+        "vama",
+        "njima",
+        "Ponedjeljkom",
+        "Srijedom",
+        "Nedjeljom",
+        "Godinama"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Razgovaram s ___.",
+          "hint": "Я розмовляю з колегами.",
+          "accepted": [
+            [
+              "kolegama"
+            ]
+          ]
+        },
+        {
+          "text": "Pišem ___.",
+          "hint": "Я пишу батькам.",
+          "accepted": [
+            [
+              "roditeljima"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem knjige ___.",
+          "hint": "Я даю книжки учням.",
+          "accepted": [
+            [
+              "učenicima"
+            ]
+          ]
+        },
+        {
+          "text": "Idem s ___ u park.",
+          "hint": "Я йду з друзями в парк.",
+          "accepted": [
+            [
+              "prijateljima"
+            ]
+          ]
+        },
+        {
+          "text": "Radim s ___.",
+          "hint": "Я працюю з людьми.",
+          "accepted": [
+            [
+              "ljudima"
+            ]
+          ]
+        },
+        {
+          "text": "Razgovaramo o ___.",
+          "hint": "Ми розмовляємо про наради.",
+          "accepted": [
+            [
+              "sastancima"
+            ]
+          ]
+        },
+        {
+          "text": "Kolege su u ___.",
+          "hint": "Колеги в офісах.",
+          "accepted": [
+            [
+              "uredima"
+            ]
+          ]
+        },
+        {
+          "text": "Učenici su u ___.",
+          "hint": "Учні в класах.",
+          "accepted": [
+            [
+              "učionicama"
+            ]
+          ]
+        },
+        {
+          "text": "Pišem ___.",
+          "hint": "Я пишу начальникам.",
+          "accepted": [
+            [
+              "šefovima"
+            ]
+          ]
+        },
+        {
+          "text": "Idem s ___ na sastanak.",
+          "hint": "Я йду з вами на нараду.",
+          "accepted": [
+            [
+              "vama"
+            ]
+          ]
+        },
+        {
+          "text": "O ___ razgovaraju roditelji.",
+          "hint": "Про нас розмовляють батьки.",
+          "accepted": [
+            [
+              "nama"
+            ]
+          ]
+        },
+        {
+          "text": "Razgovaram s ___.",
+          "hint": "Я розмовляю з ними.",
+          "accepted": [
+            [
+              "njima"
+            ]
+          ]
+        },
+        {
+          "text": "___ sam u uredu.",
+          "hint": "По понеділках я в офісі.",
+          "accepted": [
+            [
+              "Ponedjeljkom"
+            ]
+          ]
+        },
+        {
+          "text": "___ idem u školu.",
+          "hint": "По середах я йду до школи.",
+          "accepted": [
+            [
+              "Srijedom"
+            ]
+          ]
+        },
+        {
+          "text": "___ ne radim.",
+          "hint": "По неділях я не працюю.",
+          "accepted": [
+            [
+              "Nedjeljom"
+            ]
+          ]
+        },
+        {
+          "text": "___ radim u firmi.",
+          "hint": "Я роками працюю у фірмі.",
+          "accepted": [
+            [
+              "Godinama"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка: заміни слово, клітик або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Razgovaram s kolegama.",
+          "cue": "-> батьки (roditelji)",
+          "accepted": [
+            "Razgovaram s roditeljima."
+          ]
+        },
+        {
+          "prompt": "Razgovaram s kolegama.",
+          "cue": "-> друзі (prijatelji)",
+          "accepted": [
+            "Razgovaram s prijateljima."
+          ]
+        },
+        {
+          "prompt": "Razgovaram s kolegama.",
+          "cue": "-> учні (učenici)",
+          "accepted": [
+            "Razgovaram s učenicima."
+          ]
+        },
+        {
+          "prompt": "Razgovaram s kolegama.",
+          "cue": "-> люди (ljudi)",
+          "accepted": [
+            "Razgovaram s ljudima."
+          ]
+        },
+        {
+          "prompt": "Pišem roditeljima.",
+          "cue": "-> колеги (kolege)",
+          "accepted": [
+            "Pišem kolegama."
+          ]
+        },
+        {
+          "prompt": "Pišem roditeljima.",
+          "cue": "-> начальники (šefovi)",
+          "accepted": [
+            "Pišem šefovima."
+          ]
+        },
+        {
+          "prompt": "Pišem roditeljima.",
+          "cue": "-> колежанки (kolegice)",
+          "accepted": [
+            "Pišem kolegicama."
+          ]
+        },
+        {
+          "prompt": "Razgovaramo o kolegama.",
+          "cue": "-> наради (sastanci)",
+          "accepted": [
+            "Razgovaramo o sastancima."
+          ]
+        },
+        {
+          "prompt": "Kolege su u uredima.",
+          "cue": "-> класи (učionice)",
+          "accepted": [
+            "Kolege su u učionicama."
+          ]
+        },
+        {
+          "prompt": "Razgovaram s kolegama.",
+          "cue": "-> з ними",
+          "accepted": [
+            "Razgovaram s njima."
+          ]
+        },
+        {
+          "prompt": "Pišem roditeljima.",
+          "cue": "-> клітик «їм»",
+          "accepted": [
+            "Pišem im."
+          ]
+        },
+        {
+          "prompt": "Razgovaram s vama.",
+          "cue": "-> з нами",
+          "accepted": [
+            "Razgovaram s nama."
+          ]
+        },
+        {
+          "prompt": "Razgovaram s kolege.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Razgovaram s kolegama."
+          ]
+        },
+        {
+          "prompt": "Pišem roditelja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pišem roditeljima."
+          ]
+        },
+        {
+          "prompt": "Dajem knjige učenici.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dajem knjige učenicima."
+          ]
+        },
+        {
+          "prompt": "Ponedjeljak radim u uredu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ponedjeljkom radim u uredu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ s kolegama.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaram"
+          ]
+        },
+        {
+          "text": "Ti ___ s roditeljima.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaraš"
+          ]
+        },
+        {
+          "text": "Učiteljica ___ s učenicima.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovara"
+          ]
+        },
+        {
+          "text": "Mi ___ s ljudima.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaramo"
+          ]
+        },
+        {
+          "text": "Oni ___ s nama.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovaraju"
+          ]
+        },
+        {
+          "text": "Ja ___ roditeljima.",
+          "cue": "pisati",
+          "accepted": [
+            "pišem"
+          ]
+        },
+        {
+          "text": "Ti ___ kolegama.",
+          "cue": "pisati",
+          "accepted": [
+            "pišeš"
+          ]
+        },
+        {
+          "text": "Učitelj ___ učenicima.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomaže"
+          ]
+        },
+        {
+          "text": "Ja ___ kolegama.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomažem"
+          ]
+        },
+        {
+          "text": "Mi ___ učenicima.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomažemo"
+          ]
+        },
+        {
+          "text": "Oni ___ nam.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomažu"
+          ]
+        },
+        {
+          "text": "Ja ___ knjige učenicima.",
+          "cue": "davati",
+          "accepted": [
+            "dajem"
+          ]
+        },
+        {
+          "text": "Šef ___ s kolegama.",
+          "cue": "raditi",
+          "accepted": [
+            "radi"
+          ]
+        },
+        {
+          "text": "Vi ___ s ljudima.",
+          "cue": "raditi",
+          "accepted": [
+            "radite"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "колега",
+          "answer": "kolega"
+        },
+        {
+          "prompt": "колежанка",
+          "answer": "kolegica"
+        },
+        {
+          "prompt": "начальник",
+          "answer": "šef"
+        },
+        {
+          "prompt": "офіс",
+          "answer": "ured"
+        },
+        {
+          "prompt": "нарада",
+          "answer": "sastanak"
+        },
+        {
+          "prompt": "фірма",
+          "answer": "firma"
+        },
+        {
+          "prompt": "клас (кімната)",
+          "answer": "učionica"
+        },
+        {
+          "prompt": "допомагати",
+          "answer": "pomagati"
+        },
+        {
+          "prompt": "по понеділках",
+          "answer": "ponedjeljkom"
+        },
+        {
+          "prompt": "людям, з людьми",
+          "answer": "ljudima"
+        },
+        {
+          "prompt": "нам (довга форма)",
+          "answer": "nama"
+        },
+        {
+          "prompt": "вам (довга форма)",
+          "answer": "vama"
+        },
+        {
+          "prompt": "їм (довга форма)",
+          "answer": "njima"
+        },
+        {
+          "prompt": "про (тема)",
+          "answer": "o"
+        },
+        {
+          "prompt": "роками",
+          "answer": "godinama"
+        }
+      ],
+      "extra": [
+        "pomoći",
+        "mjesecima"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "function"
+      ]
+    }
+  ]
+}

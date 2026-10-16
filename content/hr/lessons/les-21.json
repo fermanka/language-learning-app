@@ -1,0 +1,1202 @@
+{
+  "id": "hr-les-21",
+  "lang": "hr",
+  "order": 21,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "k"
+  ],
+  "notes": [
+    {
+      "id": "hr-18780aeb",
+      "type": "function",
+      "lemma": "kad",
+      "ua": "коли (час)",
+      "audio": "hr-kad.mp3",
+      "forms": [
+        "dođem",
+        "došla",
+        "dođeš",
+        "dođe",
+        "dođemo",
+        "dođete",
+        "dođu",
+        "razgovarala"
+      ],
+      "explain_ua": "(Kad završim posao, idem u dućan = коли закінчу роботу, йду в магазин). Kad, kada значить «коли». Для майбутньої події після kad стоїть теперішній час доконаного дієслова (završim, dođem), як в українській «коли закінчу» і російській «когда закончу»: ідея збігається. Тут також зібрані форми doći (dođeš, dođe, dođemo, dođete, dođu) і дієприкметник razgovarala. Перед підрядним реченням і після нього кома",
+      "check": "Вживання kad з доконаним теперішнім для майбутнього з мого знання, у підручнику цих сторінок його немає."
+    },
+    {
+      "id": "hr-436b1ea0",
+      "type": "function",
+      "lemma": "ako",
+      "ua": "якщо",
+      "audio": "hr-ako.mp3",
+      "explain_ua": "(Ako imam vremena, idem u park = якщо маю час, йду в парк). Ako значить «якщо». Реальна умова: теперішній час в обох частинах. Українське якщо збігається за ідеєю. Кома після підрядного",
+      "check": "Вживання ako з теперішнім з мого знання, у підручнику цих сторінок його немає."
+    },
+    {
+      "id": "hr-f3929d26",
+      "type": "function",
+      "lemma": "jer",
+      "ua": "бо, тому що",
+      "audio": "hr-jer.mp3",
+      "explain_ua": "(Ne radim jer sam bolesna = не працюю, бо хвора). Jer значить «бо». Стоїть перед причиною, перед ним коми немає: Ne radim jer sam bolesna. Українське бо збігається",
+      "check": "Вживання jer з мого знання, у підручнику цих сторінок його немає."
+    },
+    {
+      "id": "hr-3ab2156e",
+      "type": "function",
+      "lemma": "zato",
+      "ua": "тому (zato što = тому що)",
+      "audio": "hr-zato.mp3",
+      "explain_ua": "(Idem k liječniku zato što sam bolesna = йду до лікаря тому що хвора). Zato što це «тому що», звучить трохи офіційніше, ніж jer. Пиши zato što, два слова. Українське тому що збігається",
+      "check": "Вживання zato što з мого знання, у підручнику цих сторінок його немає."
+    },
+    {
+      "id": "hr-00fe19c1",
+      "type": "function",
+      "lemma": "iako",
+      "ua": "хоча, незважаючи на те що",
+      "audio": "hr-iako.mp3",
+      "explain_ua": "(Idem u školu, iako sam bolestan = йду в школу, хоча хворий). Iako вводить протиставлення. Перед iako кома. Українське хоча збігається",
+      "check": "Вживання iako з мого знання, у підручнику цих сторінок його немає."
+    },
+    {
+      "id": "hr-ee827dbd",
+      "type": "function",
+      "lemma": "dok",
+      "ua": "поки, у той час як",
+      "audio": "hr-dok.mp3",
+      "explain_ua": "(Dok čitam, učenici pišu = поки я читаю, учні пишуть). Dok значить «поки»: дві дії відбуваються одночасно. Після dok теперішній час недоконаного дієслова. Українське поки збігається",
+      "check": "Вживання dok з мого знання, у підручнику цих сторінок його немає."
+    },
+    {
+      "id": "hr-0d799540",
+      "type": "function",
+      "lemma": "prije",
+      "ua": "перед (+ родовий)",
+      "audio": "hr-prije.mp3",
+      "explain_ua": "(Prije ispita čitam knjigu = перед іспитом читаю книжку). Прийменник prije вимагає родового відмінка: prije ispita, prije škole. У підручнику Prije večere idem u trgovinu (с. 304). Не плутай з прислівником prije «раніше»",
+      "check": "Вживання prije + родовий підтверджено в підручнику (Prije večere idem u trgovinu); решта з мого знання."
+    },
+    {
+      "id": "hr-f7384570",
+      "type": "function",
+      "lemma": "nakon",
+      "ua": "після (+ родовий)",
+      "audio": "hr-nakon.mp3",
+      "forms": [
+        "posla"
+      ],
+      "explain_ua": "(Nakon posla idem u dućan = після роботи йду в магазин). Прийменник nakon вимагає родового: nakon posla, nakon ispita. У підручнику Idem u kino nakon posla (с. 307). Форма posla це родовий від posao (нестійке a випадає)",
+      "check": "Вживання nakon + родовий підтверджено в підручнику (с. 307: nakon posla); форма posla з мого знання за правилом нестійкого a."
+    },
+    {
+      "id": "hr-901cec41",
+      "type": "verb",
+      "lemma": "završavati",
+      "aspect": "impf.",
+      "partner": "završiti",
+      "pres_1sg": "završavam",
+      "forms": [
+        "završiti",
+        "završim",
+        "završiš",
+        "završi",
+        "završimo",
+        "završite",
+        "završe"
+      ],
+      "ua": "закінчувати (док. završiti)",
+      "audio": "hr-zavrsavati.mp3",
+      "explain_ua": "(Kad završim posao = коли закінчу роботу). Пара: završavati (недок., završavam) / završiti (док., završim). Тип -iti > -im, 3 особа множини završe (як у підручнику, с. 316). Після kad стоїть доконаний: završim, не završavam",
+      "check": "Пару završavati / završiti і форми з мого знання за шаблоном -iti > -im (підручник, с. 316)."
+    },
+    {
+      "id": "hr-2eab7ab7",
+      "type": "verb",
+      "lemma": "počinjati",
+      "aspect": "impf.",
+      "partner": "početi",
+      "pres_1sg": "počinjem",
+      "forms": [
+        "početi",
+        "počnem",
+        "počinje"
+      ],
+      "ua": "починати(ся) (док. početi)",
+      "audio": "hr-pocinjati.mp3",
+      "explain_ua": "(Ispit počinje u devet sati = іспит починається о дев'ятій). Пара: počinjati (недок.) / početi (док., počnem). 3 особа однини počinje: Ispit počinje, Lekcija počinje. Літера č з гачком",
+      "check": "Пару počinjati / početi і форми počinjem, počnem, počinje з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-8a17ee70",
+      "type": "verb",
+      "lemma": "pozivati",
+      "aspect": "impf.",
+      "partner": "pozvati",
+      "pres_1sg": "pozivam",
+      "forms": [
+        "pozvati",
+        "pozovem"
+      ],
+      "ua": "запрошувати, викликати (док. pozvati)",
+      "audio": "hr-pozivati.mp3",
+      "explain_ua": "(Pozivam te = я запрошую тебе). Пара: pozivati (недок., pozivam) / pozvati (док., pozovem, від zvati з Lekcije 13). Після нього знахідний: pozvati liječnika",
+      "check": "Пару pozivati / pozvati і форми з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-0a2cab75",
+      "type": "noun",
+      "lemma": "liječnik",
+      "gender": "m.",
+      "gen_sg": "liječnika",
+      "plural": [
+        "liječnici"
+      ],
+      "ua": "лікар",
+      "audio": "hr-lijecnik.mp3",
+      "forms": [
+        "liječniku",
+        "liječnika"
+      ],
+      "explain_ua": "(Idem k liječniku = йду до лікаря). Живе чоловічого роду: знахідний liječnika, давальний liječniku. Після k (до) давальний: k liječniku (як k baki в підручнику, с. 304). Множина liječnici (k стає c). Lj на початку: один звук «ль»",
+      "check": "Форми liječnika, liječniku, liječnici з мого знання за зразком putnik-a, putnik-u, putnic-i (підручник, с. 309), саме слово там відсутнє."
+    },
+    {
+      "id": "hr-6d0df8a1",
+      "type": "noun",
+      "lemma": "termin",
+      "gender": "m.",
+      "gen_sg": "termina",
+      "plural": [
+        "termini"
+      ],
+      "ua": "прийом (запис), призначений час",
+      "audio": "hr-termin.mp3",
+      "explain_ua": "(Imam termin u devet sati = у мене запис на дев'яту). Termin це призначений час (до лікаря, у банку, в офісі). Неживе чоловічого роду: знахідний termin без змін",
+      "check": "Значення termin як «призначений час» і форми termina, termini з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-e625b205",
+      "type": "noun",
+      "lemma": "ispit",
+      "gender": "m.",
+      "gen_sg": "ispita",
+      "plural": [
+        "ispiti"
+      ],
+      "ua": "іспит",
+      "audio": "hr-ispit.mp3",
+      "forms": [
+        "ispita"
+      ],
+      "explain_ua": "(Prije ispita čitam knjigu = перед іспитом читаю книжку). Неживе чоловічого роду. Родовий ispita (після prije, nakon). У підручнику Imam još dva dana do ispita (с. 308)",
+      "check": "Форма ispita підтверджена в підручнику (с. 308); ispiti з мого знання."
+    },
+    {
+      "id": "hr-d93537a2",
+      "type": "adjective",
+      "lemma": "bolestan",
+      "fem": "bolesna",
+      "neut": "bolesno",
+      "ua": "хворий",
+      "audio": "hr-bolestan.mp3",
+      "forms": [
+        "bolesna",
+        "bolesno"
+      ],
+      "explain_ua": "(Ako si bolestan, ideš k liječniku = якщо ти хворий, ідеш до лікаря). Нестійке -a-: bolestan, bolesna, bolesno (таблиця підручника, с. 311). Жіночий bolesna, середній bolesno. Українське хворий, хвора, хворе: тут не схоже"
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Kad: коли, з доконаним теперішнім",
+      "summary_ua": "Для події в майбутньому після kad стоїть теперішній час доконаного дієслова: Kad završim posao, idem u dućan. Українське «коли закінчу» і російське «когда закончу» працюють так само, тож це безкоштовна перемога. Для минулої події після kad стоїть минулий час: Kad sam bila u školi, razgovarala sam s učiteljicom.",
+      "compare": [
+        {
+          "form": "майбутня подія: kad + доконаний теперішній",
+          "when_ua": "Kad završim, kad dođem: доконані, а в головному реченні теперішній.",
+          "examples": [
+            {
+              "text": "Kad završim ispit, idem kući.",
+              "ua": "Коли закінчу іспит, йду додому.",
+              "audio": "hr-les21-rule-01.mp3"
+            },
+            {
+              "text": "Kad dođem u školu, razgovaram s učiteljicom.",
+              "ua": "Коли прийду в школу, розмовляю з вчителькою.",
+              "audio": "hr-les21-rule-02.mp3"
+            },
+            {
+              "text": "Kad završim ručak, čitam knjigu.",
+              "ua": "Коли закінчу обід, читаю книжку.",
+              "audio": "hr-les21-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Не кажи kad ću završiti: після kad теперішній, не майбутній (на відміну від англійської)."
+        },
+        {
+          "form": "минула подія: kad + минулий час",
+          "when_ua": "Kad sam bila, kad sam došla: допоміжне sam + дієприкметник.",
+          "examples": [
+            {
+              "text": "Kad sam bila u školi, razgovarala sam s učiteljicom.",
+              "ua": "Коли я була в школі, розмовляла з вчителькою.",
+              "audio": "hr-les21-rule-04.mp3"
+            },
+            {
+              "text": "Kad sam došla kući, kuhala sam ručak.",
+              "ua": "Коли я прийшла додому, готувала обід.",
+              "audio": "hr-les21-rule-05.mp3"
+            },
+            {
+              "text": "Kad sam bila bolesna, nisam radila.",
+              "ua": "Коли я була хвора, не працювала.",
+              "audio": "hr-les21-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Це Lekcija 10: minuli час з допоміжним sam на другому місці."
+        }
+      ],
+      "points_ua": [
+        "Майбутнє: kad + доконаний теперішній (završim, dođem).",
+        "Минуле: kad + минулий час (sam bila, sam došla).",
+        "Кома між частинами."
+      ]
+    },
+    {
+      "title_ua": "Ako: якщо",
+      "summary_ua": "Реальна умова: ako + теперішній час, і в головному реченні теперішній: Ako imam vremena, idem u park. Українське «якщо маю час» збігається.",
+      "compare": [
+        {
+          "form": "ako + теперішній",
+          "when_ua": "Умова, яка може здійснитися.",
+          "examples": [
+            {
+              "text": "Ako imam vremena, idem u park.",
+              "ua": "Якщо маю час, йду в парк.",
+              "audio": "hr-les21-rule-07.mp3"
+            },
+            {
+              "text": "Ako si bolestan, ideš k liječniku.",
+              "ua": "Якщо ти хворий, ідеш до лікаря.",
+              "audio": "hr-les21-rule-08.mp3"
+            },
+            {
+              "text": "Ako ne radiš u nedjelju, idemo u park.",
+              "ua": "Якщо не працюєш у неділю, йдемо в парк.",
+              "audio": "hr-les21-rule-09.mp3"
+            }
+          ],
+          "note_ua": "K liječniku: k значить «до», давальний (як k baki в підручнику)."
+        }
+      ],
+      "points_ua": [
+        "Ako + теперішній, в головному теперішній.",
+        "К + давальний: k liječniku."
+      ]
+    },
+    {
+      "title_ua": "Jer, zato što, iako: чому і хоча",
+      "summary_ua": "Причина: jer або zato što (тому що). Протиставлення: iako (хоча). Jer без коми перед ним, iako з комою: Idem k liječniku jer sam bolesna. Idem u školu, iako sam bolestan.",
+      "compare": [
+        {
+          "form": "jer",
+          "when_ua": "Jer вводить причину. Перед jer коми немає.",
+          "examples": [
+            {
+              "text": "Idem k liječniku jer sam bolesna.",
+              "ua": "Я йду до лікаря, бо хвора.",
+              "audio": "hr-les21-rule-10.mp3"
+            },
+            {
+              "text": "Ne radim jer sam bolesna.",
+              "ua": "Я не працюю, бо хвора.",
+              "audio": "hr-les21-rule-11.mp3"
+            },
+            {
+              "text": "Čekam jer imam termin.",
+              "ua": "Я чекаю, бо маю прийом.",
+              "audio": "hr-les21-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: бо = jer."
+        },
+        {
+          "form": "zato što",
+          "when_ua": "Zato što теж причина, трохи офіційніше. Пиши zato što.",
+          "examples": [
+            {
+              "text": "Idem k liječniku zato što sam bolesna.",
+              "ua": "Я йду до лікаря тому що хвора.",
+              "audio": "hr-les21-rule-13.mp3"
+            },
+            {
+              "text": "Učim zato što imam ispit.",
+              "ua": "Я вчуся тому що маю іспит.",
+              "audio": "hr-les21-rule-14.mp3"
+            },
+            {
+              "text": "Radim zato što imam termin.",
+              "ua": "Я працюю тому що маю прийом.",
+              "audio": "hr-les21-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Українське «тому що» збігається за порядком слів."
+        },
+        {
+          "form": "iako",
+          "when_ua": "Iako: хоча. Перед iako кома.",
+          "examples": [
+            {
+              "text": "Idem u školu, iako sam bolestan.",
+              "ua": "Я йду в школу, хоча хворий.",
+              "audio": "hr-les21-rule-16.mp3"
+            },
+            {
+              "text": "Radim, iako nemam vremena.",
+              "ua": "Я працюю, хоча не маю часу.",
+              "audio": "hr-les21-rule-17.mp3"
+            },
+            {
+              "text": "Čitam, iako sam bolesna.",
+              "ua": "Я читаю, хоча хвора.",
+              "audio": "hr-les21-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: хоча = iako."
+        }
+      ],
+      "points_ua": [
+        "Jer і zato što: чому. Iako: хоча.",
+        "Перед jer коми немає, перед iako кома."
+      ]
+    },
+    {
+      "title_ua": "Prije, nakon + родовий; dok",
+      "summary_ua": "Prije (перед) і nakon (після) вимагають родового відмінка: prije ispita, nakon posla. Підручник (сс. 304, 307) показує prije večere, nakon posla. Dok (поки) з'єднує дві дії, що відбуваються одночасно.",
+      "compare": [
+        {
+          "form": "prije, nakon + родовий",
+          "when_ua": "Prije ispita, nakon posla, prije škole.",
+          "examples": [
+            {
+              "text": "Prije ispita čitam knjigu.",
+              "ua": "Перед іспитом читаю книжку.",
+              "audio": "hr-les21-rule-19.mp3"
+            },
+            {
+              "text": "Nakon posla idem u dućan.",
+              "ua": "Після роботи йду в магазин.",
+              "audio": "hr-les21-rule-20.mp3"
+            },
+            {
+              "text": "Prije škole kuham ručak.",
+              "ua": "Перед школою готую обід.",
+              "audio": "hr-les21-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Родовий однини: ispit → ispita, posao → posla (a випадає), škola → škole. Це Lekcija 4 і 2."
+        },
+        {
+          "form": "dok: поки",
+          "when_ua": "Dok + теперішній: дві одночасні дії.",
+          "examples": [
+            {
+              "text": "Dok čitam, učenici pišu.",
+              "ua": "Поки я читаю, учні пишуть.",
+              "audio": "hr-les21-rule-22.mp3"
+            },
+            {
+              "text": "Dok čekam, čitam knjigu.",
+              "ua": "Поки чекаю, читаю книжку.",
+              "audio": "hr-les21-rule-23.mp3"
+            },
+            {
+              "text": "Dok kuham, slušam.",
+              "ua": "Поки готую, слухаю.",
+              "audio": "hr-les21-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: поки = dok."
+        }
+      ],
+      "points_ua": [
+        "Prije, nakon + родовий: prije ispita, nakon posla.",
+        "Dok + теперішній недоконаного: dok čitam."
+      ]
+    },
+    {
+      "title_ua": "Da + теперішній: Želim da učiš",
+      "summary_ua": "Коли підмети різні, після želim, trebam, treba ставимо da + теперішній час: Majka želi da učim (мама хоче, щоб я вчилася). Коли підмет той самий, кажемо інфінітив: Želim učiti. Пастка: українське «щоб + минулий» (щоб ти прийшов) і російське «чтобы пришёл», а хорватське da + теперішній.",
+      "compare": [
+        {
+          "form": "різні підмети: da + теперішній",
+          "when_ua": "Хто хоче, і хто діє, різні: da + теперішній.",
+          "examples": [
+            {
+              "text": "Majka želi da učim.",
+              "ua": "Мама хоче, щоб я вчилася.",
+              "audio": "hr-les21-rule-25.mp3"
+            },
+            {
+              "text": "Učiteljica želi da čitam.",
+              "ua": "Вчителька хоче, щоб я читала.",
+              "audio": "hr-les21-rule-26.mp3"
+            },
+            {
+              "text": "Želim da učiš.",
+              "ua": "Я хочу, щоб ти вчився.",
+              "audio": "hr-les21-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Тут українська вводить в оману: після щоб стоїть минулий час (щоб ти вчився), а після da теперішній (da učiš)."
+        },
+        {
+          "form": "той самий підмет: інфінітив",
+          "when_ua": "Коли я хочу і я роблю, інфінітив без da.",
+          "examples": [
+            {
+              "text": "Želim učiti.",
+              "ua": "Я хочу вчитися.",
+              "audio": "hr-les21-rule-28.mp3"
+            },
+            {
+              "text": "Majka želi čitati.",
+              "ua": "Мама хоче читати.",
+              "audio": "hr-les21-rule-29.mp3"
+            },
+            {
+              "text": "Moram ići.",
+              "ua": "Я мушу йти.",
+              "audio": "hr-les21-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Інфінітив (Želim učiti) і da + теперішній (Želim da učiš) обидва правильні, але з різними підметами лише da."
+        }
+      ],
+      "points_ua": [
+        "Різні підмети: da + теперішній (Majka želi da učim).",
+        "Той самий підмет: інфінітив (Želim učiti).",
+        "Українське щоб + минулий тут не допомагає: після da теперішній."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Kad završim posao, idem u dućan.",
+      "ua": "Коли закінчу роботу, йду в магазин.",
+      "audio": "hr-les21-example-01.mp3"
+    },
+    {
+      "text": "Kad dođem kući, kuham ručak.",
+      "ua": "Коли прийду додому, готую обід.",
+      "audio": "hr-les21-example-02.mp3"
+    },
+    {
+      "text": "Kad završim zadaću, čitam knjigu.",
+      "ua": "Коли закінчу завдання, читаю книжку.",
+      "audio": "hr-les21-example-03.mp3"
+    },
+    {
+      "text": "Kad sam bila u školi, razgovarala sam s učiteljicom.",
+      "ua": "Коли я була в школі, розмовляла з вчителькою.",
+      "audio": "hr-les21-example-04.mp3"
+    },
+    {
+      "text": "Ako imam vremena, idem u park.",
+      "ua": "Якщо маю час, йду в парк.",
+      "audio": "hr-les21-example-05.mp3"
+    },
+    {
+      "text": "Ako si bolestan, ideš k liječniku.",
+      "ua": "Якщо ти хворий, ідеш до лікаря.",
+      "audio": "hr-les21-example-06.mp3"
+    },
+    {
+      "text": "Idem k liječniku jer sam bolesna.",
+      "ua": "Я йду до лікаря, бо хвора.",
+      "audio": "hr-les21-example-07.mp3"
+    },
+    {
+      "text": "Ne radim jer sam bolesna.",
+      "ua": "Я не працюю, бо хвора.",
+      "audio": "hr-les21-example-08.mp3"
+    },
+    {
+      "text": "Čekam jer imam termin.",
+      "ua": "Я чекаю, бо маю прийом.",
+      "audio": "hr-les21-example-09.mp3"
+    },
+    {
+      "text": "Idem u školu, iako sam bolestan.",
+      "ua": "Я йду в школу, хоча хворий.",
+      "audio": "hr-les21-example-10.mp3"
+    },
+    {
+      "text": "Radim, iako nemam vremena.",
+      "ua": "Я працюю, хоча не маю часу.",
+      "audio": "hr-les21-example-11.mp3"
+    },
+    {
+      "text": "Prije ispita čitam knjigu.",
+      "ua": "Перед іспитом читаю книжку.",
+      "audio": "hr-les21-example-12.mp3"
+    },
+    {
+      "text": "Nakon posla idem u dućan.",
+      "ua": "Після роботи йду в магазин.",
+      "audio": "hr-les21-example-13.mp3"
+    },
+    {
+      "text": "Dok čitam, učenici pišu.",
+      "ua": "Поки я читаю, учні пишуть.",
+      "audio": "hr-les21-example-14.mp3"
+    },
+    {
+      "text": "Majka želi da učim.",
+      "ua": "Мама хоче, щоб я вчилася.",
+      "audio": "hr-les21-example-15.mp3"
+    },
+    {
+      "text": "Učiteljica želi da čitam.",
+      "ua": "Вчителька хоче, щоб я читала.",
+      "audio": "hr-les21-example-16.mp3"
+    },
+    {
+      "text": "Želim učiti, a majka želi čitati.",
+      "ua": "Я хочу вчитися, а мама хоче читати.",
+      "audio": "hr-les21-example-17.mp3"
+    },
+    {
+      "text": "Ispit počinje u devet sati.",
+      "ua": "Іспит починається о дев'ятій.",
+      "audio": "hr-les21-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Kod liječnika i u školi",
+    "title_ua": "У лікаря і в школі",
+    "highlight": [
+      "hr-18780aeb",
+      "hr-f3929d26",
+      "hr-ee827dbd",
+      "hr-0d799540",
+      "hr-f7384570",
+      "hr-0a2cab75",
+      "hr-6d0df8a1",
+      "hr-e625b205",
+      "hr-d93537a2"
+    ],
+    "sentences": [
+      {
+        "text": "Imam termin u devet sati.",
+        "ua": "У мене запис на дев'яту.",
+        "audio": "hr-les21-reading-01.mp3"
+      },
+      {
+        "text": "Idem k liječniku jer sam bolesna.",
+        "ua": "Я йду до лікаря, бо хвора.",
+        "audio": "hr-les21-reading-02.mp3"
+      },
+      {
+        "text": "Kad završim, idem u školu.",
+        "ua": "Коли закінчу, йду в школу.",
+        "audio": "hr-les21-reading-03.mp3"
+      },
+      {
+        "text": "Prije škole čekam liječnika.",
+        "ua": "Перед школою чекаю лікаря.",
+        "audio": "hr-les21-reading-04.mp3"
+      },
+      {
+        "text": "U školi razgovaram s učiteljicom.",
+        "ua": "У школі розмовляю з вчителькою.",
+        "audio": "hr-les21-reading-05.mp3"
+      },
+      {
+        "text": "Učiteljica želi da čitam.",
+        "ua": "Вчителька хоче, щоб я читала.",
+        "audio": "hr-les21-reading-06.mp3"
+      },
+      {
+        "text": "Dok čitam, učenici pišu.",
+        "ua": "Поки я читаю, учні пишуть.",
+        "audio": "hr-les21-reading-07.mp3"
+      },
+      {
+        "text": "Nakon ispita idem kući.",
+        "ua": "Після іспиту йду додому.",
+        "audio": "hr-les21-reading-08.mp3"
+      },
+      {
+        "text": "Hvala.",
+        "ua": "Дякую.",
+        "audio": "hr-les21-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Коли закінчу роботу, йду в магазин.",
+          "accepted": [
+            "Kad završim posao, idem u dućan."
+          ]
+        },
+        {
+          "prompt": "Коли прийду додому, готую обід.",
+          "accepted": [
+            "Kad dođem kući, kuham ručak."
+          ]
+        },
+        {
+          "prompt": "Коли закінчу завдання, читаю книжку.",
+          "accepted": [
+            "Kad završim zadaću, čitam knjigu."
+          ]
+        },
+        {
+          "prompt": "Коли я була в школі, розмовляла з вчителькою.",
+          "accepted": [
+            "Kad sam bila u školi, razgovarala sam s učiteljicom."
+          ]
+        },
+        {
+          "prompt": "Якщо маю час, йду в парк.",
+          "accepted": [
+            "Ako imam vremena, idem u park."
+          ]
+        },
+        {
+          "prompt": "Якщо ти хворий, ідеш до лікаря.",
+          "accepted": [
+            "Ako si bolestan, ideš k liječniku."
+          ]
+        },
+        {
+          "prompt": "Я йду до лікаря, бо хвора.",
+          "accepted": [
+            "Idem k liječniku jer sam bolesna."
+          ]
+        },
+        {
+          "prompt": "Я не працюю, бо хвора.",
+          "accepted": [
+            "Ne radim jer sam bolesna."
+          ]
+        },
+        {
+          "prompt": "Я чекаю, бо маю прийом.",
+          "accepted": [
+            "Čekam jer imam termin."
+          ]
+        },
+        {
+          "prompt": "Я йду в школу, хоча хворий.",
+          "accepted": [
+            "Idem u školu, iako sam bolestan."
+          ]
+        },
+        {
+          "prompt": "Я працюю, хоча не маю часу.",
+          "accepted": [
+            "Radim, iako nemam vremena."
+          ]
+        },
+        {
+          "prompt": "Перед іспитом читаю книжку.",
+          "accepted": [
+            "Prije ispita čitam knjigu."
+          ]
+        },
+        {
+          "prompt": "Після роботи йду в магазин.",
+          "accepted": [
+            "Nakon posla idem u dućan."
+          ]
+        },
+        {
+          "prompt": "Поки я читаю, учні пишуть.",
+          "accepted": [
+            "Dok čitam, učenici pišu."
+          ]
+        },
+        {
+          "prompt": "Мама хоче, щоб я вчилася.",
+          "accepted": [
+            "Majka želi da učim."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "Kad",
+        "Ako",
+        "jer",
+        "zato",
+        "iako",
+        "Dok",
+        "Prije",
+        "Nakon",
+        "da",
+        "završim",
+        "dođem",
+        "imam",
+        "sam",
+        "si",
+        "učim",
+        "čitam"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ završim posao, idem u dućan.",
+          "hint": "Коли закінчу роботу, йду в магазин.",
+          "accepted": [
+            [
+              "Kad"
+            ]
+          ]
+        },
+        {
+          "text": "___ imam vremena, idem u park.",
+          "hint": "Якщо маю час, йду в парк.",
+          "accepted": [
+            [
+              "Ako"
+            ]
+          ]
+        },
+        {
+          "text": "Idem k liječniku ___ sam bolesna.",
+          "hint": "Я йду до лікаря, бо хвора.",
+          "accepted": [
+            [
+              "jer"
+            ]
+          ]
+        },
+        {
+          "text": "Idem k liječniku ___ što sam bolesna.",
+          "hint": "Я йду до лікаря тому що хвора.",
+          "accepted": [
+            [
+              "zato"
+            ]
+          ]
+        },
+        {
+          "text": "Idem u školu, ___ sam bolestan.",
+          "hint": "Я йду в школу, хоча хворий.",
+          "accepted": [
+            [
+              "iako"
+            ]
+          ]
+        },
+        {
+          "text": "___ čitam, učenici pišu.",
+          "hint": "Поки я читаю, учні пишуть.",
+          "accepted": [
+            [
+              "Dok"
+            ]
+          ]
+        },
+        {
+          "text": "___ ispita čitam knjigu.",
+          "hint": "Перед іспитом читаю книжку.",
+          "accepted": [
+            [
+              "Prije"
+            ]
+          ]
+        },
+        {
+          "text": "___ posla idem u dućan.",
+          "hint": "Після роботи йду в магазин.",
+          "accepted": [
+            [
+              "Nakon"
+            ]
+          ]
+        },
+        {
+          "text": "Majka želi ___ učim.",
+          "hint": "Мама хоче, щоб я вчилася.",
+          "accepted": [
+            [
+              "da"
+            ]
+          ]
+        },
+        {
+          "text": "Kad ___ kući, kuham ručak.",
+          "hint": "Коли прийду додому, готую обід.",
+          "accepted": [
+            [
+              "dođem"
+            ]
+          ]
+        },
+        {
+          "text": "Kad ___ posao, idem u dućan.",
+          "hint": "Коли закінчу роботу, йду в магазин.",
+          "accepted": [
+            [
+              "završim"
+            ]
+          ]
+        },
+        {
+          "text": "Ako ___ vremena, idem u park.",
+          "hint": "Якщо маю час, йду в парк.",
+          "accepted": [
+            [
+              "imam"
+            ]
+          ]
+        },
+        {
+          "text": "Ako ___ bolestan, ideš k liječniku.",
+          "hint": "Якщо ти хворий, ідеш до лікаря.",
+          "accepted": [
+            [
+              "si"
+            ]
+          ]
+        },
+        {
+          "text": "Ne radim jer ___ bolesna.",
+          "hint": "Я не працюю, бо хвора.",
+          "accepted": [
+            [
+              "sam"
+            ]
+          ]
+        },
+        {
+          "text": "Učiteljica želi da ___.",
+          "hint": "Вчителька хоче, щоб я читала.",
+          "accepted": [
+            [
+              "čitam"
+            ]
+          ]
+        },
+        {
+          "text": "Majka želi da ___.",
+          "hint": "Мама хоче, щоб я вчилася.",
+          "accepted": [
+            [
+              "učim"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори або поєднай речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Završim posao. Idem u dućan.",
+          "cue": "-> одне речення з kad",
+          "accepted": [
+            "Kad završim posao, idem u dućan."
+          ]
+        },
+        {
+          "prompt": "Dođem kući. Kuham ručak.",
+          "cue": "-> одне речення з kad",
+          "accepted": [
+            "Kad dođem kući, kuham ručak."
+          ]
+        },
+        {
+          "prompt": "Imam vremena. Idem u park.",
+          "cue": "-> одне речення з ako",
+          "accepted": [
+            "Ako imam vremena, idem u park."
+          ]
+        },
+        {
+          "prompt": "Bolestan si. Ideš k liječniku.",
+          "cue": "-> одне речення з ako",
+          "accepted": [
+            "Ako si bolestan, ideš k liječniku."
+          ]
+        },
+        {
+          "prompt": "Idem k liječniku. Bolesna sam.",
+          "cue": "-> одне речення з jer",
+          "accepted": [
+            "Idem k liječniku jer sam bolesna."
+          ]
+        },
+        {
+          "prompt": "Ne radim. Bolesna sam.",
+          "cue": "-> одне речення з jer",
+          "accepted": [
+            "Ne radim jer sam bolesna."
+          ]
+        },
+        {
+          "prompt": "Čekam. Imam termin.",
+          "cue": "-> одне речення з jer",
+          "accepted": [
+            "Čekam jer imam termin."
+          ]
+        },
+        {
+          "prompt": "Idem u školu. Bolestan sam.",
+          "cue": "-> одне речення з iako",
+          "accepted": [
+            "Idem u školu, iako sam bolestan."
+          ]
+        },
+        {
+          "prompt": "Radim. Nemam vremena.",
+          "cue": "-> одне речення з iako",
+          "accepted": [
+            "Radim, iako nemam vremena."
+          ]
+        },
+        {
+          "prompt": "Čitam knjigu. Imam ispit.",
+          "cue": "-> одне речення з prije (ispit)",
+          "accepted": [
+            "Prije ispita čitam knjigu."
+          ]
+        },
+        {
+          "prompt": "Idem u dućan. Radim.",
+          "cue": "-> одне речення з nakon (posao)",
+          "accepted": [
+            "Nakon posla idem u dućan."
+          ]
+        },
+        {
+          "prompt": "Čitam. Učenici pišu.",
+          "cue": "-> одне речення з dok",
+          "accepted": [
+            "Dok čitam, učenici pišu."
+          ]
+        },
+        {
+          "prompt": "Kad završiti posao, idem u dućan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kad završim posao, idem u dućan."
+          ]
+        },
+        {
+          "prompt": "Majka želi da učiti.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka želi da učim."
+          ]
+        },
+        {
+          "prompt": "Idem k liječnik jer sam bolesna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem k liječniku jer sam bolesna."
+          ]
+        },
+        {
+          "prompt": "Nakon posao idem u dućan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nakon posla idem u dućan."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Kad ja ___ posao, idem u dućan.",
+          "cue": "završiti",
+          "accepted": [
+            "završim"
+          ]
+        },
+        {
+          "text": "Kad ti ___ posao, ideš u dućan.",
+          "cue": "završiti",
+          "accepted": [
+            "završiš"
+          ]
+        },
+        {
+          "text": "Kad majka ___ posao, ide u dućan.",
+          "cue": "završiti",
+          "accepted": [
+            "završi"
+          ]
+        },
+        {
+          "text": "Kad mi ___ posao, idemo u dućan.",
+          "cue": "završiti",
+          "accepted": [
+            "završimo"
+          ]
+        },
+        {
+          "text": "Kad ja ___ kući, kuham ručak.",
+          "cue": "doći",
+          "accepted": [
+            "dođem"
+          ]
+        },
+        {
+          "text": "Kad ti ___ kući, kuhaš ručak.",
+          "cue": "doći",
+          "accepted": [
+            "dođeš"
+          ]
+        },
+        {
+          "text": "Ako ja ___ vremena, idem u park.",
+          "cue": "imati",
+          "accepted": [
+            "imam"
+          ]
+        },
+        {
+          "text": "Ako ti ___ vremena, ideš u park.",
+          "cue": "imati",
+          "accepted": [
+            "imaš"
+          ]
+        },
+        {
+          "text": "Majka želi da ja ___.",
+          "cue": "učiti",
+          "accepted": [
+            "učim"
+          ]
+        },
+        {
+          "text": "Majka želi da ti ___.",
+          "cue": "učiti",
+          "accepted": [
+            "učiš"
+          ]
+        },
+        {
+          "text": "Majka želi da mi ___.",
+          "cue": "učiti",
+          "accepted": [
+            "učimo"
+          ]
+        },
+        {
+          "text": "Ispit ___ u devet sati.",
+          "cue": "počinjati",
+          "accepted": [
+            "počinje"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "коли",
+          "answer": "kad"
+        },
+        {
+          "prompt": "якщо",
+          "answer": "ako"
+        },
+        {
+          "prompt": "бо",
+          "answer": "jer"
+        },
+        {
+          "prompt": "тому",
+          "answer": "zato"
+        },
+        {
+          "prompt": "хоча",
+          "answer": "iako"
+        },
+        {
+          "prompt": "поки",
+          "answer": "dok"
+        },
+        {
+          "prompt": "перед",
+          "answer": "prije"
+        },
+        {
+          "prompt": "після",
+          "answer": "nakon"
+        },
+        {
+          "prompt": "закінчувати",
+          "answer": "završavati"
+        },
+        {
+          "prompt": "починатися",
+          "answer": "počinjati"
+        },
+        {
+          "prompt": "запрошувати",
+          "answer": "pozivati"
+        },
+        {
+          "prompt": "лікар",
+          "answer": "liječnik"
+        },
+        {
+          "prompt": "прийом (запис)",
+          "answer": "termin"
+        },
+        {
+          "prompt": "іспит",
+          "answer": "ispit"
+        },
+        {
+          "prompt": "хворий",
+          "answer": "bolestan"
+        }
+      ],
+      "extra": [
+        "završiti",
+        "početi"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}

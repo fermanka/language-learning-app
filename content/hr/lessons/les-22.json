@@ -1,0 +1,1275 @@
+{
+  "id": "hr-les-22",
+  "lang": "hr",
+  "order": 22,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "na"
+  ],
+  "notes": [
+    {
+      "id": "hr-3939d61b",
+      "type": "noun",
+      "lemma": "obrazac",
+      "gender": "m.",
+      "gen_sg": "obrasca",
+      "plural": [
+        "obrasci"
+      ],
+      "ua": "бланк, анкета, форма",
+      "audio": "hr-obrazac.mp3",
+      "forms": [
+        "obrasca",
+        "obrascu"
+      ],
+      "explain_ua": "(Popunjavam obrazac = заповнюю бланк). Нестійке a: obrazac, obrasca, obrascu, але в множині obrasci. Це як у підручнику (сс. 304-305): nestalno a випадає в усіх формах, крім називного. Неживе чоловічого роду: знахідний obrazac без змін",
+      "check": "Слово obrazac і форми obrasca, obrascu, obrasci з мого знання за правилом нестійкого a; у джерелах цього уроку слова немає."
+    },
+    {
+      "id": "hr-b2ad53f3",
+      "type": "noun",
+      "lemma": "adresa",
+      "gender": "ž.",
+      "gen_sg": "adrese",
+      "plural": [
+        "adrese"
+      ],
+      "ua": "адреса",
+      "audio": "hr-adresa.mp3",
+      "forms": [
+        "adresu",
+        "adresi"
+      ],
+      "explain_ua": "(Moja adresa je ovdje = моя адреса тут). Жіночий рід на -a, як škola: adresa, adrese, adresu. Українське адреса збігається майже повністю",
+      "check": "Форми adrese, adresu, adresi за зразком škola; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-ae5c89ea",
+      "type": "noun",
+      "lemma": "ime",
+      "gender": "s.",
+      "gen_sg": "imena",
+      "plural": [
+        "imena"
+      ],
+      "ua": "ім'я",
+      "audio": "hr-ime.mp3",
+      "forms": [
+        "imenu"
+      ],
+      "explain_ua": "(Ovdje pišem ime = тут пишу ім'я). Середній рід на -e з вставкою -n-: ime, imena, imenu. Російське имя, імена, українське ім'я, імені: основа ім'-ен- є й тут. У підручнику ime має множину imena (с. 305)",
+      "check": "Форми imena, imenu за зразком ime з підручника (с. 305); решта з мого знання."
+    },
+    {
+      "id": "hr-155e6096",
+      "type": "noun",
+      "lemma": "prezime",
+      "gender": "s.",
+      "gen_sg": "prezimena",
+      "plural": [
+        "prezimena"
+      ],
+      "ua": "прізвище",
+      "audio": "hr-prezime.mp3",
+      "forms": [
+        "prezimenu"
+      ],
+      "explain_ua": "(Ime i prezime = ім'я та прізвище). Відмінюється як ime: prezime, prezimena, prezimenu. На бланку це пара: ime i prezime",
+      "check": "Форми prezimena, prezimenu за зразком ime; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-f248c360",
+      "type": "noun",
+      "lemma": "datum",
+      "gender": "m.",
+      "gen_sg": "datuma",
+      "plural": [
+        "datumi"
+      ],
+      "ua": "дата",
+      "audio": "hr-datum.mp3",
+      "forms": [
+        "datuma"
+      ],
+      "explain_ua": "(Datum je na obrascu = дата на бланку). Неживе чоловічого роду, як у Lekcije 3. Datum чоловічого роду, а українське дата жіночого: родовий datuma",
+      "check": "Форма datuma з мого знання; у підручнику (с. 314) datum тільки як формат запису."
+    },
+    {
+      "id": "hr-9b26356a",
+      "type": "noun",
+      "lemma": "potpis",
+      "gender": "m.",
+      "gen_sg": "potpisa",
+      "plural": [
+        "potpisi"
+      ],
+      "ua": "підпис",
+      "audio": "hr-potpis.mp3",
+      "forms": [
+        "potpisa"
+      ],
+      "explain_ua": "(Potpis je ovdje = підпис тут). Неживе чоловічого роду. Родовий potpisa. Українське підпис, російське подпись: тут слов'янський корінь той самий, а префікс potpis- свій",
+      "check": "Форми potpisa, potpisi з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-8d42e506",
+      "type": "noun",
+      "lemma": "pismo",
+      "gender": "s.",
+      "gen_sg": "pisma",
+      "plural": [
+        "pisma"
+      ],
+      "ua": "лист (папір)",
+      "audio": "hr-pismo.mp3",
+      "forms": [
+        "pisma"
+      ],
+      "explain_ua": "(Šaljem pismo u ured = надсилаю лист в офіс). Середній рід на -o: pismo, pisma. Не плутай з pismo «письмо, писання»: у нашому уроці це лист на папері. Дієслово pisati (пишу) те саме коріння",
+      "check": "Форми pisma з мого знання за зразком selo; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-0ad6c1e3",
+      "type": "noun",
+      "lemma": "broj",
+      "gender": "m.",
+      "gen_sg": "broja",
+      "plural": [
+        "brojevi"
+      ],
+      "ua": "номер, число",
+      "audio": "hr-broj.mp3",
+      "forms": [
+        "broja"
+      ],
+      "explain_ua": "(Moj broj je ovdje = мій номер тут). Неживе чоловічого роду з -ev- у множині: broj, broja, brojevi. Укр. номер, число: хорватське broj охоплює обидва значення",
+      "check": "Форми broja, brojevi з мого знання за правилом -ov-/-ev-; у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-083a16f2",
+      "type": "noun",
+      "lemma": "pošta",
+      "gender": "ž.",
+      "gen_sg": "pošte",
+      "plural": [
+        "pošte"
+      ],
+      "ua": "пошта",
+      "audio": "hr-posta.mp3",
+      "forms": [
+        "poštu",
+        "pošti"
+      ],
+      "explain_ua": "(Idem na poštu = йду на пошту). Жіночий рід на -a: pošta, pošte, poštu. Прийменник na + знахідний: idem na poštu, а на пошті (місцевий) це «на пошті»",
+      "check": "Форми pošte, poštu, pošti за зразком škola; слова в джерелах цього уроку немає."
+    },
+    {
+      "id": "hr-425b523a",
+      "type": "verb",
+      "lemma": "stanovati",
+      "aspect": "impf.",
+      "pres_1sg": "stanujem",
+      "ua": "мешкати, жити (на адресі)",
+      "audio": "hr-stanovati.mp3",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "stanujem",
+          "audio": "hr-ja-stanujem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "stanuješ",
+          "audio": "hr-ti-stanujes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "stanuje",
+          "audio": "hr-on-stanuje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "stanujemo",
+          "audio": "hr-mi-stanujemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "stanujete",
+          "audio": "hr-vi-stanujete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "stanuju",
+          "audio": "hr-oni-stanuju.mp3"
+        }
+      ],
+      "explain_ua": "(Stanujem ovdje = я живу тут). Stanovati це «мешкати на адресі», коротко для бланків. Для життя взагалі кажуть živjeti. Закінчення -ovati > -ujem, як kupovati > kupujem.",
+      "check": "Форми stanujem і т. д. підтверджені в підручнику (с. 316, stanujem); решта парадигми за шаблоном kupovati > kupujem."
+    },
+    {
+      "id": "hr-350e3de3",
+      "type": "verb",
+      "lemma": "slati",
+      "aspect": "impf.",
+      "partner": "poslati",
+      "pres_1sg": "šaljem",
+      "forms": [
+        "poslati",
+        "pošaljem",
+        "poslano",
+        "poslana",
+        "poslan"
+      ],
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "šaljem",
+          "audio": "hr-ja-saljem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "šalješ",
+          "audio": "hr-ti-saljes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "šalje",
+          "audio": "hr-on-salje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "šaljemo",
+          "audio": "hr-mi-saljemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "šaljete",
+          "audio": "hr-vi-saljete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "šalju",
+          "audio": "hr-oni-salju.mp3"
+        }
+      ],
+      "ua": "надсилати (док. poslati)",
+      "audio": "hr-slati.mp3",
+      "explain_ua": "(Šaljem pismo = надсилаю лист). Пара: slati (недок., šaljem) / poslati (док., pošaljem). Корінь sl- змінюється на šalj- у теперішньому, як шлю в українській. Українське слати, шлю теж має чергування: корінь sl-/šalj- той самий, що в «слати, шлю»",
+      "check": "Пара slati / poslati і форми šaljem, pošaljem з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-5ec89640",
+      "type": "verb",
+      "lemma": "plaćati",
+      "aspect": "impf.",
+      "partner": "platiti",
+      "pres_1sg": "plaćam",
+      "forms": [
+        "platiti",
+        "platim",
+        "plaćen",
+        "plaćena",
+        "plaćeno"
+      ],
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "plaćam",
+          "audio": "hr-ja-placam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "plaćaš",
+          "audio": "hr-ti-placas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "plaća",
+          "audio": "hr-on-placa.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "plaćamo",
+          "audio": "hr-mi-placamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "plaćate",
+          "audio": "hr-vi-placate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "plaćaju",
+          "audio": "hr-oni-placaju.mp3"
+        }
+      ],
+      "ua": "платити (док. platiti)",
+      "audio": "hr-placati.mp3",
+      "explain_ua": "(Plaćam sto eura = плачу сто євро). Пара: plaćati (недок., plaćam) / platiti (док., platim). Звук t перед -ati стає ć: plaćam, але platim",
+      "check": "Пара plaćati / platiti і форми з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-07ca842f",
+      "type": "verb",
+      "lemma": "popunjavati",
+      "aspect": "impf.",
+      "partner": "popuniti",
+      "pres_1sg": "popunjavam",
+      "forms": [
+        "popuniti",
+        "popunim",
+        "popunjavam"
+      ],
+      "ua": "заповнювати (док. popuniti)",
+      "audio": "hr-popunjavati.mp3",
+      "explain_ua": "(Popunjavam obrazac = заповнюю бланк). Пара: popunjavati (недок., popunjavam) / popuniti (док., popunim). Корінь pun- «повний»: popuniti значить «зробити повним». Українське заповнювати: схожа ідея, інший корінь",
+      "check": "Пара popunjavati / popuniti і форми popunjavam, popunim з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-3bf40b15",
+      "type": "function",
+      "lemma": "popunjen",
+      "ua": "заповнений (страдальний дієприкметник)",
+      "audio": "hr-popunjen.mp3",
+      "forms": [
+        "popunjena",
+        "popunjeno",
+        "napisan",
+        "napisana",
+        "napisano",
+        "rođen",
+        "rođena",
+        "rođeno",
+        "kupljen",
+        "kupljena",
+        "kupljeno",
+        "pozvan",
+        "pozvana",
+        "pozvano"
+      ],
+      "explain_ua": "(Obrazac je popunjen = бланк заповнений). Страдальний дієприкметник узгоджується в роді: popunjen (чол.), popunjena (жін.), popunjeno (сер.). Збірні форми: napisan, napisana, napisano; rođen, rođena, rođeno; kupljen, kupljena, kupljeno; pozvan, pozvana, pozvano. Український заповнений дуже схожий",
+      "check": "Форми rođen, rođena підтверджені в підручнику; решта страдальних дієприкметників за шаблоном з мого знання."
+    },
+    {
+      "id": "hr-eba7b053",
+      "type": "numeral",
+      "lemma": "sto",
+      "digit": "100",
+      "ua": "сто",
+      "audio": "hr-sto.mp3",
+      "forms": [
+        "eura"
+      ],
+      "explain_ua": "(Plaćam sto eura = плачу сто євро). Sto не змінюється й після нього родовий множини: sto eura. У підручнику sto eura (с. 313)",
+      "check": "Sto eura підтверджено в підручнику (с. 313)."
+    },
+    {
+      "id": "hr-c8a615c9",
+      "type": "numeral",
+      "lemma": "dvjesto",
+      "digit": "200",
+      "ua": "двісті",
+      "audio": "hr-dvjesto.mp3",
+      "explain_ua": "(Imam dvjesto eura = маю двісті євро). 200 це dvjesto (одне слово). Російське двести і українське двісті: перша частина співпадає, але -sto, а не -ста. Після нього родовий множини, як після sto",
+      "check": "Форма dvjesto з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-a657936e",
+      "type": "numeral",
+      "lemma": "tristo",
+      "digit": "300",
+      "ua": "триста",
+      "audio": "hr-tristo.mp3",
+      "explain_ua": "(Plaćam tristo eura = плачу триста євро). 300 це tristo. Українське триста: закінчення -sto замість -ста",
+      "check": "Форма tristo з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-76ced2bb",
+      "type": "numeral",
+      "lemma": "petsto",
+      "digit": "500",
+      "ua": "п'ятсот",
+      "audio": "hr-petsto.mp3",
+      "explain_ua": "(Imam petsto eura = маю п'ятсот євро). 500 це petsto. Пам'ятай pet, а не п'ять: pet + sto",
+      "check": "Форма petsto з мого знання, у джерелах цього уроку не підтверджено."
+    },
+    {
+      "id": "hr-5100a34d",
+      "type": "numeral",
+      "lemma": "tisuća",
+      "digit": "1000",
+      "ua": "тисяча",
+      "audio": "hr-tisuca.mp3",
+      "forms": [
+        "tisuću"
+      ],
+      "explain_ua": "(Imam tisuću eura = маю тисячу євро). Tisuća жіночого роду: tisuća, tisuću (знахідний). Увага: Serbian hiljada, а в хорватській тільки tisuća. У підручнику tisuću eura (с. 313)",
+      "check": "Форма tisuću підтверджена в підручнику (с. 313)."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Бланк і адреса: слова, які бачиш на папері",
+      "summary_ua": "На будь-якому бланку є кілька постійних слів: ime, prezime, adresa, datum, potpis, broj. Усі вони короткі, і більшість ти вже можеш побудувати в реченні. Ime і prezime це пара: Ime i prezime. У ime і prezime вставка -n-: imena, prezimena. Датив стоїть після прийменника k, локатив після na: na obrascu.",
+      "compare": [
+        {
+          "form": "ime, prezime, adresa, datum, potpis",
+          "when_ua": "Постійні слова бланка. Ime і prezime середнього роду, adresa жіночого, datum і potpis чоловічого.",
+          "examples": [
+            {
+              "text": "Ovdje pišem ime i prezime.",
+              "ua": "Тут пишу ім'я та прізвище.",
+              "audio": "hr-les22-rule-01.mp3"
+            },
+            {
+              "text": "Adresa je ovdje.",
+              "ua": "Адреса тут.",
+              "audio": "hr-les22-rule-02.mp3"
+            },
+            {
+              "text": "Potpis je ovdje.",
+              "ua": "Підпис тут.",
+              "audio": "hr-les22-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: ім'я, прізвище, адреса, підпис схожі. Але рід у datum (чоловічий) відрізняється від української дати."
+        }
+      ],
+      "points_ua": [
+        "Ime i prezime, adresa, datum, potpis, broj.",
+        "Ime і prezime: родовий imena, prezimena.",
+        "Na obrascu: локатив після na."
+      ]
+    },
+    {
+      "title_ua": "Пасив: biti + страдальний дієприкметник",
+      "summary_ua": "Пасив будуємо так: біти (je / su) + страдальний дієприкметник, що узгоджується в роді й числі: Obrazac je popunjen. Adresa je napisana. Pismo je poslano. Українська теж каже «бланк заповнений», тож тут допомагає українська. Російське «бланк заполнен» теж подібне.",
+      "compare": [
+        {
+          "form": "m.: je popunjen",
+          "when_ua": "Чоловічий рід: -en або -an.",
+          "examples": [
+            {
+              "text": "Obrazac je popunjen.",
+              "ua": "Бланк заповнений.",
+              "audio": "hr-les22-rule-04.mp3"
+            },
+            {
+              "text": "Datum je napisan.",
+              "ua": "Дата написана.",
+              "audio": "hr-les22-rule-05.mp3"
+            },
+            {
+              "text": "Potpis je napisan.",
+              "ua": "Підпис написаний.",
+              "audio": "hr-les22-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Rod дієприкметника збігається з родом іменника: obrazac (чол.) popunjen."
+        },
+        {
+          "form": "ž. і s.: je napisana, je poslano",
+          "when_ua": "Жіночий -a, середній -o.",
+          "examples": [
+            {
+              "text": "Adresa je napisana.",
+              "ua": "Адреса написана.",
+              "audio": "hr-les22-rule-07.mp3"
+            },
+            {
+              "text": "Pismo je poslano.",
+              "ua": "Лист надісланий.",
+              "audio": "hr-les22-rule-08.mp3"
+            },
+            {
+              "text": "Pisma su poslana.",
+              "ua": "Листи надіслані.",
+              "audio": "hr-les22-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Множина: su popunjeni (чол.), su napisane (жін.), su poslana (сер.). У множині допоміжне su."
+        }
+      ],
+      "points_ua": [
+        "Пасив = je / su + дієприкметник (-en, -an).",
+        "Дієприкметник узгоджується в роді й числі.",
+        "Нейтральне речення: Pismo je poslano."
+      ]
+    },
+    {
+      "title_ua": "Числа понад сто",
+      "summary_ua": "Сотні в хорватській пишуться одним словом: sto (100), dvjesto (200), tristo (300), petsto (500), tisuću (1000). Після них стоїть родовий множини: sto eura, dvjesto eura. Підручник (с. 313) показує sto eura і tisuću eura. Дві цифри це dvadeset i tri з «i», як ми вже вчили в Lekcije 9.",
+      "compare": [
+        {
+          "form": "sto, dvjesto, tristo, petsto, tisuću",
+          "when_ua": "Сотні одним словом; після них eura (родовий множини).",
+          "examples": [
+            {
+              "text": "Plaćam sto eura.",
+              "ua": "Плачу сто євро.",
+              "audio": "hr-les22-rule-10.mp3"
+            },
+            {
+              "text": "Imam dvjesto eura.",
+              "ua": "Маю двісті євро.",
+              "audio": "hr-les22-rule-11.mp3"
+            },
+            {
+              "text": "Imam petsto eura.",
+              "ua": "Маю п'ятсот євро.",
+              "audio": "hr-les22-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає російська: двести, триста схожі, але в хорватській -sto. Tisuća жіночого роду, тому tisuću (знахідний)."
+        }
+      ],
+      "points_ua": [
+        "Sto, dvjesto, tristo, petsto: одне слово.",
+        "Tisuću eura: знахідний tisuću.",
+        "Serbian hiljada: в хорватській лише tisuća."
+      ]
+    },
+    {
+      "title_ua": "Роки й дати цифрами",
+      "summary_ua": "На бланках дату пишуть цифрами з крапкою після кожного числа: 14. 3. 1997. (день, місяць, рік). Крапка після дня й місяця означає порядковий числівник (як у Lekcije 3). Рік після останньої крапки не читаємо вголос повністю: тут достатньо вміти прочитати й написати цифри. Це формат підручника (с. 314).",
+      "compare": [
+        {
+          "form": "14. 3. 1997.",
+          "when_ua": "День. місяць. рік. Крапка після кожної частини.",
+          "examples": [
+            {
+              "text": "Datum je na obrascu.",
+              "ua": "Дата на бланку.",
+              "audio": "hr-les22-rule-13.mp3"
+            },
+            {
+              "text": "Datum je napisan.",
+              "ua": "Дата написана.",
+              "audio": "hr-les22-rule-14.mp3"
+            },
+            {
+              "text": "Ovdje pišem datum.",
+              "ua": "Тут пишу дату.",
+              "audio": "hr-les22-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Українські 14.03.1997 з нулем і без пробілів тут не пишуть: 14. 3. 1997."
+        }
+      ],
+      "points_ua": [
+        "Формат: 14. 3. 1997.",
+        "Рік читати повністю не потрібно.",
+        "Крапка після дня і місяця."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Ovdje pišem ime i prezime.",
+      "ua": "Тут пишу ім'я та прізвище.",
+      "audio": "hr-les22-example-01.mp3"
+    },
+    {
+      "text": "Stanujem ovdje.",
+      "ua": "Я живу тут.",
+      "audio": "hr-les22-example-02.mp3"
+    },
+    {
+      "text": "Adresa je napisana.",
+      "ua": "Адреса написана.",
+      "audio": "hr-les22-example-03.mp3"
+    },
+    {
+      "text": "Obrazac je popunjen.",
+      "ua": "Бланк заповнений.",
+      "audio": "hr-les22-example-04.mp3"
+    },
+    {
+      "text": "Popunjavam obrazac u uredu.",
+      "ua": "Заповнюю бланк в офісі.",
+      "audio": "hr-les22-example-05.mp3"
+    },
+    {
+      "text": "Datum je na obrascu.",
+      "ua": "Дата на бланку.",
+      "audio": "hr-les22-example-06.mp3"
+    },
+    {
+      "text": "Potpis je ovdje.",
+      "ua": "Підпис тут.",
+      "audio": "hr-les22-example-07.mp3"
+    },
+    {
+      "text": "Šaljem pismo u ured.",
+      "ua": "Надсилаю лист в офіс.",
+      "audio": "hr-les22-example-08.mp3"
+    },
+    {
+      "text": "Pismo je poslano.",
+      "ua": "Лист надісланий.",
+      "audio": "hr-les22-example-09.mp3"
+    },
+    {
+      "text": "Idem na poštu.",
+      "ua": "Йду на пошту.",
+      "audio": "hr-les22-example-10.mp3"
+    },
+    {
+      "text": "Plaćam sto eura.",
+      "ua": "Плачу сто євро.",
+      "audio": "hr-les22-example-11.mp3"
+    },
+    {
+      "text": "Imam dvjesto eura.",
+      "ua": "Маю двісті євро.",
+      "audio": "hr-les22-example-12.mp3"
+    },
+    {
+      "text": "Imam petsto eura.",
+      "ua": "Маю п'ятсот євро.",
+      "audio": "hr-les22-example-13.mp3"
+    },
+    {
+      "text": "Imam tisuću eura.",
+      "ua": "Маю тисячу євро.",
+      "audio": "hr-les22-example-14.mp3"
+    },
+    {
+      "text": "Moj broj je ovdje.",
+      "ua": "Мій номер тут.",
+      "audio": "hr-les22-example-15.mp3"
+    },
+    {
+      "text": "Prezime je napisano ovdje.",
+      "ua": "Прізвище написане тут.",
+      "audio": "hr-les22-example-16.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Obrazac na pošti",
+    "title_ua": "Бланк на пошті",
+    "highlight": [
+      "hr-3939d61b",
+      "hr-b2ad53f3",
+      "hr-ae5c89ea",
+      "hr-155e6096",
+      "hr-f248c360",
+      "hr-9b26356a",
+      "hr-8d42e506",
+      "hr-083a16f2",
+      "hr-3bf40b15",
+      "hr-eba7b053"
+    ],
+    "sentences": [
+      {
+        "text": "Idem na poštu.",
+        "ua": "Йду на пошту.",
+        "audio": "hr-les22-reading-01.mp3"
+      },
+      {
+        "text": "Šaljem pismo u ured.",
+        "ua": "Надсилаю лист в офіс.",
+        "audio": "hr-les22-reading-02.mp3"
+      },
+      {
+        "text": "Popunjavam obrazac.",
+        "ua": "Заповнюю бланк.",
+        "audio": "hr-les22-reading-03.mp3"
+      },
+      {
+        "text": "Ovdje pišem ime i prezime.",
+        "ua": "Тут пишу ім'я та прізвище.",
+        "audio": "hr-les22-reading-04.mp3"
+      },
+      {
+        "text": "Adresa je napisana.",
+        "ua": "Адреса написана.",
+        "audio": "hr-les22-reading-05.mp3"
+      },
+      {
+        "text": "Datum je na obrascu.",
+        "ua": "Дата на бланку.",
+        "audio": "hr-les22-reading-06.mp3"
+      },
+      {
+        "text": "Potpis je ovdje.",
+        "ua": "Підпис тут.",
+        "audio": "hr-les22-reading-07.mp3"
+      },
+      {
+        "text": "Obrazac je popunjen.",
+        "ua": "Бланк заповнений.",
+        "audio": "hr-les22-reading-08.mp3"
+      },
+      {
+        "text": "Plaćam sto eura.",
+        "ua": "Плачу сто євро.",
+        "audio": "hr-les22-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Тут пишу ім'я та прізвище.",
+          "accepted": [
+            "Ovdje pišem ime i prezime."
+          ]
+        },
+        {
+          "prompt": "Я живу тут.",
+          "accepted": [
+            "Stanujem ovdje."
+          ]
+        },
+        {
+          "prompt": "Адреса написана.",
+          "accepted": [
+            "Adresa je napisana."
+          ]
+        },
+        {
+          "prompt": "Бланк заповнений.",
+          "accepted": [
+            "Obrazac je popunjen."
+          ]
+        },
+        {
+          "prompt": "Заповнюю бланк в офісі.",
+          "accepted": [
+            "Popunjavam obrazac u uredu."
+          ]
+        },
+        {
+          "prompt": "Дата на бланку.",
+          "accepted": [
+            "Datum je na obrascu."
+          ]
+        },
+        {
+          "prompt": "Лист надісланий.",
+          "accepted": [
+            "Pismo je poslano."
+          ]
+        },
+        {
+          "prompt": "Надсилаю лист в офіс.",
+          "accepted": [
+            "Šaljem pismo u ured."
+          ]
+        },
+        {
+          "prompt": "Плачу сто євро.",
+          "accepted": [
+            "Plaćam sto eura."
+          ]
+        },
+        {
+          "prompt": "Маю двісті євро.",
+          "accepted": [
+            "Imam dvjesto eura."
+          ]
+        },
+        {
+          "prompt": "Маю п'ятсот євро.",
+          "accepted": [
+            "Imam petsto eura."
+          ]
+        },
+        {
+          "prompt": "Маю тисячу євро.",
+          "accepted": [
+            "Imam tisuću eura."
+          ]
+        },
+        {
+          "prompt": "Йду на пошту.",
+          "accepted": [
+            "Idem na poštu."
+          ]
+        },
+        {
+          "prompt": "Підпис тут.",
+          "accepted": [
+            "Potpis je ovdje."
+          ]
+        },
+        {
+          "prompt": "Мій номер тут.",
+          "accepted": [
+            "Moj broj je ovdje."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "obrazac",
+        "adresa",
+        "datum",
+        "potpis",
+        "pismo",
+        "popunjen",
+        "napisana",
+        "poslano",
+        "sto",
+        "dvjesto",
+        "petsto",
+        "tisuću",
+        "eura",
+        "stanujem",
+        "šaljem",
+        "plaćam"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ je popunjen.",
+          "hint": "Бланк заповнений.",
+          "accepted": [
+            [
+              "Obrazac"
+            ]
+          ]
+        },
+        {
+          "text": "Moja ___ je ovdje.",
+          "hint": "Моя адреса тут.",
+          "accepted": [
+            [
+              "adresa"
+            ]
+          ]
+        },
+        {
+          "text": "___ je na obrascu.",
+          "hint": "Дата на бланку.",
+          "accepted": [
+            [
+              "Datum"
+            ]
+          ]
+        },
+        {
+          "text": "___ je ovdje.",
+          "hint": "Підпис тут.",
+          "accepted": [
+            [
+              "Potpis"
+            ]
+          ]
+        },
+        {
+          "text": "Šaljem ___ u ured.",
+          "hint": "Надсилаю лист в офіс.",
+          "accepted": [
+            [
+              "pismo"
+            ]
+          ]
+        },
+        {
+          "text": "Obrazac je ___.",
+          "hint": "Бланк заповнений.",
+          "accepted": [
+            [
+              "popunjen"
+            ]
+          ]
+        },
+        {
+          "text": "Adresa je ___.",
+          "hint": "Адреса написана.",
+          "accepted": [
+            [
+              "napisana"
+            ]
+          ]
+        },
+        {
+          "text": "Pismo je ___.",
+          "hint": "Лист надісланий.",
+          "accepted": [
+            [
+              "poslano"
+            ]
+          ]
+        },
+        {
+          "text": "Plaćam ___ eura.",
+          "hint": "Плачу сто євро.",
+          "accepted": [
+            [
+              "sto"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "Маю двісті євро.",
+          "accepted": [
+            [
+              "dvjesto"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "Маю п'ятсот євро.",
+          "accepted": [
+            [
+              "petsto"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "Маю тисячу євро.",
+          "accepted": [
+            [
+              "tisuću"
+            ]
+          ]
+        },
+        {
+          "text": "Sto ___.",
+          "hint": "Сто євро.",
+          "accepted": [
+            [
+              "eura"
+            ]
+          ]
+        },
+        {
+          "text": "___ ovdje.",
+          "hint": "Я живу тут.",
+          "accepted": [
+            [
+              "Stanujem"
+            ]
+          ]
+        },
+        {
+          "text": "___ pismo.",
+          "hint": "Надсилаю лист.",
+          "accepted": [
+            [
+              "Šaljem"
+            ]
+          ]
+        },
+        {
+          "text": "___ sto eura.",
+          "hint": "Плачу сто євро.",
+          "accepted": [
+            [
+              "Plaćam"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення в пасив, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Popunjavam obrazac.",
+          "cue": "-> пасив: obrazac je ...",
+          "accepted": [
+            "Obrazac je popunjen."
+          ]
+        },
+        {
+          "prompt": "Pišem adresu.",
+          "cue": "-> пасив: adresa je ...",
+          "accepted": [
+            "Adresa je napisana."
+          ]
+        },
+        {
+          "prompt": "Pišem datum.",
+          "cue": "-> пасив: datum je ...",
+          "accepted": [
+            "Datum je napisan."
+          ]
+        },
+        {
+          "prompt": "Pišem potpis.",
+          "cue": "-> пасив: potpis je ...",
+          "accepted": [
+            "Potpis je napisan."
+          ]
+        },
+        {
+          "prompt": "Šaljem pismo.",
+          "cue": "-> пасив: pismo je ...",
+          "accepted": [
+            "Pismo je poslano."
+          ]
+        },
+        {
+          "prompt": "Šaljem pisma.",
+          "cue": "-> пасив: pisma su ...",
+          "accepted": [
+            "Pisma su poslana."
+          ]
+        },
+        {
+          "prompt": "Popunjavam obrazac.",
+          "cue": "-> пасив: obrazac je ...",
+          "accepted": [
+            "Obrazac je popunjen."
+          ]
+        },
+        {
+          "prompt": "Pišem prezime.",
+          "cue": "-> пасив: prezime je ...",
+          "accepted": [
+            "Prezime je napisano."
+          ]
+        },
+        {
+          "prompt": "Obrazac je popunjena.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Obrazac je popunjen."
+          ]
+        },
+        {
+          "prompt": "Adresa je napisan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Adresa je napisana."
+          ]
+        },
+        {
+          "prompt": "Pismo je poslan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pismo je poslano."
+          ]
+        },
+        {
+          "prompt": "Plaćam sto euro.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Plaćam sto eura."
+          ]
+        },
+        {
+          "prompt": "Imam tisuća eura.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam tisuću eura."
+          ]
+        },
+        {
+          "prompt": "Imam dva sto eura.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam dvjesto eura."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ ovdje.",
+          "cue": "stanovati",
+          "accepted": [
+            "stanujem"
+          ]
+        },
+        {
+          "text": "Ti ___ ovdje.",
+          "cue": "stanovati",
+          "accepted": [
+            "stanuješ"
+          ]
+        },
+        {
+          "text": "Mi ___ ovdje.",
+          "cue": "stanovati",
+          "accepted": [
+            "stanujemo"
+          ]
+        },
+        {
+          "text": "Ja ___ pismo.",
+          "cue": "slati",
+          "accepted": [
+            "šaljem"
+          ]
+        },
+        {
+          "text": "Ti ___ pismo.",
+          "cue": "slati",
+          "accepted": [
+            "šalješ"
+          ]
+        },
+        {
+          "text": "Oni ___ pisma.",
+          "cue": "slati",
+          "accepted": [
+            "šalju"
+          ]
+        },
+        {
+          "text": "Ja ___ sto eura.",
+          "cue": "plaćati",
+          "accepted": [
+            "plaćam"
+          ]
+        },
+        {
+          "text": "Ti ___ sto eura.",
+          "cue": "plaćati",
+          "accepted": [
+            "plaćaš"
+          ]
+        },
+        {
+          "text": "Mi ___ sto eura.",
+          "cue": "plaćati",
+          "accepted": [
+            "plaćamo"
+          ]
+        },
+        {
+          "text": "Ja ___ obrazac.",
+          "cue": "popunjavati",
+          "accepted": [
+            "popunjavam"
+          ]
+        },
+        {
+          "text": "Vi ___ ovdje.",
+          "cue": "stanovati",
+          "accepted": [
+            "stanujete"
+          ]
+        },
+        {
+          "text": "Vi ___ pismo.",
+          "cue": "slati",
+          "accepted": [
+            "šaljete"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "бланк",
+          "answer": "obrazac"
+        },
+        {
+          "prompt": "адреса",
+          "answer": "adresa"
+        },
+        {
+          "prompt": "ім'я",
+          "answer": "ime"
+        },
+        {
+          "prompt": "прізвище",
+          "answer": "prezime"
+        },
+        {
+          "prompt": "дата",
+          "answer": "datum"
+        },
+        {
+          "prompt": "підпис",
+          "answer": "potpis"
+        },
+        {
+          "prompt": "лист (на папері)",
+          "answer": "pismo"
+        },
+        {
+          "prompt": "номер",
+          "answer": "broj"
+        },
+        {
+          "prompt": "мешкати",
+          "answer": "stanovati"
+        },
+        {
+          "prompt": "надсилати",
+          "answer": "slati"
+        },
+        {
+          "prompt": "платити",
+          "answer": "plaćati"
+        },
+        {
+          "prompt": "заповнювати",
+          "answer": "popunjavati"
+        },
+        {
+          "prompt": "двісті",
+          "answer": "dvjesto"
+        },
+        {
+          "prompt": "триста",
+          "answer": "tristo"
+        },
+        {
+          "prompt": "п'ятсот",
+          "answer": "petsto"
+        }
+      ],
+      "extra": [
+        "poslati",
+        "platiti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "numeral"
+      ]
+    }
+  ]
+}
