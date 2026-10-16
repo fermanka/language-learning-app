@@ -231,7 +231,7 @@ if (typeof document === 'undefined') {
           const li = el('li', it.example ? 'example' : ''), sel = el('select');
           const opt = (value, label) => { const o = el('option', null, label); o.value = value; return o; };
           sel.append(opt('', '-'));
-          right.forEach((r, i) => sel.append(opt(r, 'abcdefghij'[i])));
+          right.forEach((r, i) => sel.append(opt(r, 'abcdefghijklmnopqrstuvwxyz'[i])));
           if (it.example) { sel.value = it.answer; sel.disabled = true; } else sel.dataset.acc = JSON.stringify([it.answer]);
           li.append(el('span', null, it.prompt), document.createTextNode(' '), sel);
           left.append(li);
