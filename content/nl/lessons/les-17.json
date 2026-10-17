@@ -732,7 +732,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: множина, інше слово, питання, заперечення чи слово на початку",
+      "instruction_ua": "Перетвори речення, як показує стрілка: множина, інше слово, питання, заперечення чи слово на початку; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -810,6 +810,27 @@
           "cue": "-> починай з Vandaag",
           "accepted": [
             "Vandaag loop ik naar de school."
+          ]
+        },
+        {
+          "prompt": "Naast het station de apotheek is.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Naast het station is de apotheek."
+          ]
+        },
+        {
+          "prompt": "Mijn broer werkt naar de supermarkt.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn broer werkt in de supermarkt."
+          ]
+        },
+        {
+          "prompt": "De stad heeft drie supermarkt.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De stad heeft drie supermarkten."
           ]
         }
       ]

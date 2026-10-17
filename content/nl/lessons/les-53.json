@@ -494,7 +494,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -584,6 +584,28 @@
           "accepted": [
             "Toen zij klein was, mocht mijn vriendin buiten spelen.",
             "Toen ze klein was, mocht mijn vriendin buiten spelen."
+          ]
+        },
+        {
+          "prompt": "Toen wij waren jong, speelden wij buiten.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Toen wij jong waren, speelden wij buiten.",
+            "Toen we jong waren, speelden we buiten."
+          ]
+        },
+        {
+          "prompt": "Toen ik klein was, ik woonde in Kroatië.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Toen ik klein was, woonde ik in Kroatië."
+          ]
+        },
+        {
+          "prompt": "Als ik tien jaar was, kon ik al zwemmen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Toen ik tien jaar was, kon ik al zwemmen."
           ]
         }
       ]

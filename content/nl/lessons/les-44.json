@@ -770,7 +770,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -858,6 +858,27 @@
           "accepted": [
             "Spaar jij voor een nieuwe tas?",
             "Spaar je voor een nieuwe tas?"
+          ]
+        },
+        {
+          "prompt": "Hier is de wisselgeld.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hier is het wisselgeld."
+          ]
+        },
+        {
+          "prompt": "De klanten staat in de rij.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De klanten staan in de rij."
+          ]
+        },
+        {
+          "prompt": "Mijn zus spaart op een tas.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus spaart voor een tas."
           ]
         }
       ]

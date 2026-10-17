@@ -486,7 +486,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори двоє речень в одне, як показує стрілка",
+      "instruction_ua": "Перетвори двоє речень в одне, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -571,6 +571,27 @@
           "cue": "-> прибери niet",
           "accepted": [
             "Wij hebben een tas die nieuw is."
+          ]
+        },
+        {
+          "prompt": "Ik ken het kind die in de stad woont.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik ken het kind dat in de stad woont."
+          ]
+        },
+        {
+          "prompt": "Dit is de fiets die heeft mijn broer.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dit is de fiets die mijn broer heeft."
+          ]
+        },
+        {
+          "prompt": "Dit zijn de boeken dat ik lees.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dit zijn de boeken die ik lees."
           ]
         }
       ]

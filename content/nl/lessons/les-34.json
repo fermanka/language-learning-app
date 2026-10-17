@@ -1045,7 +1045,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1135,6 +1135,31 @@
           "cue": "-> gisteren першим",
           "accepted": [
             "Gisteren ben ik gekomen."
+          ]
+        },
+        {
+          "prompt": "Mijn zus heeft vroeg opgestaan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus is vroeg opgestaan."
+          ]
+        },
+        {
+          "prompt": "Ik heb gisteren soep bestellen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik heb gisteren soep besteld.",
+            "Gisteren heb ik soep besteld."
+          ]
+        },
+        {
+          "prompt": "Gisteren wij hebben veel gegeten.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gisteren hebben wij veel gegeten.",
+            "Gisteren hebben we veel gegeten.",
+            "Wij hebben gisteren veel gegeten.",
+            "We hebben gisteren veel gegeten."
           ]
         }
       ]

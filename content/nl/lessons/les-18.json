@@ -916,7 +916,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: відповідь з Ja чи Nee, питання, заперечення, множина чи слово на початку",
+      "instruction_ua": "Перетвори речення, як показує стрілка: відповідь з Ja чи Nee, питання, заперечення, множина чи слово на початку; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1001,6 +1001,32 @@
           "cue": "-> починай з Nu",
           "accepted": [
             "Nu woont hij in Nederland."
+          ]
+        },
+        {
+          "prompt": "Wij wonen in de Kroatië.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Wij wonen in Kroatië.",
+            "We wonen in Kroatië.",
+            "Wij wonen in Kroatie.",
+            "We wonen in Kroatie."
+          ]
+        },
+        {
+          "prompt": "Nee, mijn zus spreekt niet Oekraïens.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nee, mijn zus spreekt geen Oekraïens.",
+            "Nee, mijn zus spreekt geen Oekraiens."
+          ]
+        },
+        {
+          "prompt": "Mijn vader en moeder komt uit Oekraïne.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn vader en moeder komen uit Oekraïne.",
+            "Mijn vader en moeder komen uit Oekraine."
           ]
         }
       ]

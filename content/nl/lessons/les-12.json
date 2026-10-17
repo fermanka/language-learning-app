@@ -610,7 +610,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: заперечення, модальне дієслово, множина, питання, прикметник, of або слово на початку",
+      "instruction_ua": "Перетвори речення, як показує стрілка: заперечення, модальне дієслово, множина, питання, прикметник, of або слово на початку; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -690,6 +690,28 @@
           "cue": "-> починай з Vandaag",
           "accepted": [
             "Vandaag bestel ik een glas bier."
+          ]
+        },
+        {
+          "prompt": "Wij willen bestellen twee glazen bier.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Wij willen twee glazen bier bestellen.",
+            "We willen twee glazen bier bestellen."
+          ]
+        },
+        {
+          "prompt": "Mijn vader drinkt niet bier.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn vader drinkt geen bier."
+          ]
+        },
+        {
+          "prompt": "Mijn zus heeft een kopje van thee.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus heeft een kopje thee."
           ]
         }
       ]

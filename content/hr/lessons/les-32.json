@@ -1,0 +1,1446 @@
+{
+  "id": "hr-les-32",
+  "lang": "hr",
+  "order": 32,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "tog",
+    "filmu",
+    "moji",
+    "mlade",
+    "imala",
+    "tjedna",
+    "prijateljici",
+    "psu",
+    "kolegu",
+    "svojoj",
+    "pjesmi",
+    "govorim",
+    "njome",
+    "učitelju"
+  ],
+  "notes": [
+    {
+      "id": "hr-1e28e1d5",
+      "type": "noun",
+      "lemma": "kći",
+      "gender": "ž.",
+      "gen_sg": "kćeri",
+      "plural": [
+        "kćeri"
+      ],
+      "ua": "дочка",
+      "audio": "hr-kci.mp3",
+      "explain_ua": "(Moja kći ima dečka = моя дочка має хлопця). Жіночий рід, але без закінчення -a: kći, kćeri, у множині теж kćeri. Не відмінюй її за зразком škola. Розмовно кажуть ще kćer і kćerka, їх тут не вчимо. Син це sin (Lekcija 4), дочка це kći.",
+      "check": "Форми kćeri з мого знання; знахідний (kći / kćer), кличний і розмовні kćer, kćerka не перевірено, у цій лекції не вчу."
+    },
+    {
+      "id": "hr-df844258",
+      "type": "noun",
+      "lemma": "djed",
+      "gender": "m.",
+      "gen_sg": "djeda",
+      "plural": [
+        "djedovi"
+      ],
+      "ua": "дідусь",
+      "audio": "hr-djed.mp3",
+      "forms": [
+        "djeda"
+      ],
+      "explain_ua": "(Djed ima dva unuka = дідусь має двох онуків). Чоловічого роду: djed, djeda, djedovi. Пара до baka (Lekcija 8). Знахідний як родовий, бо це жива істота: brinem se za djeda. Українське дід: те саме слово.",
+      "check": "Форми djeda, djedovi з мого знання."
+    },
+    {
+      "id": "hr-46d30881",
+      "type": "noun",
+      "lemma": "unuk",
+      "gender": "m.",
+      "gen_sg": "unuka",
+      "plural": [
+        "unuci"
+      ],
+      "ua": "онук, онука",
+      "audio": "hr-unuk.mp3",
+      "forms": [
+        "unuka",
+        "unuku"
+      ],
+      "explain_ua": "(Djed ima dva unuka i jednu unuku = дідусь має двох онуків і одну онуку). Чоловічий рід: unuk, unuka, unuci (k стає c, як у udžbenik). Жіноча форма unuka (a-основа): jednu unuku. Після dva, tri, četiri стоїть родовий однини: dva unuka.",
+      "check": "Форми unuka, unuci з мого знання за зразком udžbenik; жіноча unuka, unuku за зразком škola."
+    },
+    {
+      "id": "hr-38faddcd",
+      "type": "noun",
+      "lemma": "dečko",
+      "gender": "m.",
+      "gen_sg": "dečka",
+      "plural": [
+        "dečki"
+      ],
+      "ua": "хлопець, коханий",
+      "audio": "hr-decko.mp3",
+      "forms": [
+        "dečka"
+      ],
+      "explain_ua": "(Moja kći ima dečka = моя дочка має хлопця). Розмовне слово: і «хлопець», і «бойфренд». Нестійке e: dečko, dečka, dečki. Це чоловік, тож знахідний як родовий: ima dečka. Точного нейтрального слова для «бойфренд» немає, тому dečko нормальне.",
+      "check": "Форми dečka, dečki з мого знання; що dečko розмовне і що нейтрального еквівалента немає, перевірити в словнику."
+    },
+    {
+      "id": "hr-13520612",
+      "type": "noun",
+      "lemma": "djevojka",
+      "gender": "ž.",
+      "gen_sg": "djevojke",
+      "plural": [
+        "djevojke"
+      ],
+      "ua": "дівчина, кохана",
+      "audio": "hr-djevojka.mp3",
+      "forms": [
+        "djevojku"
+      ],
+      "explain_ua": "(Moj sin ima djevojku = мій син має дівчину). Жіночий рід на -a: djevojka, djevojke, знахідний djevojku. Пиши dj (не đ): djevojka.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-4030f23e",
+      "type": "noun",
+      "lemma": "ljubav",
+      "gender": "ž.",
+      "gen_sg": "ljubavi",
+      "plural": [
+        "ljubavi"
+      ],
+      "ua": "любов",
+      "audio": "hr-ljubav.mp3",
+      "explain_ua": "(Ljubav je važna = любов важлива). Жіночий рід на приголосний: ljubav, ljubavi, у множині теж ljubavi (i-основа, як riječ). Згадай Lekcija 4: ljubiti це «цілувати», а «любити людину» це voljeti. Іменник ljubav усе ж значить «любов».",
+      "check": "Форми ljubavi з мого знання."
+    },
+    {
+      "id": "hr-79d07309",
+      "type": "noun",
+      "lemma": "sreća",
+      "gender": "ž.",
+      "gen_sg": "sreće",
+      "plural": [
+        "sreće"
+      ],
+      "ua": "щастя; удача",
+      "audio": "hr-sreca.mp3",
+      "forms": [
+        "sreće"
+      ],
+      "explain_ua": "(Imamo puno sreće = нам дуже щастить, у нас багато щастя). Жіночий рід на -a: sreća, sreće. Після puno стоїть родовий: puno sreće. Значить і «щастя», і «удача». Прикметник від неї sretan (нижче). Пиши ć.",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-4d31c8cc",
+      "type": "noun",
+      "lemma": "tuga",
+      "gender": "ž.",
+      "gen_sg": "tuge",
+      "plural": [
+        "tuge"
+      ],
+      "ua": "смуток, журба",
+      "audio": "hr-tuga.mp3",
+      "forms": [
+        "tugu"
+      ],
+      "explain_ua": "(Osjećam tugu i ljutnju = я відчуваю смуток і злість). Жіночий рід на -a: tuga, tuge, знахідний tugu. Від неї прикметник tužan (g стає ž).",
+      "check": "Форми за зразком škola; зв'язок tuga / tužan з мого знання."
+    },
+    {
+      "id": "hr-82b8e797",
+      "type": "noun",
+      "lemma": "strah",
+      "gender": "m.",
+      "gen_sg": "straha",
+      "plural": [
+        "strahovi"
+      ],
+      "ua": "страх",
+      "audio": "hr-strah.mp3",
+      "explain_ua": "(Imam strah od ispita = я боюся іспиту, у мене страх перед іспитом). Чоловічого роду: strah, straha, strahovi. Після нього od + родовий: strah od ispita. Українське страх: те саме слово. Дієслово bojati se ти вже знаєш (Lekcija 19).",
+      "check": "Форми straha, strahovi з мого знання."
+    },
+    {
+      "id": "hr-8d100412",
+      "type": "false_friend",
+      "lemma": "brak",
+      "gender": "m.",
+      "gen_sg": "braka",
+      "plural": [
+        "brakovi"
+      ],
+      "ua": "шлюб",
+      "uk_lookalike": "брак",
+      "uk_means": "дефект, недолік",
+      "audio": "hr-brak.mp3",
+      "explain_ua": "(Moji roditelji imaju sretan brak = мої батьки мають щасливий шлюб). Хорватське brak це шлюб, а українське брак це дефект. Перевірена хибна пара зі списку українська-хорватська. Чоловічого роду: brak, braka, brakovi. Протилежність: razvod (розлучення).",
+      "check": "Хибну пару brak / брак перевірено у списку False Friends of the Slavist; форми braka, brakovi з мого знання."
+    },
+    {
+      "id": "hr-3f031c04",
+      "type": "false_friend",
+      "lemma": "ponos",
+      "gender": "m.",
+      "gen_sg": "ponosa",
+      "plural": [
+        "ponosi"
+      ],
+      "ua": "гордість",
+      "uk_lookalike": "понос (рос.)",
+      "uk_means": "діарея (рос. понос)",
+      "audio": "hr-ponos.mp3",
+      "explain_ua": "(Majka osjeća ponos = мама відчуває гордість). Хорватське ponos це гордість. Для російськомовної пастка (соціальна): російське понос значить «діарея». Кажи спокійно, з osjećam / osjeća: osjećam ponos. Чоловічого роду: ponos, ponosa.",
+      "check": "Хибну пару ponos / понос перевірено в російсько-хорватському списку; для української сторони цього слова в моєму перевіреному списку немає, тому позначаю лише як рос. Множина ponosi рідкісна, форма умовна."
+    },
+    {
+      "id": "hr-d3e61abf",
+      "type": "noun",
+      "lemma": "razvod",
+      "gender": "m.",
+      "gen_sg": "razvoda",
+      "plural": [
+        "razvodi"
+      ],
+      "ua": "розлучення",
+      "audio": "hr-razvod.mp3",
+      "forms": [
+        "razvoda"
+      ],
+      "explain_ua": "(Razvod je težak = розлучення важке). Чоловічого роду: razvod, razvoda, razvodi. Пара до brak (шлюб). Не плутай із rastanak: це слово ми не вчимо.",
+      "check": "Форми razvoda, razvodi з мого знання; rastanak згадано лише як застереження, значення не перевіряв."
+    },
+    {
+      "id": "hr-a80ca2c4",
+      "type": "noun",
+      "lemma": "ljutnja",
+      "gender": "ž.",
+      "gen_sg": "ljutnje",
+      "plural": [
+        "ljutnje"
+      ],
+      "ua": "злість, гнів",
+      "audio": "hr-ljutnja.mp3",
+      "forms": [
+        "ljutnju"
+      ],
+      "explain_ua": "(Osjećam tugu i ljutnju = я відчуваю смуток і злість). Іменник від ljut (Lekcija 29: ljut це «гострий» і «злий»). Жіночий рід на -a: ljutnja, ljutnje, знахідний ljutnju. Пиши lj і nj. Множина майже не вживається.",
+      "check": "Форми за зразком škola; що множина рідкісна, з мого знання."
+    },
+    {
+      "id": "hr-c0513daa",
+      "type": "verb",
+      "lemma": "upoznavati",
+      "aspect": "impf.",
+      "partner": "upoznati",
+      "pres_1sg": "upoznajem",
+      "forms": [
+        "upoznaješ",
+        "upoznaje",
+        "upoznajemo",
+        "upoznajete",
+        "upoznaju",
+        "upoznati",
+        "upoznam",
+        "upoznao",
+        "upoznala",
+        "upoznali",
+        "upoznale",
+        "upoznajem"
+      ],
+      "ua": "знайомитися (док. upoznati)",
+      "audio": "hr-upoznavati.mp3",
+      "explain_ua": "(Prijateljicu sam upoznala prije deset godina = з подругою я познайомилася десять років тому). Пара: upoznavati (недок.) / upoznati (док.). У минулому майже завжди вживають док.: upoznala sam. Upoznati nekoga: знахідний. Upoznati se: познайомитися одне з одним, upoznali smo se.",
+      "check": "Пару upoznavati / upoznati і форму upoznajem з мого знання; що док. теперішній upoznam, перевірити в словнику."
+    },
+    {
+      "id": "hr-818cca2a",
+      "type": "verb",
+      "lemma": "sviđati",
+      "aspect": "impf.",
+      "partner": "svidjeti",
+      "pres_1sg": "sviđam",
+      "forms": [
+        "sviđa",
+        "sviđaju",
+        "sviđao",
+        "sviđala",
+        "sviđalo",
+        "svidjeti",
+        "svidio",
+        "svidjela"
+      ],
+      "ua": "(sviđati se) подобатися (док. svidjeti se)",
+      "audio": "hr-svidjati.mp3",
+      "explain_ua": "(Ovaj grad mi se sviđa = мені подобається це місто). Пара: sviđati se (недок.) / svidjeti se (док.). Той, кому подобається, стоїть у давальному (mi, ti, mu, joj), а те, що подобається, це підмет: sviđa mi se grad, sviđaju mi se cipele. Українське «мені подобається» має ту саму будову, тому тут допомагає українська. Не плутай з voljeti: voljeti це любити, sviđati se це подобатися.",
+      "check": "Пару sviđati se / svidjeti se з мого знання; док. теперішній svidim se рідкісний, не вчу."
+    },
+    {
+      "id": "hr-58fa3afc",
+      "type": "verb",
+      "lemma": "brinuti",
+      "aspect": "impf.",
+      "partner": "zabrinuti",
+      "pres_1sg": "brinem",
+      "forms": [
+        "brineš",
+        "brine",
+        "brinemo",
+        "brinete",
+        "brinu",
+        "zabrinuti",
+        "zabrinem",
+        "brinem"
+      ],
+      "ua": "(brinuti se) турбуватися, піклуватися (док. zabrinuti se)",
+      "audio": "hr-brinuti.mp3",
+      "explain_ua": "(Majka se brine za sina = мама турбується за сина). Brinuti se za + знахідний: brinem se za baku. Пара за видом: brinuti se (недок.) / zabrinuti se (док., «занепокоїтися»). Від нього прикметник zabrinut.",
+      "check": "Пару brinuti se / zabrinuti se з мого знання; чи це чиста видова пара (значення зсувається), перевірити в словнику."
+    },
+    {
+      "id": "hr-85a1b181",
+      "type": "verb",
+      "lemma": "svađati",
+      "aspect": "impf.",
+      "partner": "posvađati",
+      "pres_1sg": "svađam",
+      "forms": [
+        "svađaš",
+        "svađa",
+        "svađamo",
+        "svađate",
+        "svađaju",
+        "posvađati",
+        "posvađam"
+      ],
+      "ua": "(svađati se) сваритися (док. posvađati se)",
+      "audio": "hr-svadjati.mp3",
+      "explain_ua": "(Često se svađamo = ми часто сваримося). Пара: svađati se (недок.) / posvađati se (док.). Se тут «одне з одним»: svađamo se. Пиши đ: svađati.",
+      "check": "Пару svađati se / posvađati se з мого знання."
+    },
+    {
+      "id": "hr-eccb77f5",
+      "type": "verb",
+      "lemma": "smijati",
+      "aspect": "impf.",
+      "partner": "nasmijati",
+      "pres_1sg": "smijem",
+      "forms": [
+        "smiješ",
+        "smije",
+        "smijemo",
+        "smijete",
+        "smiju",
+        "nasmijati",
+        "nasmijem",
+        "smijale"
+      ],
+      "ua": "(smijati se) сміятися (+ давальний!) (док. nasmijati se)",
+      "audio": "hr-smijati.mp3",
+      "explain_ua": "(Smijem se filmu = я сміюся з фільму). Smijati se + давальний: smijem se filmu, dijete se smije psu. Українське сміятися з + родовий, російське смеяться над + орудний: жодна не збігається. Вчи слово разом з об'єктом.",
+      "check": "Пару smijati se / nasmijati se і давальний з мого знання."
+    },
+    {
+      "id": "hr-ea5b2617",
+      "type": "verb",
+      "lemma": "plakati",
+      "aspect": "impf.",
+      "partner": "zaplakati",
+      "pres_1sg": "plačem",
+      "forms": [
+        "plačeš",
+        "plače",
+        "plačemo",
+        "plačete",
+        "plaču",
+        "zaplakati",
+        "zaplačem",
+        "plakao",
+        "plakala",
+        "plakalo",
+        "plakali"
+      ],
+      "ua": "плакати (док. zaplakati)",
+      "audio": "hr-plakati.mp3",
+      "explain_ua": "(Dijete plače jer je bolesno = дитина плаче, бо хвора). Пара: plakati (недок.) / zaplakati (док., «заплакати»). Чергування k > č у теперішньому: plačem, plačeš, plače, але в минулому plakao, plakala.",
+      "check": "Пару plakati / zaplakati, форми plačem і plakao з мого знання."
+    },
+    {
+      "id": "hr-e29c101f",
+      "type": "verb",
+      "lemma": "vjerovati",
+      "aspect": "impf.",
+      "partner": "povjerovati",
+      "pres_1sg": "vjerujem",
+      "forms": [
+        "vjeruješ",
+        "vjeruje",
+        "vjerujemo",
+        "vjerujete",
+        "vjeruju",
+        "povjerovati",
+        "povjerujem",
+        "vjerujem"
+      ],
+      "ua": "вірити (+ давальний) (док. povjerovati)",
+      "audio": "hr-vjerovati.mp3",
+      "explain_ua": "(Vjerujem ti = я тобі вірю). Vjerovati + давальний: vjerujem prijateljici. Українське вірити + давальний і російське верить + давальний збігаються: це безкоштовний виграш. Зміна в теперішньому: vjerovati > vjerujem (ov стає uj).",
+      "check": "Пару vjerovati / povjerovati і форми з мого знання."
+    },
+    {
+      "id": "hr-4e9f53f7",
+      "type": "verb",
+      "lemma": "sjećati",
+      "aspect": "impf.",
+      "partner": "sjetiti",
+      "pres_1sg": "sjećam",
+      "forms": [
+        "sjećaš",
+        "sjeća",
+        "sjećamo",
+        "sjećate",
+        "sjećaju",
+        "sjetiti",
+        "sjetim",
+        "sjećam"
+      ],
+      "ua": "(sjećati se) пам'ятати, згадувати (+ родовий!) (док. sjetiti se)",
+      "audio": "hr-sjecati.mp3",
+      "explain_ua": "(Sjećam se tog dana = я пам'ятаю той день). Sjećati se + родовий: sjećam se tebe, sjećam se škole. Українське пам'ятати + знахідний і російське помнить + знахідний: не збігаються. Пара: sjećati se (недок.) / sjetiti se (док., «згадати»).",
+      "check": "Пару sjećati se / sjetiti se і родовий з мого знання."
+    },
+    {
+      "id": "hr-181ac6b3",
+      "type": "verb",
+      "lemma": "osjećati",
+      "aspect": "impf.",
+      "partner": "osjetiti",
+      "pres_1sg": "osjećam",
+      "forms": [
+        "osjećaš",
+        "osjeća",
+        "osjećamo",
+        "osjećate",
+        "osjećaju",
+        "osjetiti",
+        "osjetim",
+        "osjećam"
+      ],
+      "ua": "(osjećati se) почуватися; (osjećati) відчувати (док. osjetiti)",
+      "audio": "hr-osjecati.mp3",
+      "explain_ua": "(Danas se osjećam dobro = сьогодні я почуваюся добре). Osjećati se + прислівник: osjećam se dobro, стан. Osjećati без se + знахідний: osjećam tugu, відчуваю щось. Док. osjetiti вживається без se.",
+      "check": "Пару osjećati / osjetiti і різницю з se / без se з мого знання; що док. partner саме osjetiti, перевірити в словнику."
+    },
+    {
+      "id": "hr-080f05a1",
+      "type": "adjective",
+      "lemma": "sretan",
+      "fem": "sretna",
+      "neut": "sretno",
+      "ua": "щасливий",
+      "audio": "hr-sretan.mp3",
+      "forms": [
+        "sretna",
+        "sretne",
+        "sretno"
+      ],
+      "explain_ua": "(Moji roditelji imaju sretan brak = мої батьки мають щасливий шлюб). Нестійке a: sretan, sretna, sretno. Корінь sreća.",
+      "check": "Форми з мого знання за зразком tužan."
+    },
+    {
+      "id": "hr-887ed374",
+      "type": "adjective",
+      "lemma": "tužan",
+      "fem": "tužna",
+      "neut": "tužno",
+      "ua": "сумний",
+      "audio": "hr-tuzan.mp3",
+      "forms": [
+        "tužna",
+        "tužne",
+        "tužno"
+      ],
+      "explain_ua": "(Baka je danas tužna = бабуся сьогодні сумна). Нестійке a: tužan, tužna, tužno. Корінь tuga (g стає ž).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-5bab636a",
+      "type": "adjective",
+      "lemma": "zaljubljen",
+      "fem": "zaljubljena",
+      "neut": "zaljubljeno",
+      "ua": "закоханий",
+      "audio": "hr-zaljubljen.mp3",
+      "forms": [
+        "zaljubljena",
+        "zaljubljeni",
+        "zaljubljeno"
+      ],
+      "explain_ua": "(Moj sin je zaljubljen u djevojku = мій син закоханий у дівчину). Страдальний дієприкметник, як popunjen (Lekcija 22): zaljubljen, zaljubljena, zaljubljeno. Zaljubljen u + знахідний: zaljubljen u djevojku.",
+      "check": "Форми та u + знахідний з мого знання; дієслово zaljubiti se в цій лекції не вчу."
+    },
+    {
+      "id": "hr-626933d3",
+      "type": "adjective",
+      "lemma": "zabrinut",
+      "fem": "zabrinuta",
+      "neut": "zabrinuto",
+      "ua": "стурбований, занепокоєний",
+      "audio": "hr-zabrinut.mp3",
+      "forms": [
+        "zabrinuta",
+        "zabrinuto"
+      ],
+      "explain_ua": "(Marija je zabrinuta za sina = Марія стурбована за сина). Zabrinut, zabrinuta, zabrinuto; після нього za + знахідний: zabrinuta za sina. Корінь brinuti se.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-9481952e",
+      "type": "adjective",
+      "lemma": "ljubomoran",
+      "fem": "ljubomorna",
+      "neut": "ljubomorno",
+      "ua": "ревнивий",
+      "audio": "hr-ljubomoran.mp3",
+      "forms": [
+        "ljubomorna",
+        "ljubomorno"
+      ],
+      "explain_ua": "(Ivan je ljubomoran = Іван ревнивий). Нестійке a: ljubomoran, ljubomorna, ljubomorno. Ljubomoran na + знахідний: ljubomorna na prijateljicu. Корінь ljubav до слова не веде, тому просто вчи слово.",
+      "check": "Форми та na + знахідний з мого знання."
+    },
+    {
+      "id": "hr-67028a68",
+      "type": "adjective",
+      "lemma": "usamljen",
+      "fem": "usamljena",
+      "neut": "usamljeno",
+      "ua": "самотній",
+      "audio": "hr-usamljen.mp3",
+      "forms": [
+        "usamljena",
+        "usamljeno"
+      ],
+      "explain_ua": "(Moj djed je danas usamljen = мій дідусь сьогодні самотній). Дієприкметникова форма: usamljen, usamljena, usamljeno. Значить «самотній», тобто відчуває самотність, а не просто «сам».",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-5ad594be",
+      "type": "function",
+      "lemma": "žao",
+      "ua": "шкода, прикро (Žao mi je)",
+      "audio": "hr-zao.mp3",
+      "explain_ua": "(Žao mi je = мені шкода, мені прикро). Незмінне слово, особа стоїть у давальному: žao mi je, žao ti je, žao mu je. Не кажи «ja sam žao». Після нього що: žao mi je što si tužna.",
+      "check": "Žao mi je з мого знання."
+    },
+    {
+      "id": "hr-5f5ffd4a",
+      "type": "function",
+      "lemma": "drago",
+      "ua": "приємно (Drago mi je)",
+      "audio": "hr-drago.mp3",
+      "explain_ua": "(Drago mi je = мені приємно). Так кажуть при знайомстві («приємно познайомитися») і коли радіють чомусь. Побудова та сама, що з žao: drago mi je što te vidim.",
+      "check": "Drago mi je з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Дієслова з «несподіваним» відмінком: sjećam se tebe, vjerujem ti",
+      "summary_ua": "Деякі дієслова беруть не той відмінок, що в українській. Sjećati se + родовий: sjećam se prijateljice. Vjerovati і smijati se + давальний: vjerujem prijateljici, dijete se smije psu. Brinuti se za і zaljubljen u + знахідний: brinem se za baku. Допомагає українська тільки в одному: вірити + давальний збігається з vjerovati + давальний. Решту вчи парами «дієслово + об'єкт».",
+      "compare": [
+        {
+          "form": "sjećati se + родовий",
+          "when_ua": "Sjećam se tebe, sjećam se škole.",
+          "examples": [
+            {
+              "text": "Sjećam se prijateljice.",
+              "ua": "Я пам'ятаю подругу.",
+              "audio": "hr-les32-rule-01.mp3"
+            },
+            {
+              "text": "Sjećaš li se tog tjedna?",
+              "ua": "Ти пам'ятаєш той тиждень?",
+              "audio": "hr-les32-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Українське пам'ятати + знахідний, російське помнить + знахідний: не збігаються. Se стоїть після li: sjećaš li se."
+        },
+        {
+          "form": "vjerovati, smijati se + давальний",
+          "when_ua": "Vjerujem prijateljici, smijem se filmu.",
+          "examples": [
+            {
+              "text": "Vjerujem prijateljici.",
+              "ua": "Я вірю подрузі.",
+              "audio": "hr-les32-rule-03.mp3"
+            },
+            {
+              "text": "Dijete se smije psu.",
+              "ua": "Дитина сміється з собаки.",
+              "audio": "hr-les32-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Вірити + давальний збігається (безкоштовно). Сміятися з + родовий (укр.) і смеяться над + орудний (рос.) тут не допомагають."
+        },
+        {
+          "form": "brinuti se za, zaljubljen u + знахідний",
+          "when_ua": "Brinem se za baku, zaljubljena u kolegu.",
+          "examples": [
+            {
+              "text": "Brinem se za baku.",
+              "ua": "Я турбуюся за бабусю.",
+              "audio": "hr-les32-rule-05.mp3"
+            },
+            {
+              "text": "Ona je zaljubljena u kolegu.",
+              "ua": "Вона закохана в колегу.",
+              "audio": "hr-les32-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Знахідний: baka > baku (жіночий рід на -a, як knjigu), kolega > kolegu (чоловік, але з закінченням -a теж дає -u)."
+        }
+      ],
+      "points_ua": [
+        "Sjećati se + родовий (sjećam se tebe).",
+        "Vjerovati, smijati se + давальний (vjerujem ti, smijem se filmu).",
+        "Brinuti se za + знахідний; zaljubljen u + знахідний."
+      ]
+    },
+    {
+      "title_ua": "Sviđa mi se, žao mi je: давальний замість підмета",
+      "summary_ua": "Sviđati se будується як українське «мені подобається»: хто любить стоїть у давальному, а те, що подобається, підмет. Sviđa mi se knjiga (однина), sviđaju mi se cipele (множина, дієслово погоджується з речами). У минулому дієприкметник погоджується з предметом: sviđao mi se film, sviđala mi se knjiga. З допоміжним: sviđao sam joj se, порядок sam, потім joj, потім se (як у Lekcije 31). Те саме з почуттями: žao mi je, drago mi je, dosadno mi je. Українська тут допомагає: мені шкода, мені приємно.",
+      "compare": [
+        {
+          "form": "sviđa mi se / sviđaju mi se",
+          "when_ua": "Дієслово погоджується з тим, що подобається.",
+          "examples": [
+            {
+              "text": "Sviđa mi se ova knjiga.",
+              "ua": "Мені подобається ця книжка.",
+              "audio": "hr-les32-rule-07.mp3"
+            },
+            {
+              "text": "Sviđaju mi se cipele.",
+              "ua": "Мені подобаються черевики.",
+              "audio": "hr-les32-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Voljeti = любити (людей, довго), sviđati se = подобатися (враження)."
+        },
+        {
+          "form": "минулий: sviđao / sviđala mi se; sviđao sam joj se",
+          "when_ua": "Дієприкметник за родом предмета; з sam клітики: sam, joj, se.",
+          "examples": [
+            {
+              "text": "Sviđao mi se film.",
+              "ua": "Мені подобався фільм.",
+              "audio": "hr-les32-rule-09.mp3"
+            },
+            {
+              "text": "Sviđao sam joj se.",
+              "ua": "Я їй подобався.",
+              "audio": "hr-les32-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Пастка: se завжди після давального (joj se), не перед ним."
+        },
+        {
+          "form": "žao mi je, drago mi je + što",
+          "when_ua": "Незмінні слова, особа в давальному.",
+          "examples": [
+            {
+              "text": "Žao mi je što si tužna.",
+              "ua": "Мені шкода, що ти сумна.",
+              "audio": "hr-les32-rule-11.mp3"
+            },
+            {
+              "text": "Drago mi je što te vidim.",
+              "ua": "Мені приємно, що я тебе бачу.",
+              "audio": "hr-les32-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Не «ja sam žao», а žao mi je."
+        }
+      ],
+      "points_ua": [
+        "Sviđa mi se + однина, sviđaju mi se + множина.",
+        "Минулий за родом предмета: sviđao / sviđala mi se.",
+        "Порядок клітиків: sam, joj, se.",
+        "Žao mi je, drago mi je + što."
+      ]
+    },
+    {
+      "title_ua": "Займенники після прийменників: o meni, s njim",
+      "summary_ua": "Після прийменників займенники мають повні форми. Місцевий і давальний збігаються: o meni, o tebi, o njemu, o njoj, o nama, o vama, o njima. Орудний: sa mnom, s tobom (Lekcija 14), далі s njim, s njom, s nama, s vama, s njima. Родовий після sjećati se: sjećam se mene, tebe, njega, nas, vas. Допомагає українська: «про мене / зі мною».",
+      "compare": [
+        {
+          "form": "o + місцевий: o meni, o njoj, o nama",
+          "when_ua": "Говорити про когось.",
+          "examples": [
+            {
+              "text": "Ona govori o meni.",
+              "ua": "Вона говорить про мене.",
+              "audio": "hr-les32-rule-13.mp3"
+            },
+            {
+              "text": "Govorimo o njoj.",
+              "ua": "Ми говоримо про неї.",
+              "audio": "hr-les32-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Місцевий і давальний займенників однакові: meni, tebi, njemu, njoj, nama, vama, njima."
+        },
+        {
+          "form": "s + орудний: s njim, s njom, s njima",
+          "when_ua": "Разом з ким.",
+          "examples": [
+            {
+              "text": "Idem s njim u kino.",
+              "ua": "Я йду з ним у кіно.",
+              "audio": "hr-les32-rule-15.mp3"
+            },
+            {
+              "text": "Šetamo s njima.",
+              "ua": "Ми гуляємо з ними.",
+              "audio": "hr-les32-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Njim і njom чую найчастіше; формами njime і njome теж користуються, у лекції вчу njim, njom."
+        },
+        {
+          "form": "sjećati se + родовий: mene, tebe, njega, vas",
+          "when_ua": "Довгі форми родового (Lekcija 13).",
+          "examples": [
+            {
+              "text": "Sjećaš li se mene?",
+              "ua": "Ти пам'ятаєш мене?",
+              "audio": "hr-les32-rule-17.mp3"
+            },
+            {
+              "text": "Sjećam se vas.",
+              "ua": "Я пам'ятаю вас.",
+              "audio": "hr-les32-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Пам'ятай: sjećati se бере родовий, тому довга форма mene, tebe, njega, а не короткі me, te, ga."
+        }
+      ],
+      "points_ua": [
+        "O meni, o tebi, o njemu / njoj, o nama, o vama, o njima.",
+        "S njim, s njom, s nama, s vama, s njima.",
+        "Sjećam se mene / tebe / njega / vas."
+      ]
+    },
+    {
+      "title_ua": "Почуття: osjećam tugu; і «одне одного»: volimo se",
+      "summary_ua": "Osjećati se + прислівник описує стан: danas se osjećam dobro. Osjećati без se + знахідний називає почуття: osjećam tugu, osjećam ljutnju, osjeća ponos. Для чоловічих іменників знахідний як називний (ponos, strah), для жіночих на -a знахідний -u (tugu, ljutnju). Imati strah od + родовий. Se може значити «одне одного»: volimo se, vidimo se, oni se često svađaju. У минулому: upoznali smo se.",
+      "compare": [
+        {
+          "form": "osjećati se + прислівник; osjećati + знахідний",
+          "when_ua": "Стан проти почуття.",
+          "examples": [
+            {
+              "text": "Danas se osjećam dobro.",
+              "ua": "Сьогодні я почуваюся добре.",
+              "audio": "hr-les32-rule-19.mp3"
+            },
+            {
+              "text": "Osjećam tugu i ljutnju.",
+              "ua": "Я відчуваю смуток і злість.",
+              "audio": "hr-les32-rule-20.mp3"
+            },
+            {
+              "text": "Majka osjeća ponos.",
+              "ua": "Мама відчуває гордість.",
+              "audio": "hr-les32-rule-21.mp3"
+            },
+            {
+              "text": "Imam strah od ispita.",
+              "ua": "Я боюся іспиту.",
+              "audio": "hr-les32-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Знахідний -u: tuga > tugu, ljutnja > ljutnju (як knjigu з Lekcije 1)."
+        },
+        {
+          "form": "se = «одне одного»",
+          "when_ua": "Та сама форма se, значення з контексту.",
+          "examples": [
+            {
+              "text": "Volimo se.",
+              "ua": "Ми любимо одне одного.",
+              "audio": "hr-les32-rule-23.mp3"
+            },
+            {
+              "text": "Oni se često svađaju.",
+              "ua": "Вони часто сваряться.",
+              "audio": "hr-les32-rule-24.mp3"
+            },
+            {
+              "text": "Upoznali smo se prije deset godina.",
+              "ua": "Ми познайомилися десять років тому.",
+              "audio": "hr-les32-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Sam, smo, su стоять перед se: upoznali smo se."
+        }
+      ],
+      "points_ua": [
+        "Osjećam se dobro (стан), osjećam tugu (почуття).",
+        "Знахідний: tugu, ljutnju; ponos і strah без змін.",
+        "Se = одне одного: volimo se, svađaju se."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Moja kći ima dečka.",
+      "ua": "Моя дочка має хлопця.",
+      "audio": "hr-les32-example-01.mp3"
+    },
+    {
+      "text": "Moj sin ima djevojku.",
+      "ua": "Мій син має дівчину.",
+      "audio": "hr-les32-example-02.mp3"
+    },
+    {
+      "text": "Djed ima dva unuka i jednu unuku.",
+      "ua": "Дідусь має двох онуків і одну онуку.",
+      "audio": "hr-les32-example-03.mp3"
+    },
+    {
+      "text": "Ovaj grad mi se sviđa.",
+      "ua": "Мені подобається це місто.",
+      "audio": "hr-les32-example-04.mp3"
+    },
+    {
+      "text": "Sjećam se tog dana.",
+      "ua": "Я пам'ятаю той день.",
+      "audio": "hr-les32-example-05.mp3"
+    },
+    {
+      "text": "Vjerujem ti.",
+      "ua": "Я тобі вірю.",
+      "audio": "hr-les32-example-06.mp3"
+    },
+    {
+      "text": "Smijem se filmu.",
+      "ua": "Я сміюся з фільму.",
+      "audio": "hr-les32-example-07.mp3"
+    },
+    {
+      "text": "Majka se brine za sina.",
+      "ua": "Мама турбується за сина.",
+      "audio": "hr-les32-example-08.mp3"
+    },
+    {
+      "text": "Dijete plače jer je bolesno.",
+      "ua": "Дитина плаче, бо хвора.",
+      "audio": "hr-les32-example-09.mp3"
+    },
+    {
+      "text": "Razvod je težak.",
+      "ua": "Розлучення важке.",
+      "audio": "hr-les32-example-10.mp3"
+    },
+    {
+      "text": "Baka je danas tužna.",
+      "ua": "Бабуся сьогодні сумна.",
+      "audio": "hr-les32-example-11.mp3"
+    },
+    {
+      "text": "Moj sin je zaljubljen u djevojku.",
+      "ua": "Мій син закоханий у дівчину.",
+      "audio": "hr-les32-example-12.mp3"
+    },
+    {
+      "text": "Žao mi je.",
+      "ua": "Мені шкода.",
+      "audio": "hr-les32-example-13.mp3"
+    },
+    {
+      "text": "Drago mi je.",
+      "ua": "Мені приємно.",
+      "audio": "hr-les32-example-14.mp3"
+    },
+    {
+      "text": "Često se svađamo.",
+      "ua": "Ми часто сваримося.",
+      "audio": "hr-les32-example-15.mp3"
+    },
+    {
+      "text": "Imamo puno sreće.",
+      "ua": "Нам дуже щастить.",
+      "audio": "hr-les32-example-16.mp3"
+    },
+    {
+      "text": "Ljubav je važna.",
+      "ua": "Любов важлива.",
+      "audio": "hr-les32-example-17.mp3"
+    },
+    {
+      "text": "Moji roditelji imaju sretan brak.",
+      "ua": "Мої батьки мають щасливий шлюб.",
+      "audio": "hr-les32-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Prijateljica",
+    "title_ua": "Подруга",
+    "highlight": [
+      "hr-38faddcd",
+      "hr-080f05a1",
+      "hr-626933d3",
+      "hr-9481952e",
+      "hr-67028a68",
+      "hr-5ad594be",
+      "hr-5f5ffd4a"
+    ],
+    "sentences": [
+      {
+        "text": "Prijateljicu sam upoznala prije deset godina.",
+        "ua": "З подругою я познайомилася десять років тому.",
+        "audio": "hr-les32-reading-01.mp3"
+      },
+      {
+        "text": "Sjećam se tog dana kad smo se upoznale.",
+        "ua": "Я пам'ятаю той день, коли ми познайомилися.",
+        "audio": "hr-les32-reading-02.mp3"
+      },
+      {
+        "text": "Bile smo mlade i sretne.",
+        "ua": "Ми були молоді й щасливі.",
+        "audio": "hr-les32-reading-03.mp3"
+      },
+      {
+        "text": "Često smo se smijale.",
+        "ua": "Ми часто сміялися.",
+        "audio": "hr-les32-reading-04.mp3"
+      },
+      {
+        "text": "Ona je imala dečka, a ja sam bila ljubomorna.",
+        "ua": "Вона мала хлопця, а я ревнувала.",
+        "audio": "hr-les32-reading-05.mp3"
+      },
+      {
+        "text": "Bila je zabrinuta, ali je rekla da je sretna.",
+        "ua": "Вона була стурбована, але сказала, що щаслива.",
+        "audio": "hr-les32-reading-06.mp3"
+      },
+      {
+        "text": "Sada je daleko i često sam usamljena.",
+        "ua": "Тепер вона далеко, і я часто самотня.",
+        "audio": "hr-les32-reading-07.mp3"
+      },
+      {
+        "text": "Žao mi je što nije ovdje.",
+        "ua": "Мені шкода, що її немає тут.",
+        "audio": "hr-les32-reading-08.mp3"
+      },
+      {
+        "text": "Ali mi je drago što me zove.",
+        "ua": "Але мені приємно, що вона мені дзвонить.",
+        "audio": "hr-les32-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Моя сестра має хлопця.",
+          "accepted": [
+            "Moja sestra ima dečka."
+          ]
+        },
+        {
+          "prompt": "Дідусь пам'ятає школу.",
+          "accepted": [
+            "Djed se sjeća škole."
+          ]
+        },
+        {
+          "prompt": "Я вірю своїй сестрі.",
+          "accepted": [
+            "Vjerujem svojoj sestri."
+          ]
+        },
+        {
+          "prompt": "Ми сміємося з цієї пісні.",
+          "accepted": [
+            "Smijemo se ovoj pjesmi."
+          ]
+        },
+        {
+          "prompt": "Моя бабуся турбується за онука.",
+          "accepted": [
+            "Moja baka se brine za unuka."
+          ]
+        },
+        {
+          "prompt": "Мені подобаються ці сукні.",
+          "accepted": [
+            "Sviđaju mi se te haljine."
+          ]
+        },
+        {
+          "prompt": "Мені шкода, що твоя сестра сумна.",
+          "accepted": [
+            "Žao mi je što je tvoja sestra tužna."
+          ]
+        },
+        {
+          "prompt": "Мені приємно, що ти тут.",
+          "accepted": [
+            "Drago mi je što si ovdje."
+          ]
+        },
+        {
+          "prompt": "Моя подруга зараз самотня.",
+          "accepted": [
+            "Moja prijateljica je sada usamljena."
+          ]
+        },
+        {
+          "prompt": "Іван ревнивий.",
+          "accepted": [
+            "Ivan je ljubomoran."
+          ]
+        },
+        {
+          "prompt": "Моя мама плаче, бо вона сумна.",
+          "accepted": [
+            "Moja majka plače jer je tužna."
+          ]
+        },
+        {
+          "prompt": "Дитина має страх перед собакою.",
+          "accepted": [
+            "Dijete ima strah od psa."
+          ]
+        },
+        {
+          "prompt": "Наш шлюб щасливий.",
+          "accepted": [
+            "Naš brak je sretan."
+          ]
+        },
+        {
+          "prompt": "Ми познайомилися в школі.",
+          "accepted": [
+            "Upoznali smo se u školi.",
+            "Upoznale smo se u školi."
+          ]
+        },
+        {
+          "prompt": "Ми ніколи не сваримося.",
+          "accepted": [
+            "Mi se nikad ne svađamo.",
+            "Nikad se ne svađamo."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "kći",
+        "razvoda",
+        "tuga",
+        "strah",
+        "ponos",
+        "sreće",
+        "ljutnju",
+        "usamljen",
+        "ljubomorna",
+        "zabrinuta",
+        "djevojku",
+        "tebe",
+        "mi",
+        "njom",
+        "žao",
+        "drago"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Moja ___ ima dvanaest godina.",
+          "hint": "Моя дочка має дванадцять років.",
+          "accepted": [
+            [
+              "kći"
+            ]
+          ]
+        },
+        {
+          "text": "Nakon ___ ostajem u kući.",
+          "hint": "Після розлучення я залишаюся в домі.",
+          "accepted": [
+            [
+              "razvoda"
+            ]
+          ]
+        },
+        {
+          "text": "___ je velika.",
+          "hint": "Смуток великий.",
+          "accepted": [
+            [
+              "Tuga"
+            ]
+          ]
+        },
+        {
+          "text": "___ od ispita nije dobar.",
+          "hint": "Страх перед іспитом недобрий.",
+          "accepted": [
+            [
+              "Strah"
+            ]
+          ]
+        },
+        {
+          "text": "Moj otac osjeća ___.",
+          "hint": "Мій батько відчуває гордість.",
+          "accepted": [
+            [
+              "ponos"
+            ]
+          ]
+        },
+        {
+          "text": "Moja majka ima puno ___.",
+          "hint": "У моєї мами багато щастя.",
+          "accepted": [
+            [
+              "sreće"
+            ]
+          ]
+        },
+        {
+          "text": "Ne govorim kad osjećam ___.",
+          "hint": "Я не говорю, коли відчуваю злість.",
+          "accepted": [
+            [
+              "ljutnju"
+            ]
+          ]
+        },
+        {
+          "text": "Moj djed je danas ___.",
+          "hint": "Мій дідусь сьогодні самотній.",
+          "accepted": [
+            [
+              "usamljen"
+            ]
+          ]
+        },
+        {
+          "text": "Ona je ___ na prijateljicu.",
+          "hint": "Вона ревнує до подруги.",
+          "accepted": [
+            [
+              "ljubomorna"
+            ]
+          ]
+        },
+        {
+          "text": "Marija je ___ za sina.",
+          "hint": "Марія стурбована за сина.",
+          "accepted": [
+            [
+              "zabrinuta"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat ima ___.",
+          "hint": "Мій брат має дівчину.",
+          "accepted": [
+            [
+              "djevojku"
+            ]
+          ]
+        },
+        {
+          "text": "Sjećam se ___.",
+          "hint": "Я пам'ятаю тебе.",
+          "accepted": [
+            [
+              "tebe"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ___ vjeruje.",
+          "hint": "Вона мені вірить.",
+          "accepted": [
+            [
+              "mi"
+            ]
+          ]
+        },
+        {
+          "text": "Šetam s ___ u parku.",
+          "hint": "Я гуляю з нею в парку.",
+          "accepted": [
+            [
+              "njom",
+              "njome"
+            ]
+          ]
+        },
+        {
+          "text": "___ mi je što je test težak.",
+          "hint": "Мені шкода, що контрольна важка.",
+          "accepted": [
+            [
+              "Žao"
+            ]
+          ]
+        },
+        {
+          "text": "___ mi je što su djeca sretna.",
+          "hint": "Мені приємно, що діти щасливі.",
+          "accepted": [
+            [
+              "Drago"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Vjeruješ prijatelju.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Vjeruješ li prijatelju?"
+          ]
+        },
+        {
+          "prompt": "Sviđa mi se ova pjesma.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Sviđala mi se ova pjesma."
+          ]
+        },
+        {
+          "prompt": "Sviđa mi se jabuka.",
+          "cue": "-> множина (jabuke)",
+          "accepted": [
+            "Sviđaju mi se jabuke."
+          ]
+        },
+        {
+          "prompt": "Vjerujem učitelju.",
+          "cue": "-> замінити займенником",
+          "accepted": [
+            "Vjerujem mu."
+          ]
+        },
+        {
+          "prompt": "Sjećam se prijatelja.",
+          "cue": "-> замінити займенником",
+          "accepted": [
+            "Sjećam ga se."
+          ]
+        },
+        {
+          "prompt": "Dijete plače.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Dijete je plakalo."
+          ]
+        },
+        {
+          "prompt": "Brinem se za brata.",
+          "cue": "-> Ona ...",
+          "accepted": [
+            "Ona se brine za brata."
+          ]
+        },
+        {
+          "prompt": "Ja se osjećam dobro.",
+          "cue": "-> Mi ...",
+          "accepted": [
+            "Mi se osjećamo dobro."
+          ]
+        },
+        {
+          "prompt": "Moja sestra je tužna.",
+          "cue": "-> множина (Moje sestre ...)",
+          "accepted": [
+            "Moje sestre su tužne."
+          ]
+        },
+        {
+          "prompt": "Ona je zabrinuta za dijete.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Ona je bila zabrinuta za dijete.",
+            "Bila je zabrinuta za dijete."
+          ]
+        },
+        {
+          "prompt": "Upoznajem prijatelja.",
+          "cue": "-> док. вид, минулий час",
+          "accepted": [
+            "Upoznala sam prijatelja.",
+            "Upoznao sam prijatelja."
+          ]
+        },
+        {
+          "prompt": "Ja sam žao što ne dolaziš.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Žao mi je što ne dolaziš."
+          ]
+        },
+        {
+          "prompt": "Sjećam se tebi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sjećam se tebe."
+          ]
+        },
+        {
+          "prompt": "Vjerujem prijatelja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vjerujem prijatelju."
+          ]
+        },
+        {
+          "prompt": "Mi se sviđa ova knjiga.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sviđa mi se ova knjiga.",
+            "Ova knjiga mi se sviđa."
+          ]
+        },
+        {
+          "prompt": "Sviđala sam se mu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sviđala sam mu se."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ona se ___ ljeta.",
+          "cue": "sjećati se",
+          "accepted": [
+            "sjeća"
+          ]
+        },
+        {
+          "text": "Ja ___ prijatelju.",
+          "cue": "vjerovati",
+          "accepted": [
+            "vjerujem"
+          ]
+        },
+        {
+          "text": "Mi ___ učiteljici.",
+          "cue": "vjerovati",
+          "accepted": [
+            "vjerujemo"
+          ]
+        },
+        {
+          "text": "Oni se ___ psu.",
+          "cue": "smijati se",
+          "accepted": [
+            "smiju"
+          ]
+        },
+        {
+          "text": "Ti se ___ pjesmi.",
+          "cue": "smijati se",
+          "accepted": [
+            "smiješ"
+          ]
+        },
+        {
+          "text": "Ja se ___ za djeda.",
+          "cue": "brinuti se",
+          "accepted": [
+            "brinem"
+          ]
+        },
+        {
+          "text": "Vi se ___ za unuka.",
+          "cue": "brinuti se",
+          "accepted": [
+            "brinete"
+          ]
+        },
+        {
+          "text": "Ti se ___ dobro.",
+          "cue": "osjećati se",
+          "accepted": [
+            "osjećaš"
+          ]
+        },
+        {
+          "text": "Mi se ___ s kolegama.",
+          "cue": "upoznavati se",
+          "accepted": [
+            "upoznajemo"
+          ]
+        },
+        {
+          "text": "Moja sestra ___ jer je sretna.",
+          "cue": "plakati",
+          "accepted": [
+            "plače"
+          ]
+        },
+        {
+          "text": "Ona i ja se često ___.",
+          "cue": "svađati se",
+          "accepted": [
+            "svađamo"
+          ]
+        },
+        {
+          "text": "Oni su se ___ u kafiću.",
+          "cue": "upoznati se",
+          "accepted": [
+            "upoznali"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

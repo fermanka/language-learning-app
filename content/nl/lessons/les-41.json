@@ -935,7 +935,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1020,6 +1020,27 @@
           "cue": "-> питання",
           "accepted": [
             "Zingt uw dochter graag?"
+          ]
+        },
+        {
+          "prompt": "Ons club is klein.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Onze club is klein."
+          ]
+        },
+        {
+          "prompt": "Mijn zus speelt op piano.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus speelt piano."
+          ]
+        },
+        {
+          "prompt": "Mijn moeder houdt breien.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn moeder houdt van breien."
           ]
         }
       ]

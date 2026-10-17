@@ -938,7 +938,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1029,6 +1029,29 @@
           "cue": "-> теперішній час",
           "accepted": [
             "Het is koud."
+          ]
+        },
+        {
+          "prompt": "Gisteren ik had veel werk.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gisteren had ik veel werk.",
+            "Ik had gisteren veel werk."
+          ]
+        },
+        {
+          "prompt": "De kinderen was vorige week ziek.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De kinderen waren vorige week ziek."
+          ]
+        },
+        {
+          "prompt": "Mijn broer gaat morgen thuis.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn broer gaat morgen naar huis.",
+            "Morgen gaat mijn broer naar huis."
           ]
         }
       ]

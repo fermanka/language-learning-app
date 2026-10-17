@@ -546,7 +546,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: година на початку, питання, half, vroeg або заперечення",
+      "instruction_ua": "Перетвори речення, як показує стрілка: година на початку, питання, half, vroeg або заперечення; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -620,6 +620,29 @@
           "accepted": [
             "Ik heb geen tijd om vijf uur.",
             "Om vijf uur heb ik geen tijd."
+          ]
+        },
+        {
+          "prompt": "Ik sta om negen uur.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik sta om negen uur op.",
+            "Om negen uur sta ik op."
+          ]
+        },
+        {
+          "prompt": "Om half negen uur eet ik kaas.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Om half negen eet ik kaas.",
+            "Ik eet om half negen kaas."
+          ]
+        },
+        {
+          "prompt": "In de avond ik drink thee.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "In de avond drink ik thee."
           ]
         }
       ]

@@ -1028,7 +1028,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: множина, verkleinwoord (-je), заперечення, питання",
+      "instruction_ua": "Перетвори речення, як показує стрілка: множина, verkleinwoord (-je), заперечення, питання; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1115,6 +1115,27 @@
           "cue": "-> починай з Ik",
           "accepted": [
             "Ik eet brood bij het ontbijt."
+          ]
+        },
+        {
+          "prompt": "Hij drinkt een glas van water.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hij drinkt een glas water."
+          ]
+        },
+        {
+          "prompt": "Mijn vader is honger.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn vader heeft honger."
+          ]
+        },
+        {
+          "prompt": "Het broodje smaakt lekkere.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Het broodje smaakt lekker."
           ]
         }
       ]

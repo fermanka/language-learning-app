@@ -1009,7 +1009,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1094,6 +1094,27 @@
           "cue": "-> заперечення: De bus heeft geen ...",
           "accepted": [
             "De bus heeft geen vertraging."
+          ]
+        },
+        {
+          "prompt": "Om zes uur de bus komt aan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Om zes uur komt de bus aan."
+          ]
+        },
+        {
+          "prompt": "Het vliegtuig heeft de vertraging.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Het vliegtuig heeft vertraging."
+          ]
+        },
+        {
+          "prompt": "Het parkeerplaats is klein.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De parkeerplaats is klein."
           ]
         }
       ]

@@ -912,7 +912,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1002,6 +1002,32 @@
           "accepted": [
             "Zij heeft geen soep gekookt.",
             "Ze heeft geen soep gekookt."
+          ]
+        },
+        {
+          "prompt": "Zij heeft geleerd Engels.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zij heeft Engels geleerd.",
+            "Ze heeft Engels geleerd."
+          ]
+        },
+        {
+          "prompt": "Wij hebben gisteren in de keuken koken.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Wij hebben gisteren in de keuken gekookt.",
+            "We hebben gisteren in de keuken gekookt.",
+            "Gisteren hebben wij in de keuken gekookt.",
+            "Gisteren hebben we in de keuken gekookt."
+          ]
+        },
+        {
+          "prompt": "Wij hebben niet kaas gekocht.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Wij hebben geen kaas gekocht.",
+            "We hebben geen kaas gekocht."
           ]
         }
       ]

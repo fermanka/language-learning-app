@@ -1183,7 +1183,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: заперечення, питання, порядок слів, -e",
+      "instruction_ua": "Перетвори речення, як показує стрілка: заперечення, питання, порядок слів, -e; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1269,6 +1269,28 @@
           "cue": "-> De dag is ...",
           "accepted": [
             "De dag is bewolkt."
+          ]
+        },
+        {
+          "prompt": "Morgen het sneeuwt niet.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Morgen sneeuwt het niet.",
+            "Het sneeuwt morgen niet."
+          ]
+        },
+        {
+          "prompt": "Ik draag een nat jas.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik draag een natte jas."
+          ]
+        },
+        {
+          "prompt": "Op de winter sneeuwt het soms.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "In de winter sneeuwt het soms."
           ]
         }
       ]

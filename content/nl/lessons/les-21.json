@@ -1110,7 +1110,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: een -> de / het, X is ... -> Het is een ..., Welke -> Wat voor",
+      "instruction_ua": "Перетвори речення, як показує стрілка: een -> de / het, X is ... -> Het is een ..., Welke -> Wat voor; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1189,6 +1189,27 @@
           "cue": "-> постав питання: Draag jij ...?",
           "accepted": [
             "Draag jij een trui?"
+          ]
+        },
+        {
+          "prompt": "Mijn zus koopt een rode T-shirt.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus koopt een rood T-shirt."
+          ]
+        },
+        {
+          "prompt": "Mijn jurk is witte.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn jurk is wit."
+          ]
+        },
+        {
+          "prompt": "Welke kind draagt een sjaal?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Welk kind draagt een sjaal?"
           ]
         }
       ]

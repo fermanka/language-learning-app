@@ -82,5 +82,11 @@
         "explain_ua"
       ]
     }
+  },
+  "size_rules": {
+    "items": [
+      8,
+      15
+    ]
   }
 }

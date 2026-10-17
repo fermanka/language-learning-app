@@ -621,7 +621,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -709,6 +709,27 @@
           "cue": "-> заперечення",
           "accepted": [
             "Zij voelt zich niet ziek."
+          ]
+        },
+        {
+          "prompt": "Hoe voelen jullie zich vandaag?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hoe voelen jullie je vandaag?"
+          ]
+        },
+        {
+          "prompt": "Mijn zus voelt niet goed.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus voelt zich niet goed."
+          ]
+        },
+        {
+          "prompt": "Ik wil wassen me voor het eten.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik wil me wassen voor het eten."
           ]
         }
       ]

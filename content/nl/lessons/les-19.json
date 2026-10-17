@@ -967,7 +967,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: з «X is ...» на «Het is een ... X» і назад, або почни з Ik vind",
+      "instruction_ua": "Перетвори речення, як показує стрілка: з «X is ...» на «Het is een ... X» і назад, або почни з Ik vind; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1046,6 +1046,28 @@
           "cue": "-> Ik zie het ... huis",
           "accepted": [
             "Ik zie het oude huis."
+          ]
+        },
+        {
+          "prompt": "Mijn zus heeft een oud fiets.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus heeft een oude fiets."
+          ]
+        },
+        {
+          "prompt": "Wij vinden de koffie is te koud.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Wij vinden de koffie te koud.",
+            "We vinden de koffie te koud."
+          ]
+        },
+        {
+          "prompt": "Hij ziet naar het park.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hij kijkt naar het park."
           ]
         }
       ]

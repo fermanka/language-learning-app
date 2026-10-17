@@ -765,7 +765,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -848,6 +848,27 @@
           "accepted": [
             "Wij kennen de stad.",
             "We kennen de stad."
+          ]
+        },
+        {
+          "prompt": "Mijn zus kent de prijs niet.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus weet de prijs niet."
+          ]
+        },
+        {
+          "prompt": "Hij heeft niet werk.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hij heeft geen werk."
+          ]
+        },
+        {
+          "prompt": "Mijn vader doet een foto van het park.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn vader maakt een foto van het park."
           ]
         }
       ]

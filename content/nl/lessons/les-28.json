@@ -1006,7 +1006,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1097,6 +1097,28 @@
           "accepted": [
             "Wij mochten geen koffie drinken.",
             "We mochten geen koffie drinken."
+          ]
+        },
+        {
+          "prompt": "Helaas wij moesten thuis blijven.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Helaas moesten wij thuis blijven.",
+            "Helaas moesten we thuis blijven."
+          ]
+        },
+        {
+          "prompt": "De kinderen wilde thuis blijven.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De kinderen wilden thuis blijven."
+          ]
+        },
+        {
+          "prompt": "Mijn vader wilde helpen de man.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn vader wilde de man helpen."
           ]
         }
       ]

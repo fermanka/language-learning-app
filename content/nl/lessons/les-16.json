@@ -732,7 +732,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: питання, множина, інше слово, заперечення чи слово на початку",
+      "instruction_ua": "Перетвори речення, як показує стрілка: питання, множина, інше слово, заперечення чи слово на початку; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -811,6 +811,27 @@
           "accepted": [
             "Jij betaalt vijf euro.",
             "Je betaalt vijf euro."
+          ]
+        },
+        {
+          "prompt": "De eieren kost twee euro.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De eieren kosten twee euro."
+          ]
+        },
+        {
+          "prompt": "De tomaat kost zestig centen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De tomaat kost zestig cent."
+          ]
+        },
+        {
+          "prompt": "Ik koop een duur peer.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik koop een dure peer."
           ]
         }
       ]

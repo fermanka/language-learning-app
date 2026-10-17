@@ -1023,7 +1023,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1108,6 +1108,27 @@
           "cue": "-> voltooid tijd: Mijn zus heeft ... gewerkt.",
           "accepted": [
             "Mijn zus heeft bij een bedrijf gewerkt."
+          ]
+        },
+        {
+          "prompt": "Mijn zus is niet kapper.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus is geen kapper."
+          ]
+        },
+        {
+          "prompt": "Mijn zus werkt kapper.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus werkt als kapper."
+          ]
+        },
+        {
+          "prompt": "Er zijn drie bedrijf in de stad.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Er zijn drie bedrijven in de stad."
           ]
         }
       ]

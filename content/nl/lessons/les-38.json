@@ -663,7 +663,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -752,6 +752,31 @@
           "cue": "-> множина: Mijn dochters ...",
           "accepted": [
             "Mijn dochters gaan naar een nieuwe school."
+          ]
+        },
+        {
+          "prompt": "Mijn zus gaat volgende week verhuist.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus gaat volgende week verhuizen.",
+            "Volgende week gaat mijn zus verhuizen."
+          ]
+        },
+        {
+          "prompt": "Wij gaan straks naar de winkel gaan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Wij gaan straks naar de winkel.",
+            "We gaan straks naar de winkel.",
+            "Straks gaan wij naar de winkel.",
+            "Straks gaan we naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Volgende week ik ga verhuizen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Volgende week ga ik verhuizen."
           ]
         }
       ]

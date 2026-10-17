@@ -677,7 +677,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -762,6 +762,27 @@
           "cue": "-> заміни zij (вони) на jullie",
           "accepted": [
             "Jullie zijn teleurgesteld."
+          ]
+        },
+        {
+          "prompt": "Mijn zus is bang van de tandarts.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus is bang voor de tandarts."
+          ]
+        },
+        {
+          "prompt": "Een verdrietige kind huilt.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Een verdrietig kind huilt."
+          ]
+        },
+        {
+          "prompt": "De trots vader kijkt naar zijn kind.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De trotse vader kijkt naar zijn kind."
           ]
         }
       ]

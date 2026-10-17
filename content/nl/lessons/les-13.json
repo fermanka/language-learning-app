@@ -576,7 +576,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: слово на початку, питання, заперечення, willen або інший день",
+      "instruction_ua": "Перетвори речення, як показує стрілка: слово на початку, питання, заперечення, willen або інший день; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -650,6 +650,28 @@
           "cue": "-> zondag і zevende замість maandag і eerste",
           "accepted": [
             "Zondag is de zevende dag."
+          ]
+        },
+        {
+          "prompt": "Op vrijdag ik ga naar de winkel.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Op vrijdag ga ik naar de winkel."
+          ]
+        },
+        {
+          "prompt": "Mijn zus zwemt in donderdag.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus zwemt op donderdag.",
+            "Op donderdag zwemt mijn zus."
+          ]
+        },
+        {
+          "prompt": "Morgen is zondag.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Morgen is het zondag."
           ]
         }
       ]

@@ -690,7 +690,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -775,6 +775,27 @@
           "cue": "-> onregelmatig: liever",
           "accepted": [
             "Ik eet liever appels."
+          ]
+        },
+        {
+          "prompt": "Mijn keuken is kleiner als jouw keuken.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn keuken is kleiner dan jouw keuken."
+          ]
+        },
+        {
+          "prompt": "Mijn tas is duurst.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn tas is het duurst."
+          ]
+        },
+        {
+          "prompt": "Zij heeft veel boeken dan ik.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zij heeft meer boeken dan ik."
           ]
         }
       ]

@@ -648,7 +648,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -733,6 +733,28 @@
           "cue": "-> заміни zij (вони) на jullie",
           "accepted": [
             "Jullie zijn geduldig."
+          ]
+        },
+        {
+          "prompt": "Mijn dochter lijkt met haar opa.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn dochter lijkt op haar opa."
+          ]
+        },
+        {
+          "prompt": "Mijn buur is nieuwsgierig op onze tuin.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn buur is nieuwsgierig naar onze tuin."
+          ]
+        },
+        {
+          "prompt": "Altijd mijn oom is eerlijk.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Altijd is mijn oom eerlijk.",
+            "Mijn oom is altijd eerlijk."
           ]
         }
       ]

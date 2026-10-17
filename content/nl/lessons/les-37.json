@@ -1021,7 +1021,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1110,6 +1110,28 @@
           "cue": "-> минулий час: Mijn zoon ... verkouden.",
           "accepted": [
             "Mijn zoon was verkouden."
+          ]
+        },
+        {
+          "prompt": "Mijn zoon heeft verkouden.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zoon is verkouden."
+          ]
+        },
+        {
+          "prompt": "Hoe gaat het met ik?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hoe gaat het met mij?",
+            "Hoe gaat het met me?"
+          ]
+        },
+        {
+          "prompt": "Mijn zoon heeft een griep.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zoon heeft griep."
           ]
         }
       ]

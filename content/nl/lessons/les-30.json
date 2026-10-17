@@ -928,7 +928,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1014,6 +1014,27 @@
           "cue": "-> починай з Vandaag",
           "accepted": [
             "Vandaag doet mijn buik pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn opa heeft niet pijn.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn opa heeft geen pijn."
+          ]
+        },
+        {
+          "prompt": "Haar ogen doet pijn.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Haar ogen doen pijn."
+          ]
+        },
+        {
+          "prompt": "Mijn zus heeft zwarte haar.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus heeft zwart haar."
           ]
         }
       ]

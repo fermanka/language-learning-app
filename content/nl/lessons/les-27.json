@@ -1036,7 +1036,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1128,6 +1128,33 @@
           "accepted": [
             "Wij hoorden de bus niet.",
             "We hoorden de bus niet."
+          ]
+        },
+        {
+          "prompt": "Mijn zus en ik lachte veel.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus en ik lachten veel."
+          ]
+        },
+        {
+          "prompt": "Wij luisterden gisteren de muziek.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Wij luisterden gisteren naar de muziek.",
+            "We luisterden gisteren naar de muziek.",
+            "Gisteren luisterden wij naar de muziek.",
+            "Gisteren luisterden we naar de muziek."
+          ]
+        },
+        {
+          "prompt": "Vorig jaar wij woonden in Nederland.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vorig jaar woonden wij in Nederland.",
+            "Vorig jaar woonden we in Nederland.",
+            "Wij woonden vorig jaar in Nederland.",
+            "We woonden vorig jaar in Nederland."
           ]
         }
       ]

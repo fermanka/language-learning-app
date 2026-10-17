@@ -862,7 +862,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -959,6 +959,27 @@
           "accepted": [
             "Eet kaas!",
             "Eet kaas."
+          ]
+        },
+        {
+          "prompt": "Nemen de derde straat links.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Neem de derde straat links."
+          ]
+        },
+        {
+          "prompt": "Stap in de trein.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Stap de trein in."
+          ]
+        },
+        {
+          "prompt": "Drink niet koffie.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Drink geen koffie."
           ]
         }
       ]

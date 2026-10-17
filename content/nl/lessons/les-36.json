@@ -935,7 +935,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Заміни іменник займенником, як показує стрілка",
+      "instruction_ua": "Заміни іменник займенником, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1024,6 +1024,29 @@
           "cue": "-> заміни іменник: займенник перед op",
           "accepted": [
             "Ik bel hem op."
+          ]
+        },
+        {
+          "prompt": "Mijn zus kijkt naar jij.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn zus kijkt naar jou.",
+            "Mijn zus kijkt naar je."
+          ]
+        },
+        {
+          "prompt": "Ik heb gisteren hem gezien.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik heb hem gisteren gezien.",
+            "Gisteren heb ik hem gezien."
+          ]
+        },
+        {
+          "prompt": "Waar is de auto? Ik zie haar niet.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Waar is de auto? Ik zie hem niet."
           ]
         }
       ]

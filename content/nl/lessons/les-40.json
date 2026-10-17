@@ -514,7 +514,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -599,6 +599,28 @@
           "cue": "-> antwoord met omdat: ... geen brief ontvang.",
           "accepted": [
             "Omdat ik geen brief ontvang."
+          ]
+        },
+        {
+          "prompt": "Zij gaat naar de dokter, omdat zij heeft koorts.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zij gaat naar de dokter, omdat zij koorts heeft.",
+            "Ze gaat naar de dokter, omdat ze koorts heeft."
+          ]
+        },
+        {
+          "prompt": "Mijn vader is thuis, want hij vandaag niet werkt.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn vader is thuis, want hij werkt vandaag niet."
+          ]
+        },
+        {
+          "prompt": "Waarom jullie zijn moe?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Waarom zijn jullie moe?"
           ]
         }
       ]

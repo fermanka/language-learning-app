@@ -485,7 +485,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -570,6 +570,29 @@
           "cue": "-> maak een omdat-zin: ..., ben ik nu moe.",
           "accepted": [
             "Omdat ik eerder heb gewerkt, ben ik nu moe."
+          ]
+        },
+        {
+          "prompt": "Omdat het regent, wij gaan naar huis.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Omdat het regent, gaan wij naar huis.",
+            "Omdat het regent, gaan we naar huis."
+          ]
+        },
+        {
+          "prompt": "Hij is moe, omdat hij naar de stad heeft gegaan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hij is moe, omdat hij naar de stad is gegaan."
+          ]
+        },
+        {
+          "prompt": "Omdat wij hebben gewerkt gisteren, zijn wij moe.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Omdat wij gisteren hebben gewerkt, zijn wij moe.",
+            "Omdat we gisteren hebben gewerkt, zijn we moe."
           ]
         }
       ]

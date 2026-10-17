@@ -766,7 +766,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -855,6 +855,27 @@
           "cue": "-> заміни: ophangen",
           "accepted": [
             "Ik hang op."
+          ]
+        },
+        {
+          "prompt": "Ik neem op de telefoon.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik neem de telefoon op."
+          ]
+        },
+        {
+          "prompt": "Is de lijn nog druk?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Is de lijn nog bezet?"
+          ]
+        },
+        {
+          "prompt": "Morgen ik heb een vergadering.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Morgen heb ik een vergadering."
           ]
         }
       ]

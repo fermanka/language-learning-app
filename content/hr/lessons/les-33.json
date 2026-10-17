@@ -1,0 +1,1533 @@
+{
+  "id": "hr-les-33",
+  "lang": "hr",
+  "order": 33,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "žuto",
+    "crna",
+    "stola",
+    "velike"
+  ],
+  "notes": [
+    {
+      "id": "hr-25a9bb8f",
+      "type": "noun",
+      "lemma": "rijeka",
+      "gender": "ž.",
+      "gen_sg": "rijeke",
+      "plural": [
+        "rijeke"
+      ],
+      "ua": "річка",
+      "audio": "hr-rijeka.mp3",
+      "forms": [
+        "rijeku"
+      ],
+      "explain_ua": "(Rijeka teče kroz grad = річка тече крізь місто). Жіночий рід на -a: rijeka, rijeke, rijeku. Пиши ije: rijeka. З великої літери Rijeka це ще й місто в Хорватії.",
+      "check": "Форми за зразком škola; ije з мого знання."
+    },
+    {
+      "id": "hr-d329cd7f",
+      "type": "noun",
+      "lemma": "jezero",
+      "gender": "s.",
+      "gen_sg": "jezera",
+      "plural": [
+        "jezera"
+      ],
+      "ua": "озеро",
+      "audio": "hr-jezero.mp3",
+      "explain_ua": "(Jezero je veliko = озеро велике). Середній рід на -o: jezero, jezera. Українське озеро: корінь той самий, але початок je-, не o-.",
+      "check": "Форми за зразком selo / more."
+    },
+    {
+      "id": "hr-b070181a",
+      "type": "noun",
+      "lemma": "šuma",
+      "gender": "ž.",
+      "gen_sg": "šume",
+      "plural": [
+        "šume"
+      ],
+      "ua": "ліс",
+      "audio": "hr-suma.mp3",
+      "forms": [
+        "šumu",
+        "šumi"
+      ],
+      "explain_ua": "(U šumi je hladno = у лісі холодно). Жіночий рід на -a: šuma, šume, u šumi, kroz šumu. Підказка для пам'яті, НЕ перевірена пара: українське шум (звук) виглядає схоже, але šuma це ліс.",
+      "check": "Форми за зразком škola. Збіг із шум це лише підказка для пам'яті, у таблиці хибних друзів не перевірено."
+    },
+    {
+      "id": "hr-bd5b6c38",
+      "type": "noun",
+      "lemma": "stablo",
+      "gender": "s.",
+      "gen_sg": "stabla",
+      "plural": [
+        "stabla"
+      ],
+      "ua": "дерево",
+      "audio": "hr-stablo.mp3",
+      "explain_ua": "(Pored kuće je veliko stablo = біля будинку велике дерево). Середній рід на -o, нестійке a не з'являється: stablo, stabla. Родовий однини і називний множини однакові: stabla. Підказка для пам'яті, НЕ перевірена пара: українське стебло (стебло рослини) схоже, але stablo це ціле дерево.",
+      "check": "Форми з мого знання. Збіг із стебло це лише підказка для пам'яті, не перевірений хибний друг."
+    },
+    {
+      "id": "hr-d8244657",
+      "type": "noun",
+      "lemma": "cvijet",
+      "gender": "m.",
+      "gen_sg": "cvijeta",
+      "plural": [
+        "cvjetovi"
+      ],
+      "ua": "квітка",
+      "audio": "hr-cvijet.mp3",
+      "forms": [
+        "cvjetova"
+      ],
+      "explain_ua": "(Imam jedan cvijet = маю одну квітку). Чоловічого роду: cvijet, cvijeta, але у множині ije стає je: cvjetovi, родовий множини cvjetova (puno cvjetova). Це одна з пар на правило ije / je (картка 4).",
+      "check": "Форми cvijeta, cvjetovi, cvjetova з мого знання; правило ije > je у множині перевірити в граматиці."
+    },
+    {
+      "id": "hr-20db8458",
+      "type": "noun",
+      "lemma": "otok",
+      "gender": "m.",
+      "gen_sg": "otoka",
+      "plural": [
+        "otoci"
+      ],
+      "ua": "острів",
+      "audio": "hr-otok.mp3",
+      "forms": [
+        "otoku"
+      ],
+      "explain_ua": "(Ljeti putujemo na otok = влітку їдемо на острів). Чоловічого роду, k > c у множині: otok, otoka, otoci. Куди: na otok; де: na otoku.",
+      "check": "Форми otoka, otoci, otoku з мого знання."
+    },
+    {
+      "id": "hr-869bc966",
+      "type": "noun",
+      "lemma": "obala",
+      "gender": "ž.",
+      "gen_sg": "obale",
+      "plural": [
+        "obale"
+      ],
+      "ua": "берег, узбережжя",
+      "audio": "hr-obala.mp3",
+      "forms": [
+        "obalu",
+        "obali"
+      ],
+      "explain_ua": "(Na obali puše vjetar = на узбережжі дме вітер). Жіночий рід на -a: obala, obale, na obali (де), uz obalu (куди). Obala це передусім берег моря, узбережжя.",
+      "check": "Форми за зразком škola; чи вживають obala про берег річки, перевірити в словнику."
+    },
+    {
+      "id": "hr-4f0097fa",
+      "type": "noun",
+      "lemma": "nebo",
+      "gender": "s.",
+      "gen_sg": "neba",
+      "plural": [
+        "nebesa"
+      ],
+      "ua": "небо",
+      "audio": "hr-nebo.mp3",
+      "explain_ua": "(Nebo je plavo = небо синє). Середній рід: nebo, neba. Множина nebesa рідкісна і означає «небеса», її тут не вчимо. Українське небо: збігається за значенням.",
+      "check": "Форма neba з мого знання; множину nebesa перевірити в словнику."
+    },
+    {
+      "id": "hr-4c1c4c82",
+      "type": "noun",
+      "lemma": "oluja",
+      "gender": "ž.",
+      "gen_sg": "oluje",
+      "plural": [
+        "oluje"
+      ],
+      "ua": "буря, гроза",
+      "audio": "hr-oluja.mp3",
+      "explain_ua": "(U petak će biti oluja = у п'ятницю буде буря). Жіночий рід на -a: oluja, oluje. Тут звичайне слово «буря» (погода).",
+      "check": "Форми за зразком škola."
+    },
+    {
+      "id": "hr-a2bd93c5",
+      "type": "noun",
+      "lemma": "stupanj",
+      "gender": "m.",
+      "gen_sg": "stupnja",
+      "plural": [
+        "stupnjevi"
+      ],
+      "ua": "градус, ступінь",
+      "audio": "hr-stupanj.mp3",
+      "forms": [
+        "stupnjeva"
+      ],
+      "explain_ua": "(Danas je dvadeset stupnjeva = сьогодні двадцять градусів). Нестійке a: stupanj, stupnja, stupnjevi. Після чисел від п'яти родовий множини stupnjeva (pet stupnjeva), як pet eura в Lekcije 7 і 15.",
+      "check": "Форми stupnja, stupnjevi, stupnjeva з мого знання."
+    },
+    {
+      "id": "hr-7990f4f2",
+      "type": "noun",
+      "lemma": "proljeće",
+      "gender": "s.",
+      "gen_sg": "proljeća",
+      "plural": [
+        "proljeća"
+      ],
+      "ua": "весна",
+      "audio": "hr-proljece.mp3",
+      "explain_ua": "(U proljeće je lijepo = навесні гарно). Середній рід на -e: proljeće, proljeća. «Навесні» це u proljeće (u + знахідний). Пиши lj: proljeće.",
+      "check": "Форми з мого знання за зразком sunce."
+    },
+    {
+      "id": "hr-46c07fd5",
+      "type": "noun",
+      "lemma": "jesen",
+      "gender": "ž.",
+      "gen_sg": "jeseni",
+      "plural": [
+        "jeseni"
+      ],
+      "ua": "осінь",
+      "audio": "hr-jesen.mp3",
+      "explain_ua": "(U jesen je oblačno = восени хмарно). Жіночий рід на приголосний: jesen, jeseni (як riječ, riječi). «Восени» це u jesen.",
+      "check": "Форми з мого знання за зразком riječ."
+    },
+    {
+      "id": "hr-cac51992",
+      "type": "noun",
+      "lemma": "zima",
+      "gender": "ž.",
+      "gen_sg": "zime",
+      "plural": [
+        "zime"
+      ],
+      "ua": "зима",
+      "audio": "hr-zima.mp3",
+      "forms": [
+        "zimi"
+      ],
+      "explain_ua": "(Zimi pada snijeg = взимку іде сніг). Жіночий рід на -a: zima, zime. Прислівник zimi значить «взимку», як ljeti «влітку» (Lekcija 12). Zima значить «зима», не «холод»: холодно це hladno.",
+      "check": "Форми за зразком škola; прислівник zimi з мого знання."
+    },
+    {
+      "id": "hr-08d495a4",
+      "type": "noun",
+      "lemma": "bura",
+      "gender": "ž.",
+      "gen_sg": "bure",
+      "plural": [
+        "bure"
+      ],
+      "ua": "бура (холодний вітер на узбережжі)",
+      "audio": "hr-bura.mp3",
+      "explain_ua": "(Zimi često puše bura = взимку часто дме бура). Жіночий рід: bura, bure. Бура це сильний холодний вітер з суші на Адріатичному узбережжі. Це слово для узбережжя, не буря: буря це oluja.",
+      "check": "Форма bure з мого знання; множину майже не вживають. Опис вітру перевірити в енциклопедії."
+    },
+    {
+      "id": "hr-638198eb",
+      "type": "noun",
+      "lemma": "jugo",
+      "gender": "s.",
+      "gen_sg": "juga",
+      "plural": [
+        "juga"
+      ],
+      "ua": "юго (теплий південний вітер)",
+      "audio": "hr-jugo.mp3",
+      "explain_ua": "(Jugo je topao vjetar = юго це теплий вітер). Середній рід на -o: jugo, juga. Теплий південний вітер на узбережжі, часто з дощем. Підказка для пам'яті, не етимологія: корінь схожий на jug «південь».",
+      "check": "Рід (s.) і родовий juga з мого знання, перевірити в словнику; множина рідкісна."
+    },
+    {
+      "id": "hr-a47c2db1",
+      "type": "verb",
+      "lemma": "puhati",
+      "aspect": "impf.",
+      "partner": "puhnuti",
+      "pres_1sg": "pušem",
+      "forms": [
+        "pušeš",
+        "puše",
+        "pušemo",
+        "pušete",
+        "pušu",
+        "puhnuti",
+        "puhnem"
+      ],
+      "ua": "дути (док. puhnuti)",
+      "audio": "hr-puhati.mp3",
+      "explain_ua": "(Na obali puše vjetar = на узбережжі дме вітер). Пара: puhati (недок.) / puhnuti (док., один раз). Зміна h > š: pušem, puše. Про погоду майже завжди 3 особа: puše.",
+      "check": "Пару puhati / puhnuti, зміну h > š і чи є також puham перевірити в словнику."
+    },
+    {
+      "id": "hr-16120500",
+      "type": "verb",
+      "lemma": "rasti",
+      "aspect": "impf.",
+      "partner": "narasti",
+      "pres_1sg": "rastem",
+      "forms": [
+        "rasteš",
+        "raste",
+        "rastemo",
+        "rastete",
+        "rastu",
+        "rastao",
+        "rasla",
+        "rasli",
+        "narasti",
+        "narastem"
+      ],
+      "ua": "рости (док. narasti)",
+      "audio": "hr-rasti.mp3",
+      "explain_ua": "(Stablo raste u vrtu = дерево росте в саду). Пара: rasti (недок.) / narasti (док.). Неправильне минуле: rastao, rasla, rasli (як bio, bila). Інфінітив на -sti.",
+      "check": "Пару rasti / narasti та минуле rastao, rasla перевірити в словнику."
+    },
+    {
+      "id": "hr-49103389",
+      "type": "verb",
+      "lemma": "cvjetati",
+      "aspect": "impf.",
+      "partner": "procvjetati",
+      "pres_1sg": "cvjetam",
+      "forms": [
+        "cvjetaš",
+        "cvjeta",
+        "cvjetamo",
+        "cvjetate",
+        "cvjetaju",
+        "procvjetati",
+        "procvjetam"
+      ],
+      "ua": "цвісти (док. procvjetati)",
+      "audio": "hr-cvjetati.mp3",
+      "explain_ua": "(U proljeće cvjetaju stabla = навесні цвітуть дерева). Пара: cvjetati (недок.) / procvjetati (док., зацвісти). Тип -am: cvjetam, cvjetaš. Корінь той самий, що в cvijet: ije > je.",
+      "check": "Пару cvjetati / procvjetati з мого знання."
+    },
+    {
+      "id": "hr-54f99319",
+      "type": "verb",
+      "lemma": "teći",
+      "aspect": "impf.",
+      "partner": "poteći",
+      "pres_1sg": "tečem",
+      "forms": [
+        "tečeš",
+        "teče",
+        "tečemo",
+        "tečete",
+        "teku",
+        "tekao",
+        "tekla",
+        "tekli",
+        "poteći",
+        "potečem"
+      ],
+      "ua": "текти (док. poteći)",
+      "audio": "hr-teci.mp3",
+      "explain_ua": "(Rijeka teče kroz grad = річка тече крізь місто). Пара: teći (недок.) / poteći (док., потекти). Зміна k > č: tečem, teče, але 3 особа множини teku. Минуле: tekao, tekla, tekli.",
+      "check": "Пару teći / poteći, форму teku і минуле tekao, tekla перевірити в словнику."
+    },
+    {
+      "id": "hr-574c96fd",
+      "type": "adjective",
+      "lemma": "visok",
+      "fem": "visoka",
+      "neut": "visoko",
+      "ua": "високий",
+      "audio": "hr-visok.mp3",
+      "forms": [
+        "viši",
+        "viša",
+        "najviši",
+        "visoka",
+        "visoko"
+      ],
+      "explain_ua": "(Stablo je vrlo visoko = дерево дуже високе). Visok, visoka, visoko. Вищий ступінь viši, найвищий najviši: тут k змінюється на š (як brz > brži, Lekcija 17).",
+      "check": "Форми viši, najviši (k > š) перевірити в словнику."
+    },
+    {
+      "id": "hr-0679c298",
+      "type": "adjective",
+      "lemma": "zelen",
+      "fem": "zelena",
+      "neut": "zeleno",
+      "ua": "зелений",
+      "audio": "hr-zelen.mp3",
+      "explain_ua": "(Krastavac je zelen = огірок зелений). Zelen, zelena, zeleno. Українське зелений: корінь той самий.",
+      "check": "Форми з мого знання.",
+      "forms": [
+        "zelena"
+      ]
+    },
+    {
+      "id": "hr-c096592c",
+      "type": "adjective",
+      "lemma": "plav",
+      "fem": "plava",
+      "neut": "plavo",
+      "ua": "синій, блакитний",
+      "audio": "hr-plav.mp3",
+      "explain_ua": "(More je plavo = море синє). Plav, plava, plavo. Це звичайне слово для синього кольору (небо, море). Про волосся plava kosa значить «світле», але це ми тут не вчимо.",
+      "check": "Форми з мого знання; значення «світловолосий» перевірити в словнику.",
+      "forms": [
+        "plavo",
+        "plava"
+      ]
+    },
+    {
+      "id": "hr-ee1fd472",
+      "type": "adjective",
+      "lemma": "sunčan",
+      "fem": "sunčana",
+      "neut": "sunčano",
+      "ua": "сонячний",
+      "audio": "hr-suncan.mp3",
+      "explain_ua": "(Danas je sunčano = сьогодні сонячно). Sunčan, sunčana, sunčano. Про погоду: Sunčano je (прислівник на -o). Корінь від sunce.",
+      "check": "Форми з мого знання; що a в sunčana не випадає, перевірити в словнику.",
+      "forms": [
+        "sunčano"
+      ]
+    },
+    {
+      "id": "hr-6c5b3bc3",
+      "type": "adjective",
+      "lemma": "oblačan",
+      "fem": "oblačna",
+      "neut": "oblačno",
+      "ua": "хмарний",
+      "audio": "hr-oblacan.mp3",
+      "explain_ua": "(Danas je oblačno = сьогодні хмарно). Нестійке a: oblačan, oblačna, oblačno. Про погоду: Oblačno je.",
+      "check": "Форми за зразком hladan / hladna.",
+      "forms": [
+        "oblačno"
+      ]
+    },
+    {
+      "id": "hr-acba09e1",
+      "type": "adjective",
+      "lemma": "crven",
+      "fem": "crvena",
+      "neut": "crveno",
+      "ua": "червоний",
+      "audio": "hr-crven.mp3",
+      "forms": [
+        "crveni",
+        "crvena",
+        "crveno"
+      ],
+      "explain_ua": "(Jabuka je crvena = яблуко червоне). Crven, crvena, crveno. Множина чоловічого crveni (crveni cvjetovi).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-1c5626fe",
+      "type": "adjective",
+      "lemma": "žut",
+      "fem": "žuta",
+      "neut": "žuto",
+      "ua": "жовтий",
+      "audio": "hr-zut.mp3",
+      "forms": [
+        "žuti"
+      ],
+      "explain_ua": "(Limun je žut = лимон жовтий). Žut, žuta, žuto. Пиши ž: žut. Множина чоловічого žuti.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-cde964bb",
+      "type": "adjective",
+      "lemma": "bijel",
+      "fem": "bijela",
+      "neut": "bijelo",
+      "ua": "білий",
+      "audio": "hr-bijel.mp3",
+      "explain_ua": "(Mlijeko je bijelo = молоко біле). Bijel, bijela, bijelo. Пиши ije: bijel, як uvijek і rijeka. Українське білий звучить схоже, але в хорватській після b стоїть ije.",
+      "check": "Форми з мого знання.",
+      "forms": [
+        "bijelo"
+      ]
+    },
+    {
+      "id": "hr-c1c771e9",
+      "type": "adjective",
+      "lemma": "crn",
+      "fem": "crna",
+      "neut": "crno",
+      "ua": "чорний",
+      "audio": "hr-crn.mp3",
+      "forms": [
+        "crne"
+      ],
+      "explain_ua": "(Kava je crna = кава чорна). Crn, crna, crno. Множина жіночого crne (crne torbe). Голосного перед r немає: crn, не «čorn».",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-bbb2db2f",
+      "type": "function",
+      "lemma": "iznad",
+      "ua": "над (місце) + родовий",
+      "audio": "hr-iznad.mp3",
+      "explain_ua": "(Sunce je iznad mora = сонце над морем). Iznad + родовий: над чимось, вище. Українське над збігається. Протилежність: ispod.",
+      "check": "Iznad + родовий з мого знання."
+    },
+    {
+      "id": "hr-9e180ca8",
+      "type": "function",
+      "lemma": "ispod",
+      "ua": "під (місце) + родовий",
+      "audio": "hr-ispod.mp3",
+      "explain_ua": "(Pas spava ispod stola = пес спить під столом). Ispod + родовий: під чимось, нижче. Українське під + орудний, а хорватське ispod + родовий: інший відмінок!",
+      "check": "Ispod + родовий з мого знання."
+    },
+    {
+      "id": "hr-334078bc",
+      "type": "function",
+      "lemma": "uz",
+      "ua": "вздовж, біля + знахідний",
+      "audio": "hr-uz.mp3",
+      "explain_ua": "(Idemo uz rijeku = йдемо вздовж річки). Uz + знахідний: вздовж, поруч, уздовж чогось. Не плутай з російським «у реки» (у + родовий): хорватське «у кого» це kod + родовий (Lekcija 27). Uz це «вздовж», «біля».",
+      "check": "Uz + знахідний з мого знання; інше значення «з» (з їжею) тут не вчимо."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Погода: Hladno je. Hladno mi je. Pet stupnjeva.",
+      "summary_ua": "Про погоду кажуть прислівник на -o + je: Hladno je, Sunčano je, Oblačno je. Українська і російська роблять так само (Холодно, Сонячно), тож це безкоштовний виграш. Нове: коли мова про відчуття людини, додається давальний клітик: Hladno mi je = мені холодно. Температура: broj + stupnjeva (родовий множини після п'яти, як pet eura).",
+      "compare": [
+        {
+          "form": "прислівник + je",
+          "when_ua": "Який стан погоди.",
+          "examples": [
+            {
+              "text": "Danas je oblačno.",
+              "ua": "Сьогодні хмарно.",
+              "audio": "hr-les33-rule-01.mp3"
+            },
+            {
+              "text": "Ujutro je sunčano.",
+              "ua": "Вранці сонячно.",
+              "audio": "hr-les33-rule-02.mp3"
+            },
+            {
+              "text": "Navečer je hladno.",
+              "ua": "Ввечері холодно.",
+              "audio": "hr-les33-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська і російська: Холодно = Hladno je."
+        },
+        {
+          "form": "прислівник + клітик + je",
+          "when_ua": "Мені, тобі, нам холодно чи тепло.",
+          "examples": [
+            {
+              "text": "Hladno mi je.",
+              "ua": "Мені холодно.",
+              "audio": "hr-les33-rule-04.mp3"
+            },
+            {
+              "text": "Je li ti toplo?",
+              "ua": "Тобі тепло?",
+              "audio": "hr-les33-rule-05.mp3"
+            },
+            {
+              "text": "Hladno nam je navečer.",
+              "ua": "Нам холодно ввечері.",
+              "audio": "hr-les33-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Клітик (mi, ti, nam) іде перед je: Hladno mi je, а не Hladno je mi. Порядок з Lekcije 31: давальний, потім je."
+        },
+        {
+          "form": "число + stupnjeva",
+          "when_ua": "Температура: після п'яти родовий множини.",
+          "examples": [
+            {
+              "text": "Jutros je pet stupnjeva.",
+              "ua": "Сьогодні вранці п'ять градусів.",
+              "audio": "hr-les33-rule-07.mp3"
+            },
+            {
+              "text": "Sutra je deset stupnjeva.",
+              "ua": "Завтра десять градусів.",
+              "audio": "hr-les33-rule-08.mp3"
+            },
+            {
+              "text": "Danas je dvadeset stupnjeva.",
+              "ua": "Сьогодні двадцять градусів.",
+              "audio": "hr-les33-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Після pet, deset, dvadeset: stupnjeva (як pet eura). Це родовий множини з Lekcije 15."
+        }
+      ],
+      "points_ua": [
+        "Погода: прислівник на -o + je (Hladno je).",
+        "Відчуття людини: Hladno mi je (клітик перед je).",
+        "Температура: pet / deset stupnjeva."
+      ]
+    },
+    {
+      "title_ua": "Пори року: ljeti, zimi, u proljeće, u jesen",
+      "summary_ua": "«Коли?» для пір року кожного разу інакше: ljeti (влітку) і zimi (взимку) це прислівники, а навесні та восени кажуть u proljeće, u jesen (u + знахідний). Правила, яке працює для всіх чотирьох, немає, тож вчи їх як чотири готові фрази. Українське «улітку, узимку, навесні, восени» теж чотири різні утворення.",
+      "compare": [
+        {
+          "form": "ljeti, zimi",
+          "when_ua": "Прислівники без прийменника.",
+          "examples": [
+            {
+              "text": "Ljeti sam na moru.",
+              "ua": "Влітку я на морі.",
+              "audio": "hr-les33-rule-10.mp3"
+            },
+            {
+              "text": "Zimi sam kod kuće.",
+              "ua": "Взимку я вдома.",
+              "audio": "hr-les33-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Без u: ljeti, zimi. Ljeti ти вже знаєш з Lekcije 12."
+        },
+        {
+          "form": "u proljeće, u jesen",
+          "when_ua": "u + знахідний (збігається з називним).",
+          "examples": [
+            {
+              "text": "U proljeće je lijepo.",
+              "ua": "Навесні гарно.",
+              "audio": "hr-les33-rule-12.mp3"
+            },
+            {
+              "text": "U jesen je oblačno.",
+              "ua": "Восени хмарно.",
+              "audio": "hr-les33-rule-13.mp3"
+            },
+            {
+              "text": "U proljeće putujemo na more.",
+              "ua": "Навесні ми їдемо на море.",
+              "audio": "hr-les33-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Proljeće і jesen у знахідному виглядають так само, як у називному: u proljeće, u jesen."
+        }
+      ],
+      "points_ua": [
+        "Ljeti, zimi: прислівники.",
+        "U proljeće, u jesen: u + знахідний.",
+        "Вчи як чотири готові фрази."
+      ]
+    },
+    {
+      "title_ua": "Iznad, ispod, uz і набір з Lekcije 27",
+      "summary_ua": "Iznad (над) і ispod (під) вимагають родового: iznad mora, ispod mosta. Увага: українське «під» бере орудний, а ispod бере родовий. Uz (вздовж) вимагає знахідного: uz rijeku. Разом з pored, ispred, iza (родовий) це вісім прийменників місця, які варто тримати в одній таблиці.",
+      "compare": [
+        {
+          "form": "iznad, ispod + родовий",
+          "when_ua": "Над чимось, під чимось.",
+          "examples": [
+            {
+              "text": "Sunce je iznad mora.",
+              "ua": "Сонце над морем.",
+              "audio": "hr-les33-rule-15.mp3"
+            },
+            {
+              "text": "Ispod mosta teče rijeka.",
+              "ua": "Під мостом тече річка.",
+              "audio": "hr-les33-rule-16.mp3"
+            },
+            {
+              "text": "Iznad šume puše vjetar.",
+              "ua": "Над лісом дме вітер.",
+              "audio": "hr-les33-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Ispod + родовий, а українське «під» + орудний (під мостом). Тут українська не допомагає, вчи відмінок."
+        },
+        {
+          "form": "uz + знахідний",
+          "when_ua": "Вздовж чогось, поруч.",
+          "examples": [
+            {
+              "text": "Šetamo uz more.",
+              "ua": "Гуляємо вздовж моря.",
+              "audio": "hr-les33-rule-18.mp3"
+            },
+            {
+              "text": "Putujemo uz obalu.",
+              "ua": "Їдемо вздовж берега.",
+              "audio": "hr-les33-rule-19.mp3"
+            },
+            {
+              "text": "Šetamo uz jezero.",
+              "ua": "Гуляємо вздовж озера.",
+              "audio": "hr-les33-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Uz це не «у реки». Російське «у реки» по-хорватськи kod rijeke або pored rijeke."
+        },
+        {
+          "form": "pored, ispred, iza + родовий",
+          "when_ua": "Набір з Lekcije 27: біля, перед, за.",
+          "examples": [
+            {
+              "text": "Kuća je pored rijeke.",
+              "ua": "Будинок біля річки.",
+              "audio": "hr-les33-rule-21.mp3"
+            },
+            {
+              "text": "Auto je ispred kuće.",
+              "ua": "Машина перед будинком.",
+              "audio": "hr-les33-rule-22.mp3"
+            },
+            {
+              "text": "Vrt je iza kuće.",
+              "ua": "Сад за будинком.",
+              "audio": "hr-les33-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Усі три з родовим. Тільки uz з знахідним, а među з орудним (де) або знахідним (куди)."
+        }
+      ],
+      "points_ua": [
+        "Iznad, ispod, pored, ispred, iza + родовий.",
+        "Uz + знахідний (uz rijeku).",
+        "Ispod + родовий, а українське під + орудний."
+      ]
+    },
+    {
+      "title_ua": "Visok, viši, najviši і правопис ije / je",
+      "summary_ua": "Вищий ступінь утворюється як у Lekcije 17: visok > viši > najviši (k стає š, як brz > brži). Окремо про правопис: ije і je чергуються в одному корені. Cvijet (однина), але cvjetovi (множина); dijete, але djeca. Це те саме місце правопису, де легко помилитися (djete замість dijete): ije пишемо там, де склад довгий, а je там, де він скорочений. Вчи чотири пари, не правило.",
+      "compare": [
+        {
+          "form": "visok, viši, najviši",
+          "when_ua": "Порівняння з k > š.",
+          "examples": [
+            {
+              "text": "Planina je visoka.",
+              "ua": "Гора висока.",
+              "audio": "hr-les33-rule-24.mp3"
+            },
+            {
+              "text": "Planina je viša od kuće.",
+              "ua": "Гора вища за будинок.",
+              "audio": "hr-les33-rule-25.mp3"
+            },
+            {
+              "text": "Ovaj most je najviši.",
+              "ua": "Цей міст найвищий.",
+              "audio": "hr-les33-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Viši, а не «visiji»: k перед суфіксом стає š. Так само brz > brži."
+        },
+        {
+          "form": "ije > je: cvijet, cvjetovi; dijete, djeca",
+          "when_ua": "Той самий корінь у двох написаннях.",
+          "examples": [
+            {
+              "text": "Imam jedan cvijet.",
+              "ua": "Маю одну квітку.",
+              "audio": "hr-les33-rule-27.mp3"
+            },
+            {
+              "text": "U vrtu su crveni cvjetovi.",
+              "ua": "У саду червоні квіти.",
+              "audio": "hr-les33-rule-28.mp3"
+            },
+            {
+              "text": "Dijete ima žut cvijet.",
+              "ua": "Дитина має жовту квітку.",
+              "audio": "hr-les33-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Чотири пари: cvijet - cvjetovi, snijeg - snjegovi, dijete - djeca, vrijeme - vremena. Пиши dijete, не djete."
+        }
+      ],
+      "points_ua": [
+        "Visok > viši > najviši (k > š).",
+        "Cvijet - cvjetovi, dijete - djeca.",
+        "Пиши dijete, uvijek, rijeka з ije."
+      ]
+    },
+    {
+      "title_ua": "Кольори й хорватські вітри: bura і jugo",
+      "summary_ua": "Кольори узгоджуються як звичайні прикметники: crven, crvena, crveno; žut, žuta, žuto; bijel, bijela, bijelo; crn, crna, crno. Вибір форми залежить від роду іменника. Окремо два слова для узбережжя: bura (холодний сильний вітер з суші) і jugo (теплий південний вітер, часто з дощем). Це місцеві слова, але на узбережжі їх чути щодня.",
+      "compare": [
+        {
+          "form": "crven, žut, bijel, crn",
+          "when_ua": "Колір у роді іменника.",
+          "examples": [
+            {
+              "text": "Jabuka je crvena.",
+              "ua": "Яблуко червоне.",
+              "audio": "hr-les33-rule-30.mp3"
+            },
+            {
+              "text": "Mlijeko je bijelo.",
+              "ua": "Молоко біле.",
+              "audio": "hr-les33-rule-31.mp3"
+            },
+            {
+              "text": "Kava je crna.",
+              "ua": "Кава чорна.",
+              "audio": "hr-les33-rule-32.mp3"
+            }
+          ],
+          "note_ua": "Jabuka (ж.) > crvena, mlijeko (с.) > bijelo, kava (ж.) > crna. Закінчення -a, -o, як у інших прикметників."
+        },
+        {
+          "form": "bura, jugo",
+          "when_ua": "Вітри на узбережжі.",
+          "examples": [
+            {
+              "text": "Zimi često puše bura.",
+              "ua": "Взимку часто дме бура.",
+              "audio": "hr-les33-rule-33.mp3"
+            },
+            {
+              "text": "Na otoku često puše jugo.",
+              "ua": "На острові часто дме юго.",
+              "audio": "hr-les33-rule-34.mp3"
+            }
+          ],
+          "note_ua": "Bura (ж.) холодна, jugo (с.) тепле. Не плутай bura з oluja (буря взагалі)."
+        }
+      ],
+      "points_ua": [
+        "Колір узгоджується в роді: crvena jabuka, bijelo mlijeko.",
+        "Bura: холодна. Jugo: тепле.",
+        "Bura це не oluja."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Rijeka teče kroz grad.",
+      "ua": "Річка тече крізь місто.",
+      "audio": "hr-les33-example-01.mp3"
+    },
+    {
+      "text": "U šumi je hladno.",
+      "ua": "У лісі холодно.",
+      "audio": "hr-les33-example-02.mp3"
+    },
+    {
+      "text": "Pored kuće je veliko stablo.",
+      "ua": "Біля будинку велике дерево.",
+      "audio": "hr-les33-example-03.mp3"
+    },
+    {
+      "text": "Ljeti putujemo na otok.",
+      "ua": "Влітку ми їдемо на острів.",
+      "audio": "hr-les33-example-04.mp3"
+    },
+    {
+      "text": "Hotel je blizu obale.",
+      "ua": "Готель біля берега.",
+      "audio": "hr-les33-example-05.mp3"
+    },
+    {
+      "text": "Prekosutra će biti oluja.",
+      "ua": "Післязавтра буде буря.",
+      "audio": "hr-les33-example-06.mp3"
+    },
+    {
+      "text": "Danas je petnaest stupnjeva.",
+      "ua": "Сьогодні п'ятнадцять градусів.",
+      "audio": "hr-les33-example-07.mp3"
+    },
+    {
+      "text": "U proljeće cvjetaju stabla.",
+      "ua": "Навесні цвітуть дерева.",
+      "audio": "hr-les33-example-08.mp3"
+    },
+    {
+      "text": "U jesen pada kiša.",
+      "ua": "Восени іде дощ.",
+      "audio": "hr-les33-example-09.mp3"
+    },
+    {
+      "text": "Zimi pada snijeg.",
+      "ua": "Взимку іде сніг.",
+      "audio": "hr-les33-example-10.mp3"
+    },
+    {
+      "text": "Na obali puše vjetar.",
+      "ua": "На узбережжі дме вітер.",
+      "audio": "hr-les33-example-11.mp3"
+    },
+    {
+      "text": "Iznad grada je plavo nebo.",
+      "ua": "Над містом синє небо.",
+      "audio": "hr-les33-example-12.mp3"
+    },
+    {
+      "text": "Ispod stabla je hladno.",
+      "ua": "Під деревом холодно.",
+      "audio": "hr-les33-example-13.mp3"
+    },
+    {
+      "text": "Idemo uz rijeku.",
+      "ua": "Ми йдемо вздовж річки.",
+      "audio": "hr-les33-example-14.mp3"
+    },
+    {
+      "text": "Stabla su zelena.",
+      "ua": "Дерева зелені.",
+      "audio": "hr-les33-example-15.mp3"
+    },
+    {
+      "text": "Bura je hladan vjetar.",
+      "ua": "Бура це холодний вітер.",
+      "audio": "hr-les33-example-16.mp3"
+    },
+    {
+      "text": "Jugo je topao vjetar.",
+      "ua": "Юго це теплий вітер.",
+      "audio": "hr-les33-example-17.mp3"
+    },
+    {
+      "text": "Sunce je žuto, a snijeg je bijel.",
+      "ua": "Сонце жовте, а сніг білий.",
+      "audio": "hr-les33-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Izlet na otok",
+    "title_ua": "Екскурсія на острів",
+    "highlight": [
+      "hr-b070181a",
+      "hr-bd5b6c38",
+      "hr-20db8458",
+      "hr-869bc966",
+      "hr-a2bd93c5",
+      "hr-cac51992",
+      "hr-9e180ca8",
+      "hr-334078bc"
+    ],
+    "sentences": [
+      {
+        "text": "Ljeti često putujemo na otok.",
+        "ua": "Влітку ми часто їдемо на острів.",
+        "audio": "hr-les33-reading-01.mp3"
+      },
+      {
+        "text": "Hotel je pored mora, a iza hotela je šuma.",
+        "ua": "Готель біля моря, а за готелем ліс.",
+        "audio": "hr-les33-reading-02.mp3"
+      },
+      {
+        "text": "Šuma je velika i zelena.",
+        "ua": "Ліс великий і зелений.",
+        "audio": "hr-les33-reading-03.mp3"
+      },
+      {
+        "text": "Danas je sunčano i dvadeset i osam stupnjeva.",
+        "ua": "Сьогодні сонячно і двадцять вісім градусів.",
+        "audio": "hr-les33-reading-04.mp3"
+      },
+      {
+        "text": "More je plavo i toplo.",
+        "ua": "Море синє і тепле.",
+        "audio": "hr-les33-reading-05.mp3"
+      },
+      {
+        "text": "Idemo uz obalu i gledamo brod.",
+        "ua": "Йдемо вздовж берега і дивимося на корабель.",
+        "audio": "hr-les33-reading-06.mp3"
+      },
+      {
+        "text": "Ispod stabla jedemo ručak.",
+        "ua": "Під деревом їмо обід.",
+        "audio": "hr-les33-reading-07.mp3"
+      },
+      {
+        "text": "Sutra je oblačno, a navečer će biti kiša.",
+        "ua": "Завтра хмарно, а ввечері буде дощ.",
+        "audio": "hr-les33-reading-08.mp3"
+      },
+      {
+        "text": "Volim ovaj otok i zimi.",
+        "ua": "Я люблю цей острів і взимку.",
+        "audio": "hr-les33-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Озеро далеко.",
+          "accepted": [
+            "Jezero je daleko."
+          ]
+        },
+        {
+          "prompt": "Біля лісу є річка.",
+          "accepted": [
+            "Pored šume je rijeka."
+          ]
+        },
+        {
+          "prompt": "На острові дуже гарно.",
+          "accepted": [
+            "Na otoku je vrlo lijepo."
+          ]
+        },
+        {
+          "prompt": "Ввечері небо червоне.",
+          "accepted": [
+            "Navečer je nebo crveno."
+          ]
+        },
+        {
+          "prompt": "Їй холодно.",
+          "accepted": [
+            "Hladno joj je."
+          ]
+        },
+        {
+          "prompt": "Сьогодні на узбережжі дме юго.",
+          "accepted": [
+            "Danas na obali puše jugo."
+          ]
+        },
+        {
+          "prompt": "У саду багато квітів.",
+          "accepted": [
+            "U vrtu ima puno cvjetova."
+          ]
+        },
+        {
+          "prompt": "Ти йдеш вздовж моря.",
+          "accepted": [
+            "Ideš uz more."
+          ]
+        },
+        {
+          "prompt": "Сонце над горою.",
+          "accepted": [
+            "Sunce je iznad planine."
+          ]
+        },
+        {
+          "prompt": "Дитина під деревом.",
+          "accepted": [
+            "Dijete je ispod stabla."
+          ]
+        },
+        {
+          "prompt": "Дерево дуже високе.",
+          "accepted": [
+            "Stablo je vrlo visoko."
+          ]
+        },
+        {
+          "prompt": "Яблуко зелене.",
+          "accepted": [
+            "Jabuka je zelena."
+          ]
+        },
+        {
+          "prompt": "Ввечері дванадцять градусів.",
+          "accepted": [
+            "Navečer je dvanaest stupnjeva."
+          ]
+        },
+        {
+          "prompt": "Ми любимо осінь.",
+          "accepted": [
+            "Volimo jesen."
+          ]
+        },
+        {
+          "prompt": "У четвер буде буря.",
+          "accepted": [
+            "U četvrtak će biti oluja."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "jezero",
+        "rijeka",
+        "stablo",
+        "cvijet",
+        "nebo",
+        "oluja",
+        "zima",
+        "visok",
+        "zelen",
+        "iznad",
+        "ispod",
+        "uz",
+        "puše",
+        "oblačno",
+        "raste",
+        "žut"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ je veliko.",
+          "hint": "Озеро велике.",
+          "accepted": [
+            [
+              "Jezero"
+            ]
+          ]
+        },
+        {
+          "text": "Kroz šumu teče ___.",
+          "hint": "Крізь ліс тече річка.",
+          "accepted": [
+            [
+              "rijeka"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete gleda veliko ___.",
+          "hint": "Дитина дивиться на велике дерево.",
+          "accepted": [
+            [
+              "stablo"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj ___ je crven.",
+          "hint": "Ця квітка червона.",
+          "accepted": [
+            [
+              "cvijet"
+            ]
+          ]
+        },
+        {
+          "text": "Ujutro je ___ plavo.",
+          "hint": "Вранці небо синє.",
+          "accepted": [
+            [
+              "nebo"
+            ]
+          ]
+        },
+        {
+          "text": "U petak će biti ___.",
+          "hint": "У п'ятницю буде буря.",
+          "accepted": [
+            [
+              "oluja"
+            ]
+          ]
+        },
+        {
+          "text": "Ljeto je toplo, a ___ je hladna.",
+          "hint": "Літо тепле, а зима холодна.",
+          "accepted": [
+            [
+              "zima"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj most je vrlo ___.",
+          "hint": "Цей міст дуже високий.",
+          "accepted": [
+            [
+              "visok"
+            ]
+          ]
+        },
+        {
+          "text": "Krastavac je ___.",
+          "hint": "Огірок зелений.",
+          "accepted": [
+            [
+              "zelen"
+            ]
+          ]
+        },
+        {
+          "text": "Avion leti ___ grada.",
+          "hint": "Літак летить над містом.",
+          "accepted": [
+            [
+              "iznad"
+            ]
+          ]
+        },
+        {
+          "text": "Pas spava ___ stola.",
+          "hint": "Пес спить під столом.",
+          "accepted": [
+            [
+              "ispod"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ide ___ jezero.",
+          "hint": "Вона йде вздовж озера.",
+          "accepted": [
+            [
+              "uz"
+            ]
+          ]
+        },
+        {
+          "text": "Danas ne ___ vjetar.",
+          "hint": "Сьогодні вітер не дме.",
+          "accepted": [
+            [
+              "puše"
+            ]
+          ]
+        },
+        {
+          "text": "Danas nema sunca, ___ je.",
+          "hint": "Сьогодні немає сонця, хмарно.",
+          "accepted": [
+            [
+              "oblačno"
+            ]
+          ]
+        },
+        {
+          "text": "Cvijet ___ u šumi.",
+          "hint": "Квітка росте в лісі.",
+          "accepted": [
+            [
+              "raste"
+            ]
+          ]
+        },
+        {
+          "text": "Limun je ___.",
+          "hint": "Лимон жовтий.",
+          "accepted": [
+            [
+              "žut"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Rijeka je velika.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Rijeke su velike."
+          ]
+        },
+        {
+          "prompt": "Jezero je plavo.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Jezera su plava."
+          ]
+        },
+        {
+          "prompt": "Kuća je visoka.",
+          "cue": "-> komparativ",
+          "accepted": [
+            "Kuća je viša."
+          ]
+        },
+        {
+          "prompt": "Zid je visok.",
+          "cue": "-> superlativ",
+          "accepted": [
+            "Zid je najviši."
+          ]
+        },
+        {
+          "prompt": "Cvijet je žut.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Cvjetovi su žuti."
+          ]
+        },
+        {
+          "prompt": "Puše vjetar.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ne puše vjetar."
+          ]
+        },
+        {
+          "prompt": "Torba je crna.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Torbe su crne."
+          ]
+        },
+        {
+          "prompt": "Stablo raste u vrtu.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Stabla rastu u vrtu."
+          ]
+        },
+        {
+          "prompt": "Rijeka teče pored hotela.",
+          "cue": "-> минулий час",
+          "accepted": [
+            "Rijeka je tekla pored hotela."
+          ]
+        },
+        {
+          "prompt": "Toplo je.",
+          "cue": "-> мені",
+          "accepted": [
+            "Toplo mi je."
+          ]
+        },
+        {
+          "prompt": "Vjetar je hladan.",
+          "cue": "-> komparativ",
+          "accepted": [
+            "Vjetar je hladniji."
+          ]
+        },
+        {
+          "prompt": "Jesen je lijepa.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Jesen nije lijepa."
+          ]
+        },
+        {
+          "prompt": "Sunčano je.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li sunčano?"
+          ]
+        },
+        {
+          "prompt": "Balkon je iznad ulicu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Balkon je iznad ulice."
+          ]
+        },
+        {
+          "prompt": "Pas je ispod stablo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pas je ispod stabla."
+          ]
+        },
+        {
+          "prompt": "Šuma je zelen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Šuma je zelena."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Danas ___ hladan vjetar.",
+          "cue": "puhati",
+          "accepted": [
+            "puše"
+          ]
+        },
+        {
+          "text": "Cvjetovi ___ u vrtu.",
+          "cue": "rasti",
+          "accepted": [
+            "rastu"
+          ]
+        },
+        {
+          "text": "Stabla u parku ne ___.",
+          "cue": "cvjetati",
+          "accepted": [
+            "cvjetaju"
+          ]
+        },
+        {
+          "text": "Rijeka ___ daleko od grada.",
+          "cue": "teći",
+          "accepted": [
+            "teče"
+          ]
+        },
+        {
+          "text": "Rijeka je ___ pored kuće.",
+          "cue": "teći",
+          "accepted": [
+            "tekla"
+          ]
+        },
+        {
+          "text": "Mi zimi ne ___ na more.",
+          "cue": "putovati",
+          "accepted": [
+            "putujemo"
+          ]
+        },
+        {
+          "text": "U studenom često ___ kiša.",
+          "cue": "padati",
+          "accepted": [
+            "pada"
+          ]
+        },
+        {
+          "text": "Sutra ja ___ na otok.",
+          "cue": "ići",
+          "accepted": [
+            "idem"
+          ]
+        },
+        {
+          "text": "Jučer je ___ oblačan dan.",
+          "cue": "biti",
+          "accepted": [
+            "bio"
+          ]
+        },
+        {
+          "text": "Naš grad ___ jezero.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Mi ___ nebo navečer.",
+          "cue": "gledati",
+          "accepted": [
+            "gledamo"
+          ]
+        },
+        {
+          "text": "Ujutro ja ___ doručak u vrtu.",
+          "cue": "jesti",
+          "accepted": [
+            "jedem"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "річка",
+          "answer": "rijeka"
+        },
+        {
+          "prompt": "озеро",
+          "answer": "jezero"
+        },
+        {
+          "prompt": "ліс",
+          "answer": "šuma"
+        },
+        {
+          "prompt": "дерево",
+          "answer": "stablo"
+        },
+        {
+          "prompt": "квітка",
+          "answer": "cvijet"
+        },
+        {
+          "prompt": "острів",
+          "answer": "otok"
+        },
+        {
+          "prompt": "берег, узбережжя",
+          "answer": "obala"
+        },
+        {
+          "prompt": "небо",
+          "answer": "nebo"
+        },
+        {
+          "prompt": "буря, гроза",
+          "answer": "oluja"
+        },
+        {
+          "prompt": "градус",
+          "answer": "stupanj"
+        },
+        {
+          "prompt": "весна",
+          "answer": "proljeće"
+        },
+        {
+          "prompt": "осінь",
+          "answer": "jesen"
+        },
+        {
+          "prompt": "зима",
+          "answer": "zima"
+        },
+        {
+          "prompt": "дути",
+          "answer": "puhati"
+        },
+        {
+          "prompt": "рости",
+          "answer": "rasti"
+        },
+        {
+          "prompt": "цвісти",
+          "answer": "cvjetati"
+        },
+        {
+          "prompt": "текти",
+          "answer": "teći"
+        },
+        {
+          "prompt": "високий",
+          "answer": "visok"
+        }
+      ],
+      "extra": [
+        "kiša",
+        "snijeg"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

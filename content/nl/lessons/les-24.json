@@ -861,7 +861,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -946,6 +946,30 @@
           "cue": "-> відома річ (de school)",
           "accepted": [
             "De school is naast het park."
+          ]
+        },
+        {
+          "prompt": "Er is vier restaurants op het plein.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Er zijn vier restaurants op het plein.",
+            "Op het plein zijn er vier restaurants."
+          ]
+        },
+        {
+          "prompt": "Er is niet een museum naast het station.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Er is geen museum naast het station.",
+            "Naast het station is er geen museum."
+          ]
+        },
+        {
+          "prompt": "Naast de school er is een markt.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Naast de school is er een markt.",
+            "Er is een markt naast de school."
           ]
         }
       ]

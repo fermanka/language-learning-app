@@ -1108,7 +1108,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -1193,6 +1193,28 @@
           "cue": "-> починай з Op de bank",
           "accepted": [
             "Op de bank ligt het boek."
+          ]
+        },
+        {
+          "prompt": "De sleutels staan in de gang.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De sleutels liggen in de gang."
+          ]
+        },
+        {
+          "prompt": "Het slaapkamer is klein.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "De slaapkamer is klein."
+          ]
+        },
+        {
+          "prompt": "Er staat drie bedden in de slaapkamer.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Er staan drie bedden in de slaapkamer.",
+            "In de slaapkamer staan er drie bedden."
           ]
         }
       ]

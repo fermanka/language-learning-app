@@ -503,7 +503,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка",
+      "instruction_ua": "Перетвори речення, як показує стрілка; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -588,6 +588,27 @@
           "cue": "-> заперечення + zet vooraan: ..., kopen wij niets.",
           "accepted": [
             "Als wij geen geld hebben, kopen wij niets."
+          ]
+        },
+        {
+          "prompt": "Hij zegt dat hij vandaag werkt niet.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hij zegt dat hij vandaag niet werkt."
+          ]
+        },
+        {
+          "prompt": "Als hij ziek is, hij gaat naar de huisarts.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Als hij ziek is, gaat hij naar de huisarts."
+          ]
+        },
+        {
+          "prompt": "Als hij niet tijd heeft, blijft hij thuis.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Als hij geen tijd heeft, blijft hij thuis."
           ]
         }
       ]

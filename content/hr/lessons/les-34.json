@@ -1,0 +1,1271 @@
+{
+  "id": "hr-les-34",
+  "lang": "hr",
+  "order": 34,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "imala",
+    "platila",
+    "plaću",
+    "računu"
+  ],
+  "notes": [
+    {
+      "id": "hr-2d20df6e",
+      "type": "noun",
+      "lemma": "novac",
+      "gender": "m.",
+      "gen_sg": "novca",
+      "plural": [
+        "novci"
+      ],
+      "ua": "гроші",
+      "audio": "hr-novac.mp3",
+      "forms": [
+        "novca"
+      ],
+      "explain_ua": "(Nemam puno novca = не маю багато грошей). Увага: українське «гроші» і російське «деньги» стоять тільки у множині, а хорватське novac в однині: кажи novac je, не «novci su». Нестійке a: novac, novca (як sestra > sestara, Lekcija 16). Форма novci існує в розмові, але вчимо однину.",
+      "check": "Форми novca і novci з мого знання; що novci розмовна форма, перевірити в словнику."
+    },
+    {
+      "id": "hr-fbb7e065",
+      "type": "noun",
+      "lemma": "gotovina",
+      "gender": "ž.",
+      "gen_sg": "gotovine",
+      "plural": [
+        "gotovine"
+      ],
+      "ua": "готівка",
+      "audio": "hr-gotovina.mp3",
+      "forms": [
+        "gotovine",
+        "gotovinu",
+        "gotovinom"
+      ],
+      "explain_ua": "(Plaćam gotovinom = плачу готівкою). Жіночий рід на -a: gotovina, gotovine, gotovinu (знахідний). Платити чимось це орудний, як vlakom (Lekcija 14): gotovinom, karticom. Корінь інший, ніж в українському «готівка» і російському «наличные», тож слово просто нове.",
+      "check": "Форми за зразком škola; орудний після plaćati з мого знання."
+    },
+    {
+      "id": "hr-fd52a7e8",
+      "type": "noun",
+      "lemma": "kartica",
+      "gender": "ž.",
+      "gen_sg": "kartice",
+      "plural": [
+        "kartice"
+      ],
+      "ua": "картка (банківська)",
+      "audio": "hr-kartica.mp3",
+      "forms": [
+        "kartice",
+        "karticu",
+        "karticom"
+      ],
+      "explain_ua": "(Mogu li platiti karticom? = чи можу я заплатити карткою?). Жіночий рід на -a: kartica, kartice, karticu (знахідний), karticom (орудний). Не плутай з karta (Lekcija 16: квиток): kartica це банківська або пластикова картка.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-acf35b61",
+      "type": "noun",
+      "lemma": "bankomat",
+      "gender": "m.",
+      "gen_sg": "bankomata",
+      "plural": [
+        "bankomati"
+      ],
+      "ua": "банкомат",
+      "audio": "hr-bankomat.mp3",
+      "forms": [
+        "bankomata",
+        "bankomatu"
+      ],
+      "explain_ua": "(Bankomat je ispred banke = банкомат перед банком). Чоловічого роду, неживе: bankomat, bankomata, na bankomatu (місцевий), bankomati. Пастка зі старого слова: banka (Lekcija 5) це банк, а не «банка» зі слоїком. І в українській, і в російській «банка» означає слоїк, хорватська banka ніколи.",
+      "check": "Форми bankomata, bankomatu, bankomati з мого знання. Пара banka / банка (російська) є в перевіреній таблиці; українську частину (банка = слоїк) додав я сам, у таблиці її нема."
+    },
+    {
+      "id": "hr-9d188ad4",
+      "type": "noun",
+      "lemma": "poslovnica",
+      "gender": "ž.",
+      "gen_sg": "poslovnice",
+      "plural": [
+        "poslovnice"
+      ],
+      "ua": "відділення (банку, фірми)",
+      "audio": "hr-poslovnica.mp3",
+      "forms": [
+        "poslovnice",
+        "poslovnicu"
+      ],
+      "explain_ua": "(Poslovnica banke je u gradu = відділення банку в місті). Жіночий рід на -a: poslovnica, poslovnice, poslovnicu. ПАСТКА для обох мов однаково: російське пословица і українське пословиця означають «прислів'я», а хорватська poslovnica не прислів'я, а відділення. Прислів'я по-хорватськи poslovica. Підказка для пам'яті (не етимологія): posao (Lekcija 2) це робота, а poslovnica це місце, де працюють.",
+      "check": "Пастка poslovnica / пословица є в перевіреній таблиці «Russian → Croatian»; те саме для української пословиця додав я сам, у таблиці її нема. Слово poslovica (прислів'я) з мого знання, перевірити."
+    },
+    {
+      "id": "hr-60cde012",
+      "type": "noun",
+      "lemma": "štednja",
+      "gender": "ž.",
+      "gen_sg": "štednje",
+      "plural": [
+        "štednje"
+      ],
+      "ua": "заощадження, ощадливість",
+      "audio": "hr-stednja.mp3",
+      "forms": [
+        "štednje"
+      ],
+      "explain_ua": "(Štednja je važna = заощадження важливі). Жіночий рід: štednja, štednje. Вживається майже завжди в однині. Від дієслова štedjeti (нижче): štedim = відкладаю, štednja = відкладання.",
+      "check": "Форму štednje з мого знання; множину перевірити в словнику, вживається рідко."
+    },
+    {
+      "id": "hr-b8a40eae",
+      "type": "noun",
+      "lemma": "novčanik",
+      "gender": "m.",
+      "gen_sg": "novčanika",
+      "plural": [
+        "novčanici"
+      ],
+      "ua": "гаманець",
+      "audio": "hr-novcanik.mp3",
+      "forms": [
+        "novčanika",
+        "novčaniku"
+      ],
+      "explain_ua": "(Novac je u novčaniku = гроші в гаманці). Чоловічого роду: novčanik, novčanika, u novčaniku, novčanici (k > c, як udžbenik > udžbenici, Lekcija 31). Помічай c > č: novac, але novčanik.",
+      "check": "Форми novčanika, novčaniku, novčanici з мого знання."
+    },
+    {
+      "id": "hr-437c571a",
+      "type": "noun",
+      "lemma": "rok",
+      "gender": "m.",
+      "gen_sg": "roka",
+      "plural": [
+        "rokovi"
+      ],
+      "ua": "термін, крайній строк",
+      "audio": "hr-rok.mp3",
+      "forms": [
+        "roka"
+      ],
+      "explain_ua": "(Rok je u petak = термін у п'ятницю). Rok це дедлайн. ПАСТКА, у кожної мови своя: російське рок значить «доля» (і рок-музику); українське рік схоже на rok, але «рік» по-хорватськи godina (Lekcija 1); українське рок теж «доля», книжне. Rok нічого з цього не значить. Чоловічого роду з -ov-: rok, roka, rokovi.",
+      "check": "Пастка rok / рок є в перевіреній таблиці «Russian → Croatian»; українську частину (рік, рок) додав я сам, у таблиці її нема. Множина rokovi за правилом односкладових з мого знання."
+    },
+    {
+      "id": "hr-6688f44b",
+      "type": "noun",
+      "lemma": "stanje",
+      "gender": "s.",
+      "gen_sg": "stanja",
+      "plural": [
+        "stanja"
+      ],
+      "ua": "стан; залишок на рахунку",
+      "audio": "hr-stanje.mp3",
+      "forms": [
+        "stanja"
+      ],
+      "explain_ua": "(Stanje na računu je dobro = залишок на рахунку добрий). Середній рід на -e: stanje, stanja. Polysemy: «стан» і «залишок на рахунку». Підказка для пам'яті, не з перевіреної таблиці: stan (Lekcija 2) це квартира, а українське стан це як раз «стан»; хорватською «стан» (state) це stanje. Ще два старі слова мають друге значення: račun (Lekcija 18, рахунок у ресторані) це також рахунок у банку, а tečaj (Lekcija 31, курс) це також курс валюти.",
+      "check": "Форми stanja з мого знання; значення «tečaj = курс валюти» і підказку stan / стан перевірити в словнику."
+    },
+    {
+      "id": "hr-62e30dc0",
+      "type": "noun",
+      "lemma": "kuna",
+      "gender": "ž.",
+      "gen_sg": "kune",
+      "plural": [
+        "kune"
+      ],
+      "ua": "куна (валюта до 2023); куниця",
+      "audio": "hr-kuna.mp3",
+      "forms": [
+        "kune"
+      ],
+      "explain_ua": "(Prije eura bila je kuna = перед євро була куна). Жіночий рід: kuna, kune. Це валюта Хорватії до 1 січня 2023, тепер euro (Lekcija 7). Polysemy: kuna це також звір куниця, не хибний друг. Старі офіційні тексти ще згадують kuna, тож завжди дивись на дату документа.",
+      "check": "Форми з мого знання; дату переходу на євро (1 січня 2023) знаю надійно."
+    },
+    {
+      "id": "hr-229a0325",
+      "type": "verb",
+      "lemma": "štedjeti",
+      "aspect": "impf.",
+      "partner": "uštedjeti",
+      "pres_1sg": "štedim",
+      "forms": [
+        "štediš",
+        "štedi",
+        "štedimo",
+        "štedite",
+        "štede",
+        "uštedjeti",
+        "uštedim",
+        "štedio",
+        "štedjela",
+        "štedjeli",
+        "štedim"
+      ],
+      "ua": "заощаджувати, берегти (док. uštedjeti)",
+      "audio": "hr-stedjeti.mp3",
+      "explain_ua": "(Štedim novac za odmor = заощаджую гроші на відпустку). Пара: štedjeti (недок.) / uštedjeti (док.): štedim = відкладаю регулярно, uštedjela sam = заощадила, результат. Дієвідміна -im: štedim, štediš, štedi. Минулий: štedio, štedjela: пиши dj.",
+      "check": "Пару та форми štedim, štedio, štedjela з мого знання; форму štedjela перевірити в словнику."
+    },
+    {
+      "id": "hr-b1870296",
+      "type": "verb",
+      "lemma": "trošiti",
+      "aspect": "impf.",
+      "partner": "potrošiti",
+      "pres_1sg": "trošim",
+      "forms": [
+        "trošiš",
+        "troši",
+        "trošimo",
+        "trošite",
+        "troše",
+        "potrošiti",
+        "potrošim",
+        "potrošila",
+        "trošila",
+        "trošim"
+      ],
+      "ua": "витрачати (док. potrošiti)",
+      "audio": "hr-trositi.mp3",
+      "explain_ua": "(Ne trošim puno novca = не витрачаю багато грошей). Пара: trošiti (недок.) / potrošiti (док.): potrošila sam novac = витратила гроші. Дієвідміна -im: trošim, trošiš, troši. Ні українське «витрачати», ні російське «тратить» не схожі: слово просто нове.",
+      "check": "Пару та форми з мого знання."
+    },
+    {
+      "id": "hr-2035cb72",
+      "type": "verb",
+      "lemma": "podizati",
+      "aspect": "impf.",
+      "partner": "podići",
+      "pres_1sg": "podižem",
+      "forms": [
+        "podižeš",
+        "podiže",
+        "podižemo",
+        "podižete",
+        "podižu",
+        "podići",
+        "podignem",
+        "podigla",
+        "podigao",
+        "podizala",
+        "podižem"
+      ],
+      "ua": "знімати (гроші); піднімати (док. podići)",
+      "audio": "hr-podizati.mp3",
+      "explain_ua": "(Želim podići novac = хочу зняти гроші). Пара: podizati (недок.) / podići (док.): podižem, але podignem. Минулий: podigao, podigla. Podići novac це зняти гроші в банкоматі; те саме слово означає й «підняти».",
+      "check": "Пару та форми podižem, podignem, podigao, podigla, podizala з мого знання (неправильні форми), перевірити в словнику."
+    },
+    {
+      "id": "hr-4c8111c3",
+      "type": "verb",
+      "lemma": "uplaćivati",
+      "aspect": "impf.",
+      "partner": "uplatiti",
+      "pres_1sg": "uplaćujem",
+      "forms": [
+        "uplaćuješ",
+        "uplaćuje",
+        "uplaćujemo",
+        "uplaćujete",
+        "uplaćuju",
+        "uplatiti",
+        "uplatim",
+        "uplatila",
+        "uplaćivala",
+        "uplaćujem",
+        "uplaćivam"
+      ],
+      "ua": "вносити гроші, платити переказом (док. uplatiti)",
+      "audio": "hr-uplacivati.mp3",
+      "explain_ua": "(Uplaćujem plaću na račun = вношу зарплату на рахунок). Пара: uplaćivati (недок.) / uplatiti (док.). Сім'я з plaćati / platiti (Lekcija 22). Теперішній uplaćujem, не «uplaćivam». Пиши ć: українське і російське дають ч (оплачувати, оплачивать), а хорватське ć.",
+      "check": "Пару та форми uplaćujem, uplatim, uplaćivala з мого знання."
+    },
+    {
+      "id": "hr-9eea3120",
+      "type": "verb",
+      "lemma": "posuđivati",
+      "aspect": "impf.",
+      "partner": "posuditi",
+      "pres_1sg": "posuđujem",
+      "forms": [
+        "posuđuješ",
+        "posuđuje",
+        "posuđujemo",
+        "posuđujete",
+        "posuđuju",
+        "posuditi",
+        "posudim",
+        "posudila",
+        "posudili",
+        "posudi",
+        "posuđujem"
+      ],
+      "ua": "позичати (док. posuditi)",
+      "audio": "hr-posudjivati.mp3",
+      "explain_ua": "(Posudila sam prijatelju novac = я позичила другові гроші). Пара: posuđivati (недок.) / posuditi (док.). Posuditi значить і «позичити комусь» (давальний), і «позичити в когось» (od + родовий): напрямок видно з відмінка. Приголосний d > đ перед -ivati: posuđivati, posuđujem. Наказ: posudi.",
+      "check": "Пару та форми posuđujem, posudim, posudi з мого знання; напрямок od + родовий перевірити."
+    },
+    {
+      "id": "hr-75ca746b",
+      "type": "adjective",
+      "lemma": "bogat",
+      "fem": "bogata",
+      "neut": "bogato",
+      "ua": "багатий",
+      "audio": "hr-bogat.mp3",
+      "forms": [
+        "bogata"
+      ],
+      "explain_ua": "(Taj čovjek nije bogat = ця людина не багата). bogat, bogata, bogato. Українське багатий і російське богатый: корінь той самий.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-8d692755",
+      "type": "adjective",
+      "lemma": "siromašan",
+      "fem": "siromašna",
+      "neut": "siromašno",
+      "ua": "бідний",
+      "audio": "hr-siromasan.mp3",
+      "forms": [
+        "siromašna"
+      ],
+      "explain_ua": "(Moja baka je siromašna = моя бабуся бідна). Нестійке a: siromašan, siromašna, siromašno. Українське бідний і російське бедный не схожі, слово нове.",
+      "check": "Форми з мого знання за зразком bolestan."
+    },
+    {
+      "id": "hr-330b683d",
+      "type": "adjective",
+      "lemma": "besplatan",
+      "fem": "besplatna",
+      "neut": "besplatno",
+      "ua": "безкоштовний",
+      "audio": "hr-besplatan.mp3",
+      "forms": [
+        "besplatna"
+      ],
+      "explain_ua": "(Kava je besplatna = кава безкоштовна). Нестійке a: besplatan, besplatna, besplatno. Корінь plaćati / plaća (Lekcija 22, 26). Ближче до російського бесплатный і українського безплатний, ніж до «безкоштовний»: koštati (Lekcija 7) тут не допомагає.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-0ef1ce86",
+      "type": "adjective",
+      "lemma": "mjesečni",
+      "fem": "mjesečna",
+      "neut": "mjesečno",
+      "ua": "щомісячний",
+      "audio": "hr-mjesecni.mp3",
+      "forms": [
+        "mjesečna",
+        "mjesečno"
+      ],
+      "explain_ua": "(Mjesečna plaća je dobra = місячна зарплата добра). Прикметник від mjesec (Lekcija 16): mjesečni, mjesečna, mjesečno. Форма mjesečno є і прислівником «щомісяця»: mjesečno ću uplaćivati.",
+      "check": "Форми з мого знання; що вживається лише означена форма, перевірити в словнику."
+    },
+    {
+      "id": "hr-3b8d3955",
+      "type": "function",
+      "lemma": "posto",
+      "ua": "відсоток (не змінюється)",
+      "audio": "hr-posto.mp3",
+      "explain_ua": "(Plaća je pet posto veća = зарплата на п'ять відсотків більша). Posto не змінюється: dva posto, pet posto, deset posto. Число стоїть перед ним, як у українській «п'ять відсотків».",
+      "check": "Незмінність posto з мого знання; що після posto іменник у родовому множини (pet posto stanovnika), у цьому уроці не вживаю."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Вид у родинах: platiti - plaćati, uplatiti - uplaćivati, posuditi - posuđivati",
+      "summary_ua": "Префіксне дієслово має пару: доконане на -iti, недоконане на -ivati (uplatiti > uplaćivati, posuditi > posuđivati). Перед -ivati приголосний змінюється: t > ć, d > đ. Допомагають обидві мови: недоконане на -ivati схоже на російське -ивать (оплачивать), а теперішній -ujem схожий на українське -ую (оплачую). Але в українській і російській тут ч (оплачувати, оплачивать), а в хорватській ć: uplaćivati. Яка пара до якого префікса, не безкоштовно: вчи кожну пару цілою.",
+      "compare": [
+        {
+          "form": "доконане -iti / недоконане -ivati",
+          "when_ua": "Результат (uplatiti, один раз) проти процесу чи звички (uplaćivati, регулярно).",
+          "examples": [
+            {
+              "text": "Jučer sam uplatila novac.",
+              "ua": "Вчора я внесла гроші.",
+              "audio": "hr-les34-rule-01.mp3"
+            },
+            {
+              "text": "Često uplaćujem novac na račun.",
+              "ua": "Я часто вношу гроші на рахунок.",
+              "audio": "hr-les34-rule-02.mp3"
+            },
+            {
+              "text": "Uvijek mu posuđujem novac.",
+              "ua": "Я завжди позичаю йому гроші.",
+              "audio": "hr-les34-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Теперішній від -ivati: -ujem, -uješ, -uje (uplaćujem, не «uplaćivam»)."
+        },
+        {
+          "form": "зміна приголосного: t > ć, d > đ",
+          "when_ua": "Та сама сім'я, що plaćati / platiti (Lekcija 22).",
+          "examples": [
+            {
+              "text": "Plaćam račun u banci.",
+              "ua": "Я плачу рахунок у банку.",
+              "audio": "hr-les34-rule-04.mp3"
+            },
+            {
+              "text": "Sutra ću platiti račun.",
+              "ua": "Завтра я заплачу рахунок.",
+              "audio": "hr-les34-rule-05.mp3"
+            },
+            {
+              "text": "Sutra ću ti posuditi novac.",
+              "ua": "Завтра я позичу тобі гроші.",
+              "audio": "hr-les34-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Пиши ć і đ, не č і dž: plaćati, posuđivati. Українське оплачувати й російське оплачивать дають ч, тому тут легко помилитися в правописі."
+        }
+      ],
+      "points_ua": [
+        "uplatiti (док.) / uplaćivati (недок.): t > ć.",
+        "posuditi (док.) / posuđivati (недок.): d > đ.",
+        "Теперішній від -ivati: -ujem (uplaćujem)."
+      ]
+    },
+    {
+      "title_ua": "Короткі іменники й нестійке a: novac - novca, rok - rokovi",
+      "summary_ua": "Нестійке a випадає в усіх формах, крім називного: novac, novca (як sestra > sestara, Lekcija 16). Односкладові чоловічого роду беруть -ov- у множині (rok > rokovi), довші слова ні (bankomat > bankomati). K стає c перед -i: novčanik > novčanici. Novac в однині: українське «гроші» і російське «деньги» множина, а хорватською novac je.",
+      "compare": [
+        {
+          "form": "нестійке a: novac > novca",
+          "when_ua": "Після nema, nemam, malo, puno: родовий novca.",
+          "examples": [
+            {
+              "text": "Nemam novca za auto.",
+              "ua": "Не маю грошей на машину.",
+              "audio": "hr-les34-rule-07.mp3"
+            },
+            {
+              "text": "U novčaniku nema novca.",
+              "ua": "У гаманці нема грошей.",
+              "audio": "hr-les34-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Це той самий механізм, що в sestra > sestara і obrazac > obrasca."
+        },
+        {
+          "form": "множина: -ovi чи -i",
+          "when_ua": "Односкладові: rokovi. Довші: bankomati, novčanici.",
+          "examples": [
+            {
+              "text": "Rok je u utorak.",
+              "ua": "Термін у вівторок.",
+              "audio": "hr-les34-rule-09.mp3"
+            },
+            {
+              "text": "Rokovi su u utorak i u petak.",
+              "ua": "Терміни у вівторок і в п'ятницю.",
+              "audio": "hr-les34-rule-10.mp3"
+            },
+            {
+              "text": "Bankomati su u gradu.",
+              "ua": "Банкомати в місті.",
+              "audio": "hr-les34-rule-11.mp3"
+            },
+            {
+              "text": "Novčanici su na polici.",
+              "ua": "Гаманці на полиці.",
+              "audio": "hr-les34-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Винятки з -ov- бувають, тому нове слово вчи з його множиною."
+        },
+        {
+          "form": "novac в однині",
+          "when_ua": "Гроші як маса, не як штуки.",
+          "examples": [
+            {
+              "text": "Novac je u ormaru.",
+              "ua": "Гроші в шафі.",
+              "audio": "hr-les34-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Тут ні українська, ні російська не допомагають: у них множина, а в хорватській однина."
+        }
+      ],
+      "points_ua": [
+        "novac, novca: a випадає.",
+        "rok > rokovi, але bankomat > bankomati.",
+        "Novac je (однина), не «novci su»."
+      ]
+    },
+    {
+      "title_ua": "Суми й відсотки: dvadeset eura, dva posto, platiti karticom",
+      "summary_ua": "Після чисел від п'яти стоїть eura (Lekcija 7): dvadeset eura, dvjesto eura, tisuću eura (Lekcija 22). З euro і cent: dva eura i pedeset centi. Відсоток: число + posto, слово не змінюється (dva posto, pet posto). Чим платимо, це орудний (Lekcija 14): karticom, gotovinom.",
+      "compare": [
+        {
+          "form": "число + eura / centi",
+          "when_ua": "Ціни, суми.",
+          "examples": [
+            {
+              "text": "Kartica košta dvadeset eura.",
+              "ua": "Картка коштує двадцять євро.",
+              "audio": "hr-les34-rule-14.mp3"
+            },
+            {
+              "text": "Račun je dva eura i pedeset centi.",
+              "ua": "Рахунок два євро й п'ятдесят центів.",
+              "audio": "hr-les34-rule-15.mp3"
+            },
+            {
+              "text": "Imam tisuću eura.",
+              "ua": "Маю тисячу євро.",
+              "audio": "hr-les34-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Ті самі правила, що в Lekcije 7 і 22. Нічого нового, тільки повторення."
+        },
+        {
+          "form": "число + posto",
+          "when_ua": "Відсотки.",
+          "examples": [
+            {
+              "text": "Plaća je pet posto veća.",
+              "ua": "Зарплата на п'ять відсотків більша.",
+              "audio": "hr-les34-rule-17.mp3"
+            },
+            {
+              "text": "Cijena je dva posto veća.",
+              "ua": "Ціна на два відсотки більша.",
+              "audio": "hr-les34-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Posto не змінюється, а порівняння veća, jeftiniji ти вже знаєш (Lekcija 17)."
+        },
+        {
+          "form": "платити + орудний",
+          "when_ua": "Чим платимо.",
+          "examples": [
+            {
+              "text": "Plaćam račun karticom.",
+              "ua": "Я плачу рахунок карткою.",
+              "audio": "hr-les34-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Karticom, gotovinom: закінчення -om, як vlakom."
+        }
+      ],
+      "points_ua": [
+        "pet eura, dvadeset eura, tisuću eura.",
+        "dva posto, pet posto: posto не змінюється.",
+        "platiti karticom / gotovinom: орудний."
+      ]
+    },
+    {
+      "title_ua": "Умовний спосіб у двох реченнях: Kad bih imala više novca, ...",
+      "summary_ua": "Реальна умова: ako + теперішній (Ako štedim, imam više novca). Нереальна, «якби»: kad bih + дієприкметник на -l, і в головному реченні bih + дієприкметник. У кожній частині bih стоїть на другому місці. Українське «якби..., я б...» і російське «если бы..., я бы...» будують речення так само, бо б / бы це той самий клітик, що bih: це безкоштовний виграш. Нове лише те, що bih повторюється в обох частинах і стоїть другим.",
+      "compare": [
+        {
+          "form": "kad bih + l-дієприкметник, bih + l-дієприкметник",
+          "when_ua": "Нереальна умова: я цього не маю, але уявляю.",
+          "examples": [
+            {
+              "text": "Kad bih imala više novca, kupila bih stan.",
+              "ua": "Якби я мала більше грошей, я б купила квартиру.",
+              "audio": "hr-les34-rule-20.mp3"
+            },
+            {
+              "text": "Kad bi ona imala više novca, išla bi na more.",
+              "ua": "Якби вона мала більше грошей, вона б поїхала на море.",
+              "audio": "hr-les34-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Bih, bi, bismo, biste, bi: ті самі форми, що в Lekcije 18."
+        },
+        {
+          "form": "bih на другому місці; заперечення ne bih",
+          "when_ua": "Клітик стоїть після першого слова чи групи слів у своїй частині.",
+          "examples": [
+            {
+              "text": "Kad bih mogla, došla bih sutra.",
+              "ua": "Якби я могла, я б прийшла завтра.",
+              "audio": "hr-les34-rule-22.mp3"
+            },
+            {
+              "text": "Kad ne bih trošila puno, imala bih više novca.",
+              "ua": "Якби я не витрачала багато, я мала б більше грошей.",
+              "audio": "hr-les34-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Заперечення ne ставиться перед bih: ne bih trošila."
+        },
+        {
+          "form": "ввічливе прохання і реальна умова",
+          "when_ua": "Biste li ...? для прохання; ako + теперішній для реального.",
+          "examples": [
+            {
+              "text": "Biste li mi posudili novac?",
+              "ua": "Чи не позичили б ви мені гроші?",
+              "audio": "hr-les34-rule-24.mp3"
+            },
+            {
+              "text": "Ako štedim, imam više novca.",
+              "ua": "Якщо я заощаджую, у мене більше грошей.",
+              "audio": "hr-les34-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Порядок клітиків той самий (li, потім допоміжне, потім mi): Biste li mi ..."
+        }
+      ],
+      "points_ua": [
+        "Kad bih imala ..., kupila bih ...: bih в обох частинах.",
+        "Bih стоїть другим у кожній частині.",
+        "Ako + теперішній: реальна умова."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Nemam puno novca.",
+      "ua": "Не маю багато грошей.",
+      "audio": "hr-les34-example-01.mp3"
+    },
+    {
+      "text": "Plaćam gotovinom.",
+      "ua": "Я плачу готівкою.",
+      "audio": "hr-les34-example-02.mp3"
+    },
+    {
+      "text": "Mogu li platiti karticom?",
+      "ua": "Чи можу я заплатити карткою?",
+      "audio": "hr-les34-example-03.mp3"
+    },
+    {
+      "text": "Bankomat je ispred banke.",
+      "ua": "Банкомат перед банком.",
+      "audio": "hr-les34-example-04.mp3"
+    },
+    {
+      "text": "Poslovnica banke je u gradu.",
+      "ua": "Відділення банку в місті.",
+      "audio": "hr-les34-example-05.mp3"
+    },
+    {
+      "text": "Novac je u novčaniku.",
+      "ua": "Гроші в гаманці.",
+      "audio": "hr-les34-example-06.mp3"
+    },
+    {
+      "text": "Rok je u petak.",
+      "ua": "Термін у п'ятницю.",
+      "audio": "hr-les34-example-07.mp3"
+    },
+    {
+      "text": "Stanje na računu je dobro.",
+      "ua": "Залишок на рахунку добрий.",
+      "audio": "hr-les34-example-08.mp3"
+    },
+    {
+      "text": "Prije eura bila je kuna.",
+      "ua": "Перед євро була куна.",
+      "audio": "hr-les34-example-09.mp3"
+    },
+    {
+      "text": "Štedim novac za odmor.",
+      "ua": "Заощаджую гроші на відпустку.",
+      "audio": "hr-les34-example-10.mp3"
+    },
+    {
+      "text": "Ne trošim puno novca.",
+      "ua": "Не витрачаю багато грошей.",
+      "audio": "hr-les34-example-11.mp3"
+    },
+    {
+      "text": "Želim podići novac.",
+      "ua": "Хочу зняти гроші.",
+      "audio": "hr-les34-example-12.mp3"
+    },
+    {
+      "text": "Uplaćujem plaću na račun.",
+      "ua": "Вношу зарплату на рахунок.",
+      "audio": "hr-les34-example-13.mp3"
+    },
+    {
+      "text": "Posudila sam prijatelju novac.",
+      "ua": "Я позичила другові гроші.",
+      "audio": "hr-les34-example-14.mp3"
+    },
+    {
+      "text": "Taj čovjek nije bogat.",
+      "ua": "Ця людина не багата.",
+      "audio": "hr-les34-example-15.mp3"
+    },
+    {
+      "text": "Štednja je važna.",
+      "ua": "Заощадження важливі.",
+      "audio": "hr-les34-example-16.mp3"
+    },
+    {
+      "text": "Kava je besplatna.",
+      "ua": "Кава безкоштовна.",
+      "audio": "hr-les34-example-17.mp3"
+    },
+    {
+      "text": "Mjesečna plaća je dobra.",
+      "ua": "Місячна зарплата добра.",
+      "audio": "hr-les34-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Račun u banci",
+    "title_ua": "Рахунок у банку",
+    "highlight": [
+      "hr-2d20df6e",
+      "hr-fbb7e065",
+      "hr-fd52a7e8",
+      "hr-acf35b61",
+      "hr-9d188ad4",
+      "hr-330b683d",
+      "hr-0ef1ce86"
+    ],
+    "sentences": [
+      {
+        "text": "Jučer sam išla u poslovnicu banke.",
+        "ua": "Вчора я ходила у відділення банку.",
+        "audio": "hr-les34-reading-01.mp3"
+      },
+      {
+        "text": "Željela sam otvoriti račun.",
+        "ua": "Я хотіла відкрити рахунок.",
+        "audio": "hr-les34-reading-02.mp3"
+      },
+      {
+        "text": "Žena u banci mi je rekla što moram imati.",
+        "ua": "Жінка в банку сказала мені, що я мушу мати.",
+        "audio": "hr-les34-reading-03.mp3"
+      },
+      {
+        "text": "Trebam putovnicu i ugovor.",
+        "ua": "Мені потрібні паспорт і договір.",
+        "audio": "hr-les34-reading-04.mp3"
+      },
+      {
+        "text": "Račun je besplatan, ali kartica košta pet eura.",
+        "ua": "Рахунок безкоштовний, але картка коштує п'ять євро.",
+        "audio": "hr-les34-reading-05.mp3"
+      },
+      {
+        "text": "Mjesečno ću uplaćivati plaću na račun.",
+        "ua": "Щомісяця я вноситиму зарплату на рахунок.",
+        "audio": "hr-les34-reading-06.mp3"
+      },
+      {
+        "text": "Novac ću podizati na bankomatu.",
+        "ua": "Гроші я зніматиму в банкоматі.",
+        "audio": "hr-les34-reading-07.mp3"
+      },
+      {
+        "text": "Danas nemam puno gotovine, ali imam karticu.",
+        "ua": "Сьогодні в мене мало готівки, але є картка.",
+        "audio": "hr-les34-reading-08.mp3"
+      },
+      {
+        "text": "Kad bih imala više novca, štedjela bih više.",
+        "ua": "Якби я мала більше грошей, я б більше заощаджувала.",
+        "audio": "hr-les34-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Моя сестра має картку.",
+          "accepted": [
+            "Moja sestra ima karticu."
+          ]
+        },
+        {
+          "prompt": "Мій брат не має готівки.",
+          "accepted": [
+            "Moj brat nema gotovine."
+          ]
+        },
+        {
+          "prompt": "Скільки грошей ти маєш у гаманці?",
+          "accepted": [
+            "Koliko novca imaš u novčaniku?"
+          ]
+        },
+        {
+          "prompt": "Відділення банку далеко від вокзалу.",
+          "accepted": [
+            "Poslovnica banke je daleko od kolodvora."
+          ]
+        },
+        {
+          "prompt": "Банкомат сьогодні не працює.",
+          "accepted": [
+            "Bankomat danas ne radi."
+          ]
+        },
+        {
+          "prompt": "Термін післязавтра.",
+          "accepted": [
+            "Rok je prekosutra."
+          ]
+        },
+        {
+          "prompt": "Я заплатила карткою.",
+          "accepted": [
+            "Platila sam karticom."
+          ]
+        },
+        {
+          "prompt": "Вона заощаджує гроші на машину.",
+          "accepted": [
+            "Ona štedi novac za auto."
+          ]
+        },
+        {
+          "prompt": "Ми не витрачаємо багато.",
+          "accepted": [
+            "Ne trošimo puno."
+          ]
+        },
+        {
+          "prompt": "Я мушу зняти готівку.",
+          "accepted": [
+            "Moram podići gotovinu."
+          ]
+        },
+        {
+          "prompt": "Він вносить гроші на рахунок у п'ятницю.",
+          "accepted": [
+            "On uplaćuje novac na račun u petak."
+          ]
+        },
+        {
+          "prompt": "Позич мені, будь ласка, десять євро.",
+          "accepted": [
+            "Posudi mi, molim te, deset eura."
+          ]
+        },
+        {
+          "prompt": "Мій чоловік не багатий.",
+          "accepted": [
+            "Moj muž nije bogat."
+          ]
+        },
+        {
+          "prompt": "Чи цей курс безкоштовний?",
+          "accepted": [
+            "Je li ovaj tečaj besplatan?"
+          ]
+        },
+        {
+          "prompt": "Якби я мала досить грошей, я б не працювала.",
+          "accepted": [
+            "Kad bih imala dosta novca, ne bih radila."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "novca",
+        "novčanik",
+        "poslovnicu",
+        "gotovinom",
+        "karticu",
+        "bankomat",
+        "stanje",
+        "rok",
+        "bogat",
+        "siromašna",
+        "besplatna",
+        "posto",
+        "troši",
+        "uplaćujemo",
+        "posuđuje",
+        "bih"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Imam malo ___.",
+          "hint": "Маю мало грошей.",
+          "accepted": [
+            [
+              "novca"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je u ormaru.",
+          "hint": "Мій гаманець у шафі.",
+          "accepted": [
+            [
+              "novčanik"
+            ]
+          ]
+        },
+        {
+          "text": "Banka ima ___ blizu škole.",
+          "hint": "Банк має відділення біля школи.",
+          "accepted": [
+            [
+              "poslovnicu"
+            ]
+          ]
+        },
+        {
+          "text": "Danas plaćam ___, ne karticom.",
+          "hint": "Сьогодні плачу готівкою.",
+          "accepted": [
+            [
+              "gotovinom"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ i novčanik.",
+          "hint": "Маю картку й гаманець.",
+          "accepted": [
+            [
+              "karticu"
+            ]
+          ]
+        },
+        {
+          "text": "___ je blizu kolodvora.",
+          "hint": "Банкомат біля вокзалу.",
+          "accepted": [
+            [
+              "Bankomat"
+            ]
+          ]
+        },
+        {
+          "text": "Koliko je ___ na računu?",
+          "hint": "Який залишок на рахунку?",
+          "accepted": [
+            [
+              "stanje"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je sutra.",
+          "hint": "Мій термін завтра.",
+          "accepted": [
+            [
+              "rok"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat je ___, on ima puno novca.",
+          "hint": "Мій брат багатий.",
+          "accepted": [
+            [
+              "bogat"
+            ]
+          ]
+        },
+        {
+          "text": "Moja baka nema puno novca, ona je ___.",
+          "hint": "Вона бідна.",
+          "accepted": [
+            [
+              "siromašna"
+            ]
+          ]
+        },
+        {
+          "text": "Voda je ___.",
+          "hint": "Вода безкоштовна.",
+          "accepted": [
+            [
+              "besplatna"
+            ]
+          ]
+        },
+        {
+          "text": "Sok je deset ___ jeftiniji.",
+          "hint": "Сік на десять відсотків дешевший.",
+          "accepted": [
+            [
+              "posto"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat puno ___.",
+          "hint": "Мій брат багато витрачає.",
+          "accepted": [
+            [
+              "troši"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ novac na račun.",
+          "hint": "Ми вносимо гроші на рахунок.",
+          "accepted": [
+            [
+              "uplaćujemo"
+            ]
+          ]
+        },
+        {
+          "text": "Ona mi ___ novac.",
+          "hint": "Вона позичає мені гроші.",
+          "accepted": [
+            [
+              "posuđuje"
+            ]
+          ]
+        },
+        {
+          "text": "Kad ___ bila bogata, kupila bih kuću.",
+          "hint": "Якби я була багата, я б купила будинок.",
+          "accepted": [
+            [
+              "bih"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Posuđujem novac prijatelju.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću posuditi novac prijatelju."
+          ]
+        },
+        {
+          "prompt": "Uplaćujem plaću.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću uplatiti plaću."
+          ]
+        },
+        {
+          "prompt": "Podižem gotovinu.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću podići gotovinu."
+          ]
+        },
+        {
+          "prompt": "Trošim novac.",
+          "cue": "-> минулий час, доконане (ja, ž.)",
+          "accepted": [
+            "Potrošila sam novac."
+          ]
+        },
+        {
+          "prompt": "Uplatila sam novac.",
+          "cue": "-> недоконане, звичка (često)",
+          "accepted": [
+            "Često sam uplaćivala novac.",
+            "Uplaćivala sam novac često."
+          ]
+        },
+        {
+          "prompt": "Podigla sam novac.",
+          "cue": "-> недоконане",
+          "accepted": [
+            "Podizala sam novac."
+          ]
+        },
+        {
+          "prompt": "Imam novca, kupujem auto.",
+          "cue": "-> Kad bih ...",
+          "accepted": [
+            "Kad bih imala novca, kupila bih auto."
+          ]
+        },
+        {
+          "prompt": "Imam pet eura, kupujem sok.",
+          "cue": "-> Kad bih ...",
+          "accepted": [
+            "Kad bih imala pet eura, kupila bih sok."
+          ]
+        },
+        {
+          "prompt": "Kad imala bih auto, ne bih išla autobusom.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kad bih imala auto, ne bih išla autobusom."
+          ]
+        },
+        {
+          "prompt": "Posudila sam sestri novac.",
+          "cue": "-> замінни займенниками",
+          "accepted": [
+            "Posudila sam joj ga."
+          ]
+        },
+        {
+          "prompt": "Možete platiti karticom.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Možete li platiti karticom?"
+          ]
+        },
+        {
+          "prompt": "Bankomat je blizu.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Bankomati su blizu."
+          ]
+        },
+        {
+          "prompt": "Trebam gotovina.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Trebam gotovinu."
+          ]
+        },
+        {
+          "prompt": "Novac su ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Novac je ovdje."
+          ]
+        },
+        {
+          "prompt": "Plaćam karticu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Plaćam karticom."
+          ]
+        },
+        {
+          "prompt": "Uplaćivam novac.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Uplaćujem novac."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Moja sestra ___ novac.",
+          "cue": "štedjeti",
+          "accepted": [
+            "štedi"
+          ]
+        },
+        {
+          "text": "Koliko novca ___ ti?",
+          "cue": "trošiti",
+          "accepted": [
+            "trošiš"
+          ]
+        },
+        {
+          "text": "Mi ___ gotovinu na bankomatu.",
+          "cue": "podizati",
+          "accepted": [
+            "podižemo"
+          ]
+        },
+        {
+          "text": "Oni ___ plaću na račun.",
+          "cue": "uplaćivati",
+          "accepted": [
+            "uplaćuju"
+          ]
+        },
+        {
+          "text": "Ti ___ prijatelju novac?",
+          "cue": "posuđivati",
+          "accepted": [
+            "posuđuješ"
+          ]
+        },
+        {
+          "text": "Ona je ___ puno novca.",
+          "cue": "štedjeti",
+          "accepted": [
+            "štedjela"
+          ]
+        },
+        {
+          "text": "On je ___ gotovinu.",
+          "cue": "podići",
+          "accepted": [
+            "podigao"
+          ]
+        },
+        {
+          "text": "Kad ___ novac, javim se.",
+          "cue": "uplatiti",
+          "accepted": [
+            "uplatim"
+          ]
+        },
+        {
+          "text": "Oni ___ puno novca.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Ja ___ siromašna.",
+          "cue": "biti (заперечення)",
+          "accepted": [
+            "nisam"
+          ]
+        },
+        {
+          "text": "Ona ___ platiti karticom.",
+          "cue": "moći",
+          "accepted": [
+            "može"
+          ]
+        },
+        {
+          "text": "Kad bih bila bogata, ___ bih manje.",
+          "cue": "raditi",
+          "accepted": [
+            "radila"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

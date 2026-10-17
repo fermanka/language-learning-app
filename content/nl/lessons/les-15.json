@@ -812,7 +812,7 @@
     },
     {
       "type": "transform",
-      "instruction_ua": "Перетвори речення, як показує стрілка: інша година, half, питання, заперечення чи множина",
+      "instruction_ua": "Перетвори речення, як показує стрілка: інша година, half, питання, заперечення чи множина; або виправ помилку в реченні",
       "items": [
         {
           "example": true,
@@ -894,6 +894,27 @@
           "accepted": [
             "Hoe laat sta je op?",
             "Hoe laat sta jij op?"
+          ]
+        },
+        {
+          "prompt": "Ik heb dertig vijf boeken.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik heb vijfendertig boeken."
+          ]
+        },
+        {
+          "prompt": "Mijn broer hebben vijftig boeken.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mijn broer heeft vijftig boeken."
+          ]
+        },
+        {
+          "prompt": "Ik heb een klok in het kamer.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ik heb een klok in de kamer."
           ]
         }
       ]
