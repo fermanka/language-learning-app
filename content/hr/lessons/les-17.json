@@ -5,7 +5,9 @@
   "status": "draft",
   "author": "josip",
   "service_words": [
-    "od"
+    "od",
+    "stana",
+    "tramvaja"
   ],
   "notes": [
     {
@@ -87,7 +89,8 @@
       "forms": [
         "najmanji",
         "manje",
-        "manja"
+        "manja",
+        "manju"
       ],
       "explain_ua": "(Dajte mi manji kruh = дайте мені менший хліб). Вищий ступінь від malen: manji, manja, manje. Неправильний. Manje стоїть і як прислівник «менше»: Imam manje eura. Українське менший схоже: manji",
       "check": "Форми manji, manja, manje з мого знання, у джерелах цього уроку не підтверджено."
@@ -627,103 +630,105 @@
       "items": [
         {
           "example": true,
-          "prompt": "Сир дорожчий за м'ясо.",
+          "prompt": "Вино дорожче за сік.",
           "accepted": [
-            "Sir je skuplji od mesa.",
-            "Sir je skuplji nego meso."
+            "Vino je skuplje od soka.",
+            "Vino je skuplje nego sok."
           ]
         },
         {
-          "prompt": "Хліб дешевший за сир.",
+          "prompt": "Яблуко дешевше за м'ясо.",
           "accepted": [
-            "Kruh je jeftiniji od sira.",
-            "Kruh je jeftiniji nego sir."
+            "Jabuka je jeftinija od mesa.",
+            "Jabuka je jeftinija nego meso."
           ]
         },
         {
-          "prompt": "Сік дешевший, ніж вино.",
+          "prompt": "Вода холодніша, ніж молоко.",
           "accepted": [
-            "Sok je jeftiniji nego vino.",
-            "Sok je jeftiniji od vina."
+            "Voda je hladnija nego mlijeko.",
+            "Voda je hladnija od mlijeka."
           ]
         },
         {
-          "prompt": "Яблуко більше за лимон.",
+          "prompt": "Будинок більший за квартиру.",
           "accepted": [
-            "Jabuka je veća od limuna.",
-            "Jabuka je veća nego limun."
+            "Kuća je veća od stana.",
+            "Kuća je veća nego stan."
           ]
         },
         {
-          "prompt": "Поїзд швидший за автобус.",
+          "prompt": "Автобус швидший за трамвай.",
           "accepted": [
-            "Vlak je brži od autobusa."
+            "Autobus je brži od tramvaja.",
+            "Autobus je brži nego tramvaj."
           ]
         },
         {
-          "prompt": "Молоко холодніше за сік.",
+          "prompt": "Сир свіжіший за м'ясо.",
           "accepted": [
-            "Mlijeko je hladnije od soka.",
-            "Mlijeko je hladnije nego sok."
+            "Sir je svježiji od mesa.",
+            "Sir je svježiji nego meso."
           ]
         },
         {
-          "prompt": "Хліб свіжіший, ніж учора.",
+          "prompt": "Сир смачніший, ніж учора.",
           "accepted": [
-            "Kruh je svježiji nego jučer."
+            "Sir je ukusniji nego jučer."
           ]
         },
         {
-          "prompt": "Це краще.",
+          "prompt": "Це дешевше.",
           "accepted": [
-            "Ovo je bolje."
+            "Ovo je jeftinije."
           ]
         },
         {
-          "prompt": "Кава краща за молоко.",
+          "prompt": "Вода краща за сік.",
           "accepted": [
-            "Kava je bolja od mlijeka.",
-            "Kava je bolja nego mlijeko."
+            "Voda je bolja od soka.",
+            "Voda je bolja nego sok."
           ]
         },
         {
-          "prompt": "Фрукти смачніші за м'ясо.",
+          "prompt": "Парк гарніший за вулицю.",
           "accepted": [
-            "Voće je ukusnije od mesa.",
-            "Voće je ukusnije nego meso."
+            "Park je ljepši od ulice.",
+            "Park je ljepši nego ulica."
           ]
         },
         {
-          "prompt": "У мене менше євро.",
+          "prompt": "У мене менше кави.",
           "accepted": [
-            "Imam manje eura.",
-            "Ja imam manje eura."
+            "Imam manje kave.",
+            "Ja imam manje kave."
           ]
         },
         {
-          "prompt": "Мені потрібно більше хліба.",
+          "prompt": "Мені потрібно більше води.",
           "accepted": [
-            "Trebam više kruha.",
-            "Ja trebam više kruha."
+            "Trebam više vode.",
+            "Ja trebam više vode."
           ]
         },
         {
-          "prompt": "Дайте мені менший хліб, будь ласка.",
+          "prompt": "Дайте мені меншу каву, будь ласка.",
           "accepted": [
-            "Dajte mi manji kruh, molim."
+            "Dajte mi manju kavu, molim.",
+            "Molim, dajte mi manju kavu."
           ]
         },
         {
-          "prompt": "Найдешевший сік тут.",
+          "prompt": "Найдешевше м'ясо тут.",
           "accepted": [
-            "Najjeftiniji sok je ovdje."
+            "Najjeftinije meso je ovdje."
           ]
         },
         {
-          "prompt": "Брат старший за сестру.",
+          "prompt": "Мама молодша за тата.",
           "accepted": [
-            "Brat je stariji od sestre.",
-            "Brat je stariji nego sestra."
+            "Majka je mlađa od oca.",
+            "Majka je mlađa nego otac."
           ]
         }
       ]
@@ -732,40 +737,42 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "jeftiniji",
-        "jeftinija",
-        "jeftinije",
-        "skuplji",
-        "skuplja",
-        "skuplje",
-        "bolji",
-        "bolja",
-        "bolje",
-        "veći",
-        "veća",
-        "manji",
-        "brži",
+        "od",
         "stariji",
         "mlađa",
-        "od"
+        "mlađi",
+        "brži",
+        "veća",
+        "veći",
+        "skuplja",
+        "skuplje",
+        "skuplji",
+        "jeftinija",
+        "jeftinije",
+        "jeftiniji",
+        "manji",
+        "manju",
+        "bolja",
+        "bolje",
+        "bolji"
       ],
       "items": [
         {
           "example": true,
-          "text": "Kruh je ___ od sira.",
-          "hint": "Хліб дешевший за сир.",
+          "text": "Kava je ___ od vina.",
+          "hint": "Кава дешевша за вино.",
           "accepted": [
             [
-              "jeftiniji"
+              "jeftinija"
             ]
           ]
         },
         {
-          "text": "Kava je ___.",
-          "hint": "Кава дешевша.",
+          "text": "Sok je ___.",
+          "hint": "Сік дешевший.",
           "accepted": [
             [
-              "jeftinija"
+              "jeftiniji"
             ]
           ]
         },
@@ -779,17 +786,17 @@
           ]
         },
         {
-          "text": "Sir je ___ od mesa.",
-          "hint": "Сир дорожчий за м'ясо.",
+          "text": "Meso je ___ od sira.",
+          "hint": "М'ясо дорожче за сир.",
           "accepted": [
             [
-              "skuplji"
+              "skuplje"
             ]
           ]
         },
         {
-          "text": "Kava je ___.",
-          "hint": "Кава дорожча.",
+          "text": "Voda je ___.",
+          "hint": "Вода дорожча.",
           "accepted": [
             [
               "skuplja"
@@ -797,11 +804,11 @@
           ]
         },
         {
-          "text": "Meso je ___.",
-          "hint": "М'ясо дорожче.",
+          "text": "Kruh je ___.",
+          "hint": "Хліб дорожчий.",
           "accepted": [
             [
-              "skuplje"
+              "skuplji"
             ]
           ]
         },
@@ -815,8 +822,8 @@
           ]
         },
         {
-          "text": "Kava je ___ od mlijeka.",
-          "hint": "Кава краща за молоко.",
+          "text": "Voda je ___ od soka.",
+          "hint": "Вода краща за сік.",
           "accepted": [
             [
               "bolja"
@@ -825,16 +832,16 @@
         },
         {
           "text": "Ovo je ___.",
-          "hint": "Це краще.",
+          "hint": "Це дешевше.",
           "accepted": [
             [
-              "bolje"
+              "jeftinije"
             ]
           ]
         },
         {
-          "text": "Jabuka je ___ od limuna.",
-          "hint": "Яблуко більше за лимон.",
+          "text": "Kuća je ___ od stana.",
+          "hint": "Будинок більший за квартиру.",
           "accepted": [
             [
               "veća"
@@ -851,17 +858,17 @@
           ]
         },
         {
-          "text": "Dajte mi ___ kruh.",
-          "hint": "Дайте мені менший хліб.",
+          "text": "Dajte mi ___ kavu.",
+          "hint": "Дайте мені меншу каву.",
           "accepted": [
             [
-              "manji"
+              "manju"
             ]
           ]
         },
         {
-          "text": "Vlak je ___ od autobusa.",
-          "hint": "Поїзд швидший за автобус.",
+          "text": "Autobus je ___ od tramvaja.",
+          "hint": "Автобус швидший за трамвай.",
           "accepted": [
             [
               "brži"
@@ -869,8 +876,8 @@
           ]
         },
         {
-          "text": "Brat je ___ od sestre.",
-          "hint": "Брат старший за сестру.",
+          "text": "Otac je ___ od majke.",
+          "hint": "Тато старший за маму.",
           "accepted": [
             [
               "stariji"
@@ -878,17 +885,17 @@
           ]
         },
         {
-          "text": "Sestra je ___ od brata.",
-          "hint": "Сестра молодша за брата.",
+          "text": "Sin je ___ od oca.",
+          "hint": "Син молодший за батька.",
           "accepted": [
             [
-              "mlađa"
+              "mlađi"
             ]
           ]
         },
         {
-          "text": "Sir je skuplji ___ mesa.",
-          "hint": "Сир дорожчий за м'ясо.",
+          "text": "Voda je jeftinija ___ soka.",
+          "hint": "Вода дешевша за сік.",
           "accepted": [
             [
               "od"
@@ -903,115 +910,116 @@
       "items": [
         {
           "example": true,
-          "prompt": "Sir je skup.",
-          "cue": "-> вищий, від м'яса (meso)",
-          "accepted": [
-            "Sir je skuplji od mesa."
-          ]
-        },
-        {
-          "prompt": "Kruh je jeftin.",
-          "cue": "-> вищий, від сиру (sir)",
-          "accepted": [
-            "Kruh je jeftiniji od sira."
-          ]
-        },
-        {
-          "prompt": "Mlijeko je hladno.",
+          "prompt": "Voda je jeftina.",
           "cue": "-> вищий, від соку (sok)",
           "accepted": [
-            "Mlijeko je hladnije od soka."
+            "Voda je jeftinija od soka."
           ]
         },
         {
-          "prompt": "Jabuka je velika.",
-          "cue": "-> вищий, від лимона (limun)",
+          "prompt": "Kuća je skupa.",
+          "cue": "-> вищий, від квартири (stan)",
           "accepted": [
-            "Jabuka je veća od limuna."
+            "Kuća je skuplja od stana."
           ]
         },
         {
-          "prompt": "Voće je ukusno.",
-          "cue": "-> вищий, від м'яса (meso)",
-          "accepted": [
-            "Voće je ukusnije od mesa."
-          ]
-        },
-        {
-          "prompt": "Kava je dobra.",
+          "prompt": "Voda je hladna.",
           "cue": "-> вищий, від молока (mlijeko)",
           "accepted": [
-            "Kava je bolja od mlijeka."
+            "Voda je hladnija od mlijeka."
           ]
         },
         {
-          "prompt": "Vlak je brz.",
-          "cue": "-> вищий, від автобуса (autobus)",
+          "prompt": "Stan je velik.",
+          "cue": "-> вищий, від будинку (kuća)",
           "accepted": [
-            "Vlak je brži od autobusa."
+            "Stan je veći od kuće."
           ]
         },
         {
-          "prompt": "Brat je star.",
-          "cue": "-> вищий, від сестри (sestra)",
+          "prompt": "Sir je svjež.",
+          "cue": "-> вищий, від м'яса (meso)",
           "accepted": [
-            "Brat je stariji od sestre."
+            "Sir je svježiji od mesa."
           ]
         },
         {
-          "prompt": "Sestra je mlada.",
-          "cue": "-> вищий, від брата (brat)",
+          "prompt": "Sok je dobar.",
+          "cue": "-> вищий, від вина (vino)",
           "accepted": [
-            "Sestra je mlađa od brata."
+            "Sok je bolji od vina."
           ]
         },
         {
-          "prompt": "Jeftin sok je ovdje.",
+          "prompt": "Autobus je brz.",
+          "cue": "-> вищий, від трамвая (tramvaj)",
+          "accepted": [
+            "Autobus je brži od tramvaja."
+          ]
+        },
+        {
+          "prompt": "Otac je star.",
+          "cue": "-> вищий, від мами (majka)",
+          "accepted": [
+            "Otac je stariji od majke."
+          ]
+        },
+        {
+          "prompt": "Sin je mlad.",
+          "cue": "-> вищий, від батька (otac)",
+          "accepted": [
+            "Sin je mlađi od oca."
+          ]
+        },
+        {
+          "prompt": "Skup sok je ovdje.",
           "cue": "-> найвищий",
           "accepted": [
-            "Najjeftiniji sok je ovdje."
+            "Najskuplji sok je ovdje."
           ]
         },
         {
-          "prompt": "Dobra kava je u gradu.",
+          "prompt": "Velika jabuka je u dućanu.",
           "cue": "-> найвищий",
           "accepted": [
-            "Najbolja kava je u gradu."
+            "Najveća jabuka je u dućanu.",
+            "Najveća jabuka je u trgovini."
           ]
         },
         {
-          "prompt": "Sir je skup od mesa.",
+          "prompt": "Kava je skup od vina.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Sir je skuplji od mesa."
+            "Kava je skuplja od vina."
           ]
         },
         {
-          "prompt": "Sir je skuplji od meso.",
+          "prompt": "Sok je jeftiniji od vino.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Sir je skuplji od mesa."
+            "Sok je jeftiniji od vina."
           ]
         },
         {
-          "prompt": "Kava je bolji od mlijeka.",
+          "prompt": "Sir je bolja od mesa.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Kava je bolja od mlijeka."
+            "Sir je bolji od mesa."
           ]
         },
         {
-          "prompt": "Jabuka je veći od limuna.",
+          "prompt": "Kuća je veći od stana.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Jabuka je veća od limuna."
+            "Kuća je veća od stana."
           ]
         },
         {
-          "prompt": "Ovo je dobro.",
+          "prompt": "Ovo je jeftino.",
           "cue": "-> вищий ступінь",
           "accepted": [
-            "Ovo je bolje."
+            "Ovo je jeftinije."
           ]
         }
       ]

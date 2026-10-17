@@ -685,101 +685,105 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я мушу читати.",
+          "prompt": "Ти мусиш працювати.",
           "accepted": [
-            "Moram čitati.",
-            "Ja moram čitati."
+            "Moraš raditi.",
+            "Ti moraš raditi."
           ]
         },
         {
-          "prompt": "Мама мусить працювати.",
+          "prompt": "Син мусить писати.",
           "accepted": [
-            "Majka mora raditi."
+            "Sin mora pisati."
           ]
         },
         {
-          "prompt": "Діти мусять вчитися.",
+          "prompt": "Ми мусимо йти в банк.",
           "accepted": [
-            "Djeca moraju učiti."
+            "Moramo ići u banku.",
+            "Mi moramo ići u banku."
           ]
         },
         {
-          "prompt": "Я можу йти в парк.",
+          "prompt": "Ми можемо йти на пошту.",
           "accepted": [
-            "Mogu ići u park.",
-            "Ja mogu ići u park."
+            "Možemo ići na poštu.",
+            "Mi možemo ići na poštu."
           ]
         },
         {
-          "prompt": "Ти можеш читати?",
+          "prompt": "Ви можете читати?",
           "accepted": [
-            "Možeš li čitati?",
-            "Možeš li ti čitati?"
+            "Možete li čitati?",
+            "Možete li vi čitati?"
           ]
         },
         {
-          "prompt": "Ми можемо купити хліб.",
+          "prompt": "Діти можуть слухати.",
           "accepted": [
-            "Možemo kupiti kruh.",
-            "Mi možemo kupiti kruh."
+            "Djeca mogu slušati."
           ]
         },
         {
-          "prompt": "Я хочу купити каву.",
+          "prompt": "Мама хоче купити хліб.",
           "accepted": [
-            "Želim kupiti kavu.",
-            "Ja želim kupiti kavu."
+            "Majka želi kupiti kruh."
           ]
         },
         {
-          "prompt": "Брат хоче йти в місто.",
+          "prompt": "Ми хочемо йти в парк.",
           "accepted": [
-            "Brat želi ići u grad."
+            "Želimo ići u park.",
+            "Mi želimo ići u park."
           ]
         },
         {
-          "prompt": "Діти хочуть дивитися на собаку.",
+          "prompt": "Син хоче дивитися на собаку.",
           "accepted": [
-            "Djeca žele gledati psa."
+            "Sin želi gledati psa."
           ]
         },
         {
-          "prompt": "У п'ятницю я йду в банк.",
+          "prompt": "У вівторок я йду на пошту.",
           "accepted": [
-            "U petak idem u banku.",
-            "U petak ja idem u banku."
+            "U utorak idem na poštu.",
+            "U utorak ja idem na poštu."
           ]
         },
         {
-          "prompt": "У суботу я в парку.",
+          "prompt": "У четвер я в парку.",
           "accepted": [
-            "U subotu sam u parku.",
-            "U subotu sam ja u parku."
+            "U četvrtak sam u parku.",
+            "U četvrtak sam ja u parku."
           ]
         },
         {
-          "prompt": "У неділю я не працюю.",
+          "prompt": "У суботу я не працюю.",
           "accepted": [
-            "U nedjelju ne radim.",
-            "U nedjelju ja ne radim."
+            "U subotu ne radim.",
+            "U subotu ja ne radim."
           ]
         },
         {
-          "prompt": "Коли приходить брат? У середу.",
+          "prompt": "Коли йде мама? У п'ятницю.",
           "accepted": [
-            "Kada dolazi brat? U srijedu."
+            "Kada ide majka? U petak.",
+            "Kada majka ide? U petak."
           ]
         },
         {
-          "prompt": "Я завжди в квартирі.",
+          "prompt": "Я завжди на роботі.",
           "accepted": [
-            "Uvijek sam u stanu."
+            "Uvijek sam na poslu.",
+            "Ja sam uvijek na poslu."
           ]
         },
         {
-          "prompt": "Я ніколи не читаю в неділю.",
+          "prompt": "Я ніколи не пишу в суботу.",
           "accepted": [
-            "Nikad ne čitam u nedjelju."
+            "Nikad ne pišem u subotu.",
+            "Ja nikad ne pišem u subotu.",
+            "U subotu nikad ne pišem."
           ]
         }
       ]
@@ -788,28 +792,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "Moram",
-        "mora",
+        "ne",
         "moraju",
+        "Često",
+        "nedjelju",
+        "srijedu",
         "Mogu",
-        "može",
-        "Želim",
-        "žele",
         "petak",
         "subotu",
-        "srijedu",
-        "nedjelju",
         "ponedjeljak",
         "Uvijek",
-        "Često",
-        "ne",
+        "žele",
+        "Želim",
+        "može",
+        "mora",
+        "Moram",
         "Nikad"
       ],
       "items": [
         {
           "example": true,
-          "text": "___ čitati.",
-          "hint": "Я мушу читати.",
+          "text": "___ pisati.",
+          "hint": "Я мушу писати.",
           "accepted": [
             [
               "Moram"
@@ -817,8 +821,8 @@
           ]
         },
         {
-          "text": "Majka ___ raditi.",
-          "hint": "Мама мусить працювати.",
+          "text": "Sin ___ učiti.",
+          "hint": "Син мусить вчитися.",
           "accepted": [
             [
               "mora"
@@ -826,8 +830,8 @@
           ]
         },
         {
-          "text": "Djeca ___ učiti.",
-          "hint": "Діти мусять вчитися.",
+          "text": "Djeca ___ raditi.",
+          "hint": "Діти мусять працювати.",
           "accepted": [
             [
               "moraju"
@@ -835,8 +839,8 @@
           ]
         },
         {
-          "text": "___ ići u park.",
-          "hint": "Я можу йти в парк.",
+          "text": "___ čitati.",
+          "hint": "Я можу читати.",
           "accepted": [
             [
               "Mogu"
@@ -853,8 +857,8 @@
           ]
         },
         {
-          "text": "Djeca ___ čitati.",
-          "hint": "Діти хочуть читати.",
+          "text": "Djeca ___ ići u park.",
+          "hint": "Діти хочуть йти в парк.",
           "accepted": [
             [
               "žele"
@@ -862,8 +866,8 @@
           ]
         },
         {
-          "text": "___ kupiti kavu.",
-          "hint": "Я хочу купити каву.",
+          "text": "___ slušati.",
+          "hint": "Я хочу слухати.",
           "accepted": [
             [
               "Želim"
@@ -871,8 +875,8 @@
           ]
         },
         {
-          "text": "U ___ idem u banku.",
-          "hint": "У п'ятницю я йду в банк.",
+          "text": "U ___ radim u banci.",
+          "hint": "У п'ятницю я працюю в банку.",
           "accepted": [
             [
               "petak"
@@ -880,8 +884,8 @@
           ]
         },
         {
-          "text": "U ___ sam u parku.",
-          "hint": "У суботу я в парку.",
+          "text": "U ___ idem na poštu.",
+          "hint": "У суботу я йду на пошту.",
           "accepted": [
             [
               "subotu"
@@ -889,8 +893,8 @@
           ]
         },
         {
-          "text": "U ___ dolazi brat.",
-          "hint": "У середу приходить брат.",
+          "text": "U ___ ideš u školu.",
+          "hint": "У середу ти йдеш у школу.",
           "accepted": [
             [
               "srijedu"
@@ -898,8 +902,8 @@
           ]
         },
         {
-          "text": "U ___ ne radim.",
-          "hint": "У неділю я не працюю.",
+          "text": "U ___ sam u gradu.",
+          "hint": "У неділю я в місті.",
           "accepted": [
             [
               "nedjelju"
@@ -907,8 +911,8 @@
           ]
         },
         {
-          "text": "U ___ moram raditi.",
-          "hint": "У понеділок я мушу працювати.",
+          "text": "U ___ dolazi sin.",
+          "hint": "У понеділок приходить син.",
           "accepted": [
             [
               "ponedjeljak"
@@ -916,8 +920,8 @@
           ]
         },
         {
-          "text": "___ sam u stanu.",
-          "hint": "Я завжди в квартирі.",
+          "text": "___ je brat u parku.",
+          "hint": "Брат завжди в парку.",
           "accepted": [
             [
               "Uvijek"
@@ -925,8 +929,8 @@
           ]
         },
         {
-          "text": "___ idem u dućan.",
-          "hint": "Я часто йду в магазин.",
+          "text": "___ čitam u parku.",
+          "hint": "Я часто читаю в парку.",
           "accepted": [
             [
               "Često"
@@ -934,8 +938,8 @@
           ]
         },
         {
-          "text": "Nikad ___ čitam u nedjelju.",
-          "hint": "Я ніколи не читаю в неділю.",
+          "text": "Nikad ___ idem u banku.",
+          "hint": "Я ніколи не йду в банк.",
           "accepted": [
             [
               "ne"
@@ -943,8 +947,8 @@
           ]
         },
         {
-          "text": "___ ne čitam u nedjelju.",
-          "hint": "Я ніколи не читаю в неділю.",
+          "text": "___ ne radim u nedjelju.",
+          "hint": "Я ніколи не працюю в неділю.",
           "accepted": [
             [
               "Nikad"
@@ -959,10 +963,10 @@
       "items": [
         {
           "example": true,
-          "prompt": "Čitam.",
+          "prompt": "Pišem.",
           "cue": "-> додай morati",
           "accepted": [
-            "Moram čitati."
+            "Moram pisati."
           ]
         },
         {
@@ -973,17 +977,17 @@
           ]
         },
         {
-          "prompt": "Idem u park.",
+          "prompt": "Idem u banku.",
           "cue": "-> додай moći",
           "accepted": [
-            "Mogu ići u park."
+            "Mogu ići u banku."
           ]
         },
         {
-          "prompt": "Kupujem kavu.",
-          "cue": "-> додай željeti (kupiti)",
+          "prompt": "Čitam knjigu.",
+          "cue": "-> додай željeti",
           "accepted": [
-            "Želim kupiti kavu."
+            "Želim čitati knjigu."
           ]
         },
         {
@@ -995,11 +999,11 @@
           ]
         },
         {
-          "prompt": "Ja idem u banku.",
-          "cue": "-> почни з U petak",
+          "prompt": "Ja idem na poštu.",
+          "cue": "-> почни з U četvrtak",
           "accepted": [
-            "U petak idem u banku.",
-            "U petak ja idem u banku."
+            "U četvrtak idem na poštu.",
+            "U četvrtak ja idem na poštu."
           ]
         },
         {
@@ -1010,10 +1014,10 @@
           ]
         },
         {
-          "prompt": "Brat dolazi.",
-          "cue": "-> почни з U srijedu",
+          "prompt": "Majka dolazi.",
+          "cue": "-> почни з U ponedjeljak",
           "accepted": [
-            "U srijedu dolazi brat."
+            "U ponedjeljak dolazi majka."
           ]
         },
         {
@@ -1024,52 +1028,52 @@
           ]
         },
         {
-          "prompt": "Čitam u nedjelju.",
+          "prompt": "Učim u nedjelju.",
           "cue": "-> додай nikad",
           "accepted": [
-            "Nikad ne čitam u nedjelju."
+            "Nikad ne učim u nedjelju."
           ]
         },
         {
-          "prompt": "Ja sam u stanu.",
+          "prompt": "Ja sam u gradu.",
           "cue": "-> почни з Uvijek",
           "accepted": [
-            "Uvijek sam u stanu."
+            "Uvijek sam u gradu."
           ]
         },
         {
-          "prompt": "Idem u dućan.",
+          "prompt": "Radim u banci.",
           "cue": "-> почни з Često",
           "accepted": [
-            "Često idem u dućan."
+            "Često radim u banci."
           ]
         },
         {
-          "prompt": "U subota sam u parku.",
+          "prompt": "U srijeda idem u banku.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "U subotu sam u parku."
+            "U srijedu idem u banku."
           ]
         },
         {
-          "prompt": "U nedjelja ne radim.",
+          "prompt": "U nedjelja idem u park.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "U nedjelju ne radim."
+            "U nedjelju idem u park."
           ]
         },
         {
-          "prompt": "Moram čitam.",
+          "prompt": "Moraš slušam.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Moram čitati."
+            "Moraš slušati."
           ]
         },
         {
-          "prompt": "Mogu idem u park.",
+          "prompt": "Možemo idemo u park.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Mogu ići u park."
+            "Možemo ići u park."
           ]
         }
       ]

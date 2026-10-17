@@ -4,7 +4,12 @@
   "order": 29,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "rajčicu",
+    "stolu",
+    "rižu",
+    "pozivam"
+  ],
   "notes": [
     {
       "id": "hr-3bf53145",
@@ -69,7 +74,10 @@
       "ua": "ковбаса",
       "audio": "hr-kobasica.mp3",
       "explain_ua": "(Kobasica je ljuta = ковбаса гостра). Жіночий рід на -a: kobasica, kobasice. Українське ковбаса, російське колбаса: слово схоже.",
-      "check": "Форми за зразком škola."
+      "check": "Форми за зразком škola.",
+      "forms": [
+        "kobasicu"
+      ]
     },
     {
       "id": "hr-105a7b9a",
@@ -285,7 +293,10 @@
       "ua": "чашка",
       "audio": "hr-salica.mp3",
       "explain_ua": "(Šalica je na tanjuru = чашка на тарілці). Жіночий рід на -a: šalica, šalice. Слово šolja ти почуєш у Сербії, у Хорватії šalica.",
-      "check": "Форми за зразком škola; šolja як сербська форма з мого знання."
+      "check": "Форми за зразком škola; šolja як сербська форма з мого знання.",
+      "forms": [
+        "šalici"
+      ]
     },
     {
       "id": "hr-0687db84",
@@ -314,7 +325,8 @@
       "ua": "солоний",
       "audio": "hr-slan.mp3",
       "forms": [
-        "slana"
+        "slana",
+        "slano"
       ],
       "explain_ua": "(Juha je slana = суп солоний). slan, slana, slano. Корінь sol.",
       "check": "Форми з мого знання."
@@ -394,7 +406,8 @@
         "kuhan",
         "kuhana",
         "kuhano",
-        "pržim"
+        "pržim",
+        "ispržite"
       ],
       "ua": "смажити (док. ispržiti)",
       "audio": "hr-przati.mp3",
@@ -818,105 +831,105 @@
       "items": [
         {
           "example": true,
-          "prompt": "Маю рибу і капусту.",
+          "prompt": "Маю ковбасу і огірок.",
           "accepted": [
-            "Imam ribu i kupus."
+            "Imam kobasicu i krastavac."
           ]
         },
         {
-          "prompt": "Курятина смачна.",
+          "prompt": "Ковбаса смачна.",
           "accepted": [
-            "Piletina je ukusna."
+            "Kobasica je ukusna."
           ]
         },
         {
-          "prompt": "Ковбаса гостра.",
+          "prompt": "Перець гострий.",
           "accepted": [
-            "Kobasica je ljuta."
+            "Paprika je ljuta."
           ]
         },
         {
-          "prompt": "Додайте сіль і цукор.",
+          "prompt": "Додайте олію і борошно.",
           "accepted": [
-            "Dodajte sol i šećer."
+            "Dodajte ulje i brašno."
           ]
         },
         {
-          "prompt": "Маю щось смачне.",
+          "prompt": "Маю щось солоне.",
           "accepted": [
-            "Imam nešto ukusno."
+            "Imam nešto slano."
           ]
         },
         {
-          "prompt": "Чай солодкий.",
+          "prompt": "Сік солодкий.",
           "accepted": [
-            "Čaj je sladak."
+            "Sok je sladak."
           ]
         },
         {
-          "prompt": "Суп солоний.",
+          "prompt": "Сир солоний.",
           "accepted": [
-            "Juha je slana."
+            "Sir je slan."
           ]
         },
         {
-          "prompt": "Наріжте огірок і часник.",
+          "prompt": "Наріжте цибулю і помідор.",
           "accepted": [
-            "Narežite krastavac i češnjak."
+            "Narežite luk i rajčicu."
           ]
         },
         {
-          "prompt": "Смажу рибу.",
+          "prompt": "Смажу картоплю.",
           "accepted": [
-            "Pržim ribu."
+            "Pržim krumpir."
           ]
         },
         {
-          "prompt": "Риба запечена.",
+          "prompt": "Свинина запечена.",
           "accepted": [
-            "Riba je pečena."
+            "Svinjetina je pečena."
           ]
         },
         {
-          "prompt": "М'ясо варене.",
+          "prompt": "Овочі варені.",
           "accepted": [
-            "Meso je kuhano."
+            "Povrće je kuhano."
           ]
         },
         {
-          "prompt": "Ложка і виделка на полиці.",
+          "prompt": "Ніж і тарілка на столі.",
           "accepted": [
-            "Žlica i vilica su na polici."
+            "Nož i tanjur su na stolu."
           ]
         },
         {
-          "prompt": "Чашка на тарілці.",
+          "prompt": "Ложка в чашці.",
           "accepted": [
-            "Šalica je na tanjuru."
+            "Žlica je u šalici."
           ]
         },
         {
-          "prompt": "Варю суп у каструлі.",
+          "prompt": "Варю рис у каструлі.",
           "accepted": [
-            "Kuham juhu u loncu."
+            "Kuham rižu u loncu."
           ]
         },
         {
-          "prompt": "Хтось тут.",
+          "prompt": "Хтось на кухні.",
           "accepted": [
-            "Netko je ovdje."
+            "Netko je u kuhinji."
           ]
         },
         {
-          "prompt": "Ніхто не працює.",
+          "prompt": "Ніхто не варить.",
           "accepted": [
-            "Nitko ne radi."
+            "Nitko ne kuha."
           ]
         },
         {
-          "prompt": "Нічого не їм.",
+          "prompt": "Нічого не купую.",
           "accepted": [
-            "Ništa ne jedem."
+            "Ništa ne kupujem."
           ]
         }
       ]
@@ -925,28 +938,33 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "ribu",
-        "piletina",
-        "sol",
-        "šećer",
+        "Čaj",
+        "nitko",
+        "netko",
         "čaj",
         "tanjuru",
         "loncu",
-        "netko",
-        "nešto",
-        "nitko",
-        "ništa",
+        "ribu",
+        "slana",
+        "sol",
+        "piletina",
+        "šećer",
         "nikoga",
         "nikome",
-        "slana",
+        "Ništa",
+        "Piletina",
+        "Nitko",
         "sladak",
-        "ljuta"
+        "Netko",
+        "ništa",
+        "ljuta",
+        "nešto"
       ],
       "items": [
         {
           "example": true,
-          "text": "Imam ___ i kupus.",
-          "hint": "Маю рибу і капусту.",
+          "text": "Kupujem ___ i kruh.",
+          "hint": "Купую рибу і хліб.",
           "accepted": [
             [
               "ribu"
@@ -954,8 +972,8 @@
           ]
         },
         {
-          "text": "___ je ukusna.",
-          "hint": "Курятина смачна.",
+          "text": "___ je kuhana.",
+          "hint": "Курятина варена.",
           "accepted": [
             [
               "Piletina"
@@ -963,8 +981,8 @@
           ]
         },
         {
-          "text": "Dodajte ___ i šećer.",
-          "hint": "Додайте сіль і цукор.",
+          "text": "Dodajte ___ i maslac.",
+          "hint": "Додайте сіль і масло.",
           "accepted": [
             [
               "sol"
@@ -972,8 +990,8 @@
           ]
         },
         {
-          "text": "Dodajte sol i ___.",
-          "hint": "Додайте сіль і цукор.",
+          "text": "Dodajte mlijeko i ___.",
+          "hint": "Додайте молоко і цукор.",
           "accepted": [
             [
               "šećer"
@@ -981,8 +999,8 @@
           ]
         },
         {
-          "text": "___ je sladak.",
-          "hint": "Чай солодкий.",
+          "text": "___ je topao.",
+          "hint": "Чай теплий.",
           "accepted": [
             [
               "Čaj"
@@ -990,8 +1008,8 @@
           ]
         },
         {
-          "text": "Šalica je na ___.",
-          "hint": "Чашка на тарілці.",
+          "text": "Nož je na ___.",
+          "hint": "Ніж на тарілці.",
           "accepted": [
             [
               "tanjuru"
@@ -999,8 +1017,8 @@
           ]
         },
         {
-          "text": "Kuham juhu u ___.",
-          "hint": "Варю суп у каструлі.",
+          "text": "Meso je u ___.",
+          "hint": "М'ясо в каструлі.",
           "accepted": [
             [
               "loncu"
@@ -1008,8 +1026,8 @@
           ]
         },
         {
-          "text": "___ je ovdje.",
-          "hint": "Хтось тут.",
+          "text": "___ kuha ručak.",
+          "hint": "Хтось варить обід.",
           "accepted": [
             [
               "Netko"
@@ -1017,8 +1035,8 @@
           ]
         },
         {
-          "text": "Imam ___ ukusno.",
-          "hint": "Маю щось смачне.",
+          "text": "Želim ___ piti.",
+          "hint": "Хочу щось пити.",
           "accepted": [
             [
               "nešto"
@@ -1026,8 +1044,8 @@
           ]
         },
         {
-          "text": "___ ne radi.",
-          "hint": "Ніхто не працює.",
+          "text": "___ ne jede ribu.",
+          "hint": "Ніхто не їсть рибу.",
           "accepted": [
             [
               "Nitko"
@@ -1035,8 +1053,8 @@
           ]
         },
         {
-          "text": "___ ne jedem.",
-          "hint": "Нічого не їм.",
+          "text": "___ ne kuham.",
+          "hint": "Нічого не варю.",
           "accepted": [
             [
               "Ništa"
@@ -1044,8 +1062,8 @@
           ]
         },
         {
-          "text": "Ne vidim ___.",
-          "hint": "Не бачу нікого.",
+          "text": "Ne pitam ___.",
+          "hint": "Нікого не питаю.",
           "accepted": [
             [
               "nikoga"
@@ -1053,8 +1071,8 @@
           ]
         },
         {
-          "text": "Ne pomažem ___.",
-          "hint": "Нікому не допомагаю.",
+          "text": "Ne pomažem ___ u kuhinji.",
+          "hint": "Нікому не допомагаю на кухні.",
           "accepted": [
             [
               "nikome"
@@ -1062,8 +1080,8 @@
           ]
         },
         {
-          "text": "Juha je ___.",
-          "hint": "Суп солоний.",
+          "text": "Salata je ___.",
+          "hint": "Салат солоний.",
           "accepted": [
             [
               "slana"
@@ -1071,8 +1089,8 @@
           ]
         },
         {
-          "text": "Čaj je ___.",
-          "hint": "Чай солодкий.",
+          "text": "Kolač je ___.",
+          "hint": "Тістечко солодке.",
           "accepted": [
             [
               "sladak"
@@ -1080,8 +1098,8 @@
           ]
         },
         {
-          "text": "Kobasica je ___.",
-          "hint": "Ковбаса гостра.",
+          "text": "Juha je ___.",
+          "hint": "Суп гострий.",
           "accepted": [
             [
               "ljuta"
@@ -1096,10 +1114,10 @@
       "items": [
         {
           "example": true,
-          "prompt": "Netko radi.",
+          "prompt": "Netko piše.",
           "cue": "-> Nitko ...",
           "accepted": [
-            "Nitko ne radi."
+            "Nitko ne piše."
           ]
         },
         {
@@ -1110,17 +1128,17 @@
           ]
         },
         {
-          "prompt": "Vidim nekoga.",
+          "prompt": "Zovem nekoga.",
           "cue": "-> заперечення",
           "accepted": [
-            "Ne vidim nikoga."
+            "Ne zovem nikoga."
           ]
         },
         {
-          "prompt": "Pomažem nekome.",
+          "prompt": "Pišem nekome.",
           "cue": "-> заперечення",
           "accepted": [
-            "Ne pomažem nikome."
+            "Ne pišem nikome."
           ]
         },
         {
@@ -1138,10 +1156,10 @@
           ]
         },
         {
-          "prompt": "Ispečem ribu.",
+          "prompt": "Ispržim krumpir.",
           "cue": "-> наказ на ви",
           "accepted": [
-            "Ispecite ribu."
+            "Ispržite krumpir."
           ]
         },
         {
@@ -1152,31 +1170,31 @@
           ]
         },
         {
-          "prompt": "Pečem ribu.",
-          "cue": "-> Riba je ...",
+          "prompt": "Pečem kruh.",
+          "cue": "-> Kruh je ...",
           "accepted": [
-            "Riba je pečena."
+            "Kruh je pečen."
           ]
         },
         {
-          "prompt": "Kuham meso.",
-          "cue": "-> Meso je ...",
+          "prompt": "Kuham jaje.",
+          "cue": "-> Jaje je ...",
           "accepted": [
-            "Meso je kuhano."
+            "Jaje je kuhano."
           ]
         },
         {
-          "prompt": "Pržim piletinu.",
-          "cue": "-> Piletina je ...",
+          "prompt": "Pržim kobasicu.",
+          "cue": "-> Kobasica je ...",
           "accepted": [
-            "Piletina je pržena."
+            "Kobasica je pržena."
           ]
         },
         {
-          "prompt": "Nitko radi.",
+          "prompt": "Nitko čita.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Nitko ne radi."
+            "Nitko ne čita."
           ]
         },
         {
@@ -1187,24 +1205,24 @@
           ]
         },
         {
-          "prompt": "Ne vidim nekoga.",
+          "prompt": "Ne pozivam nekoga.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ne vidim nikoga."
+            "Ne pozivam nikoga."
           ]
         },
         {
-          "prompt": "Riba je pečen.",
+          "prompt": "Meso je pečena.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Riba je pečena."
+            "Meso je pečeno."
           ]
         },
         {
-          "prompt": "Juha je slan.",
+          "prompt": "Riža je slan.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Juha je slana."
+            "Riža je slana."
           ]
         }
       ]

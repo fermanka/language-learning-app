@@ -5,7 +5,14 @@
   "status": "draft",
   "author": "josip",
   "service_words": [
-    "k"
+    "k",
+    "kartu",
+    "ručka",
+    "doručka",
+    "poruku",
+    "ostaješ",
+    "sastanka",
+    "spava"
   ],
   "notes": [
     {
@@ -646,93 +653,101 @@
       "items": [
         {
           "example": true,
-          "prompt": "Коли закінчу роботу, йду в магазин.",
+          "prompt": "Коли прочитаю книжку, йду в парк.",
           "accepted": [
-            "Kad završim posao, idem u dućan."
+            "Kad pročitam knjigu, idem u park."
           ]
         },
         {
-          "prompt": "Коли прийду додому, готую обід.",
+          "prompt": "Коли прийду на вокзал, чекаю брата.",
           "accepted": [
-            "Kad dođem kući, kuham ručak."
+            "Kad dođem na kolodvor, čekam brata."
           ]
         },
         {
-          "prompt": "Коли закінчу завдання, читаю книжку.",
+          "prompt": "Коли закінчу домашнє завдання, готую вечерю.",
           "accepted": [
-            "Kad završim zadaću, čitam knjigu."
+            "Kad završim zadaću, kuham večeru."
           ]
         },
         {
-          "prompt": "Коли я була в школі, розмовляла з вчителькою.",
+          "prompt": "Коли я була на пошті, купила квиток.",
           "accepted": [
-            "Kad sam bila u školi, razgovarala sam s učiteljicom."
+            "Kad sam bila na pošti, kupila sam kartu."
           ]
         },
         {
-          "prompt": "Якщо маю час, йду в парк.",
+          "prompt": "Якщо маю час, готую обід.",
           "accepted": [
-            "Ako imam vremena, idem u park."
+            "Ako imam vremena, kuham ručak."
           ]
         },
         {
-          "prompt": "Якщо ти хворий, ідеш до лікаря.",
+          "prompt": "Якщо ти хвора, не йдеш у школу.",
           "accepted": [
-            "Ako si bolestan, ideš k liječniku."
+            "Ako si bolesna, ne ideš u školu."
           ]
         },
         {
-          "prompt": "Я йду до лікаря, бо хвора.",
+          "prompt": "Я не йду на роботу, бо хворий.",
           "accepted": [
-            "Idem k liječniku jer sam bolesna."
+            "Ne idem na posao jer sam bolestan.",
+            "Ne idem na posao, jer sam bolestan."
           ]
         },
         {
-          "prompt": "Я не працюю, бо хвора.",
+          "prompt": "Я тут, бо хвора.",
           "accepted": [
-            "Ne radim jer sam bolesna."
+            "Ovdje sam jer sam bolesna.",
+            "Ovdje sam, jer sam bolesna.",
+            "Ja sam ovdje jer sam bolesna."
           ]
         },
         {
-          "prompt": "Я чекаю, бо маю прийом.",
+          "prompt": "Я йду в магазин, бо не маю хліба.",
           "accepted": [
-            "Čekam jer imam termin."
+            "Idem u dućan jer nemam kruha.",
+            "Idem u trgovinu jer nemam kruha.",
+            "Idem u dućan, jer nemam kruha.",
+            "Idem u trgovinu, jer nemam kruha."
           ]
         },
         {
-          "prompt": "Я йду в школу, хоча хворий.",
+          "prompt": "Ідемо в парк, хоча холодно.",
           "accepted": [
-            "Idem u školu, iako sam bolestan."
+            "Idemo u park, iako je hladno."
           ]
         },
         {
-          "prompt": "Я працюю, хоча не маю часу.",
+          "prompt": "Ми купуємо хліб, хоча він дорогий.",
           "accepted": [
-            "Radim, iako nemam vremena."
+            "Kupujemo kruh, iako je skup.",
+            "Mi kupujemo kruh, iako je skup."
           ]
         },
         {
-          "prompt": "Перед іспитом читаю книжку.",
+          "prompt": "Перед обідом іду в парк.",
           "accepted": [
-            "Prije ispita čitam knjigu."
+            "Prije ručka idem u park."
           ]
         },
         {
-          "prompt": "Після роботи йду в магазин.",
+          "prompt": "Після школи йду на пошту.",
           "accepted": [
-            "Nakon posla idem u dućan."
+            "Nakon škole idem na poštu."
           ]
         },
         {
-          "prompt": "Поки я читаю, учні пишуть.",
+          "prompt": "Поки я готую обід, брат читає.",
           "accepted": [
-            "Dok čitam, učenici pišu."
+            "Dok kuham ručak, brat čita."
           ]
         },
         {
-          "prompt": "Мама хоче, щоб я вчилася.",
+          "prompt": "Батько хоче, щоб я працювала.",
           "accepted": [
-            "Majka želi da učim."
+            "Otac želi da radim.",
+            "Otac želi da ja radim."
           ]
         }
       ]
@@ -741,28 +756,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "Kad",
-        "Ako",
-        "jer",
+        "si",
+        "Nakon",
+        "dođem",
+        "sam",
         "zato",
+        "Kad",
+        "jer",
+        "završim",
+        "Ako",
         "iako",
+        "imam",
+        "čitam",
         "Dok",
         "Prije",
-        "Nakon",
-        "da",
-        "završim",
-        "dođem",
-        "imam",
-        "sam",
-        "si",
         "učim",
-        "čitam"
+        "da"
       ],
       "items": [
         {
           "example": true,
-          "text": "___ završim posao, idem u dućan.",
-          "hint": "Коли закінчу роботу, йду в магазин.",
+          "text": "___ završim večeru, čitam knjigu.",
+          "hint": "Коли закінчу вечерю, читаю книжку.",
           "accepted": [
             [
               "Kad"
@@ -770,8 +785,8 @@
           ]
         },
         {
-          "text": "___ imam vremena, idem u park.",
-          "hint": "Якщо маю час, йду в парк.",
+          "text": "___ nemam vremena, ne idem u park.",
+          "hint": "Якщо не маю часу, не йду в парк.",
           "accepted": [
             [
               "Ako"
@@ -779,8 +794,8 @@
           ]
         },
         {
-          "text": "Idem k liječniku ___ sam bolesna.",
-          "hint": "Я йду до лікаря, бо хвора.",
+          "text": "Čekam brata ___ imam vremena.",
+          "hint": "Чекаю брата, бо маю час.",
           "accepted": [
             [
               "jer"
@@ -788,8 +803,8 @@
           ]
         },
         {
-          "text": "Idem k liječniku ___ što sam bolesna.",
-          "hint": "Я йду до лікаря тому що хвора.",
+          "text": "Ne idem u školu ___ što sam bolesna.",
+          "hint": "Я не йду в школу, тому що хвора.",
           "accepted": [
             [
               "zato"
@@ -797,8 +812,8 @@
           ]
         },
         {
-          "text": "Idem u školu, ___ sam bolestan.",
-          "hint": "Я йду в школу, хоча хворий.",
+          "text": "Idem u dućan, ___ nemam vremena.",
+          "hint": "Йду в магазин, хоча не маю часу.",
           "accepted": [
             [
               "iako"
@@ -806,8 +821,8 @@
           ]
         },
         {
-          "text": "___ čitam, učenici pišu.",
-          "hint": "Поки я читаю, учні пишуть.",
+          "text": "___ spavam, brat čita.",
+          "hint": "Поки я сплю, брат читає.",
           "accepted": [
             [
               "Dok"
@@ -815,8 +830,8 @@
           ]
         },
         {
-          "text": "___ ispita čitam knjigu.",
-          "hint": "Перед іспитом читаю книжку.",
+          "text": "___ večere čitam knjigu.",
+          "hint": "Перед вечерею читаю книжку.",
           "accepted": [
             [
               "Prije"
@@ -824,8 +839,8 @@
           ]
         },
         {
-          "text": "___ posla idem u dućan.",
-          "hint": "Після роботи йду в магазин.",
+          "text": "___ doručka idem na posao.",
+          "hint": "Після сніданку йду на роботу.",
           "accepted": [
             [
               "Nakon"
@@ -833,8 +848,8 @@
           ]
         },
         {
-          "text": "Majka želi ___ učim.",
-          "hint": "Мама хоче, щоб я вчилася.",
+          "text": "Baka želi ___ dolazim.",
+          "hint": "Бабуся хоче, щоб я приходила.",
           "accepted": [
             [
               "da"
@@ -842,8 +857,8 @@
           ]
         },
         {
-          "text": "Kad ___ kući, kuham ručak.",
-          "hint": "Коли прийду додому, готую обід.",
+          "text": "Kad ___ na posao, pišem kolegama.",
+          "hint": "Коли прийду на роботу, пишу колегам.",
           "accepted": [
             [
               "dođem"
@@ -851,8 +866,8 @@
           ]
         },
         {
-          "text": "Kad ___ posao, idem u dućan.",
-          "hint": "Коли закінчу роботу, йду в магазин.",
+          "text": "Kad ___ doručak, idem u školu.",
+          "hint": "Коли закінчу сніданок, йду в школу.",
           "accepted": [
             [
               "završim"
@@ -860,8 +875,8 @@
           ]
         },
         {
-          "text": "Ako ___ vremena, idem u park.",
-          "hint": "Якщо маю час, йду в парк.",
+          "text": "Ako ___ termin, čekam liječnika.",
+          "hint": "Якщо маю прийом, чекаю лікаря.",
           "accepted": [
             [
               "imam"
@@ -869,8 +884,8 @@
           ]
         },
         {
-          "text": "Ako ___ bolestan, ideš k liječniku.",
-          "hint": "Якщо ти хворий, ідеш до лікаря.",
+          "text": "Ako ___ bolestan, ne radiš.",
+          "hint": "Якщо ти хворий, не працюєш.",
           "accepted": [
             [
               "si"
@@ -878,8 +893,8 @@
           ]
         },
         {
-          "text": "Ne radim jer ___ bolesna.",
-          "hint": "Я не працюю, бо хвора.",
+          "text": "Ne idem u park jer ___ bolestan.",
+          "hint": "Я не йду в парк, бо хворий.",
           "accepted": [
             [
               "sam"
@@ -887,8 +902,8 @@
           ]
         },
         {
-          "text": "Učiteljica želi da ___.",
-          "hint": "Вчителька хоче, щоб я читала.",
+          "text": "Majka želi da ___ knjigu.",
+          "hint": "Мама хоче, щоб я читала книжку.",
           "accepted": [
             [
               "čitam"
@@ -896,8 +911,8 @@
           ]
         },
         {
-          "text": "Majka želi da ___.",
-          "hint": "Мама хоче, щоб я вчилася.",
+          "text": "Sestra želi da ___.",
+          "hint": "Сестра хоче, щоб я вчилася.",
           "accepted": [
             [
               "učim"
@@ -912,115 +927,119 @@
       "items": [
         {
           "example": true,
-          "prompt": "Završim posao. Idem u dućan.",
+          "prompt": "Kupim kruh. Idem kući.",
           "cue": "-> одне речення з kad",
           "accepted": [
-            "Kad završim posao, idem u dućan."
+            "Kad kupim kruh, idem kući."
           ]
         },
         {
-          "prompt": "Dođem kući. Kuham ručak.",
+          "prompt": "Pročitam poruku. Zovem brata.",
           "cue": "-> одне речення з kad",
           "accepted": [
-            "Kad dođem kući, kuham ručak."
+            "Kad pročitam poruku, zovem brata."
           ]
         },
         {
-          "prompt": "Imam vremena. Idem u park.",
+          "prompt": "Imam termin. Idem k liječniku.",
           "cue": "-> одне речення з ako",
           "accepted": [
-            "Ako imam vremena, idem u park."
+            "Ako imam termin, idem k liječniku."
           ]
         },
         {
-          "prompt": "Bolestan si. Ideš k liječniku.",
+          "prompt": "Bolesna si. Ostaješ ovdje.",
           "cue": "-> одне речення з ako",
           "accepted": [
-            "Ako si bolestan, ideš k liječniku."
+            "Ako si bolesna, ostaješ ovdje."
           ]
         },
         {
-          "prompt": "Idem k liječniku. Bolesna sam.",
+          "prompt": "Idem u ljekarnu. Bolestan sam.",
           "cue": "-> одне речення з jer",
           "accepted": [
-            "Idem k liječniku jer sam bolesna."
+            "Idem u ljekarnu jer sam bolestan.",
+            "Idem u ljekarnu, jer sam bolestan."
           ]
         },
         {
-          "prompt": "Ne radim. Bolesna sam.",
+          "prompt": "Ne idem u školu. Imam termin.",
           "cue": "-> одне речення з jer",
           "accepted": [
-            "Ne radim jer sam bolesna."
+            "Ne idem u školu jer imam termin.",
+            "Ne idem u školu, jer imam termin."
           ]
         },
         {
-          "prompt": "Čekam. Imam termin.",
+          "prompt": "Kupujem kruh. Nemam kruha.",
           "cue": "-> одне речення з jer",
           "accepted": [
-            "Čekam jer imam termin."
+            "Kupujem kruh jer nemam kruha.",
+            "Kupujem kruh, jer nemam kruha."
           ]
         },
         {
-          "prompt": "Idem u školu. Bolestan sam.",
+          "prompt": "Kuham ručak. Bolestan sam.",
           "cue": "-> одне речення з iako",
           "accepted": [
-            "Idem u školu, iako sam bolestan."
+            "Kuham ručak, iako sam bolestan."
           ]
         },
         {
-          "prompt": "Radim. Nemam vremena.",
+          "prompt": "Čekam brata. Nemam vremena.",
           "cue": "-> одне речення з iako",
           "accepted": [
-            "Radim, iako nemam vremena."
+            "Čekam brata, iako nemam vremena."
           ]
         },
         {
-          "prompt": "Čitam knjigu. Imam ispit.",
-          "cue": "-> одне речення з prije (ispit)",
+          "prompt": "Idem u ured. Imam sastanak.",
+          "cue": "-> одне речення з prije (sastanak)",
           "accepted": [
-            "Prije ispita čitam knjigu."
+            "Prije sastanka idem u ured."
           ]
         },
         {
-          "prompt": "Idem u dućan. Radim.",
-          "cue": "-> одне речення з nakon (posao)",
+          "prompt": "Jedem večeru. Idem u park.",
+          "cue": "-> одне речення з nakon (večera)",
           "accepted": [
-            "Nakon posla idem u dućan."
+            "Nakon večere idem u park."
           ]
         },
         {
-          "prompt": "Čitam. Učenici pišu.",
+          "prompt": "Kuham. Brat spava.",
           "cue": "-> одне речення з dok",
           "accepted": [
-            "Dok čitam, učenici pišu."
+            "Dok kuham, brat spava."
           ]
         },
         {
-          "prompt": "Kad završiti posao, idem u dućan.",
+          "prompt": "Kad doći kući, čitam knjigu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Kad završim posao, idem u dućan."
+            "Kad dođem kući, čitam knjigu."
           ]
         },
         {
-          "prompt": "Majka želi da učiti.",
+          "prompt": "Sestra želi da ja čitati.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Majka želi da učim."
+            "Sestra želi da ja čitam.",
+            "Sestra želi da čitam."
           ]
         },
         {
-          "prompt": "Idem k liječnik jer sam bolesna.",
+          "prompt": "Idem k liječnik jer imam termin.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Idem k liječniku jer sam bolesna."
+            "Idem k liječniku jer imam termin."
           ]
         },
         {
-          "prompt": "Nakon posao idem u dućan.",
+          "prompt": "Prije škola idem na poštu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Nakon posla idem u dućan."
+            "Prije škole idem na poštu."
           ]
         }
       ]

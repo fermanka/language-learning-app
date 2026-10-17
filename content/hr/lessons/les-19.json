@@ -82,7 +82,10 @@
       "ua": "вокзал",
       "audio": "hr-kolodvor.mp3",
       "explain_ua": "(Brat dolazi na kolodvor = брат приїздить на вокзал). Kolodvor це вокзал. Чоловічий рід, неживе: знахідний kolodvor без змін",
-      "check": "Форми kolodvora, kolodvori з мого знання, у джерелах цього уроку не підтверджено."
+      "check": "Форми kolodvora, kolodvori з мого знання, у джерелах цього уроку не підтверджено.",
+      "forms": [
+        "kolodvoru"
+      ]
     },
     {
       "id": "hr-a5e3f681",
@@ -733,98 +736,99 @@
       "items": [
         {
           "example": true,
-          "prompt": "Як тебе звати?",
+          "prompt": "Як звати брата?",
           "accepted": [
-            "Kako se zoveš?"
+            "Kako se zove brat?"
           ]
         },
         {
-          "prompt": "Мене звати Марія.",
+          "prompt": "Мого брата звати Іван.",
           "accepted": [
-            "Zovem se Marija.",
-            "Ja se zovem Marija."
+            "Brat se zove Ivan.",
+            "Moj brat se zove Ivan."
           ]
         },
         {
-          "prompt": "Ми їдемо поїздом.",
+          "prompt": "Сестра їде поїздом.",
           "accepted": [
-            "Vozimo se vlakom."
+            "Sestra se vozi vlakom."
           ]
         },
         {
-          "prompt": "Я боюся собаки.",
+          "prompt": "Брат боїться вчительки.",
           "accepted": [
-            "Bojim se psa.",
-            "Ja se bojim psa."
+            "Brat se boji učiteljice."
           ]
         },
         {
-          "prompt": "Побачимося в школі.",
+          "prompt": "Побачимося в місті.",
           "accepted": [
-            "Vidimo se u školi."
+            "Vidimo se u gradu."
           ]
         },
         {
-          "prompt": "Я даю знати про себе вчительці.",
+          "prompt": "Ти даєш знати про себе брату.",
           "accepted": [
-            "Javljam se učiteljici.",
-            "Ja se javljam učiteljici."
+            "Javljaš se bratu.",
+            "Ti se javljaš bratu."
           ]
         },
         {
-          "prompt": "Я прокинулась о сьомій.",
+          "prompt": "Я прокинулась о восьмій.",
           "accepted": [
-            "Probudila sam se u sedam sati.",
-            "Probudila sam se u sedam."
+            "Probudila sam se u osam sati.",
+            "Probudila sam se u osam.",
+            "Ja sam se probudila u osam sati.",
+            "Ja sam se probudila u osam."
           ]
         },
         {
-          "prompt": "Брат прокинувся.",
+          "prompt": "Сусід прокинувся.",
           "accepted": [
-            "Brat se probudio."
+            "Susjed se probudio."
           ]
         },
         {
-          "prompt": "Мама прокинулась.",
+          "prompt": "Бабуся прокинулась.",
           "accepted": [
-            "Majka se probudila."
+            "Baka se probudila."
           ]
         },
         {
-          "prompt": "Діти прокинулися.",
+          "prompt": "Сусіди прокинулися.",
           "accepted": [
-            "Djeca su se probudila."
+            "Susjedi su se probudili."
           ]
         },
         {
-          "prompt": "Ми прокинулися.",
+          "prompt": "Ви прокинулися.",
           "accepted": [
-            "Mi smo se probudili.",
-            "Probudili smo se."
+            "Vi ste se probudili.",
+            "Probudili ste se."
           ]
         },
         {
-          "prompt": "Сусід, який працює в магазині, тут.",
+          "prompt": "Брат, який працює в банку, тут.",
           "accepted": [
-            "Susjed koji radi u dućanu je ovdje."
+            "Brat koji radi u banci je ovdje."
           ]
         },
         {
-          "prompt": "Мама, яка працює в банку, тут.",
+          "prompt": "Сестра, яка працює в школі, тут.",
           "accepted": [
-            "Majka koja radi u banci je ovdje."
+            "Sestra koja radi u školi je ovdje."
           ]
         },
         {
-          "prompt": "Книжка, яку я читаю, хороша.",
+          "prompt": "Яблуко, яке я купую, свіже.",
           "accepted": [
-            "Knjiga koju čitam je dobra."
+            "Jabuka koju kupujem je svježa."
           ]
         },
         {
-          "prompt": "Собака, якого я бачу, великий.",
+          "prompt": "Сусід, якого я бачу, тут.",
           "accepted": [
-            "Pas kojeg vidim je velik."
+            "Susjed kojeg vidim je ovdje."
           ]
         }
       ]
@@ -834,26 +838,26 @@
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
         "se",
-        "koji",
-        "koja",
-        "koje",
-        "koju",
+        "Vidimo",
         "kojeg",
-        "Kako",
+        "javljam",
         "probudila",
-        "probudio",
         "probudili",
         "probudilo",
-        "boji",
         "vozimo",
-        "javljam",
-        "Vidimo"
+        "koja",
+        "koje",
+        "koji",
+        "koju",
+        "Kako",
+        "probudio",
+        "boji"
       ],
       "items": [
         {
           "example": true,
-          "text": "Zovem ___ Marija.",
-          "hint": "Мене звати Марія.",
+          "text": "Majka ___ zove Marija.",
+          "hint": "Маму звати Марія.",
           "accepted": [
             [
               "se"
@@ -861,8 +865,8 @@
           ]
         },
         {
-          "text": "___ se zoveš?",
-          "hint": "Як тебе звати?",
+          "text": "___ se zove majka?",
+          "hint": "Як звати маму?",
           "accepted": [
             [
               "Kako"
@@ -915,8 +919,8 @@
           ]
         },
         {
-          "text": "Probudila sam ___ u sedam sati.",
-          "hint": "Я прокинулась о сьомій.",
+          "text": "Probudili smo ___ u sedam sati.",
+          "hint": "Ми прокинулися о сьомій.",
           "accepted": [
             [
               "se"
@@ -924,8 +928,8 @@
           ]
         },
         {
-          "text": "Brat se ___.",
-          "hint": "Брат прокинувся.",
+          "text": "Sin se ___.",
+          "hint": "Син прокинувся.",
           "accepted": [
             [
               "probudio"
@@ -933,8 +937,8 @@
           ]
         },
         {
-          "text": "Dijete se ___.",
-          "hint": "Дитина прокинулась.",
+          "text": "Dijete se ___ u šest sati.",
+          "hint": "Дитина прокинулась о шостій.",
           "accepted": [
             [
               "probudilo"
@@ -942,8 +946,8 @@
           ]
         },
         {
-          "text": "Mi smo se ___.",
-          "hint": "Ми прокинулися.",
+          "text": "Prijatelji su se ___.",
+          "hint": "Друзі прокинулися.",
           "accepted": [
             [
               "probudili"
@@ -951,8 +955,8 @@
           ]
         },
         {
-          "text": "Majka se ___.",
-          "hint": "Мама прокинулась.",
+          "text": "Prijateljica se ___.",
+          "hint": "Подруга прокинулась.",
           "accepted": [
             [
               "probudila"
@@ -960,8 +964,8 @@
           ]
         },
         {
-          "text": "Dijete se ___ psa.",
-          "hint": "Дитина боїться собаки.",
+          "text": "Baka se ___ psa.",
+          "hint": "Бабуся боїться собаки.",
           "accepted": [
             [
               "boji"
@@ -987,8 +991,8 @@
           ]
         },
         {
-          "text": "___ se u školi.",
-          "hint": "Побачимося в школі.",
+          "text": "___ se na kolodvoru.",
+          "hint": "Побачимося на вокзалі.",
           "accepted": [
             [
               "Vidimo"
@@ -1017,45 +1021,45 @@
           ]
         },
         {
-          "prompt": "Majka radi u banci. Majka je ovdje.",
+          "prompt": "Baka radi u dućanu. Baka je ovdje.",
           "cue": "-> одне речення з koji",
           "accepted": [
-            "Majka koja radi u banci je ovdje."
+            "Baka koja radi u dućanu je ovdje."
           ]
         },
         {
-          "prompt": "Susjed radi u dućanu. Susjed je ovdje.",
+          "prompt": "Sin radi u dućanu. Sin je ovdje.",
           "cue": "-> одне речення з koji",
           "accepted": [
-            "Susjed koji radi u dućanu je ovdje."
+            "Sin koji radi u dućanu je ovdje."
           ]
         },
         {
-          "prompt": "Dijete čita knjigu. Dijete je moje.",
+          "prompt": "Dijete uči u školi. Dijete je moje.",
           "cue": "-> одне речення з koji",
           "accepted": [
-            "Dijete koje čita knjigu je moje."
+            "Dijete koje uči u školi je moje."
           ]
         },
         {
-          "prompt": "Čitam knjigu. Knjiga je dobra.",
+          "prompt": "Kuham juhu. Juha je ukusna.",
           "cue": "-> одне речення з koji",
           "accepted": [
-            "Knjiga koju čitam je dobra."
+            "Juha koju kuham je ukusna."
           ]
         },
         {
-          "prompt": "Volim kavu. Kava je hladna.",
+          "prompt": "Čekam sestru. Sestra dolazi.",
           "cue": "-> одне речення з koji",
           "accepted": [
-            "Kava koju volim je hladna."
+            "Sestra koju čekam dolazi."
           ]
         },
         {
-          "prompt": "Vidim psa. Pas je velik.",
+          "prompt": "Volim psa. Pas je star.",
           "cue": "-> одне речення з koji",
           "accepted": [
-            "Pas kojeg vidim je velik."
+            "Pas kojeg volim je star."
           ]
         },
         {
@@ -1066,24 +1070,25 @@
           ]
         },
         {
-          "prompt": "Zovem se Marija.",
-          "cue": "-> питання (ти)",
+          "prompt": "Sestra se zove Marija.",
+          "cue": "-> питання",
           "accepted": [
-            "Kako se zoveš?"
+            "Kako se zove sestra?",
+            "Kako se zove moja sestra?"
           ]
         },
         {
-          "prompt": "Brat se probudio.",
-          "cue": "-> діти (djeca)",
+          "prompt": "Otac se probudio.",
+          "cue": "-> батьки (roditelji)",
           "accepted": [
-            "Djeca su se probudila."
+            "Roditelji su se probudili."
           ]
         },
         {
-          "prompt": "Probudila sam se.",
-          "cue": "-> він (brat)",
+          "prompt": "Probudio sam se.",
+          "cue": "-> вона (sestra)",
           "accepted": [
-            "Brat se probudio."
+            "Sestra se probudila."
           ]
         },
         {
@@ -1094,31 +1099,31 @@
           ]
         },
         {
-          "prompt": "Brat je se probudio.",
+          "prompt": "Otac je se probudio.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Brat se probudio."
+            "Otac se probudio."
           ]
         },
         {
-          "prompt": "Knjiga koja čitam je dobra.",
+          "prompt": "Banana koja jedem je svježa.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Knjiga koju čitam je dobra."
+            "Banana koju jedem je svježa."
           ]
         },
         {
-          "prompt": "Pas koji vidim je velik.",
+          "prompt": "Prijatelj koji čekam dolazi.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Pas kojeg vidim je velik."
+            "Prijatelj kojeg čekam dolazi."
           ]
         },
         {
-          "prompt": "Zovem me Marija.",
+          "prompt": "Zovem me Ivan.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Zovem se Marija."
+            "Zovem se Ivan."
           ]
         }
       ]

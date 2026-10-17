@@ -125,7 +125,9 @@
       "ua": "водій",
       "audio": "hr-vozac.mp3",
       "forms": [
-        "vozačica"
+        "vozačica",
+        "vozače",
+        "vozača"
       ],
       "explain_ua": "(Žena je vozačica = жінка водійка). Чоловічого роду: vozač, vozača, vozači. Жіноча форма vozačica. Корінь voziti (Lekcija 19).",
       "check": "Форми vozača, vozači, vozačica з мого знання."
@@ -142,7 +144,9 @@
       "ua": "кухар",
       "audio": "hr-kuhar.mp3",
       "forms": [
-        "kuharica"
+        "kuharica",
+        "kuhara",
+        "kuhare"
       ],
       "explain_ua": "(Kuhar radi ovdje = кухар працює тут). Чоловічого роду: kuhar, kuhara, kuhari. Жіноча форма kuharica. Корінь kuhati (Lekcija 10).",
       "check": "Форми kuhara, kuhari, kuharica з мого знання."
@@ -176,7 +180,10 @@
       "ua": "секретарка",
       "audio": "hr-tajnica.mp3",
       "explain_ua": "(Tajnica radi ovdje = секретарка працює тут). Жіночий рід на -a. Корінь tajna «таємниця»: тут слово «той, хто знає таємниці офісу».",
-      "check": "Форми за зразком škola; пояснення кореня подаю як підказку для пам'яті, не як перевірену етимологію."
+      "check": "Форми за зразком škola; пояснення кореня подаю як підказку для пам'яті, не як перевірену етимологію.",
+      "forms": [
+        "tajnicom"
+      ]
     },
     {
       "id": "hr-1ddf3376",
@@ -208,7 +215,8 @@
       "audio": "hr-radnik.mp3",
       "forms": [
         "radnike",
-        "radnika"
+        "radnika",
+        "radniku"
       ],
       "explain_ua": "(Firma zapošljava radnike = фірма наймає працівників). Чоловічого роду, живе: radnik, radnika, radnici. Знахідний множини radnike. Корінь raditi.",
       "check": "Форми radnika, radnici, radnike з мого знання."
@@ -650,93 +658,94 @@
       "items": [
         {
           "example": true,
-          "prompt": "Моя професія кухар.",
+          "prompt": "Мій батько інженер.",
           "accepted": [
-            "Moje zanimanje je kuhar."
+            "Moj otac je inženjer."
           ]
         },
         {
-          "prompt": "Мій начальник директор.",
+          "prompt": "Мій колега продавець.",
           "accepted": [
-            "Moj šef je direktor."
+            "Moj kolega je prodavač."
           ]
         },
         {
-          "prompt": "Зарплата добра.",
+          "prompt": "Зарплата велика.",
           "accepted": [
-            "Plaća je dobra."
+            "Plaća je velika."
           ]
         },
         {
-          "prompt": "Маю договір.",
+          "prompt": "Маю хороший договір.",
           "accepted": [
-            "Imam ugovor."
+            "Imam dobar ugovor."
           ]
         },
         {
-          "prompt": "Працюю в зміні.",
+          "prompt": "Мій брат працює у фірмі.",
           "accepted": [
-            "Radim u smjeni."
+            "Moj brat radi u firmi."
           ]
         },
         {
-          "prompt": "Маю відпустку в липні.",
+          "prompt": "Маю відпустку в серпні.",
           "accepted": [
-            "Imam odmor u srpnju."
+            "Imam odmor u kolovozu."
           ]
         },
         {
-          "prompt": "Шукаю роботу.",
+          "prompt": "Марія шукає роботу.",
           "accepted": [
-            "Tražim posao."
+            "Marija traži posao."
           ]
         },
         {
-          "prompt": "Фірма наймає працівників.",
+          "prompt": "Роботодавець наймає водіїв.",
           "accepted": [
-            "Firma zapošljava radnike."
+            "Poslodavac zapošljava vozače."
           ]
         },
         {
-          "prompt": "Це мій начальник, який працює в офісі.",
+          "prompt": "Це мій колега, який працює тут.",
           "accepted": [
-            "Ovo je moj šef koji radi u uredu."
+            "Ovo je moj kolega koji radi ovdje."
           ]
         },
         {
-          "prompt": "Це моя колежанка, яка працює в офісі.",
+          "prompt": "Це моя сестра, яка працює в школі.",
           "accepted": [
-            "Ovo je moja kolegica koja radi u uredu."
+            "Ovo je moja sestra koja radi u školi."
           ]
         },
         {
-          "prompt": "Чоловік, якого я бачу, адвокат.",
+          "prompt": "Кухар, якого я бачу, працює тут.",
           "accepted": [
-            "Čovjek kojeg vidim je odvjetnik."
+            "Kuhar kojeg vidim radi ovdje."
           ]
         },
         {
-          "prompt": "Учителька, з якою розмовляю, працює тут.",
+          "prompt": "Колежанка, з якою розмовляю, у фірмі.",
           "accepted": [
-            "Učiteljica s kojom razgovaram radi ovdje."
+            "Kolegica s kojom razgovaram je u firmi."
           ]
         },
         {
-          "prompt": "Директор, якому допомагаю, в офісі.",
+          "prompt": "Начальник, якому допомагаю, працює тут.",
           "accepted": [
-            "Direktor kojem pomažem je u uredu."
+            "Šef kojem pomažem radi ovdje."
           ]
         },
         {
-          "prompt": "Жінка, яку я бачу, водійка.",
+          "prompt": "Колежанка, яку я бачу, працює в офісі.",
           "accepted": [
-            "Žena koju vidim je vozačica."
+            "Kolegica koju vidim radi u uredu."
           ]
         },
         {
-          "prompt": "Завтра маю вільний день.",
+          "prompt": "У п'ятницю маю вільний день.",
           "accepted": [
-            "Sutra imam slobodan dan."
+            "U petak imam slobodan dan.",
+            "Imam slobodan dan u petak."
           ]
         }
       ]
@@ -745,27 +754,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "koji",
-        "koja",
-        "koje",
-        "koju",
+        "odmor",
+        "Inženjer",
         "kojeg",
         "kojem",
-        "kojom",
-        "plaća",
-        "ugovor",
-        "smjeni",
-        "odmor",
-        "inženjer",
-        "radnike",
-        "slobodan",
         "zaposlena",
-        "otkaz"
+        "kojom",
+        "smjeni",
+        "radnike",
+        "otkaz",
+        "ugovor",
+        "inženjer",
+        "koja",
+        "koje",
+        "koji",
+        "koju",
+        "plaća",
+        "slobodan"
       ],
       "items": [
         {
           "example": true,
-          "text": "Ovo je moj šef ___ radi u uredu.",
+          "text": "Ovo je direktor ___ radi u firmi.",
           "hint": "який",
           "accepted": [
             [
@@ -774,7 +784,7 @@
           ]
         },
         {
-          "text": "Ovo je moja kolegica ___ radi u uredu.",
+          "text": "Ovo je žena ___ radi na pošti.",
           "hint": "яка",
           "accepted": [
             [
@@ -783,7 +793,7 @@
           ]
         },
         {
-          "text": "Čovjek ___ vidim je odvjetnik.",
+          "text": "Odvjetnik ___ vidim radi ovdje.",
           "hint": "якого",
           "accepted": [
             [
@@ -792,7 +802,7 @@
           ]
         },
         {
-          "text": "Žena ___ vidim je vozačica.",
+          "text": "Tajnica ___ vidim je vrlo dobra.",
           "hint": "яку",
           "accepted": [
             [
@@ -801,7 +811,7 @@
           ]
         },
         {
-          "text": "Direktor ___ pomažem je u uredu.",
+          "text": "Kolega ___ pomažem radi u dućanu.",
           "hint": "якому",
           "accepted": [
             [
@@ -810,7 +820,7 @@
           ]
         },
         {
-          "text": "Učiteljica s ___ razgovaram radi ovdje.",
+          "text": "Majka s ___ razgovaram je ovdje.",
           "hint": "якою",
           "accepted": [
             [
@@ -819,17 +829,17 @@
           ]
         },
         {
-          "text": "___ je dobra.",
-          "hint": "Зарплата добра.",
+          "text": "Moja ___ je mala.",
+          "hint": "Моя зарплата мала.",
           "accepted": [
             [
-              "Plaća"
+              "plaća"
             ]
           ]
         },
         {
-          "text": "Imam ___.",
-          "hint": "Маю договір.",
+          "text": "Moj kolega ima ___.",
+          "hint": "Мій колега має договір.",
           "accepted": [
             [
               "ugovor"
@@ -837,8 +847,8 @@
           ]
         },
         {
-          "text": "Radim u ___.",
-          "hint": "Працюю в зміні.",
+          "text": "Moja kolegica radi u ___.",
+          "hint": "Моя колежанка працює в зміні.",
           "accepted": [
             [
               "smjeni"
@@ -846,8 +856,8 @@
           ]
         },
         {
-          "text": "Imam ___ u srpnju.",
-          "hint": "Маю відпустку в липні.",
+          "text": "Moj šef ima ___ u prosincu.",
+          "hint": "Мій начальник має відпустку в грудні.",
           "accepted": [
             [
               "odmor"
@@ -864,8 +874,8 @@
           ]
         },
         {
-          "text": "Firma zapošljava ___.",
-          "hint": "Фірма наймає працівників.",
+          "text": "Firma traži ___.",
+          "hint": "Фірма шукає працівників.",
           "accepted": [
             [
               "radnike"
@@ -873,8 +883,8 @@
           ]
         },
         {
-          "text": "Sutra imam ___ dan.",
-          "hint": "Завтра маю вільний день.",
+          "text": "Ivan ima ___ dan.",
+          "hint": "Іван має вільний день.",
           "accepted": [
             [
               "slobodan"
@@ -891,11 +901,11 @@
           ]
         },
         {
-          "text": "___ je napisan.",
-          "hint": "Заява про звільнення написана.",
+          "text": "Radnik piše ___.",
+          "hint": "Працівник пише заяву про звільнення.",
           "accepted": [
             [
-              "Otkaz"
+              "otkaz"
             ]
           ]
         },
@@ -944,24 +954,24 @@
           ]
         },
         {
-          "prompt": "Čovjek je odvjetnik. Vidim čovjeka.",
+          "prompt": "Vozač je mlad. Vidim vozača.",
           "cue": "-> kojeg",
           "accepted": [
-            "Čovjek kojeg vidim je odvjetnik."
+            "Vozač kojeg vidim je mlad."
           ]
         },
         {
-          "prompt": "Direktor je u uredu. Pomažem direktoru.",
+          "prompt": "Radnik je u uredu. Pomažem radniku.",
           "cue": "-> kojem",
           "accepted": [
-            "Direktor kojem pomažem je u uredu."
+            "Radnik kojem pomažem je u uredu."
           ]
         },
         {
-          "prompt": "Učiteljica radi ovdje. Razgovaram s učiteljicom.",
+          "prompt": "Tajnica je u uredu. Razgovaram s tajnicom.",
           "cue": "-> kojom",
           "accepted": [
-            "Učiteljica s kojom razgovaram radi ovdje."
+            "Tajnica s kojom razgovaram je u uredu."
           ]
         },
         {
@@ -972,52 +982,52 @@
           ]
         },
         {
-          "prompt": "Firma zapošljava radnika.",
+          "prompt": "Tražim kuhara.",
           "cue": "-> множина",
           "accepted": [
-            "Firma zapošljava radnike."
+            "Tražim kuhare."
           ]
         },
         {
-          "prompt": "Ovo je moja kolegica koji radi u uredu.",
+          "prompt": "Ovo je moja učiteljica koji radi ovdje.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ovo je moja kolegica koja radi u uredu."
+            "Ovo je moja učiteljica koja radi ovdje."
           ]
         },
         {
-          "prompt": "Ovo je moj šef koja radi u uredu.",
+          "prompt": "Ovo je moj brat koja radi u dućanu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ovo je moj šef koji radi u uredu."
+            "Ovo je moj brat koji radi u dućanu."
           ]
         },
         {
-          "prompt": "Direktor kojeg pomažem je u uredu.",
+          "prompt": "Kuhar kojeg pomažem radi ovdje.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Direktor kojem pomažem je u uredu."
+            "Kuhar kojem pomažem radi ovdje."
           ]
         },
         {
-          "prompt": "Učiteljica s kojim razgovaram radi ovdje.",
+          "prompt": "Kolegica s kojim radim je ovdje.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Učiteljica s kojom razgovaram radi ovdje."
+            "Kolegica s kojom radim je ovdje."
           ]
         },
         {
-          "prompt": "Radim u smjena.",
+          "prompt": "Radim u škola.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Radim u smjeni."
+            "Radim u školi."
           ]
         },
         {
-          "prompt": "Imam odmor u srpanj.",
+          "prompt": "Imam odmor u rujan.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam odmor u srpnju."
+            "Imam odmor u rujnu."
           ]
         }
       ]

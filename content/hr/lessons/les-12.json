@@ -4,7 +4,9 @@
   "order": 12,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "učiteljicu"
+  ],
   "notes": [
     {
       "id": "hr-09e927c7",
@@ -639,97 +641,104 @@
       "items": [
         {
           "example": true,
-          "prompt": "Завтра я куплю хліб.",
+          "prompt": "Завтра я куплю сік.",
           "accepted": [
-            "Sutra ću kupiti kruh.",
-            "Ja ću sutra kupiti kruh."
+            "Sutra ću kupiti sok.",
+            "Ja ću sutra kupiti sok."
           ]
         },
         {
-          "prompt": "Завтра ти будеш читати книжку.",
+          "prompt": "Завтра ти будеш писати домашнє завдання.",
           "accepted": [
-            "Sutra ćeš čitati knjigu.",
-            "Ti ćeš sutra čitati knjigu."
+            "Sutra ćeš pisati zadaću.",
+            "Ti ćeš sutra pisati zadaću."
           ]
         },
         {
-          "prompt": "Мама буде працювати в банку.",
+          "prompt": "Сестра буде працювати на пошті.",
           "accepted": [
-            "Majka će raditi u banci."
+            "Sestra će raditi na pošti."
           ]
         },
         {
-          "prompt": "Ми купимо сир.",
+          "prompt": "Ми купимо м'ясо.",
           "accepted": [
-            "Mi ćemo kupiti sir.",
-            "Kupiti ćemo sir."
+            "Mi ćemo kupiti meso.",
+            "Kupiti ćemo meso."
           ]
         },
         {
-          "prompt": "Ви підете в магазин.",
+          "prompt": "Ви підете в банк.",
           "accepted": [
-            "Vi ćete ići u dućan.",
-            "Vi ćete ići u trgovinu."
+            "Vi ćete ići u banku."
           ]
         },
         {
-          "prompt": "Діти будуть у парку.",
+          "prompt": "Брат буде в місті.",
           "accepted": [
-            "Djeca će biti u parku."
+            "Brat će biti u gradu."
           ]
         },
         {
-          "prompt": "Наступного тижня я буду подорожувати.",
+          "prompt": "Наступного тижня я буду працювати.",
           "accepted": [
-            "Idući tjedan ću putovati."
+            "Idući tjedan ću raditi.",
+            "Ja ću raditi idući tjedan.",
+            "Ja ću idući tjedan raditi."
           ]
         },
         {
-          "prompt": "Післязавтра я залишуся в квартирі.",
+          "prompt": "Післязавтра я залишуся в школі.",
           "accepted": [
-            "Prekosutra ću ostati u stanu."
+            "Prekosutra ću ostati u školi.",
+            "Ja ću prekosutra ostati u školi."
           ]
         },
         {
-          "prompt": "Потім я буду читати.",
+          "prompt": "Потім я буду писати.",
           "accepted": [
-            "Poslije ću čitati."
+            "Poslije ću pisati.",
+            "Ja ću poslije pisati."
           ]
         },
         {
-          "prompt": "У п'ятницю я відвідаю брата.",
+          "prompt": "У суботу я відвідаю сестру.",
           "accepted": [
-            "U petak ću posjetiti brata."
+            "U subotu ću posjetiti sestru.",
+            "Ja ću u subotu posjetiti sestru."
           ]
         },
         {
-          "prompt": "Влітку ми будемо на морі.",
+          "prompt": "Влітку ми залишимося в місті.",
           "accepted": [
-            "Ljeti ćemo biti na moru."
+            "Ljeti ćemo ostati u gradu.",
+            "Mi ćemo ljeti ostati u gradu."
           ]
         },
         {
-          "prompt": "Я не буду працювати в неділю.",
+          "prompt": "Я не буду працювати в суботу.",
           "accepted": [
-            "Neću raditi u nedjelju."
+            "Neću raditi u subotu.",
+            "Ja neću raditi u subotu."
           ]
         },
         {
-          "prompt": "Ми не підемо в школу.",
+          "prompt": "Ми не підемо в парк.",
           "accepted": [
-            "Nećemo ići u školu."
+            "Nećemo ići u park.",
+            "Mi nećemo ići u park."
           ]
         },
         {
-          "prompt": "Ти купиш хліб?",
+          "prompt": "Ти прочитаєш книжку?",
           "accepted": [
-            "Hoćeš li kupiti kruh?"
+            "Hoćeš li pročitati knjigu?"
           ]
         },
         {
-          "prompt": "Чи мама прийде?",
+          "prompt": "Чи сестра прийде?",
           "accepted": [
-            "Hoće li majka doći?"
+            "Hoće li sestra doći?"
           ]
         }
       ]
@@ -738,28 +747,30 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "ću",
-        "ćeš",
+        "čitati",
+        "kupiti",
+        "piti",
+        "Hoćeš",
+        "nećeš",
+        "nećete",
+        "neće",
+        "biti",
         "će",
+        "ću",
+        "pisati",
+        "ćeš",
+        "Neću",
+        "Hoće",
+        "ići",
         "ćemo",
         "ćete",
-        "Neću",
-        "nećeš",
-        "neće",
-        "Nećemo",
-        "nećete",
-        "Hoćeš",
-        "Hoće",
-        "kupiti",
-        "čitati",
-        "ići",
-        "biti"
+        "Nećemo"
       ],
       "items": [
         {
           "example": true,
-          "text": "Sutra ___ kupiti kruh.",
-          "hint": "Завтра я куплю хліб.",
+          "text": "Sutra ___ raditi.",
+          "hint": "Завтра я буду працювати.",
           "accepted": [
             [
               "ću"
@@ -785,8 +796,8 @@
           ]
         },
         {
-          "text": "Mi ___ kupiti sir.",
-          "hint": "Ми купимо сир.",
+          "text": "Mi ___ jesti.",
+          "hint": "Ми будемо їсти.",
           "accepted": [
             [
               "ćemo"
@@ -794,8 +805,8 @@
           ]
         },
         {
-          "text": "Vi ___ ići u dućan.",
-          "hint": "Ви підете в магазин.",
+          "text": "Vi ___ biti u gradu.",
+          "hint": "Ви будете в місті.",
           "accepted": [
             [
               "ćete"
@@ -803,8 +814,8 @@
           ]
         },
         {
-          "text": "___ raditi u nedjelju.",
-          "hint": "Я не буду працювати в неділю.",
+          "text": "___ čitati u petak.",
+          "hint": "Я не буду читати в п'ятницю.",
           "accepted": [
             [
               "Neću"
@@ -821,8 +832,8 @@
           ]
         },
         {
-          "text": "Majka ___ raditi.",
-          "hint": "Мама не буде працювати.",
+          "text": "Sestra ___ spavati.",
+          "hint": "Сестра не буде спати.",
           "accepted": [
             [
               "neće"
@@ -830,8 +841,8 @@
           ]
         },
         {
-          "text": "___ ići u školu.",
-          "hint": "Ми не підемо в школу.",
+          "text": "___ raditi u subotu.",
+          "hint": "Ми не будемо працювати в суботу.",
           "accepted": [
             [
               "Nećemo"
@@ -848,8 +859,8 @@
           ]
         },
         {
-          "text": "___ li kupiti kruh?",
-          "hint": "Ти купиш хліб?",
+          "text": "___ li ići u park?",
+          "hint": "Ти підеш у парк?",
           "accepted": [
             [
               "Hoćeš"
@@ -857,8 +868,8 @@
           ]
         },
         {
-          "text": "___ li majka doći?",
-          "hint": "Чи мама прийде?",
+          "text": "___ li sin doći?",
+          "hint": "Чи син прийде?",
           "accepted": [
             [
               "Hoće"
@@ -866,26 +877,26 @@
           ]
         },
         {
-          "text": "Sutra ću ___ kruh.",
-          "hint": "Завтра я куплю хліб.",
+          "text": "Poslije ću ___ kavu.",
+          "hint": "Потім я буду пити каву.",
           "accepted": [
             [
-              "kupiti"
+              "piti"
             ]
           ]
         },
         {
-          "text": "Sutra ću ___ knjigu.",
-          "hint": "Завтра я буду читати книжку.",
+          "text": "Prekosutra ću ___ zadaću.",
+          "hint": "Післязавтра я буду писати домашнє завдання.",
           "accepted": [
             [
-              "čitati"
+              "pisati"
             ]
           ]
         },
         {
-          "text": "Idući tjedan ćemo ___ u grad.",
-          "hint": "Наступного тижня ми підемо в місто.",
+          "text": "Idući tjedan ćemo ___ na poštu.",
+          "hint": "Наступного тижня ми підемо на пошту.",
           "accepted": [
             [
               "ići"
@@ -893,8 +904,8 @@
           ]
         },
         {
-          "text": "Djeca će ___ u parku.",
-          "hint": "Діти будуть у парку.",
+          "text": "Sin će ___ u školi.",
+          "hint": "Син буде в школі.",
           "accepted": [
             [
               "biti"
@@ -909,18 +920,17 @@
       "items": [
         {
           "example": true,
-          "prompt": "Kupujem kruh.",
+          "prompt": "Slušam učiteljicu.",
           "cue": "-> майбутнє з Sutra",
           "accepted": [
-            "Sutra ću kupiti kruh.",
-            "Sutra ću kupovati kruh."
+            "Sutra ću slušati učiteljicu."
           ]
         },
         {
-          "prompt": "Čitam knjigu.",
+          "prompt": "Učim u školi.",
           "cue": "-> майбутнє з Sutra",
           "accepted": [
-            "Sutra ću čitati knjigu."
+            "Sutra ću učiti u školi."
           ]
         },
         {
@@ -932,10 +942,10 @@
           ]
         },
         {
-          "prompt": "Idem u dućan.",
+          "prompt": "Idem na poštu.",
           "cue": "-> майбутнє з Sutra",
           "accepted": [
-            "Sutra ću ići u dućan."
+            "Sutra ću ići na poštu."
           ]
         },
         {
@@ -983,10 +993,10 @@
           ]
         },
         {
-          "prompt": "Majka će doći.",
+          "prompt": "Sestra će kupiti sok.",
           "cue": "-> питання з hoću li",
           "accepted": [
-            "Hoće li majka doći?"
+            "Hoće li sestra kupiti sok?"
           ]
         },
         {
@@ -1004,10 +1014,10 @@
           ]
         },
         {
-          "prompt": "Sutra ću kupim kruh.",
+          "prompt": "Sutra ću pišem zadaću.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Sutra ću kupiti kruh."
+            "Sutra ću pisati zadaću."
           ]
         },
         {
@@ -1025,10 +1035,10 @@
           ]
         },
         {
-          "prompt": "Ću sutra kupiti kruh.",
+          "prompt": "Ću sutra raditi.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Sutra ću kupiti kruh."
+            "Sutra ću raditi."
           ]
         }
       ]

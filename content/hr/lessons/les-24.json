@@ -4,7 +4,9 @@
   "order": 24,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "lijepa"
+  ],
   "notes": [
     {
       "id": "hr-514ee03a",
@@ -682,93 +684,93 @@
       "items": [
         {
           "example": true,
-          "prompt": "Кухня мала, а ванна велика.",
+          "prompt": "Сад великий, а балкон маленький.",
           "accepted": [
-            "Kuhinja je mala, a kupaonica je velika."
+            "Vrt je velik, a balkon je malen."
           ]
         },
         {
-          "prompt": "Книжка на полиці.",
+          "prompt": "Ключ на полиці.",
           "accepted": [
-            "Knjiga je na polici."
+            "Ključ je na polici."
           ]
         },
         {
-          "prompt": "Килим на підлозі.",
+          "prompt": "Стіл на килимі.",
           "accepted": [
-            "Tepih je na podu."
+            "Stol je na tepihu."
           ]
         },
         {
-          "prompt": "Мій ключ на килимі.",
+          "prompt": "Мій ключ у шафі.",
           "accepted": [
-            "Moj ključ je na tepihu."
+            "Moj ključ je u ormaru."
           ]
         },
         {
-          "prompt": "Відчиняю вікно.",
+          "prompt": "Відчиняю двері.",
           "accepted": [
-            "Otvaram prozor."
+            "Otvaram vrata."
           ]
         },
         {
-          "prompt": "Відчиніть двері, будь ласка.",
+          "prompt": "Відчиніть вікно, будь ласка.",
           "accepted": [
-            "Otvorite vrata, molim vas."
+            "Otvorite prozor, molim vas."
           ]
         },
         {
-          "prompt": "Прибираю свою кухню.",
+          "prompt": "Прибираю свою ванну.",
           "accepted": [
-            "Čistim svoju kuhinju."
+            "Čistim svoju kupaonicu."
           ]
         },
         {
-          "prompt": "Іван любить свій сад.",
+          "prompt": "Мама любить свій балкон.",
           "accepted": [
-            "Ivan voli svoj vrt."
+            "Majka voli svoj balkon."
           ]
         },
         {
-          "prompt": "Іван прибирає його (чужий) сад.",
+          "prompt": "Іван прибирає його (чужий) балкон.",
           "accepted": [
-            "Ivan čisti njegov vrt."
+            "Ivan čisti njegov balkon."
           ]
         },
         {
-          "prompt": "Ця квартира має балкон.",
+          "prompt": "Цей будинок має сад.",
           "accepted": [
-            "Ovaj stan ima balkon."
+            "Ova kuća ima vrt."
           ]
         },
         {
-          "prompt": "Той ліфт старий.",
+          "prompt": "Той балкон малий.",
           "accepted": [
-            "Taj lift je star."
+            "Taj balkon je malen."
           ]
         },
         {
-          "prompt": "Той сад гарний.",
+          "prompt": "Он та кухня гарна.",
           "accepted": [
-            "Onaj vrt je lijep."
+            "Ona kuhinja je lijepa."
           ]
         },
         {
-          "prompt": "У цій кухні готую обід.",
+          "prompt": "У цій ванній читаю.",
           "accepted": [
-            "U ovoj kuhinji kuham ručak."
+            "U ovoj kupaonici čitam."
           ]
         },
         {
-          "prompt": "Сплю у своєму ліжку.",
+          "prompt": "Читаю у своєму саду.",
           "accepted": [
-            "Spavam u svom krevetu."
+            "Čitam u svom vrtu."
           ]
         },
         {
-          "prompt": "Сходи тут.",
+          "prompt": "Ліфт тут.",
           "accepted": [
-            "Stepenice su ovdje."
+            "Lift je ovdje."
           ]
         }
       ]
@@ -777,28 +779,29 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "kuhinju",
-        "kupaonica",
-        "krevetu",
-        "ormaru",
-        "polici",
-        "tepihu",
-        "prozor",
-        "vrata",
-        "podu",
-        "vrt",
         "lift",
-        "katu",
         "ključ",
-        "balkon",
+        "ormaru",
+        "kuhinju",
+        "prozor",
         "svoju",
-        "njegov"
+        "balkon",
+        "njegov",
+        "katu",
+        "tepihu",
+        "krevetu",
+        "vrt",
+        "podu",
+        "kupaonica",
+        "kupaonicu",
+        "vrata",
+        "polici"
       ],
       "items": [
         {
           "example": true,
-          "text": "Čistim svoju ___.",
-          "hint": "Прибираю свою кухню.",
+          "text": "Mi čistimo svoju ___.",
+          "hint": "Ми прибираємо свою кухню.",
           "accepted": [
             [
               "kuhinju"
@@ -815,8 +818,8 @@
           ]
         },
         {
-          "text": "Spavam u svom ___.",
-          "hint": "Сплю у своєму ліжку.",
+          "text": "Knjiga je u ___.",
+          "hint": "Книжка в ліжку.",
           "accepted": [
             [
               "krevetu"
@@ -824,8 +827,8 @@
           ]
         },
         {
-          "text": "Knjiga je u ___.",
-          "hint": "Куртка в шафі.",
+          "text": "Bilježnica je u ___.",
+          "hint": "Зошит у шафі.",
           "accepted": [
             [
               "ormaru"
@@ -833,8 +836,8 @@
           ]
         },
         {
-          "text": "Knjiga je na ___.",
-          "hint": "Книжка на полиці.",
+          "text": "Olovka je na ___.",
+          "hint": "Олівець на полиці.",
           "accepted": [
             [
               "polici"
@@ -851,8 +854,8 @@
           ]
         },
         {
-          "text": "Otvaram ___.",
-          "hint": "Відчиняю вікно.",
+          "text": "Brat otvara ___.",
+          "hint": "Брат відчиняє вікно.",
           "accepted": [
             [
               "prozor"
@@ -860,8 +863,8 @@
           ]
         },
         {
-          "text": "Otvorite ___, molim vas.",
-          "hint": "Відчиніть двері, будь ласка.",
+          "text": "Majka otvara ___.",
+          "hint": "Мама відчиняє двері.",
           "accepted": [
             [
               "vrata"
@@ -869,8 +872,8 @@
           ]
         },
         {
-          "text": "Tepih je na ___.",
-          "hint": "Килим на підлозі.",
+          "text": "Moj ključ je na ___.",
+          "hint": "Мій ключ на підлозі.",
           "accepted": [
             [
               "podu"
@@ -878,8 +881,8 @@
           ]
         },
         {
-          "text": "Ivan voli svoj ___.",
-          "hint": "Іван любить свій сад.",
+          "text": "Brat voli svoj ___.",
+          "hint": "Брат любить свій сад.",
           "accepted": [
             [
               "vrt"
@@ -887,8 +890,8 @@
           ]
         },
         {
-          "text": "Taj ___ je star.",
-          "hint": "Той ліфт старий.",
+          "text": "Ovaj ___ je velik.",
+          "hint": "Цей ліфт великий.",
           "accepted": [
             [
               "lift"
@@ -896,8 +899,8 @@
           ]
         },
         {
-          "text": "Na tom ___ imam stan.",
-          "hint": "На тому поверсі маю квартиру.",
+          "text": "Moj brat stanuje na tom ___.",
+          "hint": "Мій брат живе на тому поверсі.",
           "accepted": [
             [
               "katu"
@@ -914,8 +917,8 @@
           ]
         },
         {
-          "text": "Ovaj stan ima ___.",
-          "hint": "Ця квартира має балкон.",
+          "text": "Ona soba ima ___.",
+          "hint": "Та кімната має балкон.",
           "accepted": [
             [
               "balkon"
@@ -923,8 +926,8 @@
           ]
         },
         {
-          "text": "Majka čisti svoju ___.",
-          "hint": "Мама прибирає свою ванну.",
+          "text": "Sestra čisti svoju ___.",
+          "hint": "Сестра прибирає свою ванну.",
           "accepted": [
             [
               "kupaonicu"
@@ -932,8 +935,8 @@
           ]
         },
         {
-          "text": "Ivan čisti ___ vrt.",
-          "hint": "Іван прибирає його (чужий) сад.",
+          "text": "Majka čisti ___ stol.",
+          "hint": "Мама прибирає його (чужий) стіл.",
           "accepted": [
             [
               "njegov"
@@ -976,10 +979,10 @@
           ]
         },
         {
-          "prompt": "Čistim kuhinju.",
+          "prompt": "Volim kuhinju.",
           "cue": "-> додай свою",
           "accepted": [
-            "Čistim svoju kuhinju."
+            "Volim svoju kuhinju."
           ]
         },
         {
@@ -990,59 +993,59 @@
           ]
         },
         {
+          "prompt": "Bilježnica je ovdje.",
+          "cue": "-> у ліжку",
+          "accepted": [
+            "Bilježnica je u krevetu."
+          ]
+        },
+        {
+          "prompt": "Telefon je ovdje.",
+          "cue": "-> на килимі",
+          "accepted": [
+            "Telefon je na tepihu."
+          ]
+        },
+        {
           "prompt": "Knjiga je ovdje.",
-          "cue": "-> на полиці",
+          "cue": "-> на балконі",
           "accepted": [
-            "Knjiga je na polici."
+            "Knjiga je na balkonu."
           ]
         },
         {
-          "prompt": "Tepih je ovdje.",
-          "cue": "-> на підлозі",
-          "accepted": [
-            "Tepih je na podu."
-          ]
-        },
-        {
-          "prompt": "Knjiga je ovdje.",
-          "cue": "-> у шафі",
-          "accepted": [
-            "Knjiga je u ormaru."
-          ]
-        },
-        {
-          "prompt": "Čistim svoj kuhinju.",
+          "prompt": "Brat čisti svoju stan.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Čistim svoju kuhinju."
+            "Brat čisti svoj stan."
           ]
         },
         {
-          "prompt": "Knjiga je na polica.",
+          "prompt": "Telefon je na zid.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Knjiga je na polici."
+            "Telefon je na zidu."
           ]
         },
         {
-          "prompt": "Tepih je na pod.",
+          "prompt": "Stol je na pod.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Tepih je na podu."
+            "Stol je na podu."
           ]
         },
         {
-          "prompt": "Na tom kat imam stan.",
+          "prompt": "Na tom kat stanujem.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Na tom katu imam stan."
+            "Na tom katu stanujem."
           ]
         },
         {
-          "prompt": "U ovom kuhinji kuham ručak.",
+          "prompt": "Taj kuhinja je velika.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "U ovoj kuhinji kuham ručak."
+            "Ta kuhinja je velika."
           ]
         },
         {
@@ -1053,10 +1056,10 @@
           ]
         },
         {
-          "prompt": "Ivan voli njegov vrt.",
-          "cue": "-> власний сад Івана",
+          "prompt": "Brat voli njegov stan.",
+          "cue": "-> власна квартира брата",
           "accepted": [
-            "Ivan voli svoj vrt."
+            "Brat voli svoj stan."
           ]
         }
       ]

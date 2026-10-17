@@ -595,98 +595,99 @@
       "items": [
         {
           "example": true,
-          "prompt": "У мене шість євро.",
+          "prompt": "У мене вісім євро.",
           "accepted": [
-            "Imam šest eura.",
-            "Ja imam šest eura."
+            "Imam osam eura.",
+            "Ja imam osam eura."
           ]
         },
         {
-          "prompt": "Сік коштує сім євро.",
+          "prompt": "Сир коштує сім євро.",
           "accepted": [
-            "Sok košta sedam eura."
+            "Sir košta sedam eura."
           ]
         },
         {
-          "prompt": "М'ясо коштує дев'ять євро.",
+          "prompt": "Сік коштує дев'ять євро.",
           "accepted": [
-            "Meso košta devet eura."
+            "Sok košta devet eura."
           ]
         },
         {
-          "prompt": "У мене дванадцять євро.",
+          "prompt": "У мене тридцять євро.",
           "accepted": [
-            "Imam dvanaest eura.",
-            "Ja imam dvanaest eura."
+            "Imam trideset eura.",
+            "Ja imam trideset eura."
           ]
         },
         {
-          "prompt": "У мене п'ятнадцять євро.",
+          "prompt": "У мене п'ятдесят євро.",
           "accepted": [
-            "Imam petnaest eura.",
-            "Ja imam petnaest eura."
+            "Imam pedeset eura.",
+            "Ja imam pedeset eura."
           ]
         },
         {
-          "prompt": "Братові тридцять років.",
+          "prompt": "Сестрі двадцять років.",
           "accepted": [
-            "Brat ima trideset godina."
+            "Sestra ima dvadeset godina."
           ]
         },
         {
-          "prompt": "Мамі сорок років.",
+          "prompt": "Батькові шістдесят років.",
           "accepted": [
-            "Majka ima četrdeset godina."
+            "Otac ima šezdeset godina."
           ]
         },
         {
-          "prompt": "Дитині чотири роки.",
+          "prompt": "Синові три роки.",
           "accepted": [
-            "Dijete ima četiri godine."
+            "Sin ima tri godine."
           ]
         },
         {
-          "prompt": "Котра година?",
+          "prompt": "Коли ти йдеш у школу?",
           "accepted": [
-            "Koliko je sati?"
+            "Kada ideš u školu?",
+            "Kada ti ideš u školu?"
           ]
         },
         {
-          "prompt": "Зараз сьома година.",
+          "prompt": "Зараз шоста година.",
           "accepted": [
-            "Sada je sedam sati."
+            "Sada je šest sati."
           ]
         },
         {
-          "prompt": "Зараз пів на восьму.",
+          "prompt": "Зараз пів на дванадцяту.",
           "accepted": [
-            "Sada je pola osam."
+            "Sada je pola dvanaest."
           ]
         },
         {
-          "prompt": "Зараз восьма п'ятнадцять.",
+          "prompt": "Зараз сьома десять.",
           "accepted": [
-            "Sada je osam i petnaest."
+            "Sada je sedam i deset."
           ]
         },
         {
-          "prompt": "Зараз за п'ятнадцять восьма.",
+          "prompt": "Зараз за десять дев'ята.",
           "accepted": [
-            "Sada je petnaest do osam."
+            "Sada je deset do devet."
           ]
         },
         {
-          "prompt": "Приходжу о дев'ятій.",
+          "prompt": "Приходжу о шостій.",
           "accepted": [
-            "Dolazim u devet sati.",
-            "Dolazim u devet."
+            "Dolazim u šest sati.",
+            "Dolazim u šest."
           ]
         },
         {
-          "prompt": "Вранці йду до школи, а ввечері читаю.",
+          "prompt": "Вранці читаю, а ввечері йду в парк.",
           "accepted": [
-            "Ujutro idem u školu, a navečer čitam.",
-            "Ujutro idem u školu a navečer čitam."
+            "Ujutro čitam, a navečer idem u park.",
+            "Ujutro čitam a navečer idem u park."
           ]
         }
       ]
@@ -695,28 +696,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "šest",
-        "sedam",
-        "devet",
-        "dvanaest",
-        "petnaest",
-        "trideset",
-        "četrdeset",
-        "osamdeset",
-        "sto",
-        "sati",
-        "sata",
-        "do",
-        "pola",
         "i",
+        "Navečer",
+        "devet",
+        "četrdeset",
+        "sto",
+        "sata",
+        "sati",
+        "trideset",
+        "petnaest",
+        "sedam",
+        "dvanaest",
+        "šest",
+        "pola",
+        "osamdeset",
         "Ujutro",
-        "Navečer"
+        "do"
       ],
       "items": [
         {
           "example": true,
-          "text": "Imam ___ eura.",
-          "hint": "У мене шість євро.",
+          "text": "Sir košta ___ eura.",
+          "hint": "Сир коштує шість євро.",
           "accepted": [
             [
               "šest"
@@ -724,8 +725,8 @@
           ]
         },
         {
-          "text": "Sok košta ___ eura.",
-          "hint": "Сік коштує сім євро.",
+          "text": "Kava košta ___ eura.",
+          "hint": "Кава коштує сім євро.",
           "accepted": [
             [
               "sedam"
@@ -733,8 +734,8 @@
           ]
         },
         {
-          "text": "Meso košta ___ eura.",
-          "hint": "М'ясо коштує дев'ять євро.",
+          "text": "Imam ___ eura.",
+          "hint": "У мене дев'ять євро.",
           "accepted": [
             [
               "devet"
@@ -742,8 +743,8 @@
           ]
         },
         {
-          "text": "Imam ___ eura.",
-          "hint": "У мене дванадцять євро.",
+          "text": "Meso košta ___ eura.",
+          "hint": "М'ясо коштує дванадцять євро.",
           "accepted": [
             [
               "dvanaest"
@@ -751,8 +752,8 @@
           ]
         },
         {
-          "text": "Imam ___ eura.",
-          "hint": "У мене п'ятнадцять євро.",
+          "text": "Sestra ima ___ godina.",
+          "hint": "Сестрі п'ятнадцять років.",
           "accepted": [
             [
               "petnaest"
@@ -760,8 +761,8 @@
           ]
         },
         {
-          "text": "Brat ima ___ godina.",
-          "hint": "Братові тридцять років.",
+          "text": "Otac ima ___ godina.",
+          "hint": "Батькові тридцять років.",
           "accepted": [
             [
               "trideset"
@@ -769,8 +770,8 @@
           ]
         },
         {
-          "text": "Majka ima ___ godina.",
-          "hint": "Мамі сорок років.",
+          "text": "Učiteljica ima ___ godina.",
+          "hint": "Вчительці сорок років.",
           "accepted": [
             [
               "četrdeset"
@@ -778,8 +779,8 @@
           ]
         },
         {
-          "text": "Baka ima ___ godina.",
-          "hint": "Бабусі вісімдесят років.",
+          "text": "Moj otac ima ___ godina.",
+          "hint": "Моєму батькові вісімдесят років.",
           "accepted": [
             [
               "osamdeset"
@@ -787,8 +788,8 @@
           ]
         },
         {
-          "text": "Imam ___ eura.",
-          "hint": "У мене сто євро.",
+          "text": "Brat ima ___ eura.",
+          "hint": "У брата сто євро.",
           "accepted": [
             [
               "sto"
@@ -796,8 +797,8 @@
           ]
         },
         {
-          "text": "Sada je sedam ___.",
-          "hint": "Зараз сьома година.",
+          "text": "Sada je devet ___.",
+          "hint": "Зараз дев'ята година.",
           "accepted": [
             [
               "sati"
@@ -805,8 +806,8 @@
           ]
         },
         {
-          "text": "Sada je dva ___.",
-          "hint": "Зараз друга година.",
+          "text": "Sada je četiri ___.",
+          "hint": "Зараз четверта година.",
           "accepted": [
             [
               "sata"
@@ -814,8 +815,8 @@
           ]
         },
         {
-          "text": "Sada je petnaest ___ osam.",
-          "hint": "Зараз за п'ятнадцять восьма.",
+          "text": "Sada je pet ___ devet.",
+          "hint": "Зараз за п'ять дев'ята.",
           "accepted": [
             [
               "do"
@@ -823,8 +824,8 @@
           ]
         },
         {
-          "text": "Sada je ___ osam.",
-          "hint": "Зараз пів на восьму.",
+          "text": "Sada je ___ deset.",
+          "hint": "Зараз пів на десяту.",
           "accepted": [
             [
               "pola"
@@ -832,8 +833,8 @@
           ]
         },
         {
-          "text": "Sada je osam ___ petnaest.",
-          "hint": "Зараз восьма п'ятнадцять.",
+          "text": "Sada je šest ___ petnaest.",
+          "hint": "Зараз шоста п'ятнадцять.",
           "accepted": [
             [
               "i"
@@ -841,8 +842,8 @@
           ]
         },
         {
-          "text": "___ idem u školu.",
-          "hint": "Вранці йду до школи.",
+          "text": "___ radim u banci.",
+          "hint": "Вранці працюю в банку.",
           "accepted": [
             [
               "Ujutro"
@@ -850,8 +851,8 @@
           ]
         },
         {
-          "text": "___ čitam knjigu.",
-          "hint": "Ввечері читаю книжку.",
+          "text": "___ pišem majci.",
+          "hint": "Ввечері пишу мамі.",
           "accepted": [
             [
               "Navečer"
@@ -866,38 +867,38 @@
       "items": [
         {
           "example": true,
+          "prompt": "Sada je šest sati.",
+          "cue": "-> 6:30",
+          "accepted": [
+            "Sada je pola sedam."
+          ]
+        },
+        {
+          "prompt": "Sada je tri sata.",
+          "cue": "-> 3:30",
+          "accepted": [
+            "Sada je pola četiri."
+          ]
+        },
+        {
+          "prompt": "Sada je pet sati.",
+          "cue": "-> 5:15",
+          "accepted": [
+            "Sada je pet i petnaest."
+          ]
+        },
+        {
           "prompt": "Sada je sedam sati.",
-          "cue": "-> 7:30",
+          "cue": "-> 6:45",
           "accepted": [
-            "Sada je pola osam."
+            "Sada je petnaest do sedam."
           ]
         },
         {
           "prompt": "Sada je osam sati.",
-          "cue": "-> 8:30",
+          "cue": "-> 7:50",
           "accepted": [
-            "Sada je pola devet."
-          ]
-        },
-        {
-          "prompt": "Sada je devet sati.",
-          "cue": "-> 9:15",
-          "accepted": [
-            "Sada je devet i petnaest."
-          ]
-        },
-        {
-          "prompt": "Sada je osam sati.",
-          "cue": "-> 7:45",
-          "accepted": [
-            "Sada je petnaest do osam."
-          ]
-        },
-        {
-          "prompt": "Sada je dvanaest sati.",
-          "cue": "-> 11:55",
-          "accepted": [
-            "Sada je pet do dvanaest."
+            "Sada je deset do osam."
           ]
         },
         {
@@ -922,10 +923,10 @@
           ]
         },
         {
-          "prompt": "Imam šest eura.",
-          "cue": "-> дванадцять (dvanaest)",
+          "prompt": "Imam tri eura.",
+          "cue": "-> сорок (četrdeset)",
           "accepted": [
-            "Imam dvanaest eura."
+            "Imam četrdeset eura."
           ]
         },
         {
@@ -943,10 +944,10 @@
           ]
         },
         {
-          "prompt": "Brat ima trideset godina.",
-          "cue": "-> сорок (četrdeset)",
+          "prompt": "Sestra ima dvadeset godina.",
+          "cue": "-> тридцять (trideset)",
           "accepted": [
-            "Brat ima četrdeset godina."
+            "Sestra ima trideset godina."
           ]
         },
         {
@@ -957,31 +958,31 @@
           ]
         },
         {
-          "prompt": "Idem u školu.",
-          "cue": "-> почни з Ujutro",
+          "prompt": "Idem u park.",
+          "cue": "-> почни з Navečer",
           "accepted": [
-            "Ujutro idem u školu."
+            "Navečer idem u park."
           ]
         },
         {
-          "prompt": "Sada je pet sata.",
+          "prompt": "Sada je šest sata.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Sada je pet sati."
+            "Sada je šest sati."
           ]
         },
         {
-          "prompt": "Brat ima trideset godine.",
+          "prompt": "Otac ima pedeset godine.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Brat ima trideset godina."
+            "Otac ima pedeset godina."
           ]
         },
         {
-          "prompt": "Sada je dva sati.",
+          "prompt": "Sada je tri sati.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Sada je dva sata."
+            "Sada je tri sata."
           ]
         }
       ]

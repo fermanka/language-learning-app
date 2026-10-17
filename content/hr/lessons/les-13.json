@@ -786,103 +786,108 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я бачу тебе.",
+          "prompt": "Я бачу вас.",
           "accepted": [
-            "Vidim te.",
-            "Ja te vidim."
+            "Vidim vas.",
+            "Ja vas vidim."
           ]
         },
         {
-          "prompt": "Я люблю його.",
+          "prompt": "Я люблю її.",
           "accepted": [
-            "Volim ga.",
-            "Ja ga volim."
+            "Volim je.",
+            "Ja je volim.",
+            "Volim ju.",
+            "Ja ju volim."
           ]
         },
         {
-          "prompt": "Я чекаю вас.",
+          "prompt": "Я чекаю тебе.",
           "accepted": [
-            "Čekam vas.",
-            "Ja vas čekam."
+            "Čekam te.",
+            "Ja te čekam."
           ]
         },
         {
-          "prompt": "Вчителька кличе мене.",
+          "prompt": "Брат кличе мене.",
           "accepted": [
-            "Učiteljica me zove."
+            "Brat me zove."
           ]
         },
         {
-          "prompt": "Я кличу її.",
+          "prompt": "Я кличу їх.",
           "accepted": [
-            "Zovem je.",
-            "Ja je zovem."
+            "Zovem ih.",
+            "Ja ih zovem."
           ]
         },
         {
-          "prompt": "Я чекаю їх тут.",
+          "prompt": "Я чекаю його тут.",
           "accepted": [
-            "Čekam ih ovdje.",
-            "Ja ih čekam ovdje."
+            "Čekam ga ovdje.",
+            "Ja ga čekam ovdje."
           ]
         },
         {
-          "prompt": "Я питаю його.",
+          "prompt": "Я питаю тебе.",
           "accepted": [
-            "Pitam ga.",
-            "Ja ga pitam."
+            "Pitam te.",
+            "Ja te pitam."
           ]
         },
         {
-          "prompt": "Я потребую тебе.",
+          "prompt": "Я потребую вас.",
           "accepted": [
-            "Trebam te.",
-            "Ja te trebam."
+            "Trebam vas.",
+            "Ja vas trebam."
           ]
         },
         {
-          "prompt": "Мама чекає нас.",
+          "prompt": "Тато чекає нас.",
           "accepted": [
-            "Majka nas čeka."
+            "Otac nas čeka."
           ]
         },
         {
-          "prompt": "Сир? Я купую його в магазині.",
+          "prompt": "Кава? Я купую її в магазині.",
           "accepted": [
-            "Sir? Kupujem ga u dućanu.",
-            "Sir? Kupujem ga u trgovini."
+            "Kava? Kupujem je u dućanu.",
+            "Kava? Kupujem je u trgovini.",
+            "Kava? Kupujem ju u dućanu.",
+            "Kava? Kupujem ju u trgovini."
           ]
         },
         {
-          "prompt": "Мене чекає вчителька.",
+          "prompt": "Тебе чекає брат.",
           "accepted": [
-            "Mene čeka učiteljica."
+            "Tebe čeka brat."
           ]
         },
         {
-          "prompt": "Кого ти чекаєш? Мене.",
+          "prompt": "Кого ти кличеш? Його.",
           "accepted": [
-            "Koga čekaš? Mene.",
-            "Koga ti čekaš? Mene."
+            "Koga zoveš? Njega.",
+            "Koga ti zoveš? Njega."
           ]
         },
         {
-          "prompt": "Повідомлення для тебе.",
+          "prompt": "Телефон для тебе.",
           "accepted": [
-            "Poruka je za tebe."
+            "Telefon je za tebe."
           ]
         },
         {
-          "prompt": "Оцінка хороша.",
+          "prompt": "Повідомлення хороше.",
           "accepted": [
-            "Ocjena je dobra."
+            "Poruka je dobra."
           ]
         },
         {
-          "prompt": "Зателефонуйте мені, будь ласка.",
+          "prompt": "Дайте мені воду, будь ласка.",
           "accepted": [
-            "Nazovite me, molim.",
-            "Molim, nazovite me."
+            "Dajte mi vodu, molim.",
+            "Molim, dajte mi vodu.",
+            "Dajte mi vodu molim."
           ]
         }
       ]
@@ -891,28 +896,32 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
+        "ga",
+        "ih",
+        "je",
         "me",
         "te",
-        "ga",
-        "je",
-        "nas",
-        "vas",
-        "ih",
-        "tebe",
-        "nju",
-        "njega",
-        "Mene",
-        "Koga",
+        "dobar",
         "dobra",
+        "pita",
+        "Koga",
+        "Mene",
+        "razredu",
+        "vas",
+        "njega",
         "zove",
+        "tebe",
+        "nas",
         "čeka",
-        "razredu"
+        "nju",
+        "školi",
+        "mene"
       ],
       "items": [
         {
           "example": true,
-          "text": "Ti ___ vidiš.",
-          "hint": "Ти бачиш мене.",
+          "text": "Ti ___ čekaš.",
+          "hint": "Ти чекаєш мене.",
           "accepted": [
             [
               "me"
@@ -920,8 +929,8 @@
           ]
         },
         {
-          "text": "Vidim ___.",
-          "hint": "Я бачу тебе.",
+          "text": "Zovem ___.",
+          "hint": "Я кличу тебе.",
           "accepted": [
             [
               "te"
@@ -929,8 +938,8 @@
           ]
         },
         {
-          "text": "Volim ___.",
-          "hint": "Я люблю його.",
+          "text": "Čekam ___.",
+          "hint": "Я чекаю на нього.",
           "accepted": [
             [
               "ga"
@@ -938,8 +947,8 @@
           ]
         },
         {
-          "text": "Zovem ___.",
-          "hint": "Я кличу її.",
+          "text": "Vidim ___.",
+          "hint": "Я бачу її.",
           "accepted": [
             [
               "je",
@@ -948,17 +957,8 @@
           ]
         },
         {
-          "text": "Majka ___ čeka.",
-          "hint": "Мама чекає нас.",
-          "accepted": [
-            [
-              "nas"
-            ]
-          ]
-        },
-        {
-          "text": "Čekam ___.",
-          "hint": "Я чекаю вас.",
+          "text": "Otac ___ čeka.",
+          "hint": "Тато чекає вас.",
           "accepted": [
             [
               "vas"
@@ -966,8 +966,17 @@
           ]
         },
         {
-          "text": "Čekam ___ ovdje.",
-          "hint": "Я чекаю їх тут.",
+          "text": "Brat ___ zove.",
+          "hint": "Брат кличе нас.",
+          "accepted": [
+            [
+              "nas"
+            ]
+          ]
+        },
+        {
+          "text": "Čekam ___ u školi.",
+          "hint": "Я чекаю їх у школі.",
           "accepted": [
             [
               "ih"
@@ -975,17 +984,17 @@
           ]
         },
         {
-          "text": "Poruka je za ___.",
-          "hint": "Повідомлення для тебе.",
+          "text": "Knjiga je za ___.",
+          "hint": "Книжка для мене.",
           "accepted": [
             [
-              "tebe"
+              "mene"
             ]
           ]
         },
         {
-          "text": "Ocjena je za ___.",
-          "hint": "Оцінка для неї.",
+          "text": "Telefon je za ___.",
+          "hint": "Телефон для неї.",
           "accepted": [
             [
               "nju"
@@ -993,8 +1002,8 @@
           ]
         },
         {
-          "text": "Knjiga je za ___.",
-          "hint": "Книжка для нього.",
+          "text": "Poruka je za ___.",
+          "hint": "Повідомлення для нього.",
           "accepted": [
             [
               "njega"
@@ -1002,8 +1011,8 @@
           ]
         },
         {
-          "text": "___ čeka učiteljica.",
-          "hint": "Мене чекає вчителька.",
+          "text": "___ zove učitelj.",
+          "hint": "Мене кличе вчитель.",
           "accepted": [
             [
               "Mene"
@@ -1020,17 +1029,17 @@
           ]
         },
         {
-          "text": "Učiteljica me ___.",
-          "hint": "Вчителька кличе мене.",
+          "text": "Brat me ___.",
+          "hint": "Брат питає мене.",
           "accepted": [
             [
-              "zove"
+              "pita"
             ]
           ]
         },
         {
-          "text": "Majka nas ___.",
-          "hint": "Мама чекає нас.",
+          "text": "Majka vas ___.",
+          "hint": "Мама чекає вас.",
           "accepted": [
             [
               "čeka"
@@ -1038,20 +1047,20 @@
           ]
         },
         {
-          "text": "Učitelj je u ___.",
-          "hint": "Вчитель у класі.",
+          "text": "Dijete je u ___.",
+          "hint": "Дитина в школі.",
           "accepted": [
             [
-              "razredu"
+              "školi"
             ]
           ]
         },
         {
-          "text": "Ocjena je ___.",
-          "hint": "Оцінка хороша.",
+          "text": "Telefon je ___.",
+          "hint": "Телефон хороший.",
           "accepted": [
             [
-              "dobra"
+              "dobar"
             ]
           ]
         }
@@ -1129,10 +1138,10 @@
           ]
         },
         {
-          "prompt": "Učitelj čeka njih.",
+          "prompt": "Brat zove vas.",
           "cue": "-> короткий клітик",
           "accepted": [
-            "Učitelj ih čeka."
+            "Brat vas zove."
           ]
         },
         {
@@ -1150,10 +1159,10 @@
           ]
         },
         {
-          "prompt": "Ti vidiš me.",
+          "prompt": "Ja čekam te.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ti me vidiš."
+            "Ja te čekam."
           ]
         },
         {
@@ -1164,17 +1173,17 @@
           ]
         },
         {
-          "prompt": "Poruka je za te.",
+          "prompt": "Telefon je za te.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Poruka je za tebe."
+            "Telefon je za tebe."
           ]
         },
         {
-          "prompt": "Vidim ti.",
+          "prompt": "Čekam ti.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim te."
+            "Čekam te."
           ]
         }
       ]

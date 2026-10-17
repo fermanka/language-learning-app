@@ -744,104 +744,104 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я йду в магазин.",
+          "prompt": "Ти йдеш у парк.",
           "accepted": [
-            "Idem u dućan.",
-            "Ja idem u dućan.",
-            "Idem u trgovinu.",
-            "Ja idem u trgovinu."
+            "Ideš u park.",
+            "Ti ideš u park."
           ]
         },
         {
-          "prompt": "Мама йде в банк.",
+          "prompt": "Мама йде в аптеку.",
           "accepted": [
-            "Majka ide u banku."
+            "Majka ide u ljekarnu."
           ]
         },
         {
-          "prompt": "Дитина йде в школу.",
+          "prompt": "Син іде на пошту.",
           "accepted": [
-            "Dijete ide u školu."
+            "Sin ide na poštu."
           ]
         },
         {
-          "prompt": "Ми йдемо на пошту.",
+          "prompt": "Ви йдете в банк.",
           "accepted": [
-            "Idemo na poštu.",
-            "Mi idemo na poštu."
+            "Idete u banku.",
+            "Vi idete u banku."
           ]
         },
         {
-          "prompt": "Брат у магазині.",
+          "prompt": "Учителька в магазині.",
           "accepted": [
-            "Brat je u dućanu.",
-            "Brat je u trgovini."
+            "Učiteljica je u dućanu.",
+            "Učiteljica je u trgovini.",
+            "Učiteljica je u prodavaonici."
           ]
         },
         {
-          "prompt": "Мама працює в банку.",
+          "prompt": "Син працює в банку.",
           "accepted": [
-            "Majka radi u banci."
+            "Sin radi u banci."
           ]
         },
         {
-          "prompt": "Ми на пошті.",
+          "prompt": "Ми в банку.",
           "accepted": [
-            "Mi smo na pošti.",
-            "Na pošti smo."
+            "Mi smo u banci.",
+            "U banci smo."
           ]
         },
         {
-          "prompt": "Я йду в аптеку, а ти йдеш у парк.",
+          "prompt": "Ти йдеш в аптеку, а я йду на пошту.",
           "accepted": [
-            "Idem u ljekarnu, a ti ideš u park.",
-            "Ja idem u ljekarnu, a ti ideš u park."
+            "Ideš u ljekarnu, a ja idem na poštu.",
+            "Ti ideš u ljekarnu, a ja idem na poštu."
           ]
         },
         {
-          "prompt": "Куди ти йдеш?",
+          "prompt": "Куди йде мама?",
           "accepted": [
-            "Kamo ideš?",
-            "Kamo ti ideš?"
+            "Kamo ide majka?"
           ]
         },
         {
-          "prompt": "Я йду на ринок.",
+          "prompt": "Мама йде на ринок.",
           "accepted": [
-            "Idem na tržnicu.",
-            "Ja idem na tržnicu."
+            "Majka ide na tržnicu."
           ]
         },
         {
-          "prompt": "Фрукти на ринку.",
+          "prompt": "Молоко в магазині самообслуговування.",
           "accepted": [
-            "Voće je na tržnici."
+            "Mlijeko je u samoposluzi."
           ]
         },
         {
-          "prompt": "Я купую хліб у магазині самообслуговування.",
+          "prompt": "Мама купує каву в магазині.",
           "accepted": [
-            "Kupujem kruh u samoposluzi.",
-            "Ja kupujem kruh u samoposluzi."
+            "Majka kupuje kavu u dućanu.",
+            "Majka kupuje kavu u trgovini.",
+            "Majka kupuje kavu u prodavaonici."
           ]
         },
         {
-          "prompt": "Завтра я приходжу в місто.",
+          "prompt": "Завтра ти приходиш у парк.",
           "accepted": [
-            "Sutra dolazim u grad.",
-            "Sutra ja dolazim u grad."
+            "Sutra dolaziš u park.",
+            "Sutra ti dolaziš u park.",
+            "Ti sutra dolaziš u park.",
+            "Dolaziš sutra u park."
           ]
         },
         {
-          "prompt": "Діти йдуть у парк.",
+          "prompt": "Діти йдуть на пошту.",
           "accepted": [
-            "Djeca idu u park."
+            "Djeca idu na poštu."
           ]
         },
         {
-          "prompt": "Брат приходить у квартиру.",
+          "prompt": "Учителька приходить у школу.",
           "accepted": [
-            "Brat dolazi u stan."
+            "Učiteljica dolazi u školu."
           ]
         }
       ]
@@ -850,28 +850,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "banku",
-        "banci",
-        "školu",
-        "školi",
-        "poštu",
-        "pošti",
-        "ljekarnu",
-        "ljekarni",
-        "dućan",
-        "dućanu",
-        "park",
-        "parku",
-        "tržnicu",
         "tržnici",
+        "tržnicu",
+        "dućan",
+        "pošti",
+        "poštu",
         "samoposluzi",
+        "parku",
+        "banci",
+        "banku",
+        "ljekarni",
+        "ljekarnu",
+        "park",
+        "dućanu",
+        "školi",
+        "školu",
         "prodavaonicu"
       ],
       "items": [
         {
           "example": true,
-          "text": "Majka ide u ___.",
-          "hint": "Мама йде в банк.",
+          "text": "Brat ide u ___.",
+          "hint": "Брат йде в банк.",
           "accepted": [
             [
               "banku"
@@ -879,8 +879,8 @@
           ]
         },
         {
-          "text": "Majka je u ___.",
-          "hint": "Мама в банку.",
+          "text": "Sin je u ___.",
+          "hint": "Син у банку.",
           "accepted": [
             [
               "banci"
@@ -888,8 +888,8 @@
           ]
         },
         {
-          "text": "Dijete ide u ___.",
-          "hint": "Дитина йде в школу.",
+          "text": "Učiteljica ide u ___.",
+          "hint": "Учителька йде в школу.",
           "accepted": [
             [
               "školu"
@@ -906,8 +906,8 @@
           ]
         },
         {
-          "text": "Mi idemo na ___.",
-          "hint": "Ми йдемо на пошту.",
+          "text": "Idete na ___.",
+          "hint": "Ви йдете на пошту.",
           "accepted": [
             [
               "poštu"
@@ -915,8 +915,8 @@
           ]
         },
         {
-          "text": "Mi smo na ___.",
-          "hint": "Ми на пошті.",
+          "text": "Djeca su na ___.",
+          "hint": "Діти на пошті.",
           "accepted": [
             [
               "pošti"
@@ -951,8 +951,8 @@
           ]
         },
         {
-          "text": "Brat je u ___.",
-          "hint": "Брат у магазині.",
+          "text": "Ti si u ___.",
+          "hint": "Ти в магазині.",
           "accepted": [
             [
               "dućanu"
@@ -960,8 +960,8 @@
           ]
         },
         {
-          "text": "Idem u ___.",
-          "hint": "Я йду в парк.",
+          "text": "Mi idemo u ___.",
+          "hint": "Ми йдемо в парк.",
           "accepted": [
             [
               "park"
@@ -969,8 +969,8 @@
           ]
         },
         {
-          "text": "Pas je u ___.",
-          "hint": "Пес у парку.",
+          "text": "Mi smo u ___.",
+          "hint": "Ми в парку.",
           "accepted": [
             [
               "parku"
@@ -978,8 +978,8 @@
           ]
         },
         {
-          "text": "Idem na ___.",
-          "hint": "Я йду на ринок.",
+          "text": "Brat ide na ___.",
+          "hint": "Брат йде на ринок.",
           "accepted": [
             [
               "tržnicu"
@@ -987,8 +987,8 @@
           ]
         },
         {
-          "text": "Voće je na ___.",
-          "hint": "Фрукти на ринку.",
+          "text": "Sin je na ___.",
+          "hint": "Син на ринку.",
           "accepted": [
             [
               "tržnici"
@@ -996,8 +996,8 @@
           ]
         },
         {
-          "text": "Kupujem kruh u ___.",
-          "hint": "Я купую хліб у магазині самообслуговування.",
+          "text": "Majka radi u ___.",
+          "hint": "Мама працює в магазині самообслуговування.",
           "accepted": [
             [
               "samoposluzi"
@@ -1005,8 +1005,8 @@
           ]
         },
         {
-          "text": "Idem u ___.",
-          "hint": "Я йду в магазин (офіційне слово).",
+          "text": "Ti ideš u ___.",
+          "hint": "Ти йдеш у магазин (офіційне слово).",
           "accepted": [
             [
               "prodavaonicu"
@@ -1021,32 +1021,32 @@
       "items": [
         {
           "example": true,
-          "prompt": "Majka je u banci.",
+          "prompt": "Brat je u ljekarni.",
           "cue": "-> куди? (ide)",
           "accepted": [
-            "Majka ide u banku."
+            "Brat ide u ljekarnu."
           ]
         },
         {
-          "prompt": "Dijete je u školi.",
+          "prompt": "Sin je u školi.",
           "cue": "-> куди? (ide)",
           "accepted": [
-            "Dijete ide u školu."
+            "Sin ide u školu."
           ]
         },
         {
-          "prompt": "Brat je na pošti.",
+          "prompt": "Učiteljica je na pošti.",
           "cue": "-> куди? (ide)",
           "accepted": [
-            "Brat ide na poštu."
+            "Učiteljica ide na poštu."
           ]
         },
         {
-          "prompt": "Mi smo u ljekarni.",
-          "cue": "-> куди? (idemo)",
+          "prompt": "Vi ste na tržnici.",
+          "cue": "-> куди? (idete)",
           "accepted": [
-            "Mi idemo u ljekarnu.",
-            "Idemo u ljekarnu."
+            "Vi idete na tržnicu.",
+            "Idete na tržnicu."
           ]
         },
         {
@@ -1064,10 +1064,10 @@
           ]
         },
         {
-          "prompt": "Majka ide u banku.",
+          "prompt": "Sin ide u ljekarnu.",
           "cue": "-> де? (je)",
           "accepted": [
-            "Majka je u banci."
+            "Sin je u ljekarni."
           ]
         },
         {
@@ -1085,10 +1085,10 @@
           ]
         },
         {
-          "prompt": "Brat ide u park.",
-          "cue": "-> де? (je)",
+          "prompt": "Djeca idu na tržnicu.",
+          "cue": "-> де? (su)",
           "accepted": [
-            "Brat je u parku."
+            "Djeca su na tržnici."
           ]
         },
         {
@@ -1106,17 +1106,17 @@
           ]
         },
         {
-          "prompt": "Idem u banka.",
+          "prompt": "Idem na pošta.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Idem u banku."
+            "Idem na poštu."
           ]
         },
         {
-          "prompt": "Majka je u banku.",
+          "prompt": "Mi smo na tržnicu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Majka je u banci."
+            "Mi smo na tržnici."
           ]
         },
         {
@@ -1127,10 +1127,10 @@
           ]
         },
         {
-          "prompt": "Brat je u dućan.",
+          "prompt": "Majka je u trgovinu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Brat je u dućanu."
+            "Majka je u trgovini."
           ]
         }
       ]

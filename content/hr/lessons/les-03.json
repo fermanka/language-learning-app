@@ -4,7 +4,9 @@
   "order": 3,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "kad"
+  ],
   "notes": [
     {
       "id": "hr-2a43eaa2",
@@ -643,21 +645,24 @@
       "items": [
         {
           "example": true,
-          "prompt": "День народження в квітні.",
+          "prompt": "Друг на роботі в травні.",
           "accepted": [
-            "Rođendan je u travnju."
+            "Prijatelj je na poslu u svibnju.",
+            "U svibnju je prijatelj na poslu."
           ]
         },
         {
-          "prompt": "День народження в липні.",
+          "prompt": "Вчителька на морі в липні.",
           "accepted": [
-            "Rođendan je u srpnju."
+            "Učiteljica je na moru u srpnju.",
+            "U srpnju je učiteljica na moru."
           ]
         },
         {
-          "prompt": "День народження в жовтні.",
+          "prompt": "Дитина в місті в жовтні.",
           "accepted": [
-            "Rođendan je u listopadu."
+            "Dijete je u gradu u listopadu.",
+            "U listopadu je dijete u gradu."
           ]
         },
         {
@@ -682,67 +687,68 @@
           ]
         },
         {
-          "prompt": "Коли день народження?",
+          "prompt": "Коли мама в місті?",
           "accepted": [
-            "Kada je rođendan?"
+            "Kada je majka u gradu?",
+            "Kad je majka u gradu?"
           ]
         },
         {
-          "prompt": "День народження п'ятого квітня.",
+          "prompt": "День народження п'ятого травня.",
           "accepted": [
-            "Rođendan je petog travnja.",
-            "Rođendan je 5. travnja."
+            "Rođendan je petog svibnja.",
+            "Rođendan je 5. svibnja."
           ]
         },
         {
-          "prompt": "Сьогодні дванадцяте липня.",
+          "prompt": "Сьогодні двадцяте серпня.",
           "accepted": [
-            "Danas je dvanaesti srpnja.",
-            "Danas je 12. srpnja."
+            "Danas je dvadeseti kolovoza.",
+            "Danas je 20. kolovoza."
           ]
         },
         {
-          "prompt": "День народження дванадцятого липня.",
+          "prompt": "День народження дванадцятого грудня.",
           "accepted": [
-            "Rođendan je dvanaestog srpnja.",
-            "Rođendan je 12. srpnja."
+            "Rođendan je dvanaestog prosinca.",
+            "Rođendan je 12. prosinca."
           ]
         },
         {
-          "prompt": "Сьогодні перше січня.",
+          "prompt": "Сьогодні перше вересня.",
           "accepted": [
-            "Danas je prvi siječnja.",
-            "Danas je 1. siječnja."
+            "Danas je prvi rujna.",
+            "Danas je 1. rujna."
           ]
         },
         {
-          "prompt": "День народження двадцятого листопада.",
+          "prompt": "День народження двадцятого березня.",
           "accepted": [
-            "Rođendan je dvadesetog studenoga.",
-            "Rođendan je dvadesetog studenog.",
-            "Rođendan je 20. studenoga.",
-            "Rođendan je 20. studenog."
+            "Rođendan je dvadesetog ožujka.",
+            "Rođendan je 20. ožujka."
           ]
         },
         {
-          "prompt": "Друг у місті в лютому.",
+          "prompt": "Мама в школі в лютому.",
           "accepted": [
-            "Prijatelj je u gradu u veljači.",
-            "U veljači je prijatelj u gradu."
+            "Majka je u školi u veljači.",
+            "U veljači je majka u školi."
           ]
         },
         {
-          "prompt": "Ми в квартирі в листопаді.",
+          "prompt": "Діти в квартирі в листопаді.",
           "accepted": [
-            "Mi smo u stanu u studenom.",
-            "U studenom smo u stanu."
+            "Djeca su u stanu u studenom.",
+            "U studenom su djeca u stanu."
           ]
         },
         {
-          "prompt": "Я читаю книжку у вересні.",
+          "prompt": "Ти читаєш книжку в березні.",
           "accepted": [
-            "Ja čitam knjigu u rujnu.",
-            "U rujnu čitam knjigu."
+            "Ti čitaš knjigu u ožujku.",
+            "U ožujku čitaš knjigu.",
+            "Čitaš knjigu u ožujku.",
+            "U ožujku ti čitaš knjigu."
           ]
         }
       ]
@@ -751,28 +757,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "travnju",
-        "srpnju",
+        "prvi",
         "lipnju",
-        "siječnju",
-        "veljači",
-        "studenom",
+        "dvanaesti",
+        "srpnja",
+        "srpnju",
         "prosincu",
         "listopadu",
-        "Kada",
-        "peti",
-        "dvanaesti",
-        "prvi",
         "petog",
-        "srpnja",
+        "studenom",
+        "siječnju",
+        "veljači",
         "travnja",
-        "studenoga"
+        "travnju",
+        "studenoga",
+        "peti",
+        "Kada"
       ],
       "items": [
         {
           "example": true,
-          "text": "Rođendan je u ___.",
-          "hint": "День народження в квітні.",
+          "text": "Prijatelj je u stanu u ___.",
+          "hint": "Друг у квартирі в квітні.",
           "accepted": [
             [
               "travnju"
@@ -780,8 +786,8 @@
           ]
         },
         {
-          "text": "Rođendan je u ___.",
-          "hint": "День народження в липні.",
+          "text": "Dijete je na moru u ___.",
+          "hint": "Дитина на морі в липні.",
           "accepted": [
             [
               "srpnju"
@@ -816,8 +822,8 @@
           ]
         },
         {
-          "text": "Mi smo u stanu u ___.",
-          "hint": "Ми в квартирі в листопаді.",
+          "text": "Djeca su u stanu u ___.",
+          "hint": "Діти в квартирі в листопаді.",
           "accepted": [
             [
               "studenom"
@@ -825,8 +831,8 @@
           ]
         },
         {
-          "text": "U ___ sam u gradu.",
-          "hint": "У грудні я в місті.",
+          "text": "U ___ sam na poslu.",
+          "hint": "У грудні я на роботі.",
           "accepted": [
             [
               "prosincu"
@@ -834,8 +840,8 @@
           ]
         },
         {
-          "text": "Rođendan je u ___.",
-          "hint": "День народження в жовтні.",
+          "text": "Prijatelj je u gradu u ___.",
+          "hint": "Друг у місті в жовтні.",
           "accepted": [
             [
               "listopadu"
@@ -843,17 +849,18 @@
           ]
         },
         {
-          "text": "___ je rođendan?",
-          "hint": "Коли день народження?",
+          "text": "___ je prijatelj na poslu?",
+          "hint": "Коли друг на роботі?",
           "accepted": [
             [
-              "Kada"
+              "Kada",
+              "Kad"
             ]
           ]
         },
         {
-          "text": "Danas je ___ travnja.",
-          "hint": "Сьогодні п'яте квітня.",
+          "text": "Danas je ___ rujna.",
+          "hint": "Сьогодні п'яте вересня.",
           "accepted": [
             [
               "peti"
@@ -861,8 +868,8 @@
           ]
         },
         {
-          "text": "Danas je ___ srpnja.",
-          "hint": "Сьогодні дванадцяте липня.",
+          "text": "Danas je ___ prosinca.",
+          "hint": "Сьогодні дванадцяте грудня.",
           "accepted": [
             [
               "dvanaesti"
@@ -870,8 +877,8 @@
           ]
         },
         {
-          "text": "Danas je ___ siječnja.",
-          "hint": "Сьогодні перше січня.",
+          "text": "Danas je ___ lipnja.",
+          "hint": "Сьогодні перше червня.",
           "accepted": [
             [
               "prvi"
@@ -879,8 +886,8 @@
           ]
         },
         {
-          "text": "Rođendan je ___ travnja.",
-          "hint": "День народження п'ятого квітня.",
+          "text": "Majka je na moru ___ srpnja.",
+          "hint": "Мама на морі п'ятого липня.",
           "accepted": [
             [
               "petog"
@@ -888,8 +895,8 @@
           ]
         },
         {
-          "text": "Rođendan je dvanaestog ___.",
-          "hint": "День народження дванадцятого липня.",
+          "text": "Danas je prvi ___.",
+          "hint": "Сьогодні перше липня.",
           "accepted": [
             [
               "srpnja"
@@ -897,8 +904,8 @@
           ]
         },
         {
-          "text": "Rođendan je petog ___.",
-          "hint": "День народження п'ятого квітня.",
+          "text": "Dijete je u školi petog ___.",
+          "hint": "Дитина в школі п'ятого квітня.",
           "accepted": [
             [
               "travnja"
@@ -906,8 +913,8 @@
           ]
         },
         {
-          "text": "Rođendan je dvadesetog ___.",
-          "hint": "День народження двадцятого листопада.",
+          "text": "Prijatelj je u gradu prvog ___.",
+          "hint": "Друг у місті першого листопада.",
           "accepted": [
             [
               "studenoga",
@@ -923,24 +930,24 @@
       "items": [
         {
           "example": true,
-          "prompt": "Rođendan je u travnju.",
+          "prompt": "Majka je na moru u lipnju.",
           "cue": "-> дата: peti (5.)",
           "accepted": [
-            "Rođendan je petog travnja."
+            "Majka je na moru petog lipnja."
           ]
         },
         {
-          "prompt": "Rođendan je u srpnju.",
+          "prompt": "Prijatelj je u gradu u kolovozu.",
           "cue": "-> дата: dvanaesti (12.)",
           "accepted": [
-            "Rođendan je dvanaestog srpnja."
+            "Prijatelj je u gradu dvanaestog kolovoza."
           ]
         },
         {
-          "prompt": "Rođendan je u lipnju.",
+          "prompt": "Dijete je u školi u rujnu.",
           "cue": "-> дата: prvi (1.)",
           "accepted": [
-            "Rođendan je prvog lipnja."
+            "Dijete je u školi prvog rujna."
           ]
         },
         {
@@ -951,24 +958,24 @@
           ]
         },
         {
-          "prompt": "Rođendan je petog travnja.",
+          "prompt": "Rođendan je petog prosinca.",
           "cue": "-> почни з Danas (яка сьогодні дата)",
           "accepted": [
-            "Danas je peti travnja."
+            "Danas je peti prosinca."
           ]
         },
         {
-          "prompt": "Rođendan je prvog siječnja.",
+          "prompt": "Rođendan je prvog ožujka.",
           "cue": "-> почни з Danas (яка сьогодні дата)",
           "accepted": [
-            "Danas je prvi siječnja."
+            "Danas je prvi ožujka."
           ]
         },
         {
-          "prompt": "Rođendan je dvanaestog srpnja.",
+          "prompt": "Rođendan je dvanaestog listopada.",
           "cue": "-> почни з Danas (яка сьогодні дата)",
           "accepted": [
-            "Danas je dvanaesti srpnja."
+            "Danas je dvanaesti listopada."
           ]
         },
         {
@@ -1000,24 +1007,24 @@
           ]
         },
         {
-          "prompt": "Rođendan je u travanj.",
+          "prompt": "Majka je u gradu u kolovoz.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Rođendan je u travnju."
+            "Majka je u gradu u kolovozu."
           ]
         },
         {
-          "prompt": "Rođendan je u srpanj.",
+          "prompt": "Dijete je na moru u srpanj.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Rođendan je u srpnju."
+            "Dijete je na moru u srpnju."
           ]
         },
         {
-          "prompt": "Rođendan je petog travanj.",
+          "prompt": "Majka je na poslu petog svibanj.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Rođendan je petog travnja."
+            "Majka je na poslu petog svibnja."
           ]
         },
         {

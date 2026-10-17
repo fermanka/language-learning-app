@@ -4,7 +4,12 @@
   "order": 15,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "bocu",
+    "luka",
+    "stanova",
+    "parka"
+  ],
   "notes": [
     {
       "id": "hr-af7a3588",
@@ -735,95 +740,106 @@
       "items": [
         {
           "example": true,
-          "prompt": "Дайте мені п'ять хлібів.",
+          "prompt": "Дайте мені п'ять лимонів.",
           "accepted": [
-            "Dajte mi pet kruhova."
+            "Dajte mi pet limuna."
           ]
         },
         {
-          "prompt": "Дайте мені десять яєць.",
+          "prompt": "Дайте мені десять полуниць.",
           "accepted": [
-            "Dajte mi deset jaja."
+            "Dajte mi deset jagoda."
           ]
         },
         {
-          "prompt": "Мені потрібно багато яблук.",
+          "prompt": "Мені потрібно багато лимонів.",
           "accepted": [
-            "Trebam puno jabuka."
+            "Trebam puno limuna.",
+            "Ja trebam puno limuna."
           ]
         },
         {
-          "prompt": "У мене мало лимонів.",
+          "prompt": "У мене мало бананів.",
           "accepted": [
-            "Imam malo limuna."
+            "Imam malo banana.",
+            "Ja imam malo banana."
           ]
         },
         {
-          "prompt": "Я купую кілька бананів.",
+          "prompt": "Я купую кілька яблук.",
           "accepted": [
-            "Kupujem nekoliko banana."
+            "Kupujem nekoliko jabuka.",
+            "Ja kupujem nekoliko jabuka."
           ]
         },
         {
-          "prompt": "У магазині є досить помідорів.",
+          "prompt": "У магазині є досить яєць.",
           "accepted": [
-            "U dućanu ima dosta rajčica."
+            "U dućanu ima dosta jaja.",
+            "U trgovini ima dosta jaja."
           ]
         },
         {
-          "prompt": "Дайте мені кілограм яблук.",
+          "prompt": "Дайте мені кілограм помідорів.",
           "accepted": [
-            "Dajte mi kilogram jabuka."
+            "Dajte mi kilogram rajčica."
           ]
         },
         {
-          "prompt": "Дайте мені пів кілограма сиру.",
+          "prompt": "Дайте мені пів кілограма яблук.",
           "accepted": [
-            "Dajte mi pola kilograma sira."
+            "Dajte mi pola kilograma jabuka."
           ]
         },
         {
-          "prompt": "Літр молока коштує два євро.",
+          "prompt": "Літр вина коштує десять євро.",
           "accepted": [
-            "Litra mlijeka košta dva eura."
+            "Litra vina košta deset eura.",
+            "Litra vina košta 10 eura."
           ]
         },
         {
-          "prompt": "Пляшка вина коштує п'ять євро.",
+          "prompt": "Пляшка соку коштує три євро.",
           "accepted": [
-            "Boca vina košta pet eura."
+            "Boca soka košta tri eura.",
+            "Boca soka košta 3 eura."
           ]
         },
         {
-          "prompt": "Дайте мені шматок сиру, будь ласка.",
+          "prompt": "Дайте мені шматок м'яса, будь ласка.",
           "accepted": [
-            "Dajte mi komad sira, molim."
+            "Dajte mi komad mesa, molim.",
+            "Molim, dajte mi komad mesa."
           ]
         },
         {
-          "prompt": "У мене пачка кави.",
+          "prompt": "У мене пляшка вина.",
           "accepted": [
-            "Imam paket kave."
+            "Imam bocu vina.",
+            "Ja imam bocu vina."
           ]
         },
         {
-          "prompt": "Яблук у магазині немає.",
+          "prompt": "Лимонів у магазині немає.",
           "accepted": [
-            "Nema jabuka u dućanu.",
-            "U dućanu nema jabuka."
+            "Nema limuna u dućanu.",
+            "U dućanu nema limuna.",
+            "Nema limuna u trgovini.",
+            "U trgovini nema limuna."
           ]
         },
         {
-          "prompt": "П'ять полуниць коштують один євро.",
+          "prompt": "Десять яєць коштують три євро.",
           "accepted": [
-            "Pet jagoda košta jedan euro.",
-            "Pet jagoda koštaju jedan euro."
+            "Deset jaja košta tri eura.",
+            "Deset jaja koštaju tri eura."
           ]
         },
         {
-          "prompt": "У мене мішечок картоплі.",
+          "prompt": "У мене мішечок цибулі.",
           "accepted": [
-            "Imam vrećicu krumpira."
+            "Imam vrećicu luka.",
+            "Ja imam vrećicu luka."
           ]
         }
       ]
@@ -832,55 +848,33 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
+        "vrećicu",
+        "rajčica",
+        "jagoda",
+        "Nema",
         "kruhova",
+        "Boca",
+        "kolača",
+        "puno",
+        "banana",
+        "komad",
+        "paket",
+        "malo",
+        "nekoliko",
         "jaja",
+        "sokova",
+        "Litra",
         "jabuka",
         "limuna",
-        "banana",
-        "rajčica",
-        "sokova",
         "kilograma",
-        "komad",
-        "Litra",
-        "Boca",
-        "vrećicu",
-        "paket",
-        "puno",
-        "malo",
-        "Nema"
+        "boca",
+        "bocu"
       ],
       "items": [
         {
           "example": true,
           "text": "Dajte mi pet ___.",
-          "hint": "Дайте мені п'ять хлібів.",
-          "accepted": [
-            [
-              "kruhova"
-            ]
-          ]
-        },
-        {
-          "text": "Dajte mi deset ___.",
-          "hint": "Дайте мені десять яєць.",
-          "accepted": [
-            [
-              "jaja"
-            ]
-          ]
-        },
-        {
-          "text": "Trebam puno ___.",
-          "hint": "Мені потрібно багато яблук.",
-          "accepted": [
-            [
-              "jabuka"
-            ]
-          ]
-        },
-        {
-          "text": "Imam malo ___.",
-          "hint": "У мене мало лимонів.",
+          "hint": "Дайте мені п'ять лимонів.",
           "accepted": [
             [
               "limuna"
@@ -888,17 +882,26 @@
           ]
         },
         {
-          "text": "Kupujem nekoliko ___.",
-          "hint": "Я купую кілька бананів.",
+          "text": "Dajte mi deset ___.",
+          "hint": "Дайте мені десять тістечок.",
           "accepted": [
             [
-              "banana"
+              "kolača"
             ]
           ]
         },
         {
-          "text": "U dućanu ima dosta ___.",
-          "hint": "У магазині є досить помідорів.",
+          "text": "Trebam puno ___.",
+          "hint": "Мені потрібно багато полуниць.",
+          "accepted": [
+            [
+              "jagoda"
+            ]
+          ]
+        },
+        {
+          "text": "Imam malo ___.",
+          "hint": "У мене мало помідорів.",
           "accepted": [
             [
               "rajčica"
@@ -906,8 +909,26 @@
           ]
         },
         {
-          "text": "Dajte mi pet ___.",
-          "hint": "Дайте мені п'ять соків.",
+          "text": "Kupujem nekoliko ___.",
+          "hint": "Я купую кілька пляшок.",
+          "accepted": [
+            [
+              "boca"
+            ]
+          ]
+        },
+        {
+          "text": "U dućanu ima dosta ___.",
+          "hint": "У магазині є досить бананів.",
+          "accepted": [
+            [
+              "banana"
+            ]
+          ]
+        },
+        {
+          "text": "Trebam dvanaest ___.",
+          "hint": "Мені потрібно дванадцять соків.",
           "accepted": [
             [
               "sokova"
@@ -915,8 +936,8 @@
           ]
         },
         {
-          "text": "Dajte mi pola ___ sira.",
-          "hint": "Дайте мені пів кілограма сиру.",
+          "text": "Dajte mi pet ___ jabuka.",
+          "hint": "Дайте мені п'ять кілограмів яблук.",
           "accepted": [
             [
               "kilograma"
@@ -933,17 +954,8 @@
           ]
         },
         {
-          "text": "___ mlijeka košta dva eura.",
-          "hint": "Літр молока коштує два євро.",
-          "accepted": [
-            [
-              "Litra"
-            ]
-          ]
-        },
-        {
-          "text": "___ vina košta pet eura.",
-          "hint": "Пляшка вина коштує п'ять євро.",
+          "text": "___ soka košta tri eura.",
+          "hint": "Пляшка соку коштує три євро.",
           "accepted": [
             [
               "Boca"
@@ -951,8 +963,17 @@
           ]
         },
         {
-          "text": "Imam ___ krumpira.",
-          "hint": "У мене мішечок картоплі.",
+          "text": "___ vina košta deset eura.",
+          "hint": "Літр вина коштує десять євро.",
+          "accepted": [
+            [
+              "Litra"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ luka.",
+          "hint": "У мене мішечок цибулі.",
           "accepted": [
             [
               "vrećicu"
@@ -960,26 +981,26 @@
           ]
         },
         {
-          "text": "Imam ___ kave.",
-          "hint": "У мене пачка кави.",
+          "text": "Imam ___ vina.",
+          "hint": "У мене пляшка вина.",
           "accepted": [
             [
-              "paket"
+              "bocu"
             ]
           ]
         },
         {
-          "text": "Imam ___ eura.",
-          "hint": "У мене мало євро.",
+          "text": "Imam ___ jabuka.",
+          "hint": "У мене кілька яблук.",
           "accepted": [
             [
-              "malo"
+              "nekoliko"
             ]
           ]
         },
         {
-          "text": "___ jabuka u dućanu.",
-          "hint": "Яблук у магазині немає.",
+          "text": "___ limuna u dućanu.",
+          "hint": "Лимонів у магазині немає.",
           "accepted": [
             [
               "Nema"
@@ -1003,10 +1024,10 @@
       "items": [
         {
           "example": true,
-          "prompt": "Imam jedan kruh.",
+          "prompt": "Imam jedan stan.",
           "cue": "-> п'ять (pet)",
           "accepted": [
-            "Imam pet kruhova."
+            "Imam pet stanova."
           ]
         },
         {
@@ -1017,10 +1038,10 @@
           ]
         },
         {
-          "prompt": "Imam jednu jabuku.",
+          "prompt": "Imam jednu knjigu.",
           "cue": "-> п'ять (pet)",
           "accepted": [
-            "Imam pet jabuka."
+            "Imam pet knjiga."
           ]
         },
         {
@@ -1038,24 +1059,24 @@
           ]
         },
         {
-          "prompt": "Imam jedan kruh.",
+          "prompt": "Imam jedan park.",
           "cue": "-> два (dva)",
           "accepted": [
-            "Imam dva kruha."
+            "Imam dva parka."
           ]
         },
         {
-          "prompt": "Imam jednu jabuku.",
+          "prompt": "Imam jednu kuću.",
           "cue": "-> дві (dvije)",
           "accepted": [
-            "Imam dvije jabuke."
+            "Imam dvije kuće."
           ]
         },
         {
-          "prompt": "Imam jedno jaje.",
+          "prompt": "Imam jedan kolač.",
           "cue": "-> три (tri)",
           "accepted": [
-            "Imam tri jaja."
+            "Imam tri kolača."
           ]
         },
         {
@@ -1087,10 +1108,10 @@
           ]
         },
         {
-          "prompt": "Dajte mi pet kruha.",
+          "prompt": "Dajte mi deset jagode.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajte mi pet kruhova."
+            "Dajte mi deset jagoda."
           ]
         },
         {
@@ -1101,10 +1122,10 @@
           ]
         },
         {
-          "prompt": "Trebam puno jabuke.",
+          "prompt": "Trebam puno banane.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Trebam puno jabuka."
+            "Trebam puno banana."
           ]
         },
         {

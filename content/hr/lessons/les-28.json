@@ -4,7 +4,15 @@
   "order": 28,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "kolodvora",
+    "parka",
+    "brate",
+    "sestro",
+    "direktore",
+    "kolego",
+    "susjede"
+  ],
   "notes": [
     {
       "id": "hr-2955d24d",
@@ -470,93 +478,93 @@
       "items": [
         {
           "example": true,
-          "prompt": "Іду ліворуч.",
+          "prompt": "Іван іде ліворуч.",
           "accepted": [
-            "Idem lijevo."
+            "Ivan ide lijevo."
           ]
         },
         {
-          "prompt": "Іду праворуч.",
+          "prompt": "Сестра йде праворуч.",
           "accepted": [
-            "Idem desno."
+            "Sestra ide desno."
           ]
         },
         {
-          "prompt": "Іду прямо.",
+          "prompt": "Марія йде прямо.",
           "accepted": [
-            "Idem pravo."
+            "Marija ide pravo."
           ]
         },
         {
-          "prompt": "Світлофор там.",
+          "prompt": "Вокзал там.",
           "accepted": [
-            "Semafor je tamo."
+            "Kolodvor je tamo."
           ]
         },
         {
-          "prompt": "Перехрестя близько.",
+          "prompt": "Ринок близько.",
           "accepted": [
-            "Raskrižje je blizu."
+            "Tržnica je blizu."
           ]
         },
         {
-          "prompt": "Готель далеко.",
+          "prompt": "Банк далеко.",
           "accepted": [
-            "Hotel je daleko."
+            "Banka je daleko."
           ]
         },
         {
-          "prompt": "Школа поблизу дому.",
+          "prompt": "Кав'ярня поблизу пошти.",
           "accepted": [
-            "Škola je blizu kuće."
+            "Kafić je blizu pošte."
           ]
         },
         {
-          "prompt": "Аптека далеко від пошти.",
+          "prompt": "Вокзал далеко від готелю.",
           "accepted": [
-            "Ljekarna je daleko od pošte."
+            "Kolodvor je daleko od hotela."
           ]
         },
         {
-          "prompt": "Нагорі ванна, а внизу кухня.",
+          "prompt": "Нагорі балкон, а внизу сад.",
           "accepted": [
-            "Gore je kupaonica, a dolje je kuhinja."
+            "Gore je balkon, a dolje je vrt."
           ]
         },
         {
-          "prompt": "Бачу його там.",
+          "prompt": "Чекаю його там.",
           "accepted": [
-            "Vidim ga tamo."
+            "Čekam ga tamo."
           ]
         },
         {
-          "prompt": "Іван дав мені ключ.",
+          "prompt": "Сестра дала мені куртку.",
           "accepted": [
-            "Ivan mi je dao ključ."
+            "Sestra mi je dala jaknu."
           ]
         },
         {
-          "prompt": "Іване, відчини вікно.",
+          "prompt": "Іване, відчини двері.",
           "accepted": [
-            "Ivane, otvori prozor."
+            "Ivane, otvori vrata."
           ]
         },
         {
-          "prompt": "Маріє, де ключ?",
+          "prompt": "Маріє, де твоя куртка?",
           "accepted": [
-            "Marijo, gdje je ključ?"
+            "Marijo, gdje je tvoja jakna?"
           ]
         },
         {
-          "prompt": "Лікарю, болить голова.",
+          "prompt": "Лікарю, болить живіт.",
           "accepted": [
-            "Liječniče, boli me glava."
+            "Liječniče, boli me trbuh."
           ]
         },
         {
-          "prompt": "Іде сніг.",
+          "prompt": "У п'ятницю йде дощ.",
           "accepted": [
-            "Pada snijeg."
+            "U petak pada kiša."
           ]
         }
       ]
@@ -565,28 +573,31 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "lijevo",
-        "desno",
-        "pravo",
-        "tamo",
-        "blizu",
-        "daleko",
-        "gore",
-        "dolje",
         "ga",
+        "desno",
         "mi",
         "te",
-        "Ivane",
+        "čovjeka",
         "Marijo",
-        "liječniče",
+        "daleko",
+        "dolje",
+        "pravo",
+        "Gore",
+        "lijevo",
         "kuhinju",
-        "čovjeka"
+        "tamo",
+        "Liječniče",
+        "blizu",
+        "Ivane",
+        "Dolje",
+        "gore",
+        "liječniče"
       ],
       "items": [
         {
           "example": true,
-          "text": "Idem ___.",
-          "hint": "Іду ліворуч.",
+          "text": "Autobus ide ___.",
+          "hint": "Автобус їде ліворуч.",
           "accepted": [
             [
               "lijevo"
@@ -594,8 +605,8 @@
           ]
         },
         {
-          "text": "Idem ___.",
-          "hint": "Іду праворуч.",
+          "text": "Vlak ide ___.",
+          "hint": "Поїзд їде праворуч.",
           "accepted": [
             [
               "desno"
@@ -603,8 +614,8 @@
           ]
         },
         {
-          "text": "Idem ___, ne desno.",
-          "hint": "Іду прямо.",
+          "text": "Idem ___, ne lijevo.",
+          "hint": "Іду прямо, не ліворуч.",
           "accepted": [
             [
               "pravo"
@@ -612,8 +623,8 @@
           ]
         },
         {
-          "text": "Semafor je ___.",
-          "hint": "Світлофор там.",
+          "text": "Ljekarna je ___.",
+          "hint": "Аптека там.",
           "accepted": [
             [
               "tamo"
@@ -621,8 +632,8 @@
           ]
         },
         {
-          "text": "Škola je ___ kuće.",
-          "hint": "Школа поблизу дому.",
+          "text": "Hotel je ___ kolodvora.",
+          "hint": "Готель поблизу вокзалу.",
           "accepted": [
             [
               "blizu"
@@ -630,8 +641,8 @@
           ]
         },
         {
-          "text": "Ljekarna je ___ od pošte.",
-          "hint": "Аптека далеко від пошти.",
+          "text": "Škola je ___ od parka.",
+          "hint": "Школа далеко від парку.",
           "accepted": [
             [
               "daleko"
@@ -657,8 +668,8 @@
           ]
         },
         {
-          "text": "Vidim ___ tamo.",
-          "hint": "Бачу його там.",
+          "text": "Pitam ___ danas.",
+          "hint": "Питаю його сьогодні.",
           "accepted": [
             [
               "ga"
@@ -666,8 +677,8 @@
           ]
         },
         {
-          "text": "Ivan ___ je dao ključ.",
-          "hint": "Іван дав мені ключ.",
+          "text": "Majka ___ je dala kaput.",
+          "hint": "Мама дала мені пальто.",
           "accepted": [
             [
               "mi"
@@ -675,8 +686,8 @@
           ]
         },
         {
-          "text": "Ivane, vidim ___ tamo.",
-          "hint": "Іване, бачу тебе там.",
+          "text": "Marijo, vidim ___ ovdje.",
+          "hint": "Маріє, бачу тебе тут.",
           "accepted": [
             [
               "te"
@@ -684,8 +695,8 @@
           ]
         },
         {
-          "text": "___, otvori prozor.",
-          "hint": "Іване, відчини вікно.",
+          "text": "___, gdje je tvoj ključ?",
+          "hint": "Іване, де твій ключ?",
           "accepted": [
             [
               "Ivane"
@@ -693,8 +704,8 @@
           ]
         },
         {
-          "text": "___, gdje je ključ?",
-          "hint": "Маріє, де ключ?",
+          "text": "___, tvoj brat je ovdje.",
+          "hint": "Маріє, твій брат тут.",
           "accepted": [
             [
               "Marijo"
@@ -702,8 +713,8 @@
           ]
         },
         {
-          "text": "___, boli me glava.",
-          "hint": "Лікарю, болить голова.",
+          "text": "___, boli me grlo.",
+          "hint": "Лікарю, болить горло.",
           "accepted": [
             [
               "Liječniče"
@@ -720,8 +731,8 @@
           ]
         },
         {
-          "text": "Vidim ___ tamo.",
-          "hint": "Бачу чоловіка там.",
+          "text": "Čekam ___ ovdje.",
+          "hint": "Чекаю чоловіка тут.",
           "accepted": [
             [
               "čovjeka"
@@ -736,24 +747,24 @@
       "items": [
         {
           "example": true,
-          "prompt": "Idem lijevo.",
+          "prompt": "Brat ide lijevo.",
           "cue": "-> праворуч",
           "accepted": [
-            "Idem desno."
+            "Brat ide desno."
           ]
         },
         {
-          "prompt": "Idem desno.",
+          "prompt": "Majka ide desno.",
           "cue": "-> прямо",
           "accepted": [
-            "Idem pravo."
+            "Majka ide pravo."
           ]
         },
         {
-          "prompt": "Hotel je blizu.",
+          "prompt": "Pošta je blizu.",
           "cue": "-> далеко",
           "accepted": [
-            "Hotel je daleko."
+            "Pošta je daleko."
           ]
         },
         {
@@ -764,38 +775,38 @@
           ]
         },
         {
-          "prompt": "Ivan je mi dao ključ.",
+          "prompt": "Brat je mi dao kaput.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ivan mi je dao ključ."
+            "Brat mi je dao kaput."
           ]
         },
         {
-          "prompt": "Ga vidim tamo.",
+          "prompt": "Ga zovem sutra.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim ga tamo."
+            "Zovem ga sutra."
           ]
         },
         {
-          "prompt": "Ivan, otvori prozor.",
+          "prompt": "Brat, gdje je kaput?",
           "cue": "-> кличний",
           "accepted": [
-            "Ivane, otvori prozor."
+            "Brate, gdje je kaput?"
           ]
         },
         {
-          "prompt": "Marija, gdje je ključ?",
+          "prompt": "Sestra, otvori vrata.",
           "cue": "-> кличний",
           "accepted": [
-            "Marijo, gdje je ključ?"
+            "Sestro, otvori vrata."
           ]
         },
         {
-          "prompt": "Liječnik, boli me glava.",
+          "prompt": "Direktor, gdje je ured?",
           "cue": "-> кличний",
           "accepted": [
-            "Liječniče, boli me glava."
+            "Direktore, gdje je ured?"
           ]
         },
         {
@@ -813,10 +824,10 @@
           ]
         },
         {
-          "prompt": "Vidim čovjek tamo.",
+          "prompt": "Vidim brat ovdje.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim čovjeka tamo."
+            "Vidim brata ovdje."
           ]
         },
         {
@@ -827,10 +838,10 @@
           ]
         },
         {
-          "prompt": "Škola je blizu od kuće.",
+          "prompt": "Park je blizu od škole.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Škola je blizu kuće."
+            "Park je blizu škole."
           ]
         },
         {
@@ -1017,57 +1028,57 @@
       "items": [
         {
           "example": true,
-          "prompt": "Іване, відчини вікно.",
+          "prompt": "Брате, відчини вікно.",
           "accepted": [
-            "Ivane, otvori prozor."
+            "Brate, otvori prozor."
           ]
         },
         {
-          "prompt": "Маріє, де ключ?",
+          "prompt": "Мамо, де мій капелюх?",
           "accepted": [
-            "Marijo, gdje je ključ?"
+            "Majko, gdje je moj šešir?"
           ]
         },
         {
-          "prompt": "Лікарю, болить голова.",
+          "prompt": "Колего, де твій офіс?",
           "accepted": [
-            "Liječniče, boli me glava."
+            "Kolego, gdje je tvoj ured?"
           ]
         },
         {
-          "prompt": "Бачу його там.",
+          "prompt": "Чекаю його перед школою.",
           "accepted": [
-            "Vidim ga tamo."
+            "Čekam ga ispred škole."
           ]
         },
         {
-          "prompt": "Іван дав мені ключ.",
+          "prompt": "Сусід дав тобі ключ.",
           "accepted": [
-            "Ivan mi je dao ključ."
+            "Susjed ti je dao ključ."
           ]
         },
         {
-          "prompt": "Прибираю кухню і ванну.",
+          "prompt": "Прибираю квартиру і кімнату.",
           "accepted": [
-            "Čistim kuhinju i kupaonicu."
+            "Čistim stan i sobu."
           ]
         },
         {
-          "prompt": "Бачу чоловіка там.",
+          "prompt": "Бачу чоловіка перед готелем.",
           "accepted": [
-            "Vidim čovjeka tamo."
+            "Vidim čovjeka ispred hotela."
           ]
         },
         {
-          "prompt": "Погода гарна.",
+          "prompt": "Літо тепле.",
           "accepted": [
-            "Vrijeme je lijepo."
+            "Ljeto je toplo."
           ]
         },
         {
-          "prompt": "Аптека близько.",
+          "prompt": "Школа далеко.",
           "accepted": [
-            "Ljekarna je blizu."
+            "Škola je daleko."
           ]
         },
         {
@@ -1108,24 +1119,24 @@
       "items": [
         {
           "example": true,
-          "prompt": "Ivan je mi dao ključ.",
+          "prompt": "Sestra je ti dala jaknu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ivan mi je dao ključ."
+            "Sestra ti je dala jaknu."
           ]
         },
         {
-          "prompt": "Ga vidim tamo.",
+          "prompt": "Te čekam kod kuće.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim ga tamo."
+            "Čekam te kod kuće."
           ]
         },
         {
-          "prompt": "Marija, gdje je ključ?",
+          "prompt": "Susjed, ključ je ovdje.",
           "cue": "-> кличний",
           "accepted": [
-            "Marijo, gdje je ključ?"
+            "Susjede, ključ je ovdje."
           ]
         },
         {
@@ -1136,10 +1147,10 @@
           ]
         },
         {
-          "prompt": "Vidim čovjek tamo.",
+          "prompt": "Vidim pas ispred kuće.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim čovjeka tamo."
+            "Vidim psa ispred kuće."
           ]
         },
         {
@@ -1178,10 +1189,10 @@
           ]
         },
         {
-          "prompt": "Idem desno.",
+          "prompt": "Majka ide lijevo.",
           "cue": "-> прямо",
           "accepted": [
-            "Idem pravo."
+            "Majka ide pravo."
           ]
         },
         {

@@ -4,7 +4,10 @@
   "order": 18,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "salatu",
+    "naranču"
+  ],
   "notes": [
     {
       "id": "hr-c08caab7",
@@ -627,99 +630,103 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я хотіла б каву.",
+          "prompt": "Я хотіла б воду.",
           "accepted": [
-            "Željela bih kavu.",
-            "Ja bih željela kavu."
+            "Željela bih vodu.",
+            "Ja bih željela vodu."
           ]
         },
         {
-          "prompt": "Я хотів би сік.",
+          "prompt": "Я хотів би яблуко.",
           "accepted": [
-            "Želio bih sok.",
-            "Ja bih želio sok."
+            "Želio bih jabuku.",
+            "Ja bih želio jabuku."
           ]
         },
         {
-          "prompt": "Що б ви хотіли?",
+          "prompt": "Що б ти хотіла?",
           "accepted": [
-            "Što biste željeli?"
+            "Što bi željela?",
+            "Što bi ti željela?"
           ]
         },
         {
-          "prompt": "Ми хотіли б суп.",
+          "prompt": "Ми хотіли б салат.",
           "accepted": [
-            "Željeli bismo juhu.",
-            "Mi bismo željeli juhu."
+            "Željeli bismo salatu.",
+            "Mi bismo željeli salatu."
           ]
         },
         {
-          "prompt": "Я б охоче купила сир.",
+          "prompt": "Я б охоче замовив вино.",
           "accepted": [
-            "Rado bih kupila sir."
+            "Rado bih naručio vino.",
+            "Ja bih rado naručio vino."
           ]
         },
         {
-          "prompt": "Я б купила хліб, але він дорогий.",
+          "prompt": "Я б купила сік, але він дорогий.",
           "accepted": [
-            "Kupila bih kruh, ali je skup.",
-            "Kupila bih kruh ali je skup."
+            "Kupila bih sok, ali je skup.",
+            "Kupila bih sok ali je skup.",
+            "Ja bih kupila sok, ali je skup."
           ]
         },
         {
-          "prompt": "Я б хотіла піти в парк.",
+          "prompt": "Я б хотіла піти в банк.",
           "accepted": [
-            "Voljela bih ići u park.",
-            "Željela bih ići u park."
+            "Voljela bih ići u banku.",
+            "Željela bih ići u banku."
           ]
         },
         {
-          "prompt": "Я могла б почекати п'ять хвилин.",
+          "prompt": "Я могла б почекати десять хвилин.",
           "accepted": [
-            "Mogla bih čekati pet minuta."
+            "Mogla bih čekati deset minuta."
           ]
         },
         {
-          "prompt": "Мені слід би купити хліб.",
+          "prompt": "Мені слід би купити молоко.",
           "accepted": [
-            "Trebala bih kupiti kruh.",
-            "Trebao bih kupiti kruh."
+            "Trebala bih kupiti mlijeko.",
+            "Trebao bih kupiti mlijeko."
           ]
         },
         {
-          "prompt": "Мама купила б сир.",
+          "prompt": "Сестра купила б хліб.",
           "accepted": [
-            "Majka bi kupila sir."
+            "Sestra bi kupila kruh."
           ]
         },
         {
-          "prompt": "Я б не працювала в неділю.",
+          "prompt": "Я б не працювала в суботу.",
           "accepted": [
-            "Ne bih radila u nedjelju."
+            "Ne bih radila u subotu."
           ]
         },
         {
-          "prompt": "Ми б не чекали.",
+          "prompt": "Ми б не купили м'ясо.",
           "accepted": [
-            "Ne bismo čekali."
+            "Ne bismo kupili meso.",
+            "Mi ne bismo kupili meso."
           ]
         },
         {
-          "prompt": "Чи могла б я замовити суп?",
+          "prompt": "Чи могла б я замовити каву?",
           "accepted": [
-            "Bih li mogla naručiti juhu?"
+            "Bih li mogla naručiti kavu?"
           ]
         },
         {
-          "prompt": "Чи ви б почекали п'ять хвилин?",
+          "prompt": "Чи ви б купили тістечко?",
           "accepted": [
-            "Biste li čekali pet minuta?"
+            "Biste li kupili kolač?"
           ]
         },
         {
-          "prompt": "Чи брат прийшов би?",
+          "prompt": "Чи мама почекала б?",
           "accepted": [
-            "Bi li brat došao?"
+            "Bi li majka čekala?"
           ]
         }
       ]
@@ -728,28 +735,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "bih",
-        "bi",
-        "bismo",
-        "biste",
-        "Željela",
-        "Želio",
-        "Željeli",
         "kupila",
-        "kupio",
         "kupili",
-        "čekali",
-        "došao",
-        "Bih",
+        "Željela",
+        "Željeli",
         "Biste",
+        "Želio",
+        "Bih",
+        "bih",
+        "kupio",
+        "bismo",
+        "čekali",
+        "biste",
+        "došao",
         "Bi",
-        "Ne"
+        "Ne",
+        "bi"
       ],
       "items": [
         {
           "example": true,
-          "text": "Željela ___ kavu.",
-          "hint": "Я хотіла б каву.",
+          "text": "Čitala ___ knjigu.",
+          "hint": "Я б читала книжку.",
           "accepted": [
             [
               "bih"
@@ -757,8 +764,8 @@
           ]
         },
         {
-          "text": "Majka ___ kupila sir.",
-          "hint": "Мама купила б сир.",
+          "text": "Brat ___ kupio kolač.",
+          "hint": "Брат купив би тістечко.",
           "accepted": [
             [
               "bi"
@@ -766,8 +773,8 @@
           ]
         },
         {
-          "text": "Mi ___ kupili sir.",
-          "hint": "Ми купили б сир.",
+          "text": "Mi ___ kupili jabuku.",
+          "hint": "Ми купили б яблуко.",
           "accepted": [
             [
               "bismo"
@@ -775,8 +782,8 @@
           ]
         },
         {
-          "text": "Vi ___ čekali.",
-          "hint": "Ви чекали б.",
+          "text": "Vi ___ kupili vino.",
+          "hint": "Ви купили б вино.",
           "accepted": [
             [
               "biste"
@@ -784,8 +791,8 @@
           ]
         },
         {
-          "text": "___ bih sok.",
-          "hint": "Я хотів би сік.",
+          "text": "___ bih naranču.",
+          "hint": "Я хотів би апельсин.",
           "accepted": [
             [
               "Želio"
@@ -793,8 +800,8 @@
           ]
         },
         {
-          "text": "___ bih kavu.",
-          "hint": "Я хотіла б каву.",
+          "text": "___ bih sok.",
+          "hint": "Я хотіла б сік.",
           "accepted": [
             [
               "Željela"
@@ -802,8 +809,8 @@
           ]
         },
         {
-          "text": "___ bismo juhu.",
-          "hint": "Ми хотіли б суп.",
+          "text": "___ bismo kavu.",
+          "hint": "Ми хотіли б каву.",
           "accepted": [
             [
               "Željeli"
@@ -811,8 +818,8 @@
           ]
         },
         {
-          "text": "Rado bih ___ sir.",
-          "hint": "Я б охоче купила сир.",
+          "text": "Rado bih ___ jabuku.",
+          "hint": "Я б охоче купила яблуко.",
           "accepted": [
             [
               "kupila"
@@ -820,8 +827,8 @@
           ]
         },
         {
-          "text": "Možda bih ___ meso.",
-          "hint": "Можливо, я б купив м'ясо.",
+          "text": "Možda bih ___ vino.",
+          "hint": "Можливо, я б купив вино.",
           "accepted": [
             [
               "kupio"
@@ -829,8 +836,8 @@
           ]
         },
         {
-          "text": "Mi bismo ___ sir.",
-          "hint": "Ми купили б сир.",
+          "text": "Mi bismo ___ mlijeko.",
+          "hint": "Ми б купили молоко.",
           "accepted": [
             [
               "kupili"
@@ -838,8 +845,8 @@
           ]
         },
         {
-          "text": "Ne bismo ___.",
-          "hint": "Ми б не чекали.",
+          "text": "Ne biste ___.",
+          "hint": "Ви б не чекали.",
           "accepted": [
             [
               "čekali"
@@ -847,8 +854,8 @@
           ]
         },
         {
-          "text": "Bi li brat ___?",
-          "hint": "Чи брат прийшов би?",
+          "text": "Bi li sin ___?",
+          "hint": "Чи син прийшов би?",
           "accepted": [
             [
               "došao"
@@ -856,8 +863,8 @@
           ]
         },
         {
-          "text": "___ li mogla naručiti juhu?",
-          "hint": "Чи могла б я замовити суп?",
+          "text": "___ li mogla naručiti salatu?",
+          "hint": "Чи могла б я замовити салат?",
           "accepted": [
             [
               "Bih"
@@ -865,8 +872,8 @@
           ]
         },
         {
-          "text": "___ li čekali pet minuta?",
-          "hint": "Чи ви б почекали п'ять хвилин?",
+          "text": "___ li željeli stol?",
+          "hint": "Чи ви б хотіли стіл?",
           "accepted": [
             [
               "Biste"
@@ -874,8 +881,8 @@
           ]
         },
         {
-          "text": "___ li brat došao?",
-          "hint": "Чи брат прийшов би?",
+          "text": "___ li majka kupila meso?",
+          "hint": "Чи мама купила б м'ясо?",
           "accepted": [
             [
               "Bi"
@@ -883,8 +890,8 @@
           ]
         },
         {
-          "text": "___ bih radila u nedjelju.",
-          "hint": "Я б не працювала в неділю.",
+          "text": "___ bih čekala.",
+          "hint": "Я б не чекала.",
           "accepted": [
             [
               "Ne"
@@ -899,17 +906,17 @@
       "items": [
         {
           "example": true,
-          "prompt": "Želim kavu.",
+          "prompt": "Želim mlijeko.",
           "cue": "-> умовний (я, жін.)",
           "accepted": [
-            "Željela bih kavu."
+            "Željela bih mlijeko."
           ]
         },
         {
-          "prompt": "Želim sok.",
+          "prompt": "Želim stol.",
           "cue": "-> умовний (я, чол.)",
           "accepted": [
-            "Želio bih sok."
+            "Želio bih stol."
           ]
         },
         {
@@ -920,25 +927,25 @@
           ]
         },
         {
-          "prompt": "Majka kupuje sir.",
+          "prompt": "Sestra kupuje jabuku.",
           "cue": "-> умовний",
           "accepted": [
-            "Majka bi kupila sir."
+            "Sestra bi kupila jabuku."
           ]
         },
         {
-          "prompt": "Brat čita knjigu.",
+          "prompt": "Otac čita knjigu.",
           "cue": "-> умовний",
           "accepted": [
-            "Brat bi čitao knjigu."
+            "Otac bi čitao knjigu."
           ]
         },
         {
-          "prompt": "Mi kupujemo sir.",
+          "prompt": "Mi kupujemo kruh.",
           "cue": "-> умовний (kupiti)",
           "accepted": [
-            "Mi bismo kupili sir.",
-            "Kupili bismo sir."
+            "Mi bismo kupili kruh.",
+            "Kupili bismo kruh."
           ]
         },
         {
@@ -950,67 +957,67 @@
           ]
         },
         {
-          "prompt": "Radim u nedjelju.",
+          "prompt": "Radim u petak.",
           "cue": "-> умовний, заперечення (жін.)",
           "accepted": [
-            "Ne bih radila u nedjelju."
+            "Ne bih radila u petak."
           ]
         },
         {
-          "prompt": "Čekamo.",
+          "prompt": "Čitamo.",
           "cue": "-> умовний, заперечення",
           "accepted": [
-            "Ne bismo čekali."
+            "Ne bismo čitali."
           ]
         },
         {
-          "prompt": "Mogu naručiti juhu.",
+          "prompt": "Mogu kupiti kruh.",
           "cue": "-> питання умовне (жін.)",
           "accepted": [
-            "Bih li mogla naručiti juhu?"
+            "Bih li mogla kupiti kruh?"
           ]
         },
         {
-          "prompt": "Čekate pet minuta.",
+          "prompt": "Kupujete vino.",
+          "cue": "-> питання умовне (kupiti)",
+          "accepted": [
+            "Biste li kupili vino?"
+          ]
+        },
+        {
+          "prompt": "Otac radi.",
           "cue": "-> питання умовне",
           "accepted": [
-            "Biste li čekali pet minuta?"
+            "Bi li otac radio?"
           ]
         },
         {
-          "prompt": "Brat dolazi.",
-          "cue": "-> питання умовне",
-          "accepted": [
-            "Bi li brat došao?"
-          ]
-        },
-        {
-          "prompt": "Kupila bih sir.",
+          "prompt": "Naručio bih sok.",
           "cue": "-> додай rado",
           "accepted": [
-            "Rado bih kupila sir."
+            "Rado bih naručio sok."
           ]
         },
         {
-          "prompt": "Želim bih kavu.",
+          "prompt": "Želim bih salatu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Željela bih kavu.",
-            "Želio bih kavu."
+            "Željela bih salatu.",
+            "Želio bih salatu."
           ]
         },
         {
-          "prompt": "Majka bi kupiti sir.",
+          "prompt": "Brat bi kupiti kruh.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Majka bi kupila sir."
+            "Brat bi kupio kruh."
           ]
         },
         {
-          "prompt": "Mi bih kupili sir.",
+          "prompt": "Mi bih čitali knjigu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Mi bismo kupili sir."
+            "Mi bismo čitali knjigu."
           ]
         },
         {

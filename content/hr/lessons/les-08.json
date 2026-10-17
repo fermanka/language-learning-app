@@ -4,7 +4,11 @@
   "order": 8,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "baku",
+    "moga",
+    "majku"
+  ],
   "notes": [
     {
       "id": "hr-5b23d24a",
@@ -680,99 +684,101 @@
       "items": [
         {
           "example": true,
-          "prompt": "Мій батько тут.",
+          "prompt": "Мій син у школі.",
           "accepted": [
-            "Moj otac je ovdje."
+            "Moj sin je u školi."
           ]
         },
         {
-          "prompt": "Моя сестра вчителька.",
+          "prompt": "Твоя мама вчителька.",
           "accepted": [
-            "Moja sestra je učiteljica."
+            "Tvoja majka je učiteljica."
           ]
         },
         {
-          "prompt": "Моя дитина в школі.",
+          "prompt": "Наша дитина в парку.",
           "accepted": [
-            "Moje dijete je u školi."
+            "Naše dijete je u parku."
           ]
         },
         {
-          "prompt": "Наша родина в місті.",
+          "prompt": "Ваша родина в парку.",
           "accepted": [
-            "Naša obitelj je u gradu."
+            "Vaša obitelj je u parku."
           ]
         },
         {
-          "prompt": "Хто це?",
+          "prompt": "Хто у школі?",
           "accepted": [
-            "Tko je ovo?"
+            "Tko je u školi?"
           ]
         },
         {
-          "prompt": "Ваша вчителька тут.",
+          "prompt": "Ваш брат тут.",
           "accepted": [
-            "Vaša učiteljica je ovdje."
+            "Vaš brat je ovdje."
           ]
         },
         {
-          "prompt": "Я бачу мою сестру.",
+          "prompt": "Я бачу нашу бабусю.",
           "accepted": [
-            "Vidim moju sestru.",
-            "Ja vidim moju sestru."
+            "Vidim našu baku.",
+            "Ja vidim našu baku."
           ]
         },
         {
-          "prompt": "Я бачу мого батька.",
+          "prompt": "Я бачу мого сина.",
           "accepted": [
-            "Vidim mog oca.",
-            "Ja vidim mog oca."
+            "Vidim mog sina.",
+            "Ja vidim mog sina.",
+            "Vidim moga sina.",
+            "Ja vidim moga sina."
           ]
         },
         {
-          "prompt": "Вчителька дає учневі завдання.",
+          "prompt": "Вчителька дає олівець учневі.",
           "accepted": [
-            "Učiteljica daje zadaću učeniku."
+            "Učiteljica daje olovku učeniku."
           ]
         },
         {
-          "prompt": "Я даю олівець сестрі.",
+          "prompt": "Я даю книжку мамі.",
           "accepted": [
-            "Dajem olovku sestri.",
-            "Ja dajem olovku sestri."
+            "Dajem knjigu majci.",
+            "Ja dajem knjigu majci."
           ]
         },
         {
-          "prompt": "Мама дає книжку синові.",
+          "prompt": "Мама дає олівець синові.",
           "accepted": [
-            "Majka daje knjigu sinu."
+            "Majka daje olovku sinu."
           ]
         },
         {
-          "prompt": "Я купую книжку чоловікові.",
+          "prompt": "Я купую олівець братові.",
           "accepted": [
-            "Kupujem knjigu mužu.",
-            "Ja kupujem knjigu mužu."
+            "Kupujem olovku bratu.",
+            "Ja kupujem olovku bratu."
           ]
         },
         {
-          "prompt": "Кому ти даєш олівець?",
+          "prompt": "Кому ти даєш книжку?",
           "accepted": [
-            "Komu daješ olovku?",
-            "Komu ti daješ olovku?"
+            "Komu daješ knjigu?",
+            "Komu ti daješ knjigu?"
           ]
         },
         {
-          "prompt": "Я даю їй олівець.",
+          "prompt": "Я даю йому олівець.",
           "accepted": [
-            "Dajem joj olovku.",
-            "Ja joj dajem olovku."
+            "Dajem mu olovku.",
+            "Ja mu dajem olovku."
           ]
         },
         {
-          "prompt": "Вчителька дає нам завдання.",
+          "prompt": "Мама дає нам хліб.",
           "accepted": [
-            "Učiteljica nam daje zadaću."
+            "Majka nam daje kruh."
           ]
         }
       ]
@@ -781,28 +787,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "Moj",
+        "im",
+        "mu",
         "Moja",
         "Moje",
-        "Naša",
-        "Vaš",
-        "moju",
-        "mog",
-        "ocu",
-        "sestri",
-        "baki",
-        "učeniku",
-        "mu",
+        "Komu",
         "joj",
+        "Vaš",
+        "baki",
+        "Naša",
+        "Moj",
+        "učeniku",
+        "mog",
         "nam",
-        "im",
-        "Komu"
+        "moju",
+        "ocu",
+        "sestri"
       ],
       "items": [
         {
           "example": true,
-          "text": "___ otac je ovdje.",
-          "hint": "Мій батько тут.",
+          "text": "___ brat je u parku.",
+          "hint": "Мій брат у парку.",
           "accepted": [
             [
               "Moj"
@@ -819,8 +825,8 @@
           ]
         },
         {
-          "text": "___ dijete je ovdje.",
-          "hint": "Моя дитина тут.",
+          "text": "___ dijete je u parku.",
+          "hint": "Моя дитина в парку.",
           "accepted": [
             [
               "Moje"
@@ -837,8 +843,8 @@
           ]
         },
         {
-          "text": "___ učenik je ovdje.",
-          "hint": "Ваш учень тут.",
+          "text": "___ sin je u školi.",
+          "hint": "Ваш син у школі.",
           "accepted": [
             [
               "Vaš"
@@ -846,8 +852,8 @@
           ]
         },
         {
-          "text": "Vidim ___ sestru.",
-          "hint": "Я бачу мою сестру.",
+          "text": "Volim ___ sestru.",
+          "hint": "Я люблю мою сестру.",
           "accepted": [
             [
               "moju"
@@ -855,17 +861,18 @@
           ]
         },
         {
-          "text": "Vidim ___ oca.",
-          "hint": "Я бачу мого батька.",
+          "text": "Volim ___ oca.",
+          "hint": "Я люблю мого батька.",
           "accepted": [
             [
-              "mog"
+              "mog",
+              "moga"
             ]
           ]
         },
         {
-          "text": "Dajem knjigu ___.",
-          "hint": "Даю книжку батькові.",
+          "text": "Pišem ___.",
+          "hint": "Пишу батькові.",
           "accepted": [
             [
               "ocu"
@@ -873,8 +880,8 @@
           ]
         },
         {
-          "text": "Dajem olovku ___.",
-          "hint": "Даю олівець сестрі.",
+          "text": "Kupujem knjigu ___.",
+          "hint": "Купую книжку сестрі.",
           "accepted": [
             [
               "sestri"
@@ -882,8 +889,8 @@
           ]
         },
         {
-          "text": "Dajem knjigu ___.",
-          "hint": "Даю книжку бабусі.",
+          "text": "Dajem sok ___.",
+          "hint": "Даю сік бабусі.",
           "accepted": [
             [
               "baki"
@@ -900,8 +907,8 @@
           ]
         },
         {
-          "text": "Dajem ___ zadaću.",
-          "hint": "Даю йому завдання.",
+          "text": "Kupujem ___ knjigu.",
+          "hint": "Купую йому книжку.",
           "accepted": [
             [
               "mu"
@@ -909,8 +916,8 @@
           ]
         },
         {
-          "text": "Dajem ___ olovku.",
-          "hint": "Даю їй олівець.",
+          "text": "Majka ___ daje olovku.",
+          "hint": "Мама дає їй олівець.",
           "accepted": [
             [
               "joj"
@@ -918,8 +925,8 @@
           ]
         },
         {
-          "text": "Učiteljica ___ daje zadaću.",
-          "hint": "Вчителька дає нам завдання.",
+          "text": "Sestra ___ daje jabuku.",
+          "hint": "Сестра дає нам яблуко.",
           "accepted": [
             [
               "nam"
@@ -927,8 +934,8 @@
           ]
         },
         {
-          "text": "Dajem ___ knjigu.",
-          "hint": "Даю їм книжку.",
+          "text": "Kupujem ___ olovku.",
+          "hint": "Купую їм олівець.",
           "accepted": [
             [
               "im"
@@ -936,8 +943,8 @@
           ]
         },
         {
-          "text": "___ daješ olovku?",
-          "hint": "Кому ти даєш олівець?",
+          "text": "___ pišeš?",
+          "hint": "Кому ти пишеш?",
           "accepted": [
             [
               "Komu"
@@ -952,17 +959,17 @@
       "items": [
         {
           "example": true,
-          "prompt": "Dajem olovku.",
-          "cue": "-> кому? sestra",
+          "prompt": "Dajem kruh.",
+          "cue": "-> кому? baka",
           "accepted": [
-            "Dajem olovku sestri."
+            "Dajem kruh baki."
           ]
         },
         {
-          "prompt": "Dajem knjigu.",
-          "cue": "-> кому? otac",
+          "prompt": "Dajem olovku.",
+          "cue": "-> кому? brat",
           "accepted": [
-            "Dajem knjigu ocu."
+            "Dajem olovku bratu."
           ]
         },
         {
@@ -973,24 +980,24 @@
           ]
         },
         {
-          "prompt": "Kupujem knjigu.",
-          "cue": "-> кому? muž",
+          "prompt": "Kupujem kavu.",
+          "cue": "-> кому? majka",
           "accepted": [
-            "Kupujem knjigu mužu."
+            "Kupujem kavu majci."
           ]
         },
         {
-          "prompt": "Dajem olovku sestri.",
-          "cue": "-> заміни на клітик (joj)",
-          "accepted": [
-            "Dajem joj olovku."
-          ]
-        },
-        {
-          "prompt": "Dajem zadaću učeniku.",
+          "prompt": "Dajem kruh ocu.",
           "cue": "-> заміни на клітик (mu)",
           "accepted": [
-            "Dajem mu zadaću."
+            "Dajem mu kruh."
+          ]
+        },
+        {
+          "prompt": "Dajem sok sestri.",
+          "cue": "-> заміни на клітик (joj)",
+          "accepted": [
+            "Dajem joj sok."
           ]
         },
         {
@@ -1008,17 +1015,17 @@
           ]
         },
         {
-          "prompt": "Učiteljica daje zadaću.",
+          "prompt": "Otac daje kruh.",
           "cue": "-> нам (nam)",
           "accepted": [
-            "Učiteljica nam daje zadaću."
+            "Otac nam daje kruh."
           ]
         },
         {
-          "prompt": "Otac je ovdje.",
-          "cue": "-> мій (moj)",
+          "prompt": "Majka je ovdje.",
+          "cue": "-> твоя (tvoja)",
           "accepted": [
-            "Moj otac je ovdje."
+            "Tvoja majka je ovdje."
           ]
         },
         {
@@ -1036,24 +1043,24 @@
           ]
         },
         {
-          "prompt": "Vidim sestru.",
-          "cue": "-> моя (moja)",
+          "prompt": "Vidim majku.",
+          "cue": "-> наша (naša)",
           "accepted": [
-            "Vidim moju sestru."
+            "Vidim našu majku."
           ]
         },
         {
-          "prompt": "Dajem olovku sestra.",
+          "prompt": "Pišem sestra.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajem olovku sestri."
+            "Pišem sestri."
           ]
         },
         {
-          "prompt": "Dajem knjigu otac.",
+          "prompt": "Dajem sok sin.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajem knjigu ocu."
+            "Dajem sok sinu."
           ]
         },
         {
@@ -1064,10 +1071,10 @@
           ]
         },
         {
-          "prompt": "Vidim moja sestru.",
+          "prompt": "Vidim moja baku.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim moju sestru."
+            "Vidim moju baku."
           ]
         }
       ]

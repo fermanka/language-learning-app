@@ -4,7 +4,16 @@
   "order": 27,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "susjeda",
+    "vjetra",
+    "putnicima",
+    "parka",
+    "kućama",
+    "ulicu",
+    "susjedu",
+    "sastanka"
+  ],
   "notes": [
     {
       "id": "hr-8b3cfbc6",
@@ -632,93 +641,93 @@
       "items": [
         {
           "example": true,
-          "prompt": "Іду через міст.",
+          "prompt": "Автобус їде через міст.",
           "accepted": [
-            "Idem preko mosta."
+            "Autobus ide preko mosta."
           ]
         },
         {
-          "prompt": "Іду через місто.",
+          "prompt": "Поїзд їде через парк.",
           "accepted": [
-            "Idem kroz grad."
+            "Vlak ide kroz park."
           ]
         },
         {
-          "prompt": "Готель біля дороги.",
+          "prompt": "Банк біля пошти.",
           "accepted": [
-            "Hotel je pored ceste."
+            "Banka je pored pošte."
           ]
         },
         {
-          "prompt": "Автобус перед готелем.",
+          "prompt": "Брат чекає перед школою.",
           "accepted": [
-            "Autobus je ispred hotela."
+            "Brat čeka ispred škole."
           ]
         },
         {
-          "prompt": "Машина за будинком.",
+          "prompt": "Сад за будинком.",
           "accepted": [
-            "Auto je iza kuće."
+            "Vrt je iza kuće."
           ]
         },
         {
-          "prompt": "Чекаю в лікаря.",
+          "prompt": "Іван у сусіда.",
           "accepted": [
-            "Čekam kod liječnika."
+            "Ivan je kod susjeda."
           ]
         },
         {
-          "prompt": "Іду до лікаря.",
+          "prompt": "Іду до вчительки.",
           "accepted": [
-            "Idem k liječniku."
+            "Idem k učiteljici."
           ]
         },
         {
-          "prompt": "Маю закордонний паспорт.",
+          "prompt": "Шукаю закордонний паспорт.",
           "accepted": [
-            "Imam putovnicu."
+            "Tražim putovnicu."
           ]
         },
         {
-          "prompt": "Бронюю готель.",
+          "prompt": "Бронюю кімнату.",
           "accepted": [
-            "Rezerviram hotel."
+            "Rezerviram sobu."
           ]
         },
         {
-          "prompt": "Паспорт у валізі.",
+          "prompt": "Куртка у валізі.",
           "accepted": [
-            "Putovnica je u koferu."
+            "Jakna je u koferu."
           ]
         },
         {
-          "prompt": "Подорожую через роботу.",
+          "prompt": "Не подорожую через вітер.",
           "accepted": [
-            "Putujem zbog posla."
+            "Ne putujem zbog vjetra."
           ]
         },
         {
-          "prompt": "Залишаюся вдома через дощ.",
+          "prompt": "Марія вдома через сніг.",
           "accepted": [
-            "Ostajem kod kuće zbog kiše."
+            "Marija je kod kuće zbog snijega."
           ]
         },
         {
-          "prompt": "Літак летить над містом.",
+          "prompt": "Корабель іде через море.",
           "accepted": [
-            "Avion leti preko grada."
+            "Brod ide preko mora."
           ]
         },
         {
-          "prompt": "Серед людей багато пасажирів.",
+          "prompt": "Серед пасажирів є дитина.",
           "accepted": [
-            "Među ljudima je puno putnika."
+            "Među putnicima je dijete."
           ]
         },
         {
-          "prompt": "Повертаюся додому.",
+          "prompt": "Повертаємося в готель.",
           "accepted": [
-            "Vraćam se kući."
+            "Vraćamo se u hotel."
           ]
         }
       ]
@@ -727,28 +736,30 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "kroz",
-        "preko",
-        "pored",
-        "ispred",
-        "iza",
-        "kod",
-        "zbog",
-        "među",
+        "avion",
         "k",
-        "mosta",
-        "ceste",
         "hotela",
-        "koferu",
-        "putovnicu",
+        "kroz",
+        "mosta",
         "hotel",
-        "avion"
+        "koferu",
+        "među",
+        "iza",
+        "ceste",
+        "zbog",
+        "ispred",
+        "kod",
+        "preko",
+        "Avion",
+        "Među",
+        "putovnicu",
+        "pored"
       ],
       "items": [
         {
           "example": true,
-          "text": "Idem ___ mosta.",
-          "hint": "Іду через міст.",
+          "text": "Marija ide ___ ceste.",
+          "hint": "Марія йде через дорогу.",
           "accepted": [
             [
               "preko"
@@ -756,8 +767,8 @@
           ]
         },
         {
-          "text": "Idem ___ grad.",
-          "hint": "Іду через місто.",
+          "text": "Ivan ide ___ park.",
+          "hint": "Іван іде через парк.",
           "accepted": [
             [
               "kroz"
@@ -765,8 +776,8 @@
           ]
         },
         {
-          "text": "Hotel je ___ ceste.",
-          "hint": "Готель біля дороги.",
+          "text": "Škola je ___ parka.",
+          "hint": "Школа біля парку.",
           "accepted": [
             [
               "pored"
@@ -774,8 +785,8 @@
           ]
         },
         {
-          "text": "Autobus je ___ hotela.",
-          "hint": "Автобус перед готелем.",
+          "text": "Auto je ___ banke.",
+          "hint": "Машина перед банком.",
           "accepted": [
             [
               "ispred"
@@ -783,8 +794,8 @@
           ]
         },
         {
-          "text": "Auto je ___ kuće.",
-          "hint": "Машина за будинком.",
+          "text": "Kolodvor je ___ škole.",
+          "hint": "Вокзал за школою.",
           "accepted": [
             [
               "iza"
@@ -792,8 +803,8 @@
           ]
         },
         {
-          "text": "Čekam ___ liječnika.",
-          "hint": "Чекаю в лікаря.",
+          "text": "Moj brat je ___ prijatelja.",
+          "hint": "Мій брат у друга.",
           "accepted": [
             [
               "kod"
@@ -801,8 +812,8 @@
           ]
         },
         {
-          "text": "Putujem ___ posla.",
-          "hint": "Подорожую через роботу.",
+          "text": "Brat ne ide u školu ___ kiše.",
+          "hint": "Брат не йде до школи через дощ.",
           "accepted": [
             [
               "zbog"
@@ -810,8 +821,8 @@
           ]
         },
         {
-          "text": "___ ljudima je puno putnika.",
-          "hint": "Серед людей багато пасажирів.",
+          "text": "___ kućama je park.",
+          "hint": "Серед будинків є парк.",
           "accepted": [
             [
               "Među"
@@ -819,8 +830,8 @@
           ]
         },
         {
-          "text": "Idem ___ liječniku.",
-          "hint": "Іду до лікаря.",
+          "text": "Idem ___ bratu.",
+          "hint": "Іду до брата.",
           "accepted": [
             [
               "k"
@@ -828,8 +839,8 @@
           ]
         },
         {
-          "text": "Idem preko ___.",
-          "hint": "Іду через міст.",
+          "text": "Park je ispred ___.",
+          "hint": "Парк перед мостом.",
           "accepted": [
             [
               "mosta"
@@ -837,8 +848,8 @@
           ]
         },
         {
-          "text": "Hotel je pored ___.",
-          "hint": "Готель біля дороги.",
+          "text": "Kafić je pored ___.",
+          "hint": "Кав'ярня біля дороги.",
           "accepted": [
             [
               "ceste"
@@ -846,8 +857,8 @@
           ]
         },
         {
-          "text": "Autobus je ispred ___.",
-          "hint": "Автобус перед готелем.",
+          "text": "Auto je pored ___.",
+          "hint": "Машина біля готелю.",
           "accepted": [
             [
               "hotela"
@@ -855,8 +866,8 @@
           ]
         },
         {
-          "text": "Putovnica je u ___.",
-          "hint": "Паспорт у валізі.",
+          "text": "Kišobran je u ___.",
+          "hint": "Парасолька у валізі.",
           "accepted": [
             [
               "koferu"
@@ -864,8 +875,8 @@
           ]
         },
         {
-          "text": "Imam ___.",
-          "hint": "Маю закордонний паспорт.",
+          "text": "Marija ima ___.",
+          "hint": "Марія має закордонний паспорт.",
           "accepted": [
             [
               "putovnicu"
@@ -873,8 +884,8 @@
           ]
         },
         {
-          "text": "Rezerviram ___.",
-          "hint": "Бронюю готель.",
+          "text": "Marija rezervira ___.",
+          "hint": "Марія бронює готель.",
           "accepted": [
             [
               "hotel"
@@ -882,8 +893,8 @@
           ]
         },
         {
-          "text": "___ leti preko grada.",
-          "hint": "Літак летить над містом.",
+          "text": "___ leti preko mora.",
+          "hint": "Літак летить над морем.",
           "accepted": [
             [
               "Avion"
@@ -919,17 +930,17 @@
           ]
         },
         {
-          "prompt": "Idem preko mosta.",
-          "cue": "-> kroz grad",
+          "prompt": "Idem preko ceste.",
+          "cue": "-> kroz ulicu",
           "accepted": [
-            "Idem kroz grad."
+            "Idem kroz ulicu."
           ]
         },
         {
-          "prompt": "Idem k liječniku.",
+          "prompt": "Idem k susjedu.",
           "cue": "-> Čekam ...",
           "accepted": [
-            "Čekam kod liječnika."
+            "Čekam kod susjeda."
           ]
         },
         {
@@ -947,59 +958,59 @@
           ]
         },
         {
-          "prompt": "Čekam kod liječnika.",
+          "prompt": "Čekam kod sestre.",
           "cue": "-> Idem ...",
           "accepted": [
-            "Idem k liječniku."
+            "Idem k sestri."
           ]
         },
         {
-          "prompt": "Čekam kod bake.",
+          "prompt": "Čekam kod prijatelja.",
           "cue": "-> Idem ...",
           "accepted": [
-            "Idem k baki."
+            "Idem k prijatelju."
           ]
         },
         {
-          "prompt": "Idem preko grad.",
+          "prompt": "Idem kroz parka.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Idem kroz grad."
+            "Idem kroz park."
           ]
         },
         {
-          "prompt": "Idem k liječnika.",
+          "prompt": "Idem k majka.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Idem k liječniku."
+            "Idem k majci."
           ]
         },
         {
-          "prompt": "Čekam kod liječniku.",
+          "prompt": "Čekam kod brat.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Čekam kod liječnika."
+            "Čekam kod brata."
           ]
         },
         {
-          "prompt": "Hotel je pored cesta.",
+          "prompt": "Stan je pored trgovina.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Hotel je pored ceste."
+            "Stan je pored trgovine."
           ]
         },
         {
-          "prompt": "Putujem zbog posao.",
+          "prompt": "Putujem zbog sastanak.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Putujem zbog posla."
+            "Putujem zbog sastanka."
           ]
         },
         {
-          "prompt": "Idem preko most.",
+          "prompt": "Idem preko ulica.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Idem preko mosta."
+            "Idem preko ulice."
           ]
         }
       ]

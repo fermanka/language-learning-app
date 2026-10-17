@@ -637,101 +637,101 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я розмовляю з колегами.",
+          "prompt": "Я допомагаю колегам.",
           "accepted": [
-            "Razgovaram s kolegama.",
-            "Ja razgovaram s kolegama."
+            "Pomažem kolegama.",
+            "Ja pomažem kolegama."
           ]
         },
         {
-          "prompt": "Я пишу батькам.",
+          "prompt": "Я пишу друзям.",
           "accepted": [
-            "Pišem roditeljima.",
-            "Ja pišem roditeljima."
+            "Pišem prijateljima.",
+            "Ja pišem prijateljima."
           ]
         },
         {
-          "prompt": "Я даю книжки учням.",
+          "prompt": "Я даю книжки колегам.",
           "accepted": [
-            "Dajem knjige učenicima.",
-            "Ja dajem knjige učenicima."
+            "Dajem knjige kolegama.",
+            "Ja dajem knjige kolegama."
           ]
         },
         {
-          "prompt": "Вчителька розмовляє з батьками.",
+          "prompt": "Начальник розмовляє з учнями.",
           "accepted": [
-            "Učiteljica razgovara s roditeljima."
+            "Šef razgovara s učenicima."
           ]
         },
         {
-          "prompt": "Ми розмовляємо про колег.",
+          "prompt": "Ми розмовляємо про начальників.",
           "accepted": [
-            "Razgovaramo o kolegama."
+            "Razgovaramo o šefovima."
           ]
         },
         {
-          "prompt": "Ми розмовляємо про наради.",
+          "prompt": "Ми розмовляємо про батьків.",
           "accepted": [
-            "Razgovaramo o sastancima."
+            "Razgovaramo o roditeljima."
           ]
         },
         {
-          "prompt": "Я йду з друзями в парк.",
+          "prompt": "Я йду з колегами на нараду.",
           "accepted": [
-            "Idem s prijateljima u park.",
-            "Ja idem s prijateljima u park."
+            "Idem s kolegama na sastanak.",
+            "Ja idem s kolegama na sastanak."
           ]
         },
         {
-          "prompt": "Вчитель допомагає учням.",
+          "prompt": "Вчителька допомагає батькам.",
           "accepted": [
-            "Učitelj pomaže učenicima."
+            "Učiteljica pomaže roditeljima."
           ]
         },
         {
-          "prompt": "Учні в класах.",
+          "prompt": "Батьки в класах.",
           "accepted": [
-            "Učenici su u učionicama."
+            "Roditelji su u učionicama."
           ]
         },
         {
-          "prompt": "Начальники на нарадах.",
+          "prompt": "Начальники в офісах.",
           "accepted": [
-            "Šefovi su na sastancima."
+            "Šefovi su u uredima."
           ]
         },
         {
-          "prompt": "Я працюю з людьми.",
+          "prompt": "Я розмовляю про людей.",
           "accepted": [
-            "Radim s ljudima.",
-            "Ja radim s ljudima."
+            "Razgovaram o ljudima.",
+            "Ja razgovaram o ljudima."
           ]
         },
         {
-          "prompt": "Колеги в офісах.",
+          "prompt": "Колеги на нарадах.",
           "accepted": [
-            "Kolege su u uredima."
+            "Kolege su na sastancima."
           ]
         },
         {
-          "prompt": "По понеділках я в офісі.",
+          "prompt": "По п'ятницях я працюю у фірмі.",
           "accepted": [
-            "Ponedjeljkom sam u uredu.",
-            "Ponedjeljkom sam ja u uredu."
+            "Petkom radim u firmi.",
+            "Petkom ja radim u firmi."
           ]
         },
         {
-          "prompt": "По середах я йду до школи.",
+          "prompt": "По середах я в класі.",
           "accepted": [
-            "Srijedom idem u školu.",
-            "Srijedom ja idem u školu."
+            "Srijedom sam u učionici.",
+            "Srijedom sam ja u učionici."
           ]
         },
         {
-          "prompt": "По неділях я не працюю.",
+          "prompt": "Місяцями я не був в офісі.",
           "accepted": [
-            "Nedjeljom ne radim.",
-            "Nedjeljom ja ne radim."
+            "Mjesecima nisam bio u uredu.",
+            "Mjesecima ja nisam bio u uredu."
           ]
         }
       ]
@@ -740,28 +740,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
+        "njima",
+        "Srijedom",
         "kolegama",
-        "roditeljima",
-        "učenicima",
-        "prijateljima",
         "ljudima",
+        "Ponedjeljkom",
+        "Nedjeljom",
+        "vama",
+        "nama",
+        "šefovima",
         "sastancima",
         "uredima",
+        "Godinama",
+        "učenicima",
+        "prijateljima",
         "učionicama",
-        "šefovima",
-        "nama",
-        "vama",
-        "njima",
-        "Ponedjeljkom",
-        "Srijedom",
-        "Nedjeljom",
-        "Godinama"
+        "roditeljima"
       ],
       "items": [
         {
           "example": true,
-          "text": "Razgovaram s ___.",
-          "hint": "Я розмовляю з колегами.",
+          "text": "Idem s ___ na ručak.",
+          "hint": "Я йду з колегами на обід.",
           "accepted": [
             [
               "kolegama"
@@ -769,8 +769,8 @@
           ]
         },
         {
-          "text": "Pišem ___.",
-          "hint": "Я пишу батькам.",
+          "text": "Mi pišemo ___.",
+          "hint": "Ми пишемо батькам.",
           "accepted": [
             [
               "roditeljima"
@@ -778,8 +778,8 @@
           ]
         },
         {
-          "text": "Dajem knjige ___.",
-          "hint": "Я даю книжки учням.",
+          "text": "Učiteljica daje knjige ___.",
+          "hint": "Вчителька дає книжки учням.",
           "accepted": [
             [
               "učenicima"
@@ -787,8 +787,8 @@
           ]
         },
         {
-          "text": "Idem s ___ u park.",
-          "hint": "Я йду з друзями в парк.",
+          "text": "Šetam s ___.",
+          "hint": "Я гуляю з друзями.",
           "accepted": [
             [
               "prijateljima"
@@ -796,8 +796,8 @@
           ]
         },
         {
-          "text": "Radim s ___.",
-          "hint": "Я працюю з людьми.",
+          "text": "Dajem ___ vodu.",
+          "hint": "Я даю людям воду.",
           "accepted": [
             [
               "ljudima"
@@ -805,8 +805,8 @@
           ]
         },
         {
-          "text": "Razgovaramo o ___.",
-          "hint": "Ми розмовляємо про наради.",
+          "text": "Mi smo na ___.",
+          "hint": "Ми на нарадах.",
           "accepted": [
             [
               "sastancima"
@@ -814,8 +814,8 @@
           ]
         },
         {
-          "text": "Kolege su u ___.",
-          "hint": "Колеги в офісах.",
+          "text": "Mi radimo u ___.",
+          "hint": "Ми працюємо в офісах.",
           "accepted": [
             [
               "uredima"
@@ -823,8 +823,8 @@
           ]
         },
         {
-          "text": "Učenici su u ___.",
-          "hint": "Учні в класах.",
+          "text": "Djeca su u ___.",
+          "hint": "Діти в класах.",
           "accepted": [
             [
               "učionicama"
@@ -832,8 +832,8 @@
           ]
         },
         {
-          "text": "Pišem ___.",
-          "hint": "Я пишу начальникам.",
+          "text": "Kolege pomažu ___.",
+          "hint": "Колеги допомагають начальникам.",
           "accepted": [
             [
               "šefovima"
@@ -841,8 +841,8 @@
           ]
         },
         {
-          "text": "Idem s ___ na sastanak.",
-          "hint": "Я йду з вами на нараду.",
+          "text": "S ___ razgovara šef.",
+          "hint": "З вами розмовляє начальник.",
           "accepted": [
             [
               "vama"
@@ -850,8 +850,8 @@
           ]
         },
         {
-          "text": "O ___ razgovaraju roditelji.",
-          "hint": "Про нас розмовляють батьки.",
+          "text": "Učiteljica radi s ___.",
+          "hint": "Вчителька працює з нами.",
           "accepted": [
             [
               "nama"
@@ -868,8 +868,8 @@
           ]
         },
         {
-          "text": "___ sam u uredu.",
-          "hint": "По понеділках я в офісі.",
+          "text": "___ razgovaram s roditeljima.",
+          "hint": "По понеділках я розмовляю з батьками.",
           "accepted": [
             [
               "Ponedjeljkom"
@@ -877,8 +877,8 @@
           ]
         },
         {
-          "text": "___ idem u školu.",
-          "hint": "По середах я йду до школи.",
+          "text": "___ radim s kolegama.",
+          "hint": "По середах я працюю з колегами.",
           "accepted": [
             [
               "Srijedom"
@@ -886,8 +886,8 @@
           ]
         },
         {
-          "text": "___ ne radim.",
-          "hint": "По неділях я не працюю.",
+          "text": "___ ne idem na sastanak.",
+          "hint": "По неділях я не йду на нараду.",
           "accepted": [
             [
               "Nedjeljom"
@@ -895,8 +895,8 @@
           ]
         },
         {
-          "text": "___ radim u firmi.",
-          "hint": "Я роками працюю у фірмі.",
+          "text": "___ pomažem roditeljima.",
+          "hint": "Я роками допомагаю батькам.",
           "accepted": [
             [
               "Godinama"
@@ -918,10 +918,10 @@
           ]
         },
         {
-          "prompt": "Razgovaram s kolegama.",
+          "prompt": "Pomažem učenicima.",
           "cue": "-> друзі (prijatelji)",
           "accepted": [
-            "Razgovaram s prijateljima."
+            "Pomažem prijateljima."
           ]
         },
         {
@@ -946,24 +946,24 @@
           ]
         },
         {
-          "prompt": "Pišem roditeljima.",
+          "prompt": "Javljamo se kolegama.",
           "cue": "-> начальники (šefovi)",
           "accepted": [
-            "Pišem šefovima."
+            "Javljamo se šefovima."
           ]
         },
         {
-          "prompt": "Pišem roditeljima.",
+          "prompt": "Pomažemo šefovima.",
           "cue": "-> колежанки (kolegice)",
           "accepted": [
-            "Pišem kolegicama."
+            "Pomažemo kolegicama."
           ]
         },
         {
-          "prompt": "Razgovaramo o kolegama.",
+          "prompt": "Pišem o kolegama.",
           "cue": "-> наради (sastanci)",
           "accepted": [
-            "Razgovaramo o sastancima."
+            "Pišem o sastancima."
           ]
         },
         {
@@ -995,31 +995,31 @@
           ]
         },
         {
-          "prompt": "Razgovaram s kolege.",
+          "prompt": "Pišem o ljudi.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Razgovaram s kolegama."
+            "Pišem o ljudima."
           ]
         },
         {
-          "prompt": "Pišem roditelja.",
+          "prompt": "Dajem knjige roditelja.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Pišem roditeljima."
+            "Dajem knjige roditeljima."
           ]
         },
         {
-          "prompt": "Dajem knjige učenici.",
+          "prompt": "Mi smo u učionica.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajem knjige učenicima."
+            "Mi smo u učionicama."
           ]
         },
         {
-          "prompt": "Ponedjeljak radim u uredu.",
+          "prompt": "Ponedjeljak sam u firmi.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ponedjeljkom radim u uredu."
+            "Ponedjeljkom sam u firmi."
           ]
         }
       ]

@@ -824,10 +824,10 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я купила хліб.",
+          "prompt": "Я пила воду.",
           "accepted": [
-            "Kupila sam kruh.",
-            "Ja sam kupila kruh."
+            "Pila sam vodu.",
+            "Ja sam pila vodu."
           ]
         },
         {
@@ -838,85 +838,85 @@
           ]
         },
         {
-          "prompt": "Вчора я була в місті.",
+          "prompt": "Вчора я була в парку.",
           "accepted": [
-            "Jučer sam bila u gradu.",
-            "Bila sam jučer u gradu."
+            "Jučer sam bila u parku.",
+            "Bila sam jučer u parku."
           ]
         },
         {
-          "prompt": "Сьогодні вранці я була в магазині.",
+          "prompt": "Сьогодні вранці я була на пошті.",
           "accepted": [
-            "Jutros sam bila u dućanu.",
-            "Jutros sam bila u trgovini."
+            "Jutros sam bila na pošti.",
+            "Bila sam jutros na pošti."
           ]
         },
         {
-          "prompt": "Я зварила вечерю.",
+          "prompt": "Я зварила обід.",
           "accepted": [
-            "Skuhala sam večeru."
+            "Skuhala sam ručak."
           ]
         },
         {
-          "prompt": "Мама зварила обід.",
+          "prompt": "Мама зварила вечерю.",
           "accepted": [
-            "Majka je skuhala ručak."
+            "Majka je skuhala večeru."
           ]
         },
         {
-          "prompt": "Брат їв сніданок.",
+          "prompt": "Брат їв обід.",
           "accepted": [
-            "Brat je jeo doručak."
+            "Brat je jeo ručak."
           ]
         },
         {
-          "prompt": "Діти пили сік.",
+          "prompt": "Діти пили молоко.",
           "accepted": [
-            "Djeca su pila sok."
+            "Djeca su pila mlijeko."
           ]
         },
         {
-          "prompt": "Ти їла обід?",
+          "prompt": "Ти пила каву?",
           "accepted": [
-            "Jesi li jela ručak?",
-            "Jesi li jela?"
+            "Jesi li pila kavu?",
+            "Jesi li pila?"
           ]
         },
         {
-          "prompt": "Чи брат прийшов?",
+          "prompt": "Чи мама прийшла?",
           "accepted": [
-            "Je li brat došao?"
+            "Je li majka došla?"
           ]
         },
         {
-          "prompt": "Я не спала.",
+          "prompt": "Я не їла.",
           "accepted": [
-            "Nisam spavala."
+            "Nisam jela."
           ]
         },
         {
-          "prompt": "Мама не купила м'ясо.",
+          "prompt": "Мама не зварила обід.",
           "accepted": [
-            "Majka nije kupila meso."
+            "Majka nije skuhala ručak."
           ]
         },
         {
-          "prompt": "Я дала йому книжку.",
+          "prompt": "Я дала їй олівець.",
           "accepted": [
-            "Dala sam mu knjigu."
+            "Dala sam joj olovku."
           ]
         },
         {
-          "prompt": "Я бачила брата.",
+          "prompt": "Я бачила сестру.",
           "accepted": [
-            "Vidjela sam brata."
+            "Vidjela sam sestru."
           ]
         },
         {
-          "prompt": "Вчора ми були в парку.",
+          "prompt": "Вчора ми були в школі.",
           "accepted": [
-            "Jučer smo bili u parku.",
-            "Jučer smo bile u parku."
+            "Jučer smo bili u školi.",
+            "Jučer smo bile u školi."
           ]
         }
       ]
@@ -925,22 +925,22 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "sam",
         "je",
         "su",
-        "smo",
-        "bila",
-        "bio",
-        "bili",
-        "radila",
         "kupila",
-        "skuhala",
+        "nije",
+        "sam",
+        "smo",
+        "Jesi",
+        "bila",
+        "bili",
         "jeo",
+        "skuhala",
         "dala",
         "Nisam",
-        "nije",
-        "Jesi",
-        "Je"
+        "bio",
+        "Je",
+        "radila"
       ],
       "items": [
         {
@@ -963,8 +963,8 @@
           ]
         },
         {
-          "text": "Djeca ___ pila sok.",
-          "hint": "Діти пили сік.",
+          "text": "Djeca ___ jela kruh.",
+          "hint": "Діти їли хліб.",
           "accepted": [
             [
               "su"
@@ -1044,8 +1044,8 @@
           ]
         },
         {
-          "text": "Majka ___ kupila meso.",
-          "hint": "Мама не купила м'ясо.",
+          "text": "Brat ___ došao.",
+          "hint": "Брат не прийшов.",
           "accepted": [
             [
               "nije"
@@ -1053,8 +1053,8 @@
           ]
         },
         {
-          "text": "___ li jela ručak?",
-          "hint": "Ти їла обід?",
+          "text": "___ li pila sok?",
+          "hint": "Ти пила сік?",
           "accepted": [
             [
               "Jesi"
@@ -1062,8 +1062,8 @@
           ]
         },
         {
-          "text": "___ li brat došao?",
-          "hint": "Чи брат прийшов?",
+          "text": "___ li majka kuhala?",
+          "hint": "Чи мама готувала?",
           "accepted": [
             [
               "Je"
@@ -1071,8 +1071,8 @@
           ]
         },
         {
-          "text": "Brat je ___ doručak.",
-          "hint": "Брат їв сніданок.",
+          "text": "Otac je ___ kruh.",
+          "hint": "Батько їв хліб.",
           "accepted": [
             [
               "jeo"
@@ -1080,8 +1080,8 @@
           ]
         },
         {
-          "text": "Ja sam ___.",
-          "hint": "Я працювала.",
+          "text": "Majka je ___.",
+          "hint": "Мама працювала.",
           "accepted": [
             [
               "radila"
@@ -1096,10 +1096,10 @@
       "items": [
         {
           "example": true,
-          "prompt": "Čitam knjigu.",
+          "prompt": "Spavam.",
           "cue": "-> минулий час (я, жін.)",
           "accepted": [
-            "Čitala sam knjigu."
+            "Spavala sam."
           ]
         },
         {
@@ -1124,10 +1124,10 @@
           ]
         },
         {
-          "prompt": "Idem u dućan.",
+          "prompt": "Idem u školu.",
           "cue": "-> минулий час (жін.)",
           "accepted": [
-            "Išla sam u dućan."
+            "Išla sam u školu."
           ]
         },
         {
@@ -1138,17 +1138,17 @@
           ]
         },
         {
-          "prompt": "Jedem doručak.",
+          "prompt": "Jedem ručak.",
           "cue": "-> минулий час (жін.)",
           "accepted": [
-            "Jela sam doručak."
+            "Jela sam ručak."
           ]
         },
         {
-          "prompt": "Pijem sok.",
+          "prompt": "Pijem kavu.",
           "cue": "-> минулий час (жін.)",
           "accepted": [
-            "Pila sam sok."
+            "Pila sam kavu."
           ]
         },
         {
@@ -1166,10 +1166,10 @@
           ]
         },
         {
-          "prompt": "Brat je došao.",
+          "prompt": "Sestra je došla.",
           "cue": "-> питання з li",
           "accepted": [
-            "Je li brat došao?"
+            "Je li sestra došla?"
           ]
         },
         {
@@ -1180,24 +1180,24 @@
           ]
         },
         {
-          "prompt": "Majka je kupila meso.",
+          "prompt": "Brat je jeo ručak.",
           "cue": "-> заперечення",
           "accepted": [
-            "Majka nije kupila meso."
+            "Brat nije jeo ručak."
           ]
         },
         {
-          "prompt": "Djeca su spavala.",
+          "prompt": "Djeca su jela.",
           "cue": "-> заперечення",
           "accepted": [
-            "Djeca nisu spavala."
+            "Djeca nisu jela."
           ]
         },
         {
-          "prompt": "Kupila sam kruh.",
+          "prompt": "Skuhala sam ručak.",
           "cue": "-> почни з Jučer",
           "accepted": [
-            "Jučer sam kupila kruh."
+            "Jučer sam skuhala ručak."
           ]
         },
         {
@@ -1208,10 +1208,10 @@
           ]
         },
         {
-          "prompt": "Ja radila.",
+          "prompt": "Ja jela.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Ja sam radila."
+            "Ja sam jela."
           ]
         },
         {

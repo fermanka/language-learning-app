@@ -662,95 +662,94 @@
       "items": [
         {
           "example": true,
-          "prompt": "Дайте мені один хліб, будь ласка.",
+          "prompt": "Дайте мені один сік, будь ласка.",
           "accepted": [
-            "Dajte mi jedan kruh, molim.",
-            "Molim, dajte mi jedan kruh."
+            "Dajte mi jedan sok, molim.",
+            "Molim, dajte mi jedan sok."
           ]
         },
         {
-          "prompt": "Дайте мені два хліби.",
+          "prompt": "Дайте мені два сири.",
           "accepted": [
-            "Dajte mi dva kruha."
+            "Dajte mi dva sira."
           ]
         },
         {
-          "prompt": "Дайте мені два яблука.",
+          "prompt": "Дайте мені дві кави.",
           "accepted": [
-            "Dajte mi dvije jabuke."
+            "Dajte mi dvije kave."
           ]
         },
         {
-          "prompt": "Дайте мені три сири.",
+          "prompt": "Дайте мені три хліби.",
           "accepted": [
-            "Dajte mi tri sira."
+            "Dajte mi tri kruha."
           ]
         },
         {
-          "prompt": "Дайте мені одне молоко.",
+          "prompt": "Дайте мені одну воду.",
           "accepted": [
-            "Dajte mi jedno mlijeko."
+            "Dajte mi jednu vodu."
           ]
         },
         {
-          "prompt": "Дайте мені сік і м'ясо.",
+          "prompt": "Дайте мені хліб і сир.",
           "accepted": [
-            "Dajte mi sok i meso."
+            "Dajte mi kruh i sir."
           ]
         },
         {
-          "prompt": "Скільки коштує хліб?",
+          "prompt": "Скільки коштує молоко?",
           "accepted": [
-            "Koliko košta kruh?"
+            "Koliko košta mlijeko?"
           ]
         },
         {
-          "prompt": "Хліб коштує один євро.",
+          "prompt": "Сік коштує один євро.",
           "accepted": [
-            "Kruh košta jedan euro."
+            "Sok košta jedan euro."
           ]
         },
         {
-          "prompt": "Сир коштує два євро й п'ятдесят центів.",
+          "prompt": "М'ясо коштує п'ять євро й п'ятдесят центів.",
           "accepted": [
-            "Sir košta dva eura i pedeset centi."
+            "Meso košta pet eura i pedeset centi."
           ]
         },
         {
-          "prompt": "Сік коштує три євро.",
+          "prompt": "Молоко коштує два євро.",
           "accepted": [
-            "Sok košta tri eura."
+            "Mlijeko košta dva eura."
           ]
         },
         {
-          "prompt": "Яблуко коштує десять центів.",
+          "prompt": "Хліб коштує п'ятдесят центів.",
           "accepted": [
-            "Jabuka košta deset centi."
+            "Kruh košta pedeset centi."
           ]
         },
         {
-          "prompt": "Скільки коштують яблука?",
+          "prompt": "Скільки коштують хліби?",
           "accepted": [
-            "Koliko koštaju jabuke?"
+            "Koliko koštaju kruhovi?"
           ]
         },
         {
-          "prompt": "Два яблука коштують п'ятдесят центів.",
+          "prompt": "Два сири коштують п'ять євро.",
           "accepted": [
-            "Dvije jabuke koštaju pedeset centi."
+            "Dva sira koštaju pet eura."
           ]
         },
         {
-          "prompt": "П'ять євро, будь ласка.",
+          "prompt": "Десять євро, будь ласка.",
           "accepted": [
-            "Pet eura, molim."
+            "Deset eura, molim."
           ]
         },
         {
-          "prompt": "Дай мені сік.",
+          "prompt": "Дай мені воду.",
           "accepted": [
-            "Daj mi sok.",
-            "Daj mi sok, molim."
+            "Daj mi vodu."
           ]
         }
       ]
@@ -759,28 +758,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "jedan",
-        "jednu",
-        "jedno",
-        "dva",
-        "dvije",
-        "tri",
-        "sira",
-        "soka",
-        "mlijeka",
-        "košta",
-        "koštaju",
-        "euro",
-        "eura",
-        "centi",
         "cent",
-        "centa"
+        "košta",
+        "jedan",
+        "jedno",
+        "jednu",
+        "sira",
+        "mlijeka",
+        "tri",
+        "eura",
+        "euro",
+        "soka",
+        "dvije",
+        "dva",
+        "koštaju",
+        "centa",
+        "centi"
       ],
       "items": [
         {
           "example": true,
-          "text": "Dajte mi ___ kruh.",
-          "hint": "Дайте мені один хліб.",
+          "text": "Dajte mi ___ sir.",
+          "hint": "Дайте мені один сир.",
           "accepted": [
             [
               "jedan"
@@ -788,8 +787,8 @@
           ]
         },
         {
-          "text": "Dajte mi ___ jabuku.",
-          "hint": "Дайте мені одне яблуко.",
+          "text": "Dajte mi ___ kavu, molim.",
+          "hint": "Дайте мені одну каву, будь ласка.",
           "accepted": [
             [
               "jednu"
@@ -797,8 +796,8 @@
           ]
         },
         {
-          "text": "Dajte mi ___ mlijeko.",
-          "hint": "Дайте мені одне молоко.",
+          "text": "Daj mi ___ mlijeko.",
+          "hint": "Дай мені одне молоко.",
           "accepted": [
             [
               "jedno"
@@ -806,8 +805,8 @@
           ]
         },
         {
-          "text": "Dajte mi ___ kruha.",
-          "hint": "Дайте мені два хліби.",
+          "text": "Daj mi ___ kruha.",
+          "hint": "Дай мені два хліби.",
           "accepted": [
             [
               "dva"
@@ -815,8 +814,8 @@
           ]
         },
         {
-          "text": "Dajte mi ___ jabuke.",
-          "hint": "Дайте мені два яблука.",
+          "text": "Daj mi ___ jabuke.",
+          "hint": "Дай мені два яблука.",
           "accepted": [
             [
               "dvije"
@@ -824,8 +823,8 @@
           ]
         },
         {
-          "text": "Dajte mi tri ___.",
-          "hint": "Дайте мені три сири.",
+          "text": "Ovdje su tri ___.",
+          "hint": "Тут три сири.",
           "accepted": [
             [
               "sira"
@@ -833,8 +832,8 @@
           ]
         },
         {
-          "text": "Dajte mi dva ___.",
-          "hint": "Дайте мені два соки.",
+          "text": "Molim, dajte mi tri ___.",
+          "hint": "Будь ласка, дайте мені три соки.",
           "accepted": [
             [
               "soka"
@@ -851,8 +850,8 @@
           ]
         },
         {
-          "text": "Koliko ___ kruh?",
-          "hint": "Скільки коштує хліб?",
+          "text": "Koliko ___ jabuka?",
+          "hint": "Скільки коштує яблуко?",
           "accepted": [
             [
               "košta"
@@ -860,8 +859,8 @@
           ]
         },
         {
-          "text": "Koliko ___ jabuke?",
-          "hint": "Скільки коштують яблука?",
+          "text": "Koliko ___ dvije kave?",
+          "hint": "Скільки коштують дві кави?",
           "accepted": [
             [
               "koštaju"
@@ -869,8 +868,8 @@
           ]
         },
         {
-          "text": "Kruh košta jedan ___.",
-          "hint": "Хліб коштує один євро.",
+          "text": "Kava košta jedan ___.",
+          "hint": "Кава коштує один євро.",
           "accepted": [
             [
               "euro"
@@ -878,8 +877,8 @@
           ]
         },
         {
-          "text": "Sok košta tri ___.",
-          "hint": "Сік коштує три євро.",
+          "text": "Meso košta dva ___.",
+          "hint": "М'ясо коштує два євро.",
           "accepted": [
             [
               "eura"
@@ -887,8 +886,8 @@
           ]
         },
         {
-          "text": "Sir košta dva eura i pedeset ___.",
-          "hint": "Сир коштує два євро й п'ятдесят центів.",
+          "text": "Kruh košta deset ___.",
+          "hint": "Хліб коштує десять центів.",
           "accepted": [
             [
               "centi"
@@ -896,8 +895,8 @@
           ]
         },
         {
-          "text": "Jabuka košta jedan ___.",
-          "hint": "Яблуко коштує один цент.",
+          "text": "Voda košta jedan ___.",
+          "hint": "Вода коштує один цент.",
           "accepted": [
             [
               "cent"
@@ -914,8 +913,8 @@
           ]
         },
         {
-          "text": "Sok košta pet ___.",
-          "hint": "Сік коштує п'ять євро.",
+          "text": "Mlijeko košta pet ___.",
+          "hint": "Молоко коштує п'ять євро.",
           "accepted": [
             [
               "eura"
@@ -930,31 +929,31 @@
       "items": [
         {
           "example": true,
-          "prompt": "Dajte mi kruh.",
-          "cue": "-> два (dva)",
+          "prompt": "Dajte mi vodu.",
+          "cue": "-> дві (dvije)",
           "accepted": [
-            "Dajte mi dva kruha."
-          ]
-        },
-        {
-          "prompt": "Dajte mi sir.",
-          "cue": "-> три (tri)",
-          "accepted": [
-            "Dajte mi tri sira."
+            "Dajte mi dvije vode."
           ]
         },
         {
           "prompt": "Dajte mi jabuku.",
-          "cue": "-> дві (dvije)",
+          "cue": "-> три (tri)",
           "accepted": [
-            "Dajte mi dvije jabuke."
+            "Dajte mi tri jabuke."
           ]
         },
         {
-          "prompt": "Dajte mi sok.",
-          "cue": "-> два (dva)",
+          "prompt": "Dajte mi kavu.",
+          "cue": "-> три (tri)",
           "accepted": [
-            "Dajte mi dva soka."
+            "Dajte mi tri kave."
+          ]
+        },
+        {
+          "prompt": "Dajte mi mlijeko.",
+          "cue": "-> три (tri)",
+          "accepted": [
+            "Dajte mi tri mlijeka."
           ]
         },
         {
@@ -965,24 +964,24 @@
           ]
         },
         {
-          "prompt": "Koliko košta jabuka?",
-          "cue": "-> множина (jabuke)",
+          "prompt": "Koliko košta kava?",
+          "cue": "-> множина (kave)",
           "accepted": [
-            "Koliko koštaju jabuke?"
+            "Koliko koštaju kave?"
           ]
         },
         {
-          "prompt": "Kruh košta euro.",
+          "prompt": "Voda košta euro.",
           "cue": "-> один (jedan)",
           "accepted": [
-            "Kruh košta jedan euro."
+            "Voda košta jedan euro."
           ]
         },
         {
-          "prompt": "Sok košta euro.",
+          "prompt": "Meso košta euro.",
           "cue": "-> три (tri)",
           "accepted": [
-            "Sok košta tri eura."
+            "Meso košta tri eura."
           ]
         },
         {
@@ -993,52 +992,52 @@
           ]
         },
         {
-          "prompt": "Dajte mi sok, molim.",
+          "prompt": "Dajte mi meso, molim.",
           "cue": "-> до друга (daj)",
           "accepted": [
-            "Daj mi sok, molim."
+            "Daj mi meso, molim."
           ]
         },
         {
-          "prompt": "Kruh košta jedan euro.",
+          "prompt": "Kava košta tri eura.",
           "cue": "-> питання",
           "accepted": [
-            "Koliko košta kruh?"
+            "Koliko košta kava?"
           ]
         },
         {
-          "prompt": "Sir košta dva eura.",
+          "prompt": "Sokovi koštaju pet eura.",
           "cue": "-> питання",
           "accepted": [
-            "Koliko košta sir?"
+            "Koliko koštaju sokovi?"
           ]
         },
         {
-          "prompt": "Dajte mi dva kruh.",
+          "prompt": "Daj mi dva sir.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajte mi dva kruha."
+            "Daj mi dva sira."
           ]
         },
         {
-          "prompt": "Dajte mi tri sir.",
+          "prompt": "Dajte mi tri sok.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajte mi tri sira."
+            "Dajte mi tri soka."
           ]
         },
         {
-          "prompt": "Dajte mi dva jabuke.",
+          "prompt": "Sok košta dva euro.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajte mi dvije jabuke."
+            "Sok košta dva eura."
           ]
         },
         {
-          "prompt": "Koliko koštaju kruh?",
+          "prompt": "Koliko koštaju voda?",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Koliko košta kruh?"
+            "Koliko košta voda?"
           ]
         }
       ]

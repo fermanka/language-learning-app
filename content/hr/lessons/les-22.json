@@ -124,7 +124,8 @@
       "ua": "лист (папір)",
       "audio": "hr-pismo.mp3",
       "forms": [
-        "pisma"
+        "pisma",
+        "pismu"
       ],
       "explain_ua": "(Šaljem pismo u ured = надсилаю лист в офіс). Середній рід на -o: pismo, pisma. Не плутай з pismo «письмо, писання»: у нашому уроці це лист на папері. Дієслово pisati (пишу) те саме коріння",
       "check": "Форми pisma з мого знання за зразком selo; слова в джерелах цього уроку немає."
@@ -364,7 +365,9 @@
         "kupljeno",
         "pozvan",
         "pozvana",
-        "pozvano"
+        "pozvano",
+        "napisane",
+        "popunjeni"
       ],
       "explain_ua": "(Obrazac je popunjen = бланк заповнений). Страдальний дієприкметник узгоджується в роді: popunjen (чол.), popunjena (жін.), popunjeno (сер.). Збірні форми: napisan, napisana, napisano; rođen, rođena, rođeno; kupljen, kupljena, kupljeno; pozvan, pozvana, pozvano. Український заповнений дуже схожий",
       "check": "Форми rođen, rođena підтверджені в підручнику; решта страдальних дієприкметників за шаблоном з мого знання."
@@ -734,93 +737,104 @@
       "items": [
         {
           "example": true,
-          "prompt": "Тут пишу ім'я та прізвище.",
+          "prompt": "Тут пишу адресу.",
           "accepted": [
-            "Ovdje pišem ime i prezime."
+            "Ovdje pišem adresu.",
+            "Pišem adresu ovdje."
           ]
         },
         {
-          "prompt": "Я живу тут.",
+          "prompt": "Брат живе тут.",
           "accepted": [
-            "Stanujem ovdje."
+            "Brat stanuje ovdje.",
+            "Ovdje stanuje brat."
           ]
         },
         {
-          "prompt": "Адреса написана.",
+          "prompt": "Лист написаний.",
           "accepted": [
-            "Adresa je napisana."
+            "Pismo je napisano."
           ]
         },
         {
-          "prompt": "Бланк заповнений.",
+          "prompt": "Адреса заповнена.",
           "accepted": [
-            "Obrazac je popunjen."
+            "Adresa je popunjena."
           ]
         },
         {
-          "prompt": "Заповнюю бланк в офісі.",
+          "prompt": "Заповнюю бланк на пошті.",
           "accepted": [
-            "Popunjavam obrazac u uredu."
+            "Popunjavam obrazac na pošti.",
+            "Ja popunjavam obrazac na pošti."
           ]
         },
         {
-          "prompt": "Дата на бланку.",
+          "prompt": "Підпис на листі.",
           "accepted": [
-            "Datum je na obrascu."
+            "Potpis je na pismu."
           ]
         },
         {
-          "prompt": "Лист надісланий.",
+          "prompt": "Ім'я та прізвище тут.",
           "accepted": [
-            "Pismo je poslano."
+            "Ime i prezime su ovdje.",
+            "Ovdje su ime i prezime."
           ]
         },
         {
-          "prompt": "Надсилаю лист в офіс.",
+          "prompt": "Надсилаю бланк в офіс.",
           "accepted": [
-            "Šaljem pismo u ured."
+            "Šaljem obrazac u ured.",
+            "Ja šaljem obrazac u ured."
           ]
         },
         {
-          "prompt": "Плачу сто євро.",
+          "prompt": "Плачу триста євро.",
           "accepted": [
-            "Plaćam sto eura."
+            "Plaćam tristo eura.",
+            "Ja plaćam tristo eura."
           ]
         },
         {
-          "prompt": "Маю двісті євро.",
+          "prompt": "Плачу двісті євро.",
           "accepted": [
-            "Imam dvjesto eura."
+            "Plaćam dvjesto eura.",
+            "Ja plaćam dvjesto eura."
           ]
         },
         {
-          "prompt": "Маю п'ятсот євро.",
+          "prompt": "Не маю п'ятсот євро.",
           "accepted": [
-            "Imam petsto eura."
+            "Nemam petsto eura.",
+            "Ja nemam petsto eura."
           ]
         },
         {
-          "prompt": "Маю тисячу євро.",
+          "prompt": "Плачу тисячу євро.",
           "accepted": [
-            "Imam tisuću eura."
+            "Plaćam tisuću eura.",
+            "Ja plaćam tisuću eura."
           ]
         },
         {
-          "prompt": "Йду на пошту.",
+          "prompt": "Брат іде на пошту.",
           "accepted": [
-            "Idem na poštu."
+            "Brat ide na poštu."
           ]
         },
         {
-          "prompt": "Підпис тут.",
+          "prompt": "Ім'я тут.",
           "accepted": [
-            "Potpis je ovdje."
+            "Ime je ovdje.",
+            "Ovdje je ime."
           ]
         },
         {
-          "prompt": "Мій номер тут.",
+          "prompt": "Моє прізвище тут.",
           "accepted": [
-            "Moj broj je ovdje."
+            "Moje prezime je ovdje.",
+            "Ovdje je moje prezime."
           ]
         }
       ]
@@ -829,28 +843,33 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "obrazac",
-        "adresa",
-        "datum",
-        "potpis",
-        "pismo",
-        "popunjen",
-        "napisana",
-        "poslano",
-        "sto",
-        "dvjesto",
-        "petsto",
-        "tisuću",
-        "eura",
-        "stanujem",
+        "Obrazac",
         "šaljem",
-        "plaćam"
+        "datum",
+        "pismo",
+        "Plaćam",
+        "dvjesto",
+        "sto",
+        "Šaljem",
+        "stanujem",
+        "plaćam",
+        "eura",
+        "potpis",
+        "obrazac",
+        "tisuću",
+        "popunjen",
+        "Stanujem",
+        "napisana",
+        "petsto",
+        "Datum",
+        "adresa",
+        "poslano"
       ],
       "items": [
         {
           "example": true,
-          "text": "___ je popunjen.",
-          "hint": "Бланк заповнений.",
+          "text": "___ je na pošti.",
+          "hint": "Бланк на пошті.",
           "accepted": [
             [
               "Obrazac"
@@ -867,8 +886,8 @@
           ]
         },
         {
-          "text": "___ je na obrascu.",
-          "hint": "Дата на бланку.",
+          "text": "___ je ovdje.",
+          "hint": "Дата тут.",
           "accepted": [
             [
               "Datum"
@@ -876,17 +895,17 @@
           ]
         },
         {
-          "text": "___ je ovdje.",
-          "hint": "Підпис тут.",
+          "text": "Moj ___ je na obrascu.",
+          "hint": "Мій підпис на бланку.",
           "accepted": [
             [
-              "Potpis"
+              "potpis"
             ]
           ]
         },
         {
-          "text": "Šaljem ___ u ured.",
-          "hint": "Надсилаю лист в офіс.",
+          "text": "Moje ___ je na pošti.",
+          "hint": "Мій лист на пошті.",
           "accepted": [
             [
               "pismo"
@@ -894,8 +913,8 @@
           ]
         },
         {
-          "text": "Obrazac je ___.",
-          "hint": "Бланк заповнений.",
+          "text": "Obrazac na pošti je ___.",
+          "hint": "Бланк на пошті заповнений.",
           "accepted": [
             [
               "popunjen"
@@ -903,8 +922,8 @@
           ]
         },
         {
-          "text": "Adresa je ___.",
-          "hint": "Адреса написана.",
+          "text": "Adresa na pismu je ___.",
+          "hint": "Адреса на листі написана.",
           "accepted": [
             [
               "napisana"
@@ -912,8 +931,8 @@
           ]
         },
         {
-          "text": "Pismo je ___.",
-          "hint": "Лист надісланий.",
+          "text": "Moje pismo je već ___.",
+          "hint": "Мій лист уже надісланий.",
           "accepted": [
             [
               "poslano"
@@ -921,8 +940,8 @@
           ]
         },
         {
-          "text": "Plaćam ___ eura.",
-          "hint": "Плачу сто євро.",
+          "text": "Brat plaća ___ eura.",
+          "hint": "Брат платить сто євро.",
           "accepted": [
             [
               "sto"
@@ -930,8 +949,8 @@
           ]
         },
         {
-          "text": "Imam ___ eura.",
-          "hint": "Маю двісті євро.",
+          "text": "Plaćamo ___ eura.",
+          "hint": "Платимо двісті євро.",
           "accepted": [
             [
               "dvjesto"
@@ -939,8 +958,8 @@
           ]
         },
         {
-          "text": "Imam ___ eura.",
-          "hint": "Маю п'ятсот євро.",
+          "text": "Brat ima ___ eura.",
+          "hint": "Брат має п'ятсот євро.",
           "accepted": [
             [
               "petsto"
@@ -948,8 +967,8 @@
           ]
         },
         {
-          "text": "Imam ___ eura.",
-          "hint": "Маю тисячу євро.",
+          "text": "Baka ima ___ eura.",
+          "hint": "Бабуся має тисячу євро.",
           "accepted": [
             [
               "tisuću"
@@ -966,8 +985,8 @@
           ]
         },
         {
-          "text": "___ ovdje.",
-          "hint": "Я живу тут.",
+          "text": "___ u gradu.",
+          "hint": "Я живу в місті.",
           "accepted": [
             [
               "Stanujem"
@@ -984,8 +1003,8 @@
           ]
         },
         {
-          "text": "___ sto eura.",
-          "hint": "Плачу сто євро.",
+          "text": "___ na pošti.",
+          "hint": "Я плачу на пошті.",
           "accepted": [
             [
               "Plaćam"
@@ -1000,52 +1019,52 @@
       "items": [
         {
           "example": true,
-          "prompt": "Popunjavam obrazac.",
-          "cue": "-> пасив: obrazac je ...",
+          "prompt": "Pišem ime.",
+          "cue": "-> пасив: ime je ...",
           "accepted": [
-            "Obrazac je popunjen."
+            "Ime je napisano."
           ]
         },
         {
-          "prompt": "Pišem adresu.",
-          "cue": "-> пасив: adresa je ...",
-          "accepted": [
-            "Adresa je napisana."
-          ]
-        },
-        {
-          "prompt": "Pišem datum.",
-          "cue": "-> пасив: datum je ...",
-          "accepted": [
-            "Datum je napisan."
-          ]
-        },
-        {
-          "prompt": "Pišem potpis.",
-          "cue": "-> пасив: potpis je ...",
-          "accepted": [
-            "Potpis je napisan."
-          ]
-        },
-        {
-          "prompt": "Šaljem pismo.",
-          "cue": "-> пасив: pismo je ...",
-          "accepted": [
-            "Pismo je poslano."
-          ]
-        },
-        {
-          "prompt": "Šaljem pisma.",
+          "prompt": "Pišem pisma.",
           "cue": "-> пасив: pisma su ...",
           "accepted": [
-            "Pisma su poslana."
+            "Pisma su napisana."
           ]
         },
         {
-          "prompt": "Popunjavam obrazac.",
+          "prompt": "Šaljem obrazac.",
           "cue": "-> пасив: obrazac je ...",
           "accepted": [
-            "Obrazac je popunjen."
+            "Obrazac je poslan."
+          ]
+        },
+        {
+          "prompt": "Pišem broj.",
+          "cue": "-> пасив: broj je ...",
+          "accepted": [
+            "Broj je napisan."
+          ]
+        },
+        {
+          "prompt": "Pišem adrese.",
+          "cue": "-> пасив: adrese su ...",
+          "accepted": [
+            "Adrese su napisane."
+          ]
+        },
+        {
+          "prompt": "Šaljem adresu.",
+          "cue": "-> пасив: adresa je ...",
+          "accepted": [
+            "Adresa je poslana."
+          ]
+        },
+        {
+          "prompt": "Popunjavam ime.",
+          "cue": "-> пасив: ime je ...",
+          "accepted": [
+            "Ime je popunjeno."
           ]
         },
         {
@@ -1056,45 +1075,45 @@
           ]
         },
         {
-          "prompt": "Obrazac je popunjena.",
+          "prompt": "Datum je popunjeno.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Obrazac je popunjen."
+            "Datum je popunjen."
           ]
         },
         {
-          "prompt": "Adresa je napisan.",
+          "prompt": "Prezime je popunjena.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Adresa je napisana."
+            "Prezime je popunjeno."
           ]
         },
         {
-          "prompt": "Pismo je poslan.",
+          "prompt": "Obrasci su popunjen.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Pismo je poslano."
+            "Obrasci su popunjeni."
           ]
         },
         {
-          "prompt": "Plaćam sto euro.",
+          "prompt": "Imam sto euro.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Plaćam sto eura."
+            "Imam sto eura."
           ]
         },
         {
-          "prompt": "Imam tisuća eura.",
+          "prompt": "Brat ima tisuća eura.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam tisuću eura."
+            "Brat ima tisuću eura."
           ]
         },
         {
-          "prompt": "Imam dva sto eura.",
+          "prompt": "Nemam dva sto eura.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam dvjesto eura."
+            "Nemam dvjesto eura."
           ]
         }
       ]

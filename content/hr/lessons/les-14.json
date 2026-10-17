@@ -4,7 +4,10 @@
   "order": 14,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "mlijekom",
+    "sinom"
+  ],
   "notes": [
     {
       "id": "hr-74713bb8",
@@ -662,99 +665,102 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я подорожую поїздом.",
+          "prompt": "Мама подорожує автобусом.",
           "accepted": [
-            "Putujem vlakom."
+            "Majka putuje autobusom."
           ]
         },
         {
-          "prompt": "Я їду автобусом.",
+          "prompt": "Я їду трамваєм.",
           "accepted": [
-            "Idem autobusom."
+            "Idem tramvajem.",
+            "Ja idem tramvajem."
           ]
         },
         {
-          "prompt": "Ми їдемо машиною в місто.",
+          "prompt": "Ми їдемо поїздом у місто.",
           "accepted": [
-            "Idemo autom u grad."
+            "Idemo vlakom u grad.",
+            "Mi idemo vlakom u grad."
           ]
         },
         {
-          "prompt": "Мама їде трамваєм.",
+          "prompt": "Брат їде машиною.",
           "accepted": [
-            "Majka ide tramvajem."
+            "Brat ide autom."
           ]
         },
         {
-          "prompt": "Каву з вершками, будь ласка.",
+          "prompt": "Каву з молоком, будь ласка.",
           "accepted": [
-            "Kava sa šlagom, molim.",
-            "Molim kavu sa šlagom."
+            "Kava s mlijekom, molim.",
+            "Molim kavu s mlijekom.",
+            "Kavu s mlijekom, molim."
           ]
         },
         {
-          "prompt": "М'ясо з картоплею.",
+          "prompt": "М'ясо з рисом.",
           "accepted": [
-            "Meso s krumpirom."
+            "Meso s rižom."
           ]
         },
         {
-          "prompt": "Суп з овочами смачний.",
+          "prompt": "Суп з картоплею смачний.",
           "accepted": [
-            "Juha s povrćem je ukusna."
+            "Juha s krumpirom je ukusna."
           ]
         },
         {
-          "prompt": "Рис з м'ясом смачний.",
+          "prompt": "Рис з овочами смачний.",
           "accepted": [
-            "Riža s mesom je ukusna."
+            "Riža s povrćem je ukusna."
           ]
         },
         {
-          "prompt": "Я гуляю з другом.",
+          "prompt": "Я гуляю з сином.",
           "accepted": [
-            "Šetam s prijateljem.",
-            "Ja šetam s prijateljem."
+            "Šetam sa sinom.",
+            "Ja šetam sa sinom."
           ]
         },
         {
-          "prompt": "Я розмовляю з вчителькою.",
+          "prompt": "Я розмовляю з батьком.",
           "accepted": [
-            "Razgovaram s učiteljicom.",
-            "Ja razgovaram s učiteljicom."
+            "Razgovaram s ocem.",
+            "Ja razgovaram s ocem."
           ]
         },
         {
-          "prompt": "Сестра розмовляє з вчителем.",
+          "prompt": "Брат розмовляє з вчителькою.",
           "accepted": [
-            "Sestra razgovara s učiteljem."
+            "Brat razgovara s učiteljicom."
           ]
         },
         {
-          "prompt": "Я йду в школу з братом.",
+          "prompt": "Я йду в парк з собакою.",
           "accepted": [
-            "Idem u školu s bratom.",
-            "Ja idem u školu s bratom."
+            "Idem u park sa psom.",
+            "Ja idem u park sa psom."
           ]
         },
         {
-          "prompt": "Мама з сестрою в магазині.",
+          "prompt": "Тато з братом у парку.",
           "accepted": [
-            "Majka je sa sestrom u dućanu.",
-            "Majka je u dućanu sa sestrom."
+            "Otac je s bratom u parku.",
+            "Otac je u parku s bratom."
           ]
         },
         {
-          "prompt": "Дитина гуляє з батьком.",
+          "prompt": "Дитина гуляє з мамою.",
           "accepted": [
-            "Dijete šeta s ocem."
+            "Dijete šeta s majkom."
           ]
         },
         {
-          "prompt": "Ви йдете зі мною?",
+          "prompt": "Ти розмовляєш з нею?",
           "accepted": [
-            "Idete li sa mnom?",
-            "Idete li sa mnom u park?"
+            "Razgovaraš li s njom?",
+            "Razgovaraš s njom?"
           ]
         }
       ]
@@ -763,28 +769,35 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "vlakom",
-        "autobusom",
-        "autom",
-        "tramvajem",
-        "sa",
         "s",
-        "krumpirom",
-        "povrćem",
-        "šlagom",
+        "mlijekom",
+        "sa",
         "prijateljem",
+        "autom",
+        "psom",
+        "autobusom",
         "učiteljicom",
-        "sestrom",
-        "bratom",
+        "njom",
+        "vama",
+        "mesom",
+        "sinom",
+        "vlakom",
+        "šlagom",
         "ocem",
+        "povrćem",
+        "bratom",
         "mnom",
-        "tobom"
+        "sestrom",
+        "majkom",
+        "tramvajem",
+        "tobom",
+        "krumpirom"
       ],
       "items": [
         {
           "example": true,
-          "text": "Putujem ___.",
-          "hint": "Я подорожую поїздом.",
+          "text": "Brat putuje ___.",
+          "hint": "Брат подорожує поїздом.",
           "accepted": [
             [
               "vlakom"
@@ -792,8 +805,8 @@
           ]
         },
         {
-          "text": "Idem ___.",
-          "hint": "Я їду автобусом.",
+          "text": "Otac ide ___.",
+          "hint": "Тато їде автобусом.",
           "accepted": [
             [
               "autobusom"
@@ -801,8 +814,8 @@
           ]
         },
         {
-          "text": "Idemo ___ u grad.",
-          "hint": "Ми їдемо машиною в місто.",
+          "text": "Sestra ide ___ u školu.",
+          "hint": "Сестра їде машиною в школу.",
           "accepted": [
             [
               "autom"
@@ -810,8 +823,8 @@
           ]
         },
         {
-          "text": "Majka ide ___.",
-          "hint": "Мама їде трамваєм.",
+          "text": "Brat ide ___ u grad.",
+          "hint": "Брат їде трамваєм у місто.",
           "accepted": [
             [
               "tramvajem"
@@ -819,8 +832,8 @@
           ]
         },
         {
-          "text": "Kava ___ šlagom.",
-          "hint": "Кава з вершками.",
+          "text": "Kruh ___ sirom.",
+          "hint": "Хліб з сиром.",
           "accepted": [
             [
               "sa"
@@ -828,8 +841,8 @@
           ]
         },
         {
-          "text": "Meso ___ krumpirom.",
-          "hint": "М'ясо з картоплею.",
+          "text": "Meso ___ rižom.",
+          "hint": "М'ясо з рисом.",
           "accepted": [
             [
               "s"
@@ -837,11 +850,11 @@
           ]
         },
         {
-          "text": "Meso s ___.",
-          "hint": "М'ясо з картоплею.",
+          "text": "Salata s ___.",
+          "hint": "Салат з м'ясом.",
           "accepted": [
             [
-              "krumpirom"
+              "mesom"
             ]
           ]
         },
@@ -855,29 +868,29 @@
           ]
         },
         {
-          "text": "Kava sa ___.",
-          "hint": "Кава з вершками.",
+          "text": "Kava s ___.",
+          "hint": "Кава з молоком.",
           "accepted": [
             [
-              "šlagom"
+              "mlijekom"
             ]
           ]
         },
         {
-          "text": "Šetam s ___.",
-          "hint": "Я гуляю з другом.",
+          "text": "Šetam sa ___.",
+          "hint": "Я гуляю з сином.",
           "accepted": [
             [
-              "prijateljem"
+              "sinom"
             ]
           ]
         },
         {
           "text": "Razgovaram s ___.",
-          "hint": "Я розмовляю з вчителькою.",
+          "hint": "Я розмовляю з батьком.",
           "accepted": [
             [
-              "učiteljicom"
+              "ocem"
             ]
           ]
         },
@@ -891,38 +904,38 @@
           ]
         },
         {
-          "text": "Idem u školu s ___.",
-          "hint": "Я йду в школу з братом.",
+          "text": "Idem u park sa ___.",
+          "hint": "Я йду в парк з собакою.",
           "accepted": [
             [
-              "bratom"
+              "psom"
             ]
           ]
         },
         {
           "text": "Dijete šeta s ___.",
-          "hint": "Дитина гуляє з батьком.",
+          "hint": "Дитина гуляє з мамою.",
           "accepted": [
             [
-              "ocem"
+              "majkom"
             ]
           ]
         },
         {
-          "text": "Idete li sa ___?",
-          "hint": "Ви йдете зі мною?",
+          "text": "Razgovaraš li s ___?",
+          "hint": "Ти розмовляєш з нею?",
           "accepted": [
             [
-              "mnom"
+              "njom"
             ]
           ]
         },
         {
-          "text": "Idem s ___ u dućan.",
-          "hint": "Я йду з тобою в магазин.",
+          "text": "Mi idemo s ___ u park.",
+          "hint": "Ми йдемо з вами в парк.",
           "accepted": [
             [
-              "tobom"
+              "vama"
             ]
           ]
         }
@@ -935,44 +948,44 @@
         {
           "example": true,
           "prompt": "Putujem.",
-          "cue": "-> додай vlak",
+          "cue": "-> додай auto",
           "accepted": [
-            "Putujem vlakom."
+            "Putujem autom."
           ]
         },
         {
           "prompt": "Idem.",
-          "cue": "-> додай autobus",
-          "accepted": [
-            "Idem autobusom."
-          ]
-        },
-        {
-          "prompt": "Majka ide.",
           "cue": "-> додай tramvaj",
           "accepted": [
-            "Majka ide tramvajem."
+            "Idem tramvajem."
           ]
         },
         {
-          "prompt": "Idemo u grad.",
-          "cue": "-> додай auto",
+          "prompt": "Otac ide.",
+          "cue": "-> додай vlak",
           "accepted": [
-            "Idemo autom u grad."
+            "Otac ide vlakom."
+          ]
+        },
+        {
+          "prompt": "Idemo u park.",
+          "cue": "-> додай autobus",
+          "accepted": [
+            "Idemo autobusom u park."
           ]
         },
         {
           "prompt": "Šetam.",
-          "cue": "-> з другом (prijatelj)",
+          "cue": "-> з псом (pas)",
           "accepted": [
-            "Šetam s prijateljem."
+            "Šetam sa psom."
           ]
         },
         {
           "prompt": "Razgovaram.",
-          "cue": "-> з вчителькою (učiteljica)",
+          "cue": "-> з сином (sin)",
           "accepted": [
-            "Razgovaram s učiteljicom."
+            "Razgovaram sa sinom."
           ]
         },
         {
@@ -990,24 +1003,24 @@
           ]
         },
         {
-          "prompt": "Idem u školu.",
-          "cue": "-> з братом (brat)",
+          "prompt": "Idem u park.",
+          "cue": "-> з мамою (majka)",
           "accepted": [
-            "Idem u školu s bratom."
+            "Idem u park s majkom."
           ]
         },
         {
-          "prompt": "Kava.",
-          "cue": "-> додай šlag",
+          "prompt": "Kruh.",
+          "cue": "-> додай sir",
           "accepted": [
-            "Kava sa šlagom."
+            "Kruh sa sirom."
           ]
         },
         {
-          "prompt": "Meso.",
-          "cue": "-> додай krumpir",
+          "prompt": "Salata.",
+          "cue": "-> додай meso",
           "accepted": [
-            "Meso s krumpirom."
+            "Salata s mesom."
           ]
         },
         {
@@ -1025,24 +1038,24 @@
           ]
         },
         {
-          "prompt": "Putujem vlak.",
+          "prompt": "Putujem autobus.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Putujem vlakom."
+            "Putujem autobusom."
           ]
         },
         {
-          "prompt": "Razgovaram s učiteljica.",
+          "prompt": "Razgovaram s otac.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Razgovaram s učiteljicom."
+            "Razgovaram s ocem."
           ]
         },
         {
-          "prompt": "Idem s sestrom.",
+          "prompt": "Kruh s sirom.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Idem sa sestrom."
+            "Kruh sa sirom."
           ]
         }
       ]

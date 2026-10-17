@@ -780,103 +780,106 @@
       "items": [
         {
           "example": true,
-          "prompt": "Я маю книжку.",
+          "prompt": "Брат має хліб.",
           "accepted": [
-            "Imam knjigu.",
-            "Ja imam knjigu."
+            "Brat ima kruh."
           ]
         },
         {
-          "prompt": "Мама має будинок.",
+          "prompt": "Син має собаку.",
           "accepted": [
-            "Majka ima kuću."
+            "Sin ima psa."
           ]
         },
         {
-          "prompt": "Ми маємо собаку.",
+          "prompt": "Ви маєте книжку.",
           "accepted": [
-            "Imamo psa.",
-            "Mi imamo psa."
+            "Imate knjigu.",
+            "Vi imate knjigu."
           ]
         },
         {
-          "prompt": "Я маю брата і сина.",
+          "prompt": "Я маю воду і хліб.",
           "accepted": [
-            "Imam brata i sina.",
-            "Ja imam brata i sina."
+            "Imam vodu i kruh.",
+            "Ja imam vodu i kruh."
           ]
         },
         {
-          "prompt": "Я люблю каву.",
+          "prompt": "Ти любиш каву.",
           "accepted": [
-            "Volim kavu.",
-            "Ja volim kavu."
+            "Voliš kavu.",
+            "Ti voliš kavu."
           ]
         },
         {
-          "prompt": "Мама любить хліб.",
+          "prompt": "Брат любить собаку.",
           "accepted": [
-            "Majka voli kruh."
+            "Brat voli psa."
           ]
         },
         {
-          "prompt": "Діти люблять молоко.",
+          "prompt": "Ми любимо хліб.",
           "accepted": [
-            "Djeca vole mlijeko."
+            "Volimo kruh.",
+            "Mi volimo kruh."
           ]
         },
         {
-          "prompt": "Я люблю фрукти.",
+          "prompt": "Ви любите каву.",
           "accepted": [
-            "Volim voće.",
-            "Ja volim voće."
+            "Volite kavu.",
+            "Vi volite kavu."
           ]
         },
         {
-          "prompt": "Я бачу собаку.",
+          "prompt": "Я бачу сина.",
           "accepted": [
-            "Vidim psa.",
-            "Ja vidim psa."
+            "Vidim sina.",
+            "Ja vidim sina."
           ]
         },
         {
-          "prompt": "Ти бачиш брата?",
+          "prompt": "Ти бачиш собаку?",
           "accepted": [
-            "Vidiš li brata?",
-            "Vidiš li ti brata?"
+            "Vidiš li psa?",
+            "Vidiš li ti psa?"
           ]
         },
         {
-          "prompt": "У мене немає хліба.",
+          "prompt": "У мене немає води.",
           "accepted": [
-            "Nemam kruha.",
-            "Ja nemam kruha."
+            "Nemam vode.",
+            "Ja nemam vode."
           ]
         },
         {
-          "prompt": "У мене немає часу.",
+          "prompt": "У тебе немає кави.",
           "accepted": [
-            "Nemam vremena.",
-            "Ja nemam vremena."
+            "Nemaš kave.",
+            "Ti nemaš kave."
           ]
         },
         {
-          "prompt": "Води немає.",
+          "prompt": "У місті немає води.",
           "accepted": [
-            "Nema vode."
+            "Nema vode u gradu.",
+            "U gradu nema vode."
           ]
         },
         {
-          "prompt": "У мене є кава, але немає молока.",
+          "prompt": "У мене є хліб, але немає води.",
           "accepted": [
-            "Imam kavu, ali nemam mlijeka.",
-            "Ja imam kavu, ali nemam mlijeka."
+            "Imam kruh, ali nemam vode.",
+            "Ja imam kruh, ali nemam vode.",
+            "Imam kruh, a nemam vode.",
+            "Ja imam kruh, a nemam vode."
           ]
         },
         {
-          "prompt": "Мама цілує дитину.",
+          "prompt": "Мама цілує сина.",
           "accepted": [
-            "Majka ljubi dijete."
+            "Majka ljubi sina."
           ]
         }
       ]
@@ -885,26 +888,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "kruh",
-        "kruha",
-        "vodu",
-        "vode",
-        "kavu",
-        "kave",
-        "mlijeka",
         "psa",
-        "brata",
+        "Imam",
+        "Nemam",
+        "kruh",
         "sina",
-        "imam",
-        "nemam",
+        "kruha",
         "ima",
-        "vole"
+        "nemam",
+        "mlijeka",
+        "kave",
+        "kavu",
+        "imam",
+        "vode",
+        "vodu",
+        "vole",
+        "brata"
       ],
       "items": [
         {
           "example": true,
-          "text": "Nemam ___.",
-          "hint": "У мене немає хліба.",
+          "text": "Nemaš ___.",
+          "hint": "У тебе немає хліба.",
           "accepted": [
             [
               "kruha"
@@ -921,8 +926,8 @@
           ]
         },
         {
-          "text": "Volim ___.",
-          "hint": "Я люблю каву.",
+          "text": "Brat voli ___.",
+          "hint": "Брат любить каву.",
           "accepted": [
             [
               "kavu"
@@ -930,8 +935,8 @@
           ]
         },
         {
-          "text": "Nema ___.",
-          "hint": "Води немає.",
+          "text": "Nema ___ u školi.",
+          "hint": "У школі немає води.",
           "accepted": [
             [
               "vode"
@@ -939,8 +944,8 @@
           ]
         },
         {
-          "text": "Nemam ___.",
-          "hint": "У мене немає молока.",
+          "text": "Nemamo ___.",
+          "hint": "У нас немає молока.",
           "accepted": [
             [
               "mlijeka"
@@ -948,8 +953,8 @@
           ]
         },
         {
-          "text": "Vidim ___.",
-          "hint": "Я бачу собаку.",
+          "text": "Sin vidi ___.",
+          "hint": "Син бачить собаку.",
           "accepted": [
             [
               "psa"
@@ -957,8 +962,8 @@
           ]
         },
         {
-          "text": "Vidiš li ___?",
-          "hint": "Ти бачиш брата?",
+          "text": "Majka ima ___.",
+          "hint": "У мами є брат.",
           "accepted": [
             [
               "brata"
@@ -966,8 +971,8 @@
           ]
         },
         {
-          "text": "Majka voli ___.",
-          "hint": "Мама любить сина.",
+          "text": "Majka vidi ___ u školi.",
+          "hint": "Мама бачить сина в школі.",
           "accepted": [
             [
               "sina"
@@ -975,8 +980,8 @@
           ]
         },
         {
-          "text": "___ psa.",
-          "hint": "У мене є собака.",
+          "text": "___ kuću.",
+          "hint": "У мене є будинок.",
           "accepted": [
             [
               "Imam"
@@ -984,8 +989,8 @@
           ]
         },
         {
-          "text": "___ vremena.",
-          "hint": "У мене немає часу.",
+          "text": "___ psa.",
+          "hint": "У мене немає собаки.",
           "accepted": [
             [
               "Nemam"
@@ -993,8 +998,8 @@
           ]
         },
         {
-          "text": "Majka ___ kuću.",
-          "hint": "Мама має будинок.",
+          "text": "Brat ___ psa.",
+          "hint": "Брат має собаку.",
           "accepted": [
             [
               "ima"
@@ -1002,8 +1007,8 @@
           ]
         },
         {
-          "text": "Djeca ___ mlijeko.",
-          "hint": "Діти люблять молоко.",
+          "text": "Djeca ___ kruh.",
+          "hint": "Діти люблять хліб.",
           "accepted": [
             [
               "vole"
@@ -1020,8 +1025,8 @@
           ]
         },
         {
-          "text": "Nema ___ u stanu.",
-          "hint": "Хліба в квартирі немає.",
+          "text": "Nema ___ u trgovini.",
+          "hint": "Хліба в магазині немає.",
           "accepted": [
             [
               "kruha"
@@ -1029,8 +1034,8 @@
           ]
         },
         {
-          "text": "Imam ___.",
-          "hint": "У мене є вода.",
+          "text": "Brat kupuje ___.",
+          "hint": "Брат купує воду.",
           "accepted": [
             [
               "vodu"
@@ -1038,8 +1043,8 @@
           ]
         },
         {
-          "text": "Nemam ___.",
-          "hint": "У мене немає кави.",
+          "text": "Majka nema ___.",
+          "hint": "У мами немає кави.",
           "accepted": [
             [
               "kave"
@@ -1054,24 +1059,24 @@
       "items": [
         {
           "example": true,
-          "prompt": "Imam kruh.",
+          "prompt": "Imam sina.",
           "cue": "-> заперечення (nemam)",
           "accepted": [
-            "Nemam kruha."
+            "Nemam sina."
           ]
         },
         {
-          "prompt": "Imam mlijeko.",
-          "cue": "-> заперечення (nemam)",
+          "prompt": "Imamo mlijeko.",
+          "cue": "-> заперечення (nemamo)",
           "accepted": [
-            "Nemam mlijeka."
+            "Nemamo mlijeka."
           ]
         },
         {
-          "prompt": "Imam vrijeme.",
-          "cue": "-> заперечення (nemam)",
+          "prompt": "Imamo vrijeme.",
+          "cue": "-> заперечення (nemamo)",
           "accepted": [
-            "Nemam vremena."
+            "Nemamo vremena."
           ]
         },
         {
@@ -1082,10 +1087,10 @@
           ]
         },
         {
-          "prompt": "Imam kavu.",
-          "cue": "-> заперечення (nemam)",
+          "prompt": "Imate kavu.",
+          "cue": "-> заперечення (nemate)",
           "accepted": [
-            "Nemam kave."
+            "Nemate kave."
           ]
         },
         {
@@ -1140,38 +1145,38 @@
           ]
         },
         {
-          "prompt": "Vidim brat.",
+          "prompt": "Vidim sin.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim brata."
+            "Vidim sina."
           ]
         },
         {
-          "prompt": "Vidim kuća.",
+          "prompt": "Ti vidiš pas.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim kuću."
+            "Ti vidiš psa."
           ]
         },
         {
-          "prompt": "Nemam kruh.",
+          "prompt": "Nemamo kruh.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Nemam kruha."
+            "Nemamo kruha."
           ]
         },
         {
-          "prompt": "Volim kava.",
+          "prompt": "Majka voli voda.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Volim kavu."
+            "Majka voli vodu."
           ]
         },
         {
-          "prompt": "Nema voda.",
+          "prompt": "Nema mlijeko.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Nema vode."
+            "Nema mlijeka."
           ]
         }
       ]

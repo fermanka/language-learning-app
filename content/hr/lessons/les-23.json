@@ -9,7 +9,17 @@
     "mi",
     "li",
     "vas",
-    "molim"
+    "molim",
+    "čitajte",
+    "slušaj",
+    "učitelja",
+    "kupite",
+    "učiteljicu",
+    "piši",
+    "pišite",
+    "gledaj",
+    "gledajte",
+    "čitaj"
   ],
   "notes": [
     {
@@ -168,7 +178,8 @@
         "uzeti",
         "uzmem",
         "uzmeš",
-        "uzme"
+        "uzme",
+        "uzimam"
       ],
       "ua": "брати, приймати (док. uzeti)",
       "audio": "hr-uzimati.mp3",
@@ -626,95 +637,96 @@
       "items": [
         {
           "example": true,
-          "prompt": "Чекайте тут.",
+          "prompt": "Читайте тут.",
           "accepted": [
-            "Čekajte ovdje."
+            "Čitajte ovdje."
           ]
         },
         {
-          "prompt": "Чекай тут.",
+          "prompt": "Слухай вчителя.",
           "accepted": [
-            "Čekaj ovdje."
+            "Slušaj učitelja."
           ]
         },
         {
-          "prompt": "Візьміть таблетку.",
+          "prompt": "Купіть сир.",
           "accepted": [
-            "Uzmite tabletu."
+            "Kupite sir."
           ]
         },
         {
-          "prompt": "Візьміть ліки.",
+          "prompt": "Дайте мені сік.",
           "accepted": [
-            "Uzmite lijek."
+            "Dajte mi sok."
           ]
         },
         {
-          "prompt": "Не чекайте.",
+          "prompt": "Не читайте.",
           "accepted": [
-            "Nemojte čekati.",
-            "Ne čekajte."
+            "Nemojte čitati.",
+            "Ne čitajte."
           ]
         },
         {
-          "prompt": "Не чекай тут.",
+          "prompt": "Не пий воду.",
           "accepted": [
-            "Nemoj čekati ovdje.",
-            "Ne čekaj ovdje."
+            "Nemoj piti vodu.",
+            "Ne pij vodu."
           ]
         },
         {
-          "prompt": "Болить голова.",
+          "prompt": "Його болить зуб.",
           "accepted": [
-            "Boli me glava."
+            "Boli ga zub."
           ]
         },
         {
-          "prompt": "Болить горло.",
+          "prompt": "Тебе болить горло.",
           "accepted": [
-            "Boli me grlo."
+            "Boli te grlo."
           ]
         },
         {
-          "prompt": "Болить живіт.",
+          "prompt": "Її болить живіт.",
           "accepted": [
-            "Boli me trbuh."
+            "Boli je trbuh."
           ]
         },
         {
-          "prompt": "Маю рецепт.",
+          "prompt": "Маю ліки.",
           "accepted": [
-            "Imam recept."
+            "Imam lijek.",
+            "Ja imam lijek."
           ]
         },
         {
-          "prompt": "Йду в аптеку.",
+          "prompt": "Брат іде в аптеку.",
           "accepted": [
-            "Idem u ljekarnu."
+            "Brat ide u ljekarnu."
           ]
         },
         {
-          "prompt": "Платіть в аптеці.",
+          "prompt": "Платіть на пошті.",
           "accepted": [
-            "Platite u ljekarni."
+            "Platite na pošti."
           ]
         },
         {
-          "prompt": "Приходьте о дев'ятій.",
+          "prompt": "Приходьте на пошту.",
           "accepted": [
-            "Dođite u devet sati."
+            "Dođite na poštu."
           ]
         },
         {
-          "prompt": "Пийте воду.",
+          "prompt": "Пийте молоко.",
           "accepted": [
-            "Pijte vodu."
+            "Pijte mlijeko."
           ]
         },
         {
-          "prompt": "Запитайте лікаря.",
+          "prompt": "Запитайте вчительку.",
           "accepted": [
-            "Pitajte liječnika."
+            "Pitajte učiteljicu."
           ]
         }
       ]
@@ -723,28 +735,28 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "Čekajte",
+        "glava",
+        "Pitajte",
+        "recept",
+        "Pijte",
+        "Platite",
+        "Neka",
+        "tabletu",
+        "ljekarni",
+        "ljekarnu",
+        "Smijem",
+        "Dođite",
         "Uzmite",
         "Nemojte",
-        "Neka",
-        "boli",
-        "glava",
-        "recept",
-        "ljekarnu",
-        "ljekarni",
-        "tabletu",
+        "Čekajte",
         "lijek",
-        "Smijem",
-        "Platite",
-        "Pijte",
-        "Pitajte",
-        "Dođite"
+        "boli"
       ],
       "items": [
         {
           "example": true,
-          "text": "___ ovdje.",
-          "hint": "Чекайте тут.",
+          "text": "___ sutra.",
+          "hint": "Чекайте завтра.",
           "accepted": [
             [
               "Čekajte"
@@ -752,8 +764,8 @@
           ]
         },
         {
-          "text": "___ tabletu.",
-          "hint": "Візьміть таблетку.",
+          "text": "___ recept.",
+          "hint": "Візьміть рецепт.",
           "accepted": [
             [
               "Uzmite"
@@ -761,8 +773,8 @@
           ]
         },
         {
-          "text": "___ čekati.",
-          "hint": "Не чекайте.",
+          "text": "___ piti sok.",
+          "hint": "Не пийте сік.",
           "accepted": [
             [
               "Nemojte"
@@ -770,8 +782,8 @@
           ]
         },
         {
-          "text": "___ čeka ovdje.",
-          "hint": "Нехай чекає тут.",
+          "text": "___ sin čita.",
+          "hint": "Нехай син читає.",
           "accepted": [
             [
               "Neka"
@@ -779,8 +791,8 @@
           ]
         },
         {
-          "text": "Boli me ___.",
-          "hint": "Болить голова.",
+          "text": "Boli li te ___?",
+          "hint": "Чи болить тебе голова?",
           "accepted": [
             [
               "glava"
@@ -788,17 +800,17 @@
           ]
         },
         {
-          "text": "___ me glava.",
-          "hint": "Болить голова.",
+          "text": "Kad čitam, ___ me glava.",
+          "hint": "Коли читаю, мене болить голова.",
           "accepted": [
             [
-              "Boli"
+              "boli"
             ]
           ]
         },
         {
-          "text": "Imam ___.",
-          "hint": "Маю рецепт.",
+          "text": "Liječnik daje ___.",
+          "hint": "Лікар дає рецепт.",
           "accepted": [
             [
               "recept"
@@ -806,8 +818,8 @@
           ]
         },
         {
-          "text": "Idem u ___.",
-          "hint": "Йду в аптеку.",
+          "text": "Sin ide u ___.",
+          "hint": "Син іде в аптеку.",
           "accepted": [
             [
               "ljekarnu"
@@ -815,8 +827,8 @@
           ]
         },
         {
-          "text": "Platite u ___.",
-          "hint": "Платіть в аптеці.",
+          "text": "Brat radi u ___.",
+          "hint": "Брат працює в аптеці.",
           "accepted": [
             [
               "ljekarni"
@@ -824,8 +836,8 @@
           ]
         },
         {
-          "text": "Uzmite ___.",
-          "hint": "Візьміть таблетку.",
+          "text": "Uzimam ___.",
+          "hint": "Я приймаю таблетку.",
           "accepted": [
             [
               "tabletu"
@@ -833,8 +845,8 @@
           ]
         },
         {
-          "text": "Uzmite ___.",
-          "hint": "Візьміть ліки.",
+          "text": "Majka kupuje ___.",
+          "hint": "Мама купує ліки.",
           "accepted": [
             [
               "lijek"
@@ -842,8 +854,8 @@
           ]
         },
         {
-          "text": "___ li ići kući?",
-          "hint": "Чи можна мені йти додому?",
+          "text": "___ li piti vodu?",
+          "hint": "Чи можна мені пити воду?",
           "accepted": [
             [
               "Smijem"
@@ -851,8 +863,8 @@
           ]
         },
         {
-          "text": "___ u ljekarni.",
-          "hint": "Платіть в аптеці.",
+          "text": "___ sada.",
+          "hint": "Платіть зараз.",
           "accepted": [
             [
               "Platite"
@@ -860,8 +872,8 @@
           ]
         },
         {
-          "text": "___ vodu.",
-          "hint": "Пийте воду.",
+          "text": "___ sok.",
+          "hint": "Пийте сік.",
           "accepted": [
             [
               "Pijte"
@@ -869,8 +881,8 @@
           ]
         },
         {
-          "text": "___ liječnika.",
-          "hint": "Запитайте лікаря.",
+          "text": "___ brata.",
+          "hint": "Запитайте брата.",
           "accepted": [
             [
               "Pitajte"
@@ -878,8 +890,8 @@
           ]
         },
         {
-          "text": "___ u devet sati.",
-          "hint": "Приходьте о дев'ятій.",
+          "text": "___ kući.",
+          "hint": "Приходьте додому.",
           "accepted": [
             [
               "Dođite"
@@ -894,45 +906,45 @@
       "items": [
         {
           "example": true,
-          "prompt": "Čekaj ovdje.",
+          "prompt": "Daj mi vodu.",
           "cue": "-> ви",
           "accepted": [
-            "Čekajte ovdje."
+            "Dajte mi vodu."
           ]
         },
         {
-          "prompt": "Uzmi tabletu.",
+          "prompt": "Piši roditeljima.",
           "cue": "-> ви",
           "accepted": [
-            "Uzmite tabletu."
+            "Pišite roditeljima."
           ]
         },
         {
-          "prompt": "Pitaj liječnika.",
+          "prompt": "Gledaj ovdje.",
           "cue": "-> ви",
           "accepted": [
-            "Pitajte liječnika."
+            "Gledajte ovdje."
           ]
         },
         {
-          "prompt": "Pij vodu.",
+          "prompt": "Dođi sutra.",
           "cue": "-> ви",
           "accepted": [
-            "Pijte vodu."
+            "Dođite sutra."
           ]
         },
         {
-          "prompt": "Plati u ljekarni.",
+          "prompt": "Idi kući.",
           "cue": "-> ви",
           "accepted": [
-            "Platite u ljekarni."
+            "Idite kući."
           ]
         },
         {
-          "prompt": "Dođi u devet sati.",
+          "prompt": "Čitaj knjigu.",
           "cue": "-> ви",
           "accepted": [
-            "Dođite u devet sati."
+            "Čitajte knjigu."
           ]
         },
         {
@@ -943,17 +955,17 @@
           ]
         },
         {
-          "prompt": "Čekaj ovdje.",
+          "prompt": "Pij sok.",
           "cue": "-> заборона з nemoj",
           "accepted": [
-            "Nemoj čekati ovdje."
+            "Nemoj piti sok."
           ]
         },
         {
-          "prompt": "Čeka ovdje.",
+          "prompt": "Brat čita.",
           "cue": "-> neka",
           "accepted": [
-            "Neka čeka ovdje."
+            "Neka brat čita."
           ]
         },
         {
@@ -964,31 +976,31 @@
           ]
         },
         {
-          "prompt": "Boli me glavu.",
+          "prompt": "Boli ga glavu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Boli me glava."
+            "Boli ga glava."
           ]
         },
         {
-          "prompt": "Imam recepta.",
+          "prompt": "Imam tableta.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam recept."
+            "Imam tabletu."
           ]
         },
         {
-          "prompt": "Idem u ljekarni.",
+          "prompt": "Majka ide u ljekarni.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Idem u ljekarnu."
+            "Majka ide u ljekarnu."
           ]
         },
         {
-          "prompt": "Uzmite tableta.",
+          "prompt": "Čekajte brat.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Uzmite tabletu."
+            "Čekajte brata."
           ]
         }
       ]

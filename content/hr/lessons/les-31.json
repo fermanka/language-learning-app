@@ -4,7 +4,10 @@
   "order": 31,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "stolu",
+    "poruku"
+  ],
   "notes": [
     {
       "id": "hr-e34d22d9",
@@ -96,7 +99,8 @@
       "explain_ua": "(Imam pitanje = маю питання). Середній рід на -e: pitanje, pitanja. Корінь pitati (Lekcija 13).",
       "check": "Форми pitanja з мого знання.",
       "forms": [
-        "pitala"
+        "pitala",
+        "pitao"
       ]
     },
     {
@@ -156,7 +160,10 @@
       "ua": "сумка, ранець",
       "audio": "hr-torba.mp3",
       "explain_ua": "(Torba je u učionici = сумка в класі). Жіночий рід на -a: torba, torbe.",
-      "check": "Форми за зразком škola."
+      "check": "Форми за зразком škola.",
+      "forms": [
+        "torbi"
+      ]
     },
     {
       "id": "hr-fb240c6f",
@@ -295,7 +302,8 @@
         "odgovarate",
         "odgovaraju",
         "odgovoriti",
-        "odgovorim"
+        "odgovorim",
+        "odgovaram"
       ],
       "ua": "відповідати (док. odgovoriti)",
       "audio": "hr-odgovarati.mp3",
@@ -662,93 +670,94 @@
       "items": [
         {
           "example": true,
-          "prompt": "Маю питання.",
+          "prompt": "Маю відповідь.",
           "accepted": [
-            "Imam pitanje."
+            "Imam odgovor."
           ]
         },
         {
-          "prompt": "Класний керівник тут.",
+          "prompt": "Директор школи тут.",
           "accepted": [
-            "Razrednik je ovdje."
+            "Ravnatelj je ovdje."
           ]
         },
         {
-          "prompt": "Директор школи в кабінеті.",
+          "prompt": "Класний керівник у класі.",
           "accepted": [
-            "Ravnatelj je u uredu."
+            "Razrednik je u učionici."
           ]
         },
         {
-          "prompt": "Тест складний.",
+          "prompt": "Завдання складне.",
           "accepted": [
-            "Test je težak."
+            "Zadatak je težak."
           ]
         },
         {
-          "prompt": "Маю курс у понеділок.",
+          "prompt": "Маю тест у п'ятницю.",
           "accepted": [
-            "Imam tečaj u ponedjeljak."
+            "Imam test u petak.",
+            "U petak imam test."
           ]
         },
         {
-          "prompt": "Диплом у шафі.",
+          "prompt": "Підручник у сумці.",
           "accepted": [
-            "Diploma je u ormaru."
+            "Udžbenik je u torbi."
           ]
         },
         {
-          "prompt": "Сумка в класі.",
+          "prompt": "Зошит на столі.",
           "accepted": [
-            "Torba je u učionici."
+            "Bilježnica je na stolu."
           ]
         },
         {
-          "prompt": "Вчителька каже, що тест важкий.",
+          "prompt": "Учень каже, що завдання складне.",
           "accepted": [
-            "Učiteljica govori da je test težak."
+            "Učenik govori da je zadatak težak."
           ]
         },
         {
-          "prompt": "Вчителька сказала, що завдання важливе.",
+          "prompt": "Директор школи сказав, що тест важливий.",
           "accepted": [
-            "Učiteljica je rekla da je zadatak važan."
+            "Ravnatelj je rekao da je test važan."
           ]
         },
         {
-          "prompt": "Іван сказав, що робить домашнє.",
+          "prompt": "Марія сказала, що повторює завдання.",
           "accepted": [
-            "Ivan je rekao da radi zadaću."
+            "Marija je rekla da ponavlja zadatak."
           ]
         },
         {
-          "prompt": "Вона сказала мені повторювати завдання.",
+          "prompt": "Директор школи сказав мені чекати тут.",
           "accepted": [
-            "Rekla mi je da ponavljam zadatak."
+            "Ravnatelj mi je rekao da čekam ovdje."
           ]
         },
         {
-          "prompt": "Я сказала йому, що тест важкий.",
+          "prompt": "Я сказала їм, що розклад на стіні.",
           "accepted": [
-            "Rekla sam mu da je test težak."
+            "Rekla sam im da je raspored na zidu."
           ]
         },
         {
-          "prompt": "Вона спитала мене, чи роблю я домашнє.",
+          "prompt": "Класний керівник спитав мене, чи повторюю я завдання.",
           "accepted": [
-            "Pitala me je radim li zadaću."
+            "Razrednik me je pitao ponavljam li zadatak."
           ]
         },
         {
-          "prompt": "Учень відповідає на питання.",
+          "prompt": "Відповідаю на повідомлення.",
           "accepted": [
-            "Učenik odgovara na pitanje."
+            "Odgovaram na poruku."
           ]
         },
         {
-          "prompt": "Іван складає іспит.",
+          "prompt": "Марія складає іспит.",
           "accepted": [
-            "Ivan polaže ispit."
+            "Marija polaže ispit."
           ]
         }
       ]
@@ -757,28 +766,34 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "pitanje",
-        "razrednik",
-        "ravnatelj",
-        "test",
-        "zadatak",
-        "torba",
-        "udžbenik",
-        "raspored",
-        "govori",
-        "rekla",
+        "me",
         "mi",
         "mu",
-        "me",
+        "razrednik",
+        "Torba",
+        "udžbenik",
+        "Test",
         "težak",
+        "ravnatelj",
+        "torba",
+        "raspored",
+        "Zadatak",
+        "govori",
+        "Razrednik",
         "važan",
+        "rekla",
+        "Raspored",
+        "test",
+        "Ravnatelj",
+        "pitanje",
+        "zadatak",
         "da"
       ],
       "items": [
         {
           "example": true,
-          "text": "Imam ___.",
-          "hint": "Маю питання.",
+          "text": "Ivan ima ___.",
+          "hint": "Іван має питання.",
           "accepted": [
             [
               "pitanje"
@@ -786,8 +801,8 @@
           ]
         },
         {
-          "text": "___ je ovdje.",
-          "hint": "Класний керівник тут.",
+          "text": "___ čeka ispred učionice.",
+          "hint": "Класний керівник чекає перед класом.",
           "accepted": [
             [
               "Razrednik"
@@ -795,8 +810,8 @@
           ]
         },
         {
-          "text": "___ je u uredu.",
-          "hint": "Директор школи в кабінеті.",
+          "text": "___ radi u školi.",
+          "hint": "Директор школи працює в школі.",
           "accepted": [
             [
               "Ravnatelj"
@@ -804,8 +819,8 @@
           ]
         },
         {
-          "text": "___ je težak.",
-          "hint": "Тест складний.",
+          "text": "___ je u petak.",
+          "hint": "Тест у п'ятницю.",
           "accepted": [
             [
               "Test"
@@ -822,8 +837,8 @@
           ]
         },
         {
-          "text": "___ je u učionici.",
-          "hint": "Сумка в класі.",
+          "text": "___ je u ormaru.",
+          "hint": "Сумка в шафі.",
           "accepted": [
             [
               "Torba"
@@ -831,17 +846,17 @@
           ]
         },
         {
-          "text": "___ je na polici.",
-          "hint": "Підручник на полиці.",
+          "text": "Moj ___ je nov.",
+          "hint": "Мій підручник новий.",
           "accepted": [
             [
-              "Udžbenik"
+              "udžbenik"
             ]
           ]
         },
         {
-          "text": "___ je na zidu.",
-          "hint": "Розклад на стіні.",
+          "text": "___ je u učionici.",
+          "hint": "Розклад у класі.",
           "accepted": [
             [
               "Raspored"
@@ -849,8 +864,8 @@
           ]
         },
         {
-          "text": "Učiteljica ___ da je test težak.",
-          "hint": "Вчителька каже, що тест важкий.",
+          "text": "Razrednik ___ da je ispit važan.",
+          "hint": "Класний керівник каже, що іспит важливий.",
           "accepted": [
             [
               "govori"
@@ -858,8 +873,8 @@
           ]
         },
         {
-          "text": "Učiteljica je ___ da je zadatak važan.",
-          "hint": "Вчителька сказала.",
+          "text": "Moja majka je ___ da je test težak.",
+          "hint": "Моя мама сказала, що тест складний.",
           "accepted": [
             [
               "rekla"
@@ -876,8 +891,8 @@
           ]
         },
         {
-          "text": "Rekla sam ___ da je test težak.",
-          "hint": "Я сказала йому.",
+          "text": "Rekla sam ___ da je ispit težak.",
+          "hint": "Я сказала йому, що іспит складний.",
           "accepted": [
             [
               "mu"
@@ -885,8 +900,8 @@
           ]
         },
         {
-          "text": "Pitala ___ je radim li zadaću.",
-          "hint": "Вона спитала мене.",
+          "text": "Pitala ___ je čekam li.",
+          "hint": "Вона спитала мене, чи чекаю.",
           "accepted": [
             [
               "me"
@@ -894,8 +909,8 @@
           ]
         },
         {
-          "text": "Test je ___.",
-          "hint": "Тест складний.",
+          "text": "Ispit je ___.",
+          "hint": "Іспит складний.",
           "accepted": [
             [
               "težak"
@@ -912,7 +927,7 @@
           ]
         },
         {
-          "text": "Učiteljica govori ___ je test težak.",
+          "text": "Ravnatelj govori ___ je izostanak važan.",
           "hint": "що",
           "accepted": [
             [
@@ -928,45 +943,45 @@
       "items": [
         {
           "example": true,
-          "prompt": "Test je težak.",
-          "cue": "-> Učiteljica govori da ...",
+          "prompt": "Predmet je težak.",
+          "cue": "-> Učenik govori da ...",
           "accepted": [
-            "Učiteljica govori da je test težak."
+            "Učenik govori da je predmet težak."
           ]
         },
         {
-          "prompt": "Zadatak je važan.",
-          "cue": "-> Učiteljica je rekla da ...",
+          "prompt": "Ispit je težak.",
+          "cue": "-> Ravnatelj je rekao da ...",
           "accepted": [
-            "Učiteljica je rekla da je zadatak važan."
+            "Ravnatelj je rekao da je ispit težak."
           ]
         },
         {
-          "prompt": "Radim zadaću.",
-          "cue": "-> Ivan je rekao da ...",
+          "prompt": "Čekam ovdje.",
+          "cue": "-> Marija je rekla da ...",
           "accepted": [
-            "Ivan je rekao da radi zadaću."
+            "Marija je rekla da čeka ovdje."
+          ]
+        },
+        {
+          "prompt": "Odgovaram na pitanje.",
+          "cue": "-> Rekla mi je da ...",
+          "accepted": [
+            "Rekla mi je da odgovaram na pitanje."
+          ]
+        },
+        {
+          "prompt": "Ispit je važan.",
+          "cue": "-> Rekla sam ti da ...",
+          "accepted": [
+            "Rekla sam ti da je ispit važan."
           ]
         },
         {
           "prompt": "Ponavljam zadatak.",
-          "cue": "-> Rekla mi je da ...",
-          "accepted": [
-            "Rekla mi je da ponavljam zadatak."
-          ]
-        },
-        {
-          "prompt": "Test je težak.",
-          "cue": "-> Rekla sam mu da ...",
-          "accepted": [
-            "Rekla sam mu da je test težak."
-          ]
-        },
-        {
-          "prompt": "Radim zadaću.",
           "cue": "-> Pitala me je ... li",
           "accepted": [
-            "Pitala me je radim li zadaću."
+            "Pitala me je ponavljam li zadatak."
           ]
         },
         {
@@ -984,45 +999,45 @@
           ]
         },
         {
-          "prompt": "Rekla mu sam da je test težak.",
+          "prompt": "Rekla ti sam da je zadatak težak.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Rekla sam mu da je test težak."
+            "Rekla sam ti da je zadatak težak."
           ]
         },
         {
-          "prompt": "Pitala je me radim li zadaću.",
+          "prompt": "Pitao je me učim li.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Pitala me je radim li zadaću."
+            "Pitao me je učim li."
           ]
         },
         {
-          "prompt": "Me je pitala radim li zadaću.",
+          "prompt": "Mu je rekla da je test težak.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Pitala me je radim li zadaću."
+            "Rekla mu je da je test težak."
           ]
         },
         {
-          "prompt": "Učiteljica je se javila.",
+          "prompt": "Marija je se javila.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Učiteljica se javila."
+            "Marija se javila."
           ]
         },
         {
-          "prompt": "Učiteljica govori da test je težak.",
+          "prompt": "Razrednik govori da zadatak je važan.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Učiteljica govori da je test težak."
+            "Razrednik govori da je zadatak važan."
           ]
         },
         {
-          "prompt": "Test je teška.",
+          "prompt": "Predmet je teška.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Test je težak."
+            "Predmet je težak."
           ]
         },
         {
@@ -1033,10 +1048,10 @@
           ]
         },
         {
-          "prompt": "Učenik odgovara pitanje.",
+          "prompt": "Marija odgovara pitanje.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Učenik odgovara na pitanje."
+            "Marija odgovara na pitanje."
           ]
         }
       ]

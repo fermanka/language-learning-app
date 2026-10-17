@@ -4,7 +4,9 @@
   "order": 11,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "malu"
+  ],
   "notes": [
     {
       "id": "hr-c0176248",
@@ -51,7 +53,8 @@
         "maleno",
         "malenog",
         "mala",
-        "mali"
+        "mali",
+        "malenu"
       ],
       "explain_ua": "(Dijete je maleno = дитина маленька). Malen, malena, maleno. Для живого ч. р. у знахідному malenog. Українське маленький, маленька, маленьке схоже"
     },
@@ -65,7 +68,8 @@
       "audio": "hr-skup.mp3",
       "forms": [
         "skupa",
-        "skupo"
+        "skupo",
+        "skupu"
       ],
       "explain_ua": "(Meso je skupo = м'ясо дороге). Skup, skupa, skupo. Про ціну: дорогий. Не плутай з «скупий»: хорватське skup про ціну, а не про людину"
     },
@@ -580,97 +584,99 @@
       "items": [
         {
           "example": true,
-          "prompt": "Хліб свіжий.",
+          "prompt": "Вода холодна.",
           "accepted": [
-            "Kruh je svjež."
+            "Voda je hladna."
           ]
         },
         {
-          "prompt": "Кава хороша.",
+          "prompt": "Книжка хороша.",
           "accepted": [
-            "Kava je dobra."
+            "Knjiga je dobra."
           ]
         },
         {
-          "prompt": "Молоко холодне.",
+          "prompt": "Пес великий.",
           "accepted": [
-            "Mlijeko je hladno."
+            "Pas je velik."
           ]
         },
         {
-          "prompt": "Сир смачний.",
+          "prompt": "Будинок великий.",
           "accepted": [
-            "Sir je ukusan."
+            "Kuća je velika."
           ]
         },
         {
-          "prompt": "М'ясо дороге.",
+          "prompt": "Сестра працьовита.",
           "accepted": [
-            "Meso je skupo."
+            "Sestra je vrijedna."
           ]
         },
         {
-          "prompt": "Сік дешевий.",
+          "prompt": "Вулиця маленька.",
           "accepted": [
-            "Sok je jeftin."
+            "Ulica je malena."
           ]
         },
         {
-          "prompt": "Яблуко велике.",
+          "prompt": "Кава дорога.",
           "accepted": [
-            "Jabuka je velika."
+            "Kava je skupa."
           ]
         },
         {
-          "prompt": "Який хліб?",
+          "prompt": "Який сік?",
           "accepted": [
-            "Kakav je kruh?"
+            "Kakav je sok?"
           ]
         },
         {
-          "prompt": "Яка кава?",
+          "prompt": "Яка вода?",
           "accepted": [
-            "Kakva je kava?"
+            "Kakva je voda?"
           ]
         },
         {
-          "prompt": "Яке молоко?",
+          "prompt": "Яке море?",
           "accepted": [
-            "Kakvo je mlijeko?"
+            "Kakvo je more?"
           ]
         },
         {
-          "prompt": "У мене хороший хліб.",
+          "prompt": "У мене великий стан.",
           "accepted": [
-            "Imam dobar kruh.",
-            "Ja imam dobar kruh."
+            "Imam velik stan.",
+            "Ja imam velik stan."
           ]
         },
         {
-          "prompt": "У мене хороша кава.",
+          "prompt": "У мене маленький будинок.",
           "accepted": [
-            "Imam dobru kavu.",
-            "Ja imam dobru kavu."
+            "Imam malenu kuću.",
+            "Ja imam malenu kuću.",
+            "Imam malu kuću.",
+            "Ja imam malu kuću."
           ]
         },
         {
-          "prompt": "Я бачу великого собаку.",
+          "prompt": "Я бачу маленького сина.",
           "accepted": [
-            "Vidim velikog psa.",
-            "Ja vidim velikog psa."
+            "Vidim malenog sina.",
+            "Ja vidim malenog sina."
           ]
         },
         {
-          "prompt": "М'ясо дуже дороге.",
+          "prompt": "Кава дуже дорога.",
           "accepted": [
-            "Meso je vrlo skupo."
+            "Kava je vrlo skupa."
           ]
         },
         {
-          "prompt": "Сир дорогий, але смачний.",
+          "prompt": "Кава дорога, але смачна.",
           "accepted": [
-            "Sir je skup, ali je ukusan.",
-            "Sir je skup ali je ukusan."
+            "Kava je skupa, ali je ukusna.",
+            "Kava je skupa ali je ukusna."
           ]
         }
       ]
@@ -679,28 +685,53 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "svjež",
-        "dobra",
-        "hladno",
+        "vrlo",
         "jeftin",
+        "velik",
         "skupo",
-        "velika",
-        "dobar",
-        "dobru",
-        "dobro",
-        "velikog",
         "Kakav",
+        "dobar",
+        "dobra",
+        "dobro",
+        "dobru",
         "Kakva",
         "Kakvo",
-        "vrlo",
+        "jeftina",
+        "hladan",
+        "hladna",
+        "hladno",
+        "vrijedna",
+        "svježu",
         "ukusna",
-        "velik"
+        "malenog",
+        "velikog",
+        "svjež",
+        "velika",
+        "veliko"
       ],
       "items": [
         {
           "example": true,
-          "text": "Kruh je ___.",
-          "hint": "Хліб свіжий.",
+          "text": "Voda je ___.",
+          "hint": "Вода холодна.",
+          "accepted": [
+            [
+              "hladna"
+            ]
+          ]
+        },
+        {
+          "text": "Knjiga je ___.",
+          "hint": "Книжка хороша.",
+          "accepted": [
+            [
+              "dobra"
+            ]
+          ]
+        },
+        {
+          "text": "Sok je ___.",
+          "hint": "Сік свіжий.",
           "accepted": [
             [
               "svjež"
@@ -709,88 +740,70 @@
         },
         {
           "text": "Kava je ___.",
-          "hint": "Кава хороша.",
+          "hint": "Кава дешева.",
           "accepted": [
             [
-              "dobra"
+              "jeftina"
             ]
           ]
         },
         {
-          "text": "Mlijeko je ___.",
-          "hint": "Молоко холодне.",
+          "text": "Sestra je ___.",
+          "hint": "Сестра працьовита.",
           "accepted": [
             [
-              "hladno"
+              "vrijedna"
             ]
           ]
         },
         {
-          "text": "Sok je ___.",
-          "hint": "Сік дешевий.",
+          "text": "Pas je ___.",
+          "hint": "Пес великий.",
           "accepted": [
             [
-              "jeftin"
+              "velik"
             ]
           ]
         },
         {
-          "text": "Meso je ___.",
-          "hint": "М'ясо дороге.",
+          "text": "Imam ___ sok.",
+          "hint": "У мене холодний сік.",
           "accepted": [
             [
-              "skupo"
+              "hladan"
             ]
           ]
         },
         {
-          "text": "Jabuka je ___.",
-          "hint": "Яблуко велике.",
+          "text": "Imam ___ vodu.",
+          "hint": "У мене свіжа вода.",
           "accepted": [
             [
-              "velika"
+              "svježu"
             ]
           ]
         },
         {
-          "text": "Imam ___ kruh.",
-          "hint": "У мене хороший хліб.",
+          "text": "Vidim ___ more.",
+          "hint": "Я бачу велике море.",
           "accepted": [
             [
-              "dobar"
+              "veliko"
             ]
           ]
         },
         {
-          "text": "Imam ___ kavu.",
-          "hint": "У мене хороша кава.",
+          "text": "Vidim ___ brata.",
+          "hint": "Я бачу маленького брата.",
           "accepted": [
             [
-              "dobru"
+              "malenog"
             ]
           ]
         },
         {
-          "text": "Imam ___ mlijeko.",
-          "hint": "У мене хороше молоко.",
-          "accepted": [
-            [
-              "dobro"
-            ]
-          ]
-        },
-        {
-          "text": "Vidim ___ psa.",
-          "hint": "Я бачу великого собаку.",
-          "accepted": [
-            [
-              "velikog"
-            ]
-          ]
-        },
-        {
-          "text": "___ je kruh?",
-          "hint": "Який хліб?",
+          "text": "___ je sok?",
+          "hint": "Який сік?",
           "accepted": [
             [
               "Kakav"
@@ -798,8 +811,8 @@
           ]
         },
         {
-          "text": "___ je kava?",
-          "hint": "Яка кава?",
+          "text": "___ je voda?",
+          "hint": "Яка вода?",
           "accepted": [
             [
               "Kakva"
@@ -807,8 +820,8 @@
           ]
         },
         {
-          "text": "___ je mlijeko?",
-          "hint": "Яке молоко?",
+          "text": "___ je more?",
+          "hint": "Яке море?",
           "accepted": [
             [
               "Kakvo"
@@ -816,8 +829,8 @@
           ]
         },
         {
-          "text": "Meso je ___ skupo.",
-          "hint": "М'ясо дуже дороге.",
+          "text": "Sok je ___ hladan.",
+          "hint": "Сік дуже холодний.",
           "accepted": [
             [
               "vrlo"
@@ -834,11 +847,11 @@
           ]
         },
         {
-          "text": "Sir je ___.",
-          "hint": "Сир великий.",
+          "text": "Kruh je ___.",
+          "hint": "Хліб дешевий.",
           "accepted": [
             [
-              "velik"
+              "jeftin"
             ]
           ]
         }
@@ -850,10 +863,10 @@
       "items": [
         {
           "example": true,
-          "prompt": "Kruh je dobar.",
-          "cue": "-> кава (kava)",
+          "prompt": "Sok je dobar.",
+          "cue": "-> вода (voda)",
           "accepted": [
-            "Kava je dobra."
+            "Voda je dobra."
           ]
         },
         {
@@ -864,101 +877,101 @@
           ]
         },
         {
-          "prompt": "Sir je skup.",
-          "cue": "-> м'ясо (meso)",
+          "prompt": "Kruh je skup.",
+          "cue": "-> яблуко (jabuka)",
           "accepted": [
-            "Meso je skupo."
+            "Jabuka je skupa."
           ]
         },
         {
-          "prompt": "Sok je hladan.",
+          "prompt": "Stan je velik.",
+          "cue": "-> море (more)",
+          "accepted": [
+            "More je veliko."
+          ]
+        },
+        {
+          "prompt": "Pas je velik.",
           "cue": "-> кава (kava)",
           "accepted": [
-            "Kava je hladna."
+            "Kava je velika."
           ]
         },
         {
-          "prompt": "Sok je hladan.",
-          "cue": "-> молоко (mlijeko)",
+          "prompt": "Imam sok.",
+          "cue": "-> додай hladan",
           "accepted": [
-            "Mlijeko je hladno."
+            "Imam hladan sok."
           ]
         },
         {
-          "prompt": "Imam kruh.",
+          "prompt": "Imam sestru.",
           "cue": "-> додай dobar",
           "accepted": [
-            "Imam dobar kruh."
+            "Imam dobru sestru."
           ]
         },
         {
-          "prompt": "Imam kavu.",
-          "cue": "-> додай dobar",
-          "accepted": [
-            "Imam dobru kavu."
-          ]
-        },
-        {
-          "prompt": "Imam mlijeko.",
-          "cue": "-> додай dobar",
-          "accepted": [
-            "Imam dobro mlijeko."
-          ]
-        },
-        {
-          "prompt": "Vidim psa.",
+          "prompt": "Vidim more.",
           "cue": "-> додай velik",
           "accepted": [
-            "Vidim velikog psa."
+            "Vidim veliko more."
           ]
         },
         {
-          "prompt": "Kupujem jabuku.",
-          "cue": "-> додай svjež",
+          "prompt": "Vidim sina.",
+          "cue": "-> додай dobar",
           "accepted": [
-            "Kupujem svježu jabuku."
+            "Vidim dobrog sina."
           ]
         },
         {
-          "prompt": "Kruh je svjež.",
+          "prompt": "Kupujem sok.",
+          "cue": "-> додай jeftin",
+          "accepted": [
+            "Kupujem jeftin sok."
+          ]
+        },
+        {
+          "prompt": "Sok je jeftin.",
           "cue": "-> питання",
           "accepted": [
-            "Kakav je kruh?"
+            "Kakav je sok?"
           ]
         },
         {
-          "prompt": "Kava je dobra.",
+          "prompt": "Voda je hladna.",
           "cue": "-> питання",
           "accepted": [
-            "Kakva je kava?"
+            "Kakva je voda?"
           ]
         },
         {
-          "prompt": "Imam dobar kavu.",
+          "prompt": "Kupujem skupa kavu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam dobru kavu."
+            "Kupujem skupu kavu."
           ]
         },
         {
-          "prompt": "Kava je dobar.",
+          "prompt": "Voda je hladan.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Kava je dobra."
+            "Voda je hladna."
           ]
         },
         {
-          "prompt": "Vidim velik psa.",
+          "prompt": "Vidim malen brata.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Vidim velikog psa."
+            "Vidim malenog brata."
           ]
         },
         {
-          "prompt": "Jabuka je velik.",
+          "prompt": "Voda je hladan.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Jabuka je velika."
+            "Voda je hladna."
           ]
         }
       ]

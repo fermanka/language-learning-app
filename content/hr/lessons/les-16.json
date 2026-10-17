@@ -4,7 +4,9 @@
   "order": 16,
   "status": "draft",
   "author": "josip",
-  "service_words": [],
+  "service_words": [
+    "učitelja"
+  ],
   "notes": [
     {
       "id": "hr-ee072adf",
@@ -86,7 +88,10 @@
       "ua": "місяць (30 днів; також місяць на небі)",
       "audio": "hr-mjesec.mp3",
       "explain_ua": "(Putujem nekoliko mjeseci = я подорожую кілька місяців). Одне слово для «місяць» і «Місяць» (полісемія, не лажний друг). Нестійке -e-: mjesec, mjeseca. Множина mjeseci, родовий множини теж mjeseci",
-      "check": "Форми mjeseca, mjeseci і родовий множини mjeseci з мого знання, у джерелах цього уроку не підтверджено."
+      "check": "Форми mjeseca, mjeseci і родовий множини mjeseci з мого знання, у джерелах цього уроку не підтверджено.",
+      "forms": [
+        "mjeseca"
+      ]
     },
     {
       "id": "hr-719c7790",
@@ -600,95 +605,104 @@
       "items": [
         {
           "example": true,
-          "prompt": "У мене п'ять сестер.",
+          "prompt": "У мене п'ять зошитів.",
           "accepted": [
-            "Imam pet sestara."
+            "Imam pet bilježnica.",
+            "Ja imam pet bilježnica."
           ]
         },
         {
-          "prompt": "У класі двадцять учнів.",
+          "prompt": "У школі п'ятдесят учнів.",
           "accepted": [
-            "U razredu ima dvadeset učenika."
+            "U školi ima pedeset učenika."
           ]
         },
         {
-          "prompt": "Батьків у школі немає.",
+          "prompt": "Учнів у класі немає.",
           "accepted": [
-            "Nema roditelja u školi.",
-            "U školi nema roditelja."
+            "Nema učenika u razredu.",
+            "U razredu nema učenika."
           ]
         },
         {
-          "prompt": "Я чекаю п'ять хвилин.",
+          "prompt": "Я чекаю п'ять годин.",
           "accepted": [
-            "Čekam pet minuta."
+            "Čekam pet sati.",
+            "Ja čekam pet sati."
           ]
         },
         {
-          "prompt": "Дайте мені п'ять груш.",
+          "prompt": "Дайте мені десять груш.",
           "accepted": [
-            "Dajte mi pet krušaka."
+            "Dajte mi deset krušaka."
           ]
         },
         {
-          "prompt": "Мені потрібно десять літрів води.",
+          "prompt": "Мені потрібно п'ять літрів молока.",
           "accepted": [
-            "Trebam deset litara vode."
+            "Trebam pet litara mlijeka.",
+            "Ja trebam pet litara mlijeka."
           ]
         },
         {
-          "prompt": "Я купую кілька морквин.",
+          "prompt": "Я купую кілька квитків.",
           "accepted": [
-            "Kupujem nekoliko mrkava."
+            "Kupujem nekoliko karata.",
+            "Ja kupujem nekoliko karata."
           ]
         },
         {
-          "prompt": "У мене багато зошитів.",
+          "prompt": "У мене багато олівців.",
           "accepted": [
-            "Imam puno bilježnica."
+            "Imam puno olovaka.",
+            "Ja imam puno olovaka."
           ]
         },
         {
-          "prompt": "У місті п'ять банків.",
+          "prompt": "У місті багато шкіл.",
           "accepted": [
-            "U gradu ima pet banaka."
+            "U gradu ima puno škola."
           ]
         },
         {
-          "prompt": "Дайте мені п'ять квитків, будь ласка.",
+          "prompt": "Дайте мені п'ять морквин, будь ласка.",
           "accepted": [
-            "Dajte mi pet karata, molim."
+            "Dajte mi pet mrkava, molim.",
+            "Molim, dajte mi pet mrkava."
           ]
         },
         {
-          "prompt": "У магазині багато людей.",
+          "prompt": "У класі багато учнів.",
           "accepted": [
-            "U dućanu ima puno ljudi."
+            "U razredu ima puno učenika."
           ]
         },
         {
-          "prompt": "Скільки людей тут?",
+          "prompt": "Скільки учнів тут?",
           "accepted": [
-            "Koliko ljudi ima ovdje?"
+            "Koliko učenika ima ovdje?",
+            "Koliko je učenika ovdje?"
           ]
         },
         {
-          "prompt": "Дітей у школі немає.",
+          "prompt": "Дітей у парку немає.",
           "accepted": [
-            "Nema djece u školi.",
-            "U školi nema djece."
+            "Nema djece u parku.",
+            "U parku nema djece."
           ]
         },
         {
-          "prompt": "Братів і сестер немає.",
+          "prompt": "У мене немає друзів.",
           "accepted": [
-            "Nema braće i sestara."
+            "Nemam prijatelja.",
+            "Ja nemam prijatelja."
           ]
         },
         {
-          "prompt": "Я подорожую десять днів.",
+          "prompt": "Я працюю п'ять днів.",
           "accepted": [
-            "Putujem deset dana."
+            "Radim pet dana.",
+            "Ja radim pet dana."
           ]
         }
       ]
@@ -697,37 +711,40 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
+        "mrkava",
         "sestara",
+        "braće",
+        "karata",
+        "banaka",
+        "sati",
+        "minuta",
+        "mjeseci",
+        "djece",
+        "prijatelja",
+        "dana",
         "učenika",
         "roditelja",
-        "minuta",
+        "olovaka",
         "krušaka",
-        "litara",
-        "mrkava",
         "bilježnica",
-        "banaka",
-        "karata",
-        "ljudi",
-        "djece",
-        "braće",
-        "dana",
-        "mjeseci",
-        "prijatelja"
+        "litara",
+        "škola",
+        "ljudi"
       ],
       "items": [
         {
           "example": true,
           "text": "Imam pet ___.",
-          "hint": "У мене п'ять сестер.",
+          "hint": "У мене п'ять зошитів.",
           "accepted": [
             [
-              "sestara"
+              "bilježnica"
             ]
           ]
         },
         {
-          "text": "U razredu ima dvadeset ___.",
-          "hint": "У класі двадцять учнів.",
+          "text": "U školi ima pedeset ___.",
+          "hint": "У школі п'ятдесят учнів.",
           "accepted": [
             [
               "učenika"
@@ -735,8 +752,8 @@
           ]
         },
         {
-          "text": "Nema ___ u školi.",
-          "hint": "Батьків у школі немає.",
+          "text": "Nema ___ u razredu.",
+          "hint": "Батьків у класі немає.",
           "accepted": [
             [
               "roditelja"
@@ -745,16 +762,16 @@
         },
         {
           "text": "Čekam pet ___.",
-          "hint": "Я чекаю п'ять хвилин.",
+          "hint": "Я чекаю п'ять годин.",
           "accepted": [
             [
-              "minuta"
+              "sati"
             ]
           ]
         },
         {
-          "text": "Dajte mi pet ___.",
-          "hint": "Дайте мені п'ять груш.",
+          "text": "Dajte mi deset ___.",
+          "hint": "Дайте мені десять груш.",
           "accepted": [
             [
               "krušaka"
@@ -762,8 +779,8 @@
           ]
         },
         {
-          "text": "Trebam deset ___ vode.",
-          "hint": "Мені потрібно десять літрів води.",
+          "text": "Trebam pet ___ mlijeka.",
+          "hint": "Мені потрібно п'ять літрів молока.",
           "accepted": [
             [
               "litara"
@@ -772,34 +789,7 @@
         },
         {
           "text": "Kupujem nekoliko ___.",
-          "hint": "Я купую кілька морквин.",
-          "accepted": [
-            [
-              "mrkava"
-            ]
-          ]
-        },
-        {
-          "text": "Imam puno ___.",
-          "hint": "У мене багато зошитів.",
-          "accepted": [
-            [
-              "bilježnica"
-            ]
-          ]
-        },
-        {
-          "text": "U gradu ima pet ___.",
-          "hint": "У місті п'ять банків.",
-          "accepted": [
-            [
-              "banaka"
-            ]
-          ]
-        },
-        {
-          "text": "Dajte mi pet ___, molim.",
-          "hint": "Дайте мені п'ять квитків.",
+          "hint": "Я купую кілька квитків.",
           "accepted": [
             [
               "karata"
@@ -807,17 +797,35 @@
           ]
         },
         {
-          "text": "U dućanu ima puno ___.",
-          "hint": "У магазині багато людей.",
+          "text": "Imam puno ___.",
+          "hint": "У мене багато олівців.",
           "accepted": [
             [
-              "ljudi"
+              "olovaka"
             ]
           ]
         },
         {
-          "text": "Nema ___ u školi.",
-          "hint": "Дітей у школі немає.",
+          "text": "U gradu ima puno ___.",
+          "hint": "У місті багато шкіл.",
+          "accepted": [
+            [
+              "škola"
+            ]
+          ]
+        },
+        {
+          "text": "Dajte mi pet ___, molim.",
+          "hint": "Дайте мені п'ять морквин.",
+          "accepted": [
+            [
+              "mrkava"
+            ]
+          ]
+        },
+        {
+          "text": "U razredu ima puno ___.",
+          "hint": "У класі багато дітей.",
           "accepted": [
             [
               "djece"
@@ -825,17 +833,26 @@
           ]
         },
         {
-          "text": "Nema ___ i sestara.",
-          "hint": "Братів і сестер немає.",
+          "text": "Koliko ___ ima u gradu?",
+          "hint": "Скільки банків у місті?",
           "accepted": [
             [
-              "braće"
+              "banaka"
             ]
           ]
         },
         {
-          "text": "Putujem deset ___.",
-          "hint": "Я подорожую десять днів.",
+          "text": "Nemam ___.",
+          "hint": "У мене немає друзів.",
+          "accepted": [
+            [
+              "prijatelja"
+            ]
+          ]
+        },
+        {
+          "text": "Radim pet ___.",
+          "hint": "Я працюю п'ять днів.",
           "accepted": [
             [
               "dana"
@@ -843,8 +860,8 @@
           ]
         },
         {
-          "text": "Putujem nekoliko ___.",
-          "hint": "Я подорожую кілька місяців.",
+          "text": "Putujem pet ___.",
+          "hint": "Я подорожую п'ять місяців.",
           "accepted": [
             [
               "mjeseci"
@@ -852,11 +869,11 @@
           ]
         },
         {
-          "text": "Imam puno ___.",
-          "hint": "У мене багато друзів.",
+          "text": "Trebam pet ___.",
+          "hint": "Мені потрібно п'ять хвилин.",
           "accepted": [
             [
-              "prijatelja"
+              "minuta"
             ]
           ]
         }
@@ -868,24 +885,24 @@
       "items": [
         {
           "example": true,
-          "prompt": "Imam dvije sestre.",
+          "prompt": "Imam dvije kuće.",
           "cue": "-> п'ять (pet)",
           "accepted": [
-            "Imam pet sestara."
+            "Imam pet kuća."
           ]
         },
         {
-          "prompt": "Imam dvije olovke.",
+          "prompt": "Imam dvije knjige.",
           "cue": "-> п'ять (pet)",
           "accepted": [
-            "Imam pet olovaka."
+            "Imam pet knjiga."
           ]
         },
         {
-          "prompt": "Dajte mi dvije kruške.",
+          "prompt": "Dajte mi dvije jabuke.",
           "cue": "-> п'ять (pet)",
           "accepted": [
-            "Dajte mi pet krušaka."
+            "Dajte mi pet jabuka."
           ]
         },
         {
@@ -903,17 +920,17 @@
           ]
         },
         {
-          "prompt": "U gradu ima dvije banke.",
+          "prompt": "U gradu ima dvije škole.",
           "cue": "-> п'ять (pet)",
           "accepted": [
-            "U gradu ima pet banaka."
+            "U gradu ima pet škola."
           ]
         },
         {
-          "prompt": "Čekam dvije minute.",
+          "prompt": "Čekam dva sata.",
           "cue": "-> п'ять (pet)",
           "accepted": [
-            "Čekam pet minuta."
+            "Čekam pet sati."
           ]
         },
         {
@@ -924,17 +941,17 @@
           ]
         },
         {
-          "prompt": "U razredu ima dva učenika.",
+          "prompt": "U školi ima dva učitelja.",
           "cue": "-> двадцять (dvadeset)",
           "accepted": [
-            "U razredu ima dvadeset učenika."
+            "U školi ima dvadeset učitelja."
           ]
         },
         {
-          "prompt": "Putujem dva dana.",
+          "prompt": "Putujem dva mjeseca.",
           "cue": "-> десять (deset)",
           "accepted": [
-            "Putujem deset dana."
+            "Putujem deset mjeseci."
           ]
         },
         {
@@ -945,38 +962,38 @@
           ]
         },
         {
-          "prompt": "Imam pet sestra.",
+          "prompt": "Imam pet bilježnice.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam pet sestara."
+            "Imam pet bilježnica."
           ]
         },
         {
-          "prompt": "Dajte mi pet kruška.",
+          "prompt": "Dajte mi pet mrkve.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Dajte mi pet krušaka."
+            "Dajte mi pet mrkava."
           ]
         },
         {
-          "prompt": "Imam pet olovka.",
+          "prompt": "Čekam deset minute.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam pet olovaka."
+            "Čekam deset minuta."
           ]
         },
         {
-          "prompt": "Nema djeca u školi.",
+          "prompt": "Nema učenik u razredu.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Nema djece u školi."
+            "Nema učenika u razredu."
           ]
         },
         {
-          "prompt": "Imam puno prijatelji.",
+          "prompt": "Radim pet dani.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam puno prijatelja."
+            "Radim pet dana."
           ]
         }
       ]

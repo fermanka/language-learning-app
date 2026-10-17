@@ -54,7 +54,10 @@
       "ua": "футболка, майка (верхній одяг)",
       "audio": "hr-majica.mp3",
       "explain_ua": "(Majica je na krevetu = футболка на ліжку). Majica це футболка. Не плутай із majka (мама, Lekcija 1): різні слова. Жіночий рід на -a.",
-      "check": "Форми за зразком škola; значення majica як футболка з мого знання."
+      "check": "Форми за зразком škola; значення majica як футболка з мого знання.",
+      "forms": [
+        "majicu"
+      ]
     },
     {
       "id": "hr-34b79f5e",
@@ -85,7 +88,11 @@
       "ua": "штани (тільки множина)",
       "audio": "hr-hlace.mp3",
       "explain_ua": "(Ivan nosi hlače = Іван носить штани). Лише множина, жіночого роду: hlače, родовий hlača. Українське штани теж лише множина.",
-      "check": "Родовий hlača з мого знання."
+      "check": "Родовий hlača з мого знання.",
+      "forms": [
+        "hlača",
+        "hlačama"
+      ]
     },
     {
       "id": "hr-9de90d21",
@@ -150,7 +157,10 @@
       "ua": "чобіт",
       "audio": "hr-cizma.mp3",
       "explain_ua": "(Volim tople čizme = люблю теплі чоботи). Жіночий рід на -a: čizma, čizme.",
-      "check": "Форми за зразком škola."
+      "check": "Форми за зразком škola.",
+      "forms": [
+        "čizmama"
+      ]
     },
     {
       "id": "hr-720f3dee",
@@ -212,7 +222,10 @@
       "ua": "рукавичка",
       "audio": "hr-rukavica.mp3",
       "explain_ua": "(Nemam rukavica = не маю рукавичок). Родовий множини rukavica: те саме слово, без вставки a, закінчення -a, як police > polica.",
-      "check": "Родовий множини rukavica з мого знання."
+      "check": "Родовий множини rukavica з мого знання.",
+      "forms": [
+        "rukavicama"
+      ]
     },
     {
       "id": "hr-98f86bbe",
@@ -257,7 +270,10 @@
       "ua": "сніг",
       "audio": "hr-snijeg.mp3",
       "explain_ua": "(Pada snijeg = іде сніг). Чоловічого роду: snijeg, snijega. Множина snjegovi рідко. Українське сніг, російське снег: тут -ije- (ijekavski).",
-      "check": "Форма snijega і множина snjegovi з мого знання; множину краще перевірити в словнику."
+      "check": "Форма snijega і множина snjegovi з мого знання; множину краще перевірити в словнику.",
+      "forms": [
+        "snijega"
+      ]
     },
     {
       "id": "hr-73dfcc1b",
@@ -648,93 +664,94 @@
       "items": [
         {
           "example": true,
-          "prompt": "Ношу нову куртку.",
+          "prompt": "Ношу нову шапку.",
           "accepted": [
-            "Nosim novu jaknu."
+            "Nosim novu kapu."
           ]
         },
         {
-          "prompt": "Пальто в шафі.",
+          "prompt": "Капелюх на полиці.",
           "accepted": [
-            "Kaput je u ormaru."
+            "Šešir je na polici."
           ]
         },
         {
-          "prompt": "Футболка на ліжку.",
+          "prompt": "Куртка на стільці.",
           "accepted": [
-            "Majica je na krevetu."
+            "Jakna je na stolici."
           ]
         },
         {
-          "prompt": "Маю теплі шкарпетки.",
+          "prompt": "Маю теплі рукавички.",
           "accepted": [
-            "Imam tople čarape."
+            "Imam tople rukavice."
           ]
         },
         {
-          "prompt": "Маю нові черевики.",
+          "prompt": "Маю нові чоботи.",
           "accepted": [
-            "Imam nove cipele."
+            "Imam nove čizme."
           ]
         },
         {
-          "prompt": "Марія в нових черевиках.",
+          "prompt": "Марія в теплих чоботах.",
           "accepted": [
-            "Marija je u novim cipelama."
+            "Marija je u toplim čizmama."
           ]
         },
         {
-          "prompt": "Іван носить сорочку і штани.",
+          "prompt": "Марія носить спідницю і футболку.",
           "accepted": [
-            "Ivan nosi košulju i hlače."
+            "Marija nosi suknju i majicu."
           ]
         },
         {
-          "prompt": "Люблю свою спідницю і сукню.",
+          "prompt": "Марія любить свій капелюх і свою куртку.",
           "accepted": [
-            "Volim svoju suknju i haljinu."
+            "Marija voli svoj šešir i svoju jaknu."
           ]
         },
         {
-          "prompt": "Не маю рукавичок.",
+          "prompt": "Не маю шапок.",
           "accepted": [
-            "Nemam rukavica."
+            "Nemam kapa."
           ]
         },
         {
-          "prompt": "Не маю теплих шкарпеток.",
+          "prompt": "Не маю нових рукавичок.",
           "accepted": [
-            "Nemam toplih čarapa."
+            "Nemam novih rukavica."
           ]
         },
         {
-          "prompt": "Маю новий капелюх.",
+          "prompt": "Маю нове пальто.",
           "accepted": [
-            "Imam nov šešir."
+            "Imam nov kaput."
           ]
         },
         {
-          "prompt": "Сьогодні іде дощ, а я ношу парасольку.",
+          "prompt": "Сьогодні йде сніг, а я ношу шапку.",
           "accepted": [
-            "Danas pada kiša, a ja nosim kišobran."
+            "Danas pada snijeg, a ja nosim kapu.",
+            "Danas pada snijeg, a nosim kapu."
           ]
         },
         {
-          "prompt": "Завтра йде сніг.",
+          "prompt": "Завтра іде дощ.",
           "accepted": [
-            "Sutra pada snijeg."
+            "Sutra pada kiša."
           ]
         },
         {
-          "prompt": "Сьогодні холодно.",
+          "prompt": "Сьогодні гарно.",
           "accepted": [
-            "Danas je hladno."
+            "Danas je lijepo."
           ]
         },
         {
-          "prompt": "Влітку тепло.",
+          "prompt": "Влітку ношу футболку.",
           "accepted": [
-            "Ljeti je toplo."
+            "Ljeti nosim majicu."
           ]
         }
       ]
@@ -743,28 +760,30 @@
       "type": "gaps",
       "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
       "bank": [
-        "jaknu",
         "kaput",
-        "majica",
-        "košulju",
+        "kiša",
+        "kišobran",
+        "haljinu",
         "hlače",
         "suknju",
-        "haljinu",
+        "Majica",
+        "šešir",
+        "čarapa",
         "cipela",
         "čizme",
-        "čarapa",
-        "šešir",
+        "snijeg",
         "kapu",
+        "majica",
+        "Kaput",
+        "jaknu",
         "rukavica",
-        "kišobran",
-        "kiša",
-        "snijeg"
+        "košulju"
       ],
       "items": [
         {
           "example": true,
-          "text": "Nosim novu ___.",
-          "hint": "Ношу нову куртку.",
+          "text": "Marija nosi novu ___.",
+          "hint": "Марія носить нову куртку.",
           "accepted": [
             [
               "jaknu"
@@ -772,8 +791,8 @@
           ]
         },
         {
-          "text": "___ je u ormaru.",
-          "hint": "Пальто в шафі.",
+          "text": "___ je na stolici.",
+          "hint": "Пальто на стільці.",
           "accepted": [
             [
               "Kaput"
@@ -781,8 +800,8 @@
           ]
         },
         {
-          "text": "___ je na krevetu.",
-          "hint": "Футболка на ліжку.",
+          "text": "___ je na polici.",
+          "hint": "Футболка на полиці.",
           "accepted": [
             [
               "Majica"
@@ -790,8 +809,8 @@
           ]
         },
         {
-          "text": "Ivan nosi ___ i hlače.",
-          "hint": "Іван носить сорочку і штани.",
+          "text": "Ivan nosi ___ i kapu.",
+          "hint": "Іван носить сорочку і шапку.",
           "accepted": [
             [
               "košulju"
@@ -799,8 +818,8 @@
           ]
         },
         {
-          "text": "Ivan nosi košulju i ___.",
-          "hint": "Іван носить сорочку і штани.",
+          "text": "Marija nosi nove ___.",
+          "hint": "Марія носить нові штани.",
           "accepted": [
             [
               "hlače"
@@ -826,8 +845,8 @@
           ]
         },
         {
-          "text": "Imam puno ___.",
-          "hint": "Маю багато черевиків.",
+          "text": "U ormaru je puno ___.",
+          "hint": "У шафі багато черевиків.",
           "accepted": [
             [
               "cipela"
@@ -835,8 +854,8 @@
           ]
         },
         {
-          "text": "Volim tople ___.",
-          "hint": "Люблю теплі чоботи.",
+          "text": "Ivan ima tople ___.",
+          "hint": "Іван має теплі чоботи.",
           "accepted": [
             [
               "čizme"
@@ -844,8 +863,8 @@
           ]
         },
         {
-          "text": "Nemam toplih ___.",
-          "hint": "Не маю теплих шкарпеток.",
+          "text": "Nemam novih ___.",
+          "hint": "Не маю нових шкарпеток.",
           "accepted": [
             [
               "čarapa"
@@ -853,8 +872,8 @@
           ]
         },
         {
-          "text": "Imam nov ___.",
-          "hint": "Маю новий капелюх.",
+          "text": "Ivan ima nov ___.",
+          "hint": "Іван має новий капелюх.",
           "accepted": [
             [
               "šešir"
@@ -871,8 +890,8 @@
           ]
         },
         {
-          "text": "Nemam ___.",
-          "hint": "Не маю рукавичок.",
+          "text": "Ivan nema ___.",
+          "hint": "Іван не має рукавичок.",
           "accepted": [
             [
               "rukavica"
@@ -889,8 +908,8 @@
           ]
         },
         {
-          "text": "Danas pada ___.",
-          "hint": "Сьогодні іде дощ.",
+          "text": "Ljeti često pada ___.",
+          "hint": "Влітку часто іде дощ.",
           "accepted": [
             [
               "kiša"
@@ -898,8 +917,8 @@
           ]
         },
         {
-          "text": "Sutra pada ___.",
-          "hint": "Завтра йде сніг.",
+          "text": "U petak pada ___.",
+          "hint": "У п'ятницю йде сніг.",
           "accepted": [
             [
               "snijeg"
@@ -949,38 +968,38 @@
           ]
         },
         {
-          "prompt": "Imam rukavice.",
+          "prompt": "Imam hlače.",
           "cue": "-> Nemam ...",
           "accepted": [
-            "Nemam rukavica."
+            "Nemam hlača."
           ]
         },
         {
-          "prompt": "Imam nove cipele.",
-          "cue": "-> Marija je u ...",
+          "prompt": "Imam nove rukavice.",
+          "cue": "-> Ivan je u ...",
           "accepted": [
-            "Marija je u novim cipelama."
+            "Ivan je u novim rukavicama."
           ]
         },
         {
-          "prompt": "Kaput je nov.",
-          "cue": "-> означена форма на початку",
+          "prompt": "Kišobran je skup.",
+          "cue": "-> додай «новий» на початку (означена форма)",
           "accepted": [
-            "Novi kaput je skup."
+            "Novi kišobran je skup."
           ]
         },
         {
-          "prompt": "Danas je hladno.",
-          "cue": "-> Ljeti ...",
+          "prompt": "Danas je toplo.",
+          "cue": "-> Sutra ... (холодно)",
           "accepted": [
-            "Ljeti je toplo."
+            "Sutra je hladno."
           ]
         },
         {
-          "prompt": "Imam nov cipele.",
+          "prompt": "Imam novi haljine.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Imam nove cipele."
+            "Imam nove haljine."
           ]
         },
         {
@@ -991,31 +1010,31 @@
           ]
         },
         {
-          "prompt": "Nosim novi jaknu.",
+          "prompt": "Marija nosi novi suknju.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Nosim novu jaknu."
+            "Marija nosi novu suknju."
           ]
         },
         {
-          "prompt": "Danas pada kišu.",
+          "prompt": "Danas pada snijega.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Danas pada kiša."
+            "Danas pada snijeg."
           ]
         },
         {
-          "prompt": "Marija je u novi cipele.",
+          "prompt": "Ivan je u novi hlače.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Marija je u novim cipelama."
+            "Ivan je u novim hlačama."
           ]
         },
         {
-          "prompt": "Nemam toplih čarape.",
+          "prompt": "Nemam toplih rukavice.",
           "cue": "-> виправ помилку",
           "accepted": [
-            "Nemam toplih čarapa."
+            "Nemam toplih rukavica."
           ]
         }
       ]
