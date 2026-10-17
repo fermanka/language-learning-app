@@ -1,0 +1,1763 @@
+{
+  "id": "hr-les-35",
+  "lang": "hr",
+  "order": 35,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "ćemo",
+    "kuće",
+    "sati",
+    "jedemo",
+    "ostajem",
+    "idemo",
+    "lijepa",
+    "školu",
+    "kavu",
+    "kupila",
+    "dolazim",
+    "dolaziš",
+    "dolazi",
+    "kuhala",
+    "išla",
+    "padala",
+    "počela",
+    "bila",
+    "odgovorila",
+    "škole",
+    "zvala",
+    "prijateljicu",
+    "jele",
+    "večeru",
+    "kolodvora",
+    "kiše",
+    "stola",
+    "šetamo",
+    "sestru",
+    "banku",
+    "poštu",
+    "susjedu",
+    "razgovaramo",
+    "filmu",
+    "kolegicom",
+    "knjigama",
+    "imaš",
+    "olovku",
+    "torbu",
+    "žutu",
+    "jaknu",
+    "novu",
+    "dala",
+    "objasnila",
+    "javila",
+    "kući",
+    "završim",
+    "rezala",
+    "pržila",
+    "bili",
+    "ostala",
+    "ostaješ",
+    "čita",
+    "pošte",
+    "srijedu",
+    "tržnice",
+    "kuhinji",
+    "tržnici",
+    "ljubi",
+    "vremena",
+    "pijem",
+    "zovem",
+    "liječnika",
+    "parku",
+    "čitam",
+    "pišem",
+    "skupa",
+    "radiš",
+    "tvoja",
+    "mala",
+    "velika",
+    "trebam",
+    "pomažeš",
+    "voli",
+    "stabala",
+    "pitala",
+    "došla",
+    "rijeke",
+    "kolegi",
+    "sestri",
+    "baku",
+    "kupovala",
+    "najviša",
+    "torbe",
+    "skupe",
+    "imao",
+    "išao",
+    "čitala",
+    "ovoj",
+    "stanujemo",
+    "skuhali",
+    "plaćala",
+    "igra",
+    "djeca",
+    "vole",
+    "ovi",
+    "nova",
+    "karticu",
+    "šumu",
+    "poslovnice",
+    "napisala",
+    "skuplja",
+    "banke",
+    "skupo",
+    "govorimo",
+    "braku",
+    "sina",
+    "naše",
+    "parka",
+    "trudna",
+    "plakao",
+    "moram",
+    "ljeti",
+    "hladno",
+    "moja",
+    "prozora",
+    "liječniče",
+    "prijatelju",
+    "učiteljice",
+    "nas",
+    "njima",
+    "želim",
+    "vidim",
+    "gleda",
+    "pitam",
+    "ide",
+    "kupujem",
+    "slušam",
+    "pada",
+    "idem",
+    "jedem",
+    "kuham",
+    "volim",
+    "jesi",
+    "nemam",
+    "kolegu",
+    "kartice",
+    "skuhale",
+    "režem"
+  ],
+  "notes": [
+    {
+      "id": "hr-9690c4b5",
+      "type": "function",
+      "lemma": "ponekad",
+      "ua": "іноді",
+      "audio": "hr-ponekad.mp3",
+      "explain_ua": "(Ponekad kuham juhu = іноді я варю суп). Прислівник частоти, як često, uvijek, nikad (Lekcija 6). Від частого до рідкого: uvijek, obično, često, ponekad, rijetko, nikad. Слово на початку речення займає перше місце, тож клітик іде за ним.",
+      "check": "Значення з мого знання. Шкалу частоти склав я, у словнику її не звіряв."
+    },
+    {
+      "id": "hr-dc9271bd",
+      "type": "function",
+      "lemma": "obično",
+      "ua": "зазвичай",
+      "audio": "hr-obicno.mp3",
+      "explain_ua": "(Obično jedem u sedam sati = зазвичай я їм о сьомій). Те, що буває зазвичай, звичка. Російське обычно схоже на obično: це підказка для пам'яті, не етимологія. Українське зазвичай слово інше.",
+      "check": "Значення з мого знання. Схожість з російським обычно подаю як підказку, не як перевірену етимологію."
+    },
+    {
+      "id": "hr-c7c0aa94",
+      "type": "function",
+      "lemma": "rijetko",
+      "ua": "рідко",
+      "audio": "hr-rijetko.mp3",
+      "explain_ua": "(Rijetko idem u kino = я рідко ходжу в кіно). Українське рідко те саме слово, але в хорватській тут ije: rijetko, не «retko» і не «ridko». Пара до često (Lekcija 6).",
+      "check": "Значення й правопис rijetko з мого знання."
+    },
+    {
+      "id": "hr-9dceb4c2",
+      "type": "function",
+      "lemma": "odmah",
+      "ua": "одразу, негайно",
+      "audio": "hr-odmah.mp3",
+      "explain_ua": "(Odmah dolazim = зараз же прийду). Стоїть перед дієсловом, коли треба сказати «без затримки». Не плутай із sada (зараз, Lekcija 9): sada це момент, odmah це «негайно».",
+      "check": "Значення з мого знання. Різницю sada / odmah подаю від себе, у словнику не звіряв."
+    },
+    {
+      "id": "hr-3903e73e",
+      "type": "function",
+      "lemma": "uskoro",
+      "ua": "незабаром",
+      "audio": "hr-uskoro.mp3",
+      "explain_ua": "(Uskoro ćemo biti kod kuće = незабаром ми будемо вдома). Часто з майбутнім часом (ću, ćemo). Слово на початку речення займає перше місце, тож ćemo йде одразу за ним.",
+      "check": "Значення з мого знання. Місце клітика після прислівника на початку речення перевірити в граматиці."
+    },
+    {
+      "id": "hr-48a421b4",
+      "type": "function",
+      "lemma": "opet",
+      "ua": "знову",
+      "audio": "hr-opet.mp3",
+      "explain_ua": "(Opet pada kiša = знову іде дощ). Російське опять схоже на opet: це підказка для пам'яті. Українське знову слово інше.",
+      "check": "Значення з мого знання. Схожість з опять лише підказка."
+    },
+    {
+      "id": "hr-e1b0a62e",
+      "type": "function",
+      "lemma": "zajedno",
+      "ua": "разом",
+      "audio": "hr-zajedno.mp3",
+      "explain_ua": "(Jedemo ručak zajedno = їмо обід разом). «Разом із кимось»: zajedno s + орудний (zajedno s prijateljicom, Lekcija 14). Українське разом слово інше.",
+      "check": "Значення з мого знання. Zajedno s + орудний з мого знання."
+    },
+    {
+      "id": "hr-15353e2d",
+      "type": "function",
+      "lemma": "najprije",
+      "ua": "спершу, насамперед",
+      "audio": "hr-najprije.mp3",
+      "explain_ua": "(Najprije režem luk = спершу нарізаю цибулю). Початок послідовності: najprije, zatim, napokon. Слово на початку речення займає перше місце, клітик іде за ним: Najprije sam kuhala.",
+      "check": "Значення з мого знання. Клітик після najprije перевірити в граматиці."
+    },
+    {
+      "id": "hr-2d886120",
+      "type": "function",
+      "lemma": "zatim",
+      "ua": "потім, далі",
+      "audio": "hr-zatim.mp3",
+      "explain_ua": "(Zatim kuham juhu = потім варю суп). Наступний крок у послідовності. Не плутай із zato (Lekcija 21): zato = тому, zato što = тому що, а zatim = потім. Клітик іде за ним: Zatim sam došla.",
+      "check": "Різницю zatim / zato і клітик після zatim з мого знання, перевірити в граматиці."
+    },
+    {
+      "id": "hr-3c093223",
+      "type": "function",
+      "lemma": "napokon",
+      "ua": "нарешті",
+      "audio": "hr-napokon.mp3",
+      "explain_ua": "(Napokon je vikend = нарешті вихідні). Остання дія в послідовності або те, на що довго чекали. Російське наконец схоже: підказка для пам'яті. Українське нарешті слово інше.",
+      "check": "Значення з мого знання. Схожість з наконец лише підказка."
+    },
+    {
+      "id": "hr-9fc3f68b",
+      "type": "function",
+      "lemma": "ipak",
+      "ua": "все ж таки, проте",
+      "audio": "hr-ipak.mp3",
+      "explain_ua": "(Ipak ostajem kod kuće = все ж таки залишаюся вдома). Дія всупереч очікуванню. Пиши разом: ipak. Клітик іде за ним: Ipak sam došla.",
+      "check": "Значення з мого знання. Відтінок ipak / međutim і клітик після ipak перевірити в словнику й граматиці."
+    },
+    {
+      "id": "hr-68af6840",
+      "type": "function",
+      "lemma": "međutim",
+      "ua": "проте, однак",
+      "audio": "hr-medjutim.mp3",
+      "explain_ua": "(Film je dosadan. Međutim, glazba je lijepa = фільм нудний. Проте музика гарна). Контраст двох речень. Може стояти й усередині: Glazba je, međutim, lijepa. Пиши đ: međutim. Підказка для пам'яті, не етимологія: схоже на među (Lekcija 27).",
+      "check": "Значення й правопис з мого знання. Місце всередині речення і зв'язок з među перевірити в словнику."
+    },
+    {
+      "id": "hr-60ee5873",
+      "type": "function",
+      "lemma": "dakle",
+      "ua": "отже, тож",
+      "audio": "hr-dakle.mp3",
+      "explain_ua": "(Dakle, sutra idemo u školu = отже, завтра йдемо до школи). Висновок із сказаного перед цим. Після нього звичайно кома. Українське отже слово інше.",
+      "check": "Значення з мого знання."
+    },
+    {
+      "id": "hr-4dc04488",
+      "type": "function",
+      "lemma": "zapravo",
+      "ua": "насправді",
+      "audio": "hr-zapravo.mp3",
+      "explain_ua": "(Zapravo ne volim kavu = насправді я не люблю каву). Виправляє те, що можна було подумати. Українське насправді слово інше. Клітик іде за ним.",
+      "check": "Значення з мого знання."
+    },
+    {
+      "id": "hr-8e91c1ff",
+      "type": "function",
+      "lemma": "naravno",
+      "ua": "звичайно, певна річ",
+      "audio": "hr-naravno.mp3",
+      "explain_ua": "(Naravno da dolazim = звичайно, я приходжу). Часто з da + теперішній (Lekcija 21). Окремо як відповідь: Naravno! Українське звичайно слово інше.",
+      "check": "Значення з мого знання."
+    },
+    {
+      "id": "hr-5cd684e8",
+      "type": "function",
+      "lemma": "stvarno",
+      "ua": "справді, дійсно",
+      "audio": "hr-stvarno.mp3",
+      "explain_ua": "(Stvarno mi je žao = мені справді шкода). Може бути й питанням: Stvarno? = Справді? Не плутай із zapravo: stvarno підсилює, zapravo виправляє.",
+      "check": "Значення з мого знання. Різницю stvarno / zapravo подаю від себе."
+    },
+    {
+      "id": "hr-d5a08401",
+      "type": "function",
+      "lemma": "zašto",
+      "ua": "чому, навіщо",
+      "audio": "hr-zasto.mp3",
+      "explain_ua": "(Zašto si tužna? = чому ти сумна?). Питальне слово. Відповідь на нього: zato što (Lekcija 21). Пара: Zašto? Zato što ... Не плутай із zatim (потім).",
+      "check": "Значення з мого знання."
+    },
+    {
+      "id": "hr-7e8a7056",
+      "type": "function",
+      "lemma": "odakle",
+      "ua": "звідки",
+      "audio": "hr-odakle.mp3",
+      "explain_ua": "(Odakle dolaziš? = звідки ти приходиш). Три питання про місце: gdje (де, Lekcija 2), kamo (куди, Lekcija 5), odakle (звідки).",
+      "check": "Значення з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Карта відмінків: прийменник → відмінок",
+      "summary_ua": "Тримай прийменники за відмінком. Родовий: od, do, kod, pored, ispred, iza, iznad, ispod, zbog, prije, nakon. Знахідний: za, kroz, uz, u / na (куди). Давальний: k. Місцевий: o, u / na (де). Орудний: s, među (де). Українська допомагає, крім ispod: воно з родовим, а не з орудним.",
+      "compare": [
+        {
+          "form": "родовий: od, do, kod, pored, ispod, zbog",
+          "when_ua": "Звідки, до чого, біля чого, під чим, через причину.",
+          "examples": [
+            {
+              "text": "Idem od kuće do kolodvora.",
+              "ua": "Іду від дому до вокзалу.",
+              "audio": "hr-les35-rule-01.mp3"
+            },
+            {
+              "text": "Zbog kiše ostajem kod kuće.",
+              "ua": "Через дощ залишаюся вдома.",
+              "audio": "hr-les35-rule-02.mp3"
+            },
+            {
+              "text": "Torba je ispod stola.",
+              "ua": "Сумка під столом.",
+              "audio": "hr-les35-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Ispod і iznad теж з родовим, а українське «під» бере орудний."
+        },
+        {
+          "form": "знахідний: u / na (куди), za, kroz, uz",
+          "when_ua": "Куди, для кого, крізь що, вздовж чого.",
+          "examples": [
+            {
+              "text": "Šetamo kroz park i uz rijeku.",
+              "ua": "Гуляємо крізь парк і вздовж річки.",
+              "audio": "hr-les35-rule-04.mp3"
+            },
+            {
+              "text": "Kupujem sok za sestru.",
+              "ua": "Купую сік для сестри.",
+              "audio": "hr-les35-rule-05.mp3"
+            },
+            {
+              "text": "Idem u banku i na poštu.",
+              "ua": "Іду в банк і на пошту.",
+              "audio": "hr-les35-rule-06.mp3"
+            }
+          ],
+          "note_ua": "U / na зі знахідним це «куди» (idem u banku), з місцевим це «де» (jesam u banci)."
+        },
+        {
+          "form": "давальний k; місцевий o; орудний s, među",
+          "when_ua": "До кого, про кого чи що, з ким, між чим.",
+          "examples": [
+            {
+              "text": "Idem k susjedu.",
+              "ua": "Іду до сусіда.",
+              "audio": "hr-les35-rule-07.mp3"
+            },
+            {
+              "text": "Razgovaramo o filmu.",
+              "ua": "Розмовляємо про фільм.",
+              "audio": "hr-les35-rule-08.mp3"
+            },
+            {
+              "text": "Jedem ručak s kolegicom.",
+              "ua": "Обідаю з колежанкою.",
+              "audio": "hr-les35-rule-09.mp3"
+            },
+            {
+              "text": "Olovka je među knjigama.",
+              "ua": "Олівець між книжками.",
+              "audio": "hr-les35-rule-10.mp3"
+            }
+          ],
+          "note_ua": "К + давальний, o + місцевий, s + орудний: кожен має свій відмінок."
+        },
+        {
+          "form": "кличний і знахідний -u",
+          "when_ua": "Звертання й предмет: Marijo, olovku, torbu.",
+          "examples": [
+            {
+              "text": "Marijo, imaš li olovku?",
+              "ua": "Маріє, в тебе є олівець?",
+              "audio": "hr-les35-rule-11.mp3"
+            },
+            {
+              "text": "Učiteljice, gdje je moj zadatak?",
+              "ua": "Вчителько, де моє завдання?",
+              "audio": "hr-les35-rule-12.mp3"
+            },
+            {
+              "text": "Imam novu torbu i žutu jaknu.",
+              "ua": "Маю нову сумку й жовту куртку.",
+              "audio": "hr-les35-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Твоє слабке місце з Lekcija 1: кличний -o (Marijo), -e (učiteljice), -u (prijatelju). Знахідний жіночого на -a дає -u (torbu, olovku, jaknu)."
+        }
+      ],
+      "points_ua": [
+        "Родовий: od, do, kod, pored, ispod, zbog.",
+        "Знахідний: u / na (куди), za, kroz, uz.",
+        "К + давальний, o + місцевий, s + орудний.",
+        "Кличний -o / -e / -u; знахідний -u."
+      ]
+    },
+    {
+      "title_ua": "Порядок клітиків: li, sam, mi, ga, se, je",
+      "summary_ua": "Клітики стоять разом на другому місці: li, потім допоміжне (sam, si, smo, bih, ću), потім давальний (mi, ti, mu, joj, nam), потім знахідний (me, te, ga), потім se, і в самому кінці je. Перше слово чи перша група слів займає перше місце, клітики йдуть одразу за ним. Ні українська, ні російська цього не вимагають.",
+      "compare": [
+        {
+          "form": "li, допоміжне, давальний, знахідний",
+          "when_ua": "Питання й минулий час.",
+          "examples": [
+            {
+              "text": "Bi li mi posudila olovku?",
+              "ua": "Чи позичила б ти мені олівець?",
+              "audio": "hr-les35-rule-14.mp3"
+            },
+            {
+              "text": "Jesi li mi ga kupila?",
+              "ua": "Ти купила мені його?",
+              "audio": "hr-les35-rule-15.mp3"
+            },
+            {
+              "text": "Dala sam mu ga.",
+              "ua": "Я дала йому його.",
+              "audio": "hr-les35-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Li одразу за першим словом, потім sam / si / bi, потім mi, потім ga."
+        },
+        {
+          "form": "давальний + знахідний + je; sam + давальний + se",
+          "when_ua": "3 особа: je завжди останнє.",
+          "examples": [
+            {
+              "text": "Ivan mi ga je dao.",
+              "ua": "Іван дав мені його.",
+              "audio": "hr-les35-rule-17.mp3"
+            },
+            {
+              "text": "Učiteljica nam ga je objasnila.",
+              "ua": "Вчителька пояснила нам його.",
+              "audio": "hr-les35-rule-18.mp3"
+            },
+            {
+              "text": "Javila sam joj se.",
+              "ua": "Я озвалася до неї.",
+              "audio": "hr-les35-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Je останнє: mi ga je, nam ga je. З sam: sam, потім joj, потім se."
+        },
+        {
+          "form": "клітики після першого слова чи групи",
+          "when_ua": "Zatim, Ipak, Sutra: клітик іде одразу за ним.",
+          "examples": [
+            {
+              "text": "Zatim sam ga zvala.",
+              "ua": "Потім я його кликала.",
+              "audio": "hr-les35-rule-20.mp3"
+            },
+            {
+              "text": "Ipak mu vjerujem.",
+              "ua": "Все ж таки я йому вірю.",
+              "audio": "hr-les35-rule-21.mp3"
+            },
+            {
+              "text": "Sutra ćemo se vidjeti.",
+              "ua": "Завтра побачимося.",
+              "audio": "hr-les35-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Твоє слабке місце: не став ja між першим словом і клітиком (Zatim ja sam). Клітик одразу: Zatim sam ga zvala."
+        }
+      ],
+      "points_ua": [
+        "Порядок: li, sam / bih / ću, mi, ga, se, je.",
+        "Je завжди останнє.",
+        "Клітик іде одразу за першим словом чи групою."
+      ]
+    },
+    {
+      "title_ua": "Вид і час: що коли",
+      "summary_ua": "Доконане: одна завершена дія з результатом (potrošila sam, ispeći ću). Недоконане: звичка, процес, тривала дія (trošila sam, kuham). Після kad про майбутнє стоїть доконане теперішнє (Kad završim), після dok недоконане (Dok kuham). Система та сама, що в українській і російській, а пари дієслів вчи цілими.",
+      "compare": [
+        {
+          "form": "минуле: завершене чи звичка",
+          "when_ua": "Один раз з результатом проти повторюваного.",
+          "examples": [
+            {
+              "text": "Jučer sam potrošila deset eura.",
+              "ua": "Вчора я витратила десять євро.",
+              "audio": "hr-les35-rule-23.mp3"
+            },
+            {
+              "text": "Obično sam trošila dvadeset eura.",
+              "ua": "Зазвичай я витрачала двадцять євро.",
+              "audio": "hr-les35-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Potrošiti = витратити (результат), trošiti = витрачати (звичка)."
+        },
+        {
+          "form": "майбутнє: ću + інфінітив",
+          "when_ua": "Ispeći (результат) проти plivati (процес).",
+          "examples": [
+            {
+              "text": "Sutra ću ispeći ribu.",
+              "ua": "Завтра я запечу рибу.",
+              "audio": "hr-les35-rule-25.mp3"
+            },
+            {
+              "text": "Ljeti ću često plivati.",
+              "ua": "Влітку я часто плаватиму.",
+              "audio": "hr-les35-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Ću стоїть на другому місці. Доконаний інфінітив для результату, недоконаний для процесу."
+        },
+        {
+          "form": "kad + доконане, dok + недоконане",
+          "when_ua": "Коли закінчу, поки роблю.",
+          "examples": [
+            {
+              "text": "Kad završim test, idem kući.",
+              "ua": "Коли закінчу тест, іду додому.",
+              "audio": "hr-les35-rule-27.mp3"
+            },
+            {
+              "text": "Dok kuham, slušam glazbu.",
+              "ua": "Поки варю, слухаю музику.",
+              "audio": "hr-les35-rule-28.mp3"
+            },
+            {
+              "text": "Dok sam kuhala, zvala me je prijateljica.",
+              "ua": "Поки я варила, мені дзвонила подруга.",
+              "audio": "hr-les35-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Dok sam kuhala: дія триває, а друга її перериває (zvala me je)."
+        }
+      ],
+      "points_ua": [
+        "Доконане: результат. Недоконане: звичка, процес.",
+        "Kad + доконане теперішнє, dok + недоконане.",
+        "Пари дієслів вчи цілими."
+      ]
+    },
+    {
+      "title_ua": "Зв'язки тексту: najprije, zatim, napokon; ipak, međutim, dakle",
+      "summary_ua": "Najprije, zatim, napokon: послідовність. Ipak, međutim: контраст. Dakle: висновок. Слово на початку речення займає перше місце, тож клітик іде одразу за ним: Zatim sam došla. Спілки i, a, ali, jer місця не займають: A zatim sam ga zvala.",
+      "compare": [
+        {
+          "form": "najprije, zatim, napokon",
+          "when_ua": "Послідовність дій.",
+          "examples": [
+            {
+              "text": "Najprije sam rezala luk, a zatim sam ga pržila.",
+              "ua": "Спершу я різала цибулю, а потім смажила її.",
+              "audio": "hr-les35-rule-30.mp3"
+            },
+            {
+              "text": "Napokon smo bili kod kuće.",
+              "ua": "Нарешті ми були вдома.",
+              "audio": "hr-les35-rule-31.mp3"
+            }
+          ],
+          "note_ua": "Zatim (потім) не плутай із zato (тому): zato što = тому що."
+        },
+        {
+          "form": "ipak, dakle, međutim",
+          "when_ua": "Контраст і висновок.",
+          "examples": [
+            {
+              "text": "Pada kiša. Ipak idemo na izlet.",
+              "ua": "Іде дощ. Все ж таки йдемо на екскурсію.",
+              "audio": "hr-les35-rule-32.mp3"
+            },
+            {
+              "text": "Test je težak. Dakle, moram ponavljati.",
+              "ua": "Тест складний. Отже, я мушу повторювати.",
+              "audio": "hr-les35-rule-33.mp3"
+            },
+            {
+              "text": "Ona je, međutim, ostala kod kuće.",
+              "ua": "Вона, проте, залишилася вдома.",
+              "audio": "hr-les35-rule-34.mp3"
+            }
+          ],
+          "note_ua": "Međutim може стояти всередині речення між комами. Dakle і međutim на початку відділяй комою."
+        },
+        {
+          "form": "zašto і zato što",
+          "when_ua": "Питання й відповідь.",
+          "examples": [
+            {
+              "text": "Zašto ostaješ kod kuće?",
+              "ua": "Чому ти залишаєшся вдома?",
+              "audio": "hr-les35-rule-35.mp3"
+            },
+            {
+              "text": "Ostajem kod kuće zato što pada kiša.",
+              "ua": "Залишаюся вдома, бо йде дощ.",
+              "audio": "hr-les35-rule-36.mp3"
+            }
+          ],
+          "note_ua": "Zašto це питання, zato što це відповідь (Lekcija 21)."
+        }
+      ],
+      "points_ua": [
+        "Najprije, zatim, napokon: послідовність.",
+        "Ipak, međutim: контраст. Dakle: висновок.",
+        "Клітик іде одразу за таким словом."
+      ]
+    },
+    {
+      "title_ua": "Банка помилок і правопис ije / je",
+      "summary_ua": "Хибні друзі, що вже в банці: brak = шлюб (не брак), ponos = гордість, poslovnica = відділення, rok = термін, banka = банк (не слоїк). Старі: godina = рік, život = життя, stolica = стілець, voće = фрукти, pravo = прямо, ljubiti = цілувати. Правопис: dijete, djeca; rijeka; cvijet, cvjetovi.",
+      "compare": [
+        {
+          "form": "нові: brak, ponos, poslovnica, rok, banka",
+          "when_ua": "Слова з Lekcija 32 і 34.",
+          "examples": [
+            {
+              "text": "Brak je lijep, a razvod je težak.",
+              "ua": "Шлюб гарний, а розлучення важке.",
+              "audio": "hr-les35-rule-37.mp3"
+            },
+            {
+              "text": "Osjećam ponos kad dijete čita.",
+              "ua": "Відчуваю гордість, коли дитина читає.",
+              "audio": "hr-les35-rule-38.mp3"
+            },
+            {
+              "text": "Poslovnica je pored pošte.",
+              "ua": "Відділення біля пошти.",
+              "audio": "hr-les35-rule-39.mp3"
+            },
+            {
+              "text": "Rok je u srijedu.",
+              "ua": "Термін у середу.",
+              "audio": "hr-les35-rule-40.mp3"
+            },
+            {
+              "text": "Banka je pored tržnice.",
+              "ua": "Банк біля ринку.",
+              "audio": "hr-les35-rule-41.mp3"
+            }
+          ],
+          "note_ua": "Brak із перевіреної таблиці українська-хорватська, решта п'ять слів із таблиці російська-хорватська."
+        },
+        {
+          "form": "старі: godina, život, stolica, voće, pravo, ljubiti",
+          "when_ua": "Слова з Lekcija 1, 2, 4 і 28.",
+          "examples": [
+            {
+              "text": "Idem pravo, ne lijevo.",
+              "ua": "Іду прямо, не ліворуч.",
+              "audio": "hr-les35-rule-42.mp3"
+            },
+            {
+              "text": "Dijete ima deset godina.",
+              "ua": "Дитині десять років.",
+              "audio": "hr-les35-rule-43.mp3"
+            },
+            {
+              "text": "Moj život je dobar.",
+              "ua": "Моє життя добре.",
+              "audio": "hr-les35-rule-44.mp3"
+            },
+            {
+              "text": "Stolica je u kuhinji.",
+              "ua": "Стілець на кухні.",
+              "audio": "hr-les35-rule-45.mp3"
+            },
+            {
+              "text": "Kupujem voće na tržnici.",
+              "ua": "Купую фрукти на ринку.",
+              "audio": "hr-les35-rule-46.mp3"
+            },
+            {
+              "text": "Baka ljubi unuka.",
+              "ua": "Бабуся цілує онука.",
+              "audio": "hr-les35-rule-47.mp3"
+            }
+          ],
+          "note_ua": "Усі шість із перевіреної таблиці українська-хорватська. Ljubiti = цілувати, а «любити» людину це voljeti."
+        },
+        {
+          "form": "ije / je",
+          "when_ua": "Той самий корінь у двох написаннях.",
+          "examples": [
+            {
+              "text": "Dijete gleda rijeku i cvijet.",
+              "ua": "Дитина дивиться на річку й квітку.",
+              "audio": "hr-les35-rule-48.mp3"
+            },
+            {
+              "text": "Imam puno vremena.",
+              "ua": "Маю багато часу.",
+              "audio": "hr-les35-rule-49.mp3"
+            }
+          ],
+          "note_ua": "Dijete, але djeca; cvijet, але cvjetovi; vrijeme, але vremena. Вчи пари, не правило."
+        }
+      ],
+      "points_ua": [
+        "Brak, ponos, poslovnica, rok, banka: нова банка помилок.",
+        "Godina, život, stolica, voće, pravo, ljubiti: стара банка.",
+        "Dijete - djeca, cvijet - cvjetovi, vrijeme - vremena."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Ponekad kuham juhu.",
+      "ua": "Іноді варю суп.",
+      "audio": "hr-les35-example-01.mp3"
+    },
+    {
+      "text": "Obično jedem u sedam sati.",
+      "ua": "Зазвичай я їм о сьомій.",
+      "audio": "hr-les35-example-02.mp3"
+    },
+    {
+      "text": "Rijetko idem u kino.",
+      "ua": "Я рідко ходжу в кіно.",
+      "audio": "hr-les35-example-03.mp3"
+    },
+    {
+      "text": "Odmah dolazim.",
+      "ua": "Зараз же прийду.",
+      "audio": "hr-les35-example-04.mp3"
+    },
+    {
+      "text": "Uskoro ćemo biti kod kuće.",
+      "ua": "Незабаром ми будемо вдома.",
+      "audio": "hr-les35-example-05.mp3"
+    },
+    {
+      "text": "Opet pada kiša.",
+      "ua": "Знову іде дощ.",
+      "audio": "hr-les35-example-06.mp3"
+    },
+    {
+      "text": "Jedemo ručak zajedno.",
+      "ua": "Їмо обід разом.",
+      "audio": "hr-les35-example-07.mp3"
+    },
+    {
+      "text": "Najprije režem luk, a zatim kuham juhu.",
+      "ua": "Спершу нарізаю цибулю, а потім варю суп.",
+      "audio": "hr-les35-example-08.mp3"
+    },
+    {
+      "text": "Napokon je vikend.",
+      "ua": "Нарешті вихідні.",
+      "audio": "hr-les35-example-09.mp3"
+    },
+    {
+      "text": "Ipak ostajem kod kuće.",
+      "ua": "Все ж таки залишаюся вдома.",
+      "audio": "hr-les35-example-10.mp3"
+    },
+    {
+      "text": "Film je dosadan. Međutim, glazba je lijepa.",
+      "ua": "Фільм нудний. Проте музика гарна.",
+      "audio": "hr-les35-example-11.mp3"
+    },
+    {
+      "text": "Dakle, sutra idemo u školu.",
+      "ua": "Отже, завтра йдемо до школи.",
+      "audio": "hr-les35-example-12.mp3"
+    },
+    {
+      "text": "Zapravo ne volim kavu.",
+      "ua": "Насправді я не люблю каву.",
+      "audio": "hr-les35-example-13.mp3"
+    },
+    {
+      "text": "Naravno da dolazim.",
+      "ua": "Звичайно, я приходжу.",
+      "audio": "hr-les35-example-14.mp3"
+    },
+    {
+      "text": "Stvarno mi je žao.",
+      "ua": "Мені справді шкода.",
+      "audio": "hr-les35-example-15.mp3"
+    },
+    {
+      "text": "Zašto si tužna?",
+      "ua": "Чому ти сумна?",
+      "audio": "hr-les35-example-16.mp3"
+    },
+    {
+      "text": "Odakle dolaziš?",
+      "ua": "Звідки ти приходиш?",
+      "audio": "hr-les35-example-17.mp3"
+    },
+    {
+      "text": "Zatim sam kupila kruh i sir.",
+      "ua": "Потім я купила хліб і сир.",
+      "audio": "hr-les35-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Težak dan",
+    "title_ua": "Важкий день",
+    "highlight": [
+      "hr-9dceb4c2",
+      "hr-3903e73e",
+      "hr-48a421b4",
+      "hr-e1b0a62e",
+      "hr-15353e2d",
+      "hr-2d886120",
+      "hr-3c093223",
+      "hr-9fc3f68b",
+      "hr-68af6840"
+    ],
+    "sentences": [
+      {
+        "text": "Jučer je bio težak dan.",
+        "ua": "Вчора був важкий день.",
+        "audio": "hr-les35-reading-01.mp3"
+      },
+      {
+        "text": "Najprije sam kuhala doručak, a zatim sam išla u školu.",
+        "ua": "Спершу я готувала сніданок, а потім пішла до школи.",
+        "audio": "hr-les35-reading-02.mp3"
+      },
+      {
+        "text": "Opet je padala kiša.",
+        "ua": "Знову йшов дощ.",
+        "audio": "hr-les35-reading-03.mp3"
+      },
+      {
+        "text": "Učiteljica je odmah počela test.",
+        "ua": "Вчителька одразу почала тест.",
+        "audio": "hr-les35-reading-04.mp3"
+      },
+      {
+        "text": "Međutim, pitanja su bila teška.",
+        "ua": "Проте питання були складні.",
+        "audio": "hr-les35-reading-05.mp3"
+      },
+      {
+        "text": "Ipak sam odgovorila na pitanja.",
+        "ua": "Все ж таки я відповіла на питання.",
+        "audio": "hr-les35-reading-06.mp3"
+      },
+      {
+        "text": "Poslije škole sam zvala prijateljicu.",
+        "ua": "Після школи я дзвонила подрузі.",
+        "audio": "hr-les35-reading-07.mp3"
+      },
+      {
+        "text": "Rekla mi je da uskoro dolazi.",
+        "ua": "Вона сказала мені, що незабаром приходить.",
+        "audio": "hr-les35-reading-08.mp3"
+      },
+      {
+        "text": "Napokon smo zajedno jele večeru.",
+        "ua": "Нарешті ми разом повечеряли.",
+        "audio": "hr-les35-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Зазвичай я п'ю каву вранці.",
+          "accepted": [
+            "Obično pijem kavu ujutro."
+          ]
+        },
+        {
+          "prompt": "Я рідко слухаю музику.",
+          "accepted": [
+            "Rijetko slušam glazbu."
+          ]
+        },
+        {
+          "prompt": "Я одразу кличу лікаря.",
+          "accepted": [
+            "Odmah zovem liječnika."
+          ]
+        },
+        {
+          "prompt": "Незабаром вечеря.",
+          "accepted": [
+            "Uskoro je večera."
+          ]
+        },
+        {
+          "prompt": "Знову холодно.",
+          "accepted": [
+            "Opet je hladno."
+          ]
+        },
+        {
+          "prompt": "Ми разом гуляємо в парку.",
+          "accepted": [
+            "Zajedno šetamo u parku."
+          ]
+        },
+        {
+          "prompt": "Спершу я читаю, потім пишу.",
+          "accepted": [
+            "Najprije čitam, zatim pišem."
+          ]
+        },
+        {
+          "prompt": "Нарешті субота.",
+          "accepted": [
+            "Napokon je subota."
+          ]
+        },
+        {
+          "prompt": "Все ж таки я купую куртку.",
+          "accepted": [
+            "Ipak kupujem jaknu."
+          ]
+        },
+        {
+          "prompt": "Проте квиток дорогий.",
+          "accepted": [
+            "Međutim, karta je skupa."
+          ]
+        },
+        {
+          "prompt": "Отже, завтра ти не працюєш.",
+          "accepted": [
+            "Dakle, sutra ne radiš."
+          ]
+        },
+        {
+          "prompt": "Насправді я не маю часу.",
+          "accepted": [
+            "Zapravo nemam vremena."
+          ]
+        },
+        {
+          "prompt": "Звичайно, я йому вірю.",
+          "accepted": [
+            "Naravno da mu vjerujem."
+          ]
+        },
+        {
+          "prompt": "Чому ти плачеш?",
+          "accepted": [
+            "Zašto plačeš?"
+          ]
+        },
+        {
+          "prompt": "Звідки твоя подруга?",
+          "accepted": [
+            "Odakle je tvoja prijateljica?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "ponekad",
+        "rijetko",
+        "opet",
+        "zatim",
+        "ipak",
+        "međutim",
+        "zapravo",
+        "naravno",
+        "zašto",
+        "odakle",
+        "kći",
+        "nikoga",
+        "karticom",
+        "prijatelju",
+        "stabala",
+        "me"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ pijem čaj.",
+          "hint": "Іноді п'ю чай.",
+          "accepted": [
+            [
+              "Ponekad"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat ___ trči.",
+          "hint": "Мій брат рідко бігає.",
+          "accepted": [
+            [
+              "rijetko"
+            ]
+          ]
+        },
+        {
+          "text": "Jučer je padala kiša, a danas ___ pada.",
+          "hint": "Вчора йшов дощ, а сьогодні знову йде.",
+          "accepted": [
+            [
+              "opet"
+            ]
+          ]
+        },
+        {
+          "text": "Najprije kupujem kruh, a ___ idem kući.",
+          "hint": "Спершу купую хліб, а потім іду додому.",
+          "accepted": [
+            [
+              "zatim"
+            ]
+          ]
+        },
+        {
+          "text": "Hladno je, ali ___ idem na plažu.",
+          "hint": "Холодно, але я все ж таки йду на пляж.",
+          "accepted": [
+            [
+              "ipak"
+            ]
+          ]
+        },
+        {
+          "text": "Kuhinja je mala. ___, kupaonica je velika.",
+          "hint": "Кухня маленька. Проте ванна велика.",
+          "accepted": [
+            [
+              "Međutim",
+              "Ipak"
+            ]
+          ]
+        },
+        {
+          "text": "___ ne trebam novčanik.",
+          "hint": "Насправді мені не потрібен гаманець.",
+          "accepted": [
+            [
+              "Zapravo"
+            ]
+          ]
+        },
+        {
+          "text": "Pomažeš li mi? ___!",
+          "hint": "Допоможеш мені? Звичайно!",
+          "accepted": [
+            [
+              "Naravno"
+            ]
+          ]
+        },
+        {
+          "text": "___ ne dolaziš?",
+          "hint": "Чому ти не приходиш?",
+          "accepted": [
+            [
+              "Zašto"
+            ]
+          ]
+        },
+        {
+          "text": "___ je tvoj susjed?",
+          "hint": "Звідки твій сусід?",
+          "accepted": [
+            [
+              "Odakle"
+            ]
+          ]
+        },
+        {
+          "text": "Moja ___ voli plesati.",
+          "hint": "Моя дочка любить танцювати.",
+          "accepted": [
+            [
+              "kći"
+            ]
+          ]
+        },
+        {
+          "text": "Ne pitam ___.",
+          "hint": "Нікого не питаю.",
+          "accepted": [
+            [
+              "nikoga"
+            ]
+          ]
+        },
+        {
+          "text": "Kupujem sok ___.",
+          "hint": "Купую сік карткою.",
+          "accepted": [
+            [
+              "karticom"
+            ]
+          ]
+        },
+        {
+          "text": "___, gdje je tvoja torba?",
+          "hint": "Друже, де твоя сумка?",
+          "accepted": [
+            [
+              "Prijatelju"
+            ]
+          ]
+        },
+        {
+          "text": "U šumi ima puno ___.",
+          "hint": "У лісі багато дерев.",
+          "accepted": [
+            [
+              "stabala"
+            ]
+          ],
+          "check": "Родовий множини stabala (stablo, stabla, stabala) з мого знання, перевірити в словнику."
+        },
+        {
+          "text": "Pitala ___ je gdje je ključ.",
+          "hint": "Вона спитала мене, де ключ.",
+          "accepted": [
+            [
+              "me"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Idem kući.",
+          "cue": "-> Napokon ...",
+          "accepted": [
+            "Napokon idem kući."
+          ]
+        },
+        {
+          "prompt": "Idem u školu.",
+          "cue": "-> Zatim ... (минулий час, ж.)",
+          "accepted": [
+            "Zatim sam išla u školu."
+          ]
+        },
+        {
+          "prompt": "Zatim ja sam došla kući.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zatim sam došla kući."
+          ]
+        },
+        {
+          "prompt": "Ipak sam dala mu ga.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ipak sam mu ga dala."
+          ]
+        },
+        {
+          "prompt": "Najprije je ga zvala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Najprije ga je zvala."
+          ]
+        },
+        {
+          "prompt": "Hotel je pored rijeka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hotel je pored rijeke."
+          ]
+        },
+        {
+          "prompt": "Smijem se kolegu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Smijem se kolegi."
+          ]
+        },
+        {
+          "prompt": "Vjerujem sestru.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vjerujem sestri."
+          ]
+        },
+        {
+          "prompt": "Brinem se za baka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Brinem se za baku."
+          ]
+        },
+        {
+          "prompt": "Ne zovem nitko.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ne zovem nikoga."
+          ]
+        },
+        {
+          "prompt": "Ponavljam zadatak.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću ponoviti zadatak."
+          ]
+        },
+        {
+          "prompt": "Kupila sam kruh.",
+          "cue": "-> недоконане, звичка (obično)",
+          "accepted": [
+            "Obično sam kupovala kruh."
+          ]
+        },
+        {
+          "prompt": "Imam vremena, idem na izlet.",
+          "cue": "-> Kad bih ...",
+          "accepted": [
+            "Kad bih imala vremena, išla bih na izlet.",
+            "Kad bih imao vremena, išao bih na izlet."
+          ]
+        },
+        {
+          "prompt": "Dolazim sutra.",
+          "cue": "-> Rekla je da ...",
+          "accepted": [
+            "Rekla je da dolazi sutra."
+          ]
+        },
+        {
+          "prompt": "Planina je visoka.",
+          "cue": "-> superlativ",
+          "accepted": [
+            "Planina je najviša."
+          ]
+        },
+        {
+          "prompt": "Torba je skupa.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Torbe su skupe."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mi ___ sestri.",
+          "cue": "vjerovati",
+          "accepted": [
+            "vjerujemo"
+          ]
+        },
+        {
+          "text": "Oni se ___ škole.",
+          "cue": "sjećati se",
+          "accepted": [
+            "sjećaju"
+          ]
+        },
+        {
+          "text": "Dijete ___ u kuhinji.",
+          "cue": "plakati",
+          "accepted": [
+            "plače"
+          ]
+        },
+        {
+          "text": "Vi se ne ___.",
+          "cue": "svađati se",
+          "accepted": [
+            "svađate"
+          ]
+        },
+        {
+          "text": "Dijete ___ u ovoj kući.",
+          "cue": "rasti",
+          "accepted": [
+            "raste"
+          ]
+        },
+        {
+          "text": "Moj muž ne ___ novac.",
+          "cue": "štedjeti",
+          "accepted": [
+            "štedi"
+          ]
+        },
+        {
+          "text": "Ti ___ novac na bankomatu.",
+          "cue": "podizati",
+          "accepted": [
+            "podižeš"
+          ]
+        },
+        {
+          "text": "Ja ___ test u petak.",
+          "cue": "polagati",
+          "accepted": [
+            "polažem"
+          ]
+        },
+        {
+          "text": "Jučer je ___ kiša.",
+          "cue": "padati",
+          "accepted": [
+            "padala"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ ribu.",
+          "cue": "pržiti",
+          "accepted": [
+            "pržila"
+          ]
+        },
+        {
+          "text": "Kad bih imala vremena, ___ bih više.",
+          "cue": "čitati",
+          "accepted": [
+            "čitala"
+          ]
+        },
+        {
+          "text": "Ti ___ na pitanje.",
+          "cue": "odgovarati",
+          "accepted": [
+            "odgovaraš"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 32-35, разом з хибними друзями.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "шлюб",
+          "answer": "brak"
+        },
+        {
+          "prompt": "гордість",
+          "answer": "ponos"
+        },
+        {
+          "prompt": "розлучення",
+          "answer": "razvod"
+        },
+        {
+          "prompt": "дочка",
+          "answer": "kći"
+        },
+        {
+          "prompt": "онук",
+          "answer": "unuk"
+        },
+        {
+          "prompt": "відділення банку",
+          "answer": "poslovnica"
+        },
+        {
+          "prompt": "термін, дедлайн",
+          "answer": "rok"
+        },
+        {
+          "prompt": "банк (установа, не слоїк)",
+          "answer": "banka"
+        },
+        {
+          "prompt": "холодний вітер на узбережжі",
+          "answer": "bura"
+        },
+        {
+          "prompt": "теплий південний вітер",
+          "answer": "jugo"
+        },
+        {
+          "prompt": "банківська картка",
+          "answer": "kartica"
+        },
+        {
+          "prompt": "одразу, негайно",
+          "answer": "odmah"
+        },
+        {
+          "prompt": "незабаром",
+          "answer": "uskoro"
+        },
+        {
+          "prompt": "потім, далі",
+          "answer": "zatim"
+        },
+        {
+          "prompt": "нарешті",
+          "answer": "napokon"
+        },
+        {
+          "prompt": "проте, однак",
+          "answer": "međutim"
+        },
+        {
+          "prompt": "насправді",
+          "answer": "zapravo"
+        },
+        {
+          "prompt": "звідки",
+          "answer": "odakle"
+        }
+      ],
+      "extra": [
+        "zato",
+        "ponekad"
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "МІНІ-ТЕСТ 2 У СТИЛІ ІСПИТУ, частина 1 з 3, ~9 хвилин. Без підказок, пиши цілі речення з діакритикою. Тут усі теми з Lekcija 29-34.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Маріє, ти маєш картку?",
+          "accepted": [
+            "Marijo, imaš li karticu?"
+          ]
+        },
+        {
+          "prompt": "Ми живемо біля річки.",
+          "accepted": [
+            "Stanujemo pored rijeke.",
+            "Stanujemo blizu rijeke."
+          ]
+        },
+        {
+          "prompt": "Завтра ввечері вісім градусів.",
+          "accepted": [
+            "Sutra navečer je osam stupnjeva.",
+            "Sutra je navečer osam stupnjeva."
+          ]
+        },
+        {
+          "prompt": "У лісі немає квітів.",
+          "accepted": [
+            "U šumi nema cvjetova."
+          ]
+        },
+        {
+          "prompt": "Вона купила мені його.",
+          "accepted": [
+            "Kupila mi ga je."
+          ]
+        },
+        {
+          "prompt": "Вчора ми зварили суп.",
+          "accepted": [
+            "Jučer smo skuhali juhu.",
+            "Jučer smo skuhale juhu."
+          ]
+        },
+        {
+          "prompt": "Зазвичай я платила карткою.",
+          "accepted": [
+            "Obično sam plaćala karticom."
+          ]
+        },
+        {
+          "prompt": "Вона пояснила нам завдання.",
+          "accepted": [
+            "Objasnila nam je zadatak.",
+            "Ona nam je objasnila zadatak."
+          ]
+        },
+        {
+          "prompt": "Якби сестра була тут, я б не плакала.",
+          "accepted": [
+            "Kad bi sestra bila ovdje, ne bih plakala.",
+            "Kad bi sestra bila ovdje, ne bih plakao."
+          ]
+        },
+        {
+          "prompt": "Вона сказала, що сьогодні не прийде.",
+          "accepted": [
+            "Rekla je da danas ne dolazi."
+          ]
+        },
+        {
+          "prompt": "Лікарю, мені потрібен рецепт.",
+          "accepted": [
+            "Liječniče, trebam recept."
+          ]
+        },
+        {
+          "prompt": "Він грає з ними в сквош.",
+          "accepted": [
+            "On igra squash s njima."
+          ]
+        },
+        {
+          "prompt": "Ти пам'ятаєш нас?",
+          "accepted": [
+            "Sjećaš li se nas?"
+          ]
+        },
+        {
+          "prompt": "Діти люблять сніг.",
+          "accepted": [
+            "Djeca vole snijeg."
+          ]
+        },
+        {
+          "prompt": "Я хочу чай і цукор.",
+          "accepted": [
+            "Želim čaj i šećer."
+          ]
+        },
+        {
+          "prompt": "Мені холодно, бо йде сніг.",
+          "accepted": [
+            "Hladno mi je jer pada snijeg."
+          ]
+        },
+        {
+          "prompt": "Мені подобаються ці квіти.",
+          "accepted": [
+            "Sviđaju mi se ovi cvjetovi."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "МІНІ-ТЕСТ 2 У СТИЛІ ІСПИТУ, частина 2 з 3, ~7 хвилин. Виправ помилку або зміни речення за стрілкою. Без підказок.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Danas ja sam ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam ovdje."
+          ]
+        },
+        {
+          "prompt": "Ovdje mi smo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovdje smo.",
+            "Mi smo ovdje.",
+            "Ovdje smo mi."
+          ]
+        },
+        {
+          "prompt": "Danas majka je ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas je majka ovdje.",
+            "Majka je danas ovdje."
+          ]
+        },
+        {
+          "prompt": "Prijatelj, hvala!",
+          "cue": "-> кличний",
+          "accepted": [
+            "Prijatelju, hvala!"
+          ]
+        },
+        {
+          "prompt": "Trebam nova kartica.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Trebam novu karticu."
+          ]
+        },
+        {
+          "prompt": "Vidim rijeka i šuma.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim rijeku i šumu."
+          ]
+        },
+        {
+          "prompt": "Čistim torba.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čistim torbu."
+          ]
+        },
+        {
+          "prompt": "Dijete je tužan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dijete je tužno."
+          ]
+        },
+        {
+          "prompt": "Idem do poslovnica.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem do poslovnice."
+          ]
+        },
+        {
+          "prompt": "Imam pet kartice.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam pet kartica."
+          ]
+        },
+        {
+          "prompt": "Dao sam ga mu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dao sam mu ga."
+          ]
+        },
+        {
+          "prompt": "Bi mi li dala ključ?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Bi li mi dala ključ?"
+          ]
+        },
+        {
+          "prompt": "Pišem pismo.",
+          "cue": "-> доконане, минулий час (ж.)",
+          "accepted": [
+            "Napisala sam pismo."
+          ]
+        },
+        {
+          "prompt": "Ivan ne dolazi.",
+          "cue": "-> Rekla je da ...",
+          "accepted": [
+            "Rekla je da Ivan ne dolazi."
+          ]
+        },
+        {
+          "prompt": "Jakna je skupa.",
+          "cue": "-> komparativ",
+          "accepted": [
+            "Jakna je skuplja."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "МІНІ-ТЕСТ 2 У СТИЛІ ІСПИТУ, частина 3 з 3, ~4 хвилини. БАНКА ПОМИЛОК, окремий рахунок. Тут тільки хибні друзі: пиши хорватською, і слово, що перевіряється, має бути саме те. Без підказок.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Іду прямо до банку.",
+          "accepted": [
+            "Idem pravo do banke."
+          ]
+        },
+        {
+          "prompt": "Моїй бабусі вісімдесят років.",
+          "accepted": [
+            "Moja baka ima osamdeset godina."
+          ]
+        },
+        {
+          "prompt": "Я люблю своє життя.",
+          "accepted": [
+            "Volim svoj život."
+          ]
+        },
+        {
+          "prompt": "Стілець біля вікна.",
+          "accepted": [
+            "Stolica je pored prozora."
+          ]
+        },
+        {
+          "prompt": "Фрукти дорогі.",
+          "accepted": [
+            "Voće je skupo."
+          ]
+        },
+        {
+          "prompt": "Ми говоримо про шлюб.",
+          "accepted": [
+            "Govorimo o braku."
+          ]
+        },
+        {
+          "prompt": "Батько відчуває гордість за сина.",
+          "accepted": [
+            "Otac osjeća ponos zbog sina."
+          ]
+        },
+        {
+          "prompt": "Відділення нашого банку біля парку.",
+          "accepted": [
+            "Poslovnica naše banke je pored parka.",
+            "Poslovnica naše banke je blizu parka."
+          ]
+        },
+        {
+          "prompt": "Термін завтра ввечері.",
+          "accepted": [
+            "Rok je sutra navečer."
+          ]
+        },
+        {
+          "prompt": "Банк далеко від школи.",
+          "accepted": [
+            "Banka je daleko od škole."
+          ]
+        },
+        {
+          "prompt": "Моя сестра вагітна.",
+          "accepted": [
+            "Moja sestra je trudna."
+          ]
+        },
+        {
+          "prompt": "Мама цілує дитину.",
+          "accepted": [
+            "Majka ljubi dijete."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "function"
+      ]
+    }
+  ]
+}
