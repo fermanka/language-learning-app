@@ -1,0 +1,1621 @@
+{
+  "id": "hr-les-39",
+  "lang": "hr",
+  "order": 39,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "to",
+    "stara",
+    "subotu",
+    "šaljem",
+    "šaljemo",
+    "sina",
+    "sestro",
+    "stolu",
+    "polici",
+    "ispitu",
+    "ručku",
+    "večeri",
+    "dolaze",
+    "dajemo",
+    "pjevamo",
+    "jedni",
+    "drugima",
+    "drugoga",
+    "drugome",
+    "želim",
+    "želimo",
+    "želi",
+    "sve",
+    "najbolje",
+    "imamo",
+    "ima",
+    "imam",
+    "susjeda",
+    "susjedi",
+    "vidimo",
+    "volimo",
+    "pomažu",
+    "pomažemo",
+    "pomažete",
+    "vide",
+    "vjeruju",
+    "brata",
+    "bratu",
+    "dva",
+    "jedan",
+    "pozvali",
+    "radi",
+    "nitko",
+    "vam",
+    "nam",
+    "sobu",
+    "kuhinju",
+    "ova",
+    "ovu",
+    "moramo",
+    "hoćemo",
+    "javim",
+    "kolodvoru",
+    "parku",
+    "prijatelja",
+    "prijateljici",
+    "prijatelji",
+    "prijatelju",
+    "roditelji",
+    "jednu",
+    "veliku",
+    "velika",
+    "moja",
+    "mala",
+    "rođendanu",
+    "rođendanom",
+    "djedu",
+    "djeda",
+    "sretna",
+    "sreću",
+    "sestri",
+    "sestru",
+    "baki",
+    "baku",
+    "bake",
+    "kuću",
+    "ribu",
+    "knjige",
+    "knjigu",
+    "kuće",
+    "sati",
+    "idemo",
+    "jedemo",
+    "volim",
+    "bili",
+    "bila",
+    "smo",
+    "su",
+    "djeca",
+    "vole",
+    "ukrasile",
+    "ukrasili",
+    "dočekali",
+    "sretan",
+    "školi",
+    "rekla",
+    "kupujem",
+    "dan",
+    "prije",
+    "poslije"
+  ],
+  "notes": [
+    {
+      "id": "hr-1a21a743",
+      "type": "noun",
+      "lemma": "blagdan",
+      "gender": "m.",
+      "gen_sg": "blagdana",
+      "plural": [
+        "blagdani"
+      ],
+      "ua": "свято (передусім церковне)",
+      "audio": "hr-blagdan.mp3",
+      "forms": [
+        "blagdana",
+        "blagdanu",
+        "blagdane"
+      ],
+      "explain_ua": "(Božić je lijep blagdan = Різдво гарне свято). Чоловічого роду: blagdan, blagdana, blagdani. Blagdan частіше кажуть про церковні свята (Božić, Uskrs), а praznik (нижче) про день, коли не працюють. У розмові ці слова змішують, тож це «часто так», не закон. УВАГА: у цьому уроці вчимо тільки звичайні слова про свята. Переліку державних свят і дат тут немає навмисно: це окрема тема, і її вчать лише з офіційного тексту, коли прийде час.",
+      "check": "Форми з мого знання. Розмежування blagdan / praznik подаю як тенденцію, у словнику (hjp.znanje.hr) не звіряв."
+    },
+    {
+      "id": "hr-089432d6",
+      "type": "noun",
+      "lemma": "praznik",
+      "gender": "m.",
+      "gen_sg": "praznika",
+      "plural": [
+        "praznici"
+      ],
+      "ua": "свято, вихідний день",
+      "audio": "hr-praznik.mp3",
+      "forms": [
+        "praznika",
+        "prazniku"
+      ],
+      "explain_ua": "(U ponedjeljak je praznik = у понеділок свято, вихідний). Чоловічого роду: praznik, praznika, praznici (k > c перед -i, як udžbenik > udžbenici, Lekcija 31). Російське праздник схоже на praznik: це підказка для пам'яті, не етимологія. День народження не praznik і не blagdan, а rođendan.",
+      "check": "Форми з мого знання; значення «вихідний день» і відмінність від blagdan у словнику не звірені."
+    },
+    {
+      "id": "hr-dc90635e",
+      "type": "noun",
+      "lemma": "Božić",
+      "gender": "m.",
+      "gen_sg": "Božića",
+      "plural": [],
+      "ua": "Різдво",
+      "audio": "hr-bozic.mp3",
+      "forms": [
+        "Božića",
+        "Božiću"
+      ],
+      "explain_ua": "(Za Božić imamo goste = на Різдво маємо гостей). Чоловічого роду, пишеться з великої: Božić, Božića (prije Božića). Za Božić = на Різдво (za + знахідний). Слово зовсім не схоже на українське Різдво й російське Рождество, тож його просто вчимо. Побажання: Sretan Božić!",
+      "check": "Форми й велику літеру з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-157fe05b",
+      "type": "noun",
+      "lemma": "Uskrs",
+      "gender": "m.",
+      "gen_sg": "Uskrsa",
+      "plural": [],
+      "ua": "Великдень",
+      "audio": "hr-uskrs.mp3",
+      "forms": [
+        "Uskrsa",
+        "Uskrsu"
+      ],
+      "explain_ua": "(Uskrs je u proljeće = Великдень навесні). Чоловічого роду, з великої: Uskrs, Uskrsa. Za Uskrs = на Великдень. Побажання: Sretan Uskrs! Якщо почуєш Vaskrs, це не хорватська літературна форма: ти її розумієш, але пишеш і кажеш Uskrs.",
+      "check": "Форми з мого знання. Що Vaskrs належить до іншого стандарту, з мого знання: звірити з hjp."
+    },
+    {
+      "id": "hr-eff786e1",
+      "type": "noun",
+      "lemma": "Nova godina",
+      "gender": "ž.",
+      "gen_sg": "Nove godine",
+      "plural": [],
+      "ua": "Новий рік (свято)",
+      "audio": "hr-nova-godina.mp3",
+      "forms": [
+        "Nove godine",
+        "Novu godinu",
+        "Novoj godini"
+      ],
+      "explain_ua": "(Novu godinu dočekujemo kod kuće = Новий рік зустрічаємо вдома). Жіночий рід, два слова: Nova godina, Nove godine, Novu godinu. Як назву свята пишуть з великої лише перше слово. Godina це «рік» (Lekcija 1), а не українська «година»: цей хибний друг уже в банку помилок. Побажання: Sretna Nova godina! (sretna, бо godina жіночого роду).",
+      "check": "Форми й написання з великої N лише на початку з мого знання, звірити з Hrvatski pravopis."
+    },
+    {
+      "id": "hr-6e0daee3",
+      "type": "noun",
+      "lemma": "Badnjak",
+      "gender": "m.",
+      "gen_sg": "Badnjaka",
+      "plural": [],
+      "ua": "Святвечір (переддень Різдва)",
+      "audio": "hr-badnjak.mp3",
+      "forms": [
+        "Badnjaka",
+        "Badnjaku"
+      ],
+      "explain_ua": "(Badnjak je u prosincu = святвечір у грудні). Чоловічого роду, з великої: Badnjak, Badnjaka. Це день перед Božićem. За Hrvatskom enciklopedijom, на Badnjak була пісна вечеря, і серед страв була риба; тому в тексті сказано, що на Badnjak їдять рибу, а не м'ясо. З малої літери badnjak у старих описах ще й дерево (panj), яке палили на вогнищі: цього тут не вчимо.",
+      "check": "Badnjak = день перед Різдвом, пісна вечеря з рибою: читав на enciklopedija.hr через стислий переказ сторінки, звірити з оригіналом."
+    },
+    {
+      "id": "hr-5714a1f7",
+      "type": "noun",
+      "lemma": "običaj",
+      "gender": "m.",
+      "gen_sg": "običaja",
+      "plural": [
+        "običaji"
+      ],
+      "ua": "звичай",
+      "audio": "hr-obicaj.mp3",
+      "forms": [
+        "običaja",
+        "običaju"
+      ],
+      "explain_ua": "(Imamo lijep običaj = маємо гарний звичай). Чоловічого роду: običaj, običaja, običaji. Російське обычай схоже на običaj: це підказка для пам'яті, не етимологія. Приклад звичаю: Sveti Nikola (Nikolinje, у грудні). За Hrvatskom enciklopedijom, діти ставлять очищене взуття у вікно, а вночі їм потайки кладуть подарунки; сьогодні подарунки здебільшого дістають діти. Це відкриває цикл різдвяних звичаїв. Звичай подано коротко, як факт про життя, не як урок історії.",
+      "check": "Sveti Nikola (взуття у вікні, нічні подарунки): читав на enciklopedija.hr (nikolinje) через стислий переказ сторінки, звірити з оригіналом. Форми з мого знання."
+    },
+    {
+      "id": "hr-fda90625",
+      "type": "noun",
+      "lemma": "tradicija",
+      "gender": "ž.",
+      "gen_sg": "tradicije",
+      "plural": [
+        "tradicije"
+      ],
+      "ua": "традиція",
+      "audio": "hr-tradicija.mp3",
+      "forms": [
+        "tradicije",
+        "tradiciju",
+        "tradiciji"
+      ],
+      "explain_ua": "(Imamo staru tradiciju = маємо стару традицію). Жіночий рід на -a: tradicija, tradicije, tradiciju. Українське «традиція» те саме слово. Приклад традиції: Martinje, свято святого Мартина в листопаді. За Hrvatskom enciklopedijom, на північному заході Хорватії, особливо в Hrvatskom zagorju, на Martinje є жартівливий звичай krštenje mošta («хрещення сусла», молодого виноградного соку), і до нього влаштовують учту, головна страва якої печена гуска.",
+      "check": "Martinje (krštenje mošta, Hrvatsko zagorje, печена гуска): читав на enciklopedija.hr через стислий переказ сторінки, звірити з оригіналом. Форми з мого знання."
+    },
+    {
+      "id": "hr-cf340cf9",
+      "type": "noun",
+      "lemma": "proslava",
+      "gender": "ž.",
+      "gen_sg": "proslave",
+      "plural": [
+        "proslave"
+      ],
+      "ua": "святкування, свято (подія)",
+      "audio": "hr-proslava.mp3",
+      "forms": [
+        "proslave",
+        "proslavu",
+        "proslavi"
+      ],
+      "explain_ua": "(Proslava je u subotu = святкування в суботу). Жіночий рід на -a: proslava, proslave, proslavu (знахідний), na proslavi (місцевий). Це подія, на якій щось святкують (rođendan, vjenčanje). Від slaviti (нижче): slaviti це дія, proslava це подія.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-ff45bf93",
+      "type": "noun",
+      "lemma": "gost",
+      "gender": "m.",
+      "gen_sg": "gosta",
+      "plural": [
+        "gosti"
+      ],
+      "ua": "гість",
+      "audio": "hr-gost.mp3",
+      "forms": [
+        "gosta",
+        "gostu",
+        "goste",
+        "gostima",
+        "gostiju"
+      ],
+      "explain_ua": "(Imamo goste za ručak = маємо гостей на обід). Чоловічого роду: gost, gosta, gosti. Українське гість: те саме слово. Жива істота: в однині знахідний як родовий (vidim gosta), у множині goste. Два готові блоки: idemo u goste (йдемо в гості) і bili smo u gostima (були в гостях), див. картку 3.",
+      "check": "Форми gosta, gosti, goste, gostima з мого знання; родовий множини gostiju не звіряв, у реченнях його нема."
+    },
+    {
+      "id": "hr-88072632",
+      "type": "noun",
+      "lemma": "poklon",
+      "gender": "m.",
+      "gen_sg": "poklona",
+      "plural": [
+        "pokloni"
+      ],
+      "ua": "подарунок",
+      "audio": "hr-poklon.mp3",
+      "forms": [
+        "poklona",
+        "poklonu",
+        "poklone"
+      ],
+      "explain_ua": "(Kupujem poklon za sina = купую подарунок для сина). Чоловічого роду: poklon, poklona, pokloni. ПАСТКА для російськомовної (підказка, не з перевіреної таблиці): російське поклон це уклін чи вітання, а хорватське poklon це подарунок. Подарувати це pokloniti (нижче).",
+      "check": "Форми з мого знання. Пастка поклон / poklon: підказка, у моїй перевіреній таблиці її нема, у банк помилок не заношу."
+    },
+    {
+      "id": "hr-dcdcb853",
+      "type": "noun",
+      "lemma": "čestitka",
+      "gender": "ž.",
+      "gen_sg": "čestitke",
+      "plural": [
+        "čestitke"
+      ],
+      "ua": "вітальна листівка, привітання",
+      "audio": "hr-cestitka.mp3",
+      "forms": [
+        "čestitke",
+        "čestitku"
+      ],
+      "explain_ua": "(Šaljem čestitku sestri = надсилаю вітальну листівку сестрі). Жіночий рід на -a: čestitka, čestitke, čestitku (знахідний). Від дієслова čestitati (нижче). Пиши č на початку: čestitka.",
+      "check": "Форми čestitke, čestitku з мого знання; давальний і місцевий однини не звіряв, тому їх у реченнях нема."
+    },
+    {
+      "id": "hr-17499332",
+      "type": "noun",
+      "lemma": "želja",
+      "gender": "ž.",
+      "gen_sg": "želje",
+      "plural": [
+        "želje"
+      ],
+      "ua": "бажання",
+      "audio": "hr-zelja.mp3",
+      "forms": [
+        "želje",
+        "želju"
+      ],
+      "explain_ua": "(To je moja velika želja = це моє велике бажання). Жіночий рід на -a: želja, želje, želju. Той самий корінь, що željeti (Lekcija 6): želim = хочу, бажаю. Не плутай з žao (Lekcija 32): žao mi je = мені шкода.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-99f0bb57",
+      "type": "noun",
+      "lemma": "vjenčanje",
+      "gender": "s.",
+      "gen_sg": "vjenčanja",
+      "plural": [
+        "vjenčanja"
+      ],
+      "ua": "весілля, церемонія одруження",
+      "audio": "hr-vjencanje.mp3",
+      "forms": [
+        "vjenčanja",
+        "vjenčanju"
+      ],
+      "explain_ua": "(Sutra je svečano vjenčanje = завтра урочисте весілля). Середній рід на -nje: vjenčanje, vjenčanja, vjenčanju (як stanje, Lekcija 34). Пиши ije (як dijete, Lekcija 1): vjenčanje, не «venčanje». Слово означає саму церемонію одруження.",
+      "check": "Форми з мого знання; що venčanje це інший стандарт (екавський), з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-bf96c41e",
+      "type": "noun",
+      "lemma": "svijeća",
+      "gender": "ž.",
+      "gen_sg": "svijeće",
+      "plural": [
+        "svijeće"
+      ],
+      "ua": "свічка",
+      "audio": "hr-svijeca.mp3",
+      "forms": [
+        "svijeće",
+        "svijeću"
+      ],
+      "explain_ua": "(Svijeća je na polici = свічка на полиці). Жіночий рід на -a: svijeća, svijeće, svijeću. Пиши ije (як dijete, rijeka): svijeća, не «sveća». Українське свічка схоже: це підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання; що sveća це екавська форма, з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-2b330291",
+      "type": "noun",
+      "lemma": "vatromet",
+      "gender": "m.",
+      "gen_sg": "vatrometa",
+      "plural": [
+        "vatrometi"
+      ],
+      "ua": "феєрверк",
+      "audio": "hr-vatromet.mp3",
+      "forms": [
+        "vatrometa",
+        "vatrometu"
+      ],
+      "explain_ua": "(Gledamo vatromet = дивимося феєрверк). Чоловічого роду: vatromet, vatrometa. Слово нове для обох мов, тож просто вчимо. Множина vatrometi існує, але вживається рідко.",
+      "check": "Форми з мого знання; множину vatrometi не звіряв."
+    },
+    {
+      "id": "hr-4e5dc035",
+      "type": "noun",
+      "lemma": "ukras",
+      "gender": "m.",
+      "gen_sg": "ukrasa",
+      "plural": [
+        "ukrasi"
+      ],
+      "ua": "прикраса, декорація",
+      "audio": "hr-ukras.mp3",
+      "forms": [
+        "ukrasa",
+        "ukrasu",
+        "ukrase"
+      ],
+      "explain_ua": "(Ukrasi su na stolu = прикраси на столі). Чоловічого роду: ukras, ukrasa, ukrasi. Російське украшение схоже на ukras: підказка для пам'яті. Від дієслова ukrasiti (нижче). Ювелірні прикраси це інше слово (nakit), його тут не вчимо.",
+      "check": "Форми з мого знання; що nakit означає ювелірні прикраси, з мого знання."
+    },
+    {
+      "id": "hr-bc8c1e35",
+      "type": "verb",
+      "lemma": "čestitati",
+      "aspect": "biaspectual",
+      "pres_1sg": "čestitam",
+      "forms": [
+        "čestitam",
+        "čestitaš",
+        "čestita",
+        "čestitamo",
+        "čestitate",
+        "čestitaju",
+        "čestitala",
+        "čestitali",
+        "čestitao"
+      ],
+      "ua": "вітати, поздоровляти (+ комусь на чомусь)",
+      "audio": "hr-cestitati.mp3",
+      "explain_ua": "(Čestitam baki na rođendanu = вітаю бабусю з днем народження). ПАСТКА для обох мов: українське «вітати з + орудний» і російське «поздравлять с + творительный» тут НЕ працюють. Хорватською čestitati + давальний (кому) + na + місцевий (з чим): čestitam ti na rođendanu, не «čestitam s rođendanom». Дієвідміна -am: čestitam, čestitaš, čestita. Вид: двовидове, пари не треба.",
+      "check": "Двовидовість і керування čestitati komu na čemu з мого знання; чи є варіант із знахідним (čestitati rođendan), не звіряв."
+    },
+    {
+      "id": "hr-b73e07dc",
+      "type": "verb",
+      "lemma": "slaviti",
+      "aspect": "impf.",
+      "partner": "proslaviti",
+      "pres_1sg": "slavim",
+      "forms": [
+        "slavim",
+        "slaviš",
+        "slavi",
+        "slavimo",
+        "slavite",
+        "slave",
+        "slavila",
+        "slavili",
+        "slavio",
+        "proslaviti",
+        "proslavim",
+        "proslaviš",
+        "proslavi",
+        "proslavimo",
+        "proslavite",
+        "proslave",
+        "proslavila",
+        "proslavili",
+        "proslavio"
+      ],
+      "ua": "святкувати (док. proslaviti)",
+      "audio": "hr-slaviti.mp3",
+      "explain_ua": "(Slavimo rođendan u subotu = святкуємо день народження в суботу). Пара: slaviti (недок.) / proslaviti (док.): proslavila sam rođendan = відсвяткувала. Дієвідміна -im: slavim, slaviš, slavi. Підказка (не з перевіреної таблиці): українське «славити» це радше «прославляти, хвалити», а хорватське slaviti передусім «святкувати».",
+      "check": "Пару та форми з мого знання. Нюанс славити / slaviti: підказка для пам'яті, не з перевіреної таблиці."
+    },
+    {
+      "id": "hr-20ed674e",
+      "type": "verb",
+      "lemma": "pokloniti",
+      "aspect": "pf.",
+      "partner": "poklanjati",
+      "pres_1sg": "poklonim",
+      "forms": [
+        "poklonim",
+        "pokloniš",
+        "pokloni",
+        "poklonimo",
+        "poklonite",
+        "poklone",
+        "poklonila",
+        "poklonili",
+        "poklonio",
+        "poklanjati",
+        "poklanjam",
+        "poklanjaš",
+        "poklanja",
+        "poklanjamo",
+        "poklanjate",
+        "poklanjaju",
+        "poklanjala"
+      ],
+      "ua": "подарувати (недок. poklanjati)",
+      "audio": "hr-pokloniti.mp3",
+      "explain_ua": "(Bratu ću pokloniti knjigu = брату подарую книжку). Пара: pokloniti (док.) / poklanjati (недок.): poklonim > poklanjam, o > a (як posuditi > posuđivati, Lekcija 34). Кому подарунок: давальний (bratu), що: знахідний (knjigu). Родина слова poklon. Для звички: uvijek poklanjam, не «uvijek poklonim».",
+      "check": "Пару pokloniti / poklanjati і форми з мого знання, звірити з hjp. Значення pokloniti se (вклонитися) з мого знання, не вживаю."
+    },
+    {
+      "id": "hr-e068d409",
+      "type": "verb",
+      "lemma": "ukrasiti",
+      "aspect": "pf.",
+      "partner": "ukrašavati",
+      "pres_1sg": "ukrasim",
+      "forms": [
+        "ukrasim",
+        "ukrasiš",
+        "ukrasi",
+        "ukrasimo",
+        "ukrasite",
+        "ukrase",
+        "ukrasila",
+        "ukrasile",
+        "ukrasili",
+        "ukrasio",
+        "ukrašavati",
+        "ukrašavam",
+        "ukrašavaš",
+        "ukrašava",
+        "ukrašavamo",
+        "ukrašavate",
+        "ukrašavaju",
+        "ukrašavala"
+      ],
+      "ua": "прикрасити (недок. ukrašavati)",
+      "audio": "hr-ukrasiti.mp3",
+      "explain_ua": "(Ukrasili smo kuću = ми прикрасили будинок). Пара: ukrasiti (док.) / ukrašavati (недок.): ukrasim > ukrašavam, s > š перед -avati. Док. для одного результату (ukrasili smo), недок. для звички чи процесу (prije blagdana ukrašavamo kuću). Родина слова ukras.",
+      "check": "Пару ukrasiti / ukrašavati і форми з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-c21b30ef",
+      "type": "verb",
+      "lemma": "dočekati",
+      "aspect": "pf.",
+      "partner": "dočekivati",
+      "pres_1sg": "dočekam",
+      "forms": [
+        "dočekam",
+        "dočekaš",
+        "dočeka",
+        "dočekamo",
+        "dočekate",
+        "dočekaju",
+        "dočekala",
+        "dočekali",
+        "dočekao",
+        "dočekivati",
+        "dočekujem",
+        "dočekuješ",
+        "dočekuje",
+        "dočekujemo",
+        "dočekujete",
+        "dočekuju",
+        "dočekivala"
+      ],
+      "ua": "зустріти (гостей, Новий рік)",
+      "audio": "hr-docekati.mp3",
+      "explain_ua": "(Dočekali smo goste na kolodvoru = ми зустріли гостей на вокзалі). Пара: dočekati (док.) / dočekivati (недок.): dočekam > dočekujem, k > kuj. Значення: дочекатися когось чи чогось і зустріти (гостей, Novu godinu). Українське «дочекатися» ближче до «дожити до»; подібний корінь, але рамка інша.",
+      "check": "Пару та значення «зустріти гостей, Новий рік» з мого знання; відмінність від українського дочекатися не звірена зі словником."
+    },
+    {
+      "id": "hr-f2faa270",
+      "type": "verb",
+      "lemma": "okupiti",
+      "aspect": "pf.",
+      "partner": "okupljati",
+      "pres_1sg": "okupim",
+      "forms": [
+        "okupim",
+        "okupiš",
+        "okupi",
+        "okupimo",
+        "okupite",
+        "okupe",
+        "okupila",
+        "okupili",
+        "okupio",
+        "okupljati",
+        "okupljam",
+        "okupljaš",
+        "okuplja",
+        "okupljamo",
+        "okupljate",
+        "okupljaju",
+        "okupljala"
+      ],
+      "ua": "зібрати; (okupiti se) зібратися",
+      "audio": "hr-okupiti.mp3",
+      "explain_ua": "(Obitelj se okuplja kod bake = родина збирається в бабусі). Найчастіше зі se: okupiti se (док.) / okupljati se (недок.): okupim se > okupljam se, між p і -ati вставка l: okupljati. Se стоїть на другому місці: Gosti se okupljaju. Недок. okupljati se для звички чи процесу.",
+      "check": "Пару okupiti se / okupljati se та вставку l з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-030fe4cc",
+      "type": "adjective",
+      "lemma": "svečan",
+      "fem": "svečana",
+      "neut": "svečano",
+      "ua": "урочистий, святковий",
+      "audio": "hr-svecan.mp3",
+      "forms": [
+        "svečana",
+        "svečano",
+        "svečane",
+        "svečani"
+      ],
+      "explain_ua": "(Haljina je svečana = сукня урочиста). Нестійке a: svečan, svečana, svečano (як bolestan, Lekcija 21). Про подію й одяг: svečano vjenčanje, svečana haljina. Не плутай č з ć: svečan.",
+      "check": "Форми з мого знання за зразком bolestan."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Вітання й подяка: čestitati na, željeti, hvala na",
+      "summary_ua": "Čestitati береться з давальним (кого вітаю) і прийменником na з місцевим (з чим): čestitam ti na rođendanu. Ні українське «з + орудний», ні російське «с + творительный» тут не працюють. Побажання: želim ti + знахідний (sretan Božić). Подяка: hvala na + місцевий. Готові фрази вчи цілими.",
+      "compare": [
+        {
+          "form": "čestitati + давальний + na + місцевий",
+          "when_ua": "Вітаю когось із подією.",
+          "examples": [
+            {
+              "text": "Čestitamo vam na vjenčanju.",
+              "ua": "Вітаємо вас із весіллям.",
+              "audio": "hr-les39-rule-01.mp3"
+            },
+            {
+              "text": "Čestitala sam sestri na ispitu.",
+              "ua": "Я привітала сестру з іспитом.",
+              "audio": "hr-les39-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Не «čestitam s rođendanom»: тут ваша рідна мова веде не туди. Кому: давальний (sestri, vam). З чим: na + місцевий (na ispitu)."
+        },
+        {
+          "form": "željeti + давальний + знахідний",
+          "when_ua": "Бажаю комусь щось.",
+          "examples": [
+            {
+              "text": "Želim ti sretan Božić.",
+              "ua": "Бажаю тобі щасливого Різдва.",
+              "audio": "hr-les39-rule-03.mp3"
+            },
+            {
+              "text": "Želimo vam sve najbolje.",
+              "ua": "Бажаємо вам усього найкращого.",
+              "audio": "hr-les39-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Želim (Lekcija 6) + кому + що. Дієвідміну знаєш: želim, želiš, želi."
+        },
+        {
+          "form": "hvala na + місцевий",
+          "when_ua": "Дякую за щось.",
+          "examples": [
+            {
+              "text": "Hvala na večeri.",
+              "ua": "Дякую за вечерю.",
+              "audio": "hr-les39-rule-05.mp3"
+            },
+            {
+              "text": "Hvala na ručku.",
+              "ua": "Дякую за обід.",
+              "audio": "hr-les39-rule-06.mp3"
+            }
+          ],
+          "note_ua": "«Дякую ЗА» це hvala NA, не «hvala za». Місцевий: večera > na večeri, ručak > na ručku."
+        },
+        {
+          "form": "готові фрази: sretan / sretna",
+          "when_ua": "Привітання зі святом.",
+          "examples": [
+            {
+              "text": "Sretan Uskrs!",
+              "ua": "Щасливого Великодня!",
+              "audio": "hr-les39-rule-07.mp3"
+            },
+            {
+              "text": "Sretna Nova godina!",
+              "ua": "Щасливого Нового року!",
+              "audio": "hr-les39-rule-08.mp3"
+            },
+            {
+              "text": "Sretan rođendan!",
+              "ua": "З днем народження!",
+              "audio": "hr-les39-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Sretan для чоловічого (Božić, Uskrs, rođendan), sretna для жіночого (Nova godina). Рід залежить від слова після."
+        }
+      ],
+      "points_ua": [
+        "Čestitati + кому + na + місцевий (čestitam ti na rođendanu).",
+        "Hvala na + місцевий, не «hvala za».",
+        "Sretan Božić, sretna Nova godina: рід за словом після."
+      ]
+    },
+    {
+      "title_ua": "Дати: dvadeset prvi, trideset prvog; місяць у родовому",
+      "summary_ua": "Дата в називному: порядковий числівник чоловічого роду, місяць у родовому: Danas je dvadeset prvi srpnja. Для події (коли?) обидва слова беруть родовий: dvadeset petog ožujka. Складені числівники 21-31: dvadeset (trideset) + порядковий, окремо; змінюється лише останнє слово. Тут використовуємо порядкові, які вже знаєш (prvi, peti, dvanaesti, dvadeseti з Lekcija 3), решта утворюється так само. Місяці з нестійким a (Lekcija 3): svibanj > svibnja.",
+      "compare": [
+        {
+          "form": "яке число: називний + місяць у родовому",
+          "when_ua": "Питаю й кажу, яка сьогодні дата.",
+          "examples": [
+            {
+              "text": "Koji je danas datum?",
+              "ua": "Яка сьогодні дата?",
+              "audio": "hr-les39-rule-10.mp3"
+            },
+            {
+              "text": "Danas je dvadeset prvi srpnja.",
+              "ua": "Сьогодні двадцять перше липня.",
+              "audio": "hr-les39-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Українська тут каже «двадцять перше липня» (середній рід), а хорватська dvadeset prvi (чоловічий). Місяць зсунутий, як у Lekcija 3: srpanj це липень."
+        },
+        {
+          "form": "коли подія: -og + місяць у родовому",
+          "when_ua": "Rođendan, vjenčanje, proslava мають дату.",
+          "examples": [
+            {
+              "text": "Rođendan je dvadeset petog ožujka.",
+              "ua": "День народження двадцять п'ятого березня.",
+              "audio": "hr-les39-rule-12.mp3"
+            },
+            {
+              "text": "Vjenčanje je dvadeset prvog kolovoza.",
+              "ua": "Весілля двадцять першого серпня.",
+              "audio": "hr-les39-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Українське «двадцять п'ятого березня» будує дату так само: порядковий і місяць у родовому. Ці дати вигадані для вправи."
+        },
+        {
+          "form": "u + місцевий (місяць) проти -og (число)",
+          "when_ua": "Без числа: u svibnju. З числом: dvanaestog svibnja.",
+          "examples": [
+            {
+              "text": "Vjenčanje je u svibnju.",
+              "ua": "Весілля у травні.",
+              "audio": "hr-les39-rule-14.mp3"
+            },
+            {
+              "text": "Vjenčanje je dvanaestog svibnja.",
+              "ua": "Весілля дванадцятого травня.",
+              "audio": "hr-les39-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Нестійке a випадає: svibanj, але svibnja і u svibnju. Пиши svibnja, не «svibanja»."
+        }
+      ],
+      "points_ua": [
+        "Danas je dvadeset prvi srpnja: називний + родовий.",
+        "Rođendan je dvadeset petog ožujka: -og + родовий.",
+        "Svibanj > svibnja, u svibnju: a випадає."
+      ]
+    },
+    {
+      "title_ua": "Гості: u goste, u gostima, na proslavu, na proslavi, kod bake",
+      "summary_ua": "Idemo u goste (куди, знахідний) і bili smo u gostima (де, місцевий множини): українське «в гості» і «в гостях» збігається один в один, тож тут тримайся української. Подія: na + знахідний (куди), na + місцевий (де). До людини й у людини: kod + родовий (kod bake, Lekcija 27), не «u baku».",
+      "compare": [
+        {
+          "form": "u goste (куди) / u gostima (де)",
+          "when_ua": "Йдемо в гості й перебуваємо в гостях.",
+          "examples": [
+            {
+              "text": "Sutra idemo u goste kod susjeda.",
+              "ua": "Завтра йдемо в гості до сусіда.",
+              "audio": "hr-les39-rule-16.mp3"
+            },
+            {
+              "text": "Bili smo u gostima kod susjeda.",
+              "ua": "Ми були в гостях у сусіда.",
+              "audio": "hr-les39-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Це два готові блоки. Українське «в гості / в гостях» працює: тримайся його."
+        },
+        {
+          "form": "na + знахідний (куди) / na + місцевий (де)",
+          "when_ua": "Подія: vjenčanje, proslava.",
+          "examples": [
+            {
+              "text": "Pozvali su nas na vjenčanje.",
+              "ua": "Нас запросили на весілля.",
+              "audio": "hr-les39-rule-18.mp3"
+            },
+            {
+              "text": "Bili smo na vjenčanju.",
+              "ua": "Ми були на весіллі.",
+              "audio": "hr-les39-rule-19.mp3"
+            },
+            {
+              "text": "Gosti su na proslavi.",
+              "ua": "Гості на святкуванні.",
+              "audio": "hr-les39-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Куди: na vjenčanje (знахідний). Де: na vjenčanju (місцевий). Це правило з Lekcija 5, тільки нові слова."
+        },
+        {
+          "form": "kod + родовий",
+          "when_ua": "У когось, до когось додому.",
+          "examples": [
+            {
+              "text": "Proslava je kod bake.",
+              "ua": "Святкування в бабусі.",
+              "audio": "hr-les39-rule-21.mp3"
+            },
+            {
+              "text": "Božić slavimo kod djeda.",
+              "ua": "Різдво святкуємо в дідуся.",
+              "audio": "hr-les39-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Не «u baku» (так може підказати «у бабусі» з російської). Kod bake = в бабусі й до бабусі."
+        }
+      ],
+      "points_ua": [
+        "Idemo u goste, bili smo u gostima: як українською.",
+        "Na vjenčanje (куди), na vjenčanju (де).",
+        "Kod bake, не «u baku»."
+      ]
+    },
+    {
+      "title_ua": "Одне одному: se, jedni drugima, jedan drugome",
+      "summary_ua": "Дієслова з se вже можуть значити «одне одного» (vidimo se, volimo se). Коли треба сказати явно, кому чи кого, є пара: jedni drugima (давальний множини), jedan drugome (давальний однини), jedan drugoga (знахідний однини). Українська «один одному / один одного» будує пару так само, російська «друг другу / друг друга» теж: пара слів, перше незмінне, друге змінюється за відмінком.",
+      "compare": [
+        {
+          "form": "se: одне одного без уточнення",
+          "when_ua": "Vidimo se, volimo se.",
+          "examples": [
+            {
+              "text": "Vidimo se u petak.",
+              "ua": "Побачимося в п'ятницю.",
+              "audio": "hr-les39-rule-23.mp3"
+            },
+            {
+              "text": "Volimo se.",
+              "ua": "Ми любимо одне одного.",
+              "audio": "hr-les39-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Se стоїть на другому місці (Lekcija 19, 32). Окремого «одне одного» не треба."
+        },
+        {
+          "form": "jedni drugima (давальний множини)",
+          "when_ua": "Кому: одні одним.",
+          "examples": [
+            {
+              "text": "Susjedi pomažu jedni drugima.",
+              "ua": "Сусіди допомагають одні одним.",
+              "audio": "hr-les39-rule-25.mp3"
+            },
+            {
+              "text": "Jedni drugima poklanjamo knjige.",
+              "ua": "Ми даруємо одні одним книжки.",
+              "audio": "hr-les39-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Pomagati і čestitati беруть давальний, тому jedni drugima, а не «jedni drugi»."
+        },
+        {
+          "form": "jedan drugome / jedan drugoga",
+          "when_ua": "Двоє: кому (давальний) чи кого (знахідний).",
+          "examples": [
+            {
+              "text": "Dva brata vjeruju jedan drugome.",
+              "ua": "Два брати вірять один одному.",
+              "audio": "hr-les39-rule-27.mp3"
+            },
+            {
+              "text": "Dva brata vide jedan drugoga.",
+              "ua": "Два брати бачать один одного.",
+              "audio": "hr-les39-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Vjerovati + давальний (Lekcija 32), vidjeti + знахідний. Для брата й сестри (змішана пара) форма інша (jedno drugome), її тут не вчимо."
+        }
+      ],
+      "points_ua": [
+        "Se вже може значити «одне одного».",
+        "Jedni drugima: давальний множини (pomažu jedni drugima).",
+        "Jedan drugome (кому), jedan drugoga (кого)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Božić je lijep blagdan.",
+      "ua": "Різдво гарне свято.",
+      "audio": "hr-les39-example-01.mp3"
+    },
+    {
+      "text": "U ponedjeljak je praznik.",
+      "ua": "У понеділок свято, вихідний.",
+      "audio": "hr-les39-example-02.mp3"
+    },
+    {
+      "text": "Uskrs je u proljeće.",
+      "ua": "Великдень навесні.",
+      "audio": "hr-les39-example-03.mp3"
+    },
+    {
+      "text": "Novu godinu dočekujemo kod kuće.",
+      "ua": "Новий рік зустрічаємо вдома.",
+      "audio": "hr-les39-example-04.mp3"
+    },
+    {
+      "text": "Badnjak je u prosincu.",
+      "ua": "Святвечір у грудні.",
+      "audio": "hr-les39-example-05.mp3"
+    },
+    {
+      "text": "To je lijep običaj i stara tradicija.",
+      "ua": "Це гарний звичай і давня традиція.",
+      "audio": "hr-les39-example-06.mp3"
+    },
+    {
+      "text": "Proslava je u subotu.",
+      "ua": "Святкування в суботу.",
+      "audio": "hr-les39-example-07.mp3"
+    },
+    {
+      "text": "Gosti se okupljaju u pet sati.",
+      "ua": "Гості збираються о п'ятій.",
+      "audio": "hr-les39-example-08.mp3"
+    },
+    {
+      "text": "Kupujem poklon za sina.",
+      "ua": "Купую подарунок для сина.",
+      "audio": "hr-les39-example-09.mp3"
+    },
+    {
+      "text": "Šaljem čestitku sestri.",
+      "ua": "Надсилаю вітальну листівку сестрі.",
+      "audio": "hr-les39-example-10.mp3"
+    },
+    {
+      "text": "To je moja velika želja.",
+      "ua": "Це моє велике бажання.",
+      "audio": "hr-les39-example-11.mp3"
+    },
+    {
+      "text": "Sutra je svečano vjenčanje.",
+      "ua": "Завтра урочисте весілля.",
+      "audio": "hr-les39-example-12.mp3"
+    },
+    {
+      "text": "Svijeće i ukrasi su na stolu.",
+      "ua": "Свічки й прикраси на столі.",
+      "audio": "hr-les39-example-13.mp3"
+    },
+    {
+      "text": "Vatromet je navečer.",
+      "ua": "Феєрверк ввечері.",
+      "audio": "hr-les39-example-14.mp3"
+    },
+    {
+      "text": "Čestitam baki na rođendanu.",
+      "ua": "Вітаю бабусю з днем народження.",
+      "audio": "hr-les39-example-15.mp3"
+    },
+    {
+      "text": "Rođendan slavimo kod kuće.",
+      "ua": "День народження святкуємо вдома.",
+      "audio": "hr-les39-example-16.mp3"
+    },
+    {
+      "text": "Sestri ću pokloniti knjigu.",
+      "ua": "Сестрі подарую книжку.",
+      "audio": "hr-les39-example-17.mp3"
+    },
+    {
+      "text": "Ukrasili smo kuću.",
+      "ua": "Ми прикрасили будинок.",
+      "audio": "hr-les39-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Božić kod bake",
+    "title_ua": "Різдво в бабусі",
+    "highlight": [
+      "hr-1a21a743",
+      "hr-dc90635e",
+      "hr-6e0daee3",
+      "hr-5714a1f7",
+      "hr-ff45bf93",
+      "hr-88072632"
+    ],
+    "sentences": [
+      {
+        "text": "Za Božić uvijek idemo kod bake i djeda.",
+        "ua": "На Різдво ми завжди їдемо до бабусі й дідуся.",
+        "audio": "hr-les39-reading-01.mp3"
+      },
+      {
+        "text": "Prije blagdana ukrašavamo kuću.",
+        "ua": "Перед святом ми прикрашаємо будинок.",
+        "audio": "hr-les39-reading-02.mp3"
+      },
+      {
+        "text": "Badnjak je dan prije Božića.",
+        "ua": "Святвечір це день перед Різдвом.",
+        "audio": "hr-les39-reading-03.mp3"
+      },
+      {
+        "text": "Na Badnjak se obitelj okuplja kod bake.",
+        "ua": "На святвечір родина збирається в бабусі.",
+        "audio": "hr-les39-reading-04.mp3"
+      },
+      {
+        "text": "Gosti dolaze u pet sati.",
+        "ua": "Гості приходять о п'ятій.",
+        "audio": "hr-les39-reading-05.mp3"
+      },
+      {
+        "text": "Jedemo ribu, a ne meso.",
+        "ua": "Ми їмо рибу, а не м'ясо.",
+        "audio": "hr-les39-reading-06.mp3"
+      },
+      {
+        "text": "Poslije večere dajemo poklone.",
+        "ua": "Після вечері ми даруємо подарунки.",
+        "audio": "hr-les39-reading-07.mp3"
+      },
+      {
+        "text": "Pjevamo i čestitamo jedni drugima.",
+        "ua": "Ми співаємо й вітаємо одні одних.",
+        "audio": "hr-les39-reading-08.mp3"
+      },
+      {
+        "text": "Volim ovaj običaj.",
+        "ua": "Я люблю цей звичай.",
+        "audio": "hr-les39-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Моя сестра має гостей.",
+          "accepted": [
+            "Moja sestra ima goste."
+          ]
+        },
+        {
+          "prompt": "Свічки на полиці.",
+          "accepted": [
+            "Svijeće su na polici."
+          ]
+        },
+        {
+          "prompt": "Весілля у липні.",
+          "accepted": [
+            "Vjenčanje je u srpnju."
+          ]
+        },
+        {
+          "prompt": "Ми святкуємо в суботу.",
+          "accepted": [
+            "Slavimo u subotu."
+          ]
+        },
+        {
+          "prompt": "Подаруй йому цю книжку.",
+          "accepted": [
+            "Pokloni mu ovu knjigu."
+          ]
+        },
+        {
+          "prompt": "Вони прикрасили кімнату.",
+          "accepted": [
+            "Ukrasili su sobu.",
+            "Ukrasile su sobu."
+          ]
+        },
+        {
+          "prompt": "Гості вже тут.",
+          "accepted": [
+            "Gosti su već ovdje."
+          ]
+        },
+        {
+          "prompt": "Завтра вихідний.",
+          "accepted": [
+            "Sutra je praznik."
+          ]
+        },
+        {
+          "prompt": "Вітаю подругу з іспитом.",
+          "accepted": [
+            "Čestitam prijateljici na ispitu."
+          ]
+        },
+        {
+          "prompt": "Дякую за подарунок.",
+          "accepted": [
+            "Hvala na poklonu."
+          ]
+        },
+        {
+          "prompt": "Бажаю тобі щастя.",
+          "accepted": [
+            "Želim ti sreću."
+          ]
+        },
+        {
+          "prompt": "Ми йдемо на весілля.",
+          "accepted": [
+            "Idemo na vjenčanje."
+          ]
+        },
+        {
+          "prompt": "Вона була в гостях.",
+          "accepted": [
+            "Bila je u gostima."
+          ]
+        },
+        {
+          "prompt": "Весілля тридцять першого серпня.",
+          "accepted": [
+            "Vjenčanje je trideset prvog kolovoza."
+          ]
+        },
+        {
+          "prompt": "Ця сукня урочиста.",
+          "accepted": [
+            "Ova haljina je svečana.",
+            "Ova je haljina svečana."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "goste",
+        "poklon",
+        "blagdani",
+        "praznik",
+        "čestitam",
+        "čestitku",
+        "želju",
+        "svijeća",
+        "vatromet",
+        "ukras",
+        "slavi",
+        "pokloniti",
+        "ukrasiti",
+        "dočekati",
+        "okupljaju",
+        "svečan"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Danas imamo ___ kod kuće.",
+          "hint": "Сьогодні маємо гостей удома.",
+          "accepted": [
+            [
+              "goste"
+            ]
+          ]
+        },
+        {
+          "text": "Za sestru kupujem ___.",
+          "hint": "Для сестри купую подарунок.",
+          "accepted": [
+            [
+              "poklon"
+            ]
+          ]
+        },
+        {
+          "text": "Božić i Uskrs su ___.",
+          "hint": "Різдво й Великдень це свята.",
+          "accepted": [
+            [
+              "blagdani"
+            ]
+          ]
+        },
+        {
+          "text": "U petak nitko ne radi jer je ___.",
+          "hint": "У п'ятницю ніхто не працює, бо вихідний.",
+          "accepted": [
+            [
+              "praznik"
+            ]
+          ]
+        },
+        {
+          "text": "Sestro, ___ ti na ispitu!",
+          "hint": "Сестро, вітаю тебе з іспитом!",
+          "accepted": [
+            [
+              "čestitam"
+            ]
+          ]
+        },
+        {
+          "text": "Šaljemo bratu ___ za Novu godinu.",
+          "hint": "Надсилаємо брату вітальну листівку на Новий рік.",
+          "accepted": [
+            [
+              "čestitku"
+            ]
+          ]
+        },
+        {
+          "text": "Imam jednu veliku ___.",
+          "hint": "Маю одне велике бажання.",
+          "accepted": [
+            [
+              "želju"
+            ]
+          ]
+        },
+        {
+          "text": "Na polici je mala ___.",
+          "hint": "На полиці маленька свічка.",
+          "accepted": [
+            [
+              "svijeća"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca vole ___.",
+          "hint": "Діти люблять феєрверк.",
+          "accepted": [
+            [
+              "vatromet"
+            ]
+          ]
+        },
+        {
+          "text": "Na stolu je lijep ___.",
+          "hint": "На столі гарна прикраса.",
+          "accepted": [
+            [
+              "ukras"
+            ]
+          ]
+        },
+        {
+          "text": "Moja sestra ___ rođendan kod prijatelja.",
+          "hint": "Моя сестра святкує день народження в друга.",
+          "accepted": [
+            [
+              "slavi"
+            ]
+          ]
+        },
+        {
+          "text": "Ona će ___ prijatelju knjigu.",
+          "hint": "Вона подарує другові книжку.",
+          "accepted": [
+            [
+              "pokloniti"
+            ]
+          ]
+        },
+        {
+          "text": "Prije proslave moramo ___ kuhinju.",
+          "hint": "Перед святкуванням мусимо прикрасити кухню.",
+          "accepted": [
+            [
+              "ukrasiti"
+            ]
+          ]
+        },
+        {
+          "text": "Hoćemo li ___ goste u pet sati?",
+          "hint": "Чи зустрінемо гостей о п'ятій?",
+          "accepted": [
+            [
+              "dočekati"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca i roditelji se ___ u subotu.",
+          "hint": "Діти й батьки збираються в суботу.",
+          "accepted": [
+            [
+              "okupljaju"
+            ]
+          ]
+        },
+        {
+          "text": "Danas je vrlo ___ dan.",
+          "hint": "Сьогодні дуже урочистий день.",
+          "accepted": [
+            [
+              "svečan"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Sretan Nova godina!",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sretna Nova godina!"
+          ]
+        },
+        {
+          "prompt": "Čestitam ti s rođendanom.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čestitam ti na rođendanu."
+          ]
+        },
+        {
+          "prompt": "Hvala za poklon.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hvala na poklonu."
+          ]
+        },
+        {
+          "prompt": "Slavim rođendan.",
+          "cue": "-> минулий час, доконане (ж.)",
+          "accepted": [
+            "Proslavila sam rođendan."
+          ]
+        },
+        {
+          "prompt": "Čestitamo djedu na rođendan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čestitamo djedu na rođendanu."
+          ]
+        },
+        {
+          "prompt": "Sutra idemo u djeda.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sutra idemo kod djeda.",
+            "Sutra idemo k djedu."
+          ]
+        },
+        {
+          "prompt": "Jučer smo bili u goste.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Jučer smo bili u gostima."
+          ]
+        },
+        {
+          "prompt": "Gost je ovdje.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Gosti su ovdje."
+          ]
+        },
+        {
+          "prompt": "Rođendan je dvadeset prvog svibanj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je dvadeset prvog svibnja."
+          ]
+        },
+        {
+          "prompt": "Proslava je dvadeset peti srpnja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Proslava je dvadeset petog srpnja."
+          ],
+          "check": "Родовий складеного порядкового (dvadeset petog) за зразком Lekcija 3, з мого знання; звірити з Hrvatski pravopis."
+        },
+        {
+          "prompt": "Poklanjam bratu knjigu.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću pokloniti bratu knjigu.",
+            "Sutra ću bratu pokloniti knjigu."
+          ]
+        },
+        {
+          "prompt": "Danas ja ću ukrasiti kuću.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas ću ukrasiti kuću."
+          ]
+        },
+        {
+          "prompt": "Uvijek poklonim sestri knjigu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Uvijek poklanjam sestri knjigu."
+          ]
+        },
+        {
+          "prompt": "Gosti dolaze u subotu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Dolaze li gosti u subotu?"
+          ]
+        },
+        {
+          "prompt": "Pomažemo jedan drugoga.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pomažemo jedni drugima.",
+            "Pomažemo jedan drugome."
+          ],
+          "check": "Форми jedni drugima, jedan drugome, jedan drugoga з мого знання; звірити в граматиці (Croaticum)."
+        },
+        {
+          "prompt": "Proslava je sutra.",
+          "cue": "-> Rekla je da ...",
+          "accepted": [
+            "Rekla je da je proslava sutra."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ti ___ rođendan u petak?",
+          "cue": "slaviti",
+          "accepted": [
+            "slaviš"
+          ]
+        },
+        {
+          "text": "Prijatelji se ___ u parku.",
+          "cue": "okupljati se",
+          "accepted": [
+            "okupljaju"
+          ]
+        },
+        {
+          "text": "Mi ___ goste na kolodvoru.",
+          "cue": "dočekivati",
+          "accepted": [
+            "dočekujemo"
+          ]
+        },
+        {
+          "text": "Ja ___ bratu knjigu.",
+          "cue": "poklanjati",
+          "accepted": [
+            "poklanjam"
+          ]
+        },
+        {
+          "text": "Ona ___ sobu.",
+          "cue": "ukrašavati",
+          "accepted": [
+            "ukrašava"
+          ]
+        },
+        {
+          "text": "Oni ___ nam na ispitu.",
+          "cue": "čestitati",
+          "accepted": [
+            "čestitaju"
+          ]
+        },
+        {
+          "text": "Jučer smo ___ rođendan kod bake.",
+          "cue": "proslaviti",
+          "accepted": [
+            "proslavili"
+          ]
+        },
+        {
+          "text": "Ona je ___ goste u pet sati.",
+          "cue": "dočekati",
+          "accepted": [
+            "dočekala"
+          ]
+        },
+        {
+          "text": "Kad ___ bratu knjigu, javim se.",
+          "cue": "pokloniti",
+          "accepted": [
+            "poklonim"
+          ]
+        },
+        {
+          "text": "Baka nam ___ sve najbolje.",
+          "cue": "željeti",
+          "accepted": [
+            "želi"
+          ]
+        },
+        {
+          "text": "Ona je ___ kuću prije Božića.",
+          "cue": "ukrasiti",
+          "accepted": [
+            "ukrasila"
+          ]
+        },
+        {
+          "text": "Vi ___ jedni drugima u školi.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomažete"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 39 і п'ять слів з банки помилок (хибні друзі з Lekcija 1, 4, 32, 34).",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Різдво",
+          "answer": "Božić"
+        },
+        {
+          "prompt": "Великдень",
+          "answer": "Uskrs"
+        },
+        {
+          "prompt": "святвечір, переддень Різдва",
+          "answer": "Badnjak"
+        },
+        {
+          "prompt": "звичай",
+          "answer": "običaj"
+        },
+        {
+          "prompt": "гість",
+          "answer": "gost"
+        },
+        {
+          "prompt": "подарунок",
+          "answer": "poklon"
+        },
+        {
+          "prompt": "вітальна листівка",
+          "answer": "čestitka"
+        },
+        {
+          "prompt": "свічка",
+          "answer": "svijeća"
+        },
+        {
+          "prompt": "феєрверк",
+          "answer": "vatromet"
+        },
+        {
+          "prompt": "весілля, церемонія одруження",
+          "answer": "vjenčanje"
+        },
+        {
+          "prompt": "святкувати",
+          "answer": "slaviti"
+        },
+        {
+          "prompt": "зустріти (гостей, Новий рік)",
+          "answer": "dočekati"
+        },
+        {
+          "prompt": "урочистий",
+          "answer": "svečan"
+        },
+        {
+          "prompt": "рік (не година)",
+          "answer": "godina"
+        },
+        {
+          "prompt": "шлюб (не брак)",
+          "answer": "brak"
+        },
+        {
+          "prompt": "гордість",
+          "answer": "ponos"
+        },
+        {
+          "prompt": "термін, дедлайн",
+          "answer": "rok"
+        },
+        {
+          "prompt": "стілець (не столиця)",
+          "answer": "stolica"
+        }
+      ],
+      "extra": [
+        "praznik",
+        "tradicija"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

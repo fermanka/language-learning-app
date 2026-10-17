@@ -1,0 +1,1738 @@
+{
+  "id": "hr-les-37",
+  "lang": "hr",
+  "order": 37,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "boli",
+    "bole",
+    "me",
+    "moje",
+    "ima",
+    "imam",
+    "imala",
+    "imao",
+    "imaju",
+    "imaš",
+    "tešku",
+    "nije",
+    "velik",
+    "velika",
+    "velike",
+    "blizu",
+    "kolodvora",
+    "će",
+    "sutra",
+    "sam",
+    "se",
+    "na",
+    "treningu",
+    "subotu",
+    "naša",
+    "igra",
+    "igraju",
+    "igrali",
+    "dobro",
+    "danas",
+    "li",
+    "te",
+    "ga",
+    "male",
+    "dva",
+    "četiri",
+    "dvije",
+    "koliko",
+    "nema",
+    "sin",
+    "sina",
+    "osjećam",
+    "bolestan",
+    "sada",
+    "ide",
+    "idem",
+    "idemo",
+    "kod",
+    "liječnika",
+    "zovite",
+    "zovemo",
+    "moja",
+    "moj",
+    "moju",
+    "jučer",
+    "često",
+    "dok",
+    "čekam",
+    "kad",
+    "izlet",
+    "poslije",
+    "ću",
+    "mi",
+    "rijetko",
+    "djeca",
+    "djecu",
+    "nogomet",
+    "njegova",
+    "važnu",
+    "važan",
+    "odmah",
+    "smo",
+    "išli",
+    "rekao",
+    "mora",
+    "tjedan",
+    "dana",
+    "za",
+    "opet",
+    "biti",
+    "sestru",
+    "kći",
+    "muž",
+    "od",
+    "jutros",
+    "liječnik",
+    "je",
+    "počinje",
+    "petak",
+    "navečer",
+    "nedjelju",
+    "moram",
+    "trebam",
+    "kaže",
+    "da",
+    "ste",
+    "crvene",
+    "plave",
+    "brat",
+    "brata",
+    "stol",
+    "ostao",
+    "kuće",
+    "jer",
+    "ostaje",
+    "krevetu",
+    "zimi",
+    "radi",
+    "majka",
+    "su",
+    "topao",
+    "gradu",
+    "smijemo",
+    "oca",
+    "važno",
+    "važna",
+    "bila",
+    "ja",
+    "ići",
+    "školu",
+    "oni",
+    "kako",
+    "uvijek",
+    "ti",
+    "ne",
+    "dosta",
+    "ljekarni",
+    "bolesno",
+    "hitnu",
+    "pomoć"
+  ],
+  "notes": [
+    {
+      "id": "hr-20d3c051",
+      "type": "noun",
+      "lemma": "ruka",
+      "gender": "ž.",
+      "gen_sg": "ruke",
+      "plural": [
+        "ruke"
+      ],
+      "ua": "рука",
+      "audio": "hr-ruka.mp3",
+      "forms": [
+        "ruku"
+      ],
+      "explain_ua": "(Boli me ruka = болить рука). Жіночий рід на -a: ruka, ruke, ruku (знахідний). Родовий множини без закінчення: pet ruku, nema ruku (a випадає). Українське рука збігається, а родовий множини «рук» теж без закінчення, тож тут допомагає українська.",
+      "check": "Форми ruke, ruku з мого знання за зразком škola; родовий множини ruku перевірити в словнику."
+    },
+    {
+      "id": "hr-bd075efc",
+      "type": "noun",
+      "lemma": "noga",
+      "gender": "ž.",
+      "gen_sg": "noge",
+      "plural": [
+        "noge"
+      ],
+      "ua": "нога",
+      "audio": "hr-noga.mp3",
+      "forms": [
+        "nogu"
+      ],
+      "explain_ua": "(Bole me noge = болять ноги). Жіночий рід на -a: noga, noge, nogu. Родовий множини nogu, без закінчення, як ruku: koliko nogu. Українське нога, родовий множини «ніг»: той самий принцип. Болять кілька ніг: дієслово теж у множині, bole me noge.",
+      "check": "Форми noge, nogu з мого знання; родовий множини nogu (а не noga) перевірити в словнику."
+    },
+    {
+      "id": "hr-dd924cd0",
+      "type": "noun",
+      "lemma": "leđa",
+      "gender": "s.",
+      "gen_sg": "leđa",
+      "plural": [
+        "leđa"
+      ],
+      "ua": "спина (тільки множина)",
+      "audio": "hr-ledja.mp3",
+      "explain_ua": "(Bole me leđa = болить спина). Лише множина, середній рід: leđa, родовий теж leđa. Дієслово теж у множині: bole me leđa, не «boli me leđa». Пастка саме для української: спина в нас однина. Bole це 3 особа множини від boljeti (Lekcija 23).",
+      "check": "Leđa як середній рід лише множини і форму bole (3 ос. мн.) з мого знання; перевірити в словнику й підручнику."
+    },
+    {
+      "id": "hr-d73f54e5",
+      "type": "noun",
+      "lemma": "oko",
+      "gender": "s.",
+      "gen_sg": "oka",
+      "plural": [
+        "oči"
+      ],
+      "ua": "око, очі",
+      "audio": "hr-oko.mp3",
+      "forms": [
+        "oka",
+        "očiju"
+      ],
+      "explain_ua": "(Moje dijete ima plave oči = у моєї дитини сині очі). Однина oko, oka, середній рід. Множина особлива: oči, жіночий рід (velike oči), родовий множини očiju. Після dva, tri, četiri: dva oka. Українське око, очі: корінь знайомий, а закінчення нові. Вчи цілою парою.",
+      "check": "Множину oči (ж. р.), родовий očiju і dva oka з мого знання; перевірити в словнику."
+    },
+    {
+      "id": "hr-2fdf1cbe",
+      "type": "noun",
+      "lemma": "uho",
+      "gender": "s.",
+      "gen_sg": "uha",
+      "plural": [
+        "uši"
+      ],
+      "ua": "вухо, вуха",
+      "audio": "hr-uho.mp3",
+      "forms": [
+        "uha",
+        "ušiju"
+      ],
+      "explain_ua": "(Boli me uho = болить вухо). Однина uho, uha, середній рід. Множина особлива: uši, жіночий рід (male uši), родовий множини ušiju: bole me uši. Після dva: dva uha. Українське вухо, вуха: корінь той самий, множина інша.",
+      "check": "Множину uši (ж. р.), родовий ušiju і dva uha з мого знання; перевірити в словнику."
+    },
+    {
+      "id": "hr-5b94dd01",
+      "type": "noun",
+      "lemma": "nos",
+      "gender": "m.",
+      "gen_sg": "nosa",
+      "plural": [
+        "nosovi"
+      ],
+      "ua": "ніс",
+      "audio": "hr-nos.mp3",
+      "explain_ua": "(Pas ima hladan nos = у собаки холодний ніс). Чоловічий рід, неживе: nos, nosa, nosovi. Односкладове слово бере -ov- у множині, як rok > rokovi (Lekcija 34). Українське ніс збігається.",
+      "check": "Форми nosa, nosovi з мого знання за правилом односкладових слів."
+    },
+    {
+      "id": "hr-03ee2d4f",
+      "type": "noun",
+      "lemma": "srce",
+      "gender": "s.",
+      "gen_sg": "srca",
+      "plural": [
+        "srca"
+      ],
+      "ua": "серце",
+      "audio": "hr-srce.mp3",
+      "explain_ua": "(Djed ima bolesno srce = у дідуся хворе серце). Середній рід на -e: srce, srca (як sunce, Lekcija 25). Bolesno це середній рід від bolestan (Lekcija 21), бо srce середнього роду. Українське серце: корінь той самий, хорватське коротше.",
+      "check": "Форми srca з мого знання; чи природне словосполучення bolesno srce, перевірити в словнику."
+    },
+    {
+      "id": "hr-08b1dd09",
+      "type": "noun",
+      "lemma": "koža",
+      "gender": "ž.",
+      "gen_sg": "kože",
+      "plural": [
+        "kože"
+      ],
+      "ua": "шкіра",
+      "audio": "hr-koza.mp3",
+      "forms": [
+        "kožu"
+      ],
+      "explain_ua": "(Koža je hladna = шкіра холодна). Жіночий рід на -a: koža, kože, kožu. Підказка для пам'яті, не етимологія: російське кожа схоже на koža. Українське шкіра: слово інше.",
+      "check": "Форми з мого знання за зразком škola; схожість із російським кожа подаю лише як підказку."
+    },
+    {
+      "id": "hr-0bd566b0",
+      "type": "noun",
+      "lemma": "vrat",
+      "gender": "m.",
+      "gen_sg": "vrata",
+      "plural": [
+        "vratovi"
+      ],
+      "ua": "шия",
+      "audio": "hr-vrat.mp3",
+      "explain_ua": "(Boli me vrat = болить шия). Чоловічий рід: vrat, vrata, vratovi. УВАГА: родовий однини vrata пишеться так само, як vrata «двері» (Lekcija 24, лише множина). Boli me vrat (шия), але Vrata su pored prozora (двері). Це пастка написання, не хибний друг: тримай два слова окремо.",
+      "check": "Форми vrata, vratovi з мого знання; повний збіг родового vrata з vrata «двері» перевірити в словнику."
+    },
+    {
+      "id": "hr-b08b9d14",
+      "type": "false_friend",
+      "lemma": "obraz",
+      "gender": "m.",
+      "gen_sg": "obraza",
+      "plural": [
+        "obrazi"
+      ],
+      "ua": "щока",
+      "uk_lookalike": "образ (рос.)",
+      "uk_means": "образ, зображення (рос. образ)",
+      "audio": "hr-obraz.mp3",
+      "explain_ua": "(Dijete ima crven obraz = у дитини червона щока). Хорватське obraz це щока, а російське образ це зображення, образ. Чоловічого роду: obraz, obraza, obrazi. Для української сторони цієї пари в моєму перевіреному списку немає, тому подаю тільки російську.",
+      "check": "Пару obraz / образ перевірено в російсько-хорватській таблиці; української сторони в моєму списку нема. Форми obraza, obrazi з мого знання."
+    },
+    {
+      "id": "hr-64dd9ed3",
+      "type": "noun",
+      "lemma": "bolest",
+      "gender": "ž.",
+      "gen_sg": "bolesti",
+      "plural": [
+        "bolesti"
+      ],
+      "ua": "хвороба",
+      "audio": "hr-bolest.mp3",
+      "explain_ua": "(Baka je imala tešku bolest = бабуся мала важку хворобу). Жіночий рід без -a, як ljubav (Lekcija 32): bolest, bolesti. Родовий однини й називний множини однакові: bolesti. Від неї прикметник bolestan (Lekcija 21) з нестійким a. Українське хвороба: слово інше.",
+      "check": "Форми bolesti з мого знання за зразком ljubav (Lekcija 32)."
+    },
+    {
+      "id": "hr-469be8be",
+      "type": "noun",
+      "lemma": "zdravlje",
+      "gender": "s.",
+      "gen_sg": "zdravlja",
+      "plural": [
+        "zdravlja"
+      ],
+      "ua": "здоров'я",
+      "audio": "hr-zdravlje.mp3",
+      "explain_ua": "(Zdravlje je najvažnije = здоров'я найважливіше). Середній рід на -e: zdravlje, zdravlja (як stanje, Lekcija 34). Майже завжди однина. Корінь той самий, що в zdrav (нижче) і в українському здоров'я. Najvažnije це найвищий ступінь від važan (Lekcija 31), середній рід, бо zdravlje середнього роду.",
+      "check": "Форму zdravlja з мого знання; чи вживається множина, перевірити в словнику."
+    },
+    {
+      "id": "hr-8a055510",
+      "type": "noun",
+      "lemma": "prehlada",
+      "gender": "ž.",
+      "gen_sg": "prehlade",
+      "plural": [
+        "prehlade"
+      ],
+      "ua": "застуда",
+      "audio": "hr-prehlada.mp3",
+      "forms": [
+        "prehladu"
+      ],
+      "explain_ua": "(Imam prehladu = у мене застуда). Жіночий рід на -a: prehlada, prehlade, prehladu (знахідний). Imati + знахідний: imam prehladu, не «imam prehlada». Українське «у мене застуда» будується інакше. Підказка для пам'яті, не етимологія: схоже на hladan (Lekcija 11). Слово для дорослих і дітей: Dijete ima prehladu.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-1b089142",
+      "type": "noun",
+      "lemma": "temperatura",
+      "gender": "ž.",
+      "gen_sg": "temperature",
+      "plural": [
+        "temperature"
+      ],
+      "ua": "температура",
+      "audio": "hr-temperatura.mp3",
+      "forms": [
+        "temperaturu"
+      ],
+      "explain_ua": "(Dijete ima temperaturu = у дитини температура). Жіночий рід на -a: temperatura, temperature, temperaturu. Українське температура збігається. Imati + знахідний, як imati prehladu. Про погоду ми казали stupnjevi (Lekcija 33).",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-95242193",
+      "type": "noun",
+      "lemma": "kašalj",
+      "gender": "m.",
+      "gen_sg": "kašlja",
+      "plural": [
+        "kašljevi"
+      ],
+      "ua": "кашель",
+      "audio": "hr-kasalj.mp3",
+      "explain_ua": "(Sin ima kašalj = у сина кашель). Нестійке a: kašalj, kašlja (як novac > novca, Lekcija 34). Знахідний як називний, бо неживе. Множина kašljevi вживається рідко, її не вчимо. Українське кашель: корінь той самий, хорватське закінчується на -alj.",
+      "check": "Форми kašlja, kašljevi з мого знання; множину перевірити в словнику, вона рідкісна."
+    },
+    {
+      "id": "hr-d9c598d3",
+      "type": "noun",
+      "lemma": "glavobolja",
+      "gender": "ž.",
+      "gen_sg": "glavobolje",
+      "plural": [
+        "glavobolje"
+      ],
+      "ua": "головний біль",
+      "audio": "hr-glavobolja.mp3",
+      "forms": [
+        "glavobolju"
+      ],
+      "explain_ua": "(Imam glavobolju od jutros = у мене болить голова з ранку). Жіночий рід на -a: glavobolja, glavobolje, glavobolju. Два способи сказати: Boli me glava (Lekcija 23, glava підмет) і Imam glavobolju (imati + знахідний). Підказка для пам'яті, не етимологія: glava і boljeti. Od jutros = з ранку.",
+      "check": "Форми з мого знання; вираз od jutros (а не od jutra) перевірити в словнику."
+    },
+    {
+      "id": "hr-ff3442eb",
+      "type": "noun",
+      "lemma": "ozljeda",
+      "gender": "ž.",
+      "gen_sg": "ozljede",
+      "plural": [
+        "ozljede"
+      ],
+      "ua": "травма, поранення",
+      "audio": "hr-ozljeda.mp3",
+      "explain_ua": "(Ozljeda nije velika = травма не велика). Жіночий рід на -a: ozljeda, ozljede. Тут ije > je: ozlijediti se (нижче), але ozljeda. Слово для дорослих і дітей. Українське травма: слово інше.",
+      "check": "Форми за зразком škola з мого знання; зв'язок з ozlijediti подаю як сім'ю слів, не як етимологію."
+    },
+    {
+      "id": "hr-e879db13",
+      "type": "noun",
+      "lemma": "bolnica",
+      "gender": "ž.",
+      "gen_sg": "bolnice",
+      "plural": [
+        "bolnice"
+      ],
+      "ua": "лікарня",
+      "audio": "hr-bolnica.mp3",
+      "forms": [
+        "bolnicu",
+        "bolnici"
+      ],
+      "explain_ua": "(Bolnica je blizu kolodvora = лікарня біля вокзалу). Жіночий рід на -a: bolnica, bolnice, bolnicu (куди), u bolnici (де). Не плутай: bolnica це лікарня, ljekarna (Lekcija 23) це аптека. Підказка для пам'яті, не етимологія: bol- як у boljeti. Для дорослих і дітей одне слово.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-5d39be65",
+      "type": "noun",
+      "lemma": "hitna pomoć",
+      "gender": "ž.",
+      "gen_sg": "hitne pomoći",
+      "plural": [
+        "hitne pomoći"
+      ],
+      "ua": "швидка допомога",
+      "audio": "hr-hitna-pomoc.mp3",
+      "forms": [
+        "hitnu pomoć",
+        "hitne pomoći"
+      ],
+      "explain_ua": "(Zovem hitnu pomoć = викликаю швидку допомогу). Жіночий рід: hitna pomoć, hitne pomoći, hitnu pomoć (знахідний). Pomoć без -a, як ljubav (Lekcija 32): родовий pomoći. Українське «швидка допомога»: слова інші. Номер телефону тут не вчимо: бери його з офіційного джерела. Це не медична порада, лише слова.",
+      "check": "Форми з мого знання за зразком ljubav; множину не вживаю."
+    },
+    {
+      "id": "hr-44f0a6e1",
+      "type": "adjective",
+      "lemma": "zdrav",
+      "fem": "zdrava",
+      "neut": "zdravo",
+      "ua": "здоровий",
+      "audio": "hr-zdrav.mp3",
+      "forms": [
+        "zdrava",
+        "zdravo",
+        "zdravi"
+      ],
+      "explain_ua": "(Opet sam zdrava = я знову здорова). zdrav, zdrava, zdravo; множина zdravi (чол.), zdrava (середній: djeca su zdrava). Протилежність bolestan (Lekcija 21). Українське здоровий: корінь той самий. Слово zdravo як привітання за моїми даними більше сербське, тому його не вживай і не вчи.",
+      "check": "Форми з мого знання; що zdravo як привітання більш сербське, не перевіряв, перевірити."
+    },
+    {
+      "id": "hr-0b5ece3b",
+      "type": "verb",
+      "lemma": "ozlijediti",
+      "aspect": "pf.",
+      "partner": "ozljeđivati",
+      "pres_1sg": "ozlijedim",
+      "forms": [
+        "ozlijediš",
+        "ozlijedi",
+        "ozlijedimo",
+        "ozlijedite",
+        "ozlijede",
+        "ozlijedio",
+        "ozlijedila",
+        "ozlijedili",
+        "ozljeđivati",
+        "ozljeđujem",
+        "ozljeđuješ",
+        "ozljeđuje",
+        "ozljeđujemo",
+        "ozljeđuju"
+      ],
+      "ua": "(ozlijediti se) травмуватися (недок. ozljeđivati se)",
+      "audio": "hr-ozlijediti.mp3",
+      "explain_ua": "(Ozlijedila sam se na treningu = я травмувалася на тренуванні). Пара: ozlijediti se (док.) / ozljeđivati se (недок.). Перед -ivati: ije > je і d > đ, як posuđivati (Lekcija 34). Клітик se іде після sam: ozlijedila sam se. Без se це «поранити когось», це значення тут не вчимо.",
+      "check": "Пару ozlijediti / ozljeđivati, написання ozljeđujem і наголос на se з мого знання; перевірити в словнику."
+    },
+    {
+      "id": "hr-1428af83",
+      "type": "verb",
+      "lemma": "liječiti",
+      "aspect": "impf.",
+      "partner": "izliječiti",
+      "pres_1sg": "liječim",
+      "forms": [
+        "liječiš",
+        "liječi",
+        "liječimo",
+        "liječite",
+        "liječe",
+        "izliječiti",
+        "izliječim",
+        "liječio",
+        "liječila"
+      ],
+      "ua": "лікувати (док. izliječiti)",
+      "audio": "hr-lijeciti.mp3",
+      "explain_ua": "(Liječnik liječi bolesnu djecu = лікар лікує хворих дітей). Пара: liječiti (недок.) / izliječiti (док., вилікувати). Дієвідміна -im: liječim, liječiš, liječi. Сім'я слів: lijek, liječnik, liječiti, і в усіх ije (але ljekarna, Lekcija 23). Підказка для пам'яті, не етимологія: українське лікувати.",
+      "check": "Пару та форми з мого знання; що izliječiti справжній док. партнер, перевірити в словнику."
+    },
+    {
+      "id": "hr-d5153125",
+      "type": "verb",
+      "lemma": "pregledati",
+      "aspect": "pf.",
+      "partner": "pregledavati",
+      "pres_1sg": "pregledam",
+      "forms": [
+        "pregledaš",
+        "pregleda",
+        "pregledamo",
+        "pregledate",
+        "pregledaju",
+        "pregledao",
+        "pregledala",
+        "pregledali",
+        "pregledavati",
+        "pregledavam",
+        "pregledavaš",
+        "pregledava",
+        "pregledavaju"
+      ],
+      "ua": "оглянути (про лікаря) (недок. pregledavati)",
+      "audio": "hr-pregledati.mp3",
+      "explain_ua": "(Liječnik će me pregledati sutra = лікар огляне мене завтра). Пара: pregledati (док.) / pregledavati (недок.): pregledam, але pregledavam. Доконане для одного огляду, недоконане для процесу чи звички: liječnik pregledava dijete. Тут тільки огляд лікаря. Обидва клітики разом: će me.",
+      "check": "Пару та форми pregledam, pregledavam з мого знання; перевірити в словнику."
+    },
+    {
+      "id": "hr-2144de63",
+      "type": "verb",
+      "lemma": "ozdraviti",
+      "aspect": "pf.",
+      "partner": "ozdravljati",
+      "pres_1sg": "ozdravim",
+      "forms": [
+        "ozdraviš",
+        "ozdravi",
+        "ozdravimo",
+        "ozdravite",
+        "ozdrave",
+        "ozdravio",
+        "ozdravila",
+        "ozdravljati",
+        "ozdravljam"
+      ],
+      "ua": "одужати (недок. ozdravljati, рідко)",
+      "audio": "hr-ozdraviti.mp3",
+      "explain_ua": "(Uskoro ćeš ozdraviti = незабаром ти одужаєш). Від zdrav (вище). Пара: ozdraviti (док.) / ozdravljati (недок.), але недоконане вживається рідко, тому вчимо доконане. Після kad про майбутнє стоїть доконане теперішнє, як у Lekcija 35: kad ozdraviš, idemo na izlet.",
+      "check": "Пару та рідкість ozdravljati з мого знання; форму ozdravljam перевірити в словнику."
+    },
+    {
+      "id": "hr-931dcf48",
+      "type": "verb",
+      "lemma": "odmoriti",
+      "aspect": "pf.",
+      "partner": "odmarati",
+      "pres_1sg": "odmorim",
+      "forms": [
+        "odmoriš",
+        "odmori",
+        "odmorimo",
+        "odmorite",
+        "odmore",
+        "odmorio",
+        "odmorila",
+        "odmarati",
+        "odmaram",
+        "odmaraš",
+        "odmara",
+        "odmaramo",
+        "odmarate",
+        "odmaraju"
+      ],
+      "ua": "(odmoriti se) відпочити (недок. odmarati se)",
+      "audio": "hr-odmoriti.mp3",
+      "explain_ua": "(Poslije treninga se odmaramo = після тренування ми відпочиваємо). Пара: odmoriti se (док., відпочити) / odmarati se (недок., відпочивати). Сім'я слова odmor (Lekcija 26). Клітик se іде за першою групою: Poslije treninga se odmaramo, Moram se odmoriti.",
+      "check": "Пару та форми з мого знання; зв'язок з odmor подаю як сім'ю слів, не як етимологію."
+    },
+    {
+      "id": "hr-7f9e73fa",
+      "type": "noun",
+      "lemma": "utakmica",
+      "gender": "ž.",
+      "gen_sg": "utakmice",
+      "plural": [
+        "utakmice"
+      ],
+      "ua": "матч, гра (змагання)",
+      "audio": "hr-utakmica.mp3",
+      "forms": [
+        "utakmicu",
+        "utakmici"
+      ],
+      "explain_ua": "(Utakmica počinje u osam sati = матч починається о восьмій). Жіночий рід на -a: utakmica, utakmice, utakmicu. Нейтральне слово для матчу, гри. Поруч ти вчиш meč (нижче), яке вживають у цьому ж значенні.",
+      "check": "Форми за зразком škola з мого знання; чи meč і utakmica взаємозамінні, перевірити в словнику."
+    },
+    {
+      "id": "hr-70d31a36",
+      "type": "false_friend",
+      "lemma": "meč",
+      "gender": "m.",
+      "gen_sg": "meča",
+      "plural": [
+        "mečevi"
+      ],
+      "ua": "матч, гра (спортивна)",
+      "uk_lookalike": "меч",
+      "uk_means": "меч (зброя)",
+      "audio": "hr-mec.mp3",
+      "explain_ua": "(Meč je u subotu = матч у суботу). Хорватське meč це матч, а українське меч це зброя. Перевірена хибна пара зі списку українська-хорватська. Чоловічого роду: meč, meča, mečevi. Поруч ти вчиш нейтральне utakmica.",
+      "check": "Пару meč / меч перевірено в таблиці українська-хорватська. Форми meča, mečevi з мого знання."
+    },
+    {
+      "id": "hr-97fa9f5a",
+      "type": "noun",
+      "lemma": "momčad",
+      "gender": "ž.",
+      "gen_sg": "momčadi",
+      "plural": [
+        "momčadi"
+      ],
+      "ua": "команда (спортивна)",
+      "audio": "hr-momcad.mp3",
+      "explain_ua": "(Naša momčad igra dobro = наша команда грає добре). Жіночий рід на приголосний, як ljubav (Lekcija 32): momčad, momčadi. Тому дієприкметник жіночий: momčad je pobijedila, не «pobijedio». Українське команда: слово інше.",
+      "check": "Форми momčadi з мого знання за зразком ljubav; чи у спортивному значенні вживають і ekipa, не перевіряв, у цій лекції не вчу."
+    },
+    {
+      "id": "hr-f5b84426",
+      "type": "verb",
+      "lemma": "pobijediti",
+      "aspect": "pf.",
+      "partner": "pobjeđivati",
+      "pres_1sg": "pobijedim",
+      "forms": [
+        "pobijediš",
+        "pobijedi",
+        "pobijedimo",
+        "pobijedite",
+        "pobijede",
+        "pobijedio",
+        "pobijedila",
+        "pobijedili",
+        "pobjeđivati",
+        "pobjeđujem",
+        "pobjeđuješ",
+        "pobjeđuje",
+        "pobjeđujemo",
+        "pobjeđuju"
+      ],
+      "ua": "перемогти (недок. pobjeđivati)",
+      "audio": "hr-pobijediti.mp3",
+      "explain_ua": "(Sutra ćemo pobijediti = завтра ми переможемо). Пара: pobijediti (док., один результат) / pobjeđivati (недок., часто, як звичка). Перед -ivati: ije > je і d > đ, як posuđivati (Lekcija 34). Naša momčad često pobjeđuje, але jučer je pobijedila.",
+      "check": "Пару та форми pobjeđujem, pobijedio з мого знання; перевірити в словнику."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Boli me noga, bole me noge: дієслово слухається того, що болить",
+      "summary_ua": "Те, що болить, стоїть у називному і керує дієсловом: boli me noga (однина), bole me noge (множина). Той, у кого болить, це клітик me, te, ga. Будова та сама, що в Lekcija 23 (Boli me glava). Нове: множина bole і слово leđa, яке завжди у множині.",
+      "compare": [
+        {
+          "form": "boli + однина, bole + множина",
+          "when_ua": "Болить одне чи кілька.",
+          "examples": [
+            {
+              "text": "Boli me noga.",
+              "ua": "Болить нога.",
+              "audio": "hr-les37-rule-01.mp3"
+            },
+            {
+              "text": "Bole me ruke.",
+              "ua": "Болять руки.",
+              "audio": "hr-les37-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Українське «болить нога, болять ноги» будується так само: тут допомагає українська. Різниця лише в «мене»: хорватською клітик me."
+        },
+        {
+          "form": "leđa: лише множина",
+          "when_ua": "Спина.",
+          "examples": [
+            {
+              "text": "Bole me leđa.",
+              "ua": "Болить спина.",
+              "audio": "hr-les37-rule-03.mp3"
+            },
+            {
+              "text": "Danas me bole leđa.",
+              "ua": "Сьогодні в мене болить спина.",
+              "audio": "hr-les37-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Українська спина це однина, тому легко сказати «boli me leđa». Правильно bole me leđa."
+        },
+        {
+          "form": "інші клітики: me, te, ga",
+          "when_ua": "Болить у тебе чи в нього.",
+          "examples": [
+            {
+              "text": "Boli li te vrat?",
+              "ua": "У тебе болить шия?",
+              "audio": "hr-les37-rule-05.mp3"
+            },
+            {
+              "text": "Boli ga ruka.",
+              "ua": "У нього болить рука.",
+              "audio": "hr-les37-rule-06.mp3"
+            },
+            {
+              "text": "Danas ga bole leđa.",
+              "ua": "Сьогодні в нього болить спина.",
+              "audio": "hr-les37-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Клітики стоять на другому місці: Boli li te vrat? (li, потім te), Danas ga bole leđa."
+        }
+      ],
+      "points_ua": [
+        "Boli me noga, bole me noge.",
+        "Leđa лише множина: bole me leđa.",
+        "Той, у кого болить: me, te, ga."
+      ]
+    },
+    {
+      "title_ua": "Oči, uši, ruke, noge: пари й множина",
+      "summary_ua": "Oko і uho мають особливу множину: oči, uši (жіночий рід), родовий множини očiju, ušiju. Після dva стоїть dva oka, dva uha, а dvije ruke, dvije noge. Родовий множини ruka і noga без закінчення: ruku, nogu. Українська дає корені, закінчення вчи окремо.",
+      "compare": [
+        {
+          "form": "oko > oči, uho > uši",
+          "when_ua": "Кілька очей чи вух.",
+          "examples": [
+            {
+              "text": "Dijete ima velike oči.",
+              "ua": "У дитини великі очі.",
+              "audio": "hr-les37-rule-08.mp3"
+            },
+            {
+              "text": "Pas ima male uši.",
+              "ua": "У собаки маленькі вуха.",
+              "audio": "hr-les37-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Oko, uho середнього роду, але oči, uši жіночого: velike oči, male uši."
+        },
+        {
+          "form": "dva oka, dva uha; dvije ruke, dvije noge",
+          "when_ua": "Після dva, tri, četiri.",
+          "examples": [
+            {
+              "text": "Imam dva oka i dva uha.",
+              "ua": "Маю два ока і два вуха.",
+              "audio": "hr-les37-rule-10.mp3"
+            },
+            {
+              "text": "Pas ima četiri noge.",
+              "ua": "У собаки чотири ноги.",
+              "audio": "hr-les37-rule-11.mp3"
+            },
+            {
+              "text": "Imam dvije ruke i dvije noge.",
+              "ua": "Маю дві руки й дві ноги.",
+              "audio": "hr-les37-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Це правило з Lekcija 7 і 15: після dva, tri, četiri стоїть форма на -a (oka) або -e (ruke)."
+        },
+        {
+          "form": "родовий множини: nogu, ruku, očiju, ušiju",
+          "when_ua": "Після koliko, nema, pet.",
+          "examples": [
+            {
+              "text": "Koliko nogu ima pas?",
+              "ua": "Скільки ніг у собаки?",
+              "audio": "hr-les37-rule-13.mp3"
+            },
+            {
+              "text": "Koliko ušiju ima pas?",
+              "ua": "Скільки вух у собаки?",
+              "audio": "hr-les37-rule-14.mp3"
+            },
+            {
+              "text": "Pas nema ruku.",
+              "ua": "У собаки немає рук.",
+              "audio": "hr-les37-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Ruku і nogu без закінчення: a випадає. Українське «рук, ніг» теж без закінчення. Očiju і ušiju закінчуються на -iju, це вчи окремо."
+        }
+      ],
+      "points_ua": [
+        "oko > oči, uho > uši (жіночий рід).",
+        "dva oka, dva uha; dvije ruke, dvije noge.",
+        "Родовий множини: ruku, nogu, očiju, ušiju."
+      ]
+    },
+    {
+      "title_ua": "Kako reći da nisam dobro: imam, osjećam se, bolestan sam, boli me",
+      "summary_ua": "Чотири каркаси для «мені недобре». Imam + знахідний для ознаки (imam prehladu). Osjećam se + прислівник для стану. Biti + bolestan або zdrav для хвороби. Boli me + називний для болю. До лікаря: kod + родовий (Lekcija 27).",
+      "compare": [
+        {
+          "form": "imati + знахідний",
+          "when_ua": "Ознака: застуда, кашель, температура, головний біль.",
+          "examples": [
+            {
+              "text": "Imam prehladu.",
+              "ua": "У мене застуда.",
+              "audio": "hr-les37-rule-16.mp3"
+            },
+            {
+              "text": "Sin ima kašalj i temperaturu.",
+              "ua": "У сина кашель і температура.",
+              "audio": "hr-les37-rule-17.mp3"
+            },
+            {
+              "text": "Imam glavobolju.",
+              "ua": "У мене болить голова.",
+              "audio": "hr-les37-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Imam prehladu, не «imam prehlada»: після imati знахідний -u. Українське «у мене застуда» будується інакше, тож це нова конструкція. Для дорослих і дітей та сама."
+        },
+        {
+          "form": "osjećati se + прислівник; biti + bolestan, zdrav",
+          "when_ua": "Стан і хвороба.",
+          "examples": [
+            {
+              "text": "Ne osjećam se dobro.",
+              "ua": "Я почуваюся недобре.",
+              "audio": "hr-les37-rule-19.mp3"
+            },
+            {
+              "text": "Sin je bolestan.",
+              "ua": "Син хворий.",
+              "audio": "hr-les37-rule-20.mp3"
+            },
+            {
+              "text": "Sada sam zdrava.",
+              "ua": "Тепер я здорова.",
+              "audio": "hr-les37-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Bolestan, zdrav змінюються за родом (Lekcija 21): bolestan sin, bolesna sestra, bolesno dijete. Osjećati se з Lekcija 32."
+        },
+        {
+          "form": "kod + родовий; hitna pomoć",
+          "when_ua": "До кого йти, кого кликати.",
+          "examples": [
+            {
+              "text": "Dijete ide kod liječnika.",
+              "ua": "Дитина йде до лікаря.",
+              "audio": "hr-les37-rule-22.mp3"
+            },
+            {
+              "text": "Zovite hitnu pomoć.",
+              "ua": "Викличте швидку допомогу.",
+              "audio": "hr-les37-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Kod liječnika це kod + родовий (Lekcija 27). Номер телефону швидкої тут не вчимо: бери його з офіційного джерела."
+        }
+      ],
+      "points_ua": [
+        "Imam prehladu: imati + знахідний.",
+        "Osjećam se dobro; sam bolestan / zdrav.",
+        "Kod liječnika; zovem hitnu pomoć."
+      ]
+    },
+    {
+      "title_ua": "Вид у здоров'ї й спорті: pregledati - pregledavati, pobijediti - pobjeđivati",
+      "summary_ua": "Та сама система, що в Lekcija 34 і 35. Доконане для результату: pobijedila je, ozlijedio se. Недоконане для звички й процесу: često pobjeđuje, dok pregledava. Після kad про майбутнє доконане: kad ozdraviš. Пари вчи цілими.",
+      "compare": [
+        {
+          "form": "доконане: один результат",
+          "when_ua": "Подія з наслідком.",
+          "examples": [
+            {
+              "text": "Moja momčad je jučer pobijedila.",
+              "ua": "Моя команда вчора перемогла.",
+              "audio": "hr-les37-rule-24.mp3"
+            },
+            {
+              "text": "Moj sin se jučer ozlijedio.",
+              "ua": "Мій син вчора травмувався.",
+              "audio": "hr-les37-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Momčad жіночого роду, тому pobijedila. Se іде одразу за першою групою: Moj sin se."
+        },
+        {
+          "form": "недоконане: звичка, процес",
+          "when_ua": "Часто, регулярно, поки триває.",
+          "examples": [
+            {
+              "text": "Naša momčad često pobjeđuje.",
+              "ua": "Наша команда часто перемагає.",
+              "audio": "hr-les37-rule-26.mp3"
+            },
+            {
+              "text": "Dok liječnik pregledava dijete, čekam.",
+              "ua": "Поки лікар оглядає дитину, я чекаю.",
+              "audio": "hr-les37-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Dok + недоконане, як у Lekcija 35."
+        },
+        {
+          "form": "kad + доконане; ću + доконане",
+          "when_ua": "Майбутнє з результатом.",
+          "examples": [
+            {
+              "text": "Kad ozdraviš, idemo na izlet.",
+              "ua": "Коли одужаєш, їдемо на екскурсію.",
+              "audio": "hr-les37-rule-28.mp3"
+            },
+            {
+              "text": "Poslije utakmice ću se odmoriti.",
+              "ua": "Після матчу я відпочину.",
+              "audio": "hr-les37-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Ću se: клітики ću і se стоять разом на другому місці."
+        }
+      ],
+      "points_ua": [
+        "Доконане: pobijedila je, ozlijedio se.",
+        "Недоконане: često pobjeđuje, dok pregledava.",
+        "Kad ozdraviš, ...: доконане."
+      ]
+    },
+    {
+      "title_ua": "ije / je в одній сім'ї: lijek, liječiti, ljekarna; ozlijediti, ozljeđivati",
+      "summary_ua": "Один звук пишеться ije або je, і це вчиться парами, не правилом. Lijek, liječiti, liječnik, але ljekarna (Lekcija 23). Ozlijediti, але ozljeđivati. Pobijediti, але pobjeđivati. Dijete, але djeca. Слабке місце з Lekcija 1: пиши dijete, не «djete».",
+      "compare": [
+        {
+          "form": "lijek, liječiti, liječnik; ljekarna",
+          "when_ua": "Сім'я ліків і лікарів.",
+          "examples": [
+            {
+              "text": "Liječnik liječi dijete.",
+              "ua": "Лікар лікує дитину.",
+              "audio": "hr-les37-rule-30.mp3"
+            },
+            {
+              "text": "Lijek je u ljekarni.",
+              "ua": "Ліки в аптеці.",
+              "audio": "hr-les37-rule-31.mp3"
+            }
+          ],
+          "note_ua": "Пиши lij у lijek, liječnik, але lj у ljekarna. Це пари, які треба знати."
+        },
+        {
+          "form": "ozlijediti > ozljeđivati; pobijediti > pobjeđivati",
+          "when_ua": "Доконане й недоконане в одній сім'ї.",
+          "examples": [
+            {
+              "text": "Često se ozljeđujem na treningu.",
+              "ua": "Я часто травмуюся на тренуванні.",
+              "audio": "hr-les37-rule-32.mp3"
+            },
+            {
+              "text": "Mi rijetko pobjeđujemo.",
+              "ua": "Ми рідко перемагаємо.",
+              "audio": "hr-les37-rule-33.mp3"
+            }
+          ],
+          "note_ua": "Перед -ivati ije стає je, а d стає đ: pobjeđivati, як posuđivati (Lekcija 34)."
+        },
+        {
+          "form": "dijete - djeca; cvijet - cvjetovi",
+          "when_ua": "Пари з попередніх уроків.",
+          "examples": [
+            {
+              "text": "Djeca igraju nogomet.",
+              "ua": "Діти грають у футбол.",
+              "audio": "hr-les37-rule-34.mp3"
+            },
+            {
+              "text": "Dijete je zdravo.",
+              "ua": "Дитина здорова.",
+              "audio": "hr-les37-rule-35.mp3"
+            }
+          ],
+          "note_ua": "Dijete, але djeca (Lekcija 1); cvijet, але cvjetovi (Lekcija 33). Вчи пари, не правило."
+        }
+      ],
+      "points_ua": [
+        "lijek, liječiti, liječnik, але ljekarna.",
+        "ozlijediti > ozljeđivati, pobijediti > pobjeđivati.",
+        "dijete - djeca, cvijet - cvjetovi."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Boli me ruka.",
+      "ua": "Болить рука.",
+      "audio": "hr-les37-example-01.mp3"
+    },
+    {
+      "text": "Bole me noge.",
+      "ua": "Болять ноги.",
+      "audio": "hr-les37-example-02.mp3"
+    },
+    {
+      "text": "Bole me leđa.",
+      "ua": "Болить спина.",
+      "audio": "hr-les37-example-03.mp3"
+    },
+    {
+      "text": "Moje dijete ima plave oči.",
+      "ua": "У моєї дитини сині очі.",
+      "audio": "hr-les37-example-04.mp3"
+    },
+    {
+      "text": "Boli me uho.",
+      "ua": "Болить вухо.",
+      "audio": "hr-les37-example-05.mp3"
+    },
+    {
+      "text": "Djed ima bolesno srce.",
+      "ua": "У дідуся хворе серце.",
+      "audio": "hr-les37-example-06.mp3"
+    },
+    {
+      "text": "Boli me vrat.",
+      "ua": "Болить шия.",
+      "audio": "hr-les37-example-07.mp3"
+    },
+    {
+      "text": "Dijete ima crven obraz.",
+      "ua": "У дитини червона щока.",
+      "audio": "hr-les37-example-08.mp3"
+    },
+    {
+      "text": "Baka je imala tešku bolest.",
+      "ua": "Бабуся мала важку хворобу.",
+      "audio": "hr-les37-example-09.mp3"
+    },
+    {
+      "text": "Imam prehladu.",
+      "ua": "У мене застуда.",
+      "audio": "hr-les37-example-10.mp3"
+    },
+    {
+      "text": "Dijete ima temperaturu.",
+      "ua": "У дитини температура.",
+      "audio": "hr-les37-example-11.mp3"
+    },
+    {
+      "text": "Imam glavobolju od jutros.",
+      "ua": "У мене болить голова з ранку.",
+      "audio": "hr-les37-example-12.mp3"
+    },
+    {
+      "text": "Ozljeda nije velika.",
+      "ua": "Травма не велика.",
+      "audio": "hr-les37-example-13.mp3"
+    },
+    {
+      "text": "Bolnica je blizu kolodvora.",
+      "ua": "Лікарня біля вокзалу.",
+      "audio": "hr-les37-example-14.mp3"
+    },
+    {
+      "text": "Liječnik će me pregledati sutra.",
+      "ua": "Лікар огляне мене завтра.",
+      "audio": "hr-les37-example-15.mp3"
+    },
+    {
+      "text": "Ozlijedila sam se na treningu.",
+      "ua": "Я травмувалася на тренуванні.",
+      "audio": "hr-les37-example-16.mp3"
+    },
+    {
+      "text": "Meč je u subotu.",
+      "ua": "Матч у суботу.",
+      "audio": "hr-les37-example-17.mp3"
+    },
+    {
+      "text": "Naša momčad igra dobro.",
+      "ua": "Наша команда грає добре.",
+      "audio": "hr-les37-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Ozljeda na utakmici",
+    "title_ua": "Травма на матчі",
+    "highlight": [
+      "hr-bd075efc",
+      "hr-dd924cd0",
+      "hr-ff3442eb",
+      "hr-e879db13",
+      "hr-44f0a6e1",
+      "hr-7f9e73fa",
+      "hr-97fa9f5a"
+    ],
+    "sentences": [
+      {
+        "text": "Moj sin igra nogomet u momčadi.",
+        "ua": "Мій син грає у футбол у команді.",
+        "audio": "hr-les37-reading-01.mp3"
+      },
+      {
+        "text": "Jučer je imao važnu utakmicu.",
+        "ua": "Вчора в нього був важливий матч.",
+        "audio": "hr-les37-reading-02.mp3"
+      },
+      {
+        "text": "Njegova momčad je pobijedila, ali se sin ozlijedio.",
+        "ua": "Його команда перемогла, але син травмувався.",
+        "audio": "hr-les37-reading-03.mp3"
+      },
+      {
+        "text": "Boli ga noga i bole ga leđa.",
+        "ua": "У нього болить нога й болить спина.",
+        "audio": "hr-les37-reading-04.mp3"
+      },
+      {
+        "text": "Odmah smo išli u bolnicu.",
+        "ua": "Ми одразу поїхали до лікарні.",
+        "audio": "hr-les37-reading-05.mp3"
+      },
+      {
+        "text": "Liječnik ga je pregledao.",
+        "ua": "Лікар його оглянув.",
+        "audio": "hr-les37-reading-06.mp3"
+      },
+      {
+        "text": "Rekao je da ozljeda nije velika.",
+        "ua": "Він сказав, що травма не велика.",
+        "audio": "hr-les37-reading-07.mp3"
+      },
+      {
+        "text": "Sin se mora odmoriti tjedan dana.",
+        "ua": "Син мусить відпочити тиждень.",
+        "audio": "hr-les37-reading-08.mp3"
+      },
+      {
+        "text": "Opet će biti zdrav za tjedan dana.",
+        "ua": "Через тиждень він знову буде здоровий.",
+        "audio": "hr-les37-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мою сестру болить голова.",
+          "accepted": [
+            "Moju sestru boli glava."
+          ]
+        },
+        {
+          "prompt": "Мене болять очі.",
+          "accepted": [
+            "Bole me oči."
+          ]
+        },
+        {
+          "prompt": "Сина болить спина.",
+          "accepted": [
+            "Sina bole leđa."
+          ]
+        },
+        {
+          "prompt": "У дитини застуда й кашель.",
+          "accepted": [
+            "Dijete ima prehladu i kašalj."
+          ]
+        },
+        {
+          "prompt": "Моя дочка має температуру.",
+          "accepted": [
+            "Moja kći ima temperaturu."
+          ]
+        },
+        {
+          "prompt": "Від ранку в мене болить голова.",
+          "accepted": [
+            "Od jutros me boli glava."
+          ]
+        },
+        {
+          "prompt": "Лікар оглянув дитину.",
+          "accepted": [
+            "Liječnik je pregledao dijete.",
+            "Liječnik je dijete pregledao."
+          ]
+        },
+        {
+          "prompt": "Завтра я піду до лікаря.",
+          "accepted": [
+            "Sutra idem kod liječnika.",
+            "Sutra ću ići kod liječnika."
+          ]
+        },
+        {
+          "prompt": "Мій чоловік знову здоровий.",
+          "accepted": [
+            "Moj muž je opet zdrav."
+          ]
+        },
+        {
+          "prompt": "Наша команда перемогла в суботу.",
+          "accepted": [
+            "Naša momčad je pobijedila u subotu.",
+            "Naša je momčad pobijedila u subotu.",
+            "U subotu je naša momčad pobijedila."
+          ]
+        },
+        {
+          "prompt": "Матч починається в п'ятницю ввечері.",
+          "accepted": [
+            "Utakmica počinje u petak navečer.",
+            "Meč počinje u petak navečer."
+          ]
+        },
+        {
+          "prompt": "Ми грали у футбол у неділю.",
+          "accepted": [
+            "Igrali smo nogomet u nedjelju."
+          ]
+        },
+        {
+          "prompt": "Мені треба відпочити.",
+          "accepted": [
+            "Moram se odmoriti.",
+            "Trebam se odmoriti."
+          ]
+        },
+        {
+          "prompt": "Ми викликаємо швидку допомогу.",
+          "accepted": [
+            "Zovemo hitnu pomoć."
+          ]
+        },
+        {
+          "prompt": "Лікар каже, що ви здорові.",
+          "accepted": [
+            "Liječnik kaže da ste zdravi."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "oči",
+        "nos",
+        "ruku",
+        "noge",
+        "uši",
+        "prehladu",
+        "temperaturu",
+        "kašalj",
+        "bolnici",
+        "zdrava",
+        "obraz",
+        "meč",
+        "momčad",
+        "pobijedi",
+        "liječnika",
+        "boli"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Dijete ima crvene ___.",
+          "hint": "У дитини червоні очі.",
+          "accepted": [
+            [
+              "oči"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat ima velik ___.",
+          "hint": "У мого брата великий ніс.",
+          "accepted": [
+            [
+              "nos"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete ima dvije ruke, a stol nema ___.",
+          "hint": "У дитини дві руки, а в столу немає рук.",
+          "accepted": [
+            [
+              "ruku"
+            ]
+          ],
+          "check": "Родовий множини ruku з мого знання, перевірити в словнику."
+        },
+        {
+          "text": "Sin je ostao kod kuće jer ga bole ___.",
+          "hint": "Син залишився вдома, бо в нього болять ноги.",
+          "accepted": [
+            [
+              "noge"
+            ]
+          ]
+        },
+        {
+          "text": "Moja sestra ima male ___.",
+          "hint": "У моєї сестри маленькі вуха.",
+          "accepted": [
+            [
+              "uši"
+            ]
+          ]
+        },
+        {
+          "text": "Sin ima ___ i ostaje u krevetu.",
+          "hint": "У сина застуда, і він залишається в ліжку.",
+          "accepted": [
+            [
+              "prehladu"
+            ]
+          ]
+        },
+        {
+          "text": "Imam kašalj i ___.",
+          "hint": "Маю кашель і температуру.",
+          "accepted": [
+            [
+              "temperaturu"
+            ]
+          ]
+        },
+        {
+          "text": "Zimi djeca često imaju ___.",
+          "hint": "Взимку діти часто мають кашель.",
+          "accepted": [
+            [
+              "kašalj"
+            ]
+          ]
+        },
+        {
+          "text": "Moja majka radi u ___.",
+          "hint": "Моя мама працює в лікарні.",
+          "accepted": [
+            [
+              "bolnici"
+            ]
+          ]
+        },
+        {
+          "text": "Naša djeca su ___.",
+          "hint": "Наші діти здорові.",
+          "accepted": [
+            [
+              "zdrava"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete ima topao ___.",
+          "hint": "У дитини тепла щока.",
+          "accepted": [
+            [
+              "obraz"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra je važan ___ u gradu.",
+          "hint": "Завтра важливий матч у місті.",
+          "accepted": [
+            [
+              "meč"
+            ]
+          ]
+        },
+        {
+          "text": "Naša ___ je opet pobijedila.",
+          "hint": "Наша команда знову перемогла.",
+          "accepted": [
+            [
+              "momčad"
+            ]
+          ]
+        },
+        {
+          "text": "Kad naša momčad ___, mi se smijemo.",
+          "hint": "Коли наша команда переможе, ми сміємося.",
+          "accepted": [
+            [
+              "pobijedi"
+            ]
+          ]
+        },
+        {
+          "text": "U petak idem kod ___.",
+          "hint": "У п'ятницю йду до лікаря.",
+          "accepted": [
+            [
+              "liječnika"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete kaže da ga ___ uho.",
+          "hint": "Дитина каже, що в нього болить вухо.",
+          "accepted": [
+            [
+              "boli"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Boli me zub.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Bole me zubi."
+          ]
+        },
+        {
+          "prompt": "Danas me boli ruke.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas me bole ruke."
+          ]
+        },
+        {
+          "prompt": "Oca boli leđa.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Oca bole leđa."
+          ]
+        },
+        {
+          "prompt": "Moja kći ima velike oka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja kći ima velike oči."
+          ],
+          "check": "Множина oči (ж. р.) з мого знання, перевірити в словнику."
+        },
+        {
+          "prompt": "Koliko noge ima stol?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Koliko nogu ima stol?"
+          ],
+          "check": "Родовий множини nogu з мого знання, перевірити в словнику."
+        },
+        {
+          "prompt": "Moj muž ima prehlada.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moj muž ima prehladu."
+          ]
+        },
+        {
+          "prompt": "Danas me boli vrata.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas me boli vrat."
+          ]
+        },
+        {
+          "prompt": "Naša momčad je pobijedio.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Naša momčad je pobijedila."
+          ]
+        },
+        {
+          "prompt": "Jutros ja sam bila u bolnici.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Jutros sam bila u bolnici.",
+            "Ja sam jutros bila u bolnici."
+          ]
+        },
+        {
+          "prompt": "Jučer sam ozlijedila se.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Jučer sam se ozlijedila."
+          ]
+        },
+        {
+          "prompt": "Zdravlje je važna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zdravlje je važno."
+          ]
+        },
+        {
+          "prompt": "Odmaram se.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću se odmoriti."
+          ]
+        },
+        {
+          "prompt": "Moja sestra se ozljeđuje na treningu.",
+          "cue": "-> минулий час, доконане (ж.)",
+          "accepted": [
+            "Moja sestra se ozlijedila na treningu.",
+            "Moja se sestra ozlijedila na treningu."
+          ]
+        },
+        {
+          "prompt": "Imaš temperaturu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Imaš li temperaturu?"
+          ]
+        },
+        {
+          "prompt": "Boli me nos.",
+          "cue": "-> про нього (ga)",
+          "accepted": [
+            "Boli ga nos."
+          ]
+        },
+        {
+          "prompt": "Naša momčad pobjeđuje.",
+          "cue": "-> Jučer ... (доконане)",
+          "accepted": [
+            "Jučer je naša momčad pobijedila.",
+            "Naša je momčad jučer pobijedila.",
+            "Naša momčad je jučer pobijedila."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Brata ___ zub.",
+          "cue": "boljeti",
+          "accepted": [
+            "boli"
+          ]
+        },
+        {
+          "text": "Djecu ___ uši.",
+          "cue": "boljeti",
+          "accepted": [
+            "bole"
+          ]
+        },
+        {
+          "text": "Ovaj liječnik ___ djecu.",
+          "cue": "liječiti",
+          "accepted": [
+            "liječi"
+          ]
+        },
+        {
+          "text": "Jučer me je liječnik ___.",
+          "cue": "pregledati",
+          "accepted": [
+            "pregledao"
+          ]
+        },
+        {
+          "text": "Liječnik uvijek ___ i srce.",
+          "cue": "pregledavati",
+          "accepted": [
+            "pregledava"
+          ]
+        },
+        {
+          "text": "Ti se ne ___ dosta.",
+          "cue": "odmarati se",
+          "accepted": [
+            "odmaraš"
+          ]
+        },
+        {
+          "text": "Djeca se često ___ na treningu.",
+          "cue": "ozljeđivati se",
+          "accepted": [
+            "ozljeđuju"
+          ]
+        },
+        {
+          "text": "Moja momčad rijetko ___.",
+          "cue": "pobjeđivati",
+          "accepted": [
+            "pobjeđuje"
+          ]
+        },
+        {
+          "text": "Kad dijete ___, ide u školu.",
+          "cue": "ozdraviti",
+          "accepted": [
+            "ozdravi"
+          ]
+        },
+        {
+          "text": "Oni ___ prehladu.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Kako se ti ___ danas?",
+          "cue": "osjećati se",
+          "accepted": [
+            "osjećaš"
+          ]
+        },
+        {
+          "text": "Mi ___ nogomet u subotu.",
+          "cue": "igrati",
+          "accepted": [
+            "igramo"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова цього уроку, разом з двома хибними друзями: obraz і meč.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "рука",
+          "answer": "ruka"
+        },
+        {
+          "prompt": "нога",
+          "answer": "noga"
+        },
+        {
+          "prompt": "спина",
+          "answer": "leđa"
+        },
+        {
+          "prompt": "око",
+          "answer": "oko"
+        },
+        {
+          "prompt": "вухо",
+          "answer": "uho"
+        },
+        {
+          "prompt": "ніс",
+          "answer": "nos"
+        },
+        {
+          "prompt": "серце",
+          "answer": "srce"
+        },
+        {
+          "prompt": "шкіра",
+          "answer": "koža"
+        },
+        {
+          "prompt": "шия",
+          "answer": "vrat"
+        },
+        {
+          "prompt": "щока",
+          "answer": "obraz"
+        },
+        {
+          "prompt": "застуда",
+          "answer": "prehlada"
+        },
+        {
+          "prompt": "кашель",
+          "answer": "kašalj"
+        },
+        {
+          "prompt": "головний біль",
+          "answer": "glavobolja"
+        },
+        {
+          "prompt": "травма",
+          "answer": "ozljeda"
+        },
+        {
+          "prompt": "лікарня",
+          "answer": "bolnica"
+        },
+        {
+          "prompt": "швидка допомога",
+          "answer": "hitna pomoć"
+        },
+        {
+          "prompt": "спортивна команда",
+          "answer": "momčad"
+        },
+        {
+          "prompt": "матч, гра (не «меч»)",
+          "answer": "meč"
+        }
+      ],
+      "extra": [
+        "zub",
+        "bolest"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "false_friend",
+        "verb"
+      ]
+    }
+  ]
+}

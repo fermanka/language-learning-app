@@ -1,0 +1,1671 @@
+{
+  "id": "hr-les-36",
+  "lang": "hr",
+  "order": 36,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "nas",
+    "nisu",
+    "nije",
+    "naša",
+    "naše",
+    "našoj",
+    "ovoj",
+    "adresi",
+    "adresu",
+    "hotelu",
+    "torbi",
+    "novčaniku",
+    "firme",
+    "stolu",
+    "sati",
+    "velika",
+    "velike",
+    "veliki",
+    "visoka",
+    "plaću",
+    "plaće",
+    "plaći",
+    "malu",
+    "nemamo",
+    "gradu",
+    "želimo",
+    "novi",
+    "novu",
+    "nova",
+    "nove",
+    "ću",
+    "će",
+    "stana",
+    "godina",
+    "petsto",
+    "eura",
+    "poslu",
+    "jede",
+    "radi",
+    "čeka",
+    "plaća",
+    "gotovinom",
+    "uplaćuje",
+    "roku",
+    "vratiti",
+    "knjigu",
+    "tjedan",
+    "dana",
+    "dolazi",
+    "bila",
+    "liječnika",
+    "zvala",
+    "prvog",
+    "dvadesetog",
+    "dvanaestog",
+    "petog",
+    "srpnja",
+    "lipnja",
+    "svibnja",
+    "vodu",
+    "platila",
+    "platim",
+    "odgovora",
+    "trebamo",
+    "trebaju",
+    "trebaš",
+    "veći",
+    "manja",
+    "manje",
+    "novca",
+    "banci",
+    "jesi",
+    "već",
+    "prijavila",
+    "ponedjeljak",
+    "rekao",
+    "rekla",
+    "baki",
+    "lifta",
+    "važna",
+    "moje",
+    "moja",
+    "daje",
+    "napisati",
+    "obrasci",
+    "popunjavaju",
+    "popunjava",
+    "uzimamo",
+    "čekamo",
+    "sestri",
+    "ugovorom",
+    "mjesečno",
+    "karticom",
+    "plaćamo",
+    "ljudi",
+    "zato",
+    "ormar",
+    "krevet",
+    "vrata",
+    "prozor",
+    "moji",
+    "roditelji",
+    "imala",
+    "imao",
+    "bih",
+    "bio",
+    "uredu",
+    "šefa",
+    "direktora",
+    "prijatelju",
+    "utorak",
+    "idemo",
+    "more",
+    "kad",
+    "svibanja",
+    "svibanju",
+    "stanovi",
+    "iznajmljuje",
+    "iznajmljuju",
+    "zovem"
+  ],
+  "notes": [
+    {
+      "id": "hr-caeaff42",
+      "type": "noun",
+      "lemma": "najam",
+      "gender": "m.",
+      "gen_sg": "najma",
+      "plural": [
+        "najmovi"
+      ],
+      "ua": "оренда (договір)",
+      "audio": "hr-najam.mp3",
+      "forms": [
+        "najma",
+        "najmu"
+      ],
+      "explain_ua": "(Ugovor o najmu je kod vlasnika = договір про оренду у власника). УВАГА ДО ВСЬОГО УРОКУ: усі числа, терміни, суми й документи тут навчальні, вигадані для вправ. Реальні терміни й документи визначає МУП (Міністерство внутрішніх справ) або міська управа, а цей урок нічого тобі не радить. Najam це оренда як договір, а гроші за неї це najamnina (нижче). Чоловічого роду з нестійким a: najam, najma (як novac, novca, Lekcija 34). Після o місцевий: o najmu. Українське «наймати» схоже за змістом, але це лише підказка для пам'яті, не перевірена пара.",
+      "check": "Форми najma, najmu з мого знання за зразком novac. Множину najmovi (рідкісна) перевірити в словнику."
+    },
+    {
+      "id": "hr-a9697a39",
+      "type": "noun",
+      "lemma": "najamnina",
+      "gender": "ž.",
+      "gen_sg": "najamnine",
+      "plural": [
+        "najamnine"
+      ],
+      "ua": "орендна плата",
+      "audio": "hr-najamnina.mp3",
+      "forms": [
+        "najamnine",
+        "najamninu",
+        "najamnini"
+      ],
+      "explain_ua": "(Najamnina je petsto eura = орендна плата п'ятсот євро). Жіночий рід на -a: najamnina, najamnine, najamninu (знахідний), u najamnini (місцевий). Najam це договір, najamnina це гроші, які платиш за нього. Число тут навчальне. Платити орендну плату: plaćati najamninu.",
+      "check": "Форми за зразком škola з мого знання. Розмовне kirija існує, але чи воно нейтральне, у словнику не звіряв; не вчимо. Чи це слово є в сербській, не перевіряв."
+    },
+    {
+      "id": "hr-2da3901b",
+      "type": "noun",
+      "lemma": "stanodavac",
+      "gender": "m.",
+      "gen_sg": "stanodavca",
+      "plural": [
+        "stanodavci"
+      ],
+      "ua": "орендодавець",
+      "audio": "hr-stanodavac.mp3",
+      "forms": [
+        "stanodavca",
+        "stanodavci"
+      ],
+      "explain_ua": "(Stanodavac stanuje blizu nas = орендодавець живе біля нас). Чоловічого роду, нестійке a: stanodavac, stanodavca, множина stanodavci. Слово складається зі stan (Lekcija 2) і davati (Lekcija 7): підказка для пам'яті, не перевірена етимологія. Stanodavac це той, хто здає, а vlasnik (нижче) це той, чия квартира: часто це одна людина. Для живої істоти знахідний збігається з родовим: zovem stanodavca (Lekcija 4).",
+      "check": "Форми stanodavca, stanodavci за зразком novac з мого знання (множина без зміни c). Жіночу форму stanodavka не вчимо й не перевіряв."
+    },
+    {
+      "id": "hr-77f42b45",
+      "type": "noun",
+      "lemma": "režije",
+      "gender": "ž.",
+      "gen_sg": "režija",
+      "plural": [
+        "režije"
+      ],
+      "ua": "комунальні витрати (тільки множина)",
+      "audio": "hr-rezije.mp3",
+      "forms": [
+        "režija",
+        "režijama"
+      ],
+      "explain_ua": "(Režije nisu u najamnini = комунальні витрати не входять в оренду). Тільки множина, як hlače (Lekcija 25): režije su, не «režija je». Це витрати на квартиру, як-от світло й вода; що саме входить у režije, пишуть у договорі. Родовий множини režija, місцевий režijama (o režijama = про комунальні витрати).",
+      "check": "Рід і форми režija, režijama з мого знання за зразком hlače; перевірити в словнику. Що входить у režije, залежить від договору, тут лише слово."
+    },
+    {
+      "id": "hr-6a733f69",
+      "type": "noun",
+      "lemma": "struja",
+      "gender": "ž.",
+      "gen_sg": "struje",
+      "plural": [
+        "struje"
+      ],
+      "ua": "електрика, струм",
+      "audio": "hr-struja.mp3",
+      "forms": [
+        "struje",
+        "struju"
+      ],
+      "explain_ua": "(Račun za struju je velik = рахунок за електрику великий). Жіночий рід на -a: struja, struje, struju (знахідний). Struja це електрика й електричний струм. Російське струя (струмінь рідини) схоже, але значення інше: це підказка для пам'яті, не перевірена хибна пара.",
+      "check": "Форми за зразком škola, значення з мого знання. Пара struja / струя лише підказка, у перевіреній таблиці хибних друзів її нема, тож у банку помилок не веду."
+    },
+    {
+      "id": "hr-0b5e9cd5",
+      "type": "noun",
+      "lemma": "zgrada",
+      "gender": "ž.",
+      "gen_sg": "zgrade",
+      "plural": [
+        "zgrade"
+      ],
+      "ua": "будівля, багатоквартирний будинок",
+      "audio": "hr-zgrada.mp3",
+      "forms": [
+        "zgrade",
+        "zgradi",
+        "zgradu"
+      ],
+      "explain_ua": "(Naša zgrada ima lift = у нашій будівлі є ліфт). Жіночий рід на -a: zgrada, zgrade, u zgradi (місцевий). Zgrada це будівля, зокрема багатоквартирна; kuća (Lekcija 1) це окремий будинок. Родовий множини zgrada.",
+      "check": "Форми за зразком škola з мого знання. Відтінок «багатоквартирна» проти kuća подаю як звичайне вживання, у словнику не звіряв."
+    },
+    {
+      "id": "hr-a2fef43a",
+      "type": "noun",
+      "lemma": "vlasnik",
+      "gender": "m.",
+      "gen_sg": "vlasnika",
+      "plural": [
+        "vlasnici"
+      ],
+      "ua": "власник",
+      "audio": "hr-vlasnik.mp3",
+      "forms": [
+        "vlasnika",
+        "vlasnici"
+      ],
+      "explain_ua": "(Vlasnik stana je dobar čovjek = власник квартири добра людина). Чоловічого роду: vlasnik, vlasnika, множина vlasnici (k > c перед -i, як udžbenik > udžbenici, Lekcija 31). Vlasnik і stanodavac часто одна людина, але vlasnik це чия квартира, а stanodavac це хто її здає. Жіноча форма vlasnica.",
+      "check": "Форми з мого знання. Форму vlasnica згадав без перевірки, у вправах її нема."
+    },
+    {
+      "id": "hr-beeed794",
+      "type": "noun",
+      "lemma": "prebivalište",
+      "gender": "s.",
+      "gen_sg": "prebivališta",
+      "plural": [
+        "prebivališta"
+      ],
+      "ua": "місце проживання (офіційно, в паперах)",
+      "audio": "hr-prebivaliste.mp3",
+      "forms": [
+        "prebivališta"
+      ],
+      "explain_ua": "(Naše prebivalište je na ovoj adresi = наше місце проживання за цією адресою). Середній рід на -e: prebivalište, prebivališta (як more, mora, Lekcija 2). Це слово з паперів: місце, де ти офіційно живеш. У розмові скажеш stanujem + адреса. Яке саме місце й які строки потрібні тобі, вирішує МУП (Міністерство внутрішніх справ) або юрист, а урок дає лише слово.",
+      "check": "Форми з мого знання. Різницю між постійним prebivalište і тимчасовим боравиште не перевіряв, друге слово не вчимо."
+    },
+    {
+      "id": "hr-02980204",
+      "type": "noun",
+      "lemma": "boravak",
+      "gender": "m.",
+      "gen_sg": "boravka",
+      "plural": [
+        "boravci"
+      ],
+      "ua": "перебування",
+      "audio": "hr-boravak.mp3",
+      "forms": [
+        "boravka",
+        "boravci"
+      ],
+      "explain_ua": "(Boravak u hotelu košta puno = перебування в готелі коштує багато). Чоловічого роду, нестійке a: boravak, boravka, множина boravci. У паперах часто стоїть dozvola za boravak (нижче): це лише слова. Який дозвіл потрібен тобі, питання до МУП або юриста.",
+      "check": "Форми за зразком novac з мого знання; множину boravci (рідкісна) перевірити в словнику."
+    },
+    {
+      "id": "hr-b2894f01",
+      "type": "noun",
+      "lemma": "dozvola",
+      "gender": "ž.",
+      "gen_sg": "dozvole",
+      "plural": [
+        "dozvole"
+      ],
+      "ua": "дозвіл (документ)",
+      "audio": "hr-dozvola.mp3",
+      "forms": [
+        "dozvole",
+        "dozvolu"
+      ],
+      "explain_ua": "(Dozvola je u torbi = дозвіл у сумці). Жіночий рід на -a: dozvola, dozvole, dozvolu (знахідний). Dozvola це сам документ чи картка, а smjeti (Lekcija 23) це мати дозвіл щось робити: smijem = мені можна. Вираз dozvola za boravak = дозвіл на перебування.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-206ba87e",
+      "type": "noun",
+      "lemma": "osobna iskaznica",
+      "gender": "ž.",
+      "gen_sg": "osobne iskaznice",
+      "plural": [
+        "osobne iskaznice"
+      ],
+      "ua": "посвідчення особи (ID-картка)",
+      "audio": "hr-osobna-iskaznica.mp3",
+      "forms": [
+        "osobna",
+        "osobne",
+        "osobnu",
+        "osobnom",
+        "iskaznice",
+        "iskaznicu",
+        "iskaznicom"
+      ],
+      "explain_ua": "(Osobna iskaznica je u novčaniku = посвідчення особи в гаманці). Два слова, і обидва змінюються: osobna iskaznica, osobne iskaznice, osobnu iskaznicu (знахідний), s osobnom iskaznicom (орудний). Жіночий рід. Не плутай з putovnica (Lekcija 27): putovnica це закордонний паспорт, а osobna iskaznica це посвідчення особи.",
+      "check": "Форми за зразком nova škola з мого знання. Сербською кажуть інакше (lična karta, з мого знання): почуєш, не вчимо. Як у цьому застосунку писати лему з двох слів, не знаю, дивись схему."
+    },
+    {
+      "id": "hr-15a0fa6e",
+      "type": "noun",
+      "lemma": "potvrda",
+      "gender": "ž.",
+      "gen_sg": "potvrde",
+      "plural": [
+        "potvrde"
+      ],
+      "ua": "довідка, підтвердження",
+      "audio": "hr-potvrda.mp3",
+      "forms": [
+        "potvrde",
+        "potvrdu"
+      ],
+      "explain_ua": "(Trebam potvrdu od firme = мені потрібна довідка від фірми). Жіночий рід на -a: potvrda, potvrde, potvrdu (знахідний). Potvrda це довідка, підтвердження. Після неї часто o + місцевий: potvrda o plaći (довідка про зарплату). Дивись картку про іменник + прийменник.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-c0b4daa4",
+      "type": "noun",
+      "lemma": "zahtjev",
+      "gender": "m.",
+      "gen_sg": "zahtjeva",
+      "plural": [
+        "zahtjevi"
+      ],
+      "ua": "заява, запит; вимога",
+      "audio": "hr-zahtjev.mp3",
+      "forms": [
+        "zahtjeva",
+        "zahtjevi"
+      ],
+      "explain_ua": "(Zahtjev je na stolu = заява на столі). Чоловічого роду. Нестійкого a тут нема: zahtjev, zahtjeva, множина zahtjevi (на відміну від najam, najma). Це заява чи запит, який подаєш: zahtjev za dozvolu. Те саме слово значить і «вимога».",
+      "check": "Форми з мого знання; що a тут не випадає, перевірити в словнику. Сербську форму zahtev не вчимо."
+    },
+    {
+      "id": "hr-5c7824d4",
+      "type": "noun",
+      "lemma": "šalter",
+      "gender": "m.",
+      "gen_sg": "šaltera",
+      "plural": [
+        "šalteri"
+      ],
+      "ua": "віконце, стійка прийому",
+      "audio": "hr-salter.mp3",
+      "forms": [
+        "šaltera",
+        "šalteru",
+        "šalteri"
+      ],
+      "explain_ua": "(Idem na šalter u pet sati = іду до віконця о п'ятій). Чоловічого роду, неживе: šalter, šaltera, множина šalteri. Це віконце чи стійка, де обслуговують на пошті, у банку, в управі. Na šalter це куди, na šalteru це де, як u grad і u gradu (Lekcija 5).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-e1945c0b",
+      "type": "noun",
+      "lemma": "red",
+      "gender": "m.",
+      "gen_sg": "reda",
+      "plural": [
+        "redovi"
+      ],
+      "ua": "черга; ряд; порядок",
+      "audio": "hr-red.mp3",
+      "forms": [
+        "reda",
+        "redu",
+        "redovi"
+      ],
+      "explain_ua": "(Na šalteru nema reda = біля віконця немає черги). Чоловічого роду: red, reda, множина redovi (-ov-, як rok, Lekcija 34). Багатозначність, не хибний друг: red це черга, ряд і порядок. U redu значить «гаразд» (U redu je = гаразд). Українське й російське ряд це лише «ряд», а «черга» по-хорватськи red.",
+      "check": "Форми з мого знання; значення «черга» і вираз u redu знаю надійно. Пара red / ряд лише підказка, не з таблиці хибних друзів."
+    },
+    {
+      "id": "hr-90816f8c",
+      "type": "noun",
+      "lemma": "kredit",
+      "gender": "m.",
+      "gen_sg": "kredita",
+      "plural": [
+        "krediti"
+      ],
+      "ua": "кредит, позика в банку",
+      "audio": "hr-kredit.mp3",
+      "forms": [
+        "kredita",
+        "krediti"
+      ],
+      "explain_ua": "(Obitelj ima kredit za stan = родина має кредит на квартиру). Чоловічого роду: kredit, kredita, множина krediti. Слово міжнародне й за значенням збігається з українським кредит і російським кредит, тож значення безкоштовне. Пастка інша: рід і закінчення, kredit (чол.), kredita. Kredit za stan: за + знахідний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-be98833c",
+      "type": "noun",
+      "lemma": "kamata",
+      "gender": "ž.",
+      "gen_sg": "kamate",
+      "plural": [
+        "kamate"
+      ],
+      "ua": "відсотки, відсоткова ставка",
+      "audio": "hr-kamata.mp3",
+      "forms": [
+        "kamate",
+        "kamatu"
+      ],
+      "explain_ua": "(Kamata na kredit je velika = відсоткова ставка за кредитом висока). Жіночий рід на -a: kamata, kamate, kamatu (знахідний). Kamata це відсотки як плата за гроші, а posto (Lekcija 34) це відсоток біля числа. Kamata na kredit: na + знахідний.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-4916d89d",
+      "type": "noun",
+      "lemma": "porez",
+      "gender": "m.",
+      "gen_sg": "poreza",
+      "plural": [
+        "porezi"
+      ],
+      "ua": "податок",
+      "audio": "hr-porez.mp3",
+      "forms": [
+        "poreza",
+        "porezi"
+      ],
+      "explain_ua": "(Plaćam porez na plaću = плачу податок із зарплати). Чоловічого роду: porez, poreza, множина porezi. Porez na plaću: na + знахідний. Ні українське податок, ні російське налог не схожі: слово просто нове.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-35ea4e72",
+      "type": "noun",
+      "lemma": "dug",
+      "gender": "m.",
+      "gen_sg": "duga",
+      "plural": [
+        "dugovi"
+      ],
+      "ua": "борг (прикметник dug, duga = довгий)",
+      "audio": "hr-dug.mp3",
+      "forms": [
+        "duga",
+        "dugovi",
+        "dugova",
+        "dugove"
+      ],
+      "explain_ua": "(Nemamo dugova = у нас немає боргів). Чоловічого роду: dug, duga, множина dugovi (-ov-, як rok, Lekcija 34). Багатозначність, не хибний друг: dug це борг, а прикметник dug, duga значить «довгий» і пишеться так само; контекст вирішує. Після nema родовий, як nemam novca: nemamo dugova.",
+      "check": "Форми dug, duga, dugovi з мого знання. Прикметник dug тут лише згаданий, у вправах його нема."
+    },
+    {
+      "id": "hr-71bff6dc",
+      "type": "noun",
+      "lemma": "mirovina",
+      "gender": "ž.",
+      "gen_sg": "mirovine",
+      "plural": [
+        "mirovine"
+      ],
+      "ua": "пенсія",
+      "audio": "hr-mirovina.mp3",
+      "forms": [
+        "mirovine",
+        "mirovinu"
+      ],
+      "explain_ua": "(Baka ima malu mirovinu = бабуся має малу пенсію). Жіночий рід на -a: mirovina, mirovine, mirovinu (знахідний). Українське пенсія і російське пенсия запозичені й тут не схожі: слово просто нове.",
+      "check": "Форми за зразком škola з мого знання. Сербською кажуть інакше (penzija, з мого знання): почуєш, не вчимо."
+    },
+    {
+      "id": "hr-4add884b",
+      "type": "verb",
+      "lemma": "iznajmljivati",
+      "aspect": "impf.",
+      "partner": "iznajmiti",
+      "pres_1sg": "iznajmljujem",
+      "forms": [
+        "iznajmljuješ",
+        "iznajmljuje",
+        "iznajmljujemo",
+        "iznajmljujete",
+        "iznajmljuju",
+        "iznajmiti",
+        "iznajmim",
+        "iznajmila",
+        "iznajmili"
+      ],
+      "ua": "орендувати; здавати в оренду (док. iznajmiti)",
+      "audio": "hr-iznajmljivati.mp3",
+      "explain_ua": "(Želimo iznajmiti stan u gradu = ми хочемо орендувати квартиру в місті). Пара: iznajmljivati (недок.) / iznajmiti (док.): iznajmim, але iznajmljujem. Приголосний m > mlj перед -ivati, теперішній -ujem (як uplaćujem, Lekcija 34). Значення в обидва боки: орендувати й здавати; напрямок видно з речення: iznajmiti stan od vlasnika (орендувати), iznajmiti stan sestri (здати).",
+      "check": "Пару та форми з мого знання; обидва значення (орендувати і здавати) та форму iznajmljujem перевірити в словнику."
+    },
+    {
+      "id": "hr-425d13d6",
+      "type": "verb",
+      "lemma": "seliti",
+      "aspect": "impf.",
+      "partner": "preseliti",
+      "pres_1sg": "selim",
+      "forms": [
+        "seliš",
+        "seli",
+        "selimo",
+        "selite",
+        "sele",
+        "preseliti",
+        "preselim",
+        "preselila",
+        "preselili"
+      ],
+      "ua": "(seliti se) переїжджати (док. preseliti se)",
+      "audio": "hr-seliti.mp3",
+      "explain_ua": "(Sutra se selimo u novi stan = завтра ми переїжджаємо в нову квартиру). Пара: seliti se (недок.) / preseliti se (док.): selimo se = переїжджаємо (план чи процес), preselili smo se = переїхали (результат). Se стоїть на другому місці: Sutra se selimo. Корінь sel- як в українських «село» і «селити»: підказка для пам'яті, не перевірена етимологія.",
+      "check": "Пару seliti se / preseliti se та форми з мого знання; з яким прийменником preseliti se вживається (u + знахідний чи k), перевірити."
+    },
+    {
+      "id": "hr-8b509d32",
+      "type": "verb",
+      "lemma": "prijavljivati",
+      "aspect": "impf.",
+      "partner": "prijaviti",
+      "pres_1sg": "prijavljujem",
+      "forms": [
+        "prijavljuješ",
+        "prijavljuje",
+        "prijavljujemo",
+        "prijavljujete",
+        "prijavljuju",
+        "prijaviti",
+        "prijavim",
+        "prijavila",
+        "prijavili",
+        "prijavljujem"
+      ],
+      "ua": "заявляти, реєструвати (док. prijaviti)",
+      "audio": "hr-prijavljivati.mp3",
+      "explain_ua": "(Prijavila sam novu adresu = я заявила нову адресу). Пара: prijavljivati (недок.) / prijaviti (док.): prijavim, але prijavljujem. Приголосний v > vlj перед -ivati. Для разової дії бери док.: moram prijaviti, не «prijavljivati». Prijaviti se значить зареєструватися чи записатися. Яку адресу, куди й коли треба заявляти, вирішує МУП (Міністерство внутрішніх справ) або міська управа.",
+      "check": "Пару та форми з мого знання; значення prijaviti adresu (повідомити адресу) та prijaviti se перевірити в словнику."
+    },
+    {
+      "id": "hr-4814e77f",
+      "type": "verb",
+      "lemma": "podnositi",
+      "aspect": "impf.",
+      "partner": "podnijeti",
+      "pres_1sg": "podnosim",
+      "forms": [
+        "podnosiš",
+        "podnosi",
+        "podnosimo",
+        "podnosite",
+        "podnose",
+        "podnijeti",
+        "podnesem",
+        "podnio",
+        "podnijela",
+        "podnijeli",
+        "podnosim"
+      ],
+      "ua": "подавати (документ); витримувати (док. podnijeti)",
+      "audio": "hr-podnositi.mp3",
+      "explain_ua": "(Zahtjev ću podnijeti sutra = заяву я подам завтра). Пара: podnositi (недок.) / podnijeti (док.): podnosim, але podnesem. Минулий: podnio, podnijela, podnijeli. Багатозначність: подати документ (podnijeti zahtjev) і витримати (ne mogu podnijeti = не можу витримати). У цьому уроці тільки перше значення.",
+      "check": "Пару та неправильні форми podnesem, podnio, podnijela з мого знання; перевірити в словнику."
+    },
+    {
+      "id": "hr-786b7235",
+      "type": "verb",
+      "lemma": "otplaćivati",
+      "aspect": "impf.",
+      "partner": "otplatiti",
+      "pres_1sg": "otplaćujem",
+      "forms": [
+        "otplaćuješ",
+        "otplaćuje",
+        "otplaćujemo",
+        "otplaćujete",
+        "otplaćuju",
+        "otplatiti",
+        "otplatim",
+        "otplatimo",
+        "otplatila",
+        "otplatili",
+        "otplatio",
+        "otplaćivala",
+        "otplaćivao",
+        "otplaćujem"
+      ],
+      "ua": "виплачувати кредит, борг (док. otplatiti)",
+      "audio": "hr-otplacivati.mp3",
+      "explain_ua": "(Kredit otplaćujemo deset godina = ми виплачуємо кредит десять років). Пара: otplaćivati (недок.) / otplatiti (док.): otplatim, але otplaćujem. Родина з platiti і plaćati (Lekcija 22), t > ć перед -ivati (Lekcija 34). Otplaćivati це платити частинами, otplatiti це виплатити все.",
+      "check": "Пару та форми з мого знання."
+    },
+    {
+      "id": "hr-0fe4b97a",
+      "type": "verb",
+      "lemma": "popravljati",
+      "aspect": "impf.",
+      "partner": "popraviti",
+      "pres_1sg": "popravljam",
+      "forms": [
+        "popravljaš",
+        "popravlja",
+        "popravljamo",
+        "popravljate",
+        "popravljaju",
+        "popraviti",
+        "popravim",
+        "popravila",
+        "popravio"
+      ],
+      "ua": "ремонтувати, лагодити (док. popraviti)",
+      "audio": "hr-popravljati.mp3",
+      "explain_ua": "(Vlasnik će popraviti prozor = власник полагодить вікно). Пара: popravljati (недок.) / popraviti (док.): popravim, popravljam. Приголосний v > vlj, але теперішній тут -am, а не -ujem, на відміну від iznajmljujem. Тому пари вчи цілими.",
+      "check": "Пару та форму popravljam з мого знання; різницю -am проти -ujem у цій родині перевірити в словнику."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Пасив із se: Stan se iznajmljuje, zahtjevi se podnose",
+      "summary_ua": "Se + дієслово в третій особі: підмет це річ, і дієслово погоджується з нею (zahtjev se podnosi, zahtjevi se podnose). Це інше, ніж biti + дієприкметник з Lekcija 22: Obrazac je popunjen показує результат, а Obrazac se popunjava показує дію чи звичай. І в українській (заява подається), і в російській (заявление подаётся) така будова є, тож сама ідея безкоштовна. Нове лише те, що se окреме слово й стоїть на другому місці.",
+      "compare": [
+        {
+          "form": "se + 3 особа, підмет це річ",
+          "when_ua": "Важлива річ, а не той, хто діє.",
+          "examples": [
+            {
+              "text": "Stan se iznajmljuje.",
+              "ua": "Квартиру здають.",
+              "audio": "hr-les36-rule-01.mp3"
+            },
+            {
+              "text": "Zahtjevi se podnose.",
+              "ua": "Заяви подаються.",
+              "audio": "hr-les36-rule-02.mp3"
+            },
+            {
+              "text": "Račun se plaća u banci.",
+              "ua": "Рахунок оплачується в банку.",
+              "audio": "hr-les36-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Дієслово бере число слова: zahtjev se podnosi, але zahtjevi se podnose."
+        },
+        {
+          "form": "se + 3 особа однини, без підмета",
+          "when_ua": "Звичай або правило, роблять усі.",
+          "examples": [
+            {
+              "text": "Ovdje se ne jede.",
+              "ua": "Тут не їдять.",
+              "audio": "hr-les36-rule-04.mp3"
+            },
+            {
+              "text": "Na poslu se puno radi.",
+              "ua": "На роботі багато працюють.",
+              "audio": "hr-les36-rule-05.mp3"
+            },
+            {
+              "text": "Kod nas se plaća gotovinom.",
+              "ua": "У нас платять готівкою.",
+              "audio": "hr-les36-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Підмета нема, тож дієслово завжди в однині."
+        },
+        {
+          "form": "se на другому місці",
+          "when_ua": "Клітик іде одразу за першим словом чи групою слів.",
+          "examples": [
+            {
+              "text": "Danas se ne radi.",
+              "ua": "Сьогодні не працюють.",
+              "audio": "hr-les36-rule-07.mp3"
+            },
+            {
+              "text": "Mjesečno se uplaćuje najamnina.",
+              "ua": "Орендну плату вносять щомісяця.",
+              "audio": "hr-les36-rule-08.mp3"
+            },
+            {
+              "text": "Na šalteru se čeka.",
+              "ua": "Біля віконця чекають.",
+              "audio": "hr-les36-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Не став ja чи mi між першим словом і se, як у Lekcija 35: Danas se ne radi."
+        }
+      ],
+      "points_ua": [
+        "Se + 3 особа: річ це підмет, дієслово погоджується з нею.",
+        "Zahtjev se podnosi, zahtjevi se podnose.",
+        "Se стоїть другим: Danas se ne radi."
+      ]
+    },
+    {
+      "title_ua": "Строки: u roku od, za, prije, do",
+      "summary_ua": "Чотири шаблони, і жоден не переноситься з української чи російської одним правилом. U roku od + родовий: протягом. Za + знахідний: через стільки від зараз. Prije + число + dana: стільки тому. Do + родовий: до граничного дня. Місяць і порядкове число в даті обоє в родовому, а в місяці випадає a: svibanj > svibnja, lipanj > lipnja, srpanj > srpnja. Усі числа й дати в цьому уроці навчальні: реальні терміни визначає МУП або міська управа.",
+      "compare": [
+        {
+          "form": "u roku od + родовий; za + знахідний",
+          "when_ua": "Протягом чи через.",
+          "examples": [
+            {
+              "text": "Knjigu moram vratiti u roku od tjedan dana.",
+              "ua": "Книжку я мушу повернути протягом тижня.",
+              "audio": "hr-les36-rule-10.mp3"
+            },
+            {
+              "text": "Odgovor dolazi u roku od deset dana.",
+              "ua": "Відповідь приходить протягом десяти днів.",
+              "audio": "hr-les36-rule-11.mp3"
+            },
+            {
+              "text": "Dolazim za tjedan dana.",
+              "ua": "Приходжу через тиждень.",
+              "audio": "hr-les36-rule-12.mp3"
+            },
+            {
+              "text": "Termin je za pet dana.",
+              "ua": "Прийом через п'ять днів.",
+              "audio": "hr-les36-rule-13.mp3"
+            }
+          ],
+          "note_ua": "U roku od це «в межах», za це «через стільки від зараз»."
+        },
+        {
+          "form": "prije + число + dana",
+          "when_ua": "Стільки днів чи місяців тому.",
+          "examples": [
+            {
+              "text": "Prije mjesec dana bila sam kod liječnika.",
+              "ua": "Місяць тому я була в лікаря.",
+              "audio": "hr-les36-rule-14.mp3"
+            },
+            {
+              "text": "Prije pet dana sam zvala stanodavca.",
+              "ua": "П'ять днів тому я дзвонила орендодавцю.",
+              "audio": "hr-les36-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Українське «тому» стоїть після, а prije перед: prije pet dana. Sam іде після всієї групи Prije pet dana."
+        },
+        {
+          "form": "do + родовий (порядкове число + місяць)",
+          "when_ua": "Граничний день.",
+          "examples": [
+            {
+              "text": "Račun moram platiti do prvog srpnja.",
+              "ua": "Рахунок я мушу заплатити до першого липня.",
+              "audio": "hr-les36-rule-16.mp3"
+            },
+            {
+              "text": "Termin je do dvadesetog lipnja.",
+              "ua": "Прийом до двадесятого червня.",
+              "audio": "hr-les36-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Число й місяць обоє в родовому: petog svibnja. A випадає (як novac > novca). Пам'ятай з Lekcija 3: до petog svibnja, а не svibanju чи svibanja."
+        }
+      ],
+      "points_ua": [
+        "U roku od + родовий: протягом. Za + знахідний: через.",
+        "Prije pet dana: стільки тому.",
+        "Do petog svibnja: число й місяць у родовому, a випадає."
+      ]
+    },
+    {
+      "title_ua": "Іменник + прийменник: potvrda o, zahtjev za, porez na",
+      "summary_ua": "Офіційна мова живе готовими парами: іменник + прийменник. O + місцевий: potvrda o plaći (про). Za + знахідний: zahtjev za odmor, račun za vodu (на, за). Na + знахідний: porez na plaću, kamata na kredit, odgovor na pitanje. Для potvrda o допомагає українська (довідка про); для решти пар жодна мова не збігається надійно, тож вчи пару цілою.",
+      "compare": [
+        {
+          "form": "o + місцевий",
+          "when_ua": "Про що довідка, розмова, питання.",
+          "examples": [
+            {
+              "text": "Potvrda o plaći je u torbi.",
+              "ua": "Довідка про зарплату в сумці.",
+              "audio": "hr-les36-rule-18.mp3"
+            },
+            {
+              "text": "Razgovaramo o najamnini.",
+              "ua": "Розмовляємо про оренду.",
+              "audio": "hr-les36-rule-19.mp3"
+            },
+            {
+              "text": "Imam pitanje o režijama.",
+              "ua": "Маю питання про комунальні витрати.",
+              "audio": "hr-les36-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає українська: довідка про, питання про."
+        },
+        {
+          "form": "za + знахідний",
+          "when_ua": "На що заява, за що рахунок.",
+          "examples": [
+            {
+              "text": "Šef čeka zahtjev za odmor.",
+              "ua": "Начальник чекає заяву на відпустку.",
+              "audio": "hr-les36-rule-21.mp3"
+            },
+            {
+              "text": "Platila sam račun za vodu.",
+              "ua": "Я заплатила рахунок за воду.",
+              "audio": "hr-les36-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Українське «заява на» тут не допомагає: хорватською zahtjev za, не «zahtjev na»."
+        },
+        {
+          "form": "na + знахідний",
+          "when_ua": "Відповідь на що, податок на що.",
+          "examples": [
+            {
+              "text": "Čekam odgovor na zahtjev.",
+              "ua": "Чекаю відповіді на заяву.",
+              "audio": "hr-les36-rule-23.mp3"
+            },
+            {
+              "text": "Nemam odgovora na pitanje.",
+              "ua": "Не маю відповіді на питання.",
+              "audio": "hr-les36-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Odgovor na, porez na, kamata na: na + знахідний. Zahtjev na хибне, zahtjev za вірне."
+        }
+      ],
+      "points_ua": [
+        "O + місцевий: potvrda o plaći.",
+        "Za + знахідний: zahtjev za odmor, račun za vodu.",
+        "Na + знахідний: porez na plaću, odgovor na pitanje."
+      ]
+    },
+    {
+      "title_ua": "Треба: trebam, treba mi, treba + інфінітив",
+      "summary_ua": "Trebam + знахідний: я потребую (Trebam ključ). Treba mi + називний: мені потрібне, і річ це підмет, тож дієслово погоджується з нею (treba mi potvrda, trebaju mi potvrde). Treba + інфінітив: безособове «треба». Українське «мені потрібен / мені треба» будує другу й третю форму так само, тож тут допомагає українська.",
+      "compare": [
+        {
+          "form": "Trebam + знахідний",
+          "when_ua": "Я сам потребую чогось.",
+          "examples": [
+            {
+              "text": "Trebam novi ključ.",
+              "ua": "Мені потрібен новий ключ.",
+              "audio": "hr-les36-rule-25.mp3"
+            },
+            {
+              "text": "Trebamo veći stan.",
+              "ua": "Нам потрібна більша квартира.",
+              "audio": "hr-les36-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Підмет це я чи ми: trebam, trebamo (Lekcija 13)."
+        },
+        {
+          "form": "Treba mi + називний",
+          "when_ua": "Мені потрібне щось, річ це підмет.",
+          "examples": [
+            {
+              "text": "Treba mi ključ.",
+              "ua": "Мені потрібен ключ.",
+              "audio": "hr-les36-rule-27.mp3"
+            },
+            {
+              "text": "Trebaju mi nove potvrde.",
+              "ua": "Мені потрібні нові довідки.",
+              "audio": "hr-les36-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Одна річ: treba. Кілька речей: trebaju. Mi стоїть другим."
+        },
+        {
+          "form": "Treba + інфінітив",
+          "when_ua": "Безособове: треба щось зробити.",
+          "examples": [
+            {
+              "text": "Treba platiti najamninu.",
+              "ua": "Треба заплатити орендну плату.",
+              "audio": "hr-les36-rule-29.mp3"
+            },
+            {
+              "text": "Ne treba čekati.",
+              "ua": "Чекати не треба.",
+              "audio": "hr-les36-rule-30.mp3"
+            },
+            {
+              "text": "Treba puno raditi.",
+              "ua": "Треба багато працювати.",
+              "audio": "hr-les36-rule-31.mp3"
+            }
+          ],
+          "note_ua": "Дієслово завжди treba, інфінітив іде за ним."
+        }
+      ],
+      "points_ua": [
+        "Trebam ključ: я потребую.",
+        "Treba mi ključ, trebaju mi potvrde: річ це підмет.",
+        "Treba platiti: безособове."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Ugovor o najmu je kod vlasnika.",
+      "ua": "Договір про оренду у власника.",
+      "audio": "hr-les36-example-01.mp3"
+    },
+    {
+      "text": "Najamnina je petsto eura.",
+      "ua": "Орендна плата п'ятсот євро.",
+      "audio": "hr-les36-example-02.mp3"
+    },
+    {
+      "text": "Stanodavac stanuje blizu nas.",
+      "ua": "Орендодавець живе біля нас.",
+      "audio": "hr-les36-example-03.mp3"
+    },
+    {
+      "text": "Režije nisu u najamnini.",
+      "ua": "Комунальні витрати не входять в оренду.",
+      "audio": "hr-les36-example-04.mp3"
+    },
+    {
+      "text": "Račun za struju je velik.",
+      "ua": "Рахунок за електрику великий.",
+      "audio": "hr-les36-example-05.mp3"
+    },
+    {
+      "text": "Vlasnik stana je dobar čovjek.",
+      "ua": "Власник квартири добра людина.",
+      "audio": "hr-les36-example-06.mp3"
+    },
+    {
+      "text": "Naše prebivalište je na ovoj adresi.",
+      "ua": "Наше місце проживання за цією адресою.",
+      "audio": "hr-les36-example-07.mp3"
+    },
+    {
+      "text": "Osobna iskaznica je u novčaniku.",
+      "ua": "Посвідчення особи в гаманці.",
+      "audio": "hr-les36-example-08.mp3"
+    },
+    {
+      "text": "Trebam potvrdu od firme.",
+      "ua": "Мені потрібна довідка від фірми.",
+      "audio": "hr-les36-example-09.mp3"
+    },
+    {
+      "text": "Zahtjev je na stolu.",
+      "ua": "Заява на столі.",
+      "audio": "hr-les36-example-10.mp3"
+    },
+    {
+      "text": "Idem na šalter u pet sati.",
+      "ua": "Іду до віконця о п'ятій.",
+      "audio": "hr-les36-example-11.mp3"
+    },
+    {
+      "text": "Na šalteru nema reda.",
+      "ua": "Біля віконця немає черги.",
+      "audio": "hr-les36-example-12.mp3"
+    },
+    {
+      "text": "Obitelj ima kredit za stan.",
+      "ua": "Родина має кредит на квартиру.",
+      "audio": "hr-les36-example-13.mp3"
+    },
+    {
+      "text": "Kamata na kredit je velika.",
+      "ua": "Відсоткова ставка за кредитом висока.",
+      "audio": "hr-les36-example-14.mp3"
+    },
+    {
+      "text": "Plaćam porez na plaću.",
+      "ua": "Плачу податок із зарплати.",
+      "audio": "hr-les36-example-15.mp3"
+    },
+    {
+      "text": "Prijavila sam novu adresu.",
+      "ua": "Я заявила нову адресу.",
+      "audio": "hr-les36-example-16.mp3"
+    },
+    {
+      "text": "Zahtjev ću podnijeti sutra.",
+      "ua": "Заяву я подам завтра.",
+      "audio": "hr-les36-example-17.mp3"
+    },
+    {
+      "text": "Želimo iznajmiti stan u gradu.",
+      "ua": "Ми хочемо орендувати квартиру в місті.",
+      "audio": "hr-les36-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Novi stan",
+    "title_ua": "Нова квартира",
+    "highlight": [
+      "hr-a9697a39",
+      "hr-6a733f69",
+      "hr-0b5e9cd5",
+      "hr-206ba87e",
+      "hr-15a0fa6e",
+      "hr-c0b4daa4",
+      "hr-5c7824d4",
+      "hr-e1945c0b",
+      "hr-90816f8c"
+    ],
+    "sentences": [
+      {
+        "text": "Preselili smo se u novi stan.",
+        "ua": "Ми переїхали в нову квартиру.",
+        "audio": "hr-les36-reading-01.mp3"
+      },
+      {
+        "text": "Stan je velik, a u zgradi je lift.",
+        "ua": "Квартира велика, а в будинку є ліфт.",
+        "audio": "hr-les36-reading-02.mp3"
+      },
+      {
+        "text": "Najamnina se plaća mjesečno.",
+        "ua": "Орендну плату платять щомісяця.",
+        "audio": "hr-les36-reading-03.mp3"
+      },
+      {
+        "text": "Struju plaćamo karticom.",
+        "ua": "За електрику ми платимо карткою.",
+        "audio": "hr-les36-reading-04.mp3"
+      },
+      {
+        "text": "Sutra idem na šalter s osobnom iskaznicom i ugovorom.",
+        "ua": "Завтра йду до віконця з посвідченням особи й договором.",
+        "audio": "hr-les36-reading-05.mp3"
+      },
+      {
+        "text": "Ispred šaltera je red, ali čekam.",
+        "ua": "Перед віконцем черга, але я чекаю.",
+        "audio": "hr-les36-reading-06.mp3"
+      },
+      {
+        "text": "Žena na šalteru je rekla da trebam i potvrdu o plaći.",
+        "ua": "Жінка біля віконця сказала, що мені потрібна ще й довідка про зарплату.",
+        "audio": "hr-les36-reading-07.mp3"
+      },
+      {
+        "text": "U petak ću podnijeti zahtjev.",
+        "ua": "У п'ятницю я подам заяву.",
+        "audio": "hr-les36-reading-08.mp3"
+      },
+      {
+        "text": "Naša prijateljica otplaćuje kredit.",
+        "ua": "Наша подруга виплачує кредит.",
+        "audio": "hr-les36-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Орендодавець дуже добрий.",
+          "accepted": [
+            "Stanodavac je vrlo dobar."
+          ]
+        },
+        {
+          "prompt": "Орендна плата не велика.",
+          "accepted": [
+            "Najamnina nije velika.",
+            "Najamnina nije visoka."
+          ]
+        },
+        {
+          "prompt": "Власник живе в нашій будівлі.",
+          "accepted": [
+            "Vlasnik stanuje u našoj zgradi."
+          ]
+        },
+        {
+          "prompt": "Скільки коштує електрика?",
+          "accepted": [
+            "Koliko košta struja?"
+          ]
+        },
+        {
+          "prompt": "Комунальні витрати великі.",
+          "accepted": [
+            "Režije su velike."
+          ]
+        },
+        {
+          "prompt": "Мені потрібне нове посвідчення особи.",
+          "accepted": [
+            "Treba mi nova osobna iskaznica.",
+            "Trebam novu osobnu iskaznicu."
+          ],
+          "check": "Конструкцію treba mi + називний перевірити в граматиці Croaticum."
+        },
+        {
+          "prompt": "Ключ у власника.",
+          "accepted": [
+            "Ključ je kod vlasnika."
+          ]
+        },
+        {
+          "prompt": "Ми чекаємо біля віконця.",
+          "accepted": [
+            "Čekamo na šalteru."
+          ]
+        },
+        {
+          "prompt": "Ми беремо кредит у банку.",
+          "accepted": [
+            "Uzimamo kredit u banci."
+          ]
+        },
+        {
+          "prompt": "Податок я плачу щомісяця.",
+          "accepted": [
+            "Porez plaćam mjesečno.",
+            "Mjesečno plaćam porez."
+          ]
+        },
+        {
+          "prompt": "Вона здає квартиру сестрі.",
+          "accepted": [
+            "Ona iznajmljuje stan sestri.",
+            "Iznajmljuje stan sestri."
+          ]
+        },
+        {
+          "prompt": "Ти вже зареєструвала нову адресу?",
+          "accepted": [
+            "Jesi li već prijavila novu adresu?"
+          ]
+        },
+        {
+          "prompt": "У понеділок він подасть заяву.",
+          "accepted": [
+            "U ponedjeljak će on podnijeti zahtjev.",
+            "On će podnijeti zahtjev u ponedjeljak.",
+            "U ponedjeljak će podnijeti zahtjev."
+          ]
+        },
+        {
+          "prompt": "Термін до дванадцятого червня.",
+          "accepted": [
+            "Rok je do dvanaestog lipnja."
+          ]
+        },
+        {
+          "prompt": "Я мушу подати заяву до п'ятого липня.",
+          "accepted": [
+            "Zahtjev moram podnijeti do petog srpnja.",
+            "Moram podnijeti zahtjev do petog srpnja."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "redu",
+        "najamninu",
+        "popraviti",
+        "selimo",
+        "zgradi",
+        "boravak",
+        "prebivalište",
+        "potvrdu",
+        "Mirovina",
+        "duga",
+        "porez",
+        "otplatila",
+        "podnosi",
+        "struju",
+        "kamatu",
+        "zahtjev"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ima puno ljudi, zato čekam u ___.",
+          "hint": "Людей багато, тому чекаю в черзі.",
+          "accepted": [
+            [
+              "redu"
+            ]
+          ]
+        },
+        {
+          "text": "Kad platim ___, imam manje novca.",
+          "hint": "Коли заплачу оренду, у мене менше грошей.",
+          "accepted": [
+            [
+              "najamninu"
+            ]
+          ]
+        },
+        {
+          "text": "Stanodavac je rekao da će ___ vrata.",
+          "hint": "Орендодавець сказав, що полагодить двері.",
+          "accepted": [
+            [
+              "popraviti"
+            ]
+          ]
+        },
+        {
+          "text": "U petak se ___ k baki.",
+          "hint": "У п'ятницю ми переїжджаємо до бабусі.",
+          "accepted": [
+            [
+              "selimo"
+            ]
+          ]
+        },
+        {
+          "text": "U našoj ___ nema lifta.",
+          "hint": "У нашій будівлі немає ліфта.",
+          "accepted": [
+            [
+              "zgradi"
+            ]
+          ]
+        },
+        {
+          "text": "Dozvola za ___ je važna.",
+          "hint": "Дозвіл на перебування важливий.",
+          "accepted": [
+            [
+              "boravak"
+            ]
+          ]
+        },
+        {
+          "text": "Moje ___ je u gradu.",
+          "hint": "Моє місце проживання в місті.",
+          "accepted": [
+            [
+              "prebivalište"
+            ]
+          ]
+        },
+        {
+          "text": "Šef mi daje ___ o plaći.",
+          "hint": "Начальник дає мені довідку про зарплату.",
+          "accepted": [
+            [
+              "potvrdu"
+            ]
+          ]
+        },
+        {
+          "text": "___ je manja od plaće.",
+          "hint": "Пенсія менша за зарплату.",
+          "accepted": [
+            [
+              "Mirovina"
+            ]
+          ]
+        },
+        {
+          "text": "Moja obitelj nema ___.",
+          "hint": "Моя родина не має боргу.",
+          "accepted": [
+            [
+              "duga",
+              "dugova"
+            ]
+          ]
+        },
+        {
+          "text": "Od plaće plaćam ___.",
+          "hint": "Із зарплати плачу податок.",
+          "accepted": [
+            [
+              "porez"
+            ]
+          ]
+        },
+        {
+          "text": "Prijateljica je ___ kredit u banci.",
+          "hint": "Подруга виплатила кредит у банку.",
+          "accepted": [
+            [
+              "otplatila"
+            ]
+          ]
+        },
+        {
+          "text": "Zahtjev se ___ na šalteru.",
+          "hint": "Заяву подають біля віконця.",
+          "accepted": [
+            [
+              "podnosi"
+            ]
+          ],
+          "check": "Se-пасив з підметом zahtjev і дієсловом podnosi з мого знання, перевірити в граматиці."
+        },
+        {
+          "text": "Račun za ___ dolazi mjesečno.",
+          "hint": "Рахунок за електрику приходить щомісяця.",
+          "accepted": [
+            [
+              "struju"
+            ]
+          ]
+        },
+        {
+          "text": "Kredit ima malu ___.",
+          "hint": "У кредиту мала відсоткова ставка.",
+          "accepted": [
+            [
+              "kamatu"
+            ]
+          ]
+        },
+        {
+          "text": "Moram napisati ___.",
+          "hint": "Я мушу написати заяву.",
+          "accepted": [
+            [
+              "zahtjev"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Plaćam najamninu.",
+          "cue": "-> Jučer sam ... (доконане, ж.)",
+          "accepted": [
+            "Jučer sam platila najamninu."
+          ]
+        },
+        {
+          "prompt": "Podnosim zahtjev.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću podnijeti zahtjev."
+          ]
+        },
+        {
+          "prompt": "Stanovi se iznajmljuje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Stanovi se iznajmljuju."
+          ]
+        },
+        {
+          "prompt": "Termin je do dvanaestog svibanja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Termin je do dvanaestog svibnja."
+          ]
+        },
+        {
+          "prompt": "Prijavljujem adresu.",
+          "cue": "-> минулий час, доконане (ja, ž.)",
+          "accepted": [
+            "Prijavila sam adresu."
+          ]
+        },
+        {
+          "prompt": "Pišem zahtjev na dozvolu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pišem zahtjev za dozvolu."
+          ]
+        },
+        {
+          "prompt": "Moram prijavljivati adresu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moram prijaviti adresu."
+          ]
+        },
+        {
+          "prompt": "Obrazac se popunjava.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Obrasci se popunjavaju."
+          ]
+        },
+        {
+          "prompt": "Zahtjev je u direktora.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zahtjev je kod direktora."
+          ]
+        },
+        {
+          "prompt": "Gdje je moj osobna iskaznica?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gdje je moja osobna iskaznica?"
+          ]
+        },
+        {
+          "prompt": "Potvrda je u torbi.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Potvrde su u torbi."
+          ]
+        },
+        {
+          "prompt": "Zovem stanodavac.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zovem stanodavca."
+          ]
+        },
+        {
+          "prompt": "Imam novca, otplaćujem kredit.",
+          "cue": "-> Kad bih ...",
+          "accepted": [
+            "Kad bih imala novca, otplatila bih kredit.",
+            "Kad bih imala novca, otplaćivala bih kredit.",
+            "Kad bih imao novca, otplatio bih kredit.",
+            "Kad bih imao novca, otplaćivao bih kredit."
+          ]
+        },
+        {
+          "prompt": "U petak ja ću platiti najamninu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "U petak ću platiti najamninu."
+          ]
+        },
+        {
+          "prompt": "Termin je za tjedan dana.",
+          "cue": "-> минуле: «тиждень тому»",
+          "accepted": [
+            "Termin je bio prije tjedan dana."
+          ],
+          "check": "Вираз prije tjedan dana («тиждень тому») з мого знання, перевірити в словнику."
+        },
+        {
+          "prompt": "Račun plaća se mjesečno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Račun se plaća mjesečno."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mi ___ stan od vlasnika.",
+          "cue": "iznajmljivati",
+          "accepted": [
+            "iznajmljujemo"
+          ]
+        },
+        {
+          "text": "Ja ___ adresu u uredu.",
+          "cue": "prijavljivati",
+          "accepted": [
+            "prijavljujem"
+          ]
+        },
+        {
+          "text": "Vi ___ zahtjev na šalteru.",
+          "cue": "podnositi",
+          "accepted": [
+            "podnosite"
+          ]
+        },
+        {
+          "text": "Moji roditelji ___ kredit.",
+          "cue": "otplaćivati",
+          "accepted": [
+            "otplaćuju"
+          ]
+        },
+        {
+          "text": "Vlasnik ___ ormar.",
+          "cue": "popravljati",
+          "accepted": [
+            "popravlja"
+          ]
+        },
+        {
+          "text": "Oni se ___ u grad.",
+          "cue": "seliti",
+          "accepted": [
+            "sele"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ zahtjev.",
+          "cue": "podnijeti (ž.)",
+          "accepted": [
+            "podnijela"
+          ],
+          "check": "Форму podnijela з мого знання (неправильна), перевірити в словнику."
+        },
+        {
+          "text": "Kad ___ kredit, idemo na more.",
+          "cue": "otplatiti",
+          "accepted": [
+            "otplatimo"
+          ]
+        },
+        {
+          "text": "Ona je ___ stan prijatelju.",
+          "cue": "iznajmiti (ž.)",
+          "accepted": [
+            "iznajmila"
+          ]
+        },
+        {
+          "text": "Vlasnik je ___ krevet.",
+          "cue": "popraviti (m.)",
+          "accepted": [
+            "popravio"
+          ]
+        },
+        {
+          "text": "Mi smo se ___ u utorak.",
+          "cue": "preseliti",
+          "accepted": [
+            "preselili"
+          ]
+        },
+        {
+          "text": "Ti ___ potvrdu od šefa.",
+          "cue": "trebati",
+          "accepted": [
+            "trebaš"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Усі слова з цього уроку.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "оренда (договір)",
+          "answer": "najam"
+        },
+        {
+          "prompt": "орендна плата",
+          "answer": "najamnina"
+        },
+        {
+          "prompt": "орендодавець",
+          "answer": "stanodavac"
+        },
+        {
+          "prompt": "комунальні витрати",
+          "answer": "režije"
+        },
+        {
+          "prompt": "власник",
+          "answer": "vlasnik"
+        },
+        {
+          "prompt": "місце проживання (в паперах)",
+          "answer": "prebivalište"
+        },
+        {
+          "prompt": "перебування",
+          "answer": "boravak"
+        },
+        {
+          "prompt": "дозвіл (документ)",
+          "answer": "dozvola"
+        },
+        {
+          "prompt": "посвідчення особи",
+          "answer": "osobna iskaznica"
+        },
+        {
+          "prompt": "довідка",
+          "answer": "potvrda"
+        },
+        {
+          "prompt": "заява, запит",
+          "answer": "zahtjev"
+        },
+        {
+          "prompt": "віконце, де обслуговують",
+          "answer": "šalter"
+        },
+        {
+          "prompt": "черга",
+          "answer": "red"
+        },
+        {
+          "prompt": "позика в банку",
+          "answer": "kredit"
+        },
+        {
+          "prompt": "відсоткова ставка",
+          "answer": "kamata"
+        },
+        {
+          "prompt": "податок",
+          "answer": "porez"
+        },
+        {
+          "prompt": "борг",
+          "answer": "dug"
+        },
+        {
+          "prompt": "пенсія",
+          "answer": "mirovina"
+        }
+      ],
+      "extra": [
+        "zgrada",
+        "struja"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1537 @@
+{
+  "id": "hr-les-38",
+  "lang": "hr",
+  "order": 38,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "stolu",
+    "nas",
+    "bilježnici",
+    "počinje",
+    "sati",
+    "šaljem",
+    "poruku",
+    "poruke",
+    "koštaju",
+    "košta",
+    "eura",
+    "te",
+    "nova",
+    "stanovima",
+    "plaćam",
+    "odgovaram",
+    "čita",
+    "čitam",
+    "čitamo",
+    "gledam",
+    "gledaju",
+    "ima",
+    "staru",
+    "torbi",
+    "školi",
+    "školu",
+    "sve",
+    "trebam",
+    "voli",
+    "nikome",
+    "govorim",
+    "govori",
+    "mogu",
+    "može",
+    "učiteljici",
+    "šaljemo",
+    "šalje",
+    "šalješ",
+    "završim",
+    "pitanja",
+    "koju",
+    "besplatno",
+    "svemu",
+    "razgovaramo",
+    "novinama",
+    "čemu",
+    "vjerujem",
+    "otvaram",
+    "bratom",
+    "autobusom",
+    "karticom",
+    "gotovinom",
+    "spojite",
+    "možete",
+    "svoju",
+    "moje",
+    "moja",
+    "moji",
+    "novu",
+    "novi",
+    "dobra",
+    "dobru",
+    "dobro",
+    "stara",
+    "piše",
+    "slušam",
+    "tražim",
+    "radi",
+    "kuće",
+    "mog",
+    "roditelji",
+    "autima",
+    "otac",
+    "kuhinji",
+    "imamo",
+    "ide",
+    "banku",
+    "baki",
+    "bake",
+    "toj",
+    "ovoj",
+    "ovaj",
+    "ova",
+    "veliki",
+    "sastanka",
+    "zove",
+    "me",
+    "puno",
+    "to",
+    "ono",
+    "ovo",
+    "nemojte",
+    "novo",
+    "stanici"
+  ],
+  "notes": [
+    {
+      "id": "hr-ebc60f41",
+      "type": "noun",
+      "lemma": "računalo",
+      "gender": "s.",
+      "gen_sg": "računala",
+      "plural": [
+        "računala"
+      ],
+      "ua": "комп'ютер",
+      "audio": "hr-racunalo.mp3",
+      "forms": [
+        "računala",
+        "računalu",
+        "računalom"
+      ],
+      "explain_ua": "(Računalo je na stolu = комп'ютер на столі). УВАГА, рід: в українській і російській комп'ютер чоловічого роду, а хорватське računalo СЕРЕДНЬОГО: moje računalo, računalo je novo, не «moj računalo». Закінчення як в more і mlijeko (Lekcija 2, 4): računalo, računala, u računalu, s računalom. Сербською кажуть računar: це інший стандарт, ми вчимо хорватське.",
+      "check": "Форми за зразком mlijeko з мого знання. Сербське računar подаю з мого знання, не з перевіреного джерела."
+    },
+    {
+      "id": "hr-23a84dae",
+      "type": "noun",
+      "lemma": "mobitel",
+      "gender": "m.",
+      "gen_sg": "mobitela",
+      "plural": [
+        "mobiteli"
+      ],
+      "ua": "мобільний телефон",
+      "audio": "hr-mobitel.mp3",
+      "forms": [
+        "mobitela",
+        "mobitelu",
+        "mobitelom",
+        "mobiteli",
+        "mobitele"
+      ],
+      "explain_ua": "(Moj mobitel je nov = мій мобільний новий). Чоловічого роду, неживе: mobitel, mobitela, na mobitelu (місцевий), mobiteli. Знахідний неживого такий самий, як називний (imam mobitel), а після nema родовий (nema mobitela). Telefon (Lekcija 13) теж живе, але про мобільний у розмові кажуть mobitel.",
+      "check": "Форми за зразком grad з мого знання; що mobitel це звичайне хорватське слово, з мого знання."
+    },
+    {
+      "id": "hr-58a9f0e8",
+      "type": "noun",
+      "lemma": "internet",
+      "gender": "m.",
+      "gen_sg": "interneta",
+      "plural": [],
+      "ua": "інтернет",
+      "audio": "hr-internet.mp3",
+      "forms": [
+        "interneta",
+        "internetu"
+      ],
+      "explain_ua": "(Kod nas nema interneta = у нас нема інтернету). Слово звучить знайомо, і саме тому легко забути закінчення: чоловічого роду, неживе, internet, interneta, na internetu (місцевий), nema interneta (родовий після nema, Lekcija 4). Множини практично нема. Пиши з малої літери.",
+      "check": "Форми з мого знання; що множини практично нема і що слово пишеться з малої літери, перевірити в словнику й правописі."
+    },
+    {
+      "id": "hr-71459f06",
+      "type": "noun",
+      "lemma": "aplikacija",
+      "gender": "ž.",
+      "gen_sg": "aplikacije",
+      "plural": [
+        "aplikacije"
+      ],
+      "ua": "застосунок, додаток (на телефоні)",
+      "audio": "hr-aplikacija.mp3",
+      "forms": [
+        "aplikacije",
+        "aplikaciju",
+        "aplikaciji"
+      ],
+      "explain_ua": "(Čitam vijesti u aplikaciji = читаю новини в застосунку). Жіночий рід на -a: aplikacija, aplikacije, aplikaciju (знахідний), u aplikaciji (місцевий). Слово знайоме, а закінчення нові: не «taj aplikacija», а ova aplikacija. Підказка для пам'яті, не з перевіреної таблиці: українське «аплікація» значить інше (картинка з вирізаних шматків), а «застосунок» хорватською aplikacija.",
+      "check": "Форми за зразком škola з мого знання. Зауваження про українське аплікація це підказка для пам'яті, не перевірена пара."
+    },
+    {
+      "id": "hr-5a847297",
+      "type": "noun",
+      "lemma": "lozinka",
+      "gender": "ž.",
+      "gen_sg": "lozinke",
+      "plural": [
+        "lozinke"
+      ],
+      "ua": "пароль",
+      "audio": "hr-lozinka.mp3",
+      "forms": [
+        "lozinke",
+        "lozinku",
+        "lozinci",
+        "lozinkom",
+        "lozinki"
+      ],
+      "explain_ua": "(Lozinka je u bilježnici = пароль у зошиті). УВАГА, рід: український і російський «пароль» чоловічого роду, а lozinka ЖІНОЧОГО: moja lozinka, nova lozinka, не «moj lozinka». Жіночий рід на -ka: lozinka, lozinke, lozinku (знахідний), lozinkom (орудний), а у місцевому й давальному k > c: o lozinci (як kartica > kartici, majka > majci). Корінь інший, слово просто нове.",
+      "check": "Форми за зразком kartica / majka з мого знання; k > c у місцевому (lozinci) і родовий множини lozinki перевірити в словнику."
+    },
+    {
+      "id": "hr-ecbf1c72",
+      "type": "noun",
+      "lemma": "mreža",
+      "gender": "ž.",
+      "gen_sg": "mreže",
+      "plural": [
+        "mreže"
+      ],
+      "ua": "мережа (інтернет, мобільний зв'язок)",
+      "audio": "hr-mreza.mp3",
+      "forms": [
+        "mreže",
+        "mrežu",
+        "mreži"
+      ],
+      "explain_ua": "(Ovdje nema mreže = тут немає мережі). Жіночий рід на -a, як українська «мережа» (корінь той самий, тож слово вільне). Mreža, mreže, mrežu (знахідний), na mreži (місцевий). Spojiti se na mrežu: na + знахідний, бо відповідь на «куди». Російське «сеть» тут не допомагає.",
+      "check": "Форми за зразком škola. Значення «мережа» для інтернету й мобільного зв'язку з мого знання."
+    },
+    {
+      "id": "hr-276d85a4",
+      "type": "noun",
+      "lemma": "zaslon",
+      "gender": "m.",
+      "gen_sg": "zaslona",
+      "plural": [
+        "zasloni"
+      ],
+      "ua": "екран",
+      "audio": "hr-zaslon.mp3",
+      "forms": [
+        "zaslona",
+        "zaslonu",
+        "zasloni"
+      ],
+      "explain_ua": "(Zaslon računala je velik = екран комп'ютера великий). Чоловічого роду, неживе: zaslon, zaslona, na zaslonu (місцевий), zasloni. Українське і російське «екран» тут не допомагають: хорватське слово зовсім інше, воно просто нове.",
+      "check": "Форми zaslona, zasloni з мого знання; що a тут не нестійке, перевірити в словнику."
+    },
+    {
+      "id": "hr-b12e4775",
+      "type": "noun",
+      "lemma": "stranica",
+      "gender": "ž.",
+      "gen_sg": "stranice",
+      "plural": [
+        "stranice"
+      ],
+      "ua": "сторінка (книги, сайту)",
+      "audio": "hr-stranica.mp3",
+      "forms": [
+        "stranice",
+        "stranicu",
+        "stranici",
+        "stranica"
+      ],
+      "explain_ua": "(Čitam članak na ovoj stranici = читаю статтю на цій сторінці). Жіночий рід: stranica, stranice, stranicu (знахідний), na stranici (місцевий: -ica > -ici). Родовий множини stranica (nekoliko stranica). НЕ плутай із stanica (Lekcija 16): stranica = сторінка, stanica = зупинка. Одна буква r, а значення різні, тому обидва слова варто писати під диктант. Схоже на українське «сторінка»: підказка для пам'яті, не етимологія.",
+      "check": "Форми за зразком kartica; родовий множини stranica з мого знання. Збіг із сторінка лише підказка."
+    },
+    {
+      "id": "hr-d0288956",
+      "type": "noun",
+      "lemma": "e-pošta",
+      "gender": "ž.",
+      "gen_sg": "e-pošte",
+      "plural": [],
+      "ua": "електронна пошта",
+      "audio": "hr-e-posta.mp3",
+      "forms": [
+        "e-pošte",
+        "e-poštu",
+        "e-poštom"
+      ],
+      "explain_ua": "(Šaljem poruku e-poštom = надсилаю повідомлення електронною поштою). Складається з e- і pošta (Lekcija 5, 22): жіночий рід, e-pošta, e-pošte, e-poštu (знахідний), e-poštom (орудний). Пишемо через дефіс. У розмові чуєш і mail / mejl (з англійської), але в письмовому тексті пиши e-pošta.",
+      "check": "Форми за зразком pošta. Дефіс і розмовні mail / mejl з мого знання, перевірити в словнику й правописі."
+    },
+    {
+      "id": "hr-bdd09e9e",
+      "type": "noun",
+      "lemma": "datoteka",
+      "gender": "ž.",
+      "gen_sg": "datoteke",
+      "plural": [
+        "datoteke"
+      ],
+      "ua": "файл",
+      "audio": "hr-datoteka.mp3",
+      "forms": [
+        "datoteke",
+        "datoteku",
+        "datoteci",
+        "datotekom"
+      ],
+      "explain_ua": "(Datoteka je u računalu = файл у комп'ютері). Жіночий рід на -ka, як lozinka: datoteka, datoteke, datoteku (знахідний), u datoteci (k > c). В українській і російській «файл» чоловічого роду, а datoteka жіночого: moja datoteka. Слово «fajl» ми не вчимо: хорватською стандартне datoteka.",
+      "check": "Форми за зразком lozinka; datoteci з мого знання. Що сербською кажуть fajl, з мого знання, не перевірено."
+    },
+    {
+      "id": "hr-88c9a876",
+      "type": "noun",
+      "lemma": "baterija",
+      "gender": "ž.",
+      "gen_sg": "baterije",
+      "plural": [
+        "baterije"
+      ],
+      "ua": "батарейка, акумулятор (в телефоні)",
+      "audio": "hr-baterija.mp3",
+      "forms": [
+        "baterije",
+        "bateriju",
+        "bateriji"
+      ],
+      "explain_ua": "(Nova baterija košta pet eura = нова батарея коштує п'ять євро). Жіночий рід: baterija, baterije, bateriju (знахідний), u bateriji. Це батарейка й акумулятор у телефоні чи пульті. Українське «батарея» ще й опалення, а baterija тут про опалення не кажуть.",
+      "check": "Форми за зразком škola. Різницю з українською батареєю опалення подаю з мого знання, перевірити в словнику."
+    },
+    {
+      "id": "hr-b8cd185a",
+      "type": "noun",
+      "lemma": "punjač",
+      "gender": "m.",
+      "gen_sg": "punjača",
+      "plural": [
+        "punjači"
+      ],
+      "ua": "зарядка, зарядний пристрій",
+      "audio": "hr-punjac.mp3",
+      "forms": [
+        "punjača",
+        "punjaču",
+        "punjači"
+      ],
+      "explain_ua": "(Punjač i nova baterija koštaju dvadeset eura = зарядка й нова батарея коштують двадцять євро). Чоловічого роду, неживе: punjač, punjača, punjači. Знахідний такий самий, як називний: trebam punjač. Корінь інший, ніж в українському «зарядка»: слово просто нове.",
+      "check": "Форми за зразком učitelj / nož з мого знання; слово punjač перевірити в словнику."
+    },
+    {
+      "id": "hr-9f33c058",
+      "type": "verb",
+      "lemma": "uključivati",
+      "aspect": "impf.",
+      "partner": "uključiti",
+      "pres_1sg": "uključujem",
+      "forms": [
+        "uključuješ",
+        "uključuje",
+        "uključujemo",
+        "uključujete",
+        "uključuju",
+        "uključiti",
+        "uključim",
+        "uključi",
+        "uključite",
+        "uključila",
+        "uključio",
+        "uključujem"
+      ],
+      "ua": "вмикати (док. uključiti)",
+      "audio": "hr-ukljucivati.mp3",
+      "explain_ua": "(Uključi računalo, molim te = увімкни комп'ютер, будь ласка). Пара: uključivati (недок.) / uključiti (док.): uključujem = вмикаю щоразу, uključila sam = увімкнула, результат. Теперішній від -ivati це -ujem, не «uključivam» (як uplaćujem, Lekcija 34). Наказ від док.: uključi, uključite. Підказка для пам'яті, не етимологія: ključ (Lekcija 24) = ключ. Українське «увімкнути» має інший корінь, тут допомагає лише російське «включить», яке звучить подібно: вчи пару цілою.",
+      "check": "Пару та форми з мого знання. Зв'язок із ključ і подібність до російського включить це підказки для пам'яті, не перевірена етимологія."
+    },
+    {
+      "id": "hr-e9aebf16",
+      "type": "verb",
+      "lemma": "isključivati",
+      "aspect": "impf.",
+      "partner": "isključiti",
+      "pres_1sg": "isključujem",
+      "forms": [
+        "isključuješ",
+        "isključuje",
+        "isključujemo",
+        "isključujete",
+        "isključuju",
+        "isključiti",
+        "isključim",
+        "isključi",
+        "isključite",
+        "isključila",
+        "isključio",
+        "isključujem"
+      ],
+      "ua": "вимикати (док. isključiti)",
+      "audio": "hr-iskljucivati.mp3",
+      "explain_ua": "(Isključite telefon, molim = вимкніть телефон, будь ласка). Пара: isključivati (недок.) / isključiti (док.), протилежність до uključiti. Isključiti значить і «вимкнути», і «виключити» (з групи, зі списку). Російське «исключить» звучить так само, але значить лише «виключити зі списку», а «вимкнути» там «выключить»: тому для техніки вчи саме пару uključiti / isključiti. Підказка для пам'яті, не з перевіреної таблиці.",
+      "check": "Пару та форми з мого знання. Порівняння з російським исключить / выключить подаю з мого знання, не з перевіреної таблиці хибних друзів, у банку не записую."
+    },
+    {
+      "id": "hr-1b330d96",
+      "type": "verb",
+      "lemma": "spajati",
+      "aspect": "impf.",
+      "partner": "spojiti",
+      "pres_1sg": "spajam",
+      "forms": [
+        "spajaš",
+        "spaja",
+        "spajamo",
+        "spajate",
+        "spajaju",
+        "spajala",
+        "spojiti",
+        "spojim",
+        "spojila",
+        "spojio",
+        "spoji",
+        "spojite",
+        "spajam"
+      ],
+      "ua": "(spajati se) під'єднуватися (док. spojiti se)",
+      "audio": "hr-spajati.mp3",
+      "explain_ua": "(Spajam se na internet = підключаюся до інтернету). Зворотне, як bojati se (Lekcija 19): se стоїть на другому місці, spajam se, ponekad se spajam. Пара: spajati se (недок.) / spojiti se (док.), корінь змінюється o > a: spojiti, але spajam. Теперішній як у čitati: spajam, spajaš, spaja. Куди: na + знахідний (na mrežu, na internet). Spojiti без se значить «з'єднати щось».",
+      "check": "Пару та форми з мого знання; spojiti se na + знахідний і теперішній spajam перевірити в словнику."
+    },
+    {
+      "id": "hr-c5d607e5",
+      "type": "verb",
+      "lemma": "pretraživati",
+      "aspect": "impf.",
+      "partner": "pretražiti",
+      "pres_1sg": "pretražujem",
+      "forms": [
+        "pretražuješ",
+        "pretražuje",
+        "pretražujemo",
+        "pretražujete",
+        "pretražuju",
+        "pretražiti",
+        "pretražim",
+        "pretražila",
+        "pretražio",
+        "pretražujem"
+      ],
+      "ua": "шукати, переглядати (в інтернеті) (док. pretražiti)",
+      "audio": "hr-pretrazivati.mp3",
+      "explain_ua": "(Pretražujem stranice o stanovima = шукаю сторінки про квартири). Пара: pretraživati (недок.) / pretražiti (док.). Pretraživati це переглядати багато джерел (internet, stranice), а tražiti (Lekcija 26) це шукати щось одне. Теперішній -ujem, ž залишається: pretražujem. Українське «шукати» і російське «искать» тут слова інші, пара нова.",
+      "check": "Пару та форми pretražujem, pretražim з мого знання; чи pretraživati вживають саме для інтернету, перевірити в словнику."
+    },
+    {
+      "id": "hr-c216ff5a",
+      "type": "verb",
+      "lemma": "preuzimati",
+      "aspect": "impf.",
+      "partner": "preuzeti",
+      "pres_1sg": "preuzimam",
+      "forms": [
+        "preuzimaš",
+        "preuzima",
+        "preuzimamo",
+        "preuzimate",
+        "preuzimaju",
+        "preuzeti",
+        "preuzmem",
+        "preuzela",
+        "preuzeo",
+        "preuzmite",
+        "preuzimam"
+      ],
+      "ua": "завантажувати; отримувати (посилку) (док. preuzeti)",
+      "audio": "hr-preuzimati.mp3",
+      "explain_ua": "(Preuzimam aplikaciju na mobitel = завантажую застосунок на мобільний). Пара: preuzimati (недок.) / preuzeti (док.): preuzimam, але preuzmem (корінь uzeti, як uzimati / uzeti, Lekcija 23). Минулий: preuzeo, preuzela. Два значення: «завантажити» (preuzeti datoteku) і «забрати, отримати» (preuzeti paket на пошті, paket Lekcija 15). Контекст підкаже, це polysemy, а не хибний друг. Наказ: preuzmite.",
+      "check": "Пару та форми preuzmem, preuzeo, preuzela, preuzmite з мого знання (неправильні форми), перевірити в словнику."
+    },
+    {
+      "id": "hr-2ec98de5",
+      "type": "verb",
+      "lemma": "objavljivati",
+      "aspect": "impf.",
+      "partner": "objaviti",
+      "pres_1sg": "objavljujem",
+      "forms": [
+        "objavljuješ",
+        "objavljuje",
+        "objavljujemo",
+        "objavljujete",
+        "objavljuju",
+        "objaviti",
+        "objavim",
+        "objavila",
+        "objavio",
+        "objavuje"
+      ],
+      "ua": "публікувати, оголошувати (док. objaviti)",
+      "audio": "hr-objavljivati.mp3",
+      "explain_ua": "(Učiteljica objavljuje test na stranici = вчителька публікує тест на сторінці). Пара: objavljivati (недок.) / objaviti (док.). Перед -ivati v стає vlj: objaviti, але objavljujem (як t > ć і d > đ у Lekcije 34). Теперішній -ujem, не «objavivam». Підказка для пам'яті, не перевірена етимологія: у середині є javljati (Lekcija 19) = повідомляти.",
+      "check": "Пару та форми objavljujem, objavim, objavila з мого знання; v > vlj і зв'язок із javljati перевірити в словнику."
+    },
+    {
+      "id": "hr-429d6c28",
+      "type": "function",
+      "lemma": "putem",
+      "ua": "через, шляхом (+ родовий): канал зв'язку",
+      "audio": "hr-putem.mp3",
+      "explain_ua": "(Odgovaram na poruke putem e-pošte = відповідаю на повідомлення електронною поштою). Прийменник із родовим, як preko, kroz (Lekcija 27): putem e-pošte, putem telefona, putem aplikacije. Каже, ЯКИМ каналом: пошта, телефон, інтернет. Підказка для пам'яті, не етимологія: схоже на put (Lekcija 27) і на російське «путём». Слово типове для офіційних листів.",
+      "check": "Значення та родовий з мого знання. Зв'язок із put і путём лише підказка. Що putem характерне для офіційного стилю, перевірити в словнику."
+    },
+    {
+      "id": "hr-aaf7c65b",
+      "type": "function",
+      "lemma": "pomoću",
+      "ua": "за допомогою (+ родовий): засіб, інструмент",
+      "audio": "hr-pomocu.mp3",
+      "explain_ua": "(Plaćam račun pomoću aplikacije = плачу рахунок за допомогою застосунку). Прийменник із родовим: pomoću aplikacije, pomoću računala, pomoću kartice. Українське «за допомогою + родовий» будується так само: безкоштовний виграш. Підказка для пам'яті, не етимологія: pomagati (Lekcija 20) = допомагати. Не змішуй: «pomoću karticom» помилка. Або pomoću kartice, або просто karticom.",
+      "check": "Значення та родовий з мого знання. Зв'язок із pomagati лише підказка."
+    },
+    {
+      "id": "hr-27635e58",
+      "type": "noun",
+      "lemma": "vijesti",
+      "gender": "ž.",
+      "gen_sg": "vijesti",
+      "plural": [
+        "vijesti"
+      ],
+      "ua": "новини (здебільшого множина)",
+      "audio": "hr-vijesti.mp3",
+      "forms": [
+        "vijest",
+        "vijestima"
+      ],
+      "explain_ua": "(Vijesti gledam navečer = новини дивлюся ввечері). Жіночий рід, найчастіше множина: vijesti, o vijestima (місцевий). Одна новина: vijest, vijesti (родовий), i-основа. Пиши ije: vijest, vijesti (як rijeka, Lekcija 33). Vijesti = новини, novine (нижче) = газета: не міняй їх місцями.",
+      "check": "Форми vijest, vijesti, vijestima з мого знання; ije у цьому слові перевірити в словнику."
+    },
+    {
+      "id": "hr-14783825",
+      "type": "noun",
+      "lemma": "novine",
+      "gender": "ž.",
+      "gen_sg": "novina",
+      "plural": [
+        "novine"
+      ],
+      "ua": "газета (тільки множина)",
+      "audio": "hr-novine.mp3",
+      "forms": [
+        "novina",
+        "novinama"
+      ],
+      "explain_ua": "(Baka čita novine = бабуся читає газету). Жіночий рід і ТІЛЬКИ множина: novine, novina (родовий), u novinama (місцевий). «Газета» хорватською завжди множина: baka čita novine, не «novinu». УВАГА, підказка: українське «новини» (= новини) схоже на novine, але «новини» хорватською vijesti, а novine це газета. Підказка для пам'яті, не з перевіреної таблиці хибних друзів.",
+      "check": "Форми з мого знання. Пара новини / novine лише кандидат у хибні друзі, не перевірена в таблиці, у банку не записую."
+    },
+    {
+      "id": "hr-0bba891f",
+      "type": "noun",
+      "lemma": "članak",
+      "gender": "m.",
+      "gen_sg": "članka",
+      "plural": [
+        "članci"
+      ],
+      "ua": "стаття (в газеті, на сайті)",
+      "audio": "hr-clanak.mp3",
+      "forms": [
+        "članka",
+        "članku",
+        "članci",
+        "članke",
+        "članaka"
+      ],
+      "explain_ua": "(Čitam članak u časopisu = читаю статтю в журналі). Нестійке a (Lekcija 34): članak, članka, u članku. K > c перед -i: članci (як udžbenik > udžbenici, Lekcija 31). Родовий множини članaka (puno članaka): a повертається. Пиши č на початку.",
+      "check": "Форми članka, članci, članaka з мого знання за зразком novac / udžbenik."
+    },
+    {
+      "id": "hr-db7d4261",
+      "type": "noun",
+      "lemma": "časopis",
+      "gender": "m.",
+      "gen_sg": "časopisa",
+      "plural": [
+        "časopisi"
+      ],
+      "ua": "журнал (періодичне видання)",
+      "audio": "hr-casopis.mp3",
+      "forms": [
+        "časopisa",
+        "časopisu",
+        "časopisi"
+      ],
+      "explain_ua": "(Časopis je kod bake = журнал у бабусі). Чоловічого роду, неживе: časopis, časopisa, u časopisu, časopisi. Українське «часопис» (книжне слово) майже те саме, але звичайне слово «журнал»: хорватською časopis.",
+      "check": "Форми за зразком grad з мого знання. Що українське часопис книжне, подаю з мого знання."
+    },
+    {
+      "id": "hr-0d13e67c",
+      "type": "noun",
+      "lemma": "emisija",
+      "gender": "ž.",
+      "gen_sg": "emisije",
+      "plural": [
+        "emisije"
+      ],
+      "ua": "передача (на телебаченні, радіо)",
+      "audio": "hr-emisija.mp3",
+      "forms": [
+        "emisije",
+        "emisiju",
+        "emisiji"
+      ],
+      "explain_ua": "(Emisija počinje u osam sati = передача починається о восьмій). Жіночий рід: emisija, emisije, emisiju (знахідний), u emisiji. Родовий множини emisija. УВАГА, підказка: українське «емісія» значить інше (випуск цінних паперів, викиди), тут слово просто нове. Підказка для пам'яті, не з перевіреної таблиці.",
+      "check": "Форми за зразком škola. Зауваження про українське емісія лише кандидат, не перевірена пара, у банку не записую."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Вид, другий круг: uključiti - uključivati, objaviti - objavljivati, spojiti se - spajati se, preuzeti - preuzimati",
+      "summary_ua": "Ті самі пари, що в Lekcije 34 (uplatiti - uplaćivati): док. на -iti, недок. на -ivati (uključiti > uključivati, isključiti > isključivati, pretražiti > pretraživati). Теперішній від -ivati це -ujem (uključujem, не «uključivam»). Ще три способи: objaviti > objavljivati (v > vlj), spojiti se > spajati se (o > a, без -ivati), preuzeti > preuzimati (-zeti > -zimati). Суфікс -ivati схожий на російське -ивать, а теперішній -ujem на українське -ую, але самі корені тут інші: вчи кожну пару цілою.",
+      "compare": [
+        {
+          "form": "-iti > -ivati: uključiti, isključiti, pretražiti",
+          "when_ua": "Основа не змінюється: док. для результату, недок. для звички й процесу.",
+          "examples": [
+            {
+              "text": "Jučer sam uključila računalo.",
+              "ua": "Вчора я увімкнула комп'ютер.",
+              "audio": "hr-les38-rule-01.mp3"
+            },
+            {
+              "text": "Ujutro uvijek uključujem računalo.",
+              "ua": "Вранці я завжди вмикаю комп'ютер.",
+              "audio": "hr-les38-rule-02.mp3"
+            },
+            {
+              "text": "Navečer isključujem mobitel.",
+              "ua": "Ввечері я вимикаю мобільний.",
+              "audio": "hr-les38-rule-03.mp3"
+            },
+            {
+              "text": "Sutra ću pretražiti internet.",
+              "ua": "Завтра я пошукаю в інтернеті.",
+              "audio": "hr-les38-rule-04.mp3"
+            },
+            {
+              "text": "Često pretražujem internet.",
+              "ua": "Я часто шукаю в інтернеті.",
+              "audio": "hr-les38-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Теперішній -ujem: uključujem, isključujem, pretražujem. Не «uključivam»."
+        },
+        {
+          "form": "objaviti > objavljivati: v > vlj",
+          "when_ua": "Перед -ivati звук v стає vlj.",
+          "examples": [
+            {
+              "text": "Jučer je učiteljica objavila pitanja.",
+              "ua": "Вчора вчителька опублікувала питання.",
+              "audio": "hr-les38-rule-06.mp3"
+            },
+            {
+              "text": "Ona često objavljuje pitanja na stranici.",
+              "ua": "Вона часто публікує питання на сторінці.",
+              "audio": "hr-les38-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Така сама зміна приголосного, як у Lekcije 34 (t > ć, d > đ), тільки тут v > vlj."
+        },
+        {
+          "form": "spojiti se > spajati se: o > a",
+          "when_ua": "Тут голосна змінюється, і -ivati нема.",
+          "examples": [
+            {
+              "text": "Jučer sam se spojila na mrežu u školi.",
+              "ua": "Вчора я підключилася до мережі в школі.",
+              "audio": "hr-les38-rule-08.mp3"
+            },
+            {
+              "text": "Često se spajam na mrežu u školi.",
+              "ua": "Я часто підключаюся до мережі в школі.",
+              "audio": "hr-les38-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Se стоїть на другому місці: sam se spojila, često se spajam."
+        },
+        {
+          "form": "preuzeti > preuzimati: -zeti > -zimati",
+          "when_ua": "Неправильна пара, як uzeti > uzimati (Lekcija 23).",
+          "examples": [
+            {
+              "text": "Jučer sam preuzela datoteku.",
+              "ua": "Вчора я завантажила файл.",
+              "audio": "hr-les38-rule-10.mp3"
+            },
+            {
+              "text": "Često preuzimam datoteke.",
+              "ua": "Я часто завантажую файли.",
+              "audio": "hr-les38-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Док. теперішній preuzmem, недок. preuzimam. Два значення: завантажити й забрати."
+        }
+      ],
+      "points_ua": [
+        "uključiti / uključivati, isključiti / isključivati: -ujem.",
+        "objaviti / objavljivati: v > vlj.",
+        "spojiti se / spajati se: o > a. Preuzeti / preuzimati.",
+        "Пари вчи цілими: корені не з української і не з російської."
+      ]
+    },
+    {
+      "title_ua": "Sve što, ono što, nešto što: що після займенників",
+      "summary_ua": "Після іменника стоїть koji (knjiga koju čitam, Lekcija 19, 26). Після sve, ono, nešto, to стоїть što: sve što trebam, ono što tražim, nešto što je besplatno. Українське «все, що» і російське «всё, что» будуються так само: безкоштовний виграш. Пунктуація інша: хорватською перед što коми нема, а якщо речення із sve što стоїть на початку, кома після нього (Sve što trebam, pretražujem na internetu). Нове лише одне: sve змінюється за відмінком (svemu), а što ні, і займенник усередині речення бере відмінок свого дієслова чи прийменника (ono čemu vjerujem, sve o čemu govorim).",
+      "compare": [
+        {
+          "form": "koji після іменника; što після sve, ono, nešto",
+          "when_ua": "Є іменник: koji. Іменника нема, є sve, ono, nešto: što.",
+          "examples": [
+            {
+              "text": "Ovo je aplikacija koju trebam.",
+              "ua": "Це застосунок, який мені потрібен.",
+              "audio": "hr-les38-rule-12.mp3"
+            },
+            {
+              "text": "Imam sve što trebam za tečaj.",
+              "ua": "Маю все, що мені треба для курсу.",
+              "audio": "hr-les38-rule-13.mp3"
+            },
+            {
+              "text": "Trebam nešto što je besplatno.",
+              "ua": "Мені потрібно щось, що безкоштовне.",
+              "audio": "hr-les38-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Bridge: українська й російська тут збігаються, тож цю структуру ти вже вмієш."
+        },
+        {
+          "form": "sve змінюється, što ні",
+          "when_ua": "Sve бере відмінок від дієслова чи прийменника: svemu, o svemu.",
+          "examples": [
+            {
+              "text": "Ne vjerujem svemu što čitam na internetu.",
+              "ua": "Я не вірю всьому, що читаю в інтернеті.",
+              "audio": "hr-les38-rule-15.mp3"
+            },
+            {
+              "text": "Razgovaramo o svemu što čitamo u novinama.",
+              "ua": "Ми розмовляємо про все, що читаємо в газеті.",
+              "audio": "hr-les38-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Vjerovati + давальний (Lekcija 32): svemu. O + місцевий: o svemu. Što залишається."
+        },
+        {
+          "form": "ono čemu, sve o čemu",
+          "when_ua": "Займенник всередині речення: відмінок від свого дієслова чи прийменника.",
+          "examples": [
+            {
+              "text": "To je ono čemu vjerujem.",
+              "ua": "Це те, чому я вірю.",
+              "audio": "hr-les38-rule-17.mp3"
+            },
+            {
+              "text": "To je sve o čemu govorim.",
+              "ua": "Це все, про що я говорю.",
+              "audio": "hr-les38-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Čemu (давальний від što, бо vjerovati + давальний), o čemu (місцевий). Це найабстрактніша частина картки."
+        }
+      ],
+      "points_ua": [
+        "Koji після іменника, što після sve, ono, nešto.",
+        "Sve змінюється (svemu), što ні.",
+        "Ono čemu, sve o čemu: відмінок від дієслова чи прийменника."
+      ]
+    },
+    {
+      "title_ua": "Putem, pomoću, preko + родовий; орудний без прийменника",
+      "summary_ua": "Канал: putem e-pošte, putem telefona, preko interneta. Засіб, інструмент: pomoću aplikacije, pomoću računala. Усі три з родовим. Зате звичайний засіб у розмові це орудний без прийменника (Lekcija 14): autobusom, karticom, e-poštom. Не змішуй два способи в одному: «pomoću karticom» помилка, або pomoću kartice, або karticom. Українське «через інтернет» і російське «через интернет» дають preko interneta (безкоштовний виграш), а «за допомогою + родовий» дає pomoću.",
+      "compare": [
+        {
+          "form": "putem, preko + родовий",
+          "when_ua": "Канал: яким шляхом іде повідомлення чи розмова.",
+          "examples": [
+            {
+              "text": "Učiteljica šalje zadatak putem e-pošte.",
+              "ua": "Вчителька надсилає завдання електронною поштою.",
+              "audio": "hr-les38-rule-19.mp3"
+            },
+            {
+              "text": "Razgovaram s bratom preko interneta.",
+              "ua": "Я розмовляю з братом через інтернет.",
+              "audio": "hr-les38-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Putem і preko обидва з родовим. Putem звучить офіційніше."
+        },
+        {
+          "form": "pomoću + родовий",
+          "when_ua": "Засіб, інструмент: чим, за допомогою чого.",
+          "examples": [
+            {
+              "text": "Otvaram datoteku pomoću aplikacije.",
+              "ua": "Я відкриваю файл за допомогою застосунку.",
+              "audio": "hr-les38-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Родовий однини жіночого на -a: aplikacije, kartice. Українська «за допомогою» бере такий самий порядок."
+        },
+        {
+          "form": "орудний без прийменника",
+          "when_ua": "Звичайний засіб: транспорт, платіж.",
+          "examples": [
+            {
+              "text": "Idem u školu autobusom.",
+              "ua": "Я їду до школи автобусом.",
+              "audio": "hr-les38-rule-22.mp3"
+            },
+            {
+              "text": "Plaćam karticom, a ne gotovinom.",
+              "ua": "Я плачу карткою, а не готівкою.",
+              "audio": "hr-les38-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Орудний із Lekcije 14 і 34: -om / -om. Прийменник тут не додаємо."
+        }
+      ],
+      "points_ua": [
+        "Putem, preko: канал. Pomoću: засіб. Усі з родовим.",
+        "Karticom, autobusom: орудний без прийменника.",
+        "Не «pomoću karticom»: або pomoću kartice, або karticom."
+      ]
+    },
+    {
+      "title_ua": "Інструкції: Uključite, Isključi, Preuzmite; Nemojte isključivati",
+      "summary_ua": "Одноразова інструкція це док. наказ: uključi, uključite, isključi, preuzmite, spojite se. Заборона навмисної дії це nemoj / nemojte + недок. інфінітив: nemoj isključivati, nemojte preuzimati (Lekcija 23). Ввічливе прохання це Možete li + док. інфінітив. Дієслівні пари з цього уроку тут ідуть у ділі: док. для «зроби раз», недок. для «не роби».",
+      "compare": [
+        {
+          "form": "док. наказ: uključi, uključite, preuzmite",
+          "when_ua": "Одноразова інструкція: зроби це один раз.",
+          "examples": [
+            {
+              "text": "Preuzmite aplikaciju i spojite se na mrežu.",
+              "ua": "Завантажте застосунок і підключіться до мережі.",
+              "audio": "hr-les38-rule-24.mp3"
+            },
+            {
+              "text": "Isključi punjač, molim te.",
+              "ua": "Вимкни зарядку, будь ласка.",
+              "audio": "hr-les38-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Форма ти (isključi), ви (isključite). Se стоїть після дієслова: spojite se."
+        },
+        {
+          "form": "nemoj, nemojte + недок. інфінітив",
+          "when_ua": "Заборона навмисної дії.",
+          "examples": [
+            {
+              "text": "Nemoj isključivati računalo.",
+              "ua": "Не вимикай комп'ютер.",
+              "audio": "hr-les38-rule-26.mp3"
+            },
+            {
+              "text": "Nemojte preuzimati datoteke.",
+              "ua": "Не завантажуйте файли.",
+              "audio": "hr-les38-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Після nemoj зазвичай недок.: nemoj isključivati. Застереження від випадкового (не впусти, не забудь) бере док., його ми тут не вчимо."
+        },
+        {
+          "form": "Možete li + док. інфінітив",
+          "when_ua": "Ввічливе прохання.",
+          "examples": [
+            {
+              "text": "Možete li uključiti računalo?",
+              "ua": "Чи можете ви ввімкнути комп'ютер?",
+              "audio": "hr-les38-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Li іде одразу за можете (Lekcija 2 і 35). Одна дія, тому доконаний інфінітив."
+        }
+      ],
+      "points_ua": [
+        "Uključi, uključite: док. наказ для одноразової інструкції.",
+        "Nemoj, nemojte + недок. інфінітив.",
+        "Možete li uključiti ...?: ввічливо."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Zaslon računala je velik.",
+      "ua": "Екран комп'ютера великий.",
+      "audio": "hr-les38-example-01.mp3"
+    },
+    {
+      "text": "Čitam članak u časopisu.",
+      "ua": "Читаю статтю в журналі.",
+      "audio": "hr-les38-example-02.mp3"
+    },
+    {
+      "text": "Kod nas nema interneta.",
+      "ua": "У нас немає інтернету.",
+      "audio": "hr-les38-example-03.mp3"
+    },
+    {
+      "text": "Lozinka je u bilježnici.",
+      "ua": "Пароль у зошиті.",
+      "audio": "hr-les38-example-04.mp3"
+    },
+    {
+      "text": "Ovdje nema mreže.",
+      "ua": "Тут немає мережі.",
+      "audio": "hr-les38-example-05.mp3"
+    },
+    {
+      "text": "Emisija počinje u osam sati.",
+      "ua": "Передача починається о восьмій.",
+      "audio": "hr-les38-example-06.mp3"
+    },
+    {
+      "text": "Šaljem poruku e-poštom.",
+      "ua": "Надсилаю повідомлення електронною поштою.",
+      "audio": "hr-les38-example-07.mp3"
+    },
+    {
+      "text": "Datoteka je u računalu.",
+      "ua": "Файл у комп'ютері.",
+      "audio": "hr-les38-example-08.mp3"
+    },
+    {
+      "text": "Punjač i nova baterija koštaju dvadeset eura.",
+      "ua": "Зарядка й нова батарея коштують двадцять євро.",
+      "audio": "hr-les38-example-09.mp3"
+    },
+    {
+      "text": "Uključi računalo, molim te.",
+      "ua": "Увімкни комп'ютер, будь ласка.",
+      "audio": "hr-les38-example-10.mp3"
+    },
+    {
+      "text": "Isključite telefon, molim.",
+      "ua": "Вимкніть телефон, будь ласка.",
+      "audio": "hr-les38-example-11.mp3"
+    },
+    {
+      "text": "Spajam se na internet.",
+      "ua": "Підключаюся до інтернету.",
+      "audio": "hr-les38-example-12.mp3"
+    },
+    {
+      "text": "Preuzimam aplikaciju na mobitel.",
+      "ua": "Завантажую застосунок на мобільний.",
+      "audio": "hr-les38-example-13.mp3"
+    },
+    {
+      "text": "Pretražujem stranice o stanovima.",
+      "ua": "Шукаю сторінки про квартири.",
+      "audio": "hr-les38-example-14.mp3"
+    },
+    {
+      "text": "Učiteljica objavljuje test na stranici.",
+      "ua": "Вчителька публікує тест на сторінці.",
+      "audio": "hr-les38-example-15.mp3"
+    },
+    {
+      "text": "Plaćam račun pomoću aplikacije.",
+      "ua": "Плачу рахунок за допомогою застосунку.",
+      "audio": "hr-les38-example-16.mp3"
+    },
+    {
+      "text": "Odgovaram na poruke putem e-pošte.",
+      "ua": "Відповідаю на повідомлення електронною поштою.",
+      "audio": "hr-les38-example-17.mp3"
+    },
+    {
+      "text": "Baka čita novine, a ja gledam vijesti.",
+      "ua": "Бабуся читає газету, а я дивлюся новини.",
+      "audio": "hr-les38-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Sve je na internetu",
+    "title_ua": "Усе в інтернеті",
+    "highlight": [
+      "hr-ebc60f41",
+      "hr-23a84dae",
+      "hr-58a9f0e8",
+      "hr-71459f06",
+      "hr-5a847297",
+      "hr-ecbf1c72",
+      "hr-b12e4775",
+      "hr-d0288956",
+      "hr-88c9a876",
+      "hr-b8cd185a",
+      "hr-429d6c28",
+      "hr-27635e58",
+      "hr-14783825"
+    ],
+    "sentences": [
+      {
+        "text": "Moj mobitel ima staru bateriju.",
+        "ua": "Мій мобільний має стару батарею.",
+        "audio": "hr-les38-reading-01.mp3"
+      },
+      {
+        "text": "Punjač je uvijek u torbi.",
+        "ua": "Зарядка завжди в сумці.",
+        "audio": "hr-les38-reading-02.mp3"
+      },
+      {
+        "text": "Navečer ću uključiti računalo i pretražiti nekoliko stranica o školi.",
+        "ua": "Ввечері я ввімкну комп'ютер і пошукаю кілька сторінок про школу.",
+        "audio": "hr-les38-reading-03.mp3"
+      },
+      {
+        "text": "Sve što trebam, pretražujem na internetu.",
+        "ua": "Усе, що мені потрібно, я шукаю в інтернеті.",
+        "audio": "hr-les38-reading-04.mp3"
+      },
+      {
+        "text": "Vijesti čitam u aplikaciji, a baka voli novine.",
+        "ua": "Новини я читаю в застосунку, а бабуся любить газету.",
+        "audio": "hr-les38-reading-05.mp3"
+      },
+      {
+        "text": "Lozinku nikome ne govorim.",
+        "ua": "Пароль я нікому не кажу.",
+        "audio": "hr-les38-reading-06.mp3"
+      },
+      {
+        "text": "Ponekad se ne mogu spojiti na mrežu.",
+        "ua": "Іноді я не можу підключитися до мережі.",
+        "audio": "hr-les38-reading-07.mp3"
+      },
+      {
+        "text": "Poruku učiteljici šaljemo putem e-pošte.",
+        "ua": "Повідомлення вчительці ми надсилаємо електронною поштою.",
+        "audio": "hr-les38-reading-08.mp3"
+      },
+      {
+        "text": "Kad završim, isključim računalo.",
+        "ua": "Коли закінчу, вимикаю комп'ютер.",
+        "audio": "hr-les38-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат не має мобільного.",
+          "accepted": [
+            "Moj brat nema mobitela."
+          ]
+        },
+        {
+          "prompt": "У мене немає пароля.",
+          "accepted": [
+            "Nemam lozinke."
+          ]
+        },
+        {
+          "prompt": "Мережа сьогодні не працює.",
+          "accepted": [
+            "Mreža danas ne radi."
+          ]
+        },
+        {
+          "prompt": "Зарядка коштує десять євро.",
+          "accepted": [
+            "Punjač košta deset eura."
+          ]
+        },
+        {
+          "prompt": "Екран мого мобільного малий.",
+          "accepted": [
+            "Zaslon mog mobitela je malen.",
+            "Zaslon moga mobitela je malen."
+          ]
+        },
+        {
+          "prompt": "Бабуся читає журнал.",
+          "accepted": [
+            "Baka čita časopis."
+          ]
+        },
+        {
+          "prompt": "Ввечері я дивлюся передачу.",
+          "accepted": [
+            "Navečer gledam emisiju."
+          ]
+        },
+        {
+          "prompt": "Вона завантажує файл.",
+          "accepted": [
+            "Ona preuzima datoteku.",
+            "Preuzima datoteku."
+          ]
+        },
+        {
+          "prompt": "Вдома ми підключаємося до інтернету.",
+          "accepted": [
+            "Kod kuće se spajamo na internet.",
+            "Spajamo se na internet kod kuće."
+          ]
+        },
+        {
+          "prompt": "Завтра я опублікую статтю.",
+          "accepted": [
+            "Sutra ću objaviti članak."
+          ]
+        },
+        {
+          "prompt": "Він вимикає телефон о десятій.",
+          "accepted": [
+            "On isključuje telefon u deset sati.",
+            "Isključuje telefon u deset sati."
+          ]
+        },
+        {
+          "prompt": "Він пише лист за допомогою комп'ютера.",
+          "accepted": [
+            "On piše pismo pomoću računala.",
+            "Piše pismo pomoću računala."
+          ]
+        },
+        {
+          "prompt": "Школа надсилає повідомлення електронною поштою.",
+          "accepted": [
+            "Škola šalje poruke putem e-pošte.",
+            "Škola šalje poruku putem e-pošte.",
+            "Škola šalje poruku e-poštom."
+          ]
+        },
+        {
+          "prompt": "Я читаю все, що пише вчителька.",
+          "accepted": [
+            "Čitam sve što učiteljica piše.",
+            "Čitam sve što piše učiteljica."
+          ],
+          "check": "Порядок слів у підрядному реченні після sve što (учителька piše / piše učiteljica) з мого знання; відсутність коми перед što після sve перевірити в правописі."
+        },
+        {
+          "prompt": "Мені потрібен новий пароль.",
+          "accepted": [
+            "Trebam novu lozinku."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "računalu",
+        "lozinku",
+        "mrežu",
+        "aplikacija",
+        "punjač",
+        "članak",
+        "novine",
+        "internetu",
+        "stranici",
+        "putem",
+        "pomoću",
+        "isključi",
+        "spaja",
+        "objavljuje",
+        "što",
+        "baterija"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "U ___ je moja datoteka.",
+          "hint": "У комп'ютері мій файл.",
+          "accepted": [
+            [
+              "računalu"
+            ]
+          ]
+        },
+        {
+          "text": "Ne govorim nikome svoju ___.",
+          "hint": "Нікому не кажу свій пароль.",
+          "accepted": [
+            [
+              "lozinku"
+            ]
+          ]
+        },
+        {
+          "text": "Moj mobitel se ne može spojiti na ___.",
+          "hint": "Мій мобільний не може підключитися до мережі.",
+          "accepted": [
+            [
+              "mrežu"
+            ]
+          ]
+        },
+        {
+          "text": "Moja nova ___ je dobra.",
+          "hint": "Мій новий застосунок гарний.",
+          "accepted": [
+            [
+              "aplikacija"
+            ]
+          ]
+        },
+        {
+          "text": "Trebam ___ za mobitel.",
+          "hint": "Мені потрібна зарядка для мобільного.",
+          "accepted": [
+            [
+              "punjač"
+            ]
+          ]
+        },
+        {
+          "text": "Majka čita ___ o školi.",
+          "hint": "Мама читає статтю про школу.",
+          "accepted": [
+            [
+              "članak"
+            ]
+          ]
+        },
+        {
+          "text": "Baka voli čitati ___.",
+          "hint": "Бабуся любить читати газету.",
+          "accepted": [
+            [
+              "novine"
+            ]
+          ]
+        },
+        {
+          "text": "Čitam vijesti na ___.",
+          "hint": "Читаю новини в інтернеті.",
+          "accepted": [
+            [
+              "internetu"
+            ]
+          ]
+        },
+        {
+          "text": "Na ovoj ___ ima puno članaka.",
+          "hint": "На цій сторінці багато статей.",
+          "accepted": [
+            [
+              "stranici"
+            ]
+          ]
+        },
+        {
+          "text": "Prijatelj me zove ___ aplikacije.",
+          "hint": "Друг дзвонить мені через застосунок.",
+          "accepted": [
+            [
+              "putem",
+              "preko"
+            ]
+          ]
+        },
+        {
+          "text": "Pretražujem internet ___ mobitela.",
+          "hint": "Шукаю в інтернеті за допомогою мобільного.",
+          "accepted": [
+            [
+              "pomoću"
+            ]
+          ]
+        },
+        {
+          "text": "___ mobitel prije sastanka.",
+          "hint": "Вимкни мобільний перед нарадою.",
+          "accepted": [
+            [
+              "Isključi"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat se ___ na mrežu.",
+          "hint": "Мій брат підключається до мережі.",
+          "accepted": [
+            [
+              "spaja"
+            ]
+          ]
+        },
+        {
+          "text": "Moja sestra često ___ članke.",
+          "hint": "Моя сестра часто публікує статті.",
+          "accepted": [
+            [
+              "objavljuje"
+            ]
+          ]
+        },
+        {
+          "text": "Čitam ono ___ piše u novinama.",
+          "hint": "Читаю те, що пише в газеті.",
+          "accepted": [
+            [
+              "što"
+            ]
+          ],
+          "check": "Відсутність коми перед što після ono і значення «piše u novinama» (написано в газеті) з мого знання, перевірити в правописі."
+        },
+        {
+          "text": "Stara ___ ne radi dobro.",
+          "hint": "Стара батарея погано працює.",
+          "accepted": [
+            [
+              "baterija"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Uključujem računalo.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću uključiti računalo."
+          ]
+        },
+        {
+          "prompt": "Navečer ja ću isključiti mobitel.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Navečer ću isključiti mobitel."
+          ]
+        },
+        {
+          "prompt": "Moj brat uvijek isključi računalo u deset sati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moj brat uvijek isključuje računalo u deset sati."
+          ]
+        },
+        {
+          "prompt": "Škola objavuje vijesti na stranici.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Škola objavljuje vijesti na stranici."
+          ]
+        },
+        {
+          "prompt": "Plaćam račun pomoću karticom.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Plaćam račun pomoću kartice.",
+            "Plaćam račun karticom."
+          ]
+        },
+        {
+          "prompt": "Šaljemo test putem e-poštom.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Šaljemo test putem e-pošte.",
+            "Šaljemo test e-poštom."
+          ]
+        },
+        {
+          "prompt": "Ovaj aplikacija je besplatna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ova aplikacija je besplatna."
+          ]
+        },
+        {
+          "prompt": "Moj računalo je novo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moje računalo je novo."
+          ]
+        },
+        {
+          "prompt": "Slušam sve koje govori brat.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Slušam sve što govori brat.",
+            "Slušam sve što brat govori."
+          ],
+          "check": "Відсутність коми перед što після sve і порядок слів з мого знання, перевірити в правописі."
+        },
+        {
+          "prompt": "Čitam članak na toj stanici.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čitam članak na toj stranici."
+          ]
+        },
+        {
+          "prompt": "Tražim lozinke u bilježnici.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Tražim lozinku u bilježnici."
+          ]
+        },
+        {
+          "prompt": "Preuzimam aplikaciju.",
+          "cue": "-> Jučer ... (доконане, ж.)",
+          "accepted": [
+            "Jučer sam preuzela aplikaciju."
+          ]
+        },
+        {
+          "prompt": "Spojila sam se na internet.",
+          "cue": "-> недоконане, звичка (često)",
+          "accepted": [
+            "Često sam se spajala na internet."
+          ]
+        },
+        {
+          "prompt": "Pretražujem stranice.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću pretražiti stranice."
+          ]
+        },
+        {
+          "prompt": "Uključujem mobitel.",
+          "cue": "-> заборона (ти): nemoj ...",
+          "accepted": [
+            "Nemoj uključivati mobitel."
+          ]
+        },
+        {
+          "prompt": "Zaslon je velik.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Zasloni su veliki."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Moj brat ___ stranice o autima.",
+          "cue": "pretraživati",
+          "accepted": [
+            "pretražuje"
+          ]
+        },
+        {
+          "text": "Mi ___ datoteke na računalo.",
+          "cue": "preuzimati",
+          "accepted": [
+            "preuzimamo"
+          ]
+        },
+        {
+          "text": "Ti ___ računalo u osam sati.",
+          "cue": "uključivati",
+          "accepted": [
+            "uključuješ"
+          ]
+        },
+        {
+          "text": "Oni ___ mobitele navečer.",
+          "cue": "isključivati",
+          "accepted": [
+            "isključuju"
+          ]
+        },
+        {
+          "text": "Vi ___ članke u časopisu.",
+          "cue": "objavljivati",
+          "accepted": [
+            "objavljujete"
+          ]
+        },
+        {
+          "text": "Moji roditelji se ___ na internet.",
+          "cue": "spajati se",
+          "accepted": [
+            "spajaju"
+          ]
+        },
+        {
+          "text": "Ti ___ pismo baki.",
+          "cue": "slati",
+          "accepted": [
+            "šalješ"
+          ]
+        },
+        {
+          "text": "Oni ___ vijesti navečer.",
+          "cue": "gledati",
+          "accepted": [
+            "gledaju"
+          ]
+        },
+        {
+          "text": "Moj otac ___ časopis u kuhinji.",
+          "cue": "čitati",
+          "accepted": [
+            "čita"
+          ]
+        },
+        {
+          "text": "Ja ___ novi punjač.",
+          "cue": "trebati",
+          "accepted": [
+            "trebam"
+          ]
+        },
+        {
+          "text": "Mi ___ dobru mrežu kod kuće.",
+          "cue": "imati",
+          "accepted": [
+            "imamo"
+          ]
+        },
+        {
+          "text": "Ona ___ u banku s karticom.",
+          "cue": "ići",
+          "accepted": [
+            "ide"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun"
+      ]
+    }
+  ]
+}
