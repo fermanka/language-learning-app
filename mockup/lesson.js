@@ -812,7 +812,7 @@ if (typeof document === 'undefined') {
     const btn = el('button', 'btn check-open', `? Слова для перевірки (${flagged.length})`);
     btn.type = 'button'; btn.setAttribute('aria-expanded', 'false');
     const panel = el('div', 'check-panel'); panel.hidden = true;
-    panel.append(el('p', 'meta', 'Ці слова й форми ще не підтверджені. Їх варто показати людині, яка знає нідерландську.'));
+    panel.append(el('p', 'meta', `Ці слова й форми ще не підтверджені. Їх варто показати людині, яка знає ${LANG_ADJ.toLowerCase().replace(/а$/, 'у')}.`));
     let order = null, ul = null;
     flagged.forEach(({ order: o, note }) => {
       if (o !== order) { order = o; panel.append(el('h3', 'sub', `${LESSON_WORD} ${o}`)); ul = el('ul', 'words'); panel.append(ul); }
