@@ -227,7 +227,7 @@ if (typeof document === 'undefined') {
         show.type = 'button'; show.onclick = () => { txt.hidden = !txt.hidden; show.textContent = txt.hidden ? 'Показати текст' : 'Сховати текст'; };
         bar.append(show, txt); box.append(bar);
       }
-      if (ex.type === 'gaps') { const bank = el('div', 'bank'); ex.bank.forEach((w) => bank.append(el('span', null, w))); box.append(bank); }
+      if (ex.type === 'gaps' && ex.bank) { const bank = el('div', 'bank'); ex.bank.forEach((w) => bank.append(el('span', null, w))); box.append(bank); }
 
       if (ex.type === 'matching') {
         // the right-hand column is shuffled deterministically, so the answer is never in the same row as its question

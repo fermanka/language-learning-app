@@ -1,0 +1,1702 @@
+{
+  "id": "hr-les-47",
+  "lang": "hr",
+  "order": 47,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "prošli",
+    "tjedan",
+    "tajnice",
+    "mjesto",
+    "natječaj",
+    "prijavila",
+    "se",
+    "sam",
+    "pozvao",
+    "me",
+    "je",
+    "deset",
+    "sati",
+    "najprije",
+    "predstavila",
+    "rekla",
+    "pet",
+    "godina",
+    "iskustva",
+    "da",
+    "imam",
+    "odgovorna",
+    "pouzdana",
+    "pitao",
+    "radim",
+    "li",
+    "rado",
+    "timu",
+    "odgovorila",
+    "kolegama",
+    "jer",
+    "volim",
+    "razgovarati",
+    "ljudima",
+    "raditi",
+    "dobroj",
+    "firmi",
+    "kraju",
+    "smo",
+    "dogovorili",
+    "će",
+    "nazvati",
+    "ponedjeljak",
+    "bio",
+    "dobar",
+    "zadovoljna",
+    "mogu",
+    "želim",
+    "došla",
+    "vozača",
+    "kuhara",
+    "zašto",
+    "ste",
+    "prijavili",
+    "pomagati",
+    "objasnila",
+    "kolegi",
+    "zadatak",
+    "studija",
+    "radila",
+    "dućanu",
+    "odmora",
+    "četiri",
+    "lipnja",
+    "prosinca",
+    "ovdje",
+    "hrvatski",
+    "dvije",
+    "uvijek",
+    "dolazim",
+    "vrijeme",
+    "slušam",
+    "ljude",
+    "prednost",
+    "brzo",
+    "učim",
+    "nedostatak",
+    "dugo",
+    "pišem",
+    "ponoviti",
+    "pitanje",
+    "govoriti",
+    "znači",
+    "riječ",
+    "tu",
+    "razumijem",
+    "malo",
+    "vremena",
+    "molim",
+    "vas",
+    "moram",
+    "banka",
+    "zatvara",
+    "kafiću",
+    "ljeta",
+    "velikom",
+    "uredu",
+    "radi",
+    "nove",
+    "radnike",
+    "svima",
+    "terminu",
+    "ponudi",
+    "novim",
+    "stanom",
+    "zajedno",
+    "tjedna",
+    "putujemo",
+    "zime",
+    "kod",
+    "kuće",
+    "sastanku",
+    "petak",
+    "petku",
+    "zatvorena",
+    "do",
+    "ponedjeljka",
+    "cesta",
+    "ne",
+    "razumije",
+    "moj",
+    "brat",
+    "učitelj",
+    "iskusan",
+    "strpljiv",
+    "kolegica",
+    "ljubazna",
+    "uredom",
+    "zadovoljni",
+    "direktor",
+    "direktora",
+    "direktore",
+    "poštovani",
+    "hvala",
+    "razgovoru",
+    "kandidata",
+    "novog",
+    "vikenda",
+    "škola",
+    "učenike",
+    "rujnu",
+    "pisma",
+    "svaki",
+    "dan",
+    "kad",
+    "ponudu",
+    "zovem",
+    "te",
+    "trgovina",
+    "osam",
+    "roditeljima",
+    "učiteljica",
+    "mislim",
+    "govoriš",
+    "slušamo",
+    "vijesti",
+    "jutro",
+    "primila",
+    "firma",
+    "predstave",
+    "kandidati",
+    "počinje",
+    "utorak",
+    "peti",
+    "ožujka",
+    "most",
+    "rijeke",
+    "bit",
+    "zatvoren",
+    "petka",
+    "molimo",
+    "vozače",
+    "voze",
+    "drugom",
+    "cestom",
+    "danas",
+    "oblačno",
+    "navečer",
+    "padati",
+    "jaka",
+    "kiša",
+    "temperatura",
+    "stupnjeva",
+    "srijedu",
+    "vode",
+    "dvanaest",
+    "subotu",
+    "kazalištu",
+    "bajki",
+    "djecu",
+    "a",
+    "ulaz",
+    "besplatan",
+    "to",
+    "su",
+    "bile",
+    "nas",
+    "slušali",
+    "radova",
+    "cesti",
+    "neće",
+    "biti",
+    "od",
+    "evo",
+    "ureda",
+    "sama",
+    "naši"
+  ],
+  "notes": [
+    {
+      "id": "hr-aaa1b225",
+      "type": "noun",
+      "lemma": "kandidat",
+      "gender": "m.",
+      "gen_sg": "kandidata",
+      "plural": [
+        "kandidati"
+      ],
+      "ua": "кандидат",
+      "audio": "hr-kandidat.mp3",
+      "forms": [
+        "kandidata",
+        "kandidatu",
+        "kandidati",
+        "kandidate"
+      ],
+      "explain_ua": "(Kandidat čeka ispred ureda = кандидат чекає перед офісом). УВАГА ДО ВСЬОГО УРОКУ: співбесіди, фірми й директори в цьому уроці вигадані для вправ, це мовна практика, а не порада щодо пошуку роботи. Чоловічого роду: kandidat, kandidata, kandidati. Знахідний живого збігається з родовим: čeka kandidata. Українське «кандидат» схоже, але закінчення вчимо: kandidata, kandidatu.",
+      "check": "Форми з мого знання; жіночу форму (kandidatkinja) тут не вчимо, бо не звіряв її в словнику."
+    },
+    {
+      "id": "hr-8444ccce",
+      "type": "noun",
+      "lemma": "razgovor",
+      "gender": "m.",
+      "gen_sg": "razgovora",
+      "plural": [
+        "razgovori"
+      ],
+      "ua": "розмова; співбесіда",
+      "audio": "hr-razgovor.mp3",
+      "forms": [
+        "razgovora",
+        "razgovoru",
+        "razgovori",
+        "razgovore",
+        "razgovorom"
+      ],
+      "explain_ua": "(Razgovor za posao je u petak = співбесіда на роботу в п'ятницю). Чоловічого роду: razgovor, razgovora, razgovoru. Форму razgovora ти вже бачила в Lekcija 42, а тепер вчимо слово. Вислів «співбесіда на роботу» хорватською razgovor za posao: ЗА, не «na posao». Дієслово razgovarati з Lekcija 14.",
+      "check": "Форми з мого знання; що саме za posao (а не na posao) каже норма, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-08a5f7a3",
+      "type": "noun",
+      "lemma": "tim",
+      "gender": "m.",
+      "gen_sg": "tima",
+      "plural": [
+        "timovi"
+      ],
+      "ua": "команда (на роботі)",
+      "audio": "hr-tim.mp3",
+      "forms": [
+        "tima",
+        "timu",
+        "timovi",
+        "timove",
+        "timom"
+      ],
+      "explain_ua": "(Naš tim radi u velikom uredu = наша команда працює у великому офісі). Чоловічого роду: tim, tima, timu, множина timovi (-ov-, як grad > gradovi). Збіг форм: tim це ще й форма займенника taj (s tim, Lekcija 42): у реченні зрозуміло, яке з двох. Це збіг форм, а не лажний друг. Українське «команда» інше слово, tim просто вчимо.",
+      "check": "Форми з мого знання; множина timovi з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-79e2da5b",
+      "type": "noun",
+      "lemma": "cilj",
+      "gender": "m.",
+      "gen_sg": "cilja",
+      "plural": [
+        "ciljevi"
+      ],
+      "ua": "мета",
+      "audio": "hr-cilj.mp3",
+      "forms": [
+        "cilja",
+        "cilju",
+        "ciljevi",
+        "ciljeve",
+        "ciljem"
+      ],
+      "explain_ua": "(Moj cilj je dobar posao = моя мета гарна робота). Чоловічого роду: cilj, cilja, ciljevi (-ev- після ј, а не -ov-). Українське «ціль» близьке за звучанням, але хорватське cilj чоловічого роду, без м'якого знака. Пиши lj: cilj.",
+      "check": "Форми з мого знання; множина ciljevi з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-d18d2478",
+      "type": "noun",
+      "lemma": "odgovornost",
+      "gender": "ž.",
+      "gen_sg": "odgovornosti",
+      "plural": [
+        "odgovornosti"
+      ],
+      "ua": "відповідальність",
+      "audio": "hr-odgovornost.mp3",
+      "forms": [
+        "odgovornosti",
+        "odgovornošću"
+      ],
+      "explain_ua": "(Svaki radnik ima odgovornost = кожен працівник має відповідальність). Жіночий рід на приголосний (i-основа, як riječ): odgovornost, odgovornosti, у знахідному odgovornost. Родина odgovoran (нижче) й odgovor (відповідь, Lekcija 31): корінь спільний, значення різні. Українське «відповідальність» інше слово.",
+      "check": "Форми з мого знання за зразком dužnost; орудний odgovornošću не звіряв."
+    },
+    {
+      "id": "hr-f224eb97",
+      "type": "adjective",
+      "lemma": "odgovoran",
+      "fem": "odgovorna",
+      "neut": "odgovorno",
+      "ua": "відповідальний",
+      "audio": "hr-odgovoran.mp3",
+      "forms": [
+        "odgovorna",
+        "odgovorno",
+        "odgovorni",
+        "odgovorne"
+      ],
+      "explain_ua": "(Ona je vrlo odgovorna = вона дуже відповідальна). Нестійке a, як у dužan, opasan: odgovoran, odgovorna, odgovorno. Чоловік каже odgovoran, жінка odgovorna: слідкуй за родом. Не плутай з odgovor (відповідь).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-4b14311b",
+      "type": "adjective",
+      "lemma": "pouzdan",
+      "fem": "pouzdana",
+      "neut": "pouzdano",
+      "ua": "надійний",
+      "audio": "hr-pouzdan.mp3",
+      "forms": [
+        "pouzdana",
+        "pouzdano",
+        "pouzdani",
+        "pouzdane"
+      ],
+      "explain_ua": "(Moj kolega je pouzdan = мій колега надійний). Нестійке a: pouzdan, pouzdana, pouzdano. Про людину, на яку можна розраховувати. Українське «надійний» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-156595f4",
+      "type": "adjective",
+      "lemma": "ljubazan",
+      "fem": "ljubazna",
+      "neut": "ljubazno",
+      "ua": "люб'язний, ввічливий",
+      "audio": "hr-ljubazan.mp3",
+      "forms": [
+        "ljubazna",
+        "ljubazno",
+        "ljubazni",
+        "ljubazne"
+      ],
+      "explain_ua": "(Konobar je vrlo ljubazan = офіціант дуже люб'язний). Нестійке a: ljubazan, ljubazna, ljubazno. Про людину, яка ввічлива й привітна. НЕ «люблячий»: любов хорватською ljubav (Lekcija 32), а ljubiti це цілувати (Lekcija 4). Український «люб'язний» дуже схожий за значенням, це підказка для пам'яті, не з перевіреної таблиці лажних друзів.",
+      "check": "Форми з мого знання; що український «люб'язний» збігається за значенням, з мого знання, не з таблиці. Спільний корінь ljub- подаю як підказку, не етимологію."
+    },
+    {
+      "id": "hr-fef4a39a",
+      "type": "adjective",
+      "lemma": "iskusan",
+      "fem": "iskusna",
+      "neut": "iskusno",
+      "ua": "досвідчений",
+      "audio": "hr-iskusan.mp3",
+      "forms": [
+        "iskusna",
+        "iskusno",
+        "iskusni",
+        "iskusne"
+      ],
+      "explain_ua": "(Naša učiteljica je iskusna = наша вчителька досвідчена). Нестійке a: iskusan, iskusna, iskusno. Родина iskustvo (Lekcija 42, пам'ятаєш: це не «мистецтво»): iskusan це той, хто має iskustvo. Підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-9495f735",
+      "type": "adjective",
+      "lemma": "vješt",
+      "fem": "vješta",
+      "neut": "vješto",
+      "ua": "вправний, умілий",
+      "audio": "hr-vjest.mp3",
+      "forms": [
+        "vješta",
+        "vješto",
+        "vješti",
+        "vješte"
+      ],
+      "explain_ua": "(Moj otac je vješt vozač = мій батько вмілий водій). Прикметник без нестійкого a: vješt, vješta, vješto. Пиши ije > je і š: vješt. Родина vještina (Lekcija 43): vješt це той, хто має vještinu. Підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання. У моїй російсько-хорватській таблиці лажних друзів є vješt, але російський двійник у моїх записах не позначений, тому в банку помилок його НЕ додаю, поки не звірю."
+    },
+    {
+      "id": "hr-0805d207",
+      "type": "verb",
+      "lemma": "predstaviti se",
+      "aspect": "pf.",
+      "partner": "predstavljati se",
+      "pres_1sg": "predstavim se",
+      "forms": [
+        "predstavim",
+        "predstaviš",
+        "predstavi",
+        "predstavimo",
+        "predstavite",
+        "predstave",
+        "predstavila",
+        "predstavili",
+        "predstavio",
+        "predstavljati",
+        "predstavljam",
+        "predstavljaš",
+        "predstavlja",
+        "predstavljamo",
+        "predstavljate",
+        "predstavljaju"
+      ],
+      "ua": "представитися (недок. predstavljati se)",
+      "audio": "hr-predstaviti.mp3",
+      "explain_ua": "(Nova kolegica se predstavlja svima = нова колега представляється всім). Пара: predstaviti se (док.) / predstavljati se (недок.): predstavim se > predstavljam se, v > vlj. Се завжди з дієсловом і на другому місці: Mogu li se predstaviti? (li, потім se), Najprije sam se predstavila. Давальний для кого: predstaviti se kolegama. Українське «представитися» інше слово, просто вчимо.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (зміна v > vlj)."
+    },
+    {
+      "id": "hr-941c1d4f",
+      "type": "function",
+      "lemma": "tijekom",
+      "ua": "протягом (+ родовий)",
+      "audio": "hr-tijekom.mp3",
+      "forms": [],
+      "explain_ua": "(Tijekom ljeta radim u kafiću = протягом літа працюю в кав'ярні). Прийменник з родовим: tijekom ljeta, tijekom razgovora, tijekom studija. Пиши ije: tijekom, не «tjekom». Тримайся будь-якої своєї мови: українське «протягом» і російське «в течение» теж вимагають родового, тож це безкоштовно. Якщо почуєш tokom, це інший стандарт: хорватською вчимо tijekom.",
+      "check": "Значення та вживання з мого знання; що tokom належить до іншого стандарту, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-87846c91",
+      "type": "verb",
+      "lemma": "dogovoriti se",
+      "aspect": "pf.",
+      "partner": "dogovarati se",
+      "pres_1sg": "dogovorim se",
+      "forms": [
+        "dogovorim",
+        "dogovoriš",
+        "dogovori",
+        "dogovorimo",
+        "dogovorite",
+        "dogovore",
+        "dogovorila",
+        "dogovorili",
+        "dogovorio",
+        "dogovarati",
+        "dogovaram",
+        "dogovaraš",
+        "dogovara",
+        "dogovaramo",
+        "dogovarate",
+        "dogovaraju",
+        "dogovarali"
+      ],
+      "ua": "домовитися (недок. dogovarati se)",
+      "audio": "hr-dogovoriti.mp3",
+      "explain_ua": "(Dogovorili smo se o terminu = ми домовилися про час). Пара: dogovoriti se (док.) / dogovarati se (недок.): dogovorim se / dogovaram se. Домовитися «про що»: o + місцевий (o terminu). Док. для результату («домовилися»), недок. для процесу («домовляємося»). Se на другому місці: dogovorili smo se, смо перед se.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Що саме o + місцевий (і s + орудний з ким), з мого знання."
+    },
+    {
+      "id": "hr-095fc77b",
+      "type": "verb",
+      "lemma": "primiti",
+      "aspect": "pf.",
+      "partner": "primati",
+      "pres_1sg": "primim",
+      "forms": [
+        "primim",
+        "primiš",
+        "primi",
+        "primimo",
+        "primite",
+        "prime",
+        "primila",
+        "primili",
+        "primio",
+        "primati",
+        "primam",
+        "primaš",
+        "prima",
+        "primamo",
+        "primate",
+        "primaju"
+      ],
+      "ua": "прийняти (на роботу, лист) (недок. primati)",
+      "audio": "hr-primiti.mp3",
+      "explain_ua": "(Firma prima nove radnike = фірма приймає нових працівників). Пара: primiti (док.) / primati (недок.): primim / primam. Primiti na posao = прийняти на роботу, primati pisma = отримувати листи. Знахідний: primiti radnika. Не плутай з dobiti (отримати, Lekcija 42): primiti частіше про те, що тобі дають офіційно.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Розмежування primiti / dobiti подаю як звичне вживання, у словнику не звіряв."
+    },
+    {
+      "id": "hr-a6ad9d05",
+      "type": "verb",
+      "lemma": "razmisliti",
+      "aspect": "pf.",
+      "partner": "razmišljati",
+      "pres_1sg": "razmislim",
+      "forms": [
+        "razmislim",
+        "razmisliš",
+        "razmisli",
+        "razmislimo",
+        "razmislite",
+        "razmisle",
+        "razmislila",
+        "razmislili",
+        "razmislio",
+        "razmišljati",
+        "razmišljam",
+        "razmišljaš",
+        "razmišlja",
+        "razmišljamo",
+        "razmišljate",
+        "razmišljaju"
+      ],
+      "ua": "обдумати, поміркувати (недок. razmišljati)",
+      "audio": "hr-razmisliti.mp3",
+      "explain_ua": "(Moram razmisliti o ponudi = мушу подумати над пропозицією). Пара: razmisliti (док.) / razmišljati (недок.): razmislim > razmišljam, s > š. Подумати «про що»: o + місцевий (o ponudi). Корисна фраза на співбесіді, коли потрібен час: Moram malo razmisliti. Недок. razmišljam для процесу («міркую»), док. razmislit ću для результату. Ти знаєш misliti (Lekcija 41), razmisliti це «обдумати».",
+      "check": "Пару та форми з мого знання за зразком misliti, звірити з hjp.znanje.hr (s > š у razmišljati)."
+    },
+    {
+      "id": "hr-7a086aca",
+      "type": "adjective",
+      "lemma": "strpljiv",
+      "fem": "strpljiva",
+      "neut": "strpljivo",
+      "ua": "терплячий",
+      "audio": "hr-strpljiv.mp3",
+      "forms": [
+        "strpljiva",
+        "strpljivo",
+        "strpljivi",
+        "strpljive"
+      ],
+      "explain_ua": "(Učiteljica je vrlo strpljiva = вчителька дуже терпляча). Без нестійкого a: strpljiv, strpljiva, strpljivo. Пиши lj: strpljiv. Українське «терплячий» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b7107c0a",
+      "type": "adjective",
+      "lemma": "samostalan",
+      "fem": "samostalna",
+      "neut": "samostalno",
+      "ua": "самостійний",
+      "audio": "hr-samostalan.mp3",
+      "forms": [
+        "samostalna",
+        "samostalno",
+        "samostalni",
+        "samostalne"
+      ],
+      "explain_ua": "(Moj sin je već samostalan = мій син уже самостійний). Нестійке a: samostalan, samostalna, samostalno. Про людину, яка вміє все сама. Українське «самостійний» близьке за змістом, слово інше: просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-431e6ae2",
+      "type": "adjective",
+      "lemma": "zadovoljan",
+      "fem": "zadovoljna",
+      "neut": "zadovoljno",
+      "ua": "задоволений",
+      "audio": "hr-zadovoljan.mp3",
+      "forms": [
+        "zadovoljna",
+        "zadovoljno",
+        "zadovoljni",
+        "zadovoljne"
+      ],
+      "explain_ua": "(Zadovoljna sam novim stanom = я задоволена новою квартирою). Нестійке a: zadovoljan, zadovoljna, zadovoljno. Після нього людина чи річ у орудному (novim stanom), іноді з s: zadovoljna sam s novim stanom. Українське «задоволений» інше слово, просто вчимо.",
+      "check": "Форми з мого знання; що після zadovoljan вживають орудний, з s і без s, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-4a89e8fe",
+      "type": "function",
+      "lemma": "polako",
+      "ua": "повільно, спокійно",
+      "audio": "hr-polako.mp3",
+      "forms": [],
+      "explain_ua": "(Govorite polako, molim vas = говоріть повільно, будь ласка). Прислівник, не змінюється. Корисне слово, коли не розумієш: Možete li govoriti polako? Також значить «спокійно, без поспіху». Українське «повільно» інше слово, просто вчимо.",
+      "check": "Значення з мого знання; що polako вживають і для «повільно», і для «спокійно», з мого знання."
+    },
+    {
+      "id": "hr-f701ad56",
+      "type": "noun",
+      "lemma": "rad",
+      "gender": "m.",
+      "gen_sg": "rada",
+      "plural": [
+        "radovi"
+      ],
+      "ua": "праця; (мн.) радови = ремонтні роботи",
+      "audio": "hr-rad.mp3",
+      "forms": [
+        "rada",
+        "radu",
+        "radovi",
+        "radova",
+        "radove",
+        "radom"
+      ],
+      "explain_ua": "(Na cesti su radovi = на дорозі ремонтні роботи). Чоловічого роду: rad, rada, множина radovi (-ov-), родовий множини radova (zbog radova = через ремонтні роботи). Rad це праця; radovi це ремонт чи будівництво. Корінь як у raditi (Lekcija 5) і radnja (Lekcija 46): підказка для пам'яті, не етимологія. Дорожні радови: radovi na cesti.",
+      "check": "Форми з мого знання; значення «ремонтні роботи» для radovi з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-1a14df0f",
+      "type": "verb",
+      "lemma": "zatvoriti",
+      "aspect": "pf.",
+      "partner": "zatvarati",
+      "pres_1sg": "zatvorim",
+      "forms": [
+        "zatvorim",
+        "zatvoriš",
+        "zatvori",
+        "zatvorimo",
+        "zatvorite",
+        "zatvore",
+        "zatvorila",
+        "zatvorili",
+        "zatvorio",
+        "zatvarati",
+        "zatvaram",
+        "zatvaraš",
+        "zatvara",
+        "zatvaramo",
+        "zatvarate",
+        "zatvaraju",
+        "zatvoren",
+        "zatvorena",
+        "zatvoreno",
+        "zatvarao"
+      ],
+      "ua": "зачинити, закрити (недок. zatvarati)",
+      "audio": "hr-zatvoriti.mp3",
+      "explain_ua": "(Banka se zatvara u pet sati = банк зачиняється о п'ятій). Пара: zatvoriti (док.) / zatvarati (недок.): zatvorim / zatvaram. Пара до otvarati / otvoriti (Lekcija 24). Прикметник zatvoren, zatvorena, zatvoreno = зачинений, закритий: Cesta je zatvorena. Zatvarati se = зачинятися (про заклад).",
+      "check": "Пару та форми з мого знання за зразком otvoriti / otvarati, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-d81edd6a",
+      "type": "noun",
+      "lemma": "festival",
+      "gender": "m.",
+      "gen_sg": "festivala",
+      "plural": [
+        "festivali"
+      ],
+      "ua": "фестиваль",
+      "audio": "hr-festival.mp3",
+      "forms": [
+        "festivala",
+        "festivalu",
+        "festivali",
+        "festivale"
+      ],
+      "explain_ua": "(Festival je ljeti = фестиваль улітку). Чоловічого роду: festival, festivala, festivali. Знайоме слово, але закінчення вчимо: festivalu, festivala. Знахідний неживого збігається з називним: gledam festival.",
+      "check": "Форми з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Як представитися й відповісти: три кроки",
+      "summary_ua": "Спочатку представся (Mogu li se predstaviti?), потім відповідай у три кроки: відповідь, причина з jer, приклад з na primjer. Клітики li і se стоять на другому місці в порядку li, потім se. Структура вільна з української, нове тільки порядок клітиків. Співбесіди й фірми в прикладах вигадані, це мовна практика.",
+      "compare": [
+        {
+          "form": "Mogu li se predstaviti? (li, потім se)",
+          "when_ua": "Починаєш розмову.",
+          "examples": [
+            {
+              "text": "Mogu li se predstaviti?",
+              "ua": "Чи можу я представитися?",
+              "audio": "hr-les47-rule-01.mp3"
+            },
+            {
+              "text": "Želim se predstaviti.",
+              "ua": "Хочу представитися.",
+              "audio": "hr-les47-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Li завжди перший клітик, se після нього: mogu li se, не «mogu se li». Це та сама вимога другого місця, що в Lekcija 18 (bih li) і Lekcija 35."
+        },
+        {
+          "form": "prijaviti se na natječaj za mjesto + родовий",
+          "when_ua": "Кажеш, на що подала заявку.",
+          "examples": [
+            {
+              "text": "Prijavila sam se na natječaj za mjesto vozača.",
+              "ua": "Я подала заявку на конкурс на місце водія.",
+              "audio": "hr-les47-rule-03.mp3"
+            },
+            {
+              "text": "Zašto ste se prijavili na natječaj?",
+              "ua": "Чому ви подали заявку на конкурс?",
+              "audio": "hr-les47-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Prijaviti se на + знахідний (na natječaj), а за що: za mjesto + родовий. Клітики sam se, ste se: допоміжне перед se (Lekcija 19)."
+        },
+        {
+          "form": "відповідь + jer + na primjer",
+          "when_ua": "Відповідаєш на питання про себе.",
+          "examples": [
+            {
+              "text": "Volim svoj posao jer volim pomagati ljudima.",
+              "ua": "Люблю свою роботу, бо люблю допомагати людям.",
+              "audio": "hr-les47-rule-05.mp3"
+            },
+            {
+              "text": "Na primjer, jučer sam objasnila kolegi zadatak.",
+              "ua": "Наприклад, вчора я пояснила колезі завдання.",
+              "audio": "hr-les47-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Jer (Lekcija 21) дає причину, na primjer дає доказ. Після «na primjer» кома, і sam на другому місці: na primjer, jučer sam objasnila."
+        }
+      ],
+      "points_ua": [
+        "Mogu li se predstaviti? Li перше, se друге.",
+        "Prijaviti se na natječaj za mjesto vozača.",
+        "Відповідь, jer ..., na primjer ...: три кроки для кожної відповіді."
+      ]
+    },
+    {
+      "title_ua": "Tijekom, od ... do, već: скільки це триває",
+      "summary_ua": "Тривалість: tijekom + родовий (протягом), od ... do (від ... до), već + теперішній (працюю вже). Для tijekom тримайся будь-якої мови: і українське «протягом», і російське «в течение» теж з родовим. Для «працюю вже п'ять років» тримайся української чи російської: теперішній час, як у хорватській.",
+      "compare": [
+        {
+          "form": "tijekom + родовий",
+          "when_ua": "Що відбувалося протягом періоду.",
+          "examples": [
+            {
+              "text": "Tijekom studija sam radila u dućanu.",
+              "ua": "Протягом навчання я працювала в магазині.",
+              "audio": "hr-les47-rule-07.mp3"
+            },
+            {
+              "text": "Tijekom odmora ne radim.",
+              "ua": "Протягом відпустки не працюю.",
+              "audio": "hr-les47-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Родовий: studij > studija, odmor > odmora. Клітик sam іде після першої групи «tijekom studija» (друге місце), не наприкінці."
+        },
+        {
+          "form": "od ... do",
+          "when_ua": "Початок і кінець.",
+          "examples": [
+            {
+              "text": "Radim od osam do četiri sata.",
+              "ua": "Працюю з восьмої до четвертої.",
+              "audio": "hr-les47-rule-09.mp3"
+            },
+            {
+              "text": "Radila je u firmi od lipnja do prosinca.",
+              "ua": "Вона працювала у фірмі з червня до грудня.",
+              "audio": "hr-les47-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Od і do з родовим: od lipnja, do prosinca (місяці з Lekcija 3, 43). Je на другому місці: radila je."
+        },
+        {
+          "form": "već + теперішній час",
+          "when_ua": "Робиш щось і досі.",
+          "examples": [
+            {
+              "text": "Radim ovdje već pet godina.",
+              "ua": "Працюю тут уже п'ять років.",
+              "audio": "hr-les47-rule-11.mp3"
+            },
+            {
+              "text": "Učim hrvatski već dvije godine.",
+              "ua": "Вчу хорватську вже два роки.",
+              "audio": "hr-les47-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Дія триває й досі, тому теперішній, не перфект: radim već pet godina. Pet godina: родовий множини (Lekcija 15), dvije godine: родовий однини."
+        }
+      ],
+      "points_ua": [
+        "Tijekom studija, tijekom odmora: родовий, пиши ije.",
+        "Od lipnja do prosinca: обидва з родовим.",
+        "Radim već pet godina: теперішній, бо дія триває."
+      ]
+    },
+    {
+      "title_ua": "Риси характеру: нестійке a, рід, причина",
+      "summary_ua": "Прикметник про людину має нестійке a і погоджується за родом: on je odgovoran, ona je odgovorna. Далі причина з jer. Для переваг і недоліків є слова з Lekcija 41: prednost, nedostatak.",
+      "compare": [
+        {
+          "form": "odgovoran > odgovorna, pouzdan > pouzdana",
+          "when_ua": "Чоловік і жінка.",
+          "examples": [
+            {
+              "text": "On je odgovoran, a ona je odgovorna.",
+              "ua": "Він відповідальний, а вона відповідальна.",
+              "audio": "hr-les47-rule-13.mp3"
+            },
+            {
+              "text": "Moj otac je pouzdan, a majka je pouzdana.",
+              "ua": "Мій батько надійний, а мама надійна.",
+              "audio": "hr-les47-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Нестійке a випадає, коли додаємо закінчення (Lekcija 16, 46): odgovoran > odgovorna. Жінка про себе: pouzdana sam, не «pouzdan sam»."
+        },
+        {
+          "form": "Ja sam ... jer ...",
+          "when_ua": "Пояснюєш, чому ти такий.",
+          "examples": [
+            {
+              "text": "Pouzdana sam jer uvijek dolazim na vrijeme.",
+              "ua": "Я надійна, бо завжди приходжу вчасно.",
+              "audio": "hr-les47-rule-15.mp3"
+            },
+            {
+              "text": "Strpljiv sam jer rado slušam ljude.",
+              "ua": "Я терплячий, бо охоче слухаю людей.",
+              "audio": "hr-les47-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Sam на другому місці після прикметника, що стоїть першим. Знахідний множини живого: slušam ljude."
+        },
+        {
+          "form": "moja prednost je što ... / moj nedostatak je što ...",
+          "when_ua": "Кажеш про свої сильні й слабкі сторони.",
+          "examples": [
+            {
+              "text": "Moja prednost je što brzo učim.",
+              "ua": "Моя перевага в тому, що я швидко вчуся.",
+              "audio": "hr-les47-rule-17.mp3"
+            },
+            {
+              "text": "Moj nedostatak je što dugo pišem.",
+              "ua": "Мій недолік у тому, що я довго пишу.",
+              "audio": "hr-les47-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Prednost і nedostatak з Lekcija 41. Після je йде što і речення. Прислівники brzo, dugo без змін."
+        }
+      ],
+      "points_ua": [
+        "Він odgovoran, вона odgovorna: слідкуй за родом.",
+        "Pouzdana sam jer ...: прикметник, потім sam.",
+        "Moja prednost je što ..., moj nedostatak je što ..."
+      ]
+    },
+    {
+      "title_ua": "Не розумію: ponovite, polako, što znači, і як слухати",
+      "summary_ua": "Це фрази виживання на живій співбесіді й на слуханні. Попросити повторити, говорити повільніше, запитати значення слова, виграти час. Для слухання моя загальна порада (не правило іспиту): першого разу ловиш тільки тему, другого числа, дні й місця; на невідомому слові не зупиняйся; пиши слово так, як почула.",
+      "compare": [
+        {
+          "form": "Možete li ponoviti? Možete li govoriti polako?",
+          "when_ua": "Не почула чи говорять надто швидко.",
+          "examples": [
+            {
+              "text": "Možete li ponoviti pitanje, molim vas?",
+              "ua": "Чи можете ви повторити питання, будь ласка?",
+              "audio": "hr-les47-rule-19.mp3"
+            },
+            {
+              "text": "Možete li govoriti polako?",
+              "ua": "Чи можете ви говорити повільно?",
+              "audio": "hr-les47-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Možete li: li на другому місці, як у mogu li. Вежливо з vi."
+        },
+        {
+          "form": "Što znači ta riječ? Ne razumijem tu riječ.",
+          "when_ua": "Невідоме слово.",
+          "examples": [
+            {
+              "text": "Što znači ta riječ?",
+              "ua": "Що означає це слово?",
+              "audio": "hr-les47-rule-21.mp3"
+            },
+            {
+              "text": "Ne razumijem tu riječ.",
+              "ua": "Я не розумію цього слова.",
+              "audio": "hr-les47-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Riječ (Lekcija 41) жіночий рід, знахідний tu riječ. Дієслово znači з'являється тут вперше як вираз."
+        },
+        {
+          "form": "Dobro pitanje, moram malo razmisliti.",
+          "when_ua": "Потрібен час на думку.",
+          "examples": [
+            {
+              "text": "Dobro pitanje, moram malo razmisliti.",
+              "ua": "Гарне питання, мушу трохи подумати.",
+              "audio": "hr-les47-rule-23.mp3"
+            },
+            {
+              "text": "Dajte mi malo vremena, molim vas.",
+              "ua": "Дайте мені трохи часу, будь ласка.",
+              "audio": "hr-les47-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Malo з родовим: malo vremena (Lekcija 15). Дати час: dajte mi (Lekcija 7, наказ з vi). Мовчання на іспиті гірше за таку фразу."
+        }
+      ],
+      "points_ua": [
+        "Možete li ponoviti? Možete li govoriti polako?",
+        "Što znači ta riječ? Ne razumijem tu riječ.",
+        "Слухання: 1-й раз тема, 2-й раз числа, дні, місця; не зупиняйся на невідомому слові.",
+        "Необов'язково: запиши вголос відповіді на три питання (Mogu li se predstaviti, Zašto ste se prijavili, Koje su vaše prednosti) і потренуй їх із живою людиною."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Kandidat čeka ispred ureda.",
+      "ua": "Кандидат чекає перед офісом.",
+      "audio": "hr-les47-example-01.mp3"
+    },
+    {
+      "text": "Razgovor za posao je u petak.",
+      "ua": "Співбесіда на роботу в п'ятницю.",
+      "audio": "hr-les47-example-02.mp3"
+    },
+    {
+      "text": "Naš tim radi u velikom uredu.",
+      "ua": "Наша команда працює у великому офісі.",
+      "audio": "hr-les47-example-03.mp3"
+    },
+    {
+      "text": "Moj cilj je dobar posao.",
+      "ua": "Моя мета гарна робота.",
+      "audio": "hr-les47-example-04.mp3"
+    },
+    {
+      "text": "Svaki radnik ima odgovornost.",
+      "ua": "Кожен працівник має відповідальність.",
+      "audio": "hr-les47-example-05.mp3"
+    },
+    {
+      "text": "Ona je vrlo odgovorna.",
+      "ua": "Вона дуже відповідальна.",
+      "audio": "hr-les47-example-06.mp3"
+    },
+    {
+      "text": "Moj kolega je pouzdan.",
+      "ua": "Мій колега надійний.",
+      "audio": "hr-les47-example-07.mp3"
+    },
+    {
+      "text": "Konobar je vrlo ljubazan.",
+      "ua": "Офіціант дуже люб'язний.",
+      "audio": "hr-les47-example-08.mp3"
+    },
+    {
+      "text": "Naša učiteljica je iskusna.",
+      "ua": "Наша вчителька досвідчена.",
+      "audio": "hr-les47-example-09.mp3"
+    },
+    {
+      "text": "Moj otac je vješt vozač.",
+      "ua": "Мій батько вмілий водій.",
+      "audio": "hr-les47-example-10.mp3"
+    },
+    {
+      "text": "Nova kolegica se predstavlja svima.",
+      "ua": "Нова колега представляється всім.",
+      "audio": "hr-les47-example-11.mp3"
+    },
+    {
+      "text": "Tijekom ljeta radim u kafiću.",
+      "ua": "Протягом літа працюю в кав'ярні.",
+      "audio": "hr-les47-example-12.mp3"
+    },
+    {
+      "text": "Dogovorili smo se o terminu.",
+      "ua": "Ми домовилися про час.",
+      "audio": "hr-les47-example-13.mp3"
+    },
+    {
+      "text": "Firma prima nove radnike.",
+      "ua": "Фірма приймає нових працівників.",
+      "audio": "hr-les47-example-14.mp3"
+    },
+    {
+      "text": "Moram razmisliti o ponudi.",
+      "ua": "Мушу подумати над пропозицією.",
+      "audio": "hr-les47-example-15.mp3"
+    },
+    {
+      "text": "Učiteljica je vrlo strpljiva.",
+      "ua": "Вчителька дуже терпляча.",
+      "audio": "hr-les47-example-16.mp3"
+    },
+    {
+      "text": "Moj sin je već samostalan.",
+      "ua": "Мій син уже самостійний.",
+      "audio": "hr-les47-example-17.mp3"
+    },
+    {
+      "text": "Zadovoljna sam novim stanom.",
+      "ua": "Я задоволена новою квартирою.",
+      "audio": "hr-les47-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Razgovor za posao",
+    "title_ua": "Співбесіда",
+    "highlight": [
+      "hr-8444ccce",
+      "hr-08a5f7a3",
+      "hr-79e2da5b",
+      "hr-f224eb97",
+      "hr-4b14311b",
+      "hr-941c1d4f",
+      "hr-431e6ae2"
+    ],
+    "sentences": [
+      {
+        "text": "Prošli tjedan sam se prijavila na natječaj za mjesto tajnice.",
+        "ua": "Минулого тижня я подала заявку на конкурс на місце секретарки.",
+        "audio": "hr-les47-reading-01.mp3"
+      },
+      {
+        "text": "Direktor me je pozvao na razgovor u petak u deset sati.",
+        "ua": "Директор запросив мене на співбесіду в п'ятницю о десятій.",
+        "audio": "hr-les47-reading-02.mp3"
+      },
+      {
+        "text": "Najprije sam se predstavila.",
+        "ua": "Спершу я представилася.",
+        "audio": "hr-les47-reading-03.mp3"
+      },
+      {
+        "text": "Rekla sam da imam pet godina iskustva i da sam odgovorna i pouzdana.",
+        "ua": "Я сказала, що маю п'ять років досвіду й що я відповідальна та надійна.",
+        "audio": "hr-les47-reading-04.mp3"
+      },
+      {
+        "text": "Direktor me je tijekom razgovora pitao radim li rado u timu.",
+        "ua": "Під час співбесіди директор запитав мене, чи охоче я працюю в команді.",
+        "audio": "hr-les47-reading-05.mp3"
+      },
+      {
+        "text": "Odgovorila sam da rado radim s kolegama jer volim razgovarati s ljudima.",
+        "ua": "Я відповіла, що охоче працюю з колегами, бо люблю розмовляти з людьми.",
+        "audio": "hr-les47-reading-06.mp3"
+      },
+      {
+        "text": "Moj cilj je raditi u dobroj firmi.",
+        "ua": "Моя мета працювати в хорошій фірмі.",
+        "audio": "hr-les47-reading-07.mp3"
+      },
+      {
+        "text": "Na kraju smo se dogovorili da će me nazvati u ponedjeljak.",
+        "ua": "Наприкінці ми домовилися, що вони зателефонують мені в понеділок.",
+        "audio": "hr-les47-reading-08.mp3"
+      },
+      {
+        "text": "Razgovor je bio dobar i ja sam zadovoljna.",
+        "ua": "Співбесіда була хорошою, і я задоволена.",
+        "audio": "hr-les47-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай новини. Спершу лови тільки тему, потім числа, дні й місця. Відповідай одним-двома словами, з діакритикою. Текст можна показати після відповідей.",
+      "audio": "hr-les-47-news.mp3",
+      "audio_text": "Dobro jutro, slušate vijesti za utorak, peti ožujka. Zbog radova na cesti most kod rijeke bit će zatvoren do petka. Molimo vozače da voze drugom cestom. Danas će biti oblačno, a navečer će padati jaka kiša. Temperatura će biti deset stupnjeva. U srijedu zbog radova neće biti vode od osam do dvanaest sati. U subotu u kazalištu počinje festival bajki za djecu, a ulaz je besplatan. To su bile vijesti, hvala što ste nas slušali.",
+      "items": [
+        {
+          "prompt": "Що буде закрите? (одне-два слова)",
+          "accepted": [
+            "most",
+            "most kod rijeke"
+          ]
+        },
+        {
+          "prompt": "До якого дня? (один день)",
+          "accepted": [
+            "petak",
+            "do petka",
+            "petka"
+          ]
+        },
+        {
+          "prompt": "Коли буде сильний дощ? (одне слово)",
+          "accepted": [
+            "navečer"
+          ]
+        },
+        {
+          "prompt": "Скільки градусів буде? (число)",
+          "accepted": [
+            "deset",
+            "10",
+            "deset stupnjeva"
+          ]
+        },
+        {
+          "prompt": "У який день не буде води?",
+          "accepted": [
+            "srijeda",
+            "u srijedu",
+            "srijedu"
+          ]
+        },
+        {
+          "prompt": "Від котрої до котрої не буде води?",
+          "accepted": [
+            "od osam do dvanaest",
+            "od osam do dvanaest sati",
+            "od 8 do 12",
+            "od 8 do 12 sati"
+          ]
+        },
+        {
+          "prompt": "Що починається в суботу? (одне-два слова)",
+          "accepted": [
+            "festival",
+            "festival bajki"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Це дуже важлива співбесіда.",
+          "accepted": [
+            "Ovo je vrlo važan razgovor.",
+            "To je vrlo važan razgovor."
+          ]
+        },
+        {
+          "prompt": "Наша команда працює разом.",
+          "accepted": [
+            "Naš tim radi zajedno."
+          ]
+        },
+        {
+          "prompt": "Яка в тебе мета?",
+          "accepted": [
+            "Koji je tvoj cilj?",
+            "Koji ti je cilj?"
+          ]
+        },
+        {
+          "prompt": "Моя сестра дуже відповідальна.",
+          "accepted": [
+            "Moja sestra je vrlo odgovorna."
+          ]
+        },
+        {
+          "prompt": "Ми задоволені новим офісом.",
+          "accepted": [
+            "Zadovoljni smo novim uredom.",
+            "Zadovoljni smo s novim uredom.",
+            "Mi smo zadovoljni novim uredom."
+          ]
+        },
+        {
+          "prompt": "Мій учитель досвідчений і терплячий.",
+          "accepted": [
+            "Moj učitelj je iskusan i strpljiv."
+          ]
+        },
+        {
+          "prompt": "Моя колега дуже люб'язна.",
+          "accepted": [
+            "Moja kolegica je vrlo ljubazna."
+          ]
+        },
+        {
+          "prompt": "Чи можемо ми представитися директорові?",
+          "accepted": [
+            "Možemo li se predstaviti direktoru?"
+          ]
+        },
+        {
+          "prompt": "Протягом зими працюю вдома.",
+          "accepted": [
+            "Tijekom zime radim kod kuće."
+          ]
+        },
+        {
+          "prompt": "Ми домовилися про зустріч у п'ятницю.",
+          "accepted": [
+            "Dogovorili smo se o sastanku u petak."
+          ]
+        },
+        {
+          "prompt": "Директор приймає двох нових працівників.",
+          "accepted": [
+            "Direktor prima dva nova radnika."
+          ]
+        },
+        {
+          "prompt": "Мій брат мусить подумати над рішенням.",
+          "accepted": [
+            "Moj brat mora razmisliti o odluci."
+          ]
+        },
+        {
+          "prompt": "Говори повільно, мій брат не розуміє.",
+          "accepted": [
+            "Govori polako, moj brat ne razumije."
+          ]
+        },
+        {
+          "prompt": "Дорога закрита до понеділка.",
+          "accepted": [
+            "Cesta je zatvorena do ponedjeljka."
+          ]
+        },
+        {
+          "prompt": "Я працюю тут уже дві години.",
+          "accepted": [
+            "Radim ovdje već dva sata."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "razgovor",
+        "kandidat",
+        "tim",
+        "cilj",
+        "odgovornost",
+        "pouzdana",
+        "ljubazan",
+        "iskusan",
+        "vješt",
+        "predstavljamo",
+        "tijekom",
+        "dogovoriti",
+        "prima",
+        "razmisliti",
+        "strpljiv",
+        "samostalna"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ za posao je u srijedu.",
+          "hint": "Співбесіда на роботу в середу.",
+          "accepted": [
+            [
+              "Razgovor",
+              "razgovor"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ čeka direktora.",
+          "hint": "Той кандидат чекає директора.",
+          "accepted": [
+            [
+              "kandidat"
+            ]
+          ]
+        },
+        {
+          "text": "Naš ___ ima pet ljudi.",
+          "hint": "У нашій команді п'ятеро людей.",
+          "accepted": [
+            [
+              "tim"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je putovati.",
+          "hint": "Моя мета подорожувати.",
+          "accepted": [
+            [
+              "cilj"
+            ]
+          ]
+        },
+        {
+          "text": "Direktor ima veliku ___.",
+          "hint": "Директор має велику відповідальність.",
+          "accepted": [
+            [
+              "odgovornost"
+            ]
+          ]
+        },
+        {
+          "text": "Moja kolegica je ___, uvijek dođe na vrijeme.",
+          "hint": "Моя колега надійна, завжди приходить вчасно.",
+          "accepted": [
+            [
+              "pouzdana"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj konobar je ___ prema gostima.",
+          "hint": "Цей офіціант люб'язний до гостей.",
+          "accepted": [
+            [
+              "ljubazan"
+            ]
+          ]
+        },
+        {
+          "text": "Naš direktor je ___ čovjek.",
+          "hint": "Наш директор досвідчена людина.",
+          "accepted": [
+            [
+              "iskusan"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat je ___ kuhar.",
+          "hint": "Мій брат вправний кухар.",
+          "accepted": [
+            [
+              "vješt"
+            ]
+          ]
+        },
+        {
+          "text": "Mi se ___ direktoru.",
+          "hint": "Ми представляємося директорові.",
+          "accepted": [
+            [
+              "predstavljamo"
+            ]
+          ]
+        },
+        {
+          "text": "___ vikenda ne radim.",
+          "hint": "Протягом вихідних не працюю.",
+          "accepted": [
+            [
+              "Tijekom",
+              "tijekom"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra se moram ___ s direktorom.",
+          "hint": "Завтра мушу домовитися з директором.",
+          "accepted": [
+            [
+              "dogovoriti"
+            ]
+          ]
+        },
+        {
+          "text": "Škola ___ nove učenike u rujnu.",
+          "hint": "Школа приймає нових учнів у вересні.",
+          "accepted": [
+            [
+              "prima"
+            ]
+          ]
+        },
+        {
+          "text": "Moram ___ prije odluke.",
+          "hint": "Мушу подумати перед рішенням.",
+          "accepted": [
+            [
+              "razmisliti"
+            ]
+          ]
+        },
+        {
+          "text": "Učitelj je ___ i dobro objašnjava.",
+          "hint": "Учитель терплячий і добре пояснює.",
+          "accepted": [
+            [
+              "strpljiv"
+            ]
+          ]
+        },
+        {
+          "text": "Moja kći je ___ i sama kuha.",
+          "hint": "Моя дочка самостійна й сама готує.",
+          "accepted": [
+            [
+              "samostalna"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Imam razgovor na posao u petak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam razgovor za posao u petak."
+          ]
+        },
+        {
+          "prompt": "Možemo se li predstaviti?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Možemo li se predstaviti?"
+          ]
+        },
+        {
+          "prompt": "Tijekom tjedan radim kod kuće.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Tijekom tjedna radim kod kuće."
+          ]
+        },
+        {
+          "prompt": "Moja sestra je vrlo pouzdan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja sestra je vrlo pouzdana."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam na razgovoru.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam na razgovoru.",
+            "Ja sam danas na razgovoru."
+          ]
+        },
+        {
+          "prompt": "Mi radim u velikom timu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi radimo u velikom timu.",
+            "Radimo u velikom timu."
+          ]
+        },
+        {
+          "prompt": "Poštovani direktor, hvala na razgovoru.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovani direktore, hvala na razgovoru."
+          ]
+        },
+        {
+          "prompt": "Na kraju smo se dogovarali o terminu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Na kraju smo se dogovorili o terminu."
+          ]
+        },
+        {
+          "prompt": "Moja sestra je vrlo strpljiv.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja sestra je vrlo strpljiva."
+          ]
+        },
+        {
+          "prompt": "Prijavila sam se za natječaj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prijavila sam se na natječaj."
+          ]
+        },
+        {
+          "prompt": "Zatvorili su cestu zbog rad.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zatvorili su cestu zbog radova."
+          ]
+        },
+        {
+          "prompt": "Naš tim je pouzdan.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Naši timovi su pouzdani."
+          ]
+        },
+        {
+          "prompt": "Direktor zatvara ured u pet sati.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Direktor je zatvorio ured u pet sati.",
+            "Direktor je zatvarao ured u pet sati."
+          ]
+        },
+        {
+          "prompt": "Direktor prima kandidata.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Direktor ne prima kandidata."
+          ]
+        },
+        {
+          "prompt": "Kandidat se predstavlja.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Predstavlja li se kandidat?"
+          ]
+        },
+        {
+          "prompt": "Razmišljam o ponudi i zovem direktora.",
+          "cue": "-> Nakon što ... (razmisliti)",
+          "accepted": [
+            "Nakon što razmislim o ponudi, zovem direktora.",
+            "Zovem direktora nakon što razmislim o ponudi."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja se ___ svima.",
+          "cue": "predstavljati se",
+          "accepted": [
+            "predstavljam"
+          ]
+        },
+        {
+          "text": "Ured ___ pisma svaki dan.",
+          "cue": "primati",
+          "accepted": [
+            "prima"
+          ]
+        },
+        {
+          "text": "Kad ___ ponudu, zovem te.",
+          "cue": "primiti",
+          "accepted": [
+            "primim"
+          ]
+        },
+        {
+          "text": "Ona uvijek dugo ___ prije odluke.",
+          "cue": "razmišljati",
+          "accepted": [
+            "razmišlja"
+          ]
+        },
+        {
+          "text": "Trgovina se ___ u osam sati.",
+          "cue": "zatvarati",
+          "accepted": [
+            "zatvara"
+          ]
+        },
+        {
+          "text": "Mi se uvijek dobro ___ o poslu.",
+          "cue": "dogovarati",
+          "accepted": [
+            "dogovaramo"
+          ]
+        },
+        {
+          "text": "Učiteljica ___ s roditeljima.",
+          "cue": "razgovarati",
+          "accepted": [
+            "razgovara"
+          ]
+        },
+        {
+          "text": "Ja ___ da je razgovor bio dobar.",
+          "cue": "misliti",
+          "accepted": [
+            "mislim"
+          ]
+        },
+        {
+          "text": "Nakon što se kandidati ___, razgovor počinje.",
+          "cue": "predstaviti se",
+          "accepted": [
+            "predstave"
+          ]
+        },
+        {
+          "text": "Ti uvijek ___ polako.",
+          "cue": "govoriti",
+          "accepted": [
+            "govoriš"
+          ]
+        },
+        {
+          "text": "Mi ___ vijesti svako jutro.",
+          "cue": "slušati",
+          "accepted": [
+            "slušamo"
+          ]
+        },
+        {
+          "text": "Firma je ___ novog radnika.",
+          "cue": "primiti",
+          "accepted": [
+            "primila"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 47 і кілька перевірених хибних друзів з попередніх уроків (досвід, не мистецтво; установа, не завод).",
+      "items": [
+        {
+          "example": true,
+          "prompt": "співбесіда, розмова",
+          "answer": "razgovor"
+        },
+        {
+          "prompt": "кандидат",
+          "answer": "kandidat"
+        },
+        {
+          "prompt": "команда (на роботі)",
+          "answer": "tim"
+        },
+        {
+          "prompt": "мета",
+          "answer": "cilj"
+        },
+        {
+          "prompt": "відповідальність",
+          "answer": "odgovornost"
+        },
+        {
+          "prompt": "надійний",
+          "answer": "pouzdan"
+        },
+        {
+          "prompt": "люб'язний, ввічливий (не «люблячий»)",
+          "answer": "ljubazan"
+        },
+        {
+          "prompt": "досвідчений",
+          "answer": "iskusan"
+        },
+        {
+          "prompt": "вправний, умілий",
+          "answer": "vješt"
+        },
+        {
+          "prompt": "протягом (+ родовий)",
+          "answer": "tijekom"
+        },
+        {
+          "prompt": "повільно, спокійно",
+          "answer": "polako"
+        },
+        {
+          "prompt": "фестиваль",
+          "answer": "festival"
+        },
+        {
+          "prompt": "досвід (не мистецтво)",
+          "answer": "iskustvo"
+        },
+        {
+          "prompt": "установа, інститут (не завод)",
+          "answer": "zavod"
+        }
+      ],
+      "extra": [
+        "strpljiv",
+        "radovi"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    }
+  ]
+}

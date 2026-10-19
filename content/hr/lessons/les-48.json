@@ -1,0 +1,1919 @@
+{
+  "id": "hr-les-48",
+  "lang": "hr",
+  "order": 48,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "prošli",
+    "tjedan",
+    "sam",
+    "počela",
+    "svaki",
+    "dan",
+    "čitam",
+    "ponavljam",
+    "nove",
+    "riječi",
+    "kad",
+    "ne",
+    "razumijem",
+    "riječ",
+    "pišem",
+    "bilješke",
+    "tijekom",
+    "razgovaram",
+    "kolegom",
+    "samo",
+    "hrvatski",
+    "prvi",
+    "test",
+    "nije",
+    "bio",
+    "dobar",
+    "ali",
+    "je",
+    "velik",
+    "sada",
+    "provjeravam",
+    "odgovore",
+    "prije",
+    "nego",
+    "što",
+    "završim",
+    "bod",
+    "važan",
+    "moj",
+    "cilj",
+    "rezultat",
+    "zadovoljna",
+    "i",
+    "s",
+    "malim",
+    "napretkom",
+    "preporučujem",
+    "svima",
+    "da",
+    "se",
+    "dobro",
+    "pripreme",
+    "rečenica",
+    "rečenicu",
+    "rečenice",
+    "tekst",
+    "pitanja",
+    "odgovor",
+    "odgovora",
+    "točan",
+    "točnu",
+    "pogrešku",
+    "pogreške",
+    "jedan",
+    "jedno",
+    "opisom",
+    "broj",
+    "datum",
+    "petnaest",
+    "bodova",
+    "bolji",
+    "put",
+    "dobila",
+    "pripremila",
+    "pripremite",
+    "zapamtila",
+    "sve",
+    "nikad",
+    "zaboravljam",
+    "svoj",
+    "ulaza",
+    "auto",
+    "ispred",
+    "svjedok",
+    "rekao",
+    "nesreću",
+    "vidio",
+    "eura",
+    "dvadeset",
+    "zato",
+    "kazna",
+    "prijavljuje",
+    "policiji",
+    "parkirati",
+    "ovo",
+    "mali",
+    "mnogo",
+    "kći",
+    "ima",
+    "slušajte",
+    "molim",
+    "vas",
+    "zadaću",
+    "zaboravite",
+    "lozinku",
+    "ispit",
+    "ispita",
+    "posao",
+    "radnik",
+    "jutro",
+    "dijete",
+    "prijatelj",
+    "učiteljica",
+    "svibnja",
+    "srpnja",
+    "uvijek",
+    "vrijeme",
+    "kolodvor",
+    "godina",
+    "život",
+    "brak",
+    "ponos",
+    "poslovnica",
+    "iskustvo",
+    "zavod",
+    "vrag",
+    "životopis",
+    "natječaj",
+    "vještina",
+    "tim",
+    "odgovoran",
+    "pouzdan",
+    "polako",
+    "festival",
+    "testa",
+    "rečenici",
+    "večer",
+    "mojeg",
+    "pročitajte",
+    "traje",
+    "cijeli",
+    "rasporedu",
+    "utorkom",
+    "prijavio",
+    "mama",
+    "nazvala",
+    "spavaš"
+  ],
+  "notes": [
+    {
+      "id": "hr-e5df202a",
+      "type": "verb",
+      "lemma": "odabrati",
+      "aspect": "pf.",
+      "partner": "odabirati",
+      "pres_1sg": "odaberem",
+      "forms": [
+        "odaberem",
+        "odaberi",
+        "odaberite",
+        "odabrala",
+        "odabrali",
+        "odabrao",
+        "odabirati",
+        "odabirem",
+        "odabireš",
+        "odabire",
+        "odabiremo",
+        "odabirete",
+        "odabiru"
+      ],
+      "ua": "вибрати (недок. odabirati)",
+      "audio": "hr-odabrati.mp3",
+      "explain_ua": "(Odaberite jedan odgovor = виберіть одну відповідь). УВАГА ДО ВСЬОГО УРОКУ: слова цього уроку це типові слова з завдань тестів, з мого знання, а не точні формулювання справжнього іспиту; справжні формулювання побачиш на пробному складанні. Пара: odabrati (док.) / odabirati (недок.): odaberem / odabirem. У завданнях стоїть наказ на vi: odaberite. Українське «виберіть» схоже за формою: -ite, безкоштовно.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (odabirati). Що саме так формулюють завдання на іспиті, не знаю."
+    },
+    {
+      "id": "hr-07361b38",
+      "type": "verb",
+      "lemma": "označiti",
+      "aspect": "pf.",
+      "partner": "označavati",
+      "pres_1sg": "označim",
+      "forms": [
+        "označim",
+        "označiš",
+        "označi",
+        "označimo",
+        "označite",
+        "označe",
+        "označila",
+        "označili",
+        "označio",
+        "označavati",
+        "označavam",
+        "označavaš",
+        "označava",
+        "označavamo",
+        "označavate",
+        "označavaju"
+      ],
+      "ua": "позначити (недок. označavati)",
+      "audio": "hr-oznaciti.mp3",
+      "explain_ua": "(Označite točnu riječ = позначте правильне слово). Пара: označiti (док.) / označavati (недок.): označim / označavam. Наказ: označite. Пиши č: označiti. Корінь знак (znak) тут як підказка для пам'яті, не етимологія.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-206bf790",
+      "type": "verb",
+      "lemma": "dopuniti",
+      "aspect": "pf.",
+      "partner": "dopunjavati",
+      "pres_1sg": "dopunim",
+      "forms": [
+        "dopunim",
+        "dopuniš",
+        "dopuni",
+        "dopunimo",
+        "dopunite",
+        "dopune",
+        "dopunila",
+        "dopunili",
+        "dopunio",
+        "dopunjavati",
+        "dopunjavam",
+        "dopunjavaš",
+        "dopunjava",
+        "dopunjavamo",
+        "dopunjavate",
+        "dopunjavaju"
+      ],
+      "ua": "доповнити, заповнити пропуск (недок. dopunjavati)",
+      "audio": "hr-dopuniti.mp3",
+      "explain_ua": "(Dopunite rečenicu = доповніть речення). Пара: dopuniti (док.) / dopunjavati (недок.): dopunim / dopunjavam. У завданнях «заповніть пропуски» часто dopunite. Не плутай з popuniti (заповнити бланк, Lekcija 22): різні префікси, різні речі. Підказка для пам'яті.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Розмежування dopuniti / popuniti подаю як звичне вживання, не перевірив."
+    },
+    {
+      "id": "hr-6d95fe3d",
+      "type": "verb",
+      "lemma": "povezati",
+      "aspect": "pf.",
+      "partner": "povezivati",
+      "pres_1sg": "povežem",
+      "forms": [
+        "povežem",
+        "povežeš",
+        "poveže",
+        "povežemo",
+        "povežete",
+        "povežu",
+        "povezala",
+        "povezali",
+        "povezao",
+        "povezivati",
+        "povezujem",
+        "povezuješ",
+        "povezuje",
+        "povezujemo",
+        "povezujete",
+        "povezuju",
+        "povežite"
+      ],
+      "ua": "з'єднати, пов'язати (недок. povezivati)",
+      "audio": "hr-povezati.mp3",
+      "explain_ua": "(Povežite riječ s opisom = з'єднайте слово з описом). Пара: povezati (док.) / povezivati (недок.): povežem / povezujem. НЕПРАВИЛЬНЕ: z > ž у теперішньому (povežem) і в наказі (povežite). Минулий povezao, povezala. Згадай matching у цьому застосунку: саме povežite.",
+      "check": "Пару та форми з мого знання (z > ž як у vezati, vežem), звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-83862a85",
+      "type": "verb",
+      "lemma": "ispraviti",
+      "aspect": "pf.",
+      "partner": "ispravljati",
+      "pres_1sg": "ispravim",
+      "forms": [
+        "ispravim",
+        "ispraviš",
+        "ispravi",
+        "ispravimo",
+        "ispravite",
+        "isprave",
+        "ispravila",
+        "ispravili",
+        "ispravio",
+        "ispravljati",
+        "ispravljam",
+        "ispravljaš",
+        "ispravlja",
+        "ispravljamo",
+        "ispravljate",
+        "ispravljaju"
+      ],
+      "ua": "виправити (недок. ispravljati)",
+      "audio": "hr-ispraviti.mp3",
+      "explain_ua": "(Ispravite pogrešku = виправте помилку). Пара: ispraviti (док.) / ispravljati (недок.): ispravim / ispravljam, v > vlj. Саме це слово стоїть у моїх вправах «виправ помилку». Знахідний: ispraviti pogrešku (Lekcija 40).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (v > vlj)."
+    },
+    {
+      "id": "hr-4a315402",
+      "type": "verb",
+      "lemma": "provjeriti",
+      "aspect": "pf.",
+      "partner": "provjeravati",
+      "pres_1sg": "provjerim",
+      "forms": [
+        "provjerim",
+        "provjeriš",
+        "provjeri",
+        "provjerimo",
+        "provjerite",
+        "provjere",
+        "provjerila",
+        "provjerili",
+        "provjerio",
+        "provjeravati",
+        "provjeravam",
+        "provjeravaš",
+        "provjerava",
+        "provjeravamo",
+        "provjeravate",
+        "provjeravaju"
+      ],
+      "ua": "перевірити (недок. provjeravati)",
+      "audio": "hr-provjeriti.mp3",
+      "explain_ua": "(Provjerite odgovore = перевірте відповіді). Пара: provjeriti (док.) / provjeravati (недок.): provjerim / provjeravam. Пиши ije > je: provjeriti. Знахідний: provjeriti odgovor. Корисно наприкінці письмової роботи: provjerim tekst.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (написання provjeravati)."
+    },
+    {
+      "id": "hr-aa7394d3",
+      "type": "verb",
+      "lemma": "zapamtiti",
+      "aspect": "pf.",
+      "partner": "pamtiti",
+      "pres_1sg": "zapamtim",
+      "forms": [
+        "zapamtim",
+        "zapamtiš",
+        "zapamti",
+        "zapamtimo",
+        "zapamtite",
+        "zapamte",
+        "zapamtila",
+        "zapamtili",
+        "zapamtio",
+        "pamtiti",
+        "pamtim",
+        "pamtiš",
+        "pamti",
+        "pamtimo",
+        "pamtite",
+        "pamte"
+      ],
+      "ua": "запам'ятати (недок. pamtiti)",
+      "audio": "hr-zapamtiti.mp3",
+      "explain_ua": "(Moram zapamtiti ove riječi = мушу запам'ятати ці слова). Пара: zapamtiti (док.) / pamtiti (недок.): zapamtim / pamtim. Родина слова pamet (нижче). Знахідний: zapamtiti riječ. Українське «запам'ятати» інше слово, просто вчимо.",
+      "check": "Пару zapamtiti / pamtiti та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-1cf9e24c",
+      "type": "verb",
+      "lemma": "zaboraviti",
+      "aspect": "pf.",
+      "partner": "zaboravljati",
+      "pres_1sg": "zaboravim",
+      "forms": [
+        "zaboravim",
+        "zaboraviš",
+        "zaboravi",
+        "zaboravimo",
+        "zaboravite",
+        "zaborave",
+        "zaboravila",
+        "zaboravili",
+        "zaboravio",
+        "zaboravljati",
+        "zaboravljam",
+        "zaboravljaš",
+        "zaboravlja",
+        "zaboravljamo",
+        "zaboravljate",
+        "zaboravljaju"
+      ],
+      "ua": "забути (недок. zaboravljati)",
+      "audio": "hr-zaboraviti.mp3",
+      "explain_ua": "(Ne zaboravite zadaću = не забудьте домашнє завдання). Пара: zaboraviti (док.) / zaboravljati (недок.): zaboravim / zaboravljam, v > vlj. Заборона: ne zaboravite (Lekcija 23: ne + наказ). Недок. zaboravljam, коли забуваю знову й знову.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (v > vlj)."
+    },
+    {
+      "id": "hr-3f0280b1",
+      "type": "verb",
+      "lemma": "pripremiti se",
+      "aspect": "pf.",
+      "partner": "pripremati se",
+      "pres_1sg": "pripremim se",
+      "forms": [
+        "pripremim",
+        "pripremiš",
+        "priprema",
+        "pripremi",
+        "pripremimo",
+        "pripremite",
+        "pripreme",
+        "pripremila",
+        "pripremili",
+        "pripremio",
+        "pripremati",
+        "pripremam",
+        "pripremaš",
+        "pripremamo",
+        "pripremate",
+        "pripremaju"
+      ],
+      "ua": "підготуватися (недок. pripremati se)",
+      "audio": "hr-pripremiti.mp3",
+      "explain_ua": "(Pripremamo se za test = ми готуємося до тесту). Пара: pripremiti se (док.) / pripremati se (недок.): pripremim se / pripremam se. Для чого: za + знахідний (za test, za razgovor). Se на другому місці: pripremila sam se. Доконане «підготувалася» (результат), недокінане «готуюся» (процес).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. za + знахідний після pripremiti se з мого знання."
+    },
+    {
+      "id": "hr-0c16769e",
+      "type": "noun",
+      "lemma": "uputa",
+      "gender": "ž.",
+      "gen_sg": "upute",
+      "plural": [
+        "upute"
+      ],
+      "ua": "інструкція",
+      "audio": "hr-uputa.mp3",
+      "forms": [
+        "upute",
+        "uputu",
+        "uputi",
+        "uputama"
+      ],
+      "explain_ua": "(Uputa je kratka = інструкція коротка). Жіночий рід на -a: uputa, upute, uputu (знахідний). Найчастіше у множині: upute za zadatak = інструкції до завдання. Якщо почуєш uputstvo, це інший стандарт: хорватською вчимо uputa.",
+      "check": "Форми з мого знання; що uputstvo належить до іншого стандарту, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-eb4498f0",
+      "type": "noun",
+      "lemma": "bod",
+      "gender": "m.",
+      "gen_sg": "boda",
+      "plural": [
+        "bodovi"
+      ],
+      "ua": "бал, очко",
+      "audio": "hr-bod.mp3",
+      "forms": [
+        "boda",
+        "bodu",
+        "bodovi",
+        "bodove",
+        "bodova"
+      ],
+      "explain_ua": "(Svaki točan odgovor ima jedan bod = кожна правильна відповідь має один бал). Чоловічого роду: bod, boda, bodovi (-ov-), родовий множини bodova: pet bodova, petnaest bodova (Lekcija 15). Бали у тесті й у спорті.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-af469cde",
+      "type": "noun",
+      "lemma": "rezultat",
+      "gender": "m.",
+      "gen_sg": "rezultata",
+      "plural": [
+        "rezultati"
+      ],
+      "ua": "результат",
+      "audio": "hr-rezultat.mp3",
+      "forms": [
+        "rezultata",
+        "rezultatu",
+        "rezultati",
+        "rezultate"
+      ],
+      "explain_ua": "(Rezultat testa je dobar = результат тесту хороший). Чоловічого роду: rezultat, rezultata, rezultati. Знайоме слово, але закінчення вчимо. Пиши z: rezultat.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2e0f32ae",
+      "type": "noun",
+      "lemma": "napredak",
+      "gender": "m.",
+      "gen_sg": "napretka",
+      "plural": [
+        "napredci"
+      ],
+      "ua": "прогрес, успіх у навчанні",
+      "audio": "hr-napredak.mp3",
+      "forms": [
+        "napretka",
+        "napretku",
+        "napretkom",
+        "napredci"
+      ],
+      "explain_ua": "(Moj napredak je velik = мій прогрес великий). Чоловічого роду, нестійке a (Lekcija 16): napredak, napretka, napretku, napretkom. Майже завжди в однині. Українське «прогрес» інше слово, просто вчимо.",
+      "check": "Форми з мого знання; множина napredci рідкісна, не звіряв."
+    },
+    {
+      "id": "hr-4f98f704",
+      "type": "noun",
+      "lemma": "bilješka",
+      "gender": "ž.",
+      "gen_sg": "bilješke",
+      "plural": [
+        "bilješke"
+      ],
+      "ua": "нотатка",
+      "audio": "hr-biljeska.mp3",
+      "forms": [
+        "bilješke",
+        "bilješku",
+        "bilješci",
+        "bilježaka"
+      ],
+      "explain_ua": "(Nove riječi pišem u bilješke = нові слова пишу в нотатки). Жіночий рід на -a: bilješka, bilješke, bilješku (знахідний), u bilješci (k > c). Родовий множини bilježaka (š > ž, нестійке a). Якщо почуєш beleška, це інший стандарт: хорватською вчимо bilješka.",
+      "check": "Форми з мого знання; родовий множини bilježaka і зміну š > ž звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-0bbbb484",
+      "type": "noun",
+      "lemma": "priprema",
+      "gender": "ž.",
+      "gen_sg": "pripreme",
+      "plural": [
+        "pripreme"
+      ],
+      "ua": "підготовка",
+      "audio": "hr-priprema.mp3",
+      "forms": [
+        "pripreme",
+        "pripremu",
+        "pripremi"
+      ],
+      "explain_ua": "(Priprema za ispit je važna = підготовка до іспиту важлива). Жіночий рід на -a: priprema, pripreme, pripremu. Збіг форм: priprema це ще й 3 особа дієслова pripremati (ona priprema). Збіг форм в одній мові, не лажний друг. Za + знахідний: priprema za ispit.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-0cc8728f",
+      "type": "noun",
+      "lemma": "svjedok",
+      "gender": "m.",
+      "gen_sg": "svjedoka",
+      "plural": [
+        "svjedoci"
+      ],
+      "ua": "свідок",
+      "audio": "hr-svjedok.mp3",
+      "forms": [
+        "svjedoka",
+        "svjedoku",
+        "svjedoci",
+        "svjedoke"
+      ],
+      "explain_ua": "(Svjedok je vidio nesreću = свідок бачив аварію). Це слово лишилося з Lekcija 44, його довелося відкласти. Ситуації вигадані, це мовна практика, не юридична інформація. Чоловічого роду: svjedok, svjedoka, svjedoci (k > c, як polaznici). Знахідний живого збігається з родовим: vidim svjedoka. Пиши sv-je: svjedok.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-c1163cad",
+      "type": "noun",
+      "lemma": "prekršaj",
+      "gender": "m.",
+      "gen_sg": "prekršaja",
+      "plural": [
+        "prekršaji"
+      ],
+      "ua": "порушення (дрібне)",
+      "audio": "hr-prekrsaj.mp3",
+      "forms": [
+        "prekršaja",
+        "prekršaju",
+        "prekršaji",
+        "prekršaje"
+      ],
+      "explain_ua": "(Ovo je mali prekršaj = це дрібне порушення). Слово з Lekcija 44. Чоловічого роду: prekršaj, prekršaja, prekršaji. Пиши š: prekršaj.Ситуації вигадані, це мовна практика, не юридична інформація.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-217bdbf5",
+      "type": "adjective",
+      "lemma": "netočan",
+      "fem": "netočna",
+      "neut": "netočno",
+      "ua": "неправильний, хибний",
+      "audio": "hr-netocan.mp3",
+      "forms": [
+        "netočna",
+        "netočno",
+        "netočni",
+        "netočne",
+        "netočnu"
+      ],
+      "explain_ua": "(Ta rečenica je netočna = це речення неправильне). Нестійке a: netočan, netočna, netočno. Пара до točan (Lekcija 41): ne + točan, у завданнях «правильно / неправильно» точан / netočan. Рід за словом: netočna rečenica.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-52d33375",
+      "type": "function",
+      "lemma": "pozorno",
+      "ua": "уважно",
+      "audio": "hr-pozorno.mp3",
+      "forms": [],
+      "explain_ua": "(Slušajte pozorno, molim vas = слухайте уважно, будь ласка). Прислівник, не змінюється. Пиши z: pozorno. Корисне слово на слуханні. Українське «уважно» інше слово, просто вчимо.",
+      "check": "Значення та вживання з мого знання; що pozorno і pažljivo обидва нормальні, з мого знання."
+    },
+    {
+      "id": "hr-0ccd413e",
+      "type": "false_friend",
+      "lemma": "pamet",
+      "gender": "ž.",
+      "gen_sg": "pameti",
+      "plural": [],
+      "ua": "розум",
+      "uk_lookalike": "память (рос.)",
+      "uk_means": "пам'ять (рос. память)",
+      "audio": "hr-pamet.mp3",
+      "forms": [
+        "pameti",
+        "pamet"
+      ],
+      "explain_ua": "(Moja kći ima mnogo pameti = моя дочка дуже розумна, має багато розуму). Хорватське pamet це розум, здоровий глузд, а російське память це пам'ять. Українська сторона цього слова в моєму перевіреному списку відсутня, тому позначаю лише як рос. Жіночий рід на приголосний (i-основа): pamet, pameti. Родина pamtiti, zapamtiti (вище).",
+      "check": "Хибну пару pamet / память перевірено в російсько-хорватському списку; українську сторону не позначаю. Форми з мого знання; вираз «mnogo pameti» звірити з hjp.znanje.hr."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Мова завдань: odaberite, označite, dopunite, povežite",
+      "summary_ua": "У тестах завдання стоять у наказі на vi: odaberite, označite, dopunite, povežite, ispravite, provjerite. Форма та сама, що в Lekcija 23 і 29 (-ite), українські «виберіть, позначте, доповніть, з'єднайте» будуються однаково, тож це безкоштовно. Це типові формулювання з мого знання, а не точні слова справжнього іспиту; ситуації й речення вигадані.",
+      "compare": [
+        {
+          "form": "odaberite / označite",
+          "when_ua": "Вибрати й позначити.",
+          "examples": [
+            {
+              "text": "Odaberite točan odgovor.",
+              "ua": "Виберіть правильну відповідь.",
+              "audio": "hr-les48-rule-01.mp3"
+            },
+            {
+              "text": "Označite netočnu rečenicu.",
+              "ua": "Позначте неправильне речення.",
+              "audio": "hr-les48-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Знахідний після наказу: točan odgovor, netočnu rečenicu (жіночий -u). Прикметник за родом."
+        },
+        {
+          "form": "dopunite / povežite",
+          "when_ua": "Доповнити й з'єднати.",
+          "examples": [
+            {
+              "text": "Dopunite tekst.",
+              "ua": "Доповніть текст.",
+              "audio": "hr-les48-rule-03.mp3"
+            },
+            {
+              "text": "Povežite pitanja i odgovore.",
+              "ua": "З'єднайте питання й відповіді.",
+              "audio": "hr-les48-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Povezati: z > ž (povežem, povežite). Pitanja і odgovore: знахідний множини."
+        },
+        {
+          "form": "ispravite / provjerite",
+          "when_ua": "Виправити й перевірити.",
+          "examples": [
+            {
+              "text": "Ispravite sve pogreške u rečenici.",
+              "ua": "Виправте всі помилки в реченні.",
+              "audio": "hr-les48-rule-05.mp3"
+            },
+            {
+              "text": "Provjerite broj i datum.",
+              "ua": "Перевірте номер і дату.",
+              "audio": "hr-les48-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Sve pogreške: знахідний множини. Broj, datum з Lekcija 22."
+        }
+      ],
+      "points_ua": [
+        "Завдання у наказі на vi: odaberite, označite, dopunite, povežite, ispravite, provjerite.",
+        "Povezati: z > ž (povežite).",
+        "Це типові формулювання з мого знання, не слова справжнього іспиту."
+      ]
+    },
+    {
+      "title_ua": "Rezultat, bod, napredak: як говорити про тест",
+      "summary_ua": "Після тесту кажеш, скільки балів, який результат і чи є прогрес. Далі як готуєшся: pripremiti se za + знахідний, zapamtiti, ne zaboraviti. Бали з родовим множини: petnaest bodova.",
+      "compare": [
+        {
+          "form": "bodova (родовий множини) і bolji nego",
+          "when_ua": "Кількість балів і порівняння.",
+          "examples": [
+            {
+              "text": "Dobila sam petnaest bodova.",
+              "ua": "Я отримала п'ятнадцять балів.",
+              "audio": "hr-les48-rule-07.mp3"
+            },
+            {
+              "text": "Rezultat je bolji nego prošli put.",
+              "ua": "Результат кращий, ніж минулого разу.",
+              "audio": "hr-les48-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Petnaest bodova: після 5 і більше родовий множини (Lekcija 15). Bolji nego з Lekcija 17."
+        },
+        {
+          "form": "pripremiti se za + знахідний",
+          "when_ua": "Як готуєшся.",
+          "examples": [
+            {
+              "text": "Pripremila sam se za razgovor.",
+              "ua": "Я підготувалася до співбесіди.",
+              "audio": "hr-les48-rule-09.mp3"
+            },
+            {
+              "text": "Pripremite se za test.",
+              "ua": "Підготуйтеся до тесту.",
+              "audio": "hr-les48-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Sam на другому місці перед se: pripremila sam se. Наказ pripremite se: se після дієслова."
+        },
+        {
+          "form": "zapamtiti / zaboraviti",
+          "when_ua": "Що пам'ятаєш і що забуваєш.",
+          "examples": [
+            {
+              "text": "Zapamtila sam sve nove riječi.",
+              "ua": "Я запам'ятала всі нові слова.",
+              "audio": "hr-les48-rule-11.mp3"
+            },
+            {
+              "text": "Nikad ne zaboravljam svoj cilj.",
+              "ua": "Ніколи не забуваю своєї мети.",
+              "audio": "hr-les48-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Nikad ne: подвійне заперечення, як в українській. Zaboravljati недок., бо ніколи не забуваю."
+        }
+      ],
+      "points_ua": [
+        "Dobila sam petnaest bodova: родовий множини після 5 і більше.",
+        "Pripremila sam se za ...: sam перед se.",
+        "Zapamtila sam ..., ne zaboravljam ..."
+      ]
+    },
+    {
+      "title_ua": "Повернення до Lekcija 44: svjedok, prekršaj",
+      "summary_ua": "Два слова, які довелося відкласти з Lekcija 44. Ситуації вигадані, це мовна практика, не юридична інформація. Нове правило не потрібне: чоловічий рід, k > c у множині svjedoci, se-пасив з Lekcija 36 і 44.",
+      "compare": [
+        {
+          "form": "svjedok (k > c)",
+          "when_ua": "Хто бачив подію.",
+          "examples": [
+            {
+              "text": "Svjedok je rekao da je auto bio ispred ulaza.",
+              "ua": "Свідок сказав, що авто було перед входом.",
+              "audio": "hr-les48-rule-13.mp3"
+            },
+            {
+              "text": "Policija pita svjedoke.",
+              "ua": "Поліція опитує свідків.",
+              "audio": "hr-les48-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Множина svjedoci (k > c); знахідний множини svjedoke (check: звірити з hjp.znanje.hr). Da + речення, як у Lekcija 31."
+        },
+        {
+          "form": "prekršaj, kazna, se-пасив",
+          "when_ua": "Мале порушення й наслідок.",
+          "examples": [
+            {
+              "text": "Ovo je prekršaj, zato je kazna dvadeset eura.",
+              "ua": "Це порушення, тому штраф двадцять євро.",
+              "audio": "hr-les48-rule-15.mp3"
+            },
+            {
+              "text": "Prekršaj se prijavljuje policiji.",
+              "ua": "Про порушення повідомляють поліцію.",
+              "audio": "hr-les48-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Se на другому місці: prekršaj se prijavljuje. Policiji: давальний. Сума вигадана."
+        }
+      ],
+      "points_ua": [
+        "Svjedok, svjedoka, svjedoci.",
+        "Prekršaj, prekršaja; kazna.",
+        "Усе вигадане, мовна практика."
+      ]
+    },
+    {
+      "title_ua": "Чекліст готовності та карта помилок",
+      "summary_ua": "Це мій власний список «я можу», а не офіційний перелік вимог. Познач у голові, що вже виходить. Тест нижче показує бали, але не правильні відповіді: після нього я прочитаю твої результати й розберу три найчастіші помилки. Правило мого вибору: 85% у тесті й жодного повторюваного шаблону помилок у розборі; це мій орієнтир, не офіційний поріг, справжню прохідну межу я не знаю.",
+      "compare": [],
+      "points_ua": [
+        "Слухання: з двох разів чую день, число, місце у короткому повідомленні.",
+        "Читання: розумію оголошення й коротке службове чи особисте листа (Lekcija 40, 44).",
+        "Структури: відмінки однини й множини, клітики на другому місці в реченні з трьох частин, вид у минулому й майбутньому, ввічливе прохання з bih, se-пасив.",
+        "Письмо: лист на 60-80 слів без помилок у діакритиці; один опис; один переказ.",
+        "Говоріння: можу представитися, описати день, переказати фільм, висловити думку з причиною, попросити повторити.",
+        "Говорити з живою людиною раз на тиждень: це найкраща підготовка до усної частини.",
+        "Moja karta pogrešaka: після тесту я складу з твого digest три найчастіші типи помилок з одним зразком для кожного. Якщо шаблону не буде, тут лишиться один рядок «шаблону нема».",
+        "Справжнє пробне складання в акредитованій установі вирішуєш ти. Список установ дивись на офіційному сайті міністерства науки і освіти (mzom.gov.hr), не в блогах."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Uputa je kratka.",
+      "ua": "Інструкція коротка.",
+      "audio": "hr-les48-example-01.mp3"
+    },
+    {
+      "text": "Svaki točan odgovor ima jedan bod.",
+      "ua": "Кожна правильна відповідь має один бал.",
+      "audio": "hr-les48-example-02.mp3"
+    },
+    {
+      "text": "Rezultat testa je dobar.",
+      "ua": "Результат тесту хороший.",
+      "audio": "hr-les48-example-03.mp3"
+    },
+    {
+      "text": "Moj napredak je velik.",
+      "ua": "Мій прогрес великий.",
+      "audio": "hr-les48-example-04.mp3"
+    },
+    {
+      "text": "Priprema za ispit je važna.",
+      "ua": "Підготовка до іспиту важлива.",
+      "audio": "hr-les48-example-05.mp3"
+    },
+    {
+      "text": "Svjedok je vidio nesreću.",
+      "ua": "Свідок бачив аварію.",
+      "audio": "hr-les48-example-06.mp3"
+    },
+    {
+      "text": "Ovo je mali prekršaj.",
+      "ua": "Це дрібне порушення.",
+      "audio": "hr-les48-example-07.mp3"
+    },
+    {
+      "text": "Moja kći ima mnogo pameti.",
+      "ua": "Моя дочка дуже розумна.",
+      "audio": "hr-les48-example-08.mp3"
+    },
+    {
+      "text": "Ta rečenica je netočna.",
+      "ua": "Це речення неправильне.",
+      "audio": "hr-les48-example-09.mp3"
+    },
+    {
+      "text": "Slušajte pozorno, molim vas.",
+      "ua": "Слухайте уважно, будь ласка.",
+      "audio": "hr-les48-example-10.mp3"
+    },
+    {
+      "text": "Odaberite jedan odgovor.",
+      "ua": "Виберіть одну відповідь.",
+      "audio": "hr-les48-example-11.mp3"
+    },
+    {
+      "text": "Označite točnu riječ.",
+      "ua": "Позначте правильне слово.",
+      "audio": "hr-les48-example-12.mp3"
+    },
+    {
+      "text": "Povežite riječ s opisom.",
+      "ua": "З'єднайте слово з описом.",
+      "audio": "hr-les48-example-13.mp3"
+    },
+    {
+      "text": "Ispravite pogrešku.",
+      "ua": "Виправте помилку.",
+      "audio": "hr-les48-example-14.mp3"
+    },
+    {
+      "text": "Provjerite odgovore.",
+      "ua": "Перевірте відповіді.",
+      "audio": "hr-les48-example-15.mp3"
+    },
+    {
+      "text": "Ne zaboravite zadaću.",
+      "ua": "Не забудьте домашнє завдання.",
+      "audio": "hr-les48-example-16.mp3"
+    },
+    {
+      "text": "Pripremamo se za test.",
+      "ua": "Ми готуємося до тесту.",
+      "audio": "hr-les48-example-17.mp3"
+    },
+    {
+      "text": "Moram zapamtiti ove riječi.",
+      "ua": "Мушу запам'ятати ці слова.",
+      "audio": "hr-les48-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Spremna za ispit?",
+    "title_ua": "Готова до іспиту?",
+    "highlight": [
+      "hr-0c16769e",
+      "hr-eb4498f0",
+      "hr-af469cde",
+      "hr-2e0f32ae",
+      "hr-4f98f704",
+      "hr-0bbbb484",
+      "hr-52d33375"
+    ],
+    "sentences": [
+      {
+        "text": "Prošli tjedan sam počela pripremati se za ispit.",
+        "ua": "Минулого тижня я почала готуватися до іспиту.",
+        "audio": "hr-les48-reading-01.mp3"
+      },
+      {
+        "text": "Svaki dan čitam upute i ponavljam nove riječi.",
+        "ua": "Щодня читаю інструкції й повторюю нові слова.",
+        "audio": "hr-les48-reading-02.mp3"
+      },
+      {
+        "text": "Nove riječi pišem u bilješke.",
+        "ua": "Нові слова записую в нотатки.",
+        "audio": "hr-les48-reading-03.mp3"
+      },
+      {
+        "text": "Tijekom tjedna razgovaram s kolegom samo hrvatski.",
+        "ua": "Протягом тижня розмовляю з колегою тільки хорватською.",
+        "audio": "hr-les48-reading-04.mp3"
+      },
+      {
+        "text": "Prvi test nije bio dobar, ali je napredak velik.",
+        "ua": "Перший тест був не дуже добрий, але прогрес великий.",
+        "audio": "hr-les48-reading-05.mp3"
+      },
+      {
+        "text": "Sada pozorno provjeravam odgovore prije nego što završim.",
+        "ua": "Тепер уважно перевіряю відповіді, перш ніж закінчу.",
+        "audio": "hr-les48-reading-06.mp3"
+      },
+      {
+        "text": "Svaki bod je važan.",
+        "ua": "Кожен бал важливий.",
+        "audio": "hr-les48-reading-07.mp3"
+      },
+      {
+        "text": "Moj cilj je dobar rezultat, ali sam zadovoljna i s malim napretkom.",
+        "ua": "Моя мета гарний результат, але я задоволена й невеликим прогресом.",
+        "audio": "hr-les48-reading-08.mp3"
+      },
+      {
+        "text": "Preporučujem svima da se dobro pripreme.",
+        "ua": "Раджу всім добре підготуватися.",
+        "audio": "hr-les48-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Виберіть слово з тексту.",
+          "accepted": [
+            "Odaberite riječ iz teksta."
+          ]
+        },
+        {
+          "prompt": "Мій брат отримав вісім балів.",
+          "accepted": [
+            "Moj brat je dobio osam bodova.",
+            "Moj je brat dobio osam bodova."
+          ]
+        },
+        {
+          "prompt": "Щовечора повторюю нові слова.",
+          "accepted": [
+            "Svaku večer ponavljam nove riječi."
+          ]
+        },
+        {
+          "prompt": "Перевірте відповіді, будь ласка.",
+          "accepted": [
+            "Provjerite odgovore, molim vas.",
+            "Molim vas, provjerite odgovore."
+          ]
+        },
+        {
+          "prompt": "Моя сестра готується до іспиту.",
+          "accepted": [
+            "Moja sestra se priprema za ispit.",
+            "Moja se sestra priprema za ispit."
+          ]
+        },
+        {
+          "prompt": "Не забудь свою нотатку.",
+          "accepted": [
+            "Ne zaboravi svoju bilješku."
+          ]
+        },
+        {
+          "prompt": "Прогрес мого сина хороший.",
+          "accepted": [
+            "Napredak mog sina je dobar.",
+            "Napredak mojeg sina je dobar."
+          ]
+        },
+        {
+          "prompt": "Ці речення неправильні.",
+          "accepted": [
+            "Ove rečenice su netočne.",
+            "Ove su rečenice netočne."
+          ]
+        },
+        {
+          "prompt": "Результат у цьому тесті добрий.",
+          "accepted": [
+            "Rezultat u ovom testu je dobar.",
+            "Rezultat u ovom testu je dobro."
+          ]
+        },
+        {
+          "prompt": "Читайте текст уважно.",
+          "accepted": [
+            "Čitajte tekst pozorno.",
+            "Pozorno čitajte tekst."
+          ]
+        },
+        {
+          "prompt": "Свідок живе поблизу вокзалу.",
+          "accepted": [
+            "Svjedok živi blizu kolodvora."
+          ]
+        },
+        {
+          "prompt": "Мені потрібна ця інструкція.",
+          "accepted": [
+            "Treba mi ova uputa.",
+            "Trebam ovu uputu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "uputu",
+        "bodova",
+        "rezultat",
+        "napredak",
+        "bilješke",
+        "Priprema",
+        "svjedok",
+        "prekršaj",
+        "netočan",
+        "pozorno",
+        "pameti",
+        "Odaberite"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Pročitajte ___ za zadatak.",
+          "hint": "Прочитайте інструкцію до завдання.",
+          "accepted": [
+            [
+              "uputu"
+            ]
+          ]
+        },
+        {
+          "text": "Za taj zadatak dobivam pet ___.",
+          "hint": "За це завдання отримую п'ять балів.",
+          "accepted": [
+            [
+              "bodova"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ nije loš.",
+          "hint": "Мій результат непоганий.",
+          "accepted": [
+            [
+              "rezultat"
+            ]
+          ]
+        },
+        {
+          "text": "Svaki dan vidim mali ___.",
+          "hint": "Щодня бачу невеликий прогрес.",
+          "accepted": [
+            [
+              "napredak"
+            ]
+          ]
+        },
+        {
+          "text": "Pišem nove riječi u ___.",
+          "hint": "Записую нові слова в нотатки.",
+          "accepted": [
+            [
+              "bilješke"
+            ]
+          ]
+        },
+        {
+          "text": "___ za razgovor traje cijeli tjedan.",
+          "hint": "Підготовка до співбесіди триває цілий тиждень.",
+          "accepted": [
+            [
+              "Priprema"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ je vidio auto.",
+          "hint": "Той свідок бачив авто.",
+          "accepted": [
+            [
+              "svjedok"
+            ]
+          ]
+        },
+        {
+          "text": "Parkirati ispred vrata je ___.",
+          "hint": "Паркуватися перед дверима це порушення.",
+          "accepted": [
+            [
+              "prekršaj"
+            ]
+          ]
+        },
+        {
+          "text": "Taj odgovor je ___.",
+          "hint": "Ця відповідь неправильна.",
+          "accepted": [
+            [
+              "netočan"
+            ]
+          ]
+        },
+        {
+          "text": "Slušam vijesti ___.",
+          "hint": "Слухаю новини уважно.",
+          "accepted": [
+            [
+              "pozorno"
+            ]
+          ]
+        },
+        {
+          "text": "Njegova kći nema puno ___.",
+          "hint": "У його дочки не багато розуму.",
+          "accepted": [
+            [
+              "pameti"
+            ]
+          ]
+        },
+        {
+          "text": "___ jedan odgovor, molim vas.",
+          "hint": "Виберіть одну відповідь, будь ласка.",
+          "accepted": [
+            [
+              "Odaberite"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 48 і одна нова хибна пара (розум, не пам'ять).",
+      "items": [
+        {
+          "example": true,
+          "prompt": "інструкція",
+          "answer": "uputa"
+        },
+        {
+          "prompt": "бал",
+          "answer": "bod"
+        },
+        {
+          "prompt": "результат",
+          "answer": "rezultat"
+        },
+        {
+          "prompt": "прогрес",
+          "answer": "napredak"
+        },
+        {
+          "prompt": "нотатка",
+          "answer": "bilješka"
+        },
+        {
+          "prompt": "підготовка",
+          "answer": "priprema"
+        },
+        {
+          "prompt": "свідок",
+          "answer": "svjedok"
+        },
+        {
+          "prompt": "дрібне порушення",
+          "answer": "prekršaj"
+        },
+        {
+          "prompt": "неправильний",
+          "answer": "netočan"
+        },
+        {
+          "prompt": "уважно",
+          "answer": "pozorno"
+        },
+        {
+          "prompt": "розум (не пам'ять)",
+          "answer": "pamet"
+        },
+        {
+          "prompt": "вибрати",
+          "answer": "odabrati"
+        },
+        {
+          "prompt": "забути",
+          "answer": "zaboraviti"
+        },
+        {
+          "prompt": "перевірити",
+          "answer": "provjeriti"
+        }
+      ],
+      "extra": [
+        "točan",
+        "zapamtiti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "test": true,
+      "type": "listening",
+      "instruction_ua": "ТЕСТ. Послухай повідомлення зі школи. Відповідай одним-двома словами, з діакритикою. Правильні відповіді не показуються.",
+      "audio": "hr-les-48-school.mp3",
+      "audio_text": "Poštovani roditelji, ovdje je škola. Roditeljski sastanak bit će u utorak u šest sati. Sastanak je u učionici broj dvanaest. Razrednik će govoriti o testu i o rasporedu. Ako ne možete doći, molimo vas da nam javite do ponedjeljka. Hvala i lijep pozdrav.",
+      "items": [
+        {
+          "prompt": "У який день батьківські збори?",
+          "accepted": [
+            "utorak",
+            "u utorak",
+            "utorkom"
+          ]
+        },
+        {
+          "prompt": "О котрій годині?",
+          "accepted": [
+            "šest",
+            "u šest",
+            "u šest sati",
+            "šest sati",
+            "6",
+            "u 6 sati"
+          ]
+        },
+        {
+          "prompt": "У якій аудиторії (номер)?",
+          "accepted": [
+            "dvanaest",
+            "broj dvanaest",
+            "12",
+            "broj 12",
+            "učionica broj dvanaest"
+          ]
+        },
+        {
+          "prompt": "Про що говоритиме класний керівник? (одне слово)",
+          "accepted": [
+            "test",
+            "raspored",
+            "o testu",
+            "o rasporedu",
+            "test i raspored"
+          ]
+        },
+        {
+          "prompt": "До якого дня треба повідомити, якщо не можна прийти?",
+          "accepted": [
+            "ponedjeljak",
+            "do ponedjeljka",
+            "ponedjeljka"
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "translate",
+      "instruction_ua": "ТЕСТ. Переклади хорватською. Підказок немає, правильні відповіді не показуються. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат шукає нову роботу.",
+          "accepted": [
+            "Moj brat traži novi posao."
+          ]
+        },
+        {
+          "prompt": "Брат подав заявку на конкурс на місце кухаря.",
+          "accepted": [
+            "Brat se prijavio na natječaj za mjesto kuhara."
+          ]
+        },
+        {
+          "prompt": "Протягом тижня ми багато вчимо.",
+          "accepted": [
+            "Tijekom tjedna puno učimo.",
+            "Tijekom tjedna mnogo učimo."
+          ]
+        },
+        {
+          "prompt": "Вона працює тут уже три роки.",
+          "accepted": [
+            "Ona radi ovdje već tri godine.",
+            "Radi ovdje već tri godine.",
+            "Ona ovdje radi već tri godine."
+          ]
+        },
+        {
+          "prompt": "Наш директор дуже відповідальний.",
+          "accepted": [
+            "Naš direktor je vrlo odgovoran."
+          ]
+        },
+        {
+          "prompt": "Мама дуже терпляча.",
+          "accepted": [
+            "Majka je vrlo strpljiva.",
+            "Mama je vrlo strpljiva."
+          ]
+        },
+        {
+          "prompt": "Ми домовилися про нову зустріч.",
+          "accepted": [
+            "Dogovorili smo se o novom sastanku."
+          ]
+        },
+        {
+          "prompt": "Чи можете ви повторити це слово?",
+          "accepted": [
+            "Možete li ponoviti tu riječ?"
+          ]
+        },
+        {
+          "prompt": "Фестиваль починається в суботу.",
+          "accepted": [
+            "Festival počinje u subotu."
+          ]
+        },
+        {
+          "prompt": "Через ремонт міст зачинений.",
+          "accepted": [
+            "Zbog radova je most zatvoren.",
+            "Most je zatvoren zbog radova."
+          ]
+        },
+        {
+          "prompt": "У мене немає п'яти олівців.",
+          "accepted": [
+            "Nemam pet olovaka."
+          ]
+        },
+        {
+          "prompt": "День народження в мене дванадцятого липня.",
+          "accepted": [
+            "Rođendan mi je dvanaestog srpnja.",
+            "Moj rođendan je dvanaestog srpnja."
+          ]
+        },
+        {
+          "prompt": "Він питає, чи прийде брат.",
+          "accepted": [
+            "Pita hoće li brat doći.",
+            "Pita hoće li doći brat."
+          ]
+        },
+        {
+          "prompt": "Після того як вона прочитала лист, вона зателефонувала.",
+          "accepted": [
+            "Nakon što je pročitala pismo, nazvala je.",
+            "Nakon što je pročitala pismo, zvala je."
+          ]
+        },
+        {
+          "prompt": "Дякую, пане директоре!",
+          "accepted": [
+            "Hvala, gospodine direktore!",
+            "Hvala, gospodine direktore."
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "gaps",
+      "instruction_ua": "ТЕСТ. Встав потрібне слово в потрібній формі. Списку слів і підказок немає, правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "text": "Danas imam razgovor ___ posao.",
+          "hint": "Сьогодні маю співбесіду на роботу.",
+          "accepted": [
+            [
+              "za"
+            ]
+          ]
+        },
+        {
+          "text": "Tijekom ___ idemo na more.",
+          "hint": "Протягом літа їздимо на море.",
+          "accepted": [
+            [
+              "ljeta"
+            ]
+          ]
+        },
+        {
+          "text": "Moja kći je ___ i dobro uči.",
+          "hint": "Моя дочка відповідальна й добре вчиться.",
+          "accepted": [
+            [
+              "odgovorna"
+            ]
+          ]
+        },
+        {
+          "text": "Bio je to ___ konobar.",
+          "hint": "Це був ввічливий офіціант.",
+          "accepted": [
+            [
+              "ljubazan"
+            ]
+          ]
+        },
+        {
+          "text": "Nova kolegica se ___ svima.",
+          "hint": "Нова колега представляється всім.",
+          "accepted": [
+            [
+              "predstavlja"
+            ]
+          ]
+        },
+        {
+          "text": "Na stolu je pet ___.",
+          "hint": "На столі п'ять яблук.",
+          "accepted": [
+            [
+              "jabuka"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan mi je u ___.",
+          "hint": "День народження в мене в липні.",
+          "accepted": [
+            [
+              "srpnju"
+            ]
+          ]
+        },
+        {
+          "text": "Kupila sam kruh i ___ za doručak.",
+          "hint": "Купила хліб і молоко на сніданок.",
+          "accepted": [
+            [
+              "mlijeko"
+            ]
+          ]
+        },
+        {
+          "text": "Poštovani ___, hvala na pozivu.",
+          "hint": "Шановний пане директоре, дякую за запрошення.",
+          "accepted": [
+            [
+              "direktore"
+            ]
+          ]
+        },
+        {
+          "text": "Prijavila sam se ___ natječaj.",
+          "hint": "Я подала заявку на конкурс.",
+          "accepted": [
+            [
+              "na"
+            ]
+          ]
+        },
+        {
+          "text": "Pitala me je ___.",
+          "hint": "Вона запитала мене, чи хочу я кави.",
+          "accepted": [
+            [
+              "želim li kavu"
+            ]
+          ]
+        },
+        {
+          "text": "Žena ___ radi u banci je moja sestra.",
+          "hint": "Жінка, яка працює в банку, моя сестра.",
+          "accepted": [
+            [
+              "koja"
+            ]
+          ]
+        },
+        {
+          "text": "Dok ___ kiša, čekam u kafiću.",
+          "hint": "Поки йде дощ, чекаю в кав'ярні.",
+          "accepted": [
+            [
+              "pada"
+            ]
+          ]
+        },
+        {
+          "text": "Ne razumijem ___ riječ.",
+          "hint": "Не розумію цього слова.",
+          "accepted": [
+            [
+              "tu"
+            ]
+          ]
+        },
+        {
+          "text": "Cesta je ___ zbog radova.",
+          "hint": "Дорога зачинена через ремонт.",
+          "accepted": [
+            [
+              "zatvorena"
+            ]
+          ]
+        },
+        {
+          "text": "Nema ___ u dućanu.",
+          "hint": "У магазині немає хліба.",
+          "accepted": [
+            [
+              "kruha"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "transform",
+      "instruction_ua": "ТЕСТ. Перетвори речення, як показує стрілка, або виправ помилку. Правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Danas ja sam kod kuće.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam kod kuće.",
+            "Ja sam danas kod kuće."
+          ]
+        },
+        {
+          "prompt": "Pitao me je što dolazim.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pitao me je dolazim li."
+          ]
+        },
+        {
+          "prompt": "Gledala sam film o dvorac.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gledala sam film o dvorcu."
+          ]
+        },
+        {
+          "prompt": "Tijekom razgovor slušam.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Tijekom razgovora slušam."
+          ]
+        },
+        {
+          "prompt": "Ona je vrlo pouzdan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ona je vrlo pouzdana."
+          ]
+        },
+        {
+          "prompt": "Mi kupujem kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi kupujemo kruh.",
+            "Kupujemo kruh."
+          ]
+        },
+        {
+          "prompt": "Rođendan je petog svibanju.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je petog svibnja."
+          ]
+        },
+        {
+          "prompt": "Vidim tvoja sestra.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim tvoju sestru."
+          ]
+        },
+        {
+          "prompt": "Dobar dan, prijatelj!",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dobar dan, prijatelju!"
+          ]
+        },
+        {
+          "prompt": "Dijete uči u školu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dijete uči u školi."
+          ]
+        },
+        {
+          "prompt": "Moja sestra radi u banci.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Moja sestra je radila u banci.",
+            "Moja je sestra radila u banci."
+          ]
+        },
+        {
+          "prompt": "Imam novu torbu.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Nemam novu torbu.",
+            "Nemam nove torbe."
+          ]
+        },
+        {
+          "prompt": "Taj dućan je velik.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Ti dućani su veliki.",
+            "Ti su dućani veliki."
+          ]
+        },
+        {
+          "prompt": "Ona čita pismo.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Čita li ona pismo?",
+            "Čita li pismo?"
+          ]
+        },
+        {
+          "prompt": "Čitam pismo i zovem brata.",
+          "cue": "-> Nakon što ...",
+          "accepted": [
+            "Nakon što pročitam pismo, zovem brata.",
+            "Zovem brata nakon što pročitam pismo."
+          ]
+        },
+        {
+          "prompt": "Prijateljica dolazi.",
+          "cue": "-> майбутній час",
+          "accepted": [
+            "Prijateljica će doći.",
+            "Prijateljica će dolaziti."
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "gaps",
+      "instruction_ua": "ТЕСТ. Постав дієслово в потрібній формі: його значення видно з українського речення, інших підказок немає. Правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "text": "Mi ___ vijesti svako jutro.",
+          "hint": "Ми слухаємо новини щоранку.",
+          "accepted": [
+            [
+              "slušamo"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ___ u banci.",
+          "hint": "Вона працює в банку.",
+          "accepted": [
+            [
+              "radi"
+            ]
+          ]
+        },
+        {
+          "text": "Oni se ___ svima.",
+          "hint": "Вони представляються всім.",
+          "accepted": [
+            [
+              "predstavljaju"
+            ]
+          ]
+        },
+        {
+          "text": "Ja ___ kavu svako jutro.",
+          "hint": "Я п'ю каву щоранку.",
+          "accepted": [
+            [
+              "pijem"
+            ]
+          ]
+        },
+        {
+          "text": "Jučer sam ___ pismo.",
+          "hint": "Вчора я прочитала лист.",
+          "accepted": [
+            [
+              "pročitala",
+              "pročitao"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra ću ___ brata.",
+          "hint": "Завтра зателефоную братові.",
+          "accepted": [
+            [
+              "nazvati"
+            ]
+          ]
+        },
+        {
+          "text": "Kad ___ kući, kuham.",
+          "hint": "Коли приходжу додому, готую.",
+          "accepted": [
+            [
+              "dođem"
+            ]
+          ]
+        },
+        {
+          "text": "Oni su ___ nove radnike.",
+          "hint": "Вони прийняли нових працівників.",
+          "accepted": [
+            [
+              "primili"
+            ]
+          ]
+        },
+        {
+          "text": "Dok ti ___, ja kuham.",
+          "hint": "Поки ти спиш, я готую.",
+          "accepted": [
+            [
+              "spavaš"
+            ]
+          ]
+        },
+        {
+          "text": "Ne ___ što govoriš.",
+          "hint": "Не розумію, що ти кажеш.",
+          "accepted": [
+            [
+              "razumijem"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat je ___ u Zagrebu.",
+          "hint": "Мій брат жив у Загребі.",
+          "accepted": [
+            [
+              "živio"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ kruh u dućanu.",
+          "hint": "Ми купуємо хліб у магазині.",
+          "accepted": [
+            [
+              "kupujemo"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "matching",
+      "instruction_ua": "ТЕСТ. З'єднай українське слово з хорватським. Два хорватські слова зайві. Правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "рік (не година)",
+          "answer": "godina"
+        },
+        {
+          "prompt": "життя (не живіт)",
+          "answer": "život"
+        },
+        {
+          "prompt": "шлюб (не дефект)",
+          "answer": "brak"
+        },
+        {
+          "prompt": "гордість (не діарея)",
+          "answer": "ponos"
+        },
+        {
+          "prompt": "відділення банку (не прислів'я)",
+          "answer": "poslovnica"
+        },
+        {
+          "prompt": "досвід (не мистецтво)",
+          "answer": "iskustvo"
+        },
+        {
+          "prompt": "установа (не завод)",
+          "answer": "zavod"
+        },
+        {
+          "prompt": "диявол (не ворог)",
+          "answer": "vrag"
+        },
+        {
+          "prompt": "резюме, життєпис",
+          "answer": "životopis"
+        },
+        {
+          "prompt": "конкурс",
+          "answer": "natječaj"
+        },
+        {
+          "prompt": "навичка, вміння",
+          "answer": "vještina"
+        },
+        {
+          "prompt": "команда (на роботі)",
+          "answer": "tim"
+        },
+        {
+          "prompt": "мета",
+          "answer": "cilj"
+        },
+        {
+          "prompt": "відповідальний",
+          "answer": "odgovoran"
+        },
+        {
+          "prompt": "надійний",
+          "answer": "pouzdan"
+        },
+        {
+          "prompt": "протягом",
+          "answer": "tijekom"
+        },
+        {
+          "prompt": "повільно, спокійно",
+          "answer": "polako"
+        },
+        {
+          "prompt": "фестиваль",
+          "answer": "festival"
+        }
+      ],
+      "extra": [
+        "razgovor",
+        "sklad"
+      ]
+    },
+    {
+      "type": "dictation",
+      "test": true,
+      "instruction_ua": "ТЕСТ. Послухай і напиши слово (з діакритикою). Правильні відповіді не показуються.",
+      "note_types": [
+        "noun",
+        "adjective"
+      ],
+      "max": 10
+    }
+  ]
+}
