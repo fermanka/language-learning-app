@@ -218,7 +218,15 @@ if (typeof document === 'undefined') {
       const last = (log.state().exercises[`${L.id}#${idx}`] || {}).last; // the learner's latest saved attempt, if any
       let dictWords = null;
       const h = el('h3'); h.append(el('span', 'badge', String(badge)), document.createTextNode(ex.instruction_ua)); box.append(h);
+      if (ex.test) box.append(el('p', 'meta', 'Режим тесту: правильні відповіді не показуються, лише результат.'));
       const list = ex.type === 'matching' ? el('div', 'match') : el('ol', 'items');
+      if (ex.type === 'listening') {
+        // the recording is the task: the text stays hidden until the learner asks for it
+        const bar = el('div', 'listen'); bar.append(iconBtn(ex.audio), document.createTextNode(' '));
+        const show = el('button', 'btn', 'Показати текст'), txt = el('p', 'meta', ex.audio_text); txt.hidden = true;
+        show.type = 'button'; show.onclick = () => { txt.hidden = !txt.hidden; show.textContent = txt.hidden ? 'Показати текст' : 'Сховати текст'; };
+        bar.append(show, txt); box.append(bar);
+      }
       if (ex.type === 'gaps') { const bank = el('div', 'bank'); ex.bank.forEach((w) => bank.append(el('span', null, w))); box.append(bank); }
 
       if (ex.type === 'matching') {
@@ -247,7 +255,7 @@ if (typeof document === 'undefined') {
         picked.forEach((n) => { const li = el('li', 'dict'); li.append(iconBtn(n.audio), input('', [display(n)])); list.append(li); });
       } else ex.items.forEach((it) => {
         const li = el('li', it.example ? 'example' : '');
-        if (ex.type === 'translate' || ex.type === 'transform') {
+        if (ex.type === 'translate' || ex.type === 'transform' || ex.type === 'listening') {
           // translate shows the prompt only (the cue would give the answer away); in transform the cue IS the task ("-> питання")
           li.append(el('span', null, it.prompt));
           if (ex.type === 'transform') li.append(el('span', 'cue', ` (${it.cue})`));
@@ -271,7 +279,7 @@ if (typeof document === 'undefined') {
           i.parentNode.querySelectorAll('.fix').forEach((f) => f.remove());
           const acc = JSON.parse(i.dataset.acc), good = isAccepted(i.value, acc);
           i.classList.toggle('ok', good); i.classList.toggle('bad', !good);
-          if (good) ok++; else { wrong.push({ n, answer: i.value, expected: acc[0] }); i.after(el('span', 'fix', ` ${acc[0]}`)); }
+          if (good) ok++; else { wrong.push({ n, answer: i.value, expected: acc[0] }); if (!ex.test) i.after(el('span', 'fix', ` ${acc[0]}`)); }   // ex.test: test mode, the right answers stay hidden
         });
         res.textContent = `Вірно: ${ok} з ${inputs.length}`; res.classList.add('show');
         return { inputs, ok, wrong };

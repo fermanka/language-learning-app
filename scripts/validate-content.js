@@ -18,7 +18,7 @@ const tokens = (s) => s.replace(/\*\*/g, '').toLowerCase().replace(/’/g, "'").
 const sentenceOf = (e) => (e.text !== undefined ? e.text : e.nl);
 
 // Default size rules (the first language's): from lesson 12, 8-12 examples and 8-12 items per exercise, at most 12 words per dictation attempt.
-const DEFAULT_SIZE = { from_lesson: 12, examples: [8, 12], items: [8, 12], matching: [5, 12], dictation_max: 12 };
+const DEFAULT_SIZE = { from_lesson: 12, examples: [8, 12], items: [8, 12], matching: [5, 12], listening: [3, 8], dictation_max: 12 };
 
 function validateLanguage(lang) {
   const langDir = path.join(contentDir, lang);
@@ -71,6 +71,10 @@ function validateLanguage(lang) {
     lesson.reading.sentences.forEach((s, i) => sentences.push([`reading[${i}]`, sentenceOf(s)]));
     (Array.isArray(lesson.rule) ? lesson.rule : lesson.rule ? [lesson.rule] : []).forEach((rule, ri) => (rule.compare || []).forEach((c, ci) => c.examples.forEach((e, i) => sentences.push([`rule[${ri}].compare[${ci}].examples[${i}]`, sentenceOf(e)]))));
     lesson.practice.forEach((ex, ei) => {
+      if (ex.type === 'listening') {
+        if (!ex.audio || !ex.audio_text) fail(where(`practice[${ei}:listening] needs audio and audio_text (the recording's words)`));
+        else sentences.push([`practice[${ei}:listening].audio_text`, ex.audio_text]);
+      }
       (ex.extra || []).forEach((e, i) => sentences.push([`practice[${ei}:${ex.type}].extra[${i}]`, e]));
       for (const [ii, item] of (ex.items || []).entries()) {
         const at = `practice[${ei}:${ex.type}].items[${ii}]`;
@@ -92,7 +96,7 @@ function validateLanguage(lang) {
         } else if (ex.type === 'transform') {
           sentences.push([at, item.prompt]);
           item.accepted.forEach((a) => sentences.push([at + ' answer', a]));
-        } else if (ex.type === 'translate') {
+        } else if (ex.type === 'translate' || ex.type === 'listening') {
           item.accepted.forEach((a) => sentences.push([at + ' answer', a]));
         }
       }
@@ -108,6 +112,7 @@ function validateLanguage(lang) {
           const words = lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio).length;
           inRange(Math.min(words, ex.max || words), [1, size.dictation_max], label + ' (words per attempt, set "max" to limit)');
         } else if (ex.type === 'matching') inRange(ex.items.length, size.matching, label);
+        else if (ex.type === 'listening') inRange(ex.items.length, size.listening || [3, 8], label);
         else inRange(ex.items.length, size.items, label);
       });
     }

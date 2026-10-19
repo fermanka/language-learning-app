@@ -30,6 +30,7 @@ function readEvents(dir) {
 function fieldsOf(lesson, ex) {
   const items = (ex.items || []).filter((it) => !it.example);
   switch (ex.type) {
+    case 'listening': return items.map((it) => ({ label: 'listening: ' + it.prompt, expected: it.accepted[0] }));
     case 'translate': case 'transform': return items.map((it) => ({ label: `${it.prompt} (${it.cue})`, expected: it.accepted[0] }));
     case 'verbform': return items.map((it) => ({ label: `${it.text} (${it.cue})`, expected: it.accepted[0] }));
     case 'gaps': return items.flatMap((it) => it.accepted.map((g, gi) => ({ label: `${it.text} [gap ${gi + 1}] ${it.hint}`, expected: g[0] })));
