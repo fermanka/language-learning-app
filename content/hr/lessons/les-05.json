@@ -1022,28 +1022,28 @@
         {
           "example": true,
           "prompt": "Brat je u ljekarni.",
-          "cue": "-> куди? (ide)",
+          "cue": "-> куди? (ići)",
           "accepted": [
             "Brat ide u ljekarnu."
           ]
         },
         {
           "prompt": "Sin je u školi.",
-          "cue": "-> куди? (ide)",
+          "cue": "-> куди? (ići)",
           "accepted": [
             "Sin ide u školu."
           ]
         },
         {
           "prompt": "Učiteljica je na pošti.",
-          "cue": "-> куди? (ide)",
+          "cue": "-> куди? (ići)",
           "accepted": [
             "Učiteljica ide na poštu."
           ]
         },
         {
           "prompt": "Vi ste na tržnici.",
-          "cue": "-> куди? (idete)",
+          "cue": "-> куди? (ići)",
           "accepted": [
             "Vi idete na tržnicu.",
             "Idete na tržnicu."
@@ -1051,42 +1051,42 @@
         },
         {
           "prompt": "Pas je u parku.",
-          "cue": "-> куди? (ide)",
+          "cue": "-> куди? (ići)",
           "accepted": [
             "Pas ide u park."
           ]
         },
         {
           "prompt": "Sin je u dućanu.",
-          "cue": "-> куди? (ide)",
+          "cue": "-> куди? (ići)",
           "accepted": [
             "Sin ide u dućan."
           ]
         },
         {
           "prompt": "Sin ide u ljekarnu.",
-          "cue": "-> де? (je)",
+          "cue": "-> де? (biti)",
           "accepted": [
             "Sin je u ljekarni."
           ]
         },
         {
           "prompt": "Dijete ide u školu.",
-          "cue": "-> де? (je)",
+          "cue": "-> де? (biti)",
           "accepted": [
             "Dijete je u školi."
           ]
         },
         {
           "prompt": "Mi idemo na tržnicu.",
-          "cue": "-> де? (smo)",
+          "cue": "-> де? (biti)",
           "accepted": [
             "Mi smo na tržnici."
           ]
         },
         {
           "prompt": "Djeca idu na tržnicu.",
-          "cue": "-> де? (su)",
+          "cue": "-> де? (biti)",
           "accepted": [
             "Djeca su na tržnici."
           ]

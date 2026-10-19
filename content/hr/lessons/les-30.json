@@ -1115,7 +1115,7 @@
         },
         {
           "prompt": "Hoću ići na plažu.",
-          "cue": "-> ми (hoćemo)",
+          "cue": "-> ми (htjeti)",
           "accepted": [
             "Hoćemo ići na plažu."
           ]

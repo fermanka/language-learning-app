@@ -1,0 +1,1734 @@
+{
+  "id": "hr-les-40",
+  "lang": "hr",
+  "order": 40,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "razredniče",
+    "mog",
+    "sina",
+    "došao",
+    "liječnika",
+    "potvrdu",
+    "zadaću",
+    "idući",
+    "tjedan",
+    "pomoći",
+    "javite",
+    "javljate",
+    "prilogu",
+    "izostankom",
+    "vam",
+    "vas",
+    "vama",
+    "tebi",
+    "mi",
+    "ću",
+    "ćemo",
+    "će",
+    "ćete",
+    "ugovor",
+    "ugovora",
+    "ugovorom",
+    "račun",
+    "računa",
+    "računu",
+    "računom",
+    "stana",
+    "sastanak",
+    "termin",
+    "rezervaciju",
+    "hotelu",
+    "direktoru",
+    "direktore",
+    "učiteljici",
+    "susjeda",
+    "susjede",
+    "brate",
+    "brata",
+    "sestro",
+    "sestru",
+    "sestri",
+    "bako",
+    "djede",
+    "pismu",
+    "pisma",
+    "čestitki",
+    "odgovoru",
+    "ponudi",
+    "ponudom",
+    "pozivu",
+    "obavijesti",
+    "odmoru",
+    "struje",
+    "najmom",
+    "privitku",
+    "datoteke",
+    "dvije",
+    "zaslonu",
+    "e-pošti",
+    "e-poštu",
+    "e-pošte",
+    "šalteru",
+    "pitanje",
+    "ključ",
+    "vrata",
+    "novac",
+    "kruh",
+    "kupi",
+    "kupili",
+    "položio",
+    "položila",
+    "test",
+    "uči",
+    "pošaljete",
+    "dođete",
+    "pozovete",
+    "pitala",
+    "pitao",
+    "otkazala",
+    "otkazao",
+    "štedimo",
+    "bismo",
+    "bih",
+    "bi",
+    "uskoro",
+    "vidjeti",
+    "puno",
+    "pozdrava",
+    "lijep",
+    "jedno",
+    "ako",
+    "želite",
+    "mogu",
+    "doći",
+    "petak",
+    "petku",
+    "utorak",
+    "utorku",
+    "subotu",
+    "poslala",
+    "poslati",
+    "sunčano",
+    "nema",
+    "sve",
+    "dobro",
+    "zbog",
+    "kako",
+    "da",
+    "jer",
+    "ali",
+    "kolege",
+    "kolegama",
+    "vremenu",
+    "uvijek",
+    "završavam",
+    "zovem",
+    "hotel",
+    "škola",
+    "školu",
+    "prozor",
+    "pitam",
+    "javljam",
+    "pišemo",
+    "šaljemo",
+    "šaljem",
+    "šalje",
+    "cijenu",
+    "kupile",
+    "početku",
+    "sastanke"
+  ],
+  "notes": [
+    {
+      "id": "hr-0e6f76e6",
+      "type": "adjective",
+      "lemma": "poštovan",
+      "fem": "poštovana",
+      "neut": "poštovano",
+      "ua": "шановний, поважний",
+      "audio": "hr-postovan.mp3",
+      "forms": [
+        "poštovana",
+        "poštovano",
+        "poštovani",
+        "poštovane",
+        "poštom"
+      ],
+      "explain_ua": "(Poštovani gospodine = Шановний пане). Початок службового листа: Poštovani + кличний відмінок звертання (Poštovani gospodine, Poštovana gospođo). Прикметник стоїть у означеній формі (як nov / novi, Lekcija 25): poštovani, poštovana. УКРАЇНСЬКА тут допомагає: «Шановний пане» будується так само. Пиши š: poštovan.",
+      "check": "Форми з мого знання. Що звертання завжди в означеній формі (Poštovani), з мого знання, звірити з Hrvatski pravopis."
+    },
+    {
+      "id": "hr-5a545941",
+      "type": "noun",
+      "lemma": "poštovanje",
+      "gender": "s.",
+      "gen_sg": "poštovanja",
+      "plural": [],
+      "ua": "повага",
+      "audio": "hr-postovanje.mp3",
+      "forms": [
+        "poštovanja",
+        "poštovanjem"
+      ],
+      "explain_ua": "(S poštovanjem = З повагою). Середній рід на -nje (як vjenčanje, Lekcija 39): poštovanje, poštovanja. Формула прощання: S poštovanjem (S + орудний, Lekcija 14). Помилка: «S poštovanje» (називний) і «S poštovanja» (родовий). Множини практично нема.",
+      "check": "Форми з мого знання; що множини в живому вжитку нема, з мого знання."
+    },
+    {
+      "id": "hr-c14802ae",
+      "type": "noun",
+      "lemma": "pozdrav",
+      "gender": "m.",
+      "gen_sg": "pozdrava",
+      "plural": [
+        "pozdravi"
+      ],
+      "ua": "привітання, вітання",
+      "audio": "hr-pozdrav.mp3",
+      "forms": [
+        "pozdrava",
+        "pozdravu",
+        "pozdrave",
+        "pozdravom"
+      ],
+      "explain_ua": "(Šaljem ti lijep pozdrav = Надсилаю тобі гарне вітання). Чоловічого роду: pozdrav, pozdrava, pozdravi. Це вітання в кінці листа або передане комусь: Srdačan pozdrav, Lijep pozdrav. Родина слова: pozdraviti (нижче). Слово не плутай із привітанням зі святом (čestitka, Lekcija 39).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-91413105",
+      "type": "noun",
+      "lemma": "gospodin",
+      "gender": "m.",
+      "gen_sg": "gospodina",
+      "plural": [
+        "gospoda"
+      ],
+      "ua": "пан (звертання, титул)",
+      "audio": "hr-gospodin.mp3",
+      "forms": [
+        "gospodina",
+        "gospodinu",
+        "gospodine",
+        "gospodinom"
+      ],
+      "explain_ua": "(Taj gospodin radi u banci = Той пан працює в банку). Чоловічого роду: gospodin, gospodina. Кличний: gospodine! (Poštovani gospodine, Gospodine direktore). Тут тримайся УКРАЇНСЬКОЇ: «пане!» теж кличний відмінок. Множина gospoda збірна («панство»): її тут майже не вживаємо.",
+      "check": "Кличний gospodine з мого знання. Множина gospoda (збірна) і її значення з мого знання, у словнику не звіряв."
+    },
+    {
+      "id": "hr-d9a7d302",
+      "type": "noun",
+      "lemma": "gospođa",
+      "gender": "ž.",
+      "gen_sg": "gospođe",
+      "plural": [
+        "gospođe"
+      ],
+      "ua": "пані",
+      "audio": "hr-gospodja.mp3",
+      "forms": [
+        "gospođe",
+        "gospođu",
+        "gospođo",
+        "gospođi"
+      ],
+      "explain_ua": "(Gospođa na šalteru traži potvrdu = Пані біля віконця просить довідку). Жіночий рід на -a: gospođa, gospođe, gospođu. Кличний: gospođo! (Poštovana gospođo). Пиши đ, не dž: gospođa.",
+      "check": "Форми з мого знання; давальний gospođi не звіряв."
+    },
+    {
+      "id": "hr-19ae9d4e",
+      "type": "noun",
+      "lemma": "privitak",
+      "gender": "m.",
+      "gen_sg": "privitka",
+      "plural": [
+        "privici"
+      ],
+      "ua": "вкладення (до листа)",
+      "audio": "hr-privitak.mp3",
+      "forms": [
+        "privitka",
+        "privitku",
+        "privitke",
+        "privici"
+      ],
+      "explain_ua": "(Privitak je u e-pošti = Вкладення в електронному листі). Чоловічого роду з нестійким a (як sastanak > sastanka, Lekcija 20): privitak, privitka, privitku. Множина privici (k > c перед -i, як udžbenik > udžbenici). Фраза u privitku = у вкладенні.",
+      "check": "Форми з мого знання; множину privici (k > c) за аналогією з udžbenici, у словнику не звіряв."
+    },
+    {
+      "id": "hr-5fb38708",
+      "type": "noun",
+      "lemma": "molba",
+      "gender": "ž.",
+      "gen_sg": "molbe",
+      "plural": [
+        "molbe"
+      ],
+      "ua": "прохання, заява-прохання",
+      "audio": "hr-molba.mp3",
+      "forms": [
+        "molbe",
+        "molbu",
+        "molbi",
+        "molbom"
+      ],
+      "explain_ua": "(Moja molba je važna = Моє прохання важливе). Жіночий рід на -a: molba, molbe, molbu. Родовий множини molbi (без нестійкого a, бо -lb- не розбивається). Від дієслова moliti (Lekcija 7: molim). Це письмове чи офіційне прохання.",
+      "check": "Форми з мого знання; родовий множини molbi не звіряв."
+    },
+    {
+      "id": "hr-e04a1050",
+      "type": "noun",
+      "lemma": "obavijest",
+      "gender": "ž.",
+      "gen_sg": "obavijesti",
+      "plural": [
+        "obavijesti"
+      ],
+      "ua": "повідомлення, оголошення (офіційне)",
+      "audio": "hr-obavijest.mp3",
+      "forms": [
+        "obavijesti",
+        "obavijest",
+        "obavijestima"
+      ],
+      "explain_ua": "(Škola šalje obavijest roditeljima = Школа надсилає повідомлення батькам). Жіночий рід на приголосну (як bolest, Lekcija 37): obavijest, obavijesti, obavijest (знахідний = називному). Пиши ije: obavijest. Від дієслова obavijestiti (нижче). Не плутай з poruka (Lekcija 13, особисте повідомлення).",
+      "check": "Форми за зразком bolest з мого знання."
+    },
+    {
+      "id": "hr-b16f1752",
+      "type": "noun",
+      "lemma": "poziv",
+      "gender": "m.",
+      "gen_sg": "poziva",
+      "plural": [
+        "pozivi"
+      ],
+      "ua": "запрошення; дзвінок",
+      "audio": "hr-poziv.mp3",
+      "forms": [
+        "poziva",
+        "pozivu",
+        "poziv",
+        "pozivi",
+        "pozive"
+      ],
+      "explain_ua": "(Imam poziv na sastanak = Маю запрошення на нараду). Чоловічого роду: poziv, poziva, pozivi. Одне слово, два значення: запрошення і (телефонний) дзвінок. Це багатозначність, не хибний друг: різницю видно з контексту. Родина слова pozivati (Lekcija 21). Poziv na + знахідний: poziv na večeru.",
+      "check": "Форми з мого знання; значення «телефонний дзвінок» у словнику не звіряв."
+    },
+    {
+      "id": "hr-b154cc22",
+      "type": "noun",
+      "lemma": "ponuda",
+      "gender": "ž.",
+      "gen_sg": "ponude",
+      "plural": [
+        "ponude"
+      ],
+      "ua": "пропозиція (комерційна), пропонована ціна",
+      "audio": "hr-ponuda.mp3",
+      "forms": [
+        "ponude",
+        "ponudu",
+        "ponudi",
+        "ponudom"
+      ],
+      "explain_ua": "(Ponuda banke je dobra = Пропозиція банку хороша). Жіночий рід на -a: ponuda, ponude, ponudu. Це пропозиція товару, послуги чи ціни (комерційна), а не порада чи ідея. Давальний і місцевий однакові: ponudi.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-9998f282",
+      "type": "noun",
+      "lemma": "naslov",
+      "gender": "m.",
+      "gen_sg": "naslova",
+      "plural": [
+        "naslovi"
+      ],
+      "ua": "заголовок, тема листа",
+      "audio": "hr-naslov.mp3",
+      "forms": [
+        "naslova",
+        "naslovu",
+        "naslove"
+      ],
+      "explain_ua": "(Naslov članka je dug = Заголовок статті довгий). Чоловічого роду: naslov, naslova, naslovi. У листі це рядок теми. Слово predmet (Lekcija 31) у листі теж вживають для теми листа: багатозначність, не нове слово.",
+      "check": "Форми з мого знання; що predmet стоїть у рядку теми листа, з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-d1a717bf",
+      "type": "noun",
+      "lemma": "tekst",
+      "gender": "m.",
+      "gen_sg": "teksta",
+      "plural": [
+        "tekstovi"
+      ],
+      "ua": "текст",
+      "audio": "hr-tekst.mp3",
+      "forms": [
+        "teksta",
+        "tekstu",
+        "tekstove"
+      ],
+      "explain_ua": "(U tekstu je jedna pogreška = У тексті одна помилка). Чоловічого роду: tekst, teksta, tekstovi (-ovi, бо короткий однологовий, як Lekcija 15). Українське «текст» те саме слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-7ac281ad",
+      "type": "noun",
+      "lemma": "pogreška",
+      "gender": "ž.",
+      "gen_sg": "pogreške",
+      "plural": [
+        "pogreške"
+      ],
+      "ua": "помилка",
+      "audio": "hr-pogreska.mp3",
+      "forms": [
+        "pogreške",
+        "pogrešku",
+        "pogrešci",
+        "pogrešaka"
+      ],
+      "explain_ua": "(Ispričavam se zbog pogreške = Перепрошую за помилку). Жіночий рід на -a: pogreška, pogreške, pogrešku. Родовий множини pogrešaka (нестійке a, Lekcija 16). Місцевий і давальний: pogrešci (š + k > šc). Пиши š: pogreška.",
+      "check": "Форми з мого знання; pogrešci (k > c) і pogrešaka не звіряв."
+    },
+    {
+      "id": "hr-39a0d6ec",
+      "type": "noun",
+      "lemma": "prigovor",
+      "gender": "m.",
+      "gen_sg": "prigovora",
+      "plural": [
+        "prigovori"
+      ],
+      "ua": "скарга; заперечення",
+      "audio": "hr-prigovor.mp3",
+      "forms": [
+        "prigovora",
+        "prigovoru",
+        "prigovore"
+      ],
+      "explain_ua": "(Pišem prigovor zbog računa = Пишу скаргу через рахунок). Чоловічого роду: prigovor, prigovora, prigovori. Підказка для пам'яті, не з перевіреної таблиці: російське «приговор» означає вирок, а хорватське prigovor це скарга чи заперечення. У банк помилок не заношу.",
+      "check": "Форми з мого знання. Зв'язок з російським «приговор» лише підказка, значення «заперечення» у словнику не звірене."
+    },
+    {
+      "id": "hr-f3482db9",
+      "type": "verb",
+      "lemma": "zahvaliti",
+      "aspect": "pf.",
+      "partner": "zahvaljivati",
+      "pres_1sg": "zahvalim",
+      "forms": [
+        "zahvalim",
+        "zahvališ",
+        "zahvali",
+        "zahvalimo",
+        "zahvalite",
+        "zahvale",
+        "zahvalila",
+        "zahvalili",
+        "zahvalio",
+        "zahvaljivati",
+        "zahvaljujem",
+        "zahvaljuješ",
+        "zahvaljuje",
+        "zahvaljujemo",
+        "zahvaljujete",
+        "zahvaljuju",
+        "zahvaljivala"
+      ],
+      "ua": "подякувати (недок. zahvaljivati)",
+      "audio": "hr-zahvaliti.mp3",
+      "explain_ua": "(Zahvaljujem ti na pozivu = Дякую тобі за запрошення). Пара: zahvaliti (док.) / zahvaljivati (недок.): zahvalim > zahvaljujem. Кому: давальний, за що: na + місцевий (як hvala na, Lekcija 39). У листі кажуть zahvaljujem (недок. як формула «настоящим дякую»). Від слова hvala.",
+      "check": "Пару та форми з мого знання; що в листах переважає недокон. zahvaljujem, не звірено."
+    },
+    {
+      "id": "hr-6d5ed2bd",
+      "type": "verb",
+      "lemma": "obavijestiti",
+      "aspect": "pf.",
+      "partner": "obavještavati",
+      "pres_1sg": "obavijestim",
+      "forms": [
+        "obavijestim",
+        "obavijestiš",
+        "obavijesti",
+        "obavijestimo",
+        "obavijestite",
+        "obavijeste",
+        "obavijestila",
+        "obavijestili",
+        "obavijestio",
+        "obavještavati",
+        "obavještavam",
+        "obavještavaš",
+        "obavještava",
+        "obavještavamo",
+        "obavještavate",
+        "obavještavaju",
+        "obavještavala"
+      ],
+      "ua": "повідомити (недок. obavještavati)",
+      "audio": "hr-obavijestiti.mp3",
+      "explain_ua": "(Obavještavam vas da nema struje = Повідомляю вас, що немає струму). Пара: obavijestiti (док.) / obavještavati (недок.): у недок. ije стає e (obavijest > obavještavam) і додається -avati. Кого: знахідний, про що: o + місцевий або da-речення: obavijestiti vas o terminu. Родина слова obavijest.",
+      "check": "Пару, чергування ije > e перед št та форми з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-d357deca",
+      "type": "verb",
+      "lemma": "priložiti",
+      "aspect": "pf.",
+      "partner": "prilagati",
+      "pres_1sg": "priložim",
+      "forms": [
+        "priložim",
+        "priložiš",
+        "priloži",
+        "priložimo",
+        "priložite",
+        "prilože",
+        "priložila",
+        "priložili",
+        "priložio",
+        "prilagati",
+        "prilažem",
+        "prilažeš",
+        "prilaže",
+        "prilažemo",
+        "prilažete",
+        "prilažu",
+        "prilagala"
+      ],
+      "ua": "додати до листа, вкласти (недок. prilagati)",
+      "audio": "hr-priloziti.mp3",
+      "explain_ua": "(Prilažem ugovor = Додаю договір). Пара: priložiti (док.) / prilagati (недок.): priložim > prilažem, g > ž у недок. теперішньому. У листі найчастіше формула prilažem або u privitku šaljem. Що: знахідний. Родина слів: privitak, u prilogu (див. картку 4).",
+      "check": "Пара priložiti / prilagati і форма prilažem з мого знання, недок. частина НЕ звірена: звірити з hjp. Чи є частіша недок. форма prilagati, не знаю."
+    },
+    {
+      "id": "hr-ef04ca8e",
+      "type": "verb",
+      "lemma": "potvrditi",
+      "aspect": "pf.",
+      "partner": "potvrđivati",
+      "pres_1sg": "potvrdim",
+      "forms": [
+        "potvrdim",
+        "potvrdiš",
+        "potvrdi",
+        "potvrdimo",
+        "potvrdite",
+        "potvrde",
+        "potvrdila",
+        "potvrdili",
+        "potvrdio",
+        "potvrđivati",
+        "potvrđujem",
+        "potvrđuješ",
+        "potvrđuje",
+        "potvrđujemo",
+        "potvrđujete",
+        "potvrđuju",
+        "potvrđivala"
+      ],
+      "ua": "підтвердити (недок. potvrđivati)",
+      "audio": "hr-potvrditi.mp3",
+      "explain_ua": "(Moram potvrditi termin = Мушу підтвердити прийом). Пара: potvrditi (док.) / potvrđivati (недок.): potvrdim > potvrđujem, d > đ (як posuditi > posuđivati, Lekcija 34). Що: знахідний. Родина слова potvrda (Lekcija 36).",
+      "check": "Пару та форми з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-80f2dca7",
+      "type": "verb",
+      "lemma": "otkazati",
+      "aspect": "pf.",
+      "partner": "otkazivati",
+      "pres_1sg": "otkažem",
+      "forms": [
+        "otkažem",
+        "otkažeš",
+        "otkaže",
+        "otkažemo",
+        "otkažete",
+        "otkažu",
+        "otkazala",
+        "otkazali",
+        "otkazao",
+        "otkazivati",
+        "otkazujem",
+        "otkazuješ",
+        "otkazuje",
+        "otkazujemo",
+        "otkazujete",
+        "otkazuju",
+        "otkazivala"
+      ],
+      "ua": "скасувати (недок. otkazivati)",
+      "audio": "hr-otkazati.mp3",
+      "explain_ua": "(Moram otkazati termin = Мушу скасувати прийом). Пара: otkazati (док.) / otkazivati (недок.): otkažem (z > ž) в док. теперішньому, але otkazujem у недок. Що: знахідний (otkazati sastanak, rezervaciju). Родина слова otkaz (Lekcija 26), але otkazati прийом це «скасувати», а не «звільнити».",
+      "check": "Пару і чергування z > ž (otkažem) з мого знання, звірити з hjp. Що otkazati вживається і для скасування прийому, не звірено."
+    },
+    {
+      "id": "hr-e0dfa8e2",
+      "type": "verb",
+      "lemma": "ispričati",
+      "aspect": "pf.",
+      "partner": "ispričavati",
+      "pres_1sg": "ispričam",
+      "forms": [
+        "ispričam",
+        "ispričaš",
+        "ispriča",
+        "ispričamo",
+        "ispričate",
+        "ispričaju",
+        "ispričala",
+        "ispričali",
+        "ispričao",
+        "ispričavati",
+        "ispričavam",
+        "ispričavaš",
+        "ispričava",
+        "ispričavamo",
+        "ispričavate",
+        "ispričavaju",
+        "ispričavala",
+        "ispričale"
+      ],
+      "ua": "(ispričati se) перепросити (недок. ispričavati se)",
+      "audio": "hr-ispricati.mp3",
+      "explain_ua": "(Ispričavam se zbog pogreške = Перепрошую за помилку). Завжди зі se: ispričati se (док.) / ispričavati se (недок.): ispričam se > ispričavam se. Se стоїть на другому місці: Ispričali smo se (se після smo, Lekcija 35). Кому: давальний, за що: zbog + родовий. Без se це інше дієслово (розповісти), про нього згодом.",
+      "check": "Пару та керування (komu, zbog čega) з мого знання; що без se значення інше, з мого знання."
+    },
+    {
+      "id": "hr-b463239c",
+      "type": "verb",
+      "lemma": "obratiti",
+      "aspect": "pf.",
+      "partner": "obraćati",
+      "pres_1sg": "obratim",
+      "forms": [
+        "obratim",
+        "obratiš",
+        "obrati",
+        "obratimo",
+        "obratite",
+        "obrate",
+        "obratila",
+        "obratili",
+        "obratio",
+        "obraćati",
+        "obraćam",
+        "obraćaš",
+        "obraća",
+        "obraćamo",
+        "obraćate",
+        "obraćaju",
+        "obraćala"
+      ],
+      "ua": "(obratiti se) звернутися (недок. obraćati se)",
+      "audio": "hr-obratiti.mp3",
+      "explain_ua": "(Obraćam se direktoru = Звертаюся до директора). Зі se: obratiti se (док.) / obraćati se (недок.): obratim se > obraćam se, t > ć. До кого: давальний (obraćam se vama, direktoru), не «do + родовий». У листі майже завжди недок.: obraćam se vama.",
+      "check": "Пару, t > ć та керування давальним з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-b90de61a",
+      "type": "verb",
+      "lemma": "zamoliti",
+      "aspect": "pf.",
+      "partner": "moliti",
+      "pres_1sg": "zamolim",
+      "forms": [
+        "zamolim",
+        "zamoliš",
+        "zamoli",
+        "zamolimo",
+        "zamolite",
+        "zamole",
+        "zamolila",
+        "zamolili",
+        "zamolio",
+        "moliti",
+        "molim",
+        "moliš",
+        "moli",
+        "molimo",
+        "molite",
+        "mole",
+        "molila",
+        "zamolit"
+      ],
+      "ua": "попросити (недок. moliti)",
+      "audio": "hr-zamoliti.mp3",
+      "explain_ua": "(Zamolit ću vas da pošaljete obrazac = Попрошу вас надіслати бланк). Пара: zamoliti (док.) / moliti (недок.): molim ти вже знаєш (Lekcija 7). Кого: знахідний, і далі da + теперішній: molim vas da dođete. Інфінітив після molim vas НЕ ставимо: «molim vas poslati» помилка. УКРАЇНСЬКА: «прошу вас, щоб» ≈ molim vas da.",
+      "check": "Пару та керування з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-bcbe6290",
+      "type": "verb",
+      "lemma": "pozdraviti",
+      "aspect": "pf.",
+      "partner": "pozdravljati",
+      "pres_1sg": "pozdravim",
+      "forms": [
+        "pozdravim",
+        "pozdraviš",
+        "pozdravi",
+        "pozdravimo",
+        "pozdravite",
+        "pozdrave",
+        "pozdravila",
+        "pozdravili",
+        "pozdravio",
+        "pozdravljati",
+        "pozdravljam",
+        "pozdravljaš",
+        "pozdravlja",
+        "pozdravljamo",
+        "pozdravljate",
+        "pozdravljaju",
+        "pozdravljala"
+      ],
+      "ua": "привітати, передати вітання (недок. pozdravljati)",
+      "audio": "hr-pozdraviti.mp3",
+      "explain_ua": "(Pozdravi sestru i brata = Передай вітання сестрі й братові). Пара: pozdraviti (док.) / pozdravljati (недок.): pozdravim > pozdravljam, вставка l (як okupiti > okupljati, Lekcija 39). Кого: знахідний (pozdraviti sestru). Pozdravite susjeda od mene = передайте від мене вітання сусіду. Привітання зі святом це čestitati, не pozdraviti.",
+      "check": "Пару та форми з мого знання; керування pozdraviti koga з мого знання."
+    },
+    {
+      "id": "hr-1a17d6c3",
+      "type": "verb",
+      "lemma": "nadati",
+      "aspect": "impf.",
+      "pres_1sg": "nadam",
+      "forms": [
+        "nadam",
+        "nadaš",
+        "nada",
+        "nadamo",
+        "nadate",
+        "nadaju",
+        "nadala",
+        "nadali",
+        "nadao"
+      ],
+      "ua": "(nadati se) сподіватися",
+      "audio": "hr-nadati.mp3",
+      "explain_ua": "(Nadam se da je sve dobro = Сподіваюся, що все добре). Завжди зі se: nadam se, nadaš se, nada se (Lekcija 19). Далі da + теперішній або майбутній: Nadam se da ćeš doći. Se стоїть на другому місці. Доконаної пари тут нема: у живому вжитку вистачає недок. nadati se (пари не вигадую).",
+      "check": "Відсутність доконаної пари і форми з мого знання, у словнику не звірено."
+    },
+    {
+      "id": "hr-b761fe72",
+      "type": "adjective",
+      "lemma": "drag",
+      "fem": "draga",
+      "neut": "drago",
+      "ua": "дорогий, милий",
+      "audio": "hr-drag.mp3",
+      "forms": [
+        "draga",
+        "drago",
+        "dragi",
+        "drage"
+      ],
+      "explain_ua": "(Dragi brate = Дорогий брате). Початок особистого листа: Dragi / Draga + кличний відмінок (Dragi brate, Draga sestro). УКРАЇНСЬКА: «Дорогий брате» будується так само. Те саме слово в Drago mi je (Lekcija 32): це середній рід drago. Службовий лист починається Poštovani, а не Dragi.",
+      "check": "Форми з мого знання; що Drago mi je тут той самий прикметник, з мого знання (підказка, не етимологія)."
+    },
+    {
+      "id": "hr-a3b2218c",
+      "type": "adjective",
+      "lemma": "srdačan",
+      "fem": "srdačna",
+      "neut": "srdačno",
+      "ua": "щирий, сердечний",
+      "audio": "hr-srdacan.mp3",
+      "forms": [
+        "srdačna",
+        "srdačno",
+        "srdačni",
+        "srdačne"
+      ],
+      "explain_ua": "(Šaljem vam srdačan pozdrav = Надсилаю вам щире вітання). Нестійке a: srdačan, srdačna, srdačno (як bolestan, Lekcija 21). Фраза Srdačan pozdrav закриває лист, в якому ти з людиною на ви, але тон теплий. Пиши č, не ć: srdačan.",
+      "check": "Форми за зразком bolestan з мого знання."
+    },
+    {
+      "id": "hr-c01e786f",
+      "type": "function",
+      "lemma": "unaprijed",
+      "ua": "заздалегідь, наперед",
+      "audio": "hr-unaprijed.mp3",
+      "explain_ua": "(Unaprijed hvala = Заздалегідь дякую). Прислівник: Unaprijed hvala, Unaprijed vam zahvaljujem. Пиши ije: unaprijed. Закінчення листа, коли просиш про щось.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-9c907082",
+      "type": "function",
+      "lemma": "u vezi s",
+      "ua": "у зв'язку з, щодо (+ орудний)",
+      "audio": "hr-u-vezi-s.mp3",
+      "explain_ua": "(Pišem vam u vezi s ugovorom = Пишу вам щодо договору). Складений прийменник + орудний: u vezi s ugovorom, u vezi s ponudom. УКРАЇНСЬКА і РОСІЙСЬКА тут збігаються: «у зв'язку з + орудний», «в связи с + творительный». Вчи цілим блоком. Помилка: «u vezi s ugovora» (родовий).",
+      "check": "Керування орудним з мого знання, звірити з hjp."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Два листи: особистий і службовий",
+      "summary_ua": "Особистий лист починається Dragi / Draga + кличний відмінок і говорить ти. Службовий починається Poštovani gospodine / Poštovana gospođo і говорить ви. Звертання завжди в кличному: gospodine, gospođo, direktore. Тут тримайся УКРАЇНСЬКОЇ: «пане», «пані», «директоре» теж кличний. Новим є лише кінцівки листів. Особистий лист про свої переживання у минулому часі (Lekcija 10) із зв'язками najprije, zatim, napokon (Lekcija 35) це саме той тип тексту, який називає програма іспиту B1 (за стислим переказом NN 100/2021, не звірено з оригіналом).",
+      "compare": [
+        {
+          "form": "особистий: Dragi / Draga + кличний, ти",
+          "when_ua": "Лист рідним і друзям.",
+          "examples": [
+            {
+              "text": "Dragi brate, hvala na čestitki.",
+              "ua": "Дорогий брате, дякую за вітальну листівку.",
+              "audio": "hr-les40-rule-01.mp3"
+            },
+            {
+              "text": "Draga sestro, kako si?",
+              "ua": "Люба сестро, як ти?",
+              "audio": "hr-les40-rule-02.mp3"
+            },
+            {
+              "text": "Puno pozdrava tebi i sestri.",
+              "ua": "Багато вітань тобі й сестрі.",
+              "audio": "hr-les40-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Прикметник dragi / draga стоїть перед іменем у кличному (brate, sestro, Lekcija 28). Puno pozdrava: після puno родовий множини (Lekcija 15)."
+        },
+        {
+          "form": "службовий: Poštovani / Poštovana + кличний, ви",
+          "when_ua": "Лист установі, школі, орендодавцю, незнайомій людині.",
+          "examples": [
+            {
+              "text": "Poštovana gospođo, pišem vam zbog ugovora.",
+              "ua": "Шановна пані, пишу вам щодо договору.",
+              "audio": "hr-les40-rule-04.mp3"
+            },
+            {
+              "text": "Poštovani gospodine direktore, imam jedno pitanje.",
+              "ua": "Шановний пане директоре, маю одне запитання.",
+              "audio": "hr-les40-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Обидва слова у кличному: gospodine, direktore. Ім'я людини в реченнях не пишемо, пишемо лише звертання з титулом. Часто Vi / Vaš пишуть у листах з великої літери (Vi, Vaš); це звичай, не жорстке правило, і з малої теж зрозуміють (не звірено з Pravopis)."
+        },
+        {
+          "form": "кінець листа: Srdačan pozdrav, S poštovanjem, Unaprijed hvala",
+          "when_ua": "Прощання й подяка наперед.",
+          "examples": [
+            {
+              "text": "Srdačan pozdrav i unaprijed hvala.",
+              "ua": "Щире вітання й заздалегідь дякую.",
+              "audio": "hr-les40-rule-06.mp3"
+            },
+            {
+              "text": "S poštovanjem.",
+              "ua": "З повагою.",
+              "audio": "hr-les40-rule-07.mp3"
+            }
+          ],
+          "note_ua": "S poštovanjem: s + орудний (Lekcija 14), не «s poštovanje». Це формули, вчи цілими."
+        }
+      ],
+      "points_ua": [
+        "Dragi / Draga + кличний = особисто; Poštovani / Poštovana + кличний = службово.",
+        "Gospodine, gospođo, direktore: кличний, як українською.",
+        "S poštovanjem (орудний), Srdačan pozdrav, Unaprijed hvala."
+      ]
+    },
+    {
+      "title_ua": "Molim vas da... / Zamolila bih vas da...",
+      "summary_ua": "Ввічливе прохання: molim vas da + теперішній час (не інфінітив). Ще ввічливіше: Zamolila bih vas da + теперішній, де bih стоїть перед vas (обидва клітики на другому місці, Lekcija 18 і 35). УКРАЇНСЬКА «прошу вас, щоб» і «я б вас попросила» працюють так само. Для одного прохання береш доконане дієслово, для постійного недоконане (Lekcija 38).",
+      "compare": [
+        {
+          "form": "molim vas da + теперішній",
+          "when_ua": "Пряме ввічливе прохання.",
+          "examples": [
+            {
+              "text": "Molim vas da dođete u utorak.",
+              "ua": "Прошу вас прийти у вівторок.",
+              "audio": "hr-les40-rule-08.mp3"
+            },
+            {
+              "text": "Molim vas da me pozovete u petak.",
+              "ua": "Прошу вас подзвонити мені в п'ятницю.",
+              "audio": "hr-les40-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Після da дієслово має особову форму (dođete, pozovete). НЕ «molim vas doći» і НЕ «molim vas poslati»: так підказує російське «прошу прислать»."
+        },
+        {
+          "form": "zamolila bih vas da + теперішній",
+          "when_ua": "Ввічливо, формально.",
+          "examples": [
+            {
+              "text": "Zamolila bih vas da mi pošaljete ponudu.",
+              "ua": "Я б попросила вас надіслати мені пропозицію.",
+              "audio": "hr-les40-rule-10.mp3"
+            },
+            {
+              "text": "Zamolili bismo vas da potvrdite sastanak.",
+              "ua": "Ми б попросили вас підтвердити нараду.",
+              "audio": "hr-les40-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Порядок клітиків: bih, потім vas (Zamolila bih vas). НЕ «zamolila vas bih». Дієприкметник відповідає роду мовця (zamolila / zamolio)."
+        },
+        {
+          "form": "доконане (один раз) / недоконане (завжди)",
+          "when_ua": "Одне прохання проти повторюваного.",
+          "examples": [
+            {
+              "text": "Molim vas da mi pošaljete račun.",
+              "ua": "Прошу вас надіслати мені рахунок.",
+              "audio": "hr-les40-rule-12.mp3"
+            },
+            {
+              "text": "Molim vas da mi uvijek šaljete račun.",
+              "ua": "Прошу вас завжди надсилати мені рахунок.",
+              "audio": "hr-les40-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Pošaljete (док.) = один раз. Šaljete (недок.) = щоразу, uvijek (Lekcija 6). Те саме правило, що в Lekcija 38."
+        }
+      ],
+      "points_ua": [
+        "Molim vas da + особова форма, не інфінітив.",
+        "Zamolila bih vas: bih перед vas.",
+        "Один раз: док. (pošaljete). Завжди: недок. (šaljete)."
+      ]
+    },
+    {
+      "title_ua": "Навіщо? Kako bih / da bih",
+      "summary_ua": "Мету, коли підмет той самий, виражає kako bih / da bih + дієприкметник на -l (і рід підмета). Коли підмет інший, береш da + теперішній (Lekcija 21). УКРАЇНСЬКА «щоб» і РОСІЙСЬКА «чтобы» це буквально що + би: так само da + bih. Це безкоштовний виграш. Заборонено російську звичку: інфінітив після «щоб» («kako pitati»).",
+      "compare": [
+        {
+          "form": "той самий підмет: kako bih / da bih + -l",
+          "when_ua": "Я роблю X, щоб самій зробити Y.",
+          "examples": [
+            {
+              "text": "Zovem vas kako bih pitala za cijenu.",
+              "ua": "Телефоную вам, щоб запитати про ціну.",
+              "audio": "hr-les40-rule-14.mp3"
+            },
+            {
+              "text": "Sin uči kako bi položio test.",
+              "ua": "Син вчиться, щоб скласти тест.",
+              "audio": "hr-les40-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Bih (я), bi (ти, він, вона), bismo, biste, bi (вони): форми з Lekcija 18. Дієприкметник узгоджується з підметом: pitala (вона), položio (він). НЕ «kako pitati» і НЕ «kako bih pitam»."
+        },
+        {
+          "form": "інший підмет: da + теперішній",
+          "when_ua": "Я роблю X, щоб хтось інший зробив Y.",
+          "examples": [
+            {
+              "text": "Dajem vam ključ da otvorite vrata.",
+              "ua": "Даю вам ключ, щоб ви відчинили двері.",
+              "audio": "hr-les40-rule-16.mp3"
+            },
+            {
+              "text": "Dajem sinu novac da kupi kruh.",
+              "ua": "Даю синові гроші, щоб він купив хліб.",
+              "audio": "hr-les40-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Тут bih не потрібне: підмети різні, тож da і теперішній час, як у Lekcija 21 (Želim da učiš)."
+        }
+      ],
+      "points_ua": [
+        "Той самий підмет: kako bih / da bih + дієприкметник на -l.",
+        "Інший підмет: da + теперішній.",
+        "Не інфінітив: «щоб» тут це da bih, а не kako pitati."
+      ]
+    },
+    {
+      "title_ua": "Готові фрази листа: u prilogu, u vezi s, hvala na",
+      "summary_ua": "У листах багато блоків, які вчать цілими. U prilogu šaljem = у додатку надсилаю. U vezi s + орудний (як українське «у зв'язку з»). Hvala na + місцевий (Lekcija 39), не «hvala za». Nadam se da + дієслово. Pozdravi / pozdravite + знахідний. Блоки не мають перекладу слово в слово, тож не вгадуй прийменники.",
+      "compare": [
+        {
+          "form": "u prilogu šaljem, u vezi s + орудний",
+          "when_ua": "Вкладення й тема листа.",
+          "examples": [
+            {
+              "text": "U prilogu šaljem ugovor.",
+              "ua": "У додатку надсилаю договір.",
+              "audio": "hr-les40-rule-18.mp3"
+            },
+            {
+              "text": "Zovem vas u vezi s ponudom.",
+              "ua": "Телефоную вам щодо пропозиції.",
+              "audio": "hr-les40-rule-19.mp3"
+            }
+          ],
+          "note_ua": "U prilogu (місцевий) і u privitku (нова лексика) в листі обидва зрозумілі. U vezi s + орудний (ponudom), НЕ родовий."
+        },
+        {
+          "form": "hvala na + місцевий; nadam se da...",
+          "when_ua": "Подяка й надія.",
+          "examples": [
+            {
+              "text": "Hvala na vremenu.",
+              "ua": "Дякую за час.",
+              "audio": "hr-les40-rule-20.mp3"
+            },
+            {
+              "text": "Nadam se da ćemo se uskoro vidjeti.",
+              "ua": "Сподіваюся, що ми незабаром побачимося.",
+              "audio": "hr-les40-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Hvala NA, не «hvala za» (Lekcija 39). У da-реченні клітики стоять на другому місці: ćemo se vidjeti."
+        },
+        {
+          "form": "pozdravi / pozdravite + знахідний",
+          "when_ua": "Передай вітання.",
+          "examples": [
+            {
+              "text": "Pozdravi sestru i brata.",
+              "ua": "Передай вітання сестрі й братові.",
+              "audio": "hr-les40-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Українське «передай привіт кому» має давальний, а хорватське pozdraviti має знахідний (кого)."
+        }
+      ],
+      "points_ua": [
+        "U vezi s + орудний. Hvala na + місцевий.",
+        "Nadam se da + дієслово у da-реченні.",
+        "Pozdraviti koga (знахідний), не «komu».",
+        "Необов'язково для письма: особистий лист подрузі на 60-80 слів про минулі вихідні, у минулому часі. Формат вправ вільного письма тут не підтримує, тож напиши й покажи Йосипові."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Poštovani gospodine, pišem vam zbog stana.",
+      "ua": "Шановний пане, пишу вам щодо квартири.",
+      "audio": "hr-les40-example-01.mp3"
+    },
+    {
+      "text": "Šaljem ti lijep pozdrav.",
+      "ua": "Надсилаю тобі гарне вітання.",
+      "audio": "hr-les40-example-02.mp3"
+    },
+    {
+      "text": "Gospođa na šalteru traži potvrdu.",
+      "ua": "Пані біля віконця просить довідку.",
+      "audio": "hr-les40-example-03.mp3"
+    },
+    {
+      "text": "Privitak je u e-pošti.",
+      "ua": "Вкладення в електронному листі.",
+      "audio": "hr-les40-example-04.mp3"
+    },
+    {
+      "text": "Moja molba je važna.",
+      "ua": "Моє прохання важливе.",
+      "audio": "hr-les40-example-05.mp3"
+    },
+    {
+      "text": "Škola šalje obavijest roditeljima.",
+      "ua": "Школа надсилає повідомлення батькам.",
+      "audio": "hr-les40-example-06.mp3"
+    },
+    {
+      "text": "Imam poziv na sastanak.",
+      "ua": "Маю запрошення на нараду.",
+      "audio": "hr-les40-example-07.mp3"
+    },
+    {
+      "text": "Naslov članka je dug.",
+      "ua": "Заголовок статті довгий.",
+      "audio": "hr-les40-example-08.mp3"
+    },
+    {
+      "text": "U tekstu je jedna pogreška.",
+      "ua": "У тексті одна помилка.",
+      "audio": "hr-les40-example-09.mp3"
+    },
+    {
+      "text": "Pišem prigovor zbog računa.",
+      "ua": "Пишу скаргу через рахунок.",
+      "audio": "hr-les40-example-10.mp3"
+    },
+    {
+      "text": "Zahvaljujem ti na pozivu.",
+      "ua": "Дякую тобі за запрошення.",
+      "audio": "hr-les40-example-11.mp3"
+    },
+    {
+      "text": "Obavještavam vas da nema struje.",
+      "ua": "Повідомляю вас, що немає струму.",
+      "audio": "hr-les40-example-12.mp3"
+    },
+    {
+      "text": "Prilažem ugovor i potvrdu.",
+      "ua": "Додаю договір і довідку.",
+      "audio": "hr-les40-example-13.mp3"
+    },
+    {
+      "text": "Molim vas da potvrdite termin.",
+      "ua": "Прошу вас підтвердити прийом.",
+      "audio": "hr-les40-example-14.mp3"
+    },
+    {
+      "text": "Moram otkazati termin.",
+      "ua": "Мушу скасувати прийом.",
+      "audio": "hr-les40-example-15.mp3"
+    },
+    {
+      "text": "Ispričavam se zbog pogreške.",
+      "ua": "Перепрошую за помилку.",
+      "audio": "hr-les40-example-16.mp3"
+    },
+    {
+      "text": "Obraćam se vama u vezi s ugovorom.",
+      "ua": "Звертаюся до вас щодо договору.",
+      "audio": "hr-les40-example-17.mp3"
+    },
+    {
+      "text": "Nadam se da je sve dobro.",
+      "ua": "Сподіваюся, що все добре.",
+      "audio": "hr-les40-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Pismo razredniku",
+    "title_ua": "Лист класному керівникові",
+    "highlight": [
+      "hr-0e6f76e6",
+      "hr-c14802ae",
+      "hr-a3b2218c",
+      "hr-c01e786f",
+      "hr-9c907082"
+    ],
+    "sentences": [
+      {
+        "text": "Poštovani razredniče,",
+        "ua": "Шановний класний керівнику,",
+        "audio": "hr-les40-reading-01.mp3"
+      },
+      {
+        "text": "pišem vam u vezi s izostankom mog sina.",
+        "ua": "пишу вам щодо відсутності мого сина.",
+        "audio": "hr-les40-reading-02.mp3"
+      },
+      {
+        "text": "Bio je bolestan i nije došao u školu.",
+        "ua": "Він був хворий і не прийшов до школи.",
+        "audio": "hr-les40-reading-03.mp3"
+      },
+      {
+        "text": "U prilogu šaljem potvrdu liječnika.",
+        "ua": "У додатку надсилаю довідку лікаря.",
+        "audio": "hr-les40-reading-04.mp3"
+      },
+      {
+        "text": "Molim vas da mi javite zadaću za ovaj tjedan.",
+        "ua": "Прошу вас повідомити мені домашнє завдання на цей тиждень.",
+        "audio": "hr-les40-reading-05.mp3"
+      },
+      {
+        "text": "Nadam se da sin može napisati test idući tjedan.",
+        "ua": "Сподіваюся, що син може написати тест наступного тижня.",
+        "audio": "hr-les40-reading-06.mp3"
+      },
+      {
+        "text": "Ako želite, mogu doći u petak.",
+        "ua": "Якщо хочете, можу прийти в п'ятницю.",
+        "audio": "hr-les40-reading-07.mp3"
+      },
+      {
+        "text": "Unaprijed vam zahvaljujem na pomoći.",
+        "ua": "Заздалегідь дякую вам за допомогу.",
+        "audio": "hr-les40-reading-08.mp3"
+      },
+      {
+        "text": "Srdačan pozdrav.",
+        "ua": "Щире вітання.",
+        "audio": "hr-les40-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Пишу вам у зв'язку з рахунком.",
+          "accepted": [
+            "Pišem vam u vezi s računom."
+          ]
+        },
+        {
+          "prompt": "Дякую вам за відповідь.",
+          "accepted": [
+            "Hvala vam na odgovoru.",
+            "Zahvaljujem vam na odgovoru.",
+            "Zahvaljujem se vam na odgovoru."
+          ]
+        },
+        {
+          "prompt": "Додаю до листа два файли.",
+          "accepted": [
+            "Prilažem dvije datoteke."
+          ],
+          "check": "Prilažem (недок. від priložiti) і dvije datoteke з мого знання; звірити з hjp."
+        },
+        {
+          "prompt": "Попросимо сусіда, щоб він підтвердив бронювання.",
+          "accepted": [
+            "Zamolit ćemo susjeda da potvrdi rezervaciju.",
+            "Susjeda ćemo zamoliti da potvrdi rezervaciju."
+          ]
+        },
+        {
+          "prompt": "Вона скасувала бронювання в готелі.",
+          "accepted": [
+            "Otkazala je rezervaciju u hotelu."
+          ]
+        },
+        {
+          "prompt": "Ми перепросили вчительку.",
+          "accepted": [
+            "Ispričali smo se učiteljici.",
+            "Ispričale smo se učiteljici."
+          ],
+          "check": "Ispričati se + давальний з мого знання; звірити з hjp."
+        },
+        {
+          "prompt": "Звертаюся до директора.",
+          "accepted": [
+            "Obraćam se direktoru."
+          ],
+          "check": "Obraćati se + давальний з мого знання."
+        },
+        {
+          "prompt": "Передайте від мене вітання сусіду.",
+          "accepted": [
+            "Pozdravite susjeda od mene.",
+            "Pozdravite od mene susjeda."
+          ]
+        },
+        {
+          "prompt": "Сподіваюся, що він прийде в суботу.",
+          "accepted": [
+            "Nadam se da će doći u subotu.",
+            "Nadam se da će u subotu doći.",
+            "Nadam se da će on doći u subotu."
+          ]
+        },
+        {
+          "prompt": "Дорогий дідусю, дякую за лист.",
+          "accepted": [
+            "Dragi djede, hvala na pismu."
+          ]
+        },
+        {
+          "prompt": "Ми заощаджуємо, щоб купити авто.",
+          "accepted": [
+            "Štedimo kako bismo kupili auto.",
+            "Štedimo da bismo kupili auto.",
+            "Štedimo kako bismo kupile auto.",
+            "Štedimo da bismo kupile auto."
+          ],
+          "check": "Kako bismo / da bismo + дієприкметник мн. з мого знання; звірити в граматиці (Croaticum)."
+        },
+        {
+          "prompt": "Надсилаємо вам щире вітання.",
+          "accepted": [
+            "Šaljemo vam srdačan pozdrav."
+          ]
+        },
+        {
+          "prompt": "Скарга у вкладенні.",
+          "accepted": [
+            "Prigovor je u privitku."
+          ]
+        },
+        {
+          "prompt": "Заздалегідь дякуємо за повідомлення.",
+          "accepted": [
+            "Unaprijed zahvaljujemo na obavijesti.",
+            "Unaprijed hvala na obavijesti."
+          ]
+        },
+        {
+          "prompt": "Повідомлення про відпустку важливе.",
+          "accepted": [
+            "Obavijest o odmoru je važna.",
+            "Obavijest o odmoru važna je."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "gospođo",
+        "gospodine",
+        "pozdrav",
+        "privitku",
+        "molbu",
+        "obavijest",
+        "pozivu",
+        "ponuda",
+        "pogreška",
+        "otkažete",
+        "potvrditi",
+        "ispričala",
+        "obavijestiti",
+        "priložiti",
+        "nadamo",
+        "Dragi"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Poštovana ___, molim vas za pomoć.",
+          "hint": "Шановна пані, прошу вас про допомогу.",
+          "accepted": [
+            [
+              "gospođo"
+            ]
+          ]
+        },
+        {
+          "text": "Poštovani ___, molim vas za termin.",
+          "hint": "Шановний пане, прошу вас про прийом.",
+          "accepted": [
+            [
+              "gospodine"
+            ]
+          ]
+        },
+        {
+          "text": "Baka vam šalje lijep ___.",
+          "hint": "Бабуся надсилає вам гарне вітання.",
+          "accepted": [
+            [
+              "pozdrav"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ je ugovor.",
+          "hint": "У вкладенні договір.",
+          "accepted": [
+            [
+              "privitku"
+            ]
+          ]
+        },
+        {
+          "text": "Pišem ___ za odmor.",
+          "hint": "Пишу прохання про відпустку.",
+          "accepted": [
+            [
+              "molbu"
+            ]
+          ]
+        },
+        {
+          "text": "Na zaslonu je nova ___.",
+          "hint": "На екрані нове повідомлення.",
+          "accepted": [
+            [
+              "obavijest"
+            ]
+          ]
+        },
+        {
+          "text": "Hvala vam na ___ na večeru.",
+          "hint": "Дякую вам за запрошення на вечерю.",
+          "accepted": [
+            [
+              "pozivu"
+            ]
+          ]
+        },
+        {
+          "text": "Ta ___ je jeftina.",
+          "hint": "Ця пропозиція дешева.",
+          "accepted": [
+            [
+              "ponuda"
+            ]
+          ]
+        },
+        {
+          "text": "Na računu je ___.",
+          "hint": "На рахунку помилка.",
+          "accepted": [
+            [
+              "pogreška"
+            ]
+          ]
+        },
+        {
+          "text": "Molim vas da ___ sastanak u utorak.",
+          "hint": "Прошу вас скасувати нараду у вівторок.",
+          "accepted": [
+            [
+              "otkažete"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra ću ___ termin kod liječnika.",
+          "hint": "Завтра підтверджу прийом у лікаря.",
+          "accepted": [
+            [
+              "potvrditi"
+            ]
+          ]
+        },
+        {
+          "text": "Ona se ___ susjedu.",
+          "hint": "Вона перепросила сусіда.",
+          "accepted": [
+            [
+              "ispričala"
+            ]
+          ]
+        },
+        {
+          "text": "Moram ___ školu o izostanku.",
+          "hint": "Мушу повідомити школу про відсутність.",
+          "accepted": [
+            [
+              "obavijestiti"
+            ]
+          ]
+        },
+        {
+          "text": "Moram ___ obrazac.",
+          "hint": "Мушу додати бланк.",
+          "accepted": [
+            [
+              "priložiti"
+            ]
+          ]
+        },
+        {
+          "text": "Mi se ___ da će sutra biti sunčano.",
+          "hint": "Ми сподіваємося, що завтра буде сонячно.",
+          "accepted": [
+            [
+              "nadamo"
+            ]
+          ]
+        },
+        {
+          "text": "Na početku pisma pišem: ___ susjede,",
+          "hint": "На початку листа пишу: Дорогий сусіде,",
+          "accepted": [
+            [
+              "Dragi",
+              "dragi"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Poštovani gospodin, imam pitanje o računu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovani gospodine, imam pitanje o računu."
+          ]
+        },
+        {
+          "prompt": "Draga baka, vidimo se u subotu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Draga bako, vidimo se u subotu."
+          ]
+        },
+        {
+          "prompt": "Završavam e-poštu: S poštovanje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Završavam e-poštu: S poštovanjem."
+          ]
+        },
+        {
+          "prompt": "Hvala za ponudu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hvala na ponudi."
+          ]
+        },
+        {
+          "prompt": "Zamolila vas bih da potvrdite račun.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zamolila bih vas da potvrdite račun."
+          ]
+        },
+        {
+          "prompt": "Molim vas poslati ugovor.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Molim vas da pošaljete ugovor."
+          ]
+        },
+        {
+          "prompt": "Pišem vam kako pitati za termin.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pišem vam kako bih pitala za termin.",
+            "Pišem vam da bih pitala za termin.",
+            "Pišem vam kako bih pitao za termin.",
+            "Pišem vam da bih pitao za termin."
+          ]
+        },
+        {
+          "prompt": "Čekam odgovor u vezi s najma.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čekam odgovor u vezi s najmom."
+          ]
+        },
+        {
+          "prompt": "Obavještavam vas što je sastanak u utorak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Obavještavam vas da je sastanak u utorak."
+          ]
+        },
+        {
+          "prompt": "Molim vas da mi uvijek javite cijenu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Molim vas da mi uvijek javljate cijenu."
+          ],
+          "check": "Javljate (недок. від javiti) з мого знання; помилка тут це вид (док. для повторюваного)."
+        },
+        {
+          "prompt": "Danas poslala sam molbu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam poslala molbu."
+          ]
+        },
+        {
+          "prompt": "Pišem molbu.",
+          "cue": "-> минулий час, доконане (ж.)",
+          "accepted": [
+            "Napisala sam molbu."
+          ]
+        },
+        {
+          "prompt": "Otkazujem rezervaciju.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću otkazati rezervaciju.",
+            "Sutra ću rezervaciju otkazati."
+          ]
+        },
+        {
+          "prompt": "Zovem hotel da otkažem rezervaciju.",
+          "cue": "-> kako bih ... (ж.)",
+          "accepted": [
+            "Zovem hotel kako bih otkazala rezervaciju.",
+            "Zovem hotel da bih otkazala rezervaciju."
+          ],
+          "check": "Kako bih / da bih + otkazala з мого знання; звірити позицію клітика в граматиці (Croaticum)."
+        },
+        {
+          "prompt": "Molim vas da potvrdite rezervaciju.",
+          "cue": "-> ввічливіше з bih (ж.)",
+          "accepted": [
+            "Zamolila bih vas da potvrdite rezervaciju."
+          ]
+        },
+        {
+          "prompt": "Pogreška je u tekstu.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Pogreške su u tekstu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mi ___ vam na ponudi.",
+          "cue": "zahvaljivati",
+          "accepted": [
+            "zahvaljujemo"
+          ]
+        },
+        {
+          "text": "Škola nas ___ o ispitu.",
+          "cue": "obavještavati",
+          "accepted": [
+            "obavještava"
+          ]
+        },
+        {
+          "text": "Ona uvijek ___ termin.",
+          "cue": "potvrđivati",
+          "accepted": [
+            "potvrđuje"
+          ]
+        },
+        {
+          "text": "Oni često ___ sastanke.",
+          "cue": "otkazivati",
+          "accepted": [
+            "otkazuju"
+          ]
+        },
+        {
+          "text": "Ti se uvijek ___ učiteljici.",
+          "cue": "ispričavati se",
+          "accepted": [
+            "ispričavaš"
+          ]
+        },
+        {
+          "text": "Mi se ___ direktoru.",
+          "cue": "obraćati se",
+          "accepted": [
+            "obraćamo"
+          ]
+        },
+        {
+          "text": "Ja vas ___ za pomoć.",
+          "cue": "moliti",
+          "accepted": [
+            "molim"
+          ]
+        },
+        {
+          "text": "Kolege me uvijek ___.",
+          "cue": "pozdravljati",
+          "accepted": [
+            "pozdravljaju"
+          ]
+        },
+        {
+          "text": "Ti se ___ da je sve dobro?",
+          "cue": "nadati se",
+          "accepted": [
+            "nadaš"
+          ]
+        },
+        {
+          "text": "Vi ___ molbe u petak?",
+          "cue": "pisati",
+          "accepted": [
+            "pišete"
+          ]
+        },
+        {
+          "text": "Oni nam ___ ugovor poštom.",
+          "cue": "slati",
+          "accepted": [
+            "šalju"
+          ]
+        },
+        {
+          "text": "Ona nam ___ cijenu u petak.",
+          "cue": "javljati",
+          "accepted": [
+            "javlja"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово чи формулу з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Шановний пане (службовий лист)",
+          "answer": "Poštovani gospodine"
+        },
+        {
+          "prompt": "Дорога бабусю (особистий лист)",
+          "answer": "Draga bako"
+        },
+        {
+          "prompt": "З повагою",
+          "answer": "S poštovanjem"
+        },
+        {
+          "prompt": "Заздалегідь дякую",
+          "answer": "Unaprijed hvala"
+        },
+        {
+          "prompt": "У вкладенні",
+          "answer": "U privitku"
+        },
+        {
+          "prompt": "у зв'язку з, щодо",
+          "answer": "u vezi s"
+        },
+        {
+          "prompt": "прохання",
+          "answer": "molba"
+        },
+        {
+          "prompt": "офіційне повідомлення",
+          "answer": "obavijest"
+        },
+        {
+          "prompt": "скарга",
+          "answer": "prigovor"
+        },
+        {
+          "prompt": "комерційна пропозиція",
+          "answer": "ponuda"
+        },
+        {
+          "prompt": "запрошення; дзвінок",
+          "answer": "poziv"
+        },
+        {
+          "prompt": "сподіватися",
+          "answer": "nadati se"
+        },
+        {
+          "prompt": "перепросити",
+          "answer": "ispričati se"
+        },
+        {
+          "prompt": "щире вітання",
+          "answer": "srdačan pozdrav"
+        }
+      ],
+      "extra": [
+        "pogreška",
+        "pozdraviti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

@@ -1060,49 +1060,49 @@
         {
           "example": true,
           "prompt": "Imam sina.",
-          "cue": "-> заперечення (nemam)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemam sina."
           ]
         },
         {
           "prompt": "Imamo mlijeko.",
-          "cue": "-> заперечення (nemamo)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemamo mlijeka."
           ]
         },
         {
           "prompt": "Imamo vrijeme.",
-          "cue": "-> заперечення (nemamo)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemamo vremena."
           ]
         },
         {
           "prompt": "Imam vodu.",
-          "cue": "-> заперечення (nemam)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemam vode."
           ]
         },
         {
           "prompt": "Imate kavu.",
-          "cue": "-> заперечення (nemate)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemate kave."
           ]
         },
         {
           "prompt": "Imam brata.",
-          "cue": "-> заперечення (nemam)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemam brata."
           ]
         },
         {
           "prompt": "Imam psa.",
-          "cue": "-> заперечення (nemam)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemam psa."
           ]

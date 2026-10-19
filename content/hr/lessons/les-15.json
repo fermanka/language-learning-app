@@ -1095,14 +1095,14 @@
         },
         {
           "prompt": "Imam jabuke.",
-          "cue": "-> заперечення (nemam)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemam jabuka."
           ]
         },
         {
           "prompt": "Imam jaja.",
-          "cue": "-> заперечення (nemam)",
+          "cue": "-> заперечення (imati)",
           "accepted": [
             "Nemam jaja."
           ]

@@ -1,0 +1,1721 @@
+{
+  "id": "hr-les-41",
+  "lang": "hr",
+  "order": 41,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "to",
+    "je",
+    "sam",
+    "su",
+    "smo",
+    "nije",
+    "nisam",
+    "ne",
+    "da",
+    "ali",
+    "mom",
+    "tvoje",
+    "tvoj",
+    "kakvo",
+    "mišljenju",
+    "tobom",
+    "njim",
+    "sestrom",
+    "sestru",
+    "odluci",
+    "sa",
+    "mnom",
+    "nama",
+    "vama",
+    "sin",
+    "sina",
+    "kći",
+    "muž",
+    "moj",
+    "moja",
+    "djeca",
+    "djeci",
+    "ponavljaju",
+    "pomaže",
+    "piše",
+    "zadaću",
+    "zadaće",
+    "škola",
+    "škole",
+    "poslije",
+    "osam",
+    "sati",
+    "vremena",
+    "slobodnog",
+    "manje",
+    "daje",
+    "učiteljica",
+    "prijatelje",
+    "imaju",
+    "imaš",
+    "jedne",
+    "druge",
+    "strane",
+    "jedan",
+    "jedno",
+    "dva",
+    "dvije",
+    "svaki",
+    "dan",
+    "navečer",
+    "ujutro",
+    "kod",
+    "kuće",
+    "kući",
+    "liječnika",
+    "petak",
+    "petku",
+    "idemo",
+    "ostajem",
+    "radim",
+    "uči",
+    "kiša",
+    "kiše",
+    "pada",
+    "park",
+    "auto",
+    "kupiti",
+    "plivati",
+    "mogu",
+    "znamo",
+    "znaju",
+    "novi",
+    "novo",
+    "veći",
+    "stol",
+    "stola",
+    "stolu",
+    "kino",
+    "film",
+    "gledamo",
+    "torbi",
+    "knjigu",
+    "bilježnicu",
+    "olovku",
+    "pet",
+    "šest",
+    "ovoj",
+    "ovom",
+    "ovu",
+    "ovaj",
+    "ova",
+    "ove",
+    "ovog",
+    "te",
+    "toga",
+    "tog",
+    "naš",
+    "naša",
+    "naše",
+    "moje",
+    "pjesmu",
+    "pitanje",
+    "pitanja",
+    "kolodvor",
+    "ulice",
+    "grad",
+    "lijep",
+    "skup",
+    "skupo",
+    "jeftin",
+    "hladno",
+    "bazen",
+    "bolestan",
+    "težak",
+    "test",
+    "stan",
+    "stana",
+    "lifta",
+    "cijena",
+    "cijene",
+    "gotovinom",
+    "karticom",
+    "platimo",
+    "trebam",
+    "treba",
+    "nemam",
+    "novca",
+    "koncert",
+    "zbog",
+    "jer",
+    "prvo",
+    "po",
+    "pravu",
+    "novog",
+    "objasni",
+    "jednom",
+    "ili",
+    "cijenu",
+    "dobri",
+    "zadatke",
+    "zadaćom"
+  ],
+  "notes": [
+    {
+      "id": "hr-a0a00e97",
+      "type": "noun",
+      "lemma": "mišljenje",
+      "gender": "s.",
+      "gen_sg": "mišljenja",
+      "plural": [
+        "mišljenja"
+      ],
+      "ua": "думка",
+      "audio": "hr-misljenje.mp3",
+      "forms": [
+        "mišljenja",
+        "mišljenju",
+        "mišljenjem"
+      ],
+      "explain_ua": "(Kakvo je tvoje mišljenje? = яка твоя думка?). Середній рід на -nje: mišljenje, mišljenja, mišljenju (як vjenčanje, Lekcija 39). Іменник від дієслова misliti (нижче). Готовий блок: po mom mišljenju = на мою думку (див. картку 2).",
+      "check": "Форми з мого знання за зразком vjenčanje."
+    },
+    {
+      "id": "hr-30f9c20a",
+      "type": "noun",
+      "lemma": "razlog",
+      "gender": "m.",
+      "gen_sg": "razloga",
+      "plural": [
+        "razlozi"
+      ],
+      "ua": "причина, привід",
+      "audio": "hr-razlog.mp3",
+      "forms": [
+        "razloga",
+        "razlogu",
+        "razlozi",
+        "razloge"
+      ],
+      "explain_ua": "(Imam dva razloga = маю дві причини). Чоловічого роду: razlog, razloga, razlozi. У множині g > z перед -i (як у Lekcija 31 udžbenik > udžbenici, тільки тут інша буква). Після dva родовий однини: dva razloga (Lekcija 7).",
+      "check": "Множину razlozi (не razlogovi) з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-0f3d54f7",
+      "type": "noun",
+      "lemma": "problem",
+      "gender": "m.",
+      "gen_sg": "problema",
+      "plural": [
+        "problemi"
+      ],
+      "ua": "проблема (чоловічого роду!)",
+      "audio": "hr-problem.mp3",
+      "forms": [
+        "problema",
+        "problemu",
+        "problemi",
+        "probleme"
+      ],
+      "explain_ua": "(To je veliki problem = це велика проблема). ПАСТКА РОДУ (не хибний друг): в українській і російській проблема жіночого роду, а хорватське problem ЧОЛОВІЧОГО: problem, problema, problemi. Тож veliki problem, jedan problem, а не «velika problem». Слово виглядає знайомим, і саме тому закінчення прикметника легко помилити.",
+      "check": "Рід і форми з мого знання. Це пастка роду, у банк хибних друзів не заношу."
+    },
+    {
+      "id": "hr-1435f648",
+      "type": "noun",
+      "lemma": "rješenje",
+      "gender": "s.",
+      "gen_sg": "rješenja",
+      "plural": [
+        "rješenja"
+      ],
+      "ua": "рішення (проблеми), розв'язок",
+      "audio": "hr-rjesenje.mp3",
+      "forms": [
+        "rješenja",
+        "rješenju"
+      ],
+      "explain_ua": "(Nemamo rješenje = у нас немає розв'язку). Середній рід на -nje: rješenje, rješenja. Правопис: rješenje, з je (не ije) після r, а дієслово riješiti (нижче) має ije. Це та сама родина, тож ije і je чергуються: riješiti, але rješenje. Не плутай з odluka (ухвалене рішення).",
+      "check": "Правопис rješenje / riješiti з мого знання, звірити з Hrvatski pravopis."
+    },
+    {
+      "id": "hr-f9fb5200",
+      "type": "noun",
+      "lemma": "prednost",
+      "gender": "ž.",
+      "gen_sg": "prednosti",
+      "plural": [
+        "prednosti"
+      ],
+      "ua": "перевага",
+      "audio": "hr-prednost.mp3",
+      "forms": [
+        "prednosti",
+        "prednost"
+      ],
+      "explain_ua": "(Velika prednost je cijena = велика перевага це ціна). Жіночий рід на приголосний: prednost, prednosti (i-тип, як riječ, Lekcija 8, чи bolest, Lekcija 37). Родовий і множина збігаються: prednosti.",
+      "check": "Форми з мого знання за зразком bolest."
+    },
+    {
+      "id": "hr-e591a74f",
+      "type": "noun",
+      "lemma": "nedostatak",
+      "gender": "m.",
+      "gen_sg": "nedostatka",
+      "plural": [
+        "nedostaci"
+      ],
+      "ua": "недолік",
+      "audio": "hr-nedostatak.mp3",
+      "forms": [
+        "nedostatka",
+        "nedostatku",
+        "nedostaci",
+        "nedostatke"
+      ],
+      "explain_ua": "(Stan ima jedan nedostatak: nema lifta = у квартири один недолік: немає ліфта). Нестійке a: nedostatak, nedostatka (як novac > novca, Lekcija 34). У множині k > c: nedostaci. Протилежність: prednost.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-db033b63",
+      "type": "noun",
+      "lemma": "odluka",
+      "gender": "ž.",
+      "gen_sg": "odluke",
+      "plural": [
+        "odluke"
+      ],
+      "ua": "рішення (ухвалене)",
+      "audio": "hr-odluka.mp3",
+      "forms": [
+        "odluke",
+        "odluku",
+        "odluci"
+      ],
+      "explain_ua": "(Odluka je važna = рішення важливе). Жіночий рід на -a: odluka, odluke, odluku. Місцевий: o odluci (k > c перед -i, як majka > majci). Від дієслова odlučiti (нижче). Родовий множини: odluka.",
+      "check": "Форми за зразком škola, місцевий odluci з мого знання."
+    },
+    {
+      "id": "hr-9311b18e",
+      "type": "noun",
+      "lemma": "primjer",
+      "gender": "m.",
+      "gen_sg": "primjera",
+      "plural": [
+        "primjeri"
+      ],
+      "ua": "приклад",
+      "audio": "hr-primjer.mp3",
+      "forms": [
+        "primjera",
+        "primjeru",
+        "primjeri",
+        "primjere"
+      ],
+      "explain_ua": "(Daj mi jedan primjer = дай мені один приклад). Чоловічого роду: primjer, primjera, primjeri. Правопис: primjer з je (не ije). Російське пример схоже: це підказка для пам'яті, не етимологія. Готове: na primjer = наприклад (як вставне слово).",
+      "check": "Форми з мого знання; блок na primjer не звіряв."
+    },
+    {
+      "id": "hr-a2aedee4",
+      "type": "noun",
+      "lemma": "stvar",
+      "gender": "ž.",
+      "gen_sg": "stvari",
+      "plural": [
+        "stvari"
+      ],
+      "ua": "річ, справа",
+      "audio": "hr-stvar.mp3",
+      "forms": [
+        "stvari",
+        "stvar"
+      ],
+      "explain_ua": "(Ovo je važna stvar = це важлива річ, справа). Жіночий рід на приголосний: stvar, stvari, stvari (i-тип, як riječ). Це хорватське слово для «РІЧ» (українське «річ»): його ми даємо поруч із riječ, бо саме riječ українською виглядає як «річ». Нижче riječ і slovo разом.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-ffeeaa1c",
+      "type": "noun",
+      "lemma": "način",
+      "gender": "m.",
+      "gen_sg": "načina",
+      "plural": [
+        "načini"
+      ],
+      "ua": "спосіб",
+      "audio": "hr-nacin.mp3",
+      "forms": [
+        "načina",
+        "načinu",
+        "načini",
+        "načine"
+      ],
+      "explain_ua": "(To je dobar način = це добрий спосіб). Чоловічого роду: način, načina, načini. Після dva, tri, četiri родовий однини: dva načina. Не плутай č з ć: način.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-14dcfe05",
+      "type": "noun",
+      "lemma": "strana",
+      "gender": "ž.",
+      "gen_sg": "strane",
+      "plural": [
+        "strane"
+      ],
+      "ua": "сторона (також: бік)",
+      "audio": "hr-strana.mp3",
+      "forms": [
+        "strane",
+        "stranu",
+        "strani",
+        "strana"
+      ],
+      "explain_ua": "(S jedne strane je skupo = з одного боку дорого). Жіночий рід на -a: strana, strane, stranu. Родовий множини: strana. Блок s jedne strane... s druge strane див. картку 3. Страница книги чи сайту це stranica (Lekcija 38), не strana.",
+      "check": "Форми за зразком škola; розрізнення strana / stranica з мого знання."
+    },
+    {
+      "id": "hr-464c21e2",
+      "type": "false_friend",
+      "lemma": "riječ",
+      "gender": "ž.",
+      "gen_sg": "riječi",
+      "plural": [
+        "riječi"
+      ],
+      "ua": "слово",
+      "uk_lookalike": "річ",
+      "uk_means": "річ, предмет",
+      "audio": "hr-rijec.mp3",
+      "forms": [
+        "riječi",
+        "riječ"
+      ],
+      "explain_ua": "(Koja je to riječ? = яке це слово?). ХИБНИЙ ДРУГ (перевірена пара зі списку українська-хорватська): хорватське riječ це СЛОВО, а українське річ це предмет. Жіночий рід на приголосний: riječ, riječi, riječi (i-тип, як noć). Правопис: riječ з ije і ć. «Річ» хорватською це stvar (вище). Слово riječ і slovo (нижче) українською міняються місцями, тож вчи пару разом.",
+      "check": "Хибну пару riječ / річ перевірено у списку False Friends of the Slavist (українська-хорватська). Форми riječi, riječi з мого знання."
+    },
+    {
+      "id": "hr-4418cc95",
+      "type": "false_friend",
+      "lemma": "slovo",
+      "gender": "s.",
+      "gen_sg": "slova",
+      "plural": [
+        "slova"
+      ],
+      "ua": "літера (не «слово»)",
+      "uk_lookalike": "слово",
+      "uk_means": "слово",
+      "audio": "hr-slovo.mp3",
+      "forms": [
+        "slova",
+        "slovu"
+      ],
+      "explain_ua": "(Prvo slovo je š = перша літера це š). ХИБНИЙ ДРУГ (перевірена пара зі списку українська-хорватська): хорватське slovo це ЛІТЕРА абетки, а українське слово це riječ. Середній рід на -o: slovo, slova, slova. Пара з riječ це чисте дзеркало: riječ = слово, slovo = літера. Приклад: riječ «kuća» має чотири slova.",
+      "check": "Хибну пару slovo / слово перевірено у списку False Friends of the Slavist (українська-хорватська). Форми slova з мого знання; родовий множини slova не звіряв."
+    },
+    {
+      "id": "hr-d89aab2e",
+      "type": "verb",
+      "lemma": "misliti",
+      "aspect": "impf.",
+      "partner": "pomisliti",
+      "pres_1sg": "mislim",
+      "forms": [
+        "mislim",
+        "misliš",
+        "misli",
+        "mislimo",
+        "mislite",
+        "misle",
+        "mislila",
+        "mislili",
+        "mislio",
+        "pomisliti",
+        "pomislim",
+        "pomisliš",
+        "pomisli",
+        "pomislimo",
+        "pomislite",
+        "pomisle",
+        "pomislila",
+        "pomislili",
+        "pomislio"
+      ],
+      "ua": "думати (док. pomisliti: подумати)",
+      "audio": "hr-misliti.mp3",
+      "explain_ua": "(Mislim da je to točno = думаю, що це правильно). Дієвідміна -im: mislim, misliš, misli. Для думки: misliti da + дійсний спосіб. Mislim na + знахідний = думаю про (когось), mislim o + місцевий = міркую про (щось), див. картку 1. Пара pomisliti значить «подумати мигцем», це не повноцінна пара, тож у думках не користуйся нею.",
+      "check": "Форми з мого знання. Що pomisliti є лише частковою парою, не звірено зі словником. Розрізнення misliti na / o: з мого знання."
+    },
+    {
+      "id": "hr-ce991ee4",
+      "type": "verb",
+      "lemma": "smatrati",
+      "aspect": "impf.",
+      "pres_1sg": "smatram",
+      "forms": [
+        "smatram",
+        "smatraš",
+        "smatra",
+        "smatramo",
+        "smatrate",
+        "smatraju",
+        "smatrala",
+        "smatrali",
+        "smatrao"
+      ],
+      "ua": "вважати, мати за",
+      "audio": "hr-smatrati.mp3",
+      "explain_ua": "(Smatram da je odluka dobra = вважаю, що рішення добре). Дієвідміна -am: smatram, smatraš, smatra. Серйозніше за mislim, трохи офіційніше. Береться з da. Пари за видом немає в моєму знанні (позначено як «не звірено»). Українське «вважати, що» збігається структурно.",
+      "check": "Відсутність док. пари й форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-b06f5d4f",
+      "type": "verb",
+      "lemma": "znati",
+      "aspect": "impf.",
+      "pres_1sg": "znam",
+      "forms": [
+        "znam",
+        "znaš",
+        "zna",
+        "znamo",
+        "znate",
+        "znaju",
+        "znala",
+        "znali",
+        "znao"
+      ],
+      "ua": "знати; вміти (+ інфінітив)",
+      "audio": "hr-znati.mp3",
+      "explain_ua": "(Znam da je to važno = знаю, що це важливо). Дієвідміна -am: znam, znaš, zna, znamo, znate, znaju. Знаю факт: znam da... Вмію щось робити: znam plivati. Але «можу» (є можливість, дозвіл) це moći (Lekcija 6): ne znam doći = не вмію прийти, тому коли ти хворий, кажи ne mogu doći. Пара «дізнатися» це saznati, її вчимо пізніше.",
+      "check": "Форми з мого знання; що znati + інфінітив значить «вміти», звірити з граматикою Croaticum."
+    },
+    {
+      "id": "hr-f4e0b894",
+      "type": "verb",
+      "lemma": "slagati se",
+      "aspect": "impf.",
+      "partner": "složiti se",
+      "pres_1sg": "slažem se",
+      "forms": [
+        "slažem",
+        "slažeš",
+        "slaže",
+        "slažemo",
+        "slažete",
+        "slažu",
+        "slagala",
+        "slagali",
+        "slagao",
+        "složiti",
+        "složim",
+        "složiš",
+        "složi",
+        "složimo",
+        "složite",
+        "slože",
+        "složila",
+        "složili",
+        "složio"
+      ],
+      "ua": "погоджуватися (док. složiti se)",
+      "audio": "hr-slagati-se.mp3",
+      "explain_ua": "(Slažem se s tobom = погоджуюся з тобою). Пара: slagati se (недок.) / složiti se (док.): slažem se > složim se, g > ž у обох. Береться з s + орудний (з ким): slažem se s tobom. Українське «погоджуватися з + орудний» і російське «соглашаться с + творительный» тут збігаються, тримайся будь-якої. Se стоїть на другому місці.",
+      "check": "Пару та керування s + орудний з мого знання; форми слаже / složim звірити з hjp. Slagati (говорити неправду) інше слово, тут не вчимо."
+    },
+    {
+      "id": "hr-16b38fc6",
+      "type": "verb",
+      "lemma": "predlagati",
+      "aspect": "impf.",
+      "partner": "predložiti",
+      "pres_1sg": "predlažem",
+      "forms": [
+        "predlažem",
+        "predlažeš",
+        "predlaže",
+        "predlažemo",
+        "predlažete",
+        "predlažu",
+        "predlagala",
+        "predlagali",
+        "predlagao",
+        "predložiti",
+        "predložim",
+        "predložiš",
+        "predloži",
+        "predložimo",
+        "predložite",
+        "predlože",
+        "predložila",
+        "predložili",
+        "predložio"
+      ],
+      "ua": "пропонувати (док. predložiti)",
+      "audio": "hr-predlagati.mp3",
+      "explain_ua": "(Predlažem da idemo u subotu = пропоную піти в суботу). Пара: predlagati (недок.) / predložiti (док.): predlažem > predložim, g > ž. Береться з da + теперішній (як у Lekcija 21) або з знахідним: predlažem rješenje. Для однієї пропозиції зараз: predložiti, для звички: predlagati.",
+      "check": "Пару та форми з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-e6ad83d9",
+      "type": "verb",
+      "lemma": "odlučiti",
+      "aspect": "pf.",
+      "partner": "odlučivati",
+      "pres_1sg": "odlučim",
+      "forms": [
+        "odlučim",
+        "odlučiš",
+        "odluči",
+        "odlučimo",
+        "odlučite",
+        "odluče",
+        "odlučila",
+        "odlučili",
+        "odlučio",
+        "odlučivati",
+        "odlučujem",
+        "odlučuješ",
+        "odlučuje",
+        "odlučujemo",
+        "odlučujete",
+        "odlučuju",
+        "odlučivala"
+      ],
+      "ua": "вирішити (недок. odlučivati)",
+      "audio": "hr-odluciti.mp3",
+      "explain_ua": "(Odlučili smo kupiti auto = ми вирішили купити машину). Пара: odlučiti (док.) / odlučivati (недок.): odlučim > odlučujem. Док. для результату (ми вирішили), недок. для процесу (вирішуємо). Після нього інфінітив. Родина слова odluka (вище).",
+      "check": "Пару та форми з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-b665e54a",
+      "type": "verb",
+      "lemma": "riješiti",
+      "aspect": "pf.",
+      "partner": "rješavati",
+      "pres_1sg": "riješim",
+      "forms": [
+        "riješim",
+        "riješiš",
+        "riješi",
+        "riješimo",
+        "riješite",
+        "riješe",
+        "riješila",
+        "riješili",
+        "riješio",
+        "rješavati",
+        "rješavam",
+        "rješavaš",
+        "rješava",
+        "rješavamo",
+        "rješavate",
+        "rješavaju",
+        "rješavala"
+      ],
+      "ua": "розв'язати, вирішити (недок. rješavati)",
+      "audio": "hr-rijesiti.mp3",
+      "explain_ua": "(Ne mogu riješiti zadatak = не можу розв'язати завдання). Пара: riješiti (док.) / rješavati (недок.): riješim > rješavam, ije > je. Знов ije / je в одній родині: riješiti, але rješavati і rješenje. Вирішити проблему: riješiti problem, а ухвалити рішення: odlučiti.",
+      "check": "Пару, ije / je й форми з мого знання, звірити з Hrvatski pravopis."
+    },
+    {
+      "id": "hr-e9a74cb5",
+      "type": "adjective",
+      "lemma": "uvjeren",
+      "fem": "uvjerena",
+      "neut": "uvjereno",
+      "ua": "переконаний",
+      "audio": "hr-uvjeren.mp3",
+      "forms": [
+        "uvjerena",
+        "uvjereno",
+        "uvjereni",
+        "uvjerene"
+      ],
+      "explain_ua": "(Uvjerena sam da će doći = я переконана, що він прийде). Прикметник: uvjeren, uvjerena, uvjereno. Готовий блок: uvjeren sam da + речення; рід за тим, хто говорить (чоловік uvjeren, жінка uvjerena). Найсильніший рівень певності: mislim, smatram, uvjeren sam.",
+      "check": "Форми з мого знання; уживання з da звірити з hjp."
+    },
+    {
+      "id": "hr-5675c971",
+      "type": "adjective",
+      "lemma": "točan",
+      "fem": "točna",
+      "neut": "točno",
+      "ua": "правильний, точний",
+      "audio": "hr-tocan.mp3",
+      "forms": [
+        "točna",
+        "točno",
+        "točni",
+        "točne"
+      ],
+      "explain_ua": "(Odgovor je točan = відповідь правильна). Нестійке a: točan, točna, točno (як svečan, Lekcija 39). Про відповідь, суму, час. Пиши č, не ć: točan.",
+      "check": "Форми за зразком svečan з мого знання."
+    },
+    {
+      "id": "hr-eb8d5827",
+      "type": "function",
+      "lemma": "protiv",
+      "ua": "проти (+ родовий)",
+      "audio": "hr-protiv.mp3",
+      "forms": [
+        "protiv"
+      ],
+      "explain_ua": "(Nisam protiv toga = я не проти цього). Прийменник з родовим: protiv odluke, protiv toga. Українське «проти + родовий» збігається, російське «против + родовий» теж. Пара: za (за) і protiv (проти): Ja sam za, a on je protiv. Дивись родові форми: odluka > protiv odluke.",
+      "check": "Керування з мого знання."
+    },
+    {
+      "id": "hr-66ee1589",
+      "type": "function",
+      "lemma": "samo",
+      "ua": "тільки, лише",
+      "audio": "hr-samo.mp3",
+      "forms": [
+        "samo"
+      ],
+      "explain_ua": "(Imam samo jedno pitanje = у мене лише одне питання). Не змінюється. Стоїть перед тим словом, яке обмежує: samo jedno pitanje, samo u petak. Пара ne samo... nego i (картка 3).",
+      "check": "Уживання з мого знання."
+    },
+    {
+      "id": "hr-5524b869",
+      "type": "function",
+      "lemma": "još",
+      "ua": "ще",
+      "audio": "hr-jos.mp3",
+      "forms": [
+        "još"
+      ],
+      "explain_ua": "(Imamo još vremena = у нас ще є час). Не змінюється. Значить і «ще» (час: još piše zadaću = ще пише), і «ще одне» (još jedno pitanje). Пиши š: još. Заперечення: još nisam = ще не.",
+      "check": "Уживання з мого знання; još nisam не звіряв."
+    },
+    {
+      "id": "hr-367ce16a",
+      "type": "function",
+      "lemma": "previše",
+      "ua": "занадто, надто багато",
+      "audio": "hr-previse.mp3",
+      "forms": [
+        "previše"
+      ],
+      "explain_ua": "(Ovdje je previše ljudi = тут надто багато людей). Не змінюється. Перед прикметником і прислівником: previše skupo. Перед іменником родовий: previše ljudi, previše zadaće (як puno, dosta, Lekcija 15). Не плутай з više (більше, Lekcija 17).",
+      "check": "Керування родовим з мого знання, як при puno."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Mislim da, smatram da, uvjeren sam da; znam",
+      "summary_ua": "Три рівні певності: mislim da (думаю), smatram da (вважаю), uvjeren sam da (переконаний). Усі беруть da і звичайне речення. Заперечення йде на головне дієслово: ne mislim da je to dobro. Українське «думаю, що / вважаю, що» будується так само, тож тут тримайся української. Нове лише: misliti na (про когось) і misliti o (про щось) окремо, і дієслово znati.",
+      "compare": [
+        {
+          "form": "misliti da + речення",
+          "when_ua": "Висловлюю думку.",
+          "examples": [
+            {
+              "text": "Mislim da je to točno.",
+              "ua": "Думаю, що це правильно.",
+              "audio": "hr-les41-rule-01.mp3"
+            },
+            {
+              "text": "Ne mislim da je to dobro.",
+              "ua": "Не думаю, що це добре.",
+              "audio": "hr-les41-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Da, а не što чи kako: «mislim što...» неправильно. Заперечення біля mislim."
+        },
+        {
+          "form": "smatrati da, uvjeren sam da",
+          "when_ua": "Серйозніша думка, більша певність.",
+          "examples": [
+            {
+              "text": "Smatram da je odluka dobra.",
+              "ua": "Вважаю, що рішення добре.",
+              "audio": "hr-les41-rule-03.mp3"
+            },
+            {
+              "text": "Uvjerena sam da će doći.",
+              "ua": "Я переконана, що він прийде.",
+              "audio": "hr-les41-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Чоловік каже uvjeren sam, жінка uvjerena sam. Sam на другому місці."
+        },
+        {
+          "form": "misliti na + знахідний / misliti o + місцевий",
+          "when_ua": "Думаю про когось або міркую про щось.",
+          "examples": [
+            {
+              "text": "Mislim na sestru.",
+              "ua": "Думаю про сестру.",
+              "audio": "hr-les41-rule-05.mp3"
+            },
+            {
+              "text": "Mislim o odluci.",
+              "ua": "Міркую про рішення.",
+              "audio": "hr-les41-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Українське «думати про + знахідний» одне, а хорватською два: na (хтось у думках) і o (обмірковую)."
+        },
+        {
+          "form": "znati проти moći",
+          "when_ua": "Знаю факт чи вмію; а не можу, бо не виходить.",
+          "examples": [
+            {
+              "text": "Znam da je to važno.",
+              "ua": "Знаю, що це важливо.",
+              "audio": "hr-les41-rule-07.mp3"
+            },
+            {
+              "text": "Znam plivati, ali danas ne mogu.",
+              "ua": "Вмію плавати, але сьогодні не можу.",
+              "audio": "hr-les41-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Znam plivati = вмію. Ne mogu = немає змоги. Для «не можу прийти, бо хворий» кажи ne mogu, не «ne znam»."
+        }
+      ],
+      "points_ua": [
+        "Mislim da, smatram da, uvjeren sam da: після них да + речення.",
+        "Ne mislim da je dobro: заперечення біля mislim.",
+        "Misliti na + хтось, misliti o + щось; znam plivati, ne mogu doći."
+      ]
+    },
+    {
+      "title_ua": "Slažem se s + орудний; imaš pravo; po mom mišljenju",
+      "summary_ua": "Погоджуюся з кимось: slažem se s + орудний. Українське «погоджуватися з + орудний» і російське «соглашаться с + творительный» збігаються, тож тут вірні обидві. Маєш рацію: imaš pravo чи si u pravu. На мою думку: po mom mišljenju. Усе це готові блоки, вчи їх цілими.",
+      "compare": [
+        {
+          "form": "slagati se s + орудний",
+          "when_ua": "Погоджуюся чи ні.",
+          "examples": [
+            {
+              "text": "Slažem se s tobom.",
+              "ua": "Погоджуюся з тобою.",
+              "audio": "hr-les41-rule-09.mp3"
+            },
+            {
+              "text": "Ne slažem se s njim.",
+              "ua": "Не погоджуюся з ним.",
+              "audio": "hr-les41-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Не «slažem se tebi» (давальний) і не «na tebe». Орудний (Lekcija 14, 20): s tobom, s njim, sa sestrom. Se на другому місці."
+        },
+        {
+          "form": "imati pravo / biti u pravu",
+          "when_ua": "Маєш рацію.",
+          "examples": [
+            {
+              "text": "Imaš pravo.",
+              "ua": "Ти маєш рацію.",
+              "audio": "hr-les41-rule-11.mp3"
+            },
+            {
+              "text": "Ona je u pravu.",
+              "ua": "Вона права.",
+              "audio": "hr-les41-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Pravo ти вчила в Lekcija 28 як «прямо». Тут те саме слово має друге значення («правота»): це багатозначність, не хибний друг. Контекст розрізняє."
+        },
+        {
+          "form": "po mom mišljenju",
+          "when_ua": "На мою думку.",
+          "examples": [
+            {
+              "text": "Po mom mišljenju, to je dobra odluka.",
+              "ua": "На мою думку, це добре рішення.",
+              "audio": "hr-les41-rule-13.mp3"
+            },
+            {
+              "text": "Kakvo je tvoje mišljenje?",
+              "ua": "Яка твоя думка?",
+              "audio": "hr-les41-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Po + місцевий: po mom mišljenju, po tvom mišljenju. Вчи як блок. Після нього кома."
+        }
+      ],
+      "points_ua": [
+        "Slažem se s tobom: s + орудний, se на другому місці.",
+        "Imaš pravo = ти права/правий; ona je u pravu.",
+        "Po mom mišljenju = на мою думку."
+      ]
+    },
+    {
+      "title_ua": "Аргументи: s jedne strane, ne samo nego i, jer, iako ipak",
+      "summary_ua": "Чотири зв'язки для доказів. S jedne strane... s druge strane = з одного боку... з іншого боку. Ne samo... nego i = не тільки... а й. Jer, zato što, zbog = чому. Iako... ipak = хоча... все ж. Українське «з одного боку... з іншого боку» будується так само, це безкоштовний переклад. Але після початку речення клітик je стоїть ДРУГИМ: s jedne strane je stan velik, не «s jedne strane stan je velik».",
+      "compare": [
+        {
+          "form": "s jedne strane... s druge strane",
+          "when_ua": "Дві сторони питання.",
+          "examples": [
+            {
+              "text": "S jedne strane je stan velik, a s druge strane je skup.",
+              "ua": "З одного боку квартира велика, а з іншого дорога.",
+              "audio": "hr-les41-rule-15.mp3"
+            },
+            {
+              "text": "S druge strane je cijena dobra.",
+              "ua": "З іншого боку ціна добра.",
+              "audio": "hr-les41-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Je йде другим після блоку «s druge strane» (Lekcija 19, 35). Це слабке місце: не «s druge strane cijena je dobra»."
+        },
+        {
+          "form": "ne samo... nego i",
+          "when_ua": "Не тільки одне, а й інше.",
+          "examples": [
+            {
+              "text": "Ne radim samo ujutro, nego i navečer.",
+              "ua": "Я працюю не тільки вранці, а й увечері.",
+              "audio": "hr-les41-rule-17.mp3"
+            },
+            {
+              "text": "Imamo ne samo auto, nego i bicikl.",
+              "ua": "Ми маємо не тільки машину, а й велосипед.",
+              "audio": "hr-les41-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Nego i, а не «ali i» (це калька з «але й»). Samo стоїть біля слова, яке обмежує."
+        },
+        {
+          "form": "jer, zato što, zbog + родовий",
+          "when_ua": "Причина.",
+          "examples": [
+            {
+              "text": "Ostajem kod kuće jer sam bolestan.",
+              "ua": "Залишаюся вдома, бо я хворий.",
+              "audio": "hr-les41-rule-19.mp3"
+            },
+            {
+              "text": "Ne idem na koncert zato što nemam novca.",
+              "ua": "Не йду на концерт, бо в мене немає грошей.",
+              "audio": "hr-les41-rule-20.mp3"
+            },
+            {
+              "text": "Ostajem kod kuće zbog kiše.",
+              "ua": "Залишаюся вдома через дощ.",
+              "audio": "hr-les41-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Jer і zato što відкривають речення з дієсловом. Zbog береться з іменником у родовому (Lekcija 27): zbog kiše. Не «zbog sam bolestan»."
+        },
+        {
+          "form": "iako... ipak",
+          "when_ua": "Хоча... все ж.",
+          "examples": [
+            {
+              "text": "Iako je skupo, ipak ću kupiti auto.",
+              "ua": "Хоча дорого, я все ж куплю машину.",
+              "audio": "hr-les41-rule-22.mp3"
+            },
+            {
+              "text": "Iako pada kiša, ipak idemo u park.",
+              "ua": "Хоча йде дощ, ми все ж ідемо в парк.",
+              "audio": "hr-les41-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Iako (Lekcija 21) і ipak (Lekcija 35) разом. Ću після ipak стоїть другим."
+        }
+      ],
+      "points_ua": [
+        "S jedne strane je..., не «s jedne strane stan je».",
+        "Ne samo... nego i, не «ali i».",
+        "Jer, zato što + речення; zbog + родовий."
+      ]
+    },
+    {
+      "title_ua": "Пропозиції й думка: predlažem da, bilo bi dobro da, za / protiv",
+      "summary_ua": "Пропоную: predlažem da + теперішній (як у Lekcija 21 «želim da učiš») або predlažem + знахідний. М'яка порада: bilo bi dobro da + теперішній. Підтримую чи ні: za (за) і protiv + родовий (проти). Українське «пропоную, щоб» і російське «предлагаю, чтобы» тут дають ту саму структуру. Умовне «da bih» тут НЕ потрібне, воно в іншому уроці.",
+      "compare": [
+        {
+          "form": "predlagati da + теперішній / predlagati + знахідний",
+          "when_ua": "Пропоную дію чи річ.",
+          "examples": [
+            {
+              "text": "Predlažem da idemo u petak.",
+              "ua": "Пропоную піти в п'ятницю.",
+              "audio": "hr-les41-rule-24.mp3"
+            },
+            {
+              "text": "Predlažem novo rješenje.",
+              "ua": "Пропоную нове розв'язання.",
+              "audio": "hr-les41-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Після da дієслово в теперішньому, не інфінітив. Предлагати комусь: predlažem da vi idete."
+        },
+        {
+          "form": "bilo bi dobro da + теперішній",
+          "when_ua": "Було б добре, щоб...",
+          "examples": [
+            {
+              "text": "Bilo bi dobro da idemo kod liječnika.",
+              "ua": "Було б добре піти до лікаря.",
+              "audio": "hr-les41-rule-26.mp3"
+            },
+            {
+              "text": "Bilo bi dobro da ponavljamo svaki dan.",
+              "ua": "Було б добре повторювати щодня.",
+              "audio": "hr-les41-rule-27.mp3"
+            }
+          ],
+          "note_ua": "Bilo bi: дієприкметник bilo, потім bi (Lekcija 18). Далі da і теперішній час."
+        },
+        {
+          "form": "za / protiv + родовий",
+          "when_ua": "Я за чи проти.",
+          "examples": [
+            {
+              "text": "Ja sam za, a moj brat je protiv.",
+              "ua": "Я за, а мій брат проти.",
+              "audio": "hr-les41-rule-28.mp3"
+            },
+            {
+              "text": "Moj muž je protiv te odluke.",
+              "ua": "Мій чоловік проти цього рішення.",
+              "audio": "hr-les41-rule-29.mp3"
+            }
+          ],
+          "note_ua": "Protiv + родовий (te odluke). Без іменника просто za або protiv."
+        }
+      ],
+      "points_ua": [
+        "Predlažem da + теперішній (idemo), не інфінітив.",
+        "Bilo bi dobro da + теперішній.",
+        "Protiv + родовий: protiv te odluke."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Imam dva razloga.",
+      "ua": "Маю дві причини.",
+      "audio": "hr-les41-example-01.mp3"
+    },
+    {
+      "text": "To je veliki problem.",
+      "ua": "Це велика проблема.",
+      "audio": "hr-les41-example-02.mp3"
+    },
+    {
+      "text": "Nemamo rješenje.",
+      "ua": "У нас немає розв'язку.",
+      "audio": "hr-les41-example-03.mp3"
+    },
+    {
+      "text": "Velika prednost je cijena.",
+      "ua": "Велика перевага це ціна.",
+      "audio": "hr-les41-example-04.mp3"
+    },
+    {
+      "text": "Stan ima jedan nedostatak: nema lifta.",
+      "ua": "У квартири один недолік: немає ліфта.",
+      "audio": "hr-les41-example-05.mp3"
+    },
+    {
+      "text": "Odluka je važna.",
+      "ua": "Рішення важливе.",
+      "audio": "hr-les41-example-06.mp3"
+    },
+    {
+      "text": "Daj mi jedan primjer.",
+      "ua": "Дай мені один приклад.",
+      "audio": "hr-les41-example-07.mp3"
+    },
+    {
+      "text": "Ovo je važna stvar.",
+      "ua": "Це важлива річ.",
+      "audio": "hr-les41-example-08.mp3"
+    },
+    {
+      "text": "To je dobar način.",
+      "ua": "Це добрий спосіб.",
+      "audio": "hr-les41-example-09.mp3"
+    },
+    {
+      "text": "Koja je to riječ?",
+      "ua": "Яке це слово?",
+      "audio": "hr-les41-example-10.mp3"
+    },
+    {
+      "text": "Prvo slovo je š.",
+      "ua": "Перша літера це š.",
+      "audio": "hr-les41-example-11.mp3"
+    },
+    {
+      "text": "Odgovor je točan.",
+      "ua": "Відповідь правильна.",
+      "audio": "hr-les41-example-12.mp3"
+    },
+    {
+      "text": "Slažemo se s vama.",
+      "ua": "Ми погоджуємося з вами.",
+      "audio": "hr-les41-example-13.mp3"
+    },
+    {
+      "text": "Odlučili smo kupiti auto.",
+      "ua": "Ми вирішили купити машину.",
+      "audio": "hr-les41-example-14.mp3"
+    },
+    {
+      "text": "Ne mogu riješiti zadatak.",
+      "ua": "Не можу розв'язати завдання.",
+      "audio": "hr-les41-example-15.mp3"
+    },
+    {
+      "text": "Imam samo jedno pitanje.",
+      "ua": "У мене лише одне питання.",
+      "audio": "hr-les41-example-16.mp3"
+    },
+    {
+      "text": "Imamo još vremena.",
+      "ua": "У нас ще є час.",
+      "audio": "hr-les41-example-17.mp3"
+    },
+    {
+      "text": "Ovdje je previše ljudi.",
+      "ua": "Тут надто багато людей.",
+      "audio": "hr-les41-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Zadaća svaki dan?",
+    "title_ua": "Домашнє завдання щодня?",
+    "highlight": [
+      "hr-a0a00e97",
+      "hr-0f3d54f7",
+      "hr-ffeeaa1c",
+      "hr-14dcfe05",
+      "hr-5524b869",
+      "hr-367ce16a"
+    ],
+    "sentences": [
+      {
+        "text": "Mislim da djeca imaju previše zadaće.",
+        "ua": "Думаю, що діти мають надто багато домашніх завдань.",
+        "audio": "hr-les41-reading-01.mp3"
+      },
+      {
+        "text": "Moj sin još piše zadaću u osam sati.",
+        "ua": "Мій син ще пише домашнє завдання о восьмій.",
+        "audio": "hr-les41-reading-02.mp3"
+      },
+      {
+        "text": "Moja kći poslije škole nema vremena za prijatelje.",
+        "ua": "Моя дочка після школи не має часу на друзів.",
+        "audio": "hr-les41-reading-03.mp3"
+      },
+      {
+        "text": "Po mom mišljenju, to nije dobar način.",
+        "ua": "На мою думку, це не добрий спосіб.",
+        "audio": "hr-les41-reading-04.mp3"
+      },
+      {
+        "text": "S jedne strane, zadaća pomaže djeci da ponavljaju.",
+        "ua": "З одного боку, домашнє завдання допомагає дітям повторювати.",
+        "audio": "hr-les41-reading-05.mp3"
+      },
+      {
+        "text": "S druge strane, djeca imaju malo slobodnog vremena.",
+        "ua": "З іншого боку, діти мають мало вільного часу.",
+        "audio": "hr-les41-reading-06.mp3"
+      },
+      {
+        "text": "Smatram da je to veliki problem.",
+        "ua": "Вважаю, що це велика проблема.",
+        "audio": "hr-les41-reading-07.mp3"
+      },
+      {
+        "text": "Predlažem da učiteljica daje manje zadaće.",
+        "ua": "Пропоную, щоб учителька давала менше домашніх завдань.",
+        "audio": "hr-les41-reading-08.mp3"
+      },
+      {
+        "text": "Moj muž se ne slaže sa mnom, ali znamo da je škola važna.",
+        "ua": "Мій чоловік не погоджується зі мною, але ми знаємо, що школа важлива.",
+        "audio": "hr-les41-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Це добра причина.",
+          "accepted": [
+            "To je dobar razlog."
+          ]
+        },
+        {
+          "prompt": "Це наша проблема.",
+          "accepted": [
+            "To je naš problem."
+          ]
+        },
+        {
+          "prompt": "Я думаю, що ти маєш рацію.",
+          "accepted": [
+            "Mislim da imaš pravo.",
+            "Mislim da si u pravu."
+          ],
+          "check": "Блоки imati pravo / biti u pravu з мого знання, звірити з hjp.znanje.hr."
+        },
+        {
+          "prompt": "Вона вважає, що це не проблема.",
+          "accepted": [
+            "Ona smatra da to nije problem.",
+            "Ona smatra da nije problem."
+          ]
+        },
+        {
+          "prompt": "Це правильна відповідь.",
+          "accepted": [
+            "To je točan odgovor."
+          ]
+        },
+        {
+          "prompt": "Вона погоджується з нами.",
+          "accepted": [
+            "Ona se slaže s nama.",
+            "Ona se slaže sa nama."
+          ]
+        },
+        {
+          "prompt": "У мене ще одне питання.",
+          "accepted": [
+            "Imam još jedno pitanje."
+          ]
+        },
+        {
+          "prompt": "Це занадто дорого.",
+          "accepted": [
+            "To je previše skupo."
+          ]
+        },
+        {
+          "prompt": "Ми знаємо цю пісню.",
+          "accepted": [
+            "Znamo ovu pjesmu."
+          ]
+        },
+        {
+          "prompt": "Яке слово ти шукаєш?",
+          "accepted": [
+            "Koju riječ tražiš?"
+          ]
+        },
+        {
+          "prompt": "Скільки літер у цьому слові?",
+          "accepted": [
+            "Koliko slova ima u ovoj riječi?"
+          ],
+          "check": "Koliko + родовий множини slova й місцевий riječi з мого знання."
+        },
+        {
+          "prompt": "Вона вирішила піти до лікаря.",
+          "accepted": [
+            "Odlučila je ići kod liječnika.",
+            "Odlučila je otići kod liječnika."
+          ]
+        },
+        {
+          "prompt": "Він проти нового стола.",
+          "accepted": [
+            "On je protiv novog stola."
+          ]
+        },
+        {
+          "prompt": "Я пропоную дивитися фільм увечері.",
+          "accepted": [
+            "Predlažem da gledamo film navečer."
+          ]
+        },
+        {
+          "prompt": "Мені потрібен приклад.",
+          "accepted": [
+            "Treba mi primjer."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "razlog",
+        "nedostatak",
+        "problem",
+        "rješenje",
+        "prednost",
+        "odluka",
+        "primjeru",
+        "stvari",
+        "načina",
+        "strane",
+        "riječ",
+        "slovo",
+        "točan",
+        "protiv",
+        "previše",
+        "uvjerena"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Nemam vremena. To je moj ___.",
+          "hint": "Не маю часу. Це моя причина.",
+          "accepted": [
+            [
+              "razlog"
+            ]
+          ]
+        },
+        {
+          "text": "Auto je jeftin, ali ima veliki ___.",
+          "hint": "Машина дешева, але має великий недолік.",
+          "accepted": [
+            [
+              "nedostatak"
+            ]
+          ]
+        },
+        {
+          "text": "Moja sestra ima veliki ___ na poslu.",
+          "hint": "Моя сестра має велику проблему на роботі.",
+          "accepted": [
+            [
+              "problem"
+            ]
+          ]
+        },
+        {
+          "text": "Imam dobro ___ za naš problem.",
+          "hint": "Маю добре розв'язання для нашої проблеми.",
+          "accepted": [
+            [
+              "rješenje"
+            ]
+          ]
+        },
+        {
+          "text": "Dobra ___ ovog stana je što je blizu.",
+          "hint": "Добра перевага цієї квартири в тому, що близько.",
+          "accepted": [
+            [
+              "prednost"
+            ]
+          ]
+        },
+        {
+          "text": "Kupiti auto je teška ___.",
+          "hint": "Купити машину це важке рішення.",
+          "accepted": [
+            [
+              "odluka"
+            ]
+          ]
+        },
+        {
+          "text": "Objasni mi to na jednom ___.",
+          "hint": "Поясни мені це на одному прикладі.",
+          "accepted": [
+            [
+              "primjeru"
+            ]
+          ]
+        },
+        {
+          "text": "Na stolu je puno ___.",
+          "hint": "На столі багато речей.",
+          "accepted": [
+            [
+              "stvari"
+            ]
+          ]
+        },
+        {
+          "text": "Imamo dva ___ da platimo: karticom ili gotovinom.",
+          "hint": "Маємо два способи заплатити: карткою чи готівкою.",
+          "accepted": [
+            [
+              "načina"
+            ]
+          ]
+        },
+        {
+          "text": "Banka je s druge ___ ulice.",
+          "hint": "Банк з іншого боку вулиці.",
+          "accepted": [
+            [
+              "strane"
+            ]
+          ]
+        },
+        {
+          "text": "Ne znam tu ___.",
+          "hint": "Не знаю цього слова.",
+          "accepted": [
+            [
+              "riječ"
+            ]
+          ]
+        },
+        {
+          "text": "Prvo ___ u riječi škola je š.",
+          "hint": "Перша літера в слові škola це š.",
+          "accepted": [
+            [
+              "slovo"
+            ]
+          ]
+        },
+        {
+          "text": "Ne, to nije ___ odgovor.",
+          "hint": "Ні, це не правильна відповідь.",
+          "accepted": [
+            [
+              "točan"
+            ]
+          ]
+        },
+        {
+          "text": "Muž je za novi stan, a ja sam ___.",
+          "hint": "Чоловік за нову квартиру, а я проти.",
+          "accepted": [
+            [
+              "protiv"
+            ]
+          ]
+        },
+        {
+          "text": "U trgovini je ___ ljudi.",
+          "hint": "У магазині надто багато людей.",
+          "accepted": [
+            [
+              "previše"
+            ]
+          ]
+        },
+        {
+          "text": "Moja kći je ___ da je test težak.",
+          "hint": "Моя дочка переконана, що тест важкий.",
+          "accepted": [
+            [
+              "uvjerena"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Cijena je velika problem.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Cijena je veliki problem.",
+            "Cijena je velik problem."
+          ]
+        },
+        {
+          "prompt": "Ne slažem se sa sestri.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ne slažem se sa sestrom."
+          ]
+        },
+        {
+          "prompt": "Mislim što je ovaj stan skup.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mislim da je ovaj stan skup."
+          ]
+        },
+        {
+          "prompt": "Riječ kuća ima pet riječi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Riječ kuća ima pet slova."
+          ]
+        },
+        {
+          "prompt": "U torbi imam puno riječi: knjigu, bilježnicu i olovku.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "U torbi imam puno stvari: knjigu, bilježnicu i olovku."
+          ]
+        },
+        {
+          "prompt": "S druge strane grad je velik.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "S druge strane je grad velik."
+          ]
+        },
+        {
+          "prompt": "Moja kći ne uči samo kod kuće, ali i u školi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja kći ne uči samo kod kuće, nego i u školi."
+          ]
+        },
+        {
+          "prompt": "Brat je protiv ovu cijenu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Brat je protiv ove cijene."
+          ]
+        },
+        {
+          "prompt": "Ne znam doći na sastanak jer sam bolestan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ne mogu doći na sastanak jer sam bolestan."
+          ]
+        },
+        {
+          "prompt": "Napokon sam rješavala problem.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Napokon sam riješila problem."
+          ]
+        },
+        {
+          "prompt": "Razlog je dobar.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Razlozi su dobri.",
+            "Razlozi su dobra."
+          ]
+        },
+        {
+          "prompt": "Predlažem veći stol.",
+          "cue": "-> ти",
+          "accepted": [
+            "Predlažeš veći stol."
+          ]
+        },
+        {
+          "prompt": "Odlučujem kupiti stan.",
+          "cue": "-> минулий час, доконане (ж.)",
+          "accepted": [
+            "Odlučila sam kupiti stan."
+          ]
+        },
+        {
+          "prompt": "Rješavamo zadatak.",
+          "cue": "-> Sutra ... (доконане)",
+          "accepted": [
+            "Sutra ćemo riješiti zadatak.",
+            "Sutra ćemo zadatak riješiti."
+          ]
+        },
+        {
+          "prompt": "Slažem se s bratom.",
+          "cue": "-> ми",
+          "accepted": [
+            "Slažemo se s bratom."
+          ]
+        },
+        {
+          "prompt": "Smatram da je test težak.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ne smatram da je test težak."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ti ___ da je to točno?",
+          "cue": "misliti",
+          "accepted": [
+            "misliš"
+          ]
+        },
+        {
+          "text": "Moj muž ___ da je stan skup.",
+          "cue": "smatrati",
+          "accepted": [
+            "smatra"
+          ]
+        },
+        {
+          "text": "Oni ___ gdje je kolodvor.",
+          "cue": "znati",
+          "accepted": [
+            "znaju"
+          ]
+        },
+        {
+          "text": "Ti se ne ___ sa mnom.",
+          "cue": "slagati se",
+          "accepted": [
+            "slažeš"
+          ]
+        },
+        {
+          "text": "Što ___ vi?",
+          "cue": "predlagati",
+          "accepted": [
+            "predlažete"
+          ]
+        },
+        {
+          "text": "Svaki dan ___ što ćemo kuhati.",
+          "cue": "odlučivati",
+          "accepted": [
+            "odlučujemo"
+          ]
+        },
+        {
+          "text": "Ona ___ zadatke u školi.",
+          "cue": "rješavati",
+          "accepted": [
+            "rješava"
+          ]
+        },
+        {
+          "text": "Sin ___ sestri sa zadaćom.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomaže"
+          ]
+        },
+        {
+          "text": "Mi ___ riječi svaki dan.",
+          "cue": "ponavljati",
+          "accepted": [
+            "ponavljamo"
+          ]
+        },
+        {
+          "text": "Ja ___ još vremena.",
+          "cue": "trebati",
+          "accepted": [
+            "trebam"
+          ]
+        },
+        {
+          "text": "Moji roditelji ___ psa.",
+          "cue": "voljeti",
+          "accepted": [
+            "vole"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ važan problem.",
+          "cue": "riješiti",
+          "accepted": [
+            "riješila"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 41 і два слова з банки помилок (хибні друзі з Lekcija 1 і 2).",
+      "items": [
+        {
+          "example": true,
+          "prompt": "думка",
+          "answer": "mišljenje"
+        },
+        {
+          "prompt": "причина",
+          "answer": "razlog"
+        },
+        {
+          "prompt": "розв'язок, рішення проблеми",
+          "answer": "rješenje"
+        },
+        {
+          "prompt": "перевага",
+          "answer": "prednost"
+        },
+        {
+          "prompt": "недолік",
+          "answer": "nedostatak"
+        },
+        {
+          "prompt": "приклад",
+          "answer": "primjer"
+        },
+        {
+          "prompt": "річ, справа",
+          "answer": "stvar"
+        },
+        {
+          "prompt": "слово (не «річ»)",
+          "answer": "riječ"
+        },
+        {
+          "prompt": "літера (не «слово»)",
+          "answer": "slovo"
+        },
+        {
+          "prompt": "спосіб",
+          "answer": "način"
+        },
+        {
+          "prompt": "вважати",
+          "answer": "smatrati"
+        },
+        {
+          "prompt": "погоджуватися",
+          "answer": "slagati se"
+        },
+        {
+          "prompt": "пропонувати",
+          "answer": "predlagati"
+        },
+        {
+          "prompt": "переконаний",
+          "answer": "uvjeren"
+        },
+        {
+          "prompt": "проти",
+          "answer": "protiv"
+        },
+        {
+          "prompt": "занадто",
+          "answer": "previše"
+        },
+        {
+          "prompt": "рік (не година)",
+          "answer": "godina"
+        },
+        {
+          "prompt": "стілець (не столиця)",
+          "answer": "stolica"
+        }
+      ],
+      "extra": [
+        "odluka",
+        "točan"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

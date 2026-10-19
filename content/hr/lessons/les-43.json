@@ -1,0 +1,1722 @@
+{
+  "id": "hr-les-43",
+  "lang": "hr",
+  "order": 43,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "zato",
+    "zatim",
+    "najprije",
+    "pišem",
+    "piše",
+    "sam",
+    "pet",
+    "šest",
+    "godina",
+    "godine",
+    "lipnju",
+    "govorim",
+    "dva",
+    "ali",
+    "nemam",
+    "nemamo",
+    "nema",
+    "kod",
+    "kuće",
+    "mi",
+    "me",
+    "mene",
+    "treba",
+    "diplome",
+    "diplomu",
+    "ću",
+    "pitati",
+    "ima",
+    "li",
+    "slobodnih",
+    "počinje",
+    "rujnu",
+    "radim",
+    "školi",
+    "već",
+    "četiri",
+    "dvije",
+    "radila",
+    "uredu",
+    "rujna",
+    "lipnja",
+    "listopada",
+    "prosinca",
+    "preselili",
+    "smo",
+    "se",
+    "prije",
+    "bio",
+    "svibnja",
+    "srpnja",
+    "ožujka",
+    "travnja",
+    "došao",
+    "dana",
+    "glazbu",
+    "fakultetu",
+    "završila",
+    "potvrdu",
+    "potvrda",
+    "tečaju",
+    "tečaja",
+    "besplatna",
+    "šaljem",
+    "skup",
+    "zanima",
+    "petka",
+    "moje",
+    "dobro",
+    "torbi",
+    "osam",
+    "sati",
+    "koji",
+    "ovaj",
+    "ova",
+    "važna",
+    "težak",
+    "moj",
+    "moja",
+    "moju",
+    "učionici",
+    "pitanje",
+    "koja",
+    "su",
+    "radno",
+    "vrijeme",
+    "sutra",
+    "molim",
+    "da",
+    "učim",
+    "prijateljica",
+    "muž",
+    "tvoj",
+    "tvoja",
+    "tvoju",
+    "dobar",
+    "mala",
+    "utorak",
+    "ujutro",
+    "devet",
+    "trideset",
+    "dvadeset",
+    "tri",
+    "svoju",
+    "brata",
+    "sestre",
+    "ovdje",
+    "danas",
+    "vam",
+    "javim",
+    "kad",
+    "kada",
+    "koliko",
+    "košta",
+    "mogu",
+    "želim",
+    "vrlo",
+    "tvoje",
+    "svibanj",
+    "svibanja",
+    "moramo",
+    "putem",
+    "e-pošte",
+    "petak",
+    "jučer",
+    "imamo"
+  ],
+  "notes": [
+    {
+      "id": "hr-04337503",
+      "type": "noun",
+      "lemma": "životopis",
+      "gender": "m.",
+      "gen_sg": "životopisa",
+      "plural": [
+        "životopisi"
+      ],
+      "ua": "резюме, CV (життєпис)",
+      "audio": "hr-zivotopis.mp3",
+      "forms": [
+        "životopisa",
+        "životopisu",
+        "životopise"
+      ],
+      "explain_ua": "(Šaljem životopis putem e-pošte = надсилаю резюме електронною поштою). УВАГА ДО ВСЬОГО УРОКУ: усі вимоги, терміни, суми й документи тут навчальні, вигадані для вправ. Що саме потрібно, щоб вступити на курс, отримати стипендію чи визнати диплом, визначають відповідні установи; цей урок нічого з цього не радить і не пояснює. Чоловічого роду: životopis, životopisa, životopisi. Слово складається з život (Lekcija 1) і кореня pis- (як pisati, Lekcija 2): підказка для пам'яті, не перевірена етимологія. Нагадування з банки помилок: život це життя, а не живіт. Не плутай з biografija: це біографія, історія життя, а не документ для заявки.",
+      "check": "Форми з мого знання. Що biografija означає історію життя, а не CV, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-d7909bdc",
+      "type": "noun",
+      "lemma": "natječaj",
+      "gender": "m.",
+      "gen_sg": "natječaja",
+      "plural": [
+        "natječaji"
+      ],
+      "ua": "конкурс (на стипендію, місце, посаду)",
+      "audio": "hr-natjecaj.mp3",
+      "forms": [
+        "natječaja",
+        "natječaju",
+        "natječaji",
+        "natječaje"
+      ],
+      "explain_ua": "(Škola ima natječaj za stipendiju = школа має конкурс на стипендію). Чоловічого роду: natječaj, natječaja, natječaji. Пиши č: natječaj. Natječaj це оголошення про конкурс: на стипендію, на місце на курсі чи на посаду (natječaj za radno mjesto). Відповідь на нього: prijaviti se na natječaj (prijaviti, Lekcija 36), див. картку 3. Українське й російське «конкурс» мають той самий зміст, але слово інше, його просто вчимо.",
+      "check": "Форми й значення з мого знання; прийменник za після natječaj (natječaj za stipendiju) звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-18eb222c",
+      "type": "noun",
+      "lemma": "prijava",
+      "gender": "ž.",
+      "gen_sg": "prijave",
+      "plural": [
+        "prijave"
+      ],
+      "ua": "заявка, реєстрація",
+      "audio": "hr-prijava.mp3",
+      "forms": [
+        "prijave",
+        "prijavu",
+        "prijavi"
+      ],
+      "explain_ua": "(Prijava je do petka = заявка до п'ятниці). Жіночий рід на -a: prijava, prijave, prijavu (знахідний). Родина слова prijaviti (Lekcija 36): prijaviti se це дія, prijava це сама заявка чи реєстрація. Після prijava вчимо прийменник za: prijava za tečaj (як zahtjev za, Lekcija 36), див. картку 3.",
+      "check": "Форми з мого знання за зразком škola. Чи prijava na tečaj теж вважається правильним, у словнику не звіряв; вчимо лише prijava za."
+    },
+    {
+      "id": "hr-cad473e7",
+      "type": "noun",
+      "lemma": "obrazovanje",
+      "gender": "s.",
+      "gen_sg": "obrazovanja",
+      "plural": [],
+      "ua": "освіта",
+      "audio": "hr-obrazovanje.mp3",
+      "forms": [
+        "obrazovanja",
+        "obrazovanju"
+      ],
+      "explain_ua": "(U životopisu piše moje obrazovanje = у життєписі написана моя освіта). Середній рід на -nje: obrazovanje, obrazovanja, obrazovanju (як stanje, Lekcija 34). Російське «образование» впізнається легко, українське «освіта» інше слово: його просто вчимо. Не плутай з obraz (щока, Lekcija 37): початок слів схожий, значення різне; це підказка для пам'яті, не етимологія. Множини в цьому значенні майже не вживаємо.",
+      "check": "Форми з мого знання за зразком stanje; відсутність множини в цьому значенні з мого знання."
+    },
+    {
+      "id": "hr-010f6e08",
+      "type": "noun",
+      "lemma": "vještina",
+      "gender": "ž.",
+      "gen_sg": "vještine",
+      "plural": [
+        "vještine"
+      ],
+      "ua": "навичка, вміння",
+      "audio": "hr-vjestina.mp3",
+      "forms": [
+        "vještine",
+        "vještinu",
+        "vještini"
+      ],
+      "explain_ua": "(Ova vještina je važna = ця навичка важлива). Жіночий рід на -a: vještina, vještine, vještinu (знахідний). Родовий множини vještina (pet vještina). У життєписі є розділ про вміння: vještine. Українське «навичка, вміння»: слово інше, просто вчимо.",
+      "check": "Форми за зразком škola з мого знання; родовий множини vještina не звіряв."
+    },
+    {
+      "id": "hr-f92d0b8b",
+      "type": "noun",
+      "lemma": "znanje",
+      "gender": "s.",
+      "gen_sg": "znanja",
+      "plural": [],
+      "ua": "знання",
+      "audio": "hr-znanje.mp3",
+      "forms": [
+        "znanja",
+        "znanju"
+      ],
+      "explain_ua": "(Moje znanje jezika je dobro = мої знання мови добрі). Середній рід на -nje: znanje, znanja, znanju (як stanje, Lekcija 34). Знання чого: родовий, як українською: znanje jezika = знання мови. Українське «знання» дуже схоже: слово те саме. Множина znanja вживається рідко; кажемо в однині.",
+      "check": "Форми з мого знання; що множина рідкісна, з мого знання."
+    },
+    {
+      "id": "hr-4fdb1bf2",
+      "type": "noun",
+      "lemma": "jezik",
+      "gender": "m.",
+      "gen_sg": "jezika",
+      "plural": [
+        "jezici"
+      ],
+      "ua": "мова; язик (орган)",
+      "audio": "hr-jezik.mp3",
+      "forms": [
+        "jezika",
+        "jeziku",
+        "jezici",
+        "jezike"
+      ],
+      "explain_ua": "(Ovo je lijep jezik = це гарна мова). Чоловічого роду: jezik, jezika, jezici (k > c перед -i, як udžbenik > udžbenici, Lekcija 31), знахідний множини jezike. Jezik це і мова, і язик у роті. Російське «язык» має ті самі два значення; українське «язик» це лише орган, а мова це «мова». Тож для мови з українського «мова» перекладай jezik.",
+      "check": "Форми з мого знання; що українське «язик» означає лише орган, а російське «язык» обидва значення, з мого знання."
+    },
+    {
+      "id": "hr-fb3a48f1",
+      "type": "noun",
+      "lemma": "mjesto",
+      "gender": "s.",
+      "gen_sg": "mjesta",
+      "plural": [
+        "mjesta"
+      ],
+      "ua": "місце",
+      "audio": "hr-mjesto.mp3",
+      "forms": [
+        "mjesta",
+        "mjestu"
+      ],
+      "explain_ua": "(Na tečaju ima slobodnih mjesta = на курсі є вільні місця). Середній рід: mjesto, mjesta, mjestu; множина mjesta, родовий множини теж mjesta (nema slobodnih mjesta). Пиши mjesto, не «mesto» (так пишуть в іншому стандарті). Slobodno mjesto = вільне місце; radno mjesto = робоче місце, посада (radni, нижче). Прикметник slobodan з Lekcija 26.",
+      "check": "Форми з мого знання; що mesto це не хорватська літературна форма, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-108c0283",
+      "type": "noun",
+      "lemma": "studij",
+      "gender": "m.",
+      "gen_sg": "studija",
+      "plural": [
+        "studiji"
+      ],
+      "ua": "навчання у виші, студії",
+      "audio": "hr-studij.mp3",
+      "forms": [
+        "studija",
+        "studiju",
+        "studiji"
+      ],
+      "explain_ua": "(Moj studij je težak = моє навчання у виші складне). Чоловічого роду: studij, studija, studiji. Studij це програма й роки навчання у виші; навчатися це studirati (нижче). Не «студія» в значенні кімнати чи майстерні: це підказка для пам'яті, не з перевіреної таблиці. Приклад з прийменником: potvrda o studiju (картка 3).",
+      "check": "Форми з мого знання за зразком grad."
+    },
+    {
+      "id": "hr-bf7ee12a",
+      "type": "noun",
+      "lemma": "certifikat",
+      "gender": "m.",
+      "gen_sg": "certifikata",
+      "plural": [
+        "certifikati"
+      ],
+      "ua": "сертифікат",
+      "audio": "hr-certifikat.mp3",
+      "forms": [
+        "certifikata",
+        "certifikatu",
+        "certifikati"
+      ],
+      "explain_ua": "(Imam certifikat o tečaju = маю сертифікат про курс). Чоловічого роду: certifikat, certifikata, certifikati. Українське «сертифікат» те саме слово. Certifikat дають за курс чи іспит; svjedodžba (нижче) це шкільне свідоцтво; diploma (Lekcija 31) це диплом; potvrda (Lekcija 36) це довідка. Таке розрізнення за звичним вживанням, не за законом.",
+      "check": "Форми з мого знання; розрізнення certifikat / svjedodžba / potvrda подаю як звичне вживання, у словнику не звіряв."
+    },
+    {
+      "id": "hr-73387c80",
+      "type": "noun",
+      "lemma": "svjedodžba",
+      "gender": "ž.",
+      "gen_sg": "svjedodžbe",
+      "plural": [
+        "svjedodžbe"
+      ],
+      "ua": "шкільне свідоцтво",
+      "audio": "hr-svjedodzba.mp3",
+      "forms": [
+        "svjedodžbe",
+        "svjedodžbu",
+        "svjedodžbi"
+      ],
+      "explain_ua": "(Svjedodžba je u torbi = свідоцтво в сумці). Жіночий рід на -a: svjedodžba, svjedodžbe, svjedodžbu. Шкільне свідоцтво про закінчення класу чи школи. Пиши ije > je і dž: svjedodžba, не «svedodžba» (так в іншому стандарті). Українське «свідоцтво» схоже: підказка для пам'яті, не етимологія.",
+      "check": "Форми й значення з мого знання; що svedodžba це не хорватська літературна форма, звірити з hjp.znanje.hr. Родовий множини не вчимо й не звіряв."
+    },
+    {
+      "id": "hr-eee835d2",
+      "type": "noun",
+      "lemma": "polaznik",
+      "gender": "m.",
+      "gen_sg": "polaznika",
+      "plural": [
+        "polaznici"
+      ],
+      "ua": "слухач курсу, учасник",
+      "audio": "hr-polaznik.mp3",
+      "forms": [
+        "polaznika",
+        "polaznik",
+        "polaznici",
+        "polaznike"
+      ],
+      "explain_ua": "(Polaznici su u učionici = слухачі в аудиторії). Чоловічого роду: polaznik, polaznika, polaznici (k > c, як udžbenici, Lekcija 31). Жіноча форма polaznica, polaznice. Polaznik це той, хто відвідує курс (polaznik tečaja). Учень у школі це učenik (Lekcija 8). Родовий множини polaznika (dvadeset polaznika).",
+      "check": "Форми з мого знання; жіночу форму polaznica у словнику не звіряв."
+    },
+    {
+      "id": "hr-4f6b41aa",
+      "type": "noun",
+      "lemma": "predavanje",
+      "gender": "s.",
+      "gen_sg": "predavanja",
+      "plural": [
+        "predavanja"
+      ],
+      "ua": "лекція",
+      "audio": "hr-predavanje.mp3",
+      "forms": [
+        "predavanja",
+        "predavanju"
+      ],
+      "explain_ua": "(Predavanje počinje u osam sati = лекція починається о восьмій). Середній рід на -nje: predavanje, predavanja, predavanju (як stanje, Lekcija 34). Predavanje це лекція у вищій школі чи на курсі. Де лекція: na predavanju (місцевий). Слово просто вчимо.",
+      "check": "Форми з мого знання за зразком stanje."
+    },
+    {
+      "id": "hr-a188a218",
+      "type": "noun",
+      "lemma": "priznavanje",
+      "gender": "s.",
+      "gen_sg": "priznavanja",
+      "plural": [],
+      "ua": "визнання (документа)",
+      "audio": "hr-priznavanje.mp3",
+      "forms": [
+        "priznavanja",
+        "priznavanju"
+      ],
+      "explain_ua": "(Imam pitanje o priznavanju diplome = маю запитання про визнання диплома). Середній рід на -nje: priznavanje, priznavanja, priznavanju. Іменник від дієслова priznavati (нижче). У цьому уроці це лише слово для читання й письма: як відбувається визнання диплома, ми не пояснюємо, це питання відповідної установи.",
+      "check": "Форми з мого знання; множини немає в уроці."
+    },
+    {
+      "id": "hr-f720837b",
+      "type": "noun",
+      "lemma": "prijevod",
+      "gender": "m.",
+      "gen_sg": "prijevoda",
+      "plural": [
+        "prijevodi"
+      ],
+      "ua": "переклад (письмовий)",
+      "audio": "hr-prijevod.mp3",
+      "forms": [
+        "prijevoda",
+        "prijevodu",
+        "prijevodi"
+      ],
+      "explain_ua": "(Treba mi prijevod svjedodžbe = мені потрібен переклад свідоцтва). Чоловічого роду: prijevod, prijevoda, prijevodi. Це письмовий переклад тексту чи документа. Родовий показує, чого переклад: prijevod diplome, як українською «переклад диплома». Усі вимоги в прикладах вигадані для вправ.",
+      "check": "Форми з мого знання за зразком grad."
+    },
+    {
+      "id": "hr-ee58f239",
+      "type": "noun",
+      "lemma": "smjer",
+      "gender": "m.",
+      "gen_sg": "smjera",
+      "plural": [
+        "smjerovi"
+      ],
+      "ua": "спеціальність, напрям",
+      "audio": "hr-smjer.mp3",
+      "forms": [
+        "smjera",
+        "smjeru",
+        "smjerovi"
+      ],
+      "explain_ua": "(Koji smjer studiraš? = яку спеціальність ти студіюєш?). Чоловічого роду: smjer, smjera, smjerovi (-ov-, як grad > gradovi, Lekcija 15). Smjer це спеціальність на факультеті, а ще напрям руху: два значення, видно з контексту. Після tri родовий однини: tri smjera (як dva kruha, Lekcija 7). Пиши ije > je: smjer.",
+      "check": "Форми з мого знання; що множина smjerovi (-ov-), а не smjeri, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-229d3c0f",
+      "type": "noun",
+      "lemma": "stipendija",
+      "gender": "ž.",
+      "gen_sg": "stipendije",
+      "plural": [
+        "stipendije"
+      ],
+      "ua": "стипендія",
+      "audio": "hr-stipendija.mp3",
+      "forms": [
+        "stipendije",
+        "stipendiju",
+        "stipendiji"
+      ],
+      "explain_ua": "(Sin ima stipendiju = син має стипендію). Жіночий рід на -a: stipendija, stipendije, stipendiju (як tradicija, tradicije, Lekcija 39). Українське «стипендія» те саме слово. Конкурс на неї: natječaj za stipendiju (картка 3).",
+      "check": "Форми за зразком tradicija з мого знання."
+    },
+    {
+      "id": "hr-26aee1d0",
+      "type": "noun",
+      "lemma": "razina",
+      "gender": "ž.",
+      "gen_sg": "razine",
+      "plural": [
+        "razine"
+      ],
+      "ua": "рівень",
+      "audio": "hr-razina.mp3",
+      "forms": [
+        "razine",
+        "razinu",
+        "razini"
+      ],
+      "explain_ua": "(Koja je razina tečaja? = який рівень курсу?). Жіночий рід на -a: razina, razine, razinu. Українське «рівень» інше слово, просто вчимо. Родовий показує, чого рівень: razina tečaja, razina znanja. Після dvije родовий однини: dvije razine.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-fe84acc7",
+      "type": "verb",
+      "lemma": "studirati",
+      "aspect": "impf.",
+      "pres_1sg": "studiram",
+      "forms": [
+        "studiram",
+        "studiraš",
+        "studira",
+        "studiramo",
+        "studirate",
+        "studiraju",
+        "studirala",
+        "studirali",
+        "studirao"
+      ],
+      "ua": "навчатися у виші (бути студентом)",
+      "audio": "hr-studirati.mp3",
+      "explain_ua": "(Sestra studira jezike = сестра навчається на мовах). Дієвідміна -am: studiram, studiraš, studira. Studirati + знахідний: studirati jezike, studirati glazbu. Про школу кажемо učiti (Lekcija 1), не studirati. Пари доконаного вигляду для «бути студентом» немає; результат це diplomirati (нижче) або završiti fakultet.",
+      "check": "Форми з мого знання; що пари доконаного немає, з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-2e0a6967",
+      "type": "verb",
+      "lemma": "diplomirati",
+      "aspect": "pf.",
+      "pres_1sg": "diplomiram",
+      "forms": [
+        "diplomiram",
+        "diplomiraš",
+        "diplomira",
+        "diplomiramo",
+        "diplomirate",
+        "diplomiraju",
+        "diplomirala",
+        "diplomirali",
+        "diplomirao"
+      ],
+      "ua": "закінчити виш, здобути диплом",
+      "audio": "hr-diplomirati.mp3",
+      "explain_ua": "(Diplomirala sam prije tri godine = я закінчила виш три роки тому). Дієвідміна -am: diplomiram, diplomiraš, diplomira. Diplomirati береться з na + місцевий: diplomirati na fakultetu. Закінчити виш можна й сказати završiti fakultet (završavati, Lekcija 21). Дієслово означає один результат; для процесу кажемо studirati. Родина слова diploma (Lekcija 31).",
+      "check": "Форми з мого знання. Чи diplomirati вживається й як недоконане (biaspectual), у словнику не звіряв; керування na + L з мого знання."
+    },
+    {
+      "id": "hr-a4af414b",
+      "type": "verb",
+      "lemma": "upisati",
+      "aspect": "pf.",
+      "partner": "upisivati",
+      "pres_1sg": "upišem",
+      "forms": [
+        "upišem",
+        "upišeš",
+        "upiše",
+        "upišemo",
+        "upišete",
+        "upišu",
+        "upisala",
+        "upisali",
+        "upisao",
+        "upisivati",
+        "upisujem",
+        "upisuješ",
+        "upisuje",
+        "upisujemo",
+        "upisujete",
+        "upisuju",
+        "upisivala"
+      ],
+      "ua": "записати(ся), вступити (недок. upisivati)",
+      "audio": "hr-upisati.mp3",
+      "explain_ua": "(Sutra ću upisati tečaj = завтра запишусь на курс). Пара: upisati (док.) / upisivati (недок.): upišem > upisujem, s > š у доконаного. Два значення: upisati se na + знахідний = записатися на курс чи вступити на факультет (na tečaj, не «u tečaj»); upisati + знахідний = записати когось чи вписати (upisati ime). Se на другому місці: Sestra se upisuje na tečaj. Недок. upisuje для звички чи процесу.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Upisati bez se (upisati tečaj, upisati sina) подаю з мого знання."
+    },
+    {
+      "id": "hr-61b60ec1",
+      "type": "verb",
+      "lemma": "pokazati",
+      "aspect": "pf.",
+      "partner": "pokazivati",
+      "pres_1sg": "pokažem",
+      "forms": [
+        "pokažem",
+        "pokažeš",
+        "pokaže",
+        "pokažemo",
+        "pokažete",
+        "pokažu",
+        "pokazala",
+        "pokazali",
+        "pokazao",
+        "pokaži",
+        "pokažite",
+        "pokazivati",
+        "pokazujem",
+        "pokazuješ",
+        "pokazuje",
+        "pokazujemo",
+        "pokazujete",
+        "pokazuju",
+        "pokazivala"
+      ],
+      "ua": "показати (недок. pokazivati)",
+      "audio": "hr-pokazati.mp3",
+      "explain_ua": "(Pokažite potvrdu, molim = покажіть довідку, будь ласка). Пара: pokazati (док.) / pokazivati (недок.): pokažem > pokazujem, z > ž у доконаного. Наказ: pokaži, pokažite (Lekcija 23). Кому: давальний, що: знахідний: pokaži mi diplomu. Українське «показати» те саме слово.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-a7f8c7ab",
+      "type": "verb",
+      "lemma": "zanimati",
+      "aspect": "impf.",
+      "pres_1sg": "zanimam",
+      "forms": [
+        "zanima",
+        "zanimaju",
+        "zanimao",
+        "zanimala",
+        "zanimalo"
+      ],
+      "ua": "цікавити (zanima me)",
+      "audio": "hr-zanimati.mp3",
+      "explain_ua": "(Zanima me ovaj tečaj = мене цікавить цей курс). Недоконане, дієвідміна -am, але майже завжди в 3 особі: zanima me, zanimaju me. Me це знахідний клітик (як у boli me noga, Lekcija 37), а дієслово погоджується з тим, що цікавить: zanima me tečaj, zanimaju me jezici. Українське «мене цікавить» будується так само: тримайся української. Не кажи «ja me zanima». Родина слова zanimanje (професія, Lekcija 26). Пари доконаного в живому вжитку, з мого знання, немає.",
+      "check": "Форми з мого знання; що пари доконаного немає й що 1 особа zanimam не вживається, у словнику не звіряв."
+    },
+    {
+      "id": "hr-908d7b7e",
+      "type": "verb",
+      "lemma": "pohađati",
+      "aspect": "impf.",
+      "pres_1sg": "pohađam",
+      "forms": [
+        "pohađam",
+        "pohađaš",
+        "pohađa",
+        "pohađamo",
+        "pohađate",
+        "pohađaju",
+        "pohađala",
+        "pohađali",
+        "pohađao"
+      ],
+      "ua": "відвідувати (курс, школу)",
+      "audio": "hr-pohadati.mp3",
+      "explain_ua": "(Sin pohađa tečaj = син відвідує курс). Дієвідміна -am: pohađam, pohađaš, pohađa. Pohađati + знахідний: tečaj, školu, fakultet. Для курсу й школи кажемо pohađati, а posjećivati (Lekcija 12) це радше відвідувати місця й людей. Пиши đ: pohađati. Пари доконаного вигляду в живому вжитку, з мого знання, немає.",
+      "check": "Форми з мого знання; розмежування pohađati / posjećivati і відсутність пари у словнику не звіряв."
+    },
+    {
+      "id": "hr-962c0818",
+      "type": "verb",
+      "lemma": "priznati",
+      "aspect": "pf.",
+      "partner": "priznavati",
+      "pres_1sg": "priznam",
+      "forms": [
+        "priznam",
+        "priznaš",
+        "prizna",
+        "priznamo",
+        "priznate",
+        "priznaju",
+        "priznala",
+        "priznali",
+        "priznao",
+        "priznavati",
+        "priznajem",
+        "priznaješ",
+        "priznaje",
+        "priznajemo",
+        "priznajete",
+        "priznavala"
+      ],
+      "ua": "визнати (недок. priznavati)",
+      "audio": "hr-priznati.mp3",
+      "explain_ua": "(Želim da priznaju moju diplomu = хочу, щоб визнали мій диплом). Пара: priznati (док.) / priznavati (недок.): priznam > priznajem. Два значення: визнати (диплом, помилку) і зізнатися; українське «визнати» теж має обидва. Da + теперішній (Lekcija 21): želim da priznaju. Хто і за яких умов визнає диплом, цей урок не пояснює.",
+      "check": "Пару та форми priznam / priznajem з мого знання, звірити з hjp.znanje.hr. Форма priznaju однакова для обох видів (3 особа множини)."
+    },
+    {
+      "id": "hr-cd85ce70",
+      "type": "adjective",
+      "lemma": "radni",
+      "fem": "radna",
+      "neut": "radno",
+      "ua": "робочий",
+      "audio": "hr-radni.mp3",
+      "forms": [
+        "radna",
+        "radno",
+        "radne",
+        "radni"
+      ],
+      "explain_ua": "(Radno vrijeme je od osam do četiri = робочий час з восьмої до четвертої). Прикметник тільки в означеній формі: radni dan, radno vrijeme, radno mjesto. Від raditi (Lekcija 5). Українське «робочий» те саме за змістом. Radno mjesto = робоче місце, посада (mjesto, вище).",
+      "check": "Форми з мого знання; що прикметник вживається лише означено, з мого знання, звірити з hjp.znanje.hr."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Час у життєпису: već, od ... do, prije",
+      "summary_ua": "Триває досі: теперішній час + već (radim već četiri godine), так само як українською «працюю вже чотири роки». Закінчено: перфект + od ... do (radila sam od rujna do lipnja). «Тому»: prije + родовий (prije dvije godine). Місяць після od і do стоїть у родовому, нестійке a випадає: svibanj > svibnja, ožujak > ožujka (Lekcija 3, 36, 39). Числа: dvije, tri, četiri + godine, а від pet: godina (Lekcija 15).",
+      "compare": [
+        {
+          "form": "теперішній час + već: триває досі",
+          "when_ua": "Працюю або навчаюся й зараз.",
+          "examples": [
+            {
+              "text": "Radim u školi već četiri godine.",
+              "ua": "Працюю в школі вже чотири роки.",
+              "audio": "hr-les43-rule-01.mp3"
+            },
+            {
+              "text": "Sestra već dvije godine studira.",
+              "ua": "Сестра вже два роки навчається у виші.",
+              "audio": "hr-les43-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Українська «працюю вже чотири роки» і російська «работаю уже четыре года» будують це так само: теперішній час. Не став тут перфект: radila sam četiri godine означає, що ти вже не працюєш."
+        },
+        {
+          "form": "перфект + od ... do: закінчено",
+          "when_ua": "Це вже минуло, є початок і кінець.",
+          "examples": [
+            {
+              "text": "Radila sam u uredu od rujna do lipnja.",
+              "ua": "Я працювала в офісі від вересня до червня.",
+              "audio": "hr-les43-rule-03.mp3"
+            },
+            {
+              "text": "Brat je studirao od listopada do prosinca.",
+              "ua": "Брат навчався від жовтня до грудня.",
+              "audio": "hr-les43-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Місяці після od і do в родовому: rujan > rujna, lipanj > lipnja. Не «od rujan». Ці місяці й роки вигадані для вправи."
+        },
+        {
+          "form": "prije + родовий: тому",
+          "when_ua": "Скільки часу тому щось сталося.",
+          "examples": [
+            {
+              "text": "Preselili smo se prije dvije godine.",
+              "ua": "Ми переїхали два роки тому.",
+              "audio": "hr-les43-rule-05.mp3"
+            },
+            {
+              "text": "Sin je došao prije četiri dana.",
+              "ua": "Син прийшов чотири дні тому.",
+              "audio": "hr-les43-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Prije (Lekcija 21) тут стоїть перед часом, а не після, як українське «тому». Після prije родовий: prije dvije godine, prije četiri dana. Se стоїть на другому місці: preselili smo se."
+        },
+        {
+          "form": "місяць у родовому після od / do",
+          "when_ua": "Початок і кінець періоду.",
+          "examples": [
+            {
+              "text": "Tečaj je bio od svibnja do srpnja.",
+              "ua": "Курс був від травня до липня.",
+              "audio": "hr-les43-rule-07.mp3"
+            },
+            {
+              "text": "Prijava je od ožujka do travnja.",
+              "ua": "Заявки від березня до квітня.",
+              "audio": "hr-les43-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Нестійке a випадає: svibanj > svibnja, ožujak > ožujka. Пиши svibnja, не «svibanja». Місяць зсунутий, як у Lekcija 3: svibanj це травень, travanj це квітень."
+        }
+      ],
+      "points_ua": [
+        "Триває досі: радим + već (radim već četiri godine).",
+        "Закінчено: перфект + od ... do (radila sam od rujna do lipnja).",
+        "Місяць у родовому: od svibnja, do ožujka."
+      ]
+    },
+    {
+      "title_ua": "Навчання й курс: studirati, upisati se, pohađati, završiti",
+      "summary_ua": "Studirati + знахідний (studiram dva jezika). Upisati se na + знахідний, куди записуєшся: upisala sam se na tečaj, не «u tečaj». Pohađati + знахідний (tečaj, školu). Закінчити виш: diplomirati на + місцевий (diplomirao je na fakultetu) або završiti + знахідний (završila sam fakultet). Українське й російське «записатися на курс» тут підказують na + знахідний; українське «вступити до» не веде, там u не працює.",
+      "compare": [
+        {
+          "form": "studirati + знахідний",
+          "when_ua": "Навчаюся у виші.",
+          "examples": [
+            {
+              "text": "Studiram dva jezika.",
+              "ua": "Навчаюся на двох мовах.",
+              "audio": "hr-les43-rule-09.mp3"
+            },
+            {
+              "text": "Kći studira jezik i glazbu.",
+              "ua": "Донька навчається на мові та музиці.",
+              "audio": "hr-les43-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Studirati це бути студентом. Про школу кажемо učiti (Lekcija 1) чи ići u školu."
+        },
+        {
+          "form": "upisati se na + знахідний",
+          "when_ua": "Записуюся на курс або вступаю на факультет.",
+          "examples": [
+            {
+              "text": "Upisala sam se na tečaj.",
+              "ua": "Я записалася на курс.",
+              "audio": "hr-les43-rule-11.mp3"
+            },
+            {
+              "text": "Brat se upisao na fakultet.",
+              "ua": "Брат вступив на факультет.",
+              "audio": "hr-les43-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Na + знахідний на питання «куди»: na tečaj, na fakultet (Lekcija 5). Se на другому місці після sam / je. Без se: upisati sina na tečaj, тобто записати когось."
+        },
+        {
+          "form": "pohađati + знахідний",
+          "when_ua": "Відвідую курс чи школу регулярно.",
+          "examples": [
+            {
+              "text": "Pohađamo tečaj jezika.",
+              "ua": "Ми відвідуємо курс мови.",
+              "audio": "hr-les43-rule-13.mp3"
+            },
+            {
+              "text": "Pohađala sam tečaj dvije godine.",
+              "ua": "Я відвідувала курс два роки.",
+              "audio": "hr-les43-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Тут недоконане дієслово: курс тривав, це процес. Тривалість без прийменника: dvije godine."
+        },
+        {
+          "form": "diplomirati na + місцевий; završiti + знахідний",
+          "when_ua": "Закінчив виш.",
+          "examples": [
+            {
+              "text": "Brat je diplomirao na fakultetu.",
+              "ua": "Брат закінчив факультет.",
+              "audio": "hr-les43-rule-15.mp3"
+            },
+            {
+              "text": "Završila sam fakultet.",
+              "ua": "Я закінчила факультет.",
+              "audio": "hr-les43-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Українське «закінчити» це završiti (Lekcija 21). Diplomirati береться з na + місцевий (де: na fakultetu), završiti із знахідним (що: fakultet)."
+        }
+      ],
+      "points_ua": [
+        "Upisati se na tečaj, не «u tečaj».",
+        "Pohađati tečaj; diplomirati na fakultetu; završiti fakultet.",
+        "Studirati це у виші, учитися в школі це učiti."
+      ]
+    },
+    {
+      "title_ua": "Документи: o + місцевий, za + знахідний, na + знахідний, родовий",
+      "summary_ua": "Про що документ: o + місцевий (potvrda o studiju, certifikat o tečaju), як українське «довідка про навчання». Для чого заявка: prijava za tečaj (za + знахідний, як zahtjev za, Lekcija 36). Куди подаєшся: prijaviti se na natječaj, на tečaj (na + знахідний), як українське «податися на конкурс». Чий документ чи переклад: родовий (prijevod diplome), як українське «переклад диплома».",
+      "compare": [
+        {
+          "form": "o + місцевий: про що",
+          "when_ua": "Довідка чи сертифікат про щось.",
+          "examples": [
+            {
+              "text": "Imam potvrdu o studiju.",
+              "ua": "Маю довідку про навчання.",
+              "audio": "hr-les43-rule-17.mp3"
+            },
+            {
+              "text": "Treba mi potvrda o tečaju.",
+              "ua": "Мені потрібна довідка про курс.",
+              "audio": "hr-les43-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Українське «про» і хорватське o збігаються (Lekcija 36: potvrda o). Місцевий: studij > o studiju, tečaj > o tečaju."
+        },
+        {
+          "form": "za + знахідний: для чого",
+          "when_ua": "Заявка на курс чи стипендію.",
+          "examples": [
+            {
+              "text": "Prijava za tečaj je besplatna.",
+              "ua": "Заявка на курс безкоштовна.",
+              "audio": "hr-les43-rule-19.mp3"
+            },
+            {
+              "text": "Šaljem prijavu za stipendiju.",
+              "ua": "Надсилаю заявку на стипендію.",
+              "audio": "hr-les43-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Тут українське «заявка НА курс» не веде: після prijava вчимо za, як після zahtjev. Форму prijava na теж можна почути, але вчимо одну: za."
+        },
+        {
+          "form": "prijaviti se na + знахідний",
+          "when_ua": "Подаюся на конкурс чи записуюся на курс.",
+          "examples": [
+            {
+              "text": "Prijavila sam se na natječaj.",
+              "ua": "Я подалася на конкурс.",
+              "audio": "hr-les43-rule-21.mp3"
+            },
+            {
+              "text": "Prijavili smo se na tečaj.",
+              "ua": "Ми записалися на курс.",
+              "audio": "hr-les43-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Українське «податися на конкурс» і «записатися на курс» дають na + знахідний, тож тут тримайся української. Se на другому місці: prijavila sam se."
+        },
+        {
+          "form": "родовий: чий документ, чого рівень",
+          "when_ua": "Переклад чого, рівень чого.",
+          "examples": [
+            {
+              "text": "Prijevod diplome je skup.",
+              "ua": "Переклад диплома дорогий.",
+              "audio": "hr-les43-rule-23.mp3"
+            },
+            {
+              "text": "Koja je razina znanja?",
+              "ua": "Який рівень знань?",
+              "audio": "hr-les43-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Українське «переклад диплома», «рівень знань» будується так само: родовий. Ціни в прикладах вигадані."
+        }
+      ],
+      "points_ua": [
+        "Potvrda o studiju, certifikat o tečaju: o + місцевий.",
+        "Prijava za tečaj, але prijaviti se na natječaj.",
+        "Prijevod diplome, razina znanja: родовий."
+      ]
+    },
+    {
+      "title_ua": "Питання про курс: zanima me, ima li, koliko, mogu li se",
+      "summary_ua": "Що мене цікавить: zanima me + називний (zanima me stipendija, zanimaju me jezici); me це знахідний клітик, дієслово погоджується з тим, що цікавить. Є чи немає: ima li + родовий (ima li mjesta). Скільки й до якого часу: koliko košta, do kada je. Чи можна записатися: mogu li se upisati, де li стоїть перед se (Lekcija 35). Нічого з цього не гарантує, що місця справді є: це вправа для мови.",
+      "compare": [
+        {
+          "form": "zanima me + називний",
+          "when_ua": "Мене щось цікавить.",
+          "examples": [
+            {
+              "text": "Zanima me stipendija.",
+              "ua": "Мене цікавить стипендія.",
+              "audio": "hr-les43-rule-25.mp3"
+            },
+            {
+              "text": "Zanimaju me jezici.",
+              "ua": "Мене цікавлять мови.",
+              "audio": "hr-les43-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Українське «цікавить мене» має знахідний, як і хорватське me. Дієслово слухається того, що цікавить: zanima (одне), zanimaju (кілька). Не «ja me zanima» (Lekcija 37: boli me)."
+        },
+        {
+          "form": "ima li + родовий",
+          "when_ua": "Питаю, чи є щось.",
+          "examples": [
+            {
+              "text": "Ima li mjesta za mene?",
+              "ua": "Чи є місце для мене?",
+              "audio": "hr-les43-rule-27.mp3"
+            },
+            {
+              "text": "Ima li predavanja u petak?",
+              "ua": "Чи є лекції в п'ятницю?",
+              "audio": "hr-les43-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Li стоїть на другому місці (Lekcija 2). Після ima li і nema (Lekcija 4) родовий: mjesta, predavanja."
+        },
+        {
+          "form": "koliko, do kada",
+          "when_ua": "Скільки коштує і до якого терміну.",
+          "examples": [
+            {
+              "text": "Koliko košta tečaj?",
+              "ua": "Скільки коштує курс?",
+              "audio": "hr-les43-rule-29.mp3"
+            },
+            {
+              "text": "Do kada je prijava?",
+              "ua": "До коли заявка?",
+              "audio": "hr-les43-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Koliko košta (Lekcija 7). Do kada = до коли: do (Lekcija 9) і kada (Lekcija 3). Відповідь: do petka (родовий)."
+        },
+        {
+          "form": "mogu li se upisati? želim se upisati",
+          "when_ua": "Ввічливо питаю, чи можна записатися.",
+          "examples": [
+            {
+              "text": "Mogu li se upisati na tečaj?",
+              "ua": "Чи можу я записатися на курс?",
+              "audio": "hr-les43-rule-31.mp3"
+            },
+            {
+              "text": "Želim se upisati na tečaj.",
+              "ua": "Хочу записатися на курс.",
+              "audio": "hr-les43-rule-32.mp3"
+            }
+          ],
+          "note_ua": "Порядок клітиків: li перед se (Lekcija 35). У реченні без li клітик se стоїть на другому місці після дієслова: želim se upisati."
+        }
+      ],
+      "points_ua": [
+        "Zanima me stipendija, zanimaju me jezici: me це знахідний.",
+        "Ima li mjesta? Після ima li родовий.",
+        "Mogu li se upisati? Li перед se."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Šaljem životopis putem e-pošte.",
+      "ua": "Надсилаю резюме електронною поштою.",
+      "audio": "hr-les43-example-01.mp3"
+    },
+    {
+      "text": "Škola ima natječaj za stipendiju.",
+      "ua": "Школа має конкурс на стипендію.",
+      "audio": "hr-les43-example-02.mp3"
+    },
+    {
+      "text": "Prijava je do petka.",
+      "ua": "Заявка до п'ятниці.",
+      "audio": "hr-les43-example-03.mp3"
+    },
+    {
+      "text": "U životopisu piše moje obrazovanje.",
+      "ua": "У життєписі написана моя освіта.",
+      "audio": "hr-les43-example-04.mp3"
+    },
+    {
+      "text": "Moje znanje jezika je dobro.",
+      "ua": "Мої знання мови добрі.",
+      "audio": "hr-les43-example-05.mp3"
+    },
+    {
+      "text": "Na tečaju ima slobodnih mjesta.",
+      "ua": "На курсі є вільні місця.",
+      "audio": "hr-les43-example-06.mp3"
+    },
+    {
+      "text": "Imam certifikat o tečaju.",
+      "ua": "Маю сертифікат про курс.",
+      "audio": "hr-les43-example-07.mp3"
+    },
+    {
+      "text": "Predavanje počinje u osam sati.",
+      "ua": "Лекція починається о восьмій.",
+      "audio": "hr-les43-example-08.mp3"
+    },
+    {
+      "text": "Treba mi prijevod svjedodžbe.",
+      "ua": "Мені потрібен переклад свідоцтва.",
+      "audio": "hr-les43-example-09.mp3"
+    },
+    {
+      "text": "Koji smjer studiraš?",
+      "ua": "Яку спеціальність ти студіюєш?",
+      "audio": "hr-les43-example-10.mp3"
+    },
+    {
+      "text": "Sestra studira jezike.",
+      "ua": "Сестра навчається на мовах.",
+      "audio": "hr-les43-example-11.mp3"
+    },
+    {
+      "text": "Diplomirala sam prije tri godine.",
+      "ua": "Я закінчила виш три роки тому.",
+      "audio": "hr-les43-example-12.mp3"
+    },
+    {
+      "text": "Sutra ću upisati tečaj.",
+      "ua": "Завтра запишусь на курс.",
+      "audio": "hr-les43-example-13.mp3"
+    },
+    {
+      "text": "Pokažite potvrdu, molim.",
+      "ua": "Покажіть довідку, будь ласка.",
+      "audio": "hr-les43-example-14.mp3"
+    },
+    {
+      "text": "Zanima me ovaj tečaj.",
+      "ua": "Мене цікавить цей курс.",
+      "audio": "hr-les43-example-15.mp3"
+    },
+    {
+      "text": "Sin pohađa tečaj.",
+      "ua": "Син відвідує курс.",
+      "audio": "hr-les43-example-16.mp3"
+    },
+    {
+      "text": "Želim da priznaju moju diplomu.",
+      "ua": "Хочу, щоб визнали мій диплом.",
+      "audio": "hr-les43-example-17.mp3"
+    },
+    {
+      "text": "Radno vrijeme je od osam do četiri.",
+      "ua": "Робочий час з восьмої до четвертої.",
+      "audio": "hr-les43-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Upis na tečaj",
+    "title_ua": "Запис на курс",
+    "highlight": [
+      "hr-04337503",
+      "hr-18eb222c",
+      "hr-cad473e7",
+      "hr-010f6e08",
+      "hr-4fdb1bf2",
+      "hr-fb3a48f1",
+      "hr-bf7ee12a",
+      "hr-73387c80",
+      "hr-f720837b"
+    ],
+    "sentences": [
+      {
+        "text": "Želim upisati tečaj jezika.",
+        "ua": "Хочу записатися на курс мови.",
+        "audio": "hr-les43-reading-01.mp3"
+      },
+      {
+        "text": "Zato pišem životopis.",
+        "ua": "Тому пишу резюме.",
+        "audio": "hr-les43-reading-02.mp3"
+      },
+      {
+        "text": "Najprije pišem obrazovanje, a zatim vještine.",
+        "ua": "Спершу пишу освіту, а потім навички.",
+        "audio": "hr-les43-reading-03.mp3"
+      },
+      {
+        "text": "Studirala sam pet godina i diplomirala u lipnju.",
+        "ua": "Я навчалася п'ять років і закінчила виш у червні.",
+        "audio": "hr-les43-reading-04.mp3"
+      },
+      {
+        "text": "Govorim dva jezika, ali nemam certifikata.",
+        "ua": "Я говорю двома мовами, але не маю сертифіката.",
+        "audio": "hr-les43-reading-05.mp3"
+      },
+      {
+        "text": "Svjedodžba je kod kuće.",
+        "ua": "Свідоцтво вдома.",
+        "audio": "hr-les43-reading-06.mp3"
+      },
+      {
+        "text": "Za prijavu mi treba prijevod diplome.",
+        "ua": "Для заявки мені потрібен переклад диплома.",
+        "audio": "hr-les43-reading-07.mp3"
+      },
+      {
+        "text": "U petak ću pitati ima li slobodnih mjesta.",
+        "ua": "У п'ятницю запитаю, чи є вільні місця.",
+        "audio": "hr-les43-reading-08.mp3"
+      },
+      {
+        "text": "Tečaj počinje u rujnu.",
+        "ua": "Курс починається у вересні.",
+        "audio": "hr-les43-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат пише життєпис.",
+          "accepted": [
+            "Moj brat piše životopis."
+          ]
+        },
+        {
+          "prompt": "Курс безкоштовний.",
+          "accepted": [
+            "Tečaj je besplatan."
+          ]
+        },
+        {
+          "prompt": "Мій син студіює вже шість років.",
+          "accepted": [
+            "Moj sin već šest godina studira.",
+            "Moj sin studira već šest godina."
+          ]
+        },
+        {
+          "prompt": "Мені потрібна стипендія.",
+          "accepted": [
+            "Treba mi stipendija.",
+            "Trebam stipendiju."
+          ]
+        },
+        {
+          "prompt": "Лекція у вівторок.",
+          "accepted": [
+            "Predavanje je u utorak."
+          ]
+        },
+        {
+          "prompt": "Скільки місць на курсі?",
+          "accepted": [
+            "Koliko mjesta ima na tečaju?",
+            "Koliko ima mjesta na tečaju?"
+          ]
+        },
+        {
+          "prompt": "Вона закінчила факультет три роки тому.",
+          "accepted": [
+            "Završila je fakultet prije tri godine.",
+            "Fakultet je završila prije tri godine."
+          ]
+        },
+        {
+          "prompt": "Моя подруга записалася на курс.",
+          "accepted": [
+            "Moja prijateljica se upisala na tečaj.",
+            "Moja se prijateljica upisala na tečaj."
+          ]
+        },
+        {
+          "prompt": "Покажи мені свій диплом.",
+          "accepted": [
+            "Pokaži mi svoju diplomu.",
+            "Pokaži mi tvoju diplomu."
+          ]
+        },
+        {
+          "prompt": "Брата цікавить музика.",
+          "accepted": [
+            "Brata zanima glazba.",
+            "Zanima brata glazba."
+          ]
+        },
+        {
+          "prompt": "Мій чоловік працює в офісі вже п'ять років.",
+          "accepted": [
+            "Moj muž već pet godina radi u uredu.",
+            "Moj muž radi u uredu već pet godina."
+          ]
+        },
+        {
+          "prompt": "Робочий день починається вранці.",
+          "accepted": [
+            "Radni dan počinje ujutro."
+          ]
+        },
+        {
+          "prompt": "У нас немає сертифіката.",
+          "accepted": [
+            "Nemamo certifikata."
+          ]
+        },
+        {
+          "prompt": "Який у тебе напрям?",
+          "accepted": [
+            "Koji je tvoj smjer?",
+            "Koji ti je smjer?"
+          ]
+        },
+        {
+          "prompt": "Тут немає вільних місць.",
+          "accepted": [
+            "Ovdje nema slobodnih mjesta."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "svjedodžba",
+        "prijavu",
+        "obrazovanje",
+        "znanje",
+        "jezika",
+        "mjesta",
+        "studij",
+        "certifikat",
+        "polaznika",
+        "predavanja",
+        "smjera",
+        "stipendije",
+        "studiram",
+        "diplomirala",
+        "upisati",
+        "pohađaju"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Na stolu je ___.",
+          "hint": "На столі свідоцтво.",
+          "accepted": [
+            [
+              "svjedodžba"
+            ]
+          ]
+        },
+        {
+          "text": "Moram popuniti ___ za tečaj.",
+          "hint": "Мушу заповнити заявку на курс.",
+          "accepted": [
+            [
+              "prijavu"
+            ]
+          ]
+        },
+        {
+          "text": "Dobro ___ je važno.",
+          "hint": "Добра освіта важлива.",
+          "accepted": [
+            [
+              "obrazovanje"
+            ]
+          ]
+        },
+        {
+          "text": "Tvoje ___ je vrlo dobro.",
+          "hint": "Твої знання дуже добрі.",
+          "accepted": [
+            [
+              "znanje"
+            ]
+          ]
+        },
+        {
+          "text": "Govorim tri ___.",
+          "hint": "Я говорю трьома мовами.",
+          "accepted": [
+            [
+              "jezika"
+            ]
+          ]
+        },
+        {
+          "text": "U učionici ima trideset ___.",
+          "hint": "В аудиторії тридцять місць.",
+          "accepted": [
+            [
+              "mjesta"
+            ]
+          ]
+        },
+        {
+          "text": "Sestra ima težak ___.",
+          "hint": "У сестри складне навчання у виші.",
+          "accepted": [
+            [
+              "studij"
+            ]
+          ]
+        },
+        {
+          "text": "Treba mi ___ za tečaj.",
+          "hint": "Мені потрібен сертифікат для курсу.",
+          "accepted": [
+            [
+              "certifikat"
+            ]
+          ]
+        },
+        {
+          "text": "Na tečaju je dvadeset ___.",
+          "hint": "На курсі двадцять слухачів.",
+          "accepted": [
+            [
+              "polaznika"
+            ]
+          ]
+        },
+        {
+          "text": "Danas nemamo ___.",
+          "hint": "Сьогодні в нас немає лекції.",
+          "accepted": [
+            [
+              "predavanja"
+            ]
+          ]
+        },
+        {
+          "text": "Na fakultetu imamo tri ___.",
+          "hint": "На факультеті в нас три спеціальності.",
+          "accepted": [
+            [
+              "smjera"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat nema ___.",
+          "hint": "У мого брата немає стипендії.",
+          "accepted": [
+            [
+              "stipendije"
+            ]
+          ]
+        },
+        {
+          "text": "Ja ___ već tri godine.",
+          "hint": "Я студіюю вже три роки.",
+          "accepted": [
+            [
+              "studiram"
+            ]
+          ]
+        },
+        {
+          "text": "Moja kći je ___ prije dvije godine.",
+          "hint": "Моя донька закінчила виш два роки тому.",
+          "accepted": [
+            [
+              "diplomirala"
+            ]
+          ]
+        },
+        {
+          "text": "Moramo se ___ do petka.",
+          "hint": "Мусимо записатися до п'ятниці.",
+          "accepted": [
+            [
+              "upisati"
+            ]
+          ]
+        },
+        {
+          "text": "Moji roditelji ___ tečaj.",
+          "hint": "Мої батьки відвідують курс.",
+          "accepted": [
+            [
+              "pohađaju"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Tvoja životopis je dobar.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Tvoj životopis je dobar."
+          ]
+        },
+        {
+          "prompt": "Ja me zanima smjer.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zanima me smjer.",
+            "Mene zanima smjer."
+          ]
+        },
+        {
+          "prompt": "Moja sestra se upisala u fakultet.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja sestra se upisala na fakultet.",
+            "Moja se sestra upisala na fakultet."
+          ]
+        },
+        {
+          "prompt": "Studirala sam jezike.",
+          "cue": "-> теперішній час",
+          "accepted": [
+            "Studiram jezike."
+          ],
+          "check": "Це пункт для перетворення вперед і назад; якщо додаси сюди ще один рядок, не копіюй речення з прикладів."
+        },
+        {
+          "prompt": "Radila sam od svibanj do srpnja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Radila sam od svibnja do srpnja."
+          ]
+        },
+        {
+          "prompt": "Prijava je do svibanja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prijava je do svibnja."
+          ]
+        },
+        {
+          "prompt": "Diplomirala sam na fakultet.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Diplomirala sam na fakultetu."
+          ]
+        },
+        {
+          "prompt": "Sestra pohađa tečaj.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Sestre pohađaju tečaj."
+          ]
+        },
+        {
+          "prompt": "Studiram već pet godine.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Studiram već pet godina."
+          ]
+        },
+        {
+          "prompt": "Pohađam dva tečaj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pohađam dva tečaja."
+          ]
+        },
+        {
+          "prompt": "Predavanje počinje u devet sati.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Počinje li predavanje u devet sati?"
+          ]
+        },
+        {
+          "prompt": "Treba mi certifikat o tečaj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Treba mi certifikat o tečaju."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam na predavanju.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam na predavanju.",
+            "Ja sam danas na predavanju."
+          ]
+        },
+        {
+          "prompt": "Pokazujem diplomu.",
+          "cue": "-> Sutra ću ... (доконане)",
+          "accepted": [
+            "Sutra ću pokazati diplomu.",
+            "Sutra ću diplomu pokazati."
+          ]
+        },
+        {
+          "prompt": "Moj stipendija je mala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja stipendija je mala."
+          ]
+        },
+        {
+          "prompt": "Imam stipendiju.",
+          "cue": "-> Nemam ...",
+          "accepted": [
+            "Nemam stipendije."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ jezike.",
+          "cue": "studirati",
+          "accepted": [
+            "studiram"
+          ]
+        },
+        {
+          "text": "Ti ___ tečaj u rujnu?",
+          "cue": "upisivati",
+          "accepted": [
+            "upisuješ"
+          ]
+        },
+        {
+          "text": "Mi ___ diplomu u uredu.",
+          "cue": "pokazivati",
+          "accepted": [
+            "pokazujemo"
+          ]
+        },
+        {
+          "text": "Oni ___ tečaj već dvije godine.",
+          "cue": "pohađati",
+          "accepted": [
+            "pohađaju"
+          ]
+        },
+        {
+          "text": "Sestru ___ jezici.",
+          "cue": "zanimati",
+          "accepted": [
+            "zanimaju"
+          ]
+        },
+        {
+          "text": "Ona je ___ prije pet godina.",
+          "cue": "diplomirati",
+          "accepted": [
+            "diplomirala"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ svjedodžbu u uredu.",
+          "cue": "pokazati",
+          "accepted": [
+            "pokazala"
+          ]
+        },
+        {
+          "text": "Kad ___ moju diplomu, javim vam.",
+          "cue": "priznati",
+          "accepted": [
+            "priznaju"
+          ]
+        },
+        {
+          "text": "Jučer smo se ___ na tečaj.",
+          "cue": "upisati",
+          "accepted": [
+            "upisali"
+          ]
+        },
+        {
+          "text": "Oni se ___ na tečaj u rujnu.",
+          "cue": "upisivati",
+          "accepted": [
+            "upisuju"
+          ]
+        },
+        {
+          "text": "Moj brat je ___ pet godina.",
+          "cue": "studirati",
+          "accepted": [
+            "studirao"
+          ]
+        },
+        {
+          "text": "Vi ___ svoje vještine.",
+          "cue": "pokazivati",
+          "accepted": [
+            "pokazujete"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 43 і п'ять слів з банки помилок (хибні друзі з Lekcija 1, 8, 32, 34).",
+      "items": [
+        {
+          "example": true,
+          "prompt": "резюме, життєпис",
+          "answer": "životopis"
+        },
+        {
+          "prompt": "освіта",
+          "answer": "obrazovanje"
+        },
+        {
+          "prompt": "навичка, вміння",
+          "answer": "vještina"
+        },
+        {
+          "prompt": "знання",
+          "answer": "znanje"
+        },
+        {
+          "prompt": "мова",
+          "answer": "jezik"
+        },
+        {
+          "prompt": "місце",
+          "answer": "mjesto"
+        },
+        {
+          "prompt": "навчання у виші",
+          "answer": "studij"
+        },
+        {
+          "prompt": "сертифікат про курс",
+          "answer": "certifikat"
+        },
+        {
+          "prompt": "шкільне свідоцтво",
+          "answer": "svjedodžba"
+        },
+        {
+          "prompt": "слухач курсу",
+          "answer": "polaznik"
+        },
+        {
+          "prompt": "лекція",
+          "answer": "predavanje"
+        },
+        {
+          "prompt": "переклад (письмовий)",
+          "answer": "prijevod"
+        },
+        {
+          "prompt": "стипендія",
+          "answer": "stipendija"
+        },
+        {
+          "prompt": "рік (не година)",
+          "answer": "godina"
+        },
+        {
+          "prompt": "життя (не живіт)",
+          "answer": "život"
+        },
+        {
+          "prompt": "родичі (не родина)",
+          "answer": "rodbina"
+        },
+        {
+          "prompt": "термін, дедлайн",
+          "answer": "rok"
+        },
+        {
+          "prompt": "шлюб (не брак)",
+          "answer": "brak"
+        }
+      ],
+      "extra": [
+        "smjer",
+        "razina"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

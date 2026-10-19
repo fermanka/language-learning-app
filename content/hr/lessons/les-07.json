@@ -986,14 +986,14 @@
         },
         {
           "prompt": "Dajte mi sir.",
-          "cue": "-> до друга (daj)",
+          "cue": "-> до друга (dati)",
           "accepted": [
             "Daj mi sir."
           ]
         },
         {
           "prompt": "Dajte mi meso, molim.",
-          "cue": "-> до друга (daj)",
+          "cue": "-> до друга (dati)",
           "accepted": [
             "Daj mi meso, molim."
           ]
