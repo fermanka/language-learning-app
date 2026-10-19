@@ -1,0 +1,1675 @@
+{
+  "id": "hr-les-44",
+  "lang": "hr",
+  "order": 44,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "taj",
+    "ta",
+    "nov",
+    "je",
+    "svako",
+    "dijete",
+    "ima",
+    "imamo",
+    "na",
+    "školu",
+    "školi",
+    "škola",
+    "ovo",
+    "važno",
+    "svaki",
+    "radnik",
+    "plaćanje",
+    "najamnine",
+    "najamnina",
+    "plaća",
+    "čekaju",
+    "ispred",
+    "šaltera",
+    "moj",
+    "moja",
+    "brat",
+    "bratu",
+    "živi",
+    "živimo",
+    "u",
+    "drugoj",
+    "maloj",
+    "volim",
+    "biti",
+    "prijatelja",
+    "blizu",
+    "kolodvora",
+    "zgrade",
+    "zgradu",
+    "zgradi",
+    "nije",
+    "velika",
+    "sutra",
+    "moram",
+    "moramo",
+    "ići",
+    "sve",
+    "s",
+    "ugovorom",
+    "mobitel",
+    "testu",
+    "majka",
+    "mi",
+    "nam",
+    "ne",
+    "svoje",
+    "susjede",
+    "susjeda",
+    "susjed",
+    "susjedu",
+    "sam",
+    "smo",
+    "platiti",
+    "plati",
+    "platiš",
+    "platit",
+    "ćeš",
+    "platio",
+    "račun",
+    "ulazu",
+    "ulaza",
+    "ulaz",
+    "piše",
+    "parkirati",
+    "vrata",
+    "to",
+    "ipak",
+    "radi",
+    "raditi",
+    "dan",
+    "jučer",
+    "poslala",
+    "kaže",
+    "da",
+    "previsoka",
+    "ja",
+    "mislim",
+    "svatko",
+    "svi",
+    "miran",
+    "stan",
+    "ali",
+    "i",
+    "ljude",
+    "nadam",
+    "se",
+    "će",
+    "idući",
+    "put",
+    "drugdje",
+    "mora",
+    "roku",
+    "od",
+    "osam",
+    "dana",
+    "eura",
+    "dvadeset",
+    "pušiti",
+    "liftu",
+    "jesti",
+    "parku",
+    "ovdje",
+    "smije",
+    "govoriti",
+    "nedjeljom",
+    "plivati",
+    "jer",
+    "bolestan",
+    "film",
+    "djecu",
+    "djeci",
+    "pas",
+    "gost",
+    "jedno",
+    "pitanje",
+    "pitanju",
+    "imaš",
+    "točno",
+    "odgovor",
+    "režije",
+    "dužni",
+    "pomagati",
+    "do",
+    "petka",
+    "obrazac",
+    "popunjava",
+    "uredu",
+    "stanici",
+    "tko",
+    "nema",
+    "problema",
+    "problem",
+    "poštuje",
+    "poštuješ",
+    "poštuju",
+    "poštujemo",
+    "poštujete",
+    "poštovao",
+    "ako",
+    "ćemo",
+    "imat",
+    "ujutro",
+    "bila",
+    "dobila",
+    "poziv",
+    "sada",
+    "danas",
+    "puno",
+    "djeca",
+    "trebaju",
+    "više",
+    "roditelji",
+    "internet",
+    "navečer",
+    "dobri",
+    "ljudi",
+    "uvijek",
+    "ona",
+    "ništa",
+    "poštovani",
+    "hvala",
+    "izlet",
+    "kći",
+    "želi",
+    "doći",
+    "petak",
+    "odmah",
+    "vas",
+    "pokažite",
+    "potvrdu",
+    "zavodu",
+    "autobusu",
+    "odmor",
+    "sin",
+    "učenik",
+    "učenika",
+    "obavijestiti",
+    "direktora",
+    "otvarati",
+    "prozor",
+    "našoj",
+    "kuhati",
+    "večeru",
+    "čita",
+    "zna",
+    "kiša",
+    "pada",
+    "idemo",
+    "park",
+    "karticom",
+    "sina",
+    "gospodine",
+    "čekajte",
+    "molim",
+    "vozače",
+    "dopustio",
+    "kaput",
+    "nas",
+    "vjetra",
+    "kiše",
+    "naša",
+    "bicikle",
+    "zakone",
+    "kaznila",
+    "sestra",
+    "sestre",
+    "pravilo",
+    "zabranjeno",
+    "dužna",
+    "mala",
+    "kazne",
+    "plaćao"
+  ],
+  "notes": [
+    {
+      "id": "hr-e42cc94c",
+      "type": "noun",
+      "lemma": "zakon",
+      "gender": "m.",
+      "gen_sg": "zakona",
+      "plural": [
+        "zakoni"
+      ],
+      "ua": "закон",
+      "audio": "hr-zakon.mp3",
+      "forms": [
+        "zakona",
+        "zakonu",
+        "zakoni",
+        "zakone",
+        "zakonom"
+      ],
+      "explain_ua": "(Taj zakon je nov = цей закон новий). УВАГА ДО ВСЬОГО УРОКУ: усі ситуації, суми, штрафи, оголошення й правила тут вигадані для вправ; це мовна практика, а не юридична інформація. Урок навчає лише слів і зворотів про правила, права й обов'язки: він нічого не каже про державні установи, вибори чи порядок у Хорватії і не радить, що робити в реальних справах. Чоловічого роду: zakon, zakona, zakoni (множина без -ov-). Українське й російське «закон» те саме слово. Zakon, sud, kazna однакові в усіх варіантах мови.",
+      "check": "Форми з мого знання; що множина zakoni (а не zakonovi), з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-bb934e56",
+      "type": "noun",
+      "lemma": "pravo",
+      "gender": "s.",
+      "gen_sg": "prava",
+      "plural": [
+        "prava"
+      ],
+      "ua": "право (на щось)",
+      "audio": "hr-pravo-pravo.mp3",
+      "forms": [
+        "prava",
+        "pravu",
+        "pravima"
+      ],
+      "explain_ua": "(Svako dijete ima pravo na školu = кожна дитина має право на школу). Це ДРУГЕ значення слова pravo. У Lekcija 28 pravo значило «прямо» (хибна пара з українським направо). Тут воно значить «право, можливість вимагати», і це не хибний друг, а два значення одного слова, їх видно з контексту. Середній рід: pravo, prava, pravu; множина prava (мати права). Право на що: pravo na + знахідний (картка 2). Imati pravo без na (Lekcija 41) значить «мати рацію».",
+      "check": "Друге значення й множину prava з мого знання, звірити з hjp.znanje.hr. Лема pravo вже є в Lekcija 28 як хибна пара: якщо збірка не допускає двох нотаток з однаковою лемою, перенести цей текст у пояснення до pravo з Lekcija 28."
+    },
+    {
+      "id": "hr-847801d4",
+      "type": "noun",
+      "lemma": "pravilo",
+      "gender": "s.",
+      "gen_sg": "pravila",
+      "plural": [
+        "pravila"
+      ],
+      "ua": "правило",
+      "audio": "hr-pravilo.mp3",
+      "forms": [
+        "pravila",
+        "pravilu",
+        "pravilo",
+        "pravilima"
+      ],
+      "explain_ua": "(Ovo pravilo je važno = це правило важливе). Середній рід: pravilo, pravila, pravilu; множина pravila, родовий множини теж pravila (puno pravila). Українське «правило» майже те саме слово. Не плутай з pravo (право) і pravilan (правильний): корінь спільний, слова різні; це підказка для пам'яті, не перевірена етимологія.",
+      "check": "Форми за зразком selo / mjesto з мого знання."
+    },
+    {
+      "id": "hr-484ae341",
+      "type": "noun",
+      "lemma": "dužnost",
+      "gender": "ž.",
+      "gen_sg": "dužnosti",
+      "plural": [
+        "dužnosti"
+      ],
+      "ua": "обов'язок (повинність)",
+      "audio": "hr-duznost.mp3",
+      "forms": [
+        "dužnosti",
+        "dužnost"
+      ],
+      "explain_ua": "(Svaki radnik ima dužnosti = кожен працівник має обов'язки). Жіночий рід на приголосний (тип riječ, Lekcija 41): dužnost, dužnosti, dužnost (знахідний), множина dužnosti, родовий множини dužnosti. Пиши ž: dužnost. Родина слова dužan (нижче). Українське «обов'язок» інше слово, його вчимо.",
+      "check": "Форми за зразком riječ / radost з мого знання."
+    },
+    {
+      "id": "hr-e4b6fa57",
+      "type": "noun",
+      "lemma": "obveza",
+      "gender": "ž.",
+      "gen_sg": "obveze",
+      "plural": [
+        "obveze"
+      ],
+      "ua": "зобов'язання (що треба зробити)",
+      "audio": "hr-obveza.mp3",
+      "forms": [
+        "obveze",
+        "obvezu",
+        "obvezi"
+      ],
+      "explain_ua": "(Plaćanje najamnine je obveza = оплата оренди це зобов'язання). Жіночий рід на -a: obveza, obveze, obvezu (знахідний); родовий множини obveza. Dužnost і obveza близькі: dužnost радше моральний чи службовий обов'язок, obveza радше конкретне зобов'язання (платити, подати). Таке розрізнення за звичним вживанням, не за законом.",
+      "check": "Форми за зразком škola з мого знання; розрізнення dužnost / obveza подаю як звичне вживання, у словнику не звіряв."
+    },
+    {
+      "id": "hr-ca7a7e7c",
+      "type": "noun",
+      "lemma": "građanin",
+      "gender": "m.",
+      "gen_sg": "građanina",
+      "plural": [
+        "građani"
+      ],
+      "ua": "громадянин; городянин",
+      "audio": "hr-gradanin.mp3",
+      "forms": [
+        "građanina",
+        "građaninu",
+        "građani",
+        "građane",
+        "građanine",
+        "građana"
+      ],
+      "explain_ua": "(Građani čekaju ispred šaltera = громадяни чекають біля віконця). Чоловічого роду: građanin, građanina; множина građani (-in випадає), родовий множини građana, знахідний множини građane. Кличний, як в українській: građanine! (Lekcija 1 і 28, показуй на українську: громадянине!). Ввічливо: gospodine! (gospodin, Lekcija 40). Слово тут лише як звертання й слово про людей у місті чи в суспільстві; чим громадянин відрізняється від городянина юридично, цей урок не пояснює.",
+      "check": "Форми й кличний з мого знання, звірити з hjp.znanje.hr. Що слово означає і «громадянин», і «городянин», з мого знання; юридичну різницю не стверджую."
+    },
+    {
+      "id": "hr-025a79e9",
+      "type": "noun",
+      "lemma": "država",
+      "gender": "ž.",
+      "gen_sg": "države",
+      "plural": [
+        "države"
+      ],
+      "ua": "держава, країна",
+      "audio": "hr-drzava.mp3",
+      "forms": [
+        "države",
+        "državu",
+        "državi"
+      ],
+      "explain_ua": "(Moj brat živi u drugoj državi = мій брат живе в іншій державі). Жіночий рід на -a: država, države, državu, u državi; родовий множини država. Пиши ž: država. Українське «держава» те саме слово. Тут тільки слово й побутовий приклад.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-e773c558",
+      "type": "noun",
+      "lemma": "društvo",
+      "gender": "s.",
+      "gen_sg": "društva",
+      "plural": [
+        "društva"
+      ],
+      "ua": "суспільство; компанія (друзів)",
+      "audio": "hr-drustvo.mp3",
+      "forms": [
+        "društva",
+        "društvu",
+        "društvom"
+      ],
+      "explain_ua": "(Volim biti u društvu prijatelja = люблю бути в компанії друзів). Середній рід: društvo, društva, u društvu, s društvom. Два значення: суспільство й компанія людей; їх видно з контексту. Це багатозначність, не хибний друг. Українське «товариство» близьке, але частіше кажемо «суспільство» або «компанія».",
+      "check": "Форми за зразком selo з мого знання; що українське «товариство» близьке, з мого знання."
+    },
+    {
+      "id": "hr-c70f643d",
+      "type": "noun",
+      "lemma": "sud",
+      "gender": "m.",
+      "gen_sg": "suda",
+      "plural": [
+        "sudovi"
+      ],
+      "ua": "суд (установа)",
+      "audio": "hr-sud.mp3",
+      "forms": [
+        "suda",
+        "sudu",
+        "sudovi",
+        "sudove",
+        "sudom"
+      ],
+      "explain_ua": "(Sud je blizu kolodvora = суд біля вокзалу). Чоловічого роду: sud, suda, sudovi (-ov-, як grad > gradovi, Lekcija 15). Де: na sudu (місцевий), куди: na sud (знахідний): тут прийменник na, як у na poštu (Lekcija 5), а не u, як в українському «у суді». Родину слова не вчимо. Тут тільки слово й побутові речення.",
+      "check": "Форми з мого знання; що в суді кажемо саме na sudu, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-23161af7",
+      "type": "noun",
+      "lemma": "policija",
+      "gender": "ž.",
+      "gen_sg": "policije",
+      "plural": [
+        "policije"
+      ],
+      "ua": "поліція",
+      "audio": "hr-policija.mp3",
+      "forms": [
+        "policije",
+        "policiju",
+        "policiji",
+        "policijom"
+      ],
+      "explain_ua": "(Policija je ispred zgrade = поліція перед будинком). Жіночий рід на -a: policija, policije, policiju. Де: u policiji, куди: u policiju (Lekcija 5: gdje / kamo). Українське «поліція» те саме слово. Множини в цьому значенні майже не вживаємо.",
+      "check": "Форми за зразком tradicija з мого знання."
+    },
+    {
+      "id": "hr-67ce24c4",
+      "type": "noun",
+      "lemma": "kazna",
+      "gender": "ž.",
+      "gen_sg": "kazne",
+      "plural": [
+        "kazne"
+      ],
+      "ua": "покарання, штраф",
+      "audio": "hr-kazna.mp3",
+      "forms": [
+        "kazne",
+        "kaznu",
+        "kazni",
+        "kaznom"
+      ],
+      "explain_ua": "(Ta kazna nije velika = ця кара невелика). Жіночий рід на -a: kazna, kazne, kaznu (знахідний); родовий множини kazni. Kazna це і покарання, і штраф, залежно від ситуації. Дієслово: kazniti (нижче). Суми й порушення в уроці вигадані. Не плутай з російським казнь (страта) і казна (скарбниця): це підказка для пам'яті, а не перевірена хибна пара, тому в банку помилок її не вношу.",
+      "check": "Форми з мого знання; що kazna = «штраф» теж, з мого знання; зв'язок із російським казнь / казна подаю як підказку, у таблиці перевірених пар не звіряв."
+    },
+    {
+      "id": "hr-092011f6",
+      "type": "noun",
+      "lemma": "sloboda",
+      "gender": "ž.",
+      "gen_sg": "slobode",
+      "plural": [
+        "slobode"
+      ],
+      "ua": "свобода",
+      "audio": "hr-sloboda.mp3",
+      "forms": [
+        "slobode",
+        "slobodu",
+        "slobodi"
+      ],
+      "explain_ua": "(Djeca vole slobodu = діти люблять свободу). Жіночий рід на -a: sloboda, slobode, slobodu. Родина слова slobodan (вільний, Lekcija 26): slobodno mjesto = вільне місце, sloboda = свобода. Українське «свобода» те саме слово.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-24ebf5f7",
+      "type": "false_friend",
+      "lemma": "zavod",
+      "ua": "установа, інститут (не завод!)",
+      "uk_lookalike": "завод",
+      "uk_means": "завод, фабрика",
+      "audio": "hr-zavod.mp3",
+      "forms": [
+        "zavoda",
+        "zavodu",
+        "zavodi"
+      ],
+      "explain_ua": "(ч. р., G. zavoda, мн. zavodi). Хорватське zavod це установа чи інститут (з офіційною назвою на кшталт «zavod за ...»), а російське завод це фабрика. Українське завод теж значить фабрику, тож пастка однакова для обох мов. Приклад: Sutra moram ići u zavod = завтра мушу йти до установи. Де: u zavodu, куди: u zavod (Lekcija 5). Це перевірена хибна пара зі списку російська-хорватська.",
+      "check": "Пару zavod / завод перевірено у списку False Friends of the Slavist (російська-хорватська); що українське завод теж означає фабрику, з мого знання, в українській таблиці цієї пари не звіряв. Множину zavodi з мого знання."
+    },
+    {
+      "id": "hr-26966922",
+      "type": "false_friend",
+      "lemma": "sklad",
+      "ua": "гармонія, лад (не склад!)",
+      "uk_lookalike": "склад",
+      "uk_means": "склад (приміщення для товару)",
+      "audio": "hr-sklad.mp3",
+      "forms": [
+        "sklada",
+        "skladu"
+      ],
+      "explain_ua": "(ч. р., G. sklada, мн. skladovi). Хорватське sklad це гармонія, лад, а українське склад це приміщення для товарів. Звичний зворот: u skladu s + орудний = відповідно до: Sve je u skladu s ugovorom. Орудний після s (Lekcija 14): s ugovorom, s pravilima. Це перевірена хибна пара зі списку українська-хорватська.",
+      "check": "Пару sklad / склад перевірено у списку False Friends of the Slavist (українська-хорватська). Множину skladovi і зворот u skladu s + орудний з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-aa9f7176",
+      "type": "verb",
+      "lemma": "kazniti",
+      "aspect": "pf.",
+      "partner": "kažnjavati",
+      "pres_1sg": "kaznim",
+      "forms": [
+        "kaznim",
+        "kazniš",
+        "kazni",
+        "kaznimo",
+        "kaznite",
+        "kazne",
+        "kaznila",
+        "kaznili",
+        "kaznio",
+        "kažnjavati",
+        "kažnjavam",
+        "kažnjavaš",
+        "kažnjava",
+        "kažnjavamo",
+        "kažnjavate",
+        "kažnjavaju",
+        "kažnjavala"
+      ],
+      "ua": "покарати, оштрафувати (недок. kažnjavati)",
+      "audio": "hr-kazniti.mp3",
+      "explain_ua": "(Policija je kaznila vozača = поліція оштрафувала водія). Пара: kazniti (док.) / kažnjavati (недок.): kaznim > kažnjavam, при утворенні недок. n > nj. Знахідний того, кого караємо: kazniti susjeda (живе, Lekcija 4: susjeda, не susjed). Перфект із je на другому місці: policija je kaznila. Від слова kazna (вище).",
+      "check": "Пару та форми kaznim / kažnjavam з мого знання, звірити з hjp.znanje.hr (особливо n > nj)."
+    },
+    {
+      "id": "hr-47a05d3d",
+      "type": "verb",
+      "lemma": "zabraniti",
+      "aspect": "pf.",
+      "partner": "zabranjivati",
+      "pres_1sg": "zabranim",
+      "forms": [
+        "zabranim",
+        "zabraniš",
+        "zabrani",
+        "zabranimo",
+        "zabranite",
+        "zabrane",
+        "zabranila",
+        "zabranili",
+        "zabranio",
+        "zabranjivati",
+        "zabranjujem",
+        "zabranjuješ",
+        "zabranjuje",
+        "zabranjujemo",
+        "zabranjujete",
+        "zabranjuju",
+        "zabranjivala"
+      ],
+      "ua": "заборонити (недок. zabranjivati)",
+      "audio": "hr-zabraniti.mp3",
+      "explain_ua": "(Škola zabranjuje mobitel na testu = школа забороняє мобільний на контрольній). Пара: zabraniti (док.) / zabranjivati (недок.): zabranim > zabranjujem, n > nj. Кому: давальний, що: знахідний, чи інфінітив: zabranjuje nam govoriti. Від zabraniti походить zabranjen (нижче). Українське «заборонити» те саме за змістом: слово інше, його просто вчимо.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-e3065da7",
+      "type": "verb",
+      "lemma": "dopustiti",
+      "aspect": "pf.",
+      "partner": "dopuštati",
+      "pres_1sg": "dopustim",
+      "forms": [
+        "dopustim",
+        "dopustiš",
+        "dopusti",
+        "dopustimo",
+        "dopustite",
+        "dopuste",
+        "dopustila",
+        "dopustili",
+        "dopustio",
+        "dopuštati",
+        "dopuštam",
+        "dopuštaš",
+        "dopušta",
+        "dopuštamo",
+        "dopuštate",
+        "dopuštaju",
+        "dopuštala"
+      ],
+      "ua": "дозволити (недок. dopuštati)",
+      "audio": "hr-dopustiti.mp3",
+      "explain_ua": "(Majka mi ne dopušta mobitel u školi = мама не дозволяє мені мобільний у школі). Пара: dopustiti (док.) / dopuštati (недок.): dopustim > dopuštam, st > št. Комусь (давальний) що (знахідний): dopušta mi mobitel. Від dopustiti походить dopušten (нижче). Не плутай з dozvola (дозвіл як документ, Lekcija 36): це іменник, а dopustiti дієслово.",
+      "check": "Пару та форми dopustim / dopuštam (st > št) з мого знання, звірити з hjp.znanje.hr. Що dopuštati керує давальним особи й знахідним речі, з мого знання."
+    },
+    {
+      "id": "hr-c121a7b2",
+      "type": "verb",
+      "lemma": "zaštititi",
+      "aspect": "pf.",
+      "partner": "štititi",
+      "pres_1sg": "zaštitim",
+      "forms": [
+        "zaštitim",
+        "zaštitiš",
+        "zaštiti",
+        "zaštitimo",
+        "zaštitite",
+        "zaštite",
+        "zaštitila",
+        "zaštitili",
+        "zaštitio",
+        "štititi",
+        "štitim",
+        "štitiš",
+        "štiti",
+        "štitimo",
+        "štitite",
+        "štite",
+        "štitila",
+        "štitili"
+      ],
+      "ua": "захистити (недок. štititi)",
+      "audio": "hr-zastititi.mp3",
+      "explain_ua": "(Policija štiti građane = поліція захищає громадян). Пара: zaštititi (док.) / štititi (недок.): zaštitim / štitim; префікс za- робить доконаний. 3 особа множини недок.: štite (не «štitiju»). Захищати кого: знахідний (štititi djecu), від чого: od + родовий (štititi od vjetra). Українське «захищати» інше слово, його вчимо.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (особливо 3 особа множини štite і керування od + родовий)."
+    },
+    {
+      "id": "hr-2ea94ed7",
+      "type": "verb",
+      "lemma": "poštovati",
+      "aspect": "impf.",
+      "pres_1sg": "poštujem",
+      "forms": [
+        "poštujem",
+        "poštuješ",
+        "poštuje",
+        "poštujemo",
+        "poštujete",
+        "poštuju",
+        "poštovala",
+        "poštovali",
+        "poštovao"
+      ],
+      "ua": "поважати, дотримуватися",
+      "audio": "hr-postovati.mp3",
+      "explain_ua": "(Poštujem pravila = дотримуюся правил). Недоконане, дієвідміна -ujem: poštujem, poštuješ, poštuje, poštujemo, poštujete, poštuju (як kupovati, Lekcija 1). Poštovati + знахідний: poštovati pravila, poštovati susjede. Українське «поважати» і «дотримуватися» обидва передаємо цим дієсловом. Родина слів poštovan, poštovanje (Lekcija 40). Пари доконаного вигляду в живому вжитку, з мого знання, немає.",
+      "check": "Форми з мого знання; що пари доконаного немає й що перфект poštovao, у словнику не звіряв."
+    },
+    {
+      "id": "hr-d543e18e",
+      "type": "adjective",
+      "lemma": "zabranjen",
+      "fem": "zabranjena",
+      "neut": "zabranjeno",
+      "ua": "заборонений",
+      "audio": "hr-zabranjen.mp3",
+      "forms": [
+        "zabranjena",
+        "zabranjeno",
+        "zabranjene",
+        "zabranjeni"
+      ],
+      "explain_ua": "(Taj film je zabranjen za djecu = цей фільм заборонений для дітей). Прикметник-дієприкметник від zabraniti: zabranjen, zabranjena, zabranjeno. У написах і правилах береться середній рід: Zabranjeno je + інфінітив, бо слово погоджується з «то», не з інфінітивом (картка 1). Пиши nj: zabranjen. Українське «заборонено» і російське «запрещено» будуються так само.",
+      "check": "Форми за дієприкметником з мого знання; що в оголошеннях середній рід, з мого знання."
+    },
+    {
+      "id": "hr-331e6c36",
+      "type": "adjective",
+      "lemma": "dopušten",
+      "fem": "dopuštena",
+      "neut": "dopušteno",
+      "ua": "дозволений",
+      "audio": "hr-dopusten.mp3",
+      "forms": [
+        "dopuštena",
+        "dopušteno",
+        "dopuštene",
+        "dopušteni"
+      ],
+      "explain_ua": "(Pas je ovdje dopušten = пес тут дозволений). Прикметник-дієприкметник від dopustiti: dopušten, dopuštena, dopušteno. У написах: Dopušteno je + інфінітив (середній рід). Нестійке e в чоловічому роді: dopušten, але dopuštena. Пиши št: dopušten.",
+      "check": "Форми за дієприкметником з мого знання; що в оголошеннях середній рід, з мого знання."
+    },
+    {
+      "id": "hr-5fc255e8",
+      "type": "adjective",
+      "lemma": "dužan",
+      "fem": "dužna",
+      "neut": "dužno",
+      "ua": "зобов'язаний; винен (гроші)",
+      "audio": "hr-duzan.mp3",
+      "forms": [
+        "dužna",
+        "dužno",
+        "dužni",
+        "dužne"
+      ],
+      "explain_ua": "(Dužan sam platiti račun = я зобов'язаний оплатити рахунок). Нестійке a: dužan, але dužna, dužno, dužni. Пиши ž: dužan. Бути dužan + інфінітив = мусити (як moram, але офіційніше). Друге значення: dužan sam mu dvadeset eura = я винен йому двадцять євро (родина зі словом dug, Lekcija 36). Це багатозначність, не хибний друг. Учимо інфінітив: dužan sam platiti, а не «dužan sam da platim».",
+      "check": "Форми з мого знання; що dužan + інфінітив природніший за da + теперішній, з мого знання, звірити з hjp.znanje.hr."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Дозволено й заборонено: smije se, zabranjeno je, dopušteno je",
+      "summary_ua": "У написах і правилах: Zabranjeno je + інфінітив, Dopušteno je + інфінітив. Слово zabranjeno стоїть у середньому роді, бо погоджується з «то», а не з інфінітивом. Особисто й безособово: Ovdje se ne smije + інфінітив (smjeti, Lekcija 23). Українське «Заборонено курити» і російське «Запрещено курить» будуються так само, тож тут можна спиратися на будь-яку з двох. Нове: форма на -o і клітик se на другому місці. Усі написи вигадані для вправ.",
+      "compare": [
+        {
+          "form": "Zabranjeno je / Dopušteno je + інфінітив",
+          "when_ua": "Напис або правило: що можна й чого не можна.",
+          "examples": [
+            {
+              "text": "Zabranjeno je pušiti u liftu.",
+              "ua": "Заборонено курити в ліфті.",
+              "audio": "hr-les44-rule-01.mp3"
+            },
+            {
+              "text": "Dopušteno je jesti u parku.",
+              "ua": "Дозволено їсти в парку.",
+              "audio": "hr-les44-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Є на другому місці: Zabranjeno je. Zabranjeno і dopušteno завжди середнього роду, не «zabranjen» чи «zabranjena», бо слово стоїть перед інфінітивом."
+        },
+        {
+          "form": "Ne smije se + інфінітив",
+          "when_ua": "Безособово: тут не можна.",
+          "examples": [
+            {
+              "text": "Ovdje se ne smije pušiti.",
+              "ua": "Тут не можна курити.",
+              "audio": "hr-les44-rule-03.mp3"
+            },
+            {
+              "text": "Na testu se ne smije govoriti.",
+              "ua": "На контрольній не можна розмовляти.",
+              "audio": "hr-les44-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Se на другому місці, одразу після першого слова чи групи слів (Ovdje se, Na testu se), а потім ne smije. Smjeti з Lekcija 23."
+        },
+        {
+          "form": "ne moram проти ne smijem",
+          "when_ua": "Мені не треба, а не мені не можна.",
+          "examples": [
+            {
+              "text": "Nedjeljom ne moram raditi.",
+              "ua": "У неділю мені не треба працювати.",
+              "audio": "hr-les44-rule-05.mp3"
+            },
+            {
+              "text": "Ne smijem plivati, jer sam bolestan.",
+              "ua": "Мені не можна плавати, бо я хворий.",
+              "audio": "hr-les44-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Ne moram = не мушу, але можу. Ne smijem = мені заборонено. Пастка: українське «не можна» і «не треба» легко змішати, а хорватське ne moram і ne smijem значать протилежне."
+        },
+        {
+          "form": "zabranjen / dopušten як прикметник",
+          "when_ua": "Про річ, фільм, тварину, а не про дію.",
+          "examples": [
+            {
+              "text": "Taj film je zabranjen za djecu.",
+              "ua": "Цей фільм заборонений для дітей.",
+              "audio": "hr-les44-rule-07.mp3"
+            },
+            {
+              "text": "Pas je ovdje dopušten.",
+              "ua": "Пес тут дозволений.",
+              "audio": "hr-les44-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Тут слово погоджується з іменником у роді: film > zabranjen, pas > dopušten. Фільм і собака вигадані для вправи."
+        }
+      ],
+      "points_ua": [
+        "Zabranjeno je pušiti: середній рід, інфінітив після.",
+        "Ovdje se ne smije pušiti: se на другому місці.",
+        "Ne moram = не мушу, ne smijem = мені не можна."
+      ]
+    },
+    {
+      "title_ua": "Право й обов'язок: pravo na, dužan, dužnost, obveza",
+      "summary_ua": "Право на що: pravo na + знахідний (imati pravo na odmor). Тут українське «право на + знахідний» збігається з хорватським, тож тримайся української. Обов'язок: biti dužan + інфінітив (dužan sam platiti), як офіційніше «moram». Не «dužan sam da platim»: учимо інфінітив. Усі ситуації й суми вигадані.",
+      "compare": [
+        {
+          "form": "imati pravo na + знахідний",
+          "when_ua": "Хтось може вимагати чи мати щось.",
+          "examples": [
+            {
+              "text": "Svaki gost ima pravo na račun.",
+              "ua": "Кожен гість має право на рахунок.",
+              "audio": "hr-les44-rule-09.mp3"
+            },
+            {
+              "text": "Imam pravo na jedno pitanje.",
+              "ua": "Маю право на одне запитання.",
+              "audio": "hr-les44-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Na + знахідний: pravo na račun, pravo na pitanje (не na + місцевий). Українське «право на запитання» будується так само."
+        },
+        {
+          "form": "imati pravo проти imati pravo na",
+          "when_ua": "Мати рацію проти мати право на щось.",
+          "examples": [
+            {
+              "text": "Imaš pravo, to je točno.",
+              "ua": "Ти маєш рацію, це правильно.",
+              "audio": "hr-les44-rule-11.mp3"
+            },
+            {
+              "text": "Imaš pravo na odgovor.",
+              "ua": "Ти маєш право на відповідь.",
+              "audio": "hr-les44-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Без na: «мати рацію» (Lekcija 41). З na + знахідний: «мати право на». Одне слово, два значення, видно з na."
+        },
+        {
+          "form": "biti dužan + інфінітив",
+          "when_ua": "Мушу; офіційно: зобов'язаний.",
+          "examples": [
+            {
+              "text": "Susjed je dužan platiti režije.",
+              "ua": "Сусід зобов'язаний платити комунальні.",
+              "audio": "hr-les44-rule-13.mp3"
+            },
+            {
+              "text": "Svi smo dužni poštovati zakon.",
+              "ua": "Ми всі зобов'язані дотримуватися закону.",
+              "audio": "hr-les44-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Dužan, dužna, dužni погоджується з підметом у роді й числі. Клітик sam / je / smo на другому місці."
+        },
+        {
+          "form": "dužan = винен гроші; dužnost, obveza",
+          "when_ua": "Борг і обов'язок.",
+          "examples": [
+            {
+              "text": "Dužna sam bratu dvadeset eura.",
+              "ua": "Я винна брату двадцять євро.",
+              "audio": "hr-les44-rule-15.mp3"
+            },
+            {
+              "text": "Pomagati djeci je moja dužnost.",
+              "ua": "Допомагати дітям мій обов'язок.",
+              "audio": "hr-les44-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Dužan + давальний + сума = «винен комусь». Dužnost це обов'язок, obveza це конкретне зобов'язання. Суми вигадані."
+        }
+      ],
+      "points_ua": [
+        "Pravo na račun: na + знахідний.",
+        "Dužan sam platiti: інфінітив, не «da platim».",
+        "Dužan sam bratu eure = я винен гроші."
+      ]
+    },
+    {
+      "title_ua": "Правила й наслідки: se-пасив, tko ... taj, ako",
+      "summary_ua": "Безособовий пасив із se (Lekcija 36): Najamnina se plaća do petka. Клітик se стоїть на другому місці, після першої групи слів: Ispred ulaza se ne smije parkirati. Узагальнення: Tko ..., taj ..., як українське «хто ..., той ...». Умова: ako + теперішній час, а не майбутній: Ako ne platiš, platit ćeš kaznu, як українське «якщо не заплатиш». Усі суми й терміни вигадані.",
+      "compare": [
+        {
+          "form": "se-пасив: Račun se plaća",
+          "when_ua": "Правило без виконавця.",
+          "examples": [
+            {
+              "text": "Najamnina se plaća do petka.",
+              "ua": "Орендна плата сплачується до п'ятниці.",
+              "audio": "hr-les44-rule-17.mp3"
+            },
+            {
+              "text": "Obrazac se popunjava u uredu.",
+              "ua": "Бланк заповнюється в офісі.",
+              "audio": "hr-les44-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Дієслово в третій особі й підмет у називному: najamnina se plaća, obrazac se popunjava. Se на другому місці."
+        },
+        {
+          "form": "se після першої групи слів",
+          "when_ua": "Речення починається місцем чи часом.",
+          "examples": [
+            {
+              "text": "Ispred ulaza se ne smije parkirati.",
+              "ua": "Перед входом не можна паркувати.",
+              "audio": "hr-les44-rule-19.mp3"
+            },
+            {
+              "text": "Na stanici se ne smije pušiti.",
+              "ua": "На зупинці не можна курити.",
+              "audio": "hr-les44-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Ispred ulaza і Na stanici це одна група слів, а se одразу за нею. Не став ще слово між групою і se, і не став se наприкінці."
+        },
+        {
+          "form": "Tko ..., taj ...",
+          "when_ua": "Правило для кожного, хто щось робить.",
+          "examples": [
+            {
+              "text": "Tko ne plati račun, taj plaća kaznu.",
+              "ua": "Хто не заплатить рахунок, той платить штраф.",
+              "audio": "hr-les44-rule-21.mp3"
+            },
+            {
+              "text": "Tko poštuje pravila, taj nema problema.",
+              "ua": "Хто дотримується правил, той не має проблем.",
+              "audio": "hr-les44-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Українське «хто ..., той ...» збігається з tko ..., taj ... Після tko дієслово в третій особі однини, як після «хто»."
+        },
+        {
+          "form": "Ako + теперішній час",
+          "when_ua": "Якщо щось станеться, буде наслідок.",
+          "examples": [
+            {
+              "text": "Ako ne platiš u roku, platit ćeš kaznu.",
+              "ua": "Якщо не заплатиш у строк, заплатиш штраф.",
+              "audio": "hr-les44-rule-23.mp3"
+            },
+            {
+              "text": "Ako ne poštuješ pravilo, imat ćeš problem.",
+              "ua": "Якщо не дотримуєшся правила, матимеш проблему.",
+              "audio": "hr-les44-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Після ako теперішній час (ако platiš, не «ako ćeš platiti»), як в українській. Наслідок у майбутньому: platit ćeš, imat ćeš (інфінітив без -i перед ćeš)."
+        }
+      ],
+      "points_ua": [
+        "Najamnina se plaća: se на другому місці.",
+        "Tko ne plati, taj plaća: tko ... taj.",
+        "Ako ne platiš, не «ako ćeš platiti»."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Taj zakon je nov.",
+      "ua": "Цей закон новий.",
+      "audio": "hr-les44-example-01.mp3"
+    },
+    {
+      "text": "Svako dijete ima pravo na školu.",
+      "ua": "Кожна дитина має право на школу.",
+      "audio": "hr-les44-example-02.mp3"
+    },
+    {
+      "text": "Ovo pravilo je važno.",
+      "ua": "Це правило важливе.",
+      "audio": "hr-les44-example-03.mp3"
+    },
+    {
+      "text": "Svaki radnik ima dužnosti.",
+      "ua": "Кожен працівник має обов'язки.",
+      "audio": "hr-les44-example-04.mp3"
+    },
+    {
+      "text": "Plaćanje najamnine je obveza.",
+      "ua": "Оплата оренди це зобов'язання.",
+      "audio": "hr-les44-example-05.mp3"
+    },
+    {
+      "text": "Građani čekaju ispred šaltera.",
+      "ua": "Громадяни чекають біля віконця.",
+      "audio": "hr-les44-example-06.mp3"
+    },
+    {
+      "text": "Moj brat živi u drugoj državi.",
+      "ua": "Мій брат живе в іншій державі.",
+      "audio": "hr-les44-example-07.mp3"
+    },
+    {
+      "text": "Volim biti u društvu prijatelja.",
+      "ua": "Люблю бути в компанії друзів.",
+      "audio": "hr-les44-example-08.mp3"
+    },
+    {
+      "text": "Sud je blizu kolodvora.",
+      "ua": "Суд біля вокзалу.",
+      "audio": "hr-les44-example-09.mp3"
+    },
+    {
+      "text": "Policija je ispred zgrade.",
+      "ua": "Поліція перед будинком.",
+      "audio": "hr-les44-example-10.mp3"
+    },
+    {
+      "text": "Ta kazna nije velika.",
+      "ua": "Ця кара невелика.",
+      "audio": "hr-les44-example-11.mp3"
+    },
+    {
+      "text": "Sutra moram ići u zavod.",
+      "ua": "Завтра мушу йти до установи.",
+      "audio": "hr-les44-example-12.mp3"
+    },
+    {
+      "text": "Sve je u skladu s ugovorom.",
+      "ua": "Усе відповідає договору.",
+      "audio": "hr-les44-example-13.mp3"
+    },
+    {
+      "text": "Škola zabranjuje mobitel na testu.",
+      "ua": "Школа забороняє мобільний на контрольній.",
+      "audio": "hr-les44-example-14.mp3"
+    },
+    {
+      "text": "Majka mi ne dopušta mobitel u školi.",
+      "ua": "Мама не дозволяє мені мобільний у школі.",
+      "audio": "hr-les44-example-15.mp3"
+    },
+    {
+      "text": "Policija štiti građane.",
+      "ua": "Поліція захищає громадян.",
+      "audio": "hr-les44-example-16.mp3"
+    },
+    {
+      "text": "Poštujem svoje susjede.",
+      "ua": "Я поважаю своїх сусідів.",
+      "audio": "hr-les44-example-17.mp3"
+    },
+    {
+      "text": "Dužan sam platiti račun.",
+      "ua": "Я зобов'язаний оплатити рахунок.",
+      "audio": "hr-les44-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Pravila u zgradi",
+    "title_ua": "Правила в будинку",
+    "highlight": [
+      "hr-bb934e56",
+      "hr-847801d4",
+      "hr-484ae341",
+      "hr-23161af7",
+      "hr-67ce24c4",
+      "hr-d543e18e"
+    ],
+    "sentences": [
+      {
+        "text": "Na ulazu u zgradu piše: zabranjeno je parkirati ispred vrata.",
+        "ua": "На вході в будинок написано: заборонено паркувати перед дверима.",
+        "audio": "hr-les44-reading-01.mp3"
+      },
+      {
+        "text": "Moj susjed to ipak radi svaki dan.",
+        "ua": "Мій сусід усе одно так робить щодня.",
+        "audio": "hr-les44-reading-02.mp3"
+      },
+      {
+        "text": "Jučer je policija poslala susjedu kaznu.",
+        "ua": "Вчора поліція надіслала сусідові штраф.",
+        "audio": "hr-les44-reading-03.mp3"
+      },
+      {
+        "text": "Kazna je dvadeset eura i mora se platiti u roku od osam dana.",
+        "ua": "Штраф двадцять євро, і його треба сплатити протягом восьми днів.",
+        "audio": "hr-les44-reading-04.mp3"
+      },
+      {
+        "text": "Susjed kaže da je kazna previsoka.",
+        "ua": "Сусід каже, що штраф завеликий.",
+        "audio": "hr-les44-reading-05.mp3"
+      },
+      {
+        "text": "Ja mislim da svatko mora poštovati pravila.",
+        "ua": "Я думаю, що кожен мусить дотримуватися правил.",
+        "audio": "hr-les44-reading-06.mp3"
+      },
+      {
+        "text": "Svi imamo pravo na miran stan, ali imamo i dužnosti.",
+        "ua": "Ми всі маємо право на тиху квартиру, але маємо й обов'язки.",
+        "audio": "hr-les44-reading-07.mp3"
+      },
+      {
+        "text": "Pravila štite sve ljude u zgradi.",
+        "ua": "Правила захищають усіх людей у будинку.",
+        "audio": "hr-les44-reading-08.mp3"
+      },
+      {
+        "text": "Nadam se da će susjed idući put parkirati drugdje.",
+        "ua": "Сподіваюся, що наступного разу сусід запаркується деінде.",
+        "audio": "hr-les44-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат поважає правила.",
+          "accepted": [
+            "Moj brat poštuje pravila."
+          ]
+        },
+        {
+          "prompt": "Ми живемо в маленькій державі.",
+          "accepted": [
+            "Živimo u maloj državi.",
+            "Mi živimo u maloj državi."
+          ]
+        },
+        {
+          "prompt": "Мій брат працює в суді.",
+          "accepted": [
+            "Moj brat radi na sudu."
+          ]
+        },
+        {
+          "prompt": "Я не дозволяю дітям мобільний ввечері.",
+          "accepted": [
+            "Ne dopuštam djeci mobitel navečer.",
+            "Djeci ne dopuštam mobitel navečer."
+          ]
+        },
+        {
+          "prompt": "Мій сусід заплатив штраф у поліції.",
+          "accepted": [
+            "Moj susjed je platio kaznu u policiji.",
+            "Moj je susjed platio kaznu u policiji.",
+            "Moj susjed je u policiji platio kaznu."
+          ]
+        },
+        {
+          "prompt": "Учень має право на запитання.",
+          "accepted": [
+            "Učenik ima pravo na pitanje."
+          ]
+        },
+        {
+          "prompt": "Моя сестра зобов'язана повідомити директора.",
+          "accepted": [
+            "Moja sestra je dužna obavijestiti direktora.",
+            "Moja je sestra dužna obavijestiti direktora."
+          ]
+        },
+        {
+          "prompt": "Заборонено відчиняти вікно.",
+          "accepted": [
+            "Zabranjeno je otvarati prozor."
+          ]
+        },
+        {
+          "prompt": "У нашій школі не можна їсти.",
+          "accepted": [
+            "U našoj školi se ne smije jesti."
+          ]
+        },
+        {
+          "prompt": "Сьогодні я не мушу готувати вечерю.",
+          "accepted": [
+            "Danas ne moram kuhati večeru.",
+            "Ne moram danas kuhati večeru."
+          ]
+        },
+        {
+          "prompt": "Хто багато читає, той багато знає.",
+          "accepted": [
+            "Tko puno čita, taj puno zna.",
+            "Tko mnogo čita, taj mnogo zna."
+          ]
+        },
+        {
+          "prompt": "Якщо завтра не йде дощ, ідемо в парк.",
+          "accepted": [
+            "Ako sutra ne pada kiša, idemo u park.",
+            "Ako sutra ne pada kiša, ići ćemo u park."
+          ]
+        },
+        {
+          "prompt": "Рахунок оплачується карткою.",
+          "accepted": [
+            "Račun se plaća karticom."
+          ]
+        },
+        {
+          "prompt": "Вона захистила сина.",
+          "accepted": [
+            "Zaštitila je sina.",
+            "Ona je zaštitila sina.",
+            "Sina je zaštitila."
+          ]
+        },
+        {
+          "prompt": "Пане, чекайте тут, будь ласка.",
+          "accepted": [
+            "Gospodine, čekajte ovdje, molim.",
+            "Gospodine, molim, čekajte ovdje."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "sudu",
+        "sud",
+        "policiji",
+        "policiju",
+        "zavodu",
+        "zavod",
+        "pravila",
+        "dužnost",
+        "slobode",
+        "kaznila",
+        "dopuštaju",
+        "poštuju",
+        "dužna",
+        "dopušten",
+        "građanine",
+        "društvom"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ujutro sam bila na ___.",
+          "hint": "Вранці я була в суді.",
+          "accepted": [
+            [
+              "sudu"
+            ]
+          ]
+        },
+        {
+          "text": "Moram ići na ___, jer sam dobila poziv.",
+          "hint": "Мушу йти до суду, бо я отримала виклик.",
+          "accepted": [
+            [
+              "sud"
+            ]
+          ]
+        },
+        {
+          "text": "Susjed je sada u ___.",
+          "hint": "Сусід зараз у поліції.",
+          "accepted": [
+            [
+              "policiji"
+            ]
+          ]
+        },
+        {
+          "text": "Moramo ići u ___ danas.",
+          "hint": "Мусимо піти в поліцію сьогодні.",
+          "accepted": [
+            [
+              "policiju"
+            ]
+          ]
+        },
+        {
+          "text": "Moja sestra radi u ___.",
+          "hint": "Моя сестра працює в установі.",
+          "accepted": [
+            [
+              "zavodu"
+            ]
+          ]
+        },
+        {
+          "text": "Prijatelj želi doći u ___ u petak.",
+          "hint": "Друг хоче прийти в установу в п'ятницю.",
+          "accepted": [
+            [
+              "zavod"
+            ]
+          ]
+        },
+        {
+          "text": "Ima li u zgradi puno ___?",
+          "hint": "Чи багато в будинку правил?",
+          "accepted": [
+            [
+              "pravila"
+            ]
+          ]
+        },
+        {
+          "text": "To nije moja ___.",
+          "hint": "Це не мій обов'язок.",
+          "accepted": [
+            [
+              "dužnost"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca trebaju više ___.",
+          "hint": "Дітям потрібно більше свободи.",
+          "accepted": [
+            [
+              "slobode"
+            ]
+          ]
+        },
+        {
+          "text": "Policija je jučer ___ susjeda.",
+          "hint": "Поліція вчора оштрафувала сусіда.",
+          "accepted": [
+            [
+              "kaznila"
+            ]
+          ]
+        },
+        {
+          "text": "Moji roditelji nam ne ___ internet navečer.",
+          "hint": "Мої батьки не дозволяють нам інтернет ввечері.",
+          "accepted": [
+            [
+              "dopuštaju"
+            ]
+          ]
+        },
+        {
+          "text": "Dobri ljudi uvijek ___ pravila.",
+          "hint": "Добрі люди завжди поважають правила.",
+          "accepted": [
+            [
+              "poštuju"
+            ]
+          ]
+        },
+        {
+          "text": "Ona nije ___ platiti ništa.",
+          "hint": "Вона не зобов'язана нічого платити.",
+          "accepted": [
+            [
+              "dužna"
+            ]
+          ]
+        },
+        {
+          "text": "Taj pas nije ___ u zgradi.",
+          "hint": "Цей пес не дозволений у будинку.",
+          "accepted": [
+            [
+              "dopušten"
+            ]
+          ]
+        },
+        {
+          "text": "Poštovani ___, hvala na pitanju.",
+          "hint": "Шановний громадянине, дякую за запитання.",
+          "accepted": [
+            [
+              "građanine"
+            ]
+          ]
+        },
+        {
+          "text": "Volim ići s ___ na izlet.",
+          "hint": "Люблю їздити з компанією на екскурсію.",
+          "accepted": [
+            [
+              "društvom"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Zabranjen je pušiti ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zabranjeno je pušiti ovdje."
+          ]
+        },
+        {
+          "prompt": "Ovdje ne moram parkirati, to je zabranjeno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovdje ne smijem parkirati, to je zabranjeno.",
+            "Ovdje se ne smije parkirati, to je zabranjeno."
+          ]
+        },
+        {
+          "prompt": "Moj sin ima pravo na odmoru.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moj sin ima pravo na odmor."
+          ]
+        },
+        {
+          "prompt": "Račun se platiti do petka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Račun se plaća do petka.",
+            "Račun se mora platiti do petka."
+          ]
+        },
+        {
+          "prompt": "Građanin, molim vas, pokažite potvrdu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Građanine, molim vas, pokažite potvrdu."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam u zavodu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam u zavodu.",
+            "Ja sam danas u zavodu."
+          ]
+        },
+        {
+          "prompt": "Ako ćeš platiti odmah, nema kazne.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ako platiš odmah, nema kazne.",
+            "Ako odmah platiš, nema kazne."
+          ]
+        },
+        {
+          "prompt": "Mi poštujem pravila u zgradi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi poštujemo pravila u zgradi.",
+            "Poštujemo pravila u zgradi."
+          ]
+        },
+        {
+          "prompt": "Škola je kaznila učenik.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Škola je kaznila učenika."
+          ]
+        },
+        {
+          "prompt": "Moja majka je dužan platiti račun.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja majka je dužna platiti račun."
+          ]
+        },
+        {
+          "prompt": "Ovo nije u skladu s pravila.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovo nije u skladu s pravilima."
+          ]
+        },
+        {
+          "prompt": "Brat plaća račun.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Brat je platio račun.",
+            "Brat je račun platio.",
+            "Brat je plaćao račun."
+          ]
+        },
+        {
+          "prompt": "Zabranjeno je jesti u autobusu.",
+          "cue": "-> Ne smije se ...",
+          "accepted": [
+            "Ne smije se jesti u autobusu."
+          ]
+        },
+        {
+          "prompt": "Sestra poštuje pravilo.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Sestre poštuju pravila.",
+            "Sestre poštuju pravilo."
+          ]
+        },
+        {
+          "prompt": "Plaćam kaznu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Plaćam li kaznu?"
+          ]
+        },
+        {
+          "prompt": "Imam dužnost.",
+          "cue": "-> Nemam ...",
+          "accepted": [
+            "Nemam dužnosti."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ pravila.",
+          "cue": "poštovati",
+          "accepted": [
+            "poštujem"
+          ]
+        },
+        {
+          "text": "Vi ___ sve zakone.",
+          "cue": "poštovati",
+          "accepted": [
+            "poštujete"
+          ]
+        },
+        {
+          "text": "Policija često ___ vozače.",
+          "cue": "kažnjavati",
+          "accepted": [
+            "kažnjava"
+          ]
+        },
+        {
+          "text": "Jučer je policija ___ vozača.",
+          "cue": "kazniti",
+          "accepted": [
+            "kaznila"
+          ]
+        },
+        {
+          "text": "Direktor mi nije ___ odmor.",
+          "cue": "dopustiti",
+          "accepted": [
+            "dopustio"
+          ]
+        },
+        {
+          "text": "Kaput nas ___ od vjetra.",
+          "cue": "štititi",
+          "accepted": [
+            "štiti"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ sina od kiše.",
+          "cue": "zaštititi",
+          "accepted": [
+            "zaštitila"
+          ]
+        },
+        {
+          "text": "Naša zgrada ___ bicikle u liftu.",
+          "cue": "zabranjivati",
+          "accepted": [
+            "zabranjuje"
+          ]
+        },
+        {
+          "text": "Ti ___ djeci mobitel navečer?",
+          "cue": "dopuštati",
+          "accepted": [
+            "dopuštaš"
+          ]
+        },
+        {
+          "text": "Tko ne ___ najamninu u roku, taj ima problem.",
+          "cue": "platiti",
+          "accepted": [
+            "plati"
+          ]
+        },
+        {
+          "text": "Moji susjedi ___ pravila.",
+          "cue": "poštovati",
+          "accepted": [
+            "poštuju"
+          ]
+        },
+        {
+          "text": "Moj brat je ___ pravila.",
+          "cue": "poštovati",
+          "accepted": [
+            "poštovao"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 44 і дві хибні пари: zavod (рос. завод) та sklad (укр. склад), плюс pravo з Lekcija 28.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "закон",
+          "answer": "zakon"
+        },
+        {
+          "prompt": "правило",
+          "answer": "pravilo"
+        },
+        {
+          "prompt": "обов'язок",
+          "answer": "dužnost"
+        },
+        {
+          "prompt": "зобов'язання",
+          "answer": "obveza"
+        },
+        {
+          "prompt": "громадянин",
+          "answer": "građanin"
+        },
+        {
+          "prompt": "держава",
+          "answer": "država"
+        },
+        {
+          "prompt": "суспільство; компанія",
+          "answer": "društvo"
+        },
+        {
+          "prompt": "суд",
+          "answer": "sud"
+        },
+        {
+          "prompt": "поліція",
+          "answer": "policija"
+        },
+        {
+          "prompt": "покарання, штраф",
+          "answer": "kazna"
+        },
+        {
+          "prompt": "свобода",
+          "answer": "sloboda"
+        },
+        {
+          "prompt": "установа, інститут (не завод)",
+          "answer": "zavod"
+        },
+        {
+          "prompt": "гармонія, лад (не склад)",
+          "answer": "sklad"
+        },
+        {
+          "prompt": "право на щось; прямо (не вправо)",
+          "answer": "pravo"
+        },
+        {
+          "prompt": "заборонений",
+          "answer": "zabranjen"
+        },
+        {
+          "prompt": "дозволений",
+          "answer": "dopušten"
+        },
+        {
+          "prompt": "зобов'язаний",
+          "answer": "dužan"
+        }
+      ],
+      "extra": [
+        "jezik",
+        "mjesto"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}

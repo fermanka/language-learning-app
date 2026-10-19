@@ -1,0 +1,1867 @@
+{
+  "id": "hr-les-45",
+  "lang": "hr",
+  "order": 45,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "jučer",
+    "navečer",
+    "čitala",
+    "sam",
+    "vijesti",
+    "internetu",
+    "će",
+    "sutra",
+    "padati",
+    "jaka",
+    "jak",
+    "kaže",
+    "da",
+    "je",
+    "blizu",
+    "rijeke",
+    "bila",
+    "bio",
+    "bilo",
+    "gradu",
+    "nego",
+    "prošle",
+    "godine",
+    "sve",
+    "manje",
+    "više",
+    "ljudi",
+    "vozi",
+    "auto",
+    "auta",
+    "bicikl",
+    "se",
+    "za",
+    "deset",
+    "posto",
+    "moja",
+    "susjeda",
+    "misli",
+    "to",
+    "dobra",
+    "vijest",
+    "ja",
+    "nadam",
+    "biti",
+    "i",
+    "idućeg",
+    "ljeta",
+    "ipak",
+    "nitko",
+    "ne",
+    "zna",
+    "što",
+    "rekao",
+    "rekla",
+    "vjetra",
+    "vjetar",
+    "izvješću",
+    "vijestima",
+    "nema",
+    "požara",
+    "kiše",
+    "kiša",
+    "očekuje",
+    "toplo",
+    "hladno",
+    "puno",
+    "prometa",
+    "topla",
+    "putuje",
+    "vlakom",
+    "kupuje",
+    "novine",
+    "broj",
+    "povećao",
+    "smanjio",
+    "račun",
+    "račune",
+    "dvadeset",
+    "eura",
+    "dva",
+    "tri",
+    "polaznika",
+    "šezdeset",
+    "puhati",
+    "subotu",
+    "nedjelju",
+    "ostanite",
+    "kod",
+    "kuće",
+    "idite",
+    "upozoravaju",
+    "poplavu",
+    "upozorava",
+    "zbog",
+    "nesreće",
+    "autobusa",
+    "jer",
+    "ima",
+    "malo",
+    "zato",
+    "volim",
+    "prirodu",
+    "bi",
+    "dobro",
+    "recikliramo",
+    "škole",
+    "recikliraju",
+    "bolje",
+    "ostanemo",
+    "oluja",
+    "oluje",
+    "loš",
+    "zdrav",
+    "brzo",
+    "sav",
+    "selu",
+    "kišu",
+    "buru",
+    "snijeg",
+    "snijega",
+    "šećer",
+    "šećera",
+    "kave",
+    "kavu",
+    "sok",
+    "djecu",
+    "djece",
+    "zube",
+    "plaća",
+    "plaću",
+    "plaće",
+    "tisuću",
+    "cesti",
+    "cestu",
+    "cesta",
+    "šumi",
+    "šumu",
+    "proljeće",
+    "vikend",
+    "hladan",
+    "vrlo",
+    "veliki",
+    "problem",
+    "vrećici",
+    "nedjeljom",
+    "šetamo",
+    "članak",
+    "vratima",
+    "firma",
+    "želimo",
+    "ulica",
+    "voda",
+    "rijeci",
+    "opet",
+    "jutros",
+    "ovdje",
+    "ovaj",
+    "ova",
+    "ta",
+    "taj",
+    "svake",
+    "mjesec",
+    "svaki",
+    "dan",
+    "danas",
+    "petog",
+    "svibnja",
+    "petak",
+    "petku",
+    "pada",
+    "puše",
+    "vozite",
+    "voze",
+    "voditi",
+    "vodimo",
+    "često",
+    "uvijek",
+    "svjež",
+    "svježeg",
+    "slatki",
+    "zrak",
+    "zraku",
+    "kiši",
+    "novinama",
+    "mi",
+    "ti",
+    "vi",
+    "oni",
+    "ona",
+    "mene",
+    "javim",
+    "kad",
+    "sa",
+    "na",
+    "u",
+    "o",
+    "od",
+    "iz",
+    "s",
+    "li",
+    "auti",
+    "prema",
+    "bit",
+    "oluji",
+    "jaku",
+    "kasno",
+    "pročitao",
+    "kratko",
+    "dobre",
+    "oluju"
+  ],
+  "notes": [
+    {
+      "id": "hr-56f7f5f0",
+      "type": "noun",
+      "lemma": "okoliš",
+      "gender": "m.",
+      "gen_sg": "okoliša",
+      "plural": [],
+      "ua": "довкілля",
+      "audio": "hr-okolis.mp3",
+      "forms": [
+        "okoliša",
+        "okolišu",
+        "okoliš",
+        "okolišem"
+      ],
+      "explain_ua": "(Volim čist okoliš = люблю чисте довкілля). УВАГА ДО ВСЬОГО УРОКУ: усі події, новини, прогнози, цифри й відсотки в цьому уроці вигадані для вправ. Це мовна практика, а не справжні новини й не інформація про Хорватію. Чоловічого роду: okoliš, okoliša, okolišu. Множини в цьому значенні немає. Пиши š: okoliš. Українське «довкілля» інше слово, його просто вчимо. У сербському стандарті кажуть «životna sredina»: якщо почуєш, знай, що це не хорватський варіант. Прикметник чист про довкілля, див. нижче.",
+      "check": "Форми з мого знання, відсутність множини з мого знання. Що «životna sredina» не хорватський варіант, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-7d4b7c96",
+      "type": "noun",
+      "lemma": "priroda",
+      "gender": "ž.",
+      "gen_sg": "prirode",
+      "plural": [
+        "prirode"
+      ],
+      "ua": "природа",
+      "audio": "hr-priroda.mp3",
+      "forms": [
+        "prirode",
+        "prirodi",
+        "prirodu",
+        "prirodom",
+        "priroda"
+      ],
+      "explain_ua": "(Nedjeljom šetamo u prirodi = у неділю гуляємо на природі). Жіночий рід на -a: priroda, prirode, prirodu (знахідний). Де: u prirodi (місцевий), куди: u prirodu (знахідний), як у Lekcija 5. Українське «природа» те саме слово, але закінчення хорватське: -a, -e.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-7849008b",
+      "type": "noun",
+      "lemma": "zrak",
+      "gender": "m.",
+      "gen_sg": "zraka",
+      "plural": [],
+      "ua": "повітря",
+      "audio": "hr-zrak.mp3",
+      "forms": [
+        "zraka",
+        "zraku",
+        "zrak"
+      ],
+      "explain_ua": "(Zrak je ovdje svjež = повітря тут свіже). Чоловічого роду: zrak, zraka, zraku. Множини в цьому значенні не вживаємо. Українське «повітря» зовсім інше слово, його просто вчимо. Є ще слово zraka (промінь, жіночого роду): його не вчимо, просто знай, що zrak це повітря. У сербському стандарті кажуть «vazduh»; якщо почуєш, це не хорватський варіант.",
+      "check": "Форми з мого знання; що zraka (промінь) жіночого роду й що vazduh не хорватський варіант, з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-a08c9738",
+      "type": "noun",
+      "lemma": "otpad",
+      "gender": "m.",
+      "gen_sg": "otpada",
+      "plural": [],
+      "ua": "відходи",
+      "audio": "hr-otpad.mp3",
+      "forms": [
+        "otpada",
+        "otpadu",
+        "otpad"
+      ],
+      "explain_ua": "(Otpad je veliki problem = відходи це велика проблема). Чоловічого роду, в однині: otpad, otpada, otpadu. Українське «відходи» множинне, а otpad хорватською однина: Otpad je, не «otpadi su». Сміття, яке викидаємо вдома, це smeće (нижче); otpad ширше слово. Таке розрізнення за звичним вживанням.",
+      "check": "Форми з мого знання; розрізнення otpad / smeće подаю як звичне вживання, у словнику не звіряв."
+    },
+    {
+      "id": "hr-39d6c22c",
+      "type": "noun",
+      "lemma": "smeće",
+      "gender": "s.",
+      "gen_sg": "smeća",
+      "plural": [],
+      "ua": "сміття",
+      "audio": "hr-smece.mp3",
+      "forms": [
+        "smeća",
+        "smeću",
+        "smeće"
+      ],
+      "explain_ua": "(Smeće je u vrećici = сміття в пакеті). Середній рід на -e: smeće, smeća, smeću. Однина, без множини: Smeće je, не «smeća su». Українське «сміття» схоже, але закінчення хорватське. Пиши ć: smeće.",
+      "check": "Форми з мого знання за зразком polje; відсутність множини з мого знання."
+    },
+    {
+      "id": "hr-38f96eb2",
+      "type": "noun",
+      "lemma": "promet",
+      "gender": "m.",
+      "gen_sg": "prometa",
+      "plural": [],
+      "ua": "рух (транспорту), трафік",
+      "audio": "hr-promet.mp3",
+      "forms": [
+        "prometa",
+        "prometu",
+        "promet"
+      ],
+      "explain_ua": "(U gradu je puno prometa = у місті багато руху). Чоловічого роду: promet, prometa, prometu. Після puno і malo родовий: puno prometa (Lekcija 15). Promet має ще значення «обіг» у торгівлі, але ми вчимо лише рух на дорогах. Це різні значення одного слова, не хибний друг.",
+      "check": "Форми з мого знання; друге значення (обіг) згадую з мого знання, не вправляю."
+    },
+    {
+      "id": "hr-3e5fa4d6",
+      "type": "noun",
+      "lemma": "nesreća",
+      "gender": "ž.",
+      "gen_sg": "nesreće",
+      "plural": [
+        "nesreće"
+      ],
+      "ua": "аварія; нещастя",
+      "audio": "hr-nesreca.mp3",
+      "forms": [
+        "nesreće",
+        "nesreći",
+        "nesreću",
+        "nesreća"
+      ],
+      "explain_ua": "(Na cesti je bila nesreća = на дорозі була аварія). Жіночий рід на -a: nesreća, nesreće, nesreću. Родовий множини такий самий, як називний однини: puno nesreća. Минулий час погоджується з родом: bila je nesreća (ж.), bio je požar (ч.), bilo je puno nesreća (с.). Слово містить sreća (щастя) з ne-: підказка для пам'яті, не перевірена етимологія. Пиши ć.",
+      "check": "Форми з мого знання; родовий множини nesreća з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-b5da7b95",
+      "type": "noun",
+      "lemma": "klima",
+      "gender": "ž.",
+      "gen_sg": "klime",
+      "plural": [
+        "klime"
+      ],
+      "ua": "клімат",
+      "audio": "hr-klima.mp3",
+      "forms": [
+        "klime",
+        "klimi",
+        "klimu",
+        "klima"
+      ],
+      "explain_ua": "(Klima na otoku je topla = клімат на острові теплий). Жіночий рід на -a: klima, klime, klimi (місцевий). Українське «клімат» чоловічого роду, а хорватське klima жіночого: прикметник теж жіночий, topla klima. Слово вживається в однині.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-0f2b4a49",
+      "type": "noun",
+      "lemma": "požar",
+      "gender": "m.",
+      "gen_sg": "požara",
+      "plural": [
+        "požari"
+      ],
+      "ua": "пожежа",
+      "audio": "hr-pozar.mp3",
+      "forms": [
+        "požara",
+        "požaru",
+        "požari",
+        "požare",
+        "požar"
+      ],
+      "explain_ua": "(Jutros je u šumi bio požar = сьогодні вранці в лісі була пожежа). Чоловічого роду: požar, požara, požari. Тримайся російської: російське «пожар» і хорватське požar майже збігаються, а українське «пожежа» інше слово. Минулий час чоловічого роду: bio je požar. Пиши ž.",
+      "check": "Форми з мого знання; що саме з російською збігається, з мого знання."
+    },
+    {
+      "id": "hr-c22e675c",
+      "type": "noun",
+      "lemma": "poplava",
+      "gender": "ž.",
+      "gen_sg": "poplave",
+      "plural": [
+        "poplave"
+      ],
+      "ua": "повінь, потоп",
+      "audio": "hr-poplava.mp3",
+      "forms": [
+        "poplave",
+        "poplavi",
+        "poplavu",
+        "poplava"
+      ],
+      "explain_ua": "(Poplava je bila u proljeće = повінь була навесні). Жіночий рід на -a: poplava, poplave, poplavu. Родовий множини poplava. Минулий час жіночого роду: bila je poplava. Це вигадані події для вправ. Дієслова й іменники тут мають тільки мовне призначення, не інформацію про реальні події. Українське «повінь» інше слово, його просто вчимо.",
+      "check": "Форми за зразком škola з мого знання."
+    },
+    {
+      "id": "hr-2d8926a4",
+      "type": "noun",
+      "lemma": "potres",
+      "gender": "m.",
+      "gen_sg": "potresa",
+      "plural": [
+        "potresi"
+      ],
+      "ua": "землетрус",
+      "audio": "hr-potres.mp3",
+      "forms": [
+        "potresa",
+        "potresu",
+        "potresi",
+        "potres"
+      ],
+      "explain_ua": "(Potres je bio navečer = землетрус був увечері). Чоловічого роду: potres, potresa, potresi. Минулий час: bio je potres. Зв'язок із потрясінням (потрясати) це лише підказка для пам'яті, не перевірена етимологія. У сербському стандарті кажуть «zemljotres»: якщо почуєш, це не хорватський варіант. Це вигадані події для вправ.",
+      "check": "Форми з мого знання; що zemljotres не хорватський варіант, з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-a9778f0c",
+      "type": "noun",
+      "lemma": "novinar",
+      "gender": "m.",
+      "gen_sg": "novinara",
+      "plural": [
+        "novinari"
+      ],
+      "ua": "журналіст",
+      "audio": "hr-novinar.mp3",
+      "forms": [
+        "novinara",
+        "novinaru",
+        "novinari",
+        "novinare",
+        "novinar"
+      ],
+      "explain_ua": "(Novinar piše članak = журналіст пише статтю). Чоловічого роду: novinar, novinara, novinari. Жінка-журналістка novinarka, novinarke. Слово пов'язане з novine (газета): підказка для пам'яті, не етимологія. Говорить новинар: novinar kaže da... (Lekcija 31).",
+      "check": "Форми з мого знання; жіночу форму novinarka, novinarke у словнику не звіряв."
+    },
+    {
+      "id": "hr-6bad99ec",
+      "type": "noun",
+      "lemma": "izvješće",
+      "gender": "s.",
+      "gen_sg": "izvješća",
+      "plural": [
+        "izvješća"
+      ],
+      "ua": "звіт; репортаж",
+      "audio": "hr-izvjesce.mp3",
+      "forms": [
+        "izvješća",
+        "izvješću",
+        "izvješće"
+      ],
+      "explain_ua": "(Izvješće je kratko = звіт короткий). Середній рід на -e: izvješće, izvješća, izvješću. Пиши š і ć: izvješće. Prema izvješću = за звітом (давальний, див. картку 1). Українське «звіт» і «репортаж» інші слова, просто вчимо.",
+      "check": "Форми з мого знання; що izvještaj теж вживається поруч, з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-c410799d",
+      "type": "noun",
+      "lemma": "prognoza",
+      "gender": "ž.",
+      "gen_sg": "prognoze",
+      "plural": [
+        "prognoze"
+      ],
+      "ua": "прогноз",
+      "audio": "hr-prognoza.mp3",
+      "forms": [
+        "prognoze",
+        "prognozi",
+        "prognozu",
+        "prognoza"
+      ],
+      "explain_ua": "(Prognoza za sutra je dobra = прогноз на завтра добрий). Жіночий рід на -a: prognoza, prognoze, prognozi. Українське «прогноз» чоловічого роду, а хорватське prognoza жіночого: це пастка роду, прикметник теж жіночий, dobra prognoza. Prema prognozi = за прогнозом (давальний).",
+      "check": "Форми з мого знання за зразком škola."
+    },
+    {
+      "id": "hr-557c2a46",
+      "type": "noun",
+      "lemma": "upozorenje",
+      "gender": "s.",
+      "gen_sg": "upozorenja",
+      "plural": [
+        "upozorenja"
+      ],
+      "ua": "попередження",
+      "audio": "hr-upozorenje.mp3",
+      "forms": [
+        "upozorenja",
+        "upozorenju",
+        "upozorenje"
+      ],
+      "explain_ua": "(Na vratima je upozorenje = на дверях попередження). Середній рід на -nje: upozorenje, upozorenja, upozorenju (як stanje, Lekcija 34). Від дієслова upozoriti (нижче). Попередження про що: upozorenje na + знахідний, як дієслово.",
+      "check": "Форми з мого знання за зразком stanje; upozorenje na + A з мого знання."
+    },
+    {
+      "id": "hr-7e79e6aa",
+      "type": "verb",
+      "lemma": "zagaditi",
+      "aspect": "pf.",
+      "partner": "zagađivati",
+      "pres_1sg": "zagadim",
+      "forms": [
+        "zagadim",
+        "zagadiš",
+        "zagadi",
+        "zagadimo",
+        "zagadite",
+        "zagade",
+        "zagadila",
+        "zagadili",
+        "zagadio",
+        "zagađivati",
+        "zagađujem",
+        "zagađuješ",
+        "zagađuje",
+        "zagađujemo",
+        "zagađujete",
+        "zagađuju",
+        "zagađivala",
+        "zagađivali",
+        "zagadilo"
+      ],
+      "ua": "забруднити (недок. zagađivati)",
+      "audio": "hr-zagaditi.mp3",
+      "explain_ua": "(Auti zagađuju zrak = автомобілі забруднюють повітря). Пара: zagaditi (док.) / zagađivati (недок.): zagadim > zagađujem, d > đ у недоконаного. Керує знахідним: zagađivati zrak, rijeku. Недок. для процесу чи звички, док. для результату: smeće je zagadilo okoliš. Пиши đ.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (3 особа множини zagade, чергування d > đ)."
+    },
+    {
+      "id": "hr-bd337860",
+      "type": "verb",
+      "lemma": "povećati",
+      "aspect": "pf.",
+      "partner": "povećavati",
+      "pres_1sg": "povećam",
+      "forms": [
+        "povećam",
+        "povećaš",
+        "poveća",
+        "povećamo",
+        "povećate",
+        "povećaju",
+        "povećala",
+        "povećali",
+        "povećao",
+        "povećavati",
+        "povećavam",
+        "povećavaš",
+        "povećava",
+        "povećavamo",
+        "povećavate",
+        "povećavaju",
+        "povećavala",
+        "povećavali"
+      ],
+      "ua": "збільшити (недок. povećavati); povećati se = збільшитися",
+      "audio": "hr-povecati.mp3",
+      "explain_ua": "(Firma je povećala plaće = фірма збільшила зарплати). Пара: povećati (док.) / povećavati (недок.): povećam > povećavam. Два випадки: з об'єктом (povećati plaće) і зі se, коли щось саме росте (račun se povećao). Se на другому місці. Скільки на: za + знахідний (za dvadeset eura), до скількох: na + знахідний, див. картку 2.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-3ebbf15a",
+      "type": "verb",
+      "lemma": "smanjiti",
+      "aspect": "pf.",
+      "partner": "smanjivati",
+      "pres_1sg": "smanjim",
+      "forms": [
+        "smanjim",
+        "smanjiš",
+        "smanji",
+        "smanjimo",
+        "smanjite",
+        "smanje",
+        "smanjila",
+        "smanjili",
+        "smanjio",
+        "smanjivati",
+        "smanjujem",
+        "smanjuješ",
+        "smanjuje",
+        "smanjujemo",
+        "smanjujete",
+        "smanjuju",
+        "smanjivala",
+        "smanjivali"
+      ],
+      "ua": "зменшити (недок. smanjivati); smanjiti se = зменшитися",
+      "audio": "hr-smanjiti.mp3",
+      "explain_ua": "(Želimo smanjiti račune = хочемо зменшити рахунки). Пара: smanjiti (док.) / smanjivati (недок.): smanjim > smanjujem. З об'єктом: smanjiti račune; зі se, коли щось саме зменшується: promet se smanjio. Скільки на: za + знахідний, до скількох: na + знахідний, див. картку 2. Пиши nj: smanjiti.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (3 особа множини smanje)."
+    },
+    {
+      "id": "hr-eb55d0ba",
+      "type": "verb",
+      "lemma": "najaviti",
+      "aspect": "pf.",
+      "partner": "najavljivati",
+      "pres_1sg": "najavim",
+      "forms": [
+        "najavim",
+        "najaviš",
+        "najavi",
+        "najavimo",
+        "najavite",
+        "najave",
+        "najavila",
+        "najavili",
+        "najavio",
+        "najavljivati",
+        "najavljujem",
+        "najavljuješ",
+        "najavljuje",
+        "najavljujemo",
+        "najavljujete",
+        "najavljuju",
+        "najavljivala",
+        "najavljivali"
+      ],
+      "ua": "оголосити наперед, анонсувати (недок. najavljivati)",
+      "audio": "hr-najaviti.mp3",
+      "explain_ua": "(Prognoza najavljuje kišu = прогноз обіцяє дощ). Пара: najaviti (док.) / najavljivati (недок.): najavim > najavljujem, v > vlj у недоконаного. Керує знахідним: najaviti kišu, oluju. Про прогноз, новину чи подію, яка ще буде. Українське «оголосити наперед, анонсувати» ближче, ніж «повідомити».",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (чергування v > vlj)."
+    },
+    {
+      "id": "hr-79e9a97c",
+      "type": "verb",
+      "lemma": "upozoriti",
+      "aspect": "pf.",
+      "partner": "upozoravati",
+      "pres_1sg": "upozorim",
+      "forms": [
+        "upozorim",
+        "upozoriš",
+        "upozori",
+        "upozorimo",
+        "upozorite",
+        "upozore",
+        "upozorila",
+        "upozorili",
+        "upozorio",
+        "upozoravati",
+        "upozoravam",
+        "upozoravaš",
+        "upozorava",
+        "upozoravamo",
+        "upozoravate",
+        "upozoravaju",
+        "upozoravala",
+        "upozoravali"
+      ],
+      "ua": "попередити (недок. upozoravati)",
+      "audio": "hr-upozoriti.mp3",
+      "explain_ua": "(Prognoza nas upozorava na oluju = прогноз попереджає нас про бурю). Пара: upozoriti (док.) / upozoravati (недок.): upozorim > upozoravam. Кого: знахідний, про що: na + знахідний (upozoriti sina na opasnost). Українське «попередити про» дає про + знахідний, тож тримайся української: na + A. Клітик nas, vas, te на другому місці. Імператив: upozori ga, upozorite ih.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (3 особа множини upozore; форма upozorava, а не upozoravaje)."
+    },
+    {
+      "id": "hr-8e72ecac",
+      "type": "verb",
+      "lemma": "reciklirati",
+      "aspect": "impf.",
+      "pres_1sg": "recikliram",
+      "forms": [
+        "recikliram",
+        "recikliraš",
+        "reciklira",
+        "recikliramo",
+        "reciklirate",
+        "recikliraju",
+        "reciklirala",
+        "reciklirali",
+        "reciklirao"
+      ],
+      "ua": "переробляти (вторсировину), сортувати для переробки",
+      "audio": "hr-reciklirati.mp3",
+      "explain_ua": "(Recikliramo smeće = переробляємо сміття). Дієвідміна -am: recikliram, recikliraš, reciklira. Керує знахідним: reciklirati otpad, papir. Українське «рециклінг» і хорватське reciklirati схожі, тож слово легко вчиться. Пари доконаного у словнику може не бути; у розмові вживаємо одне слово для процесу і для результату.",
+      "check": "Форми з мого знання за зразком čitati; що парного доконаного немає й що слово двовидове, у словнику не звіряв."
+    },
+    {
+      "id": "hr-6ef87991",
+      "type": "verb",
+      "lemma": "očekivati",
+      "aspect": "impf.",
+      "pres_1sg": "očekujem",
+      "forms": [
+        "očekujem",
+        "očekuješ",
+        "očekuje",
+        "očekujemo",
+        "očekujete",
+        "očekuju",
+        "očekivala",
+        "očekivali",
+        "očekivao"
+      ],
+      "ua": "очікувати, чекати (чогось, що має бути)",
+      "audio": "hr-ocekivati.mp3",
+      "explain_ua": "(Očekujemo hladan vikend = очікуємо холодні вихідні). Дієвідміна -ujem: očekujem, očekuješ, očekuje (як kupovati, Lekcija 1). Керує знахідним: očekivati kišu, poziv. Očekuje se da... = очікується, що... (картка 1). Čekati (Lekcija 13) це просто чекати когось чи щось, а očekivati це припускати, що воно настане. Пари доконаного в живому вжитку, з мого знання, немає.",
+      "check": "Форми з мого знання; відсутність пари доконаного, з мого знання, звірити з hjp."
+    },
+    {
+      "id": "hr-4a32740a",
+      "type": "adjective",
+      "lemma": "čist",
+      "fem": "čista",
+      "neut": "čisto",
+      "ua": "чистий",
+      "audio": "hr-cist.mp3",
+      "forms": [
+        "čista",
+        "čisto",
+        "čisti",
+        "čiste",
+        "čistu",
+        "čišći",
+        "čišće",
+        "čišća"
+      ],
+      "explain_ua": "(Zrak je ovdje čist = повітря тут чисте). Прикметник: čist, čista, čisto. Знахідний чоловічого неживого такий самий, як називний: volim čist okoliš. Вищий ступінь čišći (st > šć): zrak je čišći nego prošle godine (Lekcija 17). Родина слова čistiti (Lekcija 24).",
+      "check": "Форми з мого знання; вищий ступінь čišći (st > šć) з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-ea6ffdd8",
+      "type": "adjective",
+      "lemma": "štetan",
+      "fem": "štetna",
+      "neut": "štetno",
+      "ua": "шкідливий",
+      "audio": "hr-stetan.mp3",
+      "forms": [
+        "štetna",
+        "štetno",
+        "štetni",
+        "štetne",
+        "štetnu"
+      ],
+      "explain_ua": "(Previše šećera je štetno za zdravlje = забагато цукру шкідливо для здоров'я). Нестійке a: štetan, štetna, štetno. Для кого чи чого: za + знахідний (štetno za zdravlje). Підказка для пам'яті, не з перевіреної таблиці: російське «вредный» це хорватське štetan; не плутай із vrijedan (Lekcija 11), це зовсім інше слово: vrijedan це працьовитий чи цінний. У банку помилок štetan не заносимо.",
+      "check": "Форми з мого знання; зв'язок із російським «вредный» подаю з мого знання, не з таблиці хибних друзів."
+    },
+    {
+      "id": "hr-617d06a8",
+      "type": "adjective",
+      "lemma": "opasan",
+      "fem": "opasna",
+      "neut": "opasno",
+      "ua": "небезпечний",
+      "audio": "hr-opasan.mp3",
+      "forms": [
+        "opasna",
+        "opasno",
+        "opasni",
+        "opasne",
+        "opasnu"
+      ],
+      "explain_ua": "(Bura je vrlo opasna = бора дуже небезпечна). Нестійке a: opasan, opasna, opasno. Опасно кажемо про дорогу, погоду, діло: opasna cesta. Для кого: za + знахідний (opasno za djecu). Російське «опасный» і хорватське opasan схожі; в українській «небезпечний» інше слово, тож тримайся російської.",
+      "check": "Форми з мого знання; opasan za + A з мого знання."
+    },
+    {
+      "id": "hr-172f6b01",
+      "type": "false_friend",
+      "lemma": "tuča",
+      "ua": "град (опади)",
+      "uk_lookalike": "туча (рос.)",
+      "uk_means": "велика хмара (рос. туча)",
+      "audio": "hr-tuca.mp3",
+      "forms": [
+        "tuče",
+        "tuči",
+        "tuču",
+        "tuča"
+      ],
+      "explain_ua": "(ж. р., G. tuče, мн. tuče; Jutros je padala tuča = сьогодні вранці падав град). Хорватське tuča це град, а російське «туча» це велика хмара. Пара з таблиці російсько-хорватських хибних друзів. Падає tuča, а хмара хорватською oblak (слово не вчимо тут). Не пиши tuča, коли маєш на увазі хмару.",
+      "check": "Пара з таблиці російсько-хорватських хибних друзів. Українське «туча» як хмара у таблиці не перевіряв; форми tuče, tuču з мого знання."
+    },
+    {
+      "id": "hr-9cb459f5",
+      "type": "false_friend",
+      "lemma": "lug",
+      "ua": "гай",
+      "uk_lookalike": "луг (рос.)",
+      "uk_means": "луг, лука",
+      "audio": "hr-lug.mp3",
+      "forms": [
+        "luga",
+        "lugu",
+        "lugovi",
+        "lug"
+      ],
+      "explain_ua": "(ч. р., G. luga, мн. lugovi; Iza kuće je mali lug = за будинком маленький гай). Хорватське lug це гай, невеликий ліс, а російське «луг» це луг, лука. Пара з таблиці російсько-хорватських хибних друзів. Українське «луг» теж означає луг, тож тримайся значення «гай», а не «луг».",
+      "check": "Пара з таблиці російсько-хорватських хибних друзів. Множина lugovi з мого знання, звірити з hjp.znanje.hr; українське «луг» як луг, з мого знання."
+    },
+    {
+      "id": "hr-aa91b409",
+      "type": "false_friend",
+      "lemma": "žito",
+      "ua": "зернові, збіжжя",
+      "uk_lookalike": "жито",
+      "uk_means": "жито (рослина)",
+      "audio": "hr-zito.mp3",
+      "forms": [
+        "žita",
+        "žitu",
+        "žito"
+      ],
+      "explain_ua": "(с. р., G. žita, мн. žita; Žito raste blizu rijeke = зернові ростуть біля річки). Хорватське žito це зернові, збіжжя взагалі, а українське жито це лише одна рослина. Пара з таблиці українсько-хорватських хибних друзів. Жито хорватською raž (слово не вчимо тут).",
+      "check": "Пара з таблиці українсько-хорватських хибних друзів. Слово raž = жито з мого знання, звірити з hjp."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Джерело новини: prema, novinar kaže da, očekuje se da, kaže se da",
+      "summary_ua": "Звідки відомо: prema + давальний (prema prognozi, prema izvješću, prema vijestima). Тримайся російського «по прогнозу, согласно + давальний»: так само давальний. Українське «за прогнозом, згідно з прогнозом» веде до орудного, тож тут українська збиває. Хто сказав: novinar kaže da..., rekao je da... (Lekcija 31). Безособово: očekuje se da..., kaže se da... Усі новини й прогнози вигадані. Se на другому місці: kaže se. Prema prognozi це один блок, клітик стоїть одразу за ним.",
+      "compare": [
+        {
+          "form": "prema + давальний",
+          "when_ua": "Джерело: за прогнозом, за звітом, за новинами.",
+          "examples": [
+            {
+              "text": "Prema vijestima bit će vjetra.",
+              "ua": "За новинами буде вітер.",
+              "audio": "hr-les45-rule-01.mp3"
+            },
+            {
+              "text": "Prema izvješću u gradu nema požara.",
+              "ua": "За звітом у місті немає пожеж.",
+              "audio": "hr-les45-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Після prema давальний: prognoza > prognozi, izvješće > izvješću, vijesti > vijestima. Не «prema prognozu». Клітик стоїть одразу після блоку «prema prognozi»: Prema prognozi će sutra padati kiša (Lekcija 35). Російське «по прогнозу» дає давальний, як і prema."
+        },
+        {
+          "form": "novinar kaže da / rekao je da",
+          "when_ua": "Передаю слова журналіста.",
+          "examples": [
+            {
+              "text": "Novinar kaže da je bio potres.",
+              "ua": "Журналіст каже, що був землетрус.",
+              "audio": "hr-les45-rule-03.mp3"
+            },
+            {
+              "text": "Novinar je rekao da će biti kiše.",
+              "ua": "Журналіст сказав, що буде дощ.",
+              "audio": "hr-les45-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Da, не «što»: kaže da, rekao je da (Lekcija 31). Час залишається такий, як у прямій мові. Минулий час дієслова biti погоджується з родом: bio je potres, bila je poplava. Bit će kiše: після bit će родовий, як у «буде дощ»."
+        },
+        {
+          "form": "očekuje se da",
+          "when_ua": "Безособово: очікується, що.",
+          "examples": [
+            {
+              "text": "Očekuje se da će sutra biti toplo.",
+              "ua": "Очікується, що завтра буде тепло.",
+              "audio": "hr-les45-rule-05.mp3"
+            },
+            {
+              "text": "Očekuje se da će biti puno prometa.",
+              "ua": "Очікується, що буде багато руху.",
+              "audio": "hr-les45-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Se на другому місці, після дієслова: očekuje se, очікується. Після da майбутній час: će biti (Lekcija 12). Українське «очікується, що» будується так само."
+        },
+        {
+          "form": "kaže se da",
+          "when_ua": "Безособово: кажуть, що.",
+          "examples": [
+            {
+              "text": "Kaže se da je klima ovdje topla.",
+              "ua": "Кажуть, що клімат тут теплий.",
+              "audio": "hr-les45-rule-07.mp3"
+            },
+            {
+              "text": "Kaže se da je prošle godine bilo puno požara.",
+              "ua": "Кажуть, що торік було багато пожеж.",
+              "audio": "hr-les45-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Це пасив із se (Lekcija 36). Родовий після puno: puno požara. Bilo je, середній рід, бо puno + родовий займає місце підмета. Усі твердження вигадані."
+        }
+      ],
+      "points_ua": [
+        "Prema + давальний: prema prognozi, prema izvješću; російське «по» веде, українське «за» збиває.",
+        "Novinar kaže da..., rekao je da...: da, не «što».",
+        "Očekuje se da..., kaže se da...: se на другому місці."
+      ]
+    },
+    {
+      "title_ua": "Тенденція: sve više, sve manje; povećati se, smanjiti se; za і na",
+      "summary_ua": "Дедалі більше чи менше: sve više / sve manje + родовий множини (sve više ljudi, sve manje djece). Дієслово тоді в однині. Зросло чи зменшилося: povećati se, smanjiti se, зі se на другому місці. Скільки: на скільки зросло це za + знахідний (by), до скількох зросло це na + знахідний (to). Українське «на п'ять» (by) = za, а українське «до ста» (to) = na: не плутай. Усі цифри вигадані.",
+      "compare": [
+        {
+          "form": "sve više / sve manje + родовий",
+          "when_ua": "Дедалі більше, дедалі менше.",
+          "examples": [
+            {
+              "text": "Sve više ljudi putuje vlakom.",
+              "ua": "Дедалі більше людей їздить поїздом.",
+              "audio": "hr-les45-rule-09.mp3"
+            },
+            {
+              "text": "Sve manje ljudi kupuje novine.",
+              "ua": "Дедалі менше людей купує газети.",
+              "audio": "hr-les45-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Після više і manje родовий множини (Lekcija 15): ljudi, djece, požara. Дієслово далі в однині: sve više ljudi putuje; форму множини теж чути, але вчимо однину. Українське «дедалі більше людей» будується так само."
+        },
+        {
+          "form": "povećati se, smanjiti se",
+          "when_ua": "Щось саме зростає чи зменшується.",
+          "examples": [
+            {
+              "text": "Broj požara se povećao.",
+              "ua": "Кількість пожеж зросла.",
+              "audio": "hr-les45-rule-11.mp3"
+            },
+            {
+              "text": "Broj nesreća se smanjio.",
+              "ua": "Кількість аварій зменшилася.",
+              "audio": "hr-les45-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Підмет broj чоловічого роду, тому povećao, smanjio. Se стоїть на другому місці після блоку «broj požara». Родовий множини: požara, nesreća. Доконане, бо це змінилося раз."
+        },
+        {
+          "form": "za + знахідний: на скільки (by)",
+          "when_ua": "Різниця: на двадцять євро.",
+          "examples": [
+            {
+              "text": "Račun se povećao za dvadeset eura.",
+              "ua": "Рахунок зріс на двадцять євро.",
+              "audio": "hr-les45-rule-13.mp3"
+            },
+            {
+              "text": "Broj požara se smanjio za dva.",
+              "ua": "Кількість пожеж зменшилася на два.",
+              "audio": "hr-les45-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Українське «на двадцять євро» (різниця) = za dvadeset eura. Не «na dvadeset eura»: це вже інший зміст, див. далі."
+        },
+        {
+          "form": "na + знахідний: до скількох (to)",
+          "when_ua": "Результат: тепер десять.",
+          "examples": [
+            {
+              "text": "Broj polaznika se smanjio na deset.",
+              "ua": "Кількість слухачів зменшилася до десяти.",
+              "audio": "hr-les45-rule-15.mp3"
+            },
+            {
+              "text": "Račun se smanjio na šezdeset eura.",
+              "ua": "Рахунок зменшився до шістдесяти євро.",
+              "audio": "hr-les45-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Українське «до десяти» (результат) = na deset. Тому хорватське na відповідає українському «до», а za українському «на». Не «do deset»: do тут не працює."
+        }
+      ],
+      "points_ua": [
+        "Sve više / sve manje + родовий множини; дієслово в однині.",
+        "Za = на скільки (різниця); na = до скількох (результат).",
+        "Se на другому місці: broj nesreća se smanjio."
+      ]
+    },
+    {
+      "title_ua": "Прогноз і попередження: će padati, bit će, upozoriti na, наказ",
+      "summary_ua": "Що буде: майбутній час недоконаного для процесу, će padati, će puhati (Lekcija 12). Буде + стан: bit će / će biti + прислівник (će biti hladno). Попередження: upozoravati na + знахідний. Порада: наказ у множині (Ostanite kod kuće, Ne idite u šumu, Lekcija 23). Ввічливо й офіційно кажемо множиною, як у «ви».",
+      "compare": [
+        {
+          "form": "će + недоконане: процес",
+          "when_ua": "Що буде тривати: падатиме, дутиме.",
+          "examples": [
+            {
+              "text": "Sutra će puhati jak vjetar.",
+              "ua": "Завтра дутиме сильний вітер.",
+              "audio": "hr-les45-rule-17.mp3"
+            },
+            {
+              "text": "U subotu će padati snijeg.",
+              "ua": "У суботу падатиме сніг.",
+              "audio": "hr-les45-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Недоконане, бо це процес: padati, puhati. Український майбутній «падатиме» вчимо як će padati. Клітик će після перших слів: Sutra će puhati."
+        },
+        {
+          "form": "će biti + прислівник",
+          "when_ua": "Буде холодно, тепло.",
+          "examples": [
+            {
+              "text": "U nedjelju će biti hladno.",
+              "ua": "У неділю буде холодно.",
+              "audio": "hr-les45-rule-19.mp3"
+            },
+            {
+              "text": "Navečer će biti toplo.",
+              "ua": "Увечері буде тепло.",
+              "audio": "hr-les45-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Погода з біти й прислівника на -o (Lekcija 33): hladno je, bit će hladno. Без підмета. Порядок «bit će» на початку теж чути (Bit će hladno)."
+        },
+        {
+          "form": "upozoravati na + знахідний",
+          "when_ua": "Попереджаю про що.",
+          "examples": [
+            {
+              "text": "Vijesti upozoravaju na poplavu.",
+              "ua": "Новини попереджають про повінь.",
+              "audio": "hr-les45-rule-21.mp3"
+            },
+            {
+              "text": "Novinar upozorava na požar.",
+              "ua": "Журналіст попереджає про пожежу.",
+              "audio": "hr-les45-rule-22.mp3"
+            }
+          ],
+          "note_ua": "Українське «попереджати про» дає про + знахідний, тож тут тримайся української: na + знахідний, а не «o» і не місцевий. Poplava > poplavu, požar > požar (неживе чоловічого роду без змін)."
+        },
+        {
+          "form": "наказ множини: порада",
+          "when_ua": "Порада чи прохання кільком людям або ввічливо.",
+          "examples": [
+            {
+              "text": "Ostanite kod kuće.",
+              "ua": "Залишайтеся вдома.",
+              "audio": "hr-les45-rule-23.mp3"
+            },
+            {
+              "text": "Ne idite u šumu.",
+              "ua": "Не йдіть у ліс.",
+              "audio": "hr-les45-rule-24.mp3"
+            }
+          ],
+          "note_ua": "Наказ множини закінчується на -ite: ostanite, idite (Lekcija 23). Заперечення: ne + наказ або nemojte + інфінітив. Куди: u šumu (знахідний, Lekcija 5)."
+        }
+      ],
+      "points_ua": [
+        "Процес: će padati, će puhati.",
+        "Upozoravati na + знахідний, як українське «про» + знахідний.",
+        "Наказ множини: ostanite, ne idite."
+      ]
+    },
+    {
+      "title_ua": "Причини й поради: zbog, jer, zato što, bilo bi dobro da",
+      "summary_ua": "Причина іменником: zbog + родовий (zbog nesreće). Причина реченням: jer або zato što + підмет (Lekcija 21). Порада: bilo bi dobro da + теперішній час, bolje je da + теперішній час. Кажемо da + теперішній, не інфінітив, як у Lekcija 41. Російське «из-за» і українське «через» тут ведуть до zbog.",
+      "compare": [
+        {
+          "form": "zbog + родовий",
+          "when_ua": "Через що: іменник.",
+          "examples": [
+            {
+              "text": "Zbog nesreće u gradu ima puno prometa.",
+              "ua": "Через аварію в місті багато руху.",
+              "audio": "hr-les45-rule-25.mp3"
+            },
+            {
+              "text": "Zbog poplave nema autobusa.",
+              "ua": "Через повінь немає автобусів.",
+              "audio": "hr-les45-rule-26.mp3"
+            }
+          ],
+          "note_ua": "Zbog (Lekcija 27) + родовий: nesreća > nesreće, poplava > poplave. Після nema родовий: nema autobusa (Lekcija 4)."
+        },
+        {
+          "form": "jer, zato što + речення",
+          "when_ua": "Через що: окреме речення.",
+          "examples": [
+            {
+              "text": "Zrak je čist jer ima malo auta.",
+              "ua": "Повітря чисте, бо машин мало.",
+              "audio": "hr-les45-rule-27.mp3"
+            },
+            {
+              "text": "Vozim bicikl zato što volim prirodu.",
+              "ua": "Їжджу на велосипеді, бо люблю природу.",
+              "audio": "hr-les45-rule-28.mp3"
+            }
+          ],
+          "note_ua": "Jer і zato što однакові за змістом (Lekcija 21). Після jer ima malo auta: родовий після malo. Клітик je стоїть на другому місці в головному реченні: Zrak je čist."
+        },
+        {
+          "form": "bilo bi dobro da + теперішній",
+          "when_ua": "Порада: добре було б, щоб.",
+          "examples": [
+            {
+              "text": "Bilo bi dobro da recikliramo smeće.",
+              "ua": "Добре було б, щоб ми переробляли сміття.",
+              "audio": "hr-les45-rule-29.mp3"
+            },
+            {
+              "text": "Bilo bi dobro da sve škole recikliraju otpad.",
+              "ua": "Добре було б, щоб усі школи переробляли відходи.",
+              "audio": "hr-les45-rule-30.mp3"
+            }
+          ],
+          "note_ua": "Bilo bi dobro (Lekcija 41) + da + теперішній час: da recikliramo, da recikliraju. Дієслово в особі підмета, не інфінітив. Bi стоїть на другому місці: bilo bi."
+        },
+        {
+          "form": "bolje je da + теперішній",
+          "when_ua": "Краще, щоб.",
+          "examples": [
+            {
+              "text": "Bolje je da ostanemo kod kuće.",
+              "ua": "Краще, щоб ми лишилися вдома.",
+              "audio": "hr-les45-rule-31.mp3"
+            },
+            {
+              "text": "Bolje je da ne vozite po oluji.",
+              "ua": "Краще, щоб ви не їздили під час бурі.",
+              "audio": "hr-les45-rule-32.mp3"
+            }
+          ],
+          "note_ua": "Bolje (Lekcija 17) + je + da + теперішній. Для вказівки кому саме: ostanemo (ми), vozite (ви). Після da заперечення ne перед дієсловом: da ne vozite."
+        }
+      ],
+      "points_ua": [
+        "Zbog + родовий: zbog nesreće, zbog poplave.",
+        "Jer і zato što відкривають речення з підметом.",
+        "Bilo bi dobro da, bolje je da + теперішній час."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Volim čist okoliš.",
+      "ua": "Люблю чисте довкілля.",
+      "audio": "hr-les45-example-01.mp3"
+    },
+    {
+      "text": "Nedjeljom šetamo u prirodi.",
+      "ua": "У неділю гуляємо на природі.",
+      "audio": "hr-les45-example-02.mp3"
+    },
+    {
+      "text": "Otpad je veliki problem.",
+      "ua": "Відходи це велика проблема.",
+      "audio": "hr-les45-example-03.mp3"
+    },
+    {
+      "text": "Smeće je u vrećici.",
+      "ua": "Сміття в пакеті.",
+      "audio": "hr-les45-example-04.mp3"
+    },
+    {
+      "text": "U gradu je puno prometa.",
+      "ua": "У місті багато руху.",
+      "audio": "hr-les45-example-05.mp3"
+    },
+    {
+      "text": "Na cesti je bila nesreća.",
+      "ua": "На дорозі була аварія.",
+      "audio": "hr-les45-example-06.mp3"
+    },
+    {
+      "text": "Jutros je u šumi bio požar.",
+      "ua": "Сьогодні вранці в лісі була пожежа.",
+      "audio": "hr-les45-example-07.mp3"
+    },
+    {
+      "text": "Potres je bio navečer.",
+      "ua": "Землетрус був увечері.",
+      "audio": "hr-les45-example-08.mp3"
+    },
+    {
+      "text": "Poplava je bila u proljeće.",
+      "ua": "Повінь була навесні.",
+      "audio": "hr-les45-example-09.mp3"
+    },
+    {
+      "text": "Novinar piše članak o prometu.",
+      "ua": "Журналіст пише статтю про рух.",
+      "audio": "hr-les45-example-10.mp3"
+    },
+    {
+      "text": "Prognoza za sutra je dobra.",
+      "ua": "Прогноз на завтра добрий.",
+      "audio": "hr-les45-example-11.mp3"
+    },
+    {
+      "text": "Na vratima je upozorenje.",
+      "ua": "На дверях попередження.",
+      "audio": "hr-les45-example-12.mp3"
+    },
+    {
+      "text": "Auti zagađuju zrak.",
+      "ua": "Автомобілі забруднюють повітря.",
+      "audio": "hr-les45-example-13.mp3"
+    },
+    {
+      "text": "Firma je povećala plaće.",
+      "ua": "Фірма збільшила зарплати.",
+      "audio": "hr-les45-example-14.mp3"
+    },
+    {
+      "text": "Želimo smanjiti račune.",
+      "ua": "Хочемо зменшити рахунки.",
+      "audio": "hr-les45-example-15.mp3"
+    },
+    {
+      "text": "Prognoza najavljuje kišu.",
+      "ua": "Прогноз обіцяє дощ.",
+      "audio": "hr-les45-example-16.mp3"
+    },
+    {
+      "text": "Očekujemo hladan vikend.",
+      "ua": "Очікуємо холодні вихідні.",
+      "audio": "hr-les45-example-17.mp3"
+    },
+    {
+      "text": "Bura je vrlo opasna.",
+      "ua": "Бора дуже небезпечна.",
+      "audio": "hr-les45-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Što kažu vijesti",
+    "title_ua": "Що кажуть новини",
+    "highlight": [
+      "hr-56f7f5f0",
+      "hr-7849008b",
+      "hr-38f96eb2",
+      "hr-c22e675c",
+      "hr-a9778f0c",
+      "hr-6bad99ec",
+      "hr-c410799d",
+      "hr-4a32740a"
+    ],
+    "sentences": [
+      {
+        "text": "Jučer navečer čitala sam vijesti na internetu.",
+        "ua": "Вчора ввечері я читала новини в інтернеті.",
+        "audio": "hr-les45-reading-01.mp3"
+      },
+      {
+        "text": "Prema prognozi će sutra padati jaka kiša.",
+        "ua": "За прогнозом завтра йтиме сильний дощ.",
+        "audio": "hr-les45-reading-02.mp3"
+      },
+      {
+        "text": "Novinar kaže da je jučer blizu rijeke bila poplava.",
+        "ua": "Журналіст каже, що вчора біля річки була повінь.",
+        "audio": "hr-les45-reading-03.mp3"
+      },
+      {
+        "text": "Prema izvješću je zrak u gradu čišći nego prošle godine.",
+        "ua": "За звітом повітря в місті чистіше, ніж торік.",
+        "audio": "hr-les45-reading-04.mp3"
+      },
+      {
+        "text": "Sve manje ljudi vozi auto, a sve više ljudi vozi bicikl.",
+        "ua": "Дедалі менше людей їздить на авто, а дедалі більше на велосипеді.",
+        "audio": "hr-les45-reading-05.mp3"
+      },
+      {
+        "text": "Promet se smanjio za deset posto.",
+        "ua": "Рух зменшився на десять відсотків.",
+        "audio": "hr-les45-reading-06.mp3"
+      },
+      {
+        "text": "Moja susjeda misli da je to dobra vijest za okoliš.",
+        "ua": "Моя сусідка думає, що це добра новина для довкілля.",
+        "audio": "hr-les45-reading-07.mp3"
+      },
+      {
+        "text": "Ja se nadam da će zrak biti čist i idućeg ljeta.",
+        "ua": "Я сподіваюся, що повітря буде чисте й наступного літа.",
+        "audio": "hr-les45-reading-08.mp3"
+      },
+      {
+        "text": "Ipak, nitko ne zna što će biti.",
+        "ua": "Проте ніхто не знає, що буде.",
+        "audio": "hr-les45-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою. Усі події й цифри вигадані.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Тут чисте повітря.",
+          "accepted": [
+            "Zrak je ovdje čist.",
+            "Ovdje je zrak čist."
+          ]
+        },
+        {
+          "prompt": "Мій брат читає новини про погоду.",
+          "accepted": [
+            "Moj brat čita vijesti o vremenu."
+          ]
+        },
+        {
+          "prompt": "Вчора ввечері в місті була пожежа.",
+          "accepted": [
+            "Jučer je navečer u gradu bio požar.",
+            "Jučer navečer je u gradu bio požar.",
+            "U gradu je jučer navečer bio požar."
+          ]
+        },
+        {
+          "prompt": "За прогнозом завтра йтиме сніг.",
+          "accepted": [
+            "Prema prognozi sutra pada snijeg.",
+            "Prema prognozi će sutra padati snijeg.",
+            "Prema prognozi sutra će padati snijeg."
+          ]
+        },
+        {
+          "prompt": "Мій син пише звіт про довкілля.",
+          "accepted": [
+            "Moj sin piše izvješće o okolišu."
+          ]
+        },
+        {
+          "prompt": "Дедалі більше дітей вивчає мови.",
+          "accepted": [
+            "Sve više djece uči jezike.",
+            "Sve više djece uči jezik."
+          ]
+        },
+        {
+          "prompt": "Кількість автобусів збільшилася на три.",
+          "accepted": [
+            "Broj autobusa se povećao za tri.",
+            "Broj se autobusa povećao za tri."
+          ]
+        },
+        {
+          "prompt": "Зарплата зросла до тисячі євро.",
+          "accepted": [
+            "Plaća se povećala na tisuću eura.",
+            "Plaća se povećala na tisuću eura."
+          ]
+        },
+        {
+          "prompt": "Не водіть швидко, коли йде дощ.",
+          "accepted": [
+            "Ne vozite brzo kad pada kiša.",
+            "Ne vozite brzo kada pada kiša.",
+            "Nemojte voziti brzo kad pada kiša."
+          ]
+        },
+        {
+          "prompt": "Ми очікуємо, що ввечері буде вітер.",
+          "accepted": [
+            "Očekujemo da će navečer biti vjetra.",
+            "Očekujemo da će navečer puhati vjetar."
+          ]
+        },
+        {
+          "prompt": "Вона сказала, що в селі був землетрус.",
+          "accepted": [
+            "Rekla je da je u selu bio potres."
+          ]
+        },
+        {
+          "prompt": "Біля річки є невеликий гай.",
+          "accepted": [
+            "Blizu rijeke je mali lug."
+          ]
+        },
+        {
+          "prompt": "Ми переробляємо сміття.",
+          "accepted": [
+            "Recikliramo smeće.",
+            "Mi recikliramo smeće."
+          ]
+        },
+        {
+          "prompt": "Прогноз попереджає про сильну бурю.",
+          "accepted": [
+            "Prognoza upozorava na jaku buru."
+          ]
+        },
+        {
+          "prompt": "Повітря в місті погане через транспорт.",
+          "accepted": [
+            "Zrak u gradu je loš zbog prometa.",
+            "Zrak je u gradu loš zbog prometa."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "okoliš",
+        "prirodu",
+        "zraka",
+        "otpada",
+        "prometa",
+        "nesreća",
+        "požar",
+        "poplave",
+        "potresu",
+        "novinar",
+        "izvješće",
+        "prognozi",
+        "upozorenja",
+        "čista",
+        "štetno",
+        "opasno"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Čist ___ je važan za zdravlje.",
+          "hint": "Чисте довкілля важливе для здоров'я.",
+          "accepted": [
+            [
+              "okoliš"
+            ]
+          ]
+        },
+        {
+          "text": "Djecu često vodimo u ___.",
+          "hint": "Дітей ми часто водимо на природу.",
+          "accepted": [
+            [
+              "prirodu"
+            ]
+          ]
+        },
+        {
+          "text": "U ovoj sobi nema svježeg ___.",
+          "hint": "У цій кімнаті немає свіжого повітря.",
+          "accepted": [
+            [
+              "zraka"
+            ]
+          ]
+        },
+        {
+          "text": "Previše ___ je štetno za okoliš.",
+          "hint": "Забагато відходів шкодить довкіллю.",
+          "accepted": [
+            [
+              "otpada"
+            ]
+          ]
+        },
+        {
+          "text": "Autobus je došao kasno zbog ___.",
+          "hint": "Автобус приїхав пізно через рух (затори).",
+          "accepted": [
+            [
+              "prometa"
+            ]
+          ]
+        },
+        {
+          "text": "Na ovoj cesti nema puno ___.",
+          "hint": "На цій дорозі небагато аварій.",
+          "accepted": [
+            [
+              "nesreća"
+            ]
+          ]
+        },
+        {
+          "text": "Bio je veliki ___ blizu šume.",
+          "hint": "Була велика пожежа біля лісу.",
+          "accepted": [
+            [
+              "požar"
+            ]
+          ]
+        },
+        {
+          "text": "Voda je došla u kuću zbog ___.",
+          "hint": "Вода зайшла в будинок через повінь.",
+          "accepted": [
+            [
+              "poplave"
+            ]
+          ]
+        },
+        {
+          "text": "Sve novine pišu o ___.",
+          "hint": "Усі газети пишуть про землетрус.",
+          "accepted": [
+            [
+              "potresu"
+            ]
+          ]
+        },
+        {
+          "text": "Moj muž želi biti ___.",
+          "hint": "Мій чоловік хоче бути журналістом.",
+          "accepted": [
+            [
+              "novinar"
+            ]
+          ]
+        },
+        {
+          "text": "Pročitao sam kratko ___ o zraku.",
+          "hint": "Я прочитав короткий звіт про повітря.",
+          "accepted": [
+            [
+              "izvješće"
+            ]
+          ]
+        },
+        {
+          "text": "Prema ___ sutra pada snijeg.",
+          "hint": "За прогнозом завтра йде сніг.",
+          "accepted": [
+            [
+              "prognozi"
+            ]
+          ]
+        },
+        {
+          "text": "Nema novog ___ o poplavi.",
+          "hint": "Нового попередження про повінь немає.",
+          "accepted": [
+            [
+              "upozorenja"
+            ]
+          ]
+        },
+        {
+          "text": "Voda u rijeci je opet ___.",
+          "hint": "Вода в річці знову чиста.",
+          "accepted": [
+            [
+              "čista"
+            ]
+          ]
+        },
+        {
+          "text": "Previše kave je ___ za mene.",
+          "hint": "Забагато кави шкідливо для мене.",
+          "accepted": [
+            [
+              "štetno"
+            ]
+          ]
+        },
+        {
+          "text": "More je ___ kad je bura.",
+          "hint": "Море, коли дме бора, небезпечне.",
+          "accepted": [
+            [
+              "opasno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Prema prognozu sutra neće padati kiša.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prema prognozi sutra neće padati kiša."
+          ]
+        },
+        {
+          "prompt": "Prema izvješće je zrak opet čist.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prema izvješću je zrak opet čist.",
+            "Prema izvješću zrak je opet čist."
+          ]
+        },
+        {
+          "prompt": "Ulica je čista.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li ulica čista?",
+            "Je li čista ulica?"
+          ]
+        },
+        {
+          "prompt": "Mi očekujem dobre vijesti.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi očekujemo dobre vijesti.",
+            "Očekujemo dobre vijesti."
+          ]
+        },
+        {
+          "prompt": "Sve manje autobus vozi navečer.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sve manje autobusa vozi navečer."
+          ]
+        },
+        {
+          "prompt": "Smeće zagađuje okoliš.",
+          "cue": "-> перфект (доконане)",
+          "accepted": [
+            "Smeće je zagadilo okoliš."
+          ]
+        },
+        {
+          "prompt": "Jutros ja sam čitala vijesti.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Jutros sam čitala vijesti.",
+            "Ja sam jutros čitala vijesti."
+          ]
+        },
+        {
+          "prompt": "Susjed je rekao što će u petak biti hladno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Susjed je rekao da će u petak biti hladno."
+          ]
+        },
+        {
+          "prompt": "Plaća se smanjuje.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Plaća se smanjila."
+          ]
+        },
+        {
+          "prompt": "Prognoza najavljuje kiša za petak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prognoza najavljuje kišu za petak."
+          ]
+        },
+        {
+          "prompt": "Taj sok je štetna za djecu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Taj sok je štetan za djecu."
+          ]
+        },
+        {
+          "prompt": "Danas puše bura.",
+          "cue": "-> Sutra ...",
+          "accepted": [
+            "Sutra će puhati bura.",
+            "Sutra će bura puhati."
+          ]
+        },
+        {
+          "prompt": "Potres je bio petog svibanj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Potres je bio petog svibnja."
+          ]
+        },
+        {
+          "prompt": "Novinar kaže: sutra će padati snijeg.",
+          "cue": "-> kaže da",
+          "accepted": [
+            "Novinar kaže da će sutra padati snijeg.",
+            "Novinar kaže da će padati snijeg sutra."
+          ]
+        },
+        {
+          "prompt": "Svake godine se promet smanji.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Svake godine se promet smanjuje.",
+            "Promet se svake godine smanjuje."
+          ]
+        },
+        {
+          "prompt": "Vi povećavate plaću.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Povećali ste plaću.",
+            "Vi ste povećali plaću."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ otpad.",
+          "cue": "reciklirati",
+          "accepted": [
+            "recikliram"
+          ]
+        },
+        {
+          "text": "Ljudi često ___ rijeke.",
+          "cue": "zagađivati",
+          "accepted": [
+            "zagađuju"
+          ]
+        },
+        {
+          "text": "Ti ___ račune svaki mjesec.",
+          "cue": "smanjivati",
+          "accepted": [
+            "smanjuješ"
+          ]
+        },
+        {
+          "text": "Plaća se ___ svake godine.",
+          "cue": "povećavati",
+          "accepted": [
+            "povećava"
+          ]
+        },
+        {
+          "text": "Mi ___ jaku oluju.",
+          "cue": "očekivati",
+          "accepted": [
+            "očekujemo"
+          ]
+        },
+        {
+          "text": "Oni nas uvijek ___ na jak vjetar.",
+          "cue": "upozoravati",
+          "accepted": [
+            "upozoravaju"
+          ]
+        },
+        {
+          "text": "Jučer je prognoza ___ jaku buru.",
+          "cue": "najaviti",
+          "accepted": [
+            "najavila"
+          ]
+        },
+        {
+          "text": "Naša škola je ___ sav otpad.",
+          "cue": "reciklirati",
+          "accepted": [
+            "reciklirala"
+          ]
+        },
+        {
+          "text": "Kad ___ račun, javim vam.",
+          "cue": "smanjiti",
+          "accepted": [
+            "smanjim"
+          ]
+        },
+        {
+          "text": "Jučer smo ___ snijeg, ali je padala kiša.",
+          "cue": "očekivati",
+          "accepted": [
+            "očekivali"
+          ]
+        },
+        {
+          "text": "Ona je ___ sina na opasnu cestu.",
+          "cue": "upozoriti",
+          "accepted": [
+            "upozorila"
+          ]
+        },
+        {
+          "text": "Auti su ___ zrak u gradu.",
+          "cue": "zagaditi",
+          "accepted": [
+            "zagadili"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві. Тут слова з Lekcija 45 і два слова з банки помилок: tuča (рос. туча = хмара) і žito (укр. жито = рослина).",
+      "items": [
+        {
+          "example": true,
+          "prompt": "довкілля",
+          "answer": "okoliš"
+        },
+        {
+          "prompt": "повітря",
+          "answer": "zrak"
+        },
+        {
+          "prompt": "відходи",
+          "answer": "otpad"
+        },
+        {
+          "prompt": "сміття",
+          "answer": "smeće"
+        },
+        {
+          "prompt": "рух транспорту",
+          "answer": "promet"
+        },
+        {
+          "prompt": "повінь",
+          "answer": "poplava"
+        },
+        {
+          "prompt": "землетрус",
+          "answer": "potres"
+        },
+        {
+          "prompt": "пожежа",
+          "answer": "požar"
+        },
+        {
+          "prompt": "журналіст",
+          "answer": "novinar"
+        },
+        {
+          "prompt": "звіт, репортаж",
+          "answer": "izvješće"
+        },
+        {
+          "prompt": "прогноз",
+          "answer": "prognoza"
+        },
+        {
+          "prompt": "попередження",
+          "answer": "upozorenje"
+        },
+        {
+          "prompt": "град (опади), не хмара",
+          "answer": "tuča"
+        },
+        {
+          "prompt": "зернові, збіжжя (не лише жито)",
+          "answer": "žito"
+        }
+      ],
+      "extra": [
+        "klima",
+        "priroda"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 18,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    }
+  ]
+}
