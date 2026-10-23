@@ -10,7 +10,7 @@ const Cards = require('../mockup/cards.js');
 const exLabel = (ex) => (typeof ex === 'string' ? 'extra ' + ex.slice(2) : ex + 1);
 const exOrder = (ex) => (typeof ex === 'string' ? 1000 : ex);
 const display = (n) => (n.type === 'noun' ? `${n.article} ${n.lemma}` : n.lemma);
-const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio);
+const dictationNotes = (lesson, ex, all) => require('../mockup/lesson.js').dictationNotes(lesson, ex, all);
 
 function readEvents(dir) {
   const events = [];
@@ -27,15 +27,15 @@ function readEvents(dir) {
 }
 
 // The answer fields of an exercise, in the order the page shows them (example rows have no field).
-function fieldsOf(lesson, ex) {
+function fieldsOf(lesson, ex, allLessons) {
   const items = (ex.items || []).filter((it) => !it.example);
   switch (ex.type) {
     case 'listening': return items.map((it) => ({ label: 'listening: ' + it.prompt, expected: it.accepted[0] }));
-    case 'translate': case 'transform': return items.map((it) => ({ label: `${it.prompt} (${it.cue})`, expected: it.accepted[0] }));
-    case 'verbform': return items.map((it) => ({ label: `${it.text} (${it.cue})`, expected: it.accepted[0] }));
+    case 'translate': case 'transform': return items.map((it) => ({ label: it.cue ? `${it.prompt} (${it.cue})` : it.prompt, expected: it.accepted[0] }));
+    case 'verbform': return items.map((it) => ({ label: it.cue ? `${it.text} (${it.cue})` : it.text, expected: it.accepted[0] }));
     case 'gaps': return items.flatMap((it) => it.accepted.map((g, gi) => ({ label: `${it.text} [gap ${gi + 1}] ${it.hint}`, expected: g[0] })));
     case 'matching': return items.map((it) => ({ label: it.prompt, expected: it.answer }));
-    case 'dictation': return dictationNotes(lesson, ex).map((n) => ({ label: 'dictation', expected: display(n) }));
+    case 'dictation': return dictationNotes(lesson, ex, allLessons).map((n) => ({ label: 'dictation', expected: display(n) }));
     default: return [];
   }
 }
@@ -77,7 +77,7 @@ function buildDigest(events, lessons, bad = 0, langName = 'Dutch') {
   const missed = new Map();
   for (const e of checks) {
     const lesson = byId.get(e.lesson);
-    const fields = lesson && typeof e.exercise === 'number' && lesson.practice[e.exercise] ? fieldsOf(lesson, lesson.practice[e.exercise]) : [];
+    const fields = lesson && typeof e.exercise === 'number' && lesson.practice[e.exercise] ? fieldsOf(lesson, lesson.practice[e.exercise], lessons) : [];
     for (const w of e.wrong || []) {
       const field = fields[w.n];
       const expected = w.expected ?? (field && field.expected);
@@ -91,6 +91,24 @@ function buildDigest(events, lessons, bad = 0, langName = 'Dutch') {
   if (!missed.size) out.push('None yet.');
   for (const m of [...missed.values()].sort((a, b) => b.count - a.count).slice(0, 15)) {
     out.push(`- Les ${m.lesson}, exercise ${exLabel(m.exercise)} (${m.kind}): expected "${m.expected}", missed ${m.count}x${m.label ? `; item: ${m.label}` : ''}${m.typed.size ? `; typed: ${[...m.typed].map((s) => `"${s}"`).join(', ')}` : ''}`);
+  }
+
+  // test mode: the learner never saw the answers, so the teacher gets every wrong item of the latest attempt, not only the top ones
+  const lastTest = new Map();
+  for (const e of checks) {
+    const lesson = byId.get(e.lesson);
+    if (lesson && typeof e.exercise === 'number' && lesson.practice[e.exercise] && lesson.practice[e.exercise].test) lastTest.set(`${e.lesson}#${e.exercise}`, e);
+  }
+  if (lastTest.size) {
+    out.push('', '## Test mode exercises (answers were hidden from the learner): latest attempt, every wrong item', '');
+    for (const e of [...lastTest.values()].sort((x, y) => (byId.get(x.lesson).order - byId.get(y.lesson).order) || (x.exercise - y.exercise))) {
+      const lesson = byId.get(e.lesson), fields = fieldsOf(lesson, lesson.practice[e.exercise], lessons);
+      out.push(`- Les ${lesson.order}, exercise ${e.exercise + 1} (${e.kind}): ${e.ok}/${e.total}${(e.wrong || []).length ? '' : ', no mistakes'}`);
+      for (const w of e.wrong || []) {
+        const f = fields[w.n];
+        out.push(`  - ${f && f.label ? f.label + ': ' : ''}expected "${w.expected ?? (f && f.expected)}"${w.answer ? `, typed "${w.answer}"` : ', left empty'}`);
+      }
+    }
   }
 
   // flashcards

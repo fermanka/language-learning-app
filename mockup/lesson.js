@@ -85,7 +85,23 @@ function deckLastIndex(lessons, isDone, openIndex) {
 }
 
 // Which notes take part in the dictation exercise of a lesson.
-const dictationNotes = (lesson, ex) => lesson.notes.filter((n) => ex.note_types.includes(n.type) && n.dictation !== false && n.audio);
+// A dictation takes the words of its own lesson (note_types) or an explicit list (words) of words already taught in this or an earlier lesson.
+// Pass allLessons for a word list; a word without a note that has audio is skipped here (the validator reports it).
+const dictationNotes = (lesson, ex, allLessons = [lesson]) => {
+  if (ex.words) {
+    const found = [];
+    for (const w of ex.words) {
+      const key = w.toLowerCase();
+      for (const L of allLessons) {
+        if (L.order > lesson.order) continue;
+        const n = L.notes.find((x) => x.audio && x.dictation !== false && (display(x).toLowerCase() === key || x.lemma.toLowerCase() === key));
+        if (n) { found.push(n); break; }
+      }
+    }
+    return found;
+  }
+  return lesson.notes.filter((n) => (ex.note_types || []).includes(n.type) && n.dictation !== false && n.audio);
+};
 
 // Words the teacher could not verify: a note with a "check" field (the reason) is shown with a "?" and listed
 // on the Words page, so a native speaker can be asked about them. Result: [{ order, note }] in lesson order.
@@ -223,7 +239,7 @@ if (typeof document === 'undefined') {
       if (ex.type === 'listening') {
         // the recording is the task: the text stays hidden until the learner asks for it
         const bar = el('div', 'listen'); bar.append(iconBtn(ex.audio), document.createTextNode(' '));
-        const show = el('button', 'btn', 'Показати текст'), txt = el('p', 'meta', ex.audio_text); txt.hidden = true;
+        const show = el('button', 'btn', 'Показати текст'), txt = el('div', 'meta'); (ex.lines || [{ text: ex.audio_text }]).forEach((l) => txt.append(el('div', null, (l.speaker ? l.speaker + ': ' : '') + l.text))); txt.hidden = true;
         show.type = 'button'; show.onclick = () => { txt.hidden = !txt.hidden; show.textContent = txt.hidden ? 'Показати текст' : 'Сховати текст'; };
         bar.append(show, txt); box.append(bar);
       }
@@ -248,7 +264,7 @@ if (typeof document === 'undefined') {
         list.append(left, rightOl);
       } else if (ex.type === 'dictation') {
         // the same words come back when the saved attempt is restored; otherwise a fresh random pick
-        const all = dictationNotes(L, ex), byId = new Map(all.map((n) => [n.id, n]));
+        const all = dictationNotes(L, ex, LESSONS), byId = new Map(all.map((n) => [n.id, n]));
         const savedWords = last && last.words ? last.words.map((id) => byId.get(id)) : null;
         const picked = savedWords && savedWords.every(Boolean) ? savedWords : pickDictation(all, ex.max);
         dictWords = picked.map((n) => n.id);
@@ -259,7 +275,13 @@ if (typeof document === 'undefined') {
           // translate shows the prompt only (the cue would give the answer away); in transform the cue IS the task ("-> питання")
           li.append(el('span', null, it.prompt));
           if (ex.type === 'transform') li.append(el('span', 'cue', ` (${it.cue})`));
-          li.append(it.example ? input('wide', null, it.accepted[0]) : input('wide', it.accepted));
+          if (it.choices) {
+            // an item with choices (multiple choice, true / false) is answered from a list
+            const sel = el('select'), opt = (value, label) => { const o = el('option', null, label); o.value = value; return o; };
+            sel.append(opt('', '-')); it.choices.forEach((c) => sel.append(opt(c, c)));
+            if (it.example) { sel.value = it.accepted[0]; sel.disabled = true; } else sel.dataset.acc = JSON.stringify(it.accepted);
+            li.append(document.createTextNode(' '), sel);
+          } else li.append(it.example ? input('wide', null, it.accepted[0]) : input('wide', it.accepted));
         } else if (ex.type === 'gaps') {
           li.append(el('span', 'meta', `${it.hint}  `));
           li.append(blanks(it.text, (i) => (it.example ? input('', null, it.accepted[i][0]) : input('', it.accepted[i]))));

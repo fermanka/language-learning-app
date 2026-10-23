@@ -18,3 +18,31 @@ Both are fields of a normal lesson `practice` exercise.
 
 After "Перевірити" the learner sees the score and red/green fields, but the correct answers are not shown.
 Used for mini-tests (Lekcija 48 and later). "Спробувати ще" still clears the fields.
+
+## Dialogue (two voices)
+
+Instead of `audio_text`, a listening exercise can carry `lines`; every line is voiced separately and the files are joined into `audio`:
+
+```json
+"lines": [ { "speaker": "A", "voice": "a", "text": "..." }, { "speaker": "B", "voice": "b", "text": "..." } ]
+```
+
+Voice `a` is the teacher (`tts_persona` in the language's `config.json`), voice `b` is `tts_persona_b` (must be set before a lesson uses it; `gen-audio.js` refuses otherwise). The learner's "Показати текст" shows the lines with the speakers.
+
+## Choice items (multiple choice, true / false)
+
+A `translate` or `listening` item may carry `choices` (2 or more different options); the learner picks from a list and `accepted` holds the right option(s):
+
+```json
+{ "prompt": "Фільм новий.", "choices": ["Правда", "Неправда"], "accepted": ["Неправда"] }
+```
+
+Options with Latin letters are level-audited; Ukrainian ones are not.
+
+## Dictation from a word list
+
+`{ "type": "dictation", "words": ["priča", "radnja"], "max": 10 }` dictates words already taught (in this or an earlier lesson; the word needs a note with audio). The validator names a word that cannot be found.
+
+## Digest
+
+For every exercise with `"test": true` the teacher's digest lists every wrong item of the latest attempt (item, expected answer, what was typed), since the learner never saw the answers.

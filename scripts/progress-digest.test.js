@@ -57,5 +57,13 @@ t('reading a folder skips damaged lines and counts them', () => {
 });
 t('the digest holds no raw log lines', () => assert(!/"type":/.test(digest)));
 
+// test mode: every wrong item of the latest attempt is listed
+t('a test-mode exercise lists its wrong items', () => {
+  const L = { id: 'x-1', order: 1, notes: [], practice: [{ type: 'translate', test: true, items: [{ prompt: 'Hond', accepted: ['dog'] }, { prompt: 'Kat', accepted: ['cat'] }] }] };
+  const ev = { t: '2026-01-01T00:00:00Z', type: 'exercise_checked', lesson: 'x-1', exercise: 0, kind: 'translate', ok: 1, total: 2, wrong: [{ n: 1, answer: 'kat', expected: 'cat' }], answers: ['dog', 'kat'] };
+  const d = buildDigest([ev], [L]);
+  assert(/Test mode exercises/.test(d) && /Kat: expected "cat", typed "kat"/.test(d));
+  assert(!/Test mode exercises/.test(buildDigest([ev], [{ ...L, practice: [{ ...L.practice[0], test: false }] }])));
+});
 console.log(bad ? `FAILURES: ${bad}` : 'DIGEST TESTS PASSED');
 process.exit(bad ? 1 : 0);
