@@ -1,0 +1,1648 @@
+{
+  "id": "hr-les-52",
+  "lang": "hr",
+  "order": 52,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "prošli",
+    "tjedan",
+    "sam",
+    "poslala",
+    "e-poštu",
+    "tajništvu",
+    "škole",
+    "napisala",
+    "službeni",
+    "dopis",
+    "u",
+    "tri",
+    "dijela",
+    "pozdravu",
+    "poštovani",
+    "gospodine",
+    "gospođo",
+    "najprije",
+    "zatim",
+    "objasnila",
+    "razlog",
+    "zanima",
+    "me",
+    "tečaj",
+    "zamolila",
+    "ih",
+    "da",
+    "mi",
+    "pošalju",
+    "program",
+    "cijenu",
+    "ne",
+    "znam",
+    "kada",
+    "počinje",
+    "stoga",
+    "pitala",
+    "za",
+    "termine",
+    "na",
+    "kraju",
+    "zahvalila",
+    "svoje",
+    "ime",
+    "odgovor",
+    "dobila",
+    "idući",
+    "dan",
+    "hvala",
+    "Vam",
+    "Vas",
+    "Vaš",
+    "Vašu",
+    "e-pošti",
+    "prilogu",
+    "šaljemo",
+    "podatke",
+    "o",
+    "cijeni",
+    "petog",
+    "rujna",
+    "a",
+    "završava",
+    "prosincu",
+    "nastava",
+    "dva",
+    "puta",
+    "tjedno",
+    "utorkom",
+    "četvrtkom",
+    "od",
+    "šest",
+    "do",
+    "osam",
+    "sati",
+    "navečer",
+    "upis",
+    "trebate",
+    "ispuniti",
+    "obrazac",
+    "priložiti",
+    "jedan",
+    "ili",
+    "internetu",
+    "ako",
+    "želite",
+    "dodatno",
+    "kontaktirajte",
+    "nas",
+    "odgovorit",
+    "ćemo",
+    "najkasnije",
+    "petka",
+    "svaki",
+    "devet",
+    "dvanaest",
+    "ista",
+    "polaznike",
+    "molimo",
+    "pošaljete",
+    "kraja",
+    "kolovoza",
+    "poštovanjem",
+    "ovdje",
+    "zovem",
+    "zbog",
+    "prijave",
+    "trebamo",
+    "još",
+    "ga",
+    "srijede",
+    "lijep",
+    "pozdrav",
+    "direktore",
+    "direktor",
+    "obraćam",
+    "vezi",
+    "s",
+    "tečajem",
+    "pišem",
+    "unaprijed",
+    "zahvaljujem",
+    "odgovoru",
+    "pomoći",
+    "biste",
+    "li",
+    "mogli",
+    "javiti",
+    "možete",
+    "poslati",
+    "kolegu",
+    "firmu",
+    "e-poštom",
+    "odluku",
+    "tajnica",
+    "kat",
+    "drugom",
+    "zatvoreno",
+    "netočan",
+    "točna",
+    "točan",
+    "točni",
+    "kratak",
+    "kratko",
+    "ovo",
+    "pismo",
+    "moja",
+    "kolegica",
+    "pitanje",
+    "hrvatskog",
+    "termina",
+    "zagreba",
+    "pošaljite"
+  ],
+  "notes": [
+    {
+      "id": "hr-0d799ff3",
+      "type": "noun",
+      "lemma": "dopis",
+      "gender": "m.",
+      "gen_sg": "dopisa",
+      "plural": [
+        "dopisi"
+      ],
+      "ua": "службовий лист, офіційне повідомлення",
+      "audio": "hr-dopis.mp3",
+      "forms": [
+        "dopisa",
+        "dopisu",
+        "dopisi",
+        "dopise",
+        "dopisom"
+      ],
+      "explain_ua": "(Dopis je kratak = службовий лист короткий). УВАГА ДО ВСЬОГО УРОКУ: школи, секретаріати, терміни й ціни в цьому уроці вигадані для вправ, це мовна практика. Чоловічого роду: dopis, dopisa, dopisi. Dopis це офіційний лист, pismo (Lekcija 22) загалом лист. Українське «лист» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-18d4d190",
+      "type": "noun",
+      "lemma": "tajništvo",
+      "gender": "s.",
+      "gen_sg": "tajništva",
+      "plural": [
+        "tajništva"
+      ],
+      "ua": "секретаріат, канцелярія",
+      "audio": "hr-tajnistvo.mp3",
+      "forms": [
+        "tajništva",
+        "tajništvu",
+        "tajništvom"
+      ],
+      "explain_ua": "(Tajništvo je zatvoreno = секретаріат зачинений). Середній рід на -o: tajništvo, tajništva, u tajništvu. Місце, де приймають заяви й дають довідки в школі чи фірмі. Від tajnica (Lekcija 26): підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-75b0b78b",
+      "type": "noun",
+      "lemma": "informacija",
+      "gender": "ž.",
+      "gen_sg": "informacije",
+      "plural": [
+        "informacije"
+      ],
+      "ua": "інформація, відомість",
+      "audio": "hr-informacija.mp3",
+      "forms": [
+        "informacije",
+        "informaciju",
+        "informaciji",
+        "informacijom",
+        "informacija"
+      ],
+      "explain_ua": "(Informacija je točna = інформація правильна). Жіночий рід на -ja: informacija, informacije, informaciju (знахідний). Родовий множини informacija: više informacija. Хорватською майже завжди рахується: jedna informacija, dvije informacije. Українське «інформація» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-cfd2f72e",
+      "type": "noun",
+      "lemma": "podatak",
+      "gender": "m.",
+      "gen_sg": "podatka",
+      "plural": [
+        "podaci"
+      ],
+      "ua": "дані, окрема відомість",
+      "audio": "hr-podatak.mp3",
+      "forms": [
+        "podatka",
+        "podatku",
+        "podaci",
+        "podatke",
+        "podacima"
+      ],
+      "explain_ua": "(Podatak je netočan = дана відомість неправильна). Чоловічого роду, нестійке a (Lekcija 16): podatak, podatka, множина podaci (k > c). Podaci це дані (ім'я, адреса, дата). Українське «дані» інше слово.",
+      "check": "Форми з мого знання; що множина podaci, а не podatci, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-083d1f43",
+      "type": "noun",
+      "lemma": "dokument",
+      "gender": "m.",
+      "gen_sg": "dokumenta",
+      "plural": [
+        "dokumenti"
+      ],
+      "ua": "документ",
+      "audio": "hr-dokument.mp3",
+      "forms": [
+        "dokumenta",
+        "dokumentu",
+        "dokumenti",
+        "dokumente"
+      ],
+      "explain_ua": "(Dokument je u prilogu = документ у додатку). Чоловічого роду: dokument, dokumenta, dokumenti. Знайоме слово, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-864beb4a",
+      "type": "noun",
+      "lemma": "prilog",
+      "gender": "m.",
+      "gen_sg": "priloga",
+      "plural": [
+        "prilozi"
+      ],
+      "ua": "додаток (до листа)",
+      "audio": "hr-prilog.mp3",
+      "forms": [
+        "priloga",
+        "prilogu",
+        "prilozi",
+        "priloge"
+      ],
+      "explain_ua": "(Prilog je u e-pošti = додаток у листі). Чоловічого роду: prilog, priloga, u prilogu (місцевий), множина prilozi (g > z). Вислів u prilogu ти вже знаєш з Lekcija 40, тепер знаєш слово. Prilog це ще й граматичний термін «прислівник» (друге значення тут не вчимо).",
+      "check": "Форми з мого знання; друге значення (прислівник) з мого знання."
+    },
+    {
+      "id": "hr-c75cea72",
+      "type": "noun",
+      "lemma": "prijedlog",
+      "gender": "m.",
+      "gen_sg": "prijedloga",
+      "plural": [
+        "prijedlozi"
+      ],
+      "ua": "пропозиція",
+      "audio": "hr-prijedlog.mp3",
+      "forms": [
+        "prijedloga",
+        "prijedlogu",
+        "prijedlozi",
+        "prijedloge"
+      ],
+      "explain_ua": "(Imam prijedlog za termin = маю пропозицію щодо часу). Чоловічого роду: prijedlog, prijedloga, prijedlozi (g > z). Пиши ije > je: prijedlog. Від predlagati (Lekcija 41): підказка для пам'яті. Prijedlog це ще й «прийменник» у граматиці (друге значення тут не вчимо).",
+      "check": "Форми з мого знання; друге значення (прийменник) з мого знання."
+    },
+    {
+      "id": "hr-fc7c4bd8",
+      "type": "noun",
+      "lemma": "pojašnjenje",
+      "gender": "s.",
+      "gen_sg": "pojašnjenja",
+      "plural": [
+        "pojašnjenja"
+      ],
+      "ua": "пояснення, роз'яснення",
+      "audio": "hr-pojasnjenje.mp3",
+      "forms": [
+        "pojašnjenja",
+        "pojašnjenju",
+        "pojašnjenjem"
+      ],
+      "explain_ua": "(Pojašnjenje je kratko = пояснення коротке). Середній рід на -nje: pojašnjenje, pojašnjenja. Hvala na pojašnjenju: на + місцевий. Від pojasniti (нижче). Українське «пояснення» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-6f224c11",
+      "type": "noun",
+      "lemma": "zahvala",
+      "gender": "ž.",
+      "gen_sg": "zahvale",
+      "plural": [
+        "zahvale"
+      ],
+      "ua": "подяка",
+      "audio": "hr-zahvala.mp3",
+      "forms": [
+        "zahvale",
+        "zahvalu",
+        "zahvali",
+        "zahvalom"
+      ],
+      "explain_ua": "(Šaljem zahvalu direktoru = надсилаю директору подяку). Жіночий рід на -a: zahvala, zahvale, zahvalu (знахідний). Від zahvaliti (Lekcija 40): підказка для пам'яті. Українське «подяка» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b331d1d8",
+      "type": "noun",
+      "lemma": "primjedba",
+      "gender": "ž.",
+      "gen_sg": "primjedbe",
+      "plural": [
+        "primjedbe"
+      ],
+      "ua": "зауваження",
+      "audio": "hr-primjedba.mp3",
+      "forms": [
+        "primjedbe",
+        "primjedbu",
+        "primjedbi",
+        "primjedbom"
+      ],
+      "explain_ua": "(Imam jednu primjedbu = маю одне зауваження). Жіночий рід на -a: primjedba, primjedbe, primjedbu (знахідний), родовий множини primjedbi. Primjedba na + знахідний: primjedba na dokument (check). Пиши ije > je: primjedba. Українське «зауваження» інше слово.",
+      "check": "Форми з мого знання; що саме na + знахідний після primjedba, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-4c5e4b59",
+      "type": "noun",
+      "lemma": "odjel",
+      "gender": "m.",
+      "gen_sg": "odjela",
+      "plural": [
+        "odjeli"
+      ],
+      "ua": "відділ, відділення (лікарні)",
+      "audio": "hr-odjel.mp3",
+      "forms": [
+        "odjela",
+        "odjelu",
+        "odjeli",
+        "odjele",
+        "odjelom"
+      ],
+      "explain_ua": "(Odjel je na drugom katu = відділ на другому поверсі). Чоловічого роду: odjel, odjela, u odjelu. Відділ фірми чи лікарні. Пиши dj-e: odjel. Українське «відділ» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-3c4296a7",
+      "type": "verb",
+      "lemma": "obrazložiti",
+      "aspect": "pf.",
+      "partner": "obrazlagati",
+      "pres_1sg": "obrazložim",
+      "forms": [
+        "obrazložim",
+        "obrazložiš",
+        "obrazloži",
+        "obrazložimo",
+        "obrazložite",
+        "obrazlože",
+        "obrazložila",
+        "obrazložili",
+        "obrazložio",
+        "obrazlagati",
+        "obrazlažem",
+        "obrazlažeš",
+        "obrazlaže",
+        "obrazlažemo",
+        "obrazlažete",
+        "obrazlažu"
+      ],
+      "ua": "обґрунтувати, пояснити причини (недок. obrazlagati)",
+      "audio": "hr-obrazloziti.mp3",
+      "explain_ua": "(Tajnica obrazlaže odluku = секретарка пояснює причини рішення). Пара: obrazložiti (док.) / obrazlagati (недок.): obrazložim / obrazlažem (g > ž як у složiti / slažem, Lekcija 41). Знахідний: obrazložiti odluku. Офіційне слово: «пояснити причини».",
+      "check": "Пару та форми з мого знання за зразком složiti / slagati, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-49c8622c",
+      "type": "verb",
+      "lemma": "pojasniti",
+      "aspect": "pf.",
+      "partner": "pojašnjavati",
+      "pres_1sg": "pojasnim",
+      "forms": [
+        "pojasnim",
+        "pojasniš",
+        "pojasni",
+        "pojasnimo",
+        "pojasnite",
+        "pojasne",
+        "pojasnila",
+        "pojasnili",
+        "pojasnio",
+        "pojašnjavati",
+        "pojašnjavam",
+        "pojašnjavaš",
+        "pojašnjava",
+        "pojašnjavamo",
+        "pojašnjavate",
+        "pojašnjavaju"
+      ],
+      "ua": "пояснити, роз'яснити (недок. pojašnjavati)",
+      "audio": "hr-pojasniti.mp3",
+      "explain_ua": "(Možete li pojasniti ovo pitanje? = чи можете пояснити це питання?). Пара: pojasniti (док.) / pojašnjavati (недок.): pojasnim / pojašnjavam, s > š. Знахідний: pojasniti pitanje. Корінь jasan (ясний): підказка для пам'яті, не етимологія. Родина слова pojašnjenje (вище).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (s > š)."
+    },
+    {
+      "id": "hr-f47405d7",
+      "type": "verb",
+      "lemma": "ispuniti",
+      "aspect": "pf.",
+      "partner": "ispunjavati",
+      "pres_1sg": "ispunim",
+      "forms": [
+        "ispunim",
+        "ispuniš",
+        "ispuni",
+        "ispunimo",
+        "ispunite",
+        "ispune",
+        "ispunila",
+        "ispunili",
+        "ispunio",
+        "ispunjavati",
+        "ispunjavam",
+        "ispunjavaš",
+        "ispunjava",
+        "ispunjavamo",
+        "ispunjavate",
+        "ispunjavaju"
+      ],
+      "ua": "заповнити (бланк), виконати (недок. ispunjavati)",
+      "audio": "hr-ispuniti.mp3",
+      "explain_ua": "(Ispunjavam obrazac = заповнюю бланк). Пара: ispuniti (док.) / ispunjavati (недок.): ispunim / ispunjavam, n > nj. Ispuniti obrazac = заповнити бланк (як popuniti, Lekcija 22; обидва нормальні, check). Ispuniti obećanje = виконати обіцянку (друге значення тут не вчимо).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Що ispuniti obrazac і popuniti obrazac обидва нормальні, з мого знання."
+    },
+    {
+      "id": "hr-52a5e6cb",
+      "type": "verb",
+      "lemma": "informirati",
+      "aspect": "pf.",
+      "partner": "informirati",
+      "pres_1sg": "informiram",
+      "forms": [
+        "informiram",
+        "informiraš",
+        "informira",
+        "informiramo",
+        "informirate",
+        "informiraju",
+        "informirala",
+        "informirali",
+        "informirao"
+      ],
+      "ua": "поінформувати, інформувати",
+      "audio": "hr-informirati.mp3",
+      "explain_ua": "(Informiram kolegu o terminu = інформую колегу про час). Дієвідміна -am: informiram, informiraš, informira. Одне дієслово і для доконаного, і для недоконаного (контекст показує, check). Кого: знахідний, про що: o + місцевий (o terminu). Українське «інформувати» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання; що одне дієслово обидва види, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-b8e4db4c",
+      "type": "verb",
+      "lemma": "kontaktirati",
+      "aspect": "pf.",
+      "partner": "kontaktirati",
+      "pres_1sg": "kontaktiram",
+      "forms": [
+        "kontaktiram",
+        "kontaktiraš",
+        "kontaktira",
+        "kontaktiramo",
+        "kontaktirate",
+        "kontaktiraju",
+        "kontaktirala",
+        "kontaktirali",
+        "kontaktirao",
+        "kontaktirajte"
+      ],
+      "ua": "зв'язатися з, контактувати",
+      "audio": "hr-kontaktirati.mp3",
+      "explain_ua": "(Kontaktirajte nas e-poštom = зв'яжіться з нами електронною поштою). Дієвідміна -am: kontaktiram. Знахідний: kontaktirati nas, firmu. Наказ kontaktirajte (vi). Одне дієслово для обох видів (check). Як javiti se (Lekcija 19) але офіційніше.",
+      "check": "Форми з мого знання; що одне дієслово обидва види, з мого знання."
+    },
+    {
+      "id": "hr-a4f51a05",
+      "type": "adjective",
+      "lemma": "službeni",
+      "fem": "službena",
+      "neut": "službeno",
+      "ua": "службовий, офіційний",
+      "audio": "hr-sluzbeni.mp3",
+      "forms": [
+        "službena",
+        "službeno",
+        "službene",
+        "službenu",
+        "službenom"
+      ],
+      "explain_ua": "(Ovo je službeni dopis = це службовий лист). Прикметник означеного типу: službeni, službena, službeno. Службовий, офіційний. Пиши š: službeni. Українське «службовий» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-4b1b83dd",
+      "type": "adjective",
+      "lemma": "zahvalan",
+      "fem": "zahvalna",
+      "neut": "zahvalno",
+      "ua": "вдячний",
+      "audio": "hr-zahvalan.mp3",
+      "forms": [
+        "zahvalna",
+        "zahvalno",
+        "zahvalni",
+        "zahvalne"
+      ],
+      "explain_ua": "(Zahvalan sam na pomoći = я вдячний за допомогу). Нестійке a: zahvalan, zahvalna, zahvalno. Вдячний «за що»: na + місцевий (na pomoći). Жінка каже zahvalna sam. Від zahvala (вище).",
+      "check": "Форми з мого знання; na + місцевий після zahvalan, з мого знання."
+    },
+    {
+      "id": "hr-0fa79b11",
+      "type": "adjective",
+      "lemma": "zainteresiran",
+      "fem": "zainteresirana",
+      "neut": "zainteresirano",
+      "ua": "зацікавлений",
+      "audio": "hr-zainteresiran.mp3",
+      "forms": [
+        "zainteresirana",
+        "zainteresirano",
+        "zainteresirani",
+        "zainteresirane"
+      ],
+      "explain_ua": "(Zainteresirana sam za ovaj tečaj = я зацікавлена в цьому курсі). Нестійке a: zainteresiran, zainteresirana. Зацікавлений «чим»: za + знахідний (za tečaj), check. Те саме значення має zanima me (Lekcija 43): zanima me tečaj. Українське «зацікавлений» схоже.",
+      "check": "Форми з мого знання; za + знахідний після zainteresiran, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-7cb262ce",
+      "type": "adjective",
+      "lemma": "dostupan",
+      "fem": "dostupna",
+      "neut": "dostupno",
+      "ua": "доступний, наявний",
+      "audio": "hr-dostupan.mp3",
+      "forms": [
+        "dostupna",
+        "dostupno",
+        "dostupni",
+        "dostupne"
+      ],
+      "explain_ua": "(Direktor je dostupan u petak = директор доступний у п'ятницю). Нестійке a: dostupan, dostupna, dostupno. Про людину, яку можна застати, чи про річ, яку можна отримати. Українське «доступний» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-a0efbeae",
+      "type": "function",
+      "lemma": "stoga",
+      "ua": "тому, через це",
+      "audio": "hr-stoga.mp3",
+      "forms": [],
+      "explain_ua": "(Stoga Vas molim da odgovorite = тому прошу вас відповісти). Сполучний прислівник, стоїть на початку речення, клітик після нього (Stoga Vas molim). Книжніше за zato (Lekcija 21). Пиши g: stoga.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-fbcc127f",
+      "type": "function",
+      "lemma": "naime",
+      "ua": "адже, а саме",
+      "audio": "hr-naime.mp3",
+      "forms": [],
+      "explain_ua": "(Naime, ne znam kada tečaj počinje = адже я не знаю, коли починається курс). Вставне слово: пояснює причину сказаного перед цим. Стоїть після першого слова чи на початку, відокремлене комою. Українське «адже» інше слово, просто вчимо.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Службовий лист: звертання, причина й прохання, закінчення",
+      "summary_ua": "Службовий лист має три частини. Початок: Poštovani gospodine ... (кличний!) і причина, Obraćam Vam se u vezi s ... . Середина: що тобі потрібно, Molim Vas da + теперішній. Кінець: подяка і pozdrav. У хорватських службових листах Vi, Vas, Vam зазвичай пишуть з великої літери (check). Усі школи й ситуації вигадані, це мовна практика.",
+      "compare": [
+        {
+          "form": "Poštovani gospodine ..., Poštovana gospođo ...",
+          "when_ua": "Початок листа.",
+          "examples": [
+            {
+              "text": "Poštovani gospodine direktore,",
+              "ua": "Шановний пане директоре,",
+              "audio": "hr-les52-rule-01.mp3"
+            },
+            {
+              "text": "Poštovana gospođo,",
+              "ua": "Шановна пані,",
+              "audio": "hr-les52-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Кличний відмінок і в слові gospodine, і в direktore (Lekcija 40, тримайся УКРАЇНСЬКОЇ: «пане директоре»). Gospođo: кличний жіночого роду."
+        },
+        {
+          "form": "Obraćam Vam se u vezi s ... / Pišem Vam zbog ...",
+          "when_ua": "Причина листа.",
+          "examples": [
+            {
+              "text": "Obraćam Vam se u vezi s tečajem hrvatskog jezika.",
+              "ua": "Звертаюся до вас у зв'язку з курсом хорватської мови.",
+              "audio": "hr-les52-rule-03.mp3"
+            },
+            {
+              "text": "Pišem Vam zbog termina.",
+              "ua": "Пишу вам через час.",
+              "audio": "hr-les52-rule-04.mp3"
+            }
+          ],
+          "note_ua": "U vezi s + орудний (Lekcija 40). Zbog + родовий. Vam на другому місці: obraćam Vam se, pišem Vam."
+        },
+        {
+          "form": "Molim Vas da ... / Unaprijed zahvaljujem",
+          "when_ua": "Прохання й закінчення.",
+          "examples": [
+            {
+              "text": "Molim Vas da pošaljete informacije o cijeni.",
+              "ua": "Прошу вас надіслати інформацію про ціну.",
+              "audio": "hr-les52-rule-05.mp3"
+            },
+            {
+              "text": "Unaprijed zahvaljujem na odgovoru.",
+              "ua": "Заздалегідь дякую за відповідь.",
+              "audio": "hr-les52-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Molim Vas da + теперішній (Lekcija 40, 49). Zahvaljujem na + місцевий (na odgovoru). Закінчення: S poštovanjem."
+        }
+      ],
+      "points_ua": [
+        "Poštovani gospodine direktore, (кличний у двох словах).",
+        "Obraćam Vam se u vezi s + орудний.",
+        "Molim Vas da + теперішній; Unaprijed zahvaljujem na + місцевий."
+      ]
+    },
+    {
+      "title_ua": "Зв'язки в листі: stoga, naime, međutim",
+      "summary_ua": "Щоб текст був не набором речень, а листом, потрібні зв'язки. Stoga (тому) дає наслідок, naime (адже) пояснює причину, međutim (проте) протиставляє. Клітик стоїть на другому місці: після stoga йде Vas, mi.",
+      "compare": [
+        {
+          "form": "stoga",
+          "when_ua": "Наслідок.",
+          "examples": [
+            {
+              "text": "Stoga Vas molim da mi odgovorite do petka.",
+              "ua": "Тому прошу вас відповісти мені до п'ятниці.",
+              "audio": "hr-les52-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Stoga Vas molim: Vas на другому місці після stoga, не «Stoga molim Vas»."
+        },
+        {
+          "form": "naime",
+          "when_ua": "Пояснення.",
+          "examples": [
+            {
+              "text": "Naime, ne mogu doći u srijedu.",
+              "ua": "Адже я не можу прийти в середу.",
+              "audio": "hr-les52-rule-08.mp3"
+            },
+            {
+              "text": "Ne znam naime koliko košta tečaj.",
+              "ua": "Я адже не знаю, скільки коштує курс.",
+              "audio": "hr-les52-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Naime на початку з комою або після першого слова. Не на початку у вигляді «Naime je ...» без причини."
+        },
+        {
+          "form": "međutim",
+          "when_ua": "Протиставлення.",
+          "examples": [
+            {
+              "text": "Tečaj je zanimljiv, međutim termin mi ne odgovara.",
+              "ua": "Курс цікавий, проте час мені не підходить.",
+              "audio": "hr-les52-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Međutim з Lekcija 35. Odgovara «підходить» (Lekcija 31, значення «відповідати» ширше)."
+        }
+      ],
+      "points_ua": [
+        "Stoga Vas molim ...",
+        "Naime = адже, пояснення.",
+        "Međutim = проте."
+      ]
+    },
+    {
+      "title_ua": "Ввічливі запитання: Biste li mogli ..., Možete li ...",
+      "summary_ua": "Для листа й телефону найвпевненіше: Možete li ...? і Biste li mogli ...? (умовний, ввічливіше). Li на другому місці, після допоміжного biste. Zanima me ... для цікавості.",
+      "compare": [
+        {
+          "form": "Možete li / Biste li mogli + інфінітив",
+          "when_ua": "Просиш щось зробити.",
+          "examples": [
+            {
+              "text": "Biste li mogli poslati program tečaja?",
+              "ua": "Чи могли б ви надіслати програму курсу?",
+              "audio": "hr-les52-rule-11.mp3"
+            },
+            {
+              "text": "Možete li mi javiti cijenu?",
+              "ua": "Чи можете ви повідомити мені ціну?",
+              "audio": "hr-les52-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Biste li (допоміжне, потім li, Lekcija 18). Možete li mi: li, потім mi."
+        },
+        {
+          "form": "Zanima me ...",
+          "when_ua": "Кажеш, що цікавить.",
+          "examples": [
+            {
+              "text": "Zanima me kada počinje tečaj.",
+              "ua": "Мене цікавить, коли починається курс.",
+              "audio": "hr-les52-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Zanima me (Lekcija 43) + kada / koliko + речення."
+        }
+      ],
+      "points_ua": [
+        "Biste li mogli ...? Možete li mi ...?",
+        "Zanima me kada / koliko ..."
+      ]
+    },
+    {
+      "title_ua": "Перед відправленням: три перевірки",
+      "summary_ua": "Це мій список для письмової роботи (не правило іспиту). Перша хвилина: звертання й причина. Основна частина: коротко, одне прохання на речення. Останні три хвилини: перевір клітики, відмінки й діакритику. Мінімум 80 слів не означає довгі речення: 6-8 коротких.",
+      "compare": [
+        {
+          "form": "клітики на другому місці",
+          "when_ua": "Перевірка 1.",
+          "examples": [
+            {
+              "text": "Zamolila sam Vas da mi odgovorite.",
+              "ua": "Я попросила вас відповісти мені.",
+              "audio": "hr-les52-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Sam і Vas поруч на другому місці. Da mi: mi відразу після da."
+        },
+        {
+          "form": "відмінки після прийменників",
+          "when_ua": "Перевірка 2.",
+          "examples": [
+            {
+              "text": "Hvala na pomoći i pozdrav iz Zagreba.",
+              "ua": "Дякую за допомогу і вітання із Загреба.",
+              "audio": "hr-les52-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Na pomoći (місцевий), iz Zagreba (родовий)."
+        },
+        {
+          "form": "діакритика й ije / je",
+          "when_ua": "Перевірка 3.",
+          "examples": [
+            {
+              "text": "Prijedlog je u prilogu.",
+              "ua": "Пропозиція в додатку.",
+              "audio": "hr-les52-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Prijedlog, prilog: ije / je, č / ć / š / ž / đ."
+        }
+      ],
+      "points_ua": [
+        "Перша хвилина: звертання + причина.",
+        "Основа: одне прохання на речення, 6-8 коротких речень.",
+        "Остання перевірка: клітики, відмінки, діакритика."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Dopis je kratak.",
+      "ua": "Службовий лист короткий.",
+      "audio": "hr-les52-example-01.mp3"
+    },
+    {
+      "text": "Tajništvo je zatvoreno.",
+      "ua": "Секретаріат зачинений.",
+      "audio": "hr-les52-example-02.mp3"
+    },
+    {
+      "text": "Informacija je točna.",
+      "ua": "Інформація правильна.",
+      "audio": "hr-les52-example-03.mp3"
+    },
+    {
+      "text": "Podatak je netočan.",
+      "ua": "Дана відомість неправильна.",
+      "audio": "hr-les52-example-04.mp3"
+    },
+    {
+      "text": "Dokument je u prilogu.",
+      "ua": "Документ у додатку.",
+      "audio": "hr-les52-example-05.mp3"
+    },
+    {
+      "text": "Prilog je u e-pošti.",
+      "ua": "Додаток у листі.",
+      "audio": "hr-les52-example-06.mp3"
+    },
+    {
+      "text": "Imam prijedlog za termin.",
+      "ua": "Маю пропозицію щодо часу.",
+      "audio": "hr-les52-example-07.mp3"
+    },
+    {
+      "text": "Pojašnjenje je kratko.",
+      "ua": "Пояснення коротке.",
+      "audio": "hr-les52-example-08.mp3"
+    },
+    {
+      "text": "Šaljem zahvalu direktoru.",
+      "ua": "Надсилаю директору подяку.",
+      "audio": "hr-les52-example-09.mp3"
+    },
+    {
+      "text": "Imam jednu primjedbu.",
+      "ua": "Маю одне зауваження.",
+      "audio": "hr-les52-example-10.mp3"
+    },
+    {
+      "text": "Odjel je na drugom katu.",
+      "ua": "Відділ на другому поверсі.",
+      "audio": "hr-les52-example-11.mp3"
+    },
+    {
+      "text": "Tajnica obrazlaže odluku.",
+      "ua": "Секретарка пояснює причини рішення.",
+      "audio": "hr-les52-example-12.mp3"
+    },
+    {
+      "text": "Pojašnjavam pitanje.",
+      "ua": "Роз'яснюю питання.",
+      "audio": "hr-les52-example-13.mp3"
+    },
+    {
+      "text": "Ispunjavam obrazac.",
+      "ua": "Заповнюю бланк.",
+      "audio": "hr-les52-example-14.mp3"
+    },
+    {
+      "text": "Informiram kolegu o terminu.",
+      "ua": "Інформую колегу про час.",
+      "audio": "hr-les52-example-15.mp3"
+    },
+    {
+      "text": "Kontaktiram firmu e-poštom.",
+      "ua": "Зв'язуюся з фірмою електронною поштою.",
+      "audio": "hr-les52-example-16.mp3"
+    },
+    {
+      "text": "Ovo je službeni dopis.",
+      "ua": "Це службовий лист.",
+      "audio": "hr-les52-example-17.mp3"
+    },
+    {
+      "text": "Zahvalan sam na pomoći.",
+      "ua": "Я вдячний за допомогу.",
+      "audio": "hr-les52-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Pismo tajništvu",
+    "title_ua": "Лист до секретаріату",
+    "highlight": [
+      "hr-0d799ff3",
+      "hr-18d4d190",
+      "hr-a4f51a05",
+      "hr-a0efbeae",
+      "hr-fbcc127f"
+    ],
+    "sentences": [
+      {
+        "text": "Prošli tjedan sam poslala e-poštu tajništvu škole.",
+        "ua": "Минулого тижня я надіслала електронний лист у секретаріат школи.",
+        "audio": "hr-les52-reading-01.mp3"
+      },
+      {
+        "text": "Napisala sam službeni dopis u tri dijela.",
+        "ua": "Я написала службовий лист із трьох частин.",
+        "audio": "hr-les52-reading-02.mp3"
+      },
+      {
+        "text": "U pozdravu sam napisala: Poštovani gospodine.",
+        "ua": "У вітанні я написала: Шановний пане.",
+        "audio": "hr-les52-reading-03.mp3"
+      },
+      {
+        "text": "Zatim sam objasnila razlog: zanima me tečaj.",
+        "ua": "Потім я пояснила причину: мене цікавить курс.",
+        "audio": "hr-les52-reading-04.mp3"
+      },
+      {
+        "text": "Zamolila sam ih da mi pošalju program i cijenu.",
+        "ua": "Я попросила їх надіслати мені програму й ціну.",
+        "audio": "hr-les52-reading-05.mp3"
+      },
+      {
+        "text": "Naime, ne znam kada tečaj počinje.",
+        "ua": "Адже я не знаю, коли курс починається.",
+        "audio": "hr-les52-reading-06.mp3"
+      },
+      {
+        "text": "Stoga sam pitala za termine.",
+        "ua": "Тому я запитала про терміни.",
+        "audio": "hr-les52-reading-07.mp3"
+      },
+      {
+        "text": "Na kraju sam zahvalila i napisala svoje ime.",
+        "ua": "Наприкінці я подякувала й написала своє ім'я.",
+        "audio": "hr-les52-reading-08.mp3"
+      },
+      {
+        "text": "Odgovor sam dobila idući dan.",
+        "ua": "Відповідь я отримала наступного дня.",
+        "audio": "hr-les52-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай відповідь із секретаріату і дай відповіді. Текст видно, поки ти відповідаєш.",
+      "audio": "hr-les-52-answer.mp3",
+      "passage": {
+        "title": "Odgovor iz tajništva",
+        "paragraphs": [
+          "Poštovana gospođo, hvala Vam na e-pošti. U prilogu šaljemo program tečaja i podatke o cijeni. Cijena je ista za sve polaznike.",
+          "Tečaj počinje petog rujna, a završava u prosincu. Nastava je dva puta tjedno, utorkom i četvrtkom, od šest do osam sati navečer.",
+          "Za upis trebate ispuniti obrazac i priložiti jedan dokument. Obrazac možete ispuniti na internetu ili u tajništvu. Molimo Vas da obrazac pošaljete do kraja kolovoza.",
+          "Ako želite dodatno pojašnjenje, kontaktirajte nas e-poštom. Odgovorit ćemo Vam najkasnije do petka. Tajništvo je dostupno svaki dan od devet do dvanaest sati. S poštovanjem, tajništvo škole."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Що школа надіслала в додатку?",
+          "choices": [
+            "Програму курсу й дані про ціну",
+            "Лише квиток",
+            "Нову адресу"
+          ],
+          "accepted": [
+            "Програму курсу й дані про ціну"
+          ]
+        },
+        {
+          "prompt": "Коли починається курс? (дата)",
+          "accepted": [
+            "petog rujna",
+            "5. rujna",
+            "5.9.",
+            "petog rujna."
+          ]
+        },
+        {
+          "prompt": "У які дні заняття? (два дні)",
+          "accepted": [
+            "utorkom i četvrtkom",
+            "utorak i četvrtak",
+            "utorak, četvrtak",
+            "utorkom, četvrtkom"
+          ]
+        },
+        {
+          "prompt": "Бланк можна заповнити в інтернеті.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "До якого дня школа відповість?",
+          "accepted": [
+            "petak",
+            "do petka",
+            "petka"
+          ]
+        },
+        {
+          "prompt": "Секретаріат працює щодня.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай повідомлення із секретаріату. Відповідай одним-двома словами. Текст можна показати після відповідей.",
+      "audio": "hr-les-52-message.mp3",
+      "audio_text": "Dobar dan, ovdje tajništvo škole. Zovem zbog Vaše prijave na tečaj. Za upis trebamo još jedan dokument. Molimo Vas da ga pošaljete e-poštom najkasnije do srijede. Tajništvo je dostupno od osam do dva sata. Hvala i lijep pozdrav.",
+      "items": [
+        {
+          "prompt": "Чому дзвонять?",
+          "choices": [
+            "Через заявку на курс",
+            "Через оплату",
+            "Через новий термін"
+          ],
+          "accepted": [
+            "Через заявку на курс"
+          ]
+        },
+        {
+          "prompt": "Чого не вистачає? (одне-два слова)",
+          "accepted": [
+            "dokument",
+            "jedan dokument"
+          ]
+        },
+        {
+          "prompt": "Як треба надіслати? (одне слово)",
+          "accepted": [
+            "e-poštom",
+            "e-pošta",
+            "e-poštu"
+          ]
+        },
+        {
+          "prompt": "До якого дня?",
+          "accepted": [
+            "srijeda",
+            "do srijede",
+            "srijede"
+          ]
+        },
+        {
+          "prompt": "Секретаріат доступний лише вранці.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Службовий лист короткий.",
+          "accepted": [
+            "Službeni dopis je kratak."
+          ]
+        },
+        {
+          "prompt": "Мені потрібна ще одна інформація.",
+          "accepted": [
+            "Treba mi još jedna informacija.",
+            "Trebam još jednu informaciju."
+          ]
+        },
+        {
+          "prompt": "Усі дані в додатку.",
+          "accepted": [
+            "Svi podaci su u prilogu."
+          ]
+        },
+        {
+          "prompt": "Ваша пропозиція мені подобається.",
+          "accepted": [
+            "Sviđa mi se Vaš prijedlog.",
+            "Sviđa mi se vaš prijedlog."
+          ]
+        },
+        {
+          "prompt": "Дякую за пояснення.",
+          "accepted": [
+            "Hvala na pojašnjenju."
+          ]
+        },
+        {
+          "prompt": "Я маю зауваження до цього документа.",
+          "accepted": [
+            "Imam primjedbu na ovaj dokument."
+          ]
+        },
+        {
+          "prompt": "Секретаріат працює щодня.",
+          "accepted": [
+            "Tajništvo radi svaki dan."
+          ]
+        },
+        {
+          "prompt": "Я заповнила бланк.",
+          "accepted": [
+            "Ispunila sam obrazac."
+          ]
+        },
+        {
+          "prompt": "Чи можете ви пояснити це питання?",
+          "accepted": [
+            "Možete li pojasniti ovo pitanje?"
+          ]
+        },
+        {
+          "prompt": "Хочу поінформувати вас про термін.",
+          "accepted": [
+            "Želim Vas informirati o terminu.",
+            "Želim vas informirati o terminu."
+          ]
+        },
+        {
+          "prompt": "Зв'яжіться з нами електронною поштою.",
+          "accepted": [
+            "Kontaktirajte nas e-poštom."
+          ]
+        },
+        {
+          "prompt": "Я зацікавлена в цьому курсі.",
+          "accepted": [
+            "Zainteresirana sam za ovaj tečaj."
+          ]
+        },
+        {
+          "prompt": "Директор буде доступний у п'ятницю.",
+          "accepted": [
+            "Direktor će biti dostupan u petak."
+          ]
+        },
+        {
+          "prompt": "Тому прошу вас надіслати програму.",
+          "accepted": [
+            "Stoga Vas molim da pošaljete program.",
+            "Stoga vas molim da pošaljete program."
+          ]
+        },
+        {
+          "prompt": "Заздалегідь вам дякую.",
+          "accepted": [
+            "Unaprijed Vam zahvaljujem.",
+            "Unaprijed vam zahvaljujem."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "dopis",
+        "Tajništvo",
+        "informacija",
+        "podaci",
+        "dokument",
+        "prilogu",
+        "prijedlog",
+        "pojašnjenje",
+        "zahvalu",
+        "primjedba",
+        "odjelu",
+        "službeno",
+        "zahvalna",
+        "dostupan"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Pišem kratak ___.",
+          "hint": "Пишу короткий службовий лист.",
+          "accepted": [
+            [
+              "dopis"
+            ]
+          ]
+        },
+        {
+          "text": "___ je zatvoreno do ponedjeljka.",
+          "hint": "Секретаріат зачинений до понеділка.",
+          "accepted": [
+            [
+              "Tajništvo",
+              "tajništvo"
+            ]
+          ]
+        },
+        {
+          "text": "Trebam više ___.",
+          "hint": "Мені потрібно більше інформації.",
+          "accepted": [
+            [
+              "informacija"
+            ]
+          ]
+        },
+        {
+          "text": "Svi ___ su točni.",
+          "hint": "Усі дані правильні.",
+          "accepted": [
+            [
+              "podaci"
+            ]
+          ]
+        },
+        {
+          "text": "Pošaljite ___ e-poštom.",
+          "hint": "Надішліть документ електронною поштою.",
+          "accepted": [
+            [
+              "dokument"
+            ]
+          ]
+        },
+        {
+          "text": "Račun je u ___.",
+          "hint": "Рахунок у додатку.",
+          "accepted": [
+            [
+              "prilogu"
+            ]
+          ]
+        },
+        {
+          "text": "Imam jedan ___ za sastanak.",
+          "hint": "Маю одну пропозицію для зустрічі.",
+          "accepted": [
+            [
+              "prijedlog"
+            ]
+          ]
+        },
+        {
+          "text": "Treba mi kratko ___.",
+          "hint": "Мені потрібне коротке пояснення.",
+          "accepted": [
+            [
+              "pojašnjenje"
+            ]
+          ]
+        },
+        {
+          "text": "Šaljem direktoru ___.",
+          "hint": "Надсилаю директору подяку.",
+          "accepted": [
+            [
+              "zahvalu"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je moja ___ na račun.",
+          "hint": "Це моє зауваження до рахунку.",
+          "accepted": [
+            [
+              "primjedba"
+            ]
+          ]
+        },
+        {
+          "text": "Moj kolega radi u tom ___.",
+          "hint": "Мій колега працює в тому відділі.",
+          "accepted": [
+            [
+              "odjelu"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je ___ pismo.",
+          "hint": "Це службовий лист.",
+          "accepted": [
+            [
+              "službeno"
+            ]
+          ]
+        },
+        {
+          "text": "Moja kolegica je ___ na pomoći.",
+          "hint": "Моя колега вдячна за допомогу.",
+          "accepted": [
+            [
+              "zahvalna"
+            ]
+          ]
+        },
+        {
+          "text": "Direktor nije ___ danas.",
+          "hint": "Директор сьогодні недоступний.",
+          "accepted": [
+            [
+              "dostupan"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Poštovani direktor, pišem Vam.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovani direktore, pišem Vam."
+          ]
+        },
+        {
+          "prompt": "Obraćam Vam se u vezi tečaj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Obraćam Vam se u vezi s tečajem."
+          ]
+        },
+        {
+          "prompt": "Molim Vas da poslati program.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Molim Vas da pošaljete program."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam napisala dopis.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam napisala dopis.",
+            "Ja sam danas napisala dopis."
+          ]
+        },
+        {
+          "prompt": "Možete se li javiti sutra?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Možete li se javiti sutra?"
+          ]
+        },
+        {
+          "prompt": "Zahvaljujem na odgovor.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zahvaljujem na odgovoru."
+          ]
+        },
+        {
+          "prompt": "Dokument je u e-pošta.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dokument je u e-pošti."
+          ]
+        },
+        {
+          "prompt": "Mi vas kontaktiram.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi vas kontaktiramo.",
+            "Kontaktiramo vas."
+          ]
+        },
+        {
+          "prompt": "Stoga molim Vas da odgovorite.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Stoga Vas molim da odgovorite."
+          ]
+        },
+        {
+          "prompt": "Ispunila sam obrazac na tajništvo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ispunila sam obrazac u tajništvu."
+          ]
+        },
+        {
+          "prompt": "Hvala Vam za pojašnjenje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hvala Vam na pojašnjenju."
+          ]
+        },
+        {
+          "prompt": "Tajništvo je dostupno.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li tajništvo dostupno?"
+          ]
+        },
+        {
+          "prompt": "Šaljem dokument.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Ne šaljem dokument."
+          ]
+        },
+        {
+          "prompt": "Podatak je točan.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Podaci su točni."
+          ]
+        },
+        {
+          "prompt": "Pišem dopis i šaljem ga.",
+          "cue": "-> Nakon što ... (napisati)",
+          "accepted": [
+            "Nakon što napišem dopis, šaljem ga.",
+            "Šaljem ga nakon što napišem dopis."
+          ]
+        },
+        {
+          "prompt": "Direktor informira kolegu.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Direktor je informirao kolegu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Tajnica ___ odluku.",
+          "cue": "obrazlagati",
+          "accepted": [
+            "obrazlaže"
+          ]
+        },
+        {
+          "text": "Ja ___ pitanje.",
+          "cue": "pojašnjavati",
+          "accepted": [
+            "pojašnjavam"
+          ]
+        },
+        {
+          "text": "Kad ___ obrazac, javim se.",
+          "cue": "ispuniti",
+          "accepted": [
+            "ispunim"
+          ]
+        },
+        {
+          "text": "Svaki dan ___ obrazac.",
+          "cue": "ispunjavati",
+          "accepted": [
+            "ispunjavam"
+          ]
+        },
+        {
+          "text": "Mi ___ kolege o terminu.",
+          "cue": "informirati",
+          "accepted": [
+            "informiramo"
+          ]
+        },
+        {
+          "text": "Oni nas često ___.",
+          "cue": "kontaktirati",
+          "accepted": [
+            "kontaktiraju"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ direktora.",
+          "cue": "informirati",
+          "accepted": [
+            "informirala",
+            "informirao"
+          ]
+        },
+        {
+          "text": "Direktor je ___ odluku.",
+          "cue": "obrazložiti",
+          "accepted": [
+            "obrazložio"
+          ]
+        },
+        {
+          "text": "Čim tajnica ___ pitanje, javljam se.",
+          "cue": "pojasniti",
+          "accepted": [
+            "pojasni"
+          ]
+        },
+        {
+          "text": "Ti nas svaki tjedan ___.",
+          "cue": "kontaktirati",
+          "accepted": [
+            "kontaktiraš"
+          ]
+        },
+        {
+          "text": "Jučer smo ___ obrazac.",
+          "cue": "ispuniti",
+          "accepted": [
+            "ispunili"
+          ]
+        },
+        {
+          "text": "On uvijek ___ moje pitanje.",
+          "cue": "pojašnjavati",
+          "accepted": [
+            "pojašnjava"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "службовий лист",
+          "answer": "dopis"
+        },
+        {
+          "prompt": "секретаріат",
+          "answer": "tajništvo"
+        },
+        {
+          "prompt": "інформація",
+          "answer": "informacija"
+        },
+        {
+          "prompt": "дані, відомість",
+          "answer": "podatak"
+        },
+        {
+          "prompt": "документ",
+          "answer": "dokument"
+        },
+        {
+          "prompt": "додаток (до листа)",
+          "answer": "prilog"
+        },
+        {
+          "prompt": "пропозиція",
+          "answer": "prijedlog"
+        },
+        {
+          "prompt": "пояснення",
+          "answer": "pojašnjenje"
+        },
+        {
+          "prompt": "подяка",
+          "answer": "zahvala"
+        },
+        {
+          "prompt": "зауваження",
+          "answer": "primjedba"
+        },
+        {
+          "prompt": "відділ",
+          "answer": "odjel"
+        },
+        {
+          "prompt": "службовий, офіційний",
+          "answer": "službeni"
+        },
+        {
+          "prompt": "вдячний",
+          "answer": "zahvalan"
+        },
+        {
+          "prompt": "доступний",
+          "answer": "dostupan"
+        }
+      ],
+      "extra": [
+        "stoga",
+        "naime"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова з ije / je й діакритикою: послухай і напиши.",
+      "words": [
+        "tijekom",
+        "uvijek",
+        "vrijeme",
+        "prijatelj",
+        "pouzdan"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 47, 6, 4, 1, 47; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

@@ -1,0 +1,1661 @@
+{
+  "id": "hr-les-54",
+  "lang": "hr",
+  "order": 54,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "jutros",
+    "sam",
+    "čitala",
+    "vijesti",
+    "na",
+    "internetu",
+    "čitajući",
+    "članak",
+    "vidjela",
+    "novi",
+    "naslov",
+    "obnovljeno",
+    "igralište",
+    "prema",
+    "udruge",
+    "stanovnici",
+    "su",
+    "obnovili",
+    "klupe",
+    "novinar",
+    "navodi",
+    "da",
+    "se",
+    "radovi",
+    "završavaju",
+    "u",
+    "lipnju",
+    "pročitavši",
+    "komentare",
+    "čitatelja",
+    "zaključila",
+    "zadovoljni",
+    "unatoč",
+    "kiši",
+    "subotu",
+    "je",
+    "došlo",
+    "mnogo",
+    "ljudi",
+    "prosjeku",
+    "bilo",
+    "pedeset",
+    "ukupno",
+    "prijavljeno",
+    "deset",
+    "volontera",
+    "vrlo",
+    "zanimljiv",
+    "čitaju",
+    "sve",
+    "manje",
+    "novina",
+    "anketa",
+    "provedena",
+    "ove",
+    "godine",
+    "tisuću",
+    "trideset",
+    "minuta",
+    "dan",
+    "lani",
+    "četrdeset",
+    "dakle",
+    "manji",
+    "za",
+    "mobitelu",
+    "šezdeset",
+    "posto",
+    "bio",
+    "pa",
+    "onih",
+    "koji",
+    "stariji",
+    "vole",
+    "mladi",
+    "nemaju",
+    "vremena",
+    "starije",
+    "zanimaju",
+    "kvarta",
+    "sport",
+    "glazba",
+    "radionica",
+    "novinama",
+    "održat",
+    "će",
+    "knjižnici",
+    "besplatno",
+    "pitanja",
+    "navikama",
+    "što",
+    "kada",
+    "koliko",
+    "dugo",
+    "odgovarali",
+    "tisuća",
+    "udruga",
+    "organizirala",
+    "dostupna",
+    "svaki",
+    "treba",
+    "više",
+    "zajednici",
+    "rezultate",
+    "zaključuje",
+    "prima",
+    "do",
+    "kraja",
+    "mjeseca",
+    "odgovori",
+    "pije",
+    "kavu",
+    "radeći",
+    "vrtu",
+    "sluša",
+    "glazbu",
+    "govoreći",
+    "radovima",
+    "pita",
+    "poslala",
+    "pismo",
+    "odgovor",
+    "došavši",
+    "kolodvor",
+    "kupila",
+    "kartu",
+    "rekavši",
+    "to",
+    "otišao",
+    "zatvoren",
+    "most",
+    "otvorena",
+    "knjižnica",
+    "objavljeni",
+    "rezultati",
+    "ankete",
+    "otvoren",
+    "objavljen",
+    "napisan",
+    "istraživanju",
+    "čitamo",
+    "radim",
+    "osam",
+    "sati",
+    "lošem",
+    "vremenu",
+    "idućući",
+    "idući",
+    "kući",
+    "susjeda",
+    "šetajući",
+    "gradu",
+    "gledajući",
+    "film",
+    "kruh",
+    "kupujući",
+    "prodavačem",
+    "ljetu",
+    "smijala",
+    "pišući",
+    "plakala",
+    "otvorivši",
+    "vrata",
+    "gosta",
+    "čuvši",
+    "ključ",
+    "uzevši",
+    "plativši",
+    "račun",
+    "slušajući",
+    "radio",
+    "kuha",
+    "ručak",
+    "živeći",
+    "ovdje",
+    "radi",
+    "uči",
+    "lokalnih",
+    "ostaju",
+    "važne",
+    "padu",
+    "najzanimljivija",
+    "sudjelovanje",
+    "napisao",
+    "sportu",
+    "pokazalo",
+    "sudjelovalo",
+    "kasnom",
+    "satu",
+    "vjetru",
+    "kratki",
+    "odgovorio",
+    "otišla"
+  ],
+  "notes": [
+    {
+      "id": "hr-4d219d03",
+      "type": "noun",
+      "lemma": "priopćenje",
+      "gender": "s.",
+      "gen_sg": "priopćenja",
+      "plural": [
+        "priopćenja"
+      ],
+      "ua": "повідомлення для преси, комюніке",
+      "audio": "hr-priopcenje.mp3",
+      "forms": [
+        "priopćenja",
+        "priopćenju",
+        "priopćenjem"
+      ],
+      "explain_ua": "(Priopćenje je kratko = повідомлення для преси коротке). УВАГА ДО ВСЬОГО УРОКУ: новини, цифри, організації й опитування в цьому уроці вигадані для вправ, це мовна практика, а не справжні новини. Середній рід на -nje: priopćenje, priopćenja, prema priopćenju (prema + давальний, Lekcija 45). Пиши ć: priopćenje. Офіційне повідомлення, яке видає фірма чи організація для газет.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2e08d6c7",
+      "type": "noun",
+      "lemma": "izvor",
+      "gender": "m.",
+      "gen_sg": "izvora",
+      "plural": [
+        "izvori"
+      ],
+      "ua": "джерело",
+      "audio": "hr-izvor.mp3",
+      "forms": [
+        "izvora",
+        "izvoru",
+        "izvori",
+        "izvore",
+        "izvorom"
+      ],
+      "explain_ua": "(Izvor je dobar = джерело добре). Чоловічого роду: izvor, izvora, izvori. Джерело інформації чи води. Українське «джерело» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-87c12bb3",
+      "type": "noun",
+      "lemma": "izjava",
+      "gender": "ž.",
+      "gen_sg": "izjave",
+      "plural": [
+        "izjave"
+      ],
+      "ua": "заява, висловлювання",
+      "audio": "hr-izjava.mp3",
+      "forms": [
+        "izjave",
+        "izjavu",
+        "izjavi",
+        "izjavom"
+      ],
+      "explain_ua": "(Izjava je kratka = заява коротка). Жіночий рід на -a: izjava, izjave, izjavu (знахідний), родовий множини izjava. Від izjaviti (нижче). Українське «заява» (Lekcija 36 zahtjev) інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-e7363554",
+      "type": "noun",
+      "lemma": "komentar",
+      "gender": "m.",
+      "gen_sg": "komentara",
+      "plural": [
+        "komentari"
+      ],
+      "ua": "коментар",
+      "audio": "hr-komentar.mp3",
+      "forms": [
+        "komentara",
+        "komentaru",
+        "komentari",
+        "komentare",
+        "komentarima"
+      ],
+      "explain_ua": "(Komentar je kratak = коментар короткий). Чоловічого роду: komentar, komentara, komentari. Знайоме слово, закінчення вчимо. Komentare čitatelja: знахідний множини і родовий множини.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-a5e24719",
+      "type": "noun",
+      "lemma": "javnost",
+      "gender": "ž.",
+      "gen_sg": "javnosti",
+      "plural": [],
+      "ua": "громадськість, публіка",
+      "audio": "hr-javnost.mp3",
+      "forms": [
+        "javnosti",
+        "javnošću"
+      ],
+      "explain_ua": "(Javnost čeka odgovor = громадськість чекає відповіді). Жіночий рід на приголосний (i-основа, як riječ): javnost, javnosti, у знахідному javnost. Без множини. Від javni (Lekcija 51): підказка для пам'яті. Тут лише слово: ніяких тверджень про справжні установи.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-030b31e0",
+      "type": "noun",
+      "lemma": "čitatelj",
+      "gender": "m.",
+      "gen_sg": "čitatelja",
+      "plural": [
+        "čitatelji"
+      ],
+      "ua": "читач",
+      "audio": "hr-citatelj.mp3",
+      "forms": [
+        "čitatelja",
+        "čitatelju",
+        "čitatelji",
+        "čitatelje",
+        "čitateljima",
+        "čitateljica",
+        "čitavši"
+      ],
+      "explain_ua": "(Čitatelji pišu komentare = читачі пишуть коментарі). Чоловічого роду на -lj: čitatelj, čitatelja, čitatelji. Жіноча форма čitateljica. Знахідний живого збігається з родовим: čitatelja. Від čitati (Lekcija 2): підказка для пам'яті.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-c7e52b34",
+      "type": "noun",
+      "lemma": "rubrika",
+      "gender": "ž.",
+      "gen_sg": "rubrike",
+      "plural": [
+        "rubrike"
+      ],
+      "ua": "рубрика (в газеті, на сайті)",
+      "audio": "hr-rubrika.mp3",
+      "forms": [
+        "rubrike",
+        "rubriku",
+        "rubrici",
+        "rubrikom"
+      ],
+      "explain_ua": "(Rubrika je zanimljiva = рубрика цікава). Жіночий рід на -a: rubrika, rubrike, rubriku, u rubrici (k > c). Стала частина газети чи сайту: sport, kultura, vijesti. Українське «рубрика» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f0e8d975",
+      "type": "noun",
+      "lemma": "istraživanje",
+      "gender": "s.",
+      "gen_sg": "istraživanja",
+      "plural": [
+        "istraživanja"
+      ],
+      "ua": "дослідження",
+      "audio": "hr-istrazivanje.mp3",
+      "forms": [
+        "istraživanja",
+        "istraživanju",
+        "istraživanjem"
+      ],
+      "explain_ua": "(Istraživanje je kratko = дослідження коротке). Середній рід на -nje: istraživanje, istraživanja, prema istraživanju. Від istražiti (нижче). Пиши ž і -vanje: istraživanje. Українське «дослідження» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-7bcc62ca",
+      "type": "noun",
+      "lemma": "anketa",
+      "gender": "ž.",
+      "gen_sg": "ankete",
+      "plural": [
+        "ankete"
+      ],
+      "ua": "опитування, анкета",
+      "audio": "hr-anketa.mp3",
+      "forms": [
+        "ankete",
+        "anketu",
+        "anketi",
+        "anketom"
+      ],
+      "explain_ua": "(Anketa je kratka = опитування коротке). Жіночий рід на -a: anketa, ankete, anketu (знахідний). Не плутай з obrazac (бланк, Lekcija 22): anketa це питання до багатьох людей. Українське «анкета» близьке, але тут радше «опитування».",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-dac899bf",
+      "type": "noun",
+      "lemma": "postotak",
+      "gender": "m.",
+      "gen_sg": "postotka",
+      "plural": [
+        "postoci"
+      ],
+      "ua": "відсоток (частка)",
+      "audio": "hr-postotak.mp3",
+      "forms": [
+        "postotka",
+        "postotku",
+        "postoci",
+        "postotke",
+        "postotaka"
+      ],
+      "explain_ua": "(Postotak je velik = відсоток великий). Чоловічого роду, нестійке a (Lekcija 16): postotak, postotka, множина postoci (k > c). Postotak це частка, а posto (Lekcija 34) це слово при числі: pet posto. Не «pet postotak»: pet posto або pet postotaka (check).",
+      "check": "Форми з мого знання; що pet postotaka теж можна, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-9b5ff0e0",
+      "type": "noun",
+      "lemma": "prosjek",
+      "gender": "m.",
+      "gen_sg": "prosjeka",
+      "plural": [
+        "prosjeci"
+      ],
+      "ua": "середнє значення",
+      "audio": "hr-prosjek.mp3",
+      "forms": [
+        "prosjeka",
+        "prosjeku",
+        "prosjeci",
+        "prosjekom"
+      ],
+      "explain_ua": "(Prosjek je dobar = середнє добре). Чоловічого роду: prosjek, prosjeka. U prosjeku = у середньому: u prosjeku čitam sat na dan. Пиши ije > je: prosjek.",
+      "check": "Форми з мого знання; множину prosjeci рідко вживають, не звіряв."
+    },
+    {
+      "id": "hr-a2b79ced",
+      "type": "noun",
+      "lemma": "porast",
+      "gender": "m.",
+      "gen_sg": "porasta",
+      "plural": [],
+      "ua": "зростання, збільшення",
+      "audio": "hr-porast.mp3",
+      "forms": [
+        "porasta",
+        "porastu",
+        "porastom"
+      ],
+      "explain_ua": "(Porast je mali = зростання невелике). Чоловічого роду, зазвичай без множини: porast, porasta. Від rasti (Lekcija 33): підказка для пам'яті. Porast od pet posto = зростання на п'ять відсотків (od + родовий).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-37032168",
+      "type": "verb",
+      "lemma": "izjaviti",
+      "aspect": "pf.",
+      "partner": "izjavljivati",
+      "pres_1sg": "izjavim",
+      "forms": [
+        "izjavim",
+        "izjaviš",
+        "izjavi",
+        "izjavimo",
+        "izjavite",
+        "izjave",
+        "izjavila",
+        "izjavili",
+        "izjavio",
+        "izjavljivati",
+        "izjavljujem",
+        "izjavljuješ",
+        "izjavljuje",
+        "izjavljujemo",
+        "izjavljujete",
+        "izjavljuju"
+      ],
+      "ua": "заявити (недок. izjavljivati)",
+      "audio": "hr-izjaviti.mp3",
+      "explain_ua": "(Direktor izjavljuje da je program dug = директор заявляє, що програма довга). Пара: izjaviti (док.) / izjavljivati (недок.): izjavim / izjavljujem, v > vlj. Після нього da + речення (Lekcija 31). У новинах: novinar izjavljuje, direktor je izjavio.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (v > vlj)."
+    },
+    {
+      "id": "hr-21a0a45f",
+      "type": "verb",
+      "lemma": "tvrditi",
+      "aspect": "impf.",
+      "pres_1sg": "tvrdim",
+      "forms": [
+        "tvrdim",
+        "tvrdiš",
+        "tvrdi",
+        "tvrdimo",
+        "tvrdite",
+        "tvrde",
+        "tvrdila",
+        "tvrdili",
+        "tvrdio"
+      ],
+      "ua": "стверджувати",
+      "audio": "hr-tvrditi.mp3",
+      "explain_ua": "(Novinar tvrdi da je tekst točan = журналіст стверджує, що текст правильний). Недоконане, дієвідміна -im: tvrdim, tvrdiš, tvrdi, 3 особа множини tvrde. Після нього da + речення. Сильніше за kaže da: «стверджує». Пари доконаного для цього значення нема в моїх записах (check).",
+      "check": "Форми з мого знання; пари доконаного не звіряв."
+    },
+    {
+      "id": "hr-75fd5cab",
+      "type": "verb",
+      "lemma": "navesti",
+      "aspect": "pf.",
+      "partner": "navoditi",
+      "pres_1sg": "navedem",
+      "forms": [
+        "navedem",
+        "navedeš",
+        "navede",
+        "navedemo",
+        "navedete",
+        "navedu",
+        "naveo",
+        "navela",
+        "naveli",
+        "navoditi",
+        "navodim",
+        "navodiš",
+        "navodi",
+        "navodimo",
+        "navodite",
+        "navode"
+      ],
+      "ua": "навести, вказати (недок. navoditi)",
+      "audio": "hr-navesti.mp3",
+      "explain_ua": "(Članak navodi tri izvora = стаття називає три джерела). Пара: navesti (док.) / navoditi (недок.): navedem / navodim. НЕПРАВИЛЬНЕ, інфінітив на -sti, минулий naveo, navela, naveli (як vesti). У новинах найчастіше недок. 3 особа: navodi da ..., navode da ... .",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (naveo, navela)."
+    },
+    {
+      "id": "hr-e12c3fcb",
+      "type": "verb",
+      "lemma": "istražiti",
+      "aspect": "pf.",
+      "partner": "istraživati",
+      "pres_1sg": "istražim",
+      "forms": [
+        "istražim",
+        "istražiš",
+        "istraži",
+        "istražimo",
+        "istražite",
+        "istraže",
+        "istražila",
+        "istražili",
+        "istražio",
+        "istraživati",
+        "istražujem",
+        "istražuješ",
+        "istražuje",
+        "istražujemo",
+        "istražujete",
+        "istražuju"
+      ],
+      "ua": "дослідити (недок. istraživati)",
+      "audio": "hr-istraziti.mp3",
+      "explain_ua": "(Udruga istražuje temu = об'єднання досліджує тему). Пара: istražiti (док.) / istraživati (недок.): istražim / istražujem, i > uj. Знахідний: istražiti temu. Родина слова istraživanje (вище).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-7b97f492",
+      "type": "verb",
+      "lemma": "komentirati",
+      "aspect": "impf.",
+      "partner": "skomentirati",
+      "pres_1sg": "komentiram",
+      "forms": [
+        "komentiram",
+        "komentiraš",
+        "komentira",
+        "komentiramo",
+        "komentirate",
+        "komentiraju",
+        "komentirala",
+        "komentirali",
+        "komentirao",
+        "skomentirati",
+        "skomentiram",
+        "skomentirao",
+        "skomentirala"
+      ],
+      "ua": "коментувати (док. skomentirati)",
+      "audio": "hr-komentirati.mp3",
+      "explain_ua": "(Čitatelj komentira članak = читач коментує статтю). Дієвідміна -am: komentiram, komentiraš, komentira. Пара до skomentirati (check). Знахідний: komentirati članak. Родина слова komentar (вище).",
+      "check": "Форми з мого знання; пару komentirati / skomentirati звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-c28199e4",
+      "type": "adjective",
+      "lemma": "ovogodišnji",
+      "fem": "ovogodišnja",
+      "neut": "ovogodišnje",
+      "ua": "цьогорічний",
+      "audio": "hr-ovogodisnji.mp3",
+      "forms": [
+        "ovogodišnja",
+        "ovogodišnje",
+        "ovogodišnju",
+        "ovogodišnjem",
+        "ovogodišnjoj"
+      ],
+      "explain_ua": "(Ovogodišnji program je dug = цьогорічна програма довга). Прикметник означеного типу: ovogodišnji, ovogodišnja, ovogodišnje. Складене з ove godine. Пиши š: godišnji. Українське «цьогорічний» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-6d3d4dfc",
+      "type": "adjective",
+      "lemma": "lanjski",
+      "fem": "lanjska",
+      "neut": "lanjsko",
+      "ua": "торішній, минулорічний",
+      "audio": "hr-lanjski.mp3",
+      "forms": [
+        "lanjska",
+        "lanjsko",
+        "lanjskoj",
+        "lanjskog",
+        "lanjskom"
+      ],
+      "explain_ua": "(Lanjski rezultat je bolji = торішній результат кращий). Прикметник: lanjski, lanjska, lanjsko. Від lani = торік (check, прислівник). Те саме, що prošlogodišnji (check). Українське «торішній» інше слово.",
+      "check": "Форми з мого знання; чи lanjski нормативне поруч із prošlogodišnji, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-a7fdfd70",
+      "type": "adjective",
+      "lemma": "godišnji",
+      "fem": "godišnja",
+      "neut": "godišnje",
+      "ua": "річний",
+      "audio": "hr-godisnji.mp3",
+      "forms": [
+        "godišnja",
+        "godišnje",
+        "godišnjem",
+        "godišnjeg"
+      ],
+      "explain_ua": "(Godišnje izvješće je u prilogu = річний звіт у додатку). Прикметник означеного типу: godišnji, godišnja, godišnje. Godišnji odmor = щорічна відпустка. Від godina (Lekcija 1, рік; не година). Пиши š: godišnji.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-c5592906",
+      "type": "function",
+      "lemma": "unatoč",
+      "ua": "незважаючи на, попри (+ давальний)",
+      "audio": "hr-unatoc.mp3",
+      "forms": [],
+      "explain_ua": "(Unatoč lošem vremenu, mnogo ljudi je došlo = незважаючи на погану погоду, прийшло багато людей). Прийменник з давальним: unatoč kiši, unatoč lošem vremenu (kiša, kiši). Книжніше за iako (Lekcija 21): iako pada kiša, ... . Також usprkos (check). Пиши č: unatoč.",
+      "check": "Значення та вживання з мого знання; що unatoč вимагає давального, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-08b282b9",
+      "type": "function",
+      "lemma": "ukupno",
+      "ua": "загалом, усього",
+      "audio": "hr-ukupno.mp3",
+      "forms": [],
+      "explain_ua": "(Ukupno je petnaest pitanja = усього п'ятнадцять питань). Прислівник, не змінюється. Стоїть на початку речення з числом: ukupno deset, ukupno trideset eura. Українське «усього» інше слово, просто вчимо.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Дієприслівник теперішнього часу: čitajući, radeći",
+      "summary_ua": "Дві дії відбуваються одночасно, і виконує їх одна особа: Čitajući novine, pije kavu. Утворення: форма 3 особи множини теперішнього + ći: čitaju > čitajući, rade > radeći, pišu > pišući, govore > govoreći. Це книжна форма, у розмові частіше dok: dok čita novine. Для B1 достатньо ВПІЗНАВАТИ її в новинах. Тримайся УКРАЇНСЬКОЇ чи РОСІЙСЬКОЇ: «читаючи / читая» відповідає один до одного (check).",
+      "compare": [
+        {
+          "form": "3 особа множини + ći",
+          "when_ua": "Одночасно з головною дією.",
+          "examples": [
+            {
+              "text": "Čitajući novine, pije kavu.",
+              "ua": "Читаючи газету, вона п'є каву.",
+              "audio": "hr-les54-rule-01.mp3"
+            },
+            {
+              "text": "Radeći u vrtu, sluša glazbu.",
+              "ua": "Працюючи в саду, він слухає музику.",
+              "audio": "hr-les54-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Čitaju > čitajući; rade > radeći (дієслова на -im / -e дають -eći). Підмет головного речення той самий."
+        },
+        {
+          "form": "інші приклади: pišući, govoreći",
+          "when_ua": "Різні дієслова.",
+          "examples": [
+            {
+              "text": "Govoreći o radovima, novinar pita stanovnike.",
+              "ua": "Говорячи про ремонт, журналіст опитує мешканців.",
+              "audio": "hr-les54-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Govore > govoreći, pišu > pišući, idu > idući (idući вже знаєш як «наступний», Lekcija 12). Варіант з dok: Dok govori o radovima, novinar pita stanovnike."
+        }
+      ],
+      "points_ua": [
+        "3 особа множини + ći: čitaju > čitajući, rade > radeći, pišu > pišući.",
+        "Одночасно, один виконавець.",
+        "У розмові частіше dok + теперішній."
+      ]
+    },
+    {
+      "title_ua": "Дієприслівник минулого часу: pročitavši, došavši",
+      "summary_ua": "Дія завершилася ДО головної, виконавець той самий: Pročitavši pismo, poslala je odgovor. Утворення від доконаного дієслова: основа інфінітива + vši: pročitati > pročitavši, otvoriti > otvorivši, čuti > čuvši, uzeti > uzevši. Неправильні: doći > došavši, reći > rekavši (check). Книжна форма, як і попередня; у розмові Nakon što je pročitala pismo (Lekcija 46). Тримайся української чи російської: «прочитавши / прочитав» (check).",
+      "compare": [
+        {
+          "form": "інфінітив без -ti + vši",
+          "when_ua": "До головної дії.",
+          "examples": [
+            {
+              "text": "Pročitavši pismo, poslala je odgovor.",
+              "ua": "Прочитавши лист, вона надіслала відповідь.",
+              "audio": "hr-les54-rule-04.mp3"
+            },
+            {
+              "text": "Došavši na kolodvor, kupila je kartu.",
+              "ua": "Прийшовши на вокзал, вона купила квиток.",
+              "audio": "hr-les54-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Pročitati > pročitavši, doći > došavši. Дієслово доконане, бо дія закінчена."
+        },
+        {
+          "form": "rekavši, čuvši",
+          "when_ua": "Короткі форми.",
+          "examples": [
+            {
+              "text": "Rekavši to, otišao je.",
+              "ua": "Сказавши це, він пішов.",
+              "audio": "hr-les54-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Reći > rekavši. Розмовний еквівалент: Nakon što je to rekao, otišao je."
+        }
+      ],
+      "points_ua": [
+        "Доконане дієслово: pročitati > pročitavši.",
+        "До головної дії, один виконавець.",
+        "Doći > došavši, reći > rekavši (check)."
+      ]
+    },
+    {
+      "title_ua": "Пасивний дієприкметник у заголовках: Zatvoren most",
+      "summary_ua": "У заголовках газет допоміжне je / su випадає: Zatvoren most, Otvorena knjižnica, Objavljeni rezultati. Дієприкметник на -n / -t (otvoren, zatvoren, objavljen) узгоджується за родом і числом з іменником. У повному реченні є допоміжне: Most je zatvoren, Knjižnica je otvorena.",
+      "compare": [
+        {
+          "form": "заголовок без je",
+          "when_ua": "Короткий заголовок.",
+          "examples": [
+            {
+              "text": "Obnovljeno igralište.",
+              "ua": "Відновлено майданчик.",
+              "audio": "hr-les54-rule-07.mp3"
+            },
+            {
+              "text": "Objavljeni rezultati ankete.",
+              "ua": "Оприлюднено результати опитування.",
+              "audio": "hr-les54-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Igralište (с. р.) = obnovljeno, rezultati (мн.) = objavljeni. Рід і число за іменником."
+        },
+        {
+          "form": "повне речення з je / su",
+          "when_ua": "Те саме у повному реченні.",
+          "examples": [
+            {
+              "text": "Knjižnica je otvorena od osam sati.",
+              "ua": "Бібліотека відкрита з восьмої.",
+              "audio": "hr-les54-rule-09.mp3"
+            },
+            {
+              "text": "Rezultati su objavljeni na internetu.",
+              "ua": "Результати оприлюднено в інтернеті.",
+              "audio": "hr-les54-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Je / su на другому місці після підмета чи групи. Prilog od + родовий: od osam sati."
+        }
+      ],
+      "points_ua": [
+        "Zatvoren most, otvorena knjižnica, objavljeni rezultati.",
+        "У реченні: Most je zatvoren."
+      ]
+    },
+    {
+      "title_ua": "Мова новин: джерело, цифри, 'попри'",
+      "summary_ua": "Новина називає джерело (Prema istraživanju, ...; Novinar navodi da ...), дає числа (u prosjeku, postotak, porast) і показує протиставлення (Unatoč ...). Усі числа тут вигадані.",
+      "compare": [
+        {
+          "form": "prema ..., navodi da, tvrdi da",
+          "when_ua": "Джерело й автор.",
+          "examples": [
+            {
+              "text": "Prema istraživanju, stanovnici čitaju sve manje.",
+              "ua": "За дослідженням, мешканці читають усе менше.",
+              "audio": "hr-les54-rule-11.mp3"
+            },
+            {
+              "text": "Novinar navodi da su rezultati dobri.",
+              "ua": "Журналіст зазначає, що результати добрі.",
+              "audio": "hr-les54-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Prema + давальний (istraživanju). Navodi da, tvrdi da, izjavljuje da: після них da + речення."
+        },
+        {
+          "form": "u prosjeku, postotak, porast, ukupno",
+          "when_ua": "Цифри.",
+          "examples": [
+            {
+              "text": "U prosjeku radim osam sati na dan.",
+              "ua": "У середньому працюю вісім годин на день.",
+              "audio": "hr-les54-rule-13.mp3"
+            },
+            {
+              "text": "Ukupno je bilo trideset ljudi.",
+              "ua": "Усього було тридцять людей.",
+              "audio": "hr-les54-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Sati: родовий множини після 5 (Lekcija 15). Trideset ljudi: родовий множини."
+        },
+        {
+          "form": "unatoč + давальний",
+          "when_ua": "Попри щось.",
+          "examples": [
+            {
+              "text": "Unatoč lošem vremenu, mnogo ljudi je došlo.",
+              "ua": "Попри погану погоду, прийшло багато людей.",
+              "audio": "hr-les54-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Unatoč + давальний: lošem vremenu (Lekcija 25). Mnogo ljudi je došlo: вживаємо однину (check)."
+        }
+      ],
+      "points_ua": [
+        "Prema + давальний; navodi da, tvrdi da.",
+        "U prosjeku, postotak, porast, ukupno.",
+        "Unatoč + давальний."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Priopćenje je kratko.",
+      "ua": "Повідомлення для преси коротке.",
+      "audio": "hr-les54-example-01.mp3"
+    },
+    {
+      "text": "Izvor je dobar.",
+      "ua": "Джерело добре.",
+      "audio": "hr-les54-example-02.mp3"
+    },
+    {
+      "text": "Izjava je kratka.",
+      "ua": "Заява коротка.",
+      "audio": "hr-les54-example-03.mp3"
+    },
+    {
+      "text": "Čitatelji pišu komentare.",
+      "ua": "Читачі пишуть коментарі.",
+      "audio": "hr-les54-example-04.mp3"
+    },
+    {
+      "text": "Javnost čeka odgovor.",
+      "ua": "Громадськість чекає відповіді.",
+      "audio": "hr-les54-example-05.mp3"
+    },
+    {
+      "text": "Rubrika je zanimljiva.",
+      "ua": "Рубрика цікава.",
+      "audio": "hr-les54-example-06.mp3"
+    },
+    {
+      "text": "Istraživanje je kratko.",
+      "ua": "Дослідження коротке.",
+      "audio": "hr-les54-example-07.mp3"
+    },
+    {
+      "text": "Anketa je kratka.",
+      "ua": "Опитування коротке.",
+      "audio": "hr-les54-example-08.mp3"
+    },
+    {
+      "text": "Postotak je velik.",
+      "ua": "Відсоток великий.",
+      "audio": "hr-les54-example-09.mp3"
+    },
+    {
+      "text": "Prosjek je dobar.",
+      "ua": "Середнє добре.",
+      "audio": "hr-les54-example-10.mp3"
+    },
+    {
+      "text": "Porast je mali.",
+      "ua": "Зростання невелике.",
+      "audio": "hr-les54-example-11.mp3"
+    },
+    {
+      "text": "Direktor izjavljuje da je program dug.",
+      "ua": "Директор заявляє, що програма довга.",
+      "audio": "hr-les54-example-12.mp3"
+    },
+    {
+      "text": "Novinar tvrdi da je tekst točan.",
+      "ua": "Журналіст стверджує, що текст правильний.",
+      "audio": "hr-les54-example-13.mp3"
+    },
+    {
+      "text": "Članak navodi tri izvora.",
+      "ua": "Стаття називає три джерела.",
+      "audio": "hr-les54-example-14.mp3"
+    },
+    {
+      "text": "Udruga istražuje temu.",
+      "ua": "Об'єднання досліджує тему.",
+      "audio": "hr-les54-example-15.mp3"
+    },
+    {
+      "text": "Čitatelj komentira članak.",
+      "ua": "Читач коментує статтю.",
+      "audio": "hr-les54-example-16.mp3"
+    },
+    {
+      "text": "Ovogodišnji program je dug.",
+      "ua": "Цьогорічна програма довга.",
+      "audio": "hr-les54-example-17.mp3"
+    },
+    {
+      "text": "Lanjski rezultat je bolji.",
+      "ua": "Торішній результат кращий.",
+      "audio": "hr-les54-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Vijesti iz kvarta",
+    "title_ua": "Новини з району",
+    "highlight": [
+      "hr-4d219d03",
+      "hr-e7363554",
+      "hr-030b31e0",
+      "hr-9b5ff0e0",
+      "hr-c5592906",
+      "hr-08b282b9"
+    ],
+    "sentences": [
+      {
+        "text": "Jutros sam čitala vijesti na internetu.",
+        "ua": "Сьогодні вранці я читала новини в інтернеті.",
+        "audio": "hr-les54-reading-01.mp3"
+      },
+      {
+        "text": "Čitajući članak, vidjela sam novi naslov: Obnovljeno igralište.",
+        "ua": "Читаючи статтю, я побачила новий заголовок: Відновлено майданчик.",
+        "audio": "hr-les54-reading-02.mp3"
+      },
+      {
+        "text": "Prema priopćenju udruge, stanovnici su obnovili klupe.",
+        "ua": "За повідомленням об'єднання, мешканці відновили лавки.",
+        "audio": "hr-les54-reading-03.mp3"
+      },
+      {
+        "text": "Novinar navodi da se radovi završavaju u lipnju.",
+        "ua": "Журналіст зазначає, що ремонт закінчується в червні.",
+        "audio": "hr-les54-reading-04.mp3"
+      },
+      {
+        "text": "Pročitavši komentare čitatelja, zaključila sam da su stanovnici zadovoljni.",
+        "ua": "Прочитавши коментарі читачів, я зробила висновок, що мешканці задоволені.",
+        "audio": "hr-les54-reading-05.mp3"
+      },
+      {
+        "text": "Unatoč kiši, u subotu je došlo mnogo ljudi.",
+        "ua": "Попри дощ, у суботу прийшло багато людей.",
+        "audio": "hr-les54-reading-06.mp3"
+      },
+      {
+        "text": "U prosjeku je bilo pedeset ljudi.",
+        "ua": "У середньому було п'ятдесят людей.",
+        "audio": "hr-les54-reading-07.mp3"
+      },
+      {
+        "text": "Ukupno je prijavljeno deset volontera.",
+        "ua": "Усього було подано заявок десять волонтерів.",
+        "audio": "hr-les54-reading-08.mp3"
+      },
+      {
+        "text": "Članak je vrlo zanimljiv.",
+        "ua": "Стаття дуже цікава.",
+        "audio": "hr-les54-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай новину (вигадану) і дай відповіді. Текст видно, поки ти відповідаєш. Шукай числа, джерело й хто що каже.",
+      "audio": "hr-les-54-news.mp3",
+      "passage": {
+        "title": "Što čitamo u našem gradu?",
+        "paragraphs": [
+          "Prema novom istraživanju, stanovnici našeg grada čitaju sve manje novina. Anketu je organizirala udruga, a u njoj je sudjelovala tisuću stanovnika. Stanovnici su odgovarali na pitanja o navikama: što čitaju, kada čitaju i koliko dugo.",
+          "Prema priopćenju udruge, u prosjeku čitamo vijesti trideset minuta na dan. Lani je prosjek bio četrdeset minuta. Prosjek je dakle manji za deset minuta.",
+          "Mnogo stanovnika čita vijesti na mobitelu. Postotak onih koji čitaju na mobitelu je šezdeset posto. Lani je postotak bio pedeset posto, pa je porast deset posto. Starije čitatelje zanimaju vijesti iz kvarta, a mlade sport i glazba.",
+          "Novinar lokalnih novina izjavljuje da novine ipak ostaju važne. Tvrdi da stariji čitatelji vole novine, a mladi ljudi nemaju vremena. Anketa navodi i razlog: mladi ljudi čitaju samo naslove.",
+          "Unatoč padu, rubrika o kvartu ostaje najzanimljivija. Ona je dostupna svaki dan i na internetu. Pročitavši rezultate, udruga zaključuje da treba više vijesti o kvartu.",
+          "Ukupno je u anketi bilo petnaest pitanja. Odgovori su dostupni na internetu. Komentare čitatelja udruga prima do kraja mjeseca. Radionica o novinama održat će se u knjižnici u subotu, a sudjelovanje je besplatno."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Скільки людей брало участь в анкеті? (число)",
+          "accepted": [
+            "tisuću",
+            "tisuća",
+            "1000",
+            "tisuću stanovnika"
+          ]
+        },
+        {
+          "prompt": "Анкету організувала бібліотека.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Скільки хвилин на день читають новини сьогодні? (число)",
+          "accepted": [
+            "trideset",
+            "30",
+            "trideset minuta",
+            "30 minuta"
+          ]
+        },
+        {
+          "prompt": "А торік? (число)",
+          "accepted": [
+            "četrdeset",
+            "40",
+            "četrdeset minuta",
+            "40 minuta"
+          ]
+        },
+        {
+          "prompt": "Який відсоток читає новини на мобільному? (число)",
+          "accepted": [
+            "šezdeset",
+            "60",
+            "šezdeset posto",
+            "60 posto"
+          ]
+        },
+        {
+          "prompt": "Торік цей відсоток був нижчий.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Хто, за словами журналіста, любить газети? (одне-два слова)",
+          "accepted": [
+            "stariji čitatelji",
+            "stariji",
+            "starije čitatelje"
+          ]
+        },
+        {
+          "prompt": "Висновок об'єднання: потрібно більше новин про район.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Де відбудеться майстер-клас про газети? (одне слово)",
+          "accepted": [
+            "knjižnica",
+            "u knjižnici",
+            "knjižnici"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я читаю коментарі читачів.",
+          "accepted": [
+            "Čitam komentare čitatelja."
+          ]
+        },
+        {
+          "prompt": "Джерело інформації добре.",
+          "accepted": [
+            "Izvor informacija je dobar."
+          ]
+        },
+        {
+          "prompt": "Заява директора була короткою.",
+          "accepted": [
+            "Izjava direktora bila je kratka.",
+            "Izjava direktora je bila kratka."
+          ]
+        },
+        {
+          "prompt": "Ця рубрика цікава.",
+          "accepted": [
+            "Ova rubrika je zanimljiva.",
+            "Ta rubrika je zanimljiva."
+          ]
+        },
+        {
+          "prompt": "Дослідження показує великий відсоток.",
+          "accepted": [
+            "Istraživanje pokazuje velik postotak.",
+            "Istraživanje pokazuje veliki postotak."
+          ]
+        },
+        {
+          "prompt": "Опитування було коротким.",
+          "accepted": [
+            "Anketa je bila kratka.",
+            "Anketa bila je kratka."
+          ]
+        },
+        {
+          "prompt": "У середньому я читаю дві години.",
+          "accepted": [
+            "U prosjeku čitam dva sata."
+          ]
+        },
+        {
+          "prompt": "Громадськість питає про рішення.",
+          "accepted": [
+            "Javnost pita o odluci."
+          ]
+        },
+        {
+          "prompt": "Вона стверджує, що не знає.",
+          "accepted": [
+            "Ona tvrdi da ne zna.",
+            "Tvrdi da ne zna."
+          ]
+        },
+        {
+          "prompt": "Журналіст називає джерело.",
+          "accepted": [
+            "Novinar navodi izvor."
+          ]
+        },
+        {
+          "prompt": "Торішня виставка була гарна.",
+          "accepted": [
+            "Lanjska izložba bila je lijepa.",
+            "Lanjska izložba je bila lijepa."
+          ]
+        },
+        {
+          "prompt": "Цьогорічна анкета дуже коротка.",
+          "accepted": [
+            "Ovogodišnja anketa je vrlo kratka."
+          ]
+        },
+        {
+          "prompt": "Річний звіт у додатку.",
+          "accepted": [
+            "Godišnje izvješće je u prilogu."
+          ]
+        },
+        {
+          "prompt": "Попри дощ ми йдемо в парк.",
+          "accepted": [
+            "Unatoč kiši idemo u park.",
+            "Unatoč kiši mi idemo u park."
+          ]
+        },
+        {
+          "prompt": "Усього ми купили десять квитків.",
+          "accepted": [
+            "Ukupno smo kupili deset karata."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "priopćenju",
+        "izvor",
+        "izjavu",
+        "Javnost",
+        "rubrika",
+        "postotak",
+        "prosjeku",
+        "porast",
+        "anketa",
+        "istraživanju",
+        "Ovogodišnji",
+        "godišnji",
+        "Ukupno",
+        "Unatoč",
+        "komentara"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Prema ___ udruge, program počinje u deset.",
+          "hint": "За повідомленням об'єднання, програма починається о десятій.",
+          "accepted": [
+            [
+              "priopćenju"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ nije dobar.",
+          "hint": "Те джерело недобре.",
+          "accepted": [
+            [
+              "izvor"
+            ]
+          ]
+        },
+        {
+          "text": "Novinar je napisao kratku ___.",
+          "hint": "Журналіст написав коротку заяву.",
+          "accepted": [
+            [
+              "izjavu"
+            ]
+          ]
+        },
+        {
+          "text": "Ispod članka ima mnogo ___.",
+          "hint": "Під статтею багато коментарів.",
+          "accepted": [
+            [
+              "komentara"
+            ]
+          ]
+        },
+        {
+          "text": "___ čeka vijesti.",
+          "hint": "Громадськість чекає новин.",
+          "accepted": [
+            [
+              "Javnost",
+              "javnost"
+            ]
+          ]
+        },
+        {
+          "text": "Ova ___ je o sportu.",
+          "hint": "Ця рубрика про спорт.",
+          "accepted": [
+            [
+              "rubrika"
+            ]
+          ]
+        },
+        {
+          "text": "Istraživanje je pokazalo velik ___.",
+          "hint": "Дослідження показало великий відсоток.",
+          "accepted": [
+            [
+              "postotak"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ čitam pola sata.",
+          "hint": "У середньому читаю пів години.",
+          "accepted": [
+            [
+              "prosjeku"
+            ]
+          ]
+        },
+        {
+          "text": "Ove godine je ___ od pet posto.",
+          "hint": "Цього року зростання п'ять відсотків.",
+          "accepted": [
+            [
+              "porast"
+            ]
+          ]
+        },
+        {
+          "text": "Ta ___ ima petnaest pitanja.",
+          "hint": "Те опитування має п'ятнадцять питань.",
+          "accepted": [
+            [
+              "anketa"
+            ]
+          ]
+        },
+        {
+          "text": "U ___ je sudjelovalo petsto ljudi.",
+          "hint": "У дослідженні брало участь п'ятсот людей.",
+          "accepted": [
+            [
+              "istraživanju"
+            ]
+          ]
+        },
+        {
+          "text": "___ rezultat je dobar.",
+          "hint": "Цьогорічний результат хороший.",
+          "accepted": [
+            [
+              "Ovogodišnji",
+              "ovogodišnji"
+            ]
+          ]
+        },
+        {
+          "text": "Imamo ___ odmor u srpnju.",
+          "hint": "У нас щорічна відпустка в липні.",
+          "accepted": [
+            [
+              "godišnji"
+            ]
+          ]
+        },
+        {
+          "text": "___ ima petnaest pitanja.",
+          "hint": "Усього п'ятнадцять питань.",
+          "accepted": [
+            [
+              "Ukupno",
+              "ukupno"
+            ]
+          ]
+        },
+        {
+          "text": "___ kasnom satu, direktor je došao.",
+          "hint": "Попри пізню годину, директор прийшов.",
+          "accepted": [
+            [
+              "Unatoč",
+              "unatoč"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Prema priopćenje udruge počinje program.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prema priopćenju udruge počinje program."
+          ]
+        },
+        {
+          "prompt": "Unatoč vjetar, putujemo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Unatoč vjetru, putujemo."
+          ]
+        },
+        {
+          "prompt": "Novinar tvrdi što je to točno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Novinar tvrdi da je to točno."
+          ]
+        },
+        {
+          "prompt": "Naša anketa ima petnaest pitanje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Naša anketa ima petnaest pitanja."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam čitala komentare.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam čitala komentare.",
+            "Ja sam danas čitala komentare."
+          ]
+        },
+        {
+          "prompt": "Novinari piše članak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Novinari pišu članak."
+          ]
+        },
+        {
+          "prompt": "Mi komentiram članak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi komentiramo članak.",
+            "Komentiramo članak."
+          ]
+        },
+        {
+          "prompt": "Idućući kući, vidjela sam susjeda.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idući kući, vidjela sam susjeda."
+          ]
+        },
+        {
+          "prompt": "Čitavši članak, ona piše komentar.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čitajući članak, ona piše komentar."
+          ]
+        },
+        {
+          "prompt": "Zatvorena most je kod rijeke.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zatvoren most je kod rijeke.",
+            "Most kod rijeke je zatvoren."
+          ]
+        },
+        {
+          "prompt": "Porast je pet postotak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Porast je pet posto.",
+            "Porast je pet postotaka."
+          ]
+        },
+        {
+          "prompt": "Čitam vijesti i pijem kavu.",
+          "cue": "-> Čitajući ...",
+          "accepted": [
+            "Čitajući vijesti, pijem kavu."
+          ]
+        },
+        {
+          "prompt": "Pročitala je članak i nazvala je novinara.",
+          "cue": "-> Pročitavši ...",
+          "accepted": [
+            "Pročitavši članak, nazvala je novinara."
+          ]
+        },
+        {
+          "prompt": "Anketa je kratka.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li anketa kratka?"
+          ]
+        },
+        {
+          "prompt": "Novinar komentira članak.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Novinar je komentirao članak."
+          ]
+        },
+        {
+          "prompt": "Komentar je kratak.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Komentari su kratki."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Утвори дієприслівник (-ći або -vši) від дієслова-підказки",
+      "items": [
+        {
+          "example": true,
+          "text": "___ po gradu, slušam glazbu.",
+          "cue": "šetati",
+          "accepted": [
+            "šetajući"
+          ]
+        },
+        {
+          "text": "___ film, jede kruh.",
+          "cue": "gledati",
+          "accepted": [
+            "gledajući"
+          ]
+        },
+        {
+          "text": "___ kruh, razgovara s prodavačem.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujući"
+          ]
+        },
+        {
+          "text": "___ o ljetu, smijala se.",
+          "cue": "govoriti",
+          "accepted": [
+            "govoreći"
+          ]
+        },
+        {
+          "text": "___ pismo, plakala je.",
+          "cue": "pisati",
+          "accepted": [
+            "pišući"
+          ]
+        },
+        {
+          "text": "___ vrata, vidio je gosta.",
+          "cue": "otvoriti",
+          "accepted": [
+            "otvorivši"
+          ]
+        },
+        {
+          "text": "___ pitanje, odgovorio je.",
+          "cue": "čuti",
+          "accepted": [
+            "čuvši"
+          ]
+        },
+        {
+          "text": "___ ključ, otvorila je vrata.",
+          "cue": "uzeti",
+          "accepted": [
+            "uzevši"
+          ]
+        },
+        {
+          "text": "___ kući, kupila je kruh.",
+          "cue": "doći",
+          "accepted": [
+            "došavši"
+          ]
+        },
+        {
+          "text": "___ račun, otišla je.",
+          "cue": "platiti",
+          "accepted": [
+            "plativši"
+          ]
+        },
+        {
+          "text": "___ radio, kuha ručak.",
+          "cue": "slušati",
+          "accepted": [
+            "slušajući"
+          ]
+        },
+        {
+          "text": "___ ovdje, radi i uči.",
+          "cue": "živjeti",
+          "accepted": [
+            "živeći"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "повідомлення для преси",
+          "answer": "priopćenje"
+        },
+        {
+          "prompt": "джерело",
+          "answer": "izvor"
+        },
+        {
+          "prompt": "заява",
+          "answer": "izjava"
+        },
+        {
+          "prompt": "коментар",
+          "answer": "komentar"
+        },
+        {
+          "prompt": "громадськість",
+          "answer": "javnost"
+        },
+        {
+          "prompt": "читач",
+          "answer": "čitatelj"
+        },
+        {
+          "prompt": "рубрика",
+          "answer": "rubrika"
+        },
+        {
+          "prompt": "дослідження",
+          "answer": "istraživanje"
+        },
+        {
+          "prompt": "опитування",
+          "answer": "anketa"
+        },
+        {
+          "prompt": "відсоток, частка",
+          "answer": "postotak"
+        },
+        {
+          "prompt": "середнє значення",
+          "answer": "prosjek"
+        },
+        {
+          "prompt": "зростання",
+          "answer": "porast"
+        },
+        {
+          "prompt": "цьогорічний",
+          "answer": "ovogodišnji"
+        },
+        {
+          "prompt": "торішній",
+          "answer": "lanjski"
+        }
+      ],
+      "extra": [
+        "godišnji",
+        "ukupno"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова з новин: послухай і напиши.",
+      "words": [
+        "članak",
+        "novinar",
+        "izvješće",
+        "prognoza",
+        "tijekom"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 38, 45, 47; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

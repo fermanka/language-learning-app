@@ -1,0 +1,1713 @@
+{
+  "id": "hr-les-53",
+  "lang": "hr",
+  "order": 53,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "moja",
+    "sestra",
+    "ima",
+    "blizance",
+    "dječaka",
+    "i",
+    "djevojčicu",
+    "djece",
+    "iz",
+    "naše",
+    "zgrade",
+    "ide",
+    "u",
+    "jedan",
+    "vrtić",
+    "ljubazna",
+    "vrlo",
+    "strpljiva",
+    "moj",
+    "ujak",
+    "dolaze",
+    "za",
+    "rođendan",
+    "vrtiću",
+    "je",
+    "drugih",
+    "gradova",
+    "rijetko",
+    "spava",
+    "cijelu",
+    "noć",
+    "teta",
+    "čuva",
+    "bebu",
+    "svaki",
+    "petak",
+    "roditelja",
+    "radi",
+    "do",
+    "pet",
+    "sati",
+    "brzo",
+    "odrastaju",
+    "zato",
+    "volim",
+    "ove",
+    "dane",
+    "poštovani",
+    "roditelji",
+    "ovdje",
+    "izlet",
+    "dječake",
+    "djevojčice",
+    "krećemo",
+    "osam",
+    "ispred",
+    "vrtića",
+    "svako",
+    "dijete",
+    "treba",
+    "imati",
+    "bocu",
+    "vode",
+    "malo",
+    "kruha",
+    "odgajateljice",
+    "će",
+    "biti",
+    "s",
+    "djecom",
+    "cijeli",
+    "dan",
+    "ako",
+    "imate",
+    "pitanja",
+    "nazovite",
+    "najkasnije",
+    "srijede",
+    "hvala",
+    "lijep",
+    "pozdrav",
+    "dobar",
+    "koliko",
+    "imam",
+    "dvoje",
+    "su",
+    "stari",
+    "godina",
+    "tri",
+    "godine",
+    "gdje",
+    "danas",
+    "kod",
+    "tete",
+    "ih",
+    "četvrtak",
+    "a",
+    "tko",
+    "ujakom",
+    "oboje",
+    "vas",
+    "radimo",
+    "da",
+    "park",
+    "parku",
+    "klupi",
+    "igralištu",
+    "igraju",
+    "igra",
+    "se",
+    "kuća",
+    "kući",
+    "dvoja",
+    "troja",
+    "vrata",
+    "braća",
+    "brat",
+    "oca",
+    "majke",
+    "mog",
+    "našeg",
+    "tvoje",
+    "autobusu",
+    "karte",
+    "selu",
+    "gradu",
+    "malom",
+    "velikom",
+    "dugo",
+    "duge",
+    "zimi",
+    "noći",
+    "tiho",
+    "knjigu",
+    "knjige",
+    "male",
+    "mala",
+    "mali",
+    "kuće",
+    "školu",
+    "utorak",
+    "baka",
+    "bakin",
+    "otvoreni",
+    "kratke",
+    "tetka",
+    "šeću",
+    "grupi",
+    "došlo",
+    "noće"
+  ],
+  "notes": [
+    {
+      "id": "hr-a788f456",
+      "type": "numeral",
+      "lemma": "dvoje",
+      "ua": "двоє (про дітей, змішану пару)",
+      "audio": "hr-dvoje.mp3",
+      "forms": [
+        "dvoje djece",
+        "dvoje",
+        "dvoga"
+      ],
+      "explain_ua": "(Dvoje djece igra se u parku = двоє дітей гуляють у парку). УВАГА ДО ВСЬОГО УРОКУ: родини, діти й садочки в цьому уроці вигадані для вправ, це мовна практика. Збірний числівник, який вживаємо про дітей (djeca), змішані групи (чоловік і жінка) і іменники середнього роду: dvoje djece, не «dva djece». Після нього родовий множини: dvoje djece. Дієслово в однині середнього роду: dvoje djece igra se. Тримайся УКРАЇНСЬКОЇ: «двоє дітей» збігається. Числівник dva (Lekcija 7) вживаємо з чоловічим і жіночим родом: dva dječaka, dvije djevojčice.",
+      "check": "Вживання з мого знання; відмінки самого числівника (dvoga, dvoje) не навчаю й не звіряв. Що дієслово стоїть в однині, звірити з Croaticum-граматикою.",
+      "digit": "2"
+    },
+    {
+      "id": "hr-56e68bf1",
+      "type": "numeral",
+      "lemma": "troje",
+      "ua": "троє (про дітей, змішану групу)",
+      "audio": "hr-troje.mp3",
+      "forms": [
+        "troje djece",
+        "troje"
+      ],
+      "explain_ua": "(Troje djece ide u vrtić = троє дітей ходять у садочок). Збірний числівник як dvoje: troje djece, троє дітей. Тримайся УКРАЇНСЬКОЇ «троє». Для чоловіків і жінок окремо ставимо tri (Lekcija 7): tri dječaka. Для вирахування змішаної групи: troje studenata (чоловіки й жінки разом).",
+      "check": "Вживання з мого знання; troje studenata для змішаної групи з мого знання, звірити з граматикою.",
+      "digit": "3"
+    },
+    {
+      "id": "hr-fc13a196",
+      "type": "numeral",
+      "lemma": "četvero",
+      "ua": "четверо (про дітей)",
+      "audio": "hr-cetvero.mp3",
+      "forms": [
+        "četvero djece",
+        "četvero"
+      ],
+      "explain_ua": "(Četvero djece ima karte = четверо дітей мають квитки). Збірний числівник: četvero djece. Тримайся УКРАЇНСЬКОЇ «четверо». Пиши č і -vero: četvero. Для чотирьох чоловіків чи жінок окремо четири (Lekcija 9).",
+      "check": "Вживання з мого знання.",
+      "digit": "4"
+    },
+    {
+      "id": "hr-8127866c",
+      "type": "numeral",
+      "lemma": "petero",
+      "ua": "п'ятеро (про дітей)",
+      "audio": "hr-petero.mp3",
+      "forms": [
+        "petero djece",
+        "petero"
+      ],
+      "explain_ua": "(Petero djece čeka autobus = п'ятеро дітей чекають автобус). Збірний числівник: petero djece. Далі шестеро, семеро існують, але нам досить до п'ятеро: з більшими числами просто pet, šest, sedam + родовий (ніхто не забороняє pet djece у розмові, check). Тримайся УКРАЇНСЬКОЇ «п'ятеро».",
+      "check": "Вживання з мого знання; що pet djece допустиме у розмові, а petero djece норма, звірити з граматикою.",
+      "digit": "5"
+    },
+    {
+      "id": "hr-a383b212",
+      "type": "numeral",
+      "lemma": "oboje",
+      "ua": "обоє (двоє різної статі, батьки)",
+      "audio": "hr-oboje.mp3",
+      "forms": [
+        "oboje roditelja",
+        "oboje"
+      ],
+      "explain_ua": "(Oboje roditelja radi = обоє батьків працюють). Збірне «обоє» про чоловіка й жінку разом: oboje roditelja, oboje nas (ми обоє). Дієслово в однині: oboje radi (check), або при займеннику oboje radimo. Тримайся УКРАЇНСЬКОЇ «обоє». Якщо двоє чоловіків чи двоє жінок, кажемо oba, obje (їх тут не вчимо).",
+      "check": "Вживання з мого знання; узгодження дієслова після oboje (radi чи rade) звірити з граматикою. Oba / obje не навчаю.",
+      "digit": "2"
+    },
+    {
+      "id": "hr-c2813fb4",
+      "type": "noun",
+      "lemma": "rođak",
+      "gender": "m.",
+      "gen_sg": "rođaka",
+      "plural": [
+        "rođaci"
+      ],
+      "ua": "родич, двоюрідний брат",
+      "audio": "hr-rodak.mp3",
+      "forms": [
+        "rođaka",
+        "rođaku",
+        "rođaci",
+        "rođake",
+        "rođacima"
+      ],
+      "explain_ua": "(Moj rođak živi u Splitu = мій родич живе в Спліті). Чоловічого роду, нестійке a (Lekcija 16): rođak, rođaka, множина rođaci (k > c). Родина слова rodbina (Lekcija 8): ті, хто з родини. Rođak найчастіше двоюрідний брат чи просто родич (check). Пиши đ: rođak, і rođendan (Lekcija 3).",
+      "check": "Форми з мого знання; що rođak значить і «родич», і «двоюрідний брат», звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-2e6c27aa",
+      "type": "noun",
+      "lemma": "nećak",
+      "gender": "m.",
+      "gen_sg": "nećaka",
+      "plural": [
+        "nećaci"
+      ],
+      "ua": "небіж, племінник",
+      "audio": "hr-necak.mp3",
+      "forms": [
+        "nećaka",
+        "nećaku",
+        "nećaci",
+        "nećake"
+      ],
+      "explain_ua": "(Nećak ima pet godina = племінник має п'ять років). Чоловічого роду, нестійке a: nećak, nećaka, множина nećaci. Це син брата чи сестри. Жіноча форма nećakinja тут не навчаю. Пиши ć: nećak.",
+      "check": "Форми з мого знання; жіночу форму не звіряв."
+    },
+    {
+      "id": "hr-f35b4a3d",
+      "type": "noun",
+      "lemma": "ujak",
+      "gender": "m.",
+      "gen_sg": "ujaka",
+      "plural": [
+        "ujaci"
+      ],
+      "ua": "дядько (брат матері)",
+      "audio": "hr-ujak.mp3",
+      "forms": [
+        "ujaka",
+        "ujaku",
+        "ujaci",
+        "ujake",
+        "ujakom"
+      ],
+      "explain_ua": "(Ujak je brat moje majke = дядько брат моєї матері). Чоловічого роду: ujak, ujaka, ujaci. Хорватська розрізняє двох дядьків: ujak (брат матері) і stric (брат батька). Українською є стрий і вуйко (на заході): стрий це брат батька, вуйко брат матері (check, з мого знання). Тримайся УКРАЇНСЬКОЇ там, де знаєш «вуйко».",
+      "check": "Форми з мого знання; українські відповідники стрий і вуйко з мого знання, у словнику не звіряв."
+    },
+    {
+      "id": "hr-5bd994e4",
+      "type": "noun",
+      "lemma": "stric",
+      "gender": "m.",
+      "gen_sg": "strica",
+      "plural": [
+        "stričevi"
+      ],
+      "ua": "дядько (брат батька)",
+      "audio": "hr-stric.mp3",
+      "forms": [
+        "strica",
+        "stricu",
+        "stričevi",
+        "stričeve",
+        "stricem"
+      ],
+      "explain_ua": "(Stric je brat mog oca = дядько брат мого батька). Чоловічого роду: stric, strica, множина stričevi (-ev- з мякшенням c > č, check). Пара до ujak. Українське «стрий» близьке за значенням (check).",
+      "check": "Форми з мого знання; множину stričevi звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-fc90cd01",
+      "type": "noun",
+      "lemma": "teta",
+      "gender": "ž.",
+      "gen_sg": "tete",
+      "plural": [
+        "tete"
+      ],
+      "ua": "тітка",
+      "audio": "hr-teta.mp3",
+      "forms": [
+        "tete",
+        "tetu",
+        "teti",
+        "tetom"
+      ],
+      "explain_ua": "(Teta čuva bebu = тітка доглядає немовля). Жіночий рід на -a: teta, tete, tetu (знахідний). Звертання: teto. Також tetka, але teta частіше. Українське «тітка» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-70a918d4",
+      "type": "noun",
+      "lemma": "blizanci",
+      "gender": "m.",
+      "gen_sg": "blizanaca",
+      "plural": [
+        "blizanci"
+      ],
+      "ua": "близнюки",
+      "audio": "hr-blizanci.mp3",
+      "forms": [
+        "blizanci",
+        "blizance",
+        "blizanaca",
+        "blizancima",
+        "blizanac"
+      ],
+      "explain_ua": "(Blizanci spavaju = близнюки сплять). Чоловічого роду, майже завжди множина: blizanci, знахідний множини blizance, родовий blizanaca (check). Один близнюк blizanac. Тримайся УКРАЇНСЬКОЇ «близнюки». Близнята хлопчик і дівчинка теж blizanci.",
+      "check": "Форми з мого знання; родовий blizanaca і знахідний blizance звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-0df3aae1",
+      "type": "noun",
+      "lemma": "dječak",
+      "gender": "m.",
+      "gen_sg": "dječaka",
+      "plural": [
+        "dječaci"
+      ],
+      "ua": "хлопчик",
+      "audio": "hr-djecak.mp3",
+      "forms": [
+        "dječaka",
+        "dječaku",
+        "dječaci",
+        "dječake"
+      ],
+      "explain_ua": "(Dječak čita knjigu = хлопчик читає книжку). Чоловічого роду, нестійке a: dječak, dječaka, множина dječaci (k > c). Від dijete / djeca (Lekcija 1): підказка для пам'яті, не етимологія. Пиши č і ak: dječak.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-40e76973",
+      "type": "noun",
+      "lemma": "djevojčica",
+      "gender": "ž.",
+      "gen_sg": "djevojčice",
+      "plural": [
+        "djevojčice"
+      ],
+      "ua": "дівчинка",
+      "audio": "hr-djevojcica.mp3",
+      "forms": [
+        "djevojčice",
+        "djevojčicu",
+        "djevojčici",
+        "djevojčicom"
+      ],
+      "explain_ua": "(Djevojčica pjeva = дівчинка співає). Жіночий рід на -a: djevojčica, djevojčice, djevojčicu. Від djevojka (Lekcija 32, дівчина). Пиши dj-evojč: djevojčica.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-d68fc448",
+      "type": "noun",
+      "lemma": "beba",
+      "gender": "ž.",
+      "gen_sg": "bebe",
+      "plural": [
+        "bebe"
+      ],
+      "ua": "немовля, малюк",
+      "audio": "hr-beba.mp3",
+      "forms": [
+        "bebe",
+        "bebu",
+        "bebi",
+        "bebom"
+      ],
+      "explain_ua": "(Beba spava = немовля спить). Жіночий рід на -a: beba, bebe, bebu (знахідний). Українське «немовля» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-6ceef03d",
+      "type": "noun",
+      "lemma": "vrtić",
+      "gender": "m.",
+      "gen_sg": "vrtića",
+      "plural": [
+        "vrtići"
+      ],
+      "ua": "дитячий садок",
+      "audio": "hr-vrtic.mp3",
+      "forms": [
+        "vrtića",
+        "vrtiću",
+        "vrtići",
+        "vrtiće",
+        "vrtićem"
+      ],
+      "explain_ua": "(Vrtić je blizu škole = дитячий садок поблизу школи). Чоловічого роду: vrtić, vrtića, u vrtiću (де), u vrtić (куди). Від vrt (Lekcija 24, сад): підказка для пам'яті, не етимологія. Українське «садок» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-11e36532",
+      "type": "noun",
+      "lemma": "odgajateljica",
+      "gender": "ž.",
+      "gen_sg": "odgajateljice",
+      "plural": [
+        "odgajateljice"
+      ],
+      "ua": "вихователька",
+      "audio": "hr-odgajateljica.mp3",
+      "forms": [
+        "odgajateljice",
+        "odgajateljicu",
+        "odgajateljici",
+        "odgajateljicom",
+        "odgajateljico"
+      ],
+      "explain_ua": "(Odgajateljica je ljubazna = вихователька ввічлива). Жіночий рід на -ica: odgajateljica, odgajateljice, кличний odgajateljice (як učiteljice, Lekcija 28). Від odgajati (нижче). Чоловік у цьому фаху odgajatelj (тут не вчимо).",
+      "check": "Форми з мого знання; чоловічу форму не звіряв."
+    },
+    {
+      "id": "hr-85c94c6c",
+      "type": "noun",
+      "lemma": "noć",
+      "gender": "ž.",
+      "gen_sg": "noći",
+      "plural": [
+        "noći"
+      ],
+      "ua": "ніч",
+      "audio": "hr-noc.mp3",
+      "forms": [
+        "noći",
+        "noću",
+        "noćima"
+      ],
+      "explain_ua": "(Noć je hladna = ніч холодна). Жіночий рід на приголосний (i-основа, як riječ): noć, noći, у знахідному noć. Noću = уночі (орудний без прийменника, як ponedjeljkom, Lekcija 20). Dobro noć, не «dobra noć»: Laku noć = на добраніч. Пиши ć: noć.",
+      "check": "Форми з мого знання; Laku noć як звичну формулу вважаю знайомою."
+    },
+    {
+      "id": "hr-14236afe",
+      "type": "verb",
+      "lemma": "čuvati",
+      "aspect": "impf.",
+      "pres_1sg": "čuvam",
+      "forms": [
+        "čuvam",
+        "čuvaš",
+        "čuva",
+        "čuvamo",
+        "čuvate",
+        "čuvaju",
+        "čuvala",
+        "čuvali",
+        "čuvao"
+      ],
+      "ua": "доглядати, берегти, зберігати",
+      "audio": "hr-cuvati.mp3",
+      "explain_ua": "(Teta čuva bebu = тітка доглядає немовля). Недоконане, дієвідміна -am: čuvam, čuvaš, čuva. Čuvati dijete = доглядати дитину; čuvati račun = берегти чек. Знахідний. Пари доконаного для «доглядати» у моїх записах нема (pričuvati, check).",
+      "check": "Форми з мого знання; пари доконаного не звіряв."
+    },
+    {
+      "id": "hr-f28420b6",
+      "type": "verb",
+      "lemma": "odgajati",
+      "aspect": "impf.",
+      "partner": "odgojiti",
+      "pres_1sg": "odgajam",
+      "forms": [
+        "odgajam",
+        "odgajaš",
+        "odgaja",
+        "odgajamo",
+        "odgajate",
+        "odgajaju",
+        "odgajala",
+        "odgajali",
+        "odgajao",
+        "odgojiti",
+        "odgojim",
+        "odgojiš",
+        "odgoji",
+        "odgojimo",
+        "odgojite",
+        "odgoje",
+        "odgojila",
+        "odgojili",
+        "odgojio"
+      ],
+      "ua": "виховувати (док. odgojiti)",
+      "audio": "hr-odgajati.mp3",
+      "explain_ua": "(Roditelji odgajaju djecu = батьки виховують дітей). Пара: odgajati (недок.) / odgojiti (док.): odgajam / odgojim, j > j (корінь gaj > goj). Знахідний: odgajati dijete. Недок. для процесу («виховують»), док. для результату («виховали»: dobro su ga odgojili). Українське «виховувати» інше слово.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (odgojiti)."
+    },
+    {
+      "id": "hr-71505d91",
+      "type": "verb",
+      "lemma": "odrasti",
+      "aspect": "pf.",
+      "partner": "odrastati",
+      "pres_1sg": "odrastem",
+      "forms": [
+        "odrastem",
+        "odrasteš",
+        "odraste",
+        "odrastemo",
+        "odrastete",
+        "odrastu",
+        "odrastao",
+        "odrasla",
+        "odrasli",
+        "odrastati",
+        "odrastam",
+        "odrastaš",
+        "odrasta",
+        "odrastamo",
+        "odrastate",
+        "odrastaju"
+      ],
+      "ua": "вирости (недок. odrastati)",
+      "audio": "hr-odrasti.mp3",
+      "explain_ua": "(Odrastao sam u malom gradu = я виріс у маленькому місті). Пара: odrasti (док.) / odrastati (недок.): odrastem / odrastam. НЕПРАВИЛЬНЕ: інфінітив на -ti без -ći, минулий odrastao, odrasla, odrasli (як rasti, Lekcija 33). Де виріс: u + місцевий (u malom gradu). Дорослий: odrastao / odrasla як прикметник.",
+      "check": "Пару та форми з мого знання за зразком rasti, звірити з hjp.znanje.hr (odrastem, odrastao)."
+    },
+    {
+      "id": "hr-65bdf02a",
+      "type": "verb",
+      "lemma": "roditi se",
+      "aspect": "pf.",
+      "partner": "rađati se",
+      "pres_1sg": "rodim se",
+      "forms": [
+        "rodim",
+        "rodiš",
+        "rodi",
+        "rodimo",
+        "rodite",
+        "rode",
+        "rodila",
+        "rodili",
+        "rodio",
+        "rađati",
+        "rađam",
+        "rađaš",
+        "rađa",
+        "rađamo",
+        "rađate",
+        "rađaju"
+      ],
+      "ua": "народитися (недок. rađati se)",
+      "audio": "hr-roditi.mp3",
+      "explain_ua": "(Rodila sam se u malom gradu = я народилася в маленькому місті). Пара: roditi se (док.) / rađati se (недок.): rodim se / rađam se, d > đ. Se на другому місці: rodila sam se, sam перед se (Lekcija 19). Без se roditi значить «народити» (жінка народила дитину). Родина слова rođendan (Lekcija 3, день народження).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (rađati se)."
+    },
+    {
+      "id": "hr-4c8c86ff",
+      "type": "adjective",
+      "lemma": "dječji",
+      "fem": "dječja",
+      "neut": "dječje",
+      "ua": "дитячий",
+      "audio": "hr-djecji.mp3",
+      "forms": [
+        "dječja",
+        "dječje",
+        "dječju",
+        "dječjem",
+        "dječjoj",
+        "dječjih"
+      ],
+      "explain_ua": "(Dječji vrtić je blizu = дитячий садок поблизу). Прикметник означеного типу: dječji, dječja, dječje. Від dijete / djeca. Dječja soba, dječje igralište. Пиши č і -ji: dječji.",
+      "check": "Форми з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Збірні числівники: dvoje, troje, četvero, petero, oboje",
+      "summary_ua": "Про дітей, змішані групи й іменники середнього роду числівник збірний: dvoje djece, troje djece. Після нього родовий множини, а дієслово в однині середнього роду. Тримайся УКРАЇНСЬКОЇ: «двоє, троє, четверо, п'ятеро, обоє» працюють так само, безкоштовно. Для речей, які мають форму множини (vrata), є dvoja, troja.",
+      "compare": [
+        {
+          "form": "dvoje / troje + родовий множини",
+          "when_ua": "Двоє, троє дітей.",
+          "examples": [
+            {
+              "text": "Dvoje djece čeka na klupi.",
+              "ua": "Двоє дітей чекають на лавці.",
+              "audio": "hr-les53-rule-01.mp3"
+            },
+            {
+              "text": "Vidim troje djece ispred škole.",
+              "ua": "Бачу троє дітей перед школою.",
+              "audio": "hr-les53-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Djece: родовий множини від dijete / djeca (Lekcija 16). Дієслово в однині: dvoje djece čeka (check)."
+        },
+        {
+          "form": "četvero, petero, oboje",
+          "when_ua": "Четверо, п'ятеро, обоє.",
+          "examples": [
+            {
+              "text": "Četvero djece igra se na igralištu.",
+              "ua": "Четверо дітей граються на майданчику.",
+              "audio": "hr-les53-rule-03.mp3"
+            },
+            {
+              "text": "Oboje roditelja dolazi u petak.",
+              "ua": "Обоє батьків приїжджають у п'ятницю.",
+              "audio": "hr-les53-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Se на другому місці: igra se. Oboje roditelja: чоловік і жінка разом."
+        },
+        {
+          "form": "dvoja / troja vrata",
+          "when_ua": "Іменники лише у множині.",
+          "examples": [
+            {
+              "text": "Imamo troja vrata u kući.",
+              "ua": "У нашому домі троє дверей.",
+              "audio": "hr-les53-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Vrata (Lekcija 24) має лише множину, тому dvoja, troja, не dva (check)."
+        }
+      ],
+      "points_ua": [
+        "Dvoje, troje, četvero, petero + родовий множини (djece).",
+        "Oboje roditelja: чоловік і жінка разом.",
+        "Dvoja, troja vrata (check)."
+      ]
+    },
+    {
+      "title_ua": "Родина: stric, ujak, teta, nećak, rođak, blizanci",
+      "summary_ua": "Хорватська розрізняє дядька по батьку (stric) і по матері (ujak). Тримайся УКРАЇНСЬКОЇ там, де знаєш «стрий» (stric) і «вуйко» (ujak): збігається за змістом (check). Nećak це небіж, rođak родич (часто двоюрідний брат). Blizanci майже завжди множина.",
+      "compare": [
+        {
+          "form": "stric / ujak",
+          "when_ua": "Дядько по батьку і по матері.",
+          "examples": [
+            {
+              "text": "Moj stric živi u Zagrebu, a ujak u Splitu.",
+              "ua": "Мій дядько по батьку живе в Загребі, а по матері у Спліті.",
+              "audio": "hr-les53-rule-06.mp3"
+            },
+            {
+              "text": "Vidim strica i ujaka na proslavi.",
+              "ua": "Бачу двох дядьків на святкуванні.",
+              "audio": "hr-les53-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Знахідний живого збігається з родовим: strica, ujaka (Lekcija 4). Na proslavi (Lekcija 39)."
+        },
+        {
+          "form": "teta / nećak / rođak",
+          "when_ua": "Тітка, небіж, родич.",
+          "examples": [
+            {
+              "text": "Naša teta ima dva nećaka.",
+              "ua": "У нашої тітки двоє небожів.",
+              "audio": "hr-les53-rule-08.mp3"
+            },
+            {
+              "text": "Moji rođaci dolaze u subotu.",
+              "ua": "Мої родичі приїжджають у суботу.",
+              "audio": "hr-les53-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Dva nećaka: dva + родовий однини (чоловічий рід, Lekcija 7). Rođaci: k > c."
+        },
+        {
+          "form": "blizanci",
+          "when_ua": "Близнюки.",
+          "examples": [
+            {
+              "text": "Moji blizanci imaju sedam godina.",
+              "ua": "Моїм близнюкам сім років.",
+              "audio": "hr-les53-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Blizanci: множина (один блізнюк blizanac). Sedam godina: родовий множини (Lekcija 15)."
+        }
+      ],
+      "points_ua": [
+        "Stric (брат батька), ujak (брат матері).",
+        "Teta, nećak, rođak.",
+        "Blizanci: найчастіше множина."
+      ]
+    },
+    {
+      "title_ua": "Виняткова множина: повторення й нове",
+      "summary_ua": "Знаєш: ljudi, djeca, braća, oči, uši, dani. Нове: stric > stričevi, ujak > ujaci, noć > noći (не «noće»), k > c перед -i (dječaci, vrtići, rođaci). Нестійке a в іменниках на -ak, -ac: dječak, dječaka. Не переносимо українських закінчень: українська «ніч, ночі» інакша.",
+      "compare": [
+        {
+          "form": "-ak / -ik + i: k > c",
+          "when_ua": "Хлопчики, садки, родичі.",
+          "examples": [
+            {
+              "text": "Dječaci i djevojčice idu u vrtić.",
+              "ua": "Хлопчики й дівчатка йдуть у садок.",
+              "audio": "hr-les53-rule-11.mp3"
+            },
+            {
+              "text": "Vrtići su otvoreni do pet sati.",
+              "ua": "Садки відкриті до п'ятої.",
+              "audio": "hr-les53-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Dječak > dječaci, vrtić > vrtići. Otvoreni: від otvoriti (Lekcija 24), як zatvoren (Lekcija 47)."
+        },
+        {
+          "form": "noć > noći, kći > kćeri",
+          "when_ua": "Жіночий рід на приголосний.",
+          "examples": [
+            {
+              "text": "Noći su ljeti kratke.",
+              "ua": "Ночі влітку короткі.",
+              "audio": "hr-les53-rule-13.mp3"
+            },
+            {
+              "text": "Moje kćeri su u vrtiću.",
+              "ua": "Мої дочки в садку.",
+              "audio": "hr-les53-rule-14.mp3"
+            }
+          ],
+          "note_ua": "i-основа: noć, noći (множина noći); kći, kćeri (Lekcija 32). Kratke: жіночий рід множини."
+        },
+        {
+          "form": "ljudi, djeca, braća + число",
+          "when_ua": "Кількість людей.",
+          "examples": [
+            {
+              "text": "U parku je mnogo ljudi i malo djece.",
+              "ua": "У парку багато людей і мало дітей.",
+              "audio": "hr-les53-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Mnogo ljudi, malo djece: родовий множини (Lekcija 15, 16)."
+        }
+      ],
+      "points_ua": [
+        "Dječak > dječaci, vrtić > vrtići, rođak > rođaci.",
+        "Noć > noći, kći > kćeri.",
+        "Mnogo ljudi, malo djece."
+      ]
+    },
+    {
+      "title_ua": "Вирости, народитися, виховувати: минулий час і вид",
+      "summary_ua": "Roditi se (народитися), odrasti (вирости), odgajati (виховувати), čuvati (доглядати) говорять про життя. Минулий час: rodila sam se, odrastao je, odrasla je (неправильне, як rasti). Se на другому місці.",
+      "compare": [
+        {
+          "form": "roditi se / odrasti",
+          "when_ua": "Де народився і виріс.",
+          "examples": [
+            {
+              "text": "Moja majka se rodila u srpnju.",
+              "ua": "Моя мама народилася в липні.",
+              "audio": "hr-les53-rule-16.mp3"
+            },
+            {
+              "text": "Moj otac je odrastao u velikom gradu.",
+              "ua": "Мій батько виріс у великому місті.",
+              "audio": "hr-les53-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Se після majka: majka se rodila (друге місце після групи). Odrastao, odrasla, odrasli: l-дієприкметник."
+        },
+        {
+          "form": "odgajati / odgojiti, čuvati",
+          "when_ua": "Виховання і догляд.",
+          "examples": [
+            {
+              "text": "Baka je odgojila petero djece.",
+              "ua": "Бабуся виховала п'ятеро дітей.",
+              "audio": "hr-les53-rule-18.mp3"
+            },
+            {
+              "text": "Susjeda čuva našu bebu dva sata.",
+              "ua": "Сусідка доглядає нашу дитину дві години.",
+              "audio": "hr-les53-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Odgojila: док., бо результат. Čuva: недок., бо процес. Dva sata: час без прийменника (знахідний)."
+        }
+      ],
+      "points_ua": [
+        "Rodila sam se, odrastao sam: se і sam на другому місці.",
+        "Odgojiti: результат. Odgajati: процес."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Dvoje djece igra se u parku.",
+      "ua": "Двоє дітей гуляють у парку.",
+      "audio": "hr-les53-example-01.mp3"
+    },
+    {
+      "text": "Troje djece ide u vrtić.",
+      "ua": "Троє дітей ходять у садок.",
+      "audio": "hr-les53-example-02.mp3"
+    },
+    {
+      "text": "Četvero djece je u razredu.",
+      "ua": "Четверо дітей у класі.",
+      "audio": "hr-les53-example-03.mp3"
+    },
+    {
+      "text": "Petero djece čeka autobus.",
+      "ua": "П'ятеро дітей чекають автобус.",
+      "audio": "hr-les53-example-04.mp3"
+    },
+    {
+      "text": "Oboje roditelja radi.",
+      "ua": "Обоє батьків працюють.",
+      "audio": "hr-les53-example-05.mp3"
+    },
+    {
+      "text": "Moj rođak živi u Splitu.",
+      "ua": "Мій родич живе в Спліті.",
+      "audio": "hr-les53-example-06.mp3"
+    },
+    {
+      "text": "Nećak ima pet godina.",
+      "ua": "Небожу п'ять років.",
+      "audio": "hr-les53-example-07.mp3"
+    },
+    {
+      "text": "Ujak je brat moje majke.",
+      "ua": "Дядько брат моєї матері.",
+      "audio": "hr-les53-example-08.mp3"
+    },
+    {
+      "text": "Stric je brat mog oca.",
+      "ua": "Дядько брат мого батька.",
+      "audio": "hr-les53-example-09.mp3"
+    },
+    {
+      "text": "Teta čuva bebu.",
+      "ua": "Тітка доглядає немовля.",
+      "audio": "hr-les53-example-10.mp3"
+    },
+    {
+      "text": "Blizanci spavaju.",
+      "ua": "Близнюки сплять.",
+      "audio": "hr-les53-example-11.mp3"
+    },
+    {
+      "text": "Dječak čita knjigu.",
+      "ua": "Хлопчик читає книжку.",
+      "audio": "hr-les53-example-12.mp3"
+    },
+    {
+      "text": "Djevojčica pjeva.",
+      "ua": "Дівчинка співає.",
+      "audio": "hr-les53-example-13.mp3"
+    },
+    {
+      "text": "Noć je hladna.",
+      "ua": "Ніч холодна.",
+      "audio": "hr-les53-example-14.mp3"
+    },
+    {
+      "text": "Vrtić je blizu škole.",
+      "ua": "Дитячий садок поблизу школи.",
+      "audio": "hr-les53-example-15.mp3"
+    },
+    {
+      "text": "Odgajateljica je ljubazna.",
+      "ua": "Вихователька ввічлива.",
+      "audio": "hr-les53-example-16.mp3"
+    },
+    {
+      "text": "Roditelji odgajaju djecu.",
+      "ua": "Батьки виховують дітей.",
+      "audio": "hr-les53-example-17.mp3"
+    },
+    {
+      "text": "Dijete brzo odrasta.",
+      "ua": "Дитина швидко росте.",
+      "audio": "hr-les53-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Naša obitelj",
+    "title_ua": "Наша родина",
+    "highlight": [
+      "hr-56e68bf1",
+      "hr-8127866c",
+      "hr-a383b212",
+      "hr-f35b4a3d",
+      "hr-5bd994e4",
+      "hr-fc90cd01",
+      "hr-70a918d4",
+      "hr-0df3aae1",
+      "hr-40e76973",
+      "hr-d68fc448",
+      "hr-6ceef03d",
+      "hr-11e36532",
+      "hr-85c94c6c"
+    ],
+    "sentences": [
+      {
+        "text": "Moja sestra ima blizance, dječaka i djevojčicu.",
+        "ua": "Моя сестра має близнюків, хлопчика й дівчинку.",
+        "audio": "hr-les53-reading-01.mp3"
+      },
+      {
+        "text": "Troje djece iz naše zgrade ide u jedan vrtić.",
+        "ua": "Троє дітей з нашого будинку ходять в один садок.",
+        "audio": "hr-les53-reading-02.mp3"
+      },
+      {
+        "text": "Odgajateljica je ljubazna i vrlo strpljiva.",
+        "ua": "Вихователька ввічлива й дуже терпляча.",
+        "audio": "hr-les53-reading-03.mp3"
+      },
+      {
+        "text": "Moj ujak i moj stric dolaze za rođendan.",
+        "ua": "Мій дядько по матері й мій дядько по батьку приїжджають на день народження.",
+        "audio": "hr-les53-reading-04.mp3"
+      },
+      {
+        "text": "U vrtiću je petero djece iz drugih gradova.",
+        "ua": "У садку п'ятеро дітей з інших міст.",
+        "audio": "hr-les53-reading-05.mp3"
+      },
+      {
+        "text": "Beba rijetko spava cijelu noć.",
+        "ua": "Немовля рідко спить цілу ніч.",
+        "audio": "hr-les53-reading-06.mp3"
+      },
+      {
+        "text": "Moja teta čuva bebu svaki petak.",
+        "ua": "Моя тітка доглядає немовля щоп'ятниці.",
+        "audio": "hr-les53-reading-07.mp3"
+      },
+      {
+        "text": "Oboje roditelja radi do pet sati.",
+        "ua": "Обоє батьків працюють до п'ятої.",
+        "audio": "hr-les53-reading-08.mp3"
+      },
+      {
+        "text": "Djeca brzo odrastaju, zato volim ove dane.",
+        "ua": "Діти швидко ростуть, тому я люблю ці дні.",
+        "audio": "hr-les53-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай повідомлення з дитячого садка. Відповідай одним-двома словами. Текст можна показати після відповідей.",
+      "audio": "hr-les-53-kindergarten.mp3",
+      "audio_text": "Poštovani roditelji, ovdje je dječji vrtić. U petak je izlet za dječake i djevojčice. Krećemo u osam sati ispred vrtića. Svako dijete treba imati bocu vode i malo kruha. Odgajateljice će biti s djecom cijeli dan. Ako imate pitanja, nazovite vrtić najkasnije do srijede. Hvala i lijep pozdrav.",
+      "items": [
+        {
+          "prompt": "У який день екскурсія?",
+          "accepted": [
+            "petak",
+            "u petak",
+            "petka"
+          ]
+        },
+        {
+          "prompt": "О котрій годині вирушають? (число)",
+          "accepted": [
+            "osam",
+            "u osam",
+            "u osam sati",
+            "8",
+            "u 8 sati"
+          ]
+        },
+        {
+          "prompt": "Де збираються? (місце)",
+          "accepted": [
+            "ispred vrtića",
+            "vrtića",
+            "vrtić"
+          ]
+        },
+        {
+          "prompt": "Що має мати кожна дитина?",
+          "choices": [
+            "Пляшку води й трохи хліба",
+            "Гроші й телефон",
+            "Книжку й олівець"
+          ],
+          "accepted": [
+            "Пляшку води й трохи хліба"
+          ]
+        },
+        {
+          "prompt": "До якого дня можна зателефонувати?",
+          "accepted": [
+            "srijeda",
+            "do srijede",
+            "srijede"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох людей і вибери або впиши відповіді.",
+      "audio": "hr-les-53-pickup.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Dobar dan. Koliko djece imate?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Imam dvoje djece, dječaka i djevojčicu."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Koliko su stari?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Dječak ima pet godina, a djevojčica ima tri godine."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Gdje su djeca danas?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Kod tete. Teta ih čuva svaki četvrtak."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "A tko ih čuva u petak?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "U petak su s ujakom."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Oboje vas radi?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Da, oboje radimo do pet sati."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Скільки дітей має жінка?",
+          "choices": [
+            "Двоє",
+            "Троє",
+            "Четверо"
+          ],
+          "accepted": [
+            "Двоє"
+          ]
+        },
+        {
+          "prompt": "Хлопчикові п'ять років.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Дівчинці чотири роки.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Хто доглядає дітей у четвер? (одне слово)",
+          "accepted": [
+            "teta",
+            "tetka",
+            "kod tete",
+            "tete"
+          ]
+        },
+        {
+          "prompt": "У п'ятницю діти з дядьком по матері.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "У мене двоє дітей.",
+          "accepted": [
+            "Imam dvoje djece."
+          ]
+        },
+        {
+          "prompt": "В автобусі троє дітей.",
+          "accepted": [
+            "U autobusu je troje djece.",
+            "U autobusu su troje djece."
+          ]
+        },
+        {
+          "prompt": "Четверо дітей мають квитки.",
+          "accepted": [
+            "Četvero djece ima karte."
+          ]
+        },
+        {
+          "prompt": "Ми обоє працюємо вдома.",
+          "accepted": [
+            "Oboje radimo kod kuće."
+          ]
+        },
+        {
+          "prompt": "Мій дядько по матері живе в місті.",
+          "accepted": [
+            "Moj ujak živi u gradu."
+          ]
+        },
+        {
+          "prompt": "Мій дядько по батьку лікар.",
+          "accepted": [
+            "Moj stric je liječnik."
+          ]
+        },
+        {
+          "prompt": "Тітка доглядає дитину.",
+          "accepted": [
+            "Teta čuva dijete."
+          ]
+        },
+        {
+          "prompt": "Мій родич приходить у п'ятницю.",
+          "accepted": [
+            "Moj rođak dolazi u petak."
+          ]
+        },
+        {
+          "prompt": "Небіж ще малий.",
+          "accepted": [
+            "Nećak je još mali."
+          ]
+        },
+        {
+          "prompt": "У мого брата близнюки.",
+          "accepted": [
+            "Moj brat ima blizance."
+          ]
+        },
+        {
+          "prompt": "Хлопчик і дівчинка гуляють у парку.",
+          "accepted": [
+            "Dječak i djevojčica šeću u parku."
+          ]
+        },
+        {
+          "prompt": "Дитячий садок поблизу.",
+          "accepted": [
+            "Dječji vrtić je blizu.",
+            "Dječji je vrtić blizu."
+          ]
+        },
+        {
+          "prompt": "Вихователька працює з дітьми.",
+          "accepted": [
+            "Odgajateljica radi s djecom."
+          ]
+        },
+        {
+          "prompt": "Я народилася в маленькому місті.",
+          "accepted": [
+            "Rodila sam se u malom gradu."
+          ]
+        },
+        {
+          "prompt": "Він виріс у селі.",
+          "accepted": [
+            "Odrastao je na selu.",
+            "Odrastao je u selu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "troje",
+        "dvoje",
+        "četvero",
+        "petero",
+        "Oboje",
+        "ujak",
+        "stric",
+        "teta",
+        "nećak",
+        "rođaci",
+        "blizance",
+        "dječak",
+        "djevojčica",
+        "vrtić",
+        "odgajateljica"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ona ima ___ djece.",
+          "hint": "У неї троє дітей.",
+          "accepted": [
+            [
+              "troje"
+            ]
+          ]
+        },
+        {
+          "text": "U parku je ___ djece.",
+          "hint": "У парку двоє дітей.",
+          "accepted": [
+            [
+              "dvoje"
+            ]
+          ]
+        },
+        {
+          "text": "Imamo ___ djece u grupi.",
+          "hint": "У нас четверо дітей у групі.",
+          "accepted": [
+            [
+              "četvero"
+            ]
+          ]
+        },
+        {
+          "text": "Došlo je ___ djece.",
+          "hint": "Прийшло п'ятеро дітей.",
+          "accepted": [
+            [
+              "petero"
+            ]
+          ]
+        },
+        {
+          "text": "___ roditelja radi do pet.",
+          "hint": "Обоє батьків працюють до п'ятої.",
+          "accepted": [
+            [
+              "Oboje",
+              "oboje"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je brat moje majke.",
+          "hint": "Мій дядько по матері брат моєї мами.",
+          "accepted": [
+            [
+              "ujak"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je brat mog oca.",
+          "hint": "Мій дядько по батьку брат мого тата.",
+          "accepted": [
+            [
+              "stric"
+            ]
+          ]
+        },
+        {
+          "text": "Moja ___ čuva djecu.",
+          "hint": "Моя тітка доглядає дітей.",
+          "accepted": [
+            [
+              "teta"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ ima deset godina.",
+          "hint": "Моєму небожу десять років.",
+          "accepted": [
+            [
+              "nećak"
+            ]
+          ]
+        },
+        {
+          "text": "Moji ___ žive u drugom gradu.",
+          "hint": "Мої родичі живуть в іншому місті.",
+          "accepted": [
+            [
+              "rođaci"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___, dječaka i djevojčicu.",
+          "hint": "Маю близнюків, хлопчика і дівчинку.",
+          "accepted": [
+            [
+              "blizance"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ voli bajke.",
+          "hint": "Той хлопчик любить казки.",
+          "accepted": [
+            [
+              "dječak"
+            ]
+          ]
+        },
+        {
+          "text": "Ta ___ pjeva u vrtiću.",
+          "hint": "Та дівчинка співає в садку.",
+          "accepted": [
+            [
+              "djevojčica"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete ide u ___ svaki dan.",
+          "hint": "Дитина ходить у садок щодня.",
+          "accepted": [
+            [
+              "vrtić"
+            ]
+          ]
+        },
+        {
+          "text": "Naša ___ je strpljiva.",
+          "hint": "Наша вихователька терпляча.",
+          "accepted": [
+            [
+              "odgajateljica"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Imam dva djece.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam dvoje djece."
+          ]
+        },
+        {
+          "prompt": "Pet djece ide u školu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Petero djece ide u školu."
+          ]
+        },
+        {
+          "prompt": "Naš ujak je brat našeg oca.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Naš stric je brat našeg oca."
+          ]
+        },
+        {
+          "prompt": "Vidim tvoje blizanci u parku.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vidim tvoje blizance u parku."
+          ]
+        },
+        {
+          "prompt": "Dječaci se igra na igralištu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dječaci se igraju na igralištu."
+          ]
+        },
+        {
+          "prompt": "Odgajateljica čuvam djecu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Odgajateljica čuva djecu."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam u vrtiću.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam u vrtiću.",
+            "Ja sam danas u vrtiću."
+          ]
+        },
+        {
+          "prompt": "Moj brat rodio u Splitu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moj brat se rodio u Splitu."
+          ]
+        },
+        {
+          "prompt": "Odrasla sam u veliki grad.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Odrasla sam u velikom gradu."
+          ]
+        },
+        {
+          "prompt": "Zimi su noće duge.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zimi su noći duge."
+          ]
+        },
+        {
+          "prompt": "Poštovana odgajateljica, hvala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovana odgajateljice, hvala."
+          ]
+        },
+        {
+          "prompt": "Djevojčica je mala.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Djevojčice su male."
+          ]
+        },
+        {
+          "prompt": "Moja teta čuva dvoje djece.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Moja teta je čuvala dvoje djece."
+          ]
+        },
+        {
+          "prompt": "Nećak ide u vrtić.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Nećak ne ide u vrtić."
+          ]
+        },
+        {
+          "prompt": "Beba spava.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Spava li beba?"
+          ]
+        },
+        {
+          "prompt": "Ona radi i ja čuvam bebu.",
+          "cue": "-> Dok ... (raditi)",
+          "accepted": [
+            "Dok ona radi, ja čuvam bebu.",
+            "Ja čuvam bebu dok ona radi."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ja ___ dijete u petak.",
+          "cue": "čuvati",
+          "accepted": [
+            "čuvam"
+          ]
+        },
+        {
+          "text": "Mi ___ dvoje djece.",
+          "cue": "odgajati",
+          "accepted": [
+            "odgajamo"
+          ]
+        },
+        {
+          "text": "Ona je dobro ___ dijete.",
+          "cue": "odgojiti",
+          "accepted": [
+            "odgojila"
+          ]
+        },
+        {
+          "text": "Moj sin brzo ___.",
+          "cue": "odrastati",
+          "accepted": [
+            "odrasta"
+          ]
+        },
+        {
+          "text": "Ona je ___ u malom gradu.",
+          "cue": "odrasti",
+          "accepted": [
+            "odrasla"
+          ]
+        },
+        {
+          "text": "Moj brat je ___ u selu.",
+          "cue": "odrasti",
+          "accepted": [
+            "odrastao"
+          ]
+        },
+        {
+          "text": "Moja sestra se ___ u srpnju.",
+          "cue": "roditi se",
+          "accepted": [
+            "rodila"
+          ]
+        },
+        {
+          "text": "Svaki dan se ___ nova djeca.",
+          "cue": "rađati se",
+          "accepted": [
+            "rađaju"
+          ]
+        },
+        {
+          "text": "Kad se dijete ___, roditelji su sretni.",
+          "cue": "roditi se",
+          "accepted": [
+            "rodi"
+          ]
+        },
+        {
+          "text": "Roditelji su ___ nas dobro.",
+          "cue": "odgojiti",
+          "accepted": [
+            "odgojili"
+          ]
+        },
+        {
+          "text": "Baka ih ___ svaki utorak.",
+          "cue": "čuvati",
+          "accepted": [
+            "čuva"
+          ]
+        },
+        {
+          "text": "Mi ___ djecu zajedno.",
+          "cue": "čuvati",
+          "accepted": [
+            "čuvamo"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "двоє (про дітей)",
+          "answer": "dvoje"
+        },
+        {
+          "prompt": "троє (про дітей)",
+          "answer": "troje"
+        },
+        {
+          "prompt": "четверо (про дітей)",
+          "answer": "četvero"
+        },
+        {
+          "prompt": "обоє",
+          "answer": "oboje"
+        },
+        {
+          "prompt": "родич",
+          "answer": "rođak"
+        },
+        {
+          "prompt": "небіж, племінник",
+          "answer": "nećak"
+        },
+        {
+          "prompt": "дядько (брат матері)",
+          "answer": "ujak"
+        },
+        {
+          "prompt": "дядько (брат батька)",
+          "answer": "stric"
+        },
+        {
+          "prompt": "тітка",
+          "answer": "teta"
+        },
+        {
+          "prompt": "близнюки",
+          "answer": "blizanci"
+        },
+        {
+          "prompt": "хлопчик",
+          "answer": "dječak"
+        },
+        {
+          "prompt": "немовля",
+          "answer": "beba"
+        },
+        {
+          "prompt": "дитячий садок",
+          "answer": "vrtić"
+        },
+        {
+          "prompt": "вихователька",
+          "answer": "odgajateljica"
+        }
+      ],
+      "extra": [
+        "petero",
+        "djevojčica"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "numeral"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова про родину: послухай і напиши.",
+      "words": [
+        "dijete",
+        "prijatelj",
+        "obitelj",
+        "kći",
+        "rodbina"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 1, 8, 32; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

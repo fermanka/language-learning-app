@@ -29,7 +29,7 @@ for (const lang of fs.readdirSync(storiesDir)) {
     const v = validateStory(data, lessonId);
     v.errors.forEach((m) => fail(`${where}: ${m}`));
     v.warnings.forEach((m) => console.log(`NOTE ${where}: ${m}`));
-    if (!v.errors.length) console.log(`${where}: ok (${data.min_sentences}+ sentences, topic "${data.topic_ua}")`);
+    if (!v.errors.length) console.log(`${where}: ok (${data.min_words ? data.min_words + "+ words" : data.min_sentences + "+ sentences"}${data.minutes ? ", " + data.minutes + " min" : ""}, topic "${data.topic_ua}")`);
   }
 }
 if (!files) console.log('No story files found.');
