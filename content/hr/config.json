@@ -3,6 +3,7 @@
   "name": "Hrvatski",
   "teacher": "josip",
   "tts_persona": "josip",
+  "tts_persona_b": "josip_b",
   "stt_language": "hr",
   "ui": {
     "pill": "Hrvatski · Josip",
