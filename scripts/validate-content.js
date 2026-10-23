@@ -103,7 +103,7 @@ function validateLanguage(lang) {
           if (!['translate', 'listening', 'comprehension'].includes(ex.type)) fail(where(`${at}: "choices" is only for translate, listening and comprehension items`));
           else if (!Array.isArray(item.choices) || item.choices.length < 2 || new Set(item.choices).size !== item.choices.length) fail(where(`${at}: "choices" needs at least 2 different options`));
           else if (!item.accepted.every((a) => item.choices.includes(a))) fail(where(`${at}: every accepted answer must be one of the choices`));
-          else item.choices.forEach((c) => { if (/[A-Za-z]/.test(c)) sentences.push([at + ' choice', c]); });   // options in the language being learned are level-audited, Ukrainian ones (true / false) are not
+          else item.choices.forEach((c) => { if (/[A-Za-z]/.test(c) && !/[\u0400-\u04FF]/.test(c)) sentences.push([at + ' choice', c]); });   // options in the language being learned are level-audited, Ukrainian ones (true / false) are not
         }
         if (ex.type === 'gaps') {
           const gaps = (item.text.match(/___/g) || []).length;
@@ -116,7 +116,7 @@ function validateLanguage(lang) {
           sentences.push([at, item.prompt]);
           item.accepted.forEach((a) => sentences.push([at + ' answer', a]));
         } else if (ex.type === 'translate' || ex.type === 'listening' || ex.type === 'comprehension') {
-          item.accepted.forEach((a) => { if (/[A-Za-z]/.test(a)) sentences.push([at + ' answer', a]); });   // a Ukrainian answer (true / false, yes / no) is not level-audited
+          item.accepted.forEach((a) => { if (/[A-Za-z]/.test(a) && !/[\u0400-\u04FF]/.test(a)) sentences.push([at + ' answer', a]); });   // a Ukrainian answer (true / false, yes / no) is not level-audited
         }
       }
     });

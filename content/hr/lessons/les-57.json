@@ -1,0 +1,1699 @@
+{
+  "id": "hr-les-57",
+  "lang": "hr",
+  "order": 57,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "smatram",
+    "da",
+    "je",
+    "život",
+    "u",
+    "gradu",
+    "lakši",
+    "nego",
+    "na",
+    "selu",
+    "prvi",
+    "argument",
+    "su",
+    "autobusi",
+    "i",
+    "vlakovi",
+    "drugi",
+    "posao",
+    "ima",
+    "više",
+    "posla",
+    "selo",
+    "mirnije",
+    "moj",
+    "brat",
+    "međutim",
+    "tvrdi",
+    "zdravije",
+    "dokaza",
+    "oba",
+    "stajališta",
+    "ja",
+    "svoj",
+    "stav",
+    "zaključak",
+    "ne",
+    "postoji",
+    "jedan",
+    "odgovor",
+    "za",
+    "sve",
+    "svatko",
+    "svoje",
+    "razloge",
+    "razlike",
+    "možemo",
+    "razgovarati",
+    "škole",
+    "raspravljaju",
+    "treba",
+    "li",
+    "zabraniti",
+    "mobitele",
+    "satu",
+    "jedna",
+    "strana",
+    "mobiteli",
+    "smetaju",
+    "učenju",
+    "druga",
+    "naglašava",
+    "korisni",
+    "uređaji",
+    "učenici",
+    "bolje",
+    "slušaju",
+    "bez",
+    "telefona",
+    "kao",
+    "dokaz",
+    "učitelji",
+    "navode",
+    "rezultati",
+    "testa",
+    "bolji",
+    "protuargument",
+    "pomaže",
+    "učenik",
+    "može",
+    "brzo",
+    "pronaći",
+    "podatak",
+    "snage",
+    "mnogi",
+    "roditelji",
+    "nisu",
+    "sigurni",
+    "premda",
+    "jedno",
+    "rješenje",
+    "škola",
+    "dopustiti",
+    "telefon",
+    "nekim",
+    "slučajevima",
+    "unatoč",
+    "potrebna",
+    "rasprava",
+    "po",
+    "mom",
+    "mišljenju",
+    "auto",
+    "slažem",
+    "se",
+    "skup",
+    "štedi",
+    "vrijeme",
+    "troškovi",
+    "veliki",
+    "obzira",
+    "koristan",
+    "naprotiv",
+    "jeftiniji",
+    "imaš",
+    "pravo",
+    "ali",
+    "cijelu",
+    "obitelj",
+    "to",
+    "valjan",
+    "kiša",
+    "pada",
+    "kišu",
+    "kišom",
+    "tobom",
+    "direktoru",
+    "zbog",
+    "termina",
+    "kasno",
+    "radi",
+    "danas",
+    "sam",
+    "raspravljala",
+    "o",
+    "školi",
+    "mi",
+    "pretpostavljamo",
+    "kasni",
+    "račun",
+    "točan",
+    "poštovani",
+    "gospodine",
+    "imam",
+    "prigovor",
+    "novo",
+    "nova",
+    "duga",
+    "dug",
+    "netočna",
+    "netočan",
+    "odluku",
+    "odluci",
+    "izjavu",
+    "važan",
+    "važno",
+    "mišljenje",
+    "poznato",
+    "njegovo",
+    "tvoj",
+    "vaš",
+    "vrlo",
+    "uvjerljiv",
+    "razumijem",
+    "park",
+    "izlet",
+    "hladno",
+    "šetamo",
+    "rano",
+    "kafić",
+    "otvoren",
+    "blizu",
+    "idem",
+    "autobusom",
+    "cijenu",
+    "kupujem",
+    "skupo",
+    "razlikama",
+    "isti",
+    "njezina",
+    "van",
+    "tvrdnju",
+    "susjedu",
+    "buke"
+  ],
+  "notes": [
+    {
+      "id": "hr-670ae4d6",
+      "type": "noun",
+      "lemma": "stajalište",
+      "gender": "s.",
+      "gen_sg": "stajališta",
+      "plural": [
+        "stajališta"
+      ],
+      "ua": "точка зору, позиція",
+      "audio": "hr-stajaliste.mp3",
+      "forms": [
+        "stajališta",
+        "stajalištu",
+        "stajalištem"
+      ],
+      "explain_ua": "(To je moje stajalište.) Stajalište je način na koji netko gleda na neko pitanje; ima i drugo značenje „stanica“ (autobusno stajalište). Srednji rod: stajalište, stajališta, na stajalištu. UA: точка зору, позиція (і «зупинка» в другому значенні). УВАГА ДО ВСЬОГО УРОКУ: теми й речення вигадані для вправ. Від цього уроку пояснення хорватською, коротко українською.",
+      "check": "Форми з мого знання; друге значення (autobusno stajalište) з мого знання."
+    },
+    {
+      "id": "hr-b5d10203",
+      "type": "noun",
+      "lemma": "tvrdnja",
+      "gender": "ž.",
+      "gen_sg": "tvrdnje",
+      "plural": [
+        "tvrdnje"
+      ],
+      "ua": "твердження",
+      "audio": "hr-tvrdnja.mp3",
+      "forms": [
+        "tvrdnje",
+        "tvrdnju",
+        "tvrdnji",
+        "tvrdnjom",
+        "tvrdnji"
+      ],
+      "explain_ua": "(Njegova tvrdnja nije točna.) Tvrdnja je ono što netko tvrdi, bez dokaza ili s dokazom. Ženski rod na -a: tvrdnja, tvrdnje, tvrdnju. Genitiv množine: tvrdnji (check). Od tvrditi (L54). UA: твердження.",
+      "check": "Форми з мого знання; родовий множини tvrdnji звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-b992e0fa",
+      "type": "noun",
+      "lemma": "činjenica",
+      "gender": "ž.",
+      "gen_sg": "činjenice",
+      "plural": [
+        "činjenice"
+      ],
+      "ua": "факт",
+      "audio": "hr-cinjenica.mp3",
+      "forms": [
+        "činjenice",
+        "činjenicu",
+        "činjenici",
+        "činjenicom"
+      ],
+      "explain_ua": "(To je činjenica, a ne mišljenje.) Činjenica je nešto što je točno i što se može provjeriti; mišljenje (L41) je ono što netko misli. Ženski rod na -a: činjenica, činjenice, činjenicu. Pišemo č i nj: činjenica. UA: факт (на відміну від думки).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-40b569aa",
+      "type": "noun",
+      "lemma": "dokaz",
+      "gender": "m.",
+      "gen_sg": "dokaza",
+      "plural": [
+        "dokazi"
+      ],
+      "ua": "доказ",
+      "audio": "hr-dokaz.mp3",
+      "forms": [
+        "dokaza",
+        "dokazu",
+        "dokazi",
+        "dokaze",
+        "dokazom"
+      ],
+      "explain_ua": "(Gdje su dokazi?) Dokaz je nešto što pokazuje da je tvrdnja točna. Muški rod: dokaz, dokaza, dokazi. Ima dokaza = є докази (genitiv nakon ima, kao nema, L4). UA: доказ.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2f5c655e",
+      "type": "noun",
+      "lemma": "zaključak",
+      "gender": "m.",
+      "gen_sg": "zaključka",
+      "plural": [
+        "zaključci"
+      ],
+      "ua": "висновок",
+      "audio": "hr-zakljucak.mp3",
+      "forms": [
+        "zaključka",
+        "zaključku",
+        "zaključci",
+        "zaključke",
+        "zaključkom"
+      ],
+      "explain_ua": "(Kakav je tvoj zaključak?) Zaključak je ono do čega dođemo na kraju. Muški rod, nestalno a (L16): zaključak, zaključka, zaključci (k > c). Od zaključiti (L46). UA: висновок.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-6ea147ea",
+      "type": "noun",
+      "lemma": "rasprava",
+      "gender": "ž.",
+      "gen_sg": "rasprave",
+      "plural": [
+        "rasprave"
+      ],
+      "ua": "дискусія, обговорення",
+      "audio": "hr-rasprava.mp3",
+      "forms": [
+        "rasprave",
+        "raspravu",
+        "raspravi",
+        "raspravom"
+      ],
+      "explain_ua": "(Rasprava je duga.) Rasprava je razgovor u kojem ljudi iznose različita mišljenja. Ženski rod na -a: rasprava, rasprave, raspravu; u raspravi (v ostaje, check). UA: дискусія, обговорення.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-6f7af294",
+      "type": "noun",
+      "lemma": "pretpostavka",
+      "gender": "ž.",
+      "gen_sg": "pretpostavke",
+      "plural": [
+        "pretpostavke"
+      ],
+      "ua": "припущення",
+      "audio": "hr-pretpostavka.mp3",
+      "forms": [
+        "pretpostavke",
+        "pretpostavku",
+        "pretpostavci",
+        "pretpostavkom",
+        "pretpostavki"
+      ],
+      "explain_ua": "(To je samo pretpostavka.) Pretpostavka je nešto što mislimo da je točno, ali ne znamo sigurno. Ženski rod na -a: pretpostavka, pretpostavke, pretpostavku; u pretpostavci (k > c); genitiv množine pretpostavki. UA: припущення.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-76dd90d0",
+      "type": "noun",
+      "lemma": "stav",
+      "gender": "m.",
+      "gen_sg": "stava",
+      "plural": [
+        "stavovi"
+      ],
+      "ua": "позиція, ставлення",
+      "audio": "hr-stav.mp3",
+      "forms": [
+        "stava",
+        "stavu",
+        "stavovi",
+        "stavove",
+        "stavom"
+      ],
+      "explain_ua": "(Imam drugi stav.) Stav je mišljenje i odnos prema nečemu; sličan je stajalištu, ali je osobniji. Muški rod: stav, stava, množina stavovi (-ov-). UA: позиція, ставлення.",
+      "check": "Форми з мого знання; розмежування stav / stajalište подаю як звичне вживання, не звіряв."
+    },
+    {
+      "id": "hr-074d499e",
+      "type": "noun",
+      "lemma": "argument",
+      "gender": "m.",
+      "gen_sg": "argumenta",
+      "plural": [
+        "argumenti"
+      ],
+      "ua": "аргумент",
+      "audio": "hr-argument.mp3",
+      "forms": [
+        "argumenta",
+        "argumentu",
+        "argumenti",
+        "argumente",
+        "argumentom"
+      ],
+      "explain_ua": "(To je dobar argument.) Argument je razlog kojim branimo mišljenje; protuargument je argument protiv. Muški rod: argument, argumenta, argumenti. Znaš izraze iz L41 (s jedne strane, s druge strane); sada imaš i riječ. UA: аргумент.",
+      "check": "Форми з мого знання; protuargument подаю як складене слово, не звіряв у словнику."
+    },
+    {
+      "id": "hr-fe1cca9d",
+      "type": "verb",
+      "lemma": "raspravljati",
+      "aspect": "impf.",
+      "pres_1sg": "raspravljam",
+      "forms": [
+        "raspravljam",
+        "raspravljaš",
+        "raspravlja",
+        "raspravljamo",
+        "raspravljate",
+        "raspravljaju",
+        "raspravljala",
+        "raspravljali",
+        "raspravljao"
+      ],
+      "ua": "обговорювати, дискутувати",
+      "audio": "hr-raspravljati.mp3",
+      "explain_ua": "(Raspravljamo o školi.) Nesvršeni glagol: raspravljam, raspravljaš, raspravlja. O čemu: o + lokativ (o školi, o odluci). Para svršenog glagola nije u mojim bilješkama (check). UA: обговорювати, дискутувати; «про що» = o + місцевий.",
+      "check": "Форми з мого знання; пари доконаного не знайшов, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-50b4f349",
+      "type": "verb",
+      "lemma": "osporiti",
+      "aspect": "pf.",
+      "partner": "osporavati",
+      "pres_1sg": "osporim",
+      "forms": [
+        "osporim",
+        "osporiš",
+        "ospori",
+        "osporimo",
+        "osporite",
+        "ospore",
+        "osporila",
+        "osporili",
+        "osporio",
+        "osporavati",
+        "osporavam",
+        "osporavaš",
+        "osporava",
+        "osporavamo",
+        "osporavate",
+        "osporavaju"
+      ],
+      "ua": "заперечити, оспорити (недок. osporavati)",
+      "audio": "hr-osporiti.mp3",
+      "explain_ua": "(Susjed osporava odluku.) Osporiti znači reći da nešto nije točno ili nije pravedno. Par: osporiti (sv.) / osporavati (nesv.): osporim / osporavam. Akuzativ: osporiti odluku, tvrdnju. UA: оспорити, поставити під сумнів.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-839c4b0d",
+      "type": "verb",
+      "lemma": "dokazati",
+      "aspect": "pf.",
+      "partner": "dokazivati",
+      "pres_1sg": "dokažem",
+      "forms": [
+        "dokažem",
+        "dokažeš",
+        "dokaže",
+        "dokažemo",
+        "dokažete",
+        "dokažu",
+        "dokazala",
+        "dokazali",
+        "dokazao",
+        "dokazivati",
+        "dokazujem",
+        "dokazuješ",
+        "dokazuje",
+        "dokazujemo",
+        "dokazujete",
+        "dokazuju"
+      ],
+      "ua": "довести (недок. dokazivati)",
+      "audio": "hr-dokazati.mp3",
+      "explain_ua": "(Ona dokazuje da je to točno.) Par: dokazati (sv.) / dokazivati (nesv.): dokažem / dokazujem (z > ž u prezentu svršenog). Poslije toga da + rečenica. Od dokaz (gore). UA: довести (що щось правда).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (dokažem)."
+    },
+    {
+      "id": "hr-67f6cc6a",
+      "type": "verb",
+      "lemma": "pretpostaviti",
+      "aspect": "pf.",
+      "partner": "pretpostavljati",
+      "pres_1sg": "pretpostavim",
+      "forms": [
+        "pretpostavim",
+        "pretpostaviš",
+        "pretpostavi",
+        "pretpostavimo",
+        "pretpostavite",
+        "pretpostave",
+        "pretpostavila",
+        "pretpostavili",
+        "pretpostavio",
+        "pretpostavljati",
+        "pretpostavljam",
+        "pretpostavljaš",
+        "pretpostavlja",
+        "pretpostavljamo",
+        "pretpostavljate",
+        "pretpostavljaju"
+      ],
+      "ua": "припустити (недок. pretpostavljati)",
+      "audio": "hr-pretpostaviti.mp3",
+      "explain_ua": "(Pretpostavljam da kasni.) Par: pretpostaviti (sv.) / pretpostavljati (nesv.): pretpostavim / pretpostavljam, v > vlj. Poslije toga da + rečenica. U govoru najčešće nesvršeni: pretpostavljam da. UA: припускаю, що.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (v > vlj)."
+    },
+    {
+      "id": "hr-5da4bdfc",
+      "type": "verb",
+      "lemma": "naglasiti",
+      "aspect": "pf.",
+      "partner": "naglašavati",
+      "pres_1sg": "naglasim",
+      "forms": [
+        "naglasim",
+        "naglasiš",
+        "naglasi",
+        "naglasimo",
+        "naglasite",
+        "naglase",
+        "naglasila",
+        "naglasili",
+        "naglasio",
+        "naglašavati",
+        "naglašavam",
+        "naglašavaš",
+        "naglašava",
+        "naglašavamo",
+        "naglašavate",
+        "naglašavaju"
+      ],
+      "ua": "підкреслити (недок. naglašavati)",
+      "audio": "hr-naglasiti.mp3",
+      "explain_ua": "(Direktor naglašava da je termin važan.) Par: naglasiti (sv.) / naglašavati (nesv.): naglasim / naglašavam, s > š. Poslije toga da + rečenica. UA: підкреслити, наголосити.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (s > š)."
+    },
+    {
+      "id": "hr-4291a0a7",
+      "type": "verb",
+      "lemma": "prigovoriti",
+      "aspect": "pf.",
+      "partner": "prigovarati",
+      "pres_1sg": "prigovorim",
+      "forms": [
+        "prigovorim",
+        "prigovoriš",
+        "prigovori",
+        "prigovorimo",
+        "prigovorite",
+        "prigovore",
+        "prigovorila",
+        "prigovorili",
+        "prigovorio",
+        "prigovarati",
+        "prigovaram",
+        "prigovaraš",
+        "prigovara",
+        "prigovaramo",
+        "prigovarate",
+        "prigovaraju"
+      ],
+      "ua": "заперечити, зробити зауваження (недок. prigovarati)",
+      "audio": "hr-prigovoriti.mp3",
+      "explain_ua": "(Prigovaram direktoru zbog termina.) Par: prigovoriti (sv.) / prigovarati (nesv.): prigovorim / prigovaram. Kome: dativ (prigovaram direktoru); zbog čega: zbog + genitiv. Od prigovor (L40). UA: зробити зауваження, заперечити; кому = давальний (не «скаржитися на»).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr; давальний після prigovarati з мого знання."
+    },
+    {
+      "id": "hr-6ec54f52",
+      "type": "adjective",
+      "lemma": "uvjerljiv",
+      "fem": "uvjerljiva",
+      "neut": "uvjerljivo",
+      "ua": "переконливий",
+      "audio": "hr-uvjerljiv.mp3",
+      "forms": [
+        "uvjerljiva",
+        "uvjerljivo",
+        "uvjerljivi",
+        "uvjerljive"
+      ],
+      "explain_ua": "(To je uvjerljiv argument.) Uvjerljiv je argument kojem vjerujemo. Bez nestalnog a: uvjerljiv, uvjerljiva. Od uvjeren (L41). Pišemo uvj-: uvjerljiv. UA: переконливий.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f4180d26",
+      "type": "adjective",
+      "lemma": "valjan",
+      "fem": "valjana",
+      "neut": "valjano",
+      "ua": "слушний, чинний",
+      "audio": "hr-valjan.mp3",
+      "forms": [
+        "valjana",
+        "valjano",
+        "valjani",
+        "valjane"
+      ],
+      "explain_ua": "(Taj argument je valjan.) Valjan je argument koji je logičan i točan. Nestalno a: valjan, valjana. Pazi: valjan može značiti i „koji vrijedi“ (valjana karta), ali ovdje samo o argumentu. UA: слушний, обґрунтований.",
+      "check": "Форми з мого знання; друге значення (чинний, про квиток) з мого знання."
+    },
+    {
+      "id": "hr-3e894d09",
+      "type": "adjective",
+      "lemma": "jednostran",
+      "fem": "jednostrana",
+      "neut": "jednostrano",
+      "ua": "однобічний",
+      "audio": "hr-jednostran.mp3",
+      "forms": [
+        "jednostrana",
+        "jednostrano",
+        "jednostrani",
+        "jednostrane"
+      ],
+      "explain_ua": "(Taj članak je jednostran.) Jednostran je tekst koji pokazuje samo jednu stranu (strana, L41). Nestalno a: jednostran, jednostrana. Složenica jedan + strana. UA: однобічний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2f664280",
+      "type": "function",
+      "lemma": "premda",
+      "ua": "хоча, незважаючи на те що",
+      "audio": "hr-premda.mp3",
+      "forms": [],
+      "explain_ua": "(Premda je skupo, kupujem.) Veznik kao iako (L21), malo svečaniji. Poslije njega indikativ i bez „ali“ u glavnoj rečenici: Premda je skupo, kupujem, ne „premda je skupo, ali kupujem“. Klitik odmah poslije veznika: premda je. UA: хоча; після нього не ставимо «але» (в українській «хоч..., але» можливо, тут ні).",
+      "check": "Значення та вживання з мого знання; розмежування iako / premda за регістром, звірити з граматикою."
+    },
+    {
+      "id": "hr-f6275143",
+      "type": "function",
+      "lemma": "doduše",
+      "ua": "щоправда, правда",
+      "audio": "hr-doduse.mp3",
+      "forms": [],
+      "explain_ua": "(Doduše je skupo, ali kupujem.) Doduše priznaje jedan argument, a onda dolazi ali ili međutim. Stoji na početku ili poslije prve riječi. Klitik: doduše je. UA: щоправда, правда (після цього зазвичай «але»).",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-c0284cac",
+      "type": "function",
+      "lemma": "štoviše",
+      "ua": "більше того",
+      "audio": "hr-stovise.mp3",
+      "forms": [],
+      "explain_ua": "(Štoviše, rezultat je bolji.) Dodaje još jedan, jači argument. Stoji na početku rečenice, iza zareza. Pišemo š i -više. UA: більше того, навіть.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-0d67b1a3",
+      "type": "function",
+      "lemma": "naprotiv",
+      "ua": "навпаки",
+      "audio": "hr-naprotiv.mp3",
+      "forms": [],
+      "explain_ua": "(Naprotiv, autobus je jeftiniji.) Naprotiv odbija prethodnu tvrdnju i daje suprotnu. Stoji na početku rečenice. UA: навпаки.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Iznositi mišljenje: smatram, po mom mišljenju, moje je stajalište",
+      "summary_ua": "Za B2 ne dovoljno reći „mislim da“. Birajte okvir prema stupnju sigurnosti: mislim da (općenito), smatram da (promišljeno), uvjeren sam da (jako sigurno), po mom mišljenju (uvod). UA: рамки для думки від слабшої до сильнішої.",
+      "compare": [
+        {
+          "form": "smatram da / uvjeren sam da",
+          "when_ua": "Obrazložena i jaka tvrdnja.",
+          "examples": [
+            {
+              "text": "Smatram da je rasprava korisna.",
+              "ua": "Вважаю, що дискусія корисна.",
+              "audio": "hr-les57-rule-01.mp3"
+            },
+            {
+              "text": "Uvjeren sam da je zaključak točan.",
+              "ua": "Я переконаний, що висновок правильний.",
+              "audio": "hr-les57-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Da + rečenica. Sam na drugom mjestu: uvjeren sam. Mislim, smatram, uvjeren su iz L41."
+        },
+        {
+          "form": "po mom mišljenju, moje je stajalište da",
+          "when_ua": "Uvodna fraza.",
+          "examples": [
+            {
+              "text": "Po mom mišljenju, argument nije valjan.",
+              "ua": "На мою думку, аргумент не слушний.",
+              "audio": "hr-les57-rule-03.mp3"
+            },
+            {
+              "text": "Moje je stajalište da svatko ima pravo na mišljenje.",
+              "ua": "Моя позиція в тому, що кожен має право на думку.",
+              "audio": "hr-les57-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Moje je stajalište: je na drugom mjestu (poslije moje). Svatko ima pravo na (L44): isti okvir, samo jezična vježba."
+        }
+      ],
+      "points_ua": [
+        "Mislim da < smatram da < uvjeren sam da.",
+        "Po mom mišljenju; moje je stajalište da."
+      ]
+    },
+    {
+      "title_ua": "Slaganje i neslaganje, protuargument",
+      "summary_ua": "Slažem se s + instrumental (s tobom), ne slažem se s + instrumental. Kad se ne slažete, nemojte samo reći „ne“: dajte protuargument. Doduše priznaje, ali ili međutim vraća vlastitu tvrdnju; naprotiv potpuno odbija. UA: згода/незгода й протиаргумент.",
+      "compare": [
+        {
+          "form": "slažem se / ne slažem se s + I",
+          "when_ua": "Slaganje, neslaganje.",
+          "examples": [
+            {
+              "text": "Slažem se s tobom, ali imam prigovor.",
+              "ua": "Я згодна з тобою, але маю заперечення.",
+              "audio": "hr-les57-rule-05.mp3"
+            },
+            {
+              "text": "Ne mogu se složiti s tim zaključkom.",
+              "ua": "Не можу погодитися з цим висновком.",
+              "audio": "hr-les57-rule-06.mp3"
+            }
+          ],
+          "note_ua": "S tobom, s tim zaključkom: instrumental (L14). Ne mogu se složiti: se poslije mogu."
+        },
+        {
+          "form": "doduše ..., ali / naprotiv",
+          "when_ua": "Priznajem pa odbijam.",
+          "examples": [
+            {
+              "text": "Doduše je kasno, ali još imamo vremena.",
+              "ua": "Щоправда, пізно, але час ще є.",
+              "audio": "hr-les57-rule-07.mp3"
+            },
+            {
+              "text": "Naprotiv, ja mislim da je rano.",
+              "ua": "Навпаки, я думаю, що рано.",
+              "audio": "hr-les57-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Doduše je: je odmah poslije doduše. Štoviše dodaje još jedan argument."
+        }
+      ],
+      "points_ua": [
+        "Slažem se s tobom; ne mogu se složiti s tim.",
+        "Doduše ..., ali ...; naprotiv ...; štoviše ..."
+      ]
+    },
+    {
+      "title_ua": "Dokaz, činjenica, valjan argument",
+      "summary_ua": "Dobar tekst odvaja činjenicu od mišljenja i podupire tvrdnju dokazom. Kažemo: to je činjenica, to je samo pretpostavka, taj argument je valjan / nije valjan, tvrdnja nije dokazana. UA: факт, припущення, слушний аргумент.",
+      "compare": [
+        {
+          "form": "činjenica / pretpostavka / mišljenje",
+          "when_ua": "Što je što.",
+          "examples": [
+            {
+              "text": "To je činjenica, a ne pretpostavka.",
+              "ua": "Це факт, а не припущення.",
+              "audio": "hr-les57-rule-09.mp3"
+            },
+            {
+              "text": "Za tu tvrdnju još nema dokaza.",
+              "ua": "Доказів цього твердження ще немає.",
+              "audio": "hr-les57-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Nema + genitiv: nema dokaza (L4)."
+        },
+        {
+          "form": "valjan / uvjerljiv / jednostran",
+          "when_ua": "Ocjena argumenta.",
+          "examples": [
+            {
+              "text": "Taj je argument uvjerljiv, ali jednostran.",
+              "ua": "Цей аргумент переконливий, але однобічний.",
+              "audio": "hr-les57-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Je na drugom mjestu: taj je argument. Pridjev s rodom riječi: uvjerljiv argument, uvjerljiva tvrdnja."
+        }
+      ],
+      "points_ua": [
+        "Činjenica, pretpostavka, mišljenje.",
+        "Argument je valjan / uvjerljiv / jednostran."
+      ]
+    },
+    {
+      "title_ua": "Dopuštanje: iako, premda, bez obzira na, unatoč tome što",
+      "summary_ua": "Concession: iako i premda + indikativ; bez obzira na + akuzativ; unatoč + dativ (L54) ili unatoč tome što + rečenica. U glavnoj rečenici NEMA „ali“: iako je skupo, kupujem (ne „iako je skupo, ali kupujem“). UA: допуск (хоча, незважаючи на): не ставимо «але» в головному реченні.",
+      "compare": [
+        {
+          "form": "iako / premda + rečenica",
+          "when_ua": "Iako je tako, ipak ...",
+          "examples": [
+            {
+              "text": "Iako je hladno, šetamo u parku.",
+              "ua": "Хоча холодно, ми гуляємо в парку.",
+              "audio": "hr-les57-rule-12.mp3"
+            },
+            {
+              "text": "Premda je rano, kafić je otvoren.",
+              "ua": "Хоча рано, кав'ярня відкрита.",
+              "audio": "hr-les57-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Je odmah poslije iako / premda (drugo mjesto). Bez „ali“ u glavnoj rečenici."
+        },
+        {
+          "form": "bez obzira na + A / unatoč tome što",
+          "when_ua": "Nevezano uz ...",
+          "examples": [
+            {
+              "text": "Bez obzira na cijenu, kupujem je.",
+              "ua": "Незалежно від ціни, я її купую.",
+              "audio": "hr-les57-rule-14.mp3"
+            },
+            {
+              "text": "Unatoč tome što je blizu, idem autobusom.",
+              "ua": "Попри те що близько, я їду автобусом.",
+              "audio": "hr-les57-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Bez obzira na + akuzativ (na cijenu). Unatoč tome što + rečenica; unatoč + dativ (unatoč kiši, L54)."
+        }
+      ],
+      "points_ua": [
+        "Iako / premda + rečenica, bez „ali“.",
+        "Bez obzira na + A; unatoč + D; unatoč tome što + rečenica."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "To je moje stajalište.",
+      "ua": "Це моя позиція.",
+      "audio": "hr-les57-example-01.mp3"
+    },
+    {
+      "text": "Njegova tvrdnja je kratka.",
+      "ua": "Його твердження коротке.",
+      "audio": "hr-les57-example-02.mp3"
+    },
+    {
+      "text": "To je činjenica.",
+      "ua": "Це факт.",
+      "audio": "hr-les57-example-03.mp3"
+    },
+    {
+      "text": "Dokaz je u prilogu.",
+      "ua": "Доказ у додатку.",
+      "audio": "hr-les57-example-04.mp3"
+    },
+    {
+      "text": "Zaključak je kratak.",
+      "ua": "Висновок короткий.",
+      "audio": "hr-les57-example-05.mp3"
+    },
+    {
+      "text": "Rasprava je duga.",
+      "ua": "Дискусія довга.",
+      "audio": "hr-les57-example-06.mp3"
+    },
+    {
+      "text": "Pretpostavka je netočna.",
+      "ua": "Припущення неправильне.",
+      "audio": "hr-les57-example-07.mp3"
+    },
+    {
+      "text": "Njegov stav je dobar.",
+      "ua": "Його позиція добра.",
+      "audio": "hr-les57-example-08.mp3"
+    },
+    {
+      "text": "To je dobar argument.",
+      "ua": "Це хороший аргумент.",
+      "audio": "hr-les57-example-09.mp3"
+    },
+    {
+      "text": "Raspravljamo o školi.",
+      "ua": "Обговорюємо школу.",
+      "audio": "hr-les57-example-10.mp3"
+    },
+    {
+      "text": "Susjed osporava odluku.",
+      "ua": "Сусід оспорює рішення.",
+      "audio": "hr-les57-example-11.mp3"
+    },
+    {
+      "text": "Dokazujem da je račun točan.",
+      "ua": "Доводжу, що рахунок правильний.",
+      "audio": "hr-les57-example-12.mp3"
+    },
+    {
+      "text": "Pretpostavljam da kasni.",
+      "ua": "Припускаю, що він запізнюється.",
+      "audio": "hr-les57-example-13.mp3"
+    },
+    {
+      "text": "Direktor naglašava da je termin važan.",
+      "ua": "Директор підкреслює, що термін важливий.",
+      "audio": "hr-les57-example-14.mp3"
+    },
+    {
+      "text": "Prigovaram direktoru zbog termina.",
+      "ua": "Роблю директорові зауваження щодо часу.",
+      "audio": "hr-les57-example-15.mp3"
+    },
+    {
+      "text": "To je uvjerljiv argument.",
+      "ua": "Це переконливий аргумент.",
+      "audio": "hr-les57-example-16.mp3"
+    },
+    {
+      "text": "Taj argument je valjan.",
+      "ua": "Цей аргумент слушний.",
+      "audio": "hr-les57-example-17.mp3"
+    },
+    {
+      "text": "Taj članak je jednostran.",
+      "ua": "Ця стаття однобічна.",
+      "audio": "hr-les57-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Grad ili selo?",
+    "title_ua": "Місто чи село?",
+    "highlight": [
+      "hr-670ae4d6",
+      "hr-40b569aa",
+      "hr-2f5c655e",
+      "hr-76dd90d0",
+      "hr-074d499e",
+      "hr-2f664280",
+      "hr-f6275143",
+      "hr-0d67b1a3"
+    ],
+    "sentences": [
+      {
+        "text": "Smatram da je život u gradu lakši nego na selu.",
+        "ua": "Вважаю, що життя в місті легше, ніж на селі.",
+        "audio": "hr-les57-reading-01.mp3"
+      },
+      {
+        "text": "Prvi argument su autobusi i vlakovi u gradu.",
+        "ua": "Перший аргумент автобуси й поїзди в місті.",
+        "audio": "hr-les57-reading-02.mp3"
+      },
+      {
+        "text": "Drugi argument je posao: u gradu ima više posla.",
+        "ua": "Другий аргумент робота: у місті більше роботи.",
+        "audio": "hr-les57-reading-03.mp3"
+      },
+      {
+        "text": "Doduše, selo je mirnije.",
+        "ua": "Щоправда, село спокійніше.",
+        "audio": "hr-les57-reading-04.mp3"
+      },
+      {
+        "text": "Moj brat međutim tvrdi da je selo zdravije.",
+        "ua": "Мій брат проте стверджує, що село здоровіше.",
+        "audio": "hr-les57-reading-05.mp3"
+      },
+      {
+        "text": "Premda ima dokaza za oba stajališta, ja imam svoj stav.",
+        "ua": "Хоча є докази для обох позицій, у мене своя позиція.",
+        "audio": "hr-les57-reading-06.mp3"
+      },
+      {
+        "text": "Zaključak: ne postoji jedan odgovor za sve.",
+        "ua": "Висновок: єдиної відповіді для всіх немає.",
+        "audio": "hr-les57-reading-07.mp3"
+      },
+      {
+        "text": "Naprotiv, svatko ima svoje razloge.",
+        "ua": "Навпаки, кожен має свої причини.",
+        "audio": "hr-les57-reading-08.mp3"
+      },
+      {
+        "text": "Bez obzira na razlike, možemo razgovarati.",
+        "ua": "Незалежно від відмінностей, ми можемо розмовляти.",
+        "audio": "hr-les57-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай текст-дискусію (вигадану) і дай відповіді. Текст видно, поки ти відповідаєш. Шукай, хто за, хто проти, і який аргумент.",
+      "audio": "hr-les-57-phones.mp3",
+      "passage": {
+        "title": "Treba li zabraniti mobitele u školi?",
+        "paragraphs": [
+          "Škole raspravljaju treba li zabraniti mobitele na satu. Jedna strana tvrdi da mobiteli smetaju učenju. Druga strana naglašava da su mobiteli i korisni uređaji.",
+          "Prvi argument: učenici bolje slušaju bez telefona. Kao dokaz, učitelji navode da su rezultati testa bolji.",
+          "Protuargument: mobitel pomaže u učenju. Na primjer, učenik može brzo pronaći podatak. Doduše, oba stajališta imaju snage.",
+          "Štoviše, mnogi roditelji nisu sigurni. Premda ne postoji jedno rješenje, škola može dopustiti telefon u nekim slučajevima. Unatoč razlikama, zaključak je isti: potrebna je rasprava."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Jedna strana tvrdi da mobiteli smetaju učenju.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Що, за словами вчителів, краще без телефонів? (два слова)",
+          "accepted": [
+            "rezultati testa",
+            "rezultati",
+            "testa"
+          ]
+        },
+        {
+          "prompt": "Що може швидко знайти учень? (одне слово)",
+          "accepted": [
+            "podatak",
+            "podatke"
+          ]
+        },
+        {
+          "prompt": "Автор пропонує повну заборону.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Що, за висновком, потрібно? (одне слово)",
+          "accepted": [
+            "rasprava"
+          ]
+        },
+        {
+          "prompt": "Багато батьків не впевнені.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох людей, які не згодні одне з одним, і дай відповіді.",
+      "audio": "hr-les-57-car.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Po mom mišljenju, treba kupiti auto."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Ne slažem se. Auto je skup."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Doduše je skup, ali štedi vrijeme."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Premda štedi vrijeme, troškovi su veliki."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Bez obzira na troškove, auto je koristan."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Naprotiv, autobus je jeftiniji."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Imaš pravo, ali ne za cijelu obitelj."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "To je valjan argument."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Хто за купівлю авто?",
+          "choices": [
+            "Перша людина (A)",
+            "Друга людина (B)"
+          ],
+          "accepted": [
+            "Перша людина (A)"
+          ]
+        },
+        {
+          "prompt": "Друга людина вважає авто дешевим.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Чим авто корисне, за першою людиною? (одне-два слова)",
+          "accepted": [
+            "štedi vrijeme",
+            "vrijeme"
+          ]
+        },
+        {
+          "prompt": "Друга людина визнає, що останній аргумент слушний.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Що дешевше за авто, за другою людиною? (одне слово)",
+          "accepted": [
+            "autobus"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Його позиція мені відома.",
+          "accepted": [
+            "Njegovo stajalište mi je poznato."
+          ]
+        },
+        {
+          "prompt": "Це факт, а не думка.",
+          "accepted": [
+            "To je činjenica, a ne mišljenje."
+          ]
+        },
+        {
+          "prompt": "Де докази?",
+          "accepted": [
+            "Gdje su dokazi?"
+          ]
+        },
+        {
+          "prompt": "Який у вас висновок?",
+          "accepted": [
+            "Kakav je Vaš zaključak?",
+            "Kakav je vaš zaključak?"
+          ]
+        },
+        {
+          "prompt": "Дискусія була довгою.",
+          "accepted": [
+            "Rasprava je bila duga."
+          ]
+        },
+        {
+          "prompt": "Це лише припущення.",
+          "accepted": [
+            "To je samo pretpostavka."
+          ]
+        },
+        {
+          "prompt": "У мене інша позиція.",
+          "accepted": [
+            "Imam drugi stav."
+          ]
+        },
+        {
+          "prompt": "Ваш аргумент дуже переконливий.",
+          "accepted": [
+            "Vaš argument je vrlo uvjerljiv.",
+            "Vaš je argument vrlo uvjerljiv."
+          ]
+        },
+        {
+          "prompt": "Я не згодна, але розумію.",
+          "accepted": [
+            "Ne slažem se, ali razumijem."
+          ]
+        },
+        {
+          "prompt": "Ми обговорюємо рішення.",
+          "accepted": [
+            "Raspravljamo o odluci."
+          ]
+        },
+        {
+          "prompt": "Він оспорює мою заяву.",
+          "accepted": [
+            "On osporava moju izjavu.",
+            "Osporava moju izjavu."
+          ]
+        },
+        {
+          "prompt": "Вона доводить, що це правда.",
+          "accepted": [
+            "Ona dokazuje da je to točno."
+          ]
+        },
+        {
+          "prompt": "Він підкреслює, що це важливо.",
+          "accepted": [
+            "On naglašava da je to važno.",
+            "Naglašava da je to važno."
+          ]
+        },
+        {
+          "prompt": "Хоча дорого, купую.",
+          "accepted": [
+            "Iako je skupo, kupujem.",
+            "Premda je skupo, kupujem."
+          ]
+        },
+        {
+          "prompt": "Незважаючи на погоду, ми йдемо в парк.",
+          "accepted": [
+            "Bez obzira na vrijeme idemo u park.",
+            "Bez obzira na vrijeme, idemo u park."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "stajalište",
+        "činjenica",
+        "dokazi",
+        "zaključak",
+        "Rasprava",
+        "pretpostavka",
+        "stav",
+        "argument",
+        "tvrdnja",
+        "o",
+        "osporava",
+        "dokazuje",
+        "Premda",
+        "obzira",
+        "ali"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Njegovo ___ je poznato.",
+          "hint": "Його позиція відома.",
+          "accepted": [
+            [
+              "stajalište"
+            ]
+          ]
+        },
+        {
+          "text": "To je ___, a ne mišljenje.",
+          "hint": "Це факт, а не думка.",
+          "accepted": [
+            [
+              "činjenica"
+            ]
+          ]
+        },
+        {
+          "text": "Gdje su ___?",
+          "hint": "Де докази?",
+          "accepted": [
+            [
+              "dokazi"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je kratak.",
+          "hint": "Мій висновок короткий.",
+          "accepted": [
+            [
+              "zaključak"
+            ]
+          ]
+        },
+        {
+          "text": "___ je bila duga.",
+          "hint": "Дискусія була довга.",
+          "accepted": [
+            [
+              "Rasprava",
+              "rasprava"
+            ]
+          ]
+        },
+        {
+          "text": "To je samo ___.",
+          "hint": "Це лише припущення.",
+          "accepted": [
+            [
+              "pretpostavka"
+            ]
+          ]
+        },
+        {
+          "text": "Imam drugi ___.",
+          "hint": "Маю іншу позицію.",
+          "accepted": [
+            [
+              "stav"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ je dobar.",
+          "hint": "Той аргумент добрий.",
+          "accepted": [
+            [
+              "argument"
+            ]
+          ]
+        },
+        {
+          "text": "Njezina ___ nije točna.",
+          "hint": "Її твердження неправильне.",
+          "accepted": [
+            [
+              "tvrdnja"
+            ]
+          ]
+        },
+        {
+          "text": "Mi raspravljamo ___ ovoj temi.",
+          "hint": "Ми обговорюємо цю тему.",
+          "accepted": [
+            [
+              "o"
+            ]
+          ]
+        },
+        {
+          "text": "Naš susjed ___ ovu tvrdnju.",
+          "hint": "Наш сусід оспорює це твердження.",
+          "accepted": [
+            [
+              "osporava"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ___ da je to točno.",
+          "hint": "Вона доводить, що це правда.",
+          "accepted": [
+            [
+              "dokazuje"
+            ]
+          ]
+        },
+        {
+          "text": "___ je kasno, radim.",
+          "hint": "Хоча пізно, працюю.",
+          "accepted": [
+            [
+              "Premda",
+              "premda"
+            ]
+          ]
+        },
+        {
+          "text": "Bez ___ na vrijeme idemo van.",
+          "hint": "Незважаючи на погоду, йдемо надвір.",
+          "accepted": [
+            [
+              "obzira"
+            ]
+          ]
+        },
+        {
+          "text": "Doduše je skupo, ___ kupujem.",
+          "hint": "Щоправда дорого, але купую.",
+          "accepted": [
+            [
+              "ali"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Iako je skupo, ali kupujem.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Iako je skupo, kupujem."
+          ]
+        },
+        {
+          "prompt": "Premda je kasno, ali radi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Premda je kasno, radi."
+          ]
+        },
+        {
+          "prompt": "Bez obzira na kiša idemo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Bez obzira na kišu idemo.",
+            "Bez obzira na kišu, idemo."
+          ]
+        },
+        {
+          "prompt": "Slažem se s tebe.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Slažem se s tobom."
+          ]
+        },
+        {
+          "prompt": "Prigovaramo susjeda zbog buke.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prigovaramo susjedu zbog buke."
+          ]
+        },
+        {
+          "prompt": "Unatoč tome što kasno je, radi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Unatoč tome što je kasno, radi."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam raspravljala o školi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam raspravljala o školi.",
+            "Ja sam danas raspravljala o školi."
+          ]
+        },
+        {
+          "prompt": "Mi pretpostavljam da kasni.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi pretpostavljamo da kasni.",
+            "Pretpostavljamo da kasni."
+          ]
+        },
+        {
+          "prompt": "Taj argument je valjana.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Taj argument je valjan."
+          ]
+        },
+        {
+          "prompt": "Dokazali smo da račun je točan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dokazali smo da je račun točan."
+          ]
+        },
+        {
+          "prompt": "Poštovani gospodin, imam prigovor.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovani gospodine, imam prigovor."
+          ]
+        },
+        {
+          "prompt": "Stajalište je novo.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Stajališta su nova."
+          ]
+        },
+        {
+          "prompt": "Rasprava je duga.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Rasprava nije duga."
+          ]
+        },
+        {
+          "prompt": "Susjed osporava odluku.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Susjed je osporio odluku."
+          ]
+        },
+        {
+          "prompt": "Tvrdnja je netočna.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li tvrdnja netočna?"
+          ]
+        },
+        {
+          "prompt": "Kiša pada i idemo van.",
+          "cue": "-> Iako ...",
+          "accepted": [
+            "Iako pada kiša, idemo van.",
+            "Iako kiša pada, idemo van."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mi ___ o školi.",
+          "cue": "raspravljati",
+          "accepted": [
+            "raspravljamo"
+          ]
+        },
+        {
+          "text": "Susjed uvijek ___ odluku.",
+          "cue": "osporavati",
+          "accepted": [
+            "osporava"
+          ]
+        },
+        {
+          "text": "Jučer je ___ odluku.",
+          "cue": "osporiti",
+          "accepted": [
+            "osporio"
+          ]
+        },
+        {
+          "text": "Ona ___ da je račun točan.",
+          "cue": "dokazivati",
+          "accepted": [
+            "dokazuje"
+          ]
+        },
+        {
+          "text": "Čim ___ da je točan, javim se.",
+          "cue": "dokazati",
+          "accepted": [
+            "dokažem"
+          ]
+        },
+        {
+          "text": "Ja ___ da kasni.",
+          "cue": "pretpostavljati",
+          "accepted": [
+            "pretpostavljam"
+          ]
+        },
+        {
+          "text": "Oni su ___ da je kasno.",
+          "cue": "pretpostaviti",
+          "accepted": [
+            "pretpostavili"
+          ]
+        },
+        {
+          "text": "Direktor ___ da je termin važan.",
+          "cue": "naglašavati",
+          "accepted": [
+            "naglašava"
+          ]
+        },
+        {
+          "text": "Jučer je ___ rok.",
+          "cue": "naglasiti",
+          "accepted": [
+            "naglasio"
+          ]
+        },
+        {
+          "text": "Ona stalno ___ direktoru.",
+          "cue": "prigovarati",
+          "accepted": [
+            "prigovara"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ direktoru.",
+          "cue": "prigovoriti",
+          "accepted": [
+            "prigovorila",
+            "prigovorio"
+          ]
+        },
+        {
+          "text": "Ti ___ o tome često.",
+          "cue": "raspravljati",
+          "accepted": [
+            "raspravljaš"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "точка зору, позиція",
+          "answer": "stajalište"
+        },
+        {
+          "prompt": "твердження",
+          "answer": "tvrdnja"
+        },
+        {
+          "prompt": "факт",
+          "answer": "činjenica"
+        },
+        {
+          "prompt": "доказ",
+          "answer": "dokaz"
+        },
+        {
+          "prompt": "висновок",
+          "answer": "zaključak"
+        },
+        {
+          "prompt": "дискусія",
+          "answer": "rasprava"
+        },
+        {
+          "prompt": "припущення",
+          "answer": "pretpostavka"
+        },
+        {
+          "prompt": "позиція, ставлення",
+          "answer": "stav"
+        },
+        {
+          "prompt": "аргумент",
+          "answer": "argument"
+        },
+        {
+          "prompt": "переконливий",
+          "answer": "uvjerljiv"
+        },
+        {
+          "prompt": "слушний, обґрунтований",
+          "answer": "valjan"
+        },
+        {
+          "prompt": "однобічний",
+          "answer": "jednostran"
+        },
+        {
+          "prompt": "хоча (книжніше)",
+          "answer": "premda"
+        },
+        {
+          "prompt": "щоправда",
+          "answer": "doduše"
+        }
+      ],
+      "extra": [
+        "štoviše",
+        "naprotiv"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова з думок і аргументів: послухай і напиши.",
+      "words": [
+        "mišljenje",
+        "razlog",
+        "prednost",
+        "nedostatak",
+        "riječ"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 41; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

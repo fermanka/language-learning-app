@@ -1,0 +1,1941 @@
+{
+  "id": "hr-les-56",
+  "lang": "hr",
+  "order": 56,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "sutra",
+    "imam",
+    "mali",
+    "test",
+    "iz",
+    "hrvatskog",
+    "priprema",
+    "je",
+    "bila",
+    "duga",
+    "a",
+    "razdoblje",
+    "učenja",
+    "dva",
+    "mjeseca",
+    "najveća",
+    "briga",
+    "mi",
+    "slušanje",
+    "rezultat",
+    "ovisi",
+    "o",
+    "tome",
+    "koliko",
+    "sam",
+    "učila",
+    "mojih",
+    "pogrešaka",
+    "su",
+    "često",
+    "klitici",
+    "zato",
+    "svaki",
+    "dan",
+    "ponavljam",
+    "ovu",
+    "vrstu",
+    "rečenica",
+    "to",
+    "koristan",
+    "trening",
+    "dosad",
+    "napisala",
+    "nekoliko",
+    "pisama",
+    "osobito",
+    "zadovoljna",
+    "jednim",
+    "problema",
+    "kvara",
+    "dio",
+    "kašnjenje",
+    "kvar",
+    "stoga",
+    "čekamo",
+    "zbog",
+    "vlak",
+    "kasni",
+    "cijena",
+    "usluge",
+    "brat",
+    "razlikuje",
+    "od",
+    "mene",
+    "slična",
+    "mojoj",
+    "sestri",
+    "moguće",
+    "da",
+    "korisno",
+    "ponavljati",
+    "gotovo",
+    "sve",
+    "riječi",
+    "razumijem",
+    "nisam",
+    "kasnila",
+    "kave",
+    "sira",
+    "kuća",
+    "kući",
+    "dom",
+    "lipnja",
+    "traje",
+    "novca",
+    "manje",
+    "imamo",
+    "kiša",
+    "napravila",
+    "sin",
+    "majka",
+    "prevelik",
+    "ovdje",
+    "ovo",
+    "ova",
+    "ovaj",
+    "taj",
+    "ta",
+    "koja",
+    "pijete",
+    "koju",
+    "dugo",
+    "dobra",
+    "knjižnica",
+    "sestra",
+    "veliko",
+    "veliki",
+    "velika",
+    "jasan",
+    "poznat",
+    "kratko",
+    "kratak",
+    "skup",
+    "skupa",
+    "mirno",
+    "tu",
+    "postoji",
+    "dobar",
+    "savjet",
+    "izvolite",
+    "zovem",
+    "radionice",
+    "djecu",
+    "subotu",
+    "deset",
+    "sati",
+    "besplatna",
+    "jest",
+    "ako",
+    "budete",
+    "kasnili",
+    "nazovite",
+    "nas",
+    "dvoje",
+    "djece",
+    "mogu",
+    "li",
+    "doći",
+    "njima",
+    "naravno",
+    "dječaci",
+    "djevojčice",
+    "sudjelovati",
+    "hvala",
+    "čim",
+    "stignem",
+    "javit",
+    "ću",
+    "se",
+    "prošli",
+    "petak",
+    "putovali",
+    "vlakom",
+    "more",
+    "dječaka",
+    "djevojčicu",
+    "pa",
+    "smo",
+    "imali",
+    "mnogo",
+    "prtljage",
+    "dvadeset",
+    "minuta",
+    "ali",
+    "izravan",
+    "kad",
+    "stigli",
+    "hotel",
+    "zatvoren",
+    "nazvala",
+    "linija",
+    "zauzeta",
+    "e-poštu",
+    "ostavila",
+    "poruku",
+    "upravo",
+    "tada",
+    "čovjek",
+    "radio",
+    "otvorio",
+    "vrata",
+    "ujak",
+    "mojeg",
+    "muža",
+    "živi",
+    "blizu",
+    "mora",
+    "čuvao",
+    "navečer",
+    "ukupno",
+    "tri",
+    "dana",
+    "unatoč",
+    "kiši",
+    "sretna",
+    "zahvalna",
+    "ujaku",
+    "pomoći",
+    "sela"
+  ],
+  "notes": [
+    {
+      "id": "hr-49a14a0d",
+      "type": "noun",
+      "lemma": "uzrok",
+      "gender": "m.",
+      "gen_sg": "uzroka",
+      "plural": [
+        "uzroci"
+      ],
+      "ua": "причина (що спричинило)",
+      "audio": "hr-uzrok.mp3",
+      "forms": [
+        "uzroka",
+        "uzroku",
+        "uzroci",
+        "uzroke",
+        "uzrokom"
+      ],
+      "explain_ua": "(Uzrok je kvar = причина поломка). УВАГА ДО ВСЬОГО УРОКУ: ситуації й речення вигадані для вправ. Чоловічого роду: uzrok, uzroka, множина uzroci (k > c). Uzrok це причина, яка щось спричинила; razlog (Lekcija 41) це доказ, чому щось зробили. Українське «причина» інше слово.",
+      "check": "Форми з мого знання; розмежування uzrok / razlog подаю як звичне вживання, не звіряв."
+    },
+    {
+      "id": "hr-9fc3e372",
+      "type": "noun",
+      "lemma": "posljedica",
+      "gender": "ž.",
+      "gen_sg": "posljedice",
+      "plural": [
+        "posljedice"
+      ],
+      "ua": "наслідок",
+      "audio": "hr-posljedica.mp3",
+      "forms": [
+        "posljedice",
+        "posljedicu",
+        "posljedici",
+        "posljedicom"
+      ],
+      "explain_ua": "(Posljedica je dobra = наслідок хороший). Жіночий рід на -a: posljedica, posljedice, posljedicu (знахідний), родовий множини posljedica. Пара до uzrok. Пиши lj: posljedica.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-c2b0ec2f",
+      "type": "noun",
+      "lemma": "razdoblje",
+      "gender": "s.",
+      "gen_sg": "razdoblja",
+      "plural": [
+        "razdoblja"
+      ],
+      "ua": "період, проміжок часу",
+      "audio": "hr-razdoblje.mp3",
+      "forms": [
+        "razdoblja",
+        "razdoblju",
+        "razdobljem"
+      ],
+      "explain_ua": "(To je dugo razdoblje = це довгий період). Середній рід на -e: razdoblje, razdoblja, u razdoblju. Проміжок часу, наприклад, від січня до травня. Українське «період» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-e05d7d10",
+      "type": "noun",
+      "lemma": "vrsta",
+      "gender": "ž.",
+      "gen_sg": "vrste",
+      "plural": [
+        "vrste"
+      ],
+      "ua": "вид, сорт",
+      "audio": "hr-vrsta.mp3",
+      "forms": [
+        "vrste",
+        "vrstu",
+        "vrsti",
+        "vrstom"
+      ],
+      "explain_ua": "(Ova vrsta sira je skupa = цей сорт сиру дорогий). Жіночий рід на -a: vrsta, vrste, vrstu (знахідний), родовий множини vrsta. Vrsta čega: родовий (vrsta sira). Ту ж форму vrsta має «різновид». Українське «вид, сорт» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-90bbd054",
+      "type": "noun",
+      "lemma": "područje",
+      "gender": "s.",
+      "gen_sg": "područja",
+      "plural": [
+        "područja"
+      ],
+      "ua": "територія, галузь",
+      "audio": "hr-podrucje.mp3",
+      "forms": [
+        "područja",
+        "području",
+        "područjem"
+      ],
+      "explain_ua": "(To područje je mirno = ця територія спокійна). Середній рід на -je: područje, područja, na području. Територія чи галузь (područje rada). Українське «територія» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-a8d26f7a",
+      "type": "noun",
+      "lemma": "korist",
+      "gender": "ž.",
+      "gen_sg": "koristi",
+      "plural": [
+        "koristi"
+      ],
+      "ua": "користь",
+      "audio": "hr-korist.mp3",
+      "forms": [
+        "koristi",
+        "koristima"
+      ],
+      "explain_ua": "(Korist je velika = користь велика). Жіночий рід на приголосний (i-основа, як riječ): korist, koristi, у знахідному korist. Nema koristi = немає користі (nema + родовий). Збіг форм: koristi це ще й 3 особа дієслова koristiti (не вчимо). Українське «користь» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-8edd59e9",
+      "type": "noun",
+      "lemma": "šteta",
+      "gender": "ž.",
+      "gen_sg": "štete",
+      "plural": [
+        "štete"
+      ],
+      "ua": "шкода, збиток",
+      "audio": "hr-steta.mp3",
+      "forms": [
+        "štete",
+        "štetu",
+        "šteti",
+        "štetom"
+      ],
+      "explain_ua": "(Šteta je mala = шкода мала). Жіночий рід на -a: šteta, štete, štetu (знахідний). Također «шкода» у розмові: Šteta! = Шкода! Від štetan (Lekcija 45, шкідливий). Українське «шкода» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-e4a5607d",
+      "type": "noun",
+      "lemma": "trošak",
+      "gender": "m.",
+      "gen_sg": "troška",
+      "plural": [
+        "troškovi"
+      ],
+      "ua": "витрата",
+      "audio": "hr-trosak.mp3",
+      "forms": [
+        "troška",
+        "trošku",
+        "troškovi",
+        "troškove",
+        "troškom"
+      ],
+      "explain_ua": "(Trošak je velik = витрата велика). Чоловічого роду, нестійке a (Lekcija 16): trošak, troška, множина troškovi (-ov-). Troškovi = витрати. Від trošiti (Lekcija 34).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-14286340",
+      "type": "noun",
+      "lemma": "briga",
+      "gender": "ž.",
+      "gen_sg": "brige",
+      "plural": [
+        "brige"
+      ],
+      "ua": "турбота, клопіт",
+      "audio": "hr-briga.mp3",
+      "forms": [
+        "brige",
+        "brigu",
+        "brizi",
+        "brigom"
+      ],
+      "explain_ua": "(Imam jednu brigu = маю один клопіт). Жіночий рід на -a: briga, brige, brigu (знахідний), o brizi (g > z). Від brinuti se (Lekcija 32). Briga me je = турбує мене; Nemoj brinuti.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f9d81038",
+      "type": "verb",
+      "lemma": "ovisiti",
+      "aspect": "impf.",
+      "pres_1sg": "ovisim",
+      "forms": [
+        "ovisim",
+        "ovisiš",
+        "ovisi",
+        "ovisimo",
+        "ovisite",
+        "ovise",
+        "ovisila",
+        "ovisili",
+        "ovisio"
+      ],
+      "ua": "залежати",
+      "audio": "hr-ovisiti.mp3",
+      "explain_ua": "(To ovisi o vremenu = це залежить від погоди). Недоконане: ovisim, ovisiš, ovisi, 3 особа множини ovise. Залежати «від чого»: o + місцевий (o vremenu не «od vremena»; check). Українське «залежати від» (родовий) НЕ збігається: тут o + місцевий. Пари доконаного нема в моїх записах.",
+      "check": "Форми з мого знання; о + місцевий (а не od + родовий) звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-cf0529c4",
+      "type": "verb",
+      "lemma": "postojati",
+      "aspect": "impf.",
+      "pres_1sg": "postojim",
+      "forms": [
+        "postojim",
+        "postojiš",
+        "postoji",
+        "postojimo",
+        "postojite",
+        "postoje",
+        "postojala",
+        "postojali",
+        "postojao"
+      ],
+      "ua": "існувати, бути (наявним)",
+      "audio": "hr-postojati.mp3",
+      "explain_ua": "(Tu postoji dobra knjižnica = тут є хороша бібліотека). Недоконане: postojim, postojiš, postoji, 3 особа множини postoje. Найчастіше 3 особа: postoji, postoje. Українське «існувати» близьке. Пари доконаного нема в моїх записах.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-8a5782ec",
+      "type": "verb",
+      "lemma": "razlikovati se",
+      "aspect": "impf.",
+      "pres_1sg": "razlikujem se",
+      "forms": [
+        "razlikujem",
+        "razlikuješ",
+        "razlikuje",
+        "razlikujemo",
+        "razlikujete",
+        "razlikuju",
+        "razlikovala",
+        "razlikovali",
+        "razlikovao"
+      ],
+      "ua": "відрізнятися",
+      "audio": "hr-razlikovati.mp3",
+      "explain_ua": "(Ovaj grad se razlikuje od sela = це місто відрізняється від села). Недоконане: razlikujem se, razlikuješ se, razlikuje se, razlikuju se (-ova- > -uj-, як kupovati). Відрізнятися «від чого»: od + родовий (od sela). Se на другому місці. Родина razlika (Lekcija 55).",
+      "check": "Форми з мого знання за зразком kupovati."
+    },
+    {
+      "id": "hr-10cc5252",
+      "type": "verb",
+      "lemma": "nedostajati",
+      "aspect": "impf.",
+      "pres_1sg": "nedostajem",
+      "forms": [
+        "nedostajem",
+        "nedostaješ",
+        "nedostaje",
+        "nedostajemo",
+        "nedostajete",
+        "nedostaju",
+        "nedostajala",
+        "nedostajali",
+        "nedostajao"
+      ],
+      "ua": "бракувати, сумувати за",
+      "audio": "hr-nedostajati.mp3",
+      "explain_ua": "(Nedostaje mi sestra = мені бракує сестри, я сумую за сестрою). Недоконане: nedostaje (3 особа однини), nedostaju (3 особа множини). Той, хто сумує, у давальному: nedostaje mi, nedostaješ mi (ти мені бракуєш). Той, за ким сумують, підмет. Українське «сумую за» будується інакше: «я сумую за сестрою», а хорватською «сестра мені бракує». Тримайся ХОРВАТСЬКОЇ структури.",
+      "check": "Форми з мого знання; нюанс «бракувати / сумувати за» звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-6e409ded",
+      "type": "adjective",
+      "lemma": "sličan",
+      "fem": "slična",
+      "neut": "slično",
+      "ua": "схожий",
+      "audio": "hr-slican.mp3",
+      "forms": [
+        "slična",
+        "slično",
+        "slični",
+        "slične",
+        "sličnom",
+        "sličnoj"
+      ],
+      "explain_ua": "(Ona je slična majci = вона схожа на маму). Нестійке a: sličan, slična, slično. Схожий «на кого»: давальний (slična majci), не na + знахідний (check). Українське «схожий на» (знахідний) НЕ збігається. Тримайся ХОРВАТСЬКОЇ: давальний.",
+      "check": "Форми з мого знання; давальний після sličan звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-740fd2e3",
+      "type": "adjective",
+      "lemma": "različit",
+      "fem": "različita",
+      "neut": "različito",
+      "ua": "різний",
+      "audio": "hr-razlicit.mp3",
+      "forms": [
+        "različita",
+        "različito",
+        "različiti",
+        "različite"
+      ],
+      "explain_ua": "(Ti kolači su različiti = ті тістечка різні). Без нестійкого a: različit, različita, različito. Від razlika (Lekcija 55). Пара до sličan. Українське «різний» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-9d39e831",
+      "type": "adjective",
+      "lemma": "moguć",
+      "fem": "moguća",
+      "neut": "moguće",
+      "ua": "можливий",
+      "audio": "hr-moguc.mp3",
+      "forms": [
+        "moguća",
+        "moguće",
+        "mogući",
+        "mogućem"
+      ],
+      "explain_ua": "(Moguće je da kasni = можливо, що він запізнюється). Прикметник: moguć, moguća, moguće. Найчастіше в безособовому: moguće je da + речення; nije moguće. Родина mogućnost (Lekcija 55) і moći (Lekcija 6).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-d9d2922c",
+      "type": "adjective",
+      "lemma": "koristan",
+      "fem": "korisna",
+      "neut": "korisno",
+      "ua": "корисний",
+      "audio": "hr-koristan.mp3",
+      "forms": [
+        "korisna",
+        "korisno",
+        "korisni",
+        "korisne"
+      ],
+      "explain_ua": "(To je koristan savjet = це корисна порада). Нестійке a: koristan, korisna, korisno. Безособово: korisno je ponavljati = корисно повторювати. Від korist (вище).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-4cf552bb",
+      "type": "function",
+      "lemma": "osobito",
+      "ua": "особливо",
+      "audio": "hr-osobito.mp3",
+      "forms": [],
+      "explain_ua": "(Osobito volim ljeto = особливо люблю літо). Прислівник, не змінюється. Підсилює наступне слово. Те саме, що naročito (check). Українське «особливо» схоже.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-7308830e",
+      "type": "function",
+      "lemma": "gotovo",
+      "ua": "майже",
+      "audio": "hr-gotovo.mp3",
+      "forms": [],
+      "explain_ua": "(Gotovo sve razumijem = майже все розумію). Прислівник, не змінюється: gotovo sve, gotovo nikad. Також прикметник gotov = готовий (тут не вчимо). Українське «майже» інше слово.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-a7681d16",
+      "type": "function",
+      "lemma": "dosad",
+      "ua": "досі, до цього часу",
+      "audio": "hr-dosad.mp3",
+      "forms": [],
+      "explain_ua": "(Dosad nisam kasnila = досі я не запізнювалася). Прислівник, не змінюється. Звичайно з перфектом. Клітик на другому місці: dosad sam. Українське «досі» інше слово.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Uzrok i posljedica",
+      "summary_ua": "Uzrok je ono što nešto izaziva; posljedica je ono što iz toga slijedi. Veznici: zbog + G, stoga, zato (L21, L52). Тобто: причина і наслідок.",
+      "compare": [
+        {
+          "form": "uzrok čega, posljedica čega",
+          "when_ua": "Причина чого, наслідок чого.",
+          "examples": [
+            {
+              "text": "Uzrok problema je mali kvar.",
+              "ua": "Причина проблеми це маленька поломка.",
+              "audio": "hr-les56-rule-01.mp3"
+            },
+            {
+              "text": "Posljedica kvara je kašnjenje.",
+              "ua": "Наслідок поломки запізнення.",
+              "audio": "hr-les56-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Uzrok / posljedica + родовий: problema, kvara."
+        },
+        {
+          "form": "zbog ..., stoga ...",
+          "when_ua": "Через це, тому.",
+          "examples": [
+            {
+              "text": "Zbog kvara vlak kasni, stoga čekamo.",
+              "ua": "Через поломку поїзд запізнюється, тому ми чекаємо.",
+              "audio": "hr-les56-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Stoga з Lekcija 52; клітик після нього. Zbog + родовий."
+        }
+      ],
+      "points_ua": [
+        "Uzrok / posljedica + родовий.",
+        "Zbog ..., stoga ..."
+      ]
+    },
+    {
+      "title_ua": "Ovisiti o, razlikovati se od, sličan + D",
+      "summary_ua": "Три дієслова/прикметники з іншим відмінком, ніж в українській: ovisiti o + місцевий («залежати від» родовий!), razlikovati se od + родовий, sličan + давальний («схожий на» знахідний!). Тут не тримайся української: вона веде до помилки.",
+      "compare": [
+        {
+          "form": "ovisiti o + місцевий",
+          "when_ua": "Залежить від чогось.",
+          "examples": [
+            {
+              "text": "Cijena ovisi o vrsti usluge.",
+              "ua": "Ціна залежить від виду послуги.",
+              "audio": "hr-les56-rule-04.mp3"
+            }
+          ],
+          "note_ua": "O vrsti, o usluzi: місцевий. Не «ovisi od vrste»."
+        },
+        {
+          "form": "razlikovati se od + родовий",
+          "when_ua": "Відрізняється від.",
+          "examples": [
+            {
+              "text": "Moj brat se razlikuje od mene.",
+              "ua": "Мій брат відрізняється від мене.",
+              "audio": "hr-les56-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Od mene: родовий займенника. Se на другому місці."
+        },
+        {
+          "form": "sličan + давальний",
+          "when_ua": "Схожий на кого.",
+          "examples": [
+            {
+              "text": "Ona je slična mojoj sestri.",
+              "ua": "Вона схожа на мою сестру.",
+              "audio": "hr-les56-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Mojoj sestri: давальний. Не «na moju sestru»."
+        }
+      ],
+      "points_ua": [
+        "Ovisi o + місцевий.",
+        "Razlikuje se od + родовий.",
+        "Sličan + давальний."
+      ]
+    },
+    {
+      "title_ua": "Moguće, korisno, gotovo, osobito, dosad",
+      "summary_ua": "Moguće je da + речення, korisno je + інфінітив. Gotovo, osobito, dosad ставимо перед словом, яке уточнюють; клітик після.",
+      "compare": [
+        {
+          "form": "moguće / korisno je ...",
+          "when_ua": "Безособово.",
+          "examples": [
+            {
+              "text": "Moguće je da kasni.",
+              "ua": "Можливо, він запізнюється.",
+              "audio": "hr-les56-rule-07.mp3"
+            },
+            {
+              "text": "Korisno je ponavljati nove riječi.",
+              "ua": "Корисно повторювати нові слова.",
+              "audio": "hr-les56-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Moguće je da + речення; korisno je + інфінітив."
+        },
+        {
+          "form": "gotovo, osobito, dosad",
+          "when_ua": "Майже, особливо, досі.",
+          "examples": [
+            {
+              "text": "Gotovo sve riječi razumijem.",
+              "ua": "Майже всі слова розумію.",
+              "audio": "hr-les56-rule-09.mp3"
+            },
+            {
+              "text": "Dosad nisam kasnila.",
+              "ua": "Досі я не запізнювалася.",
+              "audio": "hr-les56-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Dosad nisam: nisam на другому місці."
+        }
+      ],
+      "points_ua": [
+        "Moguće je da ...; korisno je ...",
+        "Gotovo sve, osobito, dosad nisam."
+      ]
+    },
+    {
+      "title_ua": "Чекліст перед пробним складанням B1",
+      "summary_ua": "Це мій список «я можу», а не офіційний перелік. Тест нижче показує тільки бали й червоні/зелені поля, правильні відповіді не показує. Застосунковий тест ЛЕГШИЙ за справжній іспит: відповіді короткі й друкуються, речення з українською рамкою, нема живої розмови. Високий бал не означає, що іспит складено. Моє правило для запису на пробне складання: 85% у тесті й жодного повторюваного шаблону помилок у розборі; це мій орієнтир, а не офіційний поріг, офіційної прохідної межі я не знаю.",
+      "compare": [],
+      "points_ua": [
+        "Слухання: з двох разів чую день, число й місце в короткому повідомленні й діалозі.",
+        "Читання: розумію оголошення, лист, коротку статтю (120-250 слів) і знаходжу числа, дні, хто що каже.",
+        "Структури: усі відмінки, клітики на другому місці, майбутнє II (kad budem), koji з прийменником, čiji, збірні числівники, вид дієслова.",
+        "Письмо: службовий лист на 80 слів за 20 хвилин і короткий текст-думку; перевіряю клітики, відмінки, діакритику.",
+        "Говоріння: можу представитися, описати день і родину, переказати, запитати й попросити повторити. Для цього потрібна жива людина: твоя партнерка по розмові вже є, говори з нею щотижня.",
+        "Moja karta pogrešaka: після тесту я складу з твого digest три найчастіші типи помилок з одним зразком для кожного; якщо шаблону не буде, лишиться один рядок.",
+        "Пробне складання в акредитованій установі вирішуєш ти; список установ дивись на mzom.gov.hr, не в блогах. Я не даю порад щодо імміграції чи термінів."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Uzrok je kvar.",
+      "ua": "Причина поломка.",
+      "audio": "hr-les56-example-01.mp3"
+    },
+    {
+      "text": "Posljedica je dobra.",
+      "ua": "Наслідок хороший.",
+      "audio": "hr-les56-example-02.mp3"
+    },
+    {
+      "text": "To je dugo razdoblje.",
+      "ua": "Це довгий період.",
+      "audio": "hr-les56-example-03.mp3"
+    },
+    {
+      "text": "Ova vrsta sira je skupa.",
+      "ua": "Цей сорт сиру дорогий.",
+      "audio": "hr-les56-example-04.mp3"
+    },
+    {
+      "text": "To područje je mirno.",
+      "ua": "Та територія спокійна.",
+      "audio": "hr-les56-example-05.mp3"
+    },
+    {
+      "text": "Korist je velika.",
+      "ua": "Користь велика.",
+      "audio": "hr-les56-example-06.mp3"
+    },
+    {
+      "text": "Šteta je mala.",
+      "ua": "Шкода мала.",
+      "audio": "hr-les56-example-07.mp3"
+    },
+    {
+      "text": "Trošak je velik.",
+      "ua": "Витрата велика.",
+      "audio": "hr-les56-example-08.mp3"
+    },
+    {
+      "text": "Imam jednu brigu.",
+      "ua": "Маю один клопіт.",
+      "audio": "hr-les56-example-09.mp3"
+    },
+    {
+      "text": "To ovisi o vremenu.",
+      "ua": "Це залежить від погоди.",
+      "audio": "hr-les56-example-10.mp3"
+    },
+    {
+      "text": "Tu postoji dobra knjižnica.",
+      "ua": "Тут є хороша бібліотека.",
+      "audio": "hr-les56-example-11.mp3"
+    },
+    {
+      "text": "Ovaj grad se razlikuje od sela.",
+      "ua": "Це місто відрізняється від села.",
+      "audio": "hr-les56-example-12.mp3"
+    },
+    {
+      "text": "Nedostaje mi sestra.",
+      "ua": "Мені бракує сестри.",
+      "audio": "hr-les56-example-13.mp3"
+    },
+    {
+      "text": "Ona je slična majci.",
+      "ua": "Вона схожа на маму.",
+      "audio": "hr-les56-example-14.mp3"
+    },
+    {
+      "text": "Ti kolači su različiti.",
+      "ua": "Ті тістечка різні.",
+      "audio": "hr-les56-example-15.mp3"
+    },
+    {
+      "text": "Moguće je da kasni.",
+      "ua": "Можливо, він запізнюється.",
+      "audio": "hr-les56-example-16.mp3"
+    },
+    {
+      "text": "To je koristan savjet.",
+      "ua": "Це корисна порада.",
+      "audio": "hr-les56-example-17.mp3"
+    },
+    {
+      "text": "Osobito volim ljeto.",
+      "ua": "Особливо люблю літо.",
+      "audio": "hr-les56-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Mali test",
+    "title_ua": "Невеликий тест",
+    "highlight": [
+      "hr-49a14a0d",
+      "hr-c2b0ec2f",
+      "hr-e05d7d10",
+      "hr-14286340",
+      "hr-d9d2922c",
+      "hr-4cf552bb",
+      "hr-7308830e",
+      "hr-a7681d16"
+    ],
+    "sentences": [
+      {
+        "text": "Sutra imam mali test iz hrvatskog.",
+        "ua": "Завтра в мене невеликий тест з хорватської.",
+        "audio": "hr-les56-reading-01.mp3"
+      },
+      {
+        "text": "Priprema je bila duga, a razdoblje učenja gotovo dva mjeseca.",
+        "ua": "Підготовка була довга, а період навчання майже два місяці.",
+        "audio": "hr-les56-reading-02.mp3"
+      },
+      {
+        "text": "Najveća briga mi je slušanje.",
+        "ua": "Найбільший клопіт для мене слухання.",
+        "audio": "hr-les56-reading-03.mp3"
+      },
+      {
+        "text": "Rezultat ovisi o tome koliko sam učila.",
+        "ua": "Результат залежить від того, скільки я вчила.",
+        "audio": "hr-les56-reading-04.mp3"
+      },
+      {
+        "text": "Uzrok mojih pogrešaka su često klitici.",
+        "ua": "Причина моїх помилок часто клітики.",
+        "audio": "hr-les56-reading-05.mp3"
+      },
+      {
+        "text": "Zato svaki dan ponavljam ovu vrstu rečenica.",
+        "ua": "Тому щодня повторюю цей вид речень.",
+        "audio": "hr-les56-reading-06.mp3"
+      },
+      {
+        "text": "To je koristan trening.",
+        "ua": "Це корисне тренування.",
+        "audio": "hr-les56-reading-07.mp3"
+      },
+      {
+        "text": "Dosad sam napisala nekoliko pisama.",
+        "ua": "Досі я написала кілька листів.",
+        "audio": "hr-les56-reading-08.mp3"
+      },
+      {
+        "text": "Osobito sam zadovoljna jednim.",
+        "ua": "Особливо задоволена одним.",
+        "audio": "hr-les56-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Причина відома.",
+          "accepted": [
+            "Uzrok je poznat."
+          ]
+        },
+        {
+          "prompt": "Наслідок невеликий.",
+          "accepted": [
+            "Posljedica je mala."
+          ]
+        },
+        {
+          "prompt": "Цей період короткий.",
+          "accepted": [
+            "Ovo razdoblje je kratko.",
+            "Ovo je razdoblje kratko."
+          ]
+        },
+        {
+          "prompt": "Який це вид сиру?",
+          "accepted": [
+            "Koja je ovo vrsta sira?",
+            "Koja je to vrsta sira?"
+          ]
+        },
+        {
+          "prompt": "Ця територія велика.",
+          "accepted": [
+            "Ovo područje je veliko."
+          ]
+        },
+        {
+          "prompt": "Користі немає.",
+          "accepted": [
+            "Nema koristi."
+          ]
+        },
+        {
+          "prompt": "Шкода велика.",
+          "accepted": [
+            "Šteta je velika."
+          ]
+        },
+        {
+          "prompt": "Витрати невеликі.",
+          "accepted": [
+            "Troškovi nisu veliki."
+          ]
+        },
+        {
+          "prompt": "Мій син це мій клопіт.",
+          "accepted": [
+            "Moj sin je moja briga."
+          ]
+        },
+        {
+          "prompt": "Це залежить від ціни.",
+          "accepted": [
+            "To ovisi o cijeni."
+          ]
+        },
+        {
+          "prompt": "Мені бракує будинку.",
+          "accepted": [
+            "Nedostaje mi kuća."
+          ]
+        },
+        {
+          "prompt": "Вона відрізняється від сестри.",
+          "accepted": [
+            "Ona se razlikuje od sestre."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "Uzrok",
+        "posljedica",
+        "razdoblje",
+        "vrstu",
+        "koristi",
+        "štetu",
+        "trošak",
+        "brigu",
+        "ovisi",
+        "nedostaje",
+        "slična",
+        "Moguće"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ kvara je mali dio.",
+          "hint": "Причина поломки це маленька деталь.",
+          "accepted": [
+            [
+              "Uzrok"
+            ]
+          ]
+        },
+        {
+          "text": "Velika ___ je kašnjenje.",
+          "hint": "Великий наслідок це запізнення.",
+          "accepted": [
+            [
+              "posljedica"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo ___ traje do lipnja.",
+          "hint": "Цей період триває до червня.",
+          "accepted": [
+            [
+              "razdoblje"
+            ]
+          ]
+        },
+        {
+          "text": "Koju ___ kave pijete?",
+          "hint": "Який сорт кави ви п'єте?",
+          "accepted": [
+            [
+              "vrstu"
+            ]
+          ]
+        },
+        {
+          "text": "Od toga nema ___.",
+          "hint": "Від цього немає користі.",
+          "accepted": [
+            [
+              "koristi"
+            ]
+          ]
+        },
+        {
+          "text": "Kiša je napravila ___.",
+          "hint": "Дощ завдав шкоди.",
+          "accepted": [
+            [
+              "štetu"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ je prevelik.",
+          "hint": "Та витрата завелика.",
+          "accepted": [
+            [
+              "trošak"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ima veliku ___.",
+          "hint": "У мами великий клопіт.",
+          "accepted": [
+            [
+              "brigu"
+            ]
+          ]
+        },
+        {
+          "text": "To ___ o cijeni.",
+          "hint": "Це залежить від ціни.",
+          "accepted": [
+            [
+              "ovisi"
+            ]
+          ]
+        },
+        {
+          "text": "Svaki dan mi ___ dom.",
+          "hint": "Щодня мені бракує дому.",
+          "accepted": [
+            [
+              "nedostaje"
+            ]
+          ]
+        },
+        {
+          "text": "Ona je ___ sestri.",
+          "hint": "Вона схожа на сестру.",
+          "accepted": [
+            [
+              "slična"
+            ]
+          ]
+        },
+        {
+          "text": "___ je da dođe sutra.",
+          "hint": "Можливо, що він прийде завтра.",
+          "accepted": [
+            [
+              "Moguće",
+              "moguće"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "причина (що спричинило)",
+          "answer": "uzrok"
+        },
+        {
+          "prompt": "наслідок",
+          "answer": "posljedica"
+        },
+        {
+          "prompt": "період",
+          "answer": "razdoblje"
+        },
+        {
+          "prompt": "вид, сорт",
+          "answer": "vrsta"
+        },
+        {
+          "prompt": "територія, галузь",
+          "answer": "područje"
+        },
+        {
+          "prompt": "користь",
+          "answer": "korist"
+        },
+        {
+          "prompt": "шкода, збиток",
+          "answer": "šteta"
+        },
+        {
+          "prompt": "витрата",
+          "answer": "trošak"
+        },
+        {
+          "prompt": "клопіт, турбота",
+          "answer": "briga"
+        },
+        {
+          "prompt": "схожий",
+          "answer": "sličan"
+        },
+        {
+          "prompt": "різний",
+          "answer": "različit"
+        },
+        {
+          "prompt": "можливий",
+          "answer": "moguć"
+        },
+        {
+          "prompt": "корисний",
+          "answer": "koristan"
+        },
+        {
+          "prompt": "майже",
+          "answer": "gotovo"
+        }
+      ],
+      "extra": [
+        "osobito",
+        "dosad"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 12,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "test": true,
+      "type": "listening",
+      "instruction_ua": "ТЕСТ. Послухай розмову двох людей і дай відповіді. Правильні відповіді не показуються.",
+      "audio": "hr-les-56-library.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Dobar dan, ovdje knjižnica. Izvolite."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Dobar dan. Zovem zbog radionice za djecu."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Radionica je u subotu u deset sati."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Je li radionica besplatna?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Jest. Ako budete kasnili, nazovite nas."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Imam dvoje djece. Mogu li doći s njima?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Naravno. Dječaci i djevojčice mogu sudjelovati."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Hvala. Čim stignem, javit ću se."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "У який день майстер-клас? (день)",
+          "accepted": [
+            "subota",
+            "u subotu",
+            "subotu"
+          ]
+        },
+        {
+          "prompt": "О котрій годині? (число)",
+          "accepted": [
+            "deset",
+            "10",
+            "u deset",
+            "u deset sati",
+            "u 10 sati"
+          ]
+        },
+        {
+          "prompt": "Майстер-клас безкоштовний.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Скільки дітей має жінка?",
+          "choices": [
+            "Двоє",
+            "Троє",
+            "Четверо"
+          ],
+          "accepted": [
+            "Двоє"
+          ]
+        },
+        {
+          "prompt": "Діти не можуть брати участь.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "comprehension",
+      "instruction_ua": "ТЕСТ. Прочитай текст і дай відповіді. Правильні відповіді не показуються.",
+      "audio": "hr-les-56-trip.mp3",
+      "passage": {
+        "title": "Putovanje s dvoje djece",
+        "paragraphs": [
+          "Prošli petak smo putovali vlakom na more. Imamo dvoje djece, dječaka i djevojčicu, pa smo imali mnogo prtljage. Vlak je kasnio dvadeset minuta, ali je bio izravan.",
+          "Kad smo stigli, hotel je bio zatvoren. Nazvala sam hotel, ali je linija bila zauzeta. Zato sam napisala e-poštu i ostavila poruku. Upravo tada je došao čovjek koji je radio u hotelu i otvorio vrata.",
+          "Ujak mojeg muža živi blizu mora i čuvao je djecu navečer. Ukupno smo bili tri dana na moru. Unatoč kiši, djeca su bila sretna. Zahvalna sam ujaku na pomoći."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "На скільки хвилин запізнився поїзд? (число)",
+          "accepted": [
+            "dvadeset",
+            "20",
+            "dvadeset minuta",
+            "20 minuta"
+          ]
+        },
+        {
+          "prompt": "Поїзд був прямий.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Яким був готель, коли вони приїхали? (одне слово)",
+          "accepted": [
+            "zatvoren",
+            "zatvorena"
+          ]
+        },
+        {
+          "prompt": "Лінія готелю була вільна.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Хто доглядав дітей увечері? (одне слово)",
+          "accepted": [
+            "ujak",
+            "ujak mojeg muža"
+          ]
+        },
+        {
+          "prompt": "Скільки днів вони були на морі?",
+          "choices": [
+            "Два",
+            "Три",
+            "П'ять"
+          ],
+          "accepted": [
+            "Три"
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "translate",
+      "instruction_ua": "ТЕСТ. Переклади хорватською. Підказок немає, правильні відповіді не показуються. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій телефон зламався.",
+          "accepted": [
+            "Moj mobitel se pokvario.",
+            "Moj se mobitel pokvario.",
+            "Moj telefon se pokvario."
+          ]
+        },
+        {
+          "prompt": "Щойно майстер прийде, я вам зателефоную.",
+          "accepted": [
+            "Čim majstor dođe, nazvat ću vas.",
+            "Čim majstor dođe, nazvat ću Vas."
+          ]
+        },
+        {
+          "prompt": "Поїзд запізнюється на двадцять хвилин.",
+          "accepted": [
+            "Vlak kasni dvadeset minuta."
+          ]
+        },
+        {
+          "prompt": "Коли я буду на вокзалі, куплю квиток.",
+          "accepted": [
+            "Kad budem na kolodvoru, kupit ću kartu."
+          ]
+        },
+        {
+          "prompt": "Бібліотека, у якій я працюю, нова.",
+          "accepted": [
+            "Knjižnica u kojoj radim je nova.",
+            "Knjižnica, u kojoj radim, je nova."
+          ]
+        },
+        {
+          "prompt": "Чий це пристрій?",
+          "accepted": [
+            "Čiji je ovo uređaj?",
+            "Čiji je to uređaj?",
+            "Čiji je ovaj uređaj?",
+            "Čiji je taj uređaj?"
+          ]
+        },
+        {
+          "prompt": "Прошу вас надіслати програму.",
+          "accepted": [
+            "Molim Vas da pošaljete program.",
+            "Molim vas da pošaljete program."
+          ]
+        },
+        {
+          "prompt": "У нас двоє дітей і троє племінників.",
+          "accepted": [
+            "Imamo dvoje djece i troje nećaka."
+          ]
+        },
+        {
+          "prompt": "Мій дядько по батьку живе в Загребі.",
+          "accepted": [
+            "Moj stric živi u Zagrebu."
+          ]
+        },
+        {
+          "prompt": "Йдучи додому, він купує хліб.",
+          "accepted": [
+            "Idući kući, kupuje kruh.",
+            "Idući kući, on kupuje kruh."
+          ]
+        },
+        {
+          "prompt": "За повідомленням об'єднання, майстер-клас безкоштовний.",
+          "accepted": [
+            "Prema priopćenju udruge, radionica je besplatna."
+          ]
+        },
+        {
+          "prompt": "Нещодавно я спробувала зателефонувати.",
+          "accepted": [
+            "Nedavno sam pokušala nazvati.",
+            "Nedavno sam pokušao nazvati."
+          ]
+        },
+        {
+          "prompt": "Він продовжив працювати.",
+          "accepted": [
+            "Nastavio je raditi."
+          ]
+        },
+        {
+          "prompt": "У кожному разі я прийду.",
+          "accepted": [
+            "U svakom slučaju ću doći.",
+            "U svakom slučaju doći ću."
+          ]
+        },
+        {
+          "prompt": "Мені не вдалося запам'ятати це слово.",
+          "accepted": [
+            "Nisam uspjela zapamtiti ovu riječ.",
+            "Nisam uspio zapamtiti ovu riječ.",
+            "Nisam uspjela zapamtiti tu riječ.",
+            "Nisam uspio zapamtiti tu riječ."
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "gaps",
+      "instruction_ua": "ТЕСТ. Встав потрібне слово в потрібній формі. Списку слів нема, правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "text": "Zovem ___ narudžbe.",
+          "hint": "Дзвоню через замовлення.",
+          "accepted": [
+            [
+              "zbog"
+            ]
+          ]
+        },
+        {
+          "text": "Perilica je u ___.",
+          "hint": "Пральна машина в сервісі.",
+          "accepted": [
+            [
+              "servisu"
+            ]
+          ]
+        },
+        {
+          "text": "Dostavite paket ___ do petka.",
+          "hint": "Доставте пакет не пізніше п'ятниці.",
+          "accepted": [
+            [
+              "najkasnije"
+            ]
+          ]
+        },
+        {
+          "text": "Žalim se ___ dostavu.",
+          "hint": "Я скаржуся на доставку.",
+          "accepted": [
+            [
+              "na"
+            ]
+          ]
+        },
+        {
+          "text": "Idem ___ majstoru.",
+          "hint": "Йду до майстра.",
+          "accepted": [
+            [
+              "k"
+            ]
+          ]
+        },
+        {
+          "text": "Molimo putnike ___ čekaju na peronu.",
+          "hint": "Просимо пасажирів чекати на пероні.",
+          "accepted": [
+            [
+              "da"
+            ]
+          ]
+        },
+        {
+          "text": "Vlak će ___ kasniti.",
+          "hint": "Поїзд, мабуть, запізниться.",
+          "accepted": [
+            [
+              "vjerojatno"
+            ]
+          ]
+        },
+        {
+          "text": "Ako ___ kasnila, javit ću ti.",
+          "hint": "Якщо я буду запізнюватися, дам тобі знати.",
+          "accepted": [
+            [
+              "budem"
+            ]
+          ]
+        },
+        {
+          "text": "Knjižnica ___ radim je nova.",
+          "hint": "Бібліотека, в якій я працюю, нова.",
+          "accepted": [
+            [
+              "u kojoj"
+            ]
+          ]
+        },
+        {
+          "text": "Žena ___ sin radi ovdje je moja susjeda.",
+          "hint": "Жінка, чий син працює тут, моя сусідка.",
+          "accepted": [
+            [
+              "čiji"
+            ]
+          ]
+        },
+        {
+          "text": "Stoga ___ molim da odgovorite.",
+          "hint": "Тому прошу вас відповісти.",
+          "accepted": [
+            [
+              "Vas",
+              "vas"
+            ]
+          ]
+        },
+        {
+          "text": "Imamo ___ djece.",
+          "hint": "У нас четверо дітей.",
+          "accepted": [
+            [
+              "četvero"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je brat mog oca.",
+          "hint": "Мій дядько по батьку брат мого тата.",
+          "accepted": [
+            [
+              "stric"
+            ]
+          ]
+        },
+        {
+          "text": "Prema ___ udruge program počinje u deset.",
+          "hint": "За повідомленням об'єднання, програма починається о десятій.",
+          "accepted": [
+            [
+              "priopćenju"
+            ]
+          ]
+        },
+        {
+          "text": "Unatoč ___ idemo u park.",
+          "hint": "Попри дощ, ми йдемо в парк.",
+          "accepted": [
+            [
+              "kiši"
+            ]
+          ]
+        },
+        {
+          "text": "Moram ___ svoj tekst.",
+          "hint": "Мушу покращити свій текст.",
+          "accepted": [
+            [
+              "poboljšati"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "transform",
+      "instruction_ua": "ТЕСТ. Перетвори речення, як показує стрілка, або виправ помилку. Правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Idem u majstor.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Idem k majstoru.",
+            "Idem kod majstora."
+          ]
+        },
+        {
+          "prompt": "Biste mogli li poslati program?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Biste li mogli poslati program?"
+          ]
+        },
+        {
+          "prompt": "Ako ću kasniti, javit ću se.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ako budem kasnila, javit ću se.",
+            "Ako budem kasnio, javit ću se."
+          ]
+        },
+        {
+          "prompt": "Imam dva djece.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam dvoje djece."
+          ]
+        },
+        {
+          "prompt": "Igralište na koje se igraju djeca je novo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Igralište na kojem se igraju djeca je novo."
+          ]
+        },
+        {
+          "prompt": "Čitavši članak, ona piše komentar.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čitajući članak, ona piše komentar."
+          ]
+        },
+        {
+          "prompt": "Zatvorena most je blizu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zatvoren most je blizu."
+          ]
+        },
+        {
+          "prompt": "Nastavila je napisati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nastavila je pisati."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam kod kuće.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam kod kuće.",
+            "Ja sam danas kod kuće."
+          ]
+        },
+        {
+          "prompt": "Mi kontaktiram firmu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi kontaktiramo firmu.",
+            "Kontaktiramo firmu."
+          ]
+        },
+        {
+          "prompt": "Poštovani direktor, hvala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovani direktore, hvala."
+          ]
+        },
+        {
+          "prompt": "Kupac čeka.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Kupci čekaju."
+          ]
+        },
+        {
+          "prompt": "Beba spava.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Spava li beba?"
+          ]
+        },
+        {
+          "prompt": "Vlak kasni.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Vlak ne kasni."
+          ]
+        },
+        {
+          "prompt": "Stric radi u gradu.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Stric je radio u gradu.",
+            "Stric je radio u gradu"
+          ]
+        },
+        {
+          "prompt": "Čitam članak i pijem kavu.",
+          "cue": "-> Čitajući ...",
+          "accepted": [
+            "Čitajući članak, pijem kavu."
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "gaps",
+      "instruction_ua": "ТЕСТ. Постав дієслово в потрібній формі: значення видно з українського речення, інших підказок нема. Правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "text": "Majstor ___ dio svaki put.",
+          "hint": "Майстер щоразу замінює деталь.",
+          "accepted": [
+            [
+              "zamjenjuje"
+            ]
+          ]
+        },
+        {
+          "text": "Ja svaki dan ___ poruku.",
+          "hint": "Я щодня залишаю повідомлення.",
+          "accepted": [
+            [
+              "ostavljam"
+            ]
+          ]
+        },
+        {
+          "text": "Oni su ___ nove radnike.",
+          "hint": "Вони прийняли нових працівників.",
+          "accepted": [
+            [
+              "primili"
+            ]
+          ]
+        },
+        {
+          "text": "Moj sin brzo ___.",
+          "hint": "Мій син швидко росте.",
+          "accepted": [
+            [
+              "odrasta"
+            ]
+          ]
+        },
+        {
+          "text": "Ona je ___ u malom gradu.",
+          "hint": "Вона виросла в маленькому місті.",
+          "accepted": [
+            [
+              "odrasla"
+            ]
+          ]
+        },
+        {
+          "text": "Jučer sam ___ vlak.",
+          "hint": "Вчора я пропустила поїзд.",
+          "accepted": [
+            [
+              "propustila",
+              "propustio"
+            ]
+          ]
+        },
+        {
+          "text": "Gosti ___ u subotu.",
+          "hint": "Гості приїжджають у суботу.",
+          "accepted": [
+            [
+              "stižu"
+            ]
+          ]
+        },
+        {
+          "text": "Mi ___ djecu zajedno.",
+          "hint": "Ми доглядаємо дітей разом.",
+          "accepted": [
+            [
+              "čuvamo"
+            ]
+          ]
+        },
+        {
+          "text": "Udruga ___ izložbu.",
+          "hint": "Об'єднання організовує виставку.",
+          "accepted": [
+            [
+              "organizira"
+            ]
+          ]
+        },
+        {
+          "text": "Oni ___ u programu.",
+          "hint": "Вони беруть участь у програмі.",
+          "accepted": [
+            [
+              "sudjeluju"
+            ]
+          ]
+        },
+        {
+          "text": "On je dobro ___ dijete.",
+          "hint": "Він добре виховав дитину.",
+          "accepted": [
+            [
+              "odgojio"
+            ]
+          ]
+        },
+        {
+          "text": "Ja svaki dan ___ svoj hrvatski.",
+          "hint": "Я щодня покращую свою хорватську.",
+          "accepted": [
+            [
+              "poboljšavam"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "test": true,
+      "type": "matching",
+      "instruction_ua": "ТЕСТ. З'єднай українське слово з хорватським. Два хорватські слова зайві. Правильні відповіді не показуються.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "розум (не пам'ять)",
+          "answer": "pamet"
+        },
+        {
+          "prompt": "установа (не завод)",
+          "answer": "zavod"
+        },
+        {
+          "prompt": "замок (не вокзал)",
+          "answer": "dvorac"
+        },
+        {
+          "prompt": "диявол (не ворог)",
+          "answer": "vrag"
+        },
+        {
+          "prompt": "град, опади (не хмара)",
+          "answer": "tuča"
+        },
+        {
+          "prompt": "зернові (не жито)",
+          "answer": "žito"
+        },
+        {
+          "prompt": "гармонія (не склад)",
+          "answer": "sklad"
+        },
+        {
+          "prompt": "поломка",
+          "answer": "kvar"
+        },
+        {
+          "prompt": "рекламація",
+          "answer": "reklamacija"
+        },
+        {
+          "prompt": "перон",
+          "answer": "peron"
+        },
+        {
+          "prompt": "відправлення",
+          "answer": "polazak"
+        },
+        {
+          "prompt": "дядько по батьку",
+          "answer": "stric"
+        },
+        {
+          "prompt": "дядько по матері",
+          "answer": "ujak"
+        },
+        {
+          "prompt": "район міста",
+          "answer": "kvart"
+        },
+        {
+          "prompt": "виставка",
+          "answer": "izložba"
+        },
+        {
+          "prompt": "повідомлення для преси",
+          "answer": "priopćenje"
+        }
+      ],
+      "extra": [
+        "majstor",
+        "porast"
+      ]
+    },
+    {
+      "test": true,
+      "type": "dictation",
+      "instruction_ua": "ТЕСТ. Послухай і напиши слово (з діакритикою). Правильні відповіді не показуються.",
+      "words": [
+        "reklamacija",
+        "jamstvo",
+        "kolosijek",
+        "odredište",
+        "knjižnica",
+        "udruga",
+        "tajništvo",
+        "pojašnjenje",
+        "nećak",
+        "odgajateljica",
+        "priopćenje",
+        "istraživanje",
+        "uspjeh",
+        "navika"
+      ],
+      "max": 14,
+      "check": "Слова з Lekcija 49-55; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

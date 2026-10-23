@@ -1,0 +1,1750 @@
+{
+  "id": "hr-les-55",
+  "lang": "hr",
+  "order": 55,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "nedavno",
+    "sam",
+    "počela",
+    "učiti",
+    "hrvatski",
+    "svaki",
+    "dan",
+    "pokušavam",
+    "naučiti",
+    "deset",
+    "novih",
+    "riječi",
+    "prvih",
+    "dana",
+    "nisam",
+    "uspijevala",
+    "zapamtiti",
+    "ni",
+    "pet",
+    "ali",
+    "nastavila",
+    "jer",
+    "je",
+    "moja",
+    "navika",
+    "sada",
+    "upravo",
+    "vidim",
+    "veliku",
+    "razliku",
+    "čak",
+    "i",
+    "moj",
+    "brat",
+    "kaže",
+    "da",
+    "pametna",
+    "to",
+    "dobra",
+    "prilika",
+    "poboljšam",
+    "svoj",
+    "govor",
+    "neću",
+    "prestati",
+    "učenje",
+    "jezika",
+    "dug",
+    "put",
+    "svatko",
+    "može",
+    "najvažnija",
+    "bolje",
+    "petnaest",
+    "minuta",
+    "nego",
+    "tri",
+    "sata",
+    "jednom",
+    "tjedno",
+    "prvi",
+    "savjet",
+    "pokušajte",
+    "govoriti",
+    "od",
+    "prvog",
+    "mnogi",
+    "ljudi",
+    "čekaju",
+    "misle",
+    "još",
+    "ne",
+    "znaju",
+    "dosta",
+    "mala",
+    "rečenica",
+    "drugi",
+    "tražite",
+    "razgovor",
+    "prijateljem",
+    "tržnici",
+    "kafiću",
+    "velika",
+    "tako",
+    "se",
+    "poboljšava",
+    "treći",
+    "pišite",
+    "bilješke",
+    "nove",
+    "ponavljajte",
+    "ih",
+    "istraživanje",
+    "pokazuje",
+    "pamtimo",
+    "više",
+    "četvrti",
+    "bojte",
+    "pogrešaka",
+    "svaka",
+    "pogreška",
+    "naučite",
+    "nešto",
+    "novo",
+    "ako",
+    "prestanete",
+    "nećete",
+    "imati",
+    "napredak",
+    "peti",
+    "nastavite",
+    "kad",
+    "teško",
+    "svakom",
+    "slučaju",
+    "promjena",
+    "dolazi",
+    "odmah",
+    "nekoliko",
+    "mjeseci",
+    "razlika",
+    "pametan",
+    "učenik",
+    "drugih",
+    "kako",
+    "ide",
+    "dobro",
+    "čitati",
+    "uspijevaš",
+    "li",
+    "uvijek",
+    "imaš",
+    "priliku",
+    "sutra",
+    "imam",
+    "kolegicom",
+    "znam",
+    "riječ",
+    "pomaže",
+    "ovaj",
+    "ova",
+    "ovo",
+    "taj",
+    "ta",
+    "mali",
+    "veliki",
+    "velik",
+    "zanimljivu",
+    "bili",
+    "kazalištu",
+    "cijeni",
+    "plan",
+    "planu",
+    "servisu",
+    "bolji",
+    "bolja",
+    "ovdje",
+    "šalteru",
+    "čeka",
+    "radi",
+    "radim",
+    "uči",
+    "ona",
+    "ja",
+    "ti",
+    "mi",
+    "pisma",
+    "pisati",
+    "pišem",
+    "počinjem",
+    "ranije",
+    "kvaliteti",
+    "čitanje",
+    "jako",
+    "e-poštu",
+    "nismo",
+    "uspjele"
+  ],
+  "notes": [
+    {
+      "id": "hr-6004f60c",
+      "type": "noun",
+      "lemma": "razlika",
+      "gender": "ž.",
+      "gen_sg": "razlike",
+      "plural": [
+        "razlike"
+      ],
+      "ua": "різниця",
+      "audio": "hr-razlika.mp3",
+      "forms": [
+        "razlike",
+        "razliku",
+        "razlici",
+        "razlikom",
+        "razlika"
+      ],
+      "explain_ua": "(Razlika je mala = різниця невелика). УВАГА ДО ВСЬОГО УРОКУ: це слова, які трапляються в мові дуже часто, а ситуації й речення вигадані. Жіночий рід на -a: razlika, razlike, razliku (знахідний), у razlici (k > c). Razlika u cijeni = різниця в ціні (u + місцевий). Родовий множини razlika. Українське «різниця» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-1a43e95e",
+      "type": "noun",
+      "lemma": "mogućnost",
+      "gender": "ž.",
+      "gen_sg": "mogućnosti",
+      "plural": [
+        "mogućnosti"
+      ],
+      "ua": "можливість",
+      "audio": "hr-mogucnost.mp3",
+      "forms": [
+        "mogućnosti",
+        "mogućnošću"
+      ],
+      "explain_ua": "(To je dobra mogućnost = це хороша можливість). Жіночий рід на приголосний (i-основа, як riječ): mogućnost, mogućnosti, у знахідному mogućnost. Mogućnost da + теперішній або + інфінітив: imam mogućnost da putujem. Від moći (Lekcija 6): підказка для пам'яті. Українське «можливість» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання; mogućnost + інфінітив чи da, обидва, з мого знання."
+    },
+    {
+      "id": "hr-e6786ab8",
+      "type": "noun",
+      "lemma": "potreba",
+      "gender": "ž.",
+      "gen_sg": "potrebe",
+      "plural": [
+        "potrebe"
+      ],
+      "ua": "потреба",
+      "audio": "hr-potreba.mp3",
+      "forms": [
+        "potrebe",
+        "potrebu",
+        "potrebi",
+        "potrebom"
+      ],
+      "explain_ua": "(Potreba je velika = потреба велика). Жіночий рід на -a: potreba, potrebe, potrebu (знахідний). Imam potrebu = маю потребу. Від trebati (Lekcija 13): підказка для пам'яті. Українське «потреба» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-17a49208",
+      "type": "noun",
+      "lemma": "prilika",
+      "gender": "ž.",
+      "gen_sg": "prilike",
+      "plural": [
+        "prilike"
+      ],
+      "ua": "нагода, можливість",
+      "audio": "hr-prilika.mp3",
+      "forms": [
+        "prilike",
+        "priliku",
+        "prilici",
+        "prilikom"
+      ],
+      "explain_ua": "(To je dobra prilika = це хороша нагода). Жіночий рід на -a: prilika, prilike, priliku (знахідний), u prilici (k > c). Imati priliku + інфінітив = мати нагоду. Не плутай з українським «прилика» (слово майже не вживається): це підказка для пам'яті, не з перевіреної таблиці. Prilikom + родовий = під час (check).",
+      "check": "Форми з мого знання; prilikom та зауваження про українську з мого знання."
+    },
+    {
+      "id": "hr-36fefa3a",
+      "type": "noun",
+      "lemma": "slučaj",
+      "gender": "m.",
+      "gen_sg": "slučaja",
+      "plural": [
+        "slučajevi"
+      ],
+      "ua": "випадок",
+      "audio": "hr-slucaj.mp3",
+      "forms": [
+        "slučaja",
+        "slučaju",
+        "slučajevi",
+        "slučajeve",
+        "slučajem"
+      ],
+      "explain_ua": "(U tom slučaju ne dolazim = у такому разі не приходжу). Чоловічого роду: slučaj, slučaja, множина slučajevi (-ev- після j). Вислови: u tom slučaju, u svakom slučaju, u ovom slučaju. Українське «випадок» інше слово.",
+      "check": "Форми з мого знання; множина slučajevi з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-735f2914",
+      "type": "noun",
+      "lemma": "promjena",
+      "gender": "ž.",
+      "gen_sg": "promjene",
+      "plural": [
+        "promjene"
+      ],
+      "ua": "зміна",
+      "audio": "hr-promjena.mp3",
+      "forms": [
+        "promjene",
+        "promjenu",
+        "promjeni",
+        "promjenom"
+      ],
+      "explain_ua": "(Promjena nije velika = зміна невелика). Жіночий рід на -a: promjena, promjene, promjenu (знахідний), родовий множини promjena. Пиши je: promjena. Українське «зміна» інше слово (робоча зміна смjena, Lekcija 26).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-d385ef62",
+      "type": "noun",
+      "lemma": "navika",
+      "gender": "ž.",
+      "gen_sg": "navike",
+      "plural": [
+        "navike"
+      ],
+      "ua": "звичка",
+      "audio": "hr-navika.mp3",
+      "forms": [
+        "navike",
+        "naviku",
+        "navici",
+        "navikom",
+        "navika"
+      ],
+      "explain_ua": "(To je moja navika = це моя звичка). Жіночий рід на -a: navika, navike, naviku (знахідний), u navici (k > c). Родовий множини navika. Українське «звичка» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2302c94c",
+      "type": "noun",
+      "lemma": "uspjeh",
+      "gender": "m.",
+      "gen_sg": "uspjeha",
+      "plural": [
+        "uspjesi"
+      ],
+      "ua": "успіх",
+      "audio": "hr-uspjeh.mp3",
+      "forms": [
+        "uspjeha",
+        "uspjehu",
+        "uspjesi",
+        "uspjehom"
+      ],
+      "explain_ua": "(Uspjeh je velik = успіх великий). Чоловічого роду: uspjeh, uspjeha, uspjehu. Множина uspjesi (h > s), рідко. Пиши ije > je: uspjeh. Слово з Lekcija 48, де його довелося відкласти. Українське «успіх» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання; множину uspjesi звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-a28ad5ae",
+      "type": "noun",
+      "lemma": "uređaj",
+      "gender": "m.",
+      "gen_sg": "uređaja",
+      "plural": [
+        "uređaji"
+      ],
+      "ua": "пристрій, прилад",
+      "audio": "hr-uredaj.mp3",
+      "forms": [
+        "uređaja",
+        "uređaju",
+        "uređaji",
+        "uređaje",
+        "uređajem"
+      ],
+      "explain_ua": "(Uređaj je pokvaren = пристрій зламаний). Чоловічого роду: uređaj, uređaja, uređaji. Слово з Lekcija 49. Пиши đ: uređaj. Від urediti (Lekcija 51): підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-95486600",
+      "type": "noun",
+      "lemma": "usluga",
+      "gender": "ž.",
+      "gen_sg": "usluge",
+      "plural": [
+        "usluge"
+      ],
+      "ua": "послуга, обслуговування",
+      "audio": "hr-usluga.mp3",
+      "forms": [
+        "usluge",
+        "uslugu",
+        "usluzi",
+        "uslugom"
+      ],
+      "explain_ua": "(Usluga je dobra = обслуговування хороше). Жіночий рід на -a: usluga, usluge, uslugu (знахідний), u usluzi (g > z). Слово з Lekcija 49. Українське «послуга» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-7ddc8422",
+      "type": "noun",
+      "lemma": "kupac",
+      "gender": "m.",
+      "gen_sg": "kupca",
+      "plural": [
+        "kupci"
+      ],
+      "ua": "покупець",
+      "audio": "hr-kupac.mp3",
+      "forms": [
+        "kupca",
+        "kupcu",
+        "kupci",
+        "kupce",
+        "kupcem"
+      ],
+      "explain_ua": "(Kupac čeka = покупець чекає). Чоловічого роду, нестійке a (Lekcija 16): kupac, kupca, kupci. Знахідний живого збігається з родовим: čekam kupca. Слово з Lekcija 49. Від kupovati (Lekcija 1).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-dd1f0d9f",
+      "type": "noun",
+      "lemma": "snaga",
+      "gender": "ž.",
+      "gen_sg": "snage",
+      "plural": [
+        "snage"
+      ],
+      "ua": "сила, сильна риса",
+      "audio": "hr-snaga.mp3",
+      "forms": [
+        "snage",
+        "snagu",
+        "snazi",
+        "snagom"
+      ],
+      "explain_ua": "(Snaga je u timu = сила в команді). Жіночий рід на -a: snaga, snage, snagu (знахідний), u snazi (g > z). Парне слово до slabost (Lekcija 47, відкладене). Моє snage i slabosti = мої сильні й слабкі сторони. Українське «сила» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f1374716",
+      "type": "verb",
+      "lemma": "postati",
+      "aspect": "pf.",
+      "partner": "postajati",
+      "pres_1sg": "postanem",
+      "forms": [
+        "postanem",
+        "postaneš",
+        "postane",
+        "postanemo",
+        "postanete",
+        "postanu",
+        "postao",
+        "postala",
+        "postali",
+        "postajati",
+        "postajem",
+        "postaješ",
+        "postaje",
+        "postajemo",
+        "postajete",
+        "postaju"
+      ],
+      "ua": "стати (недок. postajati)",
+      "audio": "hr-postati.mp3",
+      "explain_ua": "(Ona postaje samostalna = вона стає самостійною). Пара: postati (док.) / postajati (недок.): postanem / postajem. Минулий postao, postala, postali. Після нього називний: postala je pametna; рідше орудний (postala je liječnicom, check). Українське «стати» інше слово.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (postanem, postao). Називний чи орудний після postati, звірити з граматикою."
+    },
+    {
+      "id": "hr-f691066e",
+      "type": "verb",
+      "lemma": "pokušati",
+      "aspect": "pf.",
+      "partner": "pokušavati",
+      "pres_1sg": "pokušam",
+      "forms": [
+        "pokušam",
+        "pokušaš",
+        "pokuša",
+        "pokušamo",
+        "pokušate",
+        "pokušaju",
+        "pokušala",
+        "pokušali",
+        "pokušao",
+        "pokušavati",
+        "pokušavam",
+        "pokušavaš",
+        "pokušava",
+        "pokušavamo",
+        "pokušavate",
+        "pokušavaju"
+      ],
+      "ua": "спробувати (недок. pokušavati)",
+      "audio": "hr-pokusati.mp3",
+      "explain_ua": "(Pokušavam svaki dan = пробую щодня). Пара: pokušati (док.) / pokušavati (недок.): pokušam / pokušavam. Після нього інфінітив: pokušala sam nazvati. Док. для однієї спроби, недок. для повторюваних спроб.",
+      "check": "Пару та форми з мого знання."
+    },
+    {
+      "id": "hr-6e95fb11",
+      "type": "verb",
+      "lemma": "uspjeti",
+      "aspect": "pf.",
+      "partner": "uspijevati",
+      "pres_1sg": "uspijem",
+      "forms": [
+        "uspijem",
+        "uspiješ",
+        "uspije",
+        "uspijemo",
+        "uspijete",
+        "uspiju",
+        "uspio",
+        "uspjela",
+        "uspjeli",
+        "uspijevati",
+        "uspijevam",
+        "uspijevaš",
+        "uspijeva",
+        "uspijevamo",
+        "uspijevate",
+        "uspijevaju"
+      ],
+      "ua": "вдатися, встигнути (недок. uspijevati)",
+      "audio": "hr-uspjeti.mp3",
+      "explain_ua": "(Uspijevam doći na vrijeme = встигаю прийти вчасно). Пара: uspjeti (док.) / uspijevati (недок.): uspijem / uspijevam, ije у теперішньому, je у минулому (uspio, uspjela). Після нього інфінітив: nisam uspjela doći. Після uspjeti ставимо доконаний інфінітив (doći), після uspijevati недоконаний (check). Родина uspjeh (вище).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (uspio, uspjela). Вид інфінітива після uspjeti звірити з граматикою."
+    },
+    {
+      "id": "hr-2ba3aad9",
+      "type": "verb",
+      "lemma": "nastaviti",
+      "aspect": "pf.",
+      "partner": "nastavljati",
+      "pres_1sg": "nastavim",
+      "forms": [
+        "nastavim",
+        "nastaviš",
+        "nastavi",
+        "nastavimo",
+        "nastavite",
+        "nastave",
+        "nastavila",
+        "nastavili",
+        "nastavio",
+        "nastavljati",
+        "nastavljam",
+        "nastavljaš",
+        "nastavlja",
+        "nastavljamo",
+        "nastavljate",
+        "nastavljaju",
+        "nastavit"
+      ],
+      "ua": "продовжити (недок. nastavljati)",
+      "audio": "hr-nastaviti.mp3",
+      "explain_ua": "(Nastavljamo razgovor = продовжуємо розмову). Пара: nastaviti (док.) / nastavljati (недок.): nastavim / nastavljam, v > vlj. Після нього недоконаний інфінітив: nastavila je učiti, не «nastavila je naučiti». Наказ: nastavite!",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (v > vlj). Недоконаний інфінітив після nastaviti з мого знання."
+    },
+    {
+      "id": "hr-97bb85f9",
+      "type": "verb",
+      "lemma": "prestati",
+      "aspect": "pf.",
+      "partner": "prestajati",
+      "pres_1sg": "prestanem",
+      "forms": [
+        "prestanem",
+        "prestaneš",
+        "prestane",
+        "prestanemo",
+        "prestanete",
+        "prestanu",
+        "prestao",
+        "prestala",
+        "prestali",
+        "prestajati",
+        "prestajem",
+        "prestaješ",
+        "prestaje",
+        "prestajemo",
+        "prestajete",
+        "prestaju"
+      ],
+      "ua": "перестати (недок. prestajati)",
+      "audio": "hr-prestati.mp3",
+      "explain_ua": "(Prestao je pušiti = він перестав курити). Пара: prestati (док.) / prestajati (недок.): prestanem / prestajem. Минулий prestao, prestala. Після нього недоконаний інфінітив: prestala je pisati, не «prestala je napisati». Українське «перестати» + недок. працює так само (тримайся української).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (prestanem, prestao)."
+    },
+    {
+      "id": "hr-624a5584",
+      "type": "verb",
+      "lemma": "poboljšati",
+      "aspect": "pf.",
+      "partner": "poboljšavati",
+      "pres_1sg": "poboljšam",
+      "forms": [
+        "poboljšam",
+        "poboljšaš",
+        "poboljša",
+        "poboljšamo",
+        "poboljšate",
+        "poboljšaju",
+        "poboljšala",
+        "poboljšali",
+        "poboljšao",
+        "poboljšavati",
+        "poboljšavam",
+        "poboljšavaš",
+        "poboljšava",
+        "poboljšavamo",
+        "poboljšavate",
+        "poboljšavaju"
+      ],
+      "ua": "покращити (недок. poboljšavati)",
+      "audio": "hr-poboljsati.mp3",
+      "explain_ua": "(Poboljšavam svoj hrvatski = покращую свою хорватську). Пара: poboljšati (док.) / poboljšavati (недок.): poboljšam / poboljšavam. Знахідний: poboljšati tekst. Слово з Lekcija 48. Від bolji (Lekcija 17): підказка для пам'яті. Пиши š: poboljšati.",
+      "check": "Пару та форми з мого знання."
+    },
+    {
+      "id": "hr-09874d2c",
+      "type": "adjective",
+      "lemma": "pametan",
+      "fem": "pametna",
+      "neut": "pametno",
+      "ua": "розумний",
+      "audio": "hr-pametan.mp3",
+      "forms": [
+        "pametna",
+        "pametno",
+        "pametni",
+        "pametne"
+      ],
+      "explain_ua": "(Moj brat je pametan = мій брат розумний). Нестійке a: pametan, pametna, pametno. Слово з Lekcija 48. Від pamet (Lekcija 48: розум, не пам'ять): pametan це той, хто має pamet.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-059dbaa0",
+      "type": "function",
+      "lemma": "čak",
+      "ua": "навіть (підсилення)",
+      "audio": "hr-cak.mp3",
+      "forms": [],
+      "explain_ua": "(Čak i dijete to zna = навіть дитина це знає). Підсилювальне слово, найчастіше «čak i» перед тим, що підсилюємо. Не змінюється. Пиши č: čak. Українське «навіть» інше слово.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-506d06ec",
+      "type": "function",
+      "lemma": "upravo",
+      "ua": "саме, щойно",
+      "audio": "hr-upravo.mp3",
+      "forms": [],
+      "explain_ua": "(Upravo sam stigla = я щойно приїхала). Прислівник: «саме» або «щойно». Стоїть перед сам / smo, тобто на першому місці, і клітик відразу за ним: upravo sam stigla. Також upravo tako = саме так.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-9908c083",
+      "type": "function",
+      "lemma": "nedavno",
+      "ua": "нещодавно",
+      "audio": "hr-nedavno.mp3",
+      "forms": [],
+      "explain_ua": "(Nedavno sam bila u gradu = нещодавно я була в місті). Прислівник, не змінюється. Звичайно з перфектом. Прикметник nedavni (нещодавній) тут не вчимо. Клітик на другому місці: nedavno sam.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Почати, продовжити, перестати + недоконаний інфінітив",
+      "summary_ua": "Після počinjati / početi, nastaviti, prestati ставимо ТІЛЬКИ недоконаний інфінітив: nastavila je učiti, prestao je pušiti. Не «prestao je napisati». Тримайся УКРАЇНСЬКОЇ: «продовжив вчити, перестав курити» працює так само, безкоштовно.",
+      "compare": [
+        {
+          "form": "nastaviti / prestati + недок. інфінітив",
+          "when_ua": "Продовжив, перестав.",
+          "examples": [
+            {
+              "text": "Nastavila je učiti hrvatski.",
+              "ua": "Вона продовжила вчити хорватську.",
+              "audio": "hr-les55-rule-01.mp3"
+            },
+            {
+              "text": "Prestala je kasniti.",
+              "ua": "Вона перестала запізнюватися.",
+              "audio": "hr-les55-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Je на другому місці після nastavila / prestala. Інфінітив недоконаний: učiti, kasniti."
+        },
+        {
+          "form": "počinjati / početi razumjeti",
+          "when_ua": "Починаю щось робити.",
+          "examples": [
+            {
+              "text": "Počinjem razumjeti vijesti.",
+              "ua": "Починаю розуміти новини.",
+              "audio": "hr-les55-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Počinjem (Lekcija 21) також з недоконаним інфінітивом."
+        }
+      ],
+      "points_ua": [
+        "Nastaviti, prestati, počinjati + недок. інфінітив.",
+        "Не «prestala je napisati»."
+      ]
+    },
+    {
+      "title_ua": "Пробувати, вдаватися, ставати",
+      "summary_ua": "Pokušati + інфінітив: спроба. Uspjeti + доконаний інфінітив: вдалося. Postati + називний: стати кимось. Док. для одного разу, недок. для повторень: pokušavam svaki dan, nisam uspjela jučer.",
+      "compare": [
+        {
+          "form": "pokušati / pokušavati",
+          "when_ua": "Спроба.",
+          "examples": [
+            {
+              "text": "Pokušala sam nazvati servis.",
+              "ua": "Я спробувала зателефонувати в сервіс.",
+              "audio": "hr-les55-rule-04.mp3"
+            },
+            {
+              "text": "Pokušavamo doći ranije.",
+              "ua": "Ми намагаємося прийти раніше.",
+              "audio": "hr-les55-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Sam на другому місці. Інфінітив після pokušati: nazvati, doći."
+        },
+        {
+          "form": "uspjeti / uspijevati",
+          "when_ua": "Вдалося чи не вдалося.",
+          "examples": [
+            {
+              "text": "Nisam uspjela doći na vrijeme.",
+              "ua": "Мені не вдалося прийти вчасно.",
+              "audio": "hr-les55-rule-06.mp3"
+            },
+            {
+              "text": "Uspijevam zapamtiti nove riječi.",
+              "ua": "Мені вдається запам'ятовувати нові слова.",
+              "audio": "hr-les55-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Uspjela (jé у минулому), uspijevam (ije у теперішньому). Check: вид інфінітива після uspjeti."
+        },
+        {
+          "form": "postati",
+          "when_ua": "Стати кимось чи якимось.",
+          "examples": [
+            {
+              "text": "Postao je vješt majstor.",
+              "ua": "Він став умілим майстром.",
+              "audio": "hr-les55-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Називний: postao je majstor (check: орудний теж, postao je majstorom). Минулий: postao, postala."
+        }
+      ],
+      "points_ua": [
+        "Pokušati + інфінітив.",
+        "Uspjeti: nisam uspjela doći.",
+        "Postati + називний (check)."
+      ]
+    },
+    {
+      "title_ua": "Загальні іменники у стійких виразах",
+      "summary_ua": "Ці слова найчастіше стоять у виразах: u svakom slučaju, imati priliku, razlika u cijeni, velika promjena, stara navika. Учи вирази цілком, не кожне слово окремо.",
+      "compare": [
+        {
+          "form": "u svakom / tom slučaju",
+          "when_ua": "У будь-якому / у такому випадку.",
+          "examples": [
+            {
+              "text": "U svakom slučaju javim se sutra.",
+              "ua": "У будь-якому разі озвуся завтра.",
+              "audio": "hr-les55-rule-09.mp3"
+            }
+          ],
+          "note_ua": "U + місцевий: u svakom slučaju. Se на другому місці: javim se."
+        },
+        {
+          "form": "imati priliku / mogućnost",
+          "when_ua": "Є нагода, є можливість.",
+          "examples": [
+            {
+              "text": "Imam priliku razgovarati s kolegama.",
+              "ua": "Маю нагоду поговорити з колегами.",
+              "audio": "hr-les55-rule-10.mp3"
+            },
+            {
+              "text": "Imamo mogućnost da putujemo vlakom.",
+              "ua": "Ми маємо можливість їхати поїздом.",
+              "audio": "hr-les55-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Priliku + інфінітив; mogućnost da + теперішній (або інфінітив)."
+        },
+        {
+          "form": "razlika u + місцевий",
+          "when_ua": "Різниця в чомусь.",
+          "examples": [
+            {
+              "text": "Razlika u kvaliteti je mala.",
+              "ua": "Різниця в якості невелика.",
+              "audio": "hr-les55-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Razlika u kvaliteti: u + місцевий (kvaliteta, kvaliteti: check як слово, не вчимо)."
+        }
+      ],
+      "points_ua": [
+        "U svakom slučaju; imati priliku / mogućnost.",
+        "Razlika u + місцевий."
+      ]
+    },
+    {
+      "title_ua": "Čak, upravo, nedavno: де стоять",
+      "summary_ua": "Čak i стоїть перед тим словом, яке підсилюєш: čak i ja. Upravo і nedavno ставимо на початок, клітик одразу після: upravo sam, nedavno sam. З nedavno перфект.",
+      "compare": [
+        {
+          "form": "čak i",
+          "when_ua": "Навіть.",
+          "examples": [
+            {
+              "text": "Čak i ja to znam.",
+              "ua": "Навіть я це знаю.",
+              "audio": "hr-les55-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Čak i + займенник чи іменник, потім дієслово."
+        },
+        {
+          "form": "upravo, nedavno",
+          "when_ua": "Щойно, нещодавно.",
+          "examples": [
+            {
+              "text": "Upravo sam završila posao.",
+              "ua": "Я щойно закінчила роботу.",
+              "audio": "hr-les55-rule-14.mp3"
+            },
+            {
+              "text": "Nedavno sam pročitala dobru knjigu.",
+              "ua": "Нещодавно я прочитала хорошу книжку.",
+              "audio": "hr-les55-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Sam на другому місці після upravo / nedavno."
+        }
+      ],
+      "points_ua": [
+        "Čak i ja; upravo sam; nedavno sam + перфект."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Razlika je mala.",
+      "ua": "Різниця невелика.",
+      "audio": "hr-les55-example-01.mp3"
+    },
+    {
+      "text": "To je dobra mogućnost.",
+      "ua": "Це хороша можливість.",
+      "audio": "hr-les55-example-02.mp3"
+    },
+    {
+      "text": "Potreba je velika.",
+      "ua": "Потреба велика.",
+      "audio": "hr-les55-example-03.mp3"
+    },
+    {
+      "text": "To je dobra prilika.",
+      "ua": "Це хороша нагода.",
+      "audio": "hr-les55-example-04.mp3"
+    },
+    {
+      "text": "U tom slučaju ne dolazim.",
+      "ua": "У такому разі не приходжу.",
+      "audio": "hr-les55-example-05.mp3"
+    },
+    {
+      "text": "Promjena nije velika.",
+      "ua": "Зміна невелика.",
+      "audio": "hr-les55-example-06.mp3"
+    },
+    {
+      "text": "To je moja navika.",
+      "ua": "Це моя звичка.",
+      "audio": "hr-les55-example-07.mp3"
+    },
+    {
+      "text": "Uspjeh je velik.",
+      "ua": "Успіх великий.",
+      "audio": "hr-les55-example-08.mp3"
+    },
+    {
+      "text": "Uređaj je pokvaren.",
+      "ua": "Пристрій зламаний.",
+      "audio": "hr-les55-example-09.mp3"
+    },
+    {
+      "text": "Usluga je dobra.",
+      "ua": "Обслуговування хороше.",
+      "audio": "hr-les55-example-10.mp3"
+    },
+    {
+      "text": "Kupac čeka.",
+      "ua": "Покупець чекає.",
+      "audio": "hr-les55-example-11.mp3"
+    },
+    {
+      "text": "Snaga je u timu.",
+      "ua": "Сила в команді.",
+      "audio": "hr-les55-example-12.mp3"
+    },
+    {
+      "text": "Dijete postaje samostalno.",
+      "ua": "Дитина стає самостійною.",
+      "audio": "hr-les55-example-13.mp3"
+    },
+    {
+      "text": "Pokušavam svaki dan.",
+      "ua": "Пробую щодня.",
+      "audio": "hr-les55-example-14.mp3"
+    },
+    {
+      "text": "Uspijevam doći na vrijeme.",
+      "ua": "Мені вдається прийти вчасно.",
+      "audio": "hr-les55-example-15.mp3"
+    },
+    {
+      "text": "Nastavljamo razgovor.",
+      "ua": "Продовжуємо розмову.",
+      "audio": "hr-les55-example-16.mp3"
+    },
+    {
+      "text": "Prestajem kasniti.",
+      "ua": "Перестаю запізнюватися.",
+      "audio": "hr-les55-example-17.mp3"
+    },
+    {
+      "text": "Poboljšavam svoj hrvatski.",
+      "ua": "Покращую свою хорватську.",
+      "audio": "hr-les55-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Moje navike",
+    "title_ua": "Мої звички",
+    "highlight": [
+      "hr-6004f60c",
+      "hr-17a49208",
+      "hr-d385ef62",
+      "hr-2302c94c",
+      "hr-09874d2c",
+      "hr-059dbaa0",
+      "hr-506d06ec",
+      "hr-9908c083"
+    ],
+    "sentences": [
+      {
+        "text": "Nedavno sam počela učiti hrvatski svaki dan.",
+        "ua": "Нещодавно я почала вчити хорватську щодня.",
+        "audio": "hr-les55-reading-01.mp3"
+      },
+      {
+        "text": "Pokušavam naučiti deset novih riječi.",
+        "ua": "Намагаюся вивчити десять нових слів.",
+        "audio": "hr-les55-reading-02.mp3"
+      },
+      {
+        "text": "Prvih dana nisam uspijevala zapamtiti ni pet.",
+        "ua": "Перших днів мені не вдавалося запам'ятати навіть п'ять.",
+        "audio": "hr-les55-reading-03.mp3"
+      },
+      {
+        "text": "Ali sam nastavila, jer je to moja navika.",
+        "ua": "Але я продовжила, бо це моя звичка.",
+        "audio": "hr-les55-reading-04.mp3"
+      },
+      {
+        "text": "Sada vidim veliku razliku.",
+        "ua": "Тепер бачу велику різницю.",
+        "audio": "hr-les55-reading-05.mp3"
+      },
+      {
+        "text": "Čak i moj brat kaže da sam pametna.",
+        "ua": "Навіть мій брат каже, що я розумна.",
+        "audio": "hr-les55-reading-06.mp3"
+      },
+      {
+        "text": "To je dobra prilika da poboljšam svoj govor.",
+        "ua": "Це хороша нагода покращити моє мовлення.",
+        "audio": "hr-les55-reading-07.mp3"
+      },
+      {
+        "text": "Upravo zato neću prestati.",
+        "ua": "Саме тому я не перестану.",
+        "audio": "hr-les55-reading-08.mp3"
+      },
+      {
+        "text": "Svaki dan je mali uspjeh.",
+        "ua": "Кожен день це маленький успіх.",
+        "audio": "hr-les55-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай статтю (вигадану) і дай відповіді. Текст видно, поки ти відповідаєш.",
+      "audio": "hr-les-55-advice.mp3",
+      "passage": {
+        "title": "Pet savjeta za učenje jezika",
+        "paragraphs": [
+          "Učenje jezika je dug put, ali svatko može uspjeti. Najvažnija je navika. Bolje je učiti petnaest minuta svaki dan nego tri sata jednom tjedno.",
+          "Prvi savjet: pokušajte govoriti od prvog dana. Mnogi ljudi čekaju jer misle da još ne znaju dosta. Čak i mala rečenica je uspjeh.",
+          "Drugi savjet: tražite priliku za razgovor. Razgovor s prijateljem, na tržnici ili u kafiću je velika prilika. Upravo se tako jezik poboljšava.",
+          "Treći savjet: pišite nove riječi u bilješke i ponavljajte ih. Nedavno istraživanje pokazuje da tako pamtimo više riječi.",
+          "Četvrti savjet: ne bojte se pogrešaka. Svaka pogreška je prilika da naučite nešto novo. Ako prestanete govoriti, nećete imati napredak.",
+          "Peti savjet: nastavite i kad je teško. U svakom slučaju, promjena ne dolazi odmah. Ako nastavite, razlika će biti velika za nekoliko mjeseci. Pametan učenik ne uči više od drugih, nego uči svaki dan."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Яка найважливіша річ у навчанні? (одне слово)",
+          "accepted": [
+            "navika"
+          ]
+        },
+        {
+          "prompt": "Краще вчитися три години раз на тиждень.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Скільки хвилин на день радять вчитися? (число)",
+          "accepted": [
+            "petnaest",
+            "15",
+            "petnaest minuta",
+            "15 minuta"
+          ]
+        },
+        {
+          "prompt": "З якого дня радять говорити?",
+          "accepted": [
+            "od prvog dana",
+            "prvog dana",
+            "prvi dan",
+            "prvog"
+          ]
+        },
+        {
+          "prompt": "Розмова з другом це хороша нагода.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Куди радять писати нові слова? (одне слово)",
+          "accepted": [
+            "bilješke",
+            "u bilješke"
+          ]
+        },
+        {
+          "prompt": "Якщо перестанеш говорити, прогресу не буде.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Яку пораду дає п'ята частина? (одне слово)",
+          "accepted": [
+            "nastavite",
+            "nastaviti"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох подруг і дай відповіді.",
+      "audio": "hr-les-55-friends.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Kako ide hrvatski?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Dobro. Nedavno sam počela svaki dan čitati."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Uspijevaš li zapamtiti nove riječi?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Ne uvijek, ali pokušavam."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Imaš li priliku govoriti?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Da. Sutra imam razgovor s kolegicom."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "To je dobra prilika."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Znam. Svaka riječ pomaže."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Що вона почала робити нещодавно?",
+          "choices": [
+            "Читати щодня",
+            "Писати листи",
+            "Слухати радіо"
+          ],
+          "accepted": [
+            "Читати щодня"
+          ]
+        },
+        {
+          "prompt": "Вона завжди запам'ятовує нові слова.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Коли в неї розмова з колегою? (одне слово)",
+          "accepted": [
+            "sutra"
+          ]
+        },
+        {
+          "prompt": "Подруга каже, що це хороша нагода.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "З ким розмова? (одне слово)",
+          "accepted": [
+            "kolegica",
+            "kolegicom",
+            "s kolegicom"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Різниця в ціні велика.",
+          "accepted": [
+            "Razlika u cijeni je velika."
+          ]
+        },
+        {
+          "prompt": "У мене є можливість поїхати в суботу.",
+          "accepted": [
+            "Imam mogućnost putovati u subotu.",
+            "Imam mogućnost da putujem u subotu."
+          ]
+        },
+        {
+          "prompt": "Я мала нагоду поговорити з директором.",
+          "accepted": [
+            "Imala sam priliku razgovarati s direktorom."
+          ]
+        },
+        {
+          "prompt": "У кожному разі я зателефоную.",
+          "accepted": [
+            "U svakom slučaju ću nazvati.",
+            "U svakom slučaju nazvat ću."
+          ]
+        },
+        {
+          "prompt": "Мені подобається ця зміна.",
+          "accepted": [
+            "Sviđa mi se ova promjena.",
+            "Sviđa mi se ta promjena."
+          ]
+        },
+        {
+          "prompt": "Читання щодня це моя звичка.",
+          "accepted": [
+            "Čitanje svaki dan je moja navika."
+          ]
+        },
+        {
+          "prompt": "Новий пристрій дорогий.",
+          "accepted": [
+            "Novi uređaj je skup."
+          ]
+        },
+        {
+          "prompt": "Обслуговування було швидким.",
+          "accepted": [
+            "Usluga je bila brza."
+          ]
+        },
+        {
+          "prompt": "Покупець питає про ціну.",
+          "accepted": [
+            "Kupac pita o cijeni."
+          ]
+        },
+        {
+          "prompt": "Я спробувала зателефонувати.",
+          "accepted": [
+            "Pokušala sam nazvati.",
+            "Pokušao sam nazvati."
+          ]
+        },
+        {
+          "prompt": "Нам не вдалося прийти вчасно.",
+          "accepted": [
+            "Nismo uspjeli doći na vrijeme.",
+            "Nismo uspjele doći na vrijeme."
+          ]
+        },
+        {
+          "prompt": "Вона стала дуже розумною.",
+          "accepted": [
+            "Postala je vrlo pametna."
+          ]
+        },
+        {
+          "prompt": "Продовжуймо працювати.",
+          "accepted": [
+            "Nastavimo raditi.",
+            "Nastavit ćemo raditi."
+          ]
+        },
+        {
+          "prompt": "Він перестав курити.",
+          "accepted": [
+            "Prestao je pušiti."
+          ]
+        },
+        {
+          "prompt": "Нещодавно ми були в театрі.",
+          "accepted": [
+            "Nedavno smo bili u kazalištu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "razliku",
+        "mogućnost",
+        "potrebu",
+        "priliku",
+        "slučaju",
+        "promjena",
+        "navika",
+        "uspjehu",
+        "uređaj",
+        "usluga",
+        "kupac",
+        "snaga",
+        "pametan",
+        "Upravo",
+        "poboljšati"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Vidim veliku ___ u cijeni.",
+          "hint": "Бачу велику різницю в ціні.",
+          "accepted": [
+            [
+              "razliku"
+            ]
+          ]
+        },
+        {
+          "text": "To je dobra ___ za tebe.",
+          "hint": "Це хороша можливість для тебе.",
+          "accepted": [
+            [
+              "mogućnost"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ za novi telefon.",
+          "hint": "Маю потребу в новому телефоні.",
+          "accepted": [
+            [
+              "potrebu"
+            ]
+          ]
+        },
+        {
+          "text": "Nemam ___ za razgovor.",
+          "hint": "Не маю нагоди для розмови.",
+          "accepted": [
+            [
+              "priliku"
+            ]
+          ]
+        },
+        {
+          "text": "U svakom ___ čekam.",
+          "hint": "У кожному разі чекаю.",
+          "accepted": [
+            [
+              "slučaju"
+            ]
+          ]
+        },
+        {
+          "text": "Ta ___ je velika.",
+          "hint": "Та зміна велика.",
+          "accepted": [
+            [
+              "promjena"
+            ]
+          ]
+        },
+        {
+          "text": "To je njegova stara ___.",
+          "hint": "Це його стара звичка.",
+          "accepted": [
+            [
+              "navika"
+            ]
+          ]
+        },
+        {
+          "text": "Čestitam na ___!",
+          "hint": "Вітаю з успіхом!",
+          "accepted": [
+            [
+              "uspjehu"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj ___ je pokvaren.",
+          "hint": "Цей пристрій зламаний.",
+          "accepted": [
+            [
+              "uređaj"
+            ]
+          ]
+        },
+        {
+          "text": "Ta ___ je jako dobra.",
+          "hint": "Те обслуговування дуже хороше.",
+          "accepted": [
+            [
+              "usluga"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ čeka na šalteru.",
+          "hint": "Той покупець чекає біля віконця.",
+          "accepted": [
+            [
+              "kupac"
+            ]
+          ]
+        },
+        {
+          "text": "Njegova ___ je u timu.",
+          "hint": "Його сила в команді.",
+          "accepted": [
+            [
+              "snaga"
+            ]
+          ]
+        },
+        {
+          "text": "Moj brat je ___.",
+          "hint": "Мій брат розумний.",
+          "accepted": [
+            [
+              "pametan"
+            ]
+          ]
+        },
+        {
+          "text": "___ sam stigla.",
+          "hint": "Я щойно приїхала.",
+          "accepted": [
+            [
+              "Upravo",
+              "upravo"
+            ]
+          ]
+        },
+        {
+          "text": "Moram ___ svoj tekst.",
+          "hint": "Мушу покращити свій текст.",
+          "accepted": [
+            [
+              "poboljšati"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Prestala je napisati pisma.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prestala je pisati pisma."
+          ]
+        },
+        {
+          "prompt": "Nastavila sam napisati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nastavila sam pisati."
+          ]
+        },
+        {
+          "prompt": "Nisam uspjela pisati e-poštu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nisam uspjela napisati e-poštu."
+          ]
+        },
+        {
+          "prompt": "Postala je pametno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Postala je pametna."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam pokušala nazvati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam pokušala nazvati.",
+            "Ja sam danas pokušala nazvati."
+          ]
+        },
+        {
+          "prompt": "Mi pokušavam svaki dan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi pokušavamo svaki dan.",
+            "Pokušavamo svaki dan."
+          ]
+        },
+        {
+          "prompt": "Imam priliku razgovarati s direktor.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam priliku razgovarati s direktorom."
+          ]
+        },
+        {
+          "prompt": "Uređaj je u servis.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Uređaj je u servisu."
+          ]
+        },
+        {
+          "prompt": "Čak dijete to zna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čak i dijete to zna."
+          ]
+        },
+        {
+          "prompt": "Upravo stigla sam.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Upravo sam stigla."
+          ]
+        },
+        {
+          "prompt": "Nedavno sam bila u grad.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Nedavno sam bila u gradu."
+          ]
+        },
+        {
+          "prompt": "Pokušavam učiti.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Pokušala sam učiti.",
+            "Pokušao sam učiti."
+          ]
+        },
+        {
+          "prompt": "Usluga je dobra.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Usluga nije dobra."
+          ]
+        },
+        {
+          "prompt": "Kupac čeka.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Kupci čekaju."
+          ]
+        },
+        {
+          "prompt": "Uređaj radi.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Radi li uređaj?"
+          ]
+        },
+        {
+          "prompt": "Ona uči i ja radim.",
+          "cue": "-> Dok ... (učiti)",
+          "accepted": [
+            "Dok ona uči, ja radim.",
+            "Ja radim dok ona uči."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "On ___ bolji svaki dan.",
+          "cue": "postajati",
+          "accepted": [
+            "postaje"
+          ]
+        },
+        {
+          "text": "Jučer je ___ liječnik.",
+          "cue": "postati",
+          "accepted": [
+            "postao"
+          ]
+        },
+        {
+          "text": "Ja svaki dan ___ nazvati.",
+          "cue": "pokušavati",
+          "accepted": [
+            "pokušavam"
+          ]
+        },
+        {
+          "text": "Ona je ___ doći.",
+          "cue": "pokušati",
+          "accepted": [
+            "pokušala"
+          ]
+        },
+        {
+          "text": "Ne ___ zapamtiti sve.",
+          "cue": "uspijevati",
+          "accepted": [
+            "uspijevam"
+          ]
+        },
+        {
+          "text": "Ona nije ___ nazvati.",
+          "cue": "uspjeti",
+          "accepted": [
+            "uspjela"
+          ]
+        },
+        {
+          "text": "Mi ___ raditi do pet.",
+          "cue": "nastavljati",
+          "accepted": [
+            "nastavljamo"
+          ]
+        },
+        {
+          "text": "Oni su ___ razgovor.",
+          "cue": "nastaviti",
+          "accepted": [
+            "nastavili"
+          ]
+        },
+        {
+          "text": "Moj brat ___ kasniti.",
+          "cue": "prestajati",
+          "accepted": [
+            "prestaje"
+          ]
+        },
+        {
+          "text": "Ona je ___ pisati pisma.",
+          "cue": "prestati",
+          "accepted": [
+            "prestala"
+          ]
+        },
+        {
+          "text": "Svaki dan ___ svoj hrvatski.",
+          "cue": "poboljšavati",
+          "accepted": [
+            "poboljšavam"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ svoj tekst.",
+          "cue": "poboljšati",
+          "accepted": [
+            "poboljšala",
+            "poboljšao"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "різниця",
+          "answer": "razlika"
+        },
+        {
+          "prompt": "можливість",
+          "answer": "mogućnost"
+        },
+        {
+          "prompt": "потреба",
+          "answer": "potreba"
+        },
+        {
+          "prompt": "нагода",
+          "answer": "prilika"
+        },
+        {
+          "prompt": "випадок",
+          "answer": "slučaj"
+        },
+        {
+          "prompt": "зміна",
+          "answer": "promjena"
+        },
+        {
+          "prompt": "звичка",
+          "answer": "navika"
+        },
+        {
+          "prompt": "успіх",
+          "answer": "uspjeh"
+        },
+        {
+          "prompt": "пристрій",
+          "answer": "uređaj"
+        },
+        {
+          "prompt": "обслуговування, послуга",
+          "answer": "usluga"
+        },
+        {
+          "prompt": "покупець",
+          "answer": "kupac"
+        },
+        {
+          "prompt": "сила (риса)",
+          "answer": "snaga"
+        },
+        {
+          "prompt": "розумний",
+          "answer": "pametan"
+        },
+        {
+          "prompt": "саме, щойно",
+          "answer": "upravo"
+        }
+      ],
+      "extra": [
+        "čak",
+        "nedavno"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова: послухай і напиши.",
+      "words": [
+        "vrijeme",
+        "tjedan",
+        "riječ",
+        "iskustvo",
+        "tijekom"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 4, 12, 41, 42, 47; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}
