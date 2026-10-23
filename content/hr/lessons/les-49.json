@@ -1,0 +1,1756 @@
+{
+  "id": "hr-les-49",
+  "lang": "hr",
+  "order": 49,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "prošli",
+    "tjedan",
+    "naša",
+    "nazvala",
+    "sam",
+    "servis",
+    "ali",
+    "je",
+    "linija",
+    "bila",
+    "zato",
+    "ostavila",
+    "poruku",
+    "majstor",
+    "se",
+    "javio",
+    "idući",
+    "dan",
+    "rekao",
+    "da",
+    "će",
+    "doći",
+    "srijedu",
+    "čim",
+    "došao",
+    "vidio",
+    "jedan",
+    "dio",
+    "oštećen",
+    "mora",
+    "naručiti",
+    "novi",
+    "imamo",
+    "račun",
+    "i",
+    "jamstvo",
+    "zamijeniti",
+    "najkasnije",
+    "do",
+    "petka",
+    "bio",
+    "ljubazan",
+    "vješt",
+    "ne",
+    "žalim",
+    "naručila",
+    "novu",
+    "lampu",
+    "za",
+    "kuhinju",
+    "narudžba",
+    "trebala",
+    "u",
+    "utorak",
+    "a",
+    "dostava",
+    "tek",
+    "četvrtak",
+    "kad",
+    "otvorila",
+    "paket",
+    "vidjela",
+    "oštećena",
+    "odmah",
+    "trgovinu",
+    "napisala",
+    "e-poštu",
+    "priložila",
+    "sliku",
+    "žalila",
+    "oštećenu",
+    "zamolila",
+    "ih",
+    "ispričala",
+    "odgovorila",
+    "dostavili",
+    "petak",
+    "ovaj",
+    "put",
+    "nije",
+    "zadovoljna",
+    "kod",
+    "kuće",
+    "moja",
+    "sestra",
+    "kaže",
+    "normalno",
+    "misli",
+    "svaka",
+    "ponekad",
+    "dostavi",
+    "velik",
+    "težak",
+    "izvolite",
+    "zovem",
+    "zbog",
+    "pokvarila",
+    "jučer",
+    "imate",
+    "li",
+    "poslati",
+    "majstora",
+    "može",
+    "od",
+    "osam",
+    "deset",
+    "sati",
+    "mogu",
+    "ujutro",
+    "nazvati",
+    "vas",
+    "hvala",
+    "besplatan",
+    "to",
+    "reći",
+    "adresu",
+    "imam",
+    "ovdje",
+    "halo",
+    "čujete",
+    "me",
+    "kvaru",
+    "perilici",
+    "perilicu",
+    "tiho",
+    "ključ",
+    "mobitel",
+    "bicikl",
+    "auto",
+    "poruka",
+    "zovemo",
+    "nosim",
+    "idem",
+    "idemo",
+    "čekam",
+    "čekamo",
+    "cijeli",
+    "popravlja",
+    "telefon",
+    "radi",
+    "paketu",
+    "nazovete",
+    "javit",
+    "nazvat",
+    "četvrtka",
+    "lampa",
+    "utorka",
+    "dolazio",
+    "trajati",
+    "pokvarenu",
+    "srijede",
+    "zvoni",
+    "stalno"
+  ],
+  "notes": [
+    {
+      "id": "hr-b97b2868",
+      "type": "noun",
+      "lemma": "reklamacija",
+      "gender": "ž.",
+      "gen_sg": "reklamacije",
+      "plural": [
+        "reklamacije"
+      ],
+      "ua": "рекламація (скарга на товар чи послугу)",
+      "audio": "hr-reklamacija.mp3",
+      "forms": [
+        "reklamacije",
+        "reklamaciju",
+        "reklamaciji",
+        "reklamacijom"
+      ],
+      "explain_ua": "(Pišem reklamaciju za perilicu = пишу рекламацію на пральну машину). УВАГА ДО ВСЬОГО УРОКУ: ситуації, фірми, ціни й терміни в цьому уроці вигадані для вправ, це мовна практика, а не юридична порада щодо прав споживача. Жіночий рід на -ja: reklamacija, reklamacije, reklamaciju (знахідний). Українське «рекламація» схоже; не плутай з reklama (реклама, оголошення): це підказка для пам'яті, не з перевіреної таблиці.",
+      "check": "Форми з мого знання за зразком tradicija; зауваження про reklama з мого знання."
+    },
+    {
+      "id": "hr-5117070d",
+      "type": "noun",
+      "lemma": "kvar",
+      "gender": "m.",
+      "gen_sg": "kvara",
+      "plural": [
+        "kvarovi"
+      ],
+      "ua": "поломка, несправність",
+      "audio": "hr-kvar.mp3",
+      "forms": [
+        "kvara",
+        "kvaru",
+        "kvarovi",
+        "kvarove",
+        "kvarom"
+      ],
+      "explain_ua": "(Kvar nije velik = поломка невелика). Чоловічого роду: kvar, kvara, множина kvarovi (-ov-, як grad > gradovi). Kvar на машині, у телефоні, в мережі. Дієслово kvariti se та pokvariti se нижче. Українське «поломка» інше слово, просто вчимо.",
+      "check": "Форми з мого знання; множина kvarovi з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-a9c185c4",
+      "type": "noun",
+      "lemma": "servis",
+      "gender": "m.",
+      "gen_sg": "servisa",
+      "plural": [
+        "servisi"
+      ],
+      "ua": "сервіс (майстерня, сервісний центр)",
+      "audio": "hr-servis.mp3",
+      "forms": [
+        "servisa",
+        "servisu",
+        "servisi",
+        "servise",
+        "servisom"
+      ],
+      "explain_ua": "(Servis je blizu kolodvora = сервіс поблизу вокзалу). Чоловічого роду: servis, servisa, u servisu (де), u servis (куди). Servis це майстерня, де лагодять речі. Знайоме слово, але закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-1039783c",
+      "type": "noun",
+      "lemma": "majstor",
+      "gender": "m.",
+      "gen_sg": "majstora",
+      "plural": [
+        "majstori"
+      ],
+      "ua": "майстер (лагодить, ремонтує)",
+      "audio": "hr-majstor.mp3",
+      "forms": [
+        "majstora",
+        "majstoru",
+        "majstori",
+        "majstore",
+        "majstorom",
+        "majstore"
+      ],
+      "explain_ua": "(Majstor dolazi u srijedu = майстер приходить у середу). Чоловічого роду: majstor, majstora, majstori. Знахідний живого збігається з родовим: čekam majstora. Звертання (кличний): majstore! Українське «майстер» схоже; хорватське majstor це людина, яка лагодить, ремонтує.",
+      "check": "Форми з мого знання; кличний majstore за зразком doktore, звірити."
+    },
+    {
+      "id": "hr-cf54a1a7",
+      "type": "noun",
+      "lemma": "jamstvo",
+      "gender": "s.",
+      "gen_sg": "jamstva",
+      "plural": [
+        "jamstva"
+      ],
+      "ua": "гарантія (документ)",
+      "audio": "hr-jamstvo.mp3",
+      "forms": [
+        "jamstva",
+        "jamstvu",
+        "jamstvom"
+      ],
+      "explain_ua": "(Račun i jamstvo su ovdje = чек і гарантія тут). Середній рід на -o: jamstvo, jamstva, u jamstvu. Словник вчимо як jamstvo; слово garancija теж чуєш щодня, воно також живе в хорватській, але я вчу jamstvo (check, яку форму частіше вживають у документах). Тут нічого про терміни чи права не кажемо, лише слово.",
+      "check": "Форми з мого знання; що саме вживають у документах, jamstvo чи garancija, не знаю, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-3e7e7492",
+      "type": "noun",
+      "lemma": "popravak",
+      "gender": "m.",
+      "gen_sg": "popravka",
+      "plural": [
+        "popravci"
+      ],
+      "ua": "ремонт, лагодження",
+      "audio": "hr-popravak.mp3",
+      "forms": [
+        "popravka",
+        "popravku",
+        "popravci",
+        "popravke",
+        "popravkom"
+      ],
+      "explain_ua": "(Popravak nije skup = ремонт недорогий). Чоловічого роду, нестійке a (Lekcija 16): popravak, popravka, popravci. Дієслово popraviti, popravljati ти знаєш з Lekcija 36. Українське «ремонт» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-0db2266c",
+      "type": "noun",
+      "lemma": "dostava",
+      "gender": "ž.",
+      "gen_sg": "dostave",
+      "plural": [
+        "dostave"
+      ],
+      "ua": "доставка",
+      "audio": "hr-dostava.mp3",
+      "forms": [
+        "dostave",
+        "dostavu",
+        "dostavi",
+        "dostavom"
+      ],
+      "explain_ua": "(Dostava je besplatna = доставка безкоштовна). Жіночий рід на -a: dostava, dostave, dostavu (знахідний). Українське «доставка» дуже схоже, закінчення вчимо. Якщо почуєш isporuka, це теж слово, яке вживають, але я вчу dostava (check).",
+      "check": "Форми з мого знання; що isporuka і dostava обидва живуть у мові, з мого знання."
+    },
+    {
+      "id": "hr-f03e0e33",
+      "type": "noun",
+      "lemma": "narudžba",
+      "gender": "ž.",
+      "gen_sg": "narudžbe",
+      "plural": [
+        "narudžbe"
+      ],
+      "ua": "замовлення",
+      "audio": "hr-narudzba.mp3",
+      "forms": [
+        "narudžbe",
+        "narudžbu",
+        "narudžbi",
+        "narudžbom"
+      ],
+      "explain_ua": "(Narudžba je u paketu = замовлення в пакеті). Жіночий рід на -a: narudžba, narudžbe, narudžbu (знахідний), родовий множини narudžbi. Пиши dž: narudžba. Від naručiti (Lekcija 18): підказка для пам'яті, не етимологія. Якщо почуєш narudžbina, це інший стандарт.",
+      "check": "Форми з мого знання; що narudžbina належить до іншого стандарту, з мого знання."
+    },
+    {
+      "id": "hr-e1546c5d",
+      "type": "noun",
+      "lemma": "perilica",
+      "gender": "ž.",
+      "gen_sg": "perilice",
+      "plural": [
+        "perilice"
+      ],
+      "ua": "пральна машина",
+      "audio": "hr-perilica.mp3",
+      "forms": [
+        "perilice",
+        "perilicu",
+        "perilici",
+        "perilicom"
+      ],
+      "explain_ua": "(Naša perilica je stara = наша пральна машина стара). Жіночий рід на -a: perilica, perilice, perilicu (знахідний), u perilici (k > c). Perilica rublja це пральна машина, perilica posuđa це посудомийка. Якщо почуєш «veš-mašina», це інший стандарт.",
+      "check": "Форми з мого знання; що veš-mašina належить до іншого стандарту, з мого знання."
+    },
+    {
+      "id": "hr-5c866c92",
+      "type": "noun",
+      "lemma": "povrat",
+      "gender": "m.",
+      "gen_sg": "povrata",
+      "plural": [
+        "povrati"
+      ],
+      "ua": "повернення (товару, грошей)",
+      "audio": "hr-povrat.mp3",
+      "forms": [
+        "povrata",
+        "povratu",
+        "povrati"
+      ],
+      "explain_ua": "(Želim povrat novca = хочу повернення грошей). Чоловічого роду: povrat, povrata. Тільки слово: тут нічого не кажемо про права чи терміни повернення, це питання до продавця чи юриста. Від vratiti (Lekcija 27): підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-8c956c17",
+      "type": "noun",
+      "lemma": "linija",
+      "gender": "ž.",
+      "gen_sg": "linije",
+      "plural": [
+        "linije"
+      ],
+      "ua": "лінія (зв'язку), лінія",
+      "audio": "hr-linija.mp3",
+      "forms": [
+        "linije",
+        "liniju",
+        "liniji",
+        "linijom"
+      ],
+      "explain_ua": "(Linija je zauzeta = лінія зайнята). Жіночий рід на -ja: linija, linije, liniju (знахідний). По телефону: linija je zauzeta, nema linije. Знайоме слово, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-48e68bea",
+      "type": "verb",
+      "lemma": "pokvariti se",
+      "aspect": "pf.",
+      "partner": "kvariti se",
+      "pres_1sg": "pokvarim se",
+      "forms": [
+        "pokvarim",
+        "pokvariš",
+        "pokvari",
+        "pokvarimo",
+        "pokvarite",
+        "pokvare",
+        "pokvario",
+        "pokvarila",
+        "pokvarilo",
+        "pokvarili",
+        "kvariti",
+        "kvarim",
+        "kvariš",
+        "kvari",
+        "kvarimo",
+        "kvarite",
+        "kvare"
+      ],
+      "ua": "зіпсуватися, зламатися (недок. kvariti se)",
+      "audio": "hr-pokvariti.mp3",
+      "explain_ua": "(Auto se pokvario na cesti = авто зламалося на дорозі). Пара: pokvariti se (док.) / kvariti se (недок.): pokvarim se / kvarim se. Se на другому місці: jučer se pokvario. Док. для разової поломки, недок. для регулярної («часто ламається»). Прикметник pokvaren нижче. Pokvarena osoba теж значить «зіпсована людина», але це друге значення не вчимо.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Друге значення (про людину) з мого знання."
+    },
+    {
+      "id": "hr-0281f646",
+      "type": "verb",
+      "lemma": "zamijeniti",
+      "aspect": "pf.",
+      "partner": "zamjenjivati",
+      "pres_1sg": "zamijenim",
+      "forms": [
+        "zamijenim",
+        "zamijeniš",
+        "zamijeni",
+        "zamijenimo",
+        "zamijenite",
+        "zamijene",
+        "zamijenila",
+        "zamijenili",
+        "zamijenio",
+        "zamjenjivati",
+        "zamjenjujem",
+        "zamjenjuješ",
+        "zamjenjuje",
+        "zamjenjujemo",
+        "zamjenjujete",
+        "zamjenjuju"
+      ],
+      "ua": "замінити, обміняти (недок. zamjenjivati)",
+      "audio": "hr-zamijeniti.mp3",
+      "explain_ua": "(Molim vas, zamijenite ovaj dio = будь ласка, замініть цю частину). Пара: zamijeniti (док.) / zamjenjivati (недок.): zamijenim / zamjenjujem, ije > je (zamijenim, zamjenjujem). Знахідний: zamijeniti dio. Пиши ije у док. і je у недок.: zamijeniti, zamjenjivati.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (ije / je у zamjenjivati)."
+    },
+    {
+      "id": "hr-668c096c",
+      "type": "verb",
+      "lemma": "dostaviti",
+      "aspect": "pf.",
+      "partner": "dostavljati",
+      "pres_1sg": "dostavim",
+      "forms": [
+        "dostavim",
+        "dostaviš",
+        "dostavi",
+        "dostavimo",
+        "dostavite",
+        "dostave",
+        "dostavila",
+        "dostavili",
+        "dostavio",
+        "dostavljati",
+        "dostavljam",
+        "dostavljaš",
+        "dostavlja",
+        "dostavljamo",
+        "dostavljate",
+        "dostavljaju"
+      ],
+      "ua": "доставити (недок. dostavljati)",
+      "audio": "hr-dostaviti.mp3",
+      "explain_ua": "(Trgovina dostavlja narudžbe = магазин доставляє замовлення). Пара: dostaviti (док.) / dostavljati (недок.): dostavim / dostavljam, v > vlj. Знахідний: dostaviti paket. Кому: давальний (dostaviti kupcu). Родина слова dostava (вище).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (v > vlj)."
+    },
+    {
+      "id": "hr-0d8ddec2",
+      "type": "verb",
+      "lemma": "ostaviti",
+      "aspect": "pf.",
+      "partner": "ostavljati",
+      "pres_1sg": "ostavim",
+      "forms": [
+        "ostavim",
+        "ostaviš",
+        "ostavi",
+        "ostavimo",
+        "ostavite",
+        "ostave",
+        "ostavila",
+        "ostavili",
+        "ostavio",
+        "ostavljati",
+        "ostavljam",
+        "ostavljaš",
+        "ostavlja",
+        "ostavljamo",
+        "ostavljate",
+        "ostavljaju",
+        "ostavit"
+      ],
+      "ua": "залишити (недок. ostavljati)",
+      "audio": "hr-ostaviti.mp3",
+      "explain_ua": "(Ostavit ću vam poruku = залишу вам повідомлення). Пара: ostaviti (док.) / ostavljati (недок.): ostavim / ostavljam, v > vlj. Ostaviti poruku = залишити повідомлення. Майбутнє від док.: ostavit ću vam, інфінітив перед ću (Lekcija 12). Українське «залишити» інше слово, просто вчимо.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (v > vlj)."
+    },
+    {
+      "id": "hr-a668fff8",
+      "type": "verb",
+      "lemma": "žaliti se",
+      "aspect": "impf.",
+      "partner": "požaliti se",
+      "pres_1sg": "žalim se",
+      "forms": [
+        "žalim",
+        "žališ",
+        "žali",
+        "žalimo",
+        "žalite",
+        "žale",
+        "žalila",
+        "žalili",
+        "žalio",
+        "požaliti",
+        "požalim",
+        "požališ",
+        "požali",
+        "požalimo",
+        "požalite",
+        "požale",
+        "požalila"
+      ],
+      "ua": "скаржитися (док. požaliti se)",
+      "audio": "hr-zaliti.mp3",
+      "explain_ua": "(Žalimo se na kvar = скаржимося на поломку). Пара: žaliti se (недок.) / požaliti se (док.): žalim se / požalim se. Скаржитися «на що»: na + знахідний (žaliti se na dostavu). Збіг форм: žalim te може значити «шкодую про тебе»; тут тільки «скаржуся». Родина žao (Lekcija 32): підказка для пам'яті.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Що саме na + знахідний після žaliti se, з мого знання."
+    },
+    {
+      "id": "hr-0edc3616",
+      "type": "adjective",
+      "lemma": "pokvaren",
+      "fem": "pokvarena",
+      "neut": "pokvareno",
+      "ua": "зіпсований, зламаний",
+      "audio": "hr-pokvaren.mp3",
+      "forms": [
+        "pokvarena",
+        "pokvareno",
+        "pokvareni",
+        "pokvarene"
+      ],
+      "explain_ua": "(Moj mobitel je pokvaren = мій мобільний зламаний). Прикметник від дієприкметника: pokvaren, pokvarena, pokvareno. Без нестійкого a. Рід за словом: pokvarena perilica, pokvaren auto.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-081366b3",
+      "type": "adjective",
+      "lemma": "oštećen",
+      "fem": "oštećena",
+      "neut": "oštećeno",
+      "ua": "пошкоджений",
+      "audio": "hr-ostecen.mp3",
+      "forms": [
+        "oštećena",
+        "oštećeno",
+        "oštećeni",
+        "oštećene",
+        "oštećenu"
+      ],
+      "explain_ua": "(Paket je oštećen = пакет пошкоджений). Прикметник від дієприкметника: oštećen, oštećena, oštećeno. Пиши š і ć: oštećen. Рід за словом: oštećena lampa, oštećen paket.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-e47179ac",
+      "type": "adjective",
+      "lemma": "zauzet",
+      "fem": "zauzeta",
+      "neut": "zauzeto",
+      "ua": "зайнятий",
+      "audio": "hr-zauzet.mp3",
+      "forms": [
+        "zauzeta",
+        "zauzeto",
+        "zauzeti",
+        "zauzete"
+      ],
+      "explain_ua": "(Linija je zauzeta = лінія зайнята). Прикметник: zauzet, zauzeta, zauzeto. Про лінію, місце, людину, яка не має часу. Українське «зайнятий» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-867c8e88",
+      "type": "function",
+      "lemma": "halo",
+      "ua": "алло",
+      "audio": "hr-halo.mp3",
+      "forms": [],
+      "explain_ua": "(Halo, ovdje je servis = алло, тут сервіс). Вигук, не змінюється. Так відповідають і так починають телефонну розмову. Українське «алло» те саме, просто пиши h.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-0f1619cc",
+      "type": "function",
+      "lemma": "čim",
+      "ua": "щойно, як тільки",
+      "audio": "hr-cim.mp3",
+      "forms": [],
+      "explain_ua": "(Čim dođem, nazvat ću vas = щойно прийду, зателефоную вам). Сполучник, як kad (Lekcija 21): після нього теперішній час доконаного дієслова (čim dođe, čim završim), не майбутнє. Не «čim ću doći». Клітик після čim: čim se pokvari. Українське «щойно» інше слово, просто вчимо.",
+      "check": "Значення та вживання з мого знання за зразком kad."
+    },
+    {
+      "id": "hr-95f4a004",
+      "type": "function",
+      "lemma": "najkasnije",
+      "ua": "найпізніше, не пізніше ніж",
+      "audio": "hr-najkasnije.mp3",
+      "forms": [],
+      "explain_ua": "(Dostavite paket najkasnije do petka = доставте пакет не пізніше п'ятниці). Прислівник найвищого ступеня від kasno (Lekcija 45). Зазвичай з до + родовий: najkasnije do petka, najkasnije do osam sati. Пиши j: najkasnije.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Телефон: як відповісти, чому дзвониш, як залишити повідомлення",
+      "summary_ua": "Спершу halo або ім'я закладу, потім причина: zovem zbog + родовий. Запитати «чи можна»: Mogu li ostaviti poruku? Možete li me spojiti s ...? Li стоїть на другому місці, потім me (Lekcija 35). Усі ситуації вигадані, це мовна практика.",
+      "compare": [
+        {
+          "form": "Halo, ovdje je ... ",
+          "when_ua": "Починаєш розмову.",
+          "examples": [
+            {
+              "text": "Halo, ovdje je servis, izvolite.",
+              "ua": "Алло, тут сервіс, слухаю вас.",
+              "audio": "hr-les49-rule-01.mp3"
+            },
+            {
+              "text": "Halo, je li to firma?",
+              "ua": "Алло, це фірма?",
+              "audio": "hr-les49-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Je li: li на другому місці (Lekcija 2). Izvolite з Lekcija 7."
+        },
+        {
+          "form": "zovem zbog + родовий",
+          "when_ua": "Кажеш причину дзвінка.",
+          "examples": [
+            {
+              "text": "Zovem zbog narudžbe.",
+              "ua": "Дзвоню через замовлення.",
+              "audio": "hr-les49-rule-03.mp3"
+            },
+            {
+              "text": "Nazvala sam vas zbog računa.",
+              "ua": "Я зателефонувала вам через рахунок.",
+              "audio": "hr-les49-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Zbog (Lekcija 27) з родовим: narudžbe, računa. Sam на другому місці, vas після нього: nazvala sam vas."
+        },
+        {
+          "form": "ostaviti poruku / spojiti",
+          "when_ua": "Просиш залишити повідомлення чи з'єднати.",
+          "examples": [
+            {
+              "text": "Mogu li ostaviti poruku?",
+              "ua": "Чи можу я залишити повідомлення?",
+              "audio": "hr-les49-rule-05.mp3"
+            },
+            {
+              "text": "Možete li me spojiti s majstorom?",
+              "ua": "Чи можете ви з'єднати мене з майстром?",
+              "audio": "hr-les49-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Li перше, me після: možete li me. S + орудний: s majstorom (Lekcija 14)."
+        }
+      ],
+      "points_ua": [
+        "Halo, ovdje je ...; Zovem zbog + родовий.",
+        "Mogu li ostaviti poruku? Možete li me spojiti s ...? (li, потім me)",
+        "Усе вигадане, мовна практика."
+      ]
+    },
+    {
+      "title_ua": "Ввічлива просьба й скарга",
+      "summary_ua": "Ввічливо: bih (Lekcija 18) або molim vas da + теперішній (Lekcija 40). Скаржитися: žaliti se na + знахідний. Після da теперішній час, не інфінітив: molim vas da zamijenite, не «da zamijeniti».",
+      "compare": [
+        {
+          "form": "željela bih ... / željeli bismo ...",
+          "when_ua": "Ввічливе бажання.",
+          "examples": [
+            {
+              "text": "Željela bih zamijeniti ovaj dio.",
+              "ua": "Я хотіла б замінити цю частину.",
+              "audio": "hr-les49-rule-07.mp3"
+            },
+            {
+              "text": "Željeli bismo poslati reklamaciju.",
+              "ua": "Ми хотіли б надіслати рекламацію.",
+              "audio": "hr-les49-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Bih, bismo на другому місці (Lekcija 18). Після нього інфінітив."
+        },
+        {
+          "form": "molim vas da + теперішній",
+          "when_ua": "Просиш когось щось зробити.",
+          "examples": [
+            {
+              "text": "Molim vas da nazovete majstora.",
+              "ua": "Прошу вас зателефонувати майстрові.",
+              "audio": "hr-les49-rule-09.mp3"
+            },
+            {
+              "text": "Zamolila bih vas da dostavite paket u petak.",
+              "ua": "Я попросила б вас доставити пакет у п'ятницю.",
+              "audio": "hr-les49-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Da + теперішній: nazovete, dostavite. Zamolila bih vas: bih на другому місці, vas після нього."
+        },
+        {
+          "form": "žaliti se na + знахідний",
+          "when_ua": "Скаржишся на щось.",
+          "examples": [
+            {
+              "text": "Žalila sam se na dostavu.",
+              "ua": "Я скаржилася на доставку.",
+              "audio": "hr-les49-rule-11.mp3"
+            },
+            {
+              "text": "Ne žalim se na majstora.",
+              "ua": "Я не скаржуся на майстра.",
+              "audio": "hr-les49-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Na + знахідний (na dostavu, на майстра: знахідний живого збігається з родовим). Не «za dostavu»."
+        }
+      ],
+      "points_ua": [
+        "Željela bih ...; Molim vas da + теперішній.",
+        "Žaliti se na + знахідний."
+      ]
+    },
+    {
+      "title_ua": "Čim + теперішній, najkasnije do + родовий",
+      "summary_ua": "Чим працює як kad (Lekcija 21): після нього теперішній доконаного, а в головному реченні майбутнє. Не «čim ću doći». Для терміну: najkasnije do + родовий.",
+      "compare": [
+        {
+          "form": "čim + теперішній доконаного",
+          "when_ua": "Щойно щось станеться.",
+          "examples": [
+            {
+              "text": "Čim dođe majstor, javit ću vam.",
+              "ua": "Щойно прийде майстер, дам вам знати.",
+              "audio": "hr-les49-rule-13.mp3"
+            },
+            {
+              "text": "Čim završim posao, zovem servis.",
+              "ua": "Щойно закінчу роботу, дзвоню в сервіс.",
+              "audio": "hr-les49-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Dođe, završim: теперішній, хоч мова про майбутнє (Lekcija 21, kad). Javit ću: інфінітив перед ću."
+        },
+        {
+          "form": "čim se ...",
+          "when_ua": "Клітик після čim.",
+          "examples": [
+            {
+              "text": "Čim se perilica pokvari, zovem servis.",
+              "ua": "Щойно пральна машина зламається, дзвоню в сервіс.",
+              "audio": "hr-les49-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Se відразу після čim, на другому місці речення, не наприкінці."
+        },
+        {
+          "form": "najkasnije do + родовий",
+          "when_ua": "Крайній термін.",
+          "examples": [
+            {
+              "text": "Dostavite paket najkasnije do petka.",
+              "ua": "Доставте пакет не пізніше п'ятниці.",
+              "audio": "hr-les49-rule-16.mp3"
+            },
+            {
+              "text": "Molim odgovor najkasnije do ponedjeljka.",
+              "ua": "Прошу відповідь не пізніше понеділка.",
+              "audio": "hr-les49-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Do + родовий: petka, ponedjeljka (дні з Lekcija 6, родовий як у Lekcija 40)."
+        }
+      ],
+      "points_ua": [
+        "Čim dođe ..., javit ću vam: теперішній після čim.",
+        "Najkasnije do petka."
+      ]
+    },
+    {
+      "title_ua": "Gdje і kamo: сервіс, офіс, майстер",
+      "summary_ua": "Повторення gdje / kamo на нових словах, яких не вистачило в Lekcija 44. Де: u servisu, na šalteru, kod majstora. Куди: u servis, na šalter, k majstoru (k + давальний) або kod majstora (у гості, до особи: Lekcija 27).",
+      "compare": [
+        {
+          "form": "u servisu / u servis",
+          "when_ua": "Де й куди.",
+          "examples": [
+            {
+              "text": "Mobitel je u servisu.",
+              "ua": "Мобільний у сервісі.",
+              "audio": "hr-les49-rule-18.mp3"
+            },
+            {
+              "text": "Nosim mobitel u servis.",
+              "ua": "Несу мобільний у сервіс.",
+              "audio": "hr-les49-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Де: місцевий (u servisu). Куди: знахідний (u servis)."
+        },
+        {
+          "form": "na šalteru / na šalter",
+          "when_ua": "Де й куди.",
+          "examples": [
+            {
+              "text": "Čekam na šalteru.",
+              "ua": "Чекаю біля віконця.",
+              "audio": "hr-les49-rule-20.mp3"
+            },
+            {
+              "text": "Idem na šalter.",
+              "ua": "Йду до віконця.",
+              "audio": "hr-les49-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Na šalteru / na šalter (Lekcija 36)."
+        },
+        {
+          "form": "kod majstora / k majstoru",
+          "when_ua": "До особи.",
+          "examples": [
+            {
+              "text": "Idem kod majstora.",
+              "ua": "Йду до майстра.",
+              "audio": "hr-les49-rule-22.mp3"
+            },
+            {
+              "text": "Idem k majstoru.",
+              "ua": "Йду до майстра.",
+              "audio": "hr-les49-rule-23.mp3"
+            }
+          ],
+          "note_ua": "Kod + родовий або k + давальний, обидва нормальні (Lekcija 27). Не «u majstora», бо до людини в нас kod, k."
+        }
+      ],
+      "points_ua": [
+        "U servisu (де), u servis (куди).",
+        "Na šalteru, na šalter.",
+        "Kod majstora або k majstoru."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Pišem reklamaciju za perilicu.",
+      "ua": "Пишу рекламацію на пральну машину.",
+      "audio": "hr-les49-example-01.mp3"
+    },
+    {
+      "text": "Kvar nije velik.",
+      "ua": "Поломка невелика.",
+      "audio": "hr-les49-example-02.mp3"
+    },
+    {
+      "text": "Servis je blizu kolodvora.",
+      "ua": "Сервіс поблизу вокзалу.",
+      "audio": "hr-les49-example-03.mp3"
+    },
+    {
+      "text": "Majstor dolazi u srijedu.",
+      "ua": "Майстер приходить у середу.",
+      "audio": "hr-les49-example-04.mp3"
+    },
+    {
+      "text": "Račun i jamstvo su ovdje.",
+      "ua": "Чек і гарантія тут.",
+      "audio": "hr-les49-example-05.mp3"
+    },
+    {
+      "text": "Popravak nije skup.",
+      "ua": "Ремонт недорогий.",
+      "audio": "hr-les49-example-06.mp3"
+    },
+    {
+      "text": "Dostava je besplatna.",
+      "ua": "Доставка безкоштовна.",
+      "audio": "hr-les49-example-07.mp3"
+    },
+    {
+      "text": "Narudžba je u paketu.",
+      "ua": "Замовлення в пакеті.",
+      "audio": "hr-les49-example-08.mp3"
+    },
+    {
+      "text": "Perilica je u kupaonici.",
+      "ua": "Пральна машина у ванній.",
+      "audio": "hr-les49-example-09.mp3"
+    },
+    {
+      "text": "Želim povrat novca.",
+      "ua": "Хочу повернення грошей.",
+      "audio": "hr-les49-example-10.mp3"
+    },
+    {
+      "text": "Linija je zauzeta.",
+      "ua": "Лінія зайнята.",
+      "audio": "hr-les49-example-11.mp3"
+    },
+    {
+      "text": "Auto se pokvario na cesti.",
+      "ua": "Авто зламалося на дорозі.",
+      "audio": "hr-les49-example-12.mp3"
+    },
+    {
+      "text": "Molim vas, zamijenite ovaj dio.",
+      "ua": "Будь ласка, замініть цю частину.",
+      "audio": "hr-les49-example-13.mp3"
+    },
+    {
+      "text": "Trgovina dostavlja narudžbe.",
+      "ua": "Магазин доставляє замовлення.",
+      "audio": "hr-les49-example-14.mp3"
+    },
+    {
+      "text": "Ostavit ću vam poruku.",
+      "ua": "Залишу вам повідомлення.",
+      "audio": "hr-les49-example-15.mp3"
+    },
+    {
+      "text": "Žalimo se na kvar.",
+      "ua": "Скаржимося на поломку.",
+      "audio": "hr-les49-example-16.mp3"
+    },
+    {
+      "text": "Moj mobitel je pokvaren.",
+      "ua": "Мій мобільний зламаний.",
+      "audio": "hr-les49-example-17.mp3"
+    },
+    {
+      "text": "Paket je oštećen.",
+      "ua": "Пакет пошкоджений.",
+      "audio": "hr-les49-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Pokvarena perilica",
+    "title_ua": "Зіпсована пральна машина",
+    "highlight": [
+      "hr-a9c185c4",
+      "hr-1039783c",
+      "hr-cf54a1a7",
+      "hr-e1546c5d",
+      "hr-8c956c17",
+      "hr-081366b3",
+      "hr-e47179ac",
+      "hr-0f1619cc",
+      "hr-95f4a004"
+    ],
+    "sentences": [
+      {
+        "text": "Prošli tjedan pokvarila se naša perilica.",
+        "ua": "Минулого тижня зламалася наша пральна машина.",
+        "audio": "hr-les49-reading-01.mp3"
+      },
+      {
+        "text": "Nazvala sam servis, ali je linija bila zauzeta.",
+        "ua": "Я зателефонувала в сервіс, але лінія була зайнята.",
+        "audio": "hr-les49-reading-02.mp3"
+      },
+      {
+        "text": "Zato sam ostavila poruku.",
+        "ua": "Тому я залишила повідомлення.",
+        "audio": "hr-les49-reading-03.mp3"
+      },
+      {
+        "text": "Majstor se javio idući dan i rekao da će doći u srijedu.",
+        "ua": "Майстер озвався наступного дня й сказав, що прийде в середу.",
+        "audio": "hr-les49-reading-04.mp3"
+      },
+      {
+        "text": "Čim je došao, vidio je da je jedan dio oštećen.",
+        "ua": "Щойно прийшов, він побачив, що одна частина пошкоджена.",
+        "audio": "hr-les49-reading-05.mp3"
+      },
+      {
+        "text": "Rekao je da mora naručiti novi dio.",
+        "ua": "Він сказав, що мусить замовити нову частину.",
+        "audio": "hr-les49-reading-06.mp3"
+      },
+      {
+        "text": "Imamo račun i jamstvo.",
+        "ua": "У нас є чек і гарантія.",
+        "audio": "hr-les49-reading-07.mp3"
+      },
+      {
+        "text": "Majstor će zamijeniti dio najkasnije do petka.",
+        "ua": "Майстер замінить частину не пізніше п'ятниці.",
+        "audio": "hr-les49-reading-08.mp3"
+      },
+      {
+        "text": "Bio je ljubazan i vješt, zato se ne žalim.",
+        "ua": "Він був люб'язний і вправний, тому я не скаржуся.",
+        "audio": "hr-les49-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай телефонну розмову (говорять двоє) і дай відповіді. Текст можна показати після відповідей.",
+      "audio": "hr-les-49-call.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Servis, dobar dan, izvolite."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Dobar dan. Zovem zbog perilice. Pokvarila se jučer."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Imate li račun i jamstvo?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Imam. Možete li poslati majstora?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Majstor može doći u srijedu, od osam do deset sati."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "U srijedu ne mogu. Može li u četvrtak?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Može. Majstor će doći u četvrtak ujutro."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Nazvat će vas u osam sati."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Hvala. Je li popravak besplatan?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "To će vam reći majstor."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Чому жінка дзвонить?",
+          "choices": [
+            "Зламалася пральна машина",
+            "Зламався телефон",
+            "Не прийшла доставка"
+          ],
+          "accepted": [
+            "Зламалася пральна машина"
+          ]
+        },
+        {
+          "prompt": "Майстер може прийти в середу між восьмою і десятою.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Жінка погоджується на середу.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Коли прийде майстер? (день)",
+          "accepted": [
+            "četvrtak",
+            "u četvrtak",
+            "u četvrtak ujutro",
+            "četvrtka"
+          ]
+        },
+        {
+          "prompt": "О котрій годині він зателефонує? (число)",
+          "accepted": [
+            "osam",
+            "u osam",
+            "u osam sati",
+            "8",
+            "u 8 sati"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай текст і дай відповіді. Текст видно, поки ти відповідаєш.",
+      "audio": "hr-les-49-order.mp3",
+      "passage": {
+        "title": "Lampa za kuhinju",
+        "paragraphs": [
+          "Prošli tjedan sam naručila novu lampu za kuhinju. Narudžba je trebala doći u utorak, a dostava je bila tek u četvrtak.",
+          "Kad sam otvorila paket, vidjela sam da je lampa oštećena. Paket je bio velik i težak. Odmah sam nazvala trgovinu, ali je linija bila zauzeta. Zato sam napisala e-poštu i priložila sliku. Žalila sam se na oštećenu lampu i zamolila ih da je zamijene.",
+          "Trgovina se ispričala i odgovorila je idući dan. Novu lampu su dostavili u petak. Ovaj put nije bila oštećena, zato sam zadovoljna. Račun imam kod kuće.",
+          "Moja sestra kaže da je to normalno. Ona misli da svaka trgovina ponekad dostavi oštećen paket."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Що вона замовила? (одне слово хорватською)",
+          "accepted": [
+            "lampu",
+            "lampa",
+            "novu lampu"
+          ]
+        },
+        {
+          "prompt": "У який день мала прийти доставка?",
+          "accepted": [
+            "utorak",
+            "u utorak",
+            "utorka"
+          ]
+        },
+        {
+          "prompt": "Лампа була пошкоджена.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Лінія магазину була вільна.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Що вона надіслала в електронному листі? (один варіант)",
+          "choices": [
+            "Фото пошкодженої лампи",
+            "Чек",
+            "Нову адресу"
+          ],
+          "accepted": [
+            "Фото пошкодженої лампи"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій телефон зламався вчора.",
+          "accepted": [
+            "Moj mobitel se pokvario jučer.",
+            "Moj se mobitel pokvario jučer.",
+            "Moj telefon se pokvario jučer."
+          ]
+        },
+        {
+          "prompt": "Майстер приходить у четвер.",
+          "accepted": [
+            "Majstor dolazi u četvrtak."
+          ]
+        },
+        {
+          "prompt": "Лінія була зайнята цілий день.",
+          "accepted": [
+            "Linija je bila zauzeta cijeli dan."
+          ]
+        },
+        {
+          "prompt": "Я залишила повідомлення в сервісі.",
+          "accepted": [
+            "Ostavila sam poruku u servisu."
+          ]
+        },
+        {
+          "prompt": "Чи можете ви замінити ключ?",
+          "accepted": [
+            "Možete li zamijeniti ključ?"
+          ]
+        },
+        {
+          "prompt": "Доставте пакет не пізніше вівторка.",
+          "accepted": [
+            "Dostavite paket najkasnije do utorka."
+          ]
+        },
+        {
+          "prompt": "Щойно я прийду додому, подзвоню вам.",
+          "accepted": [
+            "Čim dođem kući, nazvat ću vas.",
+            "Čim dođem kući, nazvat ću Vas."
+          ]
+        },
+        {
+          "prompt": "Вона скаржиться на майстра.",
+          "accepted": [
+            "Ona se žali na majstora.",
+            "Žali se na majstora."
+          ]
+        },
+        {
+          "prompt": "Нова пральна машина дорога.",
+          "accepted": [
+            "Nova perilica je skupa."
+          ]
+        },
+        {
+          "prompt": "Хочу повернення грошей за це замовлення.",
+          "accepted": [
+            "Želim povrat novca za ovu narudžbu."
+          ]
+        },
+        {
+          "prompt": "Мій брат лагодить зіпсований велосипед.",
+          "accepted": [
+            "Moj brat popravlja pokvaren bicikl.",
+            "Moj brat popravlja pokvareni bicikl."
+          ]
+        },
+        {
+          "prompt": "Алло, це сервіс?",
+          "accepted": [
+            "Halo, je li to servis?"
+          ]
+        },
+        {
+          "prompt": "Ми чекаємо майстра в середу вранці.",
+          "accepted": [
+            "Čekamo majstora u srijedu ujutro."
+          ]
+        },
+        {
+          "prompt": "Вона зателефонувала в сервіс, бо пральна машина не працює.",
+          "accepted": [
+            "Nazvala je servis jer perilica ne radi."
+          ]
+        },
+        {
+          "prompt": "Ми йдемо в сервіс.",
+          "accepted": [
+            "Idemo u servis."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "reklamaciju",
+        "kvar",
+        "servisu",
+        "majstor",
+        "jamstvo",
+        "Popravak",
+        "Dostava",
+        "narudžba",
+        "perilica",
+        "povrat",
+        "Linija",
+        "Halo",
+        "najkasnije",
+        "pokvaren"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Pišem ___ za oštećen paket.",
+          "hint": "Пишу рекламацію на пошкоджений пакет.",
+          "accepted": [
+            [
+              "reklamaciju"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ nije velik.",
+          "hint": "Та поломка невелика.",
+          "accepted": [
+            [
+              "kvar"
+            ]
+          ]
+        },
+        {
+          "text": "Naša perilica je u ___ od ponedjeljka.",
+          "hint": "Наша пральна машина в сервісі від понеділка.",
+          "accepted": [
+            [
+              "servisu"
+            ]
+          ]
+        },
+        {
+          "text": "Naš ___ je ljubazan i vješt.",
+          "hint": "Наш майстер люб'язний і вправний.",
+          "accepted": [
+            [
+              "majstor"
+            ]
+          ]
+        },
+        {
+          "text": "Račun i ___ su kod mene.",
+          "hint": "Чек і гарантія в мене.",
+          "accepted": [
+            [
+              "jamstvo"
+            ]
+          ]
+        },
+        {
+          "text": "___ će trajati dva dana.",
+          "hint": "Ремонт триватиме два дні.",
+          "accepted": [
+            [
+              "Popravak",
+              "popravak"
+            ]
+          ]
+        },
+        {
+          "text": "___ je u petak.",
+          "hint": "Доставка в п'ятницю.",
+          "accepted": [
+            [
+              "Dostava",
+              "dostava"
+            ]
+          ]
+        },
+        {
+          "text": "Gdje je moja ___?",
+          "hint": "Де моє замовлення?",
+          "accepted": [
+            [
+              "narudžba"
+            ]
+          ]
+        },
+        {
+          "text": "Naša ___ je stara.",
+          "hint": "Наша пральна машина стара.",
+          "accepted": [
+            [
+              "perilica"
+            ]
+          ]
+        },
+        {
+          "text": "Tražim ___ novca za pokvarenu perilicu.",
+          "hint": "Прошу повернення грошей за зламану пральну машину.",
+          "accepted": [
+            [
+              "povrat"
+            ]
+          ]
+        },
+        {
+          "text": "Telefon zvoni, ali je ___ stalno zauzeta.",
+          "hint": "Телефон дзвонить, але лінія постійно зайнята.",
+          "accepted": [
+            [
+              "linija"
+            ]
+          ]
+        },
+        {
+          "text": "___, ovdje je servis.",
+          "hint": "Алло, тут сервіс.",
+          "accepted": [
+            [
+              "Halo",
+              "halo"
+            ]
+          ]
+        },
+        {
+          "text": "Odgovorite mi ___ do ponedjeljka.",
+          "hint": "Дайте мені відповідь не пізніше понеділка.",
+          "accepted": [
+            [
+              "najkasnije"
+            ]
+          ]
+        },
+        {
+          "text": "Taj auto je ___.",
+          "hint": "Те авто зламане.",
+          "accepted": [
+            [
+              "pokvaren"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Zovem zbog perilica.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zovem zbog perilice."
+          ]
+        },
+        {
+          "prompt": "Čim ću doći, nazvat ću vas.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čim dođem, nazvat ću vas.",
+            "Čim dođem, nazvat ću Vas."
+          ]
+        },
+        {
+          "prompt": "Sutra idem k majstor.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sutra idem k majstoru.",
+            "Sutra idem kod majstora."
+          ]
+        },
+        {
+          "prompt": "Perilica je u servis.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Perilica je u servisu."
+          ]
+        },
+        {
+          "prompt": "Možete se li javiti?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Možete li se javiti?"
+          ]
+        },
+        {
+          "prompt": "Žalim se za dostavu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Žalim se na dostavu."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam nazvala servis.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam nazvala servis.",
+            "Ja sam danas nazvala servis."
+          ]
+        },
+        {
+          "prompt": "Gospodin majstor, hvala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gospodine majstore, hvala."
+          ]
+        },
+        {
+          "prompt": "Mi zovem majstora.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi zovemo majstora.",
+            "Zovemo majstora."
+          ]
+        },
+        {
+          "prompt": "Paket treba dostaviti najkasnije u srijedu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Paket treba dostaviti najkasnije do srijede."
+          ]
+        },
+        {
+          "prompt": "Molim vas da zamijeniti dio.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Molim vas da zamijenite dio."
+          ]
+        },
+        {
+          "prompt": "Majstor dolazi u srijedu.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Majstor je došao u srijedu.",
+            "Majstor je dolazio u srijedu."
+          ]
+        },
+        {
+          "prompt": "Perilica radi.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Perilica ne radi."
+          ]
+        },
+        {
+          "prompt": "Zamijenite dio.",
+          "cue": "-> Molim vas da ...",
+          "accepted": [
+            "Molim vas da zamijenite dio."
+          ]
+        },
+        {
+          "prompt": "Majstor popravlja perilicu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Popravlja li majstor perilicu?"
+          ]
+        },
+        {
+          "prompt": "Majstor dolazi i zove nas.",
+          "cue": "-> Čim ... (doći)",
+          "accepted": [
+            "Čim majstor dođe, zove nas.",
+            "Zove nas čim majstor dođe."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Perilica se često ___.",
+          "cue": "kvariti se",
+          "accepted": [
+            "kvari"
+          ]
+        },
+        {
+          "text": "Jučer se ___ moj mobitel.",
+          "cue": "pokvariti se",
+          "accepted": [
+            "pokvario"
+          ]
+        },
+        {
+          "text": "Majstor ___ dio svaki put.",
+          "cue": "zamjenjivati",
+          "accepted": [
+            "zamjenjuje"
+          ]
+        },
+        {
+          "text": "Trgovina ___ narudžbe svaki dan.",
+          "cue": "dostavljati",
+          "accepted": [
+            "dostavlja"
+          ]
+        },
+        {
+          "text": "Kad majstor ___ dio, zovem vas.",
+          "cue": "dostaviti",
+          "accepted": [
+            "dostavi"
+          ]
+        },
+        {
+          "text": "Ja uvijek ___ poruku.",
+          "cue": "ostavljati",
+          "accepted": [
+            "ostavljam"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ poruku.",
+          "cue": "ostaviti",
+          "accepted": [
+            "ostavila",
+            "ostavio"
+          ]
+        },
+        {
+          "text": "Mi se ne ___ na majstora.",
+          "cue": "žaliti se",
+          "accepted": [
+            "žalimo"
+          ]
+        },
+        {
+          "text": "Ona se ___ na dostavu svaki tjedan.",
+          "cue": "žaliti se",
+          "accepted": [
+            "žali"
+          ]
+        },
+        {
+          "text": "Moj brat ___ pokvaren auto.",
+          "cue": "popravljati",
+          "accepted": [
+            "popravlja"
+          ]
+        },
+        {
+          "text": "Ako perilica ne radi, ja ___ servis.",
+          "cue": "nazvati",
+          "accepted": [
+            "nazovem"
+          ]
+        },
+        {
+          "text": "Majstor je jučer opet ___.",
+          "cue": "doći",
+          "accepted": [
+            "došao"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "пошкоджений",
+          "answer": "oštećen"
+        },
+        {
+          "prompt": "рекламація",
+          "answer": "reklamacija"
+        },
+        {
+          "prompt": "поломка",
+          "answer": "kvar"
+        },
+        {
+          "prompt": "сервіс, майстерня",
+          "answer": "servis"
+        },
+        {
+          "prompt": "майстер (лагодить)",
+          "answer": "majstor"
+        },
+        {
+          "prompt": "гарантія (документ)",
+          "answer": "jamstvo"
+        },
+        {
+          "prompt": "ремонт",
+          "answer": "popravak"
+        },
+        {
+          "prompt": "доставка",
+          "answer": "dostava"
+        },
+        {
+          "prompt": "замовлення",
+          "answer": "narudžba"
+        },
+        {
+          "prompt": "пральна машина",
+          "answer": "perilica"
+        },
+        {
+          "prompt": "повернення (грошей)",
+          "answer": "povrat"
+        },
+        {
+          "prompt": "лінія (зв'язку)",
+          "answer": "linija"
+        },
+        {
+          "prompt": "зайнятий",
+          "answer": "zauzet"
+        },
+        {
+          "prompt": "зламаний, зіпсований",
+          "answer": "pokvaren"
+        }
+      ],
+      "extra": [
+        "halo",
+        "čim"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова, де найчастіше помиляються в діакритиці й ije / je: послухай і напиши.",
+      "words": [
+        "dijete",
+        "prijatelj",
+        "učiteljica",
+        "svibanj",
+        "riječ",
+        "iskustvo"
+      ],
+      "max": 6,
+      "check": "Слова з Lekcija 1, 3, 41, 42; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

@@ -1,0 +1,1726 @@
+{
+  "id": "hr-les-50",
+  "lang": "hr",
+  "order": 50,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "sljedeći",
+    "vikend",
+    "putujem",
+    "vlakom",
+    "na",
+    "more",
+    "polazak",
+    "vlaka",
+    "je",
+    "u",
+    "osam",
+    "sati",
+    "kad",
+    "budem",
+    "kolodvoru",
+    "kupit",
+    "ću",
+    "povratnu",
+    "kartu",
+    "ako",
+    "kasnila",
+    "javit",
+    "bratu",
+    "bude",
+    "kiše",
+    "ostat",
+    "ćemo",
+    "kod",
+    "brata",
+    "izravan",
+    "zato",
+    "ne",
+    "moram",
+    "ulaziti",
+    "drugi",
+    "vlak",
+    "do",
+    "mora",
+    "otprilike",
+    "pet",
+    "se",
+    "vraćala",
+    "sir",
+    "vino",
+    "prtljage",
+    "nemam",
+    "puno",
+    "sigurno",
+    "sretna",
+    "peronu",
+    "kolosijeku",
+    "zbog",
+    "radova",
+    "kasni",
+    "minuta",
+    "dvadeset",
+    "petnaest",
+    "deset",
+    "dva",
+    "tri",
+    "broj",
+    "perona",
+    "autobus",
+    "stanici",
+    "idućoj",
+    "ušla",
+    "ušao",
+    "ušli",
+    "izašla",
+    "izašao",
+    "izašli",
+    "krenuo",
+    "krenula",
+    "stigao",
+    "stigla",
+    "stigli",
+    "propustio",
+    "propustila",
+    "vjerojatno",
+    "barem",
+    "gost",
+    "gosti",
+    "stiže",
+    "kreće",
+    "kafić",
+    "ispred",
+    "poštovani",
+    "putnici",
+    "molimo",
+    "vas",
+    "da",
+    "pozorno",
+    "slušate",
+    "obavijesti",
+    "hvala",
+    "to",
+    "autobusa",
+    "autobusu",
+    "iz",
+    "kofer",
+    "težak",
+    "teška",
+    "kućom",
+    "kuće",
+    "vrata",
+    "zatvori",
+    "uđeš",
+    "mobitel",
+    "daleko",
+    "čekam",
+    "čeka",
+    "brat",
+    "jutro",
+    "navečer",
+    "danas",
+    "jučer",
+    "uvijek",
+    "tjedan",
+    "prijatelj",
+    "vrijeme",
+    "dobar",
+    "dan",
+    "kako",
+    "mogu",
+    "pomoći",
+    "kada",
+    "ide",
+    "košta",
+    "trideset",
+    "eura",
+    "možete",
+    "ali",
+    "skuplja",
+    "skuplji",
+    "li",
+    "kupiti",
+    "putovati",
+    "radila",
+    "radim",
+    "nazvat",
+    "te",
+    "ti",
+    "sama",
+    "sam",
+    "ona",
+    "oni",
+    "mi",
+    "ja",
+    "posjetit",
+    "čekat",
+    "putnike",
+    "vlaku",
+    "budemo",
+    "vraćali",
+    "vraćale",
+    "teški",
+    "putniče"
+  ],
+  "notes": [
+    {
+      "id": "hr-df5626c0",
+      "type": "noun",
+      "lemma": "peron",
+      "gender": "m.",
+      "gen_sg": "perona",
+      "plural": [
+        "peroni"
+      ],
+      "ua": "перон",
+      "audio": "hr-peron.mp3",
+      "forms": [
+        "perona",
+        "peronu",
+        "peroni",
+        "perone",
+        "peronom"
+      ],
+      "explain_ua": "(Vlak je na peronu = поїзд на пероні). УВАГА ДО ВСЬОГО УРОКУ: поїзди, години й ціни в цьому уроці вигадані для вправ, це мовна практика. Чоловічого роду: peron, perona, na peronu (де), na peron (куди). Українське «перон» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-dce1d04c",
+      "type": "noun",
+      "lemma": "kolosijek",
+      "gender": "m.",
+      "gen_sg": "kolosijeka",
+      "plural": [
+        "kolosijeci"
+      ],
+      "ua": "колія (залізнична)",
+      "audio": "hr-kolosijek.mp3",
+      "forms": [
+        "kolosijeka",
+        "kolosijeku",
+        "kolosijeci",
+        "kolosijeke"
+      ],
+      "explain_ua": "(Vlak čeka na kolosijeku = поїзд чекає на колії). Чоловічого роду: kolosijek, kolosijeka, na kolosijeku. Множина kolosijeci (k > c). Українське «колія» інше слово, просто вчимо. Пиши ije > je: kolosijek.",
+      "check": "Форми з мого знання; множина kolosijeci і чи падає e в kolosijeka, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-cc5c4a52",
+      "type": "noun",
+      "lemma": "polazak",
+      "gender": "m.",
+      "gen_sg": "polaska",
+      "plural": [
+        "polasci"
+      ],
+      "ua": "відправлення",
+      "audio": "hr-polazak.mp3",
+      "forms": [
+        "polaska",
+        "polasku",
+        "polasci",
+        "polaske",
+        "polazi"
+      ],
+      "explain_ua": "(Polazak je u osam sati = відправлення о восьмій). Чоловічого роду, нестійке a (Lekcija 16): polazak, polaska, polasci. На табло polazak (відправлення) і dolazak (прибуття) стоять поруч. Українське «відправлення» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-63c6e783",
+      "type": "noun",
+      "lemma": "dolazak",
+      "gender": "m.",
+      "gen_sg": "dolaska",
+      "plural": [
+        "dolasci"
+      ],
+      "ua": "прибуття, приїзд",
+      "audio": "hr-dolazak.mp3",
+      "forms": [
+        "dolaska",
+        "dolasku",
+        "dolasci",
+        "dolaske"
+      ],
+      "explain_ua": "(Dolazak je u deset = прибуття о десятій). Чоловічого роду, нестійке a: dolazak, dolaska, dolasci. Від dolaziti (Lekcija 5): підказка для пам'яті, не етимологія. Парне слово до polazak.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-6f844a4f",
+      "type": "noun",
+      "lemma": "kašnjenje",
+      "gender": "s.",
+      "gen_sg": "kašnjenja",
+      "plural": [
+        "kašnjenja"
+      ],
+      "ua": "запізнення",
+      "audio": "hr-kasnjenje.mp3",
+      "forms": [
+        "kašnjenja",
+        "kašnjenju",
+        "kašnjenjem"
+      ],
+      "explain_ua": "(Kašnjenje je dugo = запізнення довге). Середній рід на -nje (як stanje, Lekcija 34): kašnjenje, kašnjenja. Чути на кожній станції: zbog kašnjenja. Від kasniti (нижче). Українське «запізнення» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f98b9fd1",
+      "type": "noun",
+      "lemma": "odredište",
+      "gender": "s.",
+      "gen_sg": "odredišta",
+      "plural": [
+        "odredišta"
+      ],
+      "ua": "пункт призначення",
+      "audio": "hr-odrediste.mp3",
+      "forms": [
+        "odredišta",
+        "odredištu",
+        "odredištem"
+      ],
+      "explain_ua": "(Odredište je more = пункт призначення море). Середній рід на -e: odredište, odredišta, u odredištu. Пиши š і dr: odredište. Українське «пункт призначення» складене, хорватське слово одне.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-ddbd1bcc",
+      "type": "noun",
+      "lemma": "prtljaga",
+      "gender": "ž.",
+      "gen_sg": "prtljage",
+      "plural": [],
+      "ua": "багаж",
+      "audio": "hr-prtljaga.mp3",
+      "forms": [
+        "prtljage",
+        "prtljagu",
+        "prtljazi"
+      ],
+      "explain_ua": "(Prtljaga je teška = багаж важкий). Жіночий рід на -a, зазвичай без множини: prtljaga, prtljage, prtljagu (знахідний). Українське «багаж» інше слово, просто вчимо. Валіза kofer (Lekcija 27).",
+      "check": "Форми з мого знання; місцевий prtljazi (g > z) подаю для повноти, у вжитку рідко."
+    },
+    {
+      "id": "hr-19383500",
+      "type": "noun",
+      "lemma": "putovanje",
+      "gender": "s.",
+      "gen_sg": "putovanja",
+      "plural": [
+        "putovanja"
+      ],
+      "ua": "подорож",
+      "audio": "hr-putovanje.mp3",
+      "forms": [
+        "putovanja",
+        "putovanju",
+        "putovanjem"
+      ],
+      "explain_ua": "(Putovanje je dugo = подорож довга). Середній рід на -nje: putovanje, putovanja, na putovanju. Від putovati (Lekcija 12). Не плутай з put (дорога, Lekcija 27).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-ecf44e09",
+      "type": "verb",
+      "lemma": "kasniti",
+      "aspect": "impf.",
+      "pres_1sg": "kasnim",
+      "forms": [
+        "kasnim",
+        "kasniš",
+        "kasni",
+        "kasnimo",
+        "kasnite",
+        "kasne",
+        "kasnila",
+        "kasnili",
+        "kasnio"
+      ],
+      "ua": "запізнюватися, запізнитися",
+      "audio": "hr-kasniti.mp3",
+      "explain_ua": "(Vlak kasni = поїзд запізнюється). Недоконане: kasnim, kasniš, kasni, 3 особа множини kasne. Пари доконаного для цього значення нема в моїх записах (check). Кого/що запізнюється: nominative; на скільки: kasni deset minuta (знахідний, мн. родовий після 5). Від kasno (Lekcija 45): підказка для пам'яті.",
+      "check": "Форми з мого знання; відсутність пари доконаного не звіряв."
+    },
+    {
+      "id": "hr-0bb53252",
+      "type": "verb",
+      "lemma": "stići",
+      "aspect": "pf.",
+      "partner": "stizati",
+      "pres_1sg": "stignem",
+      "forms": [
+        "stignem",
+        "stigneš",
+        "stigne",
+        "stignemo",
+        "stignete",
+        "stignu",
+        "stigao",
+        "stigla",
+        "stigli",
+        "stizati",
+        "stižem",
+        "stižeš",
+        "stiže",
+        "stižemo",
+        "stižete",
+        "stižu"
+      ],
+      "ua": "дістатися, прибути (недок. stizati)",
+      "audio": "hr-stici.mp3",
+      "explain_ua": "(Gost stiže u petak = гість прибуває в п'ятницю). Пара: stići (док.) / stizati (недок.): stignem / stižem. НЕПРАВИЛЬНЕ: інфінітив на -ći; минулий stigao, stigla, stigli. Час з stići: kad stignem, nazvat ću. Недок. stiže коли розповідаєш про розклад чи звичку. Українське «прибути» інше слово.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (stignem / stižem; stigao)."
+    },
+    {
+      "id": "hr-765f698f",
+      "type": "verb",
+      "lemma": "odgoditi",
+      "aspect": "pf.",
+      "partner": "odgađati",
+      "pres_1sg": "odgodim",
+      "forms": [
+        "odgodim",
+        "odgodiš",
+        "odgodi",
+        "odgodimo",
+        "odgodite",
+        "odgode",
+        "odgodila",
+        "odgodili",
+        "odgodio",
+        "odgađati",
+        "odgađam",
+        "odgađaš",
+        "odgađa",
+        "odgađamo",
+        "odgađate",
+        "odgađaju"
+      ],
+      "ua": "відкласти (на пізніше) (недок. odgađati)",
+      "audio": "hr-odgoditi.mp3",
+      "explain_ua": "(Odgađamo putovanje = відкладаємо подорож). Пара: odgoditi (док.) / odgađati (недок.): odgodim / odgađam, d > đ у недок. Знахідний: odgoditi putovanje. До якого часу: do + родовий (do ljeta). Пиши đ: odgađati.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (d > đ)."
+    },
+    {
+      "id": "hr-9a1a3935",
+      "type": "verb",
+      "lemma": "krenuti",
+      "aspect": "pf.",
+      "partner": "kretati",
+      "pres_1sg": "krenem",
+      "forms": [
+        "krenem",
+        "kreneš",
+        "krene",
+        "krenemo",
+        "krenete",
+        "krenu",
+        "krenuo",
+        "krenula",
+        "krenuli",
+        "kretati",
+        "krećem",
+        "krećeš",
+        "kreće",
+        "krećemo",
+        "krećete",
+        "kreću"
+      ],
+      "ua": "рушити, вирушити (недок. kretati)",
+      "audio": "hr-krenuti.mp3",
+      "explain_ua": "(Autobus kreće u devet sati = автобус рушає о дев'ятій). Пара: krenuti (док.) / kretati (недок.): krenem / krećem (t > ć). Про транспорт і людей: рушити з місця. Минулий krenuo, krenula. Krenuti i kretati se (рухатися) різні справи; тут тільки «рушити».",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (krećem)."
+    },
+    {
+      "id": "hr-6dba82e0",
+      "type": "verb",
+      "lemma": "ući",
+      "aspect": "pf.",
+      "partner": "ulaziti",
+      "pres_1sg": "uđem",
+      "forms": [
+        "uđem",
+        "uđeš",
+        "uđe",
+        "uđemo",
+        "uđete",
+        "uđu",
+        "ušao",
+        "ušla",
+        "ušli",
+        "uđi",
+        "uđite",
+        "ulaziti",
+        "ulazim",
+        "ulaziš",
+        "ulazi",
+        "ulazimo",
+        "ulazite",
+        "ulaze",
+        "ulazio"
+      ],
+      "ua": "увійти, зайти (недок. ulaziti)",
+      "audio": "hr-uci.mp3",
+      "explain_ua": "(Ušla sam u vlak = я сіла в поїзд, увійшла в поїзд). Пара: ući (док.) / ulaziti (недок.): uđem / ulazim. НЕПРАВИЛЬНЕ, як doći (Lekcija 10): ući, uđem; минулий ušao, ušla, ušli (đ > š); наказ uđi, uđite. Куди: u + знахідний (u vlak, u autobus).",
+      "check": "Пару та форми з мого знання за зразком doći, звірити з hjp.znanje.hr (ušao, ušla)."
+    },
+    {
+      "id": "hr-4e242bd4",
+      "type": "verb",
+      "lemma": "izaći",
+      "aspect": "pf.",
+      "partner": "izlaziti",
+      "pres_1sg": "izađem",
+      "forms": [
+        "izađem",
+        "izađeš",
+        "izađe",
+        "izađemo",
+        "izađete",
+        "izađu",
+        "izašao",
+        "izašla",
+        "izašli",
+        "izađi",
+        "izađite",
+        "izlaziti",
+        "izlazim",
+        "izlaziš",
+        "izlazi",
+        "izlazimo",
+        "izlazite",
+        "izlaze"
+      ],
+      "ua": "вийти (недок. izlaziti)",
+      "audio": "hr-izaci.mp3",
+      "explain_ua": "(Izlazim na stanici = виходжу на зупинці). Пара: izaći (док.) / izlaziti (недок.): izađem / izlazim. НЕПРАВИЛЬНЕ, як ući: izašao, izašla, izašli. Звідки: iz + родовий (iz vlaka). Пиши đ у теперішньому: izađem, й š у минулому: izašao.",
+      "check": "Пару та форми з мого знання за зразком doći, звірити з hjp.znanje.hr (izašao, izašla)."
+    },
+    {
+      "id": "hr-b4d53da0",
+      "type": "verb",
+      "lemma": "propustiti",
+      "aspect": "pf.",
+      "partner": "propuštati",
+      "pres_1sg": "propustim",
+      "forms": [
+        "propustim",
+        "propustiš",
+        "propusti",
+        "propustimo",
+        "propustite",
+        "propuste",
+        "propustila",
+        "propustili",
+        "propustio",
+        "propuštati",
+        "propuštam",
+        "propuštaš",
+        "propušta",
+        "propuštamo",
+        "propuštate",
+        "propuštaju",
+        "propuštaj"
+      ],
+      "ua": "пропустити, не встигнути (недок. propuštati)",
+      "audio": "hr-propustiti.mp3",
+      "explain_ua": "(Propustila sam vlak = я пропустила поїзд). Пара: propustiti (док.) / propuštati (недок.): propustim / propuštam, st > št. Знахідний: propustiti vlak, sastanak. Док. для одного разу, недок. для звички (često propušta).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (st > št)."
+    },
+    {
+      "id": "hr-f08cb640",
+      "type": "adjective",
+      "lemma": "povratan",
+      "fem": "povratna",
+      "neut": "povratno",
+      "ua": "зворотний (про квиток: туди й назад)",
+      "audio": "hr-povratan.mp3",
+      "forms": [
+        "povratna",
+        "povratno",
+        "povratni",
+        "povratne",
+        "povratnu"
+      ],
+      "explain_ua": "(Kupila sam povratnu kartu = я купила квиток туди й назад). Нестійке a: povratan, povratna, povratno. Povratna karta це квиток туди й назад. Рід за словом karta: povratnu kartu (знахідний).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-144fc290",
+      "type": "adjective",
+      "lemma": "izravan",
+      "fem": "izravna",
+      "neut": "izravno",
+      "ua": "прямий, безпересадковий",
+      "audio": "hr-izravan.mp3",
+      "forms": [
+        "izravna",
+        "izravno",
+        "izravni",
+        "izravne",
+        "izravnim"
+      ],
+      "explain_ua": "(Imamo izravan vlak = у нас є прямий поїзд). Нестійке a: izravan, izravna, izravno. Прямий поїзд без пересадок. Слово direktan теж живе в мові, але я вчу izravan (check). Не плутай з pravo (прямо, у напрямку, Lekcija 28).",
+      "check": "Форми з мого знання; що direktan теж нормальне слово, з мого знання."
+    },
+    {
+      "id": "hr-9d39f9c1",
+      "type": "adjective",
+      "lemma": "sljedeći",
+      "fem": "sljedeća",
+      "neut": "sljedeće",
+      "ua": "наступний",
+      "audio": "hr-sljedeci.mp3",
+      "forms": [
+        "sljedeća",
+        "sljedeće",
+        "sljedećeg",
+        "sljedećem",
+        "sljedećoj",
+        "sljedeću"
+      ],
+      "explain_ua": "(Sljedeći vlak je u deset = наступний поїзд о десятій). Прикметник як nov: sljedeći, sljedeća, sljedeće. Те саме, що idući (Lekcija 12), обидва нормальні. Пиши slje-: sljedeći, не «slijedeći» (check).",
+      "check": "Форми з мого знання; що саме пише норма, sljedeći чи slijedeći, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-808dd771",
+      "type": "function",
+      "lemma": "vjerojatno",
+      "ua": "імовірно, мабуть",
+      "audio": "hr-vjerojatno.mp3",
+      "forms": [],
+      "explain_ua": "(Vlak će vjerojatno kasniti = поїзд, мабуть, запізниться). Прислівник. Пиши ije > je: vjerojatno. Родина nevjerojatan (Lekcija 46): ne + vjerojatan. Клітики: vjerojatno стоїть перед групою ću, će: vjerojatno ću doći.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-623b55eb",
+      "type": "function",
+      "lemma": "sigurno",
+      "ua": "напевно, звичайно",
+      "audio": "hr-sigurno.mp3",
+      "forms": [],
+      "explain_ua": "(Sigurno će doći = напевно прийде). Прислівник, не змінюється. Сильніше за vjerojatno. Також «безпечно» (sigurno je = безпечно), але тут тільки «напевно».",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-51e83d9b",
+      "type": "function",
+      "lemma": "otprilike",
+      "ua": "приблизно",
+      "audio": "hr-otprilike.mp3",
+      "forms": [],
+      "explain_ua": "(Put je otprilike dva sata = дорога приблизно дві години). Прислівник, не змінюється. Стоїть перед числом: otprilike pet minuta. Пиши tp: otprilike.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-dfafdbc8",
+      "type": "function",
+      "lemma": "barem",
+      "ua": "принаймні, хоча б",
+      "audio": "hr-barem.mp3",
+      "forms": [],
+      "explain_ua": "(Treba mi barem sat = мені треба принаймні година). Прислівник, не змінюється. Стоїть перед тим, що рахуємо: barem pet minuta. Українське «принаймні» інше слово, просто вчимо.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Майбутнє II: kad budem, ako budem",
+      "summary_ua": "Коли дія в підрядному реченні ще триває в майбутньому: kad / ako + budem + дієприкметник на -l недоконаного дієслова. Budem, budeš, bude, budemo, budete, budu. Для доконаного дієслова беремо теперішній (kad dođem, Lekcija 21), не budem. Тримайся української: «коли я буду працювати» = kad budem radila. Побутове «ako budem došla» не вчимо (check).",
+      "compare": [
+        {
+          "form": "kad budem + -l (недок.)",
+          "when_ua": "Коли я буду щось робити.",
+          "examples": [
+            {
+              "text": "Kad budem radila u Zagrebu, posjetit ću sestru.",
+              "ua": "Коли я працюватиму в Загребі, відвідаю сестру.",
+              "audio": "hr-les50-rule-01.mp3"
+            },
+            {
+              "text": "Kad budem imala vremena, nazvat ću te.",
+              "ua": "Коли матиму час, зателефоную тобі.",
+              "audio": "hr-les50-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Radila, imala: дієприкметник на -l з роду мовця (Lekcija 10). Budem на другому місці після kad; se стоїть перед budem: kad se budem vraćala."
+        },
+        {
+          "form": "ako budem ...",
+          "when_ua": "Якщо буду в такому стані.",
+          "examples": [
+            {
+              "text": "Ako budem kasnila, javit ću ti.",
+              "ua": "Якщо я буду запізнюватися, дам тобі знати.",
+              "audio": "hr-les50-rule-03.mp3"
+            },
+            {
+              "text": "Ako budem kod kuće, čekat ću te.",
+              "ua": "Якщо буду вдома, чекатиму тебе.",
+              "audio": "hr-les50-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Budem + місце: ako budem kod kuće. Третя особа: ako bude kiše (чи буде дощ), як у Lekcija 45."
+        },
+        {
+          "form": "доконане: теперішній (kad dođem)",
+          "when_ua": "Дія закінчується до головної.",
+          "examples": [
+            {
+              "text": "Kad dođem na kolodvor, kupit ću kartu.",
+              "ua": "Коли прийду на вокзал, куплю квиток.",
+              "audio": "hr-les50-rule-05.mp3"
+            },
+            {
+              "text": "Kad stignem, nazvat ću te.",
+              "ua": "Коли доберуся, зателефоную тобі.",
+              "audio": "hr-les50-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Доконане: dođem, stignem (теперішній, Lekcija 21 і 49 čim). Недоконане: budem + -l. Це різниця виду."
+        }
+      ],
+      "points_ua": [
+        "Kad / ako budem + -l: недоконане дієслово.",
+        "Kad dođem, kad stignem: доконане в теперішньому.",
+        "Se перед budem: kad se budem vraćala.",
+        "Це мій варіант норми; побутове «budem došla» не вчимо (check)."
+      ]
+    },
+    {
+      "title_ua": "Оголошення на вокзалі: поїзд, перон, запізнення",
+      "summary_ua": "Короткі формули: vlak kasni + скільки хвилин, polazi s perona broj ..., zbog radova. Після 5 і більше родовий множини: dvadeset minuta. Кому: putnici, molimo vas da + теперішній (Lekcija 40, 49).",
+      "compare": [
+        {
+          "form": "vlak kasni + хвилини",
+          "when_ua": "Скільки запізнюється.",
+          "examples": [
+            {
+              "text": "Vlak kasni petnaest minuta.",
+              "ua": "Поїзд запізнюється на п'ятнадцять хвилин.",
+              "audio": "hr-les50-rule-07.mp3"
+            },
+            {
+              "text": "Autobus kasni jedan sat.",
+              "ua": "Автобус запізнюється на годину.",
+              "audio": "hr-les50-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Minuta: родовий множини після 5 і більше (Lekcija 16). Без прийменника, як в українській: «запізнюється на ...», хорватською знахідний без na."
+        },
+        {
+          "form": "s perona broj ... / na peronu broj ...",
+          "when_ua": "З якого перона, на якому.",
+          "examples": [
+            {
+              "text": "Vlak čeka na peronu broj tri.",
+              "ua": "Поїзд чекає на пероні номер три.",
+              "audio": "hr-les50-rule-09.mp3"
+            },
+            {
+              "text": "Autobus polazi s perona broj jedan.",
+              "ua": "Автобус відправляється з першого перона.",
+              "audio": "hr-les50-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Na peronu (де), s perona (звідки: s + родовий). Polazi це 3 особа, слово polazak вище. Broj з Lekcija 22."
+        },
+        {
+          "form": "zbog + родовий, molimo vas da ...",
+          "when_ua": "Причина й прохання.",
+          "examples": [
+            {
+              "text": "Zbog radova vlak ne ide do mora.",
+              "ua": "Через ремонт поїзд не їде до моря.",
+              "audio": "hr-les50-rule-11.mp3"
+            },
+            {
+              "text": "Molimo putnike da čekaju na peronu.",
+              "ua": "Просимо пасажирів чекати на пероні.",
+              "audio": "hr-les50-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Molimo + знахідний (putnike) + da + теперішній (čekaju). Радови, kašnjenje з Lekcija 47 і 50."
+        }
+      ],
+      "points_ua": [
+        "Vlak kasni petnaest minuta.",
+        "Na peronu, s perona.",
+        "Zbog radova; molimo putnike da čekaju."
+      ]
+    },
+    {
+      "title_ua": "Увійти й вийти, прибути й рушити: вид і неправильні форми",
+      "summary_ua": "Ući / ulaziti і izaći / izlaziti: неправильні, як doći (Lekcija 10): uđem, izađem; минулий ušao, izašao. Stići / stizati, krenuti / kretati, propustiti / propuštati: пари виду. Куди: u + знахідний, звідки: iz + родовий.",
+      "compare": [
+        {
+          "form": "ući u / izaći iz",
+          "when_ua": "Заходиш і виходиш.",
+          "examples": [
+            {
+              "text": "Ušla sam u vlak.",
+              "ua": "Я сіла в поїзд.",
+              "audio": "hr-les50-rule-13.mp3"
+            },
+            {
+              "text": "Izašli smo na idućoj stanici.",
+              "ua": "Ми вийшли на наступній зупинці.",
+              "audio": "hr-les50-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Ušla, izašli: l-дієприкметник з мовця (Lekcija 10). Na idućoj stanici: місцевий жіночого роду (Lekcija 24)."
+        },
+        {
+          "form": "stići / krenuti / propustiti",
+          "when_ua": "Прибути, рушити, пропустити.",
+          "examples": [
+            {
+              "text": "Vlak je krenuo u osam sati.",
+              "ua": "Поїзд рушив о восьмій.",
+              "audio": "hr-les50-rule-15.mp3"
+            },
+            {
+              "text": "Propustio sam autobus.",
+              "ua": "Я пропустив автобус.",
+              "audio": "hr-les50-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Док. для події («рушив, пропустив»), недок. для звички або розкладу (kreće, propušta)."
+        }
+      ],
+      "points_ua": [
+        "Ući, uđem, ušao; izaći, izađem, izašao.",
+        "U vlak (куди), iz vlaka (звідки).",
+        "Док. це подія, недок. це звичка чи розклад."
+      ]
+    },
+    {
+      "title_ua": "Скільки впевнений: vjerojatno, sigurno, otprilike, barem",
+      "summary_ua": "Чотири слова, які не змінюються. Vjerojatno (мабуть) і sigurno (напевно) показують рівень впевненості, otprilike (приблизно) і barem (принаймні) стоять перед числом. Вони ставляться перед групою ću / će: vjerojatno će kasniti.",
+      "compare": [
+        {
+          "form": "vjerojatno / sigurno",
+          "when_ua": "Мабуть і напевно.",
+          "examples": [
+            {
+              "text": "Vlak će vjerojatno kasniti.",
+              "ua": "Поїзд, мабуть, запізниться.",
+              "audio": "hr-les50-rule-17.mp3"
+            },
+            {
+              "text": "Gosti će sigurno doći.",
+              "ua": "Гості напевно прийдуть.",
+              "audio": "hr-les50-rule-18.mp3"
+            }
+          ],
+          "note_ua": "Će на другому місці: vlak će vjerojatno kasniti. Vjerojatno між ću і дієсловом (check: також можна на початку)."
+        },
+        {
+          "form": "otprilike / barem + число",
+          "when_ua": "Приблизно й принаймні.",
+          "examples": [
+            {
+              "text": "Do kolodvora je otprilike deset minuta.",
+              "ua": "До вокзалу приблизно десять хвилин.",
+              "audio": "hr-les50-rule-19.mp3"
+            },
+            {
+              "text": "Treba mi barem jedan sat.",
+              "ua": "Мені потрібна принаймні одна година.",
+              "audio": "hr-les50-rule-20.mp3"
+            }
+          ],
+          "note_ua": "Число одразу після слова: otprilike deset minuta, barem jedan sat."
+        }
+      ],
+      "points_ua": [
+        "Vjerojatno, sigurno: ступінь упевненості.",
+        "Otprilike, barem + число."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Vlak je na peronu.",
+      "ua": "Поїзд на пероні.",
+      "audio": "hr-les50-example-01.mp3"
+    },
+    {
+      "text": "Vlak čeka na kolosijeku.",
+      "ua": "Поїзд чекає на колії.",
+      "audio": "hr-les50-example-02.mp3"
+    },
+    {
+      "text": "Polazak je u osam sati.",
+      "ua": "Відправлення о восьмій.",
+      "audio": "hr-les50-example-03.mp3"
+    },
+    {
+      "text": "Dolazak je u deset.",
+      "ua": "Прибуття о десятій.",
+      "audio": "hr-les50-example-04.mp3"
+    },
+    {
+      "text": "Kašnjenje je dugo.",
+      "ua": "Запізнення довге.",
+      "audio": "hr-les50-example-05.mp3"
+    },
+    {
+      "text": "Odredište je more.",
+      "ua": "Пункт призначення море.",
+      "audio": "hr-les50-example-06.mp3"
+    },
+    {
+      "text": "Prtljaga je teška.",
+      "ua": "Багаж важкий.",
+      "audio": "hr-les50-example-07.mp3"
+    },
+    {
+      "text": "Putovanje je dugo.",
+      "ua": "Подорож довга.",
+      "audio": "hr-les50-example-08.mp3"
+    },
+    {
+      "text": "Vlak kasni.",
+      "ua": "Поїзд запізнюється.",
+      "audio": "hr-les50-example-09.mp3"
+    },
+    {
+      "text": "Gost stiže u petak.",
+      "ua": "Гість прибуває в п'ятницю.",
+      "audio": "hr-les50-example-10.mp3"
+    },
+    {
+      "text": "Odgađamo putovanje.",
+      "ua": "Відкладаємо подорож.",
+      "audio": "hr-les50-example-11.mp3"
+    },
+    {
+      "text": "Autobus kreće u devet sati.",
+      "ua": "Автобус рушає о дев'ятій.",
+      "audio": "hr-les50-example-12.mp3"
+    },
+    {
+      "text": "Ulazim u vlak.",
+      "ua": "Заходжу в поїзд.",
+      "audio": "hr-les50-example-13.mp3"
+    },
+    {
+      "text": "Izlazim na stanici.",
+      "ua": "Виходжу на зупинці.",
+      "audio": "hr-les50-example-14.mp3"
+    },
+    {
+      "text": "Ne propuštaj vlak.",
+      "ua": "Не пропускай поїзд.",
+      "audio": "hr-les50-example-15.mp3"
+    },
+    {
+      "text": "Kupila sam povratnu kartu.",
+      "ua": "Я купила квиток туди й назад.",
+      "audio": "hr-les50-example-16.mp3"
+    },
+    {
+      "text": "Imamo izravan vlak.",
+      "ua": "У нас є прямий поїзд.",
+      "audio": "hr-les50-example-17.mp3"
+    },
+    {
+      "text": "Sljedeći vlak je u deset.",
+      "ua": "Наступний поїзд о десятій.",
+      "audio": "hr-les50-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Putovanje na more",
+    "title_ua": "Подорож до моря",
+    "highlight": [
+      "hr-cc5c4a52",
+      "hr-ddbd1bcc",
+      "hr-f08cb640",
+      "hr-144fc290",
+      "hr-9d39f9c1",
+      "hr-623b55eb",
+      "hr-51e83d9b"
+    ],
+    "sentences": [
+      {
+        "text": "Sljedeći vikend putujem vlakom na more.",
+        "ua": "Наступних вихідних їду поїздом до моря.",
+        "audio": "hr-les50-reading-01.mp3"
+      },
+      {
+        "text": "Polazak vlaka je u osam sati.",
+        "ua": "Відправлення поїзда о восьмій.",
+        "audio": "hr-les50-reading-02.mp3"
+      },
+      {
+        "text": "Kad budem na kolodvoru, kupit ću povratnu kartu.",
+        "ua": "Коли буду на вокзалі, куплю квиток туди й назад.",
+        "audio": "hr-les50-reading-03.mp3"
+      },
+      {
+        "text": "Ako bude kiše, ostat ćemo kod brata.",
+        "ua": "Якщо буде дощ, залишимося в брата.",
+        "audio": "hr-les50-reading-04.mp3"
+      },
+      {
+        "text": "Vlak je izravan, zato ne moram ulaziti u drugi vlak.",
+        "ua": "Поїзд прямий, тому мені не треба сідати в інший.",
+        "audio": "hr-les50-reading-05.mp3"
+      },
+      {
+        "text": "Do mora je otprilike pet sati.",
+        "ua": "До моря приблизно п'ять годин.",
+        "audio": "hr-les50-reading-06.mp3"
+      },
+      {
+        "text": "Kad se budem vraćala, kupit ću sir i vino.",
+        "ua": "Коли повертатимуся, куплю сир і вино.",
+        "audio": "hr-les50-reading-07.mp3"
+      },
+      {
+        "text": "Prtljage nemam puno.",
+        "ua": "Багажу в мене небагато.",
+        "audio": "hr-les50-reading-08.mp3"
+      },
+      {
+        "text": "Sigurno ću biti sretna.",
+        "ua": "Напевно буду щаслива.",
+        "audio": "hr-les50-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай оголошення на вокзалі. Спершу лови тему, потім числа й місця. Відповідай одним-двома словами. Текст можна показати після відповідей.",
+      "audio": "hr-les-50-station.mp3",
+      "audio_text": "Poštovani putnici, vlak za more kasni dvadeset minuta. Vlak će krenuti s perona broj dva u deset sati. Putnici neka čekaju na peronu. Zbog radova na kolosijeku putnici za mali grad moraju ući u autobus ispred kolodvora. Molimo vas da pozorno slušate obavijesti. Hvala vam.",
+      "items": [
+        {
+          "prompt": "На скільки хвилин запізнюється поїзд? (число)",
+          "accepted": [
+            "dvadeset",
+            "20",
+            "dvadeset minuta",
+            "20 minuta"
+          ]
+        },
+        {
+          "prompt": "З якого перона рушить поїзд? (число)",
+          "accepted": [
+            "dva",
+            "2",
+            "broj dva",
+            "peron dva",
+            "s perona broj dva",
+            "perona broj dva"
+          ]
+        },
+        {
+          "prompt": "О котрій годині? (число)",
+          "accepted": [
+            "deset",
+            "10",
+            "u deset",
+            "u deset sati",
+            "u 10 sati"
+          ]
+        },
+        {
+          "prompt": "Чому пасажири до маленького міста мусять їхати автобусом? (причина, два слова)",
+          "accepted": [
+            "zbog radova",
+            "radovi",
+            "radova",
+            "zbog radova na kolosijeku"
+          ]
+        },
+        {
+          "prompt": "Де стоїть автобус? (місце)",
+          "accepted": [
+            "ispred kolodvora",
+            "kolodvora",
+            "kolodvor"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову біля довідки на вокзалі (говорять двоє) і вибери або впиши відповіді.",
+      "audio": "hr-les-50-desk.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Dobar dan, kako vam mogu pomoći?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Dobar dan. Kada je polazak sljedećeg vlaka za more?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Sljedeći vlak ide u deset sati s perona broj tri."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Je li to izravan vlak?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Da, izravan je."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Koliko košta povratna karta?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Povratna karta košta trideset eura."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Ako budem kasnila, mogu li kupiti kartu u vlaku?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Možete, ali je skuplja."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Hvala vam."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Куди хоче їхати жінка?",
+          "choices": [
+            "До моря",
+            "У гори",
+            "До столиці"
+          ],
+          "accepted": [
+            "До моря"
+          ]
+        },
+        {
+          "prompt": "Це прямий поїзд.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "З якого перона відходить поїзд? (число)",
+          "accepted": [
+            "tri",
+            "3",
+            "broj tri",
+            "peron tri",
+            "perona broj tri"
+          ]
+        },
+        {
+          "prompt": "Скільки коштує квиток туди й назад? (число)",
+          "accepted": [
+            "trideset",
+            "30",
+            "trideset eura",
+            "30 eura"
+          ]
+        },
+        {
+          "prompt": "Квиток у поїзді дешевший.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат чекає на пероні.",
+          "accepted": [
+            "Moj brat čeka na peronu.",
+            "Moj brat na peronu čeka."
+          ]
+        },
+        {
+          "prompt": "Поїзд запізнюється на десять хвилин.",
+          "accepted": [
+            "Vlak kasni deset minuta."
+          ]
+        },
+        {
+          "prompt": "Відправлення автобуса о дев'ятій.",
+          "accepted": [
+            "Polazak autobusa je u devet sati.",
+            "Polazak autobusa je u devet."
+          ]
+        },
+        {
+          "prompt": "Коли я буду в місті, куплю квиток.",
+          "accepted": [
+            "Kad budem u gradu, kupit ću kartu."
+          ]
+        },
+        {
+          "prompt": "Якщо я буду працювати в суботу, не прийду.",
+          "accepted": [
+            "Ako budem radila u subotu, neću doći.",
+            "Ako budem radio u subotu, neću doći."
+          ]
+        },
+        {
+          "prompt": "Коли ми будемо повертатися, купимо хліб.",
+          "accepted": [
+            "Kad se budemo vraćali, kupit ćemo kruh.",
+            "Kad se budemo vraćale, kupit ćemo kruh."
+          ]
+        },
+        {
+          "prompt": "Мій кофер важкий.",
+          "accepted": [
+            "Moj kofer je težak."
+          ]
+        },
+        {
+          "prompt": "Ми їдемо прямим поїздом.",
+          "accepted": [
+            "Putujemo izravnim vlakom.",
+            "Idemo izravnim vlakom."
+          ]
+        },
+        {
+          "prompt": "Вчора я пропустила поїзд.",
+          "accepted": [
+            "Jučer sam propustila vlak.",
+            "Propustila sam jučer vlak."
+          ]
+        },
+        {
+          "prompt": "Вона вийшла з автобуса.",
+          "accepted": [
+            "Izašla je iz autobusa."
+          ]
+        },
+        {
+          "prompt": "Коли ти увійдеш, зачини двері.",
+          "accepted": [
+            "Kad uđeš, zatvori vrata."
+          ]
+        },
+        {
+          "prompt": "Чи гості вже приїхали?",
+          "accepted": [
+            "Jesu li gosti već stigli?",
+            "Jesu li već gosti stigli?"
+          ]
+        },
+        {
+          "prompt": "Ми відкладаємо подорож до літа.",
+          "accepted": [
+            "Odgađamo putovanje do ljeta."
+          ]
+        },
+        {
+          "prompt": "Автобус, мабуть, запізниться.",
+          "accepted": [
+            "Autobus će vjerojatno kasniti.",
+            "Vjerojatno će autobus kasniti."
+          ]
+        },
+        {
+          "prompt": "Це приблизно п'ять хвилин.",
+          "accepted": [
+            "To je otprilike pet minuta."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "peronu",
+        "kolosijeku",
+        "Polazak",
+        "dolazak",
+        "kašnjenja",
+        "odredište",
+        "prtljaga",
+        "putovanje",
+        "povratnu",
+        "izravan",
+        "Sljedeći",
+        "barem",
+        "otprilike",
+        "sigurno"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Vlak čeka na ___.",
+          "hint": "Поїзд чекає на пероні.",
+          "accepted": [
+            [
+              "peronu"
+            ]
+          ]
+        },
+        {
+          "text": "Zbog radova na ___ vlak kasni.",
+          "hint": "Через ремонт на колії поїзд запізнюється.",
+          "accepted": [
+            [
+              "kolosijeku"
+            ]
+          ]
+        },
+        {
+          "text": "___ vlaka je u deset sati.",
+          "hint": "Відправлення поїзда о десятій.",
+          "accepted": [
+            [
+              "Polazak",
+              "polazak"
+            ]
+          ]
+        },
+        {
+          "text": "Moj ___ je u petak navečer.",
+          "hint": "Моє прибуття в п'ятницю ввечері.",
+          "accepted": [
+            [
+              "dolazak"
+            ]
+          ]
+        },
+        {
+          "text": "Ispričavamo se zbog ___.",
+          "hint": "Перепрошуємо за запізнення.",
+          "accepted": [
+            [
+              "kašnjenja"
+            ]
+          ]
+        },
+        {
+          "text": "Naše ___ je more.",
+          "hint": "Наш пункт призначення море.",
+          "accepted": [
+            [
+              "odredište"
+            ]
+          ]
+        },
+        {
+          "text": "Moja ___ nije velika.",
+          "hint": "Мій багаж невеликий.",
+          "accepted": [
+            [
+              "prtljaga"
+            ]
+          ]
+        },
+        {
+          "text": "Pripremam se za dugo ___.",
+          "hint": "Готуюся до довгої подорожі.",
+          "accepted": [
+            [
+              "putovanje"
+            ]
+          ]
+        },
+        {
+          "text": "Trebam ___ kartu za petak.",
+          "hint": "Мені потрібен квиток туди й назад на п’ятницю.",
+          "accepted": [
+            [
+              "povratnu"
+            ]
+          ]
+        },
+        {
+          "text": "Imamo ___ vlak do mora.",
+          "hint": "У нас є прямий поїзд до моря.",
+          "accepted": [
+            [
+              "izravan"
+            ]
+          ]
+        },
+        {
+          "text": "___ autobus kreće u devet.",
+          "hint": "Наступний автобус рушає о дев'ятій.",
+          "accepted": [
+            [
+              "Sljedeći",
+              "sljedeći"
+            ]
+          ]
+        },
+        {
+          "text": "Treba mi ___ pet minuta.",
+          "hint": "Мені потрібно принаймні п'ять хвилин.",
+          "accepted": [
+            [
+              "barem"
+            ]
+          ]
+        },
+        {
+          "text": "Put je ___ dva sata.",
+          "hint": "Дорога приблизно дві години.",
+          "accepted": [
+            [
+              "otprilike"
+            ]
+          ]
+        },
+        {
+          "text": "Autobus će ___ doći.",
+          "hint": "Автобус напевно прийде.",
+          "accepted": [
+            [
+              "sigurno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Kad ću biti kod kuće, nazvat ću te.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kad budem kod kuće, nazvat ću te."
+          ]
+        },
+        {
+          "prompt": "Ako ću raditi u petak, neću putovati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ako budem radila u petak, neću putovati.",
+            "Ako budem radio u petak, neću putovati."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam na kolodvoru.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam na kolodvoru.",
+            "Ja sam danas na kolodvoru."
+          ]
+        },
+        {
+          "prompt": "Vlak kasni deset minute.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Vlak kasni deset minuta."
+          ]
+        },
+        {
+          "prompt": "Ušao sam u autobusu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ušao sam u autobus.",
+            "Ušla sam u autobus."
+          ]
+        },
+        {
+          "prompt": "Izlazim iz vlak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Izlazim iz vlaka."
+          ]
+        },
+        {
+          "prompt": "Mi propuštam vlak.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi propuštamo vlak.",
+            "Propuštamo vlak."
+          ]
+        },
+        {
+          "prompt": "Moja prtljaga nije teški.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Moja prtljaga nije teška."
+          ]
+        },
+        {
+          "prompt": "Putujemo izravan vlakom.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Putujemo izravnim vlakom."
+          ]
+        },
+        {
+          "prompt": "Gospodin putnik, izvolite.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gospodine putniče, izvolite."
+          ]
+        },
+        {
+          "prompt": "Autobus kreće u devet sati.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Autobus je krenuo u devet sati."
+          ]
+        },
+        {
+          "prompt": "Vlak kasni.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Vlak ne kasni."
+          ]
+        },
+        {
+          "prompt": "Putnik ulazi u vlak.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Putnik je ušao u vlak.",
+            "Putnik je ulazio u vlak."
+          ]
+        },
+        {
+          "prompt": "Odredište je daleko.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li odredište daleko?"
+          ]
+        },
+        {
+          "prompt": "Povratna karta je skupa.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Povratne karte su skupe."
+          ]
+        },
+        {
+          "prompt": "Gost stiže i zove nas.",
+          "cue": "-> Čim ... (stići)",
+          "accepted": [
+            "Čim gost stigne, zove nas.",
+            "Zove nas čim gost stigne."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Vlak često ___.",
+          "cue": "kasniti",
+          "accepted": [
+            "kasni"
+          ]
+        },
+        {
+          "text": "Kad ___ na kolodvor, nazvat ću te.",
+          "cue": "stići",
+          "accepted": [
+            "stignem"
+          ]
+        },
+        {
+          "text": "Gosti ___ u subotu.",
+          "cue": "stizati",
+          "accepted": [
+            "stižu"
+          ]
+        },
+        {
+          "text": "Jučer je autobus ___ u devet.",
+          "cue": "krenuti",
+          "accepted": [
+            "krenuo"
+          ]
+        },
+        {
+          "text": "Vlak ___ svaki dan u osam.",
+          "cue": "kretati",
+          "accepted": [
+            "kreće"
+          ]
+        },
+        {
+          "text": "Mi smo ___ putovanje.",
+          "cue": "odgoditi",
+          "accepted": [
+            "odgodili"
+          ]
+        },
+        {
+          "text": "Oni uvijek ___ putovanje.",
+          "cue": "odgađati",
+          "accepted": [
+            "odgađaju"
+          ]
+        },
+        {
+          "text": "Ona je ___ u vlak.",
+          "cue": "ući",
+          "accepted": [
+            "ušla"
+          ]
+        },
+        {
+          "text": "Ja svaki dan ___ iz autobusa ovdje.",
+          "cue": "izlaziti",
+          "accepted": [
+            "izlazim"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ iz vlaka u gradu.",
+          "cue": "izaći",
+          "accepted": [
+            "izašla",
+            "izašao"
+          ]
+        },
+        {
+          "text": "On često ___ vlak.",
+          "cue": "propuštati",
+          "accepted": [
+            "propušta"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ vlak.",
+          "cue": "propustiti",
+          "accepted": [
+            "propustila",
+            "propustio"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "принаймні, хоча б",
+          "answer": "barem"
+        },
+        {
+          "prompt": "перон",
+          "answer": "peron"
+        },
+        {
+          "prompt": "колія",
+          "answer": "kolosijek"
+        },
+        {
+          "prompt": "відправлення",
+          "answer": "polazak"
+        },
+        {
+          "prompt": "прибуття, приїзд",
+          "answer": "dolazak"
+        },
+        {
+          "prompt": "запізнення",
+          "answer": "kašnjenje"
+        },
+        {
+          "prompt": "пункт призначення",
+          "answer": "odredište"
+        },
+        {
+          "prompt": "багаж",
+          "answer": "prtljaga"
+        },
+        {
+          "prompt": "подорож",
+          "answer": "putovanje"
+        },
+        {
+          "prompt": "зворотний (квиток туди й назад)",
+          "answer": "povratan"
+        },
+        {
+          "prompt": "прямий (поїзд)",
+          "answer": "izravan"
+        },
+        {
+          "prompt": "наступний",
+          "answer": "sljedeći"
+        },
+        {
+          "prompt": "імовірно, мабуть",
+          "answer": "vjerojatno"
+        },
+        {
+          "prompt": "приблизно",
+          "answer": "otprilike"
+        }
+      ],
+      "extra": [
+        "sigurno",
+        "kasniti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова з ije / je: послухай і напиши.",
+      "words": [
+        "vrijeme",
+        "uvijek",
+        "tjedan",
+        "prijatelj",
+        "tijekom"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 4, 6, 12, 1, 47; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

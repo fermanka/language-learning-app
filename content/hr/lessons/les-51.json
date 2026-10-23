@@ -1,0 +1,1660 @@
+{
+  "id": "hr-les-51",
+  "lang": "hr",
+  "order": 51,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "živim",
+    "malom",
+    "blizu",
+    "parka",
+    "našem",
+    "kvartu",
+    "je",
+    "knjižnica",
+    "u",
+    "koju",
+    "idem",
+    "svaki",
+    "tjedan",
+    "moja",
+    "susjeda",
+    "čija",
+    "kći",
+    "glumi",
+    "kazalištu",
+    "radi",
+    "udruzi",
+    "organizira",
+    "radionice",
+    "o",
+    "kojima",
+    "često",
+    "čitam",
+    "na",
+    "internetu",
+    "ove",
+    "godine",
+    "su",
+    "stanovnici",
+    "obnovili",
+    "igralište",
+    "kojem",
+    "se",
+    "igraju",
+    "djeca",
+    "ima",
+    "i",
+    "nova",
+    "klupa",
+    "kojoj",
+    "svatko",
+    "tko",
+    "želi",
+    "može",
+    "sudjelovati",
+    "programu",
+    "to",
+    "naša",
+    "zajednica",
+    "zato",
+    "volim",
+    "preporučujem",
+    "ti",
+    "da",
+    "dođeš",
+    "subotu",
+    "poštovani",
+    "kvarta",
+    "petog",
+    "lipnja",
+    "dan",
+    "otvorenih",
+    "vrata",
+    "počinje",
+    "deset",
+    "sati",
+    "ispred",
+    "knjižnice",
+    "svi",
+    "događaji",
+    "besplatni",
+    "a",
+    "ulaz",
+    "slobodan",
+    "za",
+    "djecu",
+    "održava",
+    "prošle",
+    "obnovljena",
+    "volonteri",
+    "vole",
+    "raditi",
+    "s",
+    "djecom",
+    "slušati",
+    "bajke",
+    "gledati",
+    "kratku",
+    "predstavu",
+    "ovog",
+    "proljeća",
+    "uredili",
+    "nove",
+    "klupe",
+    "navečer",
+    "izložba",
+    "slika",
+    "sudjeluju",
+    "iz",
+    "javni",
+    "završava",
+    "devet",
+    "tražimo",
+    "još",
+    "volontera",
+    "neka",
+    "prijavi",
+    "do",
+    "petka",
+    "mnogi",
+    "znaju",
+    "upoznat",
+    "ćemo",
+    "susjede",
+    "koje",
+    "ne",
+    "znamo",
+    "pozivamo",
+    "goste",
+    "drugih",
+    "kvartova",
+    "iza",
+    "stanice",
+    "parkirati",
+    "autom",
+    "autobusom",
+    "izlazi",
+    "kod",
+    "ako",
+    "bude",
+    "kiše",
+    "bit",
+    "pitanja",
+    "šaljite",
+    "e-poštu",
+    "odgovorit",
+    "vam",
+    "najkasnije",
+    "srijede",
+    "ključ",
+    "torba",
+    "knjiga",
+    "mojoj",
+    "ovaj",
+    "ovo",
+    "ova",
+    "taj",
+    "ta",
+    "tom",
+    "mali",
+    "miran",
+    "dug",
+    "mala",
+    "ključa",
+    "sin",
+    "sina",
+    "radim",
+    "radimo",
+    "čekam",
+    "stanovnik",
+    "stanovnika",
+    "javi",
+    "tome",
+    "pozvani",
+    "dječja",
+    "današnji"
+  ],
+  "notes": [
+    {
+      "id": "hr-666fc684",
+      "type": "noun",
+      "lemma": "kvart",
+      "gender": "m.",
+      "gen_sg": "kvarta",
+      "plural": [
+        "kvartovi"
+      ],
+      "ua": "квартал (район міста)",
+      "audio": "hr-kvart.mp3",
+      "forms": [
+        "kvarta",
+        "kvartu",
+        "kvartovi",
+        "kvartova",
+        "kvartom"
+      ],
+      "explain_ua": "(Kvart je miran = район спокійний). УВАГА ДО ВСЬОГО УРОКУ: кварталі, події, організації й оголошення в цьому уроці вигадані для вправ, це мовна практика. Чоловічого роду: kvart, kvarta, u kvartu (де), множина kvartovi (-ov-). Це район міста, не квартира (stan, Lekcija 2) і не квартал року. Українське «квартал» схоже, але значення «район» треба вчити.",
+      "check": "Форми з мого знання; що kvart у значенні «район міста» нормальне слово, а не розмовне, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-76f307f7",
+      "type": "noun",
+      "lemma": "stanovnik",
+      "gender": "m.",
+      "gen_sg": "stanovnika",
+      "plural": [
+        "stanovnici"
+      ],
+      "ua": "мешканець",
+      "audio": "hr-stanovnik.mp3",
+      "forms": [
+        "stanovnika",
+        "stanovniku",
+        "stanovnici",
+        "stanovnike",
+        "stanovnicima",
+        "stanovniče"
+      ],
+      "explain_ua": "(Svaki stanovnik ima ključ = кожен мешканець має ключ). Чоловічого роду: stanovnik, stanovnika, множина stanovnici (k > c перед -i, як polaznici, Lekcija 43). Кличний stanovniče (k > č перед -e, як razredniče, Lekcija 40). Від stanovati (Lekcija 22): підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання; кличний stanovniče за зразком razredniče, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-ca457edb",
+      "type": "noun",
+      "lemma": "knjižnica",
+      "gender": "ž.",
+      "gen_sg": "knjižnice",
+      "plural": [
+        "knjižnice"
+      ],
+      "ua": "бібліотека",
+      "audio": "hr-knjiznica.mp3",
+      "forms": [
+        "knjižnice",
+        "knjižnicu",
+        "knjižnici",
+        "knjižnicom"
+      ],
+      "explain_ua": "(Knjižnica je blizu parka = бібліотека поблизу парку). Жіночий рід на -a: knjižnica, knjižnice, knjižnicu (знахідний), u knjižnici (місцевий). Родовий множини knjižnica. Від knjiga (Lekcija 1): підказка для пам'яті. Якщо почуєш biblioteka, це інший стандарт: хорватською вчимо knjižnica.",
+      "check": "Форми з мого знання; що biblioteka належить до іншого стандарту, з мого знання."
+    },
+    {
+      "id": "hr-1338d83a",
+      "type": "noun",
+      "lemma": "udruga",
+      "gender": "ž.",
+      "gen_sg": "udruge",
+      "plural": [
+        "udruge"
+      ],
+      "ua": "об'єднання, асоціація, громадська організація",
+      "audio": "hr-udruga.mp3",
+      "forms": [
+        "udruge",
+        "udrugu",
+        "udruzi",
+        "udrugom"
+      ],
+      "explain_ua": "(Udruga ima mnogo volontera = об'єднання має багато волонтерів). Жіночий рід на -a: udruga, udruge, udrugu, u udruzi (g > z перед -i). Це група людей, які разом щось роблять. Тут тільки слово; нічого про права чи правила таких організацій не кажемо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-93f83b63",
+      "type": "noun",
+      "lemma": "radionica",
+      "gender": "ž.",
+      "gen_sg": "radionice",
+      "plural": [
+        "radionice"
+      ],
+      "ua": "майстер-клас, семінар (для навчання)",
+      "audio": "hr-radionica.mp3",
+      "forms": [
+        "radionice",
+        "radionicu",
+        "radionici",
+        "radionicom"
+      ],
+      "explain_ua": "(Radionica počinje u deset sati = майстер-клас починається о десятій). Жіночий рід на -a: radionica, radionice, radionicu, na radionici. Родовий множини radionica. Не плутай з майстернею (там робить), тут радше «практичне заняття». Від raditi (Lekcija 5): підказка для пам'яті, не етимологія.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-228ca508",
+      "type": "noun",
+      "lemma": "događaj",
+      "gender": "m.",
+      "gen_sg": "događaja",
+      "plural": [
+        "događaji"
+      ],
+      "ua": "подія",
+      "audio": "hr-dogadaj.mp3",
+      "forms": [
+        "događaja",
+        "događaju",
+        "događaji",
+        "događaje"
+      ],
+      "explain_ua": "(Događaj je besplatan = подія безкоштовна). Чоловічого роду: događaj, događaja, događaji. Від događati se (Lekcija 46): те, що se događa. Пиши đ: događaj.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-a00c173f",
+      "type": "noun",
+      "lemma": "igralište",
+      "gender": "s.",
+      "gen_sg": "igrališta",
+      "plural": [
+        "igrališta"
+      ],
+      "ua": "майданчик (ігровий, спортивний)",
+      "audio": "hr-igraliste.mp3",
+      "forms": [
+        "igrališta",
+        "igralištu",
+        "igralištem"
+      ],
+      "explain_ua": "(Igralište je iza škole = майданчик за школою). Середній рід на -e: igralište, igrališta, na igralištu. Від igrati (Lekcija 30). Дитячий майданчик, футбольне поле, будь-яке місце для гри.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f57a99a3",
+      "type": "noun",
+      "lemma": "klupa",
+      "gender": "ž.",
+      "gen_sg": "klupe",
+      "plural": [
+        "klupe"
+      ],
+      "ua": "лавка",
+      "audio": "hr-klupa.mp3",
+      "forms": [
+        "klupe",
+        "klupu",
+        "klupi",
+        "klupom"
+      ],
+      "explain_ua": "(Klupa je ispred knjižnice = лавка перед бібліотекою). Жіночий рід на -a: klupa, klupe, klupu, na klupi. Родовий множини klupa. Не плутай зі stolica (стілець, Lekcija 2): клупа це лавка в парку чи парта.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-d9cfac2c",
+      "type": "noun",
+      "lemma": "zajednica",
+      "gender": "ž.",
+      "gen_sg": "zajednice",
+      "plural": [
+        "zajednice"
+      ],
+      "ua": "спільнота",
+      "audio": "hr-zajednica.mp3",
+      "forms": [
+        "zajednice",
+        "zajednicu",
+        "zajednici",
+        "zajednicom"
+      ],
+      "explain_ua": "(Naša zajednica je mala = наша спільнота мала). Жіночий рід на -a: zajednica, zajednice. Від zajedno (Lekcija 35): підказка для пам'яті. Група людей, які живуть чи діють разом. Українське «спільнота» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f24d1add",
+      "type": "noun",
+      "lemma": "volonter",
+      "gender": "m.",
+      "gen_sg": "volontera",
+      "plural": [
+        "volonteri"
+      ],
+      "ua": "волонтер",
+      "audio": "hr-volonter.mp3",
+      "forms": [
+        "volontera",
+        "volonteru",
+        "volonteri",
+        "volontere",
+        "volonterima"
+      ],
+      "explain_ua": "(Volonter pomaže djeci = волонтер допомагає дітям). Чоловічого роду: volonter, volontera, volonteri. Знахідний живого збігається з родовим: tražimo volontera. Жіночу форму тут не вчимо (check). Українське «волонтер» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання; жіночу форму не звіряв."
+    },
+    {
+      "id": "hr-f010ab5c",
+      "type": "noun",
+      "lemma": "program",
+      "gender": "m.",
+      "gen_sg": "programa",
+      "plural": [
+        "programi"
+      ],
+      "ua": "програма (подій), програма",
+      "audio": "hr-program.mp3",
+      "forms": [
+        "programa",
+        "programu",
+        "programi",
+        "programe"
+      ],
+      "explain_ua": "(Program je dug = програма довга). Чоловічого роду: program, programa, u programu. Програма заходу, програма на телебаченні. Знайоме слово, закінчення вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-1f368a50",
+      "type": "noun",
+      "lemma": "izložba",
+      "gender": "ž.",
+      "gen_sg": "izložbe",
+      "plural": [
+        "izložbe"
+      ],
+      "ua": "виставка",
+      "audio": "hr-izlozba.mp3",
+      "forms": [
+        "izložbe",
+        "izložbu",
+        "izložbi",
+        "izložbom"
+      ],
+      "explain_ua": "(Izložba je u subotu = виставка в суботу). Жіночий рід на -a: izložba, izložbe, izložbu (знахідний), na izložbi. Родовий множини izložbi. Пиши ž: izložba. Українське «виставка» інше слово.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-fccf25d4",
+      "type": "noun",
+      "lemma": "predstava",
+      "gender": "ž.",
+      "gen_sg": "predstave",
+      "plural": [
+        "predstave"
+      ],
+      "ua": "вистава",
+      "audio": "hr-predstava.mp3",
+      "forms": [
+        "predstave",
+        "predstavu",
+        "predstavi",
+        "predstavom"
+      ],
+      "explain_ua": "(Predstava počinje navečer = вистава починається ввечері). Жіночий рід на -a: predstava, predstave, predstavu (знахідний), na predstavi. Збіг форм: predstave це й форма дієслова predstaviti se (Lekcija 47). З речення видно, яке. Родовий множини predstava.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-c8b07499",
+      "type": "verb",
+      "lemma": "sudjelovati",
+      "aspect": "impf.",
+      "pres_1sg": "sudjelujem",
+      "forms": [
+        "sudjelujem",
+        "sudjeluješ",
+        "sudjeluje",
+        "sudjelujemo",
+        "sudjelujete",
+        "sudjeluju",
+        "sudjelovala",
+        "sudjelovali",
+        "sudjelovao"
+      ],
+      "ua": "брати участь",
+      "audio": "hr-sudjelovati.mp3",
+      "explain_ua": "(Djeca sudjeluju u radionici = діти беруть участь у майстер-класі). Недоконане: sudjelujem, sudjeluješ, sudjeluje, 3 особа множини sudjeluju (-ova- > -uj-, як kupovati). Беру участь «у чому»: u + місцевий (u radionici, u programu). Пари доконаного нема в моїх записах (check). Пиши sudj-: sudjelovati.",
+      "check": "Форми з мого знання за зразком kupovati; пари доконаного не знайшов, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-9734be8f",
+      "type": "verb",
+      "lemma": "organizirati",
+      "aspect": "impf.",
+      "partner": "organizirati",
+      "pres_1sg": "organiziram",
+      "forms": [
+        "organiziram",
+        "organiziraš",
+        "organizira",
+        "organiziramo",
+        "organizirate",
+        "organiziraju",
+        "organizirala",
+        "organizirali",
+        "organizirao"
+      ],
+      "ua": "організувати",
+      "audio": "hr-organizirati.mp3",
+      "explain_ua": "(Udruga organizira izložbu = об'єднання організовує виставку). Дієвідміна -am: organiziram, organiziraš, organizira. Одне дієслово в обох видах (як reciklirati, Lekcija 45): контекст показує вид (check). Знахідний: organizirati izložbu. Українське «організувати» схоже, закінчення вчимо.",
+      "check": "Форми з мого знання; що одне дієслово і доконане, і недоконане, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-0a1508f5",
+      "type": "verb",
+      "lemma": "održati se",
+      "aspect": "pf.",
+      "partner": "održavati se",
+      "pres_1sg": "održim se",
+      "forms": [
+        "održi",
+        "održe",
+        "održala",
+        "održao",
+        "održali",
+        "održati",
+        "održavati",
+        "održava",
+        "održavaju",
+        "održavao",
+        "održavala"
+      ],
+      "ua": "відбутися (недок. održavati se)",
+      "audio": "hr-odrzati.mp3",
+      "explain_ua": "(Radionica se održava u knjižnici = майстер-клас відбувається в бібліотеці). Пара: održati se (док.) / održavati se (недок.). Вживаємо майже лише в 3 особі: održi se / održava se, održala se. Se на другому місці: radionica se održava. Схоже на događati se (Lekcija 46), але održati se про організовані заходи: radionica, izložba, sastanak. Форма 1 особи (održim se) майже не трапляється.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. 1 особа подана для повноти, на практиці її не вживають."
+    },
+    {
+      "id": "hr-0c5a366e",
+      "type": "verb",
+      "lemma": "obnoviti",
+      "aspect": "pf.",
+      "partner": "obnavljati",
+      "pres_1sg": "obnovim",
+      "forms": [
+        "obnovim",
+        "obnoviš",
+        "obnovi",
+        "obnovimo",
+        "obnovite",
+        "obnove",
+        "obnovila",
+        "obnovili",
+        "obnovio",
+        "obnavljati",
+        "obnavljam",
+        "obnavljaš",
+        "obnavlja",
+        "obnavljamo",
+        "obnavljate",
+        "obnavljaju",
+        "obnovljena"
+      ],
+      "ua": "відновити, відремонтувати (недок. obnavljati)",
+      "audio": "hr-obnoviti.mp3",
+      "explain_ua": "(Stanovnici obnavljaju igralište = мешканці відновлюють майданчик). Пара: obnoviti (док.) / obnavljati (недок.): obnovim / obnavljam, ov > av у недок. і v > vlj. Знахідний: obnoviti igralište. Прикметник obnovljen, obnovljena: «відновлений». Корінь nov (Lekcija 25): підказка для пам'яті.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (obnavljati, obnovljena)."
+    },
+    {
+      "id": "hr-30a4556e",
+      "type": "verb",
+      "lemma": "urediti",
+      "aspect": "pf.",
+      "partner": "uređivati",
+      "pres_1sg": "uredim",
+      "forms": [
+        "uredim",
+        "urediš",
+        "uredi",
+        "uredimo",
+        "uredite",
+        "urede",
+        "uredila",
+        "uredili",
+        "uredio",
+        "uređivati",
+        "uređujem",
+        "uređuješ",
+        "uređuje",
+        "uređujemo",
+        "uređujete",
+        "uređuju"
+      ],
+      "ua": "впорядкувати, облаштувати (недок. uređivati)",
+      "audio": "hr-urediti.mp3",
+      "explain_ua": "(Susjed uređuje vrt = сусід облаштовує сад). Пара: urediti (док.) / uređivati (недок.): uredim / uređujem, d > đ. Знахідний: urediti vrt, stan. Не плутай з ured (офіс, Lekcija 20): ту корінь той самий, значення різні (check).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (d > đ). Зв'язок з ured подаю як підказку, не етимологію."
+    },
+    {
+      "id": "hr-7a76bfe3",
+      "type": "adjective",
+      "lemma": "javni",
+      "fem": "javna",
+      "neut": "javno",
+      "ua": "публічний, громадський",
+      "audio": "hr-javni.mp3",
+      "forms": [
+        "javna",
+        "javno",
+        "javne",
+        "javnu",
+        "javnom"
+      ],
+      "explain_ua": "(Ta javna klupa je nova = та громадська лавка нова). Прикметник означеного типу: javni, javna, javno. Публічний, відкритий для всіх: javni park, javna knjižnica. Українське «публічний» інше слово, просто вчимо.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-9cbeb7c5",
+      "type": "adjective",
+      "lemma": "lokalni",
+      "fem": "lokalna",
+      "neut": "lokalno",
+      "ua": "місцевий, локальний",
+      "audio": "hr-lokalni.mp3",
+      "forms": [
+        "lokalna",
+        "lokalno",
+        "lokalne",
+        "lokalnu",
+        "lokalnom"
+      ],
+      "explain_ua": "(To je lokalna knjižnica = це місцева бібліотека). Прикметник означеного типу: lokalni, lokalna, lokalno. Місцевий, з цього району чи міста. Українське «локальний» схоже, але «місцевий» теж ходить.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2fc9ffcb",
+      "type": "adjective",
+      "lemma": "poznat",
+      "fem": "poznata",
+      "neut": "poznato",
+      "ua": "відомий, знаменитий",
+      "audio": "hr-poznat.mp3",
+      "forms": [
+        "poznata",
+        "poznato",
+        "poznati",
+        "poznate",
+        "poznatog"
+      ],
+      "explain_ua": "(On je poznat pisac = він відомий письменник). Прикметник: poznat, poznata, poznato. Відомий багатьом. Пара до upoznati (Lekcija 32, знайомитися): корінь той самий. Poznato mi je = мені відомо.",
+      "check": "Форми з мого знання; Poznato mi je як вираз з мого знання."
+    },
+    {
+      "id": "hr-aaa293cc",
+      "type": "function",
+      "lemma": "čiji",
+      "ua": "чий (питання й відносне)",
+      "audio": "hr-ciji.mp3",
+      "forms": [
+        "čija",
+        "čije",
+        "čijeg",
+        "čijem",
+        "čiju",
+        "čijoj",
+        "čijim",
+        "čijih"
+      ],
+      "explain_ua": "(Čija je to torba? = чия це сумка?). Відмінюється як прикметник: čiji (ч. р.), čija (ж. р.), čije (с. р.); родовий čijeg, давальний/місцевий čijem, знахідний ж. р. čiju, орудний čijim. Узгоджується з РЕЧЧЮ, яка належить, а не з власником: žena čiji sin radi, žena čija kći radi. Тримайся української чи російської «чий / чей»: збігається. Без нього пішло б «koji ... njegov».",
+      "check": "Форми з мого знання за зразком прикметника; відмінки čijeg, čijem і форми множини звірити з hjp.znanje.hr."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Чий: čiji, čija, čije",
+      "summary_ua": "Чий узгоджується з тим, чиє воно: čiji ключ (ч. р.), čija сумка (ж. р.), čije igralište (с. р.). Як відносне слово: žena čiji sin ..., udruga čija radionica ... . Тримайся української чи російської («чий, чия, чиє»): збігається. Нове: узгодження з РЕЧЧЮ, не з власником, і відмінки (čijeg, čijim).",
+      "compare": [
+        {
+          "form": "Čiji / čija / čije je ...?",
+          "when_ua": "Питаєш, чиє це.",
+          "examples": [
+            {
+              "text": "Čiji je ovaj ključ?",
+              "ua": "Чий це ключ?",
+              "audio": "hr-les51-rule-01.mp3"
+            },
+            {
+              "text": "Čije je ovo igralište?",
+              "ua": "Чий це майданчик?",
+              "audio": "hr-les51-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Čiji ключ (ч. р.), čije igralište (с. р.): за родом речі. Je на другому місці."
+        },
+        {
+          "form": "žena čiji sin ... / udruga čija radionica ...",
+          "when_ua": "Відносне «чий» у реченні.",
+          "examples": [
+            {
+              "text": "Žena čiji sin radi u knjižnici je moja susjeda.",
+              "ua": "Жінка, чий син працює в бібліотеці, моя сусідка.",
+              "audio": "hr-les51-rule-03.mp3"
+            },
+            {
+              "text": "Udruga čija radionica počinje u subotu ima mnogo volontera.",
+              "ua": "Об'єднання, чия майстер-клас починається в суботу, має багато волонтерів.",
+              "audio": "hr-les51-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Čiji узгоджується з тим, що йде далі: sin (ч. р.) = čiji, radionica (ж. р.) = čija."
+        },
+        {
+          "form": "čijeg, čijim: в інших відмінках",
+          "when_ua": "З прийменниками й у непрямому відмінку.",
+          "examples": [
+            {
+              "text": "S čijim sinom ideš u kino?",
+              "ua": "З чиїм сином ти йдеш у кіно?",
+              "audio": "hr-les51-rule-05.mp3"
+            },
+            {
+              "text": "Ne znam čijeg psa vidim.",
+              "ua": "Не знаю, чийого собаку бачу.",
+              "audio": "hr-les51-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Орудний čijim (s čijim sinom), знахідний живого čijeg (збігається з родовим). Відмінки як у прикметника (check)."
+        }
+      ],
+      "points_ua": [
+        "Čiji ключ, čija сумка, čije igralište.",
+        "Čiji узгоджується з тим, що йде далі: žena čiji sin, udruga čija radionica.",
+        "S čijim sinom, čijeg psa (check)."
+      ]
+    },
+    {
+      "title_ua": "Koji з прийменником: u kojem, o kojoj, s kojim",
+      "summary_ua": "Коли «який» стоїть після прийменника, koji бере рід і число слова, до якого відноситься, а ВІДМІНОК диктує прийменник: u kojoj (місцевий), s kojim (орудний), o kojem (місцевий), u koju (знахідний, куди). Українське «в якій, з яким, про який» збігається один до одного: тримайся української.",
+      "compare": [
+        {
+          "form": "u kojem / u kojoj (де), u koji / u koju (куди)",
+          "when_ua": "Місце: де і куди.",
+          "examples": [
+            {
+              "text": "Knjižnica, u kojoj radim, je nova.",
+              "ua": "Бібліотека, в якій я працюю, нова.",
+              "audio": "hr-les51-rule-07.mp3"
+            },
+            {
+              "text": "Park, u koji idemo, je velik.",
+              "ua": "Парк, у який ми йдемо, великий.",
+              "audio": "hr-les51-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Рід за словом перед ним: knjižnica (ж.) = kojoj, park (ч.) = koji. Де: місцевий (u kojoj), куди: знахідний (u koji)."
+        },
+        {
+          "form": "s kojim, o kojoj",
+          "when_ua": "З ким, про що.",
+          "examples": [
+            {
+              "text": "Susjed, s kojim razgovaram, je volonter.",
+              "ua": "Сусід, з яким я розмовляю, волонтер.",
+              "audio": "hr-les51-rule-09.mp3"
+            },
+            {
+              "text": "Radionica, o kojoj čitam, počinje u deset.",
+              "ua": "Майстер-клас, про який я читаю, починається о десятій.",
+              "audio": "hr-les51-rule-10.mp3"
+            }
+          ],
+          "note_ua": "S kojim (орудний, Lekcija 14), o kojoj (місцевий, Lekcija 20). Кома перед прийменником і після підрядного речення."
+        },
+        {
+          "form": "ono što, sve što, gdje",
+          "when_ua": "Коли немає іменника: «те, що».",
+          "examples": [
+            {
+              "text": "Sve što vidim je novo.",
+              "ua": "Усе, що бачу, нове.",
+              "audio": "hr-les51-rule-11.mp3"
+            },
+            {
+              "text": "Mjesto gdje radim je blizu.",
+              "ua": "Місце, де я працюю, поруч.",
+              "audio": "hr-les51-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Sve što, ono što (Lekcija 38). Gdje замість u kojem теж чути щодня, у розмові; у письмі обережніше з u kojem (check)."
+        }
+      ],
+      "points_ua": [
+        "Koji за родом слова, відмінок за прийменником: u kojoj, s kojim, o kojem.",
+        "Куди: u koji, u koju. Де: u kojem, u kojoj.",
+        "Sve što, ono što; gdje у розмові (check)."
+      ]
+    },
+    {
+      "title_ua": "Tko ..., neka ...; svatko tko; svi koji",
+      "summary_ua": "Оголошення часто звертаються до всіх: Tko želi doći, neka se javi. Svatko tko voli ..., Svi koji žele ... . Neka + теперішній (Lekcija 23) дає прохання третій особі. Se стоїть на другому місці.",
+      "compare": [
+        {
+          "form": "Tko ..., neka ...",
+          "when_ua": "Хто хоче, нехай...",
+          "examples": [
+            {
+              "text": "Tko želi doći, neka se javi.",
+              "ua": "Хто хоче прийти, нехай зголоситься.",
+              "audio": "hr-les51-rule-13.mp3"
+            },
+            {
+              "text": "Tko ima pitanje, neka pita.",
+              "ua": "Хто має питання, нехай питає.",
+              "audio": "hr-les51-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Tko ... , neka + теперішній. Se після neka: neka se javi."
+        },
+        {
+          "form": "svatko tko / svi koji",
+          "when_ua": "Кожен, хто / усі, хто.",
+          "examples": [
+            {
+              "text": "Svatko tko voli knjige, može doći.",
+              "ua": "Кожен, хто любить книжки, може прийти.",
+              "audio": "hr-les51-rule-15.mp3"
+            },
+            {
+              "text": "Svi koji žele, mogu sudjelovati.",
+              "ua": "Усі, хто хоче, можуть брати участь.",
+              "audio": "hr-les51-rule-16.mp3"
+            }
+          ],
+          "note_ua": "Svatko (Lekcija 42) tko; svi koji. Дієслово після tko в однині, після koji (свi) у множині."
+        },
+        {
+          "form": "оголошення: що, коли, де, хто",
+          "when_ua": "Як читати довге оголошення.",
+          "examples": [
+            {
+              "text": "Radionica je u subotu u deset sati u knjižnici.",
+              "ua": "Майстер-клас у суботу о десятій у бібліотеці.",
+              "audio": "hr-les51-rule-17.mp3"
+            }
+          ],
+          "note_ua": "Читай довгий текст так: спершу що, коли, де, хто; тоді числа й дні. Не зупиняйся на невідомому слові. Це моя порада, не правило іспиту."
+        }
+      ],
+      "points_ua": [
+        "Tko ..., neka ...: заклик до всіх.",
+        "Svatko tko ..., svi koji ...",
+        "Довгий текст: що, коли, де, хто."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Kvart je miran.",
+      "ua": "Район спокійний.",
+      "audio": "hr-les51-example-01.mp3"
+    },
+    {
+      "text": "Svaki stanovnik ima ključ.",
+      "ua": "Кожен мешканець має ключ.",
+      "audio": "hr-les51-example-02.mp3"
+    },
+    {
+      "text": "Knjižnica je blizu parka.",
+      "ua": "Бібліотека поблизу парку.",
+      "audio": "hr-les51-example-03.mp3"
+    },
+    {
+      "text": "Udruga ima mnogo volontera.",
+      "ua": "Об'єднання має багато волонтерів.",
+      "audio": "hr-les51-example-04.mp3"
+    },
+    {
+      "text": "Radionica počinje u deset sati.",
+      "ua": "Майстер-клас починається о десятій.",
+      "audio": "hr-les51-example-05.mp3"
+    },
+    {
+      "text": "Događaj je besplatan.",
+      "ua": "Подія безкоштовна.",
+      "audio": "hr-les51-example-06.mp3"
+    },
+    {
+      "text": "Igralište je iza škole.",
+      "ua": "Майданчик за школою.",
+      "audio": "hr-les51-example-07.mp3"
+    },
+    {
+      "text": "Klupa je ispred knjižnice.",
+      "ua": "Лавка перед бібліотекою.",
+      "audio": "hr-les51-example-08.mp3"
+    },
+    {
+      "text": "Ta javna klupa je nova.",
+      "ua": "Та громадська лавка нова.",
+      "audio": "hr-les51-example-09.mp3"
+    },
+    {
+      "text": "Volonter pomaže djeci.",
+      "ua": "Волонтер допомагає дітям.",
+      "audio": "hr-les51-example-10.mp3"
+    },
+    {
+      "text": "Program je dug.",
+      "ua": "Програма довга.",
+      "audio": "hr-les51-example-11.mp3"
+    },
+    {
+      "text": "Izložba je u subotu.",
+      "ua": "Виставка в суботу.",
+      "audio": "hr-les51-example-12.mp3"
+    },
+    {
+      "text": "Predstava počinje navečer.",
+      "ua": "Вистава починається ввечері.",
+      "audio": "hr-les51-example-13.mp3"
+    },
+    {
+      "text": "Djeca sudjeluju u radionici.",
+      "ua": "Діти беруть участь у майстер-класі.",
+      "audio": "hr-les51-example-14.mp3"
+    },
+    {
+      "text": "Udruga organizira izložbu.",
+      "ua": "Об'єднання організовує виставку.",
+      "audio": "hr-les51-example-15.mp3"
+    },
+    {
+      "text": "Radionica se održava u knjižnici.",
+      "ua": "Майстер-клас відбувається в бібліотеці.",
+      "audio": "hr-les51-example-16.mp3"
+    },
+    {
+      "text": "Stanovnici obnavljaju igralište.",
+      "ua": "Мешканці відновлюють майданчик.",
+      "audio": "hr-les51-example-17.mp3"
+    },
+    {
+      "text": "Susjed uređuje vrt.",
+      "ua": "Сусід облаштовує сад.",
+      "audio": "hr-les51-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Moj kvart",
+    "title_ua": "Мій район",
+    "highlight": [
+      "hr-666fc684",
+      "hr-76f307f7",
+      "hr-ca457edb",
+      "hr-1338d83a",
+      "hr-93f83b63",
+      "hr-a00c173f",
+      "hr-f57a99a3",
+      "hr-d9cfac2c",
+      "hr-f010ab5c",
+      "hr-aaa293cc"
+    ],
+    "sentences": [
+      {
+        "text": "Živim u malom kvartu blizu parka.",
+        "ua": "Живу в маленькому районі поблизу парку.",
+        "audio": "hr-les51-reading-01.mp3"
+      },
+      {
+        "text": "U našem kvartu je knjižnica u koju idem svaki tjedan.",
+        "ua": "У нашому районі є бібліотека, у яку я ходжу щотижня.",
+        "audio": "hr-les51-reading-02.mp3"
+      },
+      {
+        "text": "Moja susjeda, čija kći glumi u kazalištu, radi u udruzi.",
+        "ua": "Моя сусідка, чия дочка грає в театрі, працює в об'єднанні.",
+        "audio": "hr-les51-reading-03.mp3"
+      },
+      {
+        "text": "Udruga organizira radionice o kojima često čitam na internetu.",
+        "ua": "Об'єднання організовує майстер-класи, про які я часто читаю в інтернеті.",
+        "audio": "hr-les51-reading-04.mp3"
+      },
+      {
+        "text": "Ove godine su stanovnici obnovili igralište na kojem se igraju djeca.",
+        "ua": "Цього року мешканці відновили майданчик, на якому граються діти.",
+        "audio": "hr-les51-reading-05.mp3"
+      },
+      {
+        "text": "Na igralištu ima i nova klupa na kojoj čitam.",
+        "ua": "На майданчику є й нова лавка, на якій я читаю.",
+        "audio": "hr-les51-reading-06.mp3"
+      },
+      {
+        "text": "Svatko tko želi, može sudjelovati u programu.",
+        "ua": "Кожен, хто хоче, може брати участь у програмі.",
+        "audio": "hr-les51-reading-07.mp3"
+      },
+      {
+        "text": "To je naša zajednica i zato je volim.",
+        "ua": "Це наша спільнота, і тому я її люблю.",
+        "audio": "hr-les51-reading-08.mp3"
+      },
+      {
+        "text": "Preporučujem ti da dođeš u subotu.",
+        "ua": "Раджу тобі прийти в суботу.",
+        "audio": "hr-les51-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай оголошення і дай відповіді. Текст видно, поки ти відповідаєш. Не зупиняйся на невідомому слові: шукай день, час, місце й хто.",
+      "audio": "hr-les-51-notice.mp3",
+      "passage": {
+        "title": "Dan otvorenih vrata u našem kvartu",
+        "paragraphs": [
+          "Poštovani stanovnici kvarta, u subotu, petog lipnja, u našem kvartu je Dan otvorenih vrata. Program počinje u deset sati ispred knjižnice. Svi događaji su besplatni, a ulaz je slobodan.",
+          "Radionica za djecu održava se u knjižnici koja je prošle godine obnovljena. Organizira je udruga čiji volonteri vole raditi s djecom. Djeca će slušati bajke i gledati kratku predstavu.",
+          "Na igralištu, koje su stanovnici ovog proljeća uredili, ima nove klupe. Navečer je izložba slika u kojoj sudjeluju djeca iz kvarta. Javni program završava u devet sati.",
+          "Naš kvart je mali, ali lijep. U njemu živi otprilike tisuću stanovnika. Mnogi se već znaju, a djeca se igraju na igralištu. Zato je ovaj dan važan: upoznat ćemo susjede koje još ne znamo.",
+          "Knjižnica je blizu stanice, iza parka. Tko dolazi autom, može parkirati ispred zgrade. Tko dolazi autobusom, izlazi na stanici kod parka. Ako bude kiše, program će biti u knjižnici.",
+          "Tražimo još volontera. Tko želi pomoći, neka se prijavi do petka u knjižnici. Kvart je naša zajednica, zato svatko može sudjelovati. Pozivamo i goste iz drugih kvartova. Pitanja šaljite udruzi na e-poštu, a mi ćemo vam odgovoriti najkasnije do srijede."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "У який день відбувається День відкритих дверей? (день)",
+          "accepted": [
+            "subota",
+            "u subotu",
+            "subotu",
+            "petog lipnja",
+            "u subotu, petog lipnja"
+          ]
+        },
+        {
+          "prompt": "О котрій годині починається програма? (число)",
+          "accepted": [
+            "deset",
+            "10",
+            "u deset",
+            "u deset sati",
+            "u 10 sati"
+          ]
+        },
+        {
+          "prompt": "Усі події платні.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Майстер-клас для дітей відбувається в бібліотеці.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Хто організує майстер-клас для дітей? (одне слово)",
+          "accepted": [
+            "udruga",
+            "udruga čiji volonteri"
+          ]
+        },
+        {
+          "prompt": "На майданчику є нові лавки.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Що відбувається ввечері? (одне-два слова)",
+          "accepted": [
+            "izložba",
+            "izložba slika"
+          ]
+        },
+        {
+          "prompt": "Якщо буде дощ, програма не відбудеться.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "До якого дня треба зголоситися волонтером? (день)",
+          "accepted": [
+            "petak",
+            "do petka",
+            "petka"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Мій брат живе в тому районі.",
+          "accepted": [
+            "Moj brat živi u tom kvartu.",
+            "Moj brat živi u tome kvartu."
+          ]
+        },
+        {
+          "prompt": "Мешканці району люблять цей парк.",
+          "accepted": [
+            "Stanovnici kvarta vole ovaj park."
+          ]
+        },
+        {
+          "prompt": "Бібліотека, до якої ми йдемо, зачинена.",
+          "accepted": [
+            "Knjižnica u koju idemo je zatvorena.",
+            "Knjižnica, u koju idemo, je zatvorena.",
+            "Knjižnica u koju idemo je zatvorena"
+          ]
+        },
+        {
+          "prompt": "Чия це сумка?",
+          "accepted": [
+            "Čija je to torba?",
+            "Čija je ovo torba?",
+            "Čija je ta torba?",
+            "Čija je ova torba?"
+          ]
+        },
+        {
+          "prompt": "Сусід, чия дочка співає, мій колега.",
+          "accepted": [
+            "Susjed čija kći pjeva je moj kolega.",
+            "Susjed, čija kći pjeva, je moj kolega."
+          ]
+        },
+        {
+          "prompt": "Робота, про яку я чула, цікава.",
+          "accepted": [
+            "Posao o kojem sam čula je zanimljiv.",
+            "Posao, o kojem sam čula, je zanimljiv."
+          ]
+        },
+        {
+          "prompt": "Колега, з яким я працюю, досвідчений.",
+          "accepted": [
+            "Kolega s kojim radim je iskusan.",
+            "Kolega, s kojim radim, je iskusan."
+          ]
+        },
+        {
+          "prompt": "Усе, що вона каже, правильно.",
+          "accepted": [
+            "Sve što ona kaže je točno.",
+            "Sve što kaže je točno."
+          ]
+        },
+        {
+          "prompt": "Це місце, де я живу.",
+          "accepted": [
+            "To je mjesto gdje živim.",
+            "To je mjesto u kojem živim."
+          ]
+        },
+        {
+          "prompt": "Ми беремо участь у програмі.",
+          "accepted": [
+            "Sudjelujemo u programu."
+          ]
+        },
+        {
+          "prompt": "Хто організує виставку?",
+          "accepted": [
+            "Tko organizira izložbu?"
+          ]
+        },
+        {
+          "prompt": "Вистава для дітей починається о п'ятій.",
+          "accepted": [
+            "Predstava za djecu počinje u pet sati.",
+            "Predstava za djecu počinje u pet."
+          ]
+        },
+        {
+          "prompt": "Лавку нарешті відновили.",
+          "accepted": [
+            "Klupu su napokon obnovili.",
+            "Napokon su obnovili klupu."
+          ]
+        },
+        {
+          "prompt": "Він відомий письменник.",
+          "accepted": [
+            "On je poznat pisac.",
+            "On je poznati pisac."
+          ]
+        },
+        {
+          "prompt": "Це місцева бібліотека.",
+          "accepted": [
+            "To je lokalna knjižnica."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "kvartu",
+        "stanovnici",
+        "knjižnica",
+        "udruga",
+        "radionica",
+        "događaj",
+        "igralištu",
+        "klupi",
+        "zajednica",
+        "volonteri",
+        "program",
+        "izložba",
+        "Predstava",
+        "javni"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Živim u malom ___.",
+          "hint": "Живу в маленькому районі.",
+          "accepted": [
+            [
+              "kvartu"
+            ]
+          ]
+        },
+        {
+          "text": "Svi ___ kvarta su pozvani.",
+          "hint": "Усі мешканці району запрошені.",
+          "accepted": [
+            [
+              "stanovnici"
+            ]
+          ]
+        },
+        {
+          "text": "Moja ___ je blizu parka.",
+          "hint": "Моя бібліотека поблизу парку.",
+          "accepted": [
+            [
+              "knjižnica"
+            ]
+          ]
+        },
+        {
+          "text": "Ta ___ organizira radionice.",
+          "hint": "Те об'єднання організовує майстер-класи.",
+          "accepted": [
+            [
+              "udruga"
+            ]
+          ]
+        },
+        {
+          "text": "Dječja ___ počinje u deset.",
+          "hint": "Дитячий майстер-клас починається о десятій.",
+          "accepted": [
+            [
+              "radionica"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ je besplatan.",
+          "hint": "Та подія безкоштовна.",
+          "accepted": [
+            [
+              "događaj"
+            ]
+          ]
+        },
+        {
+          "text": "Djeca se igraju na ___.",
+          "hint": "Діти граються на майданчику.",
+          "accepted": [
+            [
+              "igralištu"
+            ]
+          ]
+        },
+        {
+          "text": "Čekam na novoj ___.",
+          "hint": "Чекаю на новій лавці.",
+          "accepted": [
+            [
+              "klupi"
+            ]
+          ]
+        },
+        {
+          "text": "Naša ___ je mala, ali lijepa.",
+          "hint": "Наша спільнота мала, але гарна.",
+          "accepted": [
+            [
+              "zajednica"
+            ]
+          ]
+        },
+        {
+          "text": "Naši ___ vole raditi s djecom.",
+          "hint": "Наші волонтери люблять працювати з дітьми.",
+          "accepted": [
+            [
+              "volonteri"
+            ]
+          ]
+        },
+        {
+          "text": "Današnji ___ je dug.",
+          "hint": "Сьогоднішня програма довга.",
+          "accepted": [
+            [
+              "program"
+            ]
+          ]
+        },
+        {
+          "text": "Navečer je ___ slika.",
+          "hint": "Ввечері виставка картин.",
+          "accepted": [
+            [
+              "izložba"
+            ]
+          ]
+        },
+        {
+          "text": "___ za djecu je kratka.",
+          "hint": "Вистава для дітей коротка.",
+          "accepted": [
+            [
+              "Predstava",
+              "predstava"
+            ]
+          ]
+        },
+        {
+          "text": "To je ___ park za sve.",
+          "hint": "Це громадський парк для всіх.",
+          "accepted": [
+            [
+              "javni"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Žena čiji kći pjeva je moja susjeda.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Žena čija kći pjeva je moja susjeda.",
+            "Žena, čija kći pjeva, je moja susjeda."
+          ]
+        },
+        {
+          "prompt": "Čiji je to knjiga?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čija je to knjiga?"
+          ]
+        },
+        {
+          "prompt": "Igralište na koje se igraju djeca je novo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Igralište na kojem se igraju djeca je novo.",
+            "Igralište, na kojem se igraju djeca, je novo."
+          ]
+        },
+        {
+          "prompt": "Park kroz kojem šetam je lijep.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Park kroz koji šetam je lijep.",
+            "Park, kroz koji šetam, je lijep."
+          ]
+        },
+        {
+          "prompt": "Ono što ona kaže je točna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ono što ona kaže je točno."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam u knjižnici.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam u knjižnici.",
+            "Ja sam danas u knjižnici."
+          ]
+        },
+        {
+          "prompt": "Stanovnici kvarta voli igralište.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Stanovnici kvarta vole igralište."
+          ]
+        },
+        {
+          "prompt": "Izložba počinje u šest sat.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Izložba počinje u šest sati."
+          ]
+        },
+        {
+          "prompt": "Mi organiziram izložbu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi organiziramo izložbu.",
+            "Organiziramo izložbu."
+          ]
+        },
+        {
+          "prompt": "Poštovani stanovnik, hvala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovani stanovniče, hvala."
+          ]
+        },
+        {
+          "prompt": "Radionica se održava u subotu.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Radionica se održala u subotu.",
+            "Radionica se održavala u subotu."
+          ]
+        },
+        {
+          "prompt": "Stanovnici uređuju igralište.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Stanovnici ne uređuju igralište."
+          ]
+        },
+        {
+          "prompt": "Udruga organizira izložbu.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Organizira li udruga izložbu?"
+          ]
+        },
+        {
+          "prompt": "Klupa je nova.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Klupe su nove."
+          ]
+        },
+        {
+          "prompt": "Susjed uređuje vrt i zove nas.",
+          "cue": "-> Nakon što ... (urediti)",
+          "accepted": [
+            "Nakon što susjed uredi vrt, zove nas.",
+            "Nakon što uredi vrt, susjed nas zove.",
+            "Nakon što uredi vrt, susjed zove nas."
+          ]
+        },
+        {
+          "prompt": "Kafić je blizu. Čekam u kafiću.",
+          "cue": "-> spoji s koji",
+          "accepted": [
+            "Kafić u kojem čekam je blizu.",
+            "Kafić, u kojem čekam, je blizu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Udruga ___ radionicu.",
+          "cue": "organizirati",
+          "accepted": [
+            "organizira"
+          ]
+        },
+        {
+          "text": "Mi ___ u programu.",
+          "cue": "sudjelovati",
+          "accepted": [
+            "sudjelujemo"
+          ]
+        },
+        {
+          "text": "Djeca ___ u izložbi.",
+          "cue": "sudjelovati",
+          "accepted": [
+            "sudjeluju"
+          ]
+        },
+        {
+          "text": "Radionica se ___ u knjižnici svaki tjedan.",
+          "cue": "održavati",
+          "accepted": [
+            "održava"
+          ]
+        },
+        {
+          "text": "Izložba se ___ jučer.",
+          "cue": "održati",
+          "accepted": [
+            "održala"
+          ]
+        },
+        {
+          "text": "Stanovnici ___ igralište svake godine.",
+          "cue": "obnavljati",
+          "accepted": [
+            "obnavljaju"
+          ]
+        },
+        {
+          "text": "Ove godine su stanovnici ___ klupe.",
+          "cue": "obnoviti",
+          "accepted": [
+            "obnovili"
+          ]
+        },
+        {
+          "text": "Susjed ___ vrt svaki mjesec.",
+          "cue": "uređivati",
+          "accepted": [
+            "uređuje"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ vrt.",
+          "cue": "urediti",
+          "accepted": [
+            "uredila",
+            "uredio"
+          ]
+        },
+        {
+          "text": "Tko ___ izložbu?",
+          "cue": "organizirati",
+          "accepted": [
+            "organizira"
+          ]
+        },
+        {
+          "text": "Volonteri nam svaki dan ___.",
+          "cue": "pomagati",
+          "accepted": [
+            "pomažu"
+          ]
+        },
+        {
+          "text": "Stanovnici ne ___ u tom programu.",
+          "cue": "sudjelovati",
+          "accepted": [
+            "sudjeluju"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "громадський, публічний",
+          "answer": "javni"
+        },
+        {
+          "prompt": "район міста",
+          "answer": "kvart"
+        },
+        {
+          "prompt": "мешканець",
+          "answer": "stanovnik"
+        },
+        {
+          "prompt": "бібліотека",
+          "answer": "knjižnica"
+        },
+        {
+          "prompt": "об'єднання, асоціація",
+          "answer": "udruga"
+        },
+        {
+          "prompt": "майстер-клас, практичне заняття",
+          "answer": "radionica"
+        },
+        {
+          "prompt": "подія",
+          "answer": "događaj"
+        },
+        {
+          "prompt": "майданчик",
+          "answer": "igralište"
+        },
+        {
+          "prompt": "лавка",
+          "answer": "klupa"
+        },
+        {
+          "prompt": "спільнота",
+          "answer": "zajednica"
+        },
+        {
+          "prompt": "волонтер",
+          "answer": "volonter"
+        },
+        {
+          "prompt": "виставка",
+          "answer": "izložba"
+        },
+        {
+          "prompt": "вистава",
+          "answer": "predstava"
+        },
+        {
+          "prompt": "відомий",
+          "answer": "poznat"
+        }
+      ],
+      "extra": [
+        "lokalni",
+        "program"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова: послухай і напиши.",
+      "words": [
+        "knjiga",
+        "kuća",
+        "život",
+        "godina",
+        "obitelj"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 1 і 8; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

@@ -239,6 +239,7 @@ if (typeof document === 'undefined') {
       if (ex.type === 'comprehension') {
         // a long text to read first, then the questions below it; the text stays on screen while she answers
         const pass = el('div', 'passage');
+        if (ex.audio) pass.append(iconBtn(ex.audio));   // optional: the text read aloud
         if (ex.passage.title) pass.append(el('h4', null, ex.passage.title));
         ex.passage.paragraphs.forEach((p) => pass.append(el('p', null, p)));
         box.append(pass);
