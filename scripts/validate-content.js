@@ -19,7 +19,7 @@ const sentenceOf = (e) => (e.text !== undefined ? e.text : e.nl);
 
 // Default size rules (the first language's): from lesson 12, 8-12 examples and 8-12 items per exercise, at most 12 words per dictation attempt.
 const { dictationNotes } = require('../mockup/lesson.js');
-const DEFAULT_SIZE = { from_lesson: 12, examples: [8, 12], items: [8, 12], matching: [5, 12], listening: [3, 8], dictation_max: 12 };
+const DEFAULT_SIZE = { from_lesson: 12, examples: [8, 12], items: [8, 12], matching: [5, 12], listening: [3, 8], comprehension: [4, 10], dictation_max: 12 };
 
 function validateLanguage(lang) {
   const langDir = path.join(contentDir, lang);
@@ -72,6 +72,15 @@ function validateLanguage(lang) {
     lesson.reading.sentences.forEach((s, i) => sentences.push([`reading[${i}]`, sentenceOf(s)]));
     (Array.isArray(lesson.rule) ? lesson.rule : lesson.rule ? [lesson.rule] : []).forEach((rule, ri) => (rule.compare || []).forEach((c, ci) => c.examples.forEach((e, i) => sentences.push([`rule[${ri}].compare[${ci}].examples[${i}]`, sentenceOf(e)]))));
     lesson.practice.forEach((ex, ei) => {
+      if (ex.type === 'comprehension') {
+        const ps = ex.passage && ex.passage.paragraphs;
+        if (!Array.isArray(ps) || !ps.length || ps.some((p) => typeof p !== 'string' || !p.trim())) fail(where(`practice[${ei}:comprehension] needs passage.paragraphs (a list of paragraphs)`));
+        else {
+          ps.forEach((p, pi) => sentences.push([`practice[${ei}:comprehension].passage[${pi}]`, p]));
+          const words = ps.join(" ").split(/ +/).length;   // a long reading text: 120-350 words is the aim, outside that is only a nudge
+          if (words < 120 || words > 350) console.log(`NOTE ${lang}/${file}: practice[${ei}] comprehension text has ${words} words, the aim is 120-350`);
+        }
+      }
       if (ex.type === 'listening') {
         // the recording: one voice (audio_text) or a dialogue (lines: [{speaker, voice, text}], voice "a" = the teacher, "b" = the second voice)
         if (ex.lines && (!Array.isArray(ex.lines) || !ex.lines.length || ex.lines.some((l) => !l.text || (l.voice && !['a', 'b'].includes(l.voice))))) fail(where(`practice[${ei}:listening] "lines" must be a list of {text, speaker?, voice? a|b}`));
@@ -91,7 +100,7 @@ function validateLanguage(lang) {
         }
         if (!item.accepted || !item.accepted.length) fail(where(`${at} has no accepted answers`));
         if (item.choices !== undefined) {
-          if (!['translate', 'listening'].includes(ex.type)) fail(where(`${at}: "choices" is only for translate and listening items`));
+          if (!['translate', 'listening', 'comprehension'].includes(ex.type)) fail(where(`${at}: "choices" is only for translate, listening and comprehension items`));
           else if (!Array.isArray(item.choices) || item.choices.length < 2 || new Set(item.choices).size !== item.choices.length) fail(where(`${at}: "choices" needs at least 2 different options`));
           else if (!item.accepted.every((a) => item.choices.includes(a))) fail(where(`${at}: every accepted answer must be one of the choices`));
           else item.choices.forEach((c) => { if (/[A-Za-z]/.test(c)) sentences.push([at + ' choice', c]); });   // options in the language being learned are level-audited, Ukrainian ones (true / false) are not
@@ -106,8 +115,8 @@ function validateLanguage(lang) {
         } else if (ex.type === 'transform') {
           sentences.push([at, item.prompt]);
           item.accepted.forEach((a) => sentences.push([at + ' answer', a]));
-        } else if (ex.type === 'translate' || ex.type === 'listening') {
-          item.accepted.forEach((a) => sentences.push([at + ' answer', a]));
+        } else if (ex.type === 'translate' || ex.type === 'listening' || ex.type === 'comprehension') {
+          item.accepted.forEach((a) => { if (/[A-Za-z]/.test(a)) sentences.push([at + ' answer', a]); });   // a Ukrainian answer (true / false, yes / no) is not level-audited
         }
       }
     });
@@ -123,6 +132,7 @@ function validateLanguage(lang) {
           if (ex.words) for (const w of ex.words) if (!dictationNotes(lesson, { words: [w] }, lessons.map((l) => l.data)).length) fail(where(`${label}: dictation word "${w}" is not a note with audio in this or an earlier lesson`));
           inRange(Math.min(words, ex.max || words), [1, size.dictation_max], label + ' (words per attempt, set "max" to limit)');
         } else if (ex.type === 'matching') inRange(ex.items.length, size.matching, label);
+        else if (ex.type === 'comprehension') inRange(ex.items.length, size.comprehension || [4, 10], label);
         else if (ex.type === 'listening') inRange(ex.items.length, size.listening || [3, 8], label);
         else inRange(ex.items.length, size.items, label);
       });

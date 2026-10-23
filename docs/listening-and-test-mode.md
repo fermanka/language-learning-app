@@ -46,3 +46,18 @@ Options with Latin letters are level-audited; Ukrainian ones are not.
 ## Digest
 
 For every exercise with `"test": true` the teacher's digest lists every wrong item of the latest attempt (item, expected answer, what was typed), since the learner never saw the answers.
+
+## Reading comprehension (`"type": "comprehension"`)
+
+A long text to read first, then questions; the text stays on screen while she answers.
+
+```json
+{ "type": "comprehension", "instruction_ua": "Прочитай текст і дай відповіді.",
+  "passage": { "title": "optional", "paragraphs": ["...", "..."] },
+  "items": [ { "prompt": "Питання українською?", "accepted": ["answer"] },
+             { "prompt": "Твердження.", "choices": ["Так", "Ні"], "accepted": ["Так"] } ] }
+```
+
+- 4-10 items (size rule `comprehension`). The text aims at 120-350 words (a nudge, not an error) and is level-audited paragraph by paragraph.
+- Items can use `choices` (multiple choice, true / false) like listening items. Ukrainian answers are not level-audited.
+- `"test": true` works here too.

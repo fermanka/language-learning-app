@@ -236,6 +236,13 @@ if (typeof document === 'undefined') {
       const h = el('h3'); h.append(el('span', 'badge', String(badge)), document.createTextNode(ex.instruction_ua)); box.append(h);
       if (ex.test) box.append(el('p', 'meta', 'Режим тесту: правильні відповіді не показуються, лише результат.'));
       const list = ex.type === 'matching' ? el('div', 'match') : el('ol', 'items');
+      if (ex.type === 'comprehension') {
+        // a long text to read first, then the questions below it; the text stays on screen while she answers
+        const pass = el('div', 'passage');
+        if (ex.passage.title) pass.append(el('h4', null, ex.passage.title));
+        ex.passage.paragraphs.forEach((p) => pass.append(el('p', null, p)));
+        box.append(pass);
+      }
       if (ex.type === 'listening') {
         // the recording is the task: the text stays hidden until the learner asks for it
         const bar = el('div', 'listen'); bar.append(iconBtn(ex.audio), document.createTextNode(' '));
@@ -271,7 +278,7 @@ if (typeof document === 'undefined') {
         picked.forEach((n) => { const li = el('li', 'dict'); li.append(iconBtn(n.audio), input('', [display(n)])); list.append(li); });
       } else ex.items.forEach((it) => {
         const li = el('li', it.example ? 'example' : '');
-        if (ex.type === 'translate' || ex.type === 'transform' || ex.type === 'listening') {
+        if (ex.type === 'translate' || ex.type === 'transform' || ex.type === 'listening' || ex.type === 'comprehension') {
           // translate shows the prompt only (the cue would give the answer away); in transform the cue IS the task ("-> питання")
           li.append(el('span', null, it.prompt));
           if (ex.type === 'transform') li.append(el('span', 'cue', ` (${it.cue})`));
