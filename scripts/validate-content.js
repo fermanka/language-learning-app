@@ -12,7 +12,7 @@ let errors = 0;
 const fail = (msg) => { errors++; console.error('ERROR ', msg); };
 
 // A curly apostrophe (opa’s, typed on a phone or pasted from Word) counts as the straight one.
-const tokens = (s) => s.replace(/\*\*/g, '').toLowerCase().replace(/’/g, "'").replace(/[.,!?:;()\/]/g, ' ').split(/\s+/).filter((t) => t && !/^_+$/.test(t) && t !== '-' && t !== '->' && !/^\d+$/.test(t));   // a bare number is not vocabulary
+const tokens = (s) => s.replace(/\*\*/g, '').toLowerCase().replace(/’/g, "'").replace(/[.,!?:;()„“”«»\/]/g, ' ').split(/\s+/).filter((t) => t && !/^_+$/.test(t) && t !== '-' && t !== '->' && !/^\d+$/.test(t));   // a bare number is not vocabulary
 
 // A sentence is stored under "text" (new languages) or "nl" (the first language kept its old key).
 const sentenceOf = (e) => (e.text !== undefined ? e.text : e.nl);

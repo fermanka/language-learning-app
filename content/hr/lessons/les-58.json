@@ -1,0 +1,1686 @@
+{
+  "id": "hr-les-58",
+  "lang": "hr",
+  "order": 58,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "kad",
+    "bih",
+    "imala",
+    "više",
+    "vremena",
+    "mnogo",
+    "putovala",
+    "da",
+    "dobijem",
+    "veliku",
+    "nagradu",
+    "kupila",
+    "kuću",
+    "na",
+    "moru",
+    "zamišljam",
+    "kako",
+    "tamo",
+    "čitala",
+    "svaki",
+    "dan",
+    "moj",
+    "brat",
+    "savjetuje",
+    "ne",
+    "riskiram",
+    "novac",
+    "jedino",
+    "odbila",
+    "posao",
+    "koji",
+    "volim",
+    "sam",
+    "znala",
+    "hrvatskog",
+    "bila",
+    "se",
+    "prijavila",
+    "prošle",
+    "godine",
+    "ipak",
+    "je",
+    "sve",
+    "stvar",
+    "izbora",
+    "ako",
+    "budem",
+    "priliku",
+    "pristat",
+    "ću",
+    "inače",
+    "neću",
+    "cilja",
+    "poštovani",
+    "dobila",
+    "ponudu",
+    "za",
+    "novi",
+    "u",
+    "drugom",
+    "gradu",
+    "plaća",
+    "bolja",
+    "ali",
+    "poznajem",
+    "nikoga",
+    "ostanem",
+    "miran",
+    "život",
+    "odem",
+    "novca",
+    "što",
+    "biste",
+    "mi",
+    "savjetovali",
+    "odgovor",
+    "vašem",
+    "mjestu",
+    "razmislila",
+    "o",
+    "rizicima",
+    "odete",
+    "morat",
+    "ćete",
+    "naći",
+    "stan",
+    "nove",
+    "prijatelje",
+    "pitala",
+    "poslodavca",
+    "uvjetima",
+    "preporučujem",
+    "pristanete",
+    "ostala",
+    "pet",
+    "godina",
+    "danas",
+    "izabrala",
+    "promjenu",
+    "nemojte",
+    "samo",
+    "zato",
+    "rizik",
+    "velik",
+    "odlučujte",
+    "odmah",
+    "vaš",
+    "bi",
+    "ti",
+    "učinio",
+    "ja",
+    "putovao",
+    "posla",
+    "zašto",
+    "usamljena",
+    "možda",
+    "imaš",
+    "pravo",
+    "hvala",
+    "savjetu",
+    "težak",
+    "imate",
+    "iznos",
+    "uvjeti",
+    "dobri",
+    "dobili",
+    "smo",
+    "mislim",
+    "često",
+    "misli",
+    "prošlosti",
+    "kuhinju",
+    "bira",
+    "haljinu",
+    "obećava",
+    "će",
+    "nazvati",
+    "termin",
+    "odbija",
+    "odgovoriti",
+    "ostaneš",
+    "znao",
+    "otišao",
+    "bio",
+    "vrijeme",
+    "došla",
+    "kod",
+    "kuće",
+    "tvom",
+    "volio",
+    "šteta",
+    "trebao",
+    "ići",
+    "liječniku",
+    "sretna",
+    "dalje",
+    "lijep",
+    "lijepa",
+    "crvenu",
+    "jaknu",
+    "kuhinji",
+    "nazovi",
+    "došli",
+    "otišli",
+    "pobjednik",
+    "prijedlog",
+    "obećao",
+    "sutra"
+  ],
+  "notes": [
+    {
+      "id": "hr-8d6447dc",
+      "type": "noun",
+      "lemma": "savjet",
+      "gender": "m.",
+      "gen_sg": "savjeta",
+      "plural": [
+        "savjeti"
+      ],
+      "ua": "порада",
+      "audio": "hr-savjet.mp3",
+      "forms": [
+        "savjeta",
+        "savjetu",
+        "savjeti",
+        "savjete",
+        "savjetom"
+      ],
+      "explain_ua": "(Savjet je dobar.) Savjet je preporuka što učiniti. Muški rod: savjet, savjeta, savjeti. Daješ savjet, tražiš savjet, hvala na savjetu (na + lokativ). Riječ je već bila u L55 i L56; ovdje je objašnjena. UA: порада. УВАГА ДО ВСЬОГО УРОКУ: ситуації вигадані для вправ.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-0a1ade70",
+      "type": "noun",
+      "lemma": "izbor",
+      "gender": "m.",
+      "gen_sg": "izbora",
+      "plural": [
+        "izbori"
+      ],
+      "ua": "вибір",
+      "audio": "hr-izbor.mp3",
+      "forms": [
+        "izbora",
+        "izboru",
+        "izbori",
+        "izbore",
+        "izborom"
+      ],
+      "explain_ua": "(Izbor je težak.) Izbor je ono što biramo ili mogućnost da biramo. Muški rod: izbor, izbora. U množini riječ izbori ima i drugo značenje, koje ovdje ne učimo (to pripada drugoj temi). UA: вибір.",
+      "check": "Форми з мого знання; значення «вибори» в множині не вчимо, з мого знання."
+    },
+    {
+      "id": "hr-72082620",
+      "type": "noun",
+      "lemma": "rizik",
+      "gender": "m.",
+      "gen_sg": "rizika",
+      "plural": [
+        "rizici"
+      ],
+      "ua": "ризик",
+      "audio": "hr-rizik.mp3",
+      "forms": [
+        "rizika",
+        "riziku",
+        "rizici",
+        "rizike",
+        "rizikom"
+      ],
+      "explain_ua": "(Rizik je velik.) Rizik je mogućnost da nešto pođe loše. Muški rod: rizik, rizika, rizici (k > c). Preuzima se: velik rizik, mali rizik. UA: ризик (схоже, закінчення вчимо).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-fc21fbcd",
+      "type": "noun",
+      "lemma": "uvjet",
+      "gender": "m.",
+      "gen_sg": "uvjeta",
+      "plural": [
+        "uvjeti"
+      ],
+      "ua": "умова",
+      "audio": "hr-uvjet.mp3",
+      "forms": [
+        "uvjeta",
+        "uvjetu",
+        "uvjeti",
+        "uvjete",
+        "uvjetima"
+      ],
+      "explain_ua": "(Uvjet je kratak.) Uvjet je ono što mora biti ispunjeno. Muški rod: uvjet, uvjeta, uvjeti. Pišemo uvj-: uvjet. Izraz pod uvjetom da + rečenica = за умови, що (check). Ne pomiješaj s uslov, koji se čuje u drugom standardu. UA: умова.",
+      "check": "Форми з мого знання; що uslov належить до іншого стандарту, з мого знання. Вираз pod uvjetom da звірити з граматикою."
+    },
+    {
+      "id": "hr-d8d2a3ac",
+      "type": "noun",
+      "lemma": "san",
+      "gender": "m.",
+      "gen_sg": "sna",
+      "plural": [
+        "snovi"
+      ],
+      "ua": "сон, мрія",
+      "audio": "hr-san.mp3",
+      "forms": [
+        "sna",
+        "snu",
+        "snovi",
+        "snove",
+        "snom"
+      ],
+      "explain_ua": "(San je lijep.) San je ono što sanjamo noću, ali i veliki cilj. Muški rod, nestalno a: san, sna, snu, množina snovi. UA: сон, мрія (обидва значення).",
+      "check": "Форми з мого знання; множина snovi і місцевий snu звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-c8306e5a",
+      "type": "noun",
+      "lemma": "nagrada",
+      "gender": "ž.",
+      "gen_sg": "nagrade",
+      "plural": [
+        "nagrade"
+      ],
+      "ua": "нагорода, приз",
+      "audio": "hr-nagrada.mp3",
+      "forms": [
+        "nagrade",
+        "nagradu",
+        "nagradi",
+        "nagradom"
+      ],
+      "explain_ua": "(Nagrada je velika.) Nagrada je ono što dobijemo za uspjeh ili na natječaju. Ženski rod na -a: nagrada, nagrade, nagradu. Dobiti nagradu = отримати нагороду. UA: нагорода, приз.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b04a8066",
+      "type": "noun",
+      "lemma": "budućnost",
+      "gender": "ž.",
+      "gen_sg": "budućnosti",
+      "plural": [],
+      "ua": "майбутнє",
+      "audio": "hr-buducnost.mp3",
+      "forms": [
+        "budućnosti",
+        "budućnošću"
+      ],
+      "explain_ua": "(Budućnost je dobra.) Budućnost je vrijeme koje dolazi. Ženski rod na suglasnik (i-osnova): budućnost, budućnosti; u akuzativu budućnost. Bez množine. Misliti na budućnost = думати про майбутнє. UA: майбутнє.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f9e25ffc",
+      "type": "noun",
+      "lemma": "prošlost",
+      "gender": "ž.",
+      "gen_sg": "prošlosti",
+      "plural": [],
+      "ua": "минуле",
+      "audio": "hr-proslost.mp3",
+      "forms": [
+        "prošlosti",
+        "prošlošću"
+      ],
+      "explain_ua": "(Prošlost nije važna.) Prošlost je vrijeme koje je prošlo. Ženski rod na suglasnik: prošlost, prošlosti. Govoriti o prošlosti (o + lokativ). Par s budućnost. UA: минуле.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2b45aeb0",
+      "type": "verb",
+      "lemma": "zamisliti",
+      "aspect": "pf.",
+      "partner": "zamišljati",
+      "pres_1sg": "zamislim",
+      "forms": [
+        "zamislim",
+        "zamisliš",
+        "zamisli",
+        "zamislimo",
+        "zamislite",
+        "zamisle",
+        "zamislila",
+        "zamislili",
+        "zamislio",
+        "zamišljati",
+        "zamišljam",
+        "zamišljaš",
+        "zamišlja",
+        "zamišljamo",
+        "zamišljate",
+        "zamišljaju"
+      ],
+      "ua": "уявити (недок. zamišljati)",
+      "audio": "hr-zamisliti.mp3",
+      "explain_ua": "(Zamišljam kuću na moru.) Par: zamisliti (sv.) / zamišljati (nesv.): zamislim / zamišljam, s > š. Akuzativ: zamisliti kuću; ili kako bih ... . Nalik na misliti (L41). UA: уявляти.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (s > š)."
+    },
+    {
+      "id": "hr-3ea0f703",
+      "type": "verb",
+      "lemma": "izabrati",
+      "aspect": "pf.",
+      "partner": "birati",
+      "pres_1sg": "izaberem",
+      "forms": [
+        "izaberem",
+        "izabereš",
+        "izabere",
+        "izaberemo",
+        "izaberete",
+        "izaberu",
+        "izabrala",
+        "izabrali",
+        "izabrao",
+        "birati",
+        "biram",
+        "biraš",
+        "bira",
+        "biramo",
+        "birate",
+        "biraju",
+        "birala"
+      ],
+      "ua": "вибрати (недок. birati)",
+      "audio": "hr-izabrati.mp3",
+      "explain_ua": "(Biram crvenu jaknu.) Par: izabrati (sv.) / birati (nesv.): izaberem / biram. Akuzativ: izabrati jaknu. Isto značenje ima odabrati (L48); izabrati je običnije u razgovoru (check). Birati je bilo već u L57 bez objašnjenja. UA: вибирати.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-3013af55",
+      "type": "verb",
+      "lemma": "riskirati",
+      "aspect": "impf.",
+      "pres_1sg": "riskiram",
+      "forms": [
+        "riskiram",
+        "riskiraš",
+        "riskira",
+        "riskiramo",
+        "riskirate",
+        "riskiraju",
+        "riskirala",
+        "riskirali",
+        "riskirao"
+      ],
+      "ua": "ризикувати",
+      "audio": "hr-riskirati.mp3",
+      "explain_ua": "(Ne riskiram novac.) Glagol na -am: riskiram, riskiraš, riskira. Akuzativ: riskirati novac. Isti glagol za oba vida (check). Od rizik. UA: ризикувати.",
+      "check": "Форми з мого знання; що один дієслово обидва види, з мого знання."
+    },
+    {
+      "id": "hr-3f4d57c0",
+      "type": "verb",
+      "lemma": "obećati",
+      "aspect": "pf.",
+      "partner": "obećavati",
+      "pres_1sg": "obećam",
+      "forms": [
+        "obećam",
+        "obećaš",
+        "obeća",
+        "obećamo",
+        "obećate",
+        "obećaju",
+        "obećala",
+        "obećali",
+        "obećao",
+        "obećavati",
+        "obećavam",
+        "obećavaš",
+        "obećava",
+        "obećavamo",
+        "obećavate",
+        "obećavaju"
+      ],
+      "ua": "пообіцяти (недок. obećavati)",
+      "audio": "hr-obecati.mp3",
+      "explain_ua": "(Obećavam da ću doći.) Par: obećati (sv.) / obećavati (nesv.): obećam / obećavam. Poslije toga da + rečenica s futurom (da ću doći), ne infinitiv. UA: обіцяти; після «обіцяти» в укр. інфінітив («обіцяю прийти»), а хорватською da ću doći.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr. Що після obećati стоїть da ću + інфінітив, а не інфінітив, звірити з граматикою."
+    },
+    {
+      "id": "hr-25f17c08",
+      "type": "verb",
+      "lemma": "pristati",
+      "aspect": "pf.",
+      "partner": "pristajati",
+      "pres_1sg": "pristanem",
+      "forms": [
+        "pristanem",
+        "pristaneš",
+        "pristane",
+        "pristanemo",
+        "pristanete",
+        "pristanu",
+        "pristao",
+        "pristala",
+        "pristali",
+        "pristajati",
+        "pristajem",
+        "pristaješ",
+        "pristaje",
+        "pristajemo",
+        "pristajete",
+        "pristaju"
+      ],
+      "ua": "погодитися (на умову) (недок. pristajati)",
+      "audio": "hr-pristati.mp3",
+      "explain_ua": "(Pristajem na taj uvjet.) Par: pristati (sv.) / pristajati (nesv.): pristanem / pristajem. Na što: na + akuzativ (na uvjet, na ponudu). Slično složiti se (L41), ali pristati je „prihvatiti uvjet“. UA: погодитися на.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-a554b387",
+      "type": "verb",
+      "lemma": "odbiti",
+      "aspect": "pf.",
+      "partner": "odbijati",
+      "pres_1sg": "odbijem",
+      "forms": [
+        "odbijem",
+        "odbiješ",
+        "odbije",
+        "odbijemo",
+        "odbijete",
+        "odbiju",
+        "odbila",
+        "odbili",
+        "odbio",
+        "odbijati",
+        "odbijam",
+        "odbijaš",
+        "odbija",
+        "odbijamo",
+        "odbijate",
+        "odbijaju"
+      ],
+      "ua": "відмовити, відхилити (недок. odbijati)",
+      "audio": "hr-odbiti.mp3",
+      "explain_ua": "(Odbijam ponudu.) Par: odbiti (sv.) / odbijati (nesv.): odbijem / odbijam. Akuzativ: odbiti ponudu; infinitiv: odbija odgovoriti (odbija + inf.). Riječ je bila u L57 bez objašnjenja. UA: відхилити, відмовлятися.",
+      "check": "Пару та форми з мого знання."
+    },
+    {
+      "id": "hr-e2c31b7a",
+      "type": "verb",
+      "lemma": "odustati",
+      "aspect": "pf.",
+      "partner": "odustajati",
+      "pres_1sg": "odustanem",
+      "forms": [
+        "odustanem",
+        "odustaneš",
+        "odustane",
+        "odustanemo",
+        "odustanete",
+        "odustanu",
+        "odustao",
+        "odustala",
+        "odustali",
+        "odustajati",
+        "odustajem",
+        "odustaješ",
+        "odustaje",
+        "odustajemo",
+        "odustajete",
+        "odustaju"
+      ],
+      "ua": "відмовитися (від наміру) (недок. odustajati)",
+      "audio": "hr-odustati.mp3",
+      "explain_ua": "(Ne odustajem od cilja.) Par: odustati (sv.) / odustajati (nesv.): odustanem / odustajem. Od čega: od + genitiv (od cilja, od posla). Isti oblik kao prestati (L55). UA: відмовитися від, здатися.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-c707a751",
+      "type": "verb",
+      "lemma": "savjetovati",
+      "aspect": "impf.",
+      "pres_1sg": "savjetujem",
+      "forms": [
+        "savjetujem",
+        "savjetuješ",
+        "savjetuje",
+        "savjetujemo",
+        "savjetujete",
+        "savjetuju",
+        "savjetovala",
+        "savjetovali",
+        "savjetovao"
+      ],
+      "ua": "радити, давати пораду",
+      "audio": "hr-savjetovati.mp3",
+      "explain_ua": "(Savjetujem ti da ostaneš kod kuće.) Nesvršeni glagol: savjetujem, savjetuješ (-ova- > -uj-, kao kupovati). Kome: dativ; što: da + prezent. Od savjet. UA: радити; пари доконаного не маю (posavjetovati, check).",
+      "check": "Форми з мого знання; пари posavjetovati не звіряв."
+    },
+    {
+      "id": "hr-3bef6fa5",
+      "type": "adjective",
+      "lemma": "idealan",
+      "fem": "idealna",
+      "neut": "idealno",
+      "ua": "ідеальний",
+      "audio": "hr-idealan.mp3",
+      "forms": [
+        "idealna",
+        "idealno",
+        "idealni",
+        "idealne"
+      ],
+      "explain_ua": "(To je idealan stan.) Nestalno a: idealan, idealna. Znači najbolji mogući. UA: ідеальний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-53bf93d7",
+      "type": "adjective",
+      "lemma": "nemoguć",
+      "fem": "nemoguća",
+      "neut": "nemoguće",
+      "ua": "неможливий",
+      "audio": "hr-nemoguc.mp3",
+      "forms": [
+        "nemoguća",
+        "nemoguće",
+        "nemogući"
+      ],
+      "explain_ua": "(To je nemoguć zadatak.) Pridjev kao moguć (L56): nemoguć, nemoguća, nemoguće. Bezlično: nije moguće ili nemoguće je da. UA: неможливий.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-71035823",
+      "type": "adjective",
+      "lemma": "vjerojatan",
+      "fem": "vjerojatna",
+      "neut": "vjerojatno",
+      "ua": "імовірний",
+      "audio": "hr-vjerojatan.mp3",
+      "forms": [
+        "vjerojatna",
+        "vjerojatne",
+        "vjerojatni"
+      ],
+      "explain_ua": "(To je vjerojatan razlog.) Nestalno a: vjerojatan, vjerojatna. Isti korijen kao vjerojatno (L50). Odnos prema nevjerojatan (L46). UA: імовірний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-85a93dc6",
+      "type": "adjective",
+      "lemma": "stvaran",
+      "fem": "stvarna",
+      "neut": "stvarno",
+      "ua": "справжній, реальний",
+      "audio": "hr-stvaran.mp3",
+      "forms": [
+        "stvarna",
+        "stvarne",
+        "stvarni",
+        "stvarnu"
+      ],
+      "explain_ua": "(To je stvarna priča.) Nestalno a: stvaran, stvarna. Od stvar (L41). Prilog stvarno ste učili u L35. UA: справжній, реальний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-ee8a3d78",
+      "type": "function",
+      "lemma": "inače",
+      "ua": "інакше, а то",
+      "audio": "hr-inace.mp3",
+      "forms": [],
+      "explain_ua": "(Moram ići, inače kasnim.) Veznički prilog: „u protivnom“. Stoji između dviju rečenica ili na početku druge. Pišemo č: inače. UA: інакше, а то.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-6d8eff5f",
+      "type": "function",
+      "lemma": "jedino",
+      "ua": "єдине, лише",
+      "audio": "hr-jedino.mp3",
+      "forms": [],
+      "explain_ua": "(Jedino bih ostala kod kuće.) Prilog „samo“ ili „jedino što“. U ovom značenju stoji na početku. UA: єдине, тільки.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Realni uvjeti: ako + prezent, ako budem + -l",
+      "summary_ua": "Realni uvjet je stvaran. Ako + prezent (ako pada kiša, ostajem) ili za budućnost ako budem + -l za nesvršene glagole (L50), prezent za svršene (ako dođem). UA: реальна умова, тримайся L21 і L50.",
+      "compare": [
+        {
+          "form": "ako + prezent",
+          "when_ua": "Opće ili stvarno.",
+          "examples": [
+            {
+              "text": "Ako pada kiša, ostajem kod kuće.",
+              "ua": "Якщо йде дощ, залишаюся вдома.",
+              "audio": "hr-les58-rule-01.mp3"
+            },
+            {
+              "text": "Ako želiš, nazovi me.",
+              "ua": "Якщо хочеш, зателефонуй мені.",
+              "audio": "hr-les58-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Ako (L21) + prezent; u glavnoj rečenici imperativ je moguć (nazovi)."
+        },
+        {
+          "form": "ako budem + -l / ako dođem",
+          "when_ua": "Za budućnost.",
+          "examples": [
+            {
+              "text": "Ako budem imala vremena, doći ću.",
+              "ua": "Якщо матиму час, прийду.",
+              "audio": "hr-les58-rule-03.mp3"
+            },
+            {
+              "text": "Ako dođeš ranije, čekat ću te.",
+              "ua": "Якщо прийдеш раніше, чекатиму тебе.",
+              "audio": "hr-les58-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Nesvršeni: budem + -l (L50); svršeni: prezent. Ću na drugom mjestu u glavnoj rečenici."
+        }
+      ],
+      "points_ua": [
+        "Ako + prezent.",
+        "Ako budem + -l (nesvršeni), ako dođem (svršeni)."
+      ]
+    },
+    {
+      "title_ua": "Nerealni uvjet u sadašnjosti: kad bih ... , bih",
+      "summary_ua": "Nerealni uvjet nije stvaran: kad bih imala, putovala bih. Bih je u obje rečenice, na drugom mjestu. Moguće i: da imam novac, kupila bih. UA: «якби я мала..., я б...»: тримайся УКРАЇНСЬКОЇ, структура однакова; bih = б.",
+      "compare": [
+        {
+          "form": "kad bih + -l, ... bih + -l",
+          "when_ua": "Nerealno sada.",
+          "examples": [
+            {
+              "text": "Kad bih imala novca, kupila bih stan.",
+              "ua": "Якби я мала гроші, купила б квартиру.",
+              "audio": "hr-les58-rule-05.mp3"
+            },
+            {
+              "text": "Kad bi on došao, bila bih sretna.",
+              "ua": "Якби він прийшов, я була б щаслива.",
+              "audio": "hr-les58-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Bih, bi, bismo, biste (L18). Kad bih: bih odmah poslije kad (drugo mjesto). Ne „ako bih“."
+        },
+        {
+          "form": "da + prezent ... bih",
+          "when_ua": "Isto, s da.",
+          "examples": [
+            {
+              "text": "Da imam više slobode, radila bih kod kuće.",
+              "ua": "Якби мала більше свободи, працювала б удома.",
+              "audio": "hr-les58-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Da + prezent je isto što kad bih (check)."
+        }
+      ],
+      "points_ua": [
+        "Kad bih ..., ... bih: bih u obje rečenice.",
+        "Da + prezent ... bih."
+      ]
+    },
+    {
+      "title_ua": "Nerealni uvjet u prošlosti: da sam ..., bila bih ...",
+      "summary_ua": "Ono što se nije dogodilo: da sam znala, bila bih došla. Prva rečenica: da + perfekt (da sam znala). Druga: bih + biti u l-participu + glagol u l-participu (bila bih došla). U ukrajinskom nema dodatnog participa od „biti“: tamo je samo «я б прийшла». To je nova stvar. UA: тут додається bila (учасник від biti).",
+      "compare": [
+        {
+          "form": "da sam + -l, bila bih + -l",
+          "when_ua": "Nerealno u prošlosti.",
+          "examples": [
+            {
+              "text": "Da sam imala vremena, bila bih nazvala.",
+              "ua": "Якби я мала час, я б зателефонувала.",
+              "audio": "hr-les58-rule-08.mp3"
+            },
+            {
+              "text": "Da su došli ranije, bili bismo otišli.",
+              "ua": "Якби вони прийшли раніше, ми б пішли.",
+              "audio": "hr-les58-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Bila bih + nazvala: dva participa. Bili bismo otišli. Check: obični govor često kaže samo „nazvala bih“."
+        }
+      ],
+      "points_ua": [
+        "Da sam + -l, bila bih + -l.",
+        "Dva participa u drugoj rečenici (nova stvar)."
+      ]
+    },
+    {
+      "title_ua": "Savjet i želja: na tvom mjestu bih, savjetujem ti da, volio bih da",
+      "summary_ua": "Savjet: na tvom mjestu bih ... ; savjetujem ti da + prezent ; trebao bi + infinitiv. Želja: volio bih da + prezent ; šteta što + perfekt. UA: порада й бажання.",
+      "compare": [
+        {
+          "form": "na tvom mjestu bih ... / savjetujem ti da ...",
+          "when_ua": "Savjet.",
+          "examples": [
+            {
+              "text": "Na tvom mjestu bih pristala na ponudu.",
+              "ua": "На твоєму місці я б погодилася на пропозицію.",
+              "audio": "hr-les58-rule-10.mp3"
+            },
+            {
+              "text": "Savjetujem ti da razmisliš o rizicima.",
+              "ua": "Раджу тобі подумати про ризики.",
+              "audio": "hr-les58-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Na tvom mjestu (lokativ, L24). Savjetujem ti da + prezent (Kome? ti: dativ)."
+        },
+        {
+          "form": "volio bih da ... / šteta što ...",
+          "when_ua": "Želja i žaljenje.",
+          "examples": [
+            {
+              "text": "Volio bih da dođeš u subotu.",
+              "ua": "Хотів би, щоб ти прийшов у суботу.",
+              "audio": "hr-les58-rule-12.mp3"
+            },
+            {
+              "text": "Šteta što nisam došla.",
+              "ua": "Шкода, що я не прийшла.",
+              "audio": "hr-les58-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Volio bih (volio, volila): bih drugo mjesto. Šteta što + perfekt (nisam došla)."
+        }
+      ],
+      "points_ua": [
+        "Na tvom mjestu bih ...; savjetujem ti da ...",
+        "Volio bih da ...; šteta što nisam ..."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Savjet je dobar.",
+      "ua": "Порада хороша.",
+      "audio": "hr-les58-example-01.mp3"
+    },
+    {
+      "text": "Izbor je težak.",
+      "ua": "Вибір важкий.",
+      "audio": "hr-les58-example-02.mp3"
+    },
+    {
+      "text": "Rizik je velik.",
+      "ua": "Ризик великий.",
+      "audio": "hr-les58-example-03.mp3"
+    },
+    {
+      "text": "Uvjet je kratak.",
+      "ua": "Умова коротка.",
+      "audio": "hr-les58-example-04.mp3"
+    },
+    {
+      "text": "San je lijep.",
+      "ua": "Сон гарний.",
+      "audio": "hr-les58-example-05.mp3"
+    },
+    {
+      "text": "Nagrada je velika.",
+      "ua": "Нагорода велика.",
+      "audio": "hr-les58-example-06.mp3"
+    },
+    {
+      "text": "Budućnost je dobra.",
+      "ua": "Майбутнє добре.",
+      "audio": "hr-les58-example-07.mp3"
+    },
+    {
+      "text": "Prošlost nije važna.",
+      "ua": "Минуле не важливе.",
+      "audio": "hr-les58-example-08.mp3"
+    },
+    {
+      "text": "Zamišljam kuću na moru.",
+      "ua": "Уявляю будинок на морі.",
+      "audio": "hr-les58-example-09.mp3"
+    },
+    {
+      "text": "Biram crvenu jaknu.",
+      "ua": "Вибираю червону куртку.",
+      "audio": "hr-les58-example-10.mp3"
+    },
+    {
+      "text": "Ne riskiram novac.",
+      "ua": "Не ризикую грошима.",
+      "audio": "hr-les58-example-11.mp3"
+    },
+    {
+      "text": "Obećavam da ću doći.",
+      "ua": "Обіцяю, що прийду.",
+      "audio": "hr-les58-example-12.mp3"
+    },
+    {
+      "text": "Pristajem na taj uvjet.",
+      "ua": "Погоджуюся на цю умову.",
+      "audio": "hr-les58-example-13.mp3"
+    },
+    {
+      "text": "Odbijam ponudu.",
+      "ua": "Відхиляю пропозицію.",
+      "audio": "hr-les58-example-14.mp3"
+    },
+    {
+      "text": "Ne odustajem od cilja.",
+      "ua": "Не відмовляюся від мети.",
+      "audio": "hr-les58-example-15.mp3"
+    },
+    {
+      "text": "Savjetujem ti da ostaneš kod kuće.",
+      "ua": "Раджу тобі лишитися вдома.",
+      "audio": "hr-les58-example-16.mp3"
+    },
+    {
+      "text": "To je idealan stan.",
+      "ua": "Це ідеальна квартира.",
+      "audio": "hr-les58-example-17.mp3"
+    },
+    {
+      "text": "To je nemoguć zadatak.",
+      "ua": "Це неможливе завдання.",
+      "audio": "hr-les58-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Da imam više vremena",
+    "title_ua": "Якби я мала більше часу",
+    "highlight": [
+      "hr-0a1ade70",
+      "hr-c8306e5a",
+      "hr-ee8a3d78",
+      "hr-6d8eff5f"
+    ],
+    "sentences": [
+      {
+        "text": "Kad bih imala više vremena, mnogo bih putovala.",
+        "ua": "Якби я мала більше часу, багато б подорожувала.",
+        "audio": "hr-les58-reading-01.mp3"
+      },
+      {
+        "text": "Da dobijem veliku nagradu, kupila bih kuću na moru.",
+        "ua": "Якби я отримала велику нагороду, купила б будинок на морі.",
+        "audio": "hr-les58-reading-02.mp3"
+      },
+      {
+        "text": "Zamišljam kako bih tamo čitala svaki dan.",
+        "ua": "Уявляю, як би я там читала щодня.",
+        "audio": "hr-les58-reading-03.mp3"
+      },
+      {
+        "text": "Moj brat savjetuje da ne riskiram novac.",
+        "ua": "Мій брат радить не ризикувати грошима.",
+        "audio": "hr-les58-reading-04.mp3"
+      },
+      {
+        "text": "Jedino bih odbila posao koji ne volim.",
+        "ua": "Єдине, від чого б я відмовилася, це робота, яку не люблю.",
+        "audio": "hr-les58-reading-05.mp3"
+      },
+      {
+        "text": "Da sam znala više hrvatskog, bila bih se prijavila prošle godine.",
+        "ua": "Якби я знала більше хорватської, подала б заявку торік.",
+        "audio": "hr-les58-reading-06.mp3"
+      },
+      {
+        "text": "Ipak je sve stvar izbora.",
+        "ua": "Проте все це справа вибору.",
+        "audio": "hr-les58-reading-07.mp3"
+      },
+      {
+        "text": "Ako budem imala priliku, pristat ću.",
+        "ua": "Якщо матиму нагоду, погоджуся.",
+        "audio": "hr-les58-reading-08.mp3"
+      },
+      {
+        "text": "Inače neću odustati od cilja.",
+        "ua": "Інакше не відмовлюся від мети.",
+        "audio": "hr-les58-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох людей про уявну нагороду і дай відповіді.",
+      "audio": "hr-les-58-prize.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Što bi ti učinio da dobiješ veliku nagradu?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Kupila bih kuću na moru. A ti?"
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Ja bih mnogo putovao."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Ja ne bih odustala od posla."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Zašto ne?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Inače bih bila usamljena."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Možda imaš pravo."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Що купила б жінка?",
+          "choices": [
+            "Будинок на морі",
+            "Автомобіль",
+            "Квартиру в місті"
+          ],
+          "accepted": [
+            "Будинок на морі"
+          ]
+        },
+        {
+          "prompt": "Чоловік хотів би багато подорожувати.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Від чого жінка не відмовилася б? (одне слово)",
+          "accepted": [
+            "posao",
+            "posla",
+            "od posla"
+          ]
+        },
+        {
+          "prompt": "Якою б вона була без роботи? (одне слово)",
+          "accepted": [
+            "usamljena"
+          ]
+        },
+        {
+          "prompt": "Чоловік вважає, що вона, можливо, права.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай лист і відповідь (вигадані) і дай відповіді. Текст видно, поки ти відповідаєш.",
+      "audio": "hr-les-58-column.mp3",
+      "passage": {
+        "title": "Rubrika savjeta",
+        "paragraphs": [
+          "Poštovani, dobila sam ponudu za novi posao u drugom gradu. Plaća je bolja, ali ne poznajem nikoga tamo. Da ostanem, imala bih miran život, a da odem, imala bih više novca. Što biste mi savjetovali?",
+          "Odgovor: Na Vašem mjestu bih razmislila o rizicima. Ako odete, morat ćete naći stan i nove prijatelje. Kad bih bila Vi, pitala bih poslodavca o uvjetima. Ako ponuda ima dobre uvjete, preporučujem Vam da pristanete. Inače bih ostala.",
+          "Nemojte odustati od sna samo zato što je rizik velik. Ali ne odlučujte odmah: izbor je Vaš."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Ponuda za posao je u istom gradu.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Що краще на новій роботі? (одне слово)",
+          "accepted": [
+            "plaća"
+          ]
+        },
+        {
+          "prompt": "Порадниця радить подумати про ризики.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Про що радить запитати роботодавця? (одне слово)",
+          "accepted": [
+            "uvjeti",
+            "uvjetima",
+            "o uvjetima"
+          ]
+        },
+        {
+          "prompt": "Порадниця радить відмовитися без роздумів.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Чий це вибір? (одне слово)",
+          "accepted": [
+            "Vaš",
+            "vaš",
+            "izbor je Vaš"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Дякую за пораду.",
+          "accepted": [
+            "Hvala na savjetu."
+          ]
+        },
+        {
+          "prompt": "Ви маєте вибір.",
+          "accepted": [
+            "Imate izbor.",
+            "Imaš izbor."
+          ]
+        },
+        {
+          "prompt": "Ризикую лише невеликою сумою.",
+          "accepted": [
+            "Riskiram samo malo novca."
+          ]
+        },
+        {
+          "prompt": "Умови добрі.",
+          "accepted": [
+            "Uvjeti su dobri."
+          ]
+        },
+        {
+          "prompt": "Це мій сон.",
+          "accepted": [
+            "To je moj san."
+          ]
+        },
+        {
+          "prompt": "Ми отримали нагороду.",
+          "accepted": [
+            "Dobili smo nagradu."
+          ]
+        },
+        {
+          "prompt": "Він часто думає про минуле.",
+          "accepted": [
+            "Često misli o prošlosti.",
+            "On često misli o prošlosti."
+          ]
+        },
+        {
+          "prompt": "Уявляю велику кухню.",
+          "accepted": [
+            "Zamišljam veliku kuhinju."
+          ]
+        },
+        {
+          "prompt": "Вона вибирає нову сукню.",
+          "accepted": [
+            "Ona bira novu haljinu.",
+            "Bira novu haljinu."
+          ]
+        },
+        {
+          "prompt": "Він обіцяє, що зателефонує.",
+          "accepted": [
+            "Obećava da će nazvati.",
+            "On obećava da će nazvati."
+          ]
+        },
+        {
+          "prompt": "Я погоджуюся на цей час.",
+          "accepted": [
+            "Pristajem na taj termin."
+          ]
+        },
+        {
+          "prompt": "Він відмовляється відповідати.",
+          "accepted": [
+            "Odbija odgovoriti.",
+            "On odbija odgovoriti."
+          ]
+        },
+        {
+          "prompt": "Раджу вам не чекати.",
+          "accepted": [
+            "Savjetujem Vam da ne čekate.",
+            "Savjetujem vam da ne čekate."
+          ]
+        },
+        {
+          "prompt": "Якби я мала час, я б прийшла.",
+          "accepted": [
+            "Kad bih imala vremena, došla bih.",
+            "Da imam vremena, došla bih."
+          ]
+        },
+        {
+          "prompt": "Якби ти знав, ти б не пішов.",
+          "accepted": [
+            "Da si znao, ne bi bio otišao.",
+            "Kad bi znao, ne bi otišao."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "savjetu",
+        "izbor",
+        "rizik",
+        "uvjete",
+        "san",
+        "nagradu",
+        "budućnost",
+        "prošlosti",
+        "idealan",
+        "nemoguće",
+        "stvarna",
+        "vjerojatan",
+        "inače",
+        "Jedino",
+        "odustaje"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Hvala na ___!",
+          "hint": "Дякую за пораду!",
+          "accepted": [
+            [
+              "savjetu"
+            ]
+          ]
+        },
+        {
+          "text": "Imam težak ___.",
+          "hint": "Маю важкий вибір.",
+          "accepted": [
+            [
+              "izbor"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ je prevelik.",
+          "hint": "Той ризик завеликий.",
+          "accepted": [
+            [
+              "rizik"
+            ]
+          ]
+        },
+        {
+          "text": "Ponuda ima dobre ___.",
+          "hint": "Пропозиція має добрі умови.",
+          "accepted": [
+            [
+              "uvjete"
+            ]
+          ]
+        },
+        {
+          "text": "To je moj veliki ___.",
+          "hint": "Це моя велика мрія.",
+          "accepted": [
+            [
+              "san"
+            ]
+          ]
+        },
+        {
+          "text": "Pobjednik dobiva ___.",
+          "hint": "Переможець отримує нагороду.",
+          "accepted": [
+            [
+              "nagradu"
+            ]
+          ]
+        },
+        {
+          "text": "Mislim na ___.",
+          "hint": "Думаю про майбутнє.",
+          "accepted": [
+            [
+              "budućnost"
+            ]
+          ]
+        },
+        {
+          "text": "Ne volim govoriti o ___.",
+          "hint": "Не люблю говорити про минуле.",
+          "accepted": [
+            [
+              "prošlosti"
+            ]
+          ]
+        },
+        {
+          "text": "Taj stan je ___.",
+          "hint": "Та квартира ідеальна.",
+          "accepted": [
+            [
+              "idealan"
+            ]
+          ]
+        },
+        {
+          "text": "To je ___.",
+          "hint": "Це неможливо.",
+          "accepted": [
+            [
+              "nemoguće"
+            ]
+          ]
+        },
+        {
+          "text": "To je ___ priča.",
+          "hint": "Це справжня історія.",
+          "accepted": [
+            [
+              "stvarna"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je ___ razlog.",
+          "hint": "Це імовірна причина.",
+          "accepted": [
+            [
+              "vjerojatan"
+            ]
+          ]
+        },
+        {
+          "text": "Moram ići, ___ kasnim.",
+          "hint": "Мушу йти, а то спізнюся.",
+          "accepted": [
+            [
+              "inače"
+            ]
+          ]
+        },
+        {
+          "text": "___ bih ostala kod kuće.",
+          "hint": "Єдине, що я б зробила, це лишилася вдома.",
+          "accepted": [
+            [
+              "Jedino",
+              "jedino"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ne ___ od cilja.",
+          "hint": "Вона не відмовляється від мети.",
+          "accepted": [
+            [
+              "odustaje"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Da bih imala novac, kupila bih auto.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Da imam novac, kupila bih auto.",
+            "Kad bih imala novac, kupila bih auto."
+          ]
+        },
+        {
+          "prompt": "Ako bih imala vremena, došla bih.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kad bih imala vremena, došla bih.",
+            "Da imam vremena, došla bih."
+          ]
+        },
+        {
+          "prompt": "Da sam znao, došao bih.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Da sam znao, bio bih došao."
+          ]
+        },
+        {
+          "prompt": "Ako sutra ću biti kod kuće, nazvat ću te.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ako sutra budem kod kuće, nazvat ću te."
+          ]
+        },
+        {
+          "prompt": "Savjetujem ti da ostati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Savjetujem ti da ostaneš."
+          ]
+        },
+        {
+          "prompt": "Obećao je da pomoći.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Obećao je da će pomoći."
+          ]
+        },
+        {
+          "prompt": "Pristajemo za vaš prijedlog.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pristajemo na vaš prijedlog."
+          ]
+        },
+        {
+          "prompt": "Odustajem od cilj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Odustajem od cilja."
+          ]
+        },
+        {
+          "prompt": "Mi riskiram novac.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi riskiramo novac.",
+            "Riskiramo novac."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam izabrala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam izabrala.",
+            "Ja sam danas izabrala."
+          ]
+        },
+        {
+          "prompt": "Na tvom mjesto bih ostala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Na tvom mjestu bih ostala."
+          ]
+        },
+        {
+          "prompt": "Imam novca. Kupujem kuću.",
+          "cue": "-> Kad bih ...",
+          "accepted": [
+            "Kad bih imala novca, kupila bih kuću.",
+            "Kad bih imao novca, kupio bih kuću."
+          ]
+        },
+        {
+          "prompt": "Nagrada je mala.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Nagrade su male."
+          ]
+        },
+        {
+          "prompt": "Uvjet je novi.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li uvjet novi?"
+          ]
+        },
+        {
+          "prompt": "Ona bira haljinu.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Ona je birala haljinu.",
+            "Birala je haljinu."
+          ]
+        },
+        {
+          "prompt": "Izaberem i kupim.",
+          "cue": "-> Kad ... (izabrati)",
+          "accepted": [
+            "Kad izaberem, kupim.",
+            "Kupim kad izaberem."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ona ___ novu haljinu.",
+          "cue": "birati",
+          "accepted": [
+            "bira"
+          ]
+        },
+        {
+          "text": "Jučer je ___ haljinu.",
+          "cue": "izabrati",
+          "accepted": [
+            "izabrala"
+          ]
+        },
+        {
+          "text": "Ja ___ šumu iza kuće.",
+          "cue": "zamišljati",
+          "accepted": [
+            "zamišljam"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ novu kuću.",
+          "cue": "zamisliti",
+          "accepted": [
+            "zamislila",
+            "zamislio"
+          ]
+        },
+        {
+          "text": "Oni ne ___ novac.",
+          "cue": "riskirati",
+          "accepted": [
+            "riskiraju"
+          ]
+        },
+        {
+          "text": "Moja sestra uvijek ___ da će doći.",
+          "cue": "obećavati",
+          "accepted": [
+            "obećava"
+          ]
+        },
+        {
+          "text": "Jučer je ___ da će doći.",
+          "cue": "obećati",
+          "accepted": [
+            "obećala",
+            "obećao"
+          ]
+        },
+        {
+          "text": "Ona ___ na taj uvjet.",
+          "cue": "pristajati",
+          "accepted": [
+            "pristaje"
+          ]
+        },
+        {
+          "text": "Oni su ___ na uvjet.",
+          "cue": "pristati",
+          "accepted": [
+            "pristali"
+          ]
+        },
+        {
+          "text": "Ja svaki put ___ ponudu.",
+          "cue": "odbijati",
+          "accepted": [
+            "odbijam"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ ponudu.",
+          "cue": "odbiti",
+          "accepted": [
+            "odbila",
+            "odbio"
+          ]
+        },
+        {
+          "text": "Brat mi ___ da ostanem.",
+          "cue": "savjetovati",
+          "accepted": [
+            "savjetuje"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "порада",
+          "answer": "savjet"
+        },
+        {
+          "prompt": "вибір",
+          "answer": "izbor"
+        },
+        {
+          "prompt": "ризик",
+          "answer": "rizik"
+        },
+        {
+          "prompt": "умова",
+          "answer": "uvjet"
+        },
+        {
+          "prompt": "сон, мрія",
+          "answer": "san"
+        },
+        {
+          "prompt": "нагорода",
+          "answer": "nagrada"
+        },
+        {
+          "prompt": "майбутнє",
+          "answer": "budućnost"
+        },
+        {
+          "prompt": "минуле",
+          "answer": "prošlost"
+        },
+        {
+          "prompt": "ідеальний",
+          "answer": "idealan"
+        },
+        {
+          "prompt": "неможливий",
+          "answer": "nemoguć"
+        },
+        {
+          "prompt": "імовірний",
+          "answer": "vjerojatan"
+        },
+        {
+          "prompt": "справжній, реальний",
+          "answer": "stvaran"
+        },
+        {
+          "prompt": "інакше, а то",
+          "answer": "inače"
+        },
+        {
+          "prompt": "єдине, лише",
+          "answer": "jedino"
+        }
+      ],
+      "extra": [
+        "savjetovati",
+        "odbiti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова: послухай і напиши.",
+      "words": [
+        "želja",
+        "odluka",
+        "mogućnost",
+        "prilika",
+        "pitanje"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 39, 41, 55, 31; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

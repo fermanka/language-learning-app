@@ -1,0 +1,1762 @@
+{
+  "id": "hr-les-59",
+  "lang": "hr",
+  "order": 59,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "jutros",
+    "sam",
+    "čitala",
+    "intervju",
+    "sa",
+    "stručnjakom",
+    "tvrdi",
+    "da",
+    "je",
+    "promet",
+    "navodno",
+    "manji",
+    "nego",
+    "lani",
+    "po",
+    "njegovim",
+    "riječima",
+    "uzrok",
+    "promjena",
+    "u",
+    "navikama",
+    "autor",
+    "članka",
+    "citira",
+    "i",
+    "jedan",
+    "drugi",
+    "izvor",
+    "čini",
+    "mi",
+    "se",
+    "taj",
+    "pristran",
+    "očito",
+    "ne",
+    "navodi",
+    "sve",
+    "činjenice",
+    "ujedno",
+    "ističe",
+    "provjera",
+    "podataka",
+    "nije",
+    "završena",
+    "uostalom",
+    "glasine",
+    "su",
+    "često",
+    "netočne",
+    "zato",
+    "uvijek",
+    "provjeravam",
+    "izvore",
+    "novinarka",
+    "razgovarala",
+    "stručnjak",
+    "za",
+    "vijesti",
+    "tema",
+    "razgovora",
+    "bila",
+    "kako",
+    "provjeriti",
+    "vijest",
+    "svaka",
+    "ima",
+    "dobar",
+    "može",
+    "prvo",
+    "pitanje",
+    "zašto",
+    "tako",
+    "brzo",
+    "putuju",
+    "ljudi",
+    "vole",
+    "nove",
+    "zanimljive",
+    "priče",
+    "prema",
+    "njegovom",
+    "mišljenju",
+    "glasina",
+    "uvjerljiva",
+    "kad",
+    "kratka",
+    "citat",
+    "ali",
+    "netočan",
+    "zatim",
+    "pitala",
+    "ocijeniti",
+    "sugerira",
+    "tri",
+    "pitanja",
+    "tko",
+    "stručan",
+    "li",
+    "tekst",
+    "dokaze",
+    "ako",
+    "sumnjiv",
+    "dovoljno",
+    "dosta",
+    "odgovara",
+    "treba",
+    "biti",
+    "objektivan",
+    "pokazuje",
+    "samo",
+    "jednu",
+    "stranu",
+    "preporučuje",
+    "dva",
+    "ili",
+    "izvora",
+    "savjet",
+    "zaboravljaju",
+    "na",
+    "kraju",
+    "naglasio",
+    "nitko",
+    "dužan",
+    "vjerovati",
+    "svemu",
+    "što",
+    "pročita",
+    "mnogi",
+    "to",
+    "već",
+    "rade",
+    "dan",
+    "slušate",
+    "priopćenju",
+    "udruge",
+    "ove",
+    "godine",
+    "kvartu",
+    "bilo",
+    "trideset",
+    "događaja",
+    "ankete",
+    "stanovnici",
+    "zadovoljni",
+    "mnogo",
+    "došlo",
+    "izložbu",
+    "slika",
+    "djeca",
+    "radionice",
+    "takvi",
+    "događaji",
+    "korisni",
+    "ulaz",
+    "besplatan",
+    "čuo",
+    "ured",
+    "zatvoren",
+    "čula",
+    "glasinu",
+    "vjerujem",
+    "rekao",
+    "susjed",
+    "direktor",
+    "poricao",
+    "otvoren",
+    "do",
+    "petka",
+    "dakle",
+    "točna",
+    "provjerit",
+    "ću",
+    "internetu",
+    "poštovani",
+    "hvala",
+    "kasno",
+    "kiša",
+    "pada",
+    "kasnio",
+    "znao",
+    "odgovor",
+    "dolazim",
+    "sutra",
+    "ovdje",
+    "vlak",
+    "kasni",
+    "važna",
+    "važno",
+    "kratak",
+    "duga",
+    "dug",
+    "točan",
+    "jednog",
+    "jednostavan",
+    "ovoga",
+    "dugačak",
+    "primjer",
+    "pristranosti"
+  ],
+  "notes": [
+    {
+      "id": "hr-9aca3bdb",
+      "type": "noun",
+      "lemma": "glasina",
+      "gender": "ž.",
+      "gen_sg": "glasine",
+      "plural": [
+        "glasine"
+      ],
+      "ua": "чутка, плітка",
+      "audio": "hr-glasina.mp3",
+      "forms": [
+        "glasine",
+        "glasinu",
+        "glasini",
+        "glasinom"
+      ],
+      "explain_ua": "(Glasina nije točna.) Glasina je vijest koju ljudi prenose, a nije provjerena. Ženski rod na -a: glasina, glasine, glasinu. Genitiv množine glasina. UA: чутка, плітка. УВАГА ДО ВСЬОГО УРОКУ: інтерв'ю, статті, експерти й цитати вигадані для вправ. Пояснення хорватською, коротко українською.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-467ae10b",
+      "type": "noun",
+      "lemma": "stručnjak",
+      "gender": "m.",
+      "gen_sg": "stručnjaka",
+      "plural": [
+        "stručnjaci"
+      ],
+      "ua": "експерт, фахівець",
+      "audio": "hr-strucnjak.mp3",
+      "forms": [
+        "stručnjaka",
+        "stručnjaku",
+        "stručnjaci",
+        "stručnjake",
+        "stručnjakom",
+        "stručnjaci"
+      ],
+      "explain_ua": "(Stručnjak čita izvješće.) Stručnjak je osoba koja nešto vrlo dobro zna. Muški rod, nestalno a: stručnjak, stručnjaka, stručnjaci (k > c). Vokativ: stručnjače. UA: експерт, фахівець.",
+      "check": "Форми з мого знання; вокатив stručnjače за зразком razredniče, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-a0dd0945",
+      "type": "noun",
+      "lemma": "autor",
+      "gender": "m.",
+      "gen_sg": "autora",
+      "plural": [
+        "autori"
+      ],
+      "ua": "автор",
+      "audio": "hr-autor.mp3",
+      "forms": [
+        "autora",
+        "autoru",
+        "autori",
+        "autore",
+        "autorom",
+        "autorica"
+      ],
+      "explain_ua": "(Autor piše komentar.) Autor je osoba koja je napisala tekst. Muški rod: autor, autora, autori; vokativ autore (poput majstore). Ženski oblik autorica. Akuzativ živog: vidim autora. UA: автор.",
+      "check": "Форми з мого знання; жіночу форму autorica не звіряв."
+    },
+    {
+      "id": "hr-2b028ae4",
+      "type": "noun",
+      "lemma": "citat",
+      "gender": "m.",
+      "gen_sg": "citata",
+      "plural": [
+        "citati"
+      ],
+      "ua": "цитата",
+      "audio": "hr-citat.mp3",
+      "forms": [
+        "citata",
+        "citatu",
+        "citati",
+        "citate",
+        "citatom"
+      ],
+      "explain_ua": "(Citat je kratak.) Citat je doslovno navedene riječi nekoga drugoga. Muški rod: citat, citata, citati. Pišemo c, ne č: citat (ali čitati). UA: цитата.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-a7d2ff72",
+      "type": "noun",
+      "lemma": "intervju",
+      "gender": "m.",
+      "gen_sg": "intervjua",
+      "plural": [
+        "intervjui"
+      ],
+      "ua": "інтерв'ю",
+      "audio": "hr-intervju.mp3",
+      "forms": [
+        "intervjua",
+        "intervjuu",
+        "intervjui",
+        "intervjuom"
+      ],
+      "explain_ua": "(Intervju je dug.) Intervju je razgovor s osobom za novine ili radio. Muški rod, mijenja se: intervju, intervjua, intervjuu (check). Razlikuj od razgovor za posao (L47). UA: інтерв'ю.",
+      "check": "Форми з мого знання; відмінювання intervju (чи незмінне), звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-7c267c70",
+      "type": "noun",
+      "lemma": "provjera",
+      "gender": "ž.",
+      "gen_sg": "provjere",
+      "plural": [
+        "provjere"
+      ],
+      "ua": "перевірка",
+      "audio": "hr-provjera.mp3",
+      "forms": [
+        "provjere",
+        "provjeru",
+        "provjeri",
+        "provjerom"
+      ],
+      "explain_ua": "(Provjera je važna.) Provjera je radnja kojom vidimo je li nešto točno. Ženski rod na -a: provjera, provjere, provjeru. Od provjeriti (L48). Pišemo ije > je: provjera. UA: перевірка.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-223d1450",
+      "type": "verb",
+      "lemma": "istaknuti",
+      "aspect": "pf.",
+      "partner": "isticati",
+      "pres_1sg": "istaknem",
+      "forms": [
+        "istaknem",
+        "istakneš",
+        "istakne",
+        "istaknemo",
+        "istaknete",
+        "istaknu",
+        "istaknuo",
+        "istaknula",
+        "istaknuli",
+        "isticati",
+        "ističem",
+        "ističeš",
+        "ističe",
+        "ističemo",
+        "ističete",
+        "ističu"
+      ],
+      "ua": "підкреслити, виділити (недок. isticati)",
+      "audio": "hr-istaknuti.mp3",
+      "explain_ua": "(Autor ističe da je izvor pouzdan.) Par: istaknuti (sv.) / isticati (nesv.): istaknem / ističem (k > č). Poslije toga da + rečenica. U vijestima najčešće: ističe da, istaknuo je da. Sličan naglasiti (L57). UA: підкреслити; після нього da + речення.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (istaknem / ističem)."
+    },
+    {
+      "id": "hr-dc8a390e",
+      "type": "verb",
+      "lemma": "poreći",
+      "aspect": "pf.",
+      "partner": "poricati",
+      "pres_1sg": "poreknem",
+      "forms": [
+        "poreknem",
+        "porekneš",
+        "porekne",
+        "poreknemo",
+        "poreknete",
+        "poreknu",
+        "porekao",
+        "porekla",
+        "porekli",
+        "poricati",
+        "poričem",
+        "poričeš",
+        "poriče",
+        "poričemo",
+        "poričete",
+        "poriču"
+      ],
+      "ua": "заперечити, спростувати (недок. poricati)",
+      "audio": "hr-preci.mp3",
+      "explain_ua": "(On poriče tu tvrdnju.) Par: poreći (sv.) / poricati (nesv.): poreknem / poričem; prošlo porekao, porekla. Akuzativ: poreći tvrdnju, glasinu. Poricati znači reći da nešto nije istina. UA: заперечувати.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (poreknem, porekao, poričem)."
+    },
+    {
+      "id": "hr-faf8472d",
+      "type": "verb",
+      "lemma": "sugerirati",
+      "aspect": "impf.",
+      "pres_1sg": "sugeriram",
+      "forms": [
+        "sugeriram",
+        "sugeriraš",
+        "sugerira",
+        "sugeriramo",
+        "sugerirate",
+        "sugeriraju",
+        "sugerirala",
+        "sugerirali",
+        "sugerirao"
+      ],
+      "ua": "пропонувати, натякати",
+      "audio": "hr-sugerirati.mp3",
+      "explain_ua": "(Stručnjak sugerira novi plan.) Glagol na -am: sugeriram, sugeriraš, sugerira. Akuzativ (plan) ili da + rečenica. Isti glagol za oba vida (check). UA: пропонувати, радити (м'якше за «наполягати»).",
+      "check": "Форми з мого знання; що один дієслово обидва види, з мого знання."
+    },
+    {
+      "id": "hr-2d12ba8b",
+      "type": "verb",
+      "lemma": "citirati",
+      "aspect": "impf.",
+      "pres_1sg": "citiram",
+      "forms": [
+        "citiram",
+        "citiraš",
+        "citira",
+        "citiramo",
+        "citirate",
+        "citiraju",
+        "citirala",
+        "citirali",
+        "citirao"
+      ],
+      "ua": "цитувати",
+      "audio": "hr-citirati.mp3",
+      "explain_ua": "(Novinar citira direktora.) Glagol na -am: citiram, citiraš, citira. Akuzativ osobe ili teksta: citirati autora, citirati rečenicu. Isti glagol za oba vida (check). Od citat. UA: цитувати.",
+      "check": "Форми з мого знання; види дієслова з мого знання."
+    },
+    {
+      "id": "hr-b709ec05",
+      "type": "verb",
+      "lemma": "činiti se",
+      "aspect": "impf.",
+      "partner": "učiniti se",
+      "pres_1sg": "činim se",
+      "forms": [
+        "čini",
+        "činilo",
+        "činila",
+        "činili",
+        "učini",
+        "učinilo",
+        "učinila",
+        "učinili"
+      ],
+      "ua": "здаватися (недок.; док. učiniti se)",
+      "audio": "hr-ciniti.mp3",
+      "explain_ua": "(Čini mi se da je kasno.) Najčešće samo u 3. osobi: čini se da ..., čini mi se da ... . Redoslijed klitika: mi se (dativ pa se). Prošlo: činilo mi se; sv. učinilo mi se. Sâm glagol činiti (raditi) ovdje ne učimo. UA: здається; «мені здається» = čini mi se.",
+      "check": "Форми з мого знання; 1 особа činim se подана для повноти, майже не вживається."
+    },
+    {
+      "id": "hr-6b3ad00e",
+      "type": "verb",
+      "lemma": "ocijeniti",
+      "aspect": "pf.",
+      "partner": "ocjenjivati",
+      "pres_1sg": "ocijenim",
+      "forms": [
+        "ocijenim",
+        "ocijeniš",
+        "ocijeni",
+        "ocijenimo",
+        "ocijenite",
+        "ocijene",
+        "ocijenila",
+        "ocijenili",
+        "ocijenio",
+        "ocjenjivati",
+        "ocjenjujem",
+        "ocjenjuješ",
+        "ocjenjuje",
+        "ocjenjujemo",
+        "ocjenjujete",
+        "ocjenjuju"
+      ],
+      "ua": "оцінити (недок. ocjenjivati)",
+      "audio": "hr-ocijeniti.mp3",
+      "explain_ua": "(Direktor ocjenjuje rezultat kao dobar.) Par: ocijeniti (sv.) / ocjenjivati (nesv.): ocijenim / ocjenjujem, ije > je. Što: akuzativ; kao što: kao + akuzativ (kao dobar). Od ocjena (L13). UA: оцінити.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (ije / je)."
+    },
+    {
+      "id": "hr-7579a829",
+      "type": "adjective",
+      "lemma": "stručan",
+      "fem": "stručna",
+      "neut": "stručno",
+      "ua": "фаховий, компетентний",
+      "audio": "hr-strucan.mp3",
+      "forms": [
+        "stručna",
+        "stručno",
+        "stručni",
+        "stručne"
+      ],
+      "explain_ua": "(To je stručan savjet.) Nestalno a: stručan, stručna. Stručan je onaj tko dobro zna posao. Od stručnjak. UA: фаховий, компетентний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-ddfe38f0",
+      "type": "adjective",
+      "lemma": "objektivan",
+      "fem": "objektivna",
+      "neut": "objektivno",
+      "ua": "об'єктивний",
+      "audio": "hr-objektivan.mp3",
+      "forms": [
+        "objektivna",
+        "objektivno",
+        "objektivni",
+        "objektivne"
+      ],
+      "explain_ua": "(Članak nije objektivan.) Nestalno a: objektivan, objektivna. Objektivan tekst pokazuje više strana. Suprotno pristran. UA: об'єктивний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-7ac31184",
+      "type": "adjective",
+      "lemma": "pristran",
+      "fem": "pristrana",
+      "neut": "pristrano",
+      "ua": "упереджений",
+      "audio": "hr-pristran.mp3",
+      "forms": [
+        "pristrana",
+        "pristrano",
+        "pristrani",
+        "pristrane"
+      ],
+      "explain_ua": "(Autor je pristran.) Nestalno a: pristran, pristrana. Pristran je onaj tko jednu stranu brani više nego drugu. Slično jednostran (L57), ali pristran se kaže o osobi. UA: упереджений.",
+      "check": "Форми з мого знання; розмежування jednostran / pristran подаю як звичне вживання, не звіряв."
+    },
+    {
+      "id": "hr-9ca2f2f8",
+      "type": "adjective",
+      "lemma": "navodni",
+      "fem": "navodna",
+      "neut": "navodno",
+      "ua": "нібито, імовірний (про твердження)",
+      "audio": "hr-navodni.mp3",
+      "forms": [
+        "navodna",
+        "navodne",
+        "navodni",
+        "navodnog"
+      ],
+      "explain_ua": "(Navodni uzrok je kvar.) Pridjev definiranog tipa: navodni, navodna. „Navodni“ uzrok je onaj koji se tvrdi, ali nije potvrđen. Od navesti (L54). Prilog navodno vidi dolje. UA: нібито, заявлений (непідтверджений).",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-94282b9f",
+      "type": "adjective",
+      "lemma": "očit",
+      "fem": "očita",
+      "neut": "očito",
+      "ua": "очевидний",
+      "audio": "hr-ocit.mp3",
+      "forms": [
+        "očita",
+        "očite",
+        "očiti",
+        "očitu"
+      ],
+      "explain_ua": "(To je očit problem.) Pridjev: očit, očita, očito. Što se jasno vidi (oko, L37): zapamti kao podsjetnik, ne etimologiju. UA: очевидний.",
+      "check": "Форми з мого знання; зв'язок з oko як підказка, не етимологія."
+    },
+    {
+      "id": "hr-48cb6851",
+      "type": "adjective",
+      "lemma": "sumnjiv",
+      "fem": "sumnjiva",
+      "neut": "sumnjivo",
+      "ua": "підозрілий, сумнівний",
+      "audio": "hr-sumnjiv.mp3",
+      "forms": [
+        "sumnjiva",
+        "sumnjive",
+        "sumnjivi",
+        "sumnjivu"
+      ],
+      "explain_ua": "(Izvor je sumnjiv.) Pridjev bez nestalnog a: sumnjiv, sumnjiva. Sumnjiv izvor je onaj kojem ne vjerujemo. UA: підозрілий, сумнівний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b5765785",
+      "type": "function",
+      "lemma": "navodno",
+      "ua": "нібито, за непідтвердженими даними",
+      "audio": "hr-navodno.mp3",
+      "forms": [],
+      "explain_ua": "(Vlak je navodno kasnio.) Prilog kojim kažemo „tako se kaže, ali nisam siguran“. Stoji uz glagol ili na početku: navodno zna odgovor. Ne mijenja se. UA: нібито, начебто.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-14641ebe",
+      "type": "function",
+      "lemma": "očito",
+      "ua": "очевидно, певно",
+      "audio": "hr-ocito.mp3",
+      "forms": [],
+      "explain_ua": "(Očito je zaboravio.) Prilog „jasno se vidi da“. Stoji na početku ili poslije prve riječi; klitik odmah: očito je. Ne mijenja se. UA: очевидно.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-4a753387",
+      "type": "function",
+      "lemma": "ujedno",
+      "ua": "водночас",
+      "audio": "hr-ujedno.mp3",
+      "forms": [],
+      "explain_ua": "(Ujedno ističe da provjera nije završena.) Prilog „u isto vrijeme“, dodaje još jednu stvar. Stoji na početku. UA: водночас.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-7e5282db",
+      "type": "function",
+      "lemma": "uostalom",
+      "ua": "зрештою, до речі",
+      "audio": "hr-uostalom.mp3",
+      "forms": [],
+      "explain_ua": "(Uostalom, ulaz je besplatan.) Prilog „na kraju krajeva“. Dodaje manje važan, ali koristan argument. Stoji na početku, iza zareza. UA: зрештою.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Prenošenje izvora: tvrdi da, ističe da, prema, po riječima",
+      "summary_ua": "Kad prenosimo tuđe mišljenje, navodimo izvor: Stručnjak tvrdi da ..., Autor ističe da ... ; prema mišljenju + genitiv ; po riječima + genitiv ; kako kaže + nominativ. Poslije glagola da + rečenica. UA: як передавати чужу думку.",
+      "compare": [
+        {
+          "form": "tvrdi / ističe / navodi / sugerira da ...",
+          "when_ua": "Glagoli prenošenja.",
+          "examples": [
+            {
+              "text": "Autor ističe da je izvor pouzdan.",
+              "ua": "Автор підкреслює, що джерело надійне.",
+              "audio": "hr-les59-rule-01.mp3"
+            },
+            {
+              "text": "Stručnjak sugerira da pitamo još jednog stručnjaka.",
+              "ua": "Експерт пропонує спитати ще одного експерта.",
+              "audio": "hr-les59-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Da + rečenica (L31). Glagoli iz L54: tvrditi, navesti, izjaviti."
+        },
+        {
+          "form": "prema mišljenju / po riječima + G",
+          "when_ua": "Izvor prije tvrdnje.",
+          "examples": [
+            {
+              "text": "Prema mišljenju stručnjaka, rezultat je dobar.",
+              "ua": "На думку експертів, результат хороший.",
+              "audio": "hr-les59-rule-03.mp3"
+            },
+            {
+              "text": "Po riječima direktora, termin je važan.",
+              "ua": "За словами директора, термін важливий.",
+              "audio": "hr-les59-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Prema mišljenju + genitiv (stručnjaka); po riječima + genitiv (direktora). Prema je u L45."
+        }
+      ],
+      "points_ua": [
+        "Tvrdi / ističe / navodi da + rečenica.",
+        "Prema mišljenju + G; po riječima + G."
+      ]
+    },
+    {
+      "title_ua": "Nesigurnost i distanca: navodno, očito, čini se da",
+      "summary_ua": "Ne tvrdimo sve kao činjenicu. Navodno (tako se kaže), očito (jasno se vidi), čini se da / čini mi se da (dojam). Klitici: čini mi se (mi pa se). UA: нібито, очевидно, здається.",
+      "compare": [
+        {
+          "form": "navodno / očito",
+          "when_ua": "Priznajem da nisam siguran ili da je jasno.",
+          "examples": [
+            {
+              "text": "Vlak je navodno kasnio.",
+              "ua": "Поїзд нібито запізнився.",
+              "audio": "hr-les59-rule-05.mp3"
+            },
+            {
+              "text": "Očito je kasno za novi plan.",
+              "ua": "Очевидно, для нового плану вже пізно.",
+              "audio": "hr-les59-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Je na drugom mjestu: vlak je navodno; očito je."
+        },
+        {
+          "form": "čini se da / čini mi se da",
+          "when_ua": "Dojam.",
+          "examples": [
+            {
+              "text": "Čini se da kiša pada.",
+              "ua": "Здається, іде дощ.",
+              "audio": "hr-les59-rule-07.mp3"
+            },
+            {
+              "text": "Čini mi se da je to pogreška.",
+              "ua": "Мені здається, що це помилка.",
+              "audio": "hr-les59-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Čini mi se: mi pa se (dativ prije se). Poslije da + rečenica."
+        }
+      ],
+      "points_ua": [
+        "Navodno, očito: prilozi uz glagol.",
+        "Čini se da; čini mi se da (mi se)."
+      ]
+    },
+    {
+      "title_ua": "Neizravni govor: bez promjene vremena (kao u ukrajinskom)",
+      "summary_ua": "Kad prenosimo ono što je netko rekao, vrijeme ostaje isto kao u izravnom govoru: Rekla je: „Dolazim sutra“ > Rekla je da dolazi sutra. Nema pomaka u prošlost kao u engleskom. UA: тримайся УКРАЇНСЬКОЇ: так само, безкоштовно. Pitanja: pitala je dolazim li (L46).",
+      "compare": [
+        {
+          "form": "rekao je da + isto vrijeme",
+          "when_ua": "Prenosim izjavu.",
+          "examples": [
+            {
+              "text": "Rekla je da dolazi sutra.",
+              "ua": "Вона сказала, що приїжджає завтра.",
+              "audio": "hr-les59-rule-09.mp3"
+            },
+            {
+              "text": "Rekao je da je bio ovdje.",
+              "ua": "Він сказав, що був тут.",
+              "audio": "hr-les59-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Dolazi (prezent ostaje prezent); bio je (perfekt ostaje perfekt). Bez pomaka vremena."
+        },
+        {
+          "form": "citat vs. neizravni govor",
+          "when_ua": "Doslovno ili preneseno.",
+          "examples": [
+            {
+              "text": "Autor kaže: „Izvor je pouzdan.“",
+              "ua": "Автор каже: «Джерело надійне».",
+              "audio": "hr-les59-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Citat u navodnicima, poslije dvotočke; neizravno: autor kaže da je izvor pouzdan."
+        }
+      ],
+      "points_ua": [
+        "Rekla je da dolazi: bez pomaka vremena.",
+        "Citat: dvotočka i navodnici."
+      ]
+    },
+    {
+      "title_ua": "Ocjena izvora: stručan, objektivan, pristran, sumnjiv",
+      "summary_ua": "Kad ocjenjujemo izvor, pitamo: tko je autor, je li stručan, navodi li dokaze, je li tekst objektivan ili pristran. Ocijeniti + akuzativ + kao + akuzativ. UA: оцінка джерела.",
+      "compare": [
+        {
+          "form": "stručan / objektivan / pristran / sumnjiv",
+          "when_ua": "Procjena.",
+          "examples": [
+            {
+              "text": "Taj je izvor stručan, a ovaj sumnjiv.",
+              "ua": "Те джерело фахове, а це підозріле.",
+              "audio": "hr-les59-rule-12.mp3"
+            },
+            {
+              "text": "Objektivan tekst navodi više stajališta.",
+              "ua": "Об'єктивний текст наводить кілька позицій.",
+              "audio": "hr-les59-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Taj je izvor: je poslije taj (drugo mjesto). Rod prema imenici: objektivan tekst."
+        },
+        {
+          "form": "ocijeniti ... kao ...",
+          "when_ua": "Dati ocjenu.",
+          "examples": [
+            {
+              "text": "Stručnjak ocjenjuje članak kao pristran.",
+              "ua": "Експерт оцінює статтю як упереджену.",
+              "audio": "hr-les59-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Ocjenjuje kao + akuzativ: kao pristran (check: kao pristran / kao pristranu, uz imenicu muškog roda isto)."
+        }
+      ],
+      "points_ua": [
+        "Stručan, objektivan, pristran, sumnjiv.",
+        "Ocijeniti ... kao ... (check)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Glasina nije točna.",
+      "ua": "Чутка неправдива.",
+      "audio": "hr-les59-example-01.mp3"
+    },
+    {
+      "text": "Stručnjak čita izvješće.",
+      "ua": "Експерт читає звіт.",
+      "audio": "hr-les59-example-02.mp3"
+    },
+    {
+      "text": "Autor piše komentar.",
+      "ua": "Автор пише коментар.",
+      "audio": "hr-les59-example-03.mp3"
+    },
+    {
+      "text": "Citat je kratak.",
+      "ua": "Цитата коротка.",
+      "audio": "hr-les59-example-04.mp3"
+    },
+    {
+      "text": "Intervju je dug.",
+      "ua": "Інтерв'ю довге.",
+      "audio": "hr-les59-example-05.mp3"
+    },
+    {
+      "text": "Provjera je važna.",
+      "ua": "Перевірка важлива.",
+      "audio": "hr-les59-example-06.mp3"
+    },
+    {
+      "text": "Autor ističe da je izvor pouzdan.",
+      "ua": "Автор підкреслює, що джерело надійне.",
+      "audio": "hr-les59-example-07.mp3"
+    },
+    {
+      "text": "On poriče tu tvrdnju.",
+      "ua": "Він заперечує це твердження.",
+      "audio": "hr-les59-example-08.mp3"
+    },
+    {
+      "text": "Stručnjak sugerira novi plan.",
+      "ua": "Експерт пропонує новий план.",
+      "audio": "hr-les59-example-09.mp3"
+    },
+    {
+      "text": "Novinar citira direktora.",
+      "ua": "Журналіст цитує директора.",
+      "audio": "hr-les59-example-10.mp3"
+    },
+    {
+      "text": "Čini mi se da je kasno.",
+      "ua": "Мені здається, що пізно.",
+      "audio": "hr-les59-example-11.mp3"
+    },
+    {
+      "text": "Direktor ocjenjuje rezultat.",
+      "ua": "Директор оцінює результат.",
+      "audio": "hr-les59-example-12.mp3"
+    },
+    {
+      "text": "To je stručan savjet.",
+      "ua": "Це фахова порада.",
+      "audio": "hr-les59-example-13.mp3"
+    },
+    {
+      "text": "Članak nije objektivan.",
+      "ua": "Стаття не об'єктивна.",
+      "audio": "hr-les59-example-14.mp3"
+    },
+    {
+      "text": "Autor je pristran.",
+      "ua": "Автор упереджений.",
+      "audio": "hr-les59-example-15.mp3"
+    },
+    {
+      "text": "Navodni uzrok je kvar.",
+      "ua": "Нібито причина поломка.",
+      "audio": "hr-les59-example-16.mp3"
+    },
+    {
+      "text": "To je očit problem.",
+      "ua": "Це очевидна проблема.",
+      "audio": "hr-les59-example-17.mp3"
+    },
+    {
+      "text": "Izvor je sumnjiv.",
+      "ua": "Джерело підозріле.",
+      "audio": "hr-les59-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Što kažu izvori",
+    "title_ua": "Що кажуть джерела",
+    "highlight": [
+      "hr-9aca3bdb",
+      "hr-467ae10b",
+      "hr-a0dd0945",
+      "hr-a7d2ff72",
+      "hr-7c267c70",
+      "hr-7ac31184",
+      "hr-b5765785",
+      "hr-14641ebe",
+      "hr-4a753387",
+      "hr-7e5282db"
+    ],
+    "sentences": [
+      {
+        "text": "Jutros sam čitala intervju sa stručnjakom.",
+        "ua": "Сьогодні вранці я читала інтерв'ю з експертом.",
+        "audio": "hr-les59-reading-01.mp3"
+      },
+      {
+        "text": "Stručnjak tvrdi da je promet navodno manji nego lani.",
+        "ua": "Експерт стверджує, що рух нібито менший, ніж торік.",
+        "audio": "hr-les59-reading-02.mp3"
+      },
+      {
+        "text": "Po njegovim riječima, uzrok je promjena u navikama.",
+        "ua": "За його словами, причина зміна звичок.",
+        "audio": "hr-les59-reading-03.mp3"
+      },
+      {
+        "text": "Autor članka citira i jedan drugi izvor.",
+        "ua": "Автор статті цитує також інше джерело.",
+        "audio": "hr-les59-reading-04.mp3"
+      },
+      {
+        "text": "Čini mi se da je taj izvor pristran.",
+        "ua": "Мені здається, що те джерело упереджене.",
+        "audio": "hr-les59-reading-05.mp3"
+      },
+      {
+        "text": "Očito autor ne navodi sve činjenice.",
+        "ua": "Очевидно, автор не наводить усіх фактів.",
+        "audio": "hr-les59-reading-06.mp3"
+      },
+      {
+        "text": "Ujedno ističe da provjera podataka nije završena.",
+        "ua": "Водночас підкреслює, що перевірка даних не завершена.",
+        "audio": "hr-les59-reading-07.mp3"
+      },
+      {
+        "text": "Uostalom, glasine su često netočne.",
+        "ua": "Зрештою, чутки часто неправдиві.",
+        "audio": "hr-les59-reading-08.mp3"
+      },
+      {
+        "text": "Zato uvijek provjeravam izvore.",
+        "ua": "Тому я завжди перевіряю джерела.",
+        "audio": "hr-les59-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай уривок з радіо. Відповідай одним-двома словами. Слово «navodno» означає «нібито, непідтверджено». Текст можна показати після відповідей.",
+      "audio": "hr-les-59-radio.mp3",
+      "audio_text": "Dobar dan, slušate vijesti. Prema priopćenju udruge, ove godine je u kvartu bilo trideset događaja. Autor ankete ističe da su stanovnici zadovoljni. Navodno je mnogo ljudi došlo na izložbu slika. Čini se da djeca vole radionice. Stručnjak tvrdi da su takvi događaji korisni. Uostalom, ulaz je uvijek besplatan.",
+      "items": [
+        {
+          "prompt": "Скільки подій було в районі? (число)",
+          "accepted": [
+            "trideset",
+            "30",
+            "trideset događaja",
+            "30 događaja"
+          ]
+        },
+        {
+          "prompt": "Автор опитування каже, що мешканці задоволені.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "На що, за непідтвердженими даними, прийшло багато людей? (два слова)",
+          "accepted": [
+            "izložbu slika",
+            "izložba slika",
+            "izložbu"
+          ]
+        },
+        {
+          "prompt": "Експерт вважає такі події марними.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Що, як здається, люблять діти? (одне слово)",
+          "accepted": [
+            "radionice"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох колег про чутку і дай відповіді.",
+      "audio": "hr-les-59-rumour.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Jesi li čuo da će ured biti zatvoren?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Čula sam glasinu, ali ne vjerujem."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Zašto ne?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Izvor je sumnjiv. Navodno je to rekao susjed."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Čini mi se da je direktor to poricao."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Prema priopćenju, ured je otvoren do petka."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Dakle, glasina nije točna."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Očito. Provjerit ću na internetu."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Про що йдеться?",
+          "choices": [
+            "Про плітку, що офіс закриють",
+            "Про нову роботу",
+            "Про відпустку"
+          ],
+          "accepted": [
+            "Про плітку, що офіс закриють"
+          ]
+        },
+        {
+          "prompt": "Жінка вірить плітці.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Чому вона не вірить? (одне-два слова)",
+          "accepted": [
+            "sumnjiv",
+            "sumnjiv izvor",
+            "izvor"
+          ]
+        },
+        {
+          "prompt": "Директор підтвердив плітку.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Де вона перевірить? (одне слово)",
+          "accepted": [
+            "internet",
+            "na internetu",
+            "internetu"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай (вигадане) інтерв'ю і дай відповіді. Текст видно, поки ти відповідаєш. Шукай, що експерт тверджує, радить і заперечує.",
+      "audio": "hr-les-59-interview.mp3",
+      "passage": {
+        "title": "Kako provjeriti vijest",
+        "paragraphs": [
+          "Novinarka je razgovarala sa stručnjakom za vijesti. Tema razgovora bila je kako provjeriti vijest. Stručnjak ističe da svaka vijest ima izvor, a dobar izvor se može provjeriti.",
+          "Prvo pitanje bilo je zašto glasine tako brzo putuju. Stručnjak tvrdi da ljudi vole nove i zanimljive priče. Prema njegovom mišljenju, glasina je uvjerljiva kad je kratka i kad ima citat. Ali citat može biti netočan.",
+          "Zatim je novinarka pitala kako ocijeniti izvor. Stručnjak sugerira tri pitanja. Tko je autor? Je li autor stručan? Navodi li tekst dokaze? Ako autor ne navodi izvore, tekst je sumnjiv.",
+          "Novinarka je pitala je li to dosta. Stručnjak odgovara da nije. Dobar tekst treba biti objektivan, a pristran tekst pokazuje samo jednu stranu. Zato preporučuje da čitamo dva ili tri izvora. Čini se da je to jednostavan savjet, ali ljudi ga često zaboravljaju.",
+          "Na kraju je stručnjak naglasio da je provjera kratka. Uostalom, kaže, nitko nije dužan vjerovati svemu što pročita. Navodno mnogi to već rade, ali očito ne svi."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Тема розмови: як перевірити новину.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Що люблять люди, за словами експерта? (два слова)",
+          "accepted": [
+            "nove priče",
+            "zanimljive priče",
+            "nove i zanimljive priče"
+          ]
+        },
+        {
+          "prompt": "Плітка переконлива, коли вона довга.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Скільки питань пропонує експерт? (число)",
+          "accepted": [
+            "tri",
+            "3"
+          ]
+        },
+        {
+          "prompt": "Якщо автор не називає джерел, текст підозрілий.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Скільки джерел радить читати? (число)",
+          "accepted": [
+            "dva ili tri",
+            "dva",
+            "tri",
+            "2 ili 3"
+          ]
+        },
+        {
+          "prompt": "Експерт каже, що перевірка довга.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Чого ніхто не зобов'язаний? (одне слово)",
+          "accepted": [
+            "vjerovati",
+            "vjerovati svemu"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я чув одну плітку.",
+          "accepted": [
+            "Čuo sam jednu glasinu.",
+            "Čula sam jednu glasinu."
+          ]
+        },
+        {
+          "prompt": "Експерт пише коментар.",
+          "accepted": [
+            "Stručnjak piše komentar."
+          ]
+        },
+        {
+          "prompt": "Хто автор цієї статті?",
+          "accepted": [
+            "Tko je autor ovog članka?",
+            "Tko je autor ovoga članka?"
+          ]
+        },
+        {
+          "prompt": "Він читає цитату.",
+          "accepted": [
+            "On čita citat.",
+            "Čita citat."
+          ]
+        },
+        {
+          "prompt": "Інтерв'ю з директором довге.",
+          "accepted": [
+            "Intervju s direktorom je dug.",
+            "Intervju s direktorom je dugačak."
+          ]
+        },
+        {
+          "prompt": "Перевірка даних потрібна.",
+          "accepted": [
+            "Provjera podataka je potrebna.",
+            "Potrebna je provjera podataka."
+          ]
+        },
+        {
+          "prompt": "Вона підкреслює, що це важливо.",
+          "accepted": [
+            "Ona ističe da je to važno.",
+            "Ističe da je to važno."
+          ]
+        },
+        {
+          "prompt": "Директор заперечує ці слова.",
+          "accepted": [
+            "Direktor poriče te riječi."
+          ]
+        },
+        {
+          "prompt": "Пропоную новий термін.",
+          "accepted": [
+            "Sugeriram novi termin."
+          ]
+        },
+        {
+          "prompt": "Журналіст цитує автора.",
+          "accepted": [
+            "Novinar citira autora."
+          ]
+        },
+        {
+          "prompt": "Здається, вже пізно.",
+          "accepted": [
+            "Čini se da je već kasno."
+          ]
+        },
+        {
+          "prompt": "Директор оцінює результат як добрий.",
+          "accepted": [
+            "Direktor ocjenjuje rezultat kao dobar."
+          ]
+        },
+        {
+          "prompt": "За словами автора, джерело надійне.",
+          "accepted": [
+            "Po riječima autora, izvor je pouzdan."
+          ]
+        },
+        {
+          "prompt": "Очевидно, він забув.",
+          "accepted": [
+            "Očito je zaboravio."
+          ]
+        },
+        {
+          "prompt": "Нібито він знає відповідь.",
+          "accepted": [
+            "Navodno zna odgovor.",
+            "Navodno on zna odgovor."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "glasina",
+        "stručnjak",
+        "autor",
+        "citat",
+        "Intervju",
+        "Provjera",
+        "ističe",
+        "poriče",
+        "sumnjiv",
+        "pristran",
+        "objektivan",
+        "očit",
+        "citira",
+        "se",
+        "navodno"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ta ___ nije točna.",
+          "hint": "Та чутка неправдива.",
+          "accepted": [
+            [
+              "glasina"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ zna mnogo.",
+          "hint": "Той експерт знає багато.",
+          "accepted": [
+            [
+              "stručnjak"
+            ]
+          ]
+        },
+        {
+          "text": "Tko je ___ članka?",
+          "hint": "Хто автор статті?",
+          "accepted": [
+            [
+              "autor"
+            ]
+          ]
+        },
+        {
+          "text": "Čitam taj ___.",
+          "hint": "Читаю ту цитату.",
+          "accepted": [
+            [
+              "citat"
+            ]
+          ]
+        },
+        {
+          "text": "___ s direktorom je dug.",
+          "hint": "Інтерв'ю з директором довге.",
+          "accepted": [
+            [
+              "Intervju",
+              "intervju"
+            ]
+          ]
+        },
+        {
+          "text": "___ podataka je važna.",
+          "hint": "Перевірка даних важлива.",
+          "accepted": [
+            [
+              "Provjera",
+              "provjera"
+            ]
+          ]
+        },
+        {
+          "text": "Ona ___ da je tekst jednostran.",
+          "hint": "Вона підкреслює, що текст однобічний.",
+          "accepted": [
+            [
+              "ističe"
+            ]
+          ]
+        },
+        {
+          "text": "On ___ svoju izjavu.",
+          "hint": "Він заперечує свою заяву.",
+          "accepted": [
+            [
+              "poriče"
+            ]
+          ]
+        },
+        {
+          "text": "Taj izvor je ___.",
+          "hint": "Те джерело підозріле.",
+          "accepted": [
+            [
+              "sumnjiv"
+            ]
+          ]
+        },
+        {
+          "text": "Taj autor je ___.",
+          "hint": "Той автор упереджений.",
+          "accepted": [
+            [
+              "pristran"
+            ]
+          ]
+        },
+        {
+          "text": "Dobar članak je ___.",
+          "hint": "Добра стаття об'єктивна.",
+          "accepted": [
+            [
+              "objektivan"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je ___ primjer pristranosti.",
+          "hint": "Це очевидний приклад упередженості.",
+          "accepted": [
+            [
+              "očit"
+            ]
+          ]
+        },
+        {
+          "text": "Autor ___ stručnjaka u članku.",
+          "hint": "Автор цитує експерта в статті.",
+          "accepted": [
+            [
+              "citira"
+            ]
+          ]
+        },
+        {
+          "text": "Čini ___ da je kasno.",
+          "hint": "Здається, що пізно.",
+          "accepted": [
+            [
+              "se"
+            ]
+          ]
+        },
+        {
+          "text": "Vlak je ___ kasnio.",
+          "hint": "Поїзд нібито запізнився.",
+          "accepted": [
+            [
+              "navodno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Po riječima autor, izvor je pouzdan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Po riječima autora, izvor je pouzdan."
+          ]
+        },
+        {
+          "prompt": "Prema mišljenje stručnjaka, rezultat je dobar.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prema mišljenju stručnjaka, rezultat je dobar."
+          ]
+        },
+        {
+          "prompt": "Stručnjak tvrdi što je to točno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Stručnjak tvrdi da je to točno."
+          ]
+        },
+        {
+          "prompt": "Čini se mi da je kasno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čini mi se da je kasno."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam čitala intervju.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam čitala intervju.",
+            "Ja sam danas čitala intervju."
+          ]
+        },
+        {
+          "prompt": "Mi citiram autora.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi citiramo autora.",
+            "Citiramo autora."
+          ]
+        },
+        {
+          "prompt": "Direktor porekao tu tvrdnju.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Direktor je porekao tu tvrdnju.",
+            "Direktor je poricao tu tvrdnju."
+          ]
+        },
+        {
+          "prompt": "Pitala je što dolazim.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pitala je dolazim li."
+          ]
+        },
+        {
+          "prompt": "Rekao je da je sutra bio ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rekao je da će sutra biti ovdje."
+          ]
+        },
+        {
+          "prompt": "Stručnjaci sugerira novi plan.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Stručnjaci sugeriraju novi plan."
+          ]
+        },
+        {
+          "prompt": "Poštovani autor, hvala.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poštovani autore, hvala."
+          ]
+        },
+        {
+          "prompt": "Glasina je netočna.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Glasine su netočne."
+          ]
+        },
+        {
+          "prompt": "Autor ističe izvor.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Autor je istaknuo izvor."
+          ]
+        },
+        {
+          "prompt": "Izvor je sumnjiv.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Izvor nije sumnjiv."
+          ]
+        },
+        {
+          "prompt": "Citat je točan.",
+          "cue": "-> питання з li",
+          "accepted": [
+            "Je li citat točan?"
+          ]
+        },
+        {
+          "prompt": "Vlak kasni. Čini se.",
+          "cue": "-> Čini se da ...",
+          "accepted": [
+            "Čini se da vlak kasni."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Autor ___ da je izvor pouzdan.",
+          "cue": "isticati",
+          "accepted": [
+            "ističe"
+          ]
+        },
+        {
+          "text": "Jučer je ___ rok.",
+          "cue": "istaknuti",
+          "accepted": [
+            "istaknuo"
+          ]
+        },
+        {
+          "text": "Ona ___ tu tvrdnju.",
+          "cue": "poricati",
+          "accepted": [
+            "poriče"
+          ]
+        },
+        {
+          "text": "On je ___ tu tvrdnju.",
+          "cue": "poreći",
+          "accepted": [
+            "porekao"
+          ]
+        },
+        {
+          "text": "Stručnjak ___ novi plan.",
+          "cue": "sugerirati",
+          "accepted": [
+            "sugerira"
+          ]
+        },
+        {
+          "text": "Novinar ___ direktora.",
+          "cue": "citirati",
+          "accepted": [
+            "citira"
+          ]
+        },
+        {
+          "text": "Ona ___ rezultat svaki tjedan.",
+          "cue": "ocjenjivati",
+          "accepted": [
+            "ocjenjuje"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ rezultat.",
+          "cue": "ocijeniti",
+          "accepted": [
+            "ocijenila",
+            "ocijenio"
+          ]
+        },
+        {
+          "text": "Meni se ___ da je kasno.",
+          "cue": "činiti se",
+          "accepted": [
+            "čini"
+          ]
+        },
+        {
+          "text": "Jučer mi se ___ da je kasno.",
+          "cue": "učiniti se",
+          "accepted": [
+            "učinilo"
+          ]
+        },
+        {
+          "text": "Mi ___ autora.",
+          "cue": "citirati",
+          "accepted": [
+            "citiramo"
+          ]
+        },
+        {
+          "text": "Oni ___ svaku glasinu.",
+          "cue": "poricati",
+          "accepted": [
+            "poriču"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "чутка, плітка",
+          "answer": "glasina"
+        },
+        {
+          "prompt": "експерт, фахівець",
+          "answer": "stručnjak"
+        },
+        {
+          "prompt": "автор",
+          "answer": "autor"
+        },
+        {
+          "prompt": "цитата",
+          "answer": "citat"
+        },
+        {
+          "prompt": "інтерв'ю",
+          "answer": "intervju"
+        },
+        {
+          "prompt": "перевірка",
+          "answer": "provjera"
+        },
+        {
+          "prompt": "фаховий",
+          "answer": "stručan"
+        },
+        {
+          "prompt": "об'єктивний",
+          "answer": "objektivan"
+        },
+        {
+          "prompt": "упереджений",
+          "answer": "pristran"
+        },
+        {
+          "prompt": "нібито (про твердження)",
+          "answer": "navodni"
+        },
+        {
+          "prompt": "очевидний",
+          "answer": "očit"
+        },
+        {
+          "prompt": "підозрілий, сумнівний",
+          "answer": "sumnjiv"
+        },
+        {
+          "prompt": "нібито (прислівник)",
+          "answer": "navodno"
+        },
+        {
+          "prompt": "очевидно",
+          "answer": "očito"
+        }
+      ],
+      "extra": [
+        "ujedno",
+        "uostalom"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова з новин: послухай і напиши.",
+      "words": [
+        "izvor",
+        "izjava",
+        "komentar",
+        "čitatelj",
+        "novinar"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 45 і 54; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}
