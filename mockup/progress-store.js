@@ -94,6 +94,22 @@
       try { return { data: JSON.parse(text) }; } catch (e) { return { error: `the file is not valid JSON (${e.message})` }; }
     }
 
+    // The teacher's feedback on what she sent: feedback/<lang>/les-NN.json in the learner's folder. Read-only, same answers as readStory.
+    async readFeedback(lessonId) {
+      const at = storyLocation(lessonId);
+      if (!at) return null;
+      let file;
+      try {
+        const dir = await (await this.root.getDirectoryHandle('feedback')).getDirectoryHandle(at.lang);
+        file = await dir.getFileHandle(at.file);
+      } catch (e) {
+        if (e && e.name === 'NotFoundError') return null;
+        throw e;
+      }
+      const text = await (await file.getFile()).text();
+      try { return { data: JSON.parse(text) }; } catch (e) { return { error: `the file is not valid JSON (${e.message})` }; }
+    }
+
     // What the learner wrote: one new text file per sending in written/ (never overwritten), for the teacher to read.
     // The page can also choose to resend under the SAME name (an explicit overwrite the learner asked for), which is
     // why this does not refuse an existing file -- the choice of a new name vs. the old one is the caller's.

@@ -53,3 +53,47 @@ Once a lesson has a sent story, the page shows it locked (read-only) with an **�
 - **Перезаписати** -- resaves under the SAME file name (an explicit overwrite: the old content at that name is gone), and still logs a new `story_submitted` event, so the digest shows the file was revised.
 - **Зберегти обидва варіанти** -- the original behaviour: a brand new file, the old one untouched.
 - **Скасувати** -- nothing is saved, the box stays open for more editing.
+
+## Timed writing (letters, descriptions) and the teacher's feedback
+
+The same topic file can ask for a **timed text** of a given length in words:
+
+```json
+{
+  "lesson": "hr-les-52",
+  "topic_ua": "Службовий лист",
+  "topic_nl": "Poslovno pismo",
+  "kind_ua": "Офіційний лист",
+  "min_words": 80,
+  "minutes": 20,
+  "strict": false,
+  "targets_ua": ["Pozdrav i oslovljavanje", "Razlog pisma", "Zahvala i završni pozdrav"]
+}
+```
+
+- `min_words` (20-400) replaces `min_sentences` (one of the two is required). Words are counted by letters; a number or a dash on its own is not a word.
+- `minutes` (3-90) switches on a countdown. It starts with the first keystroke (or the "Почати" button) and survives a page reload. It is **soft**: when time runs out the box stays open and the timer turns red ("Час вийшов"); with `"strict": true` the box locks at zero. Exam realism is the teacher's call.
+- `kind_ua` is an optional label for the kind of text (shown in the hint).
+- On sending, the text file starts with the topic and a line `Час: 18:42 з 20:00` (with "понад ліміт" when over), and the event `story_submitted` also carries `words`, `seconds` and `minutes`. The digest lists them: `(8 sentences, 92 words, 21:00 of 20 min, OVER the limit)`.
+
+### Feedback file
+
+After reading the sent text the teacher writes a feedback file, which appears under the task in the app:
+
+```
+<data folder>/feedback/hr/les-52.json
+```
+
+```json
+{
+  "lesson": "hr-les-52",
+  "for_file": "hr-les-52.2026-10-27T10-15-30-120.txt",
+  "summary_ua": "Overall comment in Ukrainian.",
+  "praise_ua": "Optional: what worked.",
+  "mistakes": [ { "wrong": "ja ide", "right": "ja idem", "why_ua": "Optional short reason." } ],
+  "next_ua": "Optional: what to do next."
+}
+```
+
+- `lesson` and `summary_ua` are required; at most 12 mistakes (a warning above that). Write the whole file each time. `for_file` is the `written/` file the feedback is about: when she has since sent a newer version, the page says the feedback is for the previous version.
+- Check with `npm run validate:story -- <data folder>` (it checks both `stories/` and `feedback/`).

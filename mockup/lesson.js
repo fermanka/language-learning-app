@@ -413,7 +413,8 @@ if (typeof document === 'undefined') {
       const ex = el('div', 'ex');
       const title = el('h3'); title.append(el('span', 'badge', '✎'), document.createTextNode(d.topic_ua + (d.topic_nl ? ` (${d.topic_nl})` : '')));
       ex.append(title);
-      ex.append(el('p', 'meta', d.note_ua || `Напиши зв'язну історію: щонайменше ${d.min_sentences} речень. ${T.nom} перевірить помилки і зв'язність.`));
+      const asked = d.min_words ? `щонайменше ${d.min_words} слів` : `щонайменше ${d.min_sentences} речень`;
+      ex.append(el('p', 'meta', d.note_ua || `${d.kind_ua ? d.kind_ua + '. ' : ''}Напиши зв'язний текст: ${asked}.${d.minutes ? ` Час: ${d.minutes} хв.` : ''} ${T.nom} перевірить помилки і зв'язність.`));
       if (d.targets_ua) { const ul = el('ul', 'meta'); d.targets_ua.forEach((t) => ul.append(el('li', null, t))); ex.append(ul); }
       const area = el('textarea', 'story'); area.rows = 8;
       let draft = '';
@@ -423,11 +424,40 @@ if (typeof document === 'undefined') {
       const send = el('button', 'btn primary', `Надіслати ${T.dat}`);
       const editBtn = el('button', 'btn', 'Редагувати'); editBtn.hidden = true;
       let sentBefore = log.state().stories[L.id];
+      // length in words (letters, descriptions) or in sentences (stories)
+      const measure = (text) => (d.min_words ? window.Story.countWords(text) : window.Story.countSentences(text));
+      const needed = d.min_words || d.min_sentences;
       const refresh = () => {
-        const n = window.Story.countSentences(area.value);
-        counter.textContent = `Речень: ${n} з ${d.min_sentences}`;
-        send.disabled = n < d.min_sentences;
+        const n = measure(area.value);
+        counter.textContent = `${d.min_words ? 'Слів' : 'Речень'}: ${n} з ${needed}`;
+        send.disabled = n < needed;
       };
+      // timed writing: the countdown starts with the first keystroke (or the button) and survives a page reload
+      let startedAt = null, tick = null;
+      const timerEl = el('p', 'meta timer'), startBtn = el('button', 'btn', 'Почати');
+      const TKEY = `storyTimer:${L.id}`;
+      const fmt = (s) => `${Math.floor(Math.abs(s) / 60)}:${String(Math.abs(s) % 60).padStart(2, '0')}`;
+      const elapsed = () => (startedAt ? Math.round((Date.now() - startedAt) / 1000) : 0);
+      const paint = () => {
+        const left = d.minutes * 60 - elapsed();
+        timerEl.textContent = left >= 0 ? `⏱ Залишилось ${fmt(left)}` : `⏱ Час вийшов (+${fmt(left)})`;
+        timerEl.classList.toggle('warn', left < 0);
+        if (d.strict && left <= 0) { area.disabled = true; clearInterval(tick); }
+      };
+      const startTimer = () => {
+        if (!d.minutes || startedAt || area.disabled) return;
+        startedAt = Date.now();
+        try { localStorage.setItem(TKEY, String(startedAt)); } catch (e) { /* ignore */ }
+        startBtn.hidden = true; paint(); tick = setInterval(paint, 1000);
+      };
+      const stopTimer = () => { clearInterval(tick); try { localStorage.removeItem(TKEY); } catch (e) { /* ignore */ } };
+      startBtn.onclick = () => { startTimer(); if (area.focus) area.focus(); };
+      if (d.minutes) {
+        let saved = null;
+        try { saved = Number(localStorage.getItem(TKEY)) || null; } catch (e) { /* ignore */ }
+        timerEl.textContent = `⏱ ${d.minutes} хв${d.strict ? ' (жорстко: текст закриється, коли час вийде)' : ''}. Таймер запуститься, коли почнеш писати.`;
+        if (saved && draft) { startedAt = saved; startBtn.hidden = true; paint(); tick = setInterval(paint, 1000); }
+      }
       const describeSent = (s) => `Надіслано ${s.at.slice(0, 10)} (${s.sentences} речень): written/${s.file}. Скажи ${T.dat}.`;
       // Locked = showing what was already sent, read-only, until she explicitly asks to change it. A live unsent
       // draft (she started editing and never sent) always wins over the locked view -- she is mid-edit, let her finish.
@@ -442,7 +472,7 @@ if (typeof document === 'undefined') {
           const body = raw.indexOf('\n\n'); area.value = (body === -1 ? raw : raw.slice(body + 2)).replace(/\n$/, '');
         });
       }
-      area.addEventListener('input', () => { refresh(); try { localStorage.setItem(DRAFT_KEY(L.id), area.value); } catch (e) { /* ignore */ } });
+      area.addEventListener('input', () => { startTimer(); refresh(); try { localStorage.setItem(DRAFT_KEY(L.id), area.value); } catch (e) { /* ignore */ } });
 
       // Asks what to do with a story that was already sent: overwrite that file, keep both, or back out and keep editing.
       function askOverwriteOrBoth(prevFile) {
@@ -466,8 +496,8 @@ if (typeof document === 'undefined') {
       }
 
       send.onclick = async () => {
-        const text = area.value.trim(), n = window.Story.countSentences(text);
-        if (n < d.min_sentences || send.disabled) return;
+        const text = area.value.trim(), n = measure(text), sentences = window.Story.countSentences(text);
+        if (n < needed || send.disabled) return;
         if (!log.store) { status.textContent = 'Спочатку підключи теку з прогресом (угорі), тоді історію буде збережено.'; return; }
         let overwrite = false;
         if (sentBefore) {
@@ -479,10 +509,14 @@ if (typeof document === 'undefined') {
         // Millisecond resolution: two "save both" sends within the same second must never collide and silently overwrite each other.
         const name = overwrite ? sentBefore.file : `${L.id}.${new Date().toISOString().replace(/[:.]/g, '-').slice(0, 23)}.txt`;
         try {
-          await log.store.saveWritten(name, `${d.topic_ua}${d.topic_nl ? ` (${d.topic_nl})` : ''}\n\n${text}\n`);
-          const rec = log.record({ type: 'story_submitted', lesson: L.id, file: name, sentences: n });
-          sentBefore = { file: name, sentences: n, at: rec.t };
-          status.textContent = `Надіслано (${n} речень): written/${name}. Скажи ${T.dat}, що історія там.`;
+          const secs = d.minutes && startedAt ? elapsed() : null, words = window.Story.countWords(text);
+          const timing = secs !== null ? `Час: ${fmt(secs)} з ${d.minutes}:00${secs > d.minutes * 60 ? ' (понад ліміт)' : ''}\n` : '';
+          await log.store.saveWritten(name, `${d.topic_ua}${d.topic_nl ? ` (${d.topic_nl})` : ''}\n${timing}\n${text}\n`);
+          const rec = log.record({ type: 'story_submitted', lesson: L.id, file: name, sentences, words, ...(secs !== null ? { seconds: secs, minutes: d.minutes } : {}) });
+          sentBefore = { file: name, sentences, at: rec.t };
+          stopTimer();
+          if (secs !== null) timerEl.textContent = `⏱ Витрачено ${fmt(secs)} з ${d.minutes}:00`;
+          status.textContent = `Надіслано (${n} ${d.min_words ? 'слів' : 'речень'}): written/${name}. Скажи ${T.dat}, що текст там.`;
           try { localStorage.removeItem(DRAFT_KEY(L.id)); } catch (e) { /* ignore */ }
           draft = '';
           lock();
@@ -490,9 +524,35 @@ if (typeof document === 'undefined') {
         refresh();
       };
       refresh();
-      ex.append(area, counter, send, editBtn, status);
+      ex.append(...(d.minutes ? [timerEl, startBtn, document.createTextNode(' ')] : []), area, counter, send, editBtn, status);
       box.append(ex);
+      const fbBox = el('div'); box.append(fbBox);
+      renderFeedback(L, fbBox, () => sentBefore && sentBefore.file);
     }).catch((e) => { if (LESSONS[current].id === L.id) note(`Не вдалося прочитати завдання з історією: ${e.message}`, 'meta warn'); });
+  }
+
+  // The teacher's feedback on the text she sent (feedback/<lang>/les-NN.json). Read-only; appears when the teacher has written it.
+  function renderFeedback(L, host, sentFile) {
+    if (!log.store || !log.store.readFeedback) return;
+    log.store.readFeedback(L.id).then((res) => {
+      if (LESSONS[current].id !== L.id || !res) return;
+      host.innerHTML = '';
+      if (res.error) { host.append(el('p', 'meta warn', `Файл відгуку не вдалося прочитати: ${res.error}`)); return; }
+      const v = window.Story.validateFeedback(res.data, L.id);
+      if (v.errors.length) { host.append(el('p', 'meta warn', `Файл відгуку має помилки, скажи ${T.dat}: ${v.errors.slice(0, 3).join('; ')}`)); return; }
+      const d = res.data, fb = el('div', 'ex feedback');
+      fb.append(el("h3", null, "Відгук"));
+      if (d.for_file && sentFile() && d.for_file !== sentFile()) fb.append(el('p', 'meta warn', 'Цей відгук до попередньої версії тексту. Якщо ти вже виправила, чекай новий.'));
+      fb.append(el('p', null, d.summary_ua));
+      if (d.praise_ua) fb.append(el('p', 'meta', `Добре: ${d.praise_ua}`));
+      if (d.mistakes && d.mistakes.length) {
+        const ul = el('ul', 'fb-mistakes');
+        d.mistakes.forEach((m) => { const li = el('li'); li.append(el('span', 'fb-wrong', m.wrong), document.createTextNode(' → '), el('span', 'fb-right', m.right)); if (m.why_ua) li.append(el('div', 'meta', m.why_ua)); ul.append(li); });
+        fb.append(ul);
+      }
+      if (d.next_ua) fb.append(el('p', 'meta', `Далі: ${d.next_ua}`));
+      host.append(fb);
+    }).catch(() => { /* a missing or unreadable folder just shows nothing */ });
   }
 
   const LESSON_KEY = 'currentLesson';   // a per-browser convenience, like the theme: which lesson is open

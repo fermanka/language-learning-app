@@ -3,7 +3,7 @@
 // Fails (exit 1) on structural errors. The files are private (they live outside the repository); only the checker is public.
 const fs = require('fs');
 const path = require('path');
-const { validateStory } = require('../mockup/story.js');
+const { validateStory, validateFeedback } = require('../mockup/story.js');
 
 const dataDir = path.resolve(process.argv[2] || path.join(__dirname, '..', '..', 'language-app-data'));
 const storiesDir = path.join(dataDir, 'stories');
@@ -33,4 +33,24 @@ for (const lang of fs.readdirSync(storiesDir)) {
   }
 }
 if (!files) console.log('No story files found.');
+
+// the teacher's feedback on sent texts: feedback/<lang>/les-NN.json
+const feedbackDir = path.join(dataDir, 'feedback');
+if (fs.existsSync(feedbackDir)) {
+  for (const lang of fs.readdirSync(feedbackDir)) {
+    const dir = path.join(feedbackDir, lang);
+    if (!fs.statSync(dir).isDirectory()) continue;
+    for (const file of fs.readdirSync(dir).filter((f) => f.endsWith('.json')).sort()) {
+      const where = `feedback/${lang}/${file}`;
+      const lessonId = `${lang}-${file.replace(/\.json$/, '')}`;
+      let data;
+      try { data = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8')); } catch (e) { fail(`${where}: invalid JSON (${e.message})`); continue; }
+      if (!lessonIds.has(lessonId)) { fail(`${where}: there is no lesson "${lessonId}"`); continue; }
+      const v = validateFeedback(data, lessonId);
+      v.errors.forEach((m) => fail(`${where}: ${m}`));
+      v.warnings.forEach((m) => console.log(`NOTE ${where}: ${m}`));
+      if (!v.errors.length) console.log(`${where}: ok (${(data.mistakes || []).length} mistakes listed)`);
+    }
+  }
+}
 process.exit(errors ? 1 : 0);
