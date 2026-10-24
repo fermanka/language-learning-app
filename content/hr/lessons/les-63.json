@@ -1,0 +1,1627 @@
+{
+  "id": "hr-les-63",
+  "lang": "hr",
+  "order": 63,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "volim",
+    "pisati",
+    "pa",
+    "svaki",
+    "dan",
+    "zapisujem",
+    "nove",
+    "riječi",
+    "kad",
+    "zapišem",
+    "riječ",
+    "tražim",
+    "i",
+    "njezinu",
+    "obitelj",
+    "od",
+    "dolaze",
+    "pisac",
+    "pisanje",
+    "pismenost",
+    "voziti",
+    "vozač",
+    "vožnja",
+    "vozilo",
+    "novi",
+    "početak",
+    "mijenja",
+    "značenje",
+    "preći",
+    "proći",
+    "sići",
+    "prešla",
+    "sam",
+    "cestu",
+    "prošla",
+    "pored",
+    "škole",
+    "sišla",
+    "na",
+    "stanici",
+    "gradski",
+    "prijevoz",
+    "je",
+    "skup",
+    "ali",
+    "su",
+    "vozači",
+    "ljubazni",
+    "bila",
+    "nezaposlena",
+    "samo",
+    "dva",
+    "mjeseca",
+    "a",
+    "sada",
+    "imam",
+    "novo",
+    "zaposlenje",
+    "moj",
+    "najbolji",
+    "savjet",
+    "za",
+    "vokabular",
+    "kako",
+    "se",
+    "zove",
+    "osoba",
+    "koja",
+    "sluša",
+    "radio",
+    "slušatelj",
+    "gleda",
+    "film",
+    "gledatelj",
+    "ženski",
+    "oblik",
+    "slušateljica",
+    "gledateljica",
+    "radi",
+    "firmi",
+    "zaposlenik",
+    "nema",
+    "posla",
+    "kaže",
+    "da",
+    "razumijem",
+    "novom",
+    "romanu",
+    "život",
+    "znanje",
+    "čitanja",
+    "pisanja",
+    "sve",
+    "što",
+    "čujem",
+    "opisujem",
+    "sliku",
+    "moramo",
+    "most",
+    "prije",
+    "osam",
+    "sati",
+    "autobus",
+    "prolazi",
+    "parka",
+    "svakih",
+    "deset",
+    "minuta",
+    "siđite",
+    "idućoj",
+    "priđite",
+    "šalteru",
+    "došla",
+    "ušla",
+    "izašla",
+    "otišla",
+    "odgovornost",
+    "velika",
+    "voli",
+    "glazbu",
+    "učenje",
+    "navika",
+    "školska",
+    "torba",
+    "teška",
+    "duga",
+    "zaposlenica",
+    "uredu",
+    "nego",
+    "izmisliš",
+    "provjeri",
+    "rječniku",
+    "ona",
+    "mala",
+    "djevojčica",
+    "brzo",
+    "danas",
+    "ja",
+    "adresu",
+    "zapisala",
+    "stari",
+    "mjesto",
+    "bio",
+    "starija",
+    "javni",
+    "knjižnica",
+    "veličina",
+    "pismena",
+    "pozorna",
+    "važna",
+    "kod",
+    "kuće",
+    "donio",
+    "dokument",
+    "blizu",
+    "poučan",
+    "stanice",
+    "prošli",
+    "smo",
+    "sišao",
+    "s",
+    "autobusa",
+    "prišla",
+    "prednosti",
+    "zahvalan",
+    "čeka",
+    "dok",
+    "ima",
+    "ugovor",
+    "traži",
+    "još",
+    "ispred",
+    "istom",
+    "dugu",
+    "radija",
+    "ljubazanost",
+    "pouzdanstvo",
+    "stanicu",
+    "poučnu",
+    "otvorena"
+  ],
+  "notes": [
+    {
+      "id": "hr-958fe2e2",
+      "type": "noun",
+      "lemma": "pisanje",
+      "gender": "s.",
+      "gen_sg": "pisanja",
+      "plural": [],
+      "ua": "письмо, писання",
+      "audio": "hr-pisanje.mp3",
+      "forms": [
+        "pisanja",
+        "pisanju",
+        "pisanjem"
+      ],
+      "explain_ua": "(Pisanje je važno.) Pisanje je radnja ili vještina pisanja. Srednji rod na -nje (kao učenje): pisanje, pisanja. Nastaje od pisati + -nje: tako tvorimo imenice od glagola. UA: письмо; ця лекція про родини слів. УВАГА ДО ВСЬОГО УРОКУ: речення вигадані для вправ. Пояснення хорватською, коротко українською.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-3744f4d0",
+      "type": "adjective",
+      "lemma": "pismen",
+      "fem": "pismena",
+      "neut": "pismeno",
+      "ua": "грамотний; письмовий",
+      "audio": "hr-pismen.mp3",
+      "forms": [
+        "pismena",
+        "pismeno",
+        "pismeni",
+        "pismene"
+      ],
+      "explain_ua": "(Ona je pismena.) Nestalno e: pismen, pismena, pismeno. Pismen znači „koji zna čitati i pisati“, ali i „napisan“ (pismeni ispit). Isti korijen kao pismo (L22). UA: грамотний; письмовий.",
+      "check": "Форми з мого знання; два значення (грамотний / письмовий) з мого знання."
+    },
+    {
+      "id": "hr-75bd7191",
+      "type": "noun",
+      "lemma": "pismenost",
+      "gender": "ž.",
+      "gen_sg": "pismenosti",
+      "plural": [],
+      "ua": "грамотність",
+      "audio": "hr-pismenost.mp3",
+      "forms": [
+        "pismenosti",
+        "pismenošću"
+      ],
+      "explain_ua": "(Pismenost je važna.) Imenica na -ost od pridjeva pismen: pismen + -ost. Ženski rod na suglasnik: pismenost, pismenosti. Bez množine. UA: грамотність.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-90702a7f",
+      "type": "verb",
+      "lemma": "zapisati",
+      "aspect": "pf.",
+      "partner": "zapisivati",
+      "pres_1sg": "zapišem",
+      "forms": [
+        "zapišem",
+        "zapišeš",
+        "zapiše",
+        "zapišemo",
+        "zapišete",
+        "zapišu",
+        "zapisala",
+        "zapisali",
+        "zapisao",
+        "zapisivati",
+        "zapisujem",
+        "zapisuješ",
+        "zapisuje",
+        "zapisujemo",
+        "zapisujete",
+        "zapisuju"
+      ],
+      "ua": "записати (недок. zapisivati)",
+      "audio": "hr-zapisati.mp3",
+      "explain_ua": "(Zapisujem nove riječi.) Par: zapisati (sv.) / zapisivati (nesv.): zapišem / zapisujem, s > š u svršenom. Predmetak za- dodaje značenje „staviti na papir“ (kao pisati > zapisati > opisati L42). UA: записати.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-6440f9b3",
+      "type": "noun",
+      "lemma": "vožnja",
+      "gender": "ž.",
+      "gen_sg": "vožnje",
+      "plural": [
+        "vožnje"
+      ],
+      "ua": "поїздка, їзда",
+      "audio": "hr-voznja.mp3",
+      "forms": [
+        "vožnje",
+        "vožnju",
+        "vožnji",
+        "vožnjom"
+      ],
+      "explain_ua": "(Vožnja je duga.) Vožnja je putovanje vozilom ili sama radnja vožnje. Ženski rod na -ja: vožnja, vožnje, vožnju. Od voziti (L19), vozač (L26). UA: поїздка, їзда.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-eafad57d",
+      "type": "noun",
+      "lemma": "prijevoz",
+      "gender": "m.",
+      "gen_sg": "prijevoza",
+      "plural": [
+        "prijevozi"
+      ],
+      "ua": "транспорт, перевезення",
+      "audio": "hr-prijevoz.mp3",
+      "forms": [
+        "prijevoza",
+        "prijevozu",
+        "prijevozi",
+        "prijevozom"
+      ],
+      "explain_ua": "(Javni prijevoz je skup.) Prijevoz je prenošenje ljudi ili robe. Muški rod: prijevoz, prijevoza. Javni prijevoz = громадський транспорт. Pišemo ije: prijevoz. UA: транспорт, перевезення.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-5f0df866",
+      "type": "noun",
+      "lemma": "vozilo",
+      "gender": "s.",
+      "gen_sg": "vozila",
+      "plural": [
+        "vozila"
+      ],
+      "ua": "транспортний засіб",
+      "audio": "hr-vozilo.mp3",
+      "forms": [
+        "vozila",
+        "vozilu",
+        "vozilom"
+      ],
+      "explain_ua": "(Vozilo je novo.) Vozilo je sve čime se vozimo: auto, autobus, vlak. Srednji rod na -o: vozilo, vozila (genitiv i množina isti: vozila). Isti korijen kao voziti. UA: транспортний засіб.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-e656a2b2",
+      "type": "noun",
+      "lemma": "zaposlenik",
+      "gender": "m.",
+      "gen_sg": "zaposlenika",
+      "plural": [
+        "zaposlenici"
+      ],
+      "ua": "працівник, найманий співробітник",
+      "audio": "hr-zaposlenik.mp3",
+      "forms": [
+        "zaposlenika",
+        "zaposleniku",
+        "zaposlenici",
+        "zaposlenike",
+        "zaposlenica"
+      ],
+      "explain_ua": "(Zaposlenik čeka direktora.) Zaposlenik je osoba koja radi u firmi (zaposliti, L26). Muški rod: zaposlenik, zaposlenika, zaposlenici (k > c). Ženski oblik zaposlenica. UA: працівник, співробітник.",
+      "check": "Форми з мого знання; жіночу форму не звіряв."
+    },
+    {
+      "id": "hr-e2025c28",
+      "type": "noun",
+      "lemma": "zaposlenje",
+      "gender": "s.",
+      "gen_sg": "zaposlenja",
+      "plural": [],
+      "ua": "працевлаштування, місце роботи",
+      "audio": "hr-zaposlenje.mp3",
+      "forms": [
+        "zaposlenja",
+        "zaposlenju",
+        "zaposlenjem"
+      ],
+      "explain_ua": "(Zaposlenje je važno.) Zaposlenje je činjenica da imaš posao ili samo radno mjesto. Srednji rod na -nje: zaposlenje, zaposlenja. Traži zaposlenje = шукає роботу. UA: працевлаштування.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-7ce174a8",
+      "type": "adjective",
+      "lemma": "nezaposlen",
+      "fem": "nezaposlena",
+      "neut": "nezaposleno",
+      "ua": "безробітний",
+      "audio": "hr-nezaposlen.mp3",
+      "forms": [
+        "nezaposlena",
+        "nezaposleno",
+        "nezaposleni",
+        "nezaposlene"
+      ],
+      "explain_ua": "(Moj brat je nezaposlen.) Pridjev s niječnim predmetkom ne-: zaposlen (L26) > nezaposlen, nezaposlena. Zaposlen znači „ima posao“, nezaposlen „nema posao“. UA: безробітний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-22d46e23",
+      "type": "adjective",
+      "lemma": "poučan",
+      "fem": "poučna",
+      "neut": "poučno",
+      "ua": "повчальний",
+      "audio": "hr-poucan.mp3",
+      "forms": [
+        "poučna",
+        "poučno",
+        "poučni",
+        "poučne"
+      ],
+      "explain_ua": "(To je poučna priča.) Nestalno a: poučan, poučna. Poučan je tekst iz kojeg nešto naučimo (poučiti, učiti L1). UA: повчальний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-efcb0ddc",
+      "type": "verb",
+      "lemma": "preći",
+      "aspect": "pf.",
+      "partner": "prelaziti",
+      "pres_1sg": "pređem",
+      "forms": [
+        "pređem",
+        "pređeš",
+        "pređe",
+        "pređemo",
+        "pređete",
+        "pređu",
+        "prešao",
+        "prešla",
+        "prešli",
+        "pređi",
+        "pređite",
+        "prelaziti",
+        "prelazim",
+        "prelaziš",
+        "prelazi",
+        "prelazimo",
+        "prelazite",
+        "prelaze"
+      ],
+      "ua": "перейти (недок. prelaziti)",
+      "audio": "hr-preci.mp3",
+      "explain_ua": "(Prelazim cestu.) Par: preći (sv.) / prelaziti (nesv.): pređem / prelazim; prošlo prešao, prešla, prešli. Predmetak pre- = preko. Pripada obitelji ići, kao doći (L10). Akuzativ: preći cestu, most. UA: перейти (через).",
+      "check": "Пару та форми з мого знання за зразком doći / dolaziti, звірити з hjp.znanje.hr (pređem, prešao)."
+    },
+    {
+      "id": "hr-38e3d34f",
+      "type": "verb",
+      "lemma": "proći",
+      "aspect": "pf.",
+      "partner": "prolaziti",
+      "pres_1sg": "prođem",
+      "forms": [
+        "prođem",
+        "prođeš",
+        "prođe",
+        "prođemo",
+        "prođete",
+        "prođu",
+        "prošao",
+        "prošla",
+        "prošli",
+        "prođi",
+        "prođite",
+        "prolaziti",
+        "prolazim",
+        "prolaziš",
+        "prolazi",
+        "prolazimo",
+        "prolazite",
+        "prolaze"
+      ],
+      "ua": "пройти (повз) (недок. prolaziti)",
+      "audio": "hr-proci.mp3",
+      "explain_ua": "(Prolazim pored škole.) Par: proći (sv.) / prolaziti (nesv.): prođem / prolazim; prošlo prošao, prošla, prošli. Predmetak pro- = kroz ili pored. Pored + genitiv (L27). Pazi: prošli tjedan (прикметник prošli). UA: пройти.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (prođem, prošao)."
+    },
+    {
+      "id": "hr-bc60205e",
+      "type": "verb",
+      "lemma": "sići",
+      "aspect": "pf.",
+      "partner": "silaziti",
+      "pres_1sg": "siđem",
+      "forms": [
+        "siđem",
+        "siđeš",
+        "siđe",
+        "siđemo",
+        "siđete",
+        "siđu",
+        "sišao",
+        "sišla",
+        "sišli",
+        "siđi",
+        "siđite",
+        "silaziti",
+        "silazim",
+        "silaziš",
+        "silazi",
+        "silazimo",
+        "silazite",
+        "silaze"
+      ],
+      "ua": "зійти (недок. silaziti)",
+      "audio": "hr-sici.mp3",
+      "explain_ua": "(Silazim s vlaka.) Par: sići (sv.) / silaziti (nesv.): siđem / silazim; prošlo sišao, sišla, sišli. Predmetak s(i)- = dolje. S + genitiv: sići s autobusa. Slično izaći (L50) kad izlaziš iz vozila. UA: зійти.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (siđem, sišao)."
+    },
+    {
+      "id": "hr-19f1c1ca",
+      "type": "verb",
+      "lemma": "prići",
+      "aspect": "pf.",
+      "partner": "prilaziti",
+      "pres_1sg": "priđem",
+      "forms": [
+        "priđem",
+        "priđeš",
+        "priđe",
+        "priđemo",
+        "priđete",
+        "priđu",
+        "prišao",
+        "prišla",
+        "prišli",
+        "priđi",
+        "priđite",
+        "prilaziti",
+        "prilazim",
+        "prilaziš",
+        "prilazi",
+        "prilazimo",
+        "prilazite",
+        "prilaze"
+      ],
+      "ua": "підійти (недок. prilaziti)",
+      "audio": "hr-prici.mp3",
+      "explain_ua": "(Prilazim šalteru.) Par: prići (sv.) / prilaziti (nesv.): priđem / prilazim; prošlo prišao, prišla, prišli. Predmetak pri- = blizu. Kome: dativ (prići šalteru, nekome). UA: підійти.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (priđem, prišao)."
+    },
+    {
+      "id": "hr-e762957c",
+      "type": "noun",
+      "lemma": "strpljivost",
+      "gender": "ž.",
+      "gen_sg": "strpljivosti",
+      "plural": [],
+      "ua": "терпіння",
+      "audio": "hr-strpljivost.mp3",
+      "forms": [
+        "strpljivosti",
+        "strpljivošću"
+      ],
+      "explain_ua": "(Strpljivost je važna.) Imenica na -ost od pridjeva strpljiv (L47). Ženski rod na suglasnik: strpljivost, strpljivosti. Bez množine. UA: терпіння.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-45c1d118",
+      "type": "noun",
+      "lemma": "ljubaznost",
+      "gender": "ž.",
+      "gen_sg": "ljubaznosti",
+      "plural": [],
+      "ua": "люб'язність",
+      "audio": "hr-ljubaznost.mp3",
+      "forms": [
+        "ljubaznosti",
+        "ljubaznošću"
+      ],
+      "explain_ua": "(Ljubaznost je velika prednost.) Od pridjeva ljubazan (L47). Pazi: nestalno a ispada: ljubazan, ali ljubaznost (ne „ljubazanost“). Ženski rod: ljubaznost, ljubaznosti. UA: люб'язність.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b25ff51e",
+      "type": "noun",
+      "lemma": "pouzdanost",
+      "gender": "ž.",
+      "gen_sg": "pouzdanosti",
+      "plural": [],
+      "ua": "надійність",
+      "audio": "hr-pouzdanost.mp3",
+      "forms": [
+        "pouzdanosti",
+        "pouzdanošću"
+      ],
+      "explain_ua": "(Pouzdanost je važna.) Od pridjeva pouzdan (L47). Ženski rod: pouzdanost, pouzdanosti. Ovdje je a ostalo (pouzdan > pouzdanost), a u ljubazan > ljubaznost je palo: provjeri uvijek u rječniku (check). UA: надійність.",
+      "check": "Форми з мого знання; чи a лишається в pouzdanost, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-e7509eac",
+      "type": "noun",
+      "lemma": "slušatelj",
+      "gender": "m.",
+      "gen_sg": "slušatelja",
+      "plural": [
+        "slušatelji"
+      ],
+      "ua": "слухач",
+      "audio": "hr-slusatelj.mp3",
+      "forms": [
+        "slušatelja",
+        "slušatelju",
+        "slušatelji",
+        "slušatelje",
+        "slušateljica",
+        "slušateljka"
+      ],
+      "explain_ua": "(Slušatelj čeka vijesti.) Imenica za osobu: slušati + -telj (kao čitatelj L54, učitelj L13). Muški rod: slušatelj, slušatelja, slušatelji. Ženski oblik slušateljica. UA: слухач.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-72415670",
+      "type": "noun",
+      "lemma": "gledatelj",
+      "gender": "m.",
+      "gen_sg": "gledatelja",
+      "plural": [
+        "gledatelji"
+      ],
+      "ua": "глядач",
+      "audio": "hr-gledatelj.mp3",
+      "forms": [
+        "gledatelja",
+        "gledatelju",
+        "gledatelji",
+        "gledatelje",
+        "gledateljica"
+      ],
+      "explain_ua": "(Gledatelj je zahvalan.) Imenica za osobu: gledati + -telj. Muški rod: gledatelj, gledatelja, gledatelji. Ženski oblik gledateljica. UA: глядач.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-4ce4239d",
+      "type": "adjective",
+      "lemma": "školski",
+      "fem": "školska",
+      "neut": "školsko",
+      "ua": "шкільний",
+      "audio": "hr-skolski.mp3",
+      "forms": [
+        "školska",
+        "školsko",
+        "školske",
+        "školski"
+      ],
+      "explain_ua": "(Školski autobus čeka.) Pridjev na -ski od imenice škola (L1): škola > školski. Završno -a otpada i dodaje se -ski: škola > školski. Rod: školski autobus, školska torba. UA: шкільний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-2fa17651",
+      "type": "adjective",
+      "lemma": "gradski",
+      "fem": "gradska",
+      "neut": "gradsko",
+      "ua": "міський",
+      "audio": "hr-gradski.mp3",
+      "forms": [
+        "gradska",
+        "gradsko",
+        "gradske",
+        "gradski"
+      ],
+      "explain_ua": "(Gradska knjižnica je velika.) Pridjev na -ski od imenice grad (L2): grad > gradski. Rod: gradski park, gradska knjižnica. UA: міський.",
+      "check": "Форми з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Obitelj riječi: jedan korijen, mnogo riječi",
+      "summary_ua": "Rječnik raste brzo kad učimo obitelji. Korijen pis- daje pisati, pisac, pisanje, pismo, pismen, pismenost, zapisati, opisati. Kad znaš korijen i nastavak, razumiješ i riječ koju nisi učila. UA: родина слів: корінь + суфікси й префікси.",
+      "compare": [
+        {
+          "form": "korijen pis-: pisac, pisanje, pismenost",
+          "when_ua": "Imenice iz glagola i pridjeva.",
+          "examples": [
+            {
+              "text": "Pisac radi na novom romanu, a pisanje mu je život.",
+              "ua": "Письменник працює над новим романом, а письмо для нього життя.",
+              "audio": "hr-les63-rule-01.mp3"
+            },
+            {
+              "text": "Pismenost je znanje čitanja i pisanja.",
+              "ua": "Грамотність це вміння читати й писати.",
+              "audio": "hr-les63-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Pisac (L46), pisanje (-nje), pismenost (pismen + -ost). Čitanja i pisanja: genitiv."
+        },
+        {
+          "form": "predmetci: za-, o- + pisati",
+          "when_ua": "Glagoli s istim korijenom.",
+          "examples": [
+            {
+              "text": "Zapisujem sve što čujem.",
+              "ua": "Записую все, що чую.",
+              "audio": "hr-les63-rule-03.mp3"
+            },
+            {
+              "text": "Opisujem sliku.",
+              "ua": "Описую малюнок.",
+              "audio": "hr-les63-rule-04.mp3"
+            }
+          ],
+          "note_ua": "Zapisivati (nesv.) od zapisati; opisivati od opisati (L42). Sve što: L38."
+        }
+      ],
+      "points_ua": [
+        "Korijen + nastavak: pis- + -ac, -anje, -menost.",
+        "Predmetak mijenja značenje: pisati, zapisati, opisati."
+      ]
+    },
+    {
+      "title_ua": "Predmetci kod glagola ići: preći, proći, sići, prići",
+      "summary_ua": "Glagoli kretanja od korijena ići mijenjaju značenje predmetkom: doći, otići, ući, izaći (znaš) + preći (preko), proći (kroz, pored), sići (dolje), prići (prema). Svi imaju prošlo -šao, -šla: prešao, prošao, sišao, prišao. UA: префікси при ходінні: пере-, про-, з-, при-.",
+      "compare": [
+        {
+          "form": "preći / proći",
+          "when_ua": "Preko, kroz, pored.",
+          "examples": [
+            {
+              "text": "Moramo preći most prije osam sati.",
+              "ua": "Мусимо перейти міст до восьмої.",
+              "audio": "hr-les63-rule-05.mp3"
+            },
+            {
+              "text": "Autobus prolazi pored parka svakih deset minuta.",
+              "ua": "Автобус проїжджає повз парк кожні десять хвилин.",
+              "audio": "hr-les63-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Preći + akuzativ; proći pored + genitiv. Svakih deset minuta: genitiv množine (L15)."
+        },
+        {
+          "form": "sići / prići",
+          "when_ua": "Dolje, prema.",
+          "examples": [
+            {
+              "text": "Siđite na idućoj stanici.",
+              "ua": "Зійдіть на наступній зупинці.",
+              "audio": "hr-les63-rule-07.mp3"
+            },
+            {
+              "text": "Priđite šalteru, molim vas.",
+              "ua": "Підійдіть до віконця, будь ласка.",
+              "audio": "hr-les63-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Siđite, priđite: imperativ na vi s đ. Prići kome: dativ (šalteru)."
+        }
+      ],
+      "points_ua": [
+        "Prefiksi: pre- (preko), pro- (kroz), s- (dolje), pri- (prema).",
+        "Prošlo: prešao, prošao, sišao, prišao.",
+        "Svršeni/nesvršeni: preći / prelaziti, proći / prolaziti."
+      ]
+    },
+    {
+      "title_ua": "Nastavci: -ost, -telj, -nik, -nje, -ski",
+      "summary_ua": "-ost pravi imenicu od pridjeva (strpljiv > strpljivost, odgovoran > odgovornost). -telj / -ac / -nik označavaju osobu (čitati > čitatelj, zaposliti > zaposlenik). -nje pravi imenicu od glagola (pisati > pisanje). -ski pravi pridjev od imenice (škola > školski, grad > gradski). UA: суфікси: -ість, діяч, дія, прикметник.",
+      "compare": [
+        {
+          "form": "-ost / -nje",
+          "when_ua": "Svojstvo i radnja.",
+          "examples": [
+            {
+              "text": "Odgovornost je velika.",
+              "ua": "Відповідальність велика.",
+              "audio": "hr-les63-rule-09.mp3"
+            },
+            {
+              "text": "Učenje je moja navika.",
+              "ua": "Навчання це моя звичка.",
+              "audio": "hr-les63-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Odgovoran > odgovornost (a ispada). Učiti > učenje."
+        },
+        {
+          "form": "-telj / -ski",
+          "when_ua": "Osoba i pridjev.",
+          "examples": [
+            {
+              "text": "Slušateljica voli glazbu.",
+              "ua": "Слухачка любить музику.",
+              "audio": "hr-les63-rule-11.mp3"
+            },
+            {
+              "text": "Školska torba je teška.",
+              "ua": "Шкільна сумка важка.",
+              "audio": "hr-les63-rule-12.mp3"
+            }
+          ],
+          "note_ua": "Slušatelj > slušateljica. Škola > školska (otpada -a, dodaje se -ska)."
+        }
+      ],
+      "points_ua": [
+        "-ost: pridjev > svojstvo.",
+        "-telj, -nik: osoba.",
+        "-nje: radnja.",
+        "-ski: pridjev od imenice."
+      ]
+    },
+    {
+      "title_ua": "Kako tvoriti novu riječ i kako je provjeriti",
+      "summary_ua": "Ne postoje sve kombinacije. Kad pokušaš tvoriti novu riječ, provjeri je u rječniku (hjp.znanje.hr). Ženski oblik često ima -ica: zaposlenik > zaposlenica, slušatelj > slušateljica. UA: перевіряй нову форму в словнику.",
+      "compare": [
+        {
+          "form": "ženski oblici na -ica",
+          "when_ua": "Osoba ženskog roda.",
+          "examples": [
+            {
+              "text": "Zaposlenik i zaposlenica rade u istom uredu.",
+              "ua": "Працівник і працівниця працюють в одному офісі.",
+              "audio": "hr-les63-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Zaposlenik, zaposlenica; slušatelj, slušateljica. Rade: množina."
+        },
+        {
+          "form": "provjera u rječniku",
+          "when_ua": "Prije nego što izmisliš riječ.",
+          "examples": [
+            {
+              "text": "Prije nego što izmisliš novu riječ, provjeri je u rječniku.",
+              "ua": "Перш ніж вигадати нове слово, перевір його в словнику.",
+              "audio": "hr-les63-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Prije nego što (L46); provjeri je (imperativ + je, L23). Riječ: ženski rod, akuzativ riječ."
+        }
+      ],
+      "points_ua": [
+        "-ica za žensku osobu.",
+        "Provjeri novu riječ u rječniku."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Pisanje je važno.",
+      "ua": "Письмо важливе.",
+      "audio": "hr-les63-example-01.mp3"
+    },
+    {
+      "text": "Učenik je pismen.",
+      "ua": "Учень грамотний.",
+      "audio": "hr-les63-example-02.mp3"
+    },
+    {
+      "text": "Pismenost raste.",
+      "ua": "Грамотність зростає.",
+      "audio": "hr-les63-example-03.mp3"
+    },
+    {
+      "text": "Zapisujem nove riječi.",
+      "ua": "Записую нові слова.",
+      "audio": "hr-les63-example-04.mp3"
+    },
+    {
+      "text": "Vožnja je duga.",
+      "ua": "Поїздка довга.",
+      "audio": "hr-les63-example-05.mp3"
+    },
+    {
+      "text": "Prijevoz je skup.",
+      "ua": "Транспорт дорогий.",
+      "audio": "hr-les63-example-06.mp3"
+    },
+    {
+      "text": "Vozilo je novo.",
+      "ua": "Транспортний засіб новий.",
+      "audio": "hr-les63-example-07.mp3"
+    },
+    {
+      "text": "Zaposlenik čeka direktora.",
+      "ua": "Працівник чекає директора.",
+      "audio": "hr-les63-example-08.mp3"
+    },
+    {
+      "text": "Zaposlenje je važno.",
+      "ua": "Працевлаштування важливе.",
+      "audio": "hr-les63-example-09.mp3"
+    },
+    {
+      "text": "Moj brat je nezaposlen.",
+      "ua": "Мій брат безробітний.",
+      "audio": "hr-les63-example-10.mp3"
+    },
+    {
+      "text": "To je poučna priča.",
+      "ua": "Це повчальна історія.",
+      "audio": "hr-les63-example-11.mp3"
+    },
+    {
+      "text": "Prelazim cestu.",
+      "ua": "Переходжу дорогу.",
+      "audio": "hr-les63-example-12.mp3"
+    },
+    {
+      "text": "Prolazim pored škole.",
+      "ua": "Проходжу повз школу.",
+      "audio": "hr-les63-example-13.mp3"
+    },
+    {
+      "text": "Silazim s vlaka.",
+      "ua": "Виходжу з поїзда.",
+      "audio": "hr-les63-example-14.mp3"
+    },
+    {
+      "text": "Prilazim šalteru.",
+      "ua": "Підходжу до віконця.",
+      "audio": "hr-les63-example-15.mp3"
+    },
+    {
+      "text": "Strpljivost je važna.",
+      "ua": "Терпіння важливе.",
+      "audio": "hr-les63-example-16.mp3"
+    },
+    {
+      "text": "Slušatelj čeka vijesti.",
+      "ua": "Слухач чекає новин.",
+      "audio": "hr-les63-example-17.mp3"
+    },
+    {
+      "text": "Gradski park je velik.",
+      "ua": "Міський парк великий.",
+      "audio": "hr-les63-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Obitelj riječi",
+    "title_ua": "Родина слів",
+    "highlight": [
+      "hr-958fe2e2",
+      "hr-75bd7191",
+      "hr-6440f9b3",
+      "hr-eafad57d",
+      "hr-5f0df866",
+      "hr-e2025c28",
+      "hr-7ce174a8",
+      "hr-2fa17651"
+    ],
+    "sentences": [
+      {
+        "text": "Volim pisati, pa svaki dan zapisujem nove riječi.",
+        "ua": "Люблю писати, тому щодня записую нові слова.",
+        "audio": "hr-les63-reading-01.mp3"
+      },
+      {
+        "text": "Kad zapišem riječ, tražim i njezinu obitelj.",
+        "ua": "Коли записую слово, шукаю й його родину.",
+        "audio": "hr-les63-reading-02.mp3"
+      },
+      {
+        "text": "Od pisati dolaze pisac, pisanje i pismenost.",
+        "ua": "Від pisati походять pisac, pisanje і pismenost.",
+        "audio": "hr-les63-reading-03.mp3"
+      },
+      {
+        "text": "Od voziti dolaze vozač, vožnja i vozilo.",
+        "ua": "Від voziti походять vozač, vožnja і vozilo.",
+        "audio": "hr-les63-reading-04.mp3"
+      },
+      {
+        "text": "Svaki novi početak riječi mijenja značenje: preći, proći, sići.",
+        "ua": "Кожен новий початок слова змінює значення: preći, proći, sići.",
+        "audio": "hr-les63-reading-05.mp3"
+      },
+      {
+        "text": "Prešla sam cestu, prošla pored škole i sišla na stanici.",
+        "ua": "Я перейшла дорогу, пройшла повз школу й зійшла на зупинці.",
+        "audio": "hr-les63-reading-06.mp3"
+      },
+      {
+        "text": "Gradski prijevoz je skup, ali su vozači ljubazni.",
+        "ua": "Міський транспорт дорогий, але водії люб'язні.",
+        "audio": "hr-les63-reading-07.mp3"
+      },
+      {
+        "text": "Bila sam nezaposlena samo dva mjeseca, a sada imam novo zaposlenje.",
+        "ua": "Я була безробітною лише два місяці, а тепер маю нову роботу.",
+        "audio": "hr-les63-reading-08.mp3"
+      },
+      {
+        "text": "Obitelj riječi je moj najbolji savjet za vokabular.",
+        "ua": "Родина слів моя найкраща порада для словникового запасу.",
+        "audio": "hr-les63-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох людей про назви осіб і дай відповіді.",
+      "audio": "hr-les-63-words.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Kako se zove osoba koja sluša radio?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Slušatelj. A osoba koja gleda film je gledatelj."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "A ženski oblik?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Slušateljica i gledateljica."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "A kako se zove osoba koja radi u firmi?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Zaposlenik. A kad nema posla, kaže se da je nezaposlen."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Sada razumijem obitelj riječi."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Як називається людина, що слухає радіо? (одне слово)",
+          "accepted": [
+            "slušatelj"
+          ]
+        },
+        {
+          "prompt": "А та, що дивиться фільм? (одне слово)",
+          "accepted": [
+            "gledatelj"
+          ]
+        },
+        {
+          "prompt": "Жіноча форма «слухач»: slušateljica.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Як називається працівник фірми? (одне слово)",
+          "accepted": [
+            "zaposlenik"
+          ]
+        },
+        {
+          "prompt": "Якщо нема роботи, кажуть, що людина zaposlena.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Письмо це його робота.",
+          "accepted": [
+            "Pisanje je njegov posao."
+          ]
+        },
+        {
+          "prompt": "Вона грамотна й уважна.",
+          "accepted": [
+            "Ona je pismena i pozorna."
+          ]
+        },
+        {
+          "prompt": "Грамотність важлива для всіх.",
+          "accepted": [
+            "Pismenost je važna za sve."
+          ]
+        },
+        {
+          "prompt": "Записую адресу.",
+          "accepted": [
+            "Zapisujem adresu."
+          ]
+        },
+        {
+          "prompt": "Поїздка була довга.",
+          "accepted": [
+            "Vožnja je bila duga."
+          ]
+        },
+        {
+          "prompt": "Громадський транспорт дорогий.",
+          "accepted": [
+            "Javni prijevoz je skup."
+          ]
+        },
+        {
+          "prompt": "Працівник приніс документ.",
+          "accepted": [
+            "Zaposlenik je donio dokument."
+          ]
+        },
+        {
+          "prompt": "Вона була безробітною два місяці.",
+          "accepted": [
+            "Bila je nezaposlena dva mjeseca."
+          ]
+        },
+        {
+          "prompt": "Вона перейшла дорогу.",
+          "accepted": [
+            "Prešla je cestu."
+          ]
+        },
+        {
+          "prompt": "Ми пройшли повз станцію.",
+          "accepted": [
+            "Prošli smo pored stanice."
+          ]
+        },
+        {
+          "prompt": "Він зійшов з автобуса.",
+          "accepted": [
+            "Sišao je s autobusa."
+          ]
+        },
+        {
+          "prompt": "Вона підійшла до віконця.",
+          "accepted": [
+            "Prišla je šalteru."
+          ]
+        },
+        {
+          "prompt": "Люб'язність і надійність це переваги.",
+          "accepted": [
+            "Ljubaznost i pouzdanost su prednosti.",
+            "Ljubaznost i pouzdanost su velike prednosti."
+          ]
+        },
+        {
+          "prompt": "Глядач вдячний.",
+          "accepted": [
+            "Gledatelj je zahvalan."
+          ]
+        },
+        {
+          "prompt": "Міська бібліотека велика.",
+          "accepted": [
+            "Gradska knjižnica je velika."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "Pisanje",
+        "pismen",
+        "pismenost",
+        "zapisujem",
+        "vožnju",
+        "vozilo",
+        "zaposlenik",
+        "zaposlenje",
+        "nezaposlen",
+        "prelazi",
+        "prolazi",
+        "ljubaznosti",
+        "slušatelj",
+        "Školski",
+        "poučnu"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "___ mu je život.",
+          "hint": "Письмо для нього життя.",
+          "accepted": [
+            [
+              "Pisanje",
+              "pisanje"
+            ]
+          ]
+        },
+        {
+          "text": "On je vrlo ___.",
+          "hint": "Він дуже грамотний.",
+          "accepted": [
+            [
+              "pismen"
+            ]
+          ]
+        },
+        {
+          "text": "Cilj je veća ___.",
+          "hint": "Мета це більша грамотність.",
+          "accepted": [
+            [
+              "pismenost"
+            ]
+          ]
+        },
+        {
+          "text": "Svaki dan ___ nove riječi.",
+          "hint": "Щодня записую нові слова.",
+          "accepted": [
+            [
+              "zapisujem"
+            ]
+          ]
+        },
+        {
+          "text": "Putujem na dugu ___.",
+          "hint": "Їду в довгу поїздку.",
+          "accepted": [
+            [
+              "vožnju"
+            ]
+          ]
+        },
+        {
+          "text": "Moramo naći ___.",
+          "hint": "Мусимо знайти транспортний засіб.",
+          "accepted": [
+            [
+              "vozilo"
+            ]
+          ]
+        },
+        {
+          "text": "Svaki ___ ima ugovor.",
+          "hint": "Кожен працівник має договір.",
+          "accepted": [
+            [
+              "zaposlenik"
+            ]
+          ]
+        },
+        {
+          "text": "Traži novo ___.",
+          "hint": "Шукає нову роботу.",
+          "accepted": [
+            [
+              "zaposlenje"
+            ]
+          ]
+        },
+        {
+          "text": "Moj sin je još ___.",
+          "hint": "Мій син ще безробітний.",
+          "accepted": [
+            [
+              "nezaposlen"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj film ima ___ poruku.",
+          "hint": "Цей фільм має повчальну думку.",
+          "accepted": [
+            [
+              "poučnu"
+            ]
+          ]
+        },
+        {
+          "text": "Mala djevojčica ___ cestu.",
+          "hint": "Маленька дівчинка переходить дорогу.",
+          "accepted": [
+            [
+              "prelazi"
+            ]
+          ]
+        },
+        {
+          "text": "Autobus ___ pored škole.",
+          "hint": "Автобус проїжджає повз школу.",
+          "accepted": [
+            [
+              "prolazi"
+            ]
+          ]
+        },
+        {
+          "text": "Hvala na ___!",
+          "hint": "Дякую за люб'язність!",
+          "accepted": [
+            [
+              "ljubaznosti"
+            ]
+          ]
+        },
+        {
+          "text": "Svaki ___ radija voli glazbu.",
+          "hint": "Кожен слухач радіо любить музику.",
+          "accepted": [
+            [
+              "slušatelj"
+            ]
+          ]
+        },
+        {
+          "text": "___ autobus čeka.",
+          "hint": "Шкільний автобус чекає.",
+          "accepted": [
+            [
+              "Školski",
+              "školski"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори слово чи речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Ljubazanost je velika.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ljubaznost je velika."
+          ]
+        },
+        {
+          "prompt": "Pouzdanstvo je važno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pouzdanost je važna."
+          ]
+        },
+        {
+          "prompt": "Slušateljka čeka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Slušateljica čeka."
+          ]
+        },
+        {
+          "prompt": "Prešao sam preko cestu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prešao sam cestu.",
+            "Prešao sam preko ceste."
+          ]
+        },
+        {
+          "prompt": "Sišla sam s autobus.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sišla sam s autobusa."
+          ]
+        },
+        {
+          "prompt": "Priđem šalter.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Priđem šalteru."
+          ]
+        },
+        {
+          "prompt": "Prošli smo pored stanicu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prošli smo pored stanice."
+          ]
+        },
+        {
+          "prompt": "Mi zapisujem riječi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi zapisujemo riječi.",
+            "Zapisujemo riječi."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam zapisala adresu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam zapisala adresu.",
+            "Ja sam danas zapisala adresu."
+          ]
+        },
+        {
+          "prompt": "Školska autobus čeka.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Školski autobus čeka."
+          ]
+        },
+        {
+          "prompt": "Gradski knjižnica je otvorena.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Gradska knjižnica je otvorena."
+          ]
+        },
+        {
+          "prompt": "ljubazan",
+          "cue": "-> іменник на -ost",
+          "accepted": [
+            "ljubaznost"
+          ]
+        },
+        {
+          "prompt": "strpljiv",
+          "cue": "-> іменник на -ost",
+          "accepted": [
+            "strpljivost"
+          ]
+        },
+        {
+          "prompt": "gledati",
+          "cue": "-> той, хто ... (-telj)",
+          "accepted": [
+            "gledatelj"
+          ]
+        },
+        {
+          "prompt": "pisati",
+          "cue": "-> іменник на -nje",
+          "accepted": [
+            "pisanje"
+          ]
+        },
+        {
+          "prompt": "Ona prelazi cestu.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Ona je prešla cestu.",
+            "Prešla je cestu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Ona ___ cestu.",
+          "cue": "prelaziti",
+          "accepted": [
+            "prelazi"
+          ]
+        },
+        {
+          "text": "Jučer je ___ cestu.",
+          "cue": "preći",
+          "accepted": [
+            "prešla"
+          ]
+        },
+        {
+          "text": "Mi ___ pored škole svaki dan.",
+          "cue": "prolaziti",
+          "accepted": [
+            "prolazimo"
+          ]
+        },
+        {
+          "text": "Jučer smo ___ pored škole.",
+          "cue": "proći",
+          "accepted": [
+            "prošli"
+          ]
+        },
+        {
+          "text": "Ja ___ s autobusa ovdje.",
+          "cue": "silaziti",
+          "accepted": [
+            "silazim"
+          ]
+        },
+        {
+          "text": "Ona je ___ s vlaka.",
+          "cue": "sići",
+          "accepted": [
+            "sišla"
+          ]
+        },
+        {
+          "text": "On ___ šalteru.",
+          "cue": "prilaziti",
+          "accepted": [
+            "prilazi"
+          ]
+        },
+        {
+          "text": "On je ___ šalteru.",
+          "cue": "prići",
+          "accepted": [
+            "prišao"
+          ]
+        },
+        {
+          "text": "Ja svaki dan ___ nove riječi.",
+          "cue": "zapisivati",
+          "accepted": [
+            "zapisujem"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ riječ.",
+          "cue": "zapisati",
+          "accepted": [
+            "zapisala",
+            "zapisao"
+          ]
+        },
+        {
+          "text": "Ti ___ cestu brzo.",
+          "cue": "prelaziti",
+          "accepted": [
+            "prelaziš"
+          ]
+        },
+        {
+          "text": "Oni su ___ most.",
+          "cue": "preći",
+          "accepted": [
+            "prešli"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "письмо",
+          "answer": "pisanje"
+        },
+        {
+          "prompt": "грамотний",
+          "answer": "pismen"
+        },
+        {
+          "prompt": "грамотність",
+          "answer": "pismenost"
+        },
+        {
+          "prompt": "поїздка, їзда",
+          "answer": "vožnja"
+        },
+        {
+          "prompt": "транспорт",
+          "answer": "prijevoz"
+        },
+        {
+          "prompt": "транспортний засіб",
+          "answer": "vozilo"
+        },
+        {
+          "prompt": "працівник",
+          "answer": "zaposlenik"
+        },
+        {
+          "prompt": "працевлаштування",
+          "answer": "zaposlenje"
+        },
+        {
+          "prompt": "безробітний",
+          "answer": "nezaposlen"
+        },
+        {
+          "prompt": "повчальний",
+          "answer": "poučan"
+        },
+        {
+          "prompt": "терпіння",
+          "answer": "strpljivost"
+        },
+        {
+          "prompt": "слухач",
+          "answer": "slušatelj"
+        },
+        {
+          "prompt": "глядач",
+          "answer": "gledatelj"
+        },
+        {
+          "prompt": "шкільний",
+          "answer": "školski"
+        }
+      ],
+      "extra": [
+        "gradski",
+        "preći"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова з тієї ж родини: послухай і напиши.",
+      "words": [
+        "pisac",
+        "vozač",
+        "radnik",
+        "učitelj",
+        "čitatelj"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 46, 26, 13, 54; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

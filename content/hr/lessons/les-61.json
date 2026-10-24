@@ -1,0 +1,1724 @@
+{
+  "id": "hr-les-61",
+  "lang": "hr",
+  "order": 61,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "u",
+    "našem",
+    "kvartu",
+    "koji",
+    "je",
+    "prošle",
+    "godine",
+    "dobio",
+    "novo",
+    "igralište",
+    "stanovnici",
+    "su",
+    "odlučili",
+    "urediti",
+    "vrt",
+    "iza",
+    "knjižnice",
+    "budući",
+    "da",
+    "bio",
+    "velik",
+    "udruga",
+    "pozvala",
+    "sve",
+    "žele",
+    "pomoći",
+    "zahvaljujući",
+    "volonterima",
+    "posao",
+    "završen",
+    "za",
+    "dva",
+    "tjedna",
+    "dogovorili",
+    "smo",
+    "se",
+    "svatko",
+    "pomogne",
+    "koliko",
+    "može",
+    "tako",
+    "nitko",
+    "mora",
+    "plaćati",
+    "umjesto",
+    "ostane",
+    "kod",
+    "kuće",
+    "moj",
+    "brat",
+    "cijeli",
+    "vikend",
+    "radio",
+    "govorio",
+    "kao",
+    "to",
+    "njegov",
+    "otkako",
+    "otvoren",
+    "djeca",
+    "igraju",
+    "tamo",
+    "svaki",
+    "dan",
+    "osim",
+    "toga",
+    "susjedi",
+    "sada",
+    "bolje",
+    "poznaju",
+    "što",
+    "kvart",
+    "vrlo",
+    "korisno",
+    "okolnosti",
+    "bile",
+    "dobre",
+    "ishod",
+    "bolji",
+    "nego",
+    "mislili",
+    "organizira",
+    "radionice",
+    "djecu",
+    "traži",
+    "nove",
+    "volontere",
+    "postoji",
+    "mogućnost",
+    "radionica",
+    "počne",
+    "ranije",
+    "bi",
+    "odgovaralo",
+    "roditeljima",
+    "grad",
+    "gdje",
+    "živim",
+    "ima",
+    "stari",
+    "dvorac",
+    "dolaze",
+    "gosti",
+    "kvar",
+    "majstor",
+    "naručiti",
+    "novi",
+    "dio",
+    "cesta",
+    "zatvorena",
+    "zbog",
+    "radova",
+    "vlak",
+    "ne",
+    "ide",
+    "do",
+    "radim",
+    "kako",
+    "bih",
+    "poboljšala",
+    "svoj",
+    "hrvatski",
+    "obnovljeno",
+    "knjižnica",
+    "besplatna",
+    "čeka",
+    "ona",
+    "nazove",
+    "servis",
+    "govori",
+    "zna",
+    "hoda",
+    "kasni",
+    "učim",
+    "razumijem",
+    "vijesti",
+    "dućanu",
+    "znam",
+    "mnogo",
+    "ljudi",
+    "rekla",
+    "će",
+    "ako",
+    "bude",
+    "kiše",
+    "ostati",
+    "mislim",
+    "premda",
+    "kasno",
+    "još",
+    "možemo",
+    "kad",
+    "sam",
+    "vidjela",
+    "joj",
+    "želim",
+    "radi",
+    "stručnjak",
+    "intervju",
+    "objavljen",
+    "prošli",
+    "tjedan",
+    "ističe",
+    "omogućava",
+    "budu",
+    "više",
+    "djecom",
+    "prema",
+    "njegovom",
+    "mišljenju",
+    "najveća",
+    "prednost",
+    "troši",
+    "vrijeme",
+    "putu",
+    "ureda",
+    "ostaje",
+    "obitelj",
+    "međutim",
+    "nije",
+    "svakoga",
+    "osobe",
+    "žive",
+    "malom",
+    "stanu",
+    "nema",
+    "mirnog",
+    "mjesta",
+    "često",
+    "kažu",
+    "teško",
+    "raditi",
+    "odmore",
+    "poslije",
+    "posla",
+    "cijelo",
+    "osjećaju",
+    "anketa",
+    "organizirala",
+    "pokazuje",
+    "mnogi",
+    "voljeli",
+    "barem",
+    "tjedno",
+    "poslodavci",
+    "moraju",
+    "misliti",
+    "radnici",
+    "iste",
+    "uvjete",
+    "bez",
+    "obzira",
+    "rade",
+    "li",
+    "uredu",
+    "firme",
+    "nalaze",
+    "rješenje",
+    "odgovara",
+    "šefovima",
+    "čini",
+    "budućnost",
+    "dobrom",
+    "dogovoru",
+    "počiste",
+    "završili",
+    "onda",
+    "istom",
+    "neki",
+    "mnoge",
+    "radnicima",
+    "osobama",
+    "internetom",
+    "loša",
+    "vježbu",
+    "organizaciju",
+    "zaradila",
+    "zaradio",
+    "sebe",
+    "pomoć",
+    "susjeda",
+    "ulica",
+    "očišćena"
+  ],
+  "notes": [
+    {
+      "id": "hr-aade073a",
+      "type": "noun",
+      "lemma": "okolnost",
+      "gender": "ž.",
+      "gen_sg": "okolnosti",
+      "plural": [
+        "okolnosti"
+      ],
+      "ua": "обставина",
+      "audio": "hr-okolnost.mp3",
+      "forms": [
+        "okolnosti",
+        "okolnostima",
+        "okolnošću"
+      ],
+      "explain_ua": "(Okolnosti su dobre.) Okolnost je nešto što utječe na situaciju. Ženski rod na suglasnik (i-osnova, kao riječ): okolnost, okolnosti; najčešće u množini. U tim okolnostima = за цих обставин. UA: обставина. УВАГА ДО ВСЬОГО УРОКУ: ситуації вигадані для вправ. Пояснення хорватською, коротко українською.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f10f81b5",
+      "type": "noun",
+      "lemma": "svrha",
+      "gender": "ž.",
+      "gen_sg": "svrhe",
+      "plural": [
+        "svrhe"
+      ],
+      "ua": "мета, призначення",
+      "audio": "hr-svrha.mp3",
+      "forms": [
+        "svrhe",
+        "svrhu",
+        "svrsi",
+        "svrhom"
+      ],
+      "explain_ua": "(Svrha je jasna.) Svrha je razlog zbog kojeg nešto radimo ili postoji. Ženski rod na -a: svrha, svrhe, svrhu; u svrsi (h > s, check). S ciljem (L47) je sličan, ali cilj je rezultat, svrha je smisao. UA: призначення, мета.",
+      "check": "Форми з мого знання; місцевий svrsi звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-0d351c1b",
+      "type": "noun",
+      "lemma": "odnos",
+      "gender": "m.",
+      "gen_sg": "odnosa",
+      "plural": [
+        "odnosi"
+      ],
+      "ua": "стосунки, відношення",
+      "audio": "hr-odnos.mp3",
+      "forms": [
+        "odnosa",
+        "odnosu",
+        "odnosi",
+        "odnose",
+        "odnosima"
+      ],
+      "explain_ua": "(Odnos je dobar.) Odnos je veza između ljudi ili stvari. Muški rod: odnos, odnosa, odnosi. Odnosi s kolegama = стосунки з колегами. U odnosu na + akuzativ = порівняно з (check). UA: стосунки.",
+      "check": "Форми з мого знання; вираз u odnosu na з мого знання."
+    },
+    {
+      "id": "hr-55cd51d8",
+      "type": "noun",
+      "lemma": "ishod",
+      "gender": "m.",
+      "gen_sg": "ishoda",
+      "plural": [
+        "ishodi"
+      ],
+      "ua": "результат, закінчення",
+      "audio": "hr-ishod.mp3",
+      "forms": [
+        "ishoda",
+        "ishodu",
+        "ishodi",
+        "ishode",
+        "ishodom"
+      ],
+      "explain_ua": "(Ishod je poznat.) Ishod je ono što je na kraju ispalo. Muški rod: ishod, ishoda, ishodi. Razlika od rezultat (L48): rezultat je broj ili mjerljiv podatak, ishod je opći završetak. UA: підсумок, результат.",
+      "check": "Форми з мого знання; розмежування ishod / rezultat подаю як звичне вживання, не звіряв."
+    },
+    {
+      "id": "hr-f71d7c6b",
+      "type": "noun",
+      "lemma": "tijek",
+      "gender": "m.",
+      "gen_sg": "tijeka",
+      "plural": [],
+      "ua": "перебіг, хід",
+      "audio": "hr-tijek.mp3",
+      "forms": [
+        "tijeka",
+        "tijeku",
+        "tijekom"
+      ],
+      "explain_ua": "(Tijek rasprave je dug.) Tijek je način na koji se nešto odvija u vremenu. Muški rod: tijek, tijeka; u tijeku = у процесі. Isti korijen kao tijekom (L47): tijekom + genitiv. Pišemo ije: tijek. UA: перебіг, хід.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-f869691c",
+      "type": "noun",
+      "lemma": "veza",
+      "gender": "ž.",
+      "gen_sg": "veze",
+      "plural": [
+        "veze"
+      ],
+      "ua": "зв'язок, з'єднання",
+      "audio": "hr-veza.mp3",
+      "forms": [
+        "veze",
+        "vezu",
+        "vezi",
+        "vezom"
+      ],
+      "explain_ua": "(Veza je dobra.) Veza je spoj između dvoje ili više stvari: internetska veza, veza između događaja. Ženski rod na -a: veza, veze, vezu. U vezi s + instrumental ti je poznato iz L40 (щодо). UA: зв'язок.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-49f3887d",
+      "type": "verb",
+      "lemma": "uzrokovati",
+      "aspect": "impf.",
+      "pres_1sg": "uzrokujem",
+      "forms": [
+        "uzrokujem",
+        "uzrokuješ",
+        "uzrokuje",
+        "uzrokujemo",
+        "uzrokujete",
+        "uzrokuju",
+        "uzrokovala",
+        "uzrokovali",
+        "uzrokovao"
+      ],
+      "ua": "спричиняти, бути причиною",
+      "audio": "hr-uzrokovati.mp3",
+      "explain_ua": "(Kvar uzrokuje kašnjenje.) Glagol na -ovati: uzrokujem, uzrokuješ, uzrokuje (-ova- > -uj-). Akuzativ: uzrokovati problem. Od uzrok (L56). Isti glagol za oba vida (check). UA: спричиняти.",
+      "check": "Форми з мого знання; що один дієслово обидва види, з мого знання."
+    },
+    {
+      "id": "hr-e8a9f3b7",
+      "type": "verb",
+      "lemma": "omogućiti",
+      "aspect": "pf.",
+      "partner": "omogućavati",
+      "pres_1sg": "omogućim",
+      "forms": [
+        "omogućim",
+        "omogućiš",
+        "omogući",
+        "omogućimo",
+        "omogućite",
+        "omoguće",
+        "omogućila",
+        "omogućili",
+        "omogućio",
+        "omogućavati",
+        "omogućavam",
+        "omogućavaš",
+        "omogućava",
+        "omogućavamo",
+        "omogućavate",
+        "omogućavaju"
+      ],
+      "ua": "уможливити, дати змогу (недок. omogućavati)",
+      "audio": "hr-omoguciti.mp3",
+      "explain_ua": "(Radionica omogućava razgovor.) Par: omogućiti (sv.) / omogućavati (nesv.): omogućim / omogućavam. Kome + što: omogućiti nekome razgovor. Od moguć (L56). UA: уможливити, дати змогу.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-18d66182",
+      "type": "verb",
+      "lemma": "spriječiti",
+      "aspect": "pf.",
+      "partner": "sprječavati",
+      "pres_1sg": "spriječim",
+      "forms": [
+        "spriječim",
+        "spriječiš",
+        "spriječi",
+        "spriječimo",
+        "spriječite",
+        "spriječe",
+        "spriječila",
+        "spriječili",
+        "spriječio",
+        "sprječavati",
+        "sprječavam",
+        "sprječavaš",
+        "sprječava",
+        "sprječavamo",
+        "sprječavate",
+        "sprječavaju"
+      ],
+      "ua": "запобігти (недок. sprječavati)",
+      "audio": "hr-sprijeciti.mp3",
+      "explain_ua": "(Dobar plan sprječava probleme.) Par: spriječiti (sv.) / sprječavati (nesv.): spriječim / sprječavam; pazi na pravopis: spriječiti (ije), sprječavati (je). Akuzativ: spriječiti štetu. UA: запобігти.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (spriječiti / sprječavati)."
+    },
+    {
+      "id": "hr-4b145e6c",
+      "type": "verb",
+      "lemma": "izazvati",
+      "aspect": "pf.",
+      "partner": "izazivati",
+      "pres_1sg": "izazovem",
+      "forms": [
+        "izazovem",
+        "izazoveš",
+        "izazove",
+        "izazovemo",
+        "izazovete",
+        "izazovu",
+        "izazvala",
+        "izazvali",
+        "izazvao",
+        "izazivati",
+        "izazivam",
+        "izazivaš",
+        "izaziva",
+        "izazivamo",
+        "izazivate",
+        "izazivaju"
+      ],
+      "ua": "викликати (недок. izazivati)",
+      "audio": "hr-izazvati.mp3",
+      "explain_ua": "(Kiša izaziva probleme.) Par: izazvati (sv.) / izazivati (nesv.): izazovem / izazivam. Akuzativ: izazvati raspravu, probleme. Riječ je bila u L56 bez objašnjenja. UA: викликати.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (izazovem)."
+    },
+    {
+      "id": "hr-b9da8b42",
+      "type": "verb",
+      "lemma": "zahtijevati",
+      "aspect": "impf.",
+      "pres_1sg": "zahtijevam",
+      "forms": [
+        "zahtijevam",
+        "zahtijevaš",
+        "zahtijeva",
+        "zahtijevamo",
+        "zahtijevate",
+        "zahtijevaju",
+        "zahtijevala",
+        "zahtijevali",
+        "zahtijevao"
+      ],
+      "ua": "вимагати",
+      "audio": "hr-zahtijevati.mp3",
+      "explain_ua": "(Posao zahtijeva vrijeme.) Glagol na -am: zahtijevam, zahtijevaš, zahtijeva. Akuzativ: zahtijevati objašnjenje. Pišemo ije: zahtijevati. Imenica zahtjev (L36) je u istoj obitelji. Para svršenog nije u mojim bilješkama. UA: вимагати.",
+      "check": "Форми з мого знання; пари доконаного не знайшов."
+    },
+    {
+      "id": "hr-37a61899",
+      "type": "verb",
+      "lemma": "podrazumijevati",
+      "aspect": "impf.",
+      "pres_1sg": "podrazumijevam",
+      "forms": [
+        "podrazumijevam",
+        "podrazumijevaš",
+        "podrazumijeva",
+        "podrazumijevamo",
+        "podrazumijevate",
+        "podrazumijevaju",
+        "podrazumijevala",
+        "podrazumijevali",
+        "podrazumijevao"
+      ],
+      "ua": "мати на увазі, передбачати",
+      "audio": "hr-podrazumijevati.mp3",
+      "explain_ua": "(To podrazumijeva dobar plan.) Glagol na -am: podrazumijevam, podrazumijeva. Znači „sadržavati kao uvjet ili posljedicu“. Od razumjeti (L42). UA: передбачати.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-6f51ddca",
+      "type": "adjective",
+      "lemma": "složen",
+      "fem": "složena",
+      "neut": "složeno",
+      "ua": "складний, складений",
+      "audio": "hr-slozen.mp3",
+      "forms": [
+        "složena",
+        "složeno",
+        "složeni",
+        "složene"
+      ],
+      "explain_ua": "(Zadatak je složen.) Pridjev: složen, složena (bez nestalnog a). Složen je zadatak koji ima mnogo dijelova; složena rečenica ima više rečenica. Od složiti (L41). UA: складний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-606c5047",
+      "type": "adjective",
+      "lemma": "nužan",
+      "fem": "nužna",
+      "neut": "nužno",
+      "ua": "необхідний",
+      "audio": "hr-nuzan.mp3",
+      "forms": [
+        "nužna",
+        "nužno",
+        "nužni",
+        "nužne"
+      ],
+      "explain_ua": "(Odgovor nije nužan.) Nestalno a: nužan, nužna. Nužno je da + prezent = необхідно, щоб. Jači od potreban (L62). UA: необхідний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-d0b834c6",
+      "type": "adjective",
+      "lemma": "dovoljan",
+      "fem": "dovoljna",
+      "neut": "dovoljno",
+      "ua": "достатній",
+      "audio": "hr-dovoljan.mp3",
+      "forms": [
+        "dovoljna",
+        "dovoljno",
+        "dovoljni",
+        "dovoljne"
+      ],
+      "explain_ua": "(Vrijeme je dovoljno.) Nestalno a: dovoljan, dovoljna, dovoljno. Prilog dovoljno ste vidjeli i prije (L57, L59); sada je objašnjen. Dovoljno + genitiv: dovoljno vremena. UA: достатній; «досить».",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b01c24db",
+      "type": "function",
+      "lemma": "budući da",
+      "ua": "оскільки, бо",
+      "audio": "hr-buduci-da.mp3",
+      "forms": [],
+      "explain_ua": "(Budući da je kasno, idem kući.) Veznik uzroka, malo svečaniji od jer (L21): budući da + rečenica, glavna rečenica. Uvijek na početku. Klitik odmah poslije da: budući da je. UA: оскільки.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-500b45f6",
+      "type": "function",
+      "lemma": "tako da",
+      "ua": "так що, тому",
+      "audio": "hr-tako-da.mp3",
+      "forms": [],
+      "explain_ua": "(Cesta je zatvorena, tako da vlak ne ide.) Veznik posljedice: iz prve rečenice slijedi druga. Stoji u sredini, poslije zareza. Ne miješaj s da + svrha. UA: так що.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-bfc3c9a6",
+      "type": "function",
+      "lemma": "umjesto da",
+      "ua": "замість того щоб",
+      "audio": "hr-umjesto-da.mp3",
+      "forms": [],
+      "explain_ua": "(Radim umjesto da čekam.) Veznik: umjesto da + prezent. Isti subjekt u obje rečenice. UA: в українській після «замість того щоб» стоїть інфінітив, а хорватською da + prezent. Це пастка: не „umjesto čekati“.",
+      "check": "Значення та вживання з мого знання; umjesto + infinitiv чи da + prezent, звірити з граматикою."
+    },
+    {
+      "id": "hr-e23f6a87",
+      "type": "function",
+      "lemma": "kao da",
+      "ua": "наче, ніби",
+      "audio": "hr-kao-da.mp3",
+      "forms": [],
+      "explain_ua": "(Govori kao da je sretna.) Veznik usporedbe: kao da + rečenica. Za nestvarnu usporedbu često bi: kao da bi znao (check). UA: наче, ніби.",
+      "check": "Значення та вживання з мого знання; kao da + prezent чи + bi, звірити з граматикою."
+    },
+    {
+      "id": "hr-dfb492da",
+      "type": "function",
+      "lemma": "otkako",
+      "ua": "відколи",
+      "audio": "hr-otkako.mp3",
+      "forms": [],
+      "explain_ua": "(Otkako učim hrvatski, razumijem vijesti.) Veznik vremena: od trenutka kad. Glagol u prezentu ako radnja traje do danas, u perfektu ako je završena: otkako sam došla. Klitik odmah: otkako sam. UA: відколи.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-562cc2bc",
+      "type": "function",
+      "lemma": "zahvaljujući",
+      "ua": "завдяки (+ давальний)",
+      "audio": "hr-zahvaljujuci.mp3",
+      "forms": [],
+      "explain_ua": "(Zahvaljujući savjetu, nisam kasnila.) Prijedlog s dativom: zahvaljujući savjetu, volonterima. Zapravo participski oblik od zahvaljivati (L40). UA: завдяки + давальний.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-2d149bd7",
+      "type": "function",
+      "lemma": "osim toga",
+      "ua": "крім того",
+      "audio": "hr-osim-toga.mp3",
+      "forms": [],
+      "explain_ua": "(Osim toga, knjižnica je besplatna.) Prilog „još jedna stvar“, kao nadalje (L60). Stoji na početku, iza zareza. UA: крім того.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Anatomija duge rečenice: koji, što, gdje",
+      "summary_ua": "Duga rečenica ima jednu glavnu rečenicu i više zavisnih. Čitaj je ovako: 1) nađi glavni glagol, 2) nađi veznike (koji, što, gdje, da, budući da), 3) izdvoji svaku zavisnu rečenicu, 4) provjeri klitike u svakoj. UA: так читати довге речення.",
+      "compare": [
+        {
+          "form": "koji / koja / koje (L51)",
+          "when_ua": "Rečenica o osobi ili stvari.",
+          "examples": [
+            {
+              "text": "Udruga, koja organizira radionice za djecu, traži nove volontere.",
+              "ua": "Об'єднання, яке організовує майстер-класи для дітей, шукає нових волонтерів.",
+              "audio": "hr-les61-rule-01.mp3"
+            },
+            {
+              "text": "Grad gdje živim ima stari dvorac, u koji dolaze gosti.",
+              "ua": "Місто, де я живу, має старий замок, до якого приїжджають гості.",
+              "audio": "hr-les61-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Koja slaže rod s udruga; u koji (kamo, akuzativ). Gdje u razgovoru; u pisanju u kojem (L51)."
+        },
+        {
+          "form": "što o cijeloj rečenici",
+          "when_ua": "Komentar na ono što je rečeno.",
+          "examples": [
+            {
+              "text": "Postoji mogućnost da radionica počne ranije, što bi odgovaralo roditeljima.",
+              "ua": "Є можливість, що майстер-клас почнеться раніше, що влаштувало б батьків.",
+              "audio": "hr-les61-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Što se odnosi na cijelu prvu rečenicu (ne na jednu riječ); zarez ispred. Bi odgovaralo: uvjetni način (L18). Check: što poslije zareza."
+        }
+      ],
+      "points_ua": [
+        "Glavni glagol, veznici, zavisne rečenice, klitici.",
+        "Koji slaže rod i broj s imenicom, padež je prema funkciji u svojoj rečenici.",
+        "Što poslije zareza: komentar na cijelu rečenicu."
+      ]
+    },
+    {
+      "title_ua": "Uzrok, posljedica, svrha",
+      "summary_ua": "Budući da daje uzrok; tako da daje posljedicu; kako bih / da bi daje svrhu; zahvaljujući + dativ daje pozitivan uzrok; osim toga dodaje još jedan argument. UA: причина, наслідок, мета.",
+      "compare": [
+        {
+          "form": "budući da / tako da",
+          "when_ua": "Uzrok i posljedica.",
+          "examples": [
+            {
+              "text": "Budući da je kvar velik, majstor mora naručiti novi dio.",
+              "ua": "Оскільки поломка велика, майстер мусить замовити нову деталь.",
+              "audio": "hr-les61-rule-04.mp3"
+            },
+            {
+              "text": "Cesta je zatvorena zbog radova, tako da vlak ne ide do mora.",
+              "ua": "Дорога закрита через ремонт, так що поїзд не їде до моря.",
+              "audio": "hr-les61-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Budući da je: je odmah poslije da. Tako da stoji poslije zareza."
+        },
+        {
+          "form": "kako bih ... / zahvaljujući + D / osim toga",
+          "when_ua": "Svrha, zasluga, dodatak.",
+          "examples": [
+            {
+              "text": "Radim kako bih poboljšala svoj hrvatski.",
+              "ua": "Працюю, щоб покращити свою хорватську.",
+              "audio": "hr-les61-rule-06.mp3"
+            },
+            {
+              "text": "Zahvaljujući volonterima, igralište je obnovljeno.",
+              "ua": "Завдяки волонтерам майданчик відновлено.",
+              "audio": "hr-les61-rule-07.mp3"
+            },
+            {
+              "text": "Osim toga, knjižnica je besplatna.",
+              "ua": "Крім того, бібліотека безкоштовна.",
+              "audio": "hr-les61-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Kako bih + l-particip (L40). Zahvaljujući + dativ (volonterima)."
+        }
+      ],
+      "points_ua": [
+        "Budući da = uzrok; tako da = posljedica.",
+        "Kako bih + l-particip = svrha.",
+        "Zahvaljujući + dativ; osim toga."
+      ]
+    },
+    {
+      "title_ua": "Suprotnost, usporedba, vrijeme: umjesto da, kao da, otkako",
+      "summary_ua": "Umjesto da + prezent (ne infinitiv!). Kao da + prezent (ili bi). Otkako + prezent ako traje, perfekt ako je gotovo. UA: у слов'янських мовах «замість того щоб» + інфінітив, але хорватською da + prezent.",
+      "compare": [
+        {
+          "form": "umjesto da + prezent",
+          "when_ua": "Suprotno očekivanom.",
+          "examples": [
+            {
+              "text": "Umjesto da čeka, ona nazove servis.",
+              "ua": "Замість того щоб чекати, вона дзвонить у сервіс.",
+              "audio": "hr-les61-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Nazove je svršeni prezent (L21). Ne „umjesto čekati“."
+        },
+        {
+          "form": "kao da / otkako",
+          "when_ua": "Usporedba, vrijeme.",
+          "examples": [
+            {
+              "text": "Hoda kao da kasni.",
+              "ua": "Іде так, наче запізнюється.",
+              "audio": "hr-les61-rule-10.mp3"
+            },
+            {
+              "text": "Otkako radim u dućanu, znam mnogo ljudi.",
+              "ua": "Відколи працюю в магазині, знаю багато людей.",
+              "audio": "hr-les61-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Kao da kasni (prezent). Otkako radim (prezent, jer traje). Mnogo ljudi: genitiv množine (L15)."
+        }
+      ],
+      "points_ua": [
+        "Umjesto da + prezent.",
+        "Kao da + prezent.",
+        "Otkako + prezent (traje) ili perfekt (završeno)."
+      ]
+    },
+    {
+      "title_ua": "Klitici u svakoj rečenici: svaka zavisna ima svoje drugo mjesto",
+      "summary_ua": "U dugoj rečenici svaka zavisna rečenica ima svoje drugo mjesto za klitike. Poslije veznika (da, ako, kad, premda) dolazi klitik: da će, ako bude, kad sam. Ako je ispred klitika još grupa riječi, ona je jedna jedinica (prvi dio). UA: у кожній частині довгого речення клітик на своєму другому місці.",
+      "compare": [
+        {
+          "form": "da će, ako bude, kad sam",
+          "when_ua": "Klitik odmah poslije veznika.",
+          "examples": [
+            {
+              "text": "Rekla je da će, ako bude kiše, ostati kod kuće.",
+              "ua": "Вона сказала, що, якщо буде дощ, залишиться вдома.",
+              "audio": "hr-les61-rule-12.mp3"
+            },
+            {
+              "text": "Mislim da se, premda je kasno, još možemo dogovoriti.",
+              "ua": "Думаю, що, хоч і пізно, ми ще можемо домовитися.",
+              "audio": "hr-les61-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Da će, da se: klitik odmah poslije da. Umetnuta zavisna rečenica ide u zareze."
+        },
+        {
+          "form": "niz klitika",
+          "when_ua": "Dva klitika zajedno.",
+          "examples": [
+            {
+              "text": "Kad sam je vidjela, rekla sam joj da joj želim pomoći.",
+              "ua": "Коли я її побачила, я сказала їй, що хочу їй допомогти.",
+              "audio": "hr-les61-rule-14.mp3"
+            }
+          ],
+          "note_ua": "Kad sam je (aux, pa akuzativ), rekla sam joj (aux, pa dativ). Da joj želim: klitik odmah poslije da."
+        }
+      ],
+      "points_ua": [
+        "Klitik odmah poslije veznika.",
+        "Niz klitika: pomoćni, pa dativ, pa akuzativ, pa se, pa je (L35)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Okolnosti su dobre.",
+      "ua": "Обставини добрі.",
+      "audio": "hr-les61-example-01.mp3"
+    },
+    {
+      "text": "Svrha je jasna.",
+      "ua": "Мета ясна.",
+      "audio": "hr-les61-example-02.mp3"
+    },
+    {
+      "text": "Odnos je dobar.",
+      "ua": "Стосунки добрі.",
+      "audio": "hr-les61-example-03.mp3"
+    },
+    {
+      "text": "Ishod je poznat.",
+      "ua": "Результат відомий.",
+      "audio": "hr-les61-example-04.mp3"
+    },
+    {
+      "text": "Tijek rasprave je dug.",
+      "ua": "Перебіг дискусії довгий.",
+      "audio": "hr-les61-example-05.mp3"
+    },
+    {
+      "text": "Veza je dobra.",
+      "ua": "Зв'язок добрий.",
+      "audio": "hr-les61-example-06.mp3"
+    },
+    {
+      "text": "Kvar uzrokuje kašnjenje.",
+      "ua": "Поломка спричиняє запізнення.",
+      "audio": "hr-les61-example-07.mp3"
+    },
+    {
+      "text": "Radionica omogućava razgovor.",
+      "ua": "Майстер-клас дає змогу поговорити.",
+      "audio": "hr-les61-example-08.mp3"
+    },
+    {
+      "text": "Dobar plan sprječava probleme.",
+      "ua": "Добрий план запобігає проблемам.",
+      "audio": "hr-les61-example-09.mp3"
+    },
+    {
+      "text": "Kiša izaziva probleme.",
+      "ua": "Дощ викликає проблеми.",
+      "audio": "hr-les61-example-10.mp3"
+    },
+    {
+      "text": "Posao zahtijeva vrijeme.",
+      "ua": "Робота вимагає часу.",
+      "audio": "hr-les61-example-11.mp3"
+    },
+    {
+      "text": "To podrazumijeva dobar plan.",
+      "ua": "Це передбачає добрий план.",
+      "audio": "hr-les61-example-12.mp3"
+    },
+    {
+      "text": "Zadatak je složen.",
+      "ua": "Завдання складне.",
+      "audio": "hr-les61-example-13.mp3"
+    },
+    {
+      "text": "Odgovor nije nužan.",
+      "ua": "Відповідь не обов'язкова.",
+      "audio": "hr-les61-example-14.mp3"
+    },
+    {
+      "text": "Vrijeme je dovoljno.",
+      "ua": "Часу достатньо.",
+      "audio": "hr-les61-example-15.mp3"
+    },
+    {
+      "text": "Budući da je kasno, ostajem kod kuće.",
+      "ua": "Оскільки пізно, залишаюся вдома.",
+      "audio": "hr-les61-example-16.mp3"
+    },
+    {
+      "text": "Radim umjesto da čekam.",
+      "ua": "Працюю замість того, щоб чекати.",
+      "audio": "hr-les61-example-17.mp3"
+    },
+    {
+      "text": "Govori kao da je sretna.",
+      "ua": "Говорить так, наче щаслива.",
+      "audio": "hr-les61-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Zajednički vrt",
+    "title_ua": "Спільний сад",
+    "highlight": [
+      "hr-aade073a",
+      "hr-55cd51d8",
+      "hr-b01c24db",
+      "hr-500b45f6",
+      "hr-bfc3c9a6",
+      "hr-e23f6a87",
+      "hr-dfb492da",
+      "hr-562cc2bc",
+      "hr-2d149bd7"
+    ],
+    "sentences": [
+      {
+        "text": "U našem kvartu, koji je prošle godine dobio novo igralište, stanovnici su odlučili urediti vrt iza knjižnice.",
+        "ua": "У нашому районі, який торік отримав новий майданчик, мешканці вирішили впорядкувати сад за бібліотекою.",
+        "audio": "hr-les61-reading-01.mp3"
+      },
+      {
+        "text": "Budući da je vrt bio velik, udruga je pozvala sve koji žele pomoći.",
+        "ua": "Оскільки сад був великий, об'єднання запросило всіх, хто хоче допомогти.",
+        "audio": "hr-les61-reading-02.mp3"
+      },
+      {
+        "text": "Zahvaljujući volonterima, posao je bio završen za dva tjedna.",
+        "ua": "Завдяки волонтерам робота була закінчена за два тижні.",
+        "audio": "hr-les61-reading-03.mp3"
+      },
+      {
+        "text": "Dogovorili smo se da svatko pomogne koliko može, tako da nitko ne mora plaćati.",
+        "ua": "Ми домовилися, що кожен допоможе, скільки може, так що ніхто не мусить платити.",
+        "audio": "hr-les61-reading-04.mp3"
+      },
+      {
+        "text": "Umjesto da ostane kod kuće, moj je brat cijeli vikend radio u vrtu.",
+        "ua": "Замість того щоб залишитися вдома, мій брат увесь вікенд працював у саду.",
+        "audio": "hr-les61-reading-05.mp3"
+      },
+      {
+        "text": "Govorio je kao da je to njegov posao.",
+        "ua": "Він говорив так, наче це його робота.",
+        "audio": "hr-les61-reading-06.mp3"
+      },
+      {
+        "text": "Otkako je vrt otvoren, djeca se igraju tamo svaki dan.",
+        "ua": "Відколи сад відкрито, діти граються там щодня.",
+        "audio": "hr-les61-reading-07.mp3"
+      },
+      {
+        "text": "Osim toga, susjedi se sada bolje poznaju, što je za kvart vrlo korisno.",
+        "ua": "Крім того, сусіди тепер краще знають одне одного, що для району дуже корисно.",
+        "audio": "hr-les61-reading-08.mp3"
+      },
+      {
+        "text": "Okolnosti su bile dobre, a ishod je bio bolji nego što smo mislili.",
+        "ua": "Обставини були добрі, а результат кращий, ніж ми думали.",
+        "audio": "hr-les61-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох людей про прибирання в парку і дай відповіді.",
+      "audio": "hr-les-61-park.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Budući da je u parku mnogo smeća, udruga poziva stanovnike da počiste park u subotu."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Rado bih došla, ali ako budem radila, neću moći."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Zahvaljujući volonterima, prošli put smo završili za dva sata."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Dobro. Čim saznam raspored, javit ću ti."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Osim toga, svi koji dođu dobivaju besplatan ručak."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Onda ću sigurno pokušati doći."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Про що розмова?",
+          "choices": [
+            "Про прибирання в парку",
+            "Про нову роботу",
+            "Про відпустку"
+          ],
+          "accepted": [
+            "Про прибирання в парку"
+          ]
+        },
+        {
+          "prompt": "Жінка точно прийде.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Коли прибирання? (день)",
+          "accepted": [
+            "subota",
+            "u subotu",
+            "subotu"
+          ]
+        },
+        {
+          "prompt": "За скільки годин закінчили минулого разу? (число)",
+          "accepted": [
+            "dva sata",
+            "dva",
+            "2 sata",
+            "2"
+          ]
+        },
+        {
+          "prompt": "Кожен, хто прийде, отримує безкоштовний обід.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай статтю (вигадану) і дай відповіді. Речення довгі: знайди головне дієслово й сполучники. Текст видно, поки ти відповідаєш.",
+      "audio": "hr-les-61-home-work.mp3",
+      "passage": {
+        "title": "Rad od kuće: prednosti i obveze",
+        "paragraphs": [
+          "Mnogo ljudi danas radi od kuće, što im daje više slobode, ali i nove obveze. Budući da nema šefa u istom uredu, svatko mora sam organizirati svoj dan. Neki tvrde da je to velika prednost, dok drugi misle da taj način rada zahtijeva mnogo više odgovornosti.",
+          "Stručnjak za posao, čiji je intervju objavljen prošli tjedan, ističe da rad od kuće omogućava roditeljima da budu više s djecom. Prema njegovom mišljenju, najveća prednost je što nitko ne troši vrijeme na putu do ureda, tako da ostaje više vremena za obitelj.",
+          "Međutim, rad od kuće nije za svakoga. Osobe koje žive u malom stanu, gdje nema mirnog mjesta, često kažu da im je teško raditi. Umjesto da se odmore poslije posla, one cijelo vrijeme osjećaju da su na poslu.",
+          "Anketa koju je organizirala udruga pokazuje da bi mnogi ljudi voljeli raditi od kuće barem dva dana tjedno. Otkako mnogi rade od kuće, poslodavci moraju misliti na to da svi radnici imaju iste uvjete, bez obzira na to rade li od kuće ili u uredu.",
+          "Zahvaljujući dobrom dogovoru, mnoge firme već nalaze rješenje koje odgovara i radnicima i šefovima. Čini se da je budućnost posla u dobrom dogovoru."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Що дає робота вдома, за текстом? (два слова)",
+          "accepted": [
+            "više slobode",
+            "slobode",
+            "slobodu"
+          ]
+        },
+        {
+          "prompt": "У офісі немає шефа, тому кожен сам планує свій день.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Чого, на думку деяких, вимагає такий спосіб роботи? (одне слово)",
+          "accepted": [
+            "odgovornosti",
+            "odgovornost"
+          ]
+        },
+        {
+          "prompt": "Експерт вважає найбільшою перевагою економію часу на дорогу.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Кому важко працювати вдома? (опис)",
+          "accepted": [
+            "osobama u malom stanu",
+            "u malom stanu",
+            "osobe koje žive u malom stanu",
+            "osobe u malom stanu"
+          ]
+        },
+        {
+          "prompt": "Опитування показало, що мало хто хоче працювати вдома.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Скільки днів на тиждень хотіли б працювати вдома? (число)",
+          "accepted": [
+            "dva",
+            "2",
+            "dva dana",
+            "2 dana"
+          ]
+        },
+        {
+          "prompt": "Роботодавці мають дбати про рівні умови для всіх.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "За цих обставин я погоджуюся.",
+          "accepted": [
+            "U tim okolnostima pristajem."
+          ]
+        },
+        {
+          "prompt": "Яка мета цього листа?",
+          "accepted": [
+            "Koja je svrha ovog pisma?",
+            "Koja je svrha ovoga pisma?"
+          ]
+        },
+        {
+          "prompt": "Мої стосунки з колегами добрі.",
+          "accepted": [
+            "Moji odnosi s kolegama su dobri.",
+            "Moji su odnosi s kolegama dobri."
+          ]
+        },
+        {
+          "prompt": "Результат нас здивував.",
+          "accepted": [
+            "Ishod nas je iznenadio."
+          ]
+        },
+        {
+          "prompt": "Хід розмови був спокійний.",
+          "accepted": [
+            "Tijek razgovora bio je miran.",
+            "Tijek razgovora je bio miran."
+          ]
+        },
+        {
+          "prompt": "Зв'язок з інтернетом поганий.",
+          "accepted": [
+            "Veza s internetom je loša."
+          ]
+        },
+        {
+          "prompt": "Дощ спричинив запізнення автобуса.",
+          "accepted": [
+            "Kiša je uzrokovala kašnjenje autobusa."
+          ]
+        },
+        {
+          "prompt": "Курс дає змогу вчитися вдома.",
+          "accepted": [
+            "Tečaj omogućava učenje kod kuće."
+          ]
+        },
+        {
+          "prompt": "Швидка відповідь запобігла проблемам.",
+          "accepted": [
+            "Brz odgovor je spriječio probleme.",
+            "Brzi odgovor je spriječio probleme."
+          ]
+        },
+        {
+          "prompt": "Ця новина викликала дискусію.",
+          "accepted": [
+            "Ta vijest je izazvala raspravu."
+          ]
+        },
+        {
+          "prompt": "Цей курс вимагає вправ щодня.",
+          "accepted": [
+            "Ovaj tečaj zahtijeva vježbu svaki dan."
+          ]
+        },
+        {
+          "prompt": "Ця проблема складна.",
+          "accepted": [
+            "Ovaj problem je složen."
+          ]
+        },
+        {
+          "prompt": "Оскільки йде дощ, ми не йдемо.",
+          "accepted": [
+            "Budući da pada kiša, ne idemo.",
+            "Budući da kiša pada, ne idemo."
+          ]
+        },
+        {
+          "prompt": "Замість того щоб скаржитися, вона пише лист.",
+          "accepted": [
+            "Umjesto da se žali, ona piše pismo.",
+            "Umjesto da se žali, piše pismo."
+          ]
+        },
+        {
+          "prompt": "Завдяки пораді я не запізнилася.",
+          "accepted": [
+            "Zahvaljujući savjetu, nisam kasnila.",
+            "Zahvaljujući savjetu nisam kasnila."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "okolnostima",
+        "svrha",
+        "odnos",
+        "Ishod",
+        "Tijek",
+        "Veza",
+        "uzrokuje",
+        "omogućava",
+        "sprječava",
+        "izaziva",
+        "zahtijeva",
+        "podrazumijeva",
+        "složen",
+        "nužno",
+        "dovoljno"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "U tim ___ ne mogu doći.",
+          "hint": "За тих обставин не можу прийти.",
+          "accepted": [
+            [
+              "okolnostima"
+            ]
+          ]
+        },
+        {
+          "text": "Koja je ___ ovog pisma?",
+          "hint": "Яка мета цього листа?",
+          "accepted": [
+            [
+              "svrha"
+            ]
+          ]
+        },
+        {
+          "text": "Naš ___ je dobar.",
+          "hint": "Наші стосунки добрі.",
+          "accepted": [
+            [
+              "odnos"
+            ]
+          ]
+        },
+        {
+          "text": "___ razgovora je dobar.",
+          "hint": "Результат розмови добрий.",
+          "accepted": [
+            [
+              "Ishod",
+              "ishod"
+            ]
+          ]
+        },
+        {
+          "text": "___ sastanka je bio dug.",
+          "hint": "Перебіг зустрічі був довгий.",
+          "accepted": [
+            [
+              "Tijek",
+              "tijek"
+            ]
+          ]
+        },
+        {
+          "text": "___ s internetom je loša.",
+          "hint": "Зв'язок з інтернетом поганий.",
+          "accepted": [
+            [
+              "Veza",
+              "veza"
+            ]
+          ]
+        },
+        {
+          "text": "Taj kvar ___ veliko kašnjenje.",
+          "hint": "Та поломка спричиняє велике запізнення.",
+          "accepted": [
+            [
+              "uzrokuje"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj uređaj ___ rad od kuće.",
+          "hint": "Цей пристрій дає змогу працювати вдома.",
+          "accepted": [
+            [
+              "omogućava"
+            ]
+          ]
+        },
+        {
+          "text": "Brz majstor ___ veću štetu.",
+          "hint": "Швидкий майстер запобігає більшій шкоді.",
+          "accepted": [
+            [
+              "sprječava"
+            ]
+          ]
+        },
+        {
+          "text": "Njegova izjava ___ komentare.",
+          "hint": "Його заява викликає коментарі.",
+          "accepted": [
+            [
+              "izaziva"
+            ]
+          ]
+        },
+        {
+          "text": "Taj tečaj ___ vježbu svaki dan.",
+          "hint": "Той курс вимагає вправ щодня.",
+          "accepted": [
+            [
+              "zahtijeva"
+            ]
+          ]
+        },
+        {
+          "text": "Taj plan ___ dobru organizaciju.",
+          "hint": "Той план передбачає добру організацію.",
+          "accepted": [
+            [
+              "podrazumijeva"
+            ]
+          ]
+        },
+        {
+          "text": "Ovaj problem je ___.",
+          "hint": "Ця проблема складна.",
+          "accepted": [
+            [
+              "složen"
+            ]
+          ]
+        },
+        {
+          "text": "Nije ___ da dođeš.",
+          "hint": "Не обов'язково, щоб ти приходив.",
+          "accepted": [
+            [
+              "nužno"
+            ]
+          ]
+        },
+        {
+          "text": "Vremena nema ___.",
+          "hint": "Часу не досить.",
+          "accepted": [
+            [
+              "dovoljno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Budući što je kasno, idem kući.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Budući da je kasno, idem kući."
+          ]
+        },
+        {
+          "prompt": "Cesta je zatvorena, tako što vlak ne ide.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Cesta je zatvorena, tako da vlak ne ide."
+          ]
+        },
+        {
+          "prompt": "Radim kako bih zaradim.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Radim kako bih zaradila.",
+            "Radim kako bih zaradio."
+          ]
+        },
+        {
+          "prompt": "Umjesto da čekati, nazovi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Umjesto da čekaš, nazovi.",
+            "Umjesto da čekaš, nazovite."
+          ]
+        },
+        {
+          "prompt": "Govori kao što sve zna.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Govori kao da sve zna."
+          ]
+        },
+        {
+          "prompt": "Od kad učim hrvatski, razumijem vijesti.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Otkako učim hrvatski, razumijem vijesti."
+          ]
+        },
+        {
+          "prompt": "Zahvaljujući pomoć susjeda, ulica je očišćena.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zahvaljujući pomoći susjeda, ulica je očišćena."
+          ]
+        },
+        {
+          "prompt": "Rekao je da vratiti će se sutra.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rekao je da će se vratiti sutra."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam odlučila.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam odlučila.",
+            "Ja sam danas odlučila."
+          ]
+        },
+        {
+          "prompt": "Mi zahtijevam objašnjenje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi zahtijevamo objašnjenje.",
+            "Zahtijevamo objašnjenje."
+          ]
+        },
+        {
+          "prompt": "Kiša uzrokovala probleme.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kiša je uzrokovala probleme."
+          ]
+        },
+        {
+          "prompt": "Udruga, koji organizira radionice, traži volontere.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Udruga, koja organizira radionice, traži volontere."
+          ]
+        },
+        {
+          "prompt": "Okolnost je nova.",
+          "cue": "-> мн.",
+          "accepted": [
+            "Okolnosti su nove."
+          ]
+        },
+        {
+          "prompt": "Majstor sprječava štetu.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Majstor je spriječio štetu."
+          ]
+        },
+        {
+          "prompt": "Veza je dobra.",
+          "cue": "-> заперечення",
+          "accepted": [
+            "Veza nije dobra."
+          ]
+        },
+        {
+          "prompt": "Radim i čekam.",
+          "cue": "-> Umjesto da ...",
+          "accepted": [
+            "Umjesto da čekam, radim."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Kiša ___ probleme na cesti.",
+          "cue": "uzrokovati",
+          "accepted": [
+            "uzrokuje"
+          ]
+        },
+        {
+          "text": "Kvar je ___ veliku štetu.",
+          "cue": "uzrokovati",
+          "accepted": [
+            "uzrokovao"
+          ]
+        },
+        {
+          "text": "Ta odluka nam je ___ novi početak.",
+          "cue": "omogućiti",
+          "accepted": [
+            "omogućila"
+          ]
+        },
+        {
+          "text": "Naša udruga ___ rad volontera.",
+          "cue": "omogućavati",
+          "accepted": [
+            "omogućava"
+          ]
+        },
+        {
+          "text": "Dobar savjet ___ pogreške.",
+          "cue": "sprječavati",
+          "accepted": [
+            "sprječava"
+          ]
+        },
+        {
+          "text": "Savjet je ___ pogrešku.",
+          "cue": "spriječiti",
+          "accepted": [
+            "spriječio"
+          ]
+        },
+        {
+          "text": "Ovo pitanje ___ raspravu.",
+          "cue": "izazivati",
+          "accepted": [
+            "izaziva"
+          ]
+        },
+        {
+          "text": "Ta vijest je ___ glasine.",
+          "cue": "izazvati",
+          "accepted": [
+            "izazvala"
+          ]
+        },
+        {
+          "text": "Taj posao ___ odgovornost.",
+          "cue": "zahtijevati",
+          "accepted": [
+            "zahtijeva"
+          ]
+        },
+        {
+          "text": "Oni ___ odgovor.",
+          "cue": "zahtijevati",
+          "accepted": [
+            "zahtijevaju"
+          ]
+        },
+        {
+          "text": "Ovaj savjet ___ znanje.",
+          "cue": "podrazumijevati",
+          "accepted": [
+            "podrazumijeva"
+          ]
+        },
+        {
+          "text": "Ti ___ puno od sebe.",
+          "cue": "zahtijevati",
+          "accepted": [
+            "zahtijevaš"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "обставина",
+          "answer": "okolnost"
+        },
+        {
+          "prompt": "мета, призначення",
+          "answer": "svrha"
+        },
+        {
+          "prompt": "стосунки",
+          "answer": "odnos"
+        },
+        {
+          "prompt": "підсумок, результат",
+          "answer": "ishod"
+        },
+        {
+          "prompt": "перебіг, хід",
+          "answer": "tijek"
+        },
+        {
+          "prompt": "зв'язок",
+          "answer": "veza"
+        },
+        {
+          "prompt": "складний",
+          "answer": "složen"
+        },
+        {
+          "prompt": "необхідний",
+          "answer": "nužan"
+        },
+        {
+          "prompt": "достатній",
+          "answer": "dovoljan"
+        },
+        {
+          "prompt": "оскільки",
+          "answer": "budući da"
+        },
+        {
+          "prompt": "так що",
+          "answer": "tako da"
+        },
+        {
+          "prompt": "замість того щоб",
+          "answer": "umjesto da"
+        },
+        {
+          "prompt": "наче, ніби",
+          "answer": "kao da"
+        },
+        {
+          "prompt": "відколи",
+          "answer": "otkako"
+        }
+      ],
+      "extra": [
+        "zahvaljujući",
+        "uzrokovati"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова: послухай і напиши.",
+      "words": [
+        "razlog",
+        "uvjet",
+        "savjet",
+        "tvrdnja",
+        "pretpostavka"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 41, 58, 57; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}

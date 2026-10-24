@@ -1,0 +1,1787 @@
+{
+  "id": "hr-les-62",
+  "lang": "hr",
+  "order": 62,
+  "status": "draft",
+  "author": "josip",
+  "service_words": [
+    "prošle",
+    "godine",
+    "u",
+    "našem",
+    "kvartu",
+    "srušena",
+    "stara",
+    "zgrada",
+    "na",
+    "njezinu",
+    "mjestu",
+    "gradi",
+    "se",
+    "nova",
+    "knjižnica",
+    "projekt",
+    "je",
+    "osnovala",
+    "udruga",
+    "stanovnika",
+    "radovi",
+    "ne",
+    "obavljaju",
+    "zbog",
+    "kiše",
+    "kad",
+    "bude",
+    "dovršena",
+    "bit",
+    "će",
+    "otvorena",
+    "za",
+    "sve",
+    "očekuje",
+    "da",
+    "prva",
+    "izložba",
+    "održati",
+    "rujnu",
+    "potrebno",
+    "još",
+    "nekoliko",
+    "mjeseci",
+    "to",
+    "vrijeme",
+    "sudionici",
+    "organiziraju",
+    "sastanke",
+    "naposljetku",
+    "poznato",
+    "dovršen",
+    "zahvaljujući",
+    "volonterima",
+    "dobar",
+    "dan",
+    "slušate",
+    "vijesti",
+    "prema",
+    "priopćenju",
+    "udruge",
+    "petnaest",
+    "volontera",
+    "zna",
+    "raditi",
+    "naknadno",
+    "objavljen",
+    "raspored",
+    "radionica",
+    "hvala",
+    "što",
+    "ste",
+    "slušali",
+    "jesi",
+    "li",
+    "vidio",
+    "ruši",
+    "jesam",
+    "kaže",
+    "tamo",
+    "knjižnica",
+    "zna",
+    "kada",
+    "ali",
+    "još",
+    "plan",
+    "preporučuje",
+    "prijavimo",
+    "kao",
+    "volonteri",
+    "ispuniti",
+    "obrazac",
+    "udruzi",
+    "započet",
+    "prostor",
+    "mjesto",
+    "uređeno",
+    "gradnju",
+    "do",
+    "sada",
+    "obavljeno",
+    "mnogo",
+    "posla",
+    "izgrađeni",
+    "zidovi",
+    "krov",
+    "provedena",
+    "anketa",
+    "među",
+    "rezultati",
+    "postupak",
+    "dugačak",
+    "cesta",
+    "ispred",
+    "zgrade",
+    "tako",
+    "autobus",
+    "ide",
+    "stanice",
+    "radovi",
+    "ističu",
+    "najveći",
+    "dio",
+    "obavili",
+    "most",
+    "škola",
+    "kuća",
+    "kuće",
+    "deset",
+    "prije",
+    "zgrade",
+    "lipnju",
+    "obrazac",
+    "ispunjen",
+    "bio",
+    "već",
+    "vrata",
+    "zatvorena",
+    "zatvaraju",
+    "osam",
+    "sati",
+    "takvi",
+    "dopisi",
+    "šalju",
+    "e-poštom",
+    "kuće",
+    "obnavljaju",
+    "svake",
+    "kasno",
+    "vlak",
+    "mora",
+    "govori",
+    "hrvatski",
+    "firma",
+    "direktor",
+    "ispunio",
+    "danas",
+    "sam",
+    "klub",
+    "stari",
+    "zid",
+    "srušen",
+    "škole",
+    "skupa",
+    "potrebna",
+    "mosta",
+    "treba",
+    "nam",
+    "stručnjaka",
+    "važno",
+    "rješenje",
+    "svi",
+    "sastanka",
+    "došli",
+    "posao",
+    "dokument",
+    "donesen",
+    "klupa",
+    "uklonjena",
+    "potvrda",
+    "izdana",
+    "osnovana"
+  ],
+  "notes": [
+    {
+      "id": "hr-42c15152",
+      "type": "noun",
+      "lemma": "projekt",
+      "gender": "m.",
+      "gen_sg": "projekta",
+      "plural": [
+        "projekti"
+      ],
+      "ua": "проєкт",
+      "audio": "hr-projekt.mp3",
+      "forms": [
+        "projekta",
+        "projektu",
+        "projekti",
+        "projekte",
+        "projektom"
+      ],
+      "explain_ua": "(Projekt je velik.) Projekt je plan za posao koji treba obaviti. Muški rod: projekt, projekta, projekti. Znajoma riječ, nastavci su važni: u projektu, na projektu. UA: проєкт. УВАГА ДО ВСЬОГО УРОКУ: проєкти, будівлі й події вигадані для вправ. Пояснення хорватською, коротко українською.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-86b62d3a",
+      "type": "noun",
+      "lemma": "gradnja",
+      "gender": "ž.",
+      "gen_sg": "gradnje",
+      "plural": [
+        "gradnje"
+      ],
+      "ua": "будівництво",
+      "audio": "hr-gradnja.mp3",
+      "forms": [
+        "gradnje",
+        "gradnju",
+        "gradnji",
+        "gradnjom"
+      ],
+      "explain_ua": "(Gradnja je skupa.) Gradnja je proces izgradnje kuće, mosta, ceste. Ženski rod na -ja: gradnja, gradnje, gradnju. Od graditi, sličan grad (L2): podsjetnik, ne etimologija. UA: будівництво.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-52150f12",
+      "type": "noun",
+      "lemma": "obnova",
+      "gender": "ž.",
+      "gen_sg": "obnove",
+      "plural": [
+        "obnove"
+      ],
+      "ua": "відновлення, ремонт",
+      "audio": "hr-obnova.mp3",
+      "forms": [
+        "obnove",
+        "obnovu",
+        "obnovi",
+        "obnovom"
+      ],
+      "explain_ua": "(Obnova je potrebna.) Obnova je popravak ili uređenje zgrade, ceste. Ženski rod na -a: obnova, obnove, obnovu. Od obnoviti (L51). UA: відновлення.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-5bf209d2",
+      "type": "noun",
+      "lemma": "otkriće",
+      "gender": "s.",
+      "gen_sg": "otkrića",
+      "plural": [
+        "otkrića"
+      ],
+      "ua": "відкриття",
+      "audio": "hr-otkrice.mp3",
+      "forms": [
+        "otkrića",
+        "otkriću",
+        "otkrićem"
+      ],
+      "explain_ua": "(Otkriće je važno.) Otkriće je nešto novo što je netko pronašao. Srednji rod: otkriće, otkrića, o otkriću. Od otkriti (dolje). UA: відкриття.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-e9686f1e",
+      "type": "noun",
+      "lemma": "mjera",
+      "gender": "ž.",
+      "gen_sg": "mjere",
+      "plural": [
+        "mjere"
+      ],
+      "ua": "захід, міра",
+      "audio": "hr-mjera.mp3",
+      "forms": [
+        "mjere",
+        "mjeru",
+        "mjeri",
+        "mjerom"
+      ],
+      "explain_ua": "(Mjera je privremena.) Mjera je radnja koju poduzimamo da riješimo problem; ima i značenje „veličina“. Ženski rod na -a: mjera, mjere, mjeru, genitiv množine mjera. UA: захід (і «міра»). Тільки слово: ніякої правової інформації про справжні заходи.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-3fab5fbb",
+      "type": "noun",
+      "lemma": "postupak",
+      "gender": "m.",
+      "gen_sg": "postupka",
+      "plural": [
+        "postupci"
+      ],
+      "ua": "процедура, хід дій",
+      "audio": "hr-postupak.mp3",
+      "forms": [
+        "postupka",
+        "postupku",
+        "postupci",
+        "postupke",
+        "postupkom"
+      ],
+      "explain_ua": "(Postupak je kratak.) Postupak je niz koraka kojima nešto radimo. Muški rod, nestalno a: postupak, postupka, postupci (k > c). Ima i značenje „ponašanje“ (loš postupak), ovdje samo „procedura“. UA: процедура.",
+      "check": "Форми з мого знання; друге значення (ponašanje) з мого знання."
+    },
+    {
+      "id": "hr-5c5155e0",
+      "type": "noun",
+      "lemma": "sudionik",
+      "gender": "m.",
+      "gen_sg": "sudionika",
+      "plural": [
+        "sudionici"
+      ],
+      "ua": "учасник",
+      "audio": "hr-sudionik.mp3",
+      "forms": [
+        "sudionika",
+        "sudioniku",
+        "sudionici",
+        "sudionike",
+        "sudionicima"
+      ],
+      "explain_ua": "(Sudionik čeka.) Sudionik je osoba koja sudjeluje (L51). Muški rod: sudionik, sudionika, sudionici (k > c). Ženski oblik sudionica. UA: учасник.",
+      "check": "Форми з мого знання; жіночу форму не звіряв."
+    },
+    {
+      "id": "hr-2dd01bea",
+      "type": "verb",
+      "lemma": "izgraditi",
+      "aspect": "pf.",
+      "partner": "izgrađivati",
+      "pres_1sg": "izgradim",
+      "forms": [
+        "izgradim",
+        "izgradiš",
+        "izgradi",
+        "izgradimo",
+        "izgradite",
+        "izgrade",
+        "izgradila",
+        "izgradili",
+        "izgradio",
+        "izgrađen",
+        "izgrađena",
+        "izgrađeno",
+        "izgrađeni",
+        "izgrađivati",
+        "izgrađujem",
+        "izgrađuješ",
+        "izgrađuje",
+        "izgrađujemo",
+        "izgrađujete",
+        "izgrađuju"
+      ],
+      "ua": "збудувати (недок. izgrađivati)",
+      "audio": "hr-izgraditi.mp3",
+      "explain_ua": "(Firma izgrađuje novu školu.) Par: izgraditi (sv.) / izgrađivati (nesv.): izgradim / izgrađujem, d > đ. Trpni pridjev: izgrađen, izgrađena, izgrađeno (most je izgrađen). Akuzativ: izgraditi most. UA: збудувати.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (d > đ)."
+    },
+    {
+      "id": "hr-5d509afe",
+      "type": "verb",
+      "lemma": "obaviti",
+      "aspect": "pf.",
+      "partner": "obavljati",
+      "pres_1sg": "obavim",
+      "forms": [
+        "obavim",
+        "obaviš",
+        "obavi",
+        "obavimo",
+        "obavite",
+        "obave",
+        "obavila",
+        "obavili",
+        "obavio",
+        "obavljen",
+        "obavljena",
+        "obavljeno",
+        "obavljati",
+        "obavljam",
+        "obavljaš",
+        "obavlja",
+        "obavljamo",
+        "obavljate",
+        "obavljaju"
+      ],
+      "ua": "виконати, здійснити (недок. obavljati)",
+      "audio": "hr-obaviti.mp3",
+      "explain_ua": "(Obavljam posao brzo.) Par: obaviti (sv.) / obavljati (nesv.): obavim / obavljam, v > vlj. Trpni pridjev obavljen. Akuzativ: obaviti posao, razgovor. UA: виконати.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (obavim; razlika od obavijestiti L40)."
+    },
+    {
+      "id": "hr-762d6b8a",
+      "type": "verb",
+      "lemma": "provesti",
+      "aspect": "pf.",
+      "partner": "provoditi",
+      "pres_1sg": "provedem",
+      "forms": [
+        "provedem",
+        "provedeš",
+        "provede",
+        "provedemo",
+        "provedete",
+        "provedu",
+        "proveo",
+        "provela",
+        "proveli",
+        "proveden",
+        "provedena",
+        "provedeno",
+        "provoditi",
+        "provodim",
+        "provodiš",
+        "provodi",
+        "provodimo",
+        "provodite",
+        "provode",
+        "provedeni",
+        "provodila"
+      ],
+      "ua": "провести (недок. provoditi)",
+      "audio": "hr-provesti.mp3",
+      "explain_ua": "(Provodimo anketu.) Par: provesti (sv.) / provoditi (nesv.): provedem / provodim; prošlo proveo, provela. Trpni pridjev proveden (anketa je provedena). Provesti anketu / vrijeme. UA: провести.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (provedem, proveo)."
+    },
+    {
+      "id": "hr-2db25c6a",
+      "type": "verb",
+      "lemma": "donijeti",
+      "aspect": "pf.",
+      "partner": "donositi",
+      "pres_1sg": "donesem",
+      "forms": [
+        "donesem",
+        "doneseš",
+        "donese",
+        "donesemo",
+        "donesete",
+        "donesu",
+        "donio",
+        "donijela",
+        "donijeli",
+        "donesen",
+        "donesena",
+        "doneseno",
+        "donositi",
+        "donosim",
+        "donosiš",
+        "donosi",
+        "donosimo",
+        "donosite",
+        "donose"
+      ],
+      "ua": "принести (недок. donositi)",
+      "audio": "hr-donijeti.mp3",
+      "explain_ua": "(Donosim dokument.) Par: donijeti (sv.) / donositi (nesv.): donesem / donosim; prošlo donio, donijela. Trpni pridjev donesen (dokument je donesen). Akuzativ: donijeti dokument. UA: принести.",
+      "check": "Пару та форми з мого знання за зразком nositi / odnijeti, звірити з hjp.znanje.hr (donesem, donio)."
+    },
+    {
+      "id": "hr-1f57e3a4",
+      "type": "verb",
+      "lemma": "ukloniti",
+      "aspect": "pf.",
+      "partner": "uklanjati",
+      "pres_1sg": "uklonim",
+      "forms": [
+        "uklonim",
+        "ukloniš",
+        "ukloni",
+        "uklonimo",
+        "uklonite",
+        "uklone",
+        "uklonila",
+        "uklonili",
+        "uklonio",
+        "uklonjen",
+        "uklonjena",
+        "uklonjeno",
+        "uklanjati",
+        "uklanjam",
+        "uklanjaš",
+        "uklanja",
+        "uklanjamo",
+        "uklanjate",
+        "uklanjaju"
+      ],
+      "ua": "прибрати, усунути (недок. uklanjati)",
+      "audio": "hr-ukloniti.mp3",
+      "explain_ua": "(Uklanjamo staru klupu.) Par: ukloniti (sv.) / uklanjati (nesv.): uklonim / uklanjam, n > nj u trpnom. Trpni pridjev uklonjen. Akuzativ: ukloniti klupu, kvar. UA: усунути.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-bef82a64",
+      "type": "verb",
+      "lemma": "izdati",
+      "aspect": "pf.",
+      "partner": "izdavati",
+      "pres_1sg": "izdam",
+      "forms": [
+        "izdam",
+        "izdaš",
+        "izda",
+        "izdamo",
+        "izdate",
+        "izdaju",
+        "izdala",
+        "izdali",
+        "izdao",
+        "izdan",
+        "izdana",
+        "izdano",
+        "izdavati",
+        "izdajem",
+        "izdaješ",
+        "izdaje",
+        "izdajemo",
+        "izdajete",
+        "izdaju"
+      ],
+      "ua": "видати (недок. izdavati)",
+      "audio": "hr-izdati.mp3",
+      "explain_ua": "(Škola izdaje potvrde.) Par: izdati (sv.) / izdavati (nesv.): izdam / izdajem. Trpni pridjev izdan (potvrda je izdana). Akuzativ: izdati potvrdu, knjigu. Ne miješaj s dati (L7). UA: видати (документ, книгу).",
+      "check": "Пару та форми з мого знання за зразком dati / davati, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-b16e0791",
+      "type": "verb",
+      "lemma": "otkriti",
+      "aspect": "pf.",
+      "partner": "otkrivati",
+      "pres_1sg": "otkrijem",
+      "forms": [
+        "otkrijem",
+        "otkriješ",
+        "otkrije",
+        "otkrijemo",
+        "otkrijete",
+        "otkriju",
+        "otkrila",
+        "otkrili",
+        "otkrio",
+        "otkriven",
+        "otkrivena",
+        "otkriveno",
+        "otkrivati",
+        "otkrivam",
+        "otkrivaš",
+        "otkriva",
+        "otkrivamo",
+        "otkrivate",
+        "otkrivaju"
+      ],
+      "ua": "відкрити, виявити (недок. otkrivati)",
+      "audio": "hr-otkriti.mp3",
+      "explain_ua": "(Stručnjak otkriva stari dvorac.) Par: otkriti (sv.) / otkrivati (nesv.): otkrijem / otkrivam. Trpni pridjev otkriven. Znači „pronaći nešto novo ili skriveno“. Nije isto što i otvoriti (L24). UA: виявити, відкрити (знайти нове).",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr."
+    },
+    {
+      "id": "hr-1543d9b6",
+      "type": "verb",
+      "lemma": "osnovati",
+      "aspect": "pf.",
+      "partner": "osnivati",
+      "pres_1sg": "osnujem",
+      "forms": [
+        "osnujem",
+        "osnuješ",
+        "osnuje",
+        "osnujemo",
+        "osnujete",
+        "osnuju",
+        "osnovala",
+        "osnovali",
+        "osnovao",
+        "osnovan",
+        "osnovana",
+        "osnovano",
+        "osnivati",
+        "osnivam",
+        "osnivaš",
+        "osniva",
+        "osnivamo",
+        "osnivate",
+        "osnivaju"
+      ],
+      "ua": "заснувати (недок. osnivati)",
+      "audio": "hr-osnovati.mp3",
+      "explain_ua": "(Udruga osniva novu knjižnicu.) Par: osnovati (sv.) / osnivati (nesv.): osnujem / osnivam. Trpni pridjev osnovan (udruga je osnovana). UA: заснувати.",
+      "check": "Пару та форми з мого знання, звірити з hjp.znanje.hr (osnujem)."
+    },
+    {
+      "id": "hr-d65a003c",
+      "type": "verb",
+      "lemma": "srušiti",
+      "aspect": "pf.",
+      "partner": "rušiti",
+      "pres_1sg": "srušim",
+      "forms": [
+        "srušim",
+        "srušiš",
+        "sruši",
+        "srušimo",
+        "srušite",
+        "sruše",
+        "srušila",
+        "srušili",
+        "srušio",
+        "srušen",
+        "srušena",
+        "srušeno",
+        "rušiti",
+        "rušim",
+        "rušiš",
+        "ruši",
+        "rušimo",
+        "rušite",
+        "ruše"
+      ],
+      "ua": "зруйнувати (недок. rušiti)",
+      "audio": "hr-srusiti.mp3",
+      "explain_ua": "(Rušimo staru zgradu.) Par: srušiti (sv.) / rušiti (nesv.): srušim / rušim. Trpni pridjev srušen. Akuzativ: srušiti zgradu. UA: зруйнувати.",
+      "check": "Пару та форми з мого знання."
+    },
+    {
+      "id": "hr-c9660a92",
+      "type": "verb",
+      "lemma": "dovršiti",
+      "aspect": "pf.",
+      "partner": "dovršavati",
+      "pres_1sg": "dovršim",
+      "forms": [
+        "dovršim",
+        "dovršiš",
+        "dovrši",
+        "dovršimo",
+        "dovršite",
+        "dovrše",
+        "dovršila",
+        "dovršili",
+        "dovršio",
+        "dovršen",
+        "dovršena",
+        "dovršeno",
+        "dovršavati",
+        "dovršavam",
+        "dovršavaš",
+        "dovršava",
+        "dovršavamo",
+        "dovršavate",
+        "dovršavaju",
+        "dovršeni"
+      ],
+      "ua": "завершити (недок. dovršavati)",
+      "audio": "hr-dovrsiti.mp3",
+      "explain_ua": "(Dovršavamo projekt.) Par: dovršiti (sv.) / dovršavati (nesv.): dovršim / dovršavam. Trpni pridjev dovršen. Slično završiti (L21), ali dovršiti znači „dovesti do kraja“. UA: завершити.",
+      "check": "Пару та форми з мого знання."
+    },
+    {
+      "id": "hr-0aac1d6e",
+      "type": "adjective",
+      "lemma": "potreban",
+      "fem": "potrebna",
+      "neut": "potrebno",
+      "ua": "потрібний",
+      "audio": "hr-potreban.mp3",
+      "forms": [
+        "potrebna",
+        "potrebno",
+        "potrebni",
+        "potrebne"
+      ],
+      "explain_ua": "(Obnova je potrebna.) Nestalno a: potreban, potrebna, potrebno. Bezlično: potrebno je + infinitiv ili da + prezent (potrebno je ispuniti obrazac). Riječ ste vidjeli od L57; sada je objašnjena. UA: потрібний; «потрібно».",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-afebca92",
+      "type": "adjective",
+      "lemma": "uobičajen",
+      "fem": "uobičajena",
+      "neut": "uobičajeno",
+      "ua": "звичайний, усталений",
+      "audio": "hr-uobicajen.mp3",
+      "forms": [
+        "uobičajena",
+        "uobičajeno",
+        "uobičajeni",
+        "uobičajene"
+      ],
+      "explain_ua": "(To je uobičajen postupak.) Nestalno e: uobičajen, uobičajena. Uobičajeno je da + prezent = звично, що. Od običaj (L39). UA: звичайний.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-ae931382",
+      "type": "adjective",
+      "lemma": "privremen",
+      "fem": "privremena",
+      "neut": "privremeno",
+      "ua": "тимчасовий",
+      "audio": "hr-privremen.mp3",
+      "forms": [
+        "privremena",
+        "privremeno",
+        "privremeni",
+        "privremene"
+      ],
+      "explain_ua": "(To je privremeno rješenje.) Nestalno e: privremen, privremena. Privremeno kao prilog = тимчасово. Suprotno stalan. UA: тимчасовий.",
+      "check": "Форми з мого знання."
+    },
+    {
+      "id": "hr-b1fe7477",
+      "type": "function",
+      "lemma": "ponovno",
+      "ua": "знову, наново",
+      "audio": "hr-ponovno.mp3",
+      "forms": [],
+      "explain_ua": "(Vlak ponovno ide do mora.) Prilog „još jednom“. Isti smisao kao opet (L35), malo svečaniji. Stoji uz glagol ili na početku. UA: знову, наново.",
+      "check": "Значення та вживання з мого знання."
+    },
+    {
+      "id": "hr-ccd83e8c",
+      "type": "function",
+      "lemma": "naknadno",
+      "ua": "пізніше, згодом",
+      "audio": "hr-naknadno.mp3",
+      "forms": [],
+      "explain_ua": "(Raspored će biti objavljen naknadno.) Prilog „poslije, kasnije, nakon prvog dijela“. Stoji uz glagol ili na početku. UA: згодом, додатково.",
+      "check": "Значення та вживання з мого знання."
+    }
+  ],
+  "rule": [
+    {
+      "title_ua": "Biti + trpni pridjev: rezultat radnje",
+      "summary_ua": "Trpni pridjev (na -n ili -t) pokazuje stanje nakon radnje: most je izgrađen, vrata su zatvorena. Slaže se u rodu i broju s imenicom. Vrijeme pokazuje pomoćni glagol: je, bio je, bit će. UA: біти + пасивний дієприкметник = результат; узгоджується за родом і числом.",
+      "compare": [
+        {
+          "form": "je / su + particip",
+          "when_ua": "Radnja je gotova.",
+          "examples": [
+            {
+              "text": "Kuća je izgrađena prije deset godina.",
+              "ua": "Будинок збудований десять років тому.",
+              "audio": "hr-les62-rule-01.mp3"
+            },
+            {
+              "text": "Obrazac je već bio ispunjen.",
+              "ua": "Бланк уже був заповнений.",
+              "audio": "hr-les62-rule-02.mp3"
+            }
+          ],
+          "note_ua": "Kuća (ž.) = izgrađena; obrazac (m.) = ispunjen. Bio je već: klitik je odmah poslije bio."
+        },
+        {
+          "form": "bit će + particip",
+          "when_ua": "Budućnost.",
+          "examples": [
+            {
+              "text": "Zgrada će biti dovršena u lipnju.",
+              "ua": "Будівлю завершать у червні.",
+              "audio": "hr-les62-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Će biti dovršena; zgrada će: će na drugom mjestu."
+        }
+      ],
+      "points_ua": [
+        "Je izgrađen / su izgrađeni: rod i broj.",
+        "Bio je, bit će: vrijeme pomoćnim glagolom."
+      ]
+    },
+    {
+      "title_ua": "Se-pasiv: radnja u tijeku ili navika",
+      "summary_ua": "Se-pasiv pokazuje radnju koja traje ili se ponavlja: škola se gradi, kuće se obnavljaju. Glagol se slaže s imenicom (škola se gradi, kuće se obnavljaju). Usporedi: vrata su zatvorena (stanje), vrata se zatvaraju u osam (radnja). UA: se-пасив = процес або звичка.",
+      "compare": [
+        {
+          "form": "se + glagol (nesvršeni)",
+          "when_ua": "Radnja traje.",
+          "examples": [
+            {
+              "text": "Nova škola se gradi.",
+              "ua": "Нова школа будується.",
+              "audio": "hr-les62-rule-04.mp3"
+            },
+            {
+              "text": "Takvi dopisi se šalju e-poštom.",
+              "ua": "Такі листи надсилають електронною поштою.",
+              "audio": "hr-les62-rule-05.mp3"
+            }
+          ],
+          "note_ua": "Škola se gradi: se odmah poslije prve skupine riječi. Dopisi se šalju: množina."
+        },
+        {
+          "form": "stanje vs. radnja",
+          "when_ua": "Razlika.",
+          "examples": [
+            {
+              "text": "Vrata su zatvorena, a ponekad se zatvaraju u osam sati.",
+              "ua": "Двері зачинені, а інколи зачиняються о восьмій.",
+              "audio": "hr-les62-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Su zatvorena = rezultat; se zatvaraju = proces."
+        }
+      ],
+      "points_ua": [
+        "Se + nesvršeni glagol = radnja ili navika.",
+        "Glagol se slaže s imenicom."
+      ]
+    },
+    {
+      "title_ua": "Bezlične konstrukcije: kaže se, potrebno je, mora se",
+      "summary_ua": "Bezlično nema određenog vršitelja: Kaže se da ..., Očekuje se da ..., Zna se da ..., Potrebno je ..., Mora se ..., Preporučuje se ... . Dobro je za vijesti i upute. UA: безособові речення.",
+      "compare": [
+        {
+          "form": "kaže se / očekuje se / zna se da ...",
+          "when_ua": "Opće tvrdnje.",
+          "examples": [
+            {
+              "text": "Kaže se da će tamo biti knjižnica.",
+              "ua": "Кажуть, що там буде бібліотека.",
+              "audio": "hr-les62-rule-07.mp3"
+            },
+            {
+              "text": "Zna se da je projekt velik.",
+              "ua": "Відомо, що проєкт великий.",
+              "audio": "hr-les62-rule-08.mp3"
+            }
+          ],
+          "note_ua": "Da + rečenica. Se odmah poslije glagola ili prve riječi."
+        },
+        {
+          "form": "potrebno je / mora se",
+          "when_ua": "Uputa, nužnost.",
+          "examples": [
+            {
+              "text": "Potrebno je ispuniti obrazac u udruzi.",
+              "ua": "Потрібно заповнити бланк в об'єднанні.",
+              "audio": "hr-les62-rule-09.mp3"
+            },
+            {
+              "text": "Mora se platiti u roku od osam dana.",
+              "ua": "Треба заплатити протягом восьми днів.",
+              "audio": "hr-les62-rule-10.mp3"
+            }
+          ],
+          "note_ua": "Potrebno je + infinitiv (ispuniti). Mora se platiti: se poslije mora. Rok iz L36."
+        }
+      ],
+      "points_ua": [
+        "Kaže se da; zna se da; očekuje se da.",
+        "Potrebno je + infinitiv; mora se + infinitiv."
+      ]
+    },
+    {
+      "title_ua": "Aktiv je češći: vršitelj radnje i „od strane“",
+      "summary_ua": "Hrvatski voli aktiv. Ako vršitelj nije važan, izostavi ga (most je izgrađen). Ako je važan, reci u aktivu: most je izgradila firma. „Od strane“ (most je izgrađen od strane firme) zvuči službeno i često se smatra kalkom (check). Nemoj kopirati englesku strukturu „by + agent“. UA: частіше активний стан; «від боку» вважають калькою.",
+      "compare": [
+        {
+          "form": "izostavi vršitelja",
+          "when_ua": "Vršitelj nije važan.",
+          "examples": [
+            {
+              "text": "Anketa je provedena u kvartu.",
+              "ua": "Опитування проведено в районі.",
+              "audio": "hr-les62-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Provedena (ž.) = anketa. Bez „od strane“."
+        },
+        {
+          "form": "aktiv s vršiteljem",
+          "when_ua": "Vršitelj je važan.",
+          "examples": [
+            {
+              "text": "Projekt je osnovala udruga stanovnika.",
+              "ua": "Проєкт заснувало об'єднання мешканців.",
+              "audio": "hr-les62-rule-12.mp3"
+            },
+            {
+              "text": "Igralište je obnovljeno zahvaljujući volonterima.",
+              "ua": "Майданчик відновлено завдяки волонтерам.",
+              "audio": "hr-les62-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Osnovala je udruga (aktiv). Zahvaljujući + dativ (L61): hvale volonterima umjesto „od strane“."
+        }
+      ],
+      "points_ua": [
+        "Vršitelj nevažan: izostavi.",
+        "Vršitelj važan: aktiv ili zahvaljujući + D.",
+        "„Od strane“ izbjegavaj (check)."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Projekt je velik.",
+      "ua": "Проєкт великий.",
+      "audio": "hr-les62-example-01.mp3"
+    },
+    {
+      "text": "Gradnja je skupa.",
+      "ua": "Будівництво дороге.",
+      "audio": "hr-les62-example-02.mp3"
+    },
+    {
+      "text": "Obnova je potrebna.",
+      "ua": "Відновлення потрібне.",
+      "audio": "hr-les62-example-03.mp3"
+    },
+    {
+      "text": "Otkriće je važno.",
+      "ua": "Відкриття важливе.",
+      "audio": "hr-les62-example-04.mp3"
+    },
+    {
+      "text": "Mjera je privremena.",
+      "ua": "Захід тимчасовий.",
+      "audio": "hr-les62-example-05.mp3"
+    },
+    {
+      "text": "Postupak je kratak.",
+      "ua": "Процедура коротка.",
+      "audio": "hr-les62-example-06.mp3"
+    },
+    {
+      "text": "Sudionik čeka.",
+      "ua": "Учасник чекає.",
+      "audio": "hr-les62-example-07.mp3"
+    },
+    {
+      "text": "Firma izgrađuje novu školu.",
+      "ua": "Фірма будує нову школу.",
+      "audio": "hr-les62-example-08.mp3"
+    },
+    {
+      "text": "Obavljam posao brzo.",
+      "ua": "Виконую роботу швидко.",
+      "audio": "hr-les62-example-09.mp3"
+    },
+    {
+      "text": "Provodimo anketu.",
+      "ua": "Проводимо опитування.",
+      "audio": "hr-les62-example-10.mp3"
+    },
+    {
+      "text": "Donosim dokument.",
+      "ua": "Приношу документ.",
+      "audio": "hr-les62-example-11.mp3"
+    },
+    {
+      "text": "Uklanjamo staru klupu.",
+      "ua": "Прибираємо стару лавку.",
+      "audio": "hr-les62-example-12.mp3"
+    },
+    {
+      "text": "Škola izdaje potvrde.",
+      "ua": "Школа видає довідки.",
+      "audio": "hr-les62-example-13.mp3"
+    },
+    {
+      "text": "Stručnjak otkriva stari dvorac.",
+      "ua": "Експерт виявляє старий замок.",
+      "audio": "hr-les62-example-14.mp3"
+    },
+    {
+      "text": "Udruga osniva novu knjižnicu.",
+      "ua": "Об'єднання засновує нову бібліотеку.",
+      "audio": "hr-les62-example-15.mp3"
+    },
+    {
+      "text": "Rušimo staru zgradu.",
+      "ua": "Руйнуємо стару будівлю.",
+      "audio": "hr-les62-example-16.mp3"
+    },
+    {
+      "text": "Dovršavamo projekt.",
+      "ua": "Завершуємо проєкт.",
+      "audio": "hr-les62-example-17.mp3"
+    },
+    {
+      "text": "To je uobičajen postupak.",
+      "ua": "Це звичайна процедура.",
+      "audio": "hr-les62-example-18.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Nova knjižnica",
+    "title_ua": "Нова бібліотека",
+    "highlight": [
+      "hr-42c15152",
+      "hr-5c5155e0",
+      "hr-0aac1d6e",
+      "hr-ae931382",
+      "hr-b1fe7477"
+    ],
+    "sentences": [
+      {
+        "text": "Prošle godine je u našem kvartu srušena stara zgrada.",
+        "ua": "Торік у нашому районі зруйнували стару будівлю.",
+        "audio": "hr-les62-reading-01.mp3"
+      },
+      {
+        "text": "Na njezinu mjestu gradi se nova knjižnica.",
+        "ua": "На її місці будується нова бібліотека.",
+        "audio": "hr-les62-reading-02.mp3"
+      },
+      {
+        "text": "Projekt je osnovala udruga stanovnika.",
+        "ua": "Проєкт заснувало об'єднання мешканців.",
+        "audio": "hr-les62-reading-03.mp3"
+      },
+      {
+        "text": "Radovi se zbog kiše privremeno ne obavljaju.",
+        "ua": "Роботи через дощ тимчасово не виконуються.",
+        "audio": "hr-les62-reading-04.mp3"
+      },
+      {
+        "text": "Kad bude dovršena, knjižnica će biti otvorena za sve.",
+        "ua": "Коли її завершать, бібліотеку відкриють для всіх.",
+        "audio": "hr-les62-reading-05.mp3"
+      },
+      {
+        "text": "Očekuje se da će se prva izložba održati u rujnu.",
+        "ua": "Очікується, що перша виставка відбудеться у вересні.",
+        "audio": "hr-les62-reading-06.mp3"
+      },
+      {
+        "text": "Potrebno je još nekoliko mjeseci.",
+        "ua": "Потрібно ще кілька місяців.",
+        "audio": "hr-les62-reading-07.mp3"
+      },
+      {
+        "text": "Za to vrijeme sudionici ponovno organiziraju sastanke.",
+        "ua": "За цей час учасники знову організують зустрічі.",
+        "audio": "hr-les62-reading-08.mp3"
+      },
+      {
+        "text": "Naposljetku, poznato je da je projekt dovršen zahvaljujući volonterima.",
+        "ua": "Нарешті, відомо, що проєкт завершено завдяки волонтерам.",
+        "audio": "hr-les62-reading-09.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай новини з радіо. Відповідай одним-двома словами. Текст можна показати після відповідей.",
+      "audio": "hr-les-62-radio.mp3",
+      "audio_text": "Dobar dan, slušate vijesti. Prema priopćenju udruge, nova knjižnica u kvartu bit će otvorena u rujnu. Stara zgrada srušena je prošle godine, a projekt je osnovala udruga stanovnika. Očekuje se da će u knjižnici raditi petnaest volontera. Zna se da se radovi zbog kiše privremeno ne obavljaju. Naknadno će biti objavljen i raspored radionica. Hvala što ste slušali.",
+      "items": [
+        {
+          "prompt": "Коли відкриють бібліотеку? (місяць)",
+          "accepted": [
+            "rujan",
+            "u rujnu",
+            "rujnu"
+          ]
+        },
+        {
+          "prompt": "Стару будівлю зруйнували торік.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Скільки волонтерів, як очікується? (число)",
+          "accepted": [
+            "petnaest",
+            "15",
+            "petnaest volontera"
+          ]
+        },
+        {
+          "prompt": "Роботи зараз тривають без перерви.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Що опублікують пізніше? (два слова)",
+          "accepted": [
+            "raspored radionica",
+            "raspored"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай розмову двох сусідів і вибери або впиши відповіді.",
+      "audio": "hr-les-62-neighbours.mp3",
+      "lines": [
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Jesi li vidio da se ruši stara zgrada?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Jesam. Kaže se da će tamo biti knjižnica."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Zna li se kada će biti dovršena?"
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Očekuje se da će biti otvorena u rujnu, ali to je još privremeni plan."
+        },
+        {
+          "speaker": "A",
+          "voice": "a",
+          "text": "Preporučuje se da se prijavimo kao volonteri."
+        },
+        {
+          "speaker": "B",
+          "voice": "b",
+          "text": "Potrebno je ispuniti obrazac u udruzi."
+        }
+      ],
+      "items": [
+        {
+          "prompt": "Що відбувається зі старою будівлею?",
+          "choices": [
+            "Її руйнують",
+            "Її ремонтують",
+            "Її продають"
+          ],
+          "accepted": [
+            "Її руйнують"
+          ]
+        },
+        {
+          "prompt": "Кажуть, що там буде бібліотека.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Коли очікується відкриття? (місяць)",
+          "accepted": [
+            "rujan",
+            "u rujnu",
+            "rujnu"
+          ]
+        },
+        {
+          "prompt": "План уже остаточний.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Що треба заповнити? (одне слово)",
+          "accepted": [
+            "obrazac"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "comprehension",
+      "instruction_ua": "Прочитай звіт про проєкт (вигаданий) і дай відповіді. Текст видно, поки ти відповідаєш.",
+      "audio": "hr-les-62-report.mp3",
+      "passage": {
+        "title": "Izvješće o projektu",
+        "paragraphs": [
+          "Projekt nove knjižnice započet je prošle godine. Stara zgrada je srušena, a mjesto je uređeno za gradnju.",
+          "Do sada je obavljeno mnogo posla. Izgrađeni su zidovi i krov. Provedena je anketa među stanovnicima, a rezultati će biti objavljeni naknadno.",
+          "Postupak je dugačak, pa je potrebno još nekoliko mjeseci. Privremeno je zatvorena i cesta ispred zgrade, tako da autobus ne ide do stanice. Ponovno će biti otvorena kad radovi budu dovršeni.",
+          "Sudionici projekta ističu da su volonteri obavili najveći dio posla."
+        ]
+      },
+      "items": [
+        {
+          "prompt": "Стару будівлю зруйновано.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        },
+        {
+          "prompt": "Що вже збудовано? (два слова)",
+          "accepted": [
+            "zidovi i krov",
+            "zidovi",
+            "krov"
+          ]
+        },
+        {
+          "prompt": "Результати опитування вже опубліковані.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Неправда"
+          ]
+        },
+        {
+          "prompt": "Яка дорога тимчасово закрита? (місце)",
+          "accepted": [
+            "ispred zgrade",
+            "cesta ispred zgrade"
+          ]
+        },
+        {
+          "prompt": "Найбільшу частину роботи виконали волонтери.",
+          "choices": [
+            "Правда",
+            "Неправда"
+          ],
+          "accepted": [
+            "Правда"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Цей проєкт дорогий.",
+          "accepted": [
+            "Ovaj projekt je skup."
+          ]
+        },
+        {
+          "prompt": "Будівництво мосту потрібне.",
+          "accepted": [
+            "Gradnja mosta je potrebna."
+          ]
+        },
+        {
+          "prompt": "Нам потрібен ремонт.",
+          "accepted": [
+            "Treba nam obnova.",
+            "Potrebna nam je obnova."
+          ]
+        },
+        {
+          "prompt": "Це тимчасове рішення.",
+          "accepted": [
+            "To je privremeno rješenje."
+          ]
+        },
+        {
+          "prompt": "Процедура складна.",
+          "accepted": [
+            "Postupak je složen."
+          ]
+        },
+        {
+          "prompt": "Усі учасники зустрічі прийшли.",
+          "accepted": [
+            "Svi sudionici sastanka su došli.",
+            "Svi su sudionici sastanka došli."
+          ]
+        },
+        {
+          "prompt": "Міст збудований торік.",
+          "accepted": [
+            "Most je izgrađen prošle godine."
+          ]
+        },
+        {
+          "prompt": "Робота виконана.",
+          "accepted": [
+            "Posao je obavljen."
+          ]
+        },
+        {
+          "prompt": "Опитування проведене.",
+          "accepted": [
+            "Anketa je provedena."
+          ]
+        },
+        {
+          "prompt": "Документ принесено.",
+          "accepted": [
+            "Dokument je donesen."
+          ]
+        },
+        {
+          "prompt": "Стару лавку прибрали.",
+          "accepted": [
+            "Stara klupa je uklonjena."
+          ]
+        },
+        {
+          "prompt": "Довідку видано.",
+          "accepted": [
+            "Potvrda je izdana."
+          ]
+        },
+        {
+          "prompt": "Старий мур зруйновано.",
+          "accepted": [
+            "Stari zid je srušen."
+          ]
+        },
+        {
+          "prompt": "Бібліотеку засновано торік.",
+          "accepted": [
+            "Knjižnica je osnovana prošle godine."
+          ]
+        },
+        {
+          "prompt": "Проєкт завершено.",
+          "accepted": [
+            "Projekt je dovršen."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "projekt",
+        "Gradnja",
+        "obnova",
+        "otkriće",
+        "mjera",
+        "sudionici",
+        "postupak",
+        "potrebno",
+        "uobičajeno",
+        "privremeno",
+        "ponovno",
+        "naknadno"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Naš ___ je velik.",
+          "hint": "Наш проєкт великий.",
+          "accepted": [
+            [
+              "projekt"
+            ]
+          ]
+        },
+        {
+          "text": "___ škole je skupa.",
+          "hint": "Будівництво школи дороге.",
+          "accepted": [
+            [
+              "Gradnja",
+              "gradnja"
+            ]
+          ]
+        },
+        {
+          "text": "Zgradi treba ___.",
+          "hint": "Будівлі потрібне відновлення.",
+          "accepted": [
+            [
+              "obnova"
+            ]
+          ]
+        },
+        {
+          "text": "To je važno ___.",
+          "hint": "Це важливе відкриття.",
+          "accepted": [
+            [
+              "otkriće"
+            ]
+          ]
+        },
+        {
+          "text": "Nova ___ pomaže.",
+          "hint": "Новий захід допомагає.",
+          "accepted": [
+            [
+              "mjera"
+            ]
+          ]
+        },
+        {
+          "text": "Svi ___ čekaju.",
+          "hint": "Усі учасники чекають.",
+          "accepted": [
+            [
+              "sudionici"
+            ]
+          ]
+        },
+        {
+          "text": "Taj ___ je kratak.",
+          "hint": "Та процедура коротка.",
+          "accepted": [
+            [
+              "postupak"
+            ]
+          ]
+        },
+        {
+          "text": "Nije ___ da čekaš.",
+          "hint": "Не потрібно, щоб ти чекав.",
+          "accepted": [
+            [
+              "potrebno"
+            ]
+          ]
+        },
+        {
+          "text": "To je ___ pitanje.",
+          "hint": "Це звичайне питання.",
+          "accepted": [
+            [
+              "uobičajeno"
+            ]
+          ]
+        },
+        {
+          "text": "Imamo ___ rješenje.",
+          "hint": "Маємо тимчасове рішення.",
+          "accepted": [
+            [
+              "privremeno"
+            ]
+          ]
+        },
+        {
+          "text": "Vlak ___ ide do mora.",
+          "hint": "Поїзд знову їде до моря.",
+          "accepted": [
+            [
+              "ponovno"
+            ]
+          ]
+        },
+        {
+          "text": "Raspored će biti objavljen ___.",
+          "hint": "Розклад опублікують згодом.",
+          "accepted": [
+            [
+              "naknadno"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Most je izgrađena prije deset godina.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Most je izgrađen prije deset godina."
+          ]
+        },
+        {
+          "prompt": "Zgrada je srušen.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Zgrada je srušena."
+          ]
+        },
+        {
+          "prompt": "Knjižnica gradi se.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Knjižnica se gradi."
+          ]
+        },
+        {
+          "prompt": "Anketa je provedeni.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Anketa je provedena."
+          ]
+        },
+        {
+          "prompt": "Pisma se šalje e-poštom.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Pisma se šalju e-poštom."
+          ]
+        },
+        {
+          "prompt": "Kaže se što je kasno.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Kaže se da je kasno."
+          ]
+        },
+        {
+          "prompt": "Potrebno je da ispuniti obrazac.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Potrebno je ispuniti obrazac.",
+            "Potrebno je da ispunite obrazac."
+          ]
+        },
+        {
+          "prompt": "Obrazac je ispunio od strane direktora.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Direktor je ispunio obrazac.",
+            "Obrazac je ispunio direktor."
+          ]
+        },
+        {
+          "prompt": "Mi obavljam posao.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi obavljamo posao.",
+            "Obavljamo posao."
+          ]
+        },
+        {
+          "prompt": "Danas ja sam dovršila projekt.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam dovršila projekt.",
+            "Ja sam danas dovršila projekt."
+          ]
+        },
+        {
+          "prompt": "Projekt će dovršen biti u lipnju.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Projekt će biti dovršen u lipnju."
+          ]
+        },
+        {
+          "prompt": "Stari zid ruši se.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Stari zid se ruši."
+          ]
+        },
+        {
+          "prompt": "Firma izgrađuje školu.",
+          "cue": "-> пасив з se",
+          "accepted": [
+            "Škola se izgrađuje."
+          ]
+        },
+        {
+          "prompt": "Udruga je osnovala knjižnicu.",
+          "cue": "-> пасив з biti",
+          "accepted": [
+            "Knjižnica je osnovana."
+          ]
+        },
+        {
+          "prompt": "Projekt je dovršen.",
+          "cue": "-> майбутній час",
+          "accepted": [
+            "Projekt će biti dovršen."
+          ]
+        },
+        {
+          "prompt": "Anketa se provodi.",
+          "cue": "-> перфект",
+          "accepted": [
+            "Anketa je provedena.",
+            "Anketa se provodila."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Firma ___ novu školu.",
+          "cue": "izgrađivati",
+          "accepted": [
+            "izgrađuje"
+          ]
+        },
+        {
+          "text": "Firma je ___ školu.",
+          "cue": "izgraditi",
+          "accepted": [
+            "izgradila"
+          ]
+        },
+        {
+          "text": "Mi ___ posao svaki dan.",
+          "cue": "obavljati",
+          "accepted": [
+            "obavljamo"
+          ]
+        },
+        {
+          "text": "Jučer sam ___ posao.",
+          "cue": "obaviti",
+          "accepted": [
+            "obavila",
+            "obavio"
+          ]
+        },
+        {
+          "text": "Udruga ___ anketu.",
+          "cue": "provoditi",
+          "accepted": [
+            "provodi"
+          ]
+        },
+        {
+          "text": "Udruga je ___ anketu.",
+          "cue": "provesti",
+          "accepted": [
+            "provela"
+          ]
+        },
+        {
+          "text": "Mi ___ staru klupu.",
+          "cue": "uklanjati",
+          "accepted": [
+            "uklanjamo"
+          ]
+        },
+        {
+          "text": "Mi smo ___ klupu.",
+          "cue": "ukloniti",
+          "accepted": [
+            "uklonili"
+          ]
+        },
+        {
+          "text": "Škola ___ potvrde.",
+          "cue": "izdavati",
+          "accepted": [
+            "izdaje"
+          ]
+        },
+        {
+          "text": "Škola je ___ potvrdu.",
+          "cue": "izdati",
+          "accepted": [
+            "izdala"
+          ]
+        },
+        {
+          "text": "Oni ___ staru zgradu.",
+          "cue": "rušiti",
+          "accepted": [
+            "ruše"
+          ]
+        },
+        {
+          "text": "Oni su ___ zgradu.",
+          "cue": "srušiti",
+          "accepted": [
+            "srušili"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "проєкт",
+          "answer": "projekt"
+        },
+        {
+          "prompt": "будівництво",
+          "answer": "gradnja"
+        },
+        {
+          "prompt": "відновлення",
+          "answer": "obnova"
+        },
+        {
+          "prompt": "відкриття",
+          "answer": "otkriće"
+        },
+        {
+          "prompt": "захід, міра",
+          "answer": "mjera"
+        },
+        {
+          "prompt": "процедура",
+          "answer": "postupak"
+        },
+        {
+          "prompt": "учасник",
+          "answer": "sudionik"
+        },
+        {
+          "prompt": "потрібний",
+          "answer": "potreban"
+        },
+        {
+          "prompt": "звичайний",
+          "answer": "uobičajen"
+        },
+        {
+          "prompt": "тимчасовий",
+          "answer": "privremen"
+        },
+        {
+          "prompt": "знову, наново",
+          "answer": "ponovno"
+        },
+        {
+          "prompt": "згодом, додатково",
+          "answer": "naknadno"
+        },
+        {
+          "prompt": "збудувати",
+          "answer": "izgraditi"
+        },
+        {
+          "prompt": "видати (документ)",
+          "answer": "izdati"
+        }
+      ],
+      "extra": [
+        "osnovati",
+        "dovršiti"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою)",
+      "from": "notes",
+      "max": 14,
+      "note_types": [
+        "noun",
+        "adjective",
+        "function"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Старі слова з кварталу: послухай і напиши.",
+      "words": [
+        "knjižnica",
+        "udruga",
+        "igralište",
+        "radionica",
+        "zajednica"
+      ],
+      "max": 5,
+      "check": "Слова з Lekcija 51; перевірити, що кожне має ноту з аудіо."
+    }
+  ]
+}
