@@ -1,0 +1,1052 @@
+{
+  "id": "hr-les-07a",
+  "lang": "hr",
+  "order": 7.5,
+  "status": "draft",
+  "author": "josip",
+  "kind": "repair",
+  "service_words": [
+    "sutra",
+    "moram",
+    "ići",
+    "u",
+    "dućan",
+    "majka",
+    "voli",
+    "kruh",
+    "i",
+    "sir",
+    "voda",
+    "košta",
+    "jedan",
+    "euro",
+    "jabuke",
+    "koštaju",
+    "dva",
+    "eura",
+    "rođendan",
+    "je",
+    "dvanaestoga",
+    "svibnja",
+    "dijete",
+    "često",
+    "čita",
+    "knjigu",
+    "učiteljica",
+    "školi",
+    "prijatelju",
+    "hvala",
+    "želim",
+    "na",
+    "more",
+    "čitam",
+    "uči",
+    "kuća",
+    "gradu",
+    "četvrtak",
+    "idem",
+    "poštu",
+    "koliko",
+    "sirevi",
+    "prvoga",
+    "prosinca",
+    "majko",
+    "ovo",
+    "danas",
+    "smo",
+    "ovdje",
+    "dijete",
+    "kava",
+    "sok",
+    "kupujemo",
+    "kupujem",
+    "mlijeko",
+    "jedna",
+    "jabuka",
+    "pedeset",
+    "centi",
+    "dvije",
+    "ožujka",
+    "siječnja",
+    "dvadesetoga",
+    "listopada",
+    "kolovoza",
+    "moru",
+    "srpnju",
+    "gdje",
+    "knjiga",
+    "imam",
+    "školu",
+    "park",
+    "voljeti",
+    "ne",
+    "ali",
+    "ti",
+    "ja",
+    "mi",
+    "ona",
+    "on",
+    "oni",
+    "ona",
+    "ono",
+    "sam",
+    "si",
+    "smo",
+    "su",
+    "brat",
+    "kući",
+    "u",
+    "četvrtak",
+    "moramo",
+    "možemo",
+    "želimo",
+    "idemo",
+    "idu",
+    "ide",
+    "čitamo",
+    "učimo",
+    "čitaš",
+    "kupuješ",
+    "dućanu",
+    "banku",
+    "tržnicu",
+    "možeš",
+    "moraš",
+    "možete",
+    "kavu",
+    "sokovi",
+    "pet",
+    "jedan",
+    "dvadesetoga",
+    "petoga",
+    "svibanja",
+    "rujna",
+    "rujnu",
+    "srpnja",
+    "voda"
+  ],
+  "notes": [],
+  "rule": [
+    {
+      "title_ua": "ć чи č: пиши так, як у слові (ići, kuća, dućan, često, učiti, čitati)",
+      "summary_ua": "Хорватські č і ć можуть звучати майже однаково, навіть у корінних мовців, але ПИШУТЬСЯ по-різному, і застосунок вважає літеру з помилкою неправильною відповіддю. Тому слова вчимо з написанням. Твоя повторювана помилка: ići, а ти пишеш «iči». Слова з ć: ići, kuća, dućan. Слова з č: često, učiti, čitati, učiteljica, četvrtak. Слово з đ: rođendan. Літери dž у словах перших семи уроків ще не було: вона з'явиться пізніше.",
+      "compare": [
+        {
+          "form": "ć: ići, kuća, dućan",
+          "when_ua": "Ці три слова пиши з ć (м'якша, близька до українського «ть»). Інфінітив ići закінчується на -ići, не на «-iči».",
+          "examples": [
+            {
+              "text": "Brat voli ići u park.",
+              "ua": "Брат любить ходити в парк.",
+              "audio": "hr-les07a-rule-01.mp3"
+            },
+            {
+              "text": "Kuća i dućan su u gradu.",
+              "ua": "Будинок і магазин у місті.",
+              "audio": "hr-les07a-rule-02.mp3"
+            },
+            {
+              "text": "Sutra ne moram ići u školu.",
+              "ua": "Завтра мені не треба йти до школи.",
+              "audio": "hr-les07a-rule-03.mp3"
+            }
+          ],
+          "note_ua": "Підказка для пам'яті (не етимологія): ići ~ іти, обидва закінчуються на м'який звук. Тримай ići у голові як одну картинку з ć."
+        },
+        {
+          "form": "č: često, učiti, čitati, učiteljica, četvrtak",
+          "when_ua": "Ці п'ять слів пиши з č (твердіша, як українське «ч»). Звук ч в українській ти знаєш, тож č тобі природніша.",
+          "examples": [
+            {
+              "text": "Učiteljica često čita.",
+              "ua": "Вчителька часто читає.",
+              "audio": "hr-les07a-rule-04.mp3"
+            },
+            {
+              "text": "Dijete uči čitati.",
+              "ua": "Дитина вчиться читати.",
+              "audio": "hr-les07a-rule-05.mp3"
+            },
+            {
+              "text": "U četvrtak imam školu.",
+              "ua": "У четвер у мене школа.",
+              "audio": "hr-les07a-rule-06.mp3"
+            }
+          ],
+          "note_ua": "Правопис суворий, вимова гнучка: ти можеш вимовляти č і ć майже однаково, але писати мусиш по-різному."
+        },
+        {
+          "form": "đ у слові rođendan",
+          "when_ua": "У перших семи уроках є одне слово з đ: rođendan (день народження). Пиши đ з рискою, не «dj» і не «d».",
+          "examples": [
+            {
+              "text": "Rođendan je danas.",
+              "ua": "День народження сьогодні.",
+              "audio": "hr-les07a-rule-07.mp3"
+            }
+          ],
+          "note_ua": "Букви dž у перших семи уроках немає: її вчимо, коли вона з'явиться в слові."
+        }
+      ],
+      "points_ua": [
+        "ć: ići, kuća, dućan. č: često, učiti, čitati, učiteljica, četvrtak. đ: rođendan.",
+        "Вимова гнучка, правопис суворий: застосунок вважає «iči» помилкою.",
+        "dž в цих словах ще не було."
+      ]
+    },
+    {
+      "title_ua": "Koliko košta / koštaju: дієслово слухається іменника",
+      "summary_ua": "Дієслово koštati узгоджується з іменником: однина → košta, множина → koštaju. Koliko košta voda? (одна вода, однина.) Koliko koštaju vode? (кілька вод, множина: «води» як окремі пляшки). Твоя відповідь «Koliko koštaju vode?» граматично правильна, але завдання питало про ОДНУ воду, де voda в однині, тож потрібне košta voda. Українською так само: коштує вода, коштують води.",
+      "compare": [
+        {
+          "form": "košta + іменник в однині",
+          "when_ua": "Один предмет або речовина: voda, kruh, sir, mlijeko, jabuka.",
+          "examples": [
+            {
+              "text": "Mlijeko košta jedan euro.",
+              "ua": "Молоко коштує один євро.",
+              "audio": "hr-les07a-rule-08.mp3"
+            },
+            {
+              "text": "Jedna jabuka košta pedeset centi.",
+              "ua": "Одне яблуко коштує п'ятдесят центів.",
+              "audio": "hr-les07a-rule-09.mp3"
+            }
+          ],
+          "note_ua": "Voda, mlijeko, kruh — це однина, тож košta. Після jedan і jedna дієслово теж в однині."
+        },
+        {
+          "form": "koštaju + іменник у множині",
+          "when_ua": "Кілька предметів: jabuke, sirevi, sokovi; або число dva, dvije, pet.",
+          "examples": [
+            {
+              "text": "Dvije jabuke koštaju dva eura.",
+              "ua": "Два яблука коштують два євро.",
+              "audio": "hr-les07a-rule-10.mp3"
+            },
+            {
+              "text": "Kava i sok koštaju pet eura.",
+              "ua": "Кава й сік коштують п'ять євро.",
+              "audio": "hr-les07a-rule-11.mp3"
+            }
+          ],
+          "note_ua": "Dvije jabuke, kava i sok — множина, тому koštaju. Спершу подивись на іменник, потім вибирай дієслово."
+        }
+      ],
+      "points_ua": [
+        "Однина: košta. Множина: koštaju.",
+        "«Koliko koštaju vode?» питає про кілька вод. Про одну воду: «Koliko košta voda?»"
+      ]
+    },
+    {
+      "title_ua": "Дата: місяць у родовому, -a- випадає (svibanj > svibnja)",
+      "summary_ua": "У даті місяць стоїть у родовому відмінку, як в українській: п'ятого травня. Місяці на -anj (svibanj, lipanj, srpanj, travanj, siječanj), -an (rujan) і -ak (ožujak) втрачають -a- перед останнім приголосним: svibanj > svibnja, lipanj > lipnja, srpanj > srpnja, rujan > rujna, travanj > travnja, siječanj > siječnja, ožujak > ožujka. Але kolovoz > kolovoza, listopad > listopada, prosinac > prosinca. Форми svibanju та svibanja хибні: «svibanju» схоже на місцевий (u svibnju), а «svibanja» не випускає -a-.",
+      "compare": [
+        {
+          "form": "родовий: svibnja, lipnja, srpnja, rujna",
+          "when_ua": "Коли подія: день у родовому і місяць у родовому.",
+          "examples": [
+            {
+              "text": "Rođendan je dvanaestoga ožujka.",
+              "ua": "День народження дванадцятого березня.",
+              "audio": "hr-les07a-rule-12.mp3"
+            },
+            {
+              "text": "Rođendan je petoga siječnja.",
+              "ua": "День народження п'ятого січня.",
+              "audio": "hr-les07a-rule-13.mp3"
+            }
+          ],
+          "note_ua": "Ožujak > ožujka (-a- випадає перед k), siječanj > siječnja (-a- випадає перед nj)."
+        },
+        {
+          "form": "без випадіння: kolovoza, listopada, prosinca",
+          "when_ua": "Три місяці -a- не втрачають.",
+          "examples": [
+            {
+              "text": "Rođendan je dvadesetoga listopada.",
+              "ua": "День народження двадцятого жовтня.",
+              "audio": "hr-les07a-rule-14.mp3"
+            },
+            {
+              "text": "Majka je na moru prvoga kolovoza.",
+              "ua": "Мама на морі першого серпня.",
+              "audio": "hr-les07a-rule-15.mp3"
+            }
+          ],
+          "note_ua": "Kolovoz > kolovoza, listopad > listopada: тут нічого не випадає."
+        },
+        {
+          "form": "u svibnju — місцевий, а не дата",
+          "when_ua": "На питання «коли» без числа: u + місцевий (u srpnju).",
+          "examples": [
+            {
+              "text": "Rođendan je u srpnju.",
+              "ua": "День народження в липні.",
+              "audio": "hr-les07a-rule-16.mp3"
+            },
+            {
+              "text": "Rođendan je prvoga srpnja.",
+              "ua": "День народження першого липня.",
+              "audio": "hr-les07a-rule-17.mp3"
+            }
+          ],
+          "note_ua": "U srpnju (місяць) проти prvoga srpnja (дата). Поряд з числом — родовий, без числа — u + місцевий."
+        }
+      ],
+      "points_ua": [
+        "Дата = порядкове число + місяць у родовому: petoga svibnja.",
+        "svibanj > svibnja, srpanj > srpnja, rujan > rujna, lipanj > lipnja (a випадає).",
+        "kolovoz > kolovoza, listopad > listopada, prosinac > prosinca (a не випадає)."
+      ]
+    },
+    {
+      "title_ua": "Старі пастки з Lekcija 1: кличний, місце дієслова, закінчення, ije / lj",
+      "summary_ua": "Чотири речі з першого уроку, де ти ще іноді помиляєшся. Звертання: Majko, Prijatelju (не Majke, Prijatelj). Після Danas і Ovdje дієслово стоїть другим, без ja / mi / ti. Закінчення дієслова слухається займенника: mi kupujemo, ja kupujem. Правопис: dijete (ije), učiteljica (lj).",
+      "compare": [
+        {
+          "form": "кличний: Majko, Prijatelju",
+          "when_ua": "Жінка на -a дає -o: majka > Majko. Чоловік на приголосний дає -u: prijatelj > Prijatelju.",
+          "examples": [
+            {
+              "text": "Majko, gdje je knjiga?",
+              "ua": "Мамо, де книжка?",
+              "audio": "hr-les07a-rule-18.mp3"
+            },
+            {
+              "text": "Prijatelju, gdje je kruh?",
+              "ua": "Друже, де хліб?",
+              "audio": "hr-les07a-rule-19.mp3"
+            }
+          ],
+          "note_ua": "Тут допомагає УКРАЇНСЬКА: мамо, друже; Majko, Prijatelju (L1). Не Majke і не Prijatelj."
+        },
+        {
+          "form": "після Danas / Ovdje: дієслово другим",
+          "when_ua": "Sam, smo, si, je стоять на другому місці. Не вставляй ja, mi, ti перед ними.",
+          "examples": [
+            {
+              "text": "Danas smo ovdje.",
+              "ua": "Сьогодні ми тут.",
+              "audio": "hr-les07a-rule-20.mp3"
+            },
+            {
+              "text": "Sutra sam u gradu.",
+              "ua": "Завтра я в місті.",
+              "audio": "hr-les07a-rule-21.mp3"
+            }
+          ],
+          "note_ua": "Danas smo ovdje, не «Danas mi smo ovdje». Українське «сьогодні ми тут» теж без дієслова, тож ти можеш додати зайве mi."
+        },
+        {
+          "form": "mi kupujemo, ja kupujem; dijete, učiteljica",
+          "when_ua": "mi → -mo, ja → -m. Пиши ije в dijete і lj в učiteljica.",
+          "examples": [
+            {
+              "text": "Mi kupujemo kavu.",
+              "ua": "Ми купуємо каву.",
+              "audio": "hr-les07a-rule-22.mp3"
+            },
+            {
+              "text": "Ja kupujem sok.",
+              "ua": "Я купую сік.",
+              "audio": "hr-les07a-rule-23.mp3"
+            },
+            {
+              "text": "Dijete voli mlijeko.",
+              "ua": "Дитина любить молоко.",
+              "audio": "hr-les07a-rule-24.mp3"
+            },
+            {
+              "text": "Učiteljica voli kavu.",
+              "ua": "Вчителька любить каву.",
+              "audio": "hr-les07a-rule-25.mp3"
+            }
+          ],
+          "note_ua": "Не «djete» і не «učitelica»: dijete має ije, učiteljica має lj."
+        }
+      ],
+      "points_ua": [
+        "Majko, Prijatelju: кличний відмінок.",
+        "Danas smo ovdje: без ja / mi / ti.",
+        "Mi kupujemo, ja kupujem. Dijete, učiteljica."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Moram ići u dućan.",
+      "ua": "Мені треба йти в магазин.",
+      "audio": "hr-les07a-example-01.mp3"
+    },
+    {
+      "text": "Želim ići na more.",
+      "ua": "Хочу поїхати на море.",
+      "audio": "hr-les07a-example-02.mp3"
+    },
+    {
+      "text": "Često čitam knjigu.",
+      "ua": "Часто читаю книжку.",
+      "audio": "hr-les07a-example-03.mp3"
+    },
+    {
+      "text": "Učiteljica uči u školi.",
+      "ua": "Вчителька вчить у школі.",
+      "audio": "hr-les07a-example-04.mp3"
+    },
+    {
+      "text": "Kuća je u gradu.",
+      "ua": "Будинок у місті.",
+      "audio": "hr-les07a-example-05.mp3"
+    },
+    {
+      "text": "U četvrtak idem na poštu.",
+      "ua": "У четвер іду на пошту.",
+      "audio": "hr-les07a-example-06.mp3"
+    },
+    {
+      "text": "Koliko košta kruh?",
+      "ua": "Скільки коштує хліб?",
+      "audio": "hr-les07a-example-07.mp3"
+    },
+    {
+      "text": "Koliko koštaju sirevi?",
+      "ua": "Скільки коштують сири?",
+      "audio": "hr-les07a-example-08.mp3"
+    },
+    {
+      "text": "Rođendan je prvoga prosinca.",
+      "ua": "День народження першого грудня.",
+      "audio": "hr-les07a-example-09.mp3"
+    },
+    {
+      "text": "Majko, ovo je kuća.",
+      "ua": "Мамо, це будинок.",
+      "audio": "hr-les07a-example-10.mp3"
+    },
+    {
+      "text": "Danas smo u gradu.",
+      "ua": "Сьогодні ми в місті.",
+      "audio": "hr-les07a-example-11.mp3"
+    },
+    {
+      "text": "Dijete je ovdje.",
+      "ua": "Дитина тут.",
+      "audio": "hr-les07a-example-12.mp3"
+    }
+  ],
+  "reading": {
+    "title": "Sutra u dućan",
+    "title_ua": "Завтра в магазин",
+    "highlight": [],
+    "sentences": [
+      {
+        "text": "Sutra moram ići u dućan.",
+        "ua": "Завтра мені треба йти в магазин.",
+        "audio": "hr-les07a-reading-01.mp3"
+      },
+      {
+        "text": "Majka voli kruh i sir.",
+        "ua": "Мама любить хліб і сир.",
+        "audio": "hr-les07a-reading-02.mp3"
+      },
+      {
+        "text": "Voda košta jedan euro.",
+        "ua": "Вода коштує один євро.",
+        "audio": "hr-les07a-reading-03.mp3"
+      },
+      {
+        "text": "Jabuke koštaju dva eura.",
+        "ua": "Яблука коштують два євро.",
+        "audio": "hr-les07a-reading-04.mp3"
+      },
+      {
+        "text": "Rođendan je dvanaestoga svibnja.",
+        "ua": "День народження дванадцятого травня.",
+        "audio": "hr-les07a-reading-05.mp3"
+      },
+      {
+        "text": "Dijete često čita knjigu.",
+        "ua": "Дитина часто читає книжку.",
+        "audio": "hr-les07a-reading-06.mp3"
+      },
+      {
+        "text": "Učiteljica je u školi.",
+        "ua": "Вчителька в школі.",
+        "audio": "hr-les07a-reading-07.mp3"
+      },
+      {
+        "text": "Prijatelju, hvala!",
+        "ua": "Друже, дякую!",
+        "audio": "hr-les07a-reading-08.mp3"
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай речення. Відповідай одним словом, з літерами ć і č. Текст можна показати після відповідей.",
+      "audio": "hr-les-07a-spelling.mp3",
+      "audio_text": "Često idem u dućan. Brat čita knjigu u kući. Učiteljica je danas u školi. U četvrtak moramo ići u park. Kava košta dva eura.",
+      "items": [
+        {
+          "prompt": "Як часто я йду в магазин? (одне слово)",
+          "accepted": [
+            "često"
+          ]
+        },
+        {
+          "prompt": "Що читає брат? (одне слово)",
+          "accepted": [
+            "knjigu",
+            "knjiga"
+          ]
+        },
+        {
+          "prompt": "Де читає брат? (одне слово)",
+          "accepted": [
+            "kući",
+            "u kući"
+          ]
+        },
+        {
+          "prompt": "Коли треба йти в парк? (одне слово)",
+          "accepted": [
+            "četvrtak",
+            "u četvrtak"
+          ]
+        },
+        {
+          "prompt": "Скільки євро коштує кава? (число)",
+          "accepted": [
+            "dva",
+            "2",
+            "dva eura",
+            "2 eura"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Я хочу йти на пошту.",
+          "accepted": [
+            "Želim ići na poštu."
+          ]
+        },
+        {
+          "prompt": "Ми мусимо йти в банк.",
+          "accepted": [
+            "Moramo ići u banku.",
+            "Mi moramo ići u banku."
+          ]
+        },
+        {
+          "prompt": "Ми можемо йти на пошту.",
+          "accepted": [
+            "Možemo ići na poštu.",
+            "Mi možemo ići na poštu."
+          ]
+        },
+        {
+          "prompt": "Ми хочемо йти в парк.",
+          "accepted": [
+            "Želimo ići u park.",
+            "Mi želimo ići u park."
+          ]
+        },
+        {
+          "prompt": "Вона часто читає.",
+          "accepted": [
+            "Ona često čita.",
+            "Često čita."
+          ]
+        },
+        {
+          "prompt": "У четвер ми йдемо в магазин.",
+          "accepted": [
+            "U četvrtak idemo u dućan.",
+            "U četvrtak mi idemo u dućan."
+          ]
+        },
+        {
+          "prompt": "Скільки коштує вода?",
+          "accepted": [
+            "Koliko košta voda?"
+          ]
+        },
+        {
+          "prompt": "Скільки коштують яблука?",
+          "accepted": [
+            "Koliko koštaju jabuke?"
+          ]
+        },
+        {
+          "prompt": "День народження п'ятого травня.",
+          "accepted": [
+            "Rođendan je petoga svibnja.",
+            "Rođendan je petog svibnja."
+          ]
+        },
+        {
+          "prompt": "Друже, це книжка.",
+          "accepted": [
+            "Prijatelju, ovo je knjiga."
+          ]
+        },
+        {
+          "prompt": "Вона вчителька.",
+          "accepted": [
+            "Ona je učiteljica."
+          ]
+        },
+        {
+          "prompt": "Дитина вчиться.",
+          "accepted": [
+            "Dijete uči."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "ići",
+        "često",
+        "kuća",
+        "dućan",
+        "čitati",
+        "četvrtak",
+        "košta",
+        "koštaju",
+        "srpnja",
+        "rujna",
+        "svibnja",
+        "Majko",
+        "Prijatelju",
+        "Dijete"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Ti moraš ___ u školu.",
+          "hint": "Тобі треба йти до школи.",
+          "accepted": [
+            [
+              "ići"
+            ]
+          ]
+        },
+        {
+          "text": "Ti možeš ___ na tržnicu.",
+          "hint": "Ти можеш піти на ринок.",
+          "accepted": [
+            [
+              "ići"
+            ]
+          ]
+        },
+        {
+          "text": "Brat ___ čita.",
+          "hint": "Брат часто читає.",
+          "accepted": [
+            [
+              "često"
+            ]
+          ]
+        },
+        {
+          "text": "Ovo je ___.",
+          "hint": "Це будинок.",
+          "accepted": [
+            [
+              "kuća"
+            ]
+          ]
+        },
+        {
+          "text": "Idem u ___.",
+          "hint": "Іду в магазин.",
+          "accepted": [
+            [
+              "dućan"
+            ]
+          ]
+        },
+        {
+          "text": "Dijete voli ___ knjigu.",
+          "hint": "Дитина любить читати книжку.",
+          "accepted": [
+            [
+              "čitati"
+            ]
+          ]
+        },
+        {
+          "text": "Danas je ___, a sutra je petak.",
+          "hint": "Сьогодні четвер, а завтра п'ятниця.",
+          "accepted": [
+            [
+              "četvrtak"
+            ]
+          ]
+        },
+        {
+          "text": "Koliko ___ kava?",
+          "hint": "Скільки коштує кава?",
+          "accepted": [
+            [
+              "košta"
+            ]
+          ]
+        },
+        {
+          "text": "Koliko ___ dvije kave?",
+          "hint": "Скільки коштують дві кави?",
+          "accepted": [
+            [
+              "koštaju"
+            ]
+          ]
+        },
+        {
+          "text": "Brat ima rođendan petoga ___.",
+          "hint": "Брат має день народження п'ятого липня.",
+          "accepted": [
+            [
+              "srpnja"
+            ]
+          ]
+        },
+        {
+          "text": "Rođendan je petoga ___.",
+          "hint": "День народження п'ятого вересня.",
+          "accepted": [
+            [
+              "rujna"
+            ]
+          ]
+        },
+        {
+          "text": "___, ja sam ovdje.",
+          "hint": "Мамо, я тут.",
+          "accepted": [
+            [
+              "Majko",
+              "majko"
+            ]
+          ]
+        },
+        {
+          "text": "___, ovo je knjiga.",
+          "hint": "Друже, це книжка.",
+          "accepted": [
+            [
+              "Prijatelju",
+              "prijatelju"
+            ]
+          ]
+        },
+        {
+          "text": "___ čita knjigu.",
+          "hint": "Дитина читає книжку.",
+          "accepted": [
+            [
+              "Dijete",
+              "dijete"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Danas ja sam u dućanu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas sam u dućanu."
+          ]
+        },
+        {
+          "prompt": "Ovdje mi smo.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovdje smo."
+          ]
+        },
+        {
+          "prompt": "Danas majka je ovdje.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Danas je majka ovdje."
+          ]
+        },
+        {
+          "prompt": "Ovdje si ti.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovdje si."
+          ]
+        },
+        {
+          "prompt": "Mi kupujem kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Mi kupujemo kruh.",
+            "Kupujemo kruh."
+          ]
+        },
+        {
+          "prompt": "Možete iči u park.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Možete ići u park."
+          ]
+        },
+        {
+          "prompt": "Koliko koštaju voda?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Koliko košta voda?"
+          ]
+        },
+        {
+          "prompt": "Koliko košta jabuke?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Koliko koštaju jabuke?"
+          ]
+        },
+        {
+          "prompt": "Koliko koštaju sir?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Koliko košta sir?"
+          ]
+        },
+        {
+          "prompt": "Rođendan je petoga svibanja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je petoga svibnja.",
+            "Rođendan je petog svibnja."
+          ]
+        },
+        {
+          "prompt": "Rođendan je dvadesetoga rujnu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je dvadesetoga rujna.",
+            "Rođendan je dvadesetog rujna."
+          ]
+        },
+        {
+          "prompt": "Prijatelj, ovo je kuća.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Prijatelju, ovo je kuća."
+          ]
+        },
+        {
+          "prompt": "Mi smo ovdje.",
+          "cue": "-> почни з Ovdje",
+          "accepted": [
+            "Ovdje smo."
+          ]
+        },
+        {
+          "prompt": "Majka je ovdje.",
+          "cue": "-> почни з Danas",
+          "accepted": [
+            "Danas je majka ovdje."
+          ]
+        },
+        {
+          "prompt": "Sok košta pet eura.",
+          "cue": "-> мн. (sokovi)",
+          "accepted": [
+            "Sokovi koštaju pet eura."
+          ]
+        },
+        {
+          "prompt": "Ona kupuje sir.",
+          "cue": "-> ми (mi)",
+          "accepted": [
+            "Mi kupujemo sir."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Mi ___ kruh.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujemo"
+          ]
+        },
+        {
+          "text": "Ja ___ kruh.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupujem"
+          ]
+        },
+        {
+          "text": "Ti ___ sir.",
+          "cue": "kupovati",
+          "accepted": [
+            "kupuješ"
+          ]
+        },
+        {
+          "text": "Mi ___ u dućan.",
+          "cue": "ići",
+          "accepted": [
+            "idemo"
+          ]
+        },
+        {
+          "text": "Oni ___ u školu.",
+          "cue": "ići",
+          "accepted": [
+            "idu"
+          ]
+        },
+        {
+          "text": "Ona ___ na poštu.",
+          "cue": "ići",
+          "accepted": [
+            "ide"
+          ]
+        },
+        {
+          "text": "Ja ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitam"
+          ]
+        },
+        {
+          "text": "Mi ___ knjigu.",
+          "cue": "čitati",
+          "accepted": [
+            "čitamo"
+          ]
+        },
+        {
+          "text": "Ti ___ često.",
+          "cue": "čitati",
+          "accepted": [
+            "čitaš"
+          ]
+        },
+        {
+          "text": "Dijete ___ u školi.",
+          "cue": "učiti",
+          "accepted": [
+            "uči"
+          ]
+        },
+        {
+          "text": "Mi ___ u školi.",
+          "cue": "učiti",
+          "accepted": [
+            "učimo"
+          ]
+        },
+        {
+          "text": "Vi ___ u školi.",
+          "cue": "učiti",
+          "accepted": [
+            "učite"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "matching",
+      "instruction_ua": "З'єднай українське слово з хорватським. Два хорватські слова зайві: це неправильні написання, не бери їх.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "іти, їхати",
+          "answer": "ići"
+        },
+        {
+          "prompt": "будинок, дім",
+          "answer": "kuća"
+        },
+        {
+          "prompt": "магазин (розмовне)",
+          "answer": "dućan"
+        },
+        {
+          "prompt": "часто",
+          "answer": "često"
+        },
+        {
+          "prompt": "вчити, вчитися",
+          "answer": "učiti"
+        },
+        {
+          "prompt": "читати",
+          "answer": "čitati"
+        },
+        {
+          "prompt": "вчителька",
+          "answer": "učiteljica"
+        },
+        {
+          "prompt": "четвер",
+          "answer": "četvrtak"
+        },
+        {
+          "prompt": "день народження",
+          "answer": "rođendan"
+        },
+        {
+          "prompt": "дитина",
+          "answer": "dijete"
+        }
+      ],
+      "extra": [
+        "iči",
+        "kuča"
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою). Це слова, де ти найчастіше помиляєшся в ć / č, і місяці в родовому.",
+      "words": [
+        "ići",
+        "kuća",
+        "dućan",
+        "često",
+        "učiti",
+        "čitati",
+        "učiteljica",
+        "četvrtak",
+        "rođendan",
+        "dijete",
+        "svibanj",
+        "srpanj",
+        "rujan"
+      ],
+      "max": 13
+    }
+  ]
+}
