@@ -1073,8 +1073,8 @@
           ]
         },
         {
-          "text": "___ sam spavala.",
-          "hint": "Я не спала.",
+          "text": "___ spavala u školi.",
+          "hint": "Я не спала в школі.",
           "accepted": [
             [
               "Nisam"
