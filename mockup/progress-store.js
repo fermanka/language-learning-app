@@ -175,6 +175,7 @@
     const exercises = {};
     const stories = {};    // lesson id -> the latest story the learner sent for it
     const readings = {};   // lesson id -> the latest reading recording sent for it
+    const verified = {};   // note id -> the latest decision of the learner on a word marked for a native speaker
     for (const e of events) {
       if (e.type === 'lesson_done') lessons[e.lesson] = { done: true, at: e.t };
       else if (e.type === 'lesson_reset') {
@@ -185,6 +186,7 @@
         delete readings[e.lesson];   // the recording file itself stays in the folder, only the "sent" mark is forgotten
       } else if (e.type === 'story_submitted') stories[e.lesson] = { file: e.file, sentences: e.sentences, at: e.t };
       else if (e.type === 'recording_saved') readings[e.lesson] = { file: e.file, at: e.t };
+      else if (e.type === 'note_verified') verified[e.note] = { status: e.status, fix: e.fix, at: e.t };
       else if (e.type === 'exercise_checked') {
         const key = `${e.lesson}#${e.exercise}`;
         const x = exercises[key] || (exercises[key] = { attempts: 0, best: 0 });
@@ -193,7 +195,7 @@
         x.best = Math.max(x.best, e.ok);
       }
     }
-    return { lessons, exercises, readings, stories };
+    return { lessons, exercises, readings, stories, verified };
   }
 
   // How far a lesson is: its exercises (each counts by the share of right answers in the latest attempt) plus reading aloud

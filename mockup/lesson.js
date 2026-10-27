@@ -105,7 +105,7 @@ const dictationNotes = (lesson, ex, allLessons = [lesson]) => {
 
 // Words the teacher could not verify: a note with a "check" field (the reason) is shown with a "?" and listed
 // on the Words page, so a native speaker can be asked about them. Result: [{ order, note }] in lesson order.
-const flaggedNotes = (lessons) => lessons.flatMap((L) => L.notes.filter((n) => n.check).map((note) => ({ order: L.order, note })));
+const flaggedNotes = (lessons, verified = {}) => lessons.flatMap((L) => L.notes.filter((n) => n.check && !verified[n.id]).map((note) => ({ order: L.order, note })));
 
 if (typeof document === 'undefined') {
   module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes, flaggedNotes, sentenceOf };
@@ -156,26 +156,56 @@ if (typeof document === 'undefined') {
   }
   const iconBtn = (file) => { if (!file) return document.createTextNode(''); const b = el('button', 'icon'); b.title = 'Озвучка'; b.innerHTML = SPEAKER; b.onclick = () => play(file); return b; };
 
-  // A small "?" next to a word the teacher could not verify; a click shows why. Returns the button and the (hidden) reason.
+  // The learner's decision on a word marked for a native speaker (events "note_verified", the latest one wins):
+  // { status: 'ok' } the word is right, the mark is gone for good; { status: 'fix', fix } the speaker gave another form, it waits to be put into the lesson.
+  const verdictOf = (n) => (n.id ? log.state().verified[n.id] : undefined);
+  const pendingCheck = (n) => !!n.check && !verdictOf(n);
+  const fixLine = (v) => el('div', 'explain check-note', `Виправлення записано: ${v.fix}. Його внесуть в урок.`);
+
+  // Two buttons under the reason: "confirmed" and "fix" (a text field for the right form). `done` runs after a decision is saved.
+  function checkActions(n, done) {
+    const row = el('div', 'check-actions');
+    const ok = el('button', 'btn', '✓ Підтверджено'), fixBtn = el('button', 'btn', '✎ Виправити');
+    const inp = el('input'); inp.type = 'text'; inp.placeholder = 'Як правильно'; inp.hidden = true;
+    const save = el('button', 'btn', 'Зберегти'); save.hidden = true;
+    [ok, fixBtn, save].forEach((b) => { b.type = 'button'; });
+    const decide = (status, fix) => {
+      log.record({ type: 'note_verified', note: n.id, lemma: n.lemma, status, ...(fix ? { fix } : {}) });
+      done(status, fix);
+      renderWords(); renderCheckList();
+    };
+    ok.onclick = () => decide('ok');
+    fixBtn.onclick = () => { inp.hidden = false; save.hidden = false; inp.focus(); };
+    save.onclick = () => { if (inp.value.trim()) decide('fix', inp.value.trim()); };
+    row.append(ok, fixBtn, inp, save);
+    return row;
+  }
+
+  // A small "?" next to a word the teacher could not verify; a click shows why and offers the two buttons. Returns the button and the (hidden) reason.
   function checkMark(n) {
     const note = el('div', 'explain check-note', `Перевірити з носієм: ${n.check}`); note.hidden = true;
     const btn = el('button', 'qmark', '?'); btn.type = 'button';
     btn.title = 'Не підтверджено: покажи носію мови. Натисни, щоб побачити чому.';
     btn.setAttribute('aria-label', `Перевірити з носієм: ${n.check}`);
     btn.onclick = () => { note.hidden = !note.hidden; };
+    if (n.id) note.append(checkActions(n, (status, fix) => {
+      btn.hidden = true; note.hidden = true;
+      if (status === 'fix') note.insertAdjacentElement('afterend', fixLine({ fix }));
+    }));
     return { btn, note };
   }
 
   function wordRow(n) {
     const li = el('li');
     li.append(el('span', 'nl', n.stress || display(n)));
-    const mark = n.check ? checkMark(n) : null;
+    const mark = pendingCheck(n) ? checkMark(n) : null;
     if (mark) li.append(mark.btn);
     li.append(el('span', 'meta', [pluralText(n), n.ua, n.audio_text && n.audio_text !== display(n) ? `(у записі: ${n.audio_text})` : ''].filter(Boolean).join(' - ')));
     if (n.plural_source === 'teacher') li.append(el('span', 'opt', 'мн. додала викладачка'));
     if (n.audio) li.append(iconBtn(n.audio));
     if (n.explain_ua) li.append(el('div', 'explain', n.explain_ua));
     if (mark) li.append(mark.note);
+    if (n.check && verdictOf(n) && verdictOf(n).status === 'fix') li.append(fixLine(verdictOf(n)));
     return li;
   }
 
@@ -571,7 +601,8 @@ if (typeof document === 'undefined') {
       // The verb on the first line, its explanation on its own line below: a long explanation never widens the card.
       const title = el('div', 'rule-title', v.stress || v.lemma);
       card.append(title);
-      if (v.check) { const mark = checkMark(v); title.append(document.createTextNode(' '), mark.btn); card.append(mark.note); }
+      if (pendingCheck(v)) { const mark = checkMark(v); title.append(document.createTextNode(' '), mark.btn); card.append(mark.note); }
+      else if (v.check && verdictOf(v) && verdictOf(v).status === 'fix') card.append(fixLine(verdictOf(v)));
       if (v.ua) card.append(el('div', 'vgloss', `(${v.ua})`));
       if (v.aspect || !(v.paradigm || []).length) { const hint = pluralText(v); if (hint) card.append(el('div', 'meta', hint)); }   // a verb with no conjugation table shows its aspect pair and 1st person instead
       const tbl = el('table', 'paradigm');
@@ -892,32 +923,54 @@ if (typeof document === 'undefined') {
     L.notes.filter((n) => n.type === 'verb').forEach((v) => {
       const li = el('li');
       li.append(el('span', 'nl', v.lemma));
-      const mark = v.check ? checkMark(v) : null;
+      const mark = pendingCheck(v) ? checkMark(v) : null;
       if (mark) li.append(mark.btn);
       li.append(el('span', 'meta', `${v.ua} - ${(v.paradigm || []).length ? [...new Set(v.paradigm.map((r) => r.form))].join(', ') : pluralText(v)}`));
       if (mark) li.append(mark.note);
+      if (v.check && verdictOf(v) && verdictOf(v).status === 'fix') li.append(fixLine(verdictOf(v)));
       ul.append(li);
     });
     root.append(ul);
   }
 
-  // Bottom of the Words page: one "?" button that opens a list of every word marked for a native speaker, with the comments.
-  // The list is the same for every lesson, so it is built once. No marked words: nothing is shown.
+  // Bottom of the Words page: one "?" button that opens a list of every word still marked for a native speaker, with the comments,
+  // the two buttons for each, and a copy button that puts the whole list on the clipboard to send to that person.
+  // Corrections the learner already wrote down are listed too, until they are put into the lesson. Nothing to show: nothing is shown.
   function renderCheckList() {
     const root = $('check-box'); root.innerHTML = '';
-    const flagged = flaggedNotes(LESSONS);
-    if (!flagged.length) return;
+    const verified = log.state().verified;
+    const flagged = flaggedNotes(LESSONS, verified);
+    const fixes = LESSONS.flatMap((L) => L.notes.filter((n) => n.check && verified[n.id] && verified[n.id].status === 'fix').map((n) => ({ order: L.order, note: n, fix: verified[n.id].fix })));
+    if (!flagged.length && !fixes.length) return;
     const btn = el('button', 'btn check-open', `? Слова для перевірки (${flagged.length})`);
     btn.type = 'button'; btn.setAttribute('aria-expanded', 'false');
     const panel = el('div', 'check-panel'); panel.hidden = true;
     panel.append(el('p', 'meta', `Ці слова й форми ще не підтверджені. Їх варто показати людині, яка знає ${LANG_ADJ.toLowerCase().replace(/а$/, 'у')}.`));
+    if (flagged.length) {
+      const copy = el('button', 'btn', 'Скопіювати список для носія'); copy.type = 'button';
+      const status = el('span', 'meta');
+      copy.onclick = () => {
+        const text = flagged.map(({ order: o, note }) => `${LESSON_WORD} ${o}: ${display(note)} (${note.ua}) - ${note.check}`).join('\n');
+        const ready = () => { status.textContent = ' Скопійовано.'; };
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(text).then(ready, () => { status.textContent = ' Не вдалося скопіювати.'; });
+        else status.textContent = ' Браузер не дозволяє копіювати.';
+      };
+      panel.append(copy, status);
+    }
     let order = null, ul = null;
     flagged.forEach(({ order: o, note }) => {
       if (o !== order) { order = o; panel.append(el('h3', 'sub', `${LESSON_WORD} ${o}`)); ul = el('ul', 'words'); panel.append(ul); }
       const li = el('li');
       li.append(el('span', 'nl', display(note)), el('span', 'meta', note.ua), el('div', 'explain', note.check));
+      if (note.id) li.append(checkActions(note, () => {}));
       ul.append(li);
     });
+    if (fixes.length) {
+      panel.append(el('h3', 'sub', 'Виправлення чекають внесення в урок'));
+      const fl = el('ul', 'words');
+      fixes.forEach(({ order: o, note, fix }) => fl.append(el('li', null, `${LESSON_WORD} ${o}: ${display(note)} → ${fix}`)));
+      panel.append(fl);
+    }
     btn.onclick = () => { panel.hidden = !panel.hidden; btn.setAttribute('aria-expanded', String(!panel.hidden)); };
     root.append(btn, panel);
   }
