@@ -5,6 +5,7 @@
   "status": "draft",
   "author": "josip",
   "service_words": [
+    "za",
     "baku",
     "moga",
     "majku"
@@ -758,7 +759,9 @@
           "prompt": "Я купую олівець братові.",
           "accepted": [
             "Kupujem olovku bratu.",
-            "Ja kupujem olovku bratu."
+            "Ja kupujem olovku bratu.",
+            "Kupujem olovku za brata.",
+            "Ja kupujem olovku za brata."
           ]
         },
         {

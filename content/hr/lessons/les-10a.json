@@ -1,0 +1,956 @@
+{
+  "id": "hr-les-10a",
+  "lang": "hr",
+  "order": 10.5,
+  "status": "draft",
+  "author": "josip",
+  "kind": "repair",
+  "service_words": [
+    "sada",
+    "je",
+    "sam",
+    "si",
+    "smo",
+    "su",
+    "sat",
+    "sata",
+    "sati",
+    "pola",
+    "i",
+    "do",
+    "jedan",
+    "tri",
+    "pet",
+    "šest",
+    "sedam",
+    "osam",
+    "devet",
+    "deset",
+    "jedanaest",
+    "dvanaest",
+    "petnaest",
+    "dvadeset",
+    "pedeset",
+    "šezdeset",
+    "četrdeset",
+    "osamdeset",
+    "devedeset",
+    "trideset",
+    "dolazim",
+    "dolazimo",
+    "dolazite",
+    "dolaziš",
+    "dolaze",
+    "radimo",
+    "radiš",
+    "rade",
+    "ima",
+    "imaju",
+    "imam",
+    "tko",
+    "ovdje",
+    "u",
+    "dućanu",
+    "školi",
+    "parku",
+    "gradu",
+    "grad",
+    "rođendan",
+    "petoga",
+    "dvadesetoga",
+    "svibnja",
+    "rujna",
+    "majka",
+    "otac",
+    "sestra",
+    "brat",
+    "baka",
+    "baki",
+    "bratu",
+    "djeca",
+    "dijete",
+    "kruh",
+    "sir",
+    "kava",
+    "kavu",
+    "sok",
+    "mlijeko",
+    "olovku",
+    "zadaću",
+    "knjigu",
+    "kupila",
+    "kupujem",
+    "dajem",
+    "daje",
+    "mi",
+    "nam",
+    "mu",
+    "čitala",
+    "čitao",
+    "pisala",
+    "jela",
+    "jeli",
+    "pila",
+    "došao",
+    "došla",
+    "išla",
+    "išao",
+    "skuhala",
+    "ručak",
+    "jučer",
+    "često",
+    "piše",
+    "ujutro",
+    "navečer",
+    "eura",
+    "centi",
+    "godina",
+    "danas",
+    "ona",
+    "on",
+    "oni",
+    "učiteljica",
+    "školu",
+    "čita",
+    "kuha",
+    "idem",
+    "petdeset",
+    "šestdeset"
+  ],
+  "notes": [],
+  "rule": [
+    {
+      "title_ua": "Час: sati тільки з цілою годиною (sedam sati, але pola osam, osam i deset, deset do osam)",
+      "summary_ua": "Слово sat / sata / sati стоїть лише тоді, коли година ціла: Sada je šest sati. Коли є pola, i (хвилини після) або do (хвилини до), слова sati НЕ додається: Sada je pola četiri. Sada je pet i petnaest. Sada je deset do osam. І ще: pola означає ПІВ НА НАСТУПНУ годину, як в українській «пів на дванадцяту». Pola dvanaest = 11:30, не 12:30 і не 10:30.",
+      "compare": [
+        {
+          "form": "ціла година: jedan sat, tri sata, šest sati",
+          "when_ua": "Тільки з цілою годиною: один sat, 2-4 sata, 5 і більше sati. Dolazim u osam sati.",
+          "examples": [
+            {
+              "text": "Sada je sedam sati.",
+              "ua": "Зараз сьома година."
+            },
+            {
+              "text": "Dolazim u dvanaest sati.",
+              "ua": "Приходжу о дванадцятій годині."
+            }
+          ],
+          "note_ua": "Українською теж «сьома година», тож тут все знайоме."
+        },
+        {
+          "form": "pola, i, do: БЕЗ sati",
+          "when_ua": "Хвилини й половина тримають час самі: sati після них зайве.",
+          "examples": [
+            {
+              "text": "Sada je osam i deset.",
+              "ua": "Зараз десять по восьмій."
+            },
+            {
+              "text": "Sada je pet do deset.",
+              "ua": "Зараз за п'ять десята."
+            }
+          ],
+          "note_ua": "Українське «десять по восьмій» теж без слова «година». Не «osam i deset sati»."
+        },
+        {
+          "form": "pola + НАСТУПНА година",
+          "when_ua": "Пів на одинадцяту = 10:30 = pola jedanaest. Рахуй наступну годину, як в українській.",
+          "examples": [
+            {
+              "text": "Sada je pola jedanaest.",
+              "ua": "Зараз пів на одинадцяту (10:30)."
+            },
+            {
+              "text": "Dolazim u pola šest.",
+              "ua": "Приходжу о пів на шосту (5:30)."
+            }
+          ],
+          "note_ua": "Тут допомагає УКРАЇНСЬКА: «пів на дванадцяту» = pola dvanaest = 11:30. Російське «половина двенадцатого» теж працює так, але українське звучить ближче."
+        }
+      ],
+      "points_ua": [
+        "Sati лише з цілою годиною: šest sati.",
+        "Pola, i, do: без sati. Sada je pola četiri.",
+        "Pola + наступна година: pola dvanaest = 11:30."
+      ]
+    },
+    {
+      "title_ua": "Je / sam не пропускай (в українській «є» і допоміжного немає)",
+      "summary_ua": "В українській теперішній час майже без «є»: «Хто в школі?», «День народження п'ятого травня». А в минулому часі «читав» стоїть без допоміжного. Хорватська так не може: je (теперішній час, biti) і sam / si / je / smo / ste / su (минулий час) мусять бути. Tko JE u školi? Rođendan JE petoga svibnja. Čitao SAM knjigu. Majka JE kupila kruh. Djeca SU pila (а не «su piju»: після su стоїть дієприкметник -l, не теперішній).",
+      "compare": [
+        {
+          "form": "теперішній: Tko je u školi? Rođendan je petoga svibnja.",
+          "when_ua": "Питання з tko і речення з датою потребують je.",
+          "examples": [
+            {
+              "text": "Tko je u dućanu?",
+              "ua": "Хто в магазині?"
+            },
+            {
+              "text": "Rođendan je petoga listopada.",
+              "ua": "День народження п'ятого жовтня."
+            }
+          ],
+          "note_ua": "Українською «Хто в магазині?» без «є». Хорватською обов'язково Tko je u dućanu."
+        },
+        {
+          "form": "минулий: sam / si / je / smo / ste / su + -l",
+          "when_ua": "Кожен перфект має допоміжне. У 1-й особі: Čitala sam. Чоловік: Čitao sam. У 3-й: Majka je kupila.",
+          "examples": [
+            {
+              "text": "Pisala sam zadaću.",
+              "ua": "Я писала домашню."
+            },
+            {
+              "text": "Sestra je kupila sir.",
+              "ua": "Сестра купила сир."
+            }
+          ],
+          "note_ua": "Українське «писала» без допоміжного. Тут українська й російська НЕ допомагають: допоміжне доводиться додавати свідомо."
+        },
+        {
+          "form": "su + pila / jela (не su piju)",
+          "when_ua": "Після su, je, sam лише дієприкметник на -l: pila, jela, kupila.",
+          "examples": [
+            {
+              "text": "Mi smo jeli sir.",
+              "ua": "Ми їли сир."
+            }
+          ],
+          "note_ua": "Допоміжне вже означає минуле. Теперішнє piju після su не ставимо."
+        }
+      ],
+      "points_ua": [
+        "Tko JE u školi? Rođendan JE petoga svibnja.",
+        "Čitala SAM, Čitao SAM; Majka JE kupila; Djeca SU pila.",
+        "Після допоміжного: дієприкметник -l, не теперішній."
+      ]
+    },
+    {
+      "title_ua": "Порядок слів: клітик другий, зайвий займенник геть (Majka nam daje, Ona često čita)",
+      "summary_ua": "Короткі слова nam, mi, mu, joj, ga, je, sam стоять на ДРУГОМУ місці в реченні, відразу після першого слова. Українською «Мама дає нам хліб» (нам після дієслова), хорватською Majka nam daje kruh. Підмет-займенник або на початку, або взагалі без нього, ніколи в кінці: Ona često čita, Ovdje smo (не «Ovdje smo mi»). Давальний («кому?») без за: Kupujem olovku bratu, Dajem kruh baki (baka > baki, виняток; majka > majci).",
+      "compare": [
+        {
+          "form": "клітик другий: Majka nam daje kruh",
+          "when_ua": "Nam, mi, mu, joj, im стоять після першого слова, ПЕРЕД дієсловом.",
+          "examples": [
+            {
+              "text": "Učiteljica nam daje zadaću.",
+              "ua": "Вчителька дає нам домашнє завдання."
+            },
+            {
+              "text": "Sestra mi daje sok.",
+              "ua": "Сестра дає мені сік."
+            }
+          ],
+          "note_ua": "Українська тут НЕ допомагає: «дає нам» там дієслово йде перед нам. Хорватською навпаки: nam daje."
+        },
+        {
+          "form": "займенник-підмет: Ona često čita, Ovdje smo",
+          "when_ua": "Або на початку (Ona često čita), або без нього (Često čita). Не в кінці й не зайвий.",
+          "examples": [
+            {
+              "text": "On često piše.",
+              "ua": "Він часто пише."
+            },
+            {
+              "text": "Danas smo u gradu.",
+              "ua": "Сьогодні ми в місті."
+            }
+          ],
+          "note_ua": "Це та сама пастка, що в Lekcija 7a: після Ovdje / Danas дієслово друге й без mi. Українською можна сказати «читає вона», хорватською ні."
+        },
+        {
+          "form": "давальний без za: bratu, baki, majci",
+          "when_ua": "Кому дають, купують, пишуть: давальний. Majka > majci, ale baka > baki, brat > bratu.",
+          "examples": [
+            {
+              "text": "Dajem kruh baki.",
+              "ua": "Даю хліб бабусі."
+            }
+          ],
+          "note_ua": "Kupujem olovku za brata теж правильна хорватська («для брата»); але коли питають «кому?», відповідай давальним: bratu."
+        }
+      ],
+      "points_ua": [
+        "Majka nam daje kruh: клітик на 2-му місці.",
+        "Ona često čita; Ovdje smo: без зайвого mi / ona в кінці.",
+        "Давальний: bratu, majci, baki (baka виняток)."
+      ]
+    },
+    {
+      "title_ua": "Правопис і закінчення: pet + deset = pedeset, šest + deset = šezdeset; dolaziti > dolaze",
+      "summary_ua": "Десятки: pet + deset дає pedeset (t випадає, d лишається), šest + deset дає šezdeset (š змінюється на ž перед d, t випадає). Не «petdeset», не «šestdeset». Решта: trideset, četrdeset, osamdeset, devedeset пишуться як чуєш. Закінчення дієслів: -iti дає в 3-й особі множини -e (dolaze, rade); -ati дає -aju (imaju, čitaju). Не «dolazaju».",
+      "compare": [
+        {
+          "form": "pedeset, šezdeset",
+          "when_ua": "Тільки ці два десятки змінюються.",
+          "examples": [
+            {
+              "text": "Majka ima pedeset godina.",
+              "ua": "Мама має п'ятдесят років."
+            },
+            {
+              "text": "Imam šezdeset eura.",
+              "ua": "Маю шістдесят євро."
+            }
+          ],
+          "note_ua": "Підказка для пам'яті (не етимологія): pe-deset, še-zdeset. Вимова підказує написання: ти кажеш [pedeset], тож і пиши pedeset."
+        },
+        {
+          "form": "dolaziti > dolaze; imati > imaju",
+          "when_ua": "-iti дає -e в oni, -ati дає -aju.",
+          "examples": [
+            {
+              "text": "Oni rade ujutro.",
+              "ua": "Вони працюють уранці."
+            }
+          ],
+          "note_ua": "Окремо: ona dolazi, oni dolaze. Твоє «dolazaju» змішало два типи."
+        }
+      ],
+      "points_ua": [
+        "pedeset, šezdeset (не petdeset, не šestdeset).",
+        "dolaziti > oni dolaze; imati > oni imaju."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Sada je sedam sati.",
+      "ua": "Зараз сьома година."
+    },
+    {
+      "text": "Sada je pola jedanaest.",
+      "ua": "Зараз пів на одинадцяту."
+    },
+    {
+      "text": "Sada je osam i deset.",
+      "ua": "Зараз десять по восьмій."
+    },
+    {
+      "text": "Sada je pet do deset.",
+      "ua": "Зараз за п'ять десята."
+    },
+    {
+      "text": "Tko je u dućanu?",
+      "ua": "Хто в магазині?"
+    },
+    {
+      "text": "Sestra je kupila sir.",
+      "ua": "Сестра купила сир."
+    },
+    {
+      "text": "Pisala sam zadaću.",
+      "ua": "Я писала домашнє завдання."
+    },
+    {
+      "text": "Učiteljica nam daje zadaću.",
+      "ua": "Вчителька дає нам домашнє завдання."
+    },
+    {
+      "text": "Sestra mi daje sok.",
+      "ua": "Сестра дає мені сік."
+    },
+    {
+      "text": "Majka ima pedeset godina.",
+      "ua": "Мама має п'ятдесят років."
+    },
+    {
+      "text": "Imam šezdeset eura.",
+      "ua": "Маю шістдесят євро."
+    },
+    {
+      "text": "Mi smo jeli sir.",
+      "ua": "Ми їли сир."
+    }
+  ],
+  "reading": {
+    "title": "Majka u dućanu",
+    "title_ua": "Мама в магазині",
+    "highlight": [],
+    "sentences": [
+      {
+        "text": "Majka je ujutro u dućanu.",
+        "ua": "Мама вранці в магазині."
+      },
+      {
+        "text": "Kupila je kruh i sir.",
+        "ua": "Вона купила хліб і сир."
+      },
+      {
+        "text": "Sir košta tri eura i pedeset centi.",
+        "ua": "Сир коштує три євро й п'ятдесят центів."
+      },
+      {
+        "text": "Sada je pola devet.",
+        "ua": "Зараз пів на дев'яту."
+      },
+      {
+        "text": "Otac je došao u grad.",
+        "ua": "Тато приїхав у місто."
+      },
+      {
+        "text": "Majka mu daje kavu.",
+        "ua": "Мама дає йому каву."
+      },
+      {
+        "text": "Navečer su djeca jela kruh.",
+        "ua": "Увечері діти їли хліб."
+      },
+      {
+        "text": "Sada je devet sati.",
+        "ua": "Зараз дев'ята година."
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай речення. Відповідай одним словом або числом. Текст можна показати після відповідей.",
+      "audio": "hr-les-10a-clock.mp3",
+      "audio_text": "Sada je pola osam. Majka kupuje kruh u dućanu. Otac je došao u šest sati. Sestra ima pedeset eura. Djeca su pila mlijeko.",
+      "items": [
+        {
+          "prompt": "Котра година зараз? (pola ...)",
+          "accepted": [
+            "pola osam",
+            "Pola osam"
+          ]
+        },
+        {
+          "prompt": "Що купує мама? (одне слово)",
+          "accepted": [
+            "kruh"
+          ]
+        },
+        {
+          "prompt": "О котрій прийшов тато? (число)",
+          "accepted": [
+            "šest",
+            "šest sati",
+            "6"
+          ]
+        },
+        {
+          "prompt": "Скільки євро має сестра? (число)",
+          "accepted": [
+            "pedeset",
+            "50",
+            "pedeset eura",
+            "50 eura"
+          ]
+        },
+        {
+          "prompt": "Що пили діти? (одне слово)",
+          "accepted": [
+            "mlijeko"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Пиши всі літери з діакритикою.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Зараз пів на третю.",
+          "accepted": [
+            "Sada je pola tri."
+          ]
+        },
+        {
+          "prompt": "Зараз п'ята п'ятнадцять.",
+          "accepted": [
+            "Sada je pet i petnaest."
+          ]
+        },
+        {
+          "prompt": "Зараз за десять восьма.",
+          "accepted": [
+            "Sada je deset do osam."
+          ]
+        },
+        {
+          "prompt": "Зараз шоста година.",
+          "accepted": [
+            "Sada je šest sati."
+          ]
+        },
+        {
+          "prompt": "Приходжу о восьмій годині.",
+          "accepted": [
+            "Dolazim u osam sati."
+          ]
+        },
+        {
+          "prompt": "Хто в школі?",
+          "accepted": [
+            "Tko je u školi?"
+          ]
+        },
+        {
+          "prompt": "День народження двадцятого вересня.",
+          "accepted": [
+            "Rođendan je dvadesetoga rujna.",
+            "Rođendan je dvadesetog rujna."
+          ]
+        },
+        {
+          "prompt": "Я читала книжку.",
+          "accepted": [
+            "Čitala sam knjigu.",
+            "Ja sam čitala knjigu.",
+            "Čitao sam knjigu.",
+            "Ja sam čitao knjigu."
+          ]
+        },
+        {
+          "prompt": "Я прийшла в місто (одна завершена дія).",
+          "accepted": [
+            "Došla sam u grad.",
+            "Ja sam došla u grad.",
+            "Došao sam u grad.",
+            "Ja sam došao u grad."
+          ]
+        },
+        {
+          "prompt": "Діти пили молоко.",
+          "accepted": [
+            "Djeca su pila mlijeko."
+          ]
+        },
+        {
+          "prompt": "Мама дає нам хліб.",
+          "accepted": [
+            "Majka nam daje kruh."
+          ]
+        },
+        {
+          "prompt": "Тато дає мені книжку.",
+          "accepted": [
+            "Otac mi daje knjigu."
+          ]
+        },
+        {
+          "prompt": "Я купую олівець братові.",
+          "accepted": [
+            "Kupujem olovku bratu.",
+            "Ja kupujem olovku bratu."
+          ]
+        },
+        {
+          "prompt": "Я даю сік бабусі.",
+          "accepted": [
+            "Dajem sok baki.",
+            "Ja dajem sok baki."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "pola",
+        "sati",
+        "sata",
+        "sat",
+        "i",
+        "do",
+        "pedeset",
+        "šezdeset",
+        "je",
+        "sam",
+        "su",
+        "nam",
+        "mi",
+        "baki",
+        "bratu"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Sada je ___ šest.",
+          "hint": "Зараз пів на шосту.",
+          "accepted": [
+            [
+              "pola"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je dvanaest ___.",
+          "hint": "Зараз дванадцята година.",
+          "accepted": [
+            [
+              "sati"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je tri ___.",
+          "hint": "Зараз третя година.",
+          "accepted": [
+            [
+              "sata"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je jedan ___.",
+          "hint": "Зараз перша година.",
+          "accepted": [
+            [
+              "sat"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je devet ___ petnaest.",
+          "hint": "Зараз п'ятнадцять по дев'ятій.",
+          "accepted": [
+            [
+              "i"
+            ]
+          ]
+        },
+        {
+          "text": "Sada je deset ___ pet.",
+          "hint": "Зараз за десять п'ята.",
+          "accepted": [
+            [
+              "do"
+            ]
+          ]
+        },
+        {
+          "text": "Imam ___ eura.",
+          "hint": "Маю п'ятдесят євро.",
+          "accepted": [
+            [
+              "pedeset"
+            ]
+          ]
+        },
+        {
+          "text": "Otac ima ___ godina.",
+          "hint": "Тато має шістдесят років.",
+          "accepted": [
+            [
+              "šezdeset"
+            ]
+          ]
+        },
+        {
+          "text": "Tko ___ ovdje?",
+          "hint": "Хто тут?",
+          "accepted": [
+            [
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "Jučer ___ čitala knjigu.",
+          "hint": "Вчора я читала книжку.",
+          "accepted": [
+            [
+              "sam"
+            ]
+          ]
+        },
+        {
+          "text": "Sestra ___ kupila kavu.",
+          "hint": "Сестра купила каву.",
+          "accepted": [
+            [
+              "je"
+            ]
+          ]
+        },
+        {
+          "text": "Oni ___ čitali knjigu.",
+          "hint": "Вони читали книжку.",
+          "accepted": [
+            [
+              "su"
+            ]
+          ]
+        },
+        {
+          "text": "Otac ___ daje kavu.",
+          "hint": "Тато дає нам каву.",
+          "accepted": [
+            [
+              "nam"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ daje sir.",
+          "hint": "Мама дає мені сир.",
+          "accepted": [
+            [
+              "mi"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem knjigu ___.",
+          "hint": "Даю книжку бабусі.",
+          "accepted": [
+            [
+              "baki"
+            ]
+          ]
+        },
+        {
+          "text": "Pišem ___.",
+          "hint": "Пишу братові.",
+          "accepted": [
+            [
+              "bratu"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Sada je pola šest sati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sada je pola šest."
+          ]
+        },
+        {
+          "prompt": "Sada je osam i petnaest sati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sada je osam i petnaest."
+          ]
+        },
+        {
+          "prompt": "Sada je dvadeset do devet sati.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sada je dvadeset do devet."
+          ]
+        },
+        {
+          "prompt": "Sada je pola četiri sata.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sada je pola četiri."
+          ]
+        },
+        {
+          "prompt": "Tko u parku?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Tko je u parku?"
+          ]
+        },
+        {
+          "prompt": "Rođendan petoga svibnja.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Rođendan je petoga svibnja.",
+            "Rođendan je petog svibnja."
+          ]
+        },
+        {
+          "prompt": "Čitao knjigu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Čitao sam knjigu.",
+            "Ja sam čitao knjigu."
+          ]
+        },
+        {
+          "prompt": "Majka kupila kruh.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka je kupila kruh."
+          ]
+        },
+        {
+          "prompt": "Djeca su piju mlijeko.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Djeca su pila mlijeko."
+          ]
+        },
+        {
+          "prompt": "Otac daje mi kavu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Otac mi daje kavu."
+          ]
+        },
+        {
+          "prompt": "Ovdje smo mi.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ovdje smo."
+          ]
+        },
+        {
+          "prompt": "Često čita ona.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Ona često čita.",
+            "Često čita."
+          ]
+        },
+        {
+          "prompt": "Imam petdeset eura.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Imam pedeset eura."
+          ]
+        },
+        {
+          "prompt": "Otac ima šestdeset godina.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Otac ima šezdeset godina."
+          ]
+        },
+        {
+          "prompt": "Majka kuha ručak.",
+          "cue": "-> учора (skuhati, skuhala)",
+          "accepted": [
+            "Majka je skuhala ručak.",
+            "Jučer je majka skuhala ručak."
+          ]
+        },
+        {
+          "prompt": "Idem u školu.",
+          "cue": "-> jučer",
+          "accepted": [
+            "Jučer sam išla u školu.",
+            "Jučer sam išao u školu.",
+            "Išla sam jučer u školu.",
+            "Išao sam jučer u školu."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "verbform",
+      "instruction_ua": "Постав дієслово в правильній формі",
+      "items": [
+        {
+          "example": true,
+          "text": "Oni ___ u školu.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolaze"
+          ]
+        },
+        {
+          "text": "Mi ___ u grad.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolazimo"
+          ]
+        },
+        {
+          "text": "Vi ___ u šest sati.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolazite"
+          ]
+        },
+        {
+          "text": "Ti ___ u dućan.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolaziš"
+          ]
+        },
+        {
+          "text": "Djeca ___ u park.",
+          "cue": "dolaziti",
+          "accepted": [
+            "dolaze"
+          ]
+        },
+        {
+          "text": "Mi ___ ujutro.",
+          "cue": "raditi",
+          "accepted": [
+            "radimo"
+          ]
+        },
+        {
+          "text": "Ti ___ navečer.",
+          "cue": "raditi",
+          "accepted": [
+            "radiš"
+          ]
+        },
+        {
+          "text": "Oni ___ u školi.",
+          "cue": "raditi",
+          "accepted": [
+            "rade"
+          ]
+        },
+        {
+          "text": "Ona ___ pedeset eura.",
+          "cue": "imati",
+          "accepted": [
+            "ima"
+          ]
+        },
+        {
+          "text": "Oni ___ pedeset eura.",
+          "cue": "imati",
+          "accepted": [
+            "imaju"
+          ]
+        },
+        {
+          "text": "Majka ___ ručak.",
+          "cue": "kuhati",
+          "accepted": [
+            "kuha"
+          ]
+        },
+        {
+          "text": "Ja ___ pet eura.",
+          "cue": "imati",
+          "accepted": [
+            "imam"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою). Це десятки й слова часу, де ти помилялася.",
+      "words": [
+        "trideset",
+        "četrdeset",
+        "pedeset",
+        "šezdeset",
+        "osamdeset",
+        "devedeset",
+        "pola",
+        "sat",
+        "ujutro",
+        "navečer"
+      ],
+      "max": 10
+    }
+  ]
+}
