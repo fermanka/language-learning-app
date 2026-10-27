@@ -154,7 +154,7 @@ if (typeof document === 'undefined') {
     }
     toast('Аудіо не знайдено поруч з макетом.');
   }
-  const iconBtn = (file) => { const b = el('button', 'icon'); b.title = 'Озвучка'; b.innerHTML = SPEAKER; b.onclick = () => play(file); return b; };
+  const iconBtn = (file) => { if (!file) return document.createTextNode(''); const b = el('button', 'icon'); b.title = 'Озвучка'; b.innerHTML = SPEAKER; b.onclick = () => play(file); return b; };
 
   // A small "?" next to a word the teacher could not verify; a click shows why. Returns the button and the (hidden) reason.
   function checkMark(n) {
@@ -168,7 +168,7 @@ if (typeof document === 'undefined') {
 
   function wordRow(n) {
     const li = el('li');
-    li.append(el('span', 'nl', display(n)));
+    li.append(el('span', 'nl', n.stress || display(n)));
     const mark = n.check ? checkMark(n) : null;
     if (mark) li.append(mark.btn);
     li.append(el('span', 'meta', [pluralText(n), n.ua, n.audio_text && n.audio_text !== display(n) ? `(у записі: ${n.audio_text})` : ''].filter(Boolean).join(' - ')));
@@ -569,7 +569,7 @@ if (typeof document === 'undefined') {
     L.notes.filter((n) => n.type === 'verb').forEach((v) => {
       const card = el('div', 'verbcard');
       // The verb on the first line, its explanation on its own line below: a long explanation never widens the card.
-      const title = el('div', 'rule-title', v.lemma);
+      const title = el('div', 'rule-title', v.stress || v.lemma);
       card.append(title);
       if (v.check) { const mark = checkMark(v); title.append(document.createTextNode(' '), mark.btn); card.append(mark.note); }
       if (v.ua) card.append(el('div', 'vgloss', `(${v.ua})`));

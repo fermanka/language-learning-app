@@ -53,6 +53,12 @@ function validateLanguage(lang) {
       for (const [field, allowed] of Object.entries(type.enums || {})) if (n[field] !== undefined && !allowed.includes(n[field])) fail(where(`${n.type} "${n.lemma}": "${field}" is "${n[field]}", allowed: ${allowed.join(', ')}`));
       if (n.check !== undefined && (typeof n.check !== 'string' || !n.check.trim() || n.check.length > 240)) fail(where(`"${n.lemma}": "check" must be a short reason (1-240 characters) for asking a native speaker`));
       if (n.ua && n.ua.length > 80) fail(where(`"${n.lemma}": "ua" is ${n.ua.length} characters. Keep it a short gloss (it is the front of a flashcard) and put the explanation in "explain_ua"`));
+      // stress: the lemma with an acute accent on the stressed vowel (spávati); without the accent it must be the lemma again
+      if (n.stress !== undefined) {
+        const bare = n.stress.normalize('NFD').replace(new RegExp('([aeiouAEIOU])́', 'g'), '$1').normalize('NFC');
+        const marks = (n.stress.normalize('NFD').match(new RegExp('[aeiouAEIOU]́', 'g')) || []).length;
+        if (bare !== n.lemma.normalize('NFC') || marks < 1) fail(where(`"${n.lemma}": "stress" must be the lemma with an acute accent on a vowel (got "${n.stress}")`));
+      }
       if (n.forms !== undefined && !(Array.isArray(n.forms) && n.forms.every((f) => typeof f === 'string' && f.trim()))) fail(where(`"${n.lemma}": "forms" must be a list of non-empty strings`));
     }
     for (const id of lesson.reading.highlight) if (!lesson.notes.some((n) => n.id === id)) fail(where(`reading highlight points at unknown note ${id}`));
