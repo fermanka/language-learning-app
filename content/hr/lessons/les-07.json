@@ -117,7 +117,21 @@
         "koštaju"
       ],
       "explain_ua": "(Koliko košta kruh? = скільки коштує хліб?). Вживається майже лише в 3 особі: košta (одне) і koštaju (кілька): Koliko koštaju jabuke? Тип -am. Без пари",
-      "check": "Пару для koštati не вказано, чи є стандартний перфектив, не перевірено."
+      "check": "Пару для koštati не вказано, чи є стандартний перфектив, не перевірено.",
+      "paradigm": [
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "košta",
+          "audio": "hr-on-kosta.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "koštaju",
+          "audio": "hr-oni-kostaju.mp3"
+        }
+      ]
     },
     {
       "id": "hr-77303a49",

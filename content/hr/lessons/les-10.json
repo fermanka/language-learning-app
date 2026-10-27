@@ -235,7 +235,45 @@
       "ua": "спати",
       "audio": "hr-spavati.mp3",
       "explain_ua": "(Nisam spavala = я не спала). Тип -am: spavam, spavaš, spava. Дієприкметник spavao / spavala / spavali. Пари немає (док. пара для «поспати» тут не вчимо)",
-      "check": "Пари для spavati не вказано, чи є стандартна доконана пара, не перевірено."
+      "check": "Пари для spavati не вказано, чи є стандартна доконана пара, не перевірено.",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "spavam",
+          "audio": "hr-ja-spavam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "spavaš",
+          "audio": "hr-ti-spavas.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "spava",
+          "audio": "hr-on-spava.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "spavamo",
+          "audio": "hr-mi-spavamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "spavate",
+          "audio": "hr-vi-spavate.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "spavaju",
+          "audio": "hr-oni-spavaju.mp3"
+        }
+      ]
     },
     {
       "id": "hr-1a40610e",

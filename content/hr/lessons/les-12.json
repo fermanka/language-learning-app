@@ -152,7 +152,45 @@
       "ua": "відвідувати",
       "audio": "hr-posjecivati.mp3",
       "explain_ua": "(U petak ću posjetiti brata = у п'ятницю я відвідаю брата). Пара: posjećivati (недок., posjećujem) / posjetiti (док., posjetim). Після нього знахідний: posjetiti brata. Літера ć з рискою: posjećivati",
-      "check": "Тип -ivati > -ujem (posjećujem) підтверджено в підручнику (с. 316); пару posjećivati / posjetiti і форму posjetim з мого знання."
+      "check": "Тип -ivati > -ujem (posjećujem) підтверджено в підручнику (с. 316); пару posjećivati / posjetiti і форму posjetim з мого знання.",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "posjećujem",
+          "audio": "hr-ja-posjecujem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "posjećuješ",
+          "audio": "hr-ti-posjecujes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "posjećuje",
+          "audio": "hr-on-posjecuje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "posjećujemo",
+          "audio": "hr-mi-posjecujemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "posjećujete",
+          "audio": "hr-vi-posjecujete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "posjećuju",
+          "audio": "hr-oni-posjecuju.mp3"
+        }
+      ]
     },
     {
       "id": "hr-82c5996c",
@@ -169,7 +207,45 @@
       "ua": "залишатися",
       "audio": "hr-ostajati.mp3",
       "explain_ua": "(Prekosutra ću ostati u stanu = післязавтра я залишуся в квартирі). Пара: ostajati (недок., ostajem) / ostati (док., ostanem). Після нього u/na і місцевий: ostati u stanu",
-      "check": "Пару ostajati / ostati і форми ostajem, ostanem з мого знання, у джерелах цього уроку не підтверджено."
+      "check": "Пару ostajati / ostati і форми ostajem, ostanem з мого знання, у джерелах цього уроку не підтверджено.",
+      "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "ostajem",
+          "audio": "hr-ja-ostajem.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "ostaješ",
+          "audio": "hr-ti-ostajes.mp3"
+        },
+        {
+          "pronoun": "on / ona / ono",
+          "ua": "він / вона / воно",
+          "form": "ostaje",
+          "audio": "hr-on-ostaje.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "ostajemo",
+          "audio": "hr-mi-ostajemo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "ostajete",
+          "audio": "hr-vi-ostajete.mp3"
+        },
+        {
+          "pronoun": "oni / one / ona",
+          "ua": "вони",
+          "form": "ostaju",
+          "audio": "hr-oni-ostaju.mp3"
+        }
+      ]
     },
     {
       "id": "hr-773daf90",
