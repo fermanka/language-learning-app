@@ -114,6 +114,7 @@ if (typeof document === 'undefined') {
   // The language of this page (lesson.html loads one language's files): its name, teacher and UI words. Defaults = the first language.
   const LANG = window.LANG || { lang: 'nl', ui: {} };
   const UI = LANG.ui || {};
+  const READ_REQUIRED = UI.reading_recording_required !== false, READ_OPTS = { readingRequired: READ_REQUIRED };
   const T = { nom: UI.teacher_nom || 'Марійке', dat: UI.teacher_dat || 'Марійке', pron: UI.teacher_pron_dat || 'їй' };
   const LANG_ADJ = UI.lang_adj || 'Нідерландська';
   const LESSON_WORD = UI.lesson_word || 'Les';
@@ -633,6 +634,7 @@ if (typeof document === 'undefined') {
 
   // Reading aloud is part of the practice: show whether the recording has been sent for the open lesson.
   function renderReadingStatus() {
+    if (!READ_REQUIRED) { $('reading-status').textContent = ''; return; }   // a language can drop the reading recording from the lesson (config ui)
     const sent = log.state().readings[LESSONS[current].id];
     $('reading-status').textContent = sent
       ? `Читання вголос: запис надіслано (${sent.at.slice(0, 10)}). Можна записати ще раз, якщо хочеш.`
@@ -677,14 +679,14 @@ if (typeof document === 'undefined') {
     shown.forEach((L, k) => {
       const i = first + k, done = isDone(i), cur = i === current;
       // The practice is the exercises plus reading aloud (the recording sent to the teacher). 100% needs all of it.
-      const { pct, count, parts, readDone } = PS.lessonProgress(L, state);
+      const { pct, count, parts, readDone } = PS.lessonProgress(L, state, READ_OPTS);
       const row = el('div', 'prow' + (done ? ' done' : cur ? ' cur' : ''));
-      row.title = count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone ? '' : ' · немає запису читання'}` : '';
+      row.title = count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone || !READ_REQUIRED ? '' : ' · немає запису читання'}` : '';
       const bar = el('span', 'pbar'), fill = el('i'); fill.setAttribute('style', `width:${count ? pct : 0}%`); bar.append(fill);
       const open = el('button', 'btn open'); open.append(playIcon()); open.title = `Відкрити ${LESSON_WORD} ${L.order}`; open.setAttribute('aria-label', `Відкрити ${LESSON_WORD} ${L.order}`);
       open.onclick = () => { renderLesson(i); show('today'); };
       row.append(el('span', 'pl', `${LESSON_WORD} ${L.order}`), el('span', 'pst', done ? 'пройдено' : cur ? 'поточний' : 'чекає'), bar, el('span', 'pn', count ? `${count}/${parts} · ${pct}%` : '-'));
-      if (count && !readDone) row.append(el('span', 'pnr', 'без запису'));
+      if (count && !readDone && READ_REQUIRED) row.append(el('span', 'pnr', 'без запису'));
       row.append(open);
       grid.append(row);
     });
@@ -1064,7 +1066,7 @@ if (typeof document === 'undefined') {
   $('next').onclick = () => {
     const wasDone = isDone(current);   // a lesson that is already done is not recorded a second time
     if (!wasDone) {   // this button doubles as "mark as done": ask first when the practice is not finished, so a lesson opened just to look is not marked by accident
-      const { pct } = PS.lessonProgress(LESSONS[current], log.state());
+      const { pct } = PS.lessonProgress(LESSONS[current], log.state(), READ_OPTS);
       if (pct < 100 && !confirm(`У ${LESSON_WORD} ${LESSONS[current].order} практика виконана лише на ${pct}%. Позначити урок пройденим і йти далі? Якщо ти лише дивилась урок, натисни «Скасувати».`)) return;
     }
     if (!wasDone) log.record({ type: 'lesson_done', lesson: LESSONS[current].id });
