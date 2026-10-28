@@ -11,6 +11,7 @@
     "teacher_dat": "Йосипу",
     "teacher_gen": "Йосипа",
     "lang_adj": "Хорватська",
+    "hide_pronunciation_check": true,
     "titles": {
       "Nieuw": "Novo gradivo",
       "Nieuwe woorden": "Nove riječi",

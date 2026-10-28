@@ -415,6 +415,7 @@ if (typeof document === 'undefined') {
   }
   function renderCheck(L) {
     const box = $('b5-check'); box.innerHTML = '';
+    if (UI.hide_pronunciation_check) return;   // a language can switch the block off (config ui)
     box.append(el('h3', 'sub', 'Перевірка вимови'));
     box.append(el('p', 'meta', 'Попросили перевірити, як звучить слово чи фраза? Запиши окремо і заклади сюди -- я передам Марійці.'));
     const rows = el('div', 'check-rows'); box.append(rows);
