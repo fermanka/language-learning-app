@@ -1014,14 +1014,14 @@
         },
         {
           "prompt": "Kava košta tri eura.",
-          "cue": "-> питання",
+          "cue": "-> питання з koliko",
           "accepted": [
             "Koliko košta kava?"
           ]
         },
         {
           "prompt": "Sokovi koštaju pet eura.",
-          "cue": "-> питання",
+          "cue": "-> питання з koliko",
           "accepted": [
             "Koliko koštaju sokovi?"
           ]

@@ -1023,7 +1023,7 @@
         },
         {
           "prompt": "Hoću ići u teretanu.",
-          "cue": "-> питання (ти)",
+          "cue": "-> питання з li (ти)",
           "accepted": [
             "Hoćeš li ići u teretanu?"
           ]

@@ -644,7 +644,7 @@
           ]
         },
         {
-          "prompt": "У мене великий стан.",
+          "prompt": "У мене велика квартира.",
           "accepted": [
             "Imam velik stan.",
             "Ja imam velik stan."
@@ -934,14 +934,14 @@
         },
         {
           "prompt": "Sok je jeftin.",
-          "cue": "-> питання",
+          "cue": "-> питання з kakav",
           "accepted": [
             "Kakav je sok?"
           ]
         },
         {
           "prompt": "Voda je hladna.",
-          "cue": "-> питання",
+          "cue": "-> питання з kakva",
           "accepted": [
             "Kakva je voda?"
           ]

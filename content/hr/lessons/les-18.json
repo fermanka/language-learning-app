@@ -972,21 +972,21 @@
         },
         {
           "prompt": "Mogu kupiti kruh.",
-          "cue": "-> питання умовне (жін.)",
+          "cue": "-> питання з bi li (жін.)",
           "accepted": [
             "Bih li mogla kupiti kruh?"
           ]
         },
         {
           "prompt": "Kupujete vino.",
-          "cue": "-> питання умовне (kupiti)",
+          "cue": "-> питання з bi li (kupiti)",
           "accepted": [
             "Biste li kupili vino?"
           ]
         },
         {
           "prompt": "Otac radi.",
-          "cue": "-> питання умовне",
+          "cue": "-> питання з bi li",
           "accepted": [
             "Bi li otac radio?"
           ]

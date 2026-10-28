@@ -1071,7 +1071,7 @@
         },
         {
           "prompt": "Sestra se zove Marija.",
-          "cue": "-> питання",
+          "cue": "-> питання з kako se zove",
           "accepted": [
             "Kako se zove sestra?",
             "Kako se zove moja sestra?"
