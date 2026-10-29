@@ -43,6 +43,7 @@ function validateLanguage(lang) {
     const where = (p) => `${lang}/${file}: ${p}`;
     if (lesson.lang !== undefined && lesson.lang !== config.lang) fail(where(`lesson "lang" is "${lesson.lang}", expected "${config.lang}"`));
 
+    if (lesson.title_ua !== undefined && (typeof lesson.title_ua !== 'string' || !lesson.title_ua.trim() || lesson.title_ua.length > 50)) fail(where('"title_ua" must be a short title (1-50 characters): it is shown in the Progress list'));
     for (const n of lesson.notes) {
       if (!idPattern.test(n.id)) fail(where(`bad note id ${n.id}`));
       if (ids.has(n.id)) fail(where(`duplicate note id ${n.id}`));

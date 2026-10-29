@@ -92,10 +92,9 @@
   .prow .pst { font-size: 12px; padding: 1px 9px; border-radius: 999px; background: var(--pill); color: var(--muted); white-space: nowrap; }
   .prow.done .pst { background: var(--okbg); color: var(--ok); }
   .prow.cur .pst { background: var(--accent); color: var(--card); }
-  .prow .pbar { flex: 1; height: 6px; min-width: 30px; border-radius: 3px; background: var(--line); overflow: hidden; }
-  .prow .pbar i { display: block; height: 100%; background: var(--accent); border-radius: 3px; }
-  .prow.done .pbar i { background: var(--ok); }
+  .prow .ptitle { flex: 1; min-width: 0; font-size: 13px; line-height: 1.3; color: var(--muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
   .prow .pn { font-size: 13px; color: var(--muted); white-space: nowrap; min-width: 74px; text-align: right; }
+  .prow .pst { margin-left: auto; }
   .prow .pnr { font-size: 11px; color: var(--muted); white-space: nowrap; font-style: italic; }
   .prow button.open { flex: none; width: 30px; height: 30px; padding: 0; border-radius: 50%;
                       background: var(--accent); border-color: var(--accent); color: var(--card);

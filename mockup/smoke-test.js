@@ -117,7 +117,7 @@ if (pages > 1) navBtn('Далі').onclick();
 t('progress: "Далі" opens the next page and "Назад" is enabled again', pages < 2 || (byId['progress-nav'].textContent.includes(`2 з ${pages}`) && navBtn('Назад').disabled === false));
 if (pages > 1) navBtn('Назад').onclick();   // back to the first page for the tests below
 t('progress shows exercise results for finished lessons', /\d+\/\d+ · \d+%/.test(progRows()[0].textContent));
-t('progress: a lesson row has a progress bar and an open button', progRows()[0].all().some((e) => e.className === 'pbar') && progRows()[0].all().some((e) => e.tag === 'button' && e.className.includes('open')));
+t('progress: a lesson row has a short title, a count and an open button, and no progress bar', progRows()[0].all().some((e) => e.className === 'ptitle' && (e.textContent || '').length > 0) && !progRows()[0].all().some((e) => e.className === 'pbar') && progRows()[0].all().some((e) => e.tag === 'button' && e.className.includes('open')));
 const chips = () => byId['all-words'].all().filter((e) => e.className.split(' ').includes('lesson-chip'));
 const wordsHeading = () => byId['all-words'].children.filter((e) => e.tag === 'h3').map((e) => e.textContent).join();
 const wordCount = () => byId['all-words'].children.filter((e) => e.tag === 'ul').reduce((n, ul) => n + ul.children.length, 0);

@@ -59,6 +59,17 @@ function pickDictation(notes, max, rand = Math.random) {
   return max ? pool.slice(0, max) : pool;
 }
 
+// A short name for a lesson in the Progress list: the lesson's own title_ua when it has one, otherwise the title of its first rule card
+// (the main topic, e.g. "Майбутній час: ću, ćeš, će + інфінітив"), otherwise the title of the reading text. Brackets are dropped and a long
+// title is cut at a comma or a space and ends with an ellipsis, so one line of the list stays one line.
+function shortLessonTitle(lesson, max = 44) {
+  const rules = Array.isArray(lesson.rule) ? lesson.rule : lesson.rule ? [lesson.rule] : [];
+  let t = String(lesson.title_ua || (rules[0] && rules[0].title_ua) || (lesson.reading && lesson.reading.title_ua) || '').replace(/ ?\([^)]*\)/g, '').replace(/ +/g, ' ').trim();
+  if (t.length <= max) return t;
+  const cut = t.slice(0, max), at = Math.max(cut.lastIndexOf(','), cut.lastIndexOf(' '));
+  return (at > 12 ? cut.slice(0, at) : cut).replace(/[,:;\s]+$/, '') + '…';
+}
+
 // Which lesson to open: the one the learner was on (it survives a page reload); only on the very first visit,
 // when nothing is remembered, the first lesson that is not done yet.
 function startIndex(lessons, rememberedId, isDone) {
@@ -108,7 +119,7 @@ const dictationNotes = (lesson, ex, allLessons = [lesson]) => {
 const flaggedNotes = (lessons, verified = {}) => lessons.flatMap((L) => L.notes.filter((n) => n.check && !verified[n.id]).map((note) => ({ order: L.order, note })));
 
 if (typeof document === 'undefined') {
-  module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, dictationNotes, flaggedNotes, sentenceOf };
+  module.exports = { AUDIO_BASES, startIndex, frontierIndex, deckLastIndex, pickDictation, rulesOf, norm, isAccepted, display, pluralText, splitTerms, richParts, shortLessonTitle, dictationNotes, flaggedNotes, sentenceOf };
 } else {
   const LESSONS = window.LESSONS;
   // The language of this page (lesson.html loads one language's files): its name, teacher and UI words. Defaults = the first language.
@@ -682,10 +693,10 @@ if (typeof document === 'undefined') {
       const { pct, count, parts, readDone } = PS.lessonProgress(L, state, READ_OPTS);
       const row = el('div', 'prow' + (done ? ' done' : cur ? ' cur' : ''));
       row.title = count ? `${count} з ${parts} частин практики виконано · ${pct}%${readDone || !READ_REQUIRED ? '' : ' · немає запису читання'}` : '';
-      const bar = el('span', 'pbar'), fill = el('i'); fill.setAttribute('style', `width:${count ? pct : 0}%`); bar.append(fill);
       const open = el('button', 'btn open'); open.append(playIcon()); open.title = `Відкрити ${LESSON_WORD} ${L.order}`; open.setAttribute('aria-label', `Відкрити ${LESSON_WORD} ${L.order}`);
       open.onclick = () => { renderLesson(i); show('today'); };
-      row.append(el('span', 'pl', `${LESSON_WORD} ${L.order}`), el('span', 'pst', done ? 'пройдено' : cur ? 'поточний' : 'чекає'), bar, el('span', 'pn', count ? `${count}/${parts} · ${pct}%` : '-'));
+      const full = shortLessonTitle(L, 400), tt = el('span', 'ptitle', shortLessonTitle(L)); tt.title = full;
+      row.append(el('span', 'pl', `${LESSON_WORD} ${L.order}`), tt, el('span', 'pst', done ? 'пройдено' : cur ? 'поточний' : 'чекає'), el('span', 'pn', count ? `${count}/${parts} · ${pct}%` : '-'));
       if (count && !readDone && READ_REQUIRED) row.append(el('span', 'pnr', 'без запису'));
       row.append(open);
       grid.append(row);
