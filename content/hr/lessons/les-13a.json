@@ -1,0 +1,749 @@
+{
+  "id": "hr-les-13a",
+  "lang": "hr",
+  "order": 13.5,
+  "title_ua": "Повторення: клітики, вид після ću",
+  "status": "draft",
+  "author": "josip",
+  "kind": "repair",
+  "service_words": [
+    "brat",
+    "majka",
+    "otac",
+    "sestra",
+    "učiteljica",
+    "učitelj",
+    "dijete",
+    "baka",
+    "škola",
+    "školi",
+    "školu",
+    "gradu",
+    "grad",
+    "poruka",
+    "poruku",
+    "knjigu",
+    "zadaću",
+    "kruh",
+    "petak",
+    "sutra",
+    "prekosutra",
+    "poslije",
+    "navečer",
+    "ljeti",
+    "idući",
+    "tjedan",
+    "me",
+    "te",
+    "ga",
+    "ju",
+    "je",
+    "nas",
+    "vas",
+    "ih",
+    "mene",
+    "tebe",
+    "njega",
+    "nju",
+    "njoj",
+    "koga",
+    "zove",
+    "zoveš",
+    "čeka",
+    "čekam",
+    "pita",
+    "vidi",
+    "gleda",
+    "ću",
+    "ćeš",
+    "će",
+    "ćemo",
+    "hoće",
+    "hoćeš",
+    "li",
+    "ostati",
+    "ostajati",
+    "posjetiti",
+    "posjećivati",
+    "pročitati",
+    "čitati",
+    "napisati",
+    "pisati",
+    "doći",
+    "dolaziti",
+    "kupiti",
+    "kupovati",
+    "ići",
+    "danas",
+    "poštu",
+    "park",
+    "dajem",
+    "sok",
+    "za",
+    "u",
+    "na",
+    "ja",
+    "mi",
+    "koga",
+    "tata",
+    "kupit"
+  ],
+  "notes": [],
+  "rule": [
+    {
+      "title_ua": "Клітик на другому місці: Brat me zove",
+      "summary_ua": "Короткі me, te, ga, nas, vas, ih стоять на ДРУГОМУ місці: або відразу після дієслова, якщо дієслово перше (Zovem te), або відразу після першого слова (Brat me zove). Українською «брат кличе мене»: займенник після дієслова. Хорватською так не можна: «Brat zove me» хибне. Довгі форми (mene, tebe, nju, njega) стоять після za, на початку речення або самі. І стеж за відмінком: Koga? mene, nju (кого); Komu? meni, njoj (кому).",
+      "compare": [
+        {
+          "form": "підмет перший, клітик другий, дієслово третє",
+          "when_ua": "Brat me zove. Majka te čeka. Клітик одразу за підметом, дієслово за ним.",
+          "examples": [
+            {
+              "text": "Brat me zove.",
+              "ua": "Брат кличе мене."
+            },
+            {
+              "text": "Otac te čeka u školi.",
+              "ua": "Тато чекає тебе в школі."
+            },
+            {
+              "text": "Majka vas zove.",
+              "ua": "Мама кличе вас."
+            },
+            {
+              "text": "Sestra nas pita.",
+              "ua": "Сестра питає нас."
+            }
+          ],
+          "note_ua": "Тут українська НЕ допомагає: «кличе мене» там дієслово йде перед мене, а хорватською me йде перед zove. Не «Brat zove me»."
+        },
+        {
+          "form": "дієслово перше: клітик за ним",
+          "when_ua": "Коли речення починається з дієслова, клітик стоїть другим, тобто після нього.",
+          "examples": [
+            {
+              "text": "Zovem te sutra.",
+              "ua": "Кличу тебе завтра."
+            }
+          ],
+          "note_ua": "Правило одне: клітик другий. Якщо перше слово дієслово, клітик за ним; якщо підмет, клітик за підметом."
+        },
+        {
+          "form": "довгі форми: mene / meni, nju / njoj",
+          "when_ua": "Після za, на початку речення або самі. Кого? mene, nju, njega. Кому? meni, njoj, njemu.",
+          "examples": [
+            {
+              "text": "Knjiga je za mene.",
+              "ua": "Книжка для мене."
+            },
+            {
+              "text": "Koga zoveš? Nju.",
+              "ua": "Кого ти кличеш? Її."
+            },
+            {
+              "text": "Njega čeka majka.",
+              "ua": "Його чекає мама."
+            }
+          ],
+          "note_ua": "Тут допомагає УКРАЇНСЬКА: мене = mene (кого), мені = meni (кому); її = nju (кого), їй = njoj (кому). Питання «кого?» дає знахідний, «кому?» дає давальний."
+        }
+      ],
+      "points_ua": [
+        "Клітик другий: Brat me zove, Zovem te. Не «Brat zove me».",
+        "Після za і на початку речення: довга форма (za mene, Njega čeka majka).",
+        "Кого? mene, nju. Кому? meni, njoj."
+      ]
+    },
+    {
+      "title_ua": "Вид після ću / hoće: ću ostati, hoće li doći?",
+      "summary_ua": "Після ću, ćeš, će і hoće li інфінітив має вид, який ти б сказала українською. Одне слово в майбутньому (залишуся, відвідаю, прочитаю, прийде) = доконаний інфінітив: ću ostati, ću posjetiti, ću pročitati, hoće li doći. «Буду + інфінітив» (буду читати) = недоконаний: ću čitati. Тут українська допомагає майже без втрат. І ще: пиши ć у ću, hoće, ići: не «ču», не «Hoče», не «iči».",
+      "compare": [
+        {
+          "form": "одна завершена дія: доконаний",
+          "when_ua": "Українською одне слово: залишуся, відвідаю, прочитаю. Хорватською ću + доконаний інфінітив.",
+          "examples": [
+            {
+              "text": "Idući tjedan ću ostati u gradu.",
+              "ua": "Наступного тижня залишуся в місті."
+            },
+            {
+              "text": "Ljeti ću posjetiti baku.",
+              "ua": "Влітку відвідаю бабусю."
+            },
+            {
+              "text": "Prekosutra ću napisati zadaću.",
+              "ua": "Післязавтра напишу домашнє завдання."
+            }
+          ],
+          "note_ua": "Не «ću ostajati» і не «ću posjećivati»: тут дія одна й завершена."
+        },
+        {
+          "form": "процес або повторення: недоконаний",
+          "when_ua": "Українською «буду читати»: ću + недоконаний інфінітив.",
+          "examples": [
+            {
+              "text": "Navečer ću čitati knjigu.",
+              "ua": "Увечері буду читати книжку."
+            }
+          ],
+          "note_ua": "Чітка межа: хочеш сказати «дочитаю до кінця», бери pročitati; хочеш «буду займатися цим», бери čitati."
+        },
+        {
+          "form": "hoće li: питання про одну подію",
+          "when_ua": "Питання «чи прийде?» про одну подію: hoće li + доконаний.",
+          "examples": [
+            {
+              "text": "Hoće li majka doći u školu?",
+              "ua": "Чи прийде мама до школи?"
+            }
+          ],
+          "note_ua": "Hoće li doći, не «Hoće li dolaziti». І пиши hoće з ć."
+        }
+      ],
+      "points_ua": [
+        "Одне слово українською (залишуся) = доконаний: ću ostati.",
+        "«Буду читати» = недоконаний: ću čitati.",
+        "ć, не č: ću, hoće, ići."
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "text": "Brat me zove.",
+      "ua": "Брат кличе мене."
+    },
+    {
+      "text": "Otac te čeka u školi.",
+      "ua": "Тато чекає тебе в школі."
+    },
+    {
+      "text": "Majka vas zove.",
+      "ua": "Мама кличе вас."
+    },
+    {
+      "text": "Sestra nas pita.",
+      "ua": "Сестра питає нас."
+    },
+    {
+      "text": "Zovem te sutra.",
+      "ua": "Кличу тебе завтра."
+    },
+    {
+      "text": "Njega čeka majka.",
+      "ua": "Його чекає мама."
+    },
+    {
+      "text": "Knjiga je za mene.",
+      "ua": "Книжка для мене."
+    },
+    {
+      "text": "Koga zoveš? Nju.",
+      "ua": "Кого ти кличеш? Її."
+    },
+    {
+      "text": "Idući tjedan ću ostati u gradu.",
+      "ua": "Наступного тижня залишуся в місті."
+    },
+    {
+      "text": "Prekosutra ću napisati zadaću.",
+      "ua": "Післязавтра напишу домашнє завдання."
+    },
+    {
+      "text": "Navečer ću čitati knjigu.",
+      "ua": "Увечері буду читати книжку."
+    },
+    {
+      "text": "Hoće li majka doći u školu?",
+      "ua": "Чи прийде мама до школи?"
+    },
+    {
+      "text": "Ljeti ću posjetiti baku.",
+      "ua": "Влітку відвідаю бабусю."
+    }
+  ],
+  "reading": {
+    "title": "Sutra u školi",
+    "title_ua": "Завтра в школі",
+    "highlight": [],
+    "sentences": [
+      {
+        "text": "Sutra ću biti u školi.",
+        "ua": "Завтра я буду в школі."
+      },
+      {
+        "text": "Učitelj me čeka u razredu.",
+        "ua": "Вчитель чекає мене в класі."
+      },
+      {
+        "text": "Brat će doći u petak.",
+        "ua": "Брат прийде в п'ятницю."
+      },
+      {
+        "text": "Poslije ću pisati zadaću.",
+        "ua": "Потім буду писати домашнє завдання."
+      },
+      {
+        "text": "Majka će ostati u gradu.",
+        "ua": "Мама залишиться в місті."
+      },
+      {
+        "text": "Sestra nas gleda.",
+        "ua": "Сестра дивиться на нас."
+      },
+      {
+        "text": "Tebe zove učiteljica.",
+        "ua": "Тебе кличе вчителька."
+      }
+    ]
+  },
+  "practice": [
+    {
+      "type": "listening",
+      "instruction_ua": "Послухай речення. Відповідай одним словом. Текст можна показати після відповідей.",
+      "audio": "hr-les-13a-clitics.mp3",
+      "audio_text": "Brat me zove. Majka vas čeka u školi. Prekosutra ću ostati u gradu. Hoće li otac doći u petak? Poruka je za nju.",
+      "items": [
+        {
+          "prompt": "Кого кличе брат: мене (me) чи тебе (te)? Одне слово.",
+          "accepted": [
+            "me"
+          ]
+        },
+        {
+          "prompt": "Кого чекає мама в школі: нас (nas) чи вас (vas)? Одне слово.",
+          "accepted": [
+            "vas"
+          ]
+        },
+        {
+          "prompt": "Де я залишуся післязавтра? Одне слово.",
+          "accepted": [
+            "gradu",
+            "u gradu"
+          ]
+        },
+        {
+          "prompt": "Коли, можливо, прийде тато? Одне слово.",
+          "accepted": [
+            "petak",
+            "u petak"
+          ]
+        },
+        {
+          "prompt": "Для кого повідомлення: для нього (njega) чи для неї (nju)? Одне слово.",
+          "accepted": [
+            "nju"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "translate",
+      "instruction_ua": "Переклади хорватською. Займенник без підкреслення: коротка форма.",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Брат кличе тебе.",
+          "accepted": [
+            "Brat te zove."
+          ]
+        },
+        {
+          "prompt": "Мама чекає тебе.",
+          "accepted": [
+            "Majka te čeka."
+          ]
+        },
+        {
+          "prompt": "Вчителька питає нас.",
+          "accepted": [
+            "Učiteljica nas pita."
+          ]
+        },
+        {
+          "prompt": "Тато бачить вас.",
+          "accepted": [
+            "Otac vas vidi.",
+            "Tata vas vidi."
+          ]
+        },
+        {
+          "prompt": "Сестра кличе його.",
+          "accepted": [
+            "Sestra ga zove."
+          ]
+        },
+        {
+          "prompt": "Я чекаю тебе.",
+          "accepted": [
+            "Čekam te.",
+            "Ja te čekam."
+          ]
+        },
+        {
+          "prompt": "Це повідомлення для неї.",
+          "accepted": [
+            "Poruka je za nju."
+          ]
+        },
+        {
+          "prompt": "Тебе кличе вчитель.",
+          "accepted": [
+            "Tebe zove učitelj."
+          ]
+        },
+        {
+          "prompt": "Завтра я залишуся в місті.",
+          "accepted": [
+            "Sutra ću ostati u gradu.",
+            "Ja ću sutra ostati u gradu.",
+            "Ostati ću sutra u gradu."
+          ]
+        },
+        {
+          "prompt": "У п'ятницю я відвідаю бабусю.",
+          "accepted": [
+            "U petak ću posjetiti baku.",
+            "Ja ću u petak posjetiti baku."
+          ]
+        },
+        {
+          "prompt": "Увечері я прочитаю повідомлення.",
+          "accepted": [
+            "Navečer ću pročitati poruku.",
+            "Ja ću navečer pročitati poruku."
+          ]
+        },
+        {
+          "prompt": "Чи брат прийде?",
+          "accepted": [
+            "Hoće li brat doći?"
+          ]
+        },
+        {
+          "prompt": "Чи ти будеш читати ввечері?",
+          "accepted": [
+            "Hoćeš li čitati navečer?",
+            "Hoćeš li navečer čitati?"
+          ]
+        },
+        {
+          "prompt": "Ми купимо хліб.",
+          "accepted": [
+            "Mi ćemo kupiti kruh.",
+            "Kupit ćemo kruh.",
+            "Kupiti ćemo kruh."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "gaps",
+      "instruction_ua": "Вибери слово зі списку й встав його в потрібній формі",
+      "bank": [
+        "me",
+        "te",
+        "ga",
+        "nas",
+        "vas",
+        "ih",
+        "tebe",
+        "mene",
+        "nju",
+        "njoj",
+        "ostati",
+        "posjetiti",
+        "pročitati",
+        "hoće",
+        "ići",
+        "ću"
+      ],
+      "items": [
+        {
+          "example": true,
+          "text": "Sestra ___ zove.",
+          "hint": "Сестра кличе мене.",
+          "accepted": [
+            [
+              "me"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ čeka.",
+          "hint": "Мама чекає тебе.",
+          "accepted": [
+            [
+              "te"
+            ]
+          ]
+        },
+        {
+          "text": "Učitelj ___ pita.",
+          "hint": "Вчитель питає його.",
+          "accepted": [
+            [
+              "ga"
+            ]
+          ]
+        },
+        {
+          "text": "Otac ___ vidi.",
+          "hint": "Тато бачить нас.",
+          "accepted": [
+            [
+              "nas"
+            ]
+          ]
+        },
+        {
+          "text": "Sestra ___ zove.",
+          "hint": "Сестра кличе вас.",
+          "accepted": [
+            [
+              "vas"
+            ]
+          ]
+        },
+        {
+          "text": "Majka ___ čeka u školi.",
+          "hint": "Мама чекає їх у школі.",
+          "accepted": [
+            [
+              "ih"
+            ]
+          ]
+        },
+        {
+          "text": "Poruka je za ___.",
+          "hint": "Повідомлення для тебе.",
+          "accepted": [
+            [
+              "tebe"
+            ]
+          ]
+        },
+        {
+          "text": "Koga čekaš? ___.",
+          "hint": "Кого ти чекаєш? Мене.",
+          "accepted": [
+            [
+              "Mene",
+              "mene"
+            ]
+          ]
+        },
+        {
+          "text": "Knjiga je za ___.",
+          "hint": "Книжка для неї.",
+          "accepted": [
+            [
+              "nju"
+            ]
+          ]
+        },
+        {
+          "text": "Dajem sok ___.",
+          "hint": "Даю сік їй.",
+          "accepted": [
+            [
+              "njoj"
+            ]
+          ]
+        },
+        {
+          "text": "Ljeti ćemo ___ u gradu.",
+          "hint": "Влітку ми залишимося в місті.",
+          "accepted": [
+            [
+              "ostati"
+            ]
+          ]
+        },
+        {
+          "text": "Poslije ću ___ sestru.",
+          "hint": "Потім відвідаю сестру.",
+          "accepted": [
+            [
+              "posjetiti"
+            ]
+          ]
+        },
+        {
+          "text": "Idući tjedan ću ___ knjigu.",
+          "hint": "Наступного тижня прочитаю книжку.",
+          "accepted": [
+            [
+              "pročitati"
+            ]
+          ]
+        },
+        {
+          "text": "___ li brat doći u petak?",
+          "hint": "Чи прийде брат у п'ятницю?",
+          "accepted": [
+            [
+              "Hoće",
+              "hoće"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra ću ___ na poštu.",
+          "hint": "Завтра піду на пошту.",
+          "accepted": [
+            [
+              "ići"
+            ]
+          ]
+        },
+        {
+          "text": "Sutra ___ ići u park.",
+          "hint": "Завтра піду до парку.",
+          "accepted": [
+            [
+              "ću"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "transform",
+      "instruction_ua": "Перетвори речення, як показує стрілка, або виправ помилку",
+      "items": [
+        {
+          "example": true,
+          "prompt": "Sestra zove me.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sestra me zove."
+          ]
+        },
+        {
+          "prompt": "Majka čeka me.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Majka me čeka."
+          ]
+        },
+        {
+          "prompt": "Učiteljica zove te.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Učiteljica te zove."
+          ]
+        },
+        {
+          "prompt": "Otac čeka nas.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Otac nas čeka."
+          ]
+        },
+        {
+          "prompt": "Sestra pita ga.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sestra ga pita."
+          ]
+        },
+        {
+          "prompt": "Dijete gleda vas.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Dijete vas gleda."
+          ]
+        },
+        {
+          "prompt": "Poruka je za njoj.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Poruka je za nju."
+          ]
+        },
+        {
+          "prompt": "Koga zoveš? Meni.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Koga zoveš? Mene."
+          ]
+        },
+        {
+          "prompt": "Poslije ću ostajati u školi.",
+          "cue": "-> виправ помилку: дія одна, завершена",
+          "accepted": [
+            "Poslije ću ostati u školi."
+          ]
+        },
+        {
+          "prompt": "Sutra ću posjećivati baku.",
+          "cue": "-> виправ помилку: дія одна, завершена",
+          "accepted": [
+            "Sutra ću posjetiti baku."
+          ]
+        },
+        {
+          "prompt": "Hoće li brat dolaziti sutra?",
+          "cue": "-> виправ помилку: дія одна, завершена",
+          "accepted": [
+            "Hoće li brat doći sutra?"
+          ]
+        },
+        {
+          "prompt": "Hoče li brat doći?",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Hoće li brat doći?"
+          ]
+        },
+        {
+          "prompt": "Sutra ču ići na poštu.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Sutra ću ići na poštu."
+          ]
+        },
+        {
+          "prompt": "Želim iči u park.",
+          "cue": "-> виправ помилку",
+          "accepted": [
+            "Želim ići u park."
+          ]
+        },
+        {
+          "prompt": "Čekam te.",
+          "cue": "-> почни з Danas",
+          "accepted": [
+            "Danas te čekam."
+          ]
+        },
+        {
+          "prompt": "Majka čeka tebe.",
+          "cue": "-> питання з koga",
+          "accepted": [
+            "Koga čeka majka?",
+            "Koga majka čeka?"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "instruction_ua": "Послухай і напиши слово (з діакритикою). Це слова, де ć, ije / je або відмінок підводили.",
+      "words": [
+        "ići",
+        "ću",
+        "ljeto",
+        "svjež",
+        "mene",
+        "posjećivati",
+        "ostajati",
+        "prekosutra",
+        "poslije",
+        "čekati"
+      ],
+      "max": 10
+    }
+  ]
+}
