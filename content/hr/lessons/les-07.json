@@ -115,16 +115,43 @@
       "audio": "hr-kostati.mp3",
       "forms": [
         "košta",
-        "koštaju"
+        "koštaju",
+        "koštaš",
+        "koštamo",
+        "koštate"
       ],
-      "explain_ua": "(Koliko košta kruh? = скільки коштує хліб?). Вживається майже лише в 3 особі: košta (одне) і koštaju (кілька): Koliko koštaju jabuke? Тип -am. Без пари",
+      "explain_ua": "(Koliko košta kruh? = скільки коштує хліб?). Про ціну кажуть лише в 3 особі: košta (одне) і koštaju (кілька): Koliko koštaju jabuke? Форми ja koštam, ti koštaš, mi koštamo, vi koštate існують, але про ціну їх не вживають Тип -am. Без пари",
       "check": "Пару для koštati не вказано, чи є стандартний перфектив, не перевірено.",
       "paradigm": [
+        {
+          "pronoun": "ja",
+          "ua": "я",
+          "form": "koštam",
+          "audio": "hr-ja-kostam.mp3"
+        },
+        {
+          "pronoun": "ti",
+          "ua": "ти",
+          "form": "koštaš",
+          "audio": "hr-ti-kostas.mp3"
+        },
         {
           "pronoun": "on / ona / ono",
           "ua": "він / вона / воно",
           "form": "košta",
           "audio": "hr-on-kosta.mp3"
+        },
+        {
+          "pronoun": "mi",
+          "ua": "ми",
+          "form": "koštamo",
+          "audio": "hr-mi-kostamo.mp3"
+        },
+        {
+          "pronoun": "vi",
+          "ua": "ви",
+          "form": "koštate",
+          "audio": "hr-vi-kostate.mp3"
         },
         {
           "pronoun": "oni / one / ona",
